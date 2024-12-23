@@ -5858,7 +5858,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ## § 3851a. Forest Service participation in ACES Program
 **(a) In general** The Secretary, acting through the Chief of the Forest Service, may use funds derived from conservation-related programs executed on National Forest System land to utilize the Agriculture Conservation Experienced Services Program established pursuant to [section 3851 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3851) to provide technical services for conservation-related programs and authorities carried out by the Secretary on National Forest System land.
 
-**(b) Termination of effectiveness** The authority provided to the Secretary to carry out this section terminates effective October 1, 2023.
+**(b) Termination of effectiveness** The authority provided to the Secretary to carry out this section terminates effective October 1, 2023.11 See Extension of Forest Service Participation in Aces Program note below.
 
 ### Statutory Notes
 
@@ -5867,6 +5867,9 @@ Section was enacted as part of the Agricultural Act of 2014, and not as part of 
 
 #### Amendments
 2018—Pub. L. 115–334 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### Extension of Forest Service Participation in Aces Program
+Pub. L. 118–83, div. B, title I, § 106, Sept. 26, 2024, 138 Stat. 1535, provided that: “Section 8302(b) of the Agricultural Act of 2014 ([16 U.S.C. 3851a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3851a/b&num=0&edition=prelim)) shall be applied by substituting ‘1 day after December 20, 2024’ for ‘October 1, 2023’.”
 
 #### Definition of “Secretary”
 “Secretary” as meaning the Secretary of Agriculture, see [section 9001 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9001&num=0&edition=prelim), Agriculture.

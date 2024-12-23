@@ -69,6 +69,11 @@ The Social Security Act, referred to in par. (14), is act Aug. 14, 1935, ch. 531
 
 “(6) although substantial progress has been made in recent years in identifying possible leads to the causes of Alzheimer’s disease and related dementias and more progress can be expected in the near future, there is little likelihood of a breakthrough in the foreseeable future which would eliminate or substantially reduce the number of individuals with such disease and dementias or the difficulties of caring for such individuals;”.
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–93, § 1, Oct. 1, 2024, 138 Stat. 1565, provided that: “This Act [amending section [section 11225 of this title](./chapter-118-alzheimers-disease-and-related-dementias-research.md#section-11225)] may be cited as the ‘Alzheimer’s Accountability and Investment Act’.”
+
+Pub. L. 118–92, § 1, Oct. 1, 2024, 138 Stat. 1562, provided that: “This Act [amending section [section 11225 of this title](./chapter-118-alzheimers-disease-and-related-dementias-research.md#section-11225)] may be cited as the ‘NAPA Reauthorization Act’.”
+
 #### Short Title of 2011 Amendment
 Pub. L. 111–375, § 1, Jan. 4, 2011, 124 Stat. 4100, provided that: “This Act [enacting subchapter III–A of this chapter] may be cited as the ‘National Alzheimer’s Project Act’.”
 
@@ -114,19 +119,23 @@ Section 11223, Pub. L. 99–660, title IX, § 923, Nov. 14, 1986, 100 Stat. 3807
 
 (1) be responsible for the creation and maintenance of an integrated national plan to overcome Alzheimer’s;
 
-(2) provide information and coordination of Alzheimer’s research and services across all Federal agencies;
+(2) provide information on, and coordination of, Alzheimer’s research and services across all Federal agencies;
 
 (3) accelerate the development of treatments that would prevent, halt, or reverse the course of Alzheimer’s;
 
 (4) improve the—
 
-  (A) early diagnosis of Alzheimer’s disease; and
+  (A) promotion of healthy aging and reduction and mitigation of risk factors for Alzheimer’s;
 
-  (B) coordination of the care and treatment of citizens with Alzheimer’s;
+  (B) early diagnosis of Alzheimer’s disease; and
 
-(5) ensure the inclusion of ethnic and racial populations at higher risk for Alzheimer’s or least likely to receive care, in clinical, research, and service efforts with the purpose of decreasing health disparities in Alzheimer’s; and
+  (C) coordination of the care and treatment of citizens with Alzheimer’s;
 
-(6) coordinate with international bodies to integrate and inform the fight against Alzheimer’s globally.
+(5) ensure the inclusion of ethnic and racial populations and other underserved populations, including individuals with developmental disabilities such as Down syndrome, at higher risk for Alzheimer’s or least likely to receive care, in clinical, research, and service efforts with the purpose of decreasing health disparities in Alzheimer’s;
+
+(6) provide information on, and promote the adoption of, healthy behaviors that may reduce the risk of cognitive decline and promote and protect cognitive health; and
+
+(7) coordinate with international bodies to integrate and inform the fight against Alzheimer’s globally.
 
 **(d) Duties of the Secretary**
 
@@ -136,7 +145,7 @@ Section 11223, Pub. L. 99–660, title IX, § 923, Nov. 14, 1986, 100 Stat. 3807
 
   (B) use discretionary authority to evaluate all Federal programs around Alzheimer’s, including budget requests and approvals.
 
-(2) **National plan** — The Secretary of Health and Human Services, or the Secretary’s designee, shall carry out an annual assessment of the Nation’s progress in preparing for the escalating burden of Alzheimer’s, including both implementation steps and recommendations for priority actions based on the assessment.
+(2) **National plan** — The Secretary of Health and Human Services, or the Secretary’s designee, shall carry out an annual assessment of the Nation’s progress, across public and private sectors, in preparing for the escalating burden of Alzheimer’s, including both implementation steps and recommendations for priority actions based on the assessment, including consideration of public-private collaborations, as appropriate.
 
 **(e) Advisory Council**
 
@@ -166,7 +175,15 @@ Section 11223, Pub. L. 99–660, title IX, § 923, Nov. 14, 1986, 100 Stat. 3807
 
     (x) A designee of the Agency for Healthcare Research and Quality.
 
-  (B) *Non-Federal members* — In addition to the members outlined in subparagraph (A), the Advisory Council shall include 12 expert members from outside the Federal Government, which shall include—
+    (xi) A designee of the Department of Justice.
+
+    (xii) A designee of the Federal Emergency Management Agency.
+
+    (xiii) A designee of the Social Security Administration.
+
+    (xiv) 2 or more other designees, as determined by the Secretary of Health and Human Services, at least one of whom has expertise in risk factors associated with the development or the progression of Alzheimer’s.
+
+  (B) *Non-Federal members* — In addition to the members outlined in subparagraph (A), the Advisory Council shall include 15 expert members from outside the Federal Government, which shall include—
 
     (i) 2 Alzheimer’s patient advocates;
 
@@ -176,9 +193,13 @@ Section 11223, Pub. L. 99–660, title IX, § 923, Nov. 14, 1986, 100 Stat. 3807
 
     (iv) 2 representatives of State health departments;
 
-    (v) 2 researchers with Alzheimer’s-related expertise in basic, translational, clinical, or drug development science; and
+    (v) 3 researchers with Alzheimer’s-related expertise in basic, translational, clinical, or drug development science, including at least one researcher with demonstrated experience in recruitment and retention of underrepresented groups into research or clinical trials related to dementia;
 
-    (vi) 2 voluntary health association representatives, including a national Alzheimer’s disease organization that has demonstrated experience in research, care, and patient services, and a State-based advocacy organization that provides services to families and professionals, including information and referral, support groups, care consultation, education, and safety services.
+    (vi) 2 voluntary health association representatives, including a national Alzheimer’s disease organization that has demonstrated experience in research, care, and patient services, and a State-based advocacy organization that provides services to families and professionals, including information and referral, support groups, care consultation, education, and safety services;
+
+    (vii) 1 individual with a diagnosis of Alzheimer’s disease; and
+
+    (viii) 1 representative from a historically underserved population whose lifetime risk for developing Alzheimer’s is markedly higher than that of other populations.
 
 (3) **Meetings** — The Advisory Council shall meet quarterly and such meetings shall be open to the public.
 
@@ -186,11 +207,11 @@ Section 11223, Pub. L. 99–660, title IX, § 923, Nov. 14, 1986, 100 Stat. 3807
 
 (5) **Annual report** — The Advisory Council shall provide to the Secretary of Health and Human Services, or the Secretary’s designee and Congress—
 
-  (A) an initial evaluation of all federally funded efforts in Alzheimer’s research, clinical care, and institutional-, home-, and community-based programs and their outcomes;
+  (A) annual evaluations of all federally funded efforts in Alzheimer’s research, risk reduction, public health, clinical care, and institutional-, home-, and community-based programs and their outcomes;
 
-  (B) initial recommendations for priority actions to expand, eliminate, coordinate, or condense programs based on the program’s performance, mission, and purpose;
+  (B) recommendations for priority actions to expand, eliminate, coordinate, or condense programs based on the program’s performance, mission, and purpose;
 
-  (C) initial recommendations to—
+  (C) recommendations to—
 
     (i) reduce the financial impact of Alzheimer’s on—
 
@@ -198,17 +219,21 @@ Section 11223, Pub. L. 99–660, title IX, § 923, Nov. 14, 1986, 100 Stat. 3807
 
       (II) families living with Alzheimer’s disease; and
 
-    (ii) improve health outcomes; and
+    (ii) improve health outcomes and reduce disparities; and
 
-  (D) annually thereafter, an evaluation of the implementation, including outcomes, of the recommendations, including priorities if necessary, through an updated national plan under subsection (d)(2).
+  (D) annual evaluations of the implementation, including outcomes, of the recommendations, including priorities if necessary, through an updated national plan under subsection (d)(2).
 
-(6) **Termination** — The Advisory Council shall terminate on December 31, 2025.
+(6) **Termination** — The Advisory Council shall terminate on December 31, 2035.
 
 **(f) Data sharing** Agencies both within the Department of Health and Human Services and outside of the Department that have data relating to Alzheimer’s shall share such data with the Secretary of Health and Human Services, or the Secretary’s designee, to enable the Secretary, or the Secretary’s designee, to complete the report described in subsection (g).
 
 **(g) Annual report** The Secretary of Health and Human Services, or the Secretary’s designee, shall submit to Congress—
 
-(1) an annual report that includes an evaluation of all federally funded efforts in Alzheimer’s research, clinical care, and institutional-, home-, and community-based programs and their outcomes;
+(1) an annual report that includes—
+
+  (A) an evaluation; 11 So in original. The semicolon probably should not appear. of all federally funded efforts in Alzheimer’s research, clinical care, and institutional-, home-, and community-based programs and their outcomes; and
+
+  (B) a summary of the Secretary’s process for identifying and updating what conditions constitute Alzheimer’s disease;
 
 (2) an evaluation of all federally funded programs based on program performance, mission, and purpose related to Alzheimer’s disease;
 
@@ -222,7 +247,7 @@ Section 11223, Pub. L. 99–660, title IX, § 923, Nov. 14, 1986, 100 Stat. 3807
 
       (II) families living with Alzheimer’s disease; and
 
-    (ii) improve health outcomes;
+    (ii) improve health outcomes and reduce disparities;
 
   (B) implementation steps; and
 
@@ -230,15 +255,58 @@ Section 11223, Pub. L. 99–660, title IX, § 923, Nov. 14, 1986, 100 Stat. 3807
 
 (4) an annually updated national plan.
 
-**(h) Sunset** The Project shall expire on December 31, 2025.
+**(h) Professional judgment budget** For fiscal year 2024 and each subsequent fiscal year, the Director of the National Institutes of Health shall prepare and submit, directly to the President for review and transmittal to Congress, after reasonable opportunity for comment, but without change, by the Secretary of Health and Human Services and the Advisory Council, an annual budget estimate for the initiatives of the National Institutes of Health pursuant to the reports and recommendations made under this Act, including an estimate of the number and type of personnel needs for the National Institutes of Health.
+
+**(i) Sunset** The Project shall expire on December 31, 2035.
 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a), (b), and (e)(1), is Pub. L. 111–375, Jan. 4, 2011, 124 Stat. 4100, known as the National Alzheimer’s Project Act, which enacted this subchapter and provisions set out as a note under [section 11201 of this title](./chapter-118-alzheimers-disease-and-related-dementias-research.md#section-11201). For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under [section 11201 of this title](./chapter-118-alzheimers-disease-and-related-dementias-research.md#section-11201) and Tables.
+This Act, referred to in subsecs. (a), (b), (e)(1), and (h), is Pub. L. 111–375, Jan. 4, 2011, 124 Stat. 4100, known as the National Alzheimer’s Project Act, which enacted this subchapter and provisions set out as a note under [section 11201 of this title](./chapter-118-alzheimers-disease-and-related-dementias-research.md#section-11201). For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under [section 11201 of this title](./chapter-118-alzheimers-disease-and-related-dementias-research.md#section-11201) and Tables.
 
 #### Codification
 Section was enacted as part of the National Alzheimer’s Project Act, and not as part of the Alzheimer’s Disease and Related Dementias Research Act of 1992 which comprises this chapter.
+
+#### Amendments
+2024—Subsec. (c)(2). Pub. L. 118–92, § 2(1)(A), substituted “on, and coordination of,” for “and coordination of”.
+
+Subsec. (c)(4). Pub. L. 118–92, § 2(1)(B), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+
+Subsec. (c)(5). Pub. L. 118–92, § 2(1)(C), inserted “and other underserved populations, including individuals with developmental disabilities such as Down syndrome,” after “populations” and substituted semicolon at end for “; and”.
+
+Subsec. (c)(6), (7). Pub. L. 118–92, § 2(1)(D), (E), added par. (6) and redesignated former par. (6) as (7).
+
+Subsec. (d)(2). Pub. L. 118–92, § 2(2), inserted “, across public and private sectors,” after “Nation’s progress” and “, including consideration of public-private collaborations, as appropriate” before period at end.
+
+Subsec. (e)(2)(A)(xi) to (xiv). Pub. L. 118–92, § 2(3)(A)(i), added cls. (xi) to (xiv).
+
+Subsec. (e)(2)(B). Pub. L. 118–92, § 2(3)(A)(ii)(I), substituted “15” for “12” in introductory provisions.
+
+Subsec. (e)(2)(B)(v). Pub. L. 118–92, § 2(3)(A)(ii)(II), substituted “3 researchers” for “2 researchers” and “, including at least one researcher with demonstrated experience in recruitment and retention of underrepresented groups into research or clinical trials related to dementia;” for “; and”.
+
+Subsec. (e)(2)(B)(vii), (viii). Pub. L. 118–92, § 2(3)(A)(ii)(III), (IV), added cls. (vii) and (viii).
+
+Subsec. (e)(5)(A). Pub. L. 118–92, § 2(3)(B)(i), substituted “annual evaluations” for “an initial evaluation” and “research, risk reduction, public health, clinical” for “research, clinical”.
+
+Subsec. (e)(5)(B). Pub. L. 118–92, § 2(3)(B)(ii), struck out “initial” before “recommendations”.
+
+Subsec. (e)(5)(C). Pub. L. 118–92, § 2(3)(B)(iii)(I), struck out “initial” before “recommendations” in introductory provisions.
+
+Subsec. (e)(5)(C)(ii). Pub. L. 118–92, § 2(3)(B)(iii)(II), inserted “and reduce disparities” before the semicolon.
+
+Subsec. (e)(5)(D). Pub. L. 118–92, § 2(3)(B)(iv), substituted “annual evaluations” for “annually thereafter, an evaluation”.
+
+Subsec. (e)(6). Pub. L. 118–92, § 2(3)(C), substituted “2035” for “2025”.
+
+Subsec. (g)(1). Pub. L. 118–92, § 2(4)(A), substituted “that includes—” for “that includes”, designated remainder of existing provisions as subpar. (A), inserted semicolon after “an evaluation” and “and” after “their outcomes;”, and added subpar. (B).
+
+Subsec. (g)(3)(A)(ii). Pub. L. 118–92, § 2(4)(B), inserted “and reduce disparities” before the semicolon.
+
+Subsec. (h). Pub. L. 118–93, § 2(2), added subsec. (h). Former subsec. (h) redesignated (i).
+
+Pub. L. 118–92, § 2(5), substituted “2035” for “2025”.
+
+Subsec. (i). Pub. L. 118–93, § 2(1), redesignated subsec. (h) as (i).
 
 #### Annual Budget Estimate
 Pub. L. 113–235, div. G, title II, § 230, Dec. 16, 2014, 128 Stat. 2492, provided that: “Hereafter, for each fiscal year through fiscal year 2025, the Director of the National Institutes of Health shall prepare and submit directly to the President for review and transmittal to Congress, after reasonable opportunity for comment, but without change, by the Secretary of Health and Human Services and the Advisory Council on Alzheimer’s Research, Care, and Services, an annual budget estimate (including an estimate of the number and type of personnel needs for the Institutes) for the initiatives of the National Institutes of Health pursuant to the National Alzheimer’s Plan, as required under section 2(d)(2) of Public Law 111–375 [[42 U.S.C. 11225(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11225/d/2&num=0&edition=prelim)].”

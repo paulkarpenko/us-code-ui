@@ -1650,7 +1650,7 @@ Section, Pub. L. 110–234, title I, § 1501, May 22, 2008, 122 Stat. 990; Pub. 
 
 (1) **New contracts** — No forward price contract may be entered into under the program established under this section after September 30, 2023.
 
-(2) **Application** — No forward contract entered into under the program may extend beyond September 30, 2027.
+(2) **Application** — No forward contract entered into under the program may extend beyond September 30, 2028.
 
 ### Statutory Notes
 
@@ -1660,6 +1660,8 @@ The authorities provided by each provision of, and each amendment made by, Pub. 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2024—Subsec. (e)(2). Pub. L. 118–158 substituted “2028” for “2027”.
+
 2023—Subsec. (e)(2). Pub. L. 118–22 substituted “2027” for “2026”.
 
 2018—Subsec. (e)(1). Pub. L. 115–334, § 1402(a)(1), substituted “2023” for “2018”.
@@ -1669,6 +1671,9 @@ Subsec. (e)(2). Pub. L. 115–334, § 1402(a)(2), substituted “2026” for “
 2014—Subsec. (e)(1). Pub. L. 113–79, § 1424(1), substituted “2018” for “2012”.
 
 Subsec. (e)(2). Pub. L. 113–79, § 1424(2), substituted “2021” for “2015”.
+
+#### Effective Date of 2024 Amendment
+Amendment by Pub. L. 118–158 to be applied and administered as if enacted on Sept. 30, 2024, see section 4101(g) of Pub. L. 118–158, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 #### Effective Date of 2023 Amendment
 Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).

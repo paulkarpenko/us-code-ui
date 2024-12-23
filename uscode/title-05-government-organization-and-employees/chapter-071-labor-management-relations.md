@@ -380,7 +380,7 @@ Sec. 26. Effective date. This Order is effective on January 1, 1970, except sect
 Ex. Ord. No. 12871, Oct. 1, 1993, 58 F.R. 52201, as amended by Ex. Ord. No. 12983, Dec. 21, 1995, 60 F.R. 66855; Ex. Ord. No. 13156, § 1, May 17, 2000, 65 F.R. 31785, which established the National Partnership Council and required the head of certain Government agencies to implement labor-management partnerships to help reform Government, was revoked by Ex. Ord. No. 13203, Feb. 17, 2001, 66 F.R. 11227.
 
 #### Executive Order No. 13522
-Ex. Ord. No. 13522, Dec. 9, 2009, 74 F.R. 66203, which related to the establishment of the National Council on Federal Labor-Management Relations and implementation of labor-management forums, was revoked by Ex. Ord. No. 13812, Sept. 29, 2017, 82 F.R. 46367.
+Ex. Ord. No. 13522, Dec. 9, 2009, 74 F.R. 66203, which related to the establishment of the National Council on Federal Labor-Management Relations and implementation of labor-management forums, was revoked by Ex. Ord. No. 13812, Sept. 29, 2017, 82 F.R. 46367. Ex. Ord. No. 13812 was revoked, and Ex. Ord. No. 13522 was superseded, by Ex. Ord. No. 14119, §§ 6(a), 7(a), Mar. 6, 2024, 89 F.R. 17268, 17269, set out in a note under [section 50 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section50&num=0&edition=prelim), Labor.
 
 #### Extension of Term of National Council on Federal Labor-Management Relations
 Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under [section 1013 of this title](./chapter-010-federal-advisory-committees.md#section-1013).

@@ -1119,7 +1119,7 @@ Subsec. (e). Pub. L. 117–328, § 3503(a)(4)(A), substituted “360bbb–3, 364
 
 Subsec. (q)(3). Pub. L. 117–328, § 3305(b), added par. (3).
 
-Subsec. (ii). Pub. L. 117–328, § 3503(a)(4)(B)(ii), inserted “or required under [section 364a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section364a/a&num=0&edition=prelim)” after “report (as defined under section 379aa or 379aa–1 of this title.
+Subsec. (ii). Pub. L. 117–328, § 3503(a)(4)(B)(ii), inserted “or required under [section 364a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section364a/a&num=0&edition=prelim)” after “report (as defined under section 379aa or 379aa–1 of this title”.
 
 Pub. L. 117–328, § 3503(a)(4)(B)(i), substituted “364, 379aa, or 379aa–1 of this title) or” for “379aa or 379aa–1 of this title) or”.
 
@@ -19564,9 +19564,9 @@ Pub. L. 117–328, div. FF, title III, § 3306(b), Dec. 29, 2022, 136 Stat. 5834
 
     (ii) *Transfer after notice* — The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under clause (i) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification.
 
-(5) **Termination of authority** — The Secretary may not award any priority review vouchers under paragraph (1) after September 30, 2024, unless the rare pediatric disease product application—
+(5) **Termination of authority** — The Secretary may not award any priority review vouchers under paragraph (1) after December 20, 2024, unless the rare pediatric disease product application—
 
-  (A) is for a drug that, not later than September 30, 2024, is designated under subsection (d) as a drug for a rare pediatric disease; and
+  (A) is for a drug that, not later than December 20, 2024, is designated under subsection (d) as a drug for a rare pediatric disease; and
 
   (B) is, not later than September 30, 2026, approved under [section 355(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b/1&num=0&edition=prelim) or section 351(a) of the Public Health Service Act [[42 U.S.C. 262(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim)].
 
@@ -19672,6 +19672,8 @@ Subsection (b)(4)(A), referred to in subsec. (c)(4)(A), was part of subsec. (b)(
 The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2024—Subsec. (b)(5). Pub. L. 118–83 substituted “December 20, 2024” for “September 30, 2024” in introductory provisions and in subpar. (A).
+
 2021—Subsec. (a)(4)(A), (B). Pub. L. 117–9 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) is for a drug or biological product—
@@ -27417,7 +27419,7 @@ Pub. L. 108–130, § 4, Nov. 18, 2003, 117 Stat. 1370, provided that: “(a) Pu
 
     (i) increase the fee revenue amount for such fiscal year, if necessary to provide an operating reserve of not less than 12 weeks; or
 
-    (ii) if the Secretary has an operating reserve in excess of the number of weeks specified in subparagraph (C) for that fiscal year, the Secretary shall decrease the fee revenue amount to provide not more than the number of weeks specified in subparagraph (C) for that fiscal year.
+    (ii) if the Secretary has an operating reserve in excess of the number of weeks specified in subparagraph (C) for that fiscal year, the Secretary shall 11 So in original. The words “the Secretary shall” also appear at end of introductory provisions. decrease the fee revenue amount to provide not more than the number of weeks specified in subparagraph (C) for that fiscal year.
 
   (B) *Carryover user fees* — For purposes of this paragraph, the operating reserve of carryover user fees for the process for the review of animal drug applications does not include carryover user fees that have not been appropriated.
 

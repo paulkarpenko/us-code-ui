@@ -15977,9 +15977,11 @@ Amendment by Pub. L. 87–793 effective on first day of first pay period which b
 Pub. L. 117–263, div. I, title XCII, § 9204, Dec. 23, 2022, 136 Stat. 3864, provided that: “(a) In General.—The Secretary [of State] shall seek to increase the number of personnel within the Bureau of Global Talent Management and the Office of Civil Rights to address backlogs in hiring and investigations into complaints conducted by the Office of Civil Rights. “(b) Employment Targets.—The Secretary shall seek to employ—“(1) not fewer than 15 additional personnel in the Bureau of Global Talent Management and the Office of Civil Rights (compared to the number of personnel so employed as of the day before the date of the enactment of this Act [Dec. 23, 2022]) by the date that is 180 days after such date of enactment; and “(2) not fewer than 15 additional personnel in such Bureau and Office (compared to the number of personnel so employed as of the day before the date of the enactment of this Act) by the date that is 1 year after such date of enactment.”
 
 #### Extension of Authority
-Pub. L. 117–263, div. I, title XCVIII, § 9802(b), Dec. 23, 2022, 136 Stat. 3924, provided that: “Section 625(j)(1)(B) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2385(j)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2385/j/1/B&num=0&edition=prelim)) shall be applied by striking ‘October 1, 2010’ and inserting ‘September 30, 2024’.”
+Pub. L. 118–83, div. B, title I, § 111, Sept. 26, 2024, 138 Stat. 1537, provided that: “Section 625(j)(1)(B) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2385(j)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2385/j/1/B&num=0&edition=prelim)) shall be applied by striking ‘October 1, 2010’ and inserting ‘December 20, 2024’.”
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 117–263, div. I, title XCVIII, § 9802(b), Dec. 23, 2022, 136 Stat. 3924.
 
 Pub. L. 117–103, div. K, title VII, § 7034(l)(3), Mar. 15, 2022, 136 Stat. 623.
 

@@ -943,11 +943,11 @@ Pub. L. 114–113, div. L, title I, § 132, Dec. 18, 2015, 129 Stat. 2850, provi
 
 <a id="section-31309"></a>
 ## § 31309. Commercial driver’s license information system
-**(a) General Requirement.—** The Secretary of Transportation shall maintain an information system that will serve as a clearinghouse and depository of information about the licensing, identification, and disqualification of operators of commercial motor vehicles. The system shall be coordinated with activities carried out under section 31106. The Secretary shall consult with the States in carrying out this section.
+**(a) General Requirement.—** The Secretary of Transportation (referred to in this section as the “Secretary”) shall maintain an information system (referred to in this section as the “information system”) that will serve as a clearinghouse and depository of information about the licensing, identification, and disqualification of operators of commercial motor vehicles. The information system shall be coordinated with activities carried out under section 31106. The Secretary shall consult with the States in carrying out this section.
 
 **(b) Contents.—**
 
-(1) At a minimum, the information system under this section shall include for each operator of a commercial motor vehicle—
+(1) **In general.—** — At a minimum, the information system shall include for each operator of a commercial motor vehicle—
 
   (A) information the Secretary considers appropriate to ensure identification of the operator;
 
@@ -961,15 +961,45 @@ Pub. L. 114–113, div. L, title I, § 132, Dec. 18, 2015, 129 Stat. 2850, provi
 
   (F) whether the operator had a commercial motor vehicle driver’s license or learner’s permit revoked, suspended, or canceled by a State, lost the right to operate a commercial motor vehicle in a State for any period, or has been disqualified from operating a commercial motor vehicle.
 
-(2) The information system under this section must accommodate any unique identifiers required to minimize fraud or duplication of a commercial driver’s license or learner’s permit under section 31308(3).
+(2) **Requirement.—** — The information system must accommodate any unique identifiers required to minimize fraud or duplication of a commercial driver’s license or learner’s permit under section 31308(3).
 
 **(c) Availability of Information.—** Information in the information system shall be made available and subject to review and correction in accordance with the policy developed under section 31106(e).
 
-**(d) Fee System.—** The Secretary may establish a fee system for using the information system. Fees collected under this subsection in a fiscal year shall equal as nearly as possible the costs of operating the information system in that fiscal year. The Secretary shall deposit fees collected under this subsection in the Highway Trust Fund (except the Mass Transit Account).
+**(d) Authorized Operator.—** The Secretary may authorize a qualified entity (referred to in this section as the “authorized operator”)—
 
-**(e) Modernization Plan.—**
+(1) to operate, maintain, develop, modernize, and enhance the information system; and
 
-(1) **In general.—** — Not later than 120 days after the date of enactment of this subsection, the Secretary shall develop and publish a comprehensive national plan to modernize the information system under this section that—
+(2) to collect fees on behalf of the Secretary in accordance with subsection (e); and
+
+(3) to use any fees collected in accordance with that subsection.
+
+**(e) Fee System.—**
+
+(1) **In general.—** — The Secretary or the authorized operator, as applicable, may charge a reasonable fee for use of the information system.
+
+(2) **Amount of fees.—** — The total amount of fees collected under this subsection shall equal, as nearly as possible, the total amount necessary for the purposes and uses described in paragraph (3)(B).
+
+(3) **Use of fees.—** — Fees collected under this subsection shall—
+
+  (A) be credited to—
+
+    (i) an appropriation account; or
+
+    (ii) an account designated by the authorized operator; and
+
+  (B) be available only for the purposes of operating, maintaining, developing, modernizing, or enhancing, or any other use relating to, the information system, including for personnel and administration costs relating to the information system.
+
+(4) **Availability of amounts.—** — Fees collected under this subsection shall remain available until expended for a purpose or use described in paragraph (3)(B).
+
+(5) **Authorized operator.—** — If the Secretary designates an authorized operator under subsection (d)—
+
+  (A) the Secretary shall not be charged a fee for access to, use of, or data in the information system; and
+
+  (B) the Secretary shall have access to fee statements on a quarterly basis.
+
+**(f) Modernization Plan.—**
+
+(1) **In general.—** — Not later than 120 days after the date of enactment of this subsection, the Secretary shall develop and publish a comprehensive national plan to modernize the information system that—
 
   (A) complies with applicable Federal information technology security standards;
 
@@ -979,11 +1009,11 @@ Pub. L. 114–113, div. L, title I, § 132, Dec. 18, 2015, 129 Stat. 2850, provi
 
   (D) integrates the commercial driver’s license and the medical certificate; and
 
-  (E) provides a schedule for modernization of the system.
+  (E) provides a schedule for modernization of the information system.
 
 (2) **Consultation.—** — The plan shall be developed in consultation with representatives of the motor carrier industry, State safety enforcement agencies, and State licensing agencies designated by the Secretary.
 
-(3) **State funding of future efforts.—** — The plan shall specify that States will fund future efforts to modernize the commercial driver’s information system.
+(3) **State funding of future efforts.—** — The plan shall specify that States will fund future efforts to modernize the information system.
 
 (4) **Deadline for state participation.—**
 
@@ -999,9 +1029,9 @@ Pub. L. 114–113, div. L, title I, § 132, Dec. 18, 2015, 129 Stat. 2850, provi
 
     (ii) Time necessary to install, and test the operation of, such technology and equipment.
 
-(5) **Implementation.—** — The Secretary shall implement the plan developed under subsection (a) and modernize the information system under this section to meet the requirements of the plan.
+(5) **Implementation.—** — The Secretary shall implement the plan developed under subsection (a) and modernize the information system to meet the requirements of the plan.
 
-**(f) Funding.—** At the Secretary’s discretion, a State may use, subject to section 31313(a),11 See References in Text note below. the funds made available to the State under section 31313 1 to modernize its commercial driver’s license information system to be compatible with the modernized information system under this section.
+**(g) Funding.—** At the Secretary’s discretion, a State may use, subject to subsections (a)(2) and (b) of section 31313, the funds made available to the State under that section to modernize its commercial driver’s license information system to be compatible with the modernized information system under this section.
 
 ### Statutory Notes
 
@@ -1024,11 +1054,31 @@ In subsection (b), the text of 49 App.:2706(b)(1) is omitted as executed. The wo
 In subsection (f), the text of 49 App.:2706(g) and section 9105(b) of the Anti-Drug Abuse Act of 1988 (Public Law 100–690, 102 Stat. 4530) is omitted as obsolete.
 
 #### References in Text
-The date of enactment of this subsection, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
-
-Section 31313, referred to in subsec. (f), was amended generally by Pub. L. 114–94, div. A, title V, § 5104(a), Dec. 4, 2015, 129 Stat. 1527, and, as so amended, section relates to financial assistance program for implementation of commercial driver’s license program. Provisions contained in former section 31313(a) are now similar to those contained in section 31313(a)(2) and (b).
+The date of enactment of this subsection, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–156, § 2(a)(1), inserted “(referred to in this section as the ‘Secretary’)” after “Secretary of Transportation”, “referred to in this section as the ‘information system’)” after “an information system”, and “information” before “system shall be coordinated”.
+
+Subsec. (b)(1). Pub. L. 118–156, § 2(a)(2)(A), inserted heading, struck out “under this section” after “information system” in introductory provisions, and realigned margins of subpars. (A) to (F).
+
+Subsec. (b)(2). Pub. L. 118–156, § 2(a)(2)(B), inserted heading and struck out “under this section” after “information system”.
+
+Subsec. (d). Pub. L. 118–156, § 2(a)(6), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may establish a fee system for using the information system. Fees collected under this subsection in a fiscal year shall equal as nearly as possible the costs of operating the information system in that fiscal year. The Secretary shall deposit fees collected under this subsection in the Highway Trust Fund (except the Mass Transit Account).”
+
+Subsec. (e). Pub. L. 118–156, § 2(a)(6), added subsec. (e). Former subsec. (e) redesignated (f).
+
+Subsec. (e)(1). Pub. L. 118–156, § 2(a)(3)(A)(i), struck out “under this section” after “the information system” in introductory provisions.
+
+Subsec. (e)(1)(E). Pub. L. 118–156, § 2(a)(3)(A)(ii), inserted “information” after “of the”.
+
+Subsec. (e)(3). Pub. L. 118–156, § 2(a)(3)(B), struck out “commercial driver’s” before “information system”.
+
+Subsec. (e)(5). Pub. L. 118–156, § 2(a)(3)(C), struck out “under this section” after “information system”.
+
+Subsec. (f). Pub. L. 118–156, § 2(a)(5), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 118–156, § 2(a)(4), (5), redesignated subsec. (f) as (g) and substituted “subsections (a)(2) and (b) of section 31313” for “section 31313(a)” and “that section” for “section 31313”.
+
 2012—Subsec. (b)(2). Pub. L. 112–141, § 32933(e), substituted “section 31308(3)” for “section 31308(2)”.
 
 Subsec. (e)(4)(A). Pub. L. 112–141, § 32305(a)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: “The Secretary shall establish in the plan a date by which all States must be operating commercial driver’s license information systems that are compatible with the modernized information system under this section.”
@@ -1343,7 +1393,7 @@ Pub. L. 104–88, title IV, § 403(b), Dec. 29, 1995, 109 Stat. 956, provided th
 
 (20) The State shall revoke, suspend, or cancel the commercial driver’s license of an individual in accordance with regulations issued by the Secretary to carry out section 31310(g).
 
-(21) By the date established by the Secretary under section 31309(e)(4), the State shall be operating a commercial driver’s license information system that is compatible with the modernized commercial driver’s license information system under section 31309.
+(21) The State shall operate a commercial driver’s license information system that is compatible with the modernized commercial driver’s license information system under section 31309.
 
 (22) The State shall report a conviction of a foreign commercial driver by that State to the Federal Convictions and Withdrawal Database, or another information system designated by the Secretary to record the convictions. A report shall include—
 
@@ -1422,6 +1472,8 @@ Par. (3) of [section 31308 of this title](./chapter-313-commercial-motor-vehicle
 The date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (a)(23), (25), is the date of enactment of title II of div. C of Pub. L. 112–141, which was approved July 6, 2012.
 
 #### Amendments
+2024—Subsec. (a)(21). Pub. L. 118–156 substituted “The State shall operate” for “By the date established by the Secretary under section 31309(e)(4), the State shall be operating”.
+
 2015—Subsec. (a)(12)(C)(ii). Pub. L. 114–94 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “is a member of the active duty military, military reserves, National Guard, active duty United States Coast Guard, or Coast Guard Auxiliary; and”.
 
 2012—Subsec. (a)(5). Pub. L. 112–141, § 32305(b)(1)(A), substituted “Not later than the time period prescribed by the Secretary by regulation,” for “At least 60 days before issuing a commercial driver’s license (or a shorter period the Secretary prescribes by regulation),”.

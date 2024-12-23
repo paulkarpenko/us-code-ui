@@ -233,7 +233,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (2) directly capturing and using the resultant products, including particles, heat, or other electromagnetic radiation.
 
-**(ee) . High-level Radioactive Waste; Spent Nuclear Fuel.—** The terms “high-level radioactive waste” and “spent nuclear fuel” have the meanings given such terms in [section 10101 of this title](./chapter-108-nuclear-waste-policy.md#section-10101).
+**(ee) High-level Radioactive Waste; Spent Nuclear Fuel.—** The terms “high-level radioactive waste” and “spent nuclear fuel” have the meanings given such terms in [section 10101 of this title](./chapter-108-nuclear-waste-policy.md#section-10101).
 
 **(ff) Legal Costs.—** As used in [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210), the term “legal costs” means the costs incurred by a plaintiff or a defendant in initiating, prosecuting, investigating, settling, or defending claims or suits for damage arising under such section.
 

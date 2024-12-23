@@ -2,7 +2,7 @@
 title: 52
 chapter: '209'
 heading: ELECTION ADMINISTRATION IMPROVEMENT
-section_count: 76
+section_count: 77
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52&num=0&edition=prelim
 ---
@@ -1946,6 +1946,44 @@ Section was formerly classified to [section 15483 of Title 42](https://uscode.ho
 Section is comprised of section 303 of Pub. L. 107–252. Subsec. (a)(5)(C) of section 303 of Pub. L. 107–252 amended [section 405 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section405&num=0&edition=prelim), The Public Health and Welfare.
 
 
+<a id="section-21083a"></a>
+## § 21083a. Access for congressional election observers
+**(a) Finding of constitutional authority** Congress finds that, regardless of legislative action, it has the authority to send congressional election observers to observe polling locations, any location where processing, scanning, tabulating, canvassing, recounting, auditing, or certifying voting results is occurring, or any other part of the process associated with elections for Federal office under the authorities granted under article 1, section 5, clause 1 and article 1, section 4, clause 1 of the Constitution of the United States. Procedures described herein do not establish any new authorities or procedures with respect to Congress’ constitutional authority to observe congressional elections but are provided simply to permit a convenient statutory reference for existing congressional authority and activity.
+
+**(b) Requiring States to provide access for observers**
+
+(1) **Requirement** — A State shall provide each individual who is acting as a designated congressional election observer for an election for Federal office with full access to clearly observe all elements of election administration procedures, including, but not limited to, access to any area in which a ballot is cast, processed, scanned, tabulated, canvassed, recounted, audited, or certified, including during pre- and post-election procedures.
+
+(2) **Restrictions on activities of observers** — No designated congressional election observer may handle a ballot or election equipment (whether voting or nonvoting or whether tabulating or nontabulating), advocate for any position or candidate, take any action to reduce ballot secrecy or voter privacy, take any action to interfere with the ability of a voter to cast a ballot or an election administrator to carry the administrator’s duties, or otherwise interfere with the election administration process.
+
+(3) **Rule of construction** — Nothing in this section shall prohibit a designated congressional election observer from asking questions of an election administrator, election official, or election worker, or any other State or local official.
+
+**(c) Conduct of observers**
+
+(1) **Removal**
+
+  (A) *Authorization removal by election official* — If a State or local election official has a reasonable basis to believe that a designated congressional election observer has engaged in or imminently will engage in intimidation or deceptive practices prohibited by Federal law, or in the disruption of voting, processing, scanning, tabulating, canvassing, or recounting of ballots, or the certification of results, a State or local election official may remove that observer from the area involved.
+
+  (B) *Notice to Committee* — If a designated congressional election observer is removed from an area under subparagraph (A), the election official shall, within 24 hours of the observer’s removal—
+
+    (i) inform the chair and ranking minority member of the Committee on House Administration of the House of Representatives or the Committee on Rules and Administration of the Senate, as applicable; and
+
+    (ii) provide written notice detailing the reason or reasons the designated congressional election observer was removed.
+
+(2) **Rule of construction** — For purposes of this subsection, the mere presence of a designated congressional election observer during an observation of election administration procedures, without any additional indicia supporting a reasonable basis for removal, is not a sufficient reason for removal under paragraph (1)(A).
+
+(3) **Right to replace observer** — If a designated congressional election observer is properly removed under paragraph (1)(A), the chair or ranking minority member of the Committee on House Administration of the House of Representatives or the Committee on Rules and Administration of the Senate, as appropriate, may send another designated congressional election observer as a replacement for the remaining duration of the observation of election administration procedures.
+
+**(d) Designated congressional election observer described** In this section, a “designated congressional election observer” is a House or Senate employee who is designated in writing by the chair or ranking minority member of the Committee on House Administration of the House of Representatives or the Committee on Rules and Administration of the Senate, or a successor committee, to gather information with respect to an election, including in the event that the election is contested in the House of Representatives or the Senate and for other purposes permitted by article 1, section 5, clause 1 and article 1, section 4, clause 1 of the Constitution of the United States.
+
+**(e) State defined** In this section, the term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 304 of Pub. L. 107–252 was renumbered section 305 and is classified to [section 21084 of this title](./chapter-209-election-administration-improvement.md#section-21084).
+
+
 <a id="section-21084"></a>
 ## § 21084. Minimum requirements
 
@@ -1958,6 +1996,9 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 #### Codification
 Section was formerly classified to [section 15484 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15484&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Prior Provisions
+A prior section 305 of Pub. L. 107–252 was renumbered section 306 and is classified to [section 21085 of this title](./chapter-209-election-administration-improvement.md#section-21085).
 
 
 <a id="section-21085"></a>
@@ -2016,12 +2057,15 @@ Section was formerly classified to [section 15502 of Title 42](https://uscode.ho
 <a id="section-21111"></a>
 ## § 21111. Actions by the Attorney General for declaratory and injunctive relief
 
-The Attorney General may bring a civil action against any State or jurisdiction in an appropriate United States District Court for such declaratory and injunctive relief (including a temporary restraining order, a permanent or temporary injunction, or other order) as may be necessary to carry out the uniform and nondiscriminatory election technology and administration requirements under sections 21081, 21082, and 21083 of this title.
+The Attorney General may bring a civil action against any State or jurisdiction in an appropriate United States District Court for such declaratory and injunctive relief (including a temporary restraining order, a permanent or temporary injunction, or other order) as may be necessary to carry out the uniform and nondiscriminatory election technology and administration requirements under sections 21081, 21082, 21083, and 21083a of this title.
 
 ### Statutory Notes
 
 #### Codification
 Section was formerly classified to [section 15511 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15511&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2024—Pub. L. 118–106 substituted “21083, and 21083a” for “and 21083”.
 
 
 <a id="section-21112"></a>

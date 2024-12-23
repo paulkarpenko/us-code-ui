@@ -308,7 +308,7 @@ Pub. L. 99–166, title III, § 304, Dec. 3, 1985, 99 Stat. 956, directed Admini
 
     (iii) An explanation of why the preferred alternative is the most effective means to achieve the stated project goals and the most cost-effective alternative.
 
-(2) Whenever the President or the Secretary submit to Congress a request for the funding of a major medical facility lease (as defined in subsection (a)(3)(B)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
+(2) Whenever the President or the Secretary submit 1 to Congress a request for the funding of a major medical facility lease (as defined in subsection (a)(3)(B)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
 
   (A) A description of the facility to be leased.
 
@@ -1608,7 +1608,7 @@ Pub. L. 107–188, title I, § 154, June 12, 2002, 116 Stat. 631, as amended by 
 
 (4) The Secretary may enter into partnerships or agreements with public or private entities dedicated to historic preservation to facilitate the transfer, leasing, or adaptive use of structures or properties specified in subsection (b)(3)(D).
 
-(5) The authority of the Secretary under paragraph (1) expires on September 30, 2024.
+(5) The authority of the Secretary under paragraph (1) expires on September 30, 2025.
 
 **(b)**
 
@@ -1637,6 +1637,8 @@ Pub. L. 107–188, title I, § 154, June 12, 2002, 116 Stat. 631, as amended by 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a)(5). Pub. L. 118–83 substituted “September 30, 2025” for “September 30, 2024”.
+
 2022—Subsec. (a)(5). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”.
 
 2020—Subsec. (a)(5). Pub. L. 116–159 substituted “September 30, 2022” for “September 30, 2020”.

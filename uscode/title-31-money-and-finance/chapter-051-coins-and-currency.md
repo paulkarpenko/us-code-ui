@@ -212,6 +212,14 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 #### Commemorative Medals
 Provisions authorizing commemorative medals were contained in the following acts:
 
+Pub. L. 118–150, Dec. 12, 2024, 138 Stat. 1682, recognizing Shirley Chisholm.
+
+Pub. L. 118–149, Dec. 12, 2024, 138 Stat. 1678, recognizing 60 diplomats for their brave and vital service of saving Jews during World War II, known as the Forgotten Heroes of the Holocaust.
+
+Pub. L. 118–88, Sept. 26, 2024, 138 Stat. 1554, recognizing Billie Jean King for her contribution to the United States and her leadership advancing equal rights for women.
+
+Pub. L. 118–87, Sept. 26, 2024, 138 Stat. 1550, recognizing the United States Army Dustoff crews of the Vietnam War, collectively, for their heroic military service.
+
 Pub. L. 117–334, Jan. 5, 2023, 136 Stat. 6140, recognizing Emmett Till and Mamie Till-Mobley for heroic actions in the midst of evil, injustice, and grief that became a catalyst for the civil rights movement.
 
 Pub. L. 117–328, div. AA, title VII, Dec. 29, 2022, 136 Stat. 5549, recognizing Benjamin Berell Ferencz for his service to the United States and international community during the post-World War II Nuremberg trials and lifelong advocacy for international criminal justice and rule of law.
@@ -1606,6 +1614,10 @@ Pub. L. 99–185, § 2(g), Dec. 17, 1985, 99 Stat. 1178, provided that: “The S
 
 #### Commemorative Coins
 Provisions authorizing commemorative coins were contained in the following acts:
+
+Pub. L. 118–143, Dec. 11, 2024, 138 Stat. 1663.—FIFA World Cup 2026.
+
+Pub. L. 118–109, Nov. 25, 2024, 138 Stat. 1597.—Working Dogs.
 
 Pub. L. 118–10, July 26, 2023, 137 Stat. 56.—United States Marine Corps 250th Anniversary.
 

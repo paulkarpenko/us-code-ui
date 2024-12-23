@@ -36,6 +36,9 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 1988—Subsecs. (a)(1), (b). Pub. L. 100–707 inserted “and along the shore areas of the Great Lakes” after “Atlantic and Gulf coasts”.
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–117, § 1, Nov. 25, 2024, 138 Stat. 1608, provided that: “This Act [amending sections 3502 to 3506 and 3510 of this title and enacting provisions set out as a note under [section 3504 of this title](./chapter-055-coastal-barrier-resources.md#section-3504) and listed in a table of Revision of Maps for Units of System set out under [section 3503 of this title](./chapter-055-coastal-barrier-resources.md#section-3503)] may be cited as the ‘Bolstering Ecosystems Against Coastal Harm Act’ or the ‘BEACH Act’.”
+
 #### Short Title of 2018 Amendment
 Pub. L. 115–358, § 1, Dec. 21, 2018, 132 Stat. 5078, provided that: “This Act [amending [section 3503 of this title](./chapter-055-coastal-barrier-resources.md#section-3503) and enacting and amending provisions set out as notes under [section 3503 of this title](./chapter-055-coastal-barrier-resources.md#section-3503)] may be cited as the ‘Strengthening Coastal Communities Act of 2018’.”
 
@@ -60,44 +63,57 @@ Pub. L. 106–514, § 7, Nov. 13, 2000, 114 Stat. 2397, required the Secretary o
 
 <a id="section-3502"></a>
 ## § 3502. Definitions
+**(a) In general** For purposes of this chapter:
 
-For purposes of this chapter—
+(1) **Coastal barrier** — The term “coastal barrier” means—
 
-(1) The term “undeveloped coastal barrier” means—
+  (A) a depositional geologic feature (such as a bay barrier, tombolo, barrier spit, bluff, or barrier island) that—
 
-  (A) a depositional geologic feature (such as a bay barrier, tombolo, barrier spit, or barrier island) that—
-
-    (i) is subject to wave, tidal, and wind energies, and
+    (i) is subject to wave, tidal, and wind energies; and
 
     (ii) protects landward aquatic habitats from direct wave attack; and
 
-  (B) all associated aquatic habitats, including the adjacent wetlands, marshes, estuaries, inlets, and nearshore waters;
-  but only if such feature and associated habitats contain few manmade structures and these structures, and man’s activities on such feature and within such habitats, do not significantly impede geomorphic and ecological processes.
+  (B) all associated aquatic habitats including the adjacent wetlands, marshes, estuaries, inlets, and nearshore waters.
 
-(2) The term “Committees” means the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+(2) **Committees** — The term “Committees” means the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
-(3) The term “financial assistance” means any form of loan, grant, guaranty, insurance, payment, rebate, subsidy, or any other form of direct or indirect Federal assistance other than—
+(3) **Financial assistance**
 
-  (A) deposit or account insurance for customers of banks, savings and loan associations, credit unions, or similar institutions;
+  (A) *In general* — The term “financial assistance” means any form of loan, grant, guaranty, insurance, payment, rebate, subsidy, or any other form of direct or indirect Federal assistance other than—
 
-  (B) the purchase of mortgages or loans by the Government National Mortgage Association, the Federal National Mortgage Association, or the Federal Home Loan Mortgage Corporation;
+    (i) deposit or account insurance for customers of banks, savings and loan associations, credit unions, or similar institutions;
 
-  (C) assistance for environmental studies, planning, and assessments that are required incident to the issuance of permits or other authorizations under Federal law; and
+    (ii) the purchase of mortgages or loans by the Government National Mortgage Association, the Federal National Mortgage Association, or the Federal Home Loan Mortgage Corporation;
 
-  (D) assistance pursuant to programs entirely unrelated to development, such as any Federal or federally assisted public assistance program or any Federal old-age survivors or disability insurance program.
-  Such term includes flood insurance described in [section 4028 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4028&num=0&edition=prelim).
+    (iii) assistance for environmental studies, planning, and assessments that are required incident to the issuance of permits or other authorizations under Federal law; and
 
-(4) The term “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron, Lake St. Clair, Lake Michigan, and Lake Superior, to the extent that those lakes are subject to the jurisdiction of the United States.
+    (iv) assistance pursuant to programs entirely unrelated to development, such as any Federal or federally assisted public assistance program or any Federal old-age survivors or disability insurance program.
 
-(5) The term “Secretary” means the Secretary of the Interior.
+  (B) *Flood insurance* — The term “financial assistance” includes flood insurance described in [section 4028 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4028&num=0&edition=prelim).
 
-(6) The term “System” means the John H. Chafee Coastal Barrier Resources System established by [section 3503(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3503/a&num=0&edition=prelim).
+(4) **Great Lakes** — The term “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron, Lake St. Clair, Lake Michigan, and Lake Superior, to the extent that those lakes are subject to the jurisdiction of the United States.
 
-(7) The term “System unit” means any undeveloped coastal barrier, or combination of closely-related undeveloped coastal barriers, included within the John H. Chafee Coastal Barrier Resources System established by [section 3503 of this title](./chapter-055-coastal-barrier-resources.md#section-3503).
+(5) **Otherwise Protected Area**
+
+  (A) *In general* — The term “Otherwise Protected Area” means any unit of the System that, at the time of designation, was predominantly composed of areas established under Federal, State, or local law, or held by a qualified organization, primarily for wildlife refuge, wildlife sanctuary, recreational, or natural resource conservation purposes.
+
+  (B) *Qualified organization* — For purposes of subparagraph (A), the term “qualified organization” has the meaning given the term in [section 170(h)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section170/h/3&num=0&edition=prelim).
+
+(6) **Secretary** — The term “Secretary” means the Secretary of the Interior.
+
+(7) **System** — The term “System” means the John H. Chafee Coastal Barrier Resources System established under [section 3503(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3503/a&num=0&edition=prelim).
+
+(8) **System unit** — The term “System unit” means any undeveloped coastal barrier, or combination of closely-related undeveloped coastal barriers, included within the John H. Chafee Coastal Barrier Resources System established under [section 3503(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3503/a&num=0&edition=prelim).
+
+(9) **Undeveloped coastal barrier** — The term “undeveloped coastal barrier” means a coastal barrier the features and associated habitats of which contain few manmade structures and these structures, and man’s activities on such features and within such habitats, do not significantly impede geomorphic and ecological processes.
+
+**(b) Savings clause** Nothing in this section supersedes the official maps described in [section 3503(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3503/a&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Amendments
+2024—Pub. L. 118–117 amended section generally. Prior to amendment, section defined terms for this chapter.
+
 2000—Par. (2). Pub. L. 106–514, § 4(a)(1), substituted “means the Committee on Resources” for “refers to the Committee on Merchant Marine and Fisheries”.
 
 Par. (3). Pub. L. 106–514, § 4(a)(2), substituted “Such” for “Effective October 1, 1983, such” in concluding provisions.
@@ -129,13 +145,19 @@ Amendment by Pub. L. 99–272, effective Oct. 18, 1986, see section 14001(e) of 
 
 <a id="section-3503"></a>
 ## § 3503. Establishment of John H. Chafee Coastal Barrier Resources System
-**(a) Establishment** There is established the John H. Chafee Coastal Barrier Resources System, which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled “Coastal Barrier Resources System”, dated October 24, 1990, as those maps may be replaced, modified, revised, or corrected under—
+**(a) Establishment** There is established the John H. Chafee Coastal Barrier Resources System, which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted as System units or Otherwise Protected Areas—
 
-(1) subsection (f)(3);
+(1) on the maps on file with the Secretary entitled “Coastal Barrier Resources System”, dated October 24, 1990;
 
-(2) section 4 of the Coastal Barrier Improvement Act of 1990 ([16 U.S.C. 3503](./chapter-055-coastal-barrier-resources.md#section-3503) note; Public Law 101–591); or
+(2) on a map described in section 201(b) of the Bolstering Ecosystems Against Coastal Harm Act; or
 
-(3) any other provision of law enacted on or after November 16, 1990, that specifically replaces such a map or authorizes the modification, revision, or correction.
+(3) on a map described in paragraph (1) or (2) as such map may be replaced, modified, revised, or corrected under—
+
+  (A) subsection (f)(3);
+
+  (B) section 4 of the Coastal Barrier Improvement Act of 1990 ([16 U.S.C. 3503](./chapter-055-coastal-barrier-resources.md#section-3503) note); or
+
+  (C) any other provision of law enacted on or after November 16, 1990, that specifically replaces or authorizes the modification, revision, or correction of such a map.
 
 **(b) System maps**
 
@@ -159,9 +181,9 @@ Amendment by Pub. L. 99–272, effective Oct. 18, 1986, see section 14001(e) of 
 
 **(e) Addition of excess Federal property**
 
-(1) **Consultation and determination** — Prior to transfer or disposal of excess property under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 that may be an undeveloped coastal barrier, the Administrator of General Services shall consult with and obtain from the Secretary a determination as to whether and what portion of the property constitutes an undeveloped coastal barrier. Not later than 180 days after the initiation of such consultation, the Secretary shall make and publish notice of such determination. Immediately upon issuance of a positive determination, the Secretary shall—
+(1) **Consultation and determination** — Prior to transfer or disposal of excess property under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 that may be a coastal barrier, the Administrator of General Services shall consult with and obtain from the Secretary a determination as to whether and what portion of the property constitutes a coastal barrier. Not later than 180 days after the initiation of such consultation, the Secretary shall make and publish notice of such determination. Immediately upon issuance of a positive determination, the Secretary shall—
 
-  (A) prepare a map depicting the undeveloped coastal barrier portion of such property; and
+  (A) prepare a map depicting the coastal barrier portion of such property; and
 
   (B) publish in the Federal Register notice of the addition of such property to the System.
 
@@ -171,7 +193,7 @@ Amendment by Pub. L. 99–272, effective Oct. 18, 1986, see section 14001(e) of 
 
 (1) keep a map showing the location of each boundary modification made under subsection (c) and of each parcel of real property added to the System under subsection (d) or (e) on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service and in such other offices of the Service as the Director considers appropriate;
 
-(2) provide a copy of the map to—
+(2) provide a notification of the availability of the map to—
 
   (A) the State and unit of local government in which the property is located;
 
@@ -207,12 +229,31 @@ Amendment by Pub. L. 99–272, effective Oct. 18, 1986, see section 14001(e) of 
 
 ### Statutory Notes
 
+#### References in Text
+Section 201 of the Bolstering Ecosystems Against Coastal Harm Act, referred to in subsec. (a)(2), is section 201 of Pub. L. 118–117, which is listed in a table of Revision of Maps for Units of System set out below.
+
+Section 4 of the Coastal Barrier Improvement Act of 1990, referred to in subsec. (a)(3)(B), is section 4 of Pub. L. 101–591, which is set out as a note below.
+
 #### Codification
 The text of section 4(d) of Pub. L. 101–591, which was transferred and redesignated so as to appear as subsec. (e) of this section and amended by Pub. L. 106–514, was based on Pub. L. 101–591, § 4(d), Nov. 16, 1990, 104 Stat. 2933, formerly included in a note set out under this section.
 
 In subsec. (e)(1), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–117, § 102(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “There is established the John H. Chafee Coastal Barrier Resources System, which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, as those maps may be replaced, modified, revised, or corrected under—
+
+“(1) subsection (f)(3);
+
+“(2) section 4 of the Coastal Barrier Improvement Act of 1990 ([16 U.S.C. 3503](./chapter-055-coastal-barrier-resources.md#section-3503) note; Public Law 101–591); or
+
+“(3) any other provision of law enacted on or after November 16, 1990, that specifically replaces such a map or authorizes the modification, revision, or correction.”
+
+Subsec. (e)(1). Pub. L. 118–117, § 102(2)(A), in introductory provisions, substituted “a coastal barrier” for “an undeveloped coastal barrier” in two places.
+
+Subsec. (e)(1)(A). Pub. L. 118–117, § 102(2)(B), struck out “undeveloped” before “coastal barrier”.
+
+Subsec. (f)(2). Pub. L. 118–117, § 102(3), substituted “notification of the availability of the map” for “copy of the map” in introductory provisions.
+
 2018—Subsec. (a). Pub. L. 115–358, § 2(d)(1), inserted “replaced,” after “may be” in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 115–358, § 2(d)(2), inserted “replaces such a map or” after “that specifically”.
@@ -259,7 +300,9 @@ Pub. L. 106–167, § 2, Dec. 9, 1999, 113 Stat. 1803, provided that: “Congres
 Pub. L. 106–167, § 3(a), (b), Dec. 9, 1999, 113 Stat. 1804, provided that: “(a) In General.—The Coastal Barrier Resources System established by section 4(a) of the Coastal Barrier Resources Act ([16 U.S.C. 3503(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3503/a&num=0&edition=prelim)) is redesignated as the ‘John H. Chafee Coastal Barrier Resources System’. “(b) References.—Any reference in a law, map, regulation, document, paper, or other record of the United States to the Coastal Barrier Resources System shall be deemed to be a reference to the John H. Chafee Coastal Barrier Resources System.”
 
 #### Revision of Maps for Units of System
-The following acts directed the Secretary of the Interior to make technical revisions and corrections to maps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
+The following acts directed the Secretary of the Interior to make technical revisions to, corrections to, and replacement of maps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
+
+Pub. L. 118–117, title II, § 201, Nov. 25, 2024, 138 Stat. 1613.
 
 Pub. L. 115–358, § 2(a)–(c), Dec. 21, 2018, 132 Stat. 5078–5080, as amended by Pub. L. 116–9, title II, § 2402A(a), Mar. 12, 2019, 133 Stat. 747.
 
@@ -332,12 +375,16 @@ Pub. L. 101–591, § 12, Nov. 16, 1990, 104 Stat. 2940, as amended by Pub. L. 1
 
 (2) no legally binding commitment for the expenditure or financial assistance was made before such date.
 
+**(c) Disclosure of limitations** Not later than 2 years after November 25, 2024, the Secretary, in consultation with the Secretary of Housing and Urban Development, shall issue regulations requiring the owner or lessor of real property located in a community affected by this chapter, as determined by the Director of the United States Fish and Wildlife Service, to disclose to a prospective buyer or lessee such location of such real property.
+
 ### Statutory Notes
 
 #### References in Text
 The Coastal Barrier Improvement Act of 1990, referred to in subsec. (b)(1), is Pub. L. 101–591, Nov. 16, 1990, 104 Stat. 2931, which enacted [section 1441a–3 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1441a–3&num=0&edition=prelim), Banks and Banking, amended sections 3502 to 3506 and 3510 of this title and [section 4028 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4028&num=0&edition=prelim), The Public Health and Welfare, enacted provisions set out as notes under [section 3503 of this title](./chapter-055-coastal-barrier-resources.md#section-3503), and repealed provisions set out as a note under [section 3505 of this title](./chapter-055-coastal-barrier-resources.md#section-3505). For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 3501 of this title](./chapter-055-coastal-barrier-resources.md#section-3501) and Tables.
 
 #### Amendments
+2024—Subsec. (c). Pub. L. 118–117 added subsec. (c).
+
 1990—Subsec. (a). Pub. L. 101–591, § 2(b)(2)(A), in introductory provisions substituted “the System” for “the Coastal Barrier Resources System”.
 
 Subsec. (a)(3). Pub. L. 101–591, § 5(c), substituted “through S08 and LA07” for “through S08”.
@@ -345,6 +392,9 @@ Subsec. (a)(3). Pub. L. 101–591, § 5(c), substituted “through S08 and LA07�
 Subsec. (b)(1). Pub. L. 101–591, § 2(b)(2)(B), substituted “on which the relevant System unit or portion of the System unit was included within the System under this chapter or the Coastal Barrier Improvement Act of 1990” for “of the enactment of this Act”.
 
 Subsec. (b)(2). Pub. L. 101–591, § 2(b)(2)(C), struck out “of enactment” after “before such date”.
+
+#### Guidance for Expenditure of Federal Funds in Emergency Situations
+Pub. L. 118–117, title I, § 105(b), Nov. 25, 2024, 138 Stat. 1612, provided that: “Not later than 1 year after the date of the enactment of this Act [Nov. 25, 2024], the Secretary of the Interior, in consultation with the Chief of Engineers of the Army Corps of Engineers, shall develop and finalize guidance relating to the expenditure of Federal funds pursuant to the exception described in section 5(a)(3) of the Coastal Barrier Resources Act ([16 U.S.C. 3504(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3504/a/3&num=0&edition=prelim)) for emergency situations that threaten life, land, and property immediately adjacent to a System unit (as defined in subsection (a) of section 3 of that Act ([16 U.S.C. 3502](./chapter-055-coastal-barrier-resources.md#section-3502))).”
 
 
 <a id="section-3505"></a>
@@ -371,11 +421,19 @@ Subsec. (b)(2). Pub. L. 101–591, § 2(b)(2)(C), struck out “of enactment” 
 
   (D) Scientific research, including aeronautical, atmospheric, space, geologic, marine, fish and wildlife, and other research, development, and applications.
 
-  (E) Assistance for emergency actions essential to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 5170a, 5170b, and 5192 of title 42 and section 1362 11 See References in Text note below. of the National Flood Insurance Act of 1968 ([42 U.S.C. 4103](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4103&num=0&edition=prelim)) and are limited to actions that are necessary to alleviate the emergency.
+  (E) Emergency actions necessary to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 5170a, 5170b, 5173, and 5192 of title 42 and are limited to actions that are necessary to alleviate the applicable emergency.
 
   (F) Maintenance, replacement, reconstruction, or repair, but not the expansion (except with respect to United States route 1 in the Florida Keys), of publicly owned or publicly operated roads, structures, and facilities.
 
   (G) Nonstructural projects for shoreline stabilization that are designed to mimic, enhance, or restore a natural stabilization system.
+
+  (H) Aquaculture operations that—
+
+    (i) produce shellfish (including oysters, clams, and mussels), cultivate micro- or macro-algae, or do not require the use of aquaculture feeds; and
+
+    (ii) adhere to best management practices and conservation measures recommended by the Secretary through the consultation process referred to in this subsection.
+
+(7) Use of a sand source within a System unit by Federal coastal storm risk management projects or their predecessor projects that have used a System unit for sand to nourish adjacent beaches outside the System pursuant to [section 701n of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section701n&num=0&edition=prelim) at least once between December 31, 2008 and December 31, 2023 in response to an emergency situation prior to December 31, 2023.
 
 **(b) Existing Federal navigation channels** For purposes of subsection (a)(2), a Federal navigation channel or a related structure is an existing channel or structure, respectively, if it was authorized before the date on which the relevant System unit or portion of the System unit was included within the System.
 
@@ -397,16 +455,42 @@ Subsec. (b)(2). Pub. L. 101–591, § 2(b)(2)(C), struck out “of enactment” 
 
   (B) *“Financial assistance” defined* — For purposes of this paragraph, the term “financial assistance” includes any contract, loan, grant, cooperative agreement, or other form of assistance, including the insurance or guarantee of a loan, mortgage, or pool of mortgages.
 
+**(e) Applicability to Otherwise Protected Areas**
+
+(1) **In general** — The prohibitions on new Federal expenditures and financial assistance described in [section 3504(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3504/a&num=0&edition=prelim) do not apply within Otherwise Protected Areas except with respect to limitations on new flood insurance coverage described in section 1321 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4028](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4028&num=0&edition=prelim)).
+
+(2) **Exception** — Notwithstanding paragraph (1), new Federal flood insurance may be provided for a structure in an Otherwise Protected Area that is used in a manner consistent with the purpose for which such Otherwise Protected Area is protected.
+
+**(f) Applicability to additions and insurable structures**
+
+(1) **Additions** — With respect to an addition to the System made under [section 3503 of this title](./chapter-055-coastal-barrier-resources.md#section-3503) on or after November 25, 2024, subject to paragraph (2), the prohibitions on new Federal expenditures and financial assistance described in [section 3504(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3504/a&num=0&edition=prelim) shall take effect on the date that is 1 year after the date on which such addition is made.
+
+(2) **Insurable structures**
+
+  (A) *In general* — The prohibitions on new Federal expenditures and financial assistance described in [section 3504(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3504/a&num=0&edition=prelim) do not apply to an insurable structure.
+
+  (B) *Insurable structure defined* — In this subsection, the term “insurable structure” means an insurable structure that is—
+
+    (i) located within an addition described in paragraph (1); and
+
+    (ii) in existence before the expiration of the applicable 1-year period described in paragraph (1).
+
 ### Statutory Notes
 
 #### References in Text
 The Coastal Zone Management Act of 1972, referred to in subsec. (a)(6)(C), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of this title](./chapter-033-coastal-zone-management.md#section-1451) and Tables.
 
-Section 1362 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4103](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4103&num=0&edition=prelim)), referred to in subsec. (a)(6)(E), was repealed by Pub. L. 103–325, title V, § 551(a), Sept. 23, 1994, 108 Stat. 2269.
-
 The National Flood Insurance Act of 1968, referred to in subsec. (d)(2), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2024—Subsec. (a)(6)(E). Pub. L. 118–117, § 104(1)(A)(i), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “Assistance for emergency actions essential to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 5170a, 5170b, and 5192 of title 42 and section 1362 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4103](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4103&num=0&edition=prelim)) and are limited to actions that are necessary to alleviate the emergency.”
+
+Subsec. (a)(6)(H). Pub. L. 118–117, § 104(1)(A)(ii), added subpar. (H).
+
+Subsec. (a)(7). Pub. L. 118–117, § 104(1)(B), added par. (7).
+
+Subsecs. (e), (f). Pub. L. 118–117, § 104(2), added subsecs. (e) and (f).
+
 2014—Subsec. (a)(6)(C). Pub. L. 113–287, which directed the substitution of “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–4 through 11)” in section 6(a)(6)(C) of the Coastal Barrier Act of 1968, was executed by making the substitution for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4601–4&num=0&edition=prelim) through 11)” in this section, which is section 6 of the Coastal Barrier Resources Act, to reflect the probable intent of Congress.
 
 1990—Pub. L. 101–591 amended section generally, substituting substantially similar provisions in subsec. (a), substituting “a Federal navigation channel or a related structure is an existing channel or structure, respectively, if it was authorized before the date on which the relevant System unit or portion of the System unit was included within the System” for “a channel improvement or a related structure shall be treated as an existing improvement or an existing related structure only if all, or a portion, of the moneys for such improvement or structure was appropriated before October 18, 1982” in subsec. (b), and adding subsecs. (c) and (d).
@@ -422,13 +506,15 @@ Pub. L. 100–707, title II, § 204(d), Nov. 23, 1988, 102 Stat. 4715, exempted 
 
 <a id="section-3506"></a>
 ## § 3506. Certification of compliance
-**(a) Regulations** Not later than 12 months after November 16, 1990, the head of each Federal agency affected by this chapter shall promulgate regulations to assure compliance with the provisions of this chapter.
+**(a) Regulations** Not later than 1 year after November 25, 2024, the head of each Federal agency affected by this chapter shall revise or issue regulations and guidance as necessary to ensure compliance with the provisions of this chapter.
 
 **(b) Certification** The head of each Federal agency affected by this chapter shall report and certify that each such agency is in compliance with the provisions of this chapter. Such reports and certifications shall be submitted annually to the Committees and the Secretary.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–117 amended subsec. (a) generally. Prior to amendment, text read as follows: “Not later than 12 months after November 16, 1990, the head of each Federal agency affected by this chapter shall promulgate regulations to assure compliance with the provisions of this chapter.”
+
 1990—Pub. L. 101–591 amended section generally. Prior to amendment, section read as follows: “The Director of the Office of Management and Budget shall, on behalf of each Federal agency concerned, make written certification that each such agency has complied with the provisions of this chapter during each fiscal year beginning after September 30, 1982. Such certification shall be submitted on an annual basis to the House of Representatives and the Senate pursuant to the schedule required under the Congressional Budget and Impoundment Control Act of 1974.”
 
 #### Termination of Reporting Requirements
@@ -458,7 +544,11 @@ Section, Pub. L. 97–348, § 10, Oct. 18, 1982, 96 Stat. 1658; Pub. L. 106–16
 <a id="section-3510"></a>
 ## § 3510. Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary to carry out this chapter $2,000,000 for each of fiscal years 2006 through 2010.
+There is authorized to be appropriated to the Secretary to carry out this chapter—
+
+(1) $2,000,000 for each of fiscal years 2006 through 2010; and
+
+(2) $1,962,000 for each of fiscal years 2025 through 2031.
 
 ### Statutory Notes
 
@@ -466,6 +556,8 @@ There is authorized to be appropriated to the Secretary to carry out this chapte
 A prior section 10 of Pub. L. 97–348 was classified to [section 3509 of this title](./chapter-055-coastal-barrier-resources.md#section-3509) prior to repeal by Pub. L. 106–514.
 
 #### Amendments
+2024—Pub. L. 118–117 amended section generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Secretary to carry out this chapter $2,000,000 for each of fiscal years 2006 through 2010.”
+
 2006—Pub. L. 109–226 substituted “2006 through 2010” for “2001, 2002, 2003, 2004, and 2005”.
 
 2000—Pub. L. 106–514 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to the Secretary for carrying out this chapter $2,000,000 for each of fiscal years 1995 to 1998.”

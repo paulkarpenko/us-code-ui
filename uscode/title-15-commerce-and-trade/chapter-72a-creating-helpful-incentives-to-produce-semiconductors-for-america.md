@@ -135,6 +135,9 @@ Pars. (10), (11). Pub. L. 117–167, § 103(a)(5), added pars. (10) and (11).
 
 Pars. (12), (13). Pub. L. 117–167, § 103(a)(2), redesignated pars. (8) and (9) as (12) and (13), respectively.
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–105, § 1, Oct. 2, 2024, 138 Stat. 1587, provided that: “This Act [amending sections 4652 and 4659 of this title] may be cited as the ‘Building Chips in America Act of 2023’.”
+
 #### Short Title of 2022 Amendment
 Pub. L. 117–167, div. A, § 101, Aug. 9, 2022, 136 Stat. 1372, provided that: “This division [enacting [section 4659 of this title](./chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america.md#section-4659) and [section 48D of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section48D&num=0&edition=prelim), Internal Revenue Code, amending this section, sections 4652 and 4656 of this title, [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress, sections 46, 49, 50, and 1371 of Title 26, and [section 906 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section906&num=0&edition=prelim), Telecommunications, and enacting provisions set out as notes under [section 4652 of this title](./chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america.md#section-4652) and [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim)] may be cited as the ‘CHIPS Act of 2022’.”
 
@@ -594,7 +597,19 @@ J.R. Biden, Jr.
 
 (8) **Continued oversight** — The loan agreement for a loan guaranteed under this subsection shall provide that no provision of the loan agreement may be amended of 33 So in original. Probably should be “or”. waived without the consent of the Secretary.
 
-**(h) Oversight** Not later than 4 years after disbursement of the first financial award under subsection (a), the Inspector General of the Department of Commerce shall audit the program under this section to assess—
+**(h) Authority relating to environmental review**
+
+(1) **In general** — Notwithstanding any other provision of law, the provision by the Secretary of Federal financial assistance for a project described in this section that satisfies the requirements under subsection (a)(2)(C)(i) of this section shall not be considered to be a major Federal action under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) (referred to in this subsection as “NEPA”) or an undertaking for the purposes of division A of subtitle III of title 54 if—
+
+  (A) the activity described in the application for that project has commenced not later than December 31, 2024;
+
+  (B) the Federal financial assistance provided is in the form of a loan or loan guarantee; or
+
+  (C) the Federal financial assistance provided, excluding any loan or loan guarantee, comprises not more than 10 percent of the total estimated cost of the project.
+
+(2) **Savings clause** — Nothing in this subsection may be construed as altering whether an activity described in subparagraph (A), (B), or (C) of paragraph (1) is considered to be a major Federal action under NEPA, or an undertaking under division A of subtitle III of title 54, for a reason other than that the activity is eligible for Federal financial assistance provided under this section.
+
+**(i) Oversight** Not later than 4 years after disbursement of the first financial award under subsection (a), the Inspector General of the Department of Commerce shall audit the program under this section to assess—
 
 (1) whether the eligibility requirements for covered entities receiving financial assistance under the program are met;
 
@@ -608,11 +623,16 @@ J.R. Biden, Jr.
 
 (6) whether the Secretary has sufficiently reviewed any covered entity engaging in a listed exception under subsection (a)(6)(C)(ii).
 
-**(i) Prohibition on use of funds** No funds made available under this section may be used to construct, modify, or improve a facility outside of the United States.
+**(j) Prohibition on use of funds** No funds made available under this section may be used to construct, modify, or improve a facility outside of the United States.
 
 ### Statutory Notes
 
+#### References in Text
+The National Environmental Policy Act of 1969, referred to in subsec. (h)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
 #### Amendments
+2024—Subsecs. (h) to (j). Pub. L. 118–105 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
+
 2022—Subsec. (a)(1). Pub. L. 117–167, § 103(b)(1), substituted “for the fabrication” for “for semiconductor fabrication” and “of semiconductors, materials used to manufacture semiconductors, or semiconductor manufacturing equipment.” for period at end and inserted “production,” before “or research and development”.
 
 Subsec. (a)(2)(B)(ii)(V), (VI). Pub. L. 117–167, § 103(b)(2)(B), added subcls. (V) and (VI).
@@ -1059,7 +1079,68 @@ The Defense Production Act of 1950, referred to in subsec. (a), is act Sept. 8, 
 
 **(b) Requirement** Any funds received from a payment made by a person or entity pursuant to subsection (a)(3) shall be credited to and merged with the account from which support to the person or entity was made 11 So in original. Probably should be followed by a period.
 
+**(c) Lead Federal agency and cooperating agencies**
+
+(1) **Definition** — In this subsection, the term “lead agency” has the meaning given the term in section 111 of NEPA ([42 U.S.C. 4336e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4336e&num=0&edition=prelim)).
+
+(2) **Option to serve as lead agency** — With respect to a covered activity that is a major Federal action under NEPA, and with respect to which the Department of Commerce is authorized or required by law to issue an authorization or take action for or relating to that covered activity, the Department of Commerce shall have the first right to serve as the lead agency with respect to that covered activity under NEPA.
+
+**(d) Categorical exclusions**
+
+(1) **Establishment of categorical exclusions** — Each of the following categorical exclusions is established for the National Institute of Standards and Technology with respect to a covered activity and, beginning on October 2, 2024, is available for use by the Secretary with respect to a covered activity:
+
+  (A) Categorical exclusion 17.04.d (relating to the acquisition of machinery and equipment) in the document entitled “EDA Program to Implement the National Environmental Policy Act of 1969 and Other Federal Environmental Mandates As Required” (Directive No. 17.02–2; effective date October 14, 1992).
+
+  (B) Categorical exclusion A9 in Appendix A to subpart D of part 1021 of title 10, Code of Federal Regulations, or any successor regulation.
+
+  (C) Categorical exclusions B1.24, B1.31, B2.5, and B5.1 in Appendix B to subpart D of part 1021 of title 10, Code of Federal Regulations, or any successor regulation.
+
+  (D) The categorical exclusions described in paragraphs (4) and (13) of section 50.19(b) of title 24, Code of Federal Regulations, or any successor regulation.
+
+  (E) Categorical exclusion (c)(1) in Appendix B to part 651 of title 32, Code of Federal Regulations, or any successor regulation.
+
+  (F) Categorical exclusions A2.3.8 and A2.3.14 in Appendix B to part 989 of title 32, Code of Federal Regulations, or any successor regulation.
+
+(2) **Additional categorical exclusions** — Notwithstanding any other provision of law, each of the following shall be treated as a category of action categorically excluded from the requirements relating to environmental assessments and environmental impact statements under section 1501.4 of title 40, Code of Federal Regulations, or any successor regulation:
+
+  (A) The provision by the Secretary of any Federal financial assistance for a project described in [section 4652 of this title](./chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america.md#section-4652), if the facility that is the subject of the project is on or adjacent to a site—
+
+    (i) that is owned or leased by the covered entity to which Federal financial assistance is provided for that project; and
+
+    (ii) on which, as of the date on which the Secretary provides that Federal financial assistance, substantially similar construction, expansion, or modernization is being or has been carried out, such that the facility would not more than double existing developed acreage or on-site supporting infrastructure.
+
+  (B) The provision by the Secretary of Defense of any Federal financial assistance relating to—
+
+    (i) the creation, expansion, or modernization of one or more facilities described in the second sentence of [section 4653(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4653/a/1&num=0&edition=prelim); or
+
+    (ii) carrying out [section 4653(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4653/b&num=0&edition=prelim), as in effect on October 2, 2024.
+
+  (C) Any activity undertaken by the Secretary relating to carrying out [section 4656 of this title](./chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america.md#section-4656), as in effect on October 2, 2024.
+
+**(e) Incorporation of prior planning decisions**
+
+(1) **Definition** — In this subsection, the term “prior studies and decisions” means baseline data, planning documents, studies, analyses, decisions, and documentation that a Federal agency has completed for a project (or that have been completed under the laws and procedures of a State or Indian Tribe), including for determining the reasonable range of alternatives for that project.
+
+(2) **Reliance on prior studies and decisions** — In completing an environmental review under NEPA for a covered activity, the Secretary may consider and, as appropriate, rely on or adopt prior studies and decisions, if the Secretary determines that—
+
+  (A) those prior studies and decisions meet the standards for an adequate statement, assessment, or determination under applicable procedures of the Department of Commerce implementing the requirements of NEPA;
+
+  (B) in the case of prior studies and decisions completed under the laws and procedures of a State or Indian Tribe, those laws and procedures are of equal or greater rigor than those of each applicable Federal law, including NEPA, implementing procedures of the Department of Commerce; or
+
+  (C) if applicable, the prior studies and decisions are informed by other analysis or documentation that would have been prepared if the prior studies and decisions were prepared by the Secretary under NEPA.
+
+**(f) Definitions** In this section:
+
+(1) **Covered activity** — The term “covered activity” means any activity relating to the construction, expansion, or modernization of a facility, the investment in which is eligible for Federal financial assistance under section 4652 or 4656 of this title.
+
+(2) **NEPA** — The term “NEPA” means the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).
+
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this division” and was translated as reading “this title”, meaning title XCIX of div. H of Pub. L. 116–283, to reflect the probable intent of Congress.
+
+The National Environmental Policy Act of 1969, referred to in subsec. (f)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2024—Subsecs. (c) to (f). Pub. L. 118–105 added subsecs. (c) to (f).

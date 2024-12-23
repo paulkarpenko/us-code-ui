@@ -1855,13 +1855,35 @@ Jimmy Carter.
 
   (D) in a course described in subsection (g).
 
-**(e)** The Secretary may not approve the enrollment of an eligible veteran in a course not leading to a standard college degree offered by a proprietary profit or proprietary nonprofit educational institution if—
+**(e)**
 
-(1) the educational institution has been operating for less than two years;
+(1) 11 See Applicability of Amendment note below. The Secretary may not approve the enrollment of an eligible veteran in a course not leading to a standard college degree offered by a proprietary profit or proprietary nonprofit educational institution if—
 
-(2) the course is offered at a branch of the educational institution and the branch has been operating for less than two years; or
+  (A) the educational institution has been operating for less than two years;
 
-(3) following either a change in ownership or a complete move outside its original general locality, the educational institution does not retain substantially the same faculty, student body, and courses as before the change in ownership or the move outside the general locality (as determined in accordance with regulations the Secretary shall prescribe) unless the educational institution following such change or move has been in operation for at least two years.
+  (B) except as provided in paragraph (2),the course is offered at a branch of the educational institution and the branch has been operating for less than two years; or
+
+  (C) following either a change in ownership or a complete move outside its original general locality, the educational institution does not retain substantially the same faculty, student body, and courses as before the change in ownership or the move outside the general locality (as determined in accordance with regulations the Secretary shall prescribe) unless the educational institution following such change or move has been in operation for at least two years.
+
+(2)
+
+  (A) Subject to this paragraph, a commercial driver education program is exempt from paragraph (1)(B) for a branch of an educational institution if the commercial driver education program offered at the branch by the educational institution—
+
+    (i) is appropriately licensed; and
+
+    (ii) uses the same curriculum as a commercial driver education program offered by the educational institution at another location that is approved for purposes of this chapter by a State approving agency or the Secretary when acting in the role of a State approving agency.
+
+  (B)
+
+    (i) In order for a commercial driver education program of an educational institution offered at a branch described in paragraph (1)(B) to be exempt under subparagraph (A) of this paragraph, the educational institution shall submit to the Secretary each year that paragraph (1)(B) would otherwise apply a report that demonstrates that the curriculum at the new branch is the same as the curriculum at the primary location.
+
+    (ii) Reporting under clause (i) shall be submitted in accordance with such requirements as the Secretary shall establish in consultation with the State approving agencies.
+
+  (C)
+
+    (i) The Secretary may withhold an exemption under subparagraph (A) for any educational institution or branch of an educational institution as the Secretary considers appropriate.
+
+    (ii) In making any determination under clause (i), the Secretary may consult with the Secretary of Transportation on the performance of a provider of a commercial driver program, including the status of the provider within the Training Provider Registry of the Federal Motor Carrier Safety Administration when appropriate.
 
 **(f)**
 
@@ -1897,10 +1919,17 @@ Jimmy Carter.
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of subsection (e) of this section by section 2(a) of Pub. L. 118–95 applicable 180 days after the date on which the Secretary of Veterans Affairs establishes the requirements under section 2(b)(1) of Pub. L. 118–95. See 2024 Amendment notes below.
+
 #### References in Text
 The Higher Education Act of 1965, referred to in subsec. (a)(4)(A), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§ 1099b) of part H of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2024—Subsec. (e). Pub. L. 118–95, § 2(a)(1), (2), (4), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), and added par. (2).
+
+Subsec. (e)(1)(B). Pub. L. 118–95, § 2(a)(3), inserted “except as provided in paragraph (2),” before “the course”.
+
 2023—Subsec. (f). Pub. L. 117–333 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the Secretary” for “The Secretary”, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), and added par. (2).
 
 2022—Subsec. (d). Pub. L. 117–174 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to disapproval of enrollment in a course for any period during which the Secretary finds that more than 85 percent of the students enrolled in the course are having all or part of their tuition, fees, or other charges paid to or for them by the educational institution or by the Department of Veterans Affairs under this title or under chapter 106 of title 10, subject to waivers and exceptions.
@@ -1931,6 +1960,9 @@ Subsec. (d)(2)(C). Pub. L. 104–275, § 103(a)(2), substituted “subsection (g
 
 Subsecs. (e) to (g). Pub. L. 104–275, § 103(b), added subsecs. (e) to (g).
 
+#### Effective Date of 2024 Amendment
+Pub. L. 118–95, § 2(b)(2), Oct. 1, 2024, 138 Stat. 1568, provided that: “The amendments made by subsection (a) [amending this section] shall apply to commercial driver education programs on and after the date that is 180 days after the date on which the Secretary establishes the requirements under paragraph (1) of this subsection [set out as a note below].”
+
 #### Effective Date of 2022 Amendment
 Pub. L. 117–174, § 2(b), Aug. 26, 2022, 136 Stat. 2106, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after the date of the enactment of this Act [Aug. 26, 2022].”
 
@@ -1945,6 +1977,9 @@ Section not applicable to any person receiving educational assistance for pursui
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Implementation: Establishment of Requirements
+Pub. L. 118–95, § 2(b)(1), Oct. 1, 2024, 138 Stat. 1568, provided that: “Not later than 180 days after the date of the enactment of this Act [Oct. 1, 2024], the Secretary of Veterans Affairs shall establish requirements under section 3680A(e)(2)(B)(ii) of such title [title 38, United States Code], as added by subsection (a).”
 
 #### Treatment of Certain Courses
 Pub. L. 117–333, § 9(b), Jan. 5, 2023, 136 Stat. 6131, provided that: “In the case of any covered study-abroad course, under the meaning given such term in subparagraph (B) of paragraph (2) of subsection (f) of [section 3680A of title 38](./chapter-036-administration-of-educational-benefits.md#section-3680a), United States Code, as added by subsection (a), that is being offered under a contract or other written agreement as of the date of the enactment of this Act [Jan. 5, 2023], the Secretary of Veterans Affairs may approve such course under such paragraph (2) for the five-year period beginning on the date of the enactment of this Act, if such contract or other written agreement meets the criteria provided in subparagraph (A) of such paragraph.”

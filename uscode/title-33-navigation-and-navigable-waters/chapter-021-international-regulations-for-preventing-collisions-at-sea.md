@@ -6,8 +6,8 @@ section_count: 1
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
-<a id="section-1051-to-1053-1061-to-1094"></a>
-## § 1051 to 1053, 1061 to 1094. Repealed. Pub. L. 95–75, § 10, July 27, 1977, 91 Stat. 311
+<a id="section-1051-to-1094"></a>
+## § 1051 to 1094. Repealed. Pub. L. 95–75, § 10, July 27, 1977, 91 Stat. 311
 
 ### Statutory Notes
 

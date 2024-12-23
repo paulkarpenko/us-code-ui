@@ -45,6 +45,9 @@ source: >-
 
 Subsec. (g). Pub. L. 95–217, § 5(a), added subsec. (g).
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–152, § 1, Dec. 17, 2024, 138 Stat. 1686, provided that: “This Act [amending [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330)] may be cited as the ‘Pensacola and Perdido Bays Estuary of National Significance Act of 2024’.”
+
 #### Short Title of 2021 Amendment
 Pub. L. 117–58, div. E, § 50001, Nov. 15, 2021, 135 Stat. 1135, provided that: “This division [see Tables for classification] may be cited as the ‘Drinking Water and Wastewater Infrastructure Act of 2021’.”
 
@@ -9156,7 +9159,7 @@ Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollut
 
   (A) *In general* — In any case where the Administrator determines, on his own initiative or upon nomination of a State under paragraph (1), that the attainment or maintenance of that water quality in an estuary which assures protection of public water supplies and the protection and propagation of a balanced, indigenous population of shellfish, fish, and wildlife, and allows recreational activities, in and on the water, requires the control of point and nonpoint sources of pollution to supplement existing controls of pollution in more than one State, the Administrator shall select such estuary and convene a management conference.
 
-  (B) *Priority consideration* — The Administrator shall give priority consideration under this section to Long Island Sound, New York and Connecticut; Narragansett Bay, Rhode Island; Buzzards Bay, Massachusetts; Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor); Puget Sound, Washington; New York-New Jersey Harbor, New York and New Jersey; Delaware Bay, Delaware and New Jersey; Delaware Inland Bays, Delaware; Albemarle Sound, North Carolina; Sarasota Bay, Florida; San Francisco Bay, California; Santa Monica Bay, California; Galveston Bay, Texas; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; Lake Pontchartrain Basin, Louisiana and Mississippi; Peconic Bay, New York; Casco Bay, Maine; Tampa Bay, Florida; Coastal Bend, Texas; San Juan Bay, Puerto Rico; Tillamook Bay, Oregon; Piscataqua Region, New Hampshire; Barnegat Bay, New Jersey; Maryland Coastal Bays, Maryland; Charlotte Harbor, Florida; Mobile Bay, Alabama; Morro Bay, California; and Lower Columbia River, Oregon and Washington.
+  (B) *Priority consideration* — The Administrator shall give priority consideration under this section to Long Island Sound, New York and Connecticut; Narragansett Bay, Rhode Island; Buzzards Bay, Massachusetts; Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor); Puget Sound, Washington; New York-New Jersey Harbor, New York and New Jersey; Delaware Bay, Delaware and New Jersey; Delaware Inland Bays, Delaware; Albemarle Sound, North Carolina; Sarasota Bay, Florida; San Francisco Bay, California; Santa Monica Bay, California; Galveston Bay, Texas; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; Lake Pontchartrain Basin, Louisiana and Mississippi; Peconic Bay, New York; Casco Bay, Maine; Tampa Bay, Florida; Coastal Bend, Texas; San Juan Bay, Puerto Rico; Tillamook Bay, Oregon; Piscataqua Region, New Hampshire; Barnegat Bay, New Jersey; Maryland Coastal Bays, Maryland; Charlotte Harbor, Florida; Mobile Bay, Alabama; Morro Bay, California; Lower Columbia River, Oregon and Washington; and Pensacola and Perdido Bays, Florida.
 
 (3) **Boundary dispute exception** — In any case in which a boundary between two States passes through an estuary and such boundary is disputed and is the subject of an action in any court, the Administrator shall not convene a management conference with respect to such estuary before a final adjudication has been made of such dispute.
 
@@ -9293,6 +9296,8 @@ For purposes of paragraph (7), such programs and projects shall not be limited t
 Executive Order 12372, referred to in subsec. (b), is Ex. Ord. No. 12372, July 14, 1982, 47 F.R. 30959, as amended, which is set out under [section 6506 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6506&num=0&edition=prelim), Money and Finance.
 
 #### Amendments
+2024—Subsec. (a)(2)(B). Pub. L. 118–152 substituted “Lower Columbia River, Oregon and Washington; and Pensacola and Perdido Bays, Florida” for “and Lower Columbia River, Oregon and Washington”.
+
 2021—Subsec. (a)(2)(B). Pub. L. 116–337, § 2, substituted “Peconic Bay, New York; Casco Bay, Maine; Tampa Bay, Florida; Coastal Bend, Texas; San Juan Bay, Puerto Rico; Tillamook Bay, Oregon; Piscataqua Region, New Hampshire; Barnegat Bay, New Jersey; Maryland Coastal Bays, Maryland; Charlotte Harbor, Florida; Mobile Bay, Alabama; Morro Bay, California; and Lower Columbia River, Oregon and Washington” for “and Peconic Bay, New York”.
 
 Subsec. (b)(4). Pub. L. 116–337, § 3, inserted dash after “management plan that” and subpar. (A) designation before “recommends” and added subpars. (B) and (C).

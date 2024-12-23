@@ -32,6 +32,16 @@ source: >-
 
   (C) Upon receipt of a report submitted under subparagraph (A), each House shall provide copies of the report to the chairman and ranking member of each standing committee with jurisdiction under the rules of the House of Representatives or the Senate to report a bill to amend the provision of law under which the rule is issued.
 
+  (D) For any rule submitted under subparagraph (A), if the Federal agency promulgating the rule, in whole or in part, revokes, suspends, replaces, amends, or otherwise makes the rule ineffective, or the rule is made ineffective for any other reason, the Federal agency shall submit to the Comptroller General a report containing—
+
+    (i) the title of the rule;
+
+    (ii) the Federal Register citation for the rule, if any;
+
+    (iii) the date on which rule was submitted to the Comptroller General; and
+
+    (iv) a description of the provisions of the rule that are being revoked, suspended, replaced, amended, or otherwise made ineffective.
+
 (2)
 
   (A) The Comptroller General shall provide a report on each major rule to the committees of jurisdiction in each House of the Congress by the end of 15 calendar days after the submission or publication date as provided in section 802(b)(2). The report of the Comptroller General shall include an assessment of the agency’s compliance with procedural steps required by paragraph (1)(B), and shall in addition include an assessment of the agency’s compliance with such requirements of the Administrative Pay-As-You-Go Act of 2023 as may be applicable.
@@ -127,6 +137,9 @@ source: >-
 #### Amendment of Section
 For expiration of amendment by Pub. L. 118–5, see Termination Date of 2023 Amendment note below.
 
+#### Amendment of Subsection (a)(1)(D)
+Pub. L. 118–97, § 2(b), Oct. 1, 2024, 138 Stat. 1574, provided that, effective 6 years after Oct. 1, 2024, subsection (a)(1) of this section is amended by striking subparagraph (D). See 2024 Amendment note below.
+
 #### References in Text
 Sections 202, 203, 204, and 205 of the Unfunded Mandates Reform Act of 1995, referred to in subsec. (a)(1)(B)(iii), are classified to sections 1532, 1533, 1534, and 1535, respectively, of Title 2, The Congress.
 
@@ -135,7 +148,14 @@ The Administrative Pay-As-You-Go Act of 2023, referred to in subsec. (a)(2)(A), 
 The date of the enactment of this chapter, referred to in subsec. (e)(1), (2), is the date of the enactment of Pub. L. 104–121, which was approved Mar. 29, 1996.
 
 #### Amendments
+2024—Subsec. (a)(1)(D). Pub. L. 118–97, § 2(b), struck out subpar. (D) which required Federal agencies to submit to the Comptroller General a report on rules that are revoked, suspended, replaced, amended, or otherwise made ineffective.
+
+Pub. L. 118–97, § 2(a), added subpar. (D).
+
 2023—Subsec. (a)(2)(A). Pub. L. 118–5, §§ 268, 270, temporarily inserted “, and shall in addition include an assessment of the agency’s compliance with such requirements of the Administrative Pay-As-You-Go Act of 2023 as may be applicable” after “compliance with procedural steps required by paragraph (1)(B)”. See Termination Date of 2023 Amendment note below.
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–97, § 2(b), Oct. 1, 2024, 138 Stat. 1574, provided that the amendment made by section 2(b) is effective on the date that is 6 years after Oct. 1, 2024.
 
 #### Termination Date of 2023 Amendment
 Amendment by Pub. L. 118–5 expires on Dec. 31, 2024, see section 268 of Pub. L. 118–5, set out in a Statutory Administrative Pay-As-You-Go note under [section 551 of this title](./chapter-005-administrative-procedure.md#section-551).

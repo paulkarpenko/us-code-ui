@@ -721,7 +721,7 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 #### References in Text
 The Native American Housing Assistance and Self Determination Act of 1996, referred to in subsec. (a)(3), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
 
-The date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022, referred to in subsecs. (b)(2), (g), and (h)(2), is the date of enactment of div. U of Pub. L. 117–328, which was approved Dec. 29, 2022.
+The date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022, referred to in subsecs. (b)(2), (g)(1), and (h)(2), is the date of enactment of div. U of Pub. L. 117–328, which was approved Dec. 29, 2022.
 
 #### Prior Provisions
 A prior section 2021 was renumbered [section 4301 of this title](./chapter-043-employment-and-reemployment-rights-of-members-of-the-uniformed-services.md#section-4301) and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150.
@@ -779,13 +779,15 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 **(f) Authorization of Appropriations.—**
 
-(1) In addition to any amount authorized to be appropriated to carry out [section 2021 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2021), there is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2011 through 2024.
+(1) In addition to any amount authorized to be appropriated to carry out [section 2021 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2021), there is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2011 through 2025.
 
 (2) Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (f)(1). Pub. L. 118–83 substituted “2025” for “2024”.
+
 2022—Subsec. (e). Pub. L. 117–328 substituted “section 2021(h)(1)” for “section 2021(d)”.
 
 Subsec. (f)(1). Pub. L. 117–180 substituted “2024” for “2022”.
@@ -1028,11 +1030,13 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 (3) therapeutic transitional housing assistance under [section 2032 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2032), in conjunction with work therapy under subsection (a) or (b) of [section 1718 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1718) and outpatient care.
 
-**(b)** The authority of the Secretary under subsection (a) expires on September 30, 2024.
+**(b)** The authority of the Secretary under subsection (a) expires on September 30, 2025.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (b). Pub. L. 118–83 substituted “September 30, 2025” for “September 30, 2024”.
+
 2022—Subsec. (b). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”.
 
 2020—Subsec. (b). Pub. L. 116–159 substituted “September 30, 2022” for “September 30, 2020”.
@@ -1130,11 +1134,13 @@ Subsec. (b). Pub. L. 107–95, § 5(f), substituted “December 31, 2006” for 
 
 **(c)** The program shall include the services of such employees of the Veterans Benefits Administration as the Secretary determines appropriate at sites under the jurisdiction of the Secretary at which services are provided to homeless veterans.
 
-**(d)** The program under this section shall terminate on September 30, 2024.
+**(d)** The program under this section shall terminate on September 30, 2025.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (d). Pub. L. 118–83 substituted “September 30, 2025” for “September 30, 2024”.
+
 2022—Subsec. (d). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”.
 
 2020—Subsec. (d). Pub. L. 116–159 substituted “September 30, 2022” for “September 30, 2020”.
@@ -1480,21 +1486,21 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 
 **(e) Funding.—** From amounts appropriated to the Department for Medical Services, there shall be available to carry out subsections (a), (b), and (c) amounts as follows:
 
-(A) $15,000,000 for fiscal year 2009.
+(1) $15,000,000 for fiscal year 2009.
 
-(B) $20,000,000 for fiscal year 2010.
+(2) $20,000,000 for fiscal year 2010.
 
-(C) $25,000,000 for fiscal year 2011.
+(3) $25,000,000 for fiscal year 2011.
 
-(D) $100,000,000 for fiscal year 2012.
+(4) $100,000,000 for fiscal year 2012.
 
-(E) $320,000,000 for each of fiscal years 2015 through 2017.
+(5) $320,000,000 for each of fiscal years 2015 through 2017.
 
-(F) $340,000,000 for fiscal year 2018.
+(6) $340,000,000 for fiscal year 2018.
 
-(G) $380,000,000 for each of fiscal years 2019 and 2020.
+(7) $380,000,000 for each of fiscal years 2019 and 2020.
 
-(H) $420,000,000 for each of fiscal years 2021 through 2024.
+(8) $420,000,000 for each of fiscal years 2021 through 2025.
 
 **(f) Definitions.—** In this section:
 
@@ -1542,6 +1548,8 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 Pub. L. 112–37, § 12, Oct. 5, 2011, 125 Stat. 397, which directed amendment of “section 2044” without specifying the Code title to be amended, was executed to this section, which is [section 2044 of Title 38](./chapter-020-benefits-for-homeless-veterans.md#section-2044), Veterans’ Benefits, to reflect the probable intent of Congress. See 2011 Amendment notes below.
 
 #### Amendments
+2024—Subsec. (e). Pub. L. 118–83 substituted “2025” for “2024” in subpar. (H) and redesignated subpars. (A) to (H) as pars. (1) to (8), respectively.
+
 2022—Subsec. (e). Pub. L. 117–328, § 305(a), struck out par. (1) designation before “From amounts” and struck out pars. (2) and (3) which read as follows:
 
 “(2) Not more than $750,000 may be available under paragraph (1) in any fiscal year to provide technical assistance under subsection (d).
@@ -1774,13 +1782,15 @@ Section effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out
 
 **(d) Funding.—**
 
-(1) From amounts appropriated to the Department for “Medical Services” for each of fiscal years 2007 through 2024, $5,000,000 shall be available for each such fiscal year for the purposes of the program under this section.
+(1) From amounts appropriated to the Department for “Medical Services” for each of fiscal years 2007 through 2025, $5,000,000 shall be available for each such fiscal year for the purposes of the program under this section.
 
 (2) The Secretary shall ensure that funds for grants under this section are designated for the first three years of operation of the program under this section as a special purpose program for which funds are not allocated through the Veterans Equitable Resource Allocation system.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (d)(1). Pub. L. 118–83 substituted “2025” for “2024”.
+
 2022—Subsec. (d)(1). Pub. L. 117–180 substituted “2024” for “2022”.
 
 2020—Subsec. (d)(1). Pub. L. 116–159 substituted “2022” for “2020”.

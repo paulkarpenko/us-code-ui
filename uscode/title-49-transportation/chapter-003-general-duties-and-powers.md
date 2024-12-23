@@ -1615,7 +1615,7 @@ Section 4(j)(7) amends 49:329 to omit references to overseas air transportation 
 This amends 49:329 to make conforming amendments necessary because of the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 745).
 
 #### Amendments
-—2003—Subsec. (b)(1). Pub. L. 108–176, § 805, substituted “except that, if the Secretary requires air carriers to provide flight-specific information, the Secretary—” and subpars. (A) and (B) for “except that in no case shall the Secretary require an air carrier to provide information on the number of passengers or the amount of cargo on a specific flight if the flight and the flight number under which such flight operates are used solely for interstate air transportation and are not used for providing essential air transportation under subchapter II of chapter 417 of this title;”.
+2003—Subsec. (b)(1). Pub. L. 108–176, § 805(a), substituted “except that, if the Secretary requires air carriers to provide flight-specific information, the Secretary—” and subpars. (A) and (B) for “except that in no case shall the Secretary require an air carrier to provide information on the number of passengers or the amount of cargo on a specific flight if the flight and the flight number under which such flight operates are used solely for interstate air transportation and are not used for providing essential air transportation under subchapter II of chapter 417 of this title;”.
 
 Subsec. (e). Pub. L. 108–176, § 421, added subsec. (e).
 

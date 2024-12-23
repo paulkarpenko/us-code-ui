@@ -725,7 +725,7 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4502(b)], Nov. 29, 1999, 
 
 **(e) Director’s Authority.—** In addition to the limits imposed by this section, the Director may, in the Director’s discretion, impose income limits, annual filing limits, or other limits on who may qualify as a micro entity pursuant to this section if the Director determines that such additional limits are reasonably necessary to avoid an undue impact on other patent applicants or owners or are otherwise reasonably necessary and appropriate. At least 3 months before any limits proposed to be imposed pursuant to this subsection take effect, the Director shall inform the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate of any such proposed limits.
 
-**(f) Penalty for False Certifications.—** In addition to any other penalty available under law, an entity that is found to have falsely made a certification under this section shall be subject to a fine, to be determined by the Director, the amount of which shall be not less than 3 times the amount that the entity failed to pay as a result of the false certification, whether the Director discovers the false certification before or after the date on which a patent has been issued.
+**(f) Penalty for False Certifications.—** In addition to any other penalty available under law, an entity that is found to have falsely made a certification under this section shall, unless the entity shows that the certification was made in good faith, be subject to a fine, to be determined by the Director, the amount of which shall be not less than 3 times the amount that the entity failed to pay as a result of the false certification, whether the Director discovers the false certification before or after the date on which a patent has been issued.
 
 ### Statutory Notes
 
@@ -733,6 +733,8 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4502(b)], Nov. 29, 1999, 
 Section 61(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(3), (4), is classified to [section 61(a) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section61/a&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2024—Subsec. (f). Pub. L. 118–151 inserted “, unless the entity shows that the certification was made in good faith,” before “be subject”.
+
 2022—Subsec. (f). Pub. L. 117–328 added subsec. (f).
 
 2013—Subsec. (a). Pub. L. 112–274 inserted “of this title” after “For purposes” in introductory provisions.

@@ -110,6 +110,9 @@ Subsec. (b). Pub. L. 114–281, § 2(b), designated existing provisions as par. 
 
 2014—Subsec. (a)(4). Pub. L. 113–154 inserted “desecration of cemeteries,” after “confiscations of property,”.
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–90, § 1, Sept. 30, 2024, 138 Stat. 1559, provided that: “This Act [amending sections 6435 and 6436 of this title] may be cited as the ‘United States Commission on International Religious Freedom Reauthorization Act of 2024’.”
+
 #### Short Title of 2022 Amendment
 Pub. L. 117–181, § 1, Sept. 30, 2022, 136 Stat. 2177, provided that: “This Act [amending sections 6435 and 6436 of this title] may be cited as the ‘United States Commission on International Religious Freedom Reauthorization Act of 2022’.”
 
@@ -831,7 +834,7 @@ A prior section 206 of Pub. L. 105–292 was renumbered section 209 and is class
 
 <a id="section-6436"></a>
 ## § 6436. Authorization of appropriations
-**(a) In general** There are authorized to be appropriated to the Commission $3,500,000 for each of the fiscal years 2023 and 2024 to carry out the provisions of this chapter and [section 6433a of this title](./chapter-073-international-religious-freedom.md#section-6433a).
+**(a) In general** There are authorized to be appropriated to the Commission $3,500,000 for each of the fiscal years 2025 and 2026 to carry out the provisions of this chapter and [section 6433a of this title](./chapter-073-international-religious-freedom.md#section-6433a).
 
 **(b) Availability of funds** Amounts authorized to be appropriated under subsection (a) shall remain available until the earlier of—
 
@@ -851,6 +854,8 @@ A prior section 206 of Pub. L. 105–292 was renumbered section 209 and is class
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title](./chapter-073-international-religious-freedom.md#section-6401) and Tables.
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–90 substituted “2025 and 2026” for “2023 and 2024”.
+
 2022—Subsec. (a). Pub. L. 117–181 substituted “2023 and 2024” for “2019 through 2022”.
 
 2019—Subsec. (a). Pub. L. 116–94 substituted “2019 through 2022” for “2016 to 2019”.
@@ -943,11 +948,13 @@ Subsec. (e). Pub. L. 112–75, § 5(2), substituted “Foreign Affairs” for �
 <a id="section-6442"></a>
 ## § 6442. Termination
 
-The Commission shall terminate on September 30, 2024.
+The Commission shall terminate on September 30, 2026.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Pub. L. 118–90 substituted “September 30, 2026” for “September 30, 2024”.
+
 2022—Pub. L. 117–181 substituted “September 30, 2024” for “September 30, 2022”.
 
 2019—Pub. L. 116–94 substituted “2022” for “2019”.

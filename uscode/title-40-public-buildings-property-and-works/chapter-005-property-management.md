@@ -2,7 +2,7 @@
 title: 40
 chapter: '5'
 heading: PROPERTY MANAGEMENT
-section_count: 67
+section_count: 68
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40&num=0&edition=prelim
 ---
@@ -647,7 +647,7 @@ The words “Notwithstanding the provisions of any other law” are omitted as u
 
 <a id="section-529"></a>
 ## § 529. Annual executive agency reports on excess personal property
-**(a) In General.—** During the calendar quarter following the close of each fiscal year, each executive agency shall submit to the Administrator of General Services a report on personal property—
+**(a) In General.—** During the calendar quarter following the close of each fiscal year, each executive agency shall submit to the Administrator of General Services and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives a report on personal property—
 
 (1) obtained as—
 
@@ -665,7 +665,24 @@ The words “Notwithstanding the provisions of any other law” are omitted as u
 
 (3) other information the Administrator may require.
 
+**(c) Compilation of Data.—** Not later than 180 days following the close of a fiscal year, the Administrator shall compile the data in the reports submitted under subsection (a) and submit to the Committee on Homeland Security 11 So in original. The word “and” probably should appear. Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives and publish on a centralized online website a publicly available report, which shall include—
+
+(1) the complete data provided in each report in a user-friendly format;
+
+(2) a summary of the findings of each report, including the aggregate dollar amount of personal property determined to be no longer required for the purpose of the appropriation used to make the purchase; and
+
+(3) any other recommendations from the Administrator.
+
 ### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 118–99, § 2(e)(1), Oct. 1, 2024, 138 Stat. 1579, provided that, effective on the date that is 5 years after Oct. 1, 2024, this section is amended:
+
+(1) in subsection (a), in the matter preceding paragraph (1), by striking “and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives”; and
+
+(2) by striking subsection (c).
+
+See 2024 Amendment notes below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -675,6 +692,44 @@ The words “Notwithstanding the provisions of any other law” are omitted as u
 In subsection (a)(2), the words “in any manner whatsoever” are omitted as unnecessary.
 
 In subsection (b), the words “set out the categories of equipment” are substituted for “showing . . . categories of equipment” to clarify the required form and content of the report. The words “The Administrator shall submit a report to the Senate (or to the Secretary of the Senate if the Senate is not in session) and to the House of Representatives (or to the Clerk of the House if the House is not in session) summarizing and analyzing the reports of the executive agencies” are omitted pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 ([31 U.S.C. 1113](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim) note). See, also, page 173 of House Document No. 103–7.
+
+#### Amendments
+2024—Subsec. (a). Pub. L. 118–99, § 2(e)(1)(A), struck out “and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives” after “Administrator of General Services” in introductory provisions.
+
+Pub. L. 118–99, § 2(a)(1)(A), inserted “and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives” after “Administrator of General Services” in introductory provisions.
+
+Subsec. (c). Pub. L. 118–99, § 2(e)(1)(B), struck out subsec. (c) which related to compilation of data in the reports submitted under subsection (a).
+
+Subsec. (c). Pub. L. 118–99, § 2(a)(1)(B), added subsec. (c).
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–99, § 2(e), Oct. 1, 2024, 138 Stat. 1579, provided that the amendment made by section 2(e)(1) is effective on the date that is 5 years after Oct. 1, 2024.
+
+
+<a id="section-530"></a>
+## § 530. Internal guidance on excess personal property
+**(a) Initial Report.—** Not later than 180 days after the date of enactment of this section, each executive agency shall submit to the Administrator of General Services and make publicly available on the website of the executive agency the internal guidance of the executive agency on considering using excess personal property to meet the needs of the executive agency, which shall include—
+
+(1) a requirement to consider excess personal property before buying new;
+
+(2) when it is practicable to check for and obtain excess personal property;
+
+(3) how to evaluate the suitability of excess personal property for use; and
+
+(4) defined roles and responsibilities relevant to considering the use of excess personal property, including the designation of an employee as responsible for searching through available excess personal property for items that meet the needs of the executive agency.
+
+**(b) Updates.—** Each executive agency shall submit to the Administrator of General Services and update on the website of the executive agency any changes to the internal guidance submitted and made available under subsection (a).
+
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 118–99, § 2(e)(2), Oct. 1, 2024, 138 Stat. 1579, provided that, effective on the date that is 5 years after Oct. 1, 2024, this section is repealed.
+
+#### References in Text
+The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 118–99, which was approved Oct. 1, 2024.
+
+#### Effective Date of Repeal
+Pub. L. 118–99, § 2(e), Oct. 1, 2024, 138 Stat. 1579, provided that the repeal of this section by section 2(e)(2) is effective on the date that is 5 years after Oct. 1, 2024.
 
 
 <a id="section-541"></a>

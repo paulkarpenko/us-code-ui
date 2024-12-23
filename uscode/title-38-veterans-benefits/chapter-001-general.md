@@ -403,6 +403,15 @@ Pub. L. 90–77, title IV, § 405, Aug. 31, 1967, 81 Stat. 191, provided that: �
 #### Effective Date of 1965 Amendment
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–134, § 1, Nov. 25, 2024, 138 Stat. 1646, provided that: “This Act [amending [section 2306 of this title](./chapter-023-burial-benefits.md#section-2306)] may be cited as the ‘Mark Our Place Act’.”
+
+Pub. L. 118–130, § 1, Nov. 25, 2024, 138 Stat. 1639, provided that: “This Act [enacting provisions set out as notes under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114)] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2024’.”
+
+Pub. L. 118–114, § 1, Nov. 25, 2024, 138 Stat. 1605, provided that: “This Act [amending [section 6107 of this title](./chapter-061-penal-and-forfeiture-provisions.md#section-6107)] may be cited as the ‘Restoring Benefits to Defrauded Veterans Act’.”
+
+Pub. L. 118–95, § 1, Oct. 1, 2024, 138 Stat. 1567, provided that: “This Act [amending [section 3680A of this title](./chapter-036-administration-of-educational-benefits.md#section-3680a)] may be cited as the ‘Veteran Improvement Commercial Driver License Act of 2023’.”
+
 #### Short Title of 2023 Amendment
 Pub. L. 118–21, § 1, Nov. 13, 2023, 137 Stat. 109, provided that: “This Act [amending sections 5702 and 5901 of this title and enacting provisions set out as notes under sections 5702 and 5901 of this title] may be cited as the ‘Wounded Warrior Access Act’.”
 
@@ -1878,7 +1887,7 @@ Sec. 6. Executive Order No. 11142 of February 12, 1964, is hereby superseded.
 
 (1) The Secretary may transport any person to or from a Department facility or other place in connection with vocational rehabilitation, counseling required by the Secretary pursuant to chapter 34 or 35 of this title, or for the purpose of examination, treatment, or care.
 
-(2) The authority granted by paragraph (1) shall expire on September 30, 2024.
+(2) The authority granted by paragraph (1) shall expire on September 30, 2025.
 
 **(b) Transportation by Third-parties.—**
 
@@ -1904,6 +1913,8 @@ Sec. 6. Executive Order No. 11142 of February 12, 1964, is hereby superseded.
 The date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 116–315, which was approved Jan. 5, 2021.
 
 #### Amendments
+2024—Subsec. (a)(2). Pub. L. 118–83 substituted “September 30, 2025” for “September 30, 2024”.
+
 2022—Subsec. (a)(2). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”.
 
 2021—Subsec. (b). Pub. L. 116–315 designated existing provisions as par. (1) and added par. (2).

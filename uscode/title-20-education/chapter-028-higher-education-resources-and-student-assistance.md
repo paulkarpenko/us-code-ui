@@ -86,6 +86,9 @@ Pub. L. 96–374, title XIII, § 1393, Oct. 3, 1980, 94 Stat. 1504, provided tha
 #### Effective Date of 1976 Amendment
 Pub. L. 94–482, title V, § 532, Oct. 12, 1976, 90 Stat. 2241, provided that: “The provisions of this Act [see Tables for classification] and the amendments made by this Act shall take effect 30 days after the date of the enactment of this Act [Oct. 12, 1976] except— “(1) as specifically otherwise provided; and “(2) that each amendment made by this Act (not subject to clause (1) of this section) providing for authorization of appropriations shall take effect July 1, 1976.”
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–145, § 1, Dec. 11, 2024, 138 Stat. 1671, provided that: “This Act [amending [section 1090 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1090)] may be cited as the ‘FAFSA Deadline Act’.”
+
 #### Short Title of 2022 Amendment
 Pub. L. 117–200, § 1, Oct. 11, 2022, 136 Stat. 2219, provided that: “This Act [amending sections 1078–3 and 1087e of this title] may be cited as the ‘Joint Consolidation Loan Separation Act’.”
 
@@ -26260,7 +26263,23 @@ Pub. L. 97–301, § 6, Oct. 13, 1982, 96 Stat. 1400, as amended by Pub. L. 98�
 
 (3) **Charges to students and parents for use of forms prohibited** — The need for and eligibility of a student for financial assistance under this subchapter may be determined only by using the Free Application for Federal Student Aid developed by the Secretary under this section. Such application shall be produced, distributed, and processed by the Secretary, and no parent or student shall be charged a fee by the Secretary, a contractor, a third-party servicer or private software provider, or any other public or private entity for the collection, processing, or delivery of Federal financial aid through the use of such application. No data collected on a form for which a fee is charged shall be used to complete the Free Application for Federal Student Aid prescribed under this section, except that a Federal or State income tax form prepared by a paid income tax preparer or preparer service for the primary purpose of filing a Federal or State income tax return may be used to complete the Free Application for Federal Student Aid prescribed under this section.
 
-(4) **Application processing cycle** — The Secretary shall enable applicants to submit a Free Application for Federal Student Aid developed under this section and initiate the processing of such application, not later than January 1 of the applicant’s planned year of enrollment, to the maximum extent practicable, on or around October 1 prior to the applicant’s planned year of enrollment.
+(4) **Application processing cycle**
+
+  (A) *In general* — The Secretary shall enable applicants to submit a Free Application for Federal Student Aid developed under this section and initiate the processing of such application, not later than October 1 prior to the applicant’s planned year of enrollment.
+
+  (B) *Certification and testimony requirements* — The Secretary shall, with respect to each application processing cycle, prior to the initiation of such processing cycle—
+
+    (i) on a date that is not later than September 1—
+
+      (I) certify to the authorizing committees that the Department will meet the October 1 deadline specified in subparagraph (A) for such processing cycle; or
+
+      (II) certify to such committees that the Department will not meet such deadline; and
+
+    (ii) in the case of a certification described in clause (i)(II), on a date that is not later than September 30, testify before the authorizing committees on—
+
+      (I) the anticipated failure to meet such deadline; and
+
+      (II) the financial impact such failure will have on students and families.
 
 (5) **Early estimates** — The Secretary shall maintain an electronic method for applicants to enter income and family size information to calculate a non-binding estimate of the applicant’s Federal financial aid available under this subchapter and shall place such calculator on a prominent location at the beginning of the Free Application for Federal Student Aid.
 
@@ -26279,6 +26298,8 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (a)(2)(
 A prior section 1090, Pub. L. 89–329, title IV, § 483, as added Pub. L. 96–374, title IV, § 451(a), Oct. 3, 1980, 94 Stat. 1448, related to forms and regulations for student assistance programs, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+2024—Subsec. (d)(4). Pub. L. 118–145 designated existing provisions as subpar. (A) and inserted heading, substituted “not later than October 1 prior to the applicant’s planned year of enrollment” for “not later than January 1 of the applicant’s planned year of enrollment, to the maximum extent practicable, on or around October 1 prior to the applicant’s planned year of enrollment”, and added subpar. (B).
+
 2022—Subsecs. (a)(1), (b)(2)(B). Pub. L. 117–103 substituted “award year 2024–2025” for “award year 2023–2024”.
 
 2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to forms and regulations.

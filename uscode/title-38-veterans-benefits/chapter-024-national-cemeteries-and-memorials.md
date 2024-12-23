@@ -132,7 +132,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 (4) Any citizen of the United States who, during any war in which the United States is or has been engaged, served in the armed forces of any government allied with the United States during that war, and whose last such service terminated honorably.
 
-(5) The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7), and the spouse, minor child, and, in the discretion of the Secretary, unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s or child’s death if such death occurs before October 1, 2024.
+(5) The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7), and the spouse, minor child, and, in the discretion of the Secretary, unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s or child’s death if such death occurs before September 30, 2025.
 
 (6) Such other persons or classes of persons as may be designated by the Secretary.
 
@@ -188,6 +188,8 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 Section 2(1) of the Hmong Veterans’ Naturalization Act of 2000, referred to in subsec. (a)(10)(A)(i), is section 2(1) of Pub. L. 106–207, May 26, 2000, 114 Stat. 316, which is set out as a note under [section 1423 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1423&num=0&edition=prelim), Aliens and Nationality.
 
 #### Amendments
+2024—Subsec. (a)(5). Pub. L. 118–83 substituted “September 30, 2025” for “October 1, 2024”.
+
 2023—Subsec. (a)(2). Pub. L. 118–31 inserted “any member of the Space Force,” after “a Reserve component of the Armed Forces,”.
 
 2021—Subsec. (a)(1). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
@@ -324,9 +326,11 @@ Amendment by Pub. L. 97–66 applicable with respect to veterans dying before, o
 
   (C) in the case of any cemetery located on the grounds of or adjacent to a Department health-care facility, the Secretary may provide for flat grave markers;
 
-  (D) in the case of grave sites of cremated remains that are interred in the ground, the Secretary may provide for flat grave markers; and
+  (D) in the case of grave sites of cremated remains that are interred in the ground, the Secretary may provide for flat grave markers.11 So in original. The period probably should be a semicolon.
 
-  (E) in the case of grave sites in a green burial section designated under subsection (i), the Secretary may provide for grave markers of such type as the Secretary considers appropriate.
+  (E) in the case of grave sites in a green burial section designated under subsection (i), the Secretary may provide for grave markers of such type as the Secretary considers appropriate; and
+
+  (F) in the case of Santa Fe National Cemetery, New Mexico, the Secretary may provide for flat grave markers in any section of such cemetery in which flat markers were in use on December 22, 2023.
 
 **(d)** There shall be kept in each national cemetery, and at the main office of the Department, a register of burials in each cemetery setting forth the name of each person buried in the cemetery, the number of the grave in which the veteran is buried, and such other information as the Secretary by regulation may prescribe.
 
@@ -369,6 +373,8 @@ Amendment by Pub. L. 97–66 applicable with respect to veterans dying before, o
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (c)(2)(F). Pub. L. 118–83 added subpar. (F).
+
 2023—Subsec. (c)(2)(E). Pub. L. 117–355, § 3(1), added subpar. (E).
 
 Subsec. (i). Pub. L. 117–355, § 3(2), added subsec. (i).

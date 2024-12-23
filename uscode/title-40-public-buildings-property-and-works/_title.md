@@ -2,7 +2,7 @@
 title: 40
 heading: 'PUBLIC BUILDINGS, PROPERTY, AND WORKS'
 positive_law: true
-sections: 451
+sections: 452
 chapters: 44
 ---
 # Title 40. PUBLIC BUILDINGS, PROPERTY, AND WORKS

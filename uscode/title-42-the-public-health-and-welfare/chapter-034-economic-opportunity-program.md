@@ -956,8 +956,8 @@ Section 2815, Pub. L. 88–452, title II, § 228, as added Pub. L. 92–424, § 
 Repeal effective Oct. 1, 1981, see [section 9912(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9912/a&num=0&edition=prelim), prior to the general amendment of chapter 106 (§ 9901 et seq.) of this title by Pub. L. 105–285.
 
 
-<a id="section-2841-2851-to-2856"></a>
-## § 2841, 2851 to 2856. Repealed. Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519
+<a id="section-2841-to-2856"></a>
+## § 2841 to 2856. Repealed. Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519
 
 ### Statutory Notes
 

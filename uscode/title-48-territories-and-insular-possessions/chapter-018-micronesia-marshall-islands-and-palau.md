@@ -1691,6 +1691,9 @@ Commissioner of Immigration and Naturalization to issue regulations, not later t
 #### Recital Clauses
 Pub. L. 99–658 which enacted this part contained several “Whereas” clauses reading as follows: “Whereas the United States is the administering authority of the Trust Territory of the Pacific Islands under the terms of the Trusteeship Agreement for the former Japanese Mandated Islands entered into by the United States with the Security Council of the United Nations on April 2, 1947, and approved by the United States on July 18, 1947; and “Whereas the United States, in accordance with the Trusteeship Agreement, the Charter of the United Nations and the objectives of the international trusteeship system, has promoted the development of the peoples of the Trust Territory toward self-government or independence as appropriate to the particular cicumstances [sic] of the Trust Territory and its peoples and the freely expressed wishes of the peoples concerned; and “Whereas the United States, in response to the desires of the people of Palau expressed through their freely-elected representatives and by the official pronouncements and enactments of their lawfully constituted government, and in consideration of its own obligations under the Trusteeship Agreement to promote self-determination, entered into political status negotiations with representatives of the people of Palau; and “Whereas these negotiations resulted in the ‘Compact of Free Association’ [set out below] between the United States and Palau which, together with its related agreements, was signed by the United States and by Palau on January 10, 1986; and “Whereas the Compact of Free Association received a favorable vote of a majority of the people of Palau voting in a United Nations-observed plebiscite conducted on February 21, 1986; and “Whereas the Supreme Court of Palau has ruled that the constitutional process of Palau for approval of the Compact of Free Association in accordance with section 411 of the Compact has not yet been completed; and “Whereas the President of Palau has requested the United States to complete the process of United States approval of the Compact of Free Association in accordance with section 411 of the Compact through enactment of an appropriate joint resolution”.
 
+#### Federal Programs and Services Agreement With the Government of the Republic of Palau
+Pub. L. 118–83, div. B, title I, § 110(a), Sept. 26, 2024, 138 Stat. 1536, provided that: “During the period beginning on October 1, 2024, and ending on the date on which a new Federal programs and services agreement with the Government of the Republic of Palau enters into force, any activities described in sections 132 and 221(a) of the Compact of Free Association between the Government of the United States of America and the Government of the Republic of Palau set forth in section 201 of Public Law 99–658 ([48 U.S.C. 1931](./chapter-018-micronesia-marshall-islands-and-palau.md#section-1931) note) shall, with the mutual consent of the Government of the Republic of Palau, continue in the manner authorized and required for fiscal year 2024 under the amended agreements described in subsections (b) and (f) of section 462 of that Compact.”
+
 #### Agreement Supplemental to Compact of Free Association With Palau
 Pub. L. 115–91, div. A, title XII, § 1259C(a), (b), Dec. 12, 2017, 131 Stat. 1687, provided that: “(a) Approval of Agreement Supplemental to Compact.—“(1) In general.—Subject to the availability of appropriations that meet the total financial obligations for such purpose, the Compact Review Agreement and appendices signed by the United States and the Republic of Palau on September 3, 2010, in connection with section 432 of the Compact of Free Association with Palau (Public Law 99–658; [48 U.S.C. 1931](./chapter-018-micronesia-marshall-islands-and-palau.md#section-1931) note) are approved. “(2) Funding schedule.—The Compact Review Agreement includes a funding schedule that is to be modified by the parties to the Compact Review Agreement, and such funding schedule (as so modified) is approved. The Compact Review Agreement, appendices, and funding schedule (as so modified) are referred to hereinafter as the ‘Agreement’. “(b) Status of Prior Year Payments.—Amounts provided to the Government of Palau by the Government of the United States in fiscal years 2011 through 2017 shall also be considered as funding to implement the Agreement.”
 
@@ -2421,24 +2424,31 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
     (ix) Articles VI, XV, and XVII of the agreement described in section 462(b)(7) of the 2023 Amended U.S.-FSM Compact and 2023 Amended U.S.-RMI Compact and section 462(i) of the U.S.-Palau Compact.
 
-**(e) Entry into force of future amendments to subsidiary agreements** An agreement between the United States and the Government of the Federated States of Micronesia, the Government of the Republic of the Marshall Islands, or the Government of the Republic of Palau that would amend, change, or terminate any subsidiary agreement or portion of a subsidiary agreement (other than an amendment to, change to, or termination of an agreement described in subsection (d)) shall not enter into force until the date that is 90 days after the date on which the President has transmitted to the President of the Senate and the Speaker of the House of Representatives—
+**(e) Entry into force of future amendments to subsidiary agreements**
 
-(1) the agreement to amend, change, or terminate the subsidiary agreement;
+(1) **In general** — An agreement between the United States and the Government of the Federated States of Micronesia, the Government of the Republic of the Marshall Islands, or the Government of the Republic of Palau that would amend, change, or terminate any subsidiary agreement or portion of a subsidiary agreement (other than an amendment to, change to, or termination of an agreement described in subsection (d)) shall not enter into force until the date that is 90 days after the date on which the President has transmitted to the President of the Senate and the Speaker of the House of Representatives—
 
-(2) an explanation of the amendment, change, or termination;
+  (A) the agreement to amend, change, or terminate the subsidiary agreement;
 
-(3) a description of the reasons for the amendment, change, or termination; and
+  (B) an explanation of the amendment, change, or termination;
 
-(4) in the case of an agreement that would amend, change, or terminate any agreement described in section 462(b)(3) of the 2023 Amended U.S.-FSM Compact or the 2023 Amended U.S.-RMI Compact, a statement by the Secretary of Labor that describes—
+  (C) a description of the reasons for the amendment, change, or termination; and
 
-  (A) the necessity of the amendment, change, or termination; and
+  (D) in the case of an agreement that would amend, change, or terminate any agreement described in section 462(b)(3) of the 2023 Amended U.S.-FSM Compact or the 2023 Amended U.S.-RMI Compact, a statement by the Secretary of Labor that describes—
 
-  (B) any impacts of the amendment, change, or termination.
+    (i) the necessity of the amendment, change, or termination; and
+
+    (ii) any impacts of the amendment, change, or termination.
+
+(2) **Federal programs and services agreement with the republic of Palau** — Subparagraphs (A) and (D)(iii) of [section 1931(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1931/c/2&num=0&edition=prelim) and subsection (d)(2)(A) shall not apply to an agreement that would amend, change, or terminate the agreement described in section 462(f) of the U.S.-Palau Compact.
 
 ### Statutory Notes
 
 #### Codification
 Section is comprised of section 204 of title II of div. G of Pub. L. 118–42. Subsecs. (a)(1) and (b)(1) of section 204 of title II of div. G of Pub. L. 118–42, insofar as they incorporate the 2023 Agreement to Amend the U.S.-FSM Compact and the 2023 Agreement to Amend the U.S.-RMI Compact, are also classified as amendments to sections 201(a) and 201(b), respectively, of Pub. L. 108–188, which are set out as notes under [section 1921 of this title](./chapter-018-micronesia-marshall-islands-and-palau.md#section-1921).
+
+#### Amendments
+2024—Subsec. (e). Pub. L. 118–83 designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), redesignated former subpars. (A) and (B) of par. (4) as cls. (i) and (ii), respectively, of par. (1)(D), realigned margins, and added par. (2).
 
 
 <a id="section-1984"></a>
@@ -3039,9 +3049,11 @@ Section is comprised of section 209 of title II of div. G of Pub. L. 118–42. S
 
   (C) sections 131 and 132 and paragraphs (1), (3), and (4) of section 221(a) of the U.S.-Palau Compact;
 
-  (D) Article 6 of the 2023 U.S.-Palau Compact Review Agreement; and
+  (D) Article 6 of the 2023 U.S.-Palau Compact Review Agreement;
 
-  (E) [section 1988 of this title](./chapter-018-micronesia-marshall-islands-and-palau.md#section-1988).
+  (E) with respect to the Federal Deposit Insurance Corporation, any applicable Federal programs and services agreement between the United States and the Republic of Palau; and
+
+  (F) [section 1988 of this title](./chapter-018-micronesia-marshall-islands-and-palau.md#section-1988).
 
 (3) **Authority** — The heads of the Federal agencies, departments, and instrumentalities to which appropriations are made available under paragraph (1) as well as the Federal Deposit Insurance Corporation shall—
 
@@ -3111,6 +3123,9 @@ The Compact of Free Association Amendments Act of 2003, referred to in subsec. (
 Section 1259C of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (e)(4), is section 1259C of Pub. L. 115–91, which amended [section 1921d of this title](./chapter-018-micronesia-marshall-islands-and-palau.md#section-1921d) and enacted provisions set out as a note under [section 1931 of this title](./chapter-018-micronesia-marshall-islands-and-palau.md#section-1931).
 
 The Department of the Interior, Environment, and Related Agencies Appropriations Act, 2018, referred to in subsec. (e)(5), is div. G of Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 635. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+2024—Subsec. (a)(2)(E), (F). Pub. L. 118–83 added subpar. (E) and redesignated former subpar. (E) as (F).
 
 
 <a id="section-1990"></a>

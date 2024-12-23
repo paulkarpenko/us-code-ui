@@ -306,7 +306,7 @@ Subsecs. (e), (f). Pub. L. 104–287, § 5(75)(B), redesignated subsec. (f) as (
 Subsec. (b). Pub. L. 103–429 inserted “Government” before “money may be expended”.
 
 #### Effective Date of 2024 Amendment
-Pub. L. 118–63, title VII, § 728(b), May 16, 2024, 138 Stat. 1271, provided that: “The amendments made by this section [amending this section] shall take effect beginning on October 1, 2024.”
+Pub. L. 118–63, title VII, § 728(b), May 16, 2024, 138 Stat. 1271, as amended by Pub. L. 118–83, div. B, title I, § 114, Sept. 26, 2024, 138 Stat. 1537, provided that: “The amendments made by this section [amending this section] shall take effect beginning on December 20, 2024.”
 
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under [section 106 of this title](./chapter-001-organization.md#section-106).

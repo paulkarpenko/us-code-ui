@@ -48,7 +48,7 @@ source: >-
 
 (2) the presentation of any scientific or medical findings or the exchange or review of scientific or medical information by any Federal agency; or
 
-(3) the authority of the Food and Drug Administration under the provisions of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.].
+(3) the authority of the Food and Drug Administration under the provisions of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321&num=0&edition=prelim) 11 So in original. Probably should be “301”. et seq.).
 
 ### Statutory Notes
 

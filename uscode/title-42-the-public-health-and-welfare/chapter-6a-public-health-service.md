@@ -140,6 +140,18 @@ Pub. L. 86–624, § 47(f), July 12, 1960, 74 Stat. 423, provided that: “The a
 Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 47(d) of Pub. L. 86–70.
 
 #### Short Title of 2024 Amendment
+Pub. L. 118–158, div. C, § 3001(a), Dec. 21, 2024, 138 Stat. 1761, provided that: “This division [amending sections 247d, 247d–7e, 247d–7f, 254b–2, 254c–2, 254c–3, 256h, 300hh–10b to 300hh–10d, 300hh–11, 701, 710, 713, 1395f, 1395m, 1395w–4, 1395w–102, 1395cc–7, 1395ww, 1395aaa, 1395iii, and 1396r–4 of this title and [section 3014 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3014&num=0&edition=prelim), Crimes and Criminal Procedure, enacting provisions set out as notes under sections 1395m and 1395ww of this title, and amending provisions set out as notes under sections 1395b–3 and 1395ww of this title] may be cited as the ‘Health Extensions and Other Matters Act, 2025’.”
+
+Pub. L. 118–147, § 1, Dec. 12, 2024, 138 Stat. 1674, provided that: “This Act [amending [section 280e–5 of this title](./chapter-6a-public-health-service.md#section-280e-5)] may be cited as the ‘Firefighter Cancer Registry Reauthorization Act of 2023’.”
+
+Pub. L. 118–142, § 1, Dec. 11, 2024, 138 Stat. 1662, provided that: “This Act [amending [section 280c–5 of this title](./chapter-6a-public-health-service.md#section-280c-5)] may be cited as the ‘BOLD Infrastructure for Alzheimer’s Reauthorization Act of 2024’.”
+
+Pub. L. 118–107, § 1, Nov. 21, 2024, 138 Stat. 1594, provided that: “This Act [amending [section 280g–13 of this title](./chapter-6a-public-health-service.md#section-280g-13)] may be cited as the ‘Congenital Heart Futures Reauthorization Act of 2024’.”
+
+Pub. L. 118–86, § 1, Sept. 26, 2024, 138 Stat. 1549, provided that: “This Act [amending sections 300d–71 to 300d–73 of this title] may be cited as the ‘Poison Control Centers Reauthorization Act of 2024’.”
+
+Pub. L. 118–84, § 1, Sept. 26, 2024, 138 Stat. 1544, provided that: “This Act [amending [section 254c–15 of this title](./chapter-6a-public-health-service.md#section-254c-15) and renumbering [section 254c–15 of this title](./chapter-6a-public-health-service.md#section-254c-15) as section 290ee–10] may be cited as the ‘Supporting and Improving Rural EMS Needs Reauthorization Act’ or the ‘SIREN Reauthorization Act’.”
+
 Pub. L. 118–66, § 1, July 2, 2024, 138 Stat. 1443, provided that: “This Act [enacting part W of subchapter II of this chapter] may be cited as the ‘Dr. Emmanuel Bilirakis and Honorable Jennifer Wexton National Plan to End Parkinson’s Act’.”
 
 #### Short Title of 2023 Amendment
@@ -3821,6 +3833,105 @@ Pub. L. 111–148, title III, § 3509(h), Mar. 23, 2010, 124 Stat. 537, provided
 
 #### Limitation on Termination
 Pub. L. 111–148, title III, § 3509(i), Mar. 23, 2010, 124 Stat. 537, provided that: “Notwithstanding any other provision of law, a Federal office of women’s health (including the Office of Research on Women’s Health of the National Institutes of Health) or Federal appointive position with primary responsibility over women’s health issues (including the Associate Administrator for Women’s Services under the Substance Abuse and Mental Health Services Administration) that is in existence on the date of enactment of this section [Mar. 23, 2010] shall not be terminated, reorganized, or have any of it’s [sic] powers or duties transferred unless such termination, reorganization, or transfer is approved by Congress through the adoption of a concurrent resolution of approval.”
+
+#### Ex. Ord. No. 14120. Advancing Women’s Health Research and Innovation
+Ex. Ord. No. 14120, Mar. 18, 2024, 89 F.R. 20095, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. My Administration is committed to getting women the answers they need about their health. For far too long, scientific and biomedical research excluded women and undervalued the study of women’s health. The resulting research gaps mean that we know far too little about women’s health across women’s lifespans, and those gaps are even more prominent for women of color, older women, and women with disabilities.
+
+The notion of including women in clinical trials used to be revolutionary—which means many diagnostics and treatments were developed without women in mind and thus failed to account for women’s health. Over 30 years ago, the Congress passed the landmark National Institutes of Health Revitalization Act of 1993 (Public Law 103–43) [see Tables for classification] to direct the National Institutes of Health (NIH), the largest public funder of biomedical research in the world, to include women and people of color in NIH-funded clinical research. In 2016, the Congress built on these requirements in the 21st Century Cures Act (Public Law 114–255) [see Tables for classification], which directed the NIH to further its pursuit of women’s health research, including by strengthening clinical trial inclusion and data analysis, developing research and data standards to advance the study of women’s health, and improving NIH-wide coordination on women’s health research.
+
+These policies led to significant increases in women’s participation in clinical trials, and ongoing investments in biomedical research have supported breakthroughs in women’s health. Through the discovery of genetic factors that increase the risk of breast cancer and innovations in mammography, we have transformed our approach to prevention, early detection, and treatment, and have improved outcomes for women facing a breast cancer diagnosis. We have improved access to life-saving treatments for women with severe heart failure by ensuring that the devices they need are the right size for a woman’s body. We have also identified some of the most characteristic symptoms of heart attack in women, which are different from those in men—discoveries that have helped deliver faster treatment to women when every second counts. This is what we can achieve when we invest in women’s health research.
+
+It is time, once again, to pioneer the next generation of discoveries in women’s health. My Administration seeks to fundamentally change how we approach and fund women’s health research in the United States. That is why I established the first-ever White House Initiative on Women’s Health Research (Initiative)—which is within the Office of the First Lady and includes a wide array of executive departments and agencies (agencies) and White House offices—to accelerate research that will provide the tools we need to prevent, diagnose, and treat conditions that affect women uniquely, disproportionately, or differently.
+
+Together with the First Lady’s tireless efforts, the Initiative is already galvanizing the Federal Government to advance women’s health, including through investments in innovation and improved coordination within and across agencies. We are also mobilizing leaders across a wide range of sectors, including industry, philanthropy, and the medical and research communities, to improve women’s health.
+
+It is the policy of my Administration to advance women’s health research, close health disparities, and ensure that the gains we make in research laboratories are translated into real-world clinical benefits for women. It is also the policy of my Administration to ensure that women have access to high-quality, evidence-based health care and to improve health outcomes for women across their lifespans and throughout the country.
+
+I will continue to call on the Congress to provide the transformative investments necessary to help our researchers and scientists answer today’s most pressing questions related to women’s health. Investing in innovation in women’s health is an investment in the future of American families and the economy. At the same time, agencies must use their existing authorities to advance and integrate women’s health across the Federal research portfolio, close research gaps, and make investments that maximize our ability to prevent, diagnose, and treat health conditions in women.
+
+Sec. 2. Definitions. For purposes of this order:
+
+(a) The term “women’s health research” means research aimed at expanding knowledge of women’s health across their lifespans, which includes the study and analysis of conditions specific to women, conditions that disproportionately impact women, and conditions that affect women differently.
+
+(b) The term “White House Initiative on Women’s Health Research” means the interagency, advisory body established by the Presidential Memorandum of November 13, 2023 (White House Initiative on Women’s Health Research) [set out below], to advance women’s health research.
+
+(c) The term “agency Members of the Initiative” refers to the Secretary of Defense, the Secretary of Agriculture, the Secretary of Health and Human Services, the Secretary of Veterans Affairs, the Administrator of the Environmental Protection Agency, and the Director of the National Science Foundation.
+
+Sec. 3. Further Integrating Women’s Health Research in Federal Research Programs. (a) Building on research and data standards issued by the NIH in 2016, agency Members of the Initiative shall consider actions to develop or strengthen research and data standards that enhance the study of women’s health across all relevant, federally funded research and other Federal funding opportunities. Agency Members of the Initiative shall consider issuing new guidance, application materials, reporting requirements, and research dissemination strategies to advance the study of women’s health, including to:
+
+(i) require applicants for Federal research funding, as appropriate, to explain how their proposed study designs will consider and advance our knowledge of women’s health, including through the adoption of standard application language;
+
+(ii) consider women’s health, as appropriate, during the evaluation of research proposals that address medical conditions that may affect women differently or disproportionately;
+
+(iii) improve accountability for grant recipients, including, as appropriate, by requiring regular reporting on their implementation of, and compliance with, research and data standards related to women’s health, including compliance with recruitment milestones; and
+
+(iv) improve the recruitment, enrollment, and retention of women in clinical trials, including, as appropriate, by reducing barriers through technological and data sciences advances.
+
+(b) Within 30 days of the date of this order [Mar. 18, 2024], the Chair of the Initiative and the Director of the NIH Office of Research on Women’s Health, in consultation with the Director of the Office of Management and Budget (OMB), shall establish and co-chair a subgroup of the Initiative to promote interagency alignment and consistency in the development of agency research and data standards to enhance the study of women’s health.
+
+(c) Within 90 days of the date of this order, agency Members of the Initiative shall report to the Chair of the Initiative on actions taken to strengthen research and data standards to enhance the study and analysis of women’s health and related conditions.
+
+(d) Within 180 days of the date of this order and on an annual basis thereafter, agency Members of the Initiative shall report to the President on the status of implementation of research and data standards.
+
+Sec. 4. Prioritizing Federal Investments in Women’s Health Research. (a) Agency Members of the Initiative shall identify and, as appropriate and consistent with applicable law, prioritize grantmaking and other awards to advance women’s health research, with an emphasis on:
+
+(i) promoting collaborative, interdisciplinary research across fields and areas of expertise;
+
+(ii) addressing health disparities and inequities affecting women, including those related to race, ethnicity, age, socioeconomic status, disability, and exposure to environmental factors and contaminants that can directly affect health; and
+
+(iii) supporting the translation of research advancements into improved health outcomes.
+
+(b) Agency Members of the Initiative shall take steps to promote the availability of federally funded research and other Federal funding opportunities to advance women’s health, including through the development and inclusion of standard language related to women’s health, as appropriate, in all relevant notices of funding opportunity and through better facilitating potential grant applicants’ access to information about funding opportunities related to women’s health research.
+
+(c) To advance innovation, commercialization, and risk mitigation, agency Members of the Initiative shall:
+
+(i) identify and, as appropriate and consistent with applicable law, seek ways to use innovation funds, challenges, prizes, and other mechanisms to spur innovation in women’s health;
+
+(ii) invest in innovation to accelerate women’s health research, including through or in collaboration with the Advanced Research Projects Agency for Health and the Congressionally Directed Medical Research Programs;
+
+(iii) support the role of small businesses and entrepreneurs in advancing innovation in women’s health research, including through Small Business Innovation Research Programs and Small Business Technology Transfer Programs; and
+
+(iv) invest in translational science to convert research findings and discoveries into treatments and interventions that improve women’s health outcomes and reduce health disparities, including through the Department of Agriculture National Institute of Food and Agriculture research programs.
+
+(d) In implementing section 8(b) of Executive Order 14110 of October 30, 2023 (Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence) [[15 U.S.C. 9401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9401&num=0&edition=prelim) note], the Secretary of Health and Human Services, in consultation with the Director of the National Science Foundation, shall consider the opportunities for and challenges that affect women’s health research in the responsible deployment and use of artificial intelligence (AI) and AI-enabled technologies in the health and human services sector.
+
+Sec. 5. Galvanizing Research on Women’s Midlife Health. (a) Within 90 days of the date of this order, to address research gaps in understanding women’s health and diseases and conditions associated with women’s midlife and later years, the Secretary of Health and Human Services shall:
+
+(i) launch a comprehensive assessment of the current state of the science on menopause to develop an evidence-based research agenda that will guide Federal and private sector investments in menopause-related research;
+
+(ii) evaluate evidence-based interventions and strategies to improve women’s experiences in the menopausal and perimenopausal periods, including the delivery of treatments for women experiencing menopause in clinical care settings;
+
+(iii) consider developing new common data elements and survey tools to expand the ethical and equitable collection of data on issues related to women’s midlife health; and
+
+(iv) develop new comprehensive resources to help ensure that the public has evidence-based information about menopause, including menopause-related research initiatives, findings, and symptom-prevention and treatment options.
+
+(b) The Secretary of Defense and the Secretary of Veterans Affairs shall evaluate the needs of women service members and veterans related to midlife health and shall develop recommendations to support improved treatment and targeted research of midlife health issues, including menopausal symptoms.
+
+Sec. 6. Assessing Unmet Needs to Support Women’s Health Research. The Director of OMB and the Assistant to the President and Director of the Gender Policy Council (Directors) shall lead an effort, in collaboration with the Initiative, to identify current gaps in Federal funding for women’s health research and shall submit recommendations to the President describing the additional funding and programming necessary to catalyze research on women’s health, including in priority areas within women’s health as identified by the Initiative, as follows:
+
+(a) Within 90 days of the date of this order, the Directors shall, in consultation with the Initiative, develop guidance for assessing additional funding that agencies need to close research gaps in women’s health.
+
+(b) Within 180 days of the date of this order, Members of the Initiative shall consult the guidance described in subsection (a) of this section and shall each submit a report to the Directors that identifies the funding needed to catalyze research on women’s health.
+
+(c) Based on the reports described in subsection (b) of this section, the Directors shall develop and submit recommendations to the President on steps the Federal Government should take to catalyze research on women’s health. These recommendations shall identify any statutory, regulatory, budgetary, or other changes that may be necessary to ensure that Federal laws, policies, practices, and programs support women’s health research more effectively.
+
+(d) Following the submission of the recommendations described in subsection (c) of this section, each Member of the Initiative shall report annually to the Directors on progress made in response to those recommendations and to improve the study of women’s health. The Director of OMB shall provide a summary of Members’ progress and any new recommendations to the President on an annual basis, consult with each Member on their women’s health research funding needs during the annual budget process, and calculate Federal funding for women’s health research on an annual basis.
+
+Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
 
 #### White House Initiative on Women’s Health Research
 Memorandum of President of the United States, Nov. 13, 2023, 88 F.R. 80085, provided:
@@ -9771,7 +9882,7 @@ the Secretary may take such action as may be appropriate to respond to the publi
 
   (B) the term “State” includes, in addition to the entities listed in the definition of such term in [section 201 of this title](./chapter-6a-public-health-service.md#section-201), the Freely Associated States.
 
-(8) **Sunset** — This subsection shall terminate on December 31, 2024.
+(8) **Sunset** — This subsection shall terminate on March 31, 2025.
 
 **(f) Determination with respect to Paperwork Reduction Act waiver during a public health emergency**
 
@@ -9861,7 +9972,9 @@ A prior section 247d, act July 1, 1944, ch. 373, title III, § 319, as added Pub
 Another prior section 247d, act July 1, 1944, ch. 373, title III, § 319, formerly § 310, as added Sept. 25, 1962, Pub. L. 87–692, 76 Stat. 592, and amended and renumbered, which related to migrant health centers, was renumbered section 329 of act July 1, 1944, by Pub. L. 95–626, title I, § 102(a), Nov. 10, 1978, 92 Stat. 3551, and transferred to [section 254b of this title](./chapter-6a-public-health-service.md#section-254b), prior to being omitted in the general amendment of subpart I (§ 254b et seq.) of part D of this subchapter by Pub. L. 104–299, § 2.
 
 #### Amendments
-2024—Subsec. (e)(8). Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
+2024—Subsec. (e)(8). Pub. L. 118–158 substituted “March 31, 2025” for “December 31, 2024”.
+
+Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
 
 Pub. L. 118–35 substituted “March 8, 2024” for “January 19, 2024”.
 
@@ -9969,114 +10082,10 @@ Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impa
 
 J.R. Biden, Jr.
 
-#### Ex. Ord. No. 13991. Protecting the Federal Workforce and Requiring Mask-Wearing
-Ex. Ord. No. 13991, Jan. 20, 2021, 86 F.R. 7045, provided:
+[Positions of COVID–19 Response Coordinator and Deputy Coordinator of the COVID–19 Response, as established by section 2 of Ex. Ord. No. 13987, set out above, terminated, and responsibilities and duties transferred to Director of the Office of Pandemic Preparedness and Response Policy, by Ex. Ord. No. 14122, § 3, Apr. 12, 2024, 89 F.R. 27355, set out in a note under [section 300hh–3 of this title](./chapter-6a-public-health-service.md#section-300hh-3).]
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 7902(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7902/c&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
-
-Section 1. Policy. It is the policy of my Administration to halt the spread of coronavirus disease 2019 (COVID–19) by relying on the best available data and science-based public health measures. Such measures include wearing masks when around others, physical distancing, and other related precautions recommended by the Centers for Disease Control and Prevention (CDC). Put simply, masks and other public health measures reduce the spread of the disease, particularly when communities make widespread use of such measures, and thus save lives.
-
-Accordingly, to protect the Federal workforce and individuals interacting with the Federal workforce, and to ensure the continuity of Government services and activities, on-duty or on-site Federal employees, on-site Federal contractors, and other individuals in Federal buildings and on Federal lands should all wear masks, maintain physical distance, and adhere to other public health measures, as provided in CDC guidelines.
-
-Sec. 2. Immediate Action Regarding Federal Employees, Contractors, Buildings, and Lands. (a) The heads of executive departments and agencies (agencies) shall immediately take action, as appropriate and consistent with applicable law, to require compliance with CDC guidelines with respect to wearing masks, maintaining physical distance, and other public health measures by: on-duty or on-site Federal employees; on-site Federal contractors; and all persons in Federal buildings or on Federal lands.
-
-(b) The Director of the Office of Management and Budget (OMB), the Director of the Office of Personnel Management (OPM), and the Administrator of General Services, in coordination with the President’s Management Council and the Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator), shall promptly issue guidance to assist heads of agencies with implementation of this section.
-
-(c) Heads of agencies shall promptly consult, as appropriate, with State, local, Tribal, and territorial government officials, Federal employees, Federal employee unions, Federal contractors, and any other interested parties concerning the implementation of this section.
-
-(d) Heads of agencies may make categorical or case-by-case exceptions in implementing subsection (a) of this section to the extent that doing so is necessary or required by law, and consistent with applicable law. If heads of agencies make such exceptions, they shall require appropriate alternative safeguards, such as additional physical distancing measures, additional testing, or reconfiguration of workspace, consistent with applicable law. Heads of agencies shall document all exceptions in writing.
-
-(e) Heads of agencies shall review their existing authorities and, to the extent permitted by law and subject to the availability of appropriations and resources, seek to provide masks to individuals in Federal buildings when needed.
-
-(f) The COVID–19 Response Coordinator shall coordinate the implementation of this section. Heads of the agencies listed in [31 U.S.C. 901(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section901/b&num=0&edition=prelim) shall update the COVID–19 Response Coordinator on their progress in implementing this section, including any categorical exceptions established under subsection (d) of this section, within 7 days of the date of this order [Jan. 20, 2021] and regularly thereafter. Heads of agencies are encouraged to bring to the attention of the COVID–19 Response Coordinator any questions regarding the scope or implementation of this section.
-
-Sec. 3. Encouraging Masking Across America. (a) The Secretary of Health and Human Services (HHS), including through the Director of CDC, shall engage, as appropriate, with State, local, Tribal, and territorial officials, as well as business, union, academic, and other community leaders, regarding mask-wearing and other public health measures, with the goal of maximizing public compliance with, and addressing any obstacles to, mask-wearing and other public health best practices identified by CDC.
-
-(b) The COVID–19 Response Coordinator, in coordination with the Secretary of HHS, the Secretary of Homeland Security, and the heads of other relevant agencies, shall promptly identify and inform agencies of options to incentivize, support, and encourage widespread mask-wearing consistent with CDC guidelines and applicable law.
-
-Sec. 4. Safer Federal Workforce Task Force.
-
-(a) Establishment. There is hereby established the Safer Federal Workforce Task Force (Task Force).
-
-(b) Membership. The Task Force shall consist of the following members:
-
-(i) the Director of OPM, who shall serve as Co-Chair;
-
-(ii) the Administrator of General Services, who shall serve as Co-Chair;
-
-(iii) the COVID–19 Response Coordinator, who shall serve as Co-Chair;
-
-(iv) the Director of OMB;
-
-(v) the Director of the Federal Protective Service;
-
-(vi) the Director of the United States Secret Service;
-
-(vii) the Administrator of the Federal Emergency Management Agency;
-
-(viii) the Director of CDC; and
-
-(ix) the heads of such other agencies as the Co-Chairs may individually or jointly invite to participate.
-
-(c) Organization. A member of the Task Force may designate, to perform the Task Force functions of the member, a senior-level official who is a full-time officer or employee of the member’s agency. At the direction of the Co-Chairs, the Task Force may establish subgroups consisting exclusively of Task Force members or their designees, as appropriate.
-
-(d) Administration. The General Services Administration shall provide funding and administrative support for the Task Force to the extent permitted by law and within existing appropriations. The Co-Chairs shall convene regular meetings of the Task Force, determine its agenda, and direct its work.
-
-(e) Mission. The Task Force shall provide ongoing guidance to heads of agencies on the operation of the Federal Government, the safety of its employees, and the continuity of Government functions during the COVID–19 pandemic. Such guidance shall be based on public health best practices as determined by CDC and other public health experts, and shall address, at a minimum, the following subjects as they relate to the Federal workforce:
-
-(i) testing methodologies and protocols;
-
-(ii) case investigation and contact tracing;
-
-(iii) requirements of and limitations on physical distancing, including recommended occupancy and density standards;
-
-(iv) equipment needs and requirements, including personal protective equipment;
-
-(v) air filtration;
-
-(vi) enhanced environmental disinfection and cleaning;
-
-(vii) safe commuting and telework options;
-
-(viii) enhanced technological infrastructure to support telework;
-
-(ix) vaccine prioritization, distribution, and administration;
-
-(x) approaches for coordinating with State, local, Tribal, and territorial health officials, as well as business, union, academic, and other community leaders;
-
-(xi) any management infrastructure needed by agencies to implement public health guidance; and
-
-(xii) circumstances under which exemptions might appropriately be made to agency policies in accordance with CDC guidelines, such as for mission-critical purposes.
-
-(f) Agency Cooperation. The head of each agency listed in [31 U.S.C. 901(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section901/b&num=0&edition=prelim) shall, consistent with applicable law, promptly provide the Task Force a report on COVID–19 safety protocols, safety plans, or guidance regarding the operation of the agency and the safety of its employees, and any other information that the head of the agency deems relevant to the Task Force’s work.
-
-Sec. 5. Federal Employee Testing. The Secretary of HHS, through the Director of CDC, shall promptly develop and submit to the COVID–19 Response Coordinator a testing plan for the Federal workforce. This plan shall be based on community transmission metrics and address the populations to be tested, testing types, frequency of testing, positive case protocols, and coordination with local public health authorities for contact tracing.
-
-Sec. 6. Research and Development. The Director of the Office of Science and Technology Policy, in consultation with the Secretary of HHS (through the National Science and Technology Council), the Director of OMB, the Director of CDC, the Director of the National Institutes of Health, the Director of the National Science Foundation, and the heads of any other appropriate agencies, shall assess the availability of Federal research grants to study best practices for implementing, and innovations to better implement, effective mask-wearing and physical distancing policies, with respect to both the Federal workforce and the general public.
-
-Sec. 7. Scope. (a) For purposes of this order:
-
-(i) “Federal employees” and “Federal contractors” mean employees (including members of the Armed Forces and members of the National Guard in Federal service) and contractors (including such contractors’ employees) working for the executive branch;
-
-(ii) “Federal buildings” means buildings, or office space within buildings, owned, rented, or leased by the executive branch of which a substantial portion of occupants are Federal employees or Federal contractors; and
-
-(iii) “Federal lands” means lands under executive branch control.
-
-(b) The Director of OPM and the Administrator of General Services shall seek to consult, in coordination with the heads of any other relevant agencies and the COVID–19 Response Coordinator, with the Sergeants at Arms of the Senate and the House of Representatives and the Director of the Administrative Office of the United States Courts (or such other persons designated by the Majority and Minority Leaders of the Senate, the Speaker and Minority Leader of the House, or the Chief Justice of the United States, respectively), to promote mask-wearing, physical distancing, and adherence to other public health measures within the legislative and judicial branches, and shall provide requested technical assistance as needed to facilitate compliance with CDC guidelines.
-
-Sec. 8. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) Independent agencies are strongly encouraged to comply with the requirements of this order.
-
-(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.
+#### Executive Order No. 13991
+Ex. Ord. No. 13991, Jan. 20, 2021, 86 F.R. 7045, which required compliance with CDC guidelines with respect to wearing masks, maintaining physical distance, and other public health measures by Federal employees and contractors and all persons in Federal buildings or on Federal lands, and HHS promotion of public health best practices identified by the CDC, was revoked by Ex. Ord. No. 14122, § 2, Apr. 12, 2024, 89 F.R. 27355, set out in a note under [section 300hh–3 of this title](./chapter-6a-public-health-service.md#section-300hh-3).
 
 #### Ex. Ord. No. 13994. Ensuring a Data-Driven Response to COVID–19 and Future High-Consequence Public Health Threats
 Ex. Ord. No. 13994, Jan. 21, 2021, 86 F.R. 7189, provided:
@@ -10122,6 +10131,8 @@ Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impa
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 J.R. Biden, Jr.
+
+[Position of COVID–19 Response Coordinator terminated, and responsibilities and duties of COVID–19 Response Coordinator specified in Ex. Ord. No. 13994, set out above, transferred to Director of the Office of Pandemic Preparedness and Response Policy, by Ex. Ord. No. 14122, § 3, Apr. 12, 2024, 89 F.R. 27355, set out in a note under [section 300hh–3 of this title](./chapter-6a-public-health-service.md#section-300hh-3).]
 
 #### Ex. Ord. No. 13995. Ensuring an Equitable Pandemic Response and Recovery
 Ex. Ord. No. 13995, Jan. 21, 2021, 86 F.R. 7193, provided:
@@ -10297,6 +10308,8 @@ Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impa
 
 J.R. Biden, Jr.
 
+[Position of COVID–19 Response Coordinator terminated, and responsibilities and duties of COVID–19 Response Coordinator specified in Ex. Ord. No. 13996, set out above, transferred to Director of the Office of Pandemic Preparedness and Response Policy, by Ex. Ord. No. 14122, § 3, Apr. 12, 2024, 89 F.R. 27355, set out in a note under [section 300hh–3 of this title](./chapter-6a-public-health-service.md#section-300hh-3).]
+
 #### Ex. Ord. No. 13997. Improving and Expanding Access to Care and Treatments for COVID–19
 Ex. Ord. No. 13997, Jan. 21, 2021, 86 F.R. 7201, provided:
 
@@ -10350,88 +10363,8 @@ Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impa
 
 J.R. Biden, Jr.
 
-#### Ex. Ord. No. 13998. Promoting COVID–19 Safety in Domestic and International Travel
-Ex. Ord. No. 13998, Jan. 21, 2021, 86 F.R. 7205, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. Policy. Science-based public health measures are critical to preventing the spread of coronavirus disease 2019 (COVID–19) by travelers within the United States and those who enter the country from abroad. The Centers for Disease Control and Prevention (CDC), the Surgeon General, and the National Institutes of Health have concluded that mask-wearing, physical distancing, appropriate ventilation, and timely testing can mitigate the risk of travelers spreading COVID–19. Accordingly, to save lives and allow all Americans, including the millions of people employed in the transportation industry, to travel and work safely, it is the policy of my Administration to implement these public health measures consistent with CDC guidelines on public modes of transportation and at ports of entry to the United States.
-
-Sec. 2. Immediate Action to Require Mask-Wearing on Certain Domestic Modes of Transportation.
-
-(a) Mask Requirement. The Secretary of Labor, the Secretary of Health and Human Services (HHS), the Secretary of Transportation (including through the Administrator of the Federal Aviation Administration (FAA)), the Secretary of Homeland Security (including through the Administrator of the Transportation Security Administration (TSA) and the Commandant of the United States Coast Guard), and the heads of any other executive departments and agencies (agencies) that have relevant regulatory authority (heads of agencies) shall immediately take action, to the extent appropriate and consistent with applicable law, to require masks to be worn in compliance with CDC guidelines in or on:
-
-(i) airports;
-
-(ii) commercial aircraft;
-
-(iii) trains;
-
-(iv) public maritime vessels, including ferries;
-
-(v) intercity bus services; and
-
-(vi) all forms of public transportation as defined in [section 5302 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5302&num=0&edition=prelim), United States Code.
-
-(b) Consultation. In implementing this section, the heads of agencies shall consult, as appropriate, with interested parties, including State, local, Tribal, and territorial officials; industry and union representatives from the transportation sector; and consumer representatives.
-
-(c) Exceptions. The heads of agencies may make categorical or case-by-case exceptions to policies developed under this section, consistent with applicable law, to the extent that doing so is necessary or required by law. If the heads of agencies do make exceptions, they shall require alternative and appropriate safeguards, and shall document all exceptions in writing.
-
-(d) Preemption. To the extent permitted by applicable law, the heads of agencies shall ensure that any action taken to implement this section does not preempt State, local, Tribal, and territorial laws or rules imposing public health measures that are more protective of public health than those required by the heads of agencies.
-
-(e) Coordination. The Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator) shall coordinate the implementation of this section. The heads of agencies shall update the COVID–19 Response Coordinator on their progress in implementing this section, including any categorical exceptions established under subsection (c) of this section, within 7 days of the date of this order [Jan. 21, 2021] and regularly thereafter. The heads of agencies are encouraged to bring to the attention of the COVID–19 Response Coordinator any questions regarding the scope or implementation of this section.
-
-Sec. 3. Action to Implement Additional Public Health Measures for Domestic Travel.
-
-(a) Recommendations. The Secretary of Transportation (including through the Administrator of the FAA) and the Secretary of Homeland Security (including through the Administrator of the TSA and the Commandant of the Coast Guard), in consultation with the Director of CDC, shall promptly provide to the COVID–19 Response Coordinator recommendations concerning how their respective agencies may impose additional public health measures for domestic travel.
-
-(b) Consultation. In implementing this section, the Secretary of Transportation and the Secretary of Homeland Security shall engage with interested parties, including State, local, Tribal, and territorial officials; industry and union representatives from the transportation sector; and consumer representatives.
-
-Sec. 4. Support for State, Local, Tribal, and Territorial Authorities. The COVID–19 Response Coordinator, in coordination with the Secretary of Transportation and the heads of any other relevant agencies, shall promptly identify and inform agencies of options to incentivize, support, and encourage widespread mask-wearing and physical distancing on public modes of transportation, consistent with CDC guidelines and applicable law.
-
-Sec. 5. International Travel.
-
-(a) Policy. It is the policy of my Administration that, to the extent feasible, travelers seeking to enter the United States from a foreign country shall be:
-
-(i) required to produce proof of a recent negative COVID–19 test prior to entry; and
-
-(ii) required to comply with other applicable CDC guidelines concerning international travel, including recommended periods of self-quarantine or self-isolation after entry into the United States.
-
-(b) Air Travel.
-
-(i) The Secretary of HHS, including through the Director of CDC, and in coordination with the Secretary of Transportation (including through the Administrator of the FAA) and the Secretary of Homeland Security (including through the Administrator of the TSA), shall, within 14 days of the date of this order [Jan. 21, 2021], assess the CDC order of January 12, 2021, regarding the requirement of a negative COVID–19 test result for airline passengers traveling into the United States, in light of subsection (a) of this section. Based on such assessment, the Secretary of HHS and the Secretary of Homeland Security shall take any further appropriate regulatory action, to the extent feasible and consistent with CDC guidelines and applicable law. Such assessment and regulatory action shall include consideration of:
-
-(A) the timing and types of COVID–19 tests that should satisfy the negative test requirement, including consideration of additional testing immediately prior to departure;
-
-(B) the proof of test results that travelers should be required to provide;
-
-(C) the feasibility of implementing alternative and sufficiently protective public health measures, such as testing, self-quarantine, and self-isolation on arrival, for travelers entering the United States from countries where COVID–19 tests are inaccessible, particularly where such inaccessibility of tests would affect the ability of United States citizens and lawful permanent residents to return to the United States; and
-
-(D) measures to prevent fraud.
-
-(ii) The Secretary of HHS, in coordination with the Secretary of Transportation (including through the Administrator of the FAA) and the Secretary of Homeland Security (including through the Administrator of the TSA), shall promptly provide to the President, through the COVID–19 Response Coordinator, a plan for how the Secretary and other Federal Government actors could implement the policy stated in subsection (a) of this section with respect to CDC-recommended periods of self-quarantine or self-isolation after a flight to the United States from a foreign country, as he deems appropriate and consistent with applicable law. The plan shall identify agencies’ tools and mechanisms to assist travelers in complying with such policy.
-
-(iii) The Secretary of State, in consultation with the Secretary of HHS (including through the Director of CDC), the Secretary of Transportation (including through the Administrator of the FAA), and the Secretary of Homeland Security, shall seek to consult with foreign governments, the World Health Organization, the International Civil Aviation Organization, the International Air Transport Association, and any other relevant stakeholders to establish guidelines for public health measures associated with safe international travel, including on aircraft and at ports of entry. Any such guidelines should address quarantine, testing, COVID–19 vaccination, follow-up testing and symptom-monitoring, air filtration requirements, environmental decontamination standards, and contact tracing.
-
-(c) Land Travel. The Secretary of State, in consultation with the Secretary of HHS, the Secretary of Transportation, the Secretary of Homeland Security, and the Director of CDC, shall immediately commence diplomatic outreach to the governments of Canada and Mexico regarding public health protocols for land ports of entry. Based on this diplomatic engagement, within 14 days of the date of this order, the Secretary of HHS (including through the Director of CDC), the Secretary of Transportation, and the Secretary of Homeland Security shall submit to the President a plan to implement appropriate public health measures at land ports of entry. The plan should implement CDC guidelines, consistent with applicable law, and take into account the operational considerations relevant to the different populations who enter the United States by land.
-
-(d) Sea Travel. The Secretary of Homeland Security, through the Commandant of the Coast Guard and in consultation with the Secretary of HHS and the Director of CDC, shall, within 14 days of the date of this order, submit to the President a plan to implement appropriate public health measures at sea ports. The plan should implement CDC guidelines, consistent with applicable law, and take into account operational considerations.
-
-(e) International Certificates of Vaccination or Prophylaxis. Consistent with applicable law, the Secretary of State, the Secretary of HHS, and the Secretary of Homeland Security (including through the Administrator of the TSA), in coordination with any relevant international organizations, shall assess the feasibility of linking COVID–19 vaccination to International Certificates of Vaccination or Prophylaxis (ICVP) and producing electronic versions of ICVPs.
-
-(f) Coordination. The COVID–19 Response Coordinator, in consultation with the Assistant to the President for National Security Affairs and the Assistant to the President for Domestic Policy, shall coordinate the implementation of this section. The Secretary of State, the Secretary of HHS, the Secretary of Transportation, and the Secretary of Homeland Security shall update the COVID–19 Response Coordinator on their progress in implementing this section within 7 days of the date of this order and regularly thereafter. The heads of all agencies are encouraged to bring to the attention of the COVID–19 Response Coordinator any questions regarding the scope or implementation of this section.
-
-Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.
+#### Executive Order No. 13998
+Ex. Ord. No. 13998, Jan. 21, 2021, 86 F.R. 7205, which related to promoting COVID–19 safety in domestic and international travel, was revoked by Ex. Ord. No. 14122, § 2, Apr. 12, 2024, 89 F.R. 27355, set out in a note under [section 300hh–3 of this title](./chapter-6a-public-health-service.md#section-300hh-3).
 
 #### Ex. Ord. No. 13999. Protecting Worker Health and Safety
 Ex. Ord. No. 13999, Jan. 21, 2021, 86 F.R. 7211, provided:
@@ -14223,7 +14156,7 @@ Subsecs. (d) to (k). Pub. L. 109–417, § 303(b)(1), (4), (5), added subsecs. (
 
   (C) *Reporting* — One year after June 24, 2019, and annually thereafter, the Secretary shall report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives on the number of instances in which the Secretary has used the authority under this subsection to withhold information from disclosure, as well as the nature of any request under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) that was denied using such authority.
 
-  (D) *Sunset* — This paragraph shall cease to have force or effect after December 31, 2024.
+  (D) *Sunset* — This paragraph shall cease to have force or effect after March 31, 2025.
 
 (2) **Review** — Notwithstanding [section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), a working group of BARDA under this section and the National Biodefense Science Board under [section 247d–7g of this title](./chapter-6a-public-health-service.md#section-247d-7g) shall each terminate on the date that is 5 years after the date on which each such group or Board, as applicable, was established. Such 5-year period may be extended by the Secretary for one or more additional 5-year periods if the Secretary determines that any such extension is appropriate.
 
@@ -14258,7 +14191,9 @@ In subsec. (c)(5)(C), “[section 6101 of title 41](https://uscode.house.gov/vie
 In subsec. (c)(5)(F), “[section 3304(a)(3) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304/a/3&num=0&edition=prelim)” substituted for “section 303(c)(3) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section253/c/3&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
-2024—Subsec. (e)(1)(D). Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
+2024—Subsec. (e)(1)(D). Pub. L. 118–158 substituted “March 31, 2025” for “December 31, 2024”.
+
+Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
 
 Pub. L. 118–35 substituted “March 8, 2024” for “January 19, 2024”.
 
@@ -14542,7 +14477,7 @@ Donald J. Trump.
 
 (8) **Report** — Not later than one year after the date of enactment of this Act 11 See References in Text note below. and biannually thereafter, the Attorney General and the Chairman shall report to Congress on the use of the exemption from the antitrust laws provided by this subsection.
 
-**(b) Sunset** The applicability of this section shall expire after December 31, 2024.
+**(b) Sunset** The applicability of this section shall expire after March 31, 2025.
 
 **(c) Definitions** In this section:
 
@@ -14596,7 +14531,9 @@ Section was formerly set out as a note under [section 247d–6a of this title](.
 A prior section 247d–7f, act July 1, 1944, ch. 373, title III, § 319M, as added Pub. L. 109–417, title IV, § 402, Dec. 19, 2006, 120 Stat. 2872; amended Pub. L. 113–5, title IV, § 404, Mar. 13, 2013, 127 Stat. 197, which related to National Biodefense Science Board and working groups, was transferred to [section 247d–7g of this title](./chapter-6a-public-health-service.md#section-247d-7g).
 
 #### Amendments
-2024—Subsec. (b). Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
+2024—Subsec. (b). Pub. L. 118–158 substituted “March 31, 2025” for “December 31, 2024”.
+
+Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
 
 Pub. L. 118–35 substituted “March 8, 2024” for “January 19, 2024”.
 
@@ -16322,9 +16259,15 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
   (D) $2,200,000,000 for fiscal year 2014;
 
-  (E) $3,600,000,000 for each of fiscal years 2015 through 2017; and
+  (E) $3,600,000,000 for each of fiscal years 2015 through 2017;
 
-  (F) $3,800,000,000 for fiscal year 2018, $4,000,000,000 for each of fiscal years 2019 through 2023, $526,027,397 for the period beginning on October 1, 2023, and ending on November 17, 2023, $690,410,959 for the period beginning on November 18, 2023, and ending on January 19, 2024, $536,986,301 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $3,592,328,767 for the period beginning on October 1, 2023,11 So in original. and ending on December 31, 2024; and
+  (F) $3,800,000,000 for fiscal year 2018;
+
+  (G) $4,000,000,000 for each of fiscal years 2019 through 2023;
+
+  (H) $526,027,397 for the period beginning on October 1, 2023, and ending on November 17, 2023, $690,410,959 for the period beginning on November 18, 2023, and ending on January 19, 2024, $536,986,301 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $3,592,328,767 for the period beginning on October 1, 2023,11 So in original. and ending on December 31, 2024; and
+
+  (I) $1,050,410,959 for the period beginning on January 1, 2025, and ending on March 31, 2025.
 
 (2) to be transferred to the Secretary of Health and Human Services to provide enhanced funding for the National Health Service Corps—
 
@@ -16342,9 +16285,11 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
   (G) $310,000,000 for fiscal year 2020;
 
-  (H) $310,000,000 for each of fiscal years 2021 through 2023; and
+  (H) $310,000,000 for each of fiscal years 2021 through 2023;
 
-  (I) $40,767,123 for the period beginning on October 1, 2023, and ending on November 17, 2023, $53,506,849 for the period beginning on November 18, 2023, and ending on January 19, 2024, $41,616,438 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $297,013,699 for the period beginning on October 1, 2023,1 and ending on December 31, 2024.
+  (I) $40,767,123 for the period beginning on October 1, 2023, and ending on November 17, 2023, $53,506,849 for the period beginning on November 18, 2023, and ending on January 19, 2024, $41,616,438 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $297,013,699 for the period beginning on October 1, 2023,1 and ending on December 31, 2024; and
+
+  (J) $85,068,493 for the period beginning on January 1, 2025, and ending on March 31, 2025.
 
 **(c) Construction** There is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, $1,500,000,000 to be available for fiscal years 2011 through 2015 to be used by the Secretary of Health and Human Services for the construction and renovation of community health centers.
 
@@ -16358,13 +16303,21 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
-2024—Subsec. (b)(1)(F). Pub. L. 118–42, § 101(a), substituted “$536,986,301 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $3,592,328,767 for the period beginning on October 1, 2023, and ending on December 31, 2024” for “and $536,986,301 for the period beginning on January 20, 2024, and ending on March 8, 2024”.
+2024—Subsec. (b)(1)(E). Pub. L. 118–158, § 3101(a)(1), struck out “and” at end.
+
+Subsec. (b)(1)(F). Pub. L. 118–158, § 3101(a)(2), substituted semicolon for “, $4,000,000,000 for each of fiscal years 2019 through 2023, $526,027,397 for the period beginning on October 1, 2023, and ending on November 17, 2023, $690,410,959 for the period beginning on November 18, 2023, and ending on January 19, 2024, $536,986,301 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $3,592,328,767 for the period beginning on October 1, 2023, and ending on December 31, 2024; and”.
+
+Pub. L. 118–42, § 101(a), substituted “$536,986,301 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $3,592,328,767 for the period beginning on October 1, 2023, and ending on December 31, 2024” for “and $536,986,301 for the period beginning on January 20, 2024, and ending on March 8, 2024”.
 
 Pub. L. 118–35, § 101(b), substituted “$690,410,959 for the period beginning on November 18, 2023, and ending on January 19, 2024, and $536,986,301 for the period beginning on January 20, 2024, and ending on March 8, 2024” for “and $690,410,959 for the period beginning on November 18, 2023, and ending on January 19, 2024”.
+
+Subsec. (b)(1)(G) to (I). Pub. L. 118–158, § 3101(a)(3), added subpars. (G) to (I).
 
 Subsec. (b)(2)(I). Pub. L. 118–42, § 101(b), substituted “$41,616,438 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $297,013,699 for the period beginning on October 1, 2023, and ending on December 31, 2024” for “and $41,616,438 for the period beginning on January 20, 2024, and ending on March 8, 2024”.
 
 Pub. L. 118–35, § 101(c), substituted “$53,506,849 for the period beginning on November 18, 2023, and ending on January 19, 2024, and $41,616,438 for the period beginning on January 20, 2024, and ending on March 8, 2024” for “and $53,506,849 for the period beginning on November 18, 2023, and ending on January 19, 2024”.
+
+Subsec. (b)(2)(J). Pub. L. 118–158, § 3101(b), added subpar. (J).
 
 2023—Subsec. (b)(1)(F). Pub. L. 118–22, § 201(b), substituted “$526,027,397 for the period beginning on October 1, 2023, and ending on November 17, 2023, and $690,410,959 for the period beginning on November 18, 2023, and ending on January 19, 2024” for “and $526,027,397 for the period beginning on October 1, 2023, and ending on November 17, 2023”.
 
@@ -17132,73 +17085,12 @@ Amendments by Pub. L. 108–163 deemed to have taken effect immediately after th
 
 
 <a id="section-254c-15"></a>
-## § 254c–15. Rural emergency medical service training and equipment assistance program
-**(a) Grants** The Secretary, acting through the Administrator of the Health Resources and Services Administration (referred to in this section as the “Secretary”) shall award grants to eligible entities to enable such entities to provide for improved emergency medical services in rural areas or to residents of rural areas.
-
-**(b) Eligibility; application** To be eligible to receive grant under this section, an entity shall—
-
-(1) be—
-
-  (A) an emergency medical services agency operated by a local or tribal government (including fire-based and non-fire based); or
-
-  (B) an emergency medical services agency that is described in [section 501(c) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c&num=0&edition=prelim) and exempt from tax under [section 501(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim); and
-
-(2) submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
-
-**(c) Use of funds** An entity—
-
-(1) shall use amounts received through a grant under subsection (a) to—
-
-  (A) train emergency medical services personnel as appropriate to obtain and maintain licenses and certifications relevant to service in an emergency medical services agency described in subsection (b)(1);
-
-  (B) conduct courses that qualify graduates to serve in an emergency medical services agency described in subsection (b)(1) in accordance with State and local requirements;
-
-  (C) fund specific training to meet Federal or State licensing or certification requirements; and
-
-  (D) acquire emergency medical services equipment; and
-
-(2) may use amounts received through a grant under subsection (a) to—
-
-  (A) recruit and retain emergency medical services personnel, which may include volunteer personnel;
-
-  (B) develop new ways to educate emergency health care providers through the use of technology-enhanced educational methods; or
-
-  (C) acquire personal protective equipment for emergency medical services personnel as required by the Occupational Safety and Health Administration.
-
-**(d) Grant amounts** Each grant awarded under this section shall be in an amount not to exceed $200,000.
-
-**(e) Definitions** In this section:
-
-(1) The term “emergency medical services”—
-
-  (A) means resources used by a public or private nonprofit licensed entity to deliver medical care outside of a medical facility under emergency conditions that occur as a result of the condition of the patient; and
-
-  (B) includes services delivered (either on a compensated or volunteer basis) by an emergency medical services provider or other provider that is licensed or certified by the State involved as an emergency medical technician, a paramedic, or an equivalent professional (as determined by the State).
-
-(2) The term “rural area” means—
-
-  (A) a nonmetropolitan statistical area;
-
-  (B) an area designated as a rural area by any law or regulation of a State; or
-
-  (C) a rural census tract of a metropolitan statistical area (as determined under the most recent rural urban commuting area code as set forth by the Office of Management and Budget).
-
-**(f) Matching requirement** The Secretary may not award a grant under this section to an entity unless the entity agrees that the entity will make available (directly or through contributions from other public or private entities) non-Federal contributions toward the activities to be carried out under the grant in an amount equal to 10 percent of the amount received under the grant.
-
-**(g) Authorization of appropriations**
-
-(1) **In general** — There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2019 through 2023.
-
-(2) **Administrative costs** — The Secretary may use not more than 10 percent of the amount appropriated under paragraph (1) for a fiscal year for the administrative expenses of carrying out this section.
+## § 254c–15. Transferred
 
 ### Statutory Notes
 
-#### Amendments
-2018—Subsec. (a). Pub. L. 115–334, § 12608(1), substituted “in rural areas or to residents of rural areas” for “in rural areas”.
-
-Subsecs. (b) to (f). Pub. L. 115–334, § 12608(2), added subsecs. (b) to (f) and struck out former subsecs. (b) to (f) which related to eligibility for grants, use of funds, preference for certain grant applications, matching requirement, and definition of “emergency medical services”, respectively.
-
-Subsec. (g)(1). Pub. L. 115–334, § 12608(3), substituted “2019 through 2023” for “2002 through 2006”.
+#### Codification
+Section, act July 1, 1944, ch. 373, title III, § 330J, as added Pub. L. 107–251, title II, § 221, Oct. 26, 2002, 116 Stat. 1638; amended Pub. L. 115–334, title XII, § 12608, Dec. 20, 2018, 132 Stat. 5008; Pub. L. 118–84, § 2(1)–(5), Sept. 26, 2024, 138 Stat. 1544, which related to rural emergency medical service training and equipment assistance program, was renumbered section 553 of title V of act July 1, 1944, by Pub. L. 118–84, § 2(6), (7), Sept. 26, 2024, 138 Stat. 1544, 1545, and transferred to [section 290ee–10 of this title](./chapter-6a-public-health-service.md#section-290ee-10).
 
 
 <a id="section-254c-16"></a>
@@ -17478,9 +17370,11 @@ Pub. L. 111–148, title V, § 5208(a), Mar. 23, 2010, 124 Stat. 612, provided t
 
   (C) $150,000,000 for each of fiscal years 2004 through 2017;
 
-  (D) $150,000,000 for each of fiscal years 2018 through 2023, to remain available until expended; and
+  (D) $150,000,000 for each of fiscal years 2018 through 2023, to remain available until expended;
 
-  (E) $19,726,027 for the period beginning on October 1, 2023, and ending on November 17, 2023, $25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024, $20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $130,000,000 for the period beginning on March 9, 2024, and ending on December 31, 2024, to remain available until expended.
+  (E) $19,726,027 for the period beginning on October 1, 2023, and ending on November 17, 2023, $25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024, $20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $130,000,000 for the period beginning on March 9, 2024, and ending on December 31, 2024, to remain available until expended; and
+
+  (F) $39,261,745 for the period beginning on January 1, 2025, and ending on March 31, 2025, to remain available until expended.
 
 ### Statutory Notes
 
@@ -17488,6 +17382,8 @@ Pub. L. 111–148, title V, § 5208(a), Mar. 23, 2010, 124 Stat. 612, provided t
 2024—Subsec. (b)(2)(E). Pub. L. 118–42 substituted “$20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $130,000,000 for the period beginning on March 9, 2024, and ending on December 31, 2024” for “and $20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024”.
 
 Pub. L. 118–35 substituted “$25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024, and $20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024” for “and $25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024”.
+
+Subsec. (b)(2)(F). Pub. L. 118–158 added subpar. (F).
 
 2023—Subsec. (b)(2)(E). Pub. L. 118–22 substituted “$19,726,027 for the period beginning on October 1, 2023, and ending on November 17, 2023, and $25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024” for “$19,726,027 for the period beginning on October 1, 2023, and ending on November 17, 2023”.
 
@@ -17694,9 +17590,11 @@ Pub. L. 117–103, div. P, title I, § 134(b)(2), Mar. 15, 2022, 136 Stat. 797, 
 
   (C) $150,000,000 for each of fiscal years 2004 through 2017;
 
-  (D) $150,000,000 for each of fiscal years 2018 through 2023, to remain available until expended; and
+  (D) $150,000,000 for each of fiscal years 2018 through 2023, to remain available until expended;
 
-  (E) $19,726,027 for the period beginning on October 1, 2023, and ending on November 17, 2023, $25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024, $20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $130,000,000 for the period beginning on March 9, 2024, and ending on December 31, 2024, to remain available until expended.
+  (E) $19,726,027 for the period beginning on October 1, 2023, and ending on November 17, 2023, $25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024, $20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $130,000,000 for the period beginning on March 9, 2024, and ending on December 31, 2024, to remain available until expended; and
+
+  (F) $39,261,745 for the period beginning on January 1, 2025, and ending on March 31, 2025, to remain available until expended.
 
 ### Statutory Notes
 
@@ -17709,6 +17607,8 @@ The Indian Health Care Improvement Act, referred to in subsec. (b)(3), is Pub. L
 2024—Subsec. (c)(2)(E). Pub. L. 118–42 substituted “$20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $130,000,000 for the period beginning on March 9, 2024, and ending on December 31, 2024” for “and $20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024”.
 
 Pub. L. 118–35 substituted “$25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024, and $20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024” for “and $25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024”.
+
+Subsec. (c)(2)(F). Pub. L. 118–158 added subpar. (F).
 
 2023—Subsec. (c)(2)(E). Pub. L. 118–22 substituted “$19,726,027 for the period beginning on October 1, 2023, and ending on November 17, 2023, and $25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024” for “$19,726,027 for the period beginning on October 1, 2023, and ending on November 17, 2023”.
 
@@ -21777,7 +21677,17 @@ Subsec. (f). Pub. L. 115–302, § 3(2), substituted “$13,903,000 for each of 
 
 **(g) Funding**
 
-(1) **In general** — To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, $126,500,000 for each of fiscal years 2018 through 2023, $16,635,616 for the period beginning on October 1, 2023, and ending on November 17, 2023, $21,834,247 for the period beginning on November 18, 2023, and ending on January 19, 2024, $16,982,192 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $164,136,986 for the period beginning on October 1, 2023,33 So in original. and ending on December 31, 2024, to remain available until expended.
+(1) **In general** — To carry out this section, there are appropriated such sums as may be necessary, to remain available until expended, not to exceed—
+
+  (A) $230,000,000, for the period of fiscal years 2011 through 2015;
+
+  (B) $60,000,000 for each of fiscal years 2016 and 2017;
+
+  (C) $126,500,000 for each of fiscal years 2018 through 2023;
+
+  (D) $16,635,616 for the period beginning on October 1, 2023, and ending on November 17, 2023, $21,834,247 for the period beginning on November 18, 2023, and ending on January 19, 2024, $16,982,192 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $164,136,986 for the period beginning on October 1, 2023,33 So in original. and ending on December 31, 2024; and
+
+  (E) $43,150,685 for the period beginning on January 1, 2025, and ending on March 31, 2025.
 
 (2) **Administrative expenses** — Of the amount made available to carry out this section for any fiscal year, the Secretary may not use more than 5 percent of such amount for the expenses of administering this section.
 
@@ -21852,7 +21762,11 @@ Another section 340H of act July 1, 1944, was renumbered section 340I and is cla
 #### Amendments
 2024—Subsec. (b)(2)(C). Pub. L. 118–42, § 101(c)(2), added subpar. (C).
 
-Subsec. (g)(1). Pub. L. 118–42, § 101(c)(1), substituted “$16,982,192 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $164,136,986 for the period beginning on October 1, 2023, and ending on December 31, 2024” for “and $16,982,192 for the period beginning on January 20, 2024, and ending on March 8, 2024”.
+Subsec. (g)(1). Pub. L. 118–158, § 3101(c)(2), substituted “, not to exceed—” and subpars. (A) to (E) for period at end.
+
+Pub. L. 118–158, § 3101(c)(1), struck out “not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, $126,500,000 for each of fiscal years 2018 through 2023, $16,635,616 for the period beginning on October 1, 2023, and ending on November 17, 2023, $21,834,247 for the period beginning on November 18, 2023, and ending on January 19, 2024, $16,982,192 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $164,136,986 for the period beginning on October 1, 2023, and ending on December 31, 2024,” after “as may be necessary,”.
+
+Pub. L. 118–42, § 101(c)(1), substituted “$16,982,192 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $164,136,986 for the period beginning on October 1, 2023, and ending on December 31, 2024” for “and $16,982,192 for the period beginning on January 20, 2024, and ending on March 8, 2024”.
 
 Pub. L. 118–35 substituted “$21,834,247 for the period beginning on November 18, 2023, and ending on January 19, 2024, and $16,982,192 for the period beginning on January 20, 2024, and ending on March 8, 2024” for “and $21,834,247 for the period beginning on November 18, 2023, and ending on January 19, 2024”.
 
@@ -26546,11 +26460,13 @@ A prior section 280c–4, act July 1, 1944, ch. 373, title III, § 398A, formerl
 
 **(d) Definition** In this subpart, the terms “Indian tribe” and “tribal organization” have the meanings given such terms in [section 1603 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603&num=0&edition=prelim).
 
-**(e) Authorizations of appropriations** For the purpose of carrying out this subpart, there are authorized to be appropriated $20,000,000 for each of fiscal years 2020 through 2024.
+**(e) Authorizations of appropriations** For the purpose of carrying out this subpart, there are authorized to be appropriated $20,000,000 for each of fiscal years 2020 through 2024 and $33,000,000 for each of fiscal years 2025 through 2029.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (e). Pub. L. 118–142 inserted “and $33,000,000 for each of fiscal years 2025 through 2029” before period at end.
+
 2018—Subsec. (a). Pub. L. 115–406, § 4(1), inserted “or cooperative agreement” after “grant” wherever appearing and substituted “sections 280c–3 or 280c–4 of this title to an entity unless the entity” for “[section 280c–3(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280c–3/a&num=0&edition=prelim) to a State unless the State” and “5 percent” for “10 percent”.
 
 Subsec. (b). Pub. L. 115–406, § 4(4)(A), substituted “sections 280c–3 or 280c–4 of this title to an entity unless the entity” for “[section 280c–3(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280c–3/a&num=0&edition=prelim) to a State unless the State” in introductory provisions.
@@ -27402,7 +27318,7 @@ Pub. L. 103–43 substituted “there are authorized to be appropriated $30,000,
 
 **(g) Privacy** In carrying out this Act, the Secretary shall ensure that information in and analysis of the Firefighter Registry are made available in a manner that, at a minimum, protects personal privacy to the extent required by applicable Federal and State privacy law.
 
-**(h) Authorization of funds** To carry out this section, there are authorized to be appropriated $2,500,000 for each of the fiscal years 2018 through 2022.
+**(h) Authorization of funds** To carry out this section, there are authorized to be appropriated $5,500,000 for each of fiscal years 2024 through 2028.
 
 ### Statutory Notes
 
@@ -27411,6 +27327,9 @@ This Act, referred to in subsecs. (d)(1) and (g), is Pub. L. 115–194, July 7, 
 
 #### Codification
 Section was enacted as part of the Firefighter Cancer Registry Act of 2018, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Amendments
+2024—Subsec. (h). Pub. L. 118–147 substituted “$5,500,000 for each of fiscal years 2024 through 2028” for “$2,500,000 for each of the fiscal years 2018 through 2022”.
 
 
 <a id="section-280f-to-280f-3"></a>
@@ -28136,17 +28055,43 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 **(e) Patient privacy** The Secretary shall ensure that the data and information collected under this section are made available in a manner that, at a minimum, protects personal privacy to the extent required by applicable Federal and State law.
 
-**(f) Eligibility for grants** To be eligible to receive a grant under subsection (a)(3), an entity shall—
+**(f) Report and strategy**
+
+(1) **Report** — Not later than 2 years after November 21, 2024, the Secretary shall issue a report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate including the following:
+
+  (A) A description of past and present activities of the Department of Health and Human Services to increase awareness and knowledge of the public with respect to congenital heart disease, including efforts to address the lifelong needs of congenital heart disease patients.
+
+  (B) An assessment of past and present activities of the Department of Health and Human Services to increase education and training of health care providers with respect to congenital heart disease, including efforts to address the lifelong needs of congenital heart disease patients.
+
+  (C) A description of the current workforce capacity in the United States of health care providers who treat adult patients living with congenital heart disease.
+
+(2) **Strategy**
+
+  (A) *Development; submission to Congress* — Not later than 1 year after submitting the report required by paragraph (1), the Secretary shall develop and submit to Congress a strategy for improving efforts to increase awareness and knowledge of the public and education and training of health care providers with respect to congenital heart disease. Such strategy shall include findings and recommendations to—
+
+    (i) address any public awareness and research gaps and opportunities related to the lifelong needs of congenital heart disease patients, including long-term health outcomes, quality of life, mental health, and health care utilization;
+
+    (ii) address any shortages in the current workforce of health care providers who treat adult patients living with congenital heart disease, which may include strategies to enhance fellowship training programs or other continuing education programs; and
+
+    (iii) foster collaboration and dissemination of information across Federal agencies, health care providers, researchers, and patient organizations.
+
+  (B) *Consultation* — In developing the strategy under subparagraph (A), the Secretary shall, as appropriate, consult with qualified stakeholder groups, including patient organizations, health care professionals, research entities, health insurance providers, accrediting organizations, and relevant Federal agencies, including the Centers for Disease Control and Prevention, the National Institutes of Health, and the Health Resources and Services Administration.
+
+**(g) Eligibility for grants** To be eligible to receive a grant under subsection (a)(3), an entity shall—
 
 (1) be a public or private nonprofit entity with specialized experience in congenital heart disease; and
 
 (2) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
-**(g) Authorization of appropriations** To carry out this section, there are authorized to be appropriated $10,000,000 for each of fiscal years 2020 through 2024.
+**(h) Authorization of appropriations** To carry out this section, there are authorized to be appropriated $10,000,000 for each of fiscal years 2025 through 2029.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsecs. (f), (g). Pub. L. 118–107, § 2(1), (2), added subsec. (f) and redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 118–107, § 2(1), (3), redesignated subsec. (g) as (h) and substituted “2025 through 2029” for “2020 through 2024”.
+
 2018—Pub. L. 115–342 amended section generally. Prior to amendment, section related to National Congenital Heart Disease Surveillance System.
 
 
@@ -30217,11 +30162,13 @@ Section was enacted as part of the Substance Use–Disorder Prevention that Prom
 
 (3) **State** — The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and the Trust Territory of the Pacific Islands.
 
-**(e) Sunset** This section shall not apply after September 30, 2024.
+**(e) Sunset** This section shall not apply after December 20, 2024.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (e). Pub. L. 118–83 substituted “December 20, 2024” for “September 30, 2024”.
+
 2019—Subsec. (a)(1). Pub. L. 116–60, § 3(a)(1), substituted “adults with autism spectrum disorder” for “adults on autism spectrum disorder”.
 
 Subsec. (a)(2). Pub. L. 116–60, § 3(a)(2), substituted “State, local, and Tribal public health officials” for “State and local public health officials” and “and other developmental disabilities” for “or other developmental disabilities”.
@@ -30383,7 +30330,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(f) Intervention** The Secretary shall promote research, through grants or contracts, which may include grants or contracts to research centers or networks, to determine the evidence-based practices for interventions to improve the physical and behavioral health of individuals with autism spectrum disorder or other developmental disabilities across the lifespan of such individuals, develop guidelines for those interventions, and disseminate information related to such research and guidelines.
 
-**(g) Sunset** This section shall not apply after September 30, 2024.
+**(g) Sunset** This section shall not apply after December 20, 2024.
 
 ### Statutory Notes
 
@@ -30399,6 +30346,8 @@ The Rehabilitation Act of 1973, referred to in subsec. (c)(1)(A)(x), is Pub. L. 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (d)(2)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§ 15001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15001) and Tables.
 
 #### Amendments
+2024—Subsec. (g). Pub. L. 118–83 substituted “December 20, 2024” for “September 30, 2024”.
+
 2019—Subsec. (a)(1). Pub. L. 116–60, § 3(b)(1), substituted “individuals with autism spectrum disorder and other developmental disabilities” for “individuals with autism spectrum disorder or other developmental disabilities” and “individuals with autism spectrum disorder and other developmental disabilities across their lifespan;” for “children with autism spectrum disorder and other developmental disabilities;”.
 
 Subsec. (b)(2). Pub. L. 116–60, § 3(b)(2)(A), inserted “individuals with” before “autism spectrum disorder”.
@@ -30498,11 +30447,13 @@ Subsec. (g). Pub. L. 113–157, § 4(5), substituted “2019” for “2014”.
 
 **(e) Subcommittees; establishment and membership** In carrying out its functions, the Committee may establish subcommittees and convene workshops and conferences. Such subcommittees shall be composed of Committee members and may hold such meetings as are necessary to enable the subcommittees to carry out their duties.
 
-**(f) Sunset** This section shall not apply after September 30, 2024, and the Committee shall be terminated on such date.
+**(f) Sunset** This section shall not apply after December 20, 2024, and the Committee shall be terminated on such date.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (f). Pub. L. 118–83 substituted “December 20, 2024” for “September 30, 2024”.
+
 2019—Subsec. (b)(2). Pub. L. 116–60, § 3(c)(1)(A), inserted “across the lifespan of such individuals” before semicolon at end.
 
 Subsec. (b)(5). Pub. L. 116–60, § 3(c)(1)(B), inserted “across the lifespan of such individuals” before “and the families” in introductory provisions.
@@ -48512,12 +48463,96 @@ Subsec. (h). Pub. L. 115–271, § 7002(4), (6), redesignated subsec. (g) as (h)
 
 
 <a id="section-290ee-10"></a>
-## § 290ee–10. Transferred
+## § 290ee–10. Rural emergency medical service training and equipment assistance program
+**(a) Grants** The Secretary, acting through the Assistant Secretary, shall award grants to eligible entities to enable such entities to provide for improved emergency medical services in rural areas or to residents of rural areas.
+
+**(b) Eligibility; application** To be eligible to receive grant under this section, an entity shall—
+
+(1) be—
+
+  (A) an emergency medical services agency operated by a local or tribal government (including fire-based and non-fire based); or
+
+  (B) an emergency medical services agency that is described in [section 501(c) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c&num=0&edition=prelim) and exempt from tax under [section 501(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim); and
+
+(2) submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+
+**(c) Use of funds** An entity—
+
+(1) shall use amounts received through a grant under subsection (a) to—
+
+  (A) train emergency medical services personnel as appropriate to obtain and maintain licenses and certifications relevant to service in an emergency medical services agency described in subsection (b)(1);
+
+  (B) conduct courses that qualify graduates to serve in an emergency medical services agency described in subsection (b)(1) in accordance with State and local requirements;
+
+  (C) fund specific training to meet Federal or State licensing or certification requirements;
+
+  (D) acquire emergency medical services equipment; and
+
+  (E) ensure emergency medical services personnel are trained on mental health and substance use disorders and care for individuals with such disorders in emergency situations; and
+
+(2) may use amounts received through a grant under subsection (a) to—
+
+  (A) recruit and retain emergency medical services personnel, which may include volunteer personnel;
+
+  (B) develop new ways to educate emergency health care providers through the use of technology-enhanced educational methods;
+
+  (C) acquire personal protective equipment for emergency medical services personnel as required by the Occupational Safety and Health Administration; or
+
+  (D) acquire drugs or devices approved, cleared, or otherwise legally marketed under the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.] for emergency treatment of known or suspected overdose.
+
+**(d) Grant amounts** Each grant awarded under this section shall be in an amount not to exceed $200,000.
+
+**(e) Definitions** In this section:
+
+(1) The term “emergency medical services”—
+
+  (A) means resources used by a public or private nonprofit licensed entity to deliver medical care outside of a medical facility under emergency conditions that occur as a result of the condition of the patient; and
+
+  (B) includes services delivered (either on a compensated or volunteer basis) by an emergency medical services provider or other provider that is licensed or certified by the State involved as an emergency medical technician, a paramedic, or an equivalent professional (as determined by the State).
+
+(2) The term “rural area” means—
+
+  (A) a nonmetropolitan statistical area;
+
+  (B) an area designated as a rural area by any law or regulation of a State; or
+
+  (C) a rural census tract of a metropolitan statistical area (as determined under the most recent rural urban commuting area code as set forth by the Office of Management and Budget).
+
+**(f) Authorization of appropriations**
+
+(1) **In general** — There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2024 through 2028.
+
+(2) **Administrative costs** — The Secretary may use not more than 10 percent of the amount appropriated under paragraph (1) for a fiscal year for the administrative expenses of carrying out this section.
 
 ### Statutory Notes
 
+#### References in Text
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(2)(D), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+
 #### Codification
-Section, act July 1, 1944, ch. 373, title V, § 550, as added Pub. L. 115–271, title VIII, § 8214, Oct. 24, 2018, 132 Stat. 4116, which related to sobriety treatment and recovery teams, was renumbered section 550A of act July 1, 1944, by Pub. L. 117–328, div. FF, title I, § 1237, Dec. 29, 2022, 136 Stat. 5677, and transferred to [section 290ee–5a of this title](./chapter-6a-public-health-service.md#section-290ee-5a).
+Section was formerly classified to [section 254c–15 of this title](./chapter-6a-public-health-service.md#section-254c-15) prior to renumbering by Pub. L. 118–84.
+
+#### Prior Provisions
+A prior section 290ee–10, act July 1, 1944, ch. 373, title V, § 550, as added Pub. L. 115–271, title VIII, § 8214, Oct. 24, 2018, 132 Stat. 4116, which related to sobriety treatment and recovery teams, was renumbered section 550A of act July 1, 1944, by Pub. L. 117–328, div. FF, title I, § 1237, Dec. 29, 2022, 136 Stat. 5677, and transferred to [section 290ee–5a of this title](./chapter-6a-public-health-service.md#section-290ee-5a).
+
+#### Amendments
+2024—Subsec. (a). Pub. L. 118–84, § 2(1), substituted “the Assistant Secretary,” for “the Administrator of the Health Resources and Services Administration (referred to in this section as the ‘Secretary’)”.
+
+Subsec. (c)(1)(E). Pub. L. 118–84, § 2(2)(A), added subpar. (E).
+
+Subsec. (c)(2)(D). Pub. L. 118–84, § 2(2)(B), added subpar. (D).
+
+Subsec. (f). Pub. L. 118–84, § 2(3), (4), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “The Secretary may not award a grant under this section to an entity unless the entity agrees that the entity will make available (directly or through contributions from other public or private entities) non-Federal contributions toward the activities to be carried out under the grant in an amount equal to 10 percent of the amount received under the grant.”
+
+Subsec. (f)(1). Pub. L. 118–84, § 2(5), substituted “2024 through 2028” for “2019 through 2023”.
+
+Subsec. (g). Pub. L. 118–84, § 2(4), redesignated subsec. (g) as (f).
+
+2018—Subsec. (a). Pub. L. 115–334, § 12608(1), substituted “in rural areas or to residents of rural areas” for “in rural areas”.
+
+Subsecs. (b) to (f). Pub. L. 115–334, § 12608(2), added subsecs. (b) to (f) and struck out former subsecs. (b) to (f) which related to eligibility for grants, use of funds, preference for certain grant applications, matching requirement, and definition of “emergency medical services”, respectively.
+
+Subsec. (g)(1). Pub. L. 115–334, § 12608(3), substituted “2019 through 2023” for “2002 through 2006”.
 
 
 <a id="section-290ee-2"></a>
@@ -66193,11 +66228,13 @@ Pub. L. 104–166, § 4, July 29, 1996, 110 Stat. 1448, as amended by Pub. L. 10
 
 **(b) Routing contacts with poison control centers** Not later than 18 months after December 20, 2019, the Secretary shall coordinate with the Chairman of the Federal Communications Commission, to the extent technically and economically feasible, to ensure that communications with the national toll-free number are routed to the appropriate poison control center based on the physical location of the contact rather than the area code of the contact device.
 
-**(c) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $700,000 for each of fiscal years 2020 through 2024 for the establishment, implementation, and maintenance activities carried out under subsections (a) and (b).
+**(c) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $700,000 for each of fiscal years 2025 through 2029 for the establishment, implementation, and maintenance activities carried out under subsections (a) and (b).
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (c). Pub. L. 118–86 substituted “fiscal years 2025 through 2029” for “fiscal years 2020 through 2024”.
+
 2019—Pub. L. 116–94, § 403(a)(1), inserted “and other communication capabilities” after “toll-free number” in section catchline.
 
 Subsec. (a). Pub. L. 116–94, § 403(a)(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall provide coordination and assistance to poison control centers for the establishment of a nationwide toll-free phone number, and the maintenance of such number, to be used to access such centers.”
@@ -66228,11 +66265,13 @@ Pub. L. 108–194, § 2, Dec. 19, 2003, 117 Stat. 2888, provided that: “The Co
 
 (3) other activities to provide for public and professional awareness and education.
 
-**(c) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $800,000 for each of fiscal years 2020 through 2024.
+**(c) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $800,000 for each of fiscal years 2025 through 2029.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (c). Pub. L. 118–86 substituted “fiscal years 2025 through 2029” for “fiscal years 2020 through 2024”.
+
 2019—Pub. L. 116–94, § 403(b)(1), substituted “Promoting” for “Nationwide media campaign to promote” in section catchline.
 
 Subsec. (a). Pub. L. 116–94, § 403(b)(2), inserted “and support outreach to” after “educate”, and substituted “poisoning and toxic exposure prevention” for “poison prevention” and “and other available communication technologies established, implemented, or maintained under” for “established under”.
@@ -66301,7 +66340,7 @@ Pub. L. 110–377, § 4(b), Oct. 8, 2008, 122 Stat. 4065, provided that: “The 
 
 **(f) Maintenance of effort** With respect to activities for which a grant is awarded under this section, the Secretary may require that poison control centers agree to maintain the expenditures of the center for such activities at a level that is not less than the level of expenditures maintained by the center for the fiscal year preceding the fiscal year for which the grant is received.
 
-**(g) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $28,600,000 for each of fiscal years 2020 through 2024. The Secretary may utilize an amount not to exceed 6 percent of the amount appropriated under this preceding sentence in each fiscal year for coordination, dissemination, technical assistance, program evaluation, data activities, and other program administration functions, which are determined by the Secretary to be appropriate for carrying out the program under this section.
+**(g) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $28,600,000 for each of fiscal years 2025 through 2029. The Secretary may utilize an amount not to exceed 6 percent of the amount appropriated under this preceding sentence in each fiscal year for coordination, dissemination, technical assistance, program evaluation, data activities, and other program administration functions, which are determined by the Secretary to be appropriate for carrying out the program under this section.
 
 **(h) Biennial report to Congress** Not later than 2 years after December 20, 2019, and every 2 years thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and Committee on Energy and Commerce of the House of Representatives a report concerning the operations of, and trends identified by, the Poison Control Network. Such report shall include—
 
@@ -66322,6 +66361,8 @@ Pub. L. 110–377, § 4(b), Oct. 8, 2008, 122 Stat. 4065, provided that: “The 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (g). Pub. L. 118–86 substituted “fiscal years 2025 through 2029” for “fiscal years 2020 through 2024”.
+
 2019—Subsec. (a). Pub. L. 116–94, § 403(c)(1), inserted “and toxic exposures” after “poisonings”.
 
 Subsec. (b)(1). Pub. L. 116–94, § 403(c)(2)(A), substituted “for poisoning and toxic exposure” for “for poison” and “preparedness and response” for “and preparedness”.
@@ -79655,7 +79696,7 @@ Subsec. (b)(10), (11). Pub. L. 117–328, § 2104(k)(1)(B), added par. (10) and 
 
 **(f) Coordination** The Secretary shall coordinate duties and activities authorized under this section in accordance with [section 300hh–10e of this title](./chapter-6a-public-health-service.md#section-300hh-10e).
 
-**(g) Sunset** The Advisory Committee shall terminate on December 31, 2024.
+**(g) Sunset** The Advisory Committee shall terminate on March 31, 2025.
 
 ### Statutory Notes
 
@@ -79663,7 +79704,9 @@ Subsec. (b)(10), (11). Pub. L. 117–328, § 2104(k)(1)(B), added par. (10) and 
 Section was formerly classified to [section 300hh–10a of this title](./chapter-6a-public-health-service.md#section-300hh-10a).
 
 #### Amendments
-2024—Subsec. (g). Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
+2024—Subsec. (g). Pub. L. 118–158 substituted “March 31, 2025” for “December 31, 2024”.
+
+Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
 
 Pub. L. 118–35 substituted “March 8, 2024” for “January 19, 2024”.
 
@@ -79742,14 +79785,16 @@ Subsec. (g). Pub. L. 116–22, § 305(a)(4), (6), redesignated subsec. (f) as (g
 
 **(g) Sunset**
 
-(1) **In general** — The Advisory Committee shall terminate on December 31, 2024.
+(1) **In general** — The Advisory Committee shall terminate on March 31, 2025.
 
 (2) **Extension of Committee** — Not later than October 1, 2022, the Secretary shall submit to Congress a recommendation on whether the Advisory Committee should be extended.
 
 ### Statutory Notes
 
 #### Amendments
-2024—Subsec. (g)(1). Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
+2024—Subsec. (g)(1). Pub. L. 118–158 substituted “March 31, 2025” for “December 31, 2024”.
+
+Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
 
 Pub. L. 118–35 substituted “March 8, 2024” for “January 19, 2024”.
 
@@ -79810,14 +79855,16 @@ Pub. L. 118–15 substituted “November 17, 2023” for “September 30, 2023�
 
 **(g) Sunset**
 
-(1) **In general** — The Advisory Committee shall terminate on December 31, 2024.
+(1) **In general** — The Advisory Committee shall terminate on March 31, 2025.
 
 (2) **Recommendation** — Not later than October 1, 2022, the Secretary shall submit to Congress a recommendation on whether the Advisory Committee should be extended.
 
 ### Statutory Notes
 
 #### Amendments
-2024—Subsec. (g)(1). Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
+2024—Subsec. (g)(1). Pub. L. 118–158 substituted “March 31, 2025” for “December 31, 2024”.
+
+Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
 
 Pub. L. 118–35 substituted “March 8, 2024” for “January 19, 2024”.
 
@@ -79905,7 +79952,7 @@ Pub. L. 118–15 substituted “November 17, 2023” for “September 30, 2023�
 
   (A) *In general* — If the Secretary determines that the number of intermittent disaster response personnel within the National Disaster Medical System under this section is insufficient to address a public health emergency or potential public health emergency, the Secretary may appoint candidates directly to personnel positions for intermittent disaster response within such system. The Secretary shall provide updates on the number of vacant or unfilled positions within such system to the congressional committees of jurisdiction each quarter for which this authority is in effect.
 
-  (B) *Sunset* — The authority under this paragraph shall expire on December 31, 2024.
+  (B) *Sunset* — The authority under this paragraph shall expire on March 31, 2025.
 
 (5) **Omitted**
 
@@ -79945,7 +79992,9 @@ Pub. L. 118–15 substituted “November 17, 2023” for “September 30, 2023�
 Subsec. (c)(5) of this section was omitted in light of section 301(d)(3) of Pub. L. 116–22, which provided that the amendment adding subsec. (c)(5) would cease to have force or effect on Oct. 1, 2021. See 2019 Amendment and Termination Date of 2019 Amendment notes below.
 
 #### Amendments
-2024—Subsec. (c)(4)(B). Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
+2024—Subsec. (c)(4)(B). Pub. L. 118–158 substituted “March 31, 2025” for “December 31, 2024”.
+
+Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
 
 Pub. L. 118–35 substituted “March 8, 2024” for “January 19, 2024”.
 
@@ -80561,6 +80610,29 @@ Level IV of the Executive Schedule, referred to in subsec. (h)(3), is set out in
 Section was enacted as part of the Prepare for and Respond to Existing Viruses, Emerging New Threats, and Pandemics Act, also known as the PREVENT Pandemics Act, and also as part of the Health Extenders, Improving Access to Medicare, Medicaid, and CHIP, and Strengthening Public Health Act of 2022, and not as part of the Public Health Service Act which comprises this chapter.
 
 Section is comprised of section 2104 of div. FF of Pub. L. 117–328. Subsec. (k) of section 2104 of div. FF of Pub. L. 117–328 amended sections 300hh–10a, 6614, and 6651 of this title and [section 3021 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim), War and National Defense.
+
+#### Ex. Ord. No. 14122. COVID–19 and Public Health Preparedness and Response
+Ex. Ord. No. 14122, Apr. 12, 2024, 89 F.R. 27355, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. The Office of Pandemic Preparedness and Response Policy (OPPR), established by the Congress in December 2022 under section 2104 of Public Law 117—328 [[42 U.S.C. 300hh–3](./chapter-6a-public-health-service.md#section-300hh-3)], is playing a critical role in the Federal Government’s pandemic preparedness efforts. The OPPR is providing advice, within the Executive Office of the President, on policy related to preparedness for, and response to, pandemic and other biological threats that may impact national security. The OPPR is also supporting my Administration’s continued work to address COVID–19 and other public health threats, facilitating coordination and communication among executive departments and agencies to ensure that the United States can quickly detect, identify, and respond to such threats as necessary. At this stage of my Administration’s response to COVID–19, I have determined that certain Executive Orders are no longer necessary and that certain roles and responsibilities established by other Executive Orders related to COVID–19 should be transferred to the OPPR.
+
+Sec. 2. Revocations. Executive Order 13910 of March 23, 2020 (Preventing Hoarding of Health and Medical Resources to Respond to the Spread of COVID–19) [[50 U.S.C. 4512](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4512&num=0&edition=prelim) note], Executive Order 13991 of January 20, 2021 (Protecting the Federal Workforce and Requiring Mask-Wearing) [[42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d) note], and Executive Order 13998 of January 21, 2021 (Promoting COVID–19 Safety in Domestic and International Travel) [[42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d) note], are hereby revoked.
+
+Sec. 3. Transfer of Responsibilities. Responsibilities and duties of the Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator), including responsibilities and duties specified in Executive Order 13987 of January 20, 2021 (Organizing and Mobilizing the United States Government to Provide a Unified and Effective Response to Combat COVID–19 and to Provide United States Leadership on Global Health and Security), Executive Order 13994 of January 21, 2021 (Ensuring a Data-Driven Response to COVID–19 and Future High-Consequence Public Health Threats), and Executive Order 13996 of January 21, 2021 (Establishing the COVID–19 Pandemic Testing Board and Ensuring a Sustainable Public Health Workforce for COVID–19 and Other Biological Threats) [[42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d) notes], are transferred to the Director of the OPPR. The positions of COVID–19 Response Coordinator and Deputy Coordinator of the COVID–19 Response, as established by section 2 of Executive Order 13987, are hereby terminated.
+
+Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
 
 
 <a id="section-300hh-31"></a>

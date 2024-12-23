@@ -32,6 +32,12 @@ Pub. L. 107–207, § 1, Aug. 5, 2002, 116 Stat. 926, provided that: “This Act
 #### Short Title of 1996 Amendment
 Pub. L. 104–199, § 1, Sept. 21, 1996, 110 Stat. 2419, provided that: “This Act [enacting [section 7 of this title](./chapter-001-rules-of-construction.md#section-7) and [section 1738C of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1738C&num=0&edition=prelim), Judiciary and Judicial Procedure] may be cited as the ‘Defense of Marriage Act’.”
 
+#### References in Pub. L. 118–158
+Pub. L. 118–158, § 3, Dec. 21, 2024, 138 Stat. 1723, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Futher Continuing Appropriations Act, 2025, see Tables for classification] shall be treated as referring only to the provisions of that division.”
+
+#### References in Pub. L. 118–83
+Pub. L. 118–83, § 3, Sept. 26, 2024, 138 Stat. 1524, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Continuing Appropriations and Extensions Act, 2025, see Tables for classification] shall be treated as referring only to the provisions of that division.”
+
 #### References in Pub. L. 118–47
 Pub. L. 118–47, § 3, Mar. 23, 2024, 138 Stat. 461, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Further Consolidated Appropriations Act, 2024, see Tables for classification] shall be treated as referring only to the provisions of that division.”
 

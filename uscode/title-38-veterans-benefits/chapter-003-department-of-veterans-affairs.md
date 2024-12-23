@@ -414,7 +414,7 @@ The Secretary shall designate the Assistant Secretary whose functions include bu
 Provisions similar to those in this section were contained in section 4(c) of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, § 3(3).
 
 #### Matters Relating to the Chief Financial Officer of Department of Veterans Affairs
-Pub. L. 116–315, title VII, subtitle B, Jan. 5, 2021, 134 Stat. 5061, provided that: “SEC. 7101. DEFINITIONS.“In this subtitle:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committees on Veterans’ Affairs of the Senate and the House of Representatives and the Committees on Appropriations of the Senate and the House of Representatives. “(2) Subordinate chief financial officer.—The term ‘subordinate chief financial officer’—“(A) includes—“(i) the chief financial officer of the Veterans Health Administration, the chief financial officer of the Office of Community Care within the Veterans Health Administration, and all chief financial officers of Veterans Integrated Service Networks within the Veterans Health Administration; “(ii) the chief financial officer of the Veterans Benefits Administration and all chief financial officers of organizational subdivisions representing business lines within the Veterans Benefits Administration; “(iii) the chief financial officer of the National Cemetery Administration; and “(iv) the chief financial officer of the Office of Information and Technology; and “(B) does not include the Inspector General. “SEC. 7102. PLANS FOR ADDRESSING MATERIAL WEAKNESSES AND PROVIDING SUFFICIENT AUTHORITY TO CHIEF FINANCIAL OFFICER OF DEPARTMENT OF VETERANS AFFAIRS.“Not later than 180 days after the date of the enactment of this Act [Jan. 5, 2021], and annually thereafter for each of the three subsequent years, the Secretary of Veterans Affairs, acting through the Chief Financial Officer of the Department of Veterans Affairs, shall submit to the appropriate congressional committees—“(1) an action plan, including steps, related timelines, costs, progress, status of implementation, and any updates for fully addressing the material weaknesses of the Department discussed in the Management’s Discussion and Analysis section of the financial statements of the Department submitted to Congress under [section 3515 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3515&num=0&edition=prelim), United States Code[,] for the year preceding the year during which the report is submitted; and “(2) a plan outlining the steps the Secretary plans to take to address the recommendations of auditors related to entity-level internal controls and to provide sufficient authority to the Chief Financial Officer of the Department to carry out the requirements of [section 902 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section902&num=0&edition=prelim), United States Code. “SEC. 7103. CHIEF FINANCIAL OFFICER ATTESTATION.“Concurrent with the submittal to Congress of the President’s budget request under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, for fiscal year 2022 and each of the next three subsequent fiscal years, the Chief Financial Officer of the Department of Veterans affairs shall submit to the appropriate congressional committees each of the following:“(1) A certification of the responsibility of the Chief Financial Officer for internal financial controls of the Department. “(2) An attestation that the Chief Financial Officer has collaborated sufficiently with the subordinate chief financial officers of the Department to be confident in the financial projections included [in] the budget request and supporting materials. “SEC. 7104. CHIEF FINANCIAL OFFICER RESPONSIBILITY FOR SUBORDINATE CHIEF FINANCIAL OFFICERS.“(a) In General.—In accordance with the responsibilities of the Chief Financial Officer of the Department of Veterans Affairs for the recruitment, selection, and training of personnel to carry out agency financial management functions pursuant to [section 902(a)(5)(C) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section902/a/5/C&num=0&edition=prelim), United States Code, the Chief Financial Officer or the designee of the Chief Financial Officer within the Office of Management of the Department shall—“(1) participate in the interview and selection panels of all subordinate chief financial officers; and “(2) give input into the performance plans and performance evaluations of all subordinate chief financial officers. “(b) Termination.—The requirements under subsection (a) shall terminate on the date that is five years after the date of the enactment of this Act [Jan. 5, 2021].”
+Pub. L. 116–315, title VII, subtitle B, Jan. 5, 2021, 134 Stat. 5061, as amended by Pub. L. 118–83, div. B, title III, § 338, Sept. 26, 2024, 138 Stat. 1542, provided that: “SEC. 7101. DEFINITIONS.“In this subtitle:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committees on Veterans’ Affairs of the Senate and the House of Representatives and the Committees on Appropriations of the Senate and the House of Representatives. “(2) Subordinate chief financial officer.—The term ‘subordinate chief financial officer’—“(A) includes—“(i) the chief financial officer of the Veterans Health Administration, the chief financial officer of the Office of Community Care within the Veterans Health Administration, and all chief financial officers of Veterans Integrated Service Networks within the Veterans Health Administration; “(ii) the chief financial officer of the Veterans Benefits Administration and all chief financial officers of organizational subdivisions representing business lines within the Veterans Benefits Administration; “(iii) the chief financial officer of the National Cemetery Administration; and “(iv) the chief financial officer of the Office of Information and Technology; and “(B) does not include the Inspector General. “SEC. 7102. PLANS FOR ADDRESSING MATERIAL WEAKNESSES AND PROVIDING SUFFICIENT AUTHORITY TO CHIEF FINANCIAL OFFICER OF DEPARTMENT OF VETERANS AFFAIRS.“Not later than 180 days after the date of the enactment of this Act [Jan. 5, 2021], and annually thereafter for each of the three subsequent years, the Secretary of Veterans Affairs, acting through the Chief Financial Officer of the Department of Veterans Affairs, shall submit to the appropriate congressional committees—“(1) an action plan, including steps, related timelines, costs, progress, status of implementation, and any updates for fully addressing the material weaknesses of the Department discussed in the Management’s Discussion and Analysis section of the financial statements of the Department submitted to Congress under [section 3515 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3515&num=0&edition=prelim), United States Code[,] for the year preceding the year during which the report is submitted; and “(2) a plan outlining the steps the Secretary plans to take to address the recommendations of auditors related to entity-level internal controls and to provide sufficient authority to the Chief Financial Officer of the Department to carry out the requirements of [section 902 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section902&num=0&edition=prelim), United States Code. “SEC. 7103. CHIEF FINANCIAL OFFICER ATTESTATION.“Concurrent with the submittal to Congress of the President’s budget request under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, for each of fiscal years 2026 through 2029, the Chief Financial Officer of the Department of Veterans affairs shall submit to the appropriate congressional committees each of the following:“(1) A certification of the responsibility of the Chief Financial Officer for internal financial controls of the Department. “(2) An attestation that the Chief Financial Officer has collaborated sufficiently with the subordinate chief financial officers of the Department to be confident in the financial projections included [in] the budget request and supporting materials. “SEC. 7104. CHIEF FINANCIAL OFFICER RESPONSIBILITY FOR SUBORDINATE CHIEF FINANCIAL OFFICERS.“(a) In General.—In accordance with the responsibilities of the Chief Financial Officer of the Department of Veterans Affairs for the recruitment, selection, and training of personnel to carry out agency financial management functions pursuant to [section 902(a)(5)(C) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section902/a/5/C&num=0&edition=prelim), United States Code, the Chief Financial Officer or the designee of the Chief Financial Officer within the Office of Management of the Department shall—“(1) participate in the interview and selection panels of all subordinate chief financial officers; and “(2) give input into the performance plans and performance evaluations of all subordinate chief financial officers. “(b) Termination.—The requirements under subsection (a) shall terminate on the date that is five years after the date of the enactment of this Act [Jan. 5, 2021].”
 
 
 <a id="section-310"></a>
@@ -539,7 +539,7 @@ Provisions similar to those in this section were contained in section 8(a) of Pu
 
 (7)
 
-  (A) The authority provided by paragraph (1)(A) shall terminate on May 31, 2025.
+  (A) The authority provided by paragraph (1)(A) shall terminate on September 30, 2025.
 
   (B) The termination of authority by subparagraph (A) shall not affect the enforceability of a subpoena issued under paragraph (1)(A) before the date of such termination.
 
@@ -554,6 +554,8 @@ Prior section 312 was renumbered [section 1112 of this title](./chapter-011-comp
 Provisions similar to those in this section were contained in section 9(b) of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, § 3(3).
 
 #### Amendments
+2024—Subsec. (d)(7)(A). Pub. L. 118–83 substituted “September 30, 2025” for “May 31, 2025”.
+
 2022—Subsec. (a). Pub. L. 117–286, § 4(b)(60)(A), substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978 (5 U.S.C. App.).”
 
 Subsec. (c)(1). Pub. L. 117–286, § 4(b)(60)(B), substituted “chapter 4 of title 5,” for “the Inspector General Act of 1978 (5 U.S.C. App.),”.
@@ -652,7 +654,7 @@ Provisions similar to those in this section were contained in [section 230(a) of
 ## § 315. Regional offices
 **(a)** The Secretary may establish such regional offices and such other field offices within the United States, its Territories, Commonwealths, and possessions, as the Secretary considers necessary.
 
-**(b)** The Secretary may maintain a regional office in the Republic of the Philippines until September 30, 2024.
+**(b)** The Secretary may maintain a regional office in the Republic of the Philippines until September 30, 2025.
 
 ### Statutory Notes
 
@@ -662,6 +664,8 @@ Prior section 315 was renumbered [section 1115 of this title](./chapter-011-comp
 Provisions similar to those in this section were contained in section 230(a), (b) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 #### Amendments
+2024—Subsec. (b). Pub. L. 118–83 substituted “September 30, 2025” for “September 30, 2024”.
+
 2022—Subsec. (b). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”.
 
 2020—Subsec. (b). Pub. L. 116–159 substituted “September 30, 2022” for “September 30, 2020”.
@@ -1007,7 +1011,7 @@ Pub. L. 105–114, title I, § 102(b), Nov. 21, 1997, 111 Stat. 2281, required t
 
 (6) Develop, implement, and oversee such other joint actions, initiatives, programs, and policies as the two Secretaries determine appropriate and consistent with the purpose of the Committee.
 
-**(e) Transition Executive Committee.—** The Transition Executive Committee described in subsection (b)(2) shall, in addition to such other activities as may assigned to the committee under subsection (d)(6)—
+**(e) Transition Executive Committee.—** The Transition Executive Committee described in subsection (b)(2) shall, in addition to such other activities as may assigned 11 So in original. Probably should be preceded by “be”. to the committee under subsection (d)(6)—
 
 (1) review existing policies, procedures, and practices of the Departments (including the military departments) with respect to job training and post-service placement programs; and
 
@@ -1062,7 +1066,7 @@ Pub. L. 108–136, div. A, title VII, § 727, Nov. 24, 2003, 117 Stat. 1537, pro
 
 <a id="section-322"></a>
 ## § 322. Office of National Veterans Sports Programs and Special Events
-**(a) Establishment.—** There is in the Department an Office of National Veterans Sports Programs and Special Events. There is at the head of the Office a Director, who shall report to an appropriate official of the Veterans Benefits Administration, as determined by the Secretary, or to the Deputy Secretary or Secretary.
+**(a) Establishment.—** There is in the Department an Office of National Veterans Sports Programs and Special Events. There is at the head of the Office a Director, who shall report to an appropriate official of the Veterans Health Administration, as determined by the Secretary, or to the Deputy Secretary or Secretary.
 
 **(b) Responsibilities of Director.—** Subject to the direction of the Secretary, the Director—
 
@@ -1084,17 +1088,21 @@ Pub. L. 108–136, div. A, title VII, § 727, Nov. 24, 2003, 117 Stat. 1537, pro
 
 (1) Subject to the availability of appropriations for such purpose, the Secretary may provide a monthly assistance allowance to—
 
-  (A) a veteran with a disability invited by the United States Olympic Committee to compete for a slot on, or selected for, the Paralympic Team for any month in which the veteran is training or competing in any event sanctioned by the United States Olympic Committee or who is residing at a United States Olympic Committee training center; and
+  (A) a veteran with a disability invited by the United States Olympic & Paralympic Committee to compete for a slot on, or selected for, the Paralympic Team for any month in which the veteran is training or competing in any event sanctioned by the United States Olympic & Paralympic Committee or who is residing at a United States Olympic Committee training center; and
 
-  (B) a veteran with a VA service-connected disability rated as 30 percent or greater by the Department of Veterans Affairs who is selected by the United States Olympic Committee for the United States Olympic Team for any month in which the veteran is competing in any event sanctioned by the National Governing Bodies of the United States Olympic Sports.
+  (B) a veteran with a VA service-connected disability rated as 30 percent or greater by the Department of Veterans Affairs who is selected by the United States Olympic & Paralympic Committee for the United States Olympic Team for any month in which the veteran is competing in any event sanctioned by the National Governing Bodies of the United States Olympic Sports.
 
 (2) The amount of the monthly assistance payable to a veteran under paragraph (1) shall be equal to the monthly amount of subsistence allowance that would be payable to the veteran under chapter 31 of this title if the veteran were eligible for and entitled to rehabilitation under such chapter.
 
 (3) In providing assistance under this subsection, the Secretary shall give priority to veterans with service-connected disabilities.
 
-(4) There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2026.
+(4) There is authorized to be appropriated to carry out this subsection the following:
 
-**(e) Applicability to Commonwealths and Territories of the United States.—** The provisions of this subsection shall apply in the same manner and to the same degree as to the United States Olympic Committee to the Paralympic sport entities the Secretary considers appropriate to represent the interests of each of the following:
+  (A) For each of fiscal years 2010 through 2023, $2,000,000.
+
+  (B) For each of fiscal years 2024 through 2027, $2,500,000.
+
+**(e) Applicability to Commonwealths and Territories of the United States.—** The provisions of this subsection shall apply in the same manner and to the same degree as to the United States Olympic & Paralympic Committee to the Paralympic sport entities the Secretary considers appropriate to represent the interests of each of the following:
 
 (1) American Samoa.
 
@@ -1114,6 +1122,14 @@ Pub. L. 108–136, div. A, title VII, § 727, Nov. 24, 2003, 117 Stat. 1537, pro
 The date of the enactment of this section, referred to in subsec. (f), is the date of enactment of Pub. L. 110–389, which was approved Oct. 10, 2008.
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–83, § 334(2), substituted “Veterans Health Administration” for “Veterans Benefits Administration”.
+
+Subsec. (d)(1)(A), (B). Pub. L. 118–83, § 334(1), substituted “the United States Olympic & Paralympic Committee” for “the United States Olympic Committee” wherever appearing.
+
+Subsec. (d)(4). Pub. L. 118–83, § 334(3), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2026.”
+
+Subsec. (e). Pub. L. 118–83, § 334(1), substituted “the United States Olympic & Paralympic Committee” for “the United States Olympic Committee” in introductory provisions.
+
 2022—Subsec. (d)(4). Pub. L. 117–180 substituted “2026” for “2022”.
 
 2020—Subsec. (d)(4). Pub. L. 116–159 substituted “2022” for “2020”.

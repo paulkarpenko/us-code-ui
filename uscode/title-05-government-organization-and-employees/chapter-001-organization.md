@@ -55,6 +55,10 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
 #### Short Title of 2024 Amendment
+Pub. L. 118–104, § 1, Oct. 2, 2024, 138 Stat. 1586, provided that: “This Act [amending [section 552a of this title](./chapter-005-administrative-procedure.md#section-552a)] may be cited as the ‘Congressional Budget Office Data Access Act’.”
+
+Pub. L. 118–97, § 1, Oct. 1, 2024, 138 Stat. 1573, provided that: “This Act [amending [section 801 of this title](./chapter-008-congressional-review-of-agency-rulemaking.md#section-801) and enacting provisions set out as a note under [section 801 of this title](./chapter-008-congressional-review-of-agency-rulemaking.md#section-801)] may be cited as the ‘GAO Database Modernization Act of 2023’.”
+
 Pub. L. 118–71, § 1, July 25, 2024, 138 Stat. 1492, provided that: “This Act [amending [section 413 of this title](./chapter-004-inspectors-general.md#section-413) and enacting provisions set out as notes under [section 413 of this title](./chapter-004-inspectors-general.md#section-413) and [section 4041 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4041&num=0&edition=prelim), Crimes and Criminal Procedure] may be cited as the ‘Federal Prison Oversight Act’.”
 
 Pub. L. 118–38, § 1, Feb. 6, 2024, 138 Stat. 13, provided that: “This Act [enacting and amending provisions set out as notes under [section 5547 of this title](./chapter-055-pay-administration.md#section-5547)] may be cited as the ‘Overtime Pay for Protective Services Act of 2023’.”

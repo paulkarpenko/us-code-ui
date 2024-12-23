@@ -54,7 +54,7 @@ Provisions similar to those in this section were contained in [section 223(c) of
 
 **(b)** If the Secretary determines that a veteran, surviving spouse, child of a veteran, or other person has suffered loss as a consequence of reliance upon a determination by the Department of eligibility or entitlement to benefits, without knowledge that it was erroneously made, the Secretary may provide such relief on account of such error as the Secretary determines is equitable, including the payment of moneys to any person whom the Secretary determines is equitably entitled to such moneys.
 
-**(c)** Not later than April 1 of each year, the Secretary shall submit to Congress a report containing a statement as to the disposition of each case recommended to the Secretary for equitable relief under this section during the preceding calendar year. No report shall be required under this subsection after December 31, 2024.
+**(c)** Not later than April 1 of each year, the Secretary shall submit to Congress a report containing a statement as to the disposition of each case recommended to the Secretary for equitable relief under this section during the preceding calendar year. No report shall be required under this subsection after December 31, 2025.
 
 ### Statutory Notes
 
@@ -64,6 +64,8 @@ Prior sections 503 and 504 were renumbered sections 1503 and 1504 of this title,
 Provisions similar to those in this section were contained in section 210(c)(2), (3) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 #### Amendments
+2024—Subsec. (c). Pub. L. 118–83 substituted “December 31, 2025” for “December 31, 2024”.
+
 2022—Subsec. (c). Pub. L. 117–180 substituted “December 31, 2024” for “December 31, 2022”.
 
 2020—Subsec. (c). Pub. L. 116–159 substituted “December 31, 2022” for “December 31, 2020”.

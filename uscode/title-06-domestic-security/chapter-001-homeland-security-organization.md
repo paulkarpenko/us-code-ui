@@ -2,7 +2,7 @@
 title: 6
 chapter: '1'
 heading: HOMELAND SECURITY ORGANIZATION
-section_count: 401
+section_count: 402
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6&num=0&edition=prelim
 ---
@@ -564,10 +564,14 @@ Pub. L. 109–295 inserted “fire,” after “safety,”.
 #### Effective Date
 Pub. L. 107–296, § 4, Nov. 25, 2002, 116 Stat. 2142, provided that: “This Act [see Tables for classification] shall take effect 60 days after the date of enactment [Nov. 25, 2002].”
 
-#### Short Title 2024 Amendment
+#### Short Title of 2024 Amendment
+Pub. L. 118–103, § 1, Oct. 1, 2024, 138 Stat. 1584, provided that: “This Act [amending [section 348 of this title](./chapter-001-homeland-security-organization.md#section-348) and enacting provisions set out as a note under [section 348 of this title](./chapter-001-homeland-security-organization.md#section-348)] may be cited as the ‘DHS Joint Task Forces Reauthorization Act of 2024’.”
+
+Pub. L. 118–96, § 1, Oct. 1, 2024, 138 Stat. 1569, provided that: “This Act [enacting [section 258 of this title](./chapter-001-homeland-security-organization.md#section-258), amending sections 252 and 253 of this title, and enacting provisions set out as notes under sections 252 and 258 of this title] may be cited as the ‘IMPACTT Human Trafficking Act’.”
+
 Pub. L. 118–43, § 1, Mar. 18, 2024, 138 Stat. 453, provided that: “This Act [enacting [section 226 of this title](./chapter-001-homeland-security-organization.md#section-226)] may be cited as the ‘Eradicating Narcotic Drugs and Formulating Effective New Tools to Address National Yearly Losses of life Act’ or the ‘END FENTANYL Act’.”
 
-#### Short Title 2022 Amendment
+#### Short Title of 2022 Amendment
 Pub. L. 117–322, § 1, Dec. 27, 2022, 136 Stat. 4433, provided that: “This Act [enacting sections 242a and 242b of this title and provisions set out as notes under sections 242 and 242a of this title] may be cited as the ‘Countering Human Trafficking Act of 2021’.”
 
 Pub. L. 117–263, div. G, title LXXI, § 7105(a), Dec. 23, 2022, 136 Stat. 3622, provided that: “This section [enacting [section 475 of this title](./chapter-001-homeland-security-organization.md#section-475)] may be cited as the ‘Transnational Criminal Investigative Unit Stipend Act’.”
@@ -3049,7 +3053,7 @@ Pub. L. 116–260, div. U, title VI, § 602(d), Dec. 27, 2020, 134 Stat. 2295, p
 
 (5) provide a new basis of liability for any State, local, territorial, or tribal law enforcement officers who participate in the protection of a mass gathering identified by the Secretary or Attorney General under subsection (k)(3)(C)(iii)(II), act within the scope of their authority, and do not exercise the authority granted to the Secretary and Attorney General by this section.
 
-**(i) Termination** The authority to carry out this section with respect to a covered facility or asset specified in subsection (k)(3) shall terminate on October 1, 2024.
+**(i) Termination** The authority to carry out this section with respect to a covered facility or asset specified in subsection (k)(3) shall terminate on March 14, 2025.
 
 **(j) Scope of authority** Nothing in this section shall be construed to provide the Secretary or the Attorney General with additional authorities beyond those described in subsections (a) and (k)(3)(C)(iii).
 
@@ -3151,7 +3155,11 @@ The Presidential Protection Assistance Act of 1976, referred to in subsec. (k)(3
 This chapter, referred to in subsec. (l)(1)(A), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of this title](./chapter-001-homeland-security-organization.md#section-101) and Tables.
 
 #### Amendments
-2024—Subsec. (i). Pub. L. 118–63 substituted “October 1, 2024” for “May 11, 2024”.
+2024—Subsec. (i). Pub. L. 118–158 substituted “March 14, 2025” for “December 20, 2024”.
+
+Pub. L. 118–83 substituted “December 20, 2024” for “October 1, 2024”.
+
+Pub. L. 118–63 substituted “October 1, 2024” for “May 11, 2024”.
 
 Pub. L. 118–41 substituted “May 11, 2024” for “March 9, 2024”.
 
@@ -7223,8 +7231,8 @@ Pub. L. 117–263, div. K, § 11003, Dec. 23, 2022, 136 Stat. 4003, provided tha
 For definitions of “Secretary” and “Commandant” as referred to in this section, see section 11002 of div. K of Pub. L. 117–263, set out as a note under [section 106 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section106&num=0&edition=prelim), Coast Guard.
 
 
-<a id="section-271"></a>
-## § 271. Transfer of functions
+<a id="section-258"></a>
+## § 258. Transfer of functions
 
 In accordance with subchapter XII (relating to transition provisions), there shall be transferred from the Commissioner of Immigration and Naturalization to the Secretary all functions performed under the following programs, and all personnel, assets, and liabilities pertaining to such programs, immediately before such transfer occurs:
 
@@ -7244,19 +7252,19 @@ In accordance with subchapter XII (relating to transition provisions), there sha
 2016—Pub. L. 114–125 substituted “Transfer of functions” for “Transfer of functions to Under Secretary for Border and Transportation Security” in section catchline and “Secretary” for “Under Secretary for Border and Transportation Security” in introductory provisions.
 
 
-<a id="section-272"></a>
-## § 272. Establishment of Bureau of Border Security
-**(a) Establishment of Bureau**
+<a id="section-271"></a>
+## § 271. U.S. Immigration and Customs Enforcement
+**(a) Establishment**
 
 (1) **In general** — There shall be in the Department of Homeland Security a bureau to be known as the “Bureau of Border Security”.
 
-(2) **Assistant Secretary** — The head of the Bureau of Border Security shall be the Assistant Secretary of the Bureau of Border Security, who—
+(2) **Assistant Secretary** — The head of U.S. Immigration and Customs Enforcement shall be the Assistant Secretary of U.S. Immigration and Customs Enforcement, who—
 
   (A) shall report directly to the Under Secretary for Border and Transportation Security; and
 
   (B) shall have a minimum of 5 years professional experience in law enforcement, and a minimum of 5 years of management experience.
 
-(3) **Functions** — The Assistant Secretary of the Bureau of Border Security—
+(3) **Functions** — The Assistant Secretary of U.S. Immigration and Customs Enforcement—
 
   (A) shall establish the policies for performing such functions as are—
 
@@ -7266,60 +7274,93 @@ In accordance with subchapter XII (relating to transition provisions), there sha
 
   (B) shall oversee the administration of such policies; and
 
-  (C) shall advise the Under Secretary for Border and Transportation Security with respect to any policy or operation of the Bureau of Border Security that may affect the Bureau of Citizenship and Immigration Services established under part E of this subchapter, including potentially conflicting policies or operations.
+  (C) shall advise the Under Secretary for Border and Transportation Security with respect to any policy or operation of U.S. Immigration and Customs Enforcement affecting U.S. Citizenship and Immigration Services established under part E of this subchapter, including potentially conflicting policies or operations.
 
-(4) **Program to collect information relating to foreign students** — The Assistant Secretary of the Bureau of Border Security shall be responsible for administering the program to collect information relating to nonimmigrant foreign students and other exchange program participants described in [section 1372 of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1372&num=0&edition=prelim), including the Student and Exchange Visitor Information System established under that section, and shall use such information to carry out the enforcement functions of the Bureau.
+(4) **Program to collect information relating to foreign students** — The Assistant Secretary of U.S. Immigration and Customs Enforcement shall be responsible for administering the program to collect information relating to nonimmigrant foreign students and other exchange program participants described in [section 1372 of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1372&num=0&edition=prelim), including the Student and Exchange Visitor Information System established under that section, and shall use such information to carry out the enforcement functions of the agency.
 
 (5) **Managerial rotation program**
 
-  (A) *In general* — Not later than 1 year after the date on which the transfer of functions specified under [section 251 of this title](./chapter-001-homeland-security-organization.md#section-251) takes effect, the Assistant Secretary of the Bureau of Border Security shall design and implement a managerial rotation program under which employees of such bureau holding positions involving supervisory or managerial responsibility and classified, in accordance with chapter 51 of title 5, as a GS–14 or above, shall—
+  (A) *In general* — Not later than 1 year after the date on which the transfer of functions specified under [section 251 of this title](./chapter-001-homeland-security-organization.md#section-251) takes effect, the Assistant Secretary of U.S. Immigration and Customs Enforcement shall design and implement a managerial rotation program under which employees of such agency holding positions involving supervisory or managerial responsibility and classified, in accordance with chapter 51 of title 5, as a GS–14 or above, shall—
 
-    (i) gain some experience in all the major functions performed by such bureau; and
+    (i) gain some experience in all the major functions performed by such agency; and
 
-    (ii) work in at least one local office of such bureau.
+    (ii) work in at least one local office of such agency.
 
   (B) *Report* — Not later than 2 years after the date on which the transfer of functions specified under [section 251 of this title](./chapter-001-homeland-security-organization.md#section-251) takes effect, the Secretary shall submit a report to the Congress on the implementation of such program.
 
 **(b) Chief of Policy and Strategy**
 
-(1) **In general** — There shall be a position of Chief of Policy and Strategy for the Bureau of Border Security.
+(1) **In general** — There shall be a position of Chief of Policy and Strategy for U.S. Immigration and Customs Enforcement.
 
-(2) **Functions** — In consultation with Bureau of Border Security personnel in local offices, the Chief of Policy and Strategy shall be responsible for—
+(2) **Functions** — In consultation with U.S. Immigration and Customs Enforcement personnel in local offices, the Chief of Policy and Strategy shall be responsible for—
 
   (A) making policy recommendations and performing policy research and analysis on immigration enforcement issues; and
 
-  (B) coordinating immigration policy issues with the Chief of Policy and Strategy for the Bureau of Citizenship and Immigration Services (established under part E of this subchapter), as appropriate.
+  (B) coordinating immigration policy issues with the Chief of Policy and Strategy for U.S. Citizenship and Immigration Services (established under part E of this subchapter), as appropriate.
 
-**(c) Legal advisor** There shall be a principal legal advisor to the Assistant Secretary of the Bureau of Border Security. The legal advisor shall provide specialized legal advice to the Assistant Secretary of the Bureau of Border Security and shall represent the bureau in all exclusion, deportation, and removal proceedings before the Executive Office for Immigration Review.
+**(c) Legal advisor** There shall be a principal legal advisor to the Assistant Secretary of U.S. Immigration and Customs Enforcement. The legal advisor shall provide specialized legal advice to the Assistant Secretary of U.S. Immigration and Customs Enforcement and shall represent the agency in all exclusion, deportation, and removal proceedings before the Executive Office for Immigration Review.
 
 ### Statutory Notes
 
+#### Amendment of Section
+For termination of amendment by section 6 of Pub. L. 118–96, see Termination Date of 2024 Amendment note below.
+
 #### References in Text
 Part E of this subchapter, referred to in subsecs. (a)(3)(C) and (b)(2)(B), was in the original “subtitle E”, meaning subtitle E (§§ 451–462) of title IV of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2195, which enacted part E (§ 271 et seq.) of this subchapter, amended sections 1356 and 1573 of Title 8, Aliens and Nationality, and enacted provisions set out as a note under [section 271 of this title](./chapter-001-homeland-security-organization.md#section-271). For complete classification of subtitle E to the Code, see Tables.
+
+#### Amendments
+2024—Pub. L. 118–96, §§ 3(b)(2)(C), 6, temporarily substituted “U.S. Immigration and Customs Enforcement” for “the Bureau of Border Security” wherever appearing. See Termination Date of 2024 Amendment note below.
+
+Pub. L. 118–96, §§ 3(b)(2)(A), 6, temporarily amended section catchline generally, substituting “U.S. Immigration and Customs Enforcement” for “Establishment of Bureau of Border Security”. See Termination Date of 2024 Amendment note below.
+
+Subsec. (a). Pub. L. 118–96, §§ 3(b)(2)(D)(i), 6, temporarily struck out “of Bureau” after “Establishment” in heading. See Termination Date of 2024 Amendment note below.
+
+Subsec. (a)(3)(C). Pub. L. 118–96, §§ 3(b)(2)(D)(ii), 6, which directed the temporary substitution of “affecting U.S.” for “affecting the Bureau of” was executed by making the temporary substitution for “that may affect the Bureau of” to reflect the probable intent of Congress. See Termination Date of 2024 Amendment note below.
+
+Subsec. (a)(4). Pub. L. 118–96, §§ 3(b)(2)(D), 6, temporarily substituted “the agency.” for “the Bureau.” See Termination Date of 2024 Amendment note below.
+
+Subsec. (a)(5)(A). Pub. L. 118–96, §§ 3(b)(2)(B), 6, temporarily substituted “agency” for “bureau” wherever appearing. See Termination Date of 2024 Amendment note below.
+
+Subsec. (b)(2). Pub. L. 118–96, §§ 3(b)(2)(E)(i), 6, temporarily substituted “U.S. Immigration and Customs Enforcement” for “Bureau of Border Security” in introductory provisions. See Termination Date of 2024 Amendment note below.
+
+Subsec. (b)(2)(B). Pub. L. 118–96, §§ 3(b)(2)(E)(ii), 6, temporarily substituted “U.S.” for “the Bureau of”. See Termination Date of 2024 Amendment note below.
+
+Subsec. (c). Pub. L. 118–96, §§ 3(b)(2)(B), 6, temporarily substituted “agency” for “bureau”. See Termination Date of 2024 Amendment note below.
+
+#### Termination Date of 2024 Amendment
+Pub. L. 118–96, § 6, Oct. 1, 2024, 138 Stat. 1572, provided that: “This Act [enacting [section 258 of this title](./chapter-001-homeland-security-organization.md#section-258), amending this section and [section 253 of this title](./chapter-001-homeland-security-organization.md#section-253) and enacting provisions set out as a note under [section 258 of this title](./chapter-001-homeland-security-organization.md#section-258)] and the amendments made by this Act shall cease to have force or effect beginning on October 1, 2030.”
 
 #### Change of Name
 Bureau of Border Security, referred to in section catchline and text, changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under [section 542 of this title](./chapter-001-homeland-security-organization.md#section-542).
 
 
-<a id="section-273"></a>
-## § 273. Professional responsibility and quality review
+<a id="section-272"></a>
+## § 272. Professional responsibility and quality review
 
 The Secretary shall be responsible for—
 
 (1) conducting investigations of noncriminal allegations of misconduct, corruption, and fraud involving any employee of U.S. Immigration and Customs Enforcement that are not subject to investigation by the Inspector General for the Department;
 
-(2) inspecting the operations of U.S. Immigration and Customs Enforcement and providing assessments of the quality of the operations of such bureau as a whole and each of its components; and
+(2) inspecting the operations of U.S. Immigration and Customs Enforcement and providing assessments of the quality of the operations of such agency as a whole and each of its components; and
 
 (3) providing an analysis of the management of U.S. Immigration and Customs Enforcement.
 
 ### Statutory Notes
 
+#### Amendment of Section
+For termination of amendment by section 6 of Pub. L. 118–96, see Termination Date of 2024 Amendment note below.
+
 #### Amendments
+2024—Par. (2). Pub. L. 118–96, §§ 3(b)(3), 6, temporarily substituted “such agency” for “such bureau”. See Termination Date of 2024 Amendment note below.
+
 2016—Pub. L. 114–125 substituted “Secretary” for “Under Secretary for Border and Transportation Security” in introductory provisions and “U.S. Immigration and Customs Enforcement” for “the Bureau of Border Security” in pars. (1) to (3).
 
+#### Termination Date of 2024 Amendment
+Amendment by Pub. L. 118–96 to cease to have force or effect beginning on Oct. 1, 2030, see section 6 of Pub. L. 118–96, set out as a note under [section 252 of this title](./chapter-001-homeland-security-organization.md#section-252).
 
-<a id="section-274"></a>
-## § 274. Employee discipline
+
+<a id="section-273"></a>
+## § 273. Employee discipline
 
 Notwithstanding any other provision of law, the Secretary may impose disciplinary action on any employee of U.S. Immigration and Customs Enforcement and U.S. Customs and Border Protection who willfully deceives Congress or agency leadership on any matter.
 
@@ -7329,8 +7370,8 @@ Notwithstanding any other provision of law, the Secretary may impose disciplinar
 2016—Pub. L. 114–125 amended section generally. Prior to amendment, text read as follows: “The Under Secretary for Border and Transportation Security may, notwithstanding any other provision of law, impose disciplinary action, including termination of employment, pursuant to policies and procedures applicable to employees of the Federal Bureau of Investigation, on any employee of the Bureau of Border Security who willfully deceives the Congress or agency leadership on any matter.”
 
 
-<a id="section-275"></a>
-## § 275. Report on improving enforcement functions
+<a id="section-274"></a>
+## § 274. Report on improving enforcement functions
 **(a) In general** The Secretary, not later than 1 year after being sworn into office, shall submit to the Committees on Appropriations and the Judiciary of the House of Representatives and of the Senate a report with a plan detailing how the Bureau of Border Security, after the transfer of functions specified under [section 251 of this title](./chapter-001-homeland-security-organization.md#section-251) takes effect, will enforce comprehensively, effectively, and fairly all the enforcement provisions of the Immigration and Nationality Act ([8 U.S.C. 1101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) et seq.) relating to such functions.
 
 **(b) Consultation** In carrying out subsection (a), the Secretary of Homeland Security shall consult with the Attorney General, the Secretary of State, the Director of the Federal Bureau of Investigation, the Secretary of the Treasury, the Secretary of Labor, the Commissioner of Social Security, the Director of the Executive Office for Immigration Review, and the heads of State and local law enforcement agencies to determine how to most effectively conduct enforcement operations.
@@ -7344,8 +7385,8 @@ The Immigration and Nationality Act, referred to in subsec. (a), is act June 27,
 Bureau of Border Security, referred to in subsec. (a), changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under [section 542 of this title](./chapter-001-homeland-security-organization.md#section-542).
 
 
-<a id="section-276"></a>
-## § 276. Sense of Congress regarding construction of fencing near San Diego, California
+<a id="section-275"></a>
+## § 275. Sense of Congress regarding construction of fencing near San Diego, California
 
 It is the sense of the Congress that completing the 14-mile border fence project required to be carried out under section 102(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ([8 U.S.C. 1103](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1103&num=0&edition=prelim) note) should be a priority for the Secretary.
 
@@ -7355,8 +7396,8 @@ It is the sense of the Congress that completing the 14-mile border fence project
 Section 102(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in text, is section 102(b) of title I of div. C of Pub. L. 104–208, which is set out as a note under [section 1103 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1103&num=0&edition=prelim), Aliens and Nationality.
 
 
-<a id="section-277"></a>
-## § 277. Report
+<a id="section-276"></a>
+## § 276. Report
 **(a) In general** The Secretary of Homeland Security shall submit an annual report to the congressional committees set forth in subsection (b) that includes a description of—
 
 (1) the cross-border tunnels along the border between Mexico and the United States discovered during the preceding fiscal year; and
@@ -7384,6 +7425,62 @@ Section was enacted as part of the Border Tunnel Prevention Act of 2012, and not
 
 #### DHS Illicit Cross-Border Tunnel Defense
 Pub. L. 117–263, div. G, title LXXI, § 7134, Dec. 23, 2022, 136 Stat. 3649, provided that: “(a) Counter Illicit Cross-border Tunnel Operations Strategic Plan.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Commissioner of U.S. Customs and Border Protection, in coordination with the Under Secretary for Science and Technology, and, as appropriate, other officials of the Department of Homeland Security, shall develop a counter illicit cross-border tunnel operations strategic plan (in this section referred to as the ‘strategic plan’) to address the following:“(A) Risk-based criteria to be used to prioritize the identification, breach, assessment, and remediation of illicit cross-border tunnels. “(B) Promote the use of innovative technologies to identify, breach, assess, and remediate illicit cross-border tunnels in a manner that, among other considerations, reduces the impact of such activities on surrounding communities. “(C) Processes to share relevant illicit cross-border tunnel location, operations, and technical information. “(D) Indicators of specific types of illicit cross-border tunnels found in each U.S. Border Patrol sector identified through operations to be periodically disseminated to U.S. Border Patrol sector chiefs to educate field personnel. “(E) A counter illicit cross-border tunnel operations resource needs assessment that includes consideration of the following:“(i) Technology needs. “(ii) Staffing needs, including the following: “(I) A position description for counter illicit cross-border tunnel operations personnel. “(II) Any specialized skills required of such personnel. “(III) The number of such full time personnel, disaggregated by U.S. Border Patrol sector. “(2) Report to congress on strategic plan.—Not later than one year after the development of the strategic plan, the Commissioner of U.S. Customs and Border Protection shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the implementation of the strategic plan. “(b) Authorization of Appropriations.—There is authorized to be appropriated to the Commissioner of U.S. Customs and Border Protection $1,000,000 for each of fiscal years 2023 and 2024 to carry out—“(1) the development of the strategic plan; and “(2) remediation operations of illicit cross-border tunnels in accordance with the strategic plan to the maximum extent practicable.”
+
+
+<a id="section-277"></a>
+## § 277. Homeland Security Investigations Victim Assistance Program
+**(a) Definitions** In this section:
+
+(1) **Forensic interview specialist** — The term “forensic interview specialist” is an interview professional who has specialized experience and training in conducting trauma-informed forensic interviews with victims of crime.
+
+(2) **Victim** — The term “victim” has the meaning given such term in [section 20141(e)(2) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20141/e/2&num=0&edition=prelim).
+
+(3) **Victim assistance specialist** — The term “victim assistance specialist” is a victim assistance professional who—
+
+  (A) has experience working with victims of crime in a service capacity;
+
+  (B) has been trained on the exposure of various forms of trauma and other stressors experienced in working with victims; and
+
+  (C) may have experience working with local government and community-based organizations, including victim advocacy centers, child advocacy centers, child welfare agencies, faith-based organizations, and other social service programs.
+
+**(b) In general** There is established, in Homeland Security Investigations of U.S. Immigration and Customs Enforcement, the Victim Assistance Program.
+
+**(c) Functions** The Victim Assistance Program shall—
+
+(1) provide oversight, guidance, training, travel, equipment, and coordination to Homeland Security Investigations victim assistance personnel throughout the United States;
+
+(2) recruit not fewer than—
+
+  (A) 1 forensic interview specialist and 1 victim assistance specialist for each Homeland Security Investigations Special Agent in Charge office;
+
+  (B) 1 victim assistance specialist for—
+
+    (i) every Homeland Security Investigations office participating in a human trafficking task force; and
+
+    (ii) every Homeland Security Investigations office participating in a child sexual exploitation task force;
+
+(3) support Homeland Security Investigations regional attaché offices, to the extent necessary;
+
+(4) provide training regarding victims’ rights, victim-related policies, roles of forensic interviewers and victim assistance specialists, and an approach that is—
+
+  (A) victim-centered;
+
+  (B) trauma-informed; and
+
+  (C) linguistically appropriate, to the extent feasible; and
+
+(5) purchase emergency items that are needed to assist identified victims in Homeland Security Investigations criminal investigations, including food, clothing, hygiene products, transportation, and temporary shelter that is not otherwise provided by a nongovernmental organization.
+
+### Statutory Notes
+
+#### Termination of Section
+For termination of section by section 6 of Pub. L. 118–96, see Termination Date note below.
+
+#### Termination Date
+Section to cease to be effective Oct. 1, 2030, see section 6 of Pub. L. 118–96, set out as a Termination Date of 2024 Amendment note under [section 252 of this title](./chapter-001-homeland-security-organization.md#section-252).
+
+#### Investigators Maintain Purposeful Awareness To Combat Trafficking Trauma Program
+Pub. L. 118–96, § 2, Oct. 1, 2024, 138 Stat. 1569, provided that: “(a) Establishment.—There is established, in Homeland Security Investigations of U.S. Immigration and Customs Enforcement, the Investigators Maintain Purposeful Awareness to Combat Trafficking Trauma Program (referred to in this Act [see Short Title of 2024 Amendment note set out under [section 101 of this title](./chapter-001-homeland-security-organization.md#section-101)] as the ‘IMPACTT Program’). “(b) Functions.—The IMPACTT Program shall—“(1) provide outreach and training to Homeland Security Investigations employees who have been exposed to various forms of trauma in working with victims of human trafficking, including—“(A) self-awareness training for the relevant employees on recognizing the signs of burnout, compassion fatigue, critical incident stress, traumatic stress, posttraumatic stress, secondary traumatic stress, and vicarious trauma; “(B) training material that—“(i) provides mechanisms for self-care and resilience and notification of resources that are available through U.S. Immigration and Customs Enforcement, such as the Employee Assistance Program, the Peer Support Program, the Chaplain Program, and other relevant accredited programs that are available; and “(ii) provides examples of potential resources that are available outside of U.S. Immigration and Customs Enforcement, which may include, faith-based and community-based resources; and “(C) provide [sic] additional training to first line supervisors of relevant employees on recognizing the signs referred to in subparagraph (A) and the appropriate responses to employees exhibiting such signs; “(2) include training modules that are carried out by—“(A) licensed and accredited clinicians who—“(i) have been trained on the exposure of various forms of trauma and other stressors experienced in working with victims; and “(ii) may have experience working with faith-based organizations, community-based organizations, counseling programs, or other social service programs; and “(B) additional subject matter experts who are available; and “(3) be overseen and coordinated by the Department of Homeland Security Center for Countering Human Trafficking to ensure that—“(A) appropriate program materials are distributed; “(B) training is offered to all relevant employees; and “(C) any needed travel and equipment is provided.”
 
 
 <a id="section-278"></a>
@@ -11181,17 +11278,25 @@ Pub. L. 110–53, title XXIV, § 2401(b), Aug. 3, 2007, 121 Stat. 546, provided 
 
     (i) the mission, strategic goals, and objectives of each Joint Task Force;
 
-    (ii) the criteria for terminating each Joint Task Force; and
+    (ii) the criteria for terminating each Joint Task Force;
 
     (iii) outcome-based and other appropriate performance metrics for evaluating the effectiveness of each Joint Task Force with respect to the mission, strategic goals, and objectives established pursuant to clause (i), including—
 
       (I) targets for each Joint Task Force to achieve by not later than one and three years after such establishment; and
 
-      (II) a description of the methodology used to establish such metrics;
+      (II) a description of the methodology used to establish such metrics; and
+
+    (iv) a staffing plan for each Joint Task Force;
 
   (B) not later than 120 days after December 23, 2022, and 120 days after the establishment of a new Joint Task Force, as appropriate, submit to the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate the mission, strategic goals, objectives, and metrics established under subparagraph (A); and
 
-  (C) not later than one year after December 23, 2022, and annually thereafter, submit to the committees specified in subparagraph (B) a report that contains information on the progress in implementing the outcome-based and other appropriate performance metrics established pursuant to subparagraph (A)(iii).
+  (C) not later than December 23, 2024, and annually thereafter, submit to the committees specified in subparagraph (B) a report containing information regarding—
+
+    (i) the progress in implementing the outcome-based and other appropriate performance metrics established pursuant to subparagraph (A)(iii);
+
+    (ii) the staffing plan developed for each Joint Task Force pursuant to subparagraph (A)(iv); and
+
+    (iii) any modification to the mission, strategic goals, and objectives of each Joint Task Force, and a description of, and rationale for, any such modifications.
 
 (10) **Joint duty training program**
 
@@ -11271,7 +11376,7 @@ Pub. L. 110–53, title XXIV, § 2401(b), Aug. 3, 2007, 121 Stat. 546, provided 
 
     (ii) an assessment of the effectiveness of oversight over each Joint Task Force, with specificity regarding the Secretary’s utilization of outcome-based or other appropriate performance metrics (established pursuant to paragraph (9)(A)(iii)) to evaluate the effectiveness of each Joint Task Force in measuring progress with respect to the mission, strategic goals, and objectives (established pursuant to paragraph (9)(A)(i)) of such Joint Task Force.
 
-(13) **Sunset** — This section expires on September 30, 2024.
+(13) **Sunset** — This section expires on September 30, 2026.
 
 **(c) Joint duty assignment program** After establishing the joint duty training program under subsection (b)(10), the Secretary shall establish a joint duty assignment program within the Department for the purposes of enhancing coordination in the Department and promoting workforce professional development.
 
@@ -11281,6 +11386,12 @@ Pub. L. 110–53, title XXIV, § 2401(b), Aug. 3, 2007, 121 Stat. 546, provided 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(2)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2024—Subsec. (b)(9)(A)(iv). Pub. L. 118–103, § 2(a)(1)(A), added cl. (iv).
+
+Subsec. (b)(9)(C). Pub. L. 118–103, § 2(a)(1)(B), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “not later than one year after December 23, 2022, and annually thereafter, submit to the committees specified in subparagraph (B) a report that contains information on the progress in implementing the outcome-based and other appropriate performance metrics established pursuant to subparagraph (A)(iii).”
+
+Subsec. (b)(13). Pub. L. 118–103, § 2(a)(2), substituted “2026” for “2024”.
+
 2022—Subsec. (b)(8). Pub. L. 117–263, § 7111(b)(1), amended par. (8) generally. Prior to amendment, text read as follows: “Each Joint Task Force shall have a staff, composed of officials from relevant components and offices of the Department, to assist the Director of such Joint Task Force in carrying out the mission and responsibilities of such Joint Task Force.”
 
 Subsec. (b)(9). Pub. L. 117–263, § 7111(b)(2)(A), substituted “Mission; establishment” for “Establishment” in heading.
@@ -11306,6 +11417,9 @@ Subsec. (b)(12)(B)(i), (ii). Pub. L. 117–263, § 7111(b)(4)(B)(ii), amended cl
 “(ii) recommendations for enhancements to such structure to strengthen the effectiveness of each Joint Task Force.”
 
 Subsec. (b)(13). Pub. L. 117–263, § 7111(b)(5), substituted “2024” for “2022”.
+
+#### Annual Briefing
+Pub. L. 118–103, § 2(b), Oct. 1, 2024, 138 Stat. 1584, provided that: “(1) In general.—Not later than 1 year after the date of the enactment of this Act [Oct. 1, 2024], and annually thereafter, the Secretary of Homeland Security shall brief—“(A) the Committee on Homeland Security and Governmental Affairs of the Senate; “(B) the Committee on Commerce, Science, and Transportation of the Senate; “(C) the Committee on Homeland Security of the House of Representatives; and “(D) the Committee on Transportation and Infrastructure of the House of Representatives. “(2) Topics.—Each briefing required under paragraph (1) shall cover the latest staffing and resource assessment at Joint Task Force-East, including—“(A)(i) a determination of whether the current staffing levels of Joint Task Force-East are sufficient to successfully advance the mission, strategic goals, and objectives of such Joint Task Force; and “(ii) if such determination reveals insufficient staffing levels, the cost, timeline, and strategy for increasing such staffing levels; and “(B)(i) a determination of whether sufficient resources are being provided for Joint Task Force-East in accordance with section 708(b)(7)(a) of the Homeland Security Act of 2002 ([6 U.S.C. 348(b)(7)(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section348/b/7/a&num=0&edition=prelim)); and “(ii) if such determination reveals insufficient resource levels, the cost, timeline, and strategy for providing any remaining resource requirements.”
 
 #### Transition Provisions
 Pub. L. 114–328, div. A, title XIX, § 1901(c), Dec. 23, 2016, 130 Stat. 2670, provided that: “An individual serving as a Director of a Joint Task Force of the Department of Homeland Security in existence on the day before the date of the enactment of this section [Dec. 23, 2016] may serve as the Director of such Joint Task Force on and after such date of enactment until a Director of such Joint Task Force is appointed pursuant to subparagraph (A) of section 708(b)(3) [[6 U.S.C. 348(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section348/b/3&num=0&edition=prelim)], as added by subsection (a) of this section.”

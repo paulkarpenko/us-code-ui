@@ -73,6 +73,9 @@ Subsecs. (e), (f). Pub. L. 86–449, § 601(a), added subsec. (e) and redesignat
 
 1957—Pub. L. 85–315, § 131, substituted “Voting rights” for “Race, color, or previous condition not to affect right to vote” in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) to (e).
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–106, § 1, Oct. 4, 2024, 138 Stat. 1591, provided that: “This Act [enacting [section 21083a of this title](./chapter-209-election-administration-improvement.md#section-21083a) and amending sections 21084, 21085, and 21111 of this title] may be cited as the ‘Confirmation Of Congressional Observer Access Act of 2024’ or the ‘COCOA Act of 2024’.”
+
 #### Short Title of 2022 Amendment
 Pub. L. 117–182, § 1, Sept. 30, 2022, 136 Stat. 2178, provided that: “This Act [amending [section 21061 of this title](./chapter-209-election-administration-improvement.md#section-21061) and enacting provisions set out as a note under [section 21061 of this title](./chapter-209-election-administration-improvement.md#section-21061)] may be cited as the ‘Protection and Advocacy for Voting Access Program Inclusion Act’ or the ‘PAVA Program Inclusion Act’.”
 

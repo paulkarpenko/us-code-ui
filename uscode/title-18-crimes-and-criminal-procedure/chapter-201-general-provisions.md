@@ -556,7 +556,7 @@ Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98
 
 <a id="section-3014"></a>
 ## § 3014. Additional special assessment
-**(a) In General.—** Beginning on the date of enactment of the Justice for Victims of Trafficking Act of 2015 and ending on December 23, 2024, in addition to the assessment imposed under section 3013, the court shall assess an amount of $5,000 on any non-indigent person or entity convicted of an offense under—
+**(a) In General.—** Beginning on the date of enactment of the Justice for Victims of Trafficking Act of 2015 and ending on March 14, 2025, in addition to the assessment imposed under section 3013, the court shall assess an amount of $5,000 on any non-indigent person or entity convicted of an offense under—
 
 (1) chapter 77 (relating to peonage, slavery, and trafficking in persons);
 
@@ -594,7 +594,7 @@ Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98
 
 **(h) Health or Medical Services.—**
 
-(1) **Transfer of funds.—** — From amounts appropriated under subparagraphs (E) and (F) of section 10503(b)(1) of the Patient Protection and Affordable Care Act ([42 U.S.C. 254b–2(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b–2/b/1&num=0&edition=prelim)), there shall be transferred to the Fund an amount equal to the amount transferred under subsection (d) for each fiscal year, except that the amount transferred under this paragraph shall not be less than $5,000,000 or more than $30,000,000 in each such fiscal year, and such amounts shall remain available until expended.
+(1) **Transfer of funds.—** — From amounts appropriated under section 10503(b)(1) of the Patient Protection and Affordable Care Act ([42 U.S.C. 254b–2(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b–2/b/1&num=0&edition=prelim)) for fiscal year 2015 and each subsequent fiscal year (or period thereof), there shall be transferred to the Fund an amount equal to the amount transferred under subsection (d) for each fiscal year, except that the amount transferred under this paragraph shall not be less than $5,000,000 or more than $30,000,000 in each such fiscal year, and such amounts shall remain available until expended.
 
 (2) **Use of funds.—** — The Attorney General, in coordination with the Secretary of Health and Human Services, shall use amounts transferred to the Fund under paragraph (1) to award grants that may be used for the provision of health care or medical items or services to victims of trafficking under—
 
@@ -606,7 +606,7 @@ Section effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98
 
 (3) **Grants.—** — Of the amounts in the Fund used under paragraph (1), not less than $2,000,000, if such amounts are available in the Fund during the relevant fiscal year, shall be used for grants to provide services for child pornography victims and child victims of a severe form of trafficking (as defined in section 103 of the Victims of Trafficking and Violence Protection Act of 2000 ([22 U.S.C. 7102](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim))) under section 214(b) of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13002(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13002/b&num=0&edition=prelim)).2
 
-(4) **Application of provision.—** — The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, section 3831 of the CARES Act, section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act, section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act, section 301(d) of division BB of the Consolidated Appropriations Act, 2021, section 2321(d) of the Continuing Appropriations Act, 2024 and Other Extensions Act, section 201(d) of the Further Continuing Appropriations and Other Extensions Act, 2024, section 101(d) of the Further Additional Continuing Appropriations and Other Extensions Act, 2024, and section 101(d) of the Consolidated Appropriations Act, 2024 shall continue to apply to the amounts transferred pursuant to paragraph (1).
+(4) **Application of provision.—** — The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, section 3831 of the CARES Act, section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act, section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act, section 301(d) of division BB of the Consolidated Appropriations Act, 2021, section 2321(d) of the Continuing Appropriations Act, 2024 and Other Extensions Act, section 201(d) of the Further Continuing Appropriations and Other Extensions Act, 2024, section 101(d) of the Further Additional Continuing Appropriations and Other Extensions Act, 2024, section 101(d) of division G of the Consolidated Appropriations Act, 2024, and section 3101(d) of the Health Extensions and Other Matters Act, 2025 shall continue to apply to the amounts transferred pursuant to paragraph (1).
 
 ### Statutory Notes
 
@@ -635,10 +635,18 @@ Section 201(d) of the Further Continuing Appropriations and Other Extensions Act
 
 Section 101(d) of the Further Additional Continuing Appropriations and Other Extensions Act, 2024, referred to in subsec. (h)(4), is section 101(d) of Pub. L. 118–35, div. B, title I, Jan. 19, 2024, 138 Stat. 4, which related to application of amounts appropriated pursuant to the amendments made by that section and is not classified to the Code.
 
-Section 101(d) of the Consolidated Appropriations Act, 2024, referred to in subsec. (h)(4), is section 101(d) of Pub. L. 118–42, div. G, title I, Mar. 9, 2024, 138 Stat. 398, which related to application of amounts appropriated pursuant to the amendments made by that section and is not classified to the Code.
+Section 101(d) of division G of the Consolidated Appropriations Act, 2024, referred to in subsec. (h)(4), is section 101(d) of Pub. L. 118–42, div. G, title I, Mar. 9, 2024, 138 Stat. 398, which related to application of amounts appropriated pursuant to the amendments made by that section and is not classified to the Code.
+
+Section 3101(d) of the Health Extensions and Other Matters Act, 2025, referred to in subsec. (h)(4), is section 101(d) of Pub. L. 118–158, div. C, title I, Dec. 21, 2024, 138 Stat. 1763, which related to application of amounts appropriated pursuant to the amendments made by that section and is not classified to the Code.
 
 #### Amendments
-2024—Subsec. (h)(4). Pub. L. 118–42, § 101(e), substituted “section 101(d) of the Further Additional Continuing Appropriations and Other Extensions Act, 2024, and section 101(d) of the Consolidated Appropriations Act, 2024” for “and section 101(d) of the Further Additional Continuing Appropriations and Other Extensions Act, 2024”.
+2024—Subsec. (a). Pub. L. 118–158, § 5103, substituted “March 14, 2025” for “December 23, 2024” in introductory provisions.
+
+Subsec. (h)(1). Pub. L. 118–158, § 3101(e)(1), substituted “under section 10503(b)(1) of the Patient Protection and Affordable Care Act ([42 U.S.C. 254b–2(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b–2/b/1&num=0&edition=prelim)) for fiscal year 2015 and each subsequent fiscal year (or period thereof)” for “under subparagraphs (E) and (F) of section 10503(b)(1) of the Patient Protection and Affordable Care Act ([42 U.S.C. 254b–2(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b–2/b/1&num=0&edition=prelim))”.
+
+Subsec. (h)(4). Pub. L. 118–158, § 3101(e)(2), substituted “section 101(d) of division G of the Consolidated Appropriations Act, 2024, and section 3101(d) of the Health Extensions and Other Matters Act, 2025” for “and section 101(d) of the Consolidated Appropriations Act, 2024”.
+
+Pub. L. 118–42, § 101(e), substituted “section 101(d) of the Further Additional Continuing Appropriations and Other Extensions Act, 2024, and section 101(d) of the Consolidated Appropriations Act, 2024” for “and section 101(d) of the Further Additional Continuing Appropriations and Other Extensions Act, 2024”.
 
 Pub. L. 118–35 substituted “section 201(d) of the Further Continuing Appropriations and Other Extensions Act, 2024, and section 101(d) of the Further Additional Continuing Appropriations and Other Extensions Act, 2024” for “and section 201(d) of the Further Continuing Appropriations and Other Extensions Act, 2024”.
 

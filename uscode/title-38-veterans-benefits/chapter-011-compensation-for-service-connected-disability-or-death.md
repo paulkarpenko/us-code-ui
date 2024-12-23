@@ -1676,64 +1676,14 @@ Pub. L. 85–782, § 2, Aug. 27, 1958, 72 Stat. 936, provided that the amendment
 Pub. L. 97–253, title IV, § 405, Sept. 8, 1982, 96 Stat. 803, [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title and enacting provisions set out as notes under this section] was repealed by Pub. L. 97–306, title I, § 107, Oct. 14, 1982, 96 Stat. 1431. Section 405 of Pub. L. 97–253 had amended those sections relating to compensation to be effective Jan. 1, 1983, in contemplation of the later enactment of a law providing for cost-of-living increases for fiscal year 1983, with the intent that the increases provided for under section 405 of Pub. L. 97–253 be superseded by increases provided for in the later law. Pub. L. 97–306 provided for the anticipated increases and repealed section 405 of Pub. L. 97–253.
 
 #### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
-Pub. L. 118–6, §§ 2(a)–(c), 3, June 14, 2023, 137 Stat. 50, 51, provided that: “SEC. 2. INCREASE IN RATES OF DISABILITY COMPENSATION AND DEPENDENCY AND INDEMNITY COMPENSATION.“(a) Rate Adjustment.—Effective on December 1, 2023, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2023, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b). “(b) Amounts To Be Increased.—The dollar amounts to be increased pursuant to subsection (a) are the following:“(1) Wartime disability compensation.—Each of the dollar amounts under [section 1114 of title 38](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114), United States Code. “(2) Additional compensation for dependents.—Each of the dollar amounts under section 1115(1) of such title. “(3) Clothing allowance.—The dollar amount under section 1162 of such title. “(4) Dependency and indemnity compensation to surviving spouse.—Each of the dollar amounts under subsections (a) through (d) of section 1311 of such title. “(5) Dependency and indemnity compensation to children.—Each of the dollar amounts under sections 1313(a) and 1314 of such title. “(c) Determination of Increase.—Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.) are increased effective December 1, 2023, as a result of a determination under section 215(i) of such Act ([42 U.S.C. 415(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i&num=0&edition=prelim)). “SEC. 3. PUBLICATION OF ADJUSTED RATES.“The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act ([42 U.S.C. 415(i)(2)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i/2/D&num=0&edition=prelim)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2024.”
-
-Similar provisions were contained in the following acts:
-
-Pub. L. 117–191, §§ 2(a)–(c), 3, Oct. 10, 2022, 136 Stat. 2207, 2208.
-
-Pub. L. 117–45, §§ 2(a)–(c), 3, Oct. 8, 2021, 135 Stat. 389, 390.
-
-Pub. L. 116–178, §§ 2(a)–(c), 3, Oct. 20, 2020, 134 Stat. 853, 854.
-
-Pub. L. 116–58, §§ 2(a)–(c), 3, Sept. 26, 2019, 133 Stat. 1091, 1092.
-
-Pub. L. 115–258, §§ 2(a)–(c), 3, Oct. 9, 2018, 132 Stat. 3662, 3663.
-
-Pub. L. 115–75, §§ 2(a)–(c), 3, Nov. 2, 2017, 131 Stat. 1244, 1245.
-
-Pub. L. 114–197, §§ 2(a)–(c), 3, July 22, 2016, 130 Stat. 693, 694.
-
-Pub. L. 113–181, § 2(a)–(c), (e), Sept. 26, 2014, 128 Stat. 1916, 1917.
-
-Pub. L. 113–52, § 2(a)–(c), (e), Nov. 21, 2013, 127 Stat. 582, 583.
-
-Pub. L. 112–198, §§ 2(a)–(c), 3, Nov. 27, 2012, 126 Stat. 1463, 1464.
-
-Pub. L. 112–53, § 2(a)–(c), (e), Nov. 9, 2011, 125 Stat. 548, 549.
-
-Pub. L. 111–247, §§ 2(a)–(c), 3, Sept. 30, 2010, 124 Stat. 2623, 2624.
-
-Pub. L. 111–37, § 2(a)–(c), (e), June 30, 2009, 123 Stat. 1927, 1928.
-
-Pub. L. 110–324, § 2(a)–(c), (e), Sept. 24, 2008, 122 Stat. 3549, 3550.
-
-Pub. L. 110–111, §§ 2(a)–(c), 3, Nov. 5, 2007, 121 Stat. 1035, 1036.
-
-Pub. L. 109–361, §§ 2(a)–(c), 3, Oct. 16, 2006, 120 Stat. 2062, 2063.
-
-Pub. L. 108–363, §§ 2(a)–(c), 3, Oct. 25, 2004, 118 Stat. 1705, 1706.
-
-Pub. L. 108–147, §§ 2(a)–(c), 3, Dec. 3, 2003, 117 Stat. 1885, 1886.
-
-Pub. L. 107–247, §§ 2(a)–(c), 3, Oct. 23, 2002, 116 Stat. 1517, 1518.
-
-Pub. L. 106–413, §§ 2(a)–(c), 3, Nov. 1, 2000, 114 Stat. 1798, 1799.
-
-Pub. L. 105–368, title XI, §§ 1101(a)–(c), 1102, Nov. 11, 1998, 112 Stat. 3366, 3367.
-
-Pub. L. 104–263, § 2(a), (c), Oct. 9, 1996, 110 Stat. 3212.
-
-Pub. L. 104–57, §§ 2(a)–(c), 3, Nov. 22, 1995, 109 Stat. 555, 556.
-
-Pub. L. 103–418, §§ 2(a)–(c), 3, Oct. 25, 1994, 108 Stat. 4336, 4337.
-
-Pub. L. 102–510, § 2(a), (c), Oct. 24, 1992, 106 Stat. 3318, 3319.
+Pub. L. 118–130, §§ 2(a)–(c), 3, Nov. 25, 2024, 138 Stat. 1639, 1640, provided that: “SEC. 2. INCREASE IN RATES OF DISABILITY COMPENSATION AND DEPENDENCY AND INDEMNITY COMPENSATION.“(a) Rate Adjustment.—Effective on December 1, 2024, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2024, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b). “(b) Amounts To Be Increased.—The dollar amounts to be increased pursuant to subsection (a) are the following:“(1) Wartime disability compensation.—Each of the dollar amounts under [section 1114 of title 38](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114), United States Code. “(2) Additional compensation for dependents.—Each of the dollar amounts under section 1115(1) of such title. “(3) Clothing allowance.—The dollar amount under section 1162 of such title. “(4) Dependency and indemnity compensation to surviving spouse.—Each of the dollar amounts under subsections (a) through (d) of section 1311 of such title. “(5) Dependency and indemnity compensation to children.—Each of the dollar amounts under sections 1313(a) and 1314 of such title. “(c) Determination of Increase.—Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.) are increased effective December 1, 2024, as a result of a determination under section 215(i) of such Act ([42 U.S.C. 415(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i&num=0&edition=prelim)). “SEC. 3. PUBLICATION OF ADJUSTED RATES.“The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act ([42 U.S.C. 415(i)(2)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i/2/D&num=0&edition=prelim)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2025.”Similar provisions were contained in the following acts: Pub. L. 118–6, §§ 2(a)–(c), 3, June 14, 2023, 137 Stat. 50, 51. Pub. L. 117–191, §§ 2(a)–(c), 3, Oct. 10, 2022, 136 Stat. 2207, 2208. Pub. L. 117–45, §§ 2(a)–(c), 3, Oct. 8, 2021, 135 Stat. 389, 390. Pub. L. 116–178, §§ 2(a)–(c), 3, Oct. 20, 2020, 134 Stat. 853, 854. Pub. L. 116–58, §§ 2(a)–(c), 3, Sept. 26, 2019, 133 Stat. 1091, 1092. Pub. L. 115–258, §§ 2(a)–(c), 3, Oct. 9, 2018, 132 Stat. 3662, 3663. Pub. L. 115–75, §§ 2(a)–(c), 3, Nov. 2, 2017, 131 Stat. 1244, 1245. Pub. L. 114–197, §§ 2(a)–(c), 3, July 22, 2016, 130 Stat. 693, 694. Pub. L. 113–181, § 2(a)–(c), (e), Sept. 26, 2014, 128 Stat. 1916, 1917. Pub. L. 113–52, § 2(a)–(c), (e), Nov. 21, 2013, 127 Stat. 582, 583. Pub. L. 112–198, §§ 2(a)–(c), 3, Nov. 27, 2012, 126 Stat. 1463, 1464. Pub. L. 112–53, § 2(a)–(c), (e), Nov. 9, 2011, 125 Stat. 548, 549. Pub. L. 111–247, §§ 2(a)–(c), 3, Sept. 30, 2010, 124 Stat. 2623, 2624. Pub. L. 111–37, § 2(a)–(c), (e), June 30, 2009, 123 Stat. 1927, 1928. Pub. L. 110–324, § 2(a)–(c), (e), Sept. 24, 2008, 122 Stat. 3549, 3550. Pub. L. 110–111, §§ 2(a)–(c), 3, Nov. 5, 2007, 121 Stat. 1035, 1036. Pub. L. 109–361, §§ 2(a)–(c), 3, Oct. 16, 2006, 120 Stat. 2062, 2063. Pub. L. 108–363, §§ 2(a)–(c), 3, Oct. 25, 2004, 118 Stat. 1705, 1706. Pub. L. 108–147, §§ 2(a)–(c), 3, Dec. 3, 2003, 117 Stat. 1885, 1886. Pub. L. 107–247, §§ 2(a)–(c), 3, Oct. 23, 2002, 116 Stat. 1517, 1518. Pub. L. 106–413, §§ 2(a)–(c), 3, Nov. 1, 2000, 114 Stat. 1798, 1799. Pub. L. 105–368, title XI, §§ 1101(a)–(c), 1102, Nov. 11, 1998, 112 Stat. 3366, 3367. Pub. L. 104–263, § 2(a), (c), Oct. 9, 1996, 110 Stat. 3212. Pub. L. 104–57, §§ 2(a)–(c), 3, Nov. 22, 1995, 109 Stat. 555, 556. Pub. L. 103–418, §§ 2(a)–(c), 3, Oct. 25, 1994, 108 Stat. 4336, 4337. Pub. L. 102–510, § 2(a), (c), Oct. 24, 1992, 106 Stat. 3318, 3319.
 
 #### Administrative Adjustment of Disability Rates of Certain Persons Not Covered by This Chapter
-Pub. L. 118–6, § 2(d), June 14, 2023, 137 Stat. 50, provided that: “The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) [set out as a note above], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) [set out as a note preceding [section 101 of this title](./chapter-001-general.md#section-101)] who have not received compensation under chapter 11 of title 38, United States Code.”
+Pub. L. 118–130, § 2(d), Nov. 25, 2024, 138 Stat. 1639, provided that: “The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) [set out as a note above], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) [set out as a note preceding [section 101 of this title](./chapter-001-general.md#section-101)] who have not received compensation under chapter 11 of title 38, United States Code.”
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 118–6, § 2(d), June 14, 2023, 137 Stat. 50.
 
 Pub. L. 117–191, § 2(d), Oct. 10, 2022, 136 Stat. 2207.
 
@@ -1862,6 +1812,9 @@ Any veteran entitled to compensation at the rates provided in [section 1114 of t
 (2) If and while rated partially disabled, but not less than 30 percent, in an amount having the same ratio to the amount specified in paragraph (1) of this section as the degree of disability bears to total disability. The amounts payable under this paragraph, if not a multiple of $1, shall be rounded down to the nearest dollar.
 
 ### Statutory Notes
+
+#### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
+For increases in rates of Department of Veterans Affairs disability compensation and dependency and indemnity compensation, see notes set out under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
 
 #### Amendments
 2009—Par. (1)(A). Pub. L. 111–37, § 3(b)(1), substituted “$150” for “$142”.

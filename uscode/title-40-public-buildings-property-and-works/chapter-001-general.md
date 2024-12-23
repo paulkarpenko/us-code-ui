@@ -26,6 +26,9 @@ The purpose of this subtitle is to provide the Federal Government with an econom
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 101 | 40:471. | June 30, 1949, ch. 288, § 2, 63 Stat. 378; Sept. 1, 1954, ch. 1211, § 1, 68 Stat. 1126. |
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–99, § 1, Oct. 1, 2024, 138 Stat. 1578, provided that: “This Act [enacting [section 530 of this title](./chapter-005-property-management.md#section-530), amending sections 529 and 530 of this title, and enacting provisions set out as a note under [section 529 of this title](./chapter-005-property-management.md#section-529)] may be cited as the ‘Reuse Excess Property Act’.”
+
 #### Short Title of 2022 Amendment
 Pub. L. 117–328, div. Z, § 101, Dec. 29, 2022, 136 Stat. 5523, provided that: “This division [enacting [section 549a of this title](./chapter-005-property-management.md#section-549a) and provisions set out as a note under [section 549a of this title](./chapter-005-property-management.md#section-549a)] may be cited as the ‘Computers for Veterans and Students Act of 2022’ or the ‘COVS Act’.”
 

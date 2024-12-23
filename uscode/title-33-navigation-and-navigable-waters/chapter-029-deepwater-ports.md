@@ -83,7 +83,7 @@ In this chapter:
 
 (7) **Construction.—** — The term “construction” means the supervising, inspection, actual building, and all other activities incidental to the building, repairing, or expanding of a deepwater port or any of its components, including, but not limited to, pile driving and bulkheading, and alterations, modifications, or additions to the deepwater port.
 
-(8) **Control.—** — The term.“control” means the power, directly or indirectly, to determine the policy, business practices, or decisionmaking process of another person, whether by stock or other ownership interest, by representation on a board of directors or similar body, by contract or other agreement with stockholders or others, or otherwise.
+(8) **Control.—** — The term “control” means the power, directly or indirectly, to determine the policy, business practices, or decisionmaking process of another person, whether by stock or other ownership interest, by representation on a board of directors or similar body, by contract or other agreement with stockholders or others, or otherwise.
 
 (9) **Deepwater port.—** — The term “deepwater port”—
 
@@ -235,7 +235,7 @@ Subsec. (c)(2) to (7). Pub. L. 118–31, § 3514(k)(3)(A)(i), substituted “the
 
 Subsec. (c)(8). Pub. L. 118–31, § 3514(k)(3)(A)(iii), substituted “each adjacent coastal State approves, or is presumed to approve, the issuance of the license pursuant to [section 1508(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1508/b/1&num=0&edition=prelim), if applicable” for “the adjacent coastal State of States, pursuant to [section 1508 of this title](./chapter-029-deepwater-ports.md#section-1508), approves, or is presumed to approve, issuance of the license”.
 
-Subsec. (e)(1). Pub. L. 118–31, § 3514(k)(3)(B)(i), in second sentence, substituted “requirements of this chapter” for “requirements of this title”, “[section 1509(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1509/a&num=0&edition=prelim)” for “[section 1509(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1509/a&num=0&edition=prelim)” and “regulations,” for “regulations;”.
+Subsec. (e)(1). Pub. L. 118–31, § 3514(k)(3)(B)(i), in second sentence, substituted “requirements of this chapter” for “requirements of this title” and “regulations,” for “regulations;” and made technical amendment to reference in original Act which appears in text as reference to [section 1509(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1509/a&num=0&edition=prelim).
 
 Subsec. (e)(2)(B). Pub. L. 118–31, § 3514(k)(3)(B)(ii), substituted “the licensee or transferee will comply” for “he will comply”.
 
@@ -297,11 +297,11 @@ Pub. L. 109–241, title III, § 304(a), July 11, 2006, 120 Stat. 527, as amende
 
 **(c) Applications**
 
-(1) **Requirements**
+(1) **Requirements.—**
 
-  (A) *In general* — Each person that submits to the Secretary an application shall include in the application a detailed plan that contains all information required under paragraph (2).
+  (A) *In general.—* — Each person that submits to the Secretary an application shall include in the application a detailed plan that contains all information required under paragraph (2).
 
-  (B) *Action by Secretary* — Not later than 21 days after the date of receipt of an application, the Secretary shall—
+  (B) *Action by secretary.—* — Not later than 21 days after the date of receipt of an application, the Secretary shall—
 
     (i) determine whether the application contains all information required under paragraph (2); and
 
@@ -319,9 +319,9 @@ Pub. L. 109–241, title III, § 304(a), July 11, 2006, 120 Stat. 527, as amende
 
         (bb) take no further action with respect to the application until those deficiencies have been remedied.
 
-  (C) *Applicability* — On publication of a notice relating to an application under subparagraph (B)(ii)(I), the Secretary shall be subject to subsection (f).
+  (C) *Applicability.—* — On publication of a notice relating to an application under subparagraph (B)(ii)(I), the Secretary shall be subject to subsection (f).
 
-(2) **Inclusions** — Each application shall include such financial, technical, and other information as the Secretary determines to be necessary or appropriate, including—
+(2) **Inclusions.—** — Each application shall include such financial, technical, and other information as the Secretary determines to be necessary or appropriate, including—
 
   (A) the name, address, citizenship, telephone number, and the ownership interest in the applicant, of each person having any ownership interest in the applicant of greater than 3 per centum;
 
@@ -501,7 +501,7 @@ Subsec. (i)(2)(A). Pub. L. 118–31, § 3514(k)(4)(D)(i)(I), inserted “First,�
 
 Subsec. (i)(2)(B). Pub. L. 118–31, § 3514(k)(4)(D)(i)(II), inserted “Second,” after subpar. designation and substituted period for semicolon at end.
 
-Subsec. (i)(2)(C). Pub. L. 118–31, § 3514(k)(4)(D)(i)(III), inserted Third,” after subpar. designation.
+Subsec. (i)(2)(C). Pub. L. 118–31, § 3514(k)(4)(D)(i)(III), inserted “Third,” after subpar. designation.
 
 Subsec. (i)(3)(A). Pub. L. 118–31, § 3514(k)(4)(D)(ii)(III), substituted “(A) The degree” for “(A) the degree” and period for semicolon at end.
 

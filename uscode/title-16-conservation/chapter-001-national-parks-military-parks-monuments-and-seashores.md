@@ -15733,7 +15733,7 @@ Pub. L. 100–524, § 1, Oct. 24, 1988, 102 Stat. 2606, provided that: “This A
 ### Statutory Notes
 
 #### References in Text
-Proclamation Number 9233, referred to in subsec. (b)(1), (4), is Proc. No. 9233, Feb. 19, 2015, 80 F.R. 10315, which appears in a table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Park Service and Related Programs.
+Proclamation Number 9233 and Presidential Proclamation Number 9233, referred to in subsecs. (b)(1), (4), and (c)(5), is Proc. No. 9233, Feb. 19, 2015, 80 F.R. 10315, which appears in a table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Park Service and Related Programs.
 
 
 <a id="section-410jjj-1"></a>
@@ -20392,11 +20392,13 @@ The Secretary shall take into account comprehensive local or State development, 
 
 **(f) Majority vote** The Commission shall act and advise by affirmative vote of a majority of the members thereof.
 
-**(g) Termination** The Commission shall cease to exist 40 years from January 8, 1971.
+**(g) Termination** The Commission shall cease to exist on December 20, 2024.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (g). Pub. L. 118–83 substituted “on December 20, 2024.” for “40 years from January 8, 1971.”
+
 2000—Subsec. (g). Pub. L. 106–554 substituted “40” for “thirty”.
 
 1990—Subsec. (c). Pub. L. 101–320, § 1(a), inserted at end “A member may serve after the expiration of his term until his successor has taken office.”
@@ -33095,7 +33097,7 @@ Subsec. (h). Pub. L. 117–286 substituted “[Section 1013(a) of title 5](https
 ### Statutory Notes
 
 #### References in Text
-The Federal Lands Recreation Enhancement Act, referred to in subsec. (a), is title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, which is classified principally to chapter 87 ([16 U.S.C. 6801](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) and Tables.
+The Federal Lands Recreation Enhancement Act, referred to in subsec. (a), is title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, which is classified principally to chapter 87 (§ 6801 et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) and Tables.
 
 #### Amendments
 2022—Subsec. (a). Pub. L. 117–328 substituted “shall charge reasonable fees, in consultation with the Advisory Board and consistent with the Federal Lands Recreation Enhancement Act ([16 U.S.C. 6801](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) et seq.),” for “may charge reasonable fees”.

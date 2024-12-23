@@ -162,7 +162,7 @@ source: >-
 
 (4) **Annual report to congress.—** — The Director shall submit to the Congress an annual report on the automated search systems of the Patent and Trademark Office and the access by the public to such systems. The Director shall also publish such report in the Federal Register. The Director shall provide an opportunity for the submission of comments by interested persons on each such report.
 
-**(j) Penalty for False Assertions.—** In addition to any other penalty available under law, an entity that is found to have falsely asserted entitlement to a fee reduction under this section shall be subject to a fine, to be determined by the Director, the amount of which shall be not less than 3 times the amount that the entity failed to pay as a result of the false assertion, whether the Director discovers the false assertion before or after the date on which a patent has been issued.
+**(j) Penalty for False Assertions.—** In addition to any other penalty available under law, an entity that is found to have falsely asserted entitlement to a fee reduction under this section shall, unless the entity shows that the assertion was made in good faith, be subject to a fine, to be determined by the Director, the amount of which shall be not less than 3 times the amount that the entity failed to pay as a result of the false assertion, whether the Director discovers the false assertion before or after the date on which a patent has been issued.
 
 ### Statutory Notes
 
@@ -189,6 +189,8 @@ The fee for reissue applications is changed slightly.
 Section 3 of the Small Business Act, referred to in subsec. (h)(1), is classified to [section 632 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim), Commerce and Trade.
 
 #### Amendments
+2024—Subsec. (j). Pub. L. 118–151 inserted “, unless the entity shows that the assertion was made in good faith,” before “be subject”.
+
 2022—Subsec. (h)(1). Pub. L. 117–328, § 107(a)(1), substituted “60 percent” for “50 percent”.
 
 Subsec. (h)(3). Pub. L. 117–328, § 107(a)(2), substituted “80 percent” for “75 percent”.

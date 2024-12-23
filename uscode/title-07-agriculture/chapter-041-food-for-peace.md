@@ -3166,7 +3166,7 @@ Functions of President under subsec. (b) of this section delegated to Director o
 
 (1) **In general** — The authority to replenish stocks of eligible commodities to maintain the trust established under this section shall terminate on September 30, 2023.
 
-(2) **Disposal of eligible commodities** — Eligible commodities remaining in the trust after September 30, 2024, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
+(2) **Disposal of eligible commodities** — Eligible commodities remaining in the trust after September 30, 2025, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
 
 ### Statutory Notes
 
@@ -3188,6 +3188,8 @@ Section was enacted as part of the Bill Emerson Humanitarian Trust Act which is 
 A prior section 1736f–1, Pub. L. 96–494, title III, § 302, Dec. 3, 1980, 94 Stat. 2578; Pub. L. 99–198, title X, § 1013, Dec. 23, 1985, 99 Stat. 1456; Pub. L. 101–624, title XI, § 1143, title XV, § 1515(c), Nov. 28, 1990, 104 Stat. 3515, 3663, established food security wheat reserve, prior to general amendment of title III of Pub. L. 96–494 by Pub. L. 104–127, § 225(a).
 
 #### Amendments
+2024—Subsec. (h)(2). Pub. L. 118–158 substituted “September 30, 2025” for “September 30, 2024”.
+
 2023—Subsec. (h)(2). Pub. L. 118–22 substituted “2024” for “2023”.
 
 2018—Subsec. (b)(2)(B)(i). Pub. L. 115–334, § 3303(1), substituted “2023” for “2018” in two places.
@@ -3255,6 +3257,9 @@ Subsec. (f)(2). Pub. L. 105–385, § 212(a)(4)(A), inserted “of trust” afte
 Subsec. (f)(2)(A). Pub. L. 105–385, § 212(a)(4)(B), inserted before period at end “and the funds shall be available to replenish the trust under subsection (b)”.
 
 Subsecs. (f)(2)(B)(ii), (h)(1), (2). Pub. L. 105–385, § 212(b)(3)(B), substituted “trust” for “reserve”.
+
+#### Effective Date of 2024 Amendment
+Amendment by Pub. L. 118–158 to be applied and administered as if enacted on Sept. 30, 2024, see section 4101(g) of Pub. L. 118–158, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 #### Effective Date of 2023 Amendment
 Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).

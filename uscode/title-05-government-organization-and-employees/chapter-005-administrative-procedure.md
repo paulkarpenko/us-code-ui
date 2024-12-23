@@ -1600,9 +1600,11 @@ Barack Obama.
 
 (10) to the Comptroller General, or any of his authorized representatives, in the course of the performance of the duties of the Government Accountability Office;
 
-(11) pursuant to the order of a court of competent jurisdiction; or
+(11) to the Director of the Congressional Budget Office, or any authorized representative of the Director, in the course of performance of the duties of the Congressional Budget Office;
 
-(12) to a consumer reporting agency in accordance with [section 3711(e) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3711/e&num=0&edition=prelim).
+(12) pursuant to the order of a court of competent jurisdiction; or
+
+(13) to a consumer reporting agency in accordance with [section 3711(e) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3711/e&num=0&edition=prelim).
 
 **(c) Accounting of Certain Disclosures.—** Each agency, with respect to each system of records under its control, shall—
 
@@ -1987,6 +1989,8 @@ The Consumer Financial Protection Act of 2010, referred to in subsec. (w), is ti
 Section 552a of former Title 5, Executive Departments and Government Officers and Employees, was transferred to [section 2244 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2244&num=0&edition=prelim), Agriculture.
 
 #### Amendments
+2024—Subsec. (b)(11) to (13). Pub. L. 118–104 added par. (11) and redesignated former pars. (11) and (12) as (12) and (13), respectively.
+
 2014—Subsec. (a)(8)(B)(x). Pub. L. 113–295 added cl. (x).
 
 2010—Subsec. (a)(8)(B)(ix). Pub. L. 111–148 added cl. (ix).

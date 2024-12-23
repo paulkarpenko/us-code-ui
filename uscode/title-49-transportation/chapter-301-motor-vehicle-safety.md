@@ -24,6 +24,9 @@ The purpose of this chapter is to reduce traffic accidents and deaths and injuri
 
 The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–156, § 1, Dec. 17, 2024, 138 Stat. 1716, provided that: “This Act [amending sections 31309 and 31311 of this title] may be cited as the ‘Strengthening the Commercial Driver’s License Information System Act’.”
+
 #### Short Title of 2020 Amendment
 Pub. L. 116–260, div. N, title IV, § 440, Dec. 27, 2020, 134 Stat. 2068, provided that: “This subtitle [subtitle C (§§ 440, 441) of title IV of div. N of Pub. L. 116–260, enacting provisions set out as a note under [section 31102 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31102)] may be cited as the ‘Motor Carrier Safety Grant Relief Act of 2020’.”
 

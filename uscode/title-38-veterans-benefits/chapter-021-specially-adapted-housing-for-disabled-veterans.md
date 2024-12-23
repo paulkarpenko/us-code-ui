@@ -502,11 +502,13 @@ Pub. L. 112–154, title II, § 204(c), Aug. 6, 2012, 126 Stat. 1177, provided t
 
 **(d) Regulations.—** Assistance under this section shall be provided in accordance with such regulations as the Secretary may prescribe.
 
-**(e) Termination.—** No assistance may be provided under this section after December 31, 2024.
+**(e) Termination.—** No assistance may be provided under this section after September 30, 2025.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (e). Pub. L. 118–83 substituted “September 30, 2025” for “December 31, 2024”.
+
 2022—Subsec. (e). Pub. L. 117–180 substituted “December 31, 2024” for “December 31, 2022”.
 
 2012—Subsec. (b). Pub. L. 112–154, § 205(b), redesignated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), and added par. (2).
@@ -775,11 +777,13 @@ The Secretary shall provide for the coordination of the administration of progra
 
 **(f) Funding.—** From amounts appropriated to the Department for readjustment benefits for each fiscal year for which the Secretary is authorized to make a grant under this section, $1,000,000 shall be available for that fiscal year for the purposes of the program under this section.
 
-**(g) Duration.—** The authority to make a grant under this section shall begin on October 1, 2011, and shall terminate on September 30, 2024.
+**(g) Duration.—** The authority to make a grant under this section shall begin on October 1, 2011, and shall terminate on September 30, 2025.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (g). Pub. L. 118–83 substituted “September 30, 2025” for “September 30, 2024”.
+
 2022—Subsec. (g). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”.
 
 2020—Subsec. (g). Pub. L. 116–159 substituted “September 30, 2022” for “September 30, 2020”.

@@ -6975,7 +6975,7 @@ Pub. L. 93–406, title X, § 1034, Sept. 2, 1974, 88 Stat. 948, as amended by P
 ### Statutory Notes
 
 #### References in Text
-Section 3004 of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (f), is classified to [section 1204 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1204&num=0&edition=prelim), Labor.
+Section 3004 of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (g), is classified to [section 1204 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1204&num=0&edition=prelim), Labor.
 
 #### Amendments
 2022—Subsecs. (f), (g). Pub. L. 117–328 added subsec. (f) and redesignated former subsec. (f) as (g).

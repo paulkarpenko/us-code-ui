@@ -1019,14 +1019,18 @@ Subsec. (c)(1)(A)(vi). Pub. L. 115–278, § 2(h)(1)(F)(ii), substituted “sect
 
 <a id="section-1525"></a>
 ## § 1525. Termination
-**(a) In general** The authority provided under [section 663 of this title](./chapter-001-homeland-security-organization.md#section-663), and the reporting requirements under [section 1524(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1524/c&num=0&edition=prelim) shall terminate on September 30, 2024.
+**(a) In general** The authority provided under [section 663 of this title](./chapter-001-homeland-security-organization.md#section-663), and the reporting requirements under [section 1524(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1524/c&num=0&edition=prelim) shall terminate on March 14, 2025.
 
 **(b) Rule of construction** Nothing in subsection (a) shall be construed to affect the limitation of liability of a private entity for assistance provided to the Secretary under section 663(d)(2) 11 So in original. Probably should be “663(c)(2)”. of this title, if such assistance was rendered before the termination date under subsection (a) or otherwise during a period in which the assistance was authorized.
 
 ### Statutory Notes
 
 #### Amendments
-2024—Subsec. (a). Pub. L. 118–47 substituted “September 30, 2024” for “September 30, 2023”.
+2024—Subsec. (a). Pub. L. 118–158 substituted “March 14, 2025” for “December 20, 2024”.
+
+Pub. L. 118–83 substituted “December 20, 2024” for “September 30, 2024”.
+
+Pub. L. 118–47 substituted “September 30, 2024” for “September 30, 2023”.
 
 2022—Subsec. (a). Pub. L. 117–328 substituted “September 30, 2023” for “the date that is 7 years after December 18, 2015”.
 

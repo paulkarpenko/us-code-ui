@@ -1641,6 +1641,9 @@ Subsec. (c)(5). Pub. L. 109–59, § 4112(a), added par. (5).
 
 1995—Subsec. (c). Pub. L. 104–59 substituted “Alaska, and Iowa” for “and Alaska” in heading and added par. (4).
 
+#### Change of Name
+Pub. L. 118–154, § 1(b), (c), Dec. 17, 2024, 138 Stat. 1691, provided that: “(b) Designation.—United States Route 20 in each of the States of Oregon, Idaho, Montana, Wyoming, Nebraska, Iowa, Illinois, Indiana, Ohio, Pennsylvania, New York, and Massachusetts shall be known and designated as the ‘National Medal of Honor Highway’. “(c) References.—Any reference in a law, map, regulation, document, paper, or other record of the United States to the highway referred to in subsection (b) shall be deemed to be a reference to the ‘National Medal of Honor Highway’.”
+
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 

@@ -403,9 +403,9 @@ The death of any person who had a status which would, under the laws in effect o
 
   (A) A veteran.
 
-  (B) An individual who dies on or after November 11, 1998, who is the spouse or surviving spouse of a veteran, or the spouse of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s death if such death occurs before October 1, 2024.
+  (B) An individual who dies on or after November 11, 1998, who is the spouse or surviving spouse of a veteran, or the spouse of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s death if such death occurs before September 30, 2025.
 
-  (C) An individual who dies on or after November 11, 1998, who is an eligible dependent child of a veteran, or the eligible dependent child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the child’s death if such death occurs before October 1, 2024.
+  (C) An individual who dies on or after November 11, 1998, who is an eligible dependent child of a veteran, or the eligible dependent child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the child’s death if such death occurs before September 30, 2025.
 
 (3) For purposes of paragraph (1), the remains of an individual shall be considered to be unavailable if the individual’s remains—
 
@@ -457,13 +457,11 @@ The death of any person who had a status which would, under the laws in effect o
 
   (C) A deceased individual described in this subparagraph is a deceased individual who—
 
-    (i) served in the Armed Forces on or after April 6, 1917;
+    (i) is eligible for a headstone or marker furnished under paragraph (1) or a medallion furnished under paragraph (4) (except that subparagraph (B)(i) of such paragraph shall not apply) (or would be so eligible for such headstone, marker, or medallion but for the date of the death of the individual); and
 
-    (ii) is eligible for a headstone or marker furnished under paragraph (1) or a medallion furnished under paragraph (4) (or would be so eligible for such headstone, marker, or medallion but for the date of the death of the individual); and
+    (ii) was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or [section 2732 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2732&num=0&edition=prelim) (including posthumously).
 
-    (iii) was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 11 See References in Text note below. of title 14 (including posthumously).
-
-  (D) In this paragraph, the term “medal of honor recipient” means an individual who is awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1 of title 14.
+  (D) In this paragraph, the term “medal of honor recipient” means an individual who is awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or [section 2732 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2732&num=0&edition=prelim).
 
 **(e)**
 
@@ -567,10 +565,19 @@ The death of any person who had a status which would, under the laws in effect o
 
 ### Statutory Notes
 
-#### References in Text
-[Section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim), referred to in subsec. (d)(5)(C)(iii), (D), was redesignated [section 2732 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2732&num=0&edition=prelim) by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to [section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
-
 #### Amendments
+2024—Subsec. (b)(2)(B), (C). Pub. L. 118–83 substituted “September 30, 2025” for “October 1, 2024”.
+
+Subsec. (d)(5)(C)(i). Pub. L. 118–134, § 2(a)(1), (3), redesignated cl. (ii) as (i) and struck out former cl. (i) which read as follows: “served in the Armed Forces on or after April 6, 1917;”.
+
+Subsec. (d)(5)(C)(ii). Pub. L. 118–134, § 2(a)(3), (b), redesignated cl. (iii) as (ii) and substituted “section 2732” for “section 491”. Former cl. (ii) redesignated (i).
+
+Pub. L. 118–134, § 2(a)(2), inserted “(except that subparagraph (B)(i) of such paragraph shall not apply)” after “paragraph (4)”.
+
+Subsec. (d)(5)(C)(iii). Pub. L. 118–134, § 2(a)(3), redesignated cl. (iii) as (ii).
+
+Subsec. (d)(5)(D). Pub. L. 118–134, § 2(b), substituted “section 2732” for “section 491”.
+
 2021—Subsec. (b)(4)(A). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
 Subsec. (e)(1)(A). Pub. L. 116–315, § 2203(a)(1)(A), substituted “may” for “shall” and inserted “, or in a cemetery that is the subject of a grant to a State or a tribal organization under [section 2408 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2408),” after “National Cemetery Administration”.

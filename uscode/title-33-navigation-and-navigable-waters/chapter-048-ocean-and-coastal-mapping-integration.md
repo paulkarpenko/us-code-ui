@@ -317,7 +317,7 @@ A prior section 12208 of Pub. L. 111–11 was renumbered 12210 is classified to 
 ## § 3506. Authorization of appropriations
 **(a) In general** In addition to the amounts authorized by [section 892d of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-892d), there are authorized to be appropriated to the Administrator to carry out this chapter $45,000,000 for each of fiscal years 2023 through 2028.
 
-**(b) Joint ocean and coastal mapping centers** Of the amounts appropriated pursuant to subsection (a), the following amounts shall be used to carry out section 3504(c) 11 See References in Text Note below. of this title $15,000,000 for each of fiscal years 2023 through 2028.
+**(b) Joint ocean and coastal mapping centers** Of the amounts appropriated pursuant to subsection (a), the following amounts shall be used to carry out section 3504(c) 11 See References in Text note below. of this title $15,000,000 for each of fiscal years 2023 through 2028.
 
 **(c) Ocean and coastal mapping Federal funding opportunity** Of amounts authorized pursuant to subsection (a), $20,000,000 is authorized to carry out [section 3504a of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3504a).
 
@@ -329,7 +329,7 @@ A prior section 12208 of Pub. L. 111–11 was renumbered 12210 is classified to 
 #### Amendments
 2022—Subsec. (a). Pub. L. 117–263, § 10307(f)(1), substituted “this chapter $45,000,000 for each of fiscal years 2023 through 2028.” for “this chapter—” and struck out pars. (1) to (4) which authorized appropriations for fiscal years 2009 through 2015.
 
-Subsec. (b). Pub. L. 117–263, § 10307(f)(2), substituted “this chapter $15,000,000 for each of fiscal years 2023 through 2028.” for “this title:” and struck out pars. (1) to (4) which authorized appropriations for fiscal years 2009 through 2015.
+Subsec. (b). Pub. L. 117–263, § 10307(f)(2), substituted “this title $15,000,000 for each of fiscal years 2023 through 2028.” for “this title:” and struck out pars. (1) to (4) which authorized appropriations for fiscal years 2009 through 2015.
 
 Subsec. (c). Pub. L. 117–263, § 10307(f)(3), (4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “To carry out interagency activities under [section 3502 of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3502), the head of any department or agency may execute a cooperative agreement with the Administrator, including those authorized by [section 883e of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-883e).”
 

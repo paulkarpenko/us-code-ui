@@ -1018,6 +1018,8 @@ Pub. L. 89–809, title I, § 103(n), Nov. 13, 1966, 80 Stat. 1555, provided tha
 Pub. L. 88–272, title I, § 131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except for purposes of section 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title [amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title] shall apply with respect to taxable years beginning after December 31, 1963.”
 
 #### Short Title of 2024 Amendment
+Pub. L. 118–146, § 1, Dec. 12, 2024, 138 Stat. 1673, provided that: “This Act [amending [section 170 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-170)] may be cited as the ‘VSO Equal Tax Treatment Act’ or as the ‘VETT Act’.”
+
 Pub. L. 118–60, § 1, May 10, 2024, 138 Stat. 1018, provided that: “This Act [amending [section 9502 of this title](./chapter-098-trust-fund-code.md#section-9502)] may be cited as the ‘Airport and Airway Extension Act of 2024, Part II’.”
 
 Pub. L. 118–41, § 1, Mar. 8, 2024, 138 Stat. 20, provided that: “This Act [amending sections 4043, 4081, 4083, 4261, 4271, and 9502 of this title, [section 124n of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section124n&num=0&edition=prelim), Domestic Security, sections 106, 41742, 41743, 44310, 44803, 44807, 44810, 47104, 47107, 47114, 47115, 47141, 47143, 48101 to 48103, and 48105 of Title 49, Transportation, and [section 50905 of Title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section50905&num=0&edition=prelim), National and Commercial Space Programs, and amending provisions set out as a note preceding [section 42301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section42301&num=0&edition=prelim) and provisions set out as notes under sections 40103, 41705, 41731, 42302, 44810, 47102, 47104, and 47141 of Title 49] may be cited as the ‘Airport and Airway Extension Act of 2024’.”
@@ -28662,9 +28664,9 @@ Pub. L. 117–328, div. T, title III, § 330(b), Dec. 29, 2022, 136 Stat. 5361, 
 
 Pub. L. 117–328, div. T, title III, § 331(a)(3), Dec. 29, 2022, 136 Stat. 5363, provided that: “The amendments made by this subsection [amending this section] shall apply to distributions with respect to disasters the incident period (as defined in section 72(t)(11)(F)(ii) of the Internal Revenue Code of 1986, as added by this subsection) for which begins on or after the date which is 30 days after the date of the enactment of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 [Dec. 27, 2020].”
 
-Pub. L. 117–328, div. T, title III, § 331(b)(3), Dec. 29, 2022, 136 Stat. 5365, provided that: “The amendments made by this subsection [amending this section and [section 402 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-402)] shall apply to recontributions of withdrawals for home purchases with respect to disasters the incident period (as defined in section 72(t)(11)(F)(ii) of the Internal Revenue Code of 1986, as added by this subsection) for which begins on or after the date which is 30 days after the date of the enactment of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 [Dec. 27, 2020].”
+Pub. L. 117–328, div. T, title III, § 331(b)(3), Dec. 29, 2022, 136 Stat. 5365, provided that: “The amendments made by this subsection [amending this section and [section 402 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-402)] shall apply to recontributions of withdrawals for home purchases with respect to disasters the incident period (as defined in section 72(t)(11)(F)(ii) of the Internal Revenue Code of 1986, as added by this subsection [probably should be “subsection (a)”]) for which begins on or after the date which is 30 days after the date of the enactment of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 [Dec. 27, 2020].”
 
-Pub. L. 117–328, div. T, title III, § 331(c)(2), Dec. 29, 2022, 136 Stat. 5366, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to plan loans made with respect to disasters the incident period (as defined in section 72(t)(11)(F)(ii) of the Internal Revenue Code of 1986, as added by this subsection) for which begins on or after the date which is 30 days after the date of the enactment of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 [Dec. 27, 2020].”
+Pub. L. 117–328, div. T, title III, § 331(c)(2), Dec. 29, 2022, 136 Stat. 5366, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to plan loans made with respect to disasters the incident period (as defined in section 72(t)(11)(F)(ii) of the Internal Revenue Code of 1986, as added by this subsection [probably should be “subsection (a)”]) for which begins on or after the date which is 30 days after the date of the enactment of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 [Dec. 27, 2020].”
 
 Pub. L. 117–328, div. T, title III, § 332(c), Dec. 29, 2022, 136 Stat. 5368, provided that: “The amendments made by this section [amending this section and [section 408 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-408)] shall apply to plan years beginning after December 31, 2023.”
 
@@ -46932,9 +46934,11 @@ Functions vested in Secretary of the Interior and Secretary of Health, Education
 
     (vii) a private foundation described in subparagraph (F),
 
-    (viii) an organization described in section 509(a)(2) or (3), or
+    (viii) an organization described in section 509(a)(2) or (3),
 
-    (ix) an agricultural research organization directly engaged in the continuous active conduct of agricultural research (as defined in section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977) in conjunction with a land-grant college or university (as defined in such section) or a non-land grant college of agriculture (as defined in such section), and during the calendar year in which the contribution is made such organization is committed to spend such contribution for such research before January 1 of the fifth calendar year which begins after the date such contribution is made,
+    (ix) an agricultural research organization directly engaged in the continuous active conduct of agricultural research (as defined in section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977) in conjunction with a land-grant college or university (as defined in such section) or a non-land grant college of agriculture (as defined in such section), and during the calendar year in which the contribution is made such organization is committed to spend such contribution for such research before January 1 of the fifth calendar year which begins after the date such contribution is made, or
+
+    (x) an organization described in section 501(c)(19) that is a federally chartered corporation,
     shall be allowed to the extent that the aggregate of such contributions does not exceed 50 percent of the taxpayer’s contribution base for the taxable year.
 
   (B) *Other contributions* — Any charitable contribution other than a charitable contribution to which subparagraph (A) applies shall be allowed to the extent that the aggregate of such contributions does not exceed the lesser of—
@@ -47067,6 +47071,8 @@ Functions vested in Secretary of the Interior and Secretary of Health, Education
 (4) In the case of a contribution or gift by an individual, a domestic fraternal society, order, or association, operating under the lodge system, but only if such contribution or gift is to be used exclusively for religious, charitable, scientific, literary, or educational purposes, or for the prevention of cruelty to children or animals.
 
 (5) A cemetery company owned and operated exclusively for the benefit of its members, or any corporation chartered solely for burial purposes as a cemetery corporation and not permitted by its charter to engage in any business not necessarily incident to that purpose, if such company or corporation is not operated for profit and no part of the net earnings of such company or corporation inures to the benefit of any private shareholder or individual.
+
+(6) An organization described in section 501(c)(19) that is a federally chartered corporation.
 For purposes of this section, the term “charitable contribution” also means an amount treated under subsection (g) as paid for the use of an organization described in paragraph (2), (3), or (4).
 
 **(d) Carryovers of excess contributions**
@@ -47877,6 +47883,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Sections 1202(a), 1204(a), 1206(a), (b)(1), 1213(a)–(d), 1214(a), (b), 1215(a), 1216(a), 1217(a), 1218(a), 1219(c)(1), and 1234(a) of Pub. L. 109–280, which directed the amendment of section 170 without specifying the act to be amended, were executed to this section which is section 170 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2024—Subsec. (b)(1)(A)(x). Pub. L. 118–146, § 2(b), added cl. (x).
+
+Subsec. (c)(6). Pub. L. 118–146, § 2(a), added par. (6).
+
 2022—Subsec. (f)(19). Pub. L. 117–328, § 605(b), added par. (19).
 
 Subsec. (h)(7). Pub. L. 117–328, § 605(a)(1), added par. (7).
@@ -48319,6 +48329,9 @@ Subsec. (b)(4). Pub. L. 85–866, § 12, added par. (4).
 
 #### Change of Name
 International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under [section 1461 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1461&num=0&edition=prelim), Foreign Relations and Intercourse. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22.
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–146, § 2(c), Dec. 12, 2024, 138 Stat. 1673, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 12, 2024].”
 
 #### Effective Date of 2022 Amendment
 Pub. L. 117–328, div. T, title VI, § 605(c), Dec. 29, 2022, 136 Stat. 5395, provided that: “(1) In general.—The amendments made by this section [amending this section and sections 6662, 6664, and 6751 of this title] shall apply to contributions made after the date of the enactment of this Act [Dec. 29, 2022]. “(2) No inference.—No inference is intended as to the appropriate treatment of contributions made in taxable years ending on or before the date specified in paragraph (1), or as to any contribution for which a deduction is not disallowed by reason of section 170(h)(7) of the Internal Revenue Code of 1986, as added by this section.”
@@ -78097,7 +78110,7 @@ The regulations prescribed under subsection (n) shall include provisions to mini
 
     (i) made in implementing an automatic enrollment or automatic escalation feature with respect to an eligible employee (or an affirmative election made by an eligible employee covered by such feature), or
 
-    (ii) made by failing to afford an eligible employee the opportunity to make an affirmative election because such employee was improperly excluded from the plan], and
+    (ii) made by failing to afford an eligible employee the opportunity to make an affirmative election because such employee was improperly excluded from the plan],33 So in original. and
 
   (B) that is corrected prospectively by implementing an automatic enrollment or automatic escalation feature with respect to an eligible employee (or an affirmative election made by an eligible employee) determined in accordance with the terms of an eligible automatic contribution arrangement (as defined under subsection (w)(3)), provided that—
 

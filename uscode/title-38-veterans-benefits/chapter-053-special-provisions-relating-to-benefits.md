@@ -1042,7 +1042,7 @@ Pub. L. 117–328, div. U, title II, § 255(b)(2), (3), Dec. 29, 2022, 136 Stat.
 ### Statutory Notes
 
 #### Amendments
-2022—Subsec. (a)(1). Pub. L. 117–328, § 253(a), designated existing provisions as introductory provisions, substituted “other than—” for “other than a loan, loan-guaranty, or loan-insurance program;”, and added subpars. (A) to (D).
+2022—Subsec. (a)(1). Pub. L. 117–328 designated existing provisions as introductory provisions, substituted “other than—” for “other than a loan, loan-guaranty, or loan-insurance program;”, and added subpars. (A) to (D).
 
 1998—Subsec. (b)(1). Pub. L. 105–368 substituted “October 17, 1980,” for “the date of the enactment of this section,”.
 
