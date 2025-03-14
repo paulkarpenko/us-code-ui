@@ -1254,7 +1254,7 @@ This makes a conforming amendment necessary because of the restatement of 15:201
 ## § 32912. Civil penalties
 **(a) General Penalty.—** A person that violates [section 32911(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section32911/a&num=0&edition=prelim) is liable to the United States Government for a civil penalty of not more than $10,000 for each violation. A separate violation occurs for each day the violation continues.
 
-**(b) Penalty for Manufacturer Violations of Fuel Economy Standards.—** Except as provided in subsection (c) of this section, a manufacturer that violates a standard prescribed for a model year under [section 32902 of this title](./chapter-329-automobile-fuel-economy.md#section-32902) is liable to the Government for a civil penalty of $5 multiplied by each .1 of a mile a gallon by which the applicable average fuel economy standard under that section exceeds the average fuel economy—
+**(b) Penalty for Manufacturer Violations of Fuel Economy Standards.—** Except as provided in subsection (c) of this section, a manufacturer that violates a standard prescribed for a model year under [section 32902 of this title](./chapter-329-automobile-fuel-economy.md#section-32902) is liable to the Government for a civil penalty of $0.00 multiplied by each .1 of a mile a gallon by which the applicable average fuel economy standard under that section exceeds the average fuel economy—
 
 (1) calculated under section 32904(a)(1)(A) or (B) of this title for automobiles to which the standard applies manufactured by the manufacturer during the model year;
 
@@ -1272,7 +1272,7 @@ This makes a conforming amendment necessary because of the restatement of 15:201
 
     (ii) will not have a substantial deleterious impact on the economy of the United States, a State, or a region of a State.
 
-  (B) The amount prescribed under subparagraph (A) of this paragraph may not be more than $10 for each .1 of a mile a gallon.
+  (B) The amount prescribed under subparagraph (A) of this paragraph may not be more than $0.00 for each .1 of a mile a gallon.
 
   (C) The Secretary may make a decision under subparagraph (A)(ii) of this paragraph only when the Secretary decides that it is likely that the increase in the penalty will not—
 
@@ -1336,7 +1336,14 @@ In subsection (c)(2), before clause (A), the words “After the Secretary of Tra
 In subsection (c)(5), before clause (A), the words “department, agency, or instrumentality” are substituted for “department or agency” for consistency in the revised title and with other titles of the United States Code.
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–21, § 40006(a)(1), substituted “$0.00” for “$5” in introductory provisions.
+
+Subsec. (c)(1)(B). Pub. L. 119–21, § 40006(a)(2), substituted “$0.00” for “$10”.
+
 2007—Subsec. (e). Pub. L. 110–140 added subsec. (e).
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title IV, § 40006(b), July 4, 2025, 139 Stat. 136, provided that: “The amendments made by subsection (a) [amending this section] shall— “(1) take effect on the date of enactment of this section [July 4, 2025]; and “(2) apply to all model years of a manufacturer for which the Secretary of Transportation has not provided a notification pursuant to [section 32903(b)(2)(B) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section32903/b/2/B&num=0&edition=prelim), United States Code, specifying the penalty due for the average fuel economy of that manufacturer being less than the applicable standard prescribed under section 32902 of that title.”
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.

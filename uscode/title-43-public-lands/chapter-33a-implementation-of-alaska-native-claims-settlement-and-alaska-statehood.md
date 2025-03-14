@@ -551,7 +551,7 @@ Pub. L. 108–452, title IV, § 404, Dec. 10, 2004, 118 Stat. 3593, provided tha
 
 (3) **Action by a Trustee.—**
 
-  (A) Except as provided in this paragraph and in section 14(c)(3) of the Alaska Native Claims Settlement Act [[43 U.S.C. 1613(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1613/c/3&num=0&edition=prelim)] no trustee, receiver, or custodian vested pursuant to applicable Federal or State law with a right, title, or interest of a Native individual or Native Corporation shall—
+  (A) Except as provided in this paragraph and in section 14(c)(3) 44 See References in Text note below. of the Alaska Native Claims Settlement Act no trustee, receiver, or custodian vested pursuant to applicable Federal or State law with a right, title, or interest of a Native individual or Native Corporation shall—
 
     (i) assign or lease to a third party,
 
@@ -621,6 +621,8 @@ Pub. L. 108–452, title IV, § 404, Dec. 10, 2004, 118 Stat. 3593, provided tha
 
 #### References in Text
 The Alaska Native Claims Settlement Act, referred to in subsecs. (d)(1)(A) and (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
+
+Section 14(c)(3) of the Alaska Native Claims Settlement Act, referred to in subsec. (d)(3), was redesignated section 14(c)(1)(C) by Pub. L. 119–23, § 2(1), (2), July 7, 2025, 139 Stat. 403, and is classified to [section 1613(c)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1613/c/1/C&num=0&edition=prelim).
 
 This Act, referred to in subsec. (e), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
 

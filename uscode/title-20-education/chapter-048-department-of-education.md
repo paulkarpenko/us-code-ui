@@ -60,6 +60,49 @@ Pub. L. 96–88, title VI, § 602, Oct. 17, 1979, 93 Stat. 696, provided that: �
 #### Executive Order No. 12212
 Ex. Ord. No. 12212, May 2, 1980, 45 F.R. 29557, which established the effective date for the Department of Education Organization Act, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
+#### Ex. Ord. No. 14214. Keeping Education Accessible and Ending COVID-19 Vaccine Mandates in Schools
+Ex. Ord. No. 14214, Feb. 14, 2025, 90 F.R. 9949, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:
+
+Section 1. Purpose and Policy. Some school districts and universities continue to coerce children and young adults into taking the COVID-19 vaccine by conditioning their education on it, and others may re-implement such mandates. Parents and young adults should be empowered with accurate data regarding the remote risks of serious illness associated with COVID-19 for children and young adults, as well as how those risks can be mitigated through various measures, and left free to make their own decisions accordingly. Given the incredibly low risk of serious COVID-19 illness for children and young adults, threatening to shut them out of an education is an intolerable infringement on personal freedom. Such mandates usurp parental authority and burden students of many faiths.
+
+It is the policy of my Administration that discretionary Federal funds should not be used to directly or indirectly support or subsidize an educational service agency, State educational agency, local educational agency, elementary school, secondary school, or institution of higher education that requires students to have received a COVID-19 vaccination to attend any in-person education program.
+
+Sec. 2. Definitions. For the purposes of this order:
+
+(a) The term “educational service agency” has the meaning given in [20 U.S.C. 1401(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1401/5&num=0&edition=prelim).
+
+(b) The term “elementary school” has the meaning given in 34 CFR 77.1(c).
+
+(c) The term “institution of higher education” has the meaning given in [20 U.S.C. 1001(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim).
+
+(d) The term “local educational agency” has the meaning given in 34 CFR 77.1(c).
+
+(e) The term “secondary school” has the meaning given in 34 CFR 77.1(c).
+
+(f) The term “State educational agency” has the meaning given in 34 CFR 77.1(c).
+
+Sec. 3. Ending COVID-19 Vaccine Mandate Coercion. (a) The Secretary of Education shall as soon as practicable issue guidelines to elementary schools, local educational agencies, State educational agencies, secondary schools, and institutions of higher education regarding those entities’ legal obligations with respect to parental authority, religious freedom, disability accommodations, and equal protection under law, as relevant to coercive COVID-19 school mandates.
+
+(b) Within 90 days of the date of this order [Feb. 14, 2025], the Secretary of Education, in consultation with the Secretary of Health and Human Services, shall provide to the President, through the Assistant to the President for Domestic Policy, a plan to end coercive COVID-19 school mandates, consistent with applicable law, and including, as appropriate, any proposed legislation. Such plan shall also include:
+
+(i) a list of discretionary Federal grants and contracts provided to elementary schools, local educational agencies, State educational agencies, secondary schools, and institutions of higher education that are non-compliant with the guidelines issued pursuant to subsection (a) of this section; and
+
+(ii) each executive department or agency’s process for, to the maximum extent consistent with applicable law, preventing Federal funds from being provided to, and rescinding Federal funds from, elementary schools, local educational agencies, State educational agencies, secondary schools, and institutions of higher education that are non-compliant with the guidelines issued pursuant to subsection (a) of this section.
+
+Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
 #### Ensuring a Safe Return to In-Person School for the Nation’s Children
 Memorandum of President of the United States, Aug. 18, 2021, 86 F.R. 46951, provided:
 
@@ -218,7 +261,7 @@ Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30,
 Ex. Ord. No. 13634, Dec. 21, 2012, 77 F.R. 77249, reestablished Commission and extended term until Sept. 30, 2013.
 
 #### Executive Order No. 13621
-Ex. Ord. No. 13621, July 26, 2012, 77 F.R. 45471, which established the White House Initiative on Educational Excellence for African Americans, the Federal Interagency Working Group on Educational Excellence for African Americans, and the President’s Advisory Commission on Educational Excellence for African Americans, was superseded by Ex. Ord. No. 14050, § 4(a), Oct. 19, 2021, 86 F.R. 58556, set out below.
+Ex. Ord. No. 13621, July 26, 2012, 77 F.R. 45471, which established the White House Initiative on Educational Excellence for African Americans, the Federal Interagency Working Group on Educational Excellence for African Americans, and the President’s Advisory Commission on Educational Excellence for African Americans, was superseded by Ex. Ord. No. 14050, § 4(a), Oct. 19, 2021, 86 F.R. 58556, formerly set out below.
 
 #### Extension of Term of President’s Advisory Commission on Educational Excellence for African Americans
 Term of President’s Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
@@ -234,199 +277,13 @@ Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30,
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
 #### Executive Order No. 13935
-Ex. Ord. No. 13935, July 9, 2020, 85 F.R. 42683, which established the White House Hispanic Prosperity Initiative and the President’s Advisory Commission on Hispanic Prosperity, was revoked and superseded by Ex. Ord. No. 14045, § 4(a), Sept. 13, 2021, 86 F.R. 51586, set out below.
+Ex. Ord. No. 13935, July 9, 2020, 85 F.R. 42683, which established the White House Hispanic Prosperity Initiative and the President’s Advisory Commission on Hispanic Prosperity, was revoked and superseded by Ex. Ord. No. 14045, § 4(a), Sept. 13, 2021, 86 F.R. 51586, formerly set out below.
 
 #### Executive Order No. 13958
 Ex. Ord. No. 13958, Nov. 2, 2020, 85 F.R. 70951, which established the President’s Advisory 1776 Commission in the Department of Education, was revoked by Ex. Ord. No. 13985, § 10(c), Jan. 20, 2021, 86 F.R. 7012, set out in a note under [section 601 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim), Government Organization and Employees.
 
-#### Ex. Ord. No. 14045. White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics
-Ex. Ord. No. 14045, Sept. 13, 2021, 86 F.R. 51581, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. Policy. Nearly 14 million students in our Nation’s public elementary and secondary school system and nearly 4 million students in post-secondary education are Hispanic. Hispanic students constitute more than 27 percent of all pre-kindergarten through 12th grade students and nearly 20 percent of college students. The Nation’s future prosperity and global leadership across industries is therefore tied to the success of Hispanic and Latino students, and their success is a priority of my Administration.
-
-From advancements in science and civil and labor rights to leadership in government, advocacy, entrepreneurship, and business, the Hispanic community has had a profound and positive impact on our schools, our communities, our economy, and our Nation. Hispanic and Latino communities encompass many racial and cultural identities that span the globe. The diversity of Hispanic and Latino students makes our classrooms across the country rich learning environments. It is important to ensure that from early childhood to higher education, Hispanic and Latino students, including Dreamers, can reach their highest potential. For many Hispanic and Latino students, Hispanic-Serving Institutions (HSIs) provide critical pathways to opportunity, and hundreds of HSIs across our Nation are advancing intergenerational mobility, success, and opportunity.
-
-At the same time, Hispanic and Latino students face systemic inequitable barriers in accessing a high-quality education and a fair shot at the American dream. Only 40 percent of Latino children participate in preschool education programs as compared to 53 percent of their White peers. Due to systemic and historical inequities faced in the classroom, the high school graduation rate for Hispanic students is below the national average. Hispanic students are underrepresented in advanced courses in mathematics and science, and they can face language barriers in the classroom. Only 19 percent of Latino adults have at least a bachelor’s degree compared with 1 in 3 overall, and just 6 percent have completed graduate or professional degree programs, versus 13 percent nationally. Further, the lack of availability of adult continuing education courses makes it difficult for many Hispanic adults to further their education. In addition, barriers to equity in education can compound and intersect for Hispanic and Latino students who are women and girls, LGBTQ+ individuals, English language learners, and individuals with disabilities.
-
-The COVID–19 pandemic has laid bare and exacerbated many of these inequities. Hispanic and Latino students are more likely than their White peers to experience remote learning arrangements, yet they have less access to the tools necessary to succeed, such as broadband and computer access. Hispanic women have been adversely impacted by job loss, a lack of access to child care, and the inability to provide care, in greater numbers than their White counterparts. These and pre-existing disparities have led to declines in student achievement for Hispanic students. Latino students—once the fastest-growing group of undergraduates in the United States—have seen a decline in undergraduate college attendance amidst the COVID–19 pandemic. It is a priority of my Administration to ensure an equitable recovery from COVID–19, and to provide Hispanic and Latino students with a successful return to the classroom.
-
-These barriers exist not simply in the classroom, but also in the workplace. Hispanic workers are overrepresented in industries that have been hit hardest by the COVID–19 pandemic, and they have faced disproportionate losses in employment. Hispanic and Latino workers often face discrimination in hiring, pay, and consideration for promotions among other challenges. They need greater access to work-based learning opportunities such as mentorships, internships, and registered apprenticeships that not only guide employment seekers to a career, but provide the experience needed to secure well-paying jobs.
-
-To ensure that our Nation reaches the ambitious goals we have set for our economy to thrive, as well as to ensure equal access to opportunity for all, we must enable Hispanic and Latino students to reach their highest potential through our Nation’s schools and institutions of higher education. The Federal Government must also collaborate with Hispanic and Latino communities to ensure their long-term success.
-
-It is the policy of my Administration to advance educational equity, excellence, and economic opportunity for Hispanic communities from early childhood until their chosen career.
-
-Sec. 2. White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics.
-
-(a) To advance equity in our Nation’s schools and to promote the economic opportunity that follows it, there is established in the Department of Education (Department), the White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics (Initiative), of which the Secretary of Education (Secretary) shall serve as Chair. The Secretary shall designate an Executive Director for the Initiative (Executive Director).
-
-(b) The Initiative shall advance educational equity and economic opportunity for Latino and Hispanic students, families, and communities by focusing on the following policy goals:
-
-(i) increasing general understanding of systemic causes of educational challenges faced by many Hispanic and Latino students, whether these students are in urban, suburban, rural, or migrant learning environments, and working across Federal agencies to address these challenges;
-
-(ii) increasing Hispanic and Latino children’s and families’ access to and participation in high-quality early childhood programs and services that promote children’s healthy development and learning, prepare them for success in school, and affirm their cultural and linguistic identity;
-
-(iii) addressing the inequitable treatment of Hispanic and Latino children, such as eradicating disparities in disciplinary actions;
-
-(iv) supporting and improving data collection related to Hispanic and Latino students and the implementation of evidence-based strategies to increase the participation and success of Hispanic and Latino students in all levels of education and prepare them for careers and civic engagement;
-
-(v) ensuring that all Hispanic and Latino students have access to excellent teachers, school leaders, and other professionals, including by supporting efforts to improve the recruitment, preparation, development, and retention of qualified, diverse teachers and school leaders and other professionals who understand students’ lived experiences and can effectively meet their learning, social, and emotional needs;
-
-(vi) enhancing student support services and fostering positive engagement among schools, families, community leaders, and community-based organizations to increase the high school graduation and post-secondary attendance rates and decrease the high school dropout rate for Hispanic and Latino students;
-
-(vii) promoting a positive school climate that supports equitable access to and participation in college-readiness, advanced placement courses, and internship opportunities, as well as innovative dropout prevention and recovery strategies that better engage Hispanic and Latino youth in their learning, help them progress academically as needed, and provide those who have left the educational system with pathways to reentry;
-
-(viii) eliminating discriminatory enrollment, housing, transportation, and other policies that lead to racial and socioeconomic segregation among and within schools;
-
-(ix) ensuring equitable access to educational resources, professionals, and technology, including by addressing racial disparities in school funding and expenditures;
-
-(x) breaking down barriers that impede the access of higher education institutions that serve Hispanic and Latino students, such as HSIs, to Federal funding, and strengthening the capacity of those institutions to participate in Federal programs and partnerships;
-
-(xi) advancing racial equity and economic opportunity by connecting education to labor market needs through programs such as dual enrollment, career and technical education, registered apprenticeships, work-based learning, and career advancement, particularly in the fields of science, technology, engineering, and mathematics; and
-
-(xii) ensuring that Hispanic and Latino communities have access to resources for economic success, such as in the areas of financial education, small business development, entrepreneurship, arts, science, technology, engineering, and mathematics.
-
-(c) In working to fulfill its mission and objectives, the Initiative shall, consistent with applicable law:
-
-(i) identify and promote evidence-based best practices that can provide Hispanic and Latino students with a rigorous and well-rounded education in safe and healthy environments, as well as access to support services, that will improve their educational, professional, economic, and civic opportunities;
-
-(ii) advance and coordinate efforts to ensure equitable opportunities for Hispanic and Latino students in the re-opening process for schools across the country, and take steps to ensure that Hispanic and Latino students, from early childhood to post-secondary education, can equitably recover from learning losses and other challenges faced during the COVID–19 pandemic;
-
-(iii) encourage and develop partnerships with a national network of early childhood and early intervention providers, schools, institutions of higher education, and other public, private, philanthropic, and nonprofit stakeholders to improve access to educational equity and economic opportunities for Hispanics and Latinos;
-
-(iv) monitor and support the development, implementation, and coordination of Federal Government educational, workforce, research, and business development policies, programs, and technical assistance designed to improve outcomes for historically underserved communities, including Hispanics and Latinos;
-
-(v) work closely with the Executive Office of the President on key Administration priorities related to education, equity, and economic opportunity for Hispanics and Latinos; and
-
-(vi) advise the Secretary on issues of importance and policies relating to educational equity, excellence, and economic opportunity for Hispanics and Latinos.
-
-(d) The Initiative shall establish a Federal Interagency Working Group, which shall be convened by the Executive Director and shall support the efforts of the Initiative. The Interagency Working Group shall collaborate regarding resources and opportunities available across the Federal Government to increase educational and economic opportunities for Hispanics and Latinos.
-
-(i) The Interagency Working Group shall consist of senior officials (designated by the heads of their respective departments, agencies, and offices) from the following:
-
-(A) the Department of State;
-
-(B) the Department of the Treasury;
-
-(C) the Department of Defense;
-
-(D) the Department of Justice;
-
-(E) the Department of the Interior;
-
-(F) the Department of Agriculture;
-
-(G) the Department of Commerce;
-
-(H) the Department of Labor;
-
-(I) the Department of Health and Human Services;
-
-(J) the Department of Housing and Urban Development;
-
-(K) the Department of Transportation;
-
-(L) the Department of Energy;
-
-(M) the Department of Education;
-
-(N) the Department of Veterans Affairs;
-
-(O) the Department of Homeland Security;
-
-(P) the White House Office of Management and Budget;
-
-(Q) the White House Office of Science and Technology Policy;
-
-(R) the Small Business Administration;
-
-(S) the White House Domestic Policy Council;
-
-(T) the White House Gender Policy Council;
-
-(U) the White House Office of Public Engagement;
-
-(V) the National Science Foundation;
-
-(W) the National Aeronautics and Space Administration;
-
-(X) the United States Agency for International Development; and
-
-(Y) such additional executive departments, agencies, and offices as the Secretary may designate.
-
-(ii) The Executive Director may establish subgroups of the Interagency Working Group to focus on different aspects of the educational system (such as HSIs, early childhood education, kindergarten through 12th grade education, children and adults with disabilities, teacher diversity, higher education, career and technical education, adult education, or correctional education and reengagement), economic opportunity (work-based learning, entrepreneurship, financial education, or mentorship) or educational challenges facing particular populations.
-
-(e) Each executive department and agency (agency) designated to participate in the Interagency Working Group shall prepare a plan (Agency Plan) outlining measurable actions the agency will take to advance educational equity and economic opportunity for Hispanic and Latino communities, including their plans to implement the policy goals and directives outlined in section 2(b) of this order and other relevant work. These plans shall be submitted to the Chair on a date established by the Chair.
-
-(i) As appropriate, each Agency Plan shall include:
-
-(A) a description of the applicable agency’s efforts to ensure that Federal programs and initiatives administered by the Department and other agencies are meeting the educational needs of Hispanics and Latinos, including by encouraging the agency to incorporate best practices into appropriate discretionary programs where the agency sees fit and as permitted by law;
-
-(B) a description of how the applicable agency has and will decrease barriers to participation of Hispanics and Latinos in Federal employment and student engagement opportunities;
-
-(C) a description of how the applicable agency can address challenges facing Hispanic and Latino students and higher education institutions that serve Hispanic and Latino students, such as HSIs, brought on by or exacerbated by the COVID–19 pandemic;
-
-(D) a description of how the agency’s Office of Civil Rights, if applicable, can address discriminatory policies and practices that limit educational and economic opportunity for Hispanics and Latinos;
-
-(E) any other information the applicable agency determines is relevant to promoting educational opportunities for Hispanics and Latinos; and
-
-(F) any additional criteria established by the Chair or the Initiative.
-
-(ii) Each agency shall assess and report to the Chair on their progress in implementing the Agency Plan on a regular basis as established by the Chair.
-
-(iii) The Initiative shall monitor and evaluate each agency’s progress towards the goals established in its Agency Plan and shall coordinate with the agency to ensure that its Plan includes measurable and action-oriented goals.
-
-(f) The Department shall provide funding and administrative support for the Initiative and the Interagency Working Group, to the extent permitted by law and within existing appropriations. To the extent permitted by law, including the Economy Act ([31 U.S.C. 1535](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim)), other agencies and offices represented on the Interagency Working Group may detail personnel to the Initiative, to assist the Department in meeting the objectives of this order.
-
-(g) To advance shared priorities and policies that advance equity and economic opportunity for underserved communities, the Initiative shall collaborate and coordinate with other White House Initiatives related to equity and opportunity.
-
-(h) On an annual basis, the Chair shall report to the President on the Initiative’s progress in carrying out its mission and function under this order.
-
-Sec. 3. Presidential Advisory Commission. (a) There is established in the Department a Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics (Commission).
-
-(b) The Commission shall provide advice to the President through the Secretary on matters pertaining to educational equity and economic opportunity for the Hispanic and Latino community, including:
-
-(i) what is needed for the development, implementation, and coordination of educational programs and initiatives at the Department and other agencies to improve educational opportunities and outcomes for Hispanics and Latinos;
-
-(ii) how to promote career pathways for in-demand jobs for Hispanic and Latino students, including registered apprenticeships, internships, fellowships, mentorships, and work-based learning initiatives;
-
-(iii) ways to strengthen the capacity of institutions, such as HSIs, to equitably serve Hispanic and Latino students and increase the participation of Hispanic and Latino students, Hispanic-serving school districts, and the Hispanic community in the programs of the Department and other agencies;
-
-(iv) how to increase public awareness of and generate solutions for the educational and training challenges and equity disparities that Hispanic and Latino students face and the causes of these challenges; and
-
-(v) approaches to establish local and national partnerships with public, private, philanthropic, and nonprofit stakeholders to advance the mission and objectives of this order, consistent with applicable law.
-
-(c) The Commission shall periodically report to the President, through the Secretary and after consulting with the Executive Director, on progress in addressing the mission of the Commission.
-
-(d) The Commission shall consist of not more than 21 members appointed by the President. The Commission may include individuals with relevant experience or subject matter expertise, as well as individuals who may serve as representatives from a variety of sectors, including education (early childhood education, elementary and secondary education, higher education, career and technical education, and adult education), labor organizations, research institutions, public and private philanthropic organizations, private sector, nonprofit, and community-based organizations at the national, State, Tribal, regional, or local levels. Commission members should be able to provide specific insight into the lived experiences of those served by the Initiative, including young adults, and have diversity across the diaspora and the geography of the country.
-
-(i) The President shall designate one member of the Commission to serve as its Chair. The Chair, in consultation with the Executive Director, shall convene regular meetings of the Commission, determine the Commission meeting agenda, and support the work of the Commission, consistent with this order.
-
-(ii) The Commission shall meet on a regular basis, and at least twice a year.
-
-(e) The Department shall provide funding and administrative support for the Commission, to the extent permitted by law and within existing appropriations. Members of the Commission shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7). Insofar as the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.], may apply to the administration of the Commission, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary, in accordance with guidelines issued by the Administrator of General Services.
-
-(f) The Commission shall terminate 2 years from the date of this order [Sept. 13, 2021], unless extended by the President.
-
-Sec. 4. Administrative Provisions. (a) This order supersedes Executive Order 13935 of July 9, 2020 (White House Hispanic Prosperity Initiative) [formerly set out above], which is hereby revoked. To the extent that there are other Executive Orders that may conflict with or overlap with the provisions in this order, the provisions in this order supersede those other Executive Orders on these subjects.
-
-(b) The heads of agencies shall assist and provide information to the Initiative and Commission established in this order, consistent with applicable law, as may be necessary to carry out the functions of the Initiative and Commission.
-
-(c) Each agency shall bear its own expenses of participating in the Initiative established in this order.
-
-Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.
+#### Executive Order No. 14045
+Ex. Ord. No. 14045, Sept. 13, 2021, 86 F.R. 51581, establishing the White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics, was revoked by Ex. Ord. No. 14148, § 2(mm), Jan. 20, 2025, 90 F.R. 8239.
 
 #### Extension of Term of Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics
 Term of Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
@@ -435,270 +292,143 @@ Previous extension of term of Presidential Advisory Commission on Advancing Educ
 
 Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
-#### Ex. Ord. No. 14050. White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans
-Ex. Ord. No. 14050, Oct. 19, 2021, 86 F.R. 58551, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. Policy. Educational opportunity is a fundamental element of the American promise. The United States Supreme Court recognized in 1954 in Brown v. Board of Education that education “is a right which must be made available to all on equal terms.” In the decades since, our Nation has made progress in advancing equality and fairness in our schools, and the achievements, talents, and tenacity of Black students, educators, families, and scholars make our Nation’s schools and communities stronger for all Americans. Black students are thriving in schools across the country, inside the classroom—as valedictorians and award-winning scientists—and outside of it, including in debate, athletics, student government, and national spelling bees, among many other areas.
-
-Over the course of America’s history, Black Americans have helped to build, strengthen, and lead our Nation towards becoming a more perfect Union. Although for far too long, Black Americans were denied even the most basic access to education, the vital contributions of Black Americans in the fields of science, academia, business, and public service, among others, are a testament to the resilience of Black Americans and the steps our Nation has taken to expand access to education and opportunity.
-
-In spite of this progress, entrenched disparities continue to plague America’s education system, holding far too many Black students back from achieving their full potential. Because of persistent racial and systemic injustices in our Nation, Black students remain more likely to attend high-poverty and racially segregated schools than White students. Black students are inequitably disciplined and suspended from school at disproportionately higher rates than White students for similar offenses. In addition, Black students too often face limited access to advanced and college-preparatory courses. Systemic racial disparities in education negatively impact learning outcomes for Black students and many face persistent gaps in reading and mathematics achievement. Studies show that school districts with high concentrations of Black students are much more likely to be underfunded than districts where a majority of students are White, and face much wider funding gaps, with an average deficit of more than $5,000 per student. Black students are still below the national average for educational attainment in high school, and that gap is even higher for college attainment rates, as 26 percent of Black Americans ages 25 and older have attained a bachelor’s degree, while the national average is 36 percent. Black students also face unique challenges at the intersection of race and gender. Barriers to equity in education can compound for Black students who are also LGBTQ+ students, English-language learners, Dreamers, or students with disabilities.
-
-These disparities result in long-standing college and postsecondary educational attainment gaps that affect life outcomes and access to opportunities. Although student populations are becoming increasingly diverse, Black teachers remain significantly underrepresented in our Nation’s classrooms. Educational inequities have only widened throughout the COVID–19 pandemic, as Black students are more likely to experience remote learning challenges and greater learning loss as compared to their White peers. The persistent digital divide faced by some Black students has contributed to this disparity. It is a priority of my Administration to ensure an equitable recovery from COVID–19, and to provide all students with a successful return to the classroom.
-
-In the face of these historic and present-day inequities in our Nation’s schools, Black students continue to persevere. Black students and scholars today are breaking the barriers confronted by generations who came before. Our Nation’s schools and communities are irrefutably strengthened by the success, scholarship, and tenacity of Black students of all ages. But our Nation must go further to finally root out systemic barriers in our schools.
-
-Additionally, these barriers are present not just in the classroom, but also in the workplace. Black Americans face systemic obstacles to getting good jobs, gaps in wages and promotion, and higher incidences of reported workplace discrimination than White workers. Eliminating these inequities requires expanding access to work-based learning and leadership opportunities, including mentorships, sponsorships, internships, and registered apprenticeships that provide not only career guidance, but also the experience needed to navigate and excel in successful careers. In order for our Nation to equitably recover from the COVID–19 crisis, and to ensure that every Black person in America has a fair shot at the American dream, we must advance equity and excellence in public education and access to economic opportunities.
-
-It is the policy of my Administration to advance educational equity, excellence, and economic opportunity for Black Americans and communities from early childhood until their chosen career.
-
-Sec. 2. White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans. (a) To advance equity in our Nation’s schools and to promote the economic opportunity that follows it, there is established in the Department of Education (Department) the White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans (Initiative), of which the Secretary of Education (Secretary) shall serve as Chair. The Secretary shall designate an Executive Director for the Initiative (Executive Director).
-
-(b) The Initiative shall advance educational equity and economic opportunity for Black students, families, and communities by focusing on the following policy goals:
-
-(i) increasing general understanding of systemic causes of educational challenges faced by many Black students, whether these students are in urban, suburban, rural, or migrant learning environments, and working across executive departments and agencies (agencies) to address these challenges;
-
-(ii) increasing Black children’s and families’ access to and participation in high-quality early childhood programs and services that promote children’s healthy development and learning, prepare them for success in school, and affirm their cultural identity;
-
-(iii) addressing the inequitable treatment of Black children, such as eradicating discriminatory referrals to special education and excessive disciplinary actions;
-
-(iv) supporting and improving data collection related to Black students and the implementation of evidence-based strategies to increase the participation and success of Black students in all levels of education and prepare them for careers and civic engagement;
-
-(v) ensuring that all Black students have access to excellent teachers, school leaders, and other professionals, including by supporting efforts to improve the recruitment, preparation, development, and retention of qualified, diverse teachers and school leaders and other professionals who understand students’ lived experiences and can effectively meet their learning, social, and emotional needs;
-
-(vi) enhancing student support services and fostering positive engagement among schools, families, community leaders, and community-based organizations to increase the high school graduation and post-secondary attendance rates and decrease the high school dropout rate for Black students;
-
-(vii) promoting a positive school climate that supports equitable access to and participation in college-readiness, advanced placement courses, and internship opportunities, as well as innovative dropout prevention and recovery strategies that better engage Black youth in their learning, help them progress academically as needed, and provide those who have left the educational system with pathways to reentry;
-
-(viii) eliminating discriminatory enrollment, housing, transportation, and other policies that lead to racial and socioeconomic segregation among and within schools;
-
-(ix) ensuring equitable access to educational resources, professionals, and technology, including by addressing racial disparities in school funding and expenditures;
-
-(x) breaking down barriers that impede the access of higher education institutions that serve Black students, such as Predominantly Black Institutions (PBIs) and Historically Black Colleges and Universities (HBCUs), to Federal funding, and strengthening the capacity of those institutions to participate in Federal programs and partnerships;
-
-(xi) advancing racial equity and economic opportunity by connecting education to labor market needs through programs such as dual enrollment, career and technical education, registered apprenticeships, work-based learning, and career advancement, particularly in the fields of science, technology, engineering, and mathematics; and
-
-(xii) ensuring that Black communities have access to resources for economic success, such as in the areas of financial education, small business development, entrepreneurship, arts, science, technology, engineering, and mathematics.
-
-(c) In working to fulfill its mission and objectives, the Initiative shall, consistent with applicable law:
-
-(i) identify and promote evidence-based best practices that can provide Black students with a rigorous and well-rounded education in safe and healthy environments, as well as access to support services, that will improve their educational, professional, economic, and civic opportunities;
-
-(ii) advance and coordinate efforts to ensure equitable opportunities for Black students in the re-opening process for schools across the country, and take steps to ensure that Black students, from early childhood to post-secondary education, can equitably recover from learning losses and other challenges faced during the COVID–19 pandemic;
-
-(iii) encourage and develop partnerships with a national network of early childhood and early intervention providers, schools, institutions of higher education, and other public, private, philanthropic, and nonprofit stakeholders to improve access to educational equity and economic opportunities for Black Americans;
-
-(iv) monitor and support the development, implementation, and coordination of Federal Government educational, workforce, research, and business development policies, programs, and technical assistance designed to improve outcomes for historically underserved communities, including Black Americans;
-
-(v) work closely with the Executive Office of the President on key Administration priorities related to education, equity, and economic opportunity for Black Americans; and
-
-(vi) advise the Secretary on issues of importance to Black Americans and policies relating to educational equity, excellence, and economic opportunity for Black Americans.
-
-(d) There is established a Federal Interagency Working Group, which shall be convened by the Executive Director and shall support the efforts of the Initiative. The Interagency Working Group shall collaborate regarding resources and opportunities available across the Federal Government to increase educational and economic opportunities for Black Americans.
-
-(i) The Interagency Working Group shall consist of senior officials (designated by the heads of their respective departments, agencies, and offices) from the following:
-
-(A) the Department of State;
-
-(B) the Department of the Treasury;
-
-(C) the Department of Defense;
-
-(D) the Department of Justice;
-
-(E) the Department of the Interior;
-
-(F) the Department of Agriculture;
-
-(G) the Department of Commerce;
-
-(H) the Department of Labor;
-
-(I) the Department of Health and Human Services;
-
-(J) the Department of Housing and Urban Development;
-
-(K) the Department of Transportation;
-
-(L) the Department of Energy;
-
-(M) the Department of Education;
-
-(N) the Department of Veterans Affairs;
-
-(O) the Department of Homeland Security;
-
-(P) the White House Office of Management and Budget;
-
-(Q) the White House Office of Science and Technology Policy;
-
-(R) the Small Business Administration;
-
-(S) the White House Domestic Policy Council;
-
-(T) the White House Gender Policy Council;
-
-(U) the White House Office of Public Engagement;
-
-(V) the National Science Foundation;
-
-(W) the National Aeronautics and Space Administration;
-
-(X) the United States Agency for International Development; and
-
-(Y) such additional executive departments, agencies, and offices as the Secretary may designate.
-
-(ii) The Executive Director may establish subgroups of the Interagency Working Group to focus on different aspects of the educational system (such as PBIs and HBCUs, early childhood education, kindergarten through 12th grade education, children and adults with disabilities, teacher diversity, higher education, career and technical education, adult education, or correctional education and reengagement), economic opportunity (work-based learning, entrepreneurship, financial education, or mentorship), or educational challenges facing particular populations.
-
-(e) Each agency designated to participate in the Interagency Working Group shall prepare a plan (Agency Plan) outlining measurable actions the agency will take to advance educational equity and economic opportunity for Black communities, including their plans to implement the policy goals and directives outlined in section 2(b) of this order and other relevant work. These plans shall be submitted to the Chair of the Initiative on a date established by the Chair.
-
-(i) As appropriate, each Agency Plan shall include:
-
-(A) a description of the applicable agency’s efforts to ensure that Federal programs and initiatives administered by the Department and other agencies are meeting the educational needs of Black Americans, including efforts to incorporate best practices into appropriate discretionary programs where the agency sees fit and as permitted by law;
-
-(B) a description of how the applicable agency has and will decrease barriers to participation of Black Americans in Federal employment and student engagement opportunities;
-
-(C) a description of how the applicable agency can address challenges facing Black students and higher education institutions that serve Black students, such as PBIs and HBCUs, brought on by or exacerbated by the COVID–19 pandemic;
-
-(D) a description of how the agency’s Office of Civil Rights, if applicable, can address discriminatory policies and practices that limit educational and economic opportunity for Black Americans;
-
-(E) any other information the applicable agency determines is relevant to promoting educational opportunities for Black Americans; and
-
-(F) information addressing any additional criteria established by the Chair or the Initiative.
-
-(ii) Each agency shall assess and report to the Chair on their progress in implementing the Agency Plan on a regular basis as established by the Chair.
-
-(iii) The Initiative shall monitor and evaluate each agency’s progress towards the goals established in its Agency Plan and shall coordinate with the agency to ensure that its Plan includes measurable and action-oriented goals.
-
-(f) The Department shall provide funding and administrative support for the Initiative and the Interagency Working Group, to the extent permitted by law and within existing appropriations. To the extent permitted by law, including the Economy Act ([31 U.S.C. 1535](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim)), other agencies and offices represented on the Interagency Working Group may detail personnel to the Initiative, to assist the Department in meeting the objectives of this order.
-
-(g) To advance shared priorities and policies that advance equity and economic opportunity for underserved communities, the Initiative shall collaborate and coordinate with other White House Initiatives related to equity and opportunity.
-
-(h) On an annual basis, the Chair shall report to the President on the Initiative’s progress in carrying out its mission and function under this order.
-
-Sec. 3. Presidential Advisory Commission. (a) There is established in the Department a Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans (Commission).
-
-(b) The Commission shall provide advice to the President through the Secretary on matters pertaining to educational equity and economic opportunity for the Black community, including:
-
-(i) what is needed for the development, implementation, and coordination of educational programs and initiatives at the Department and other agencies to improve educational opportunities and outcomes for Black Americans;
-
-(ii) how to promote career pathways for in-demand jobs for Black students, including registered apprenticeships, internships, fellowships, mentorships, and work-based learning initiatives;
-
-(iii) how to increase public awareness of and generate solutions for the educational and training challenges and equity disparities that Black Americans face and the causes of these challenges; and
-
-(iv) approaches to establish local and national partnerships with public, private, philanthropic, and nonprofit stakeholders to advance the mission and objectives of this order, consistent with applicable law.
-
-(c) The Commission shall periodically report to the President, through the Secretary and after consulting with the Executive Director, on progress in addressing the mission of the Commission.
-
-(d) The Commission shall consist of not more than 21 members appointed by the President. The Commission may include individuals with relevant experience or subject matter expertise, as well as individuals who may serve as representatives from a variety of sectors, including education (early childhood education, elementary and secondary education, higher education, career and technical education, and adult education), labor organizations, research institutions, public and private philanthropic organizations, private sector, nonprofit, and community-based organizations at the national, State, Tribal, regional, or local levels. Commission members should be able to provide specific insight into the lived experiences of those served by the Initiative, including young adults, and have diversity across the Black diaspora and the geography of the country.
-
-(i) The President shall designate one member of the Commission to serve as its Chair. The Chair, in consultation with the Executive Director, shall convene regular meetings of the Commission, determine the Commission meeting agenda, and support the work of the Commission, consistent with this order.
-
-(ii) The Commission shall meet on a regular basis, and at least twice a year.
-
-(e) The Department shall provide funding and administrative support for the Commission, to the extent permitted by law and within existing appropriations. Members of the Commission shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7). Insofar as the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.], may apply to the administration of the Commission, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary, in accordance with guidelines issued by the Administrator of General Services.
-
-(f) The Commission shall terminate 2 years from the date of this order [Oct. 19, 2021], unless extended by the President.
-
-Sec. 4. Administrative Provisions. (a) This order supersedes Executive Order 13621 of July 26, 2012 (White House Initiative on Educational Excellence for African Americans) [formerly set out above], which is hereby revoked. To the extent that there are other Executive Orders that may conflict with or overlap with the provisions in this order, the provisions in this order supersede those other Executive Orders on these subjects.
-
-(b) The heads of agencies shall assist and provide information to the Initiative and the Commission established in this order, consistent with applicable law, as may be necessary to carry out the functions of the Initiative and the Commission.
-
-(c) Each agency shall bear its own expenses of participating in the Initiative established in this order.
-
-Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.
+#### Executive Order No. 14050
+Ex. Ord. No. 14050, Oct. 19, 2021, 86 F.R. 58551, establishing the White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans, was revoked by Ex. Ord. No. 14148, § 2(oo), Jan. 20, 2025, 90 F.R. 8239.
 
 #### Extension of Term of Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans
 Term of Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
-#### Ex. Ord. No. 14124. White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity Through Hispanic-Serving Institutions
-Ex. Ord. No. 14124, July 17, 2024, 89 F.R. 59585, provided:
+#### Executive Order No. 14124
+Ex. Ord. No. 14124, July 17, 2024, 89 F.R. 59585, establishing the White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity Through Hispanic-Serving Institutions, was revoked by Ex. Ord. No. 14148, § 2(iii), Jan. 20, 2025, 90 F.R. 8240.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to advance equity in economic and educational opportunities, strengthen the capacity of Hispanic-Serving Institutions (HSIs) to provide a high-quality education, increase opportunities for these institutions to participate in and benefit from Federal programs, and ensure that HSIs can continue to be engines of educational opportunity and economic mobility, it is hereby ordered as follows:
+#### Ex. Ord. No. 14190. Ending Radical Indoctrination in K-12 Schooling
+Ex. Ord. No. 14190, Jan. 29, 2025, 90 F.R. 8853, provided:
 
-Section 1. Policy. Hispanic-Serving Institutions have a history of expanding educational opportunities for generations of Hispanic and Latino students. As defined in section 502(a)(5) of the Higher Education Act of 1965 ([20 U.S.C. 1101a(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1101a/a/5&num=0&edition=prelim)), HSIs are institutions of higher education that have an enrollment of at least 25 percent Hispanic undergraduate full-time-equivalent students and satisfy other criteria, including with respect to enrollment of needy students and expenditures per full-time-equivalent undergraduate student.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:
 
-Today, more than 500 HSIs, located in 27 States, the District of Columbia, and Puerto Rico, serve more than 4.7 million students annually. Hispanic-Serving Institutions vary in size; support a range of academic interests; and serve urban, rural, and suburban communities. Over half of Hispanic and Latino postsecondary students in America attend an HSI, and nearly 40 percent of those students attend a 2-year HSI. Hispanic-Serving Institutions serve a significant number of students from low-income backgrounds. Students enrolled at HSIs account for approximately 30 percent of all Pell Grant recipients, even though these colleges and universities make up only 13 percent of all postsecondary degree-granting institutions. Further, HSIs can play a critical role in fostering diversity in science, technology, engineering, and mathematics fields. Notably, 69 percent of doctoral students in HSIs are enrolled in science- and engineering-related degrees, highlighting the significant role HSIs can play in ensuring a workforce that meets the Nation’s evolving needs in technical fields.
+Section 1. Purpose and Policy. Parents trust America’s schools to provide their children with a rigorous education and to instill a patriotic admiration for our incredible Nation and the values for which we stand.
 
-As Hispanic and Latino college enrollment has grown to historic levels over the last few decades, so has the number of HSIs, making HSIs’ success vital to the strength of the Nation. These institutions are creating and implementing evidence-based practices that lead to Hispanic and Latino student success.
+In recent years, however, parents have witnessed schools indoctrinate their children in radical, anti-American ideologies while deliberately blocking parental oversight. Such an environment operates as an echo chamber, in which students are forced to accept these ideologies without question or critical examination. In many cases, innocent children are compelled to adopt identities as either victims or oppressors solely based on their skin color and other immutable characteristics. In other instances, young men and women are made to question whether they were born in the wrong body and whether to view their parents and their reality as enemies to be blamed. These practices not only erode critical thinking but also sow division, confusion, and distrust, which undermine the very foundations of personal identity and family unity.
 
-Despite the fact that HSIs represent a large and fast-growing segment of the Nation’s colleges and universities, per-student Federal funding at HSIs is 25 percent less than at other degree-granting institutions. Over the last 30 years, the number of HSIs has more than doubled and Hispanic or Latino student enrollment at HSIs has more than tripled. But per-student Federal funding at HSIs remains low compared to degree-granting institutions generally, and many HSIs report having unmet physical and digital infrastructure needs. This scarcity of resources often leaves HSIs at a disadvantage when compared with better-resourced institutions. Students, faculty, and staff at under-resourced HSIs often face challenges in accessing the resources they need to excel.
+Imprinting anti-American, subversive, harmful, and false ideologies on our Nation’s children not only violates longstanding anti-discrimination civil rights law in many cases, but usurps basic parental authority. For example, steering students toward surgical and chemical mutilation without parental consent or involvement or allowing males access to private spaces designated for females may contravene Federal laws that protect parental rights, including the Family Educational Rights and Privacy Act [of 1974] (FERPA) [[20 U.S.C. 1232g](./chapter-031-general-provisions-concerning-education.md#section-1232g)] and the Protection of Pupil Rights Amendment (PPRA) [see [20 U.S.C. 1232h](./chapter-031-general-provisions-concerning-education.md#section-1232h)], and sex-based equality and opportunity, including Title IX of the Education Amendments of 1972 (Title IX) [[20 U.S.C. 1681](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) et seq.]. Similarly, demanding acquiescence to “White Privilege” or “unconscious bias,” actually promotes racial discrimination and undermines national unity.
 
-Despite these funding disparities, research has shown that HSIs tend to do more for Hispanic and Latino student success than non-HSI colleges and universities—and do so with fewer resources. Many HSIs are leaders in promoting economic mobility for Hispanic and Latino students, including by closing college access, completion, and success gaps. Hispanic-Serving Institutions could further improve outcomes for students if they were adequately funded. The Federal Government must strengthen the capacity of HSIs to improve and expand their reach, while recognizing that HSIs face discrete challenges and opportunities that reflect their history and the communities they serve.
+My Administration will enforce the law to ensure that recipients of Federal funds providing K-12 education comply with all applicable laws prohibiting discrimination in various contexts and protecting parental rights, including Title VI of the Civil Rights Act of 1964 (Title VI), [42 U.S.C. 2000d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d&num=0&edition=prelim) et seq.; Title IX, [20 U.S.C. 1681](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) et seq.; FERPA, [20 U.S.C. 1232g](./chapter-031-general-provisions-concerning-education.md#section-1232g); and the PPRA, [20 U.S.C. 1232h](./chapter-031-general-provisions-concerning-education.md#section-1232h).
 
-As set forth in Executive Order 14045 of September 13, 2021 (White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics) [set out above], the Federal Government must collaborate with Hispanic and Latino communities to ensure their long-term success, including by eliminating barriers to Federal funding and strengthening the capacity of HSIs. This order builds on those policies by establishing the White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity Through Hispanic-Serving Institutions and the President’s Board of Advisors on Hispanic-Serving Institutions.
+Sec. 2. Definitions. As used herein:
 
-It is the policy of my Administration to advance educational equity, excellence, and economic opportunity through strong partnerships with HSIs to ensure that they have access to Federal resources to help current and future generations of students succeed. The Federal Government must collaborate with HSIs and the students, families, and communities they serve to address and overcome barriers that may impede educational attainment and upward economic mobility. Strengthening the capacity of the Nation’s HSIs is critical to fulfilling that objective.
+(a) The definitions in the Executive Order [No. 14168] “Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government” (January 20, 2025) [[5 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) note] shall apply to this order.
 
-Sec. 2. White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity Through Hispanic-Serving Institutions. (a) In furtherance of the policy set forth in section 1 of this order, there is established within the Department of Education (Department) the White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity Through Hispanic-Serving Institutions (Initiative), of which the Secretary of Education (Secretary) shall serve as Chair. The Secretary shall designate an Executive Director for the Initiative (Executive Director). The Executive Director shall manage the day-to-day operations of the Initiative, in consultation with the Assistant to the President and Director of the White House Office of Public Engagement, as appropriate, and coordinate with senior officials in the Executive Office of the President, who shall lend their expertise and advice to the Initiative.
+(b) “Discriminatory equity ideology” means an ideology that treats individuals as members of preferred or disfavored groups, rather than as individuals, and minimizes agency, merit, and capability in favor of immoral generalizations, including that:
 
-(b) The Initiative shall advance educational equity, excellence, and economic opportunity through HSIs by focusing on the following goals:
+(i) Members of one race, color, sex, or national origin are morally or inherently superior to members of another race, color, sex, or national origin;
 
-(i) identifying and promoting the availability of Federal programs and resources to enhance HSIs’ educational capacity, including with respect to research and infrastructure development, while also breaking down barriers and expanding pathways for HSIs to access such programs and resources;
+(ii) An individual, by virtue of the individual’s race, color, sex, or national origin, is inherently racist, sexist, or oppressive, whether consciously or unconsciously;
 
-(ii) identifying best practices for HSIs on developing, implementing, expanding, and sustaining strategies, programs, and initiatives that support the educational success and economic mobility of their students;
+(iii) An individual’s moral character or status as privileged, oppressing, or oppressed is primarily determined by the individual’s race, color, sex, or national origin;
 
-(iii) improving the ability of HSIs to align their program offerings with the Nation’s economic needs and promote opportunities for careers in critical professions, with an emphasis on increasing the number of students preparing for careers in in-demand and high-wage fields, such as science, technology, engineering, and math, as well as teaching, including bilingual and multilingual education;
+(iv) Members of one race, color, sex, or national origin cannot and should not attempt to treat others without respect to their race, color, sex, or national origin;
 
-(iv) coordinating efforts to improve the fiscal security of HSIs;
+(v) An individual, by virtue of the individual’s race, color, sex, or national origin, bears responsibility for, should feel guilt, anguish, or other forms of psychological distress because of, should be discriminated against, blamed, or stereotyped for, or should receive adverse treatment because of actions committed in the past by other members of the same race, color, sex, or national origin, in which the individual played no part;
 
-(v) developing new relationships, and fostering collaboration, among HSIs and philanthropic organizations, public- and private-sector organizations, elementary and secondary education providers, labor unions, and other entities to improve postsecondary affordability and degree attainment, pathways for students to enroll in HSIs, career preparation at HSIs, and employment opportunities that advance economic mobility for HSI students and graduates;
+(vi) An individual, by virtue of the individual’s race, color, sex, or national origin, should be discriminated against or receive adverse treatment to achieve diversity, equity, or inclusion;
 
-(vi) strengthening Federal recruitment activities at HSIs to build accessible and equitable pathways into Federal career opportunities for HSI students, faculty, staff, and alumni;
+(vii) Virtues such as merit, excellence, hard work, fairness, neutrality, objectivity, and racial colorblindness are racist or sexist or were created by members of a particular race, color, sex, or national origin to oppress members of another race, color, sex, or national origin; or
 
-(vii) encouraging HSIs, as institutions that provide students with degrees that lead to upward economic mobility, to participate in Federal policymaking processes;
+(viii) the United States is fundamentally racist, sexist, or otherwise discriminatory.
 
-(viii) encouraging the development of highly qualified, diverse, multilingual, and culturally responsive educators who support and instruct HSI students and contribute to effectively meeting those students’ social, emotional, and academic needs; and
+(c) “Educational service agency” (ESA) has the meaning given in [20 U.S.C. 1401(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1401/5&num=0&edition=prelim), and the terms “elementary school,” “local educational agency” (LEA), “secondary school,” and “state educational agency” (SEA) have the meanings given in 34 CFR 77.1(c).
 
-(ix) providing data, tools, and analytics to support HSIs in improving educational equity, excellence, and economic opportunity for students.
+(d) “Patriotic education” means a presentation of the history of America grounded in:
 
-(c) On an annual basis, the Executive Director, in consultation with the Assistant to the President for Domestic Policy, shall report to the President on the Initiative’s progress in carrying out its mission and function under this order.
+(i) an accurate, honest, unifying, inspiring, and ennobling characterization of America’s founding and foundational principles;
 
-(d) The Executive Director shall meet regularly with HSI students, leaders, and other representatives to discuss matters related to the Initiative’s mission and function.
+(ii) a clear examination of how the United States has admirably grown closer to its noble principles throughout its history;
 
-(e) The Department shall provide funding and administrative support for the Initiative to the extent permitted by law and within existing appropriations. To the extent permitted by law, including the Economy Act ([31 U.S.C. 1535](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim)), and subject to the availability of appropriations, other executive departments and agencies (agencies) and offices may detail personnel to the Initiative to assist the Department in meeting the objectives of this order.
+(iii) the concept that commitment to America’s aspirations is beneficial and justified; and
 
-(f) To advance shared priorities and policies that advance educational equity, excellence, and economic opportunity through HSIs, the Initiative shall collaborate and coordinate with other White House Initiatives, including by sharing best practices on improving student success—including the success of Hispanic and Latino students—between HSIs and other institutions of higher education.
+(iv) the concept that celebration of America’s greatness and history is proper.
 
-Sec. 3. President’s Board of Advisors on Hispanic-Serving Institutions. (a) In furtherance of the policy described in section 1 of this order, there is established within the Department the President’s Board of Advisors on Hispanic-Serving Institutions (Board).
+(e) “Social transition” means the process of adopting a “gender identity” or “gender marker” that differs from a person’s sex. This process can include psychological or psychiatric counseling or treatment by a school counselor or other provider; modifying a person’s name (e.g., “Jane” to “James”) or pronouns (e.g., “him” to “her”); calling a child “nonbinary”; use of intimate facilities and accommodations such as bathrooms or locker rooms specifically designated for persons of the opposite sex; and participating in school athletic competitions or other extracurricular activities specifically designated for persons of the opposite sex. “Social transition” does not include chemical or surgical mutilation.
 
-(b) The Board shall consist of not more than 21 members, appointed by the President, and may include individuals who serve as representatives of their respective organizations and institutions, such as educational institutions, educational advocacy organizations, labor organizations, research institutions, public and private philanthropic organizations, private-sector organizations, nonprofit organizations, and community-based organizations. Members of the Board should be knowledgeable about the experiences of those who attend, work for, and work to strengthen HSIs.
+Sec. 3. Ending Indoctrination Strategy. (a) Within 90 days of the date of this order [Jan. 29, 2025], to advise the President in formulating future policy, the Secretary of Education, the Secretary of Defense, and the Secretary of Health and Human Services, in consultation with the Attorney General, shall provide an Ending Indoctrination Strategy to the President, through the Assistant to the President for Domestic Policy, containing recommendations and a plan for:
 
-(c) The President shall designate one member of the Board to serve as its Chair, and may designate another member of the Board to serve as Vice Chair. The Chair, in consultation with the Executive Director of the Initiative, shall convene regular meetings of the Board, determine the Board meeting agenda, and support the work of the Board consistent with this order.
+(i) eliminating Federal funding or support for illegal and discriminatory treatment and indoctrination in K-12 schools, including based on gender ideology and discriminatory equity ideology; and
 
-(d) The Department shall provide funding and administrative support for the Board to the extent permitted by law and within existing appropriations. Members of the Board shall serve without compensation, but may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7). Insofar as chapter 10 of title 5, United States Code (commonly known as the Federal Advisory Committee Act), may apply to the Board, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary, in accordance with guidelines issued by the Administrator of General Services.
+(ii) protecting parental rights, pursuant to FERPA, [20 U.S.C. 1232g](./chapter-031-general-provisions-concerning-education.md#section-1232g), and the PPRA, [20 U.S.C. 1232h](./chapter-031-general-provisions-concerning-education.md#section-1232h), with respect to any K-12 policies or conduct implicated by the purpose and policy of this order.
 
-(e) The Board shall provide advice to the President through the Secretary on how to advance the policy goals set forth in section 2(b) of this order, including with respect to:
+(b) The Ending Indoctrination Strategy submitted under subsection (a) of this section shall contain a summary and analysis of the following:
 
-(i) increasing the visibility of and participation by HSIs in Federal policymaking, including participation in Federal grant review processes;
+(i) All Federal funding sources and streams, including grants or contracts, that directly or indirectly support or subsidize the instruction, advancement, or promotion of gender ideology or discriminatory equity ideology:
 
-(ii) providing HSIs, including those that have newly satisfied the criteria for the statutory definition, information about and access to Federal programs and Federal resources;
+(A) in K-12 curriculum, instruction, programs, or activities; or
 
-(iii) supporting the development of institutions on an enrollment trajectory to become an HSI, such as through mentorship with existing HSIs and sharing of best practices on how to improve the fiscal security of HSIs; and
+(B) in K-12 teacher education, certification, licensing, employment, or training;
 
-(iv) establishing partnerships between HSIs and philanthropic organizations, public- and private-sector organizations, elementary and secondary education schools and their school districts, and labor unions.
+(ii) Each agency’s process to prevent or rescind Federal funds, to the maximum extent consistent with applicable law, from being used by an ESA, SEA, LEA, elementary school, or secondary school to directly or indirectly support or subsidize the instruction, advancement, or promotion of gender ideology or discriminatory equity ideology in:
 
-(f) The Board shall periodically report to the President, through the Secretary and after consulting with the Executive Director, on the Board’s progress in carrying out its mission and function under this order.
+(A) K-12 curriculum, instruction, programs, or activities; or
 
-Sec. 4. Administrative Provisions. (a) As used in this order, the terms “Hispanic-Serving Institutions” and “HSIs” mean those institutions that meet the definition of “Hispanic-serving institution” in section 502(a)(5) of the Higher Education Act of 1965 ([20 U.S.C. 1101a(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1101a/a/5&num=0&edition=prelim)).
+(B) K-12 teacher certification, licensing, employment, or training;
 
-(b) The heads of agencies shall assist and provide information to the Initiative and the Board established in this order, consistent with applicable law, as may be necessary to carry out the functions of the Initiative and the Board.
+(iii) Each agency’s process to prevent or rescind Federal funds, to the maximum extent consistent with applicable law, from being used by an ESA, SEA, LEA, elementary school, or secondary school to directly or indirectly support or subsidize the social transition of a minor student, including through school staff or teachers or through deliberately concealing the minor’s social transition from the minor’s parents.
 
-(c) Each agency shall bear its own expenses of participating in the Initiative established in this order.
+(iv) Each agency’s process to prevent or rescind Federal funds, to the maximum extent consistent with applicable law, from being used by an ESA, SEA, LEA, elementary school, or secondary school to directly or indirectly support or subsidize:
 
-Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+(A) interference with a parent’s Federal statutory right to information regarding school curriculum, records, physical examinations, surveys, and other matters under the PPRA or FERPA; or
+
+(B) a violation of Title VI or Title IX; and
+
+(v) A summary and analysis of all relevant agency enforcement tools to advance the policies of this order.
+
+(c) The Attorney General shall coordinate with State attorneys general and local district attorneys in their efforts to enforce the law and file appropriate actions against K-12 teachers and school officials who violate the law by:
+
+(i) sexually exploiting minors;
+
+(ii) unlawfully practicing medicine by offering diagnoses and treatment without the requisite license; or
+
+(iii) otherwise unlawfully facilitating the social transition of a minor student.
+
+(d) The Assistant to the President for Domestic Policy shall regularly convene the heads of the agencies tasked with submitting the Ending Indoctrination Strategy under subsection (a) of this section to confer regarding their findings, areas for additional investigation, the modification or implementation of their respective recommendations, and such other policy initiatives or matters as the President may direct.
+
+Sec. 4. Reestablishing the President’s Advisory 1776 Commission and Promoting Patriotic Education. (a) The President’s Advisory 1776 Commission (“1776 Commission”), which was created by Executive Order 13958 of November 2, 2020 [set out above], to promote patriotic education, but was terminated by President Biden in Executive Order 13985 of January 20, 2021, is hereby reestablished. The purpose of the 1776 Commission is to promote patriotic education and advance the purposes stated in section 1 of Executive Order 13958, as well as to advise and promote the work of the White House Task Force on Celebrating America’s 250th Birthday (“Task Force 250”) and the United States Semiquincentennial Commission in their efforts to provide a grand celebration worthy of the momentous occasion of the 250th anniversary of American Independence on July 4, 2026.
+
+(b) Within 120 days of the date of this order, the Secretary of Education shall establish the 1776 Commission in the Department of Education.
+
+(c) The 1776 Commission shall be composed of not more than 20 members, who shall be appointed by the President for a term of 2 years. The 1776 Commission shall be made up of individuals from outside the Federal Government with relevant experience or subject-matter expertise.
+
+(d) The 1776 Commission shall have a Chair or Co-Chairs, at the President’s discretion, and a Vice Chair, who shall be designated by the President from among the Commission’s members. An Executive Director, designated by the Secretary of Education in consultation with the Assistant to the President for Domestic Policy, shall coordinate the work of the 1776 Commission. The Chair (or Co-Chairs) and Vice Chair shall work with the Executive Director to convene regular meetings of the 1776 Commission, determine its agenda, and direct its work, consistent with this order.
+
+(e) The 1776 Commission shall:
+
+(i) facilitate the development and implementation of a “Presidential 1776 Award” to recognize student knowledge of the American founding, including knowledge about the Founders, the Declaration of Independence, the Constitutional Convention, and the great soldiers and battles of the American Revolutionary War;
+
+(ii) in coordination with the White House Office of Public Liaison, coordinate bi-weekly lectures regarding the 250th anniversary of American Independence that are grounded in patriotic education principles, which shall be broadcast to the Nation throughout calendar year 2026;
+
+(iii) upon request, advise executive departments and agencies regarding their efforts to ensure patriotic education is appropriately provided to the public at national parks, battlefields, monuments, museums, installations, landmarks, cemeteries, and other places important to the American founding and American history, as appropriate and consistent with applicable law;
+
+(iv) upon request, offer advice and recommendations to, and support the work of Task Force 250 and the United States Semiquincentennial Commission regarding their plans to celebrate the 250th anniversary of American Independence; and
+
+(v) facilitate, advise upon, and promote private and civic activities nationwide to increase public knowledge of and support patriotic education surrounding the 250th anniversary of American Independence, as appropriate and consistent with applicable law.
+
+(f) The Department of Education shall provide funding and administrative support for the 1776 Commission, to the extent permitted by law and subject to the availability of appropriations.
+
+(g) Members of the 1776 Commission shall serve without compensation but, as approved by the Department of Education, shall be reimbursed for travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7).
+
+(h) Insofar as chapter 10 of title 5, United States Code (commonly known as the Federal Advisory Committee Act), may apply to the 1776 Commission, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary of Education, in accordance with the guidelines issued by the Administrator of General Services.
+
+(i) The 1776 Commission shall terminate 2 years from the date of this order, unless extended by the President.
+
+Sec. 5. Additional Patriotic Education Measures. (a) All relevant agencies shall monitor compliance with section 111(b) of title I of Division J of Public Law 108–447 [[36 U.S.C. 106](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section106&num=0&edition=prelim) note], which provides that “[e]ach educational institution that receives Federal funds for a fiscal year shall hold an educational program on the United States Constitution on September 17 of such year for the students served by the educational institution,” including by verifying compliance with each educational institution that receives Federal funds. All relevant agencies shall take action, as appropriate, to enhance compliance with that law.
+
+(b) All relevant agencies shall prioritize Federal resources, consistent with applicable law, to promote patriotic education, including through the following programs:
+
+(i) the Department of Education’s American History and Civics Academies and American History and Civics Education-National Activities programs;
+
+(ii) the Department of Defense’s National Defense Education Program and Pilot Program on Enhanced Civics Education; and
+
+(iii) the Department of State’s Bureau of Educational and Cultural Affairs and Fulbright, U.S. Speaker, and International Visitor Leadership programs, as well as the American Spaces network.
+
+Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
 (i) the authority granted by law to an executive department or agency, or the head thereof; or
 
@@ -708,7 +438,38 @@ Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impa
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-J.R. Biden, Jr.
+Donald J. Trump.
+
+#### Ex. Ord. No. 14242. Improving Education Outcomes by Empowering Parents, States, and Communities
+Ex. Ord. No. 14242, Mar. 20, 2025, 90 F.R. 13679, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to enable parents, teachers, and communities to best ensure student success, it is hereby ordered:
+
+Section 1. Purpose and Policy. Our Nation’s bright future relies on empowered families, engaged communities, and excellent educational opportunities for every child. Unfortunately, the experiment of controlling American education through Federal programs and dollars—and the unaccountable bureaucracy those programs and dollars support—has plainly failed our children, our teachers, and our families.
+
+Taxpayers spent around $200 billion at the Federal level on schools during the COVID–19 pandemic, on top of the more than $60 billion they spend annually on Federal school funding. This money is largely distributed by one of the newest Cabinet agencies, the Department of Education, which has existed for less than one fifth of our Nation’s history. The Congress created the Department of Education in 1979 at the urging of President Jimmy Carter, who received a first-ever Presidential endorsement from the country’s largest teachers’ union shortly after pledging to the union his support for a separate Department of Education. Since then, the Department of Education has entrenched the education bureaucracy and sought to convince America that Federal control over education is beneficial. While the Department of Education does not educate anyone, it maintains a public relations office that includes over 80 staffers at a cost of more than $10 million per year.
+
+Closing the Department of Education would provide children and their families the opportunity to escape a system that is failing them. Today, American reading and math scores are near historical lows. This year’s National Assessment of Educational Progress showed that 70 percent of 8th graders were below proficient in reading, and 72 percent were below proficient in math. The Federal education bureaucracy is not working.
+
+Closure of the Department of Education would drastically improve program implementation in higher education. The Department of Education currently manages a student loan debt portfolio of more than $1.6 trillion. This means the Federal student aid program is roughly the size of one of the Nation’s largest banks, Wells Fargo. But although Wells Fargo has more than 200,000 employees, the Department of Education has fewer than 1,500 in its Office of Federal Student Aid. The Department of Education is not a bank, and it must return bank functions to an entity equipped to serve America’s students.
+
+Ultimately, the Department of Education’s main functions can, and should, be returned to the States.
+
+Sec. 2. Closing the Department of Education and Returning Authority to the States. (a) The Secretary of Education shall, to the maximum extent appropriate and permitted by law, take all necessary steps to facilitate the closure of the Department of Education and return authority over education to the States and local communities while ensuring the effective and uninterrupted delivery of services, programs, and benefits on which Americans rely.
+
+(b) Consistent with the Department of Education’s authorities, the Secretary of Education shall ensure that the allocation of any Federal Department of Education funds is subject to rigorous compliance with Federal law and Administration policy, including the requirement that any program or activity receiving Federal assistance terminate illegal discrimination obscured under the label “diversity, equity, and inclusion” or similar terms and programs promoting gender ideology.
+
+Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 #### Creating and Expanding Ladders of Opportunity for Boys and Young Men of Color
 Memorandum of President of the United States, Feb. 27, 2014, 79 F.R. 12923, as amended by Memorandum of President of the United States, § 1, Jan. 13, 2017, 82 F.R. 7623, provided:
@@ -719,7 +480,7 @@ Over the course of my Administration, we have made consistent progress on import
 
 Many boys and young men of color will arrive at kindergarten less prepared than their peers in early language and literacy skills, leaving them less likely to finish school. Labor-force participation rates for young men of color have dropped, and far too many lack the skills they need to succeed. The disproportionate number of African American and Hispanic young men who are unemployed or involved in the criminal justice system undermines family and community stability and is a drag on State and Federal budgets. And, young men of color are far more likely to be victims of murder than their white peers, accounting for almost half of the country’s murder victims each year. These outcomes are troubling, and they represent only a portion of the social and economic cost to our Nation when the full potential of so many boys and young men is left unrealized.
 
-By focusing on the critical challenges, risk factors, and opportunities for boys and young men of color at key life stages, we can improve their long-term outcomes and ability to contribute to the Nation’s competiveness, economic mobility and growth, and civil society. Unlocking their full potential will benefit not only them, but all Americans.
+By focusing on the critical challenges, risk factors, and opportunities for boys and young men of color at key life stages, we can improve their long-term outcomes and ability to contribute to the Nation’s competiveness [sic], economic mobility and growth, and civil society. Unlocking their full potential will benefit not only them, but all Americans.
 
 Therefore, I am establishing the Task Force on Improving the Lives of Boys and Young Men of Color and Underserved Youth, an interagency effort to improve measurably the expected educational and life outcomes for and address the persistent opportunity gaps faced by boys and young men of color. The Task Force will help us determine the public and private efforts that are working and how to expand upon them, how the Federal Government’s own policies and programs can better support these efforts, and how to better involve State and local officials, the private sector, and the philanthropic community.
 

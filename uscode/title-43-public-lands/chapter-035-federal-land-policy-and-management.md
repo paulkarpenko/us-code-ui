@@ -63,6 +63,9 @@ Pub. L. 94–579, title VII, § 701, Oct. 21, 1976, 90 Stat. 2786, provided that
 #### Severability
 Pub. L. 94–579, title VII, § 707, Oct. 21, 1976, 90 Stat. 2794, provided that: “If any provision of this Act [see Short Title note set out above] or the application thereof is held invalid, the remainder of the Act and the application thereof shall not be affected thereby.”
 
+#### Timber Sales and Long-Term Contracting for the Bureau of Land Management
+Pub. L. 119–21, title V, § 50301(b), July 4, 2025, 139 Stat. 147, provided that: “(1) Definitions.—In this subsection:“(A) Public lands.—The term ‘public lands’ has the meaning given the term in section 103 of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1702](./chapter-035-federal-land-policy-and-management.md#section-1702)). “(B) Resource management plan.—The term ‘resource management plan’ means a land use plan prepared for public lands under section 202 of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1712](./chapter-035-federal-land-policy-and-management.md#section-1712)). “(C) Secretary.—The term ‘Secretary’ means the Secretary of the Interior, acting through the Director of the Bureau of Land Management. “(2) Timber sales on public lands.—“(A) In general.—For each of fiscal years 2026 through 2034, the Secretary shall sell timber annually on public lands in a total quantity that is not less than 20,000,000 board-feet greater than the quantity of board-feet sold in the previous fiscal year. “(B) Limitation.—The timber sales under subparagraph (A) shall be subject to the applicable resource management plan in effect on the date of enactment of this Act [July 4, 2025]. “(3) Long-term contracting for the bureau of land management.—“(A) Long-term contracting.—For the period of fiscal years 2025 through 2034, the Secretary shall enter into not fewer than 5 long-term contracts with private persons or other public or private entities under section 1 of the Act of July 31, 1947 (commonly known as the ‘Materials Act of 1947’) (61 Stat. 681, chapter 406; [30 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section601&num=0&edition=prelim)), for the disposal of vegetative materials described in that section on public lands. “(B) Contract length.—The period of a contract entered into to meet the requirement under subparagraph (A) shall be not less than 20 years, with options for extensions or renewals, as determined by the Secretary. “(C) Receipts.—Any monies derived from a contract entered into to meet the requirements under subparagraphs (A) and (B) shall be deposited in the general fund of the Treasury.”
+
 #### References to Division O of Pub. L. 115–141
 Pub. L. 115–141, div. O, § 101(b), Mar. 23, 2018, 132 Stat. 1059, as amended by Pub. L. 116–6, § 7(2), Feb. 15, 2019, 133 Stat. 15, provided that: “A reference to the Wildfire Suppression Funding and Forest Management Activities Act [div. O of Pub. L. 115–141, see Short Title of 2018 Amendment note above], including a reference in a regulation, order, or other law, is deemed to refer to the Stephen Sepp Wildfire Suppression Funding and Forest Management Activities Act.”
 
@@ -126,25 +129,11 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 
 <a id="section-1703"></a>
-## § 1703. Cooperative action and sharing of resources by Secretaries of the Interior and Agriculture
-
-In fiscal year 2012 and each fiscal year thereafter, the Secretaries of the Interior and Agriculture, subject to annual review of Congress, may establish programs to conduct projects, planning, permitting, leasing, contracting and other activities, either jointly or on behalf of one another; may co-locate in Federal offices and facilities leased by an agency of either Department; and may promulgate special rules as needed to test the feasibility of issuing unified permits, applications, and leases. The Secretaries of the Interior and Agriculture may make reciprocal delegations of their respective authorities, duties and responsibilities in support of the “Service First” initiative agency-wide to promote customer service and efficiency. Nothing herein shall alter, expand or limit the applicability of any public law or regulation to lands administered by the Bureau of Land Management, National Park Service, Fish and Wildlife Service, or the Forest Service or matters under the purview of other bureaus or offices of either Department. To facilitate the sharing of resources under the Service First initiative, the Secretaries of the Interior and Agriculture may make transfers of funds and reimbursement of funds on an annual basis, including transfers and reimbursements for multi-year projects, except that this authority may not be used to circumvent requirements and limitations imposed on the use of funds.
+## § 1703. Repealed. Pub. L. 118–234, title III, § 315(a), Jan. 4, 2025, 138 Stat. 2903
 
 ### Statutory Notes
 
-#### Codification
-Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 2001, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
-
-Section was formerly set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).
-
-#### Amendments
-2014—Pub. L. 113–76, in first sentence, substituted “programs” for “programs. involving the land management agencies referred to in this section” and “and may promulgate” for “and promulgate” and, in third sentence, inserted “or matters under the purview of other bureaus or offices of either Department” after “Forest Service”.
-
-2011—Pub. L. 112–74 substituted “In fiscal year 2012 and each fiscal year thereafter” for “In fiscal years 2001 through 2011” and “programs.” for “pilot programs”.
-
-2009—Pub. L. 111–8 substituted “2011” for “2008”.
-
-2005—Pub. L. 109–54 substituted “2008” for “2005”, struck out “may pilot test agency-wide joint permitting and leasing programs” before “, subject to annual review”, inserted “may establish pilot programs involving the land management agencies referred to in this section to conduct projects, planning, permitting, leasing, contracting and other activities, either jointly or on behalf of one another; may co-locate in Federal offices and facilities leased by an agency of either Department;” after “Congress,”, inserted “, National Park Service, Fish and Wildlife Service,” after “Bureau of Land Management”, and inserted at end “To facilitate the sharing of resources under the Service First initiative, the Secretaries of the Interior and Agriculture may make transfers of funds and reimbursement of funds on an annual basis, including transfers and reimbursements for multi-year projects, except that this authority may not be used to circumvent requirements and limitations imposed on the use of funds.”
+Section, Pub. L. 106–291, title III, § 330, Oct. 11, 2000, 114 Stat. 996; Pub. L. 109–54, title IV, § 428, Aug. 2, 2005, 119 Stat. 555; Pub. L. 111–8, div. E, title IV, § 418, Mar. 11, 2009, 123 Stat. 747; Pub. L. 112–74, div. E, title IV, § 422, Dec. 23, 2011, 125 Stat. 1045; Pub. L. 113–76, div. G, title IV, § 430, Jan. 17, 2014, 128 Stat. 345, related to cooperative action and sharing of resources by Secretaries of the Interior and Agriculture.
 
 
 <a id="section-1711"></a>
@@ -2311,6 +2300,8 @@ Enforcement functions of Secretary or other official in Department of Agricultur
 
 (5) **No additional appropriations authorized** — Except as provided in paragraph (4), no other amounts are authorized to be appropriated to carry out this section.
 
+(6) **Cooperative agreement authority** — Subject to the availability of appropriations made in advance for such purposes, the Secretary may enter into cooperative agreements to carry out the activities described in subparagraphs (A) through (D) of paragraph (4).
+
 **(g) Savings provisions**
 
 (1) **Real property authorities** — Nothing in this section, or the amendments made by this section, shall be construed as providing any executive agency with any new leasing or other real property authorities not existing prior to December 20, 2018.
@@ -2326,6 +2317,8 @@ Section 606 of the Repack Airwaves Yielding Better Access for Users of Modern Se
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
 
 #### Amendments
+2025—Subsec. (f)(6). Pub. L. 118–234 added par. (6).
+
 2019—Subsec. (f)(2). Pub. L. 116–94 added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Fees collected by the Forest Service under subsection (c)(3) shall be—
 
 “(A) based on the costs described in subsection (c)(3); and
@@ -2607,7 +2600,7 @@ See note set out under [section 1763 of this title](./chapter-035-federal-land-p
 
       (II) the timely review of modifications of the plans in cases in which modifications are necessary;
 
-    (ii) is consistent with applicable law; and 11 So in original.
+    (ii) is consistent with applicable law; and 22 So in original.
 
     (iii) includes a process for modifications to a plan in a prompt manner if changed conditions necessitate a modification to a plan; and
 
@@ -2675,7 +2668,7 @@ See note set out under [section 1763 of this title](./chapter-035-federal-land-p
 
 (2) **Damages** — For the period ending 10 years after March 23, 2018, the Secretary concerned shall not impose strict liability in an amount greater than $500,000 per incident for damages or injury resulting from activities conducted by an owner or operator in accordance with an approved agreement under subsection (d).
 
-(3) **Rule of construction** — Nothing in paragraph (2) shall be construed to effect 1 any liability imposed by the Secretary concerned under section 251.56(d) of title 36, Code of Federal Regulations (as in effect on March 23, 2018) and section 2807.12 of title 43, Code of Federal Regulations (as in effect on March 23, 2018), for activities conducted by an owner or operator in accordance with an approved plan under subsection (c).
+(3) **Rule of construction** — Nothing in paragraph (2) shall be construed to effect 2 any liability imposed by the Secretary concerned under section 251.56(d) of title 36, Code of Federal Regulations (as in effect on March 23, 2018) and section 2807.12 of title 43, Code of Federal Regulations (as in effect on March 23, 2018), for activities conducted by an owner or operator in accordance with an approved plan under subsection (c).
 
 **(h) Reporting requirement**
 

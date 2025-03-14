@@ -32,7 +32,7 @@ In subsection (b) the words “of the medal of honor authorized on August 8, 194
 A prior section 8291, act Aug. 10, 1956, ch. 1041, 70A Stat. 509, related to original appointments in Regular Air Force of nurses or woman medical specialists, and prescribed qualifications for appointment as a nurse, prior to repeal by Pub. L. 85–155, title IV, § 401(1), Aug. 21, 1957, 71 Stat. 390.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6241 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6241&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6241 of this title](./chapter-606-personnel-matters.md#section-6241) as this section.
 
 1996—Par. (2). Pub. L. 104–106 inserted “or” after “an opposing foreign force;”.
 
@@ -66,7 +66,7 @@ The President may award a Navy cross of appropriate design, with ribbons and app
 The word “award” is substituted for the word “present” to cover the determination of the recipient as well as the actual presenting of the decoration. The words “but not in the name of Congress” are omitted, since a decoration is presented in the name of Congress only if the law so directs. The words “Navy or the Marine Corps” are substituted for the words “naval service of the United States” for clarity. To be eligible for the award, a person need not be a member of the naval service, but only serving in some capacity either with the Navy or with the Marine Corps.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6242 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6242&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6242 of this title](./chapter-606-personnel-matters.md#section-6242) as this section.
 
 1963—Pub. L. 88–77 enlarged the authority to award the Navy cross, which was limited to those cases in which persons distinguished themselves in connection with military operations against an armed enemy, to permit its award for extraordinary heroism not justifying the award of a medal of honor, while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
@@ -92,7 +92,7 @@ The word “award” is substituted for the word “present” to cover the dete
 A prior section 8293, act Aug. 10, 1956, ch. 1041, 70A Stat. 509, provided that no person in civil life be originally appointed as a chaplain in Regular Air Force unless he has passed an examination prescribed by President as to his moral, mental, and physical qualifications, prior to repeal by Pub. L. 96–513, title II, § 204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981. See [section 532 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-532).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6243 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6243&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6243 of this title](./chapter-606-personnel-matters.md#section-6243) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -122,7 +122,7 @@ The word “award” is substituted for the word “present” to cover the dete
 A prior section 8294, acts Aug. 10, 1956, ch. 1041, 70A Stat. 509; Sept. 2, 1958, Pub. L. 85–861, § 1(173), 72 Stat. 1518, provided that original appointments in Regular Air Force be made in grades of first lieutenant through colonel for medical and dental officers as Air Force requires, from qualified doctors of medicine, osteopathy, or dentistry who are citizens of the United States and have such other qualifications as Secretary of Air Force prescribes, with specific additional eligibility requirements for a doctor of osteopathy, and that officers so appointed receive service credit for determining grade, position on a promotion list, seniority in grade in Regular Air Force, and eligibility for promotion, prior to repeal by Pub. L. 96–513, title II, § 204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981. See [section 532 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-532).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6244 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6244&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6244 of this title](./chapter-606-personnel-matters.md#section-6244) as this section.
 
 1963—Pub. L. 88–77 enlarged the authority to award a silver star medal, which was limited to those cases in which persons distinguished themselves in action, to permit its award for gallantry while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
@@ -303,7 +303,7 @@ The term “flag officers” is used generically in [34 U.S.C. 364](https://usco
 A prior section 8301, acts Aug. 10, 1956, ch. 1041, 70A Stat. 513; Aug. 21, 1957, Pub. L. 85–155, title III, § 301(12), 71 Stat. 388; Nov. 8, 1967, Pub. L. 90–130, § 1(27)(C), 81 Stat. 382, provided for, in addition to method prescribed in [section 8300 of this title](./chapter-837-decorations-and-awards.md#section-8300), promotion to captain, major, or lieutenant colonel of officers with special qualifications, whenever there are vacancies on Air Force promotion list in regular grade of captain, major, or lieutenant colonel and Secretary of Air Force considers that there are or will be too few officers in any of those grades with special qualifications, prior to repeal by Pub. L. 96–513, title II, § 204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6251 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6251&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6251 of this title](./chapter-606-personnel-matters.md#section-6251) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -328,7 +328,7 @@ The words “further”, “from time to time any and all rules”, “orders wh
 A prior section 8302, act Aug. 10, 1956, ch. 1041, 70A Stat. 513, related to promotion to captain, major, or lieutenant colonel of commissioned medical, dental, or veterinary officers in Regular Air Force upon examination of professional fitness and effect upon failure of promotion, prior to repeal by Pub. L. 96–513, title II, § 204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981. See sections 631 and 632 of this title.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6252 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6252&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6252 of this title](./chapter-606-personnel-matters.md#section-6252) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -352,7 +352,7 @@ The words “Secretary of the Navy may replace” are substituted for the words 
 A prior section 8303, acts Aug. 10, 1956, ch. 1041, 70A Stat. 514; Aug. 21, 1957, Pub. L. 85–155, title III, § 301(13), 71 Stat. 388; July 12, 1960, Pub. L. 86–616, § 6(3), 74 Stat. 391; June 28, 1962, Pub. L. 87–509, § 4(a), 76 Stat. 121; Nov. 8, 1967, Pub. L. 90–130, § 1(27)(D), 81 Stat. 382, related to effect of failure of a promotion-list officer considered for promotion to grade of captain, major, or lieutenant colonel under [section 8299 of this title](./chapter-837-decorations-and-awards.md#section-8299) to be recommended for promotion, which officer was to be known as a “deferred officer”, prior to repeal by Pub. L. 96–513, title II, § 204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981. See sections 631 and 632 of this title.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6253 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6253&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6253 of this title](./chapter-606-personnel-matters.md#section-6253) as this section.
 
 2001—Pub. L. 107–107 substituted “stolen, lost, or destroyed” for “lost or destroyed”.
 
@@ -440,7 +440,7 @@ A prior section 8307, act Aug. 10, 1956, ch. 1041, 70A Stat. 517, related to pro
 
 Pub. L. 115–232, § 807(b)(13), renumbered [section 6257 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6257&num=0&edition=prelim) as this section.
 
-2006—Pub. L. 109–364 struck out “after October 23, 2002” after “[section 6241 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6241&num=0&edition=prelim)” and inserted at end “In the case of a posthumous presentation of the medal, the flag shall be presented to the person to whom the medal is presented.”
+2006—Pub. L. 109–364 struck out “after October 23, 2002” after “[section 6241 of this title](./chapter-606-personnel-matters.md#section-6241)” and inserted at end “In the case of a posthumous presentation of the medal, the flag shall be presented to the person to whom the medal is presented.”
 
 2002—Pub. L. 107–314 substituted “October 23, 2002” for “the date of the enactment of this section”.
 
@@ -471,7 +471,7 @@ Section 8308, act Aug. 10, 1956, ch. 1041, 70A Stat. 518, related to effect of r
 
 Section 8309, act Aug. 10, 1956, ch. 1041, 70A Stat. 518, provided that President prescribe a system of physical examination for all commissioned officers of Regular Air Force in grades below brigadier general to determine their fitness for promotion in Regular Air Force. See [section 624 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-624).
 
-A prior section 8310 was renumbered [section 9160 of this title](./chapter-915-appointments-in-the-regular-air-force-and-in-the-space-force.md#section-9160).
+A prior section 8310 was renumbered [section 9160 of this title](./chapter-915-appointments-in-the-regular-air-force-and-in-the-space-force.md#section-9160), prior to repeal by Pub. L. 118–159.
 
 Prior sections 8312 to 8314 were repealed by Pub. L. 96–513, title II, § 204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981.
 

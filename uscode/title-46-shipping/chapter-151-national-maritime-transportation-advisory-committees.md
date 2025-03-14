@@ -350,7 +350,7 @@ Subsec. (c)(3)(J). Pub. L. 116–283, § 8331(a)(8), substituted “entities eng
 
 (1) **In general.—** — Except as provided in paragraph (2), each committee established under this chapter or to which this chapter applies shall, at least once each year, meet at the call of the Secretary or a majority of the members of the committee.
 
-(2) **Minimum requirements.—** — The committee established under section 15102,11 So in original. The comma probably should not appear. shall—
+(2) **Minimum requirements.—** — The committee established under section 15102 shall—
 
   (A) meet in-person, not less frequently than twice each year, at the call of the Secretary of a majority of the members of the committee;
 
@@ -474,7 +474,7 @@ Subsec. (c)(3)(J). Pub. L. 116–283, § 8331(a)(8), substituted “entities eng
 
 **(k) Observers.—**
 
-(1) **In general.—** — Any Federal agency with matters under such agency’s administrative jurisdiction related to the function of a committee established under this chapter 22 So in original. Probably should be followed by “or to which this chapter applies”. may designate a representative to—
+(1) **In general.—** — Any Federal agency with matters under such agency’s administrative jurisdiction related to the function of a committee established under this chapter or to which this chapter applies may designate a representative to—
 
   (A) attend any meeting of such committee; and
 
@@ -495,6 +495,10 @@ Subsec. (c)(3)(J). Pub. L. 116–283, § 8331(a)(8), substituted “entities eng
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a)(2). Pub. L. 118–159, § 3535(e)(1), substituted “15102” for “15102,” in introductory provisions.
+
+Subsec. (k)(1). Pub. L. 118–159, § 3535(e)(2), inserted “or to which this chapter applies” after “under this chapter” in introductory provisions.
+
 2021—Pub. L. 116–283, § 8331(b), inserted “or to which this chapter applies” after “committee established under this chapter” wherever appearing. The phrase “committee established under this chapter” in subsec. (k) was added subsequent to this amendment, and therefore the inserted phrase does not appear there. See subsec. (k) Amendment note below.
 
 Subsec. (a). Pub. L. 116–283, § 8335(a)(2)(A), designated existing provisions as par. (1), inserted heading, substituted “Except as provided in paragraph (2), each” for “Each”, and added par. (2).

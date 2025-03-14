@@ -291,7 +291,7 @@ Pub. L. 109–241, title III, § 304(a), July 11, 2006, 120 Stat. 527, as amende
 
 <a id="section-1504"></a>
 ## § 1504. Procedure
-**(a) Regulations; issuance, amendment, or rescission; scope** The Secretary shall, as soon as practicable after January 3, 1975, and after consultation with other Federal agencies, issue regulations to carry out the purposes and provisions of this chapter in accordance with the provisions of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), without regard to subsection (a) thereof. Such regulations shall pertain to, but need not be limited to, application, issuance, transfer, renewal, suspension, and termination of licenses. Such regulations shall provide for full consultation and cooperation with all other interested Federal agencies and departments and with any potentially affected coastal State, and for consideration of the views of any interested members of the general public. The Secretary is further authorized, consistent with the purposes and provisions of this chapter, to amend or rescind any such regulation.
+**(a) Regulations; issuance, amendment, or rescission; scope** Notwithstanding [section 468(b) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section468/b&num=0&edition=prelim), the Secretary shall have the authority to issue regulations to carry out the purposes and provisions of this chapter, in accordance with the provisions of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), without regard to subsection (a) thereof. Such regulations shall pertain to, but need not be limited to, application, issuance, transfer, renewal, suspension, and termination of licenses. Such regulations shall provide for full consultation and cooperation with all other interested Federal agencies and departments and with any potentially affected coastal State, and for consideration of the views of any interested members of the general public. The Secretary is further authorized, consistent with the purposes and provisions of this chapter, to amend or rescind any such regulation.
 
 **(b) Additional regulations; criteria for site evaluation and preconstruction testing** The Secretary, in consultation with the Secretary of the Interior and the Administrator of the National Oceanic and Atmospheric Administration, shall, as soon as practicable after January 3, 1975, prescribe regulations relating to those activities involved in site evaluation and preconstruction testing at potential deepwater port locations that may (1) adversely affect the environment; (2) interfere with authorized uses of the Outer Continental Shelf; or (3) pose a threat to human health and welfare. Such activity may thenceforth not be undertaken except in accordance with regulations prescribed pursuant to this subsection. Such regulations shall be consistent with the purposes of this chapter.
 
@@ -367,7 +367,15 @@ Pub. L. 109–241, title III, § 304(a), July 11, 2006, 120 Stat. 527, as amende
 
 (2) An application filed with the Secretary shall constitute an application for all Federal authorizations required for ownership, construction, and operation of a deepwater port. At the time notice of any application is published pursuant to subsection (c) of this section, the Secretary shall forward a copy of such application to those Federal agencies and departments with jurisdiction over any aspect of such ownership, construction, or operation for comment, review, or recommendation as to conditions and for such other action as may be required by law. Each agency or department involved shall review the application and, based upon legal considerations within its area of responsibility, recommend to the Secretary, the approval or disapproval of the application not later than 45 days after the last public hearing on a proposed license for a designated application area. In any case in which the agency or department recommends disapproval, it shall set forth in detail the manner in which the application does not comply with any law or regulation within its area of responsibility and shall notify the Secretary how the application may be amended so as to bring it into compliance with the law or regulation involved.
 
-**(f) NEPA compliance** For all applications, the Secretary, in cooperation with other involved Federal agencies and departments, shall comply with the National Environmental Policy Act of 1969 ([42 U.S.C. 4332](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332&num=0&edition=prelim)) [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.]. Such compliance shall fulfill the requirement of all Federal agencies in carrying out their responsibilities under the National Environmental Policy Act of 1969 pursuant to this chapter.
+**(f) NEPA compliance**
+
+(1) **Definition of lead agency** — In this subsection, the term “lead agency” has the meaning given the term in section 111 of the National Environmental Policy Act of 1969 ([42 U.S.C. 4336e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4336e&num=0&edition=prelim)).
+
+(2) **Lead agency**
+
+  (A) *In general* — For all applications, the Maritime Administration shall be the Federal lead agency for purposes of the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).
+
+  (B) *Effect of compliance* — Compliance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) in accordance with subparagraph (A) shall fulfill the requirement of the Federal lead agency in carrying out the responsibilities under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) pursuant to this chapter.
 
 **(g) Public notice and hearings; evidentiary hearing in District of Columbia; decision of Secretary based on evidentiary record; consolidation of hearings** A license may be issued only after public notice and public hearings in accordance with this subsection. At least one such public hearing shall be held in each adjacent coastal State. Any interested person may present relevant material at any hearing. After hearings in each adjacent coastal State are concluded if the Secretary determines that there exists one or more specific and material factual issues which may be resolved by a formal evidentiary hearing, at least one adjudicatory hearing shall be held in accordance with the provisions of [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim) in the District of Columbia. The record developed in any such adjudicatory hearing shall be basis for the Secretary’s decision to approve or deny a license. Hearings held pursuant to this subsection shall be consolidated insofar as practicable with hearings held by other agencies. All public hearings on all applications for any designated application area shall be consolidated and shall be concluded not later than 240 days after notice of the initial application has been published pursuant to subsection (c).
 
@@ -420,6 +428,28 @@ Pub. L. 109–241, title III, § 304(a), July 11, 2006, 120 Stat. 527, as amende
   (A) *Deadline for determination.—* — The Secretary shall approve or deny any application for a deepwater port for natural gas submitted pursuant to this chapter not later than 90 days after the last public hearing on a proposed license.
 
   (B) *Effect of failure to determine.—* — If the Secretary fails to approve or deny an application for a deepwater port for natural gas by the applicable deadline under subparagraph (A), the reporting requirements under paragraphs (1), (2), and (3) shall not apply to the application.
+
+(5) **Decision on amended license applications.—**
+
+  (A) *Definition of amended license application.—* — In this paragraph, the term “amended license application” means a license application for a deepwater port for natural gas—
+
+    (i) that was originally submitted to the Secretary prior to the issuance of the proclamation issued by the President on March 13, 2020, with respect to the Coronavirus Disease 2019 (COVID–19) pandemic; and
+
+    (ii) with respect to which the applicant, based on guidance offered by the Secretary, has made subsequent revisions since the submission of the initial license application and submitted such revised application.
+
+  (B) *Expedited review and approval.—* — The Secretary shall expedite the review and subsequent approval or denial of amended license applications submitted pursuant to this section that meet the eligibility criteria described in subparagraph (C).
+
+  (C) *Eligibility criteria.—* — To be eligible for review under this paragraph, an amended license application shall meet the following criteria:
+
+    (i) The amended license application is for a natural gas deepwater port facility.
+
+    (ii) The Secretary had determined that the project as specified in the initial license application was not likely to have any significant adverse environmental impact on species and habitat, consistent with law including National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).
+
+    (iii) The Secretary has determined that the results of the environmental review conducted for the initial license application is still applicable to the amended license application and an additional environmental review is not required.
+
+    (iv) The Secretary had published an affirmative Record of Decision for the initial license application.
+
+  (D) *Deadline for decision.—* — The Secretary shall approve or deny an amended license application submitted pursuant to this paragraph by no later than 270 consecutive days after the date on which the Secretary determines that the amended license application is complete and meets the requirements under this section.
 
 **(j) LNG tankers**
 
@@ -474,9 +504,17 @@ Pub. L. 109–241, title III, § 304(a), July 11, 2006, 120 Stat. 527, as amende
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (f)(2) and (i)(5)(C)(ii), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+The proclamation issued by the President on March 13, 2020, with respect to the Coronavirus Disease 2019, referred to in subsec. (i)(5)(A)(i), means Proc. No. 9994, Mar. 13, 2020, 85 F.R. 15337, which is set out as a note under [section 1621 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1621&num=0&edition=prelim), War and National Defense.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 7342(a), substituted “Notwithstanding [section 468(b) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section468/b&num=0&edition=prelim), the Secretary shall have the authority to issue regulations to carry out the purposes and provisions of this chapter, in accordance with the provisions of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), without regard to subsection (a) thereof.” for “The Secretary shall, as soon as practicable after January 3, 1975, and after consultation with other Federal agencies, issue regulations to carry out the purposes and provisions of this chapter in accordance with the provisions of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), without regard to subsection (a) thereof.”
+
+Subsec. (f). Pub. L. 119–60, § 7342(b), added subsec. (f) and struck out former subsec. (f). Text read as follows: “For all applications, the Secretary, in cooperation with other involved Federal agencies and departments, shall comply with the National Environmental Policy Act of 1969 ([42 U.S.C. 4332](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332&num=0&edition=prelim)) [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.]. Such compliance shall fulfill the requirement of all Federal agencies in carrying out their responsibilities under the National Environmental Policy Act of 1969 pursuant to this chapter.”
+
+2024—Subsec. (i)(5). Pub. L. 118–159 added par. (5).
+
 2023—Subsec. (c). Pub. L. 118–31, § 3514(k)(4)(A)(i), inserted heading.
 
 Subsec. (c)(1). Pub. L. 118–31, § 3514(k)(4)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any person making an application under this chapter shall submit detailed plans to the Secretary. Within 21 days after the receipt of an application, the Secretary shall determine whether the application appears to contain all of the information required by paragraph (2) hereof. If the Secretary determines that such information appears to be contained in the application, the Secretary shall, no later than 5 days after making such a determination, publish notice of the application and a summary of the plans in the Federal Register. If the Secretary determines that all of the required information does not appear to be contained in the application, the Secretary shall notify the applicant and take no further action with respect to the application until such deficiencies have been remedied.”
@@ -531,8 +569,16 @@ Subsec. (i)(4). Pub. L. 107–295, § 106(c)(2), added par. (4).
 
 1984—Subsec. (g). Pub. L. 98–419 substituted “issued” for “issued, transferred, or renewed”.
 
+#### Effective Date of 2025 Amendment
+Pub. L. 119–60, div. G, title LXXIII, § 7342(e), Dec. 18, 2025, 139 Stat. 1778, provided that: “Nothing in this section [amending this section and enacting provisions set out as notes under this section], or the amendments made by this section, shall apply to any application submitted before the date of enactment of this Act [Dec. 18, 2025].”
+
 #### Regulations
+Pub. L. 119–60, div. G, title LXXIII, § 7342(c), Dec. 18, 2025, 139 Stat. 1777, provided that: “(1) In general.—Not later than 18 months after the date of enactment of this Act [Dec. 18, 2025], the Commandant shall transfer the authorities provided to the Coast Guard in part 148 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this Act [Dec. 18, 2025]), except as provided in paragraph (2), to the Secretary of Transportation. “(2) Retention of authority.—The Commandant shall retain responsibility for authorities pertaining to design, construction, equipment, and operation of deepwater ports and navigational safety. “(3) Updates to authority.—As soon as practicable after the date of enactment of this Act, the Secretary of Transportation shall issue such regulations as are necessary to reflect the updates to authorities prescribed by this subsection.”
+
 Pub. L. 107–295, title I, § 106(e), Nov. 25, 2002, 116 Stat. 2087, provided that: “(1) Agency and department expertise and responsibilities.—Not later than 30 days after the date of the enactment of this Act [Nov. 25, 2002], the heads of Federal departments or agencies having expertise concerning, or jurisdiction over, any aspect of the construction or operation of deepwater ports for natural gas shall transmit to the Secretary of Transportation written comments as to such expertise or statutory responsibilities pursuant to the Deepwater Port Act of 1974 ([33 U.S.C. 1501](./chapter-029-deepwater-ports.md#section-1501) et seq.) or any other Federal law. “(2) Interim final rule.—The Secretary may issue an interim final rule as a temporary regulation implementing this section [amending this section and sections 1501 to 1503, 1507, and 1520 of this title] (including the amendments made by this section) as soon as practicable after the date of enactment of this section, without regard to the provisions of chapter 5 of title 5, United States Code. “(3) Final rules.—As soon as practicable after the date of the enactment of this Act, the Secretary of Transportation shall issue additional final rules that, in the discretion of the Secretary, are determined to be necessary under the Deepwater Port Act of 1974 ([33 U.S.C. 1501](./chapter-029-deepwater-ports.md#section-1501) et seq.) for the application and issuance of licenses for a deepwater port for natural gas.”
+
+#### Rule of Construction
+Pub. L. 119–60, div. G, title LXXIII, § 7342(d), Dec. 18, 2025, 139 Stat. 1778, provided that: “Nothing in this section [amending this section and enacting provisions set out as notes under this section], or the amendments made by this section, may be construed to limit the authorities of other governmental agencies previously delegated authorities of the Deepwater Port Act of 1974 ([33 U.S.C. 1501](./chapter-029-deepwater-ports.md#section-1501) et seq.) or any other law.”
 
 #### Information To Be Provided
 Pub. L. 109–241, title III, § 304(c)(2), July 11, 2006, 120 Stat. 527, which required the Coast Guard, when operating as a contributing agency in the Federal Energy Regulatory Commission’s shoreside licensing process for certain liquefied natural gas or liquefied petroleum gas terminals, to provide the information described in subsec. (c)(2)(K) of this section, was repealed by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8502(b)(1), Jan. 1, 2021, 134 Stat. 4747. See subsec. (j)(2) of this section.
@@ -950,11 +996,8 @@ The Secretary or his delegate shall have the authority to issue and enforce orde
 
 
 <a id="section-1524"></a>
-## § 1524. Authorization of appropriations
-
-There is authorized to be appropriated for administration of this chapter, not to exceed $2,500,000 per fiscal year for the fiscal years ending June 30, 1975, June 30, 1976, September 30, 1977, September 30, 1978, September 30, 1979, and September 30, 1980.
+## § 1524. Repealed. Pub. L. 118–159, div. C, title XXXV, § 3535(k), Dec. 23, 2024, 138 Stat. 2315
 
 ### Statutory Notes
 
-#### Amendments
-1977—Pub. L. 95–36 authorized appropriations of not to exceed $2,500,000 per fiscal year for fiscal years ending Sept. 30, 1977, Sept. 30, 1978, Sept. 30, 1979, and Sept. 30, 1980.
+Section, Pub. L. 93–627, § 25, Jan. 3, 1975, 88 Stat. 2147; Pub. L. 95–36, June 1, 1977, 91 Stat. 177, authorized appropriations for fiscal years ending June 30, 1975, June 30, 1976, Sept. 30, 1977, Sept. 30, 1978, Sept. 30, 1979, and Sept. 30, 1980.

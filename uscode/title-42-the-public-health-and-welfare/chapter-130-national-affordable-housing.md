@@ -613,7 +613,7 @@ The Secretary shall, by regulation or otherwise, as deemed by the Secretary to b
 ### Statutory Notes
 
 #### References in Text
-The Housing and Community Development Act of 1974, referred to in text, is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-069-community-development.md#section-5301) and Tables.
+The Housing and Community Development Act of 1974, referred to in text, is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-069-community-development.md#section-5301) and Tables.
 
 The McKinney-Vento Homeless Assistance Act, referred to in text, is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, which is classified principally to chapter 119 (§ 11301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of this title](./chapter-119-homeless-assistance.md#section-11301) and Tables.
 
@@ -3329,11 +3329,11 @@ The Age Discrimination Act of 1975, referred to in subsec. (c)(2)(E), is title I
 ### Statutory Notes
 
 #### References in Text
-The Fair Housing Act, referred to in subsec. (d)(2)(K), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of this title](./chapter-045-fair-housing.md#section-3601) and Tables.
+The Fair Housing Act, referred to in subsec. (d)(2)(K), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of this title](./chapter-045-fair-housing.md#section-3601) and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (d)(2)(K), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d)(2)(K), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
-The Age Discrimination Act of 1975, referred to in subsec. (d)(2)(K), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (d)(2)(K), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) and Tables.
 
 #### Amendments
 1994—Subsec. (c)(1). Pub. L. 103–233 substituted “25 percent” for “33 percent”.
@@ -3463,7 +3463,7 @@ For purposes of this part:
 ### Statutory Notes
 
 #### References in Text
-The United States Housing Act of 1937, referred to in par. (4), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
+The United States Housing Act of 1937, referred to in par. (4), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
 
 Section 3(b)(11) of the United States Housing Act of 1937, referred to in par. (7), was classified to [section 1437a(b)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437a/b/11&num=0&edition=prelim) prior to repeal by Pub. L. 104–330, title V, § 501(b)(1)(D), Oct. 26, 1996, 110 Stat. 4041, and a new section 1437a(b)(11), defining “public housing agency plan”, was enacted by Pub. L. 105–276, title V, § 506(4), Oct. 21, 1998, 112 Stat. 2524.
 

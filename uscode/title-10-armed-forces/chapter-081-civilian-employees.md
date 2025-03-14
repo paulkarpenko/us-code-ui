@@ -854,11 +854,11 @@ Section applicable with respect to pay and allowances deposited (or scheduled to
 
 <a id="section-1595"></a>
 ## § 1595. Civilian faculty members at certain Department of Defense schools: employment and compensation
-**(a) Authority of Secretary.—** The Secretary of Defense may employ as many civilians as professors, instructors, and lecturers at the institutions specified in subsection (c) as the Secretary considers necessary.
+**(a) Authority of Secretary.—** The Secretary of Defense may employ as many civilians as professors, instructors, and lecturers at the organizations specified in subsection (c) as the Secretary considers necessary.
 
 **(b) Compensation of Faculty Members.—** The compensation of persons employed under this section shall be as prescribed by the Secretary.
 
-**(c) Covered Institutions.—** This section applies with respect to the following institutions of the Department of Defense:
+**(c) Covered Organizations.—** This section applies with respect to the following organizations of the Department of Defense:
 
 (1) The National Defense University.
 
@@ -876,11 +876,19 @@ Section applicable with respect to pay and allowances deposited (or scheduled to
 
 (8) The Defense Institute of International Legal Studies.
 
+(9) The United States Element of the Inter-American Defense College.
+
 **(d) Application to Faculty Members at NDU.—** In the case of the National Defense University, this section applies with respect to persons selected by the Secretary for employment as professors, instructors, and lecturers at the National Defense University after February 27, 1990.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159, § 1107(b)(1), substituted “organizations” for “institutions”.
+
+Subsec. (c). Pub. L. 118–159, § 1107(b)(2), substituted “Organizations” for “Institutions” in heading and “organizations” for “institutions” in introductory provisions.
+
+Subsec. (c)(9). Pub. L. 118–159, § 1107(a), added par. (9).
+
 2021—Subsec. (c)(6), (7). Pub. L. 116–283 added pars. (6) and (7).
 
 Subsec. (c)(8). Pub. L. 117–81 added par. (8).
@@ -1054,13 +1062,15 @@ Pub. L. 108–375, div. A, title XI, § 1102(b), Oct. 28, 2004, 118 Stat. 2072, 
 
 **(c) Exceptions.—** The Secretary of Defense may permit a variation from the guidelines established under subsection (b) if the Secretary determines that such variation is critical to the national security. The Secretary shall immediately notify the Congress of any such variation and the reasons for such variation.
 
-**(d) Involuntary Reductions of Civilian Positions.—** The Secretary of Defense may not implement any involuntary reduction or furlough of civilian positions in a military department, Defense Agency, or other component of the Department of Defense until the expiration of the 45-day period beginning on the date on which the Secretary submits to Congress a report setting forth the reasons why such reductions or furloughs are required and a description of any change in workload or positions requirements that will result from such reductions or furloughs.
+**(d) Involuntary or Significant Reductions of Civilian Positions.—** The Secretary of Defense may not implement any involuntary reduction 11 So in original. Probably should be followed by a comma. furlough, or significant reduction of over 50 civilian positions in a military department, Defense Agency, or other component of the Department of Defense until the expiration of the 45-day period beginning on the date on which the Secretary submits to Congress a report setting forth the reasons why such reductions or furloughs are required and a description of any change in workload or positions requirements that will result from such reductions or furloughs. The Secretary shall notify the congressional defense committees and each Member of Congress representing the area in which reductions are ordered. Such notification shall include billet, activity name, number of employees at the location, number of employees involuntarily separated by billet, reason for the personnel action, actions to mitigate reductions, and savings and costs.
 
 **(e) Consideration of Employee Performance in Reductions.—** The Secretary of Defense shall establish procedures to provide that, in implementing any reduction in force for civilian positions in the Department of Defense in the competitive service or the excepted service, the determination of which employees shall be separated from employment in the Department shall, among other factors as determined by the Secretary, account for employee performance, as determined under any applicable performance management system.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (d). Pub. L. 119–60 inserted “or Significant” after “Involuntary” in heading, substituted “furlough, or significant reduction of over 50” for “or furlough of”, and inserted at end “The Secretary shall notify the congressional defense committees and each Member of Congress representing the area in which reductions are ordered. Such notification shall include billet, activity name, number of employees at the location, number of employees involuntarily separated by billet, reason for the personnel action, actions to mitigate reductions, and savings and costs.”
+
 2021—Subsec. (e). Pub. L. 117–81 substituted “Consideration of Employee Performance in Reductions” for “Reductions Based Primarily on Performance” in heading and “, among other factors as determined by the Secretary, account for employee” for “be made primarily on the basis of” in text.
 
 2017—Subsec. (c). Pub. L. 115–91, § 1051(a)(6)(A)(iii), struck out “or a master plan prepared under subsection (c)” after “established under subsection (b)”.
@@ -1166,7 +1176,7 @@ Pub. L. 101–510, div. A, title III, § 322(b), Nov. 5, 1990, 104 Stat. 1529, p
 
   (A) $5,000; or
 
-  (B) the total costs of the type described in paragraphs (1), (2), (3), (8), and (9) of section 472 of the Higher Education Act of 1965 ([20 U.S.C. 1087](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087&num=0&edition=prelim)ll) incurred by the participant while obtaining teacher certification or licensure or the necessary credentials to serve as a teacher’s aide and employment as an elementary or secondary school teacher or teacher aide.
+  (B) the total costs of the type described in paragraphs (1), (2), (3), (8), and (9) 1 of section 472 of the Higher Education Act of 1965 ([20 U.S.C. 1087](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087&num=0&edition=prelim)ll) incurred by the participant while obtaining teacher certification or licensure or the necessary credentials to serve as a teacher’s aide and employment as an elementary or secondary school teacher or teacher aide.
 
 (2) A civilian employee selected to participate in the placement program who receives separation pay under [section 5597 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5597&num=0&edition=prelim) shall not be paid a stipend under paragraph (1).
 
@@ -1180,6 +1190,8 @@ Pub. L. 101–510, div. A, title III, § 322(b), Nov. 5, 1990, 104 Stat. 1529, p
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
 [Section 1151 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1151), referred to in subsecs. (d)(2)(A), (B) and (f), was repealed by Pub. L. 106–65, div. A, title XVII, § 1707(a)(1), Oct. 5, 1999, 113 Stat. 823, and a new [section 1151 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1151) was subsequently added by Pub. L. 109–364, § 561(a).
+
+Section 472 of the Higher Education Act of 1965, referred to in subsec. (e)(1)(B), which is classified to section 1087ll of Title 20, Education, was generally amended by Pub. L. 116–260, div. FF, title VII, § 702(b), Dec. 27, 2020, 134 Stat. 3138. For provisions similar to former pars. (1), (2), (3), (8), and (9), see subsec. (a)(1), (2), (5), (9), and (10), respectively, of section 1087ll of Title 20.
 
 The Higher Education Act of 1965, referred to in subsec. (e)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
@@ -1260,9 +1272,9 @@ Pub. L. 104–201, div. A, title V, § 576(d), Sept. 23, 1996, 110 Stat. 2535, p
 
 **(b) Termination of Authority.—**
 
-(1) The authority of the Secretary of Defense under subsection (a)(1) to exercise authorities available under chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense expires December 31, 2025.
+(1) The authority of the Secretary of Defense under subsection (a)(1) to exercise authorities available under chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense expires December 31, 2030.
 
-(2) The Secretary may not appoint a person to a position of employment under subsection (a)(2) after December 31, 2025.
+(2) The Secretary may not appoint a person to a position of employment under subsection (a)(2) after December 31, 2030.
 
 ### Statutory Notes
 
@@ -1270,6 +1282,8 @@ Pub. L. 104–201, div. A, title V, § 576(d), Sept. 23, 1996, 110 Stat. 2535, p
 A prior section 1599c, added Pub. L. 104–201, div. A, title XVI, § 1615(a)(1), Sept. 23, 1996, 110 Stat. 2740; amended Pub. L. 105–85, div. A, title X, § 1073(a)(31), Nov. 18, 1997, 111 Stat. 1902, related to treatment of a Department of Defense violation of veterans’ preference requirements as a prohibited personnel practice, prior to repeal by Pub. L. 105–339, § 6(c)(1)(A), Oct. 31, 1998, 112 Stat. 3188.
 
 #### Amendments
+2024—Subsec. (b). Pub. L. 118–159 substituted “December 31, 2030” for “December 31, 2025” in pars. (1) and (2).
+
 2021—Subsec. (b). Pub. L. 116–283 substituted “December 31, 2025” for “December 31, 2020” in pars. (1) and (2).
 
 2013—Subsec. (a)(2)(A). Pub. L. 113–66, § 1109(c)(1), substituted “[section 3304 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304&num=0&edition=prelim)” for “sections 3304, 5333, and 5753 of title 5” in introductory provisions.
@@ -1338,17 +1352,20 @@ Pub. L. 107–314, div. A, title XI, § 1104(b), Dec. 2, 2002, 116 Stat. 2661, p
 
 
 <a id="section-1599e"></a>
-## § 1599e. Repealed. Pub. L. 117–81, div. A, title XI, § 1106(a)(1), Dec. 27, 2021, 135 Stat. 1950]
+## § 1599e. Payment of retention bonuses to DOD civilian employees in Guam.
+
+Notwithstanding subsection (f) of [section 5754 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5754&num=0&edition=prelim), the Secretary of Defense or Secretary of a military department may waive the limit established under subsection (e)(1) of such section and pay an otherwise eligible employee or category of employees in the territory of Guam retention bonuses of up to 50 percent of basic pay, based on a critical agency need.
 
 ### Statutory Notes
 
-Section, added Pub. L. 114–92, div. A, title XI, § 1105(a)(1), Nov. 25, 2015, 129 Stat. 1023, related to probationary period for employees.
+#### Prior Provisions
+A prior section 1599e, Pub. L. 114–92, div. A, title XI, § 1105(a)(1), Nov. 25, 2015, 129 Stat. 1023, related to probationary period for employees, prior to repeal by Pub. L. 117–81, div. A, title XI, § 1106(a)(1), Dec. 27, 2021, 135 Stat. 1950, effective Dec. 31, 2022.
 
 #### Effective Date of Repeal
-Pub. L. 117–81, div. A, title XI, § 1106(a)(1), Dec. 27, 2021, 135 Stat. 1950, provided that the repeal of this section is effective Dec. 31, 2022. Conforming amendments by section 1106 of Pub. L. 117–81 (amending sections 3321, 3393, 7501, 7511, and 7541 of Title 5, Government Organization and Employees) were executed as if effective at the same time as the repeal, to reflect the probable intent of Congress.
+Pub. L. 117–81, div. A, title XI, § 1106(a)(1), Dec. 27, 2021, 135 Stat. 1950, provided that the repeal of former [section 1599e of this title](./chapter-081-civilian-employees.md#section-1599e) was effective Dec. 31, 2022. Conforming amendments by section 1106 of Pub. L. 117–81 (amending sections 3321, 3393, 7501, 7511, and 7541 of Title 5, Government Organization and Employees) were executed as if effective at the same time as the repeal, to reflect the probable intent of Congress.
 
 #### Application
-Pub. L. 117–81, div. A, title XI, § 1106(a)(2), Dec. 27, 2021, 135 Stat. 1950, provided that: “The modification of probationary periods for covered employees (as that term is defined in such section 1599e [meaning [10 U.S.C. 1599e](./chapter-081-civilian-employees.md#section-1599e)] as in effect on the date immediately preceding the date of enactment of this Act [Dec. 27, 2021]) by operation of the amendment made by paragraph (1) [repealing this section] shall only apply to an individual appointed as such an employee on or after the effective date specified in paragraph (1) [see Effective Date of Repeal note above].”
+Pub. L. 117–81, div. A, title XI, § 1106(a)(2), Dec. 27, 2021, 135 Stat. 1950, provided that: “The modification of probationary periods for covered employees (as that term is defined in such [former] section 1599e [meaning former [10 U.S.C. 1599e](./chapter-081-civilian-employees.md#section-1599e)] as in effect on the date immediately preceding the date of enactment of this Act [Dec. 27, 2021]) by operation of the amendment made by paragraph (1) [repealing former [section 1599e of this title](./chapter-081-civilian-employees.md#section-1599e)] shall only apply to an individual appointed as such an employee on or after the effective date specified in paragraph (1) [see Effective Date of Repeal note above].”
 
 
 <a id="section-1599f"></a>
@@ -1361,9 +1378,13 @@ Pub. L. 117–81, div. A, title XI, § 1106(a)(2), Dec. 27, 2021, 135 Stat. 1950
 
     (i) positions held by staff of the headquarters of the United States Cyber Command;
 
-    (ii) positions held by elements of the United States Cyber Command enterprise relating to cyberspace operations, including elements assigned to the Joint Task Force-Department of Defense Information Networks; and
+    (ii) positions held by elements of the United States Cyber Command enterprise relating to cyberspace operations, including elements assigned to the Joint Task Force-Department of Defense Information Networks;
 
     (iii) positions held by elements of the military departments supporting the United States Cyber Command;
+
+    (iv) positions held in combatant commands, defense agencies, and field activities supporting the United States Cyber Command; and
+
+    (v) up to 500 positions not otherwise described in clauses (i) through (iv) that the Secretary determines are hard-to-fill, highly skilled positions critical to cyberspace planning and operations in defense of, and which advance, U.S. national interests in collaboration with domestic and international partners.
 
   (B) appoint an individual to a qualified position (after taking into consideration the availability of preference eligibles for appointment to the position); and
 
@@ -1371,19 +1392,15 @@ Pub. L. 117–81, div. A, title XI, § 1106(a)(2), Dec. 27, 2021, 135 Stat. 1950
 
 (2) The authority of the Secretary under this subsection applies without regard to the provisions of any other law relating to the appointment, number, classification, or compensation of employees.
 
-**(b) Basic Pay.—**
+**(b) Rates of Pay.—** The Secretary—
 
-(1) In accordance with this section, the Secretary shall fix the rates of basic pay for any qualified position established under subsection (a)—
+(1) consistent with paragraph (2), shall fix the rates of basic pay for employees appointed under subsection (a)(1)(B)—
 
-  (A) in relation to the rates of pay provided for employees in comparable positions in the Department, in which the employee occupying the comparable position performs, manages, or supervises functions that execute the cyber mission of the Department; and
+  (A) with a rate of pay provided for employees in comparable positions in the Federal Government; and
 
-  (B) subject to the same limitations on maximum rates of pay established for such employees by law or regulation.
+  (B) subject to the same limitations on maximum rates of pay established for such employees by statute or regulation; and
 
-(2) The Secretary may—
-
-  (A) consistent with [section 5341 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5341&num=0&edition=prelim), adopt such provisions of that title to provide for prevailing rate systems of basic pay; and
-
-  (B) apply those provisions to qualified positions for employees in or under which the Department may employ individuals described by section 5342(a)(2)(A) of such title.
+(2) may prescribe a rate of basic pay for such an employee so appointed at a rate not to exceed a rate equal to 150 percent of the maximum rate of basic pay authorized for positions at level I of the Executive Schedule under [section 5312 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5312&num=0&edition=prelim).
 
 **(c) Additional Compensation, Incentives, and Allowances.—**
 
@@ -1421,7 +1438,7 @@ Pub. L. 117–81, div. A, title XI, § 1106(a)(2), Dec. 27, 2021, 135 Stat. 1950
 
 **(h) Annual Report.—**
 
-(1) Not later than one year after the date of the enactment of this section and not less frequently than once each year thereafter until the date that is five years after the date of the enactment of this section, the Director of the Office of Personnel Management, in coordination with the Secretary, shall submit to the appropriate committees of Congress a detailed report on the administration of this section during the most recent one-year period.
+(1) Not later than one year after the date of the enactment of this section and not less frequently than once each year thereafter until the date that is three years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2026, the Director of the Office of Personnel Management, in coordination with the Secretary, shall submit to the appropriate committees of Congress a detailed report on the administration of this section during the most recent one-year period.
 
 (2) Each report submitted under paragraph (1) shall include, for the period covered by the report, the following:
 
@@ -1451,6 +1468,14 @@ Pub. L. 117–81, div. A, title XI, § 1106(a)(2), Dec. 27, 2021, 135 Stat. 1950
 
     (vi) The number and amounts of recruitment, relocation, and retention incentives paid to employees in qualified positions, disaggregated by occupation, grade, and level or pay band.
 
+    (vii) The total number of positions, the title, duties, and responsibilities of each position, and the location of each position, including the assigned department, agency, command, and cost of establishing, appointing, and paying the salary of such positions.
+
+    (viii) A description of—
+
+      (I) how the Department has used the pay authorities in subsection (b); and
+
+      (II) the effect of such authorities on recruitment and retention in the Cyber Excepted Service.
+
   (E) A description of the training provided to employees described in subsection (f)(2) on the use of authorities under this section.
 
 **(i) Three-year Probationary Period.—** The probationary period for all employees hired under the authority established in this section shall be three years.
@@ -1461,7 +1486,13 @@ Pub. L. 117–81, div. A, title XI, § 1106(a)(2), Dec. 27, 2021, 135 Stat. 1950
 
 (2) After the date on which an individual who refuses a conversion under paragraph (1) stops serving in the position selected to be converted, the position may be converted to a position in the excepted service.
 
-**(k) Definitions.—** In this section:
+**(k) Federal Wage System Positions.—** The Secretary may—
+
+(1) consistent with [section 5341 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5341&num=0&edition=prelim), adopt such provisions of that title to provide for prevailing rate systems of basic pay; and
+
+(2) apply those provisions to qualified positions for employees in or under which the Department may employ individuals described by section 5342(a)(2)(A) of such title.
+
+**(l) Definitions.—** In this section:
 
 (1) The term “appropriate committees of Congress” means—
 
@@ -1482,9 +1513,21 @@ Pub. L. 117–81, div. A, title XI, § 1106(a)(2), Dec. 27, 2021, 135 Stat. 1950
 ### Statutory Notes
 
 #### References in Text
-The date of the enactment of this section, referred to in subsecs. (h)(1) and (j)(1), is the date of enactment of Pub. L. 114–92, which was approved Nov. 25, 2015.
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2026, referred to in subsec. (h)(1), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
+
+The date of the enactment of this section, referred to in subsec. (j)(1), is the date of enactment of Pub. L. 114–92, which was approved Nov. 25, 2015.
 
 #### Amendments
+2025—Subsec. (a)(1)(A)(iv), (v). Pub. L. 119–60, § 1113(1), added cls. (iv) and (v).
+
+Subsec. (b). Pub. L. 119–60, § 1113(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to basic pay.
+
+Subsec. (h)(1). Pub. L. 119–60, § 1113(3)(A), substituted “three years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2026” for “five years after the date of the enactment of this section”.
+
+Subsec. (h)(2)(D)(vii), (viii). Pub. L. 119–60, § 1113(3)(B), added cls. (vii) and (viii).
+
+Subsecs. (k), (l). Pub. L. 119–60, § 1113(4), (5), added subsec. (k) and redesignated former subsec. (k) as (l).
+
 2016—Subsecs. (f), (g). Pub. L. 114–328, § 1103(a), added subsec. (f) and redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
 Subsec. (h). Pub. L. 114–328, § 1103(a)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
@@ -1554,7 +1597,7 @@ Pub. L. 114–328, div. A, title XVI, § 1643(a), Dec. 23, 2016, 130 Stat. 2602,
 
   (A) chapters 73 and 81 of title 5;
 
-  (B) sections 201, 203, 205, 207, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18;
+  (B) sections 201, 203, 205, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18;
 
   (C) sections 1343, 1344, and 1349(b) of title 31;
 
@@ -1600,6 +1643,8 @@ The Federal Tort Claims Act, referred to in subsec. (f)(2)(D), is title IV of ac
 The Ethics in Government Act of 1978, referred to in subsec. (f)(2)(E), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Titles I, IV, and V of the Act were classified principally to the Appendix to Title 5, Government Organization and Employees, and were substantially repealed and restated in chapter 131 (§ 13101 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(c), 7, Dec. 27, 2022, 136 Stat. 4266, 4361. For complete classification of this Act to the Code, see Tables. For disposition of sections of the Act into chapter 131 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 #### Amendments
+2025—Subsec. (f)(2)(B). Pub. L. 119–60 struck out “207,” after “205,”.
+
 2022—Subsec. (k). Pub. L. 117–263 added subsec. (k).
 
 2021—Subsec. (b)(1)(C). Pub. L. 116–283, § 1102(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “shall contain language ensuring that such employee of the Department does not improperly use pre-decisional or draft deliberative information that such employee may be privy to or aware of related to Department programing, budgeting, resourcing, acquisition, or procurement for the benefit or advantage of the private-sector organization.”

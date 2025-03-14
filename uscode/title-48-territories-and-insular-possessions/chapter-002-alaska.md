@@ -1409,7 +1409,7 @@ Section 421, acts May 14, 1898, ch. 299, § 11, 30 Stat. 414; Oct. 28, 1921, ch.
 
 Section 422, acts Feb. 1, 1905, ch. 288, § 2, 33 Stat. 628; June 5, 1920, ch. 235, § 1, 41 Stat. 917, which permitted export of timber pulpwood and wood pulp, was transferred to [section 615b of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section615b&num=0&edition=prelim).
 
-Section 423, acts May 14, 1898, ch. 299, § 11, 30 Stat. 414; June 15, 1938, ch. 427, 52 Stat. 699, which authorized the Secretary to permit cutting and use of timber by settlers, residents, miners, etc., was transferred to [section 607a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section607a&num=0&edition=prelim).
+Section 423, acts May 14, 1898, ch. 299, § 11, 30 Stat. 414; June 15, 1938, ch. 437, 52 Stat. 699, which authorized the Secretary to permit cutting and use of timber by settlers, residents, miners, etc., was transferred to [section 607a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section607a&num=0&edition=prelim).
 
 
 <a id="section-431"></a>

@@ -285,17 +285,11 @@ Barack Obama.
 
 (1) **In general.—** — Educational assistance payable by reason of paragraphs (8), (9), and (10) of subsection (b) shall be known as the “Marine Gunnery Sergeant John David Fry scholarship”.
 
-(2) **Limitation.—** — The entitlement of an individual to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b) because the individual was a spouse of a person described in such paragraph shall expire on the earlier of—
+(2) **Election on receipt of certain benefits.—** — Except as provided in paragraph (3), a surviving spouse entitled to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
 
-  (A) the date that is 15 years after the date on which the person died; or
+(3) **Exception for certain elections.—**
 
-  (B) the date on which the individual remarries.
-
-(3) **Election on receipt of certain benefits.—** — Except as provided in paragraph (4), a surviving spouse entitled to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
-
-(4) **Exception for certain elections.—**
-
-  (A) *In general.—* — An election made under paragraph (3) by a spouse described in subparagraph (B) may not be treated as irrevocable if such election occurred before the date of the enactment of this paragraph.
+  (A) *In general.—* — An election made under paragraph (2) by a spouse described in subparagraph (B) may not be treated as irrevocable if such election occurred before the date of the enactment of this paragraph.
 
   (B) *Eligible surviving spouse.—* — A spouse described in this subparagraph is an individual—
 
@@ -303,23 +297,31 @@ Barack Obama.
 
     (ii) who was the spouse of a member of the Armed Forces who died during the period beginning on September 11, 2001, and ending on December 31, 2005.
 
-(5) **Definition of child.—** — For purposes of paragraphs (8), (9), and (10) of subsection (b), the term “child” includes a married individual or an individual who is above the age of twenty-three years.
+(4) **Definition of child.—** — For purposes of paragraphs (8), (9), and (10) of subsection (b), the term “child” includes a married individual or an individual who is above the age of twenty-three years.
 
 ### Statutory Notes
 
 #### References in Text
 [Section 182 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section182&num=0&edition=prelim), referred to in subsec. (d)(2), was repealed by Pub. L. 115–282, title I, § 110(c)(2), Dec. 4, 2018, 132 Stat. 4215.
 
-The date of the enactment of this paragraph, referred to in subsec. (f)(4)(A), is the date of enactment of Pub. L. 114–315, which was approved Dec. 16, 2016.
+The date of the enactment of this paragraph, referred to in subsec. (f)(3)(A), is the date of enactment of Pub. L. 114–315, which was approved Dec. 16, 2016.
 
 #### Amendments
-2023—Subsec. (c)(3). Pub. L. 118–31, which directed insertion of “, or for further service in the Space Force in a space force active status not on sustained duty under [section 20105 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105&num=0&edition=prelim),” after “of the Armed Forces” second time appearing, was executed by making the insertion after “of the Armed Forces” the only time the phrase appeared to reflect the probable intent of Congress.
+2025—Subsec. (f)(2). Pub. L. 118–210, § 202(1)–(3), redesignated par. (3) as (2), substituted “in paragraph (3)” for “in paragraph (4)”, and struck out former par. (2) which related to limitations on entitlement to educational assistance.
+
+Subsec. (f)(3). Pub. L. 118–210, § 202(2), redesignated par. (4) as (3). Former par. (3) redesignated (2).
+
+Subsec. (f)(3)(A). Pub. L. 118–210, § 202(4), substituted “under paragraph (2)” for “under paragraph (3)”.
+
+Subsec. (f)(4), (5). Pub. L. 118–210, § 202(2), redesignated par. (5) as (4). Former par. (4) redesignated (3).
 
 2023—Subsec. (b)(2). Pub. L. 117–333, 10(b)(1)–(3), struck out “who” after “individual” in introductory provisions, inserted “(A) who—” after “individual—”, and redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins.
 
 Subsec. (b)(2)(A)(ii). Pub. L. 117–333, § 10(b)(4), substituted “in clause (i)” for “in subparagraph (A)” and “or by reason of a sole survivorship discharge (as that term is defined in [section 1174(i) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1174/i&num=0&edition=prelim)); or” for period at end.
 
 Subsec. (b)(2)(B). Pub. L. 117–333, § 10(b)(5), added subpar. (B). Former subpar. (B) redesignated (A)(ii).
+
+Subsec. (c)(3). Pub. L. 118–31, which directed insertion of “, or for further service in the Space Force in a space force active status not on sustained duty under [section 20105 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105&num=0&edition=prelim),” after “of the Armed Forces” second time appearing, was executed by making the insertion after “of the Armed Forces” the only time the phrase appeared to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 117–333, § 10(c), substituted “Except as provided in subsection (b)(2)(B), the following” for “The following” in introductory provisions.
 
@@ -390,6 +392,9 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 #### Construction of Covered Individuals
 Pub. L. 115–48, title I, § 106(c), Aug. 16, 2017, 131 Stat. 977, provided that: “[Section 3311(b)(6) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3311/b/6&num=0&edition=prelim), United States Code, shall be construed to include an individual who, before November 25, 2015, established eligibility for educational assistance under chapter 1607 of title 10, United States Code, pursuant to section 16163(b) of such title, but lost such eligibility pursuant to section 16167(b) of such title.”
+
+#### Temporary Expansion of Eligibility for Marine Gunnery Sergeant John David Fry Scholarship
+Pub. L. 118–210, title II, § 201, Jan. 2, 2025, 138 Stat. 2762, provided that: “(a) In General.—The Secretary of Veterans Affairs shall treat an individual described in subsection (b) as a covered individual described in [section 3311(b) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3311/b&num=0&edition=prelim), United States Code. “(b) Covered Individual Described.—An individual described in this subsection is an individual who is the child or spouse of a person—“(1) who dies from a service-connected disability during the 120-day period immediately following the day on which the person was discharged or released from duty as a member of the Armed Forces (without regard to whether such duty was active duty); and “(2)(A) who received an honorable discharge; or “(B) whose service in the Armed Forces is characterized by the Secretary concerned as honorable service. “(c) Applicability.—This section shall apply with respect to—“(1) deaths that occur before, on, or after the date of the enactment of this Act [Jan 2, 2025]; and “(2) a quarter, semester, or term, as applicable, commencing—“(A) on or after August 1, 2025; and “(B) before October 1, 2027.”
 
 
 <a id="section-3312"></a>
@@ -1306,17 +1311,17 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 **(i) Overpayment.—**
 
-(1) **Joint and several liability.—** — In the event of an overpayment of educational assistance with respect to a dependent to whom entitlement is transferred under this section, the dependent and the individual making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of section 3685.
+(1) **Joint and several liability.—** — Subject to paragraph (2), in the event of an overpayment of educational assistance with respect to a dependent to whom entitlement is transferred under this section, the dependent and the individual making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of [section 3685 of this title](./chapter-036-administration-of-educational-benefits.md#section-3685).
 
 (2) **Failure to complete service agreement.—**
 
-  (A) *In general.—* — Except as provided in subparagraph (B), if an individual transferring entitlement under this section fails to complete the service agreed to by the individual under subsection (b)(1) in accordance with the terms of the agreement of the individual under that subsection, the amount of any transferred entitlement under this section that is used by a dependent of the individual as of the date of such failure shall be treated as an overpayment of educational assistance under paragraph (1).
+  (A) *Sole liability.—* — Except as provided in subparagraph (B), if an individual transferring entitlement under this section fails to complete the service agreed to by the individual under subsection (b)(1) in accordance with the terms of the agreement of the individual under that subsection, the amount of any transferred entitlement under this section that is used by a dependent of the individual as of the date of such failure shall be treated as an overpayment of educational assistance for which the individual shall be solely liable to the United States for the amount of the overpayment for purposes of [section 3685 of this title](./chapter-036-administration-of-educational-benefits.md#section-3685).
 
-  (B) *Exception.—* — Subparagraph (A) shall not apply in the case of an individual who fails to complete service agreed to by the individual—
+  (B) *Exception.—* — Neither the individual nor the dependent shall be liable to the United States for the amount of the overpayment for purposes of [section 3685 of this title](./chapter-036-administration-of-educational-benefits.md#section-3685) in the case of an individual who fails to complete service agreed to by the individual—
 
     (i) by reason of the death of the individual; or
 
-    (ii) for a reason referred to in section 3311(c)(4).
+    (ii) for a reason referred to in [section 3311(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3311/c/4&num=0&edition=prelim).
 
 **(j) Regulations.—**
 
@@ -1339,6 +1344,14 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (i)(1). Pub. L. 118–210, § 203(1), substituted “Subject to paragraph (2), in the event” for “In the event” and inserted “of this title” after “section 3685”.
+
+Subsec. (i)(2)(A). Pub. L. 118–210, § 203(2), substituted “Sole liability” for “In general” in heading and “for which the individual shall be solely liable to the United States for the amount of the overpayment for purposes of [section 3685 of this title](./chapter-036-administration-of-educational-benefits.md#section-3685)” for “under paragraph (1)” in text.
+
+Subsec. (i)(2)(B). Pub. L. 118–210, § 203(3)(A), substituted “Neither the individual nor the dependent shall be liable to the United States for the amount of the overpayment for purposes of [section 3685 of this title](./chapter-036-administration-of-educational-benefits.md#section-3685)” for “Subparagraph (A) shall not apply” in introductory provisions.
+
+Subsec. (i)(2)(B)(ii). Pub. L. 118–210, § 203(3)(B), inserted “of this title” after “section 3311(c)(4)”.
+
 2023—Subsec. (h)(5)(A). Pub. L. 117–333, § 3(b)(2)(A), inserted “or (C)” after “subparagraph (B)”.
 
 Subsec. (h)(5)(C). Pub. L. 117–333, § 3(b)(2)(B), added subpar. (C).

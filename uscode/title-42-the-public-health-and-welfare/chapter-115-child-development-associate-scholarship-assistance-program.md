@@ -14,7 +14,7 @@ The Secretary is authorized to make a grant for any fiscal year to any State rec
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XX of the Social Security Act is classified principally to subchapter XX (§ 1397 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XX of the Social Security Act is classified principally to subchapter XX (§ 1397 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Effective Date
 Section effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as an Effective Date of 1986 Amendment note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).

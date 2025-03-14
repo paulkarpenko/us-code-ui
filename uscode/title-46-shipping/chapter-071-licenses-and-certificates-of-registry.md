@@ -121,9 +121,9 @@ Pub. L. 100–424, § 3, Sept. 9, 1988, 102 Stat. 1590, required the Secretary o
 
 
 <a id="section-7102"></a>
-## § 7102. Citizenship
+## § 7102. Citizenship or noncitizen nationality
 
-Licenses and certificates of registry for individuals on documented vessels may be issued only to citizens of the United States.
+Licenses and certificates of registry for individuals on documented vessels may be issued only to citizens or noncitizen nationals (as such term is described in section 308 of the Immigration and Nationality Act ([8 U.S.C. 1408](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1408&num=0&edition=prelim))) of the United States.
 
 ### Statutory Notes
 
@@ -133,6 +133,9 @@ Licenses and certificates of registry for individuals on documented vessels may 
 | 7102 | 46:242 46:1132(a) |
 
 Section 7102 requires that any individual issued a license or certificate of registry allowing the individual to be engaged on a documented vessel must be a U.S. citizen.
+
+#### Amendments
+2025—Pub. L. 119–60 inserted “or noncitizen nationality” after “Citizenship” in section catchline and “or noncitizen nationals (as such term is described in section 308 of the Immigration and Nationality Act ([8 U.S.C. 1408](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1408&num=0&edition=prelim)))” after “citizens” in text.
 
 
 <a id="section-7103"></a>
@@ -376,4 +379,7 @@ Section, added Pub. L. 111–281, title II, § 210(a), Oct. 15, 2010, 124 Stat. 
 
 **(b) Public Availability.—** Each sample examination and outline of topics developed under subsection (a) shall be readily available to the public.
 
-**(c) Merchant Mariner Credential Defined.—** In this section, the term “merchant mariner credential” has the meaning that term has in section 7510.
+### Statutory Notes
+
+#### Amendments
+2025—Subsec. (c). Pub. L. 119–60 struck out subsec. (c). Text read as follows: “In this section, the term ‘merchant mariner credential’ has the meaning that term has in section 7510.”

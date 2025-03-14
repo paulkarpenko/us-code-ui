@@ -132,12 +132,23 @@ By the authority vested in me as President of the United States of America by th
 ## § 254c–1. Policy toward certain agents of foreign governments
 **(a)** It is the sense of the Congress that the numbers, status, privileges and immunities, travel, accommodations, and facilities within the United States of official representatives to the United States of any foreign government that engages in intelligence activities within the United States harmful to the national security of the United States should not exceed the respective numbers, status, privileges and immunities, travel accommodations, and facilities within such country of official representatives of the United States to such country.
 
-**(b)** Omitted.
+**(b)** The Secretary of State, in negotiating agreements with foreign governments regarding reciprocal privileges and immunities of United States diplomatic personnel, shall consult with the Director of the Federal Bureau of Investigation and the Director of National Intelligence in achieving the sense of Congress in subsection (a).
+
+**(c)** Not later than 90 days after December 18, 2025, and annually thereafter for 5 years, the Secretary of State, the Director of the Federal Bureau of Investigation, and the Director of National Intelligence shall submit to the Select Committee on Intelligence, the Committee on Foreign Relations, the Committee on the Judiciary, and the Committee on Appropriations of the Senate and the Permanent Select Committee on Intelligence, the Committee on Foreign Affairs, the Committee on the Judiciary, and the Committee on Appropriations of the House of Representatives a report on each foreign government that—
+
+(1) engages in intelligence activities within the United States harmful to the national security of the United States; and
+
+(2) possesses numbers, status, privileges and immunities, travel accommodations, or facilities within the United States of official representatives to the United States that exceed the respective numbers, status, privileges and immunities, travel accommodations, or facilities within such country of official representatives of the United States to such country.
 
 ### Statutory Notes
 
 #### Codification
-Subsec. (b) of this section, which required the President to prepare and transmit to the Committee on Foreign Relations and Select Committee on Intelligence of the Senate and the Committee on Foreign Affairs and Permanent Select Committee on Intelligence of the House of Representatives a report on the numbers, status, privileges and immunities, travel, accommodations, and facilities within the United States of official representatives to the United States of any foreign government that engages in intelligence activities within the United States harmful to the national security of the United States and the respective numbers, status, privileges and immunities, travel, accommodations, and facilities within such country of official representatives of the United States to such country, and any action which may have been taken with respect thereto, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, page 33 of House Document No. 103–7.
+Subsec. (b) of this section, as added by Pub. L. 98–618, title VI, § 601(b), which required the President to prepare and transmit to the Committee on Foreign Relations and Select Committee on Intelligence of the Senate and the Committee on Foreign Affairs and Permanent Select Committee on Intelligence of the House of Representatives a report on the numbers, status, privileges and immunities, travel, accommodations, and facilities within the United States of official representatives to the United States of any foreign government that engages in intelligence activities within the United States harmful to the national security of the United States and the respective numbers, status, privileges and immunities, travel, accommodations, and facilities within such country of official representatives of the United States to such country, and any action which may have been taken with respect thereto, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, page 33 of House Document No. 103–7.
+
+#### Amendments
+2025—Subsec. (b). Pub. L. 119–60, § 6712(1), (3), added subsec. (b) and struck out former subsec. (b). See Codification note above.
+
+Subsec. (c). Pub. L. 119–60, § 6712(3), added subsec. (c).
 
 
 <a id="section-254c-2"></a>

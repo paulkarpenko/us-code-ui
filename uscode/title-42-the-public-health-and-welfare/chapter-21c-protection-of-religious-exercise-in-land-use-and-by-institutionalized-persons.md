@@ -78,7 +78,7 @@ Pub. L. 106–274, § 1, Sept. 22, 2000, 114 Stat. 803, provided that: “This A
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–274, Sept. 22, 2000, 114 Stat. 803, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2000cc of this title](./chapter-21c-protection-of-religious-exercise-in-land-use-and-by-institutionalized-persons.md#section-2000cc) and Tables.
 
-The Prison Litigation Reform Act of 1995, referred to in subsec. (e), is Pub. L. 104–134, title I, § 101(a) [title VIII], Apr. 26, 1996, 110 Stat. 1321, 1321–66, as amended. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 3601 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3601&num=0&edition=prelim), Crimes and Criminal Procedure, and Tables.
+The Prison Litigation Reform Act of 1995, referred to in subsec. (e), is Pub. L. 104–134, title I, § 101(a) [title VIII], Apr. 26, 1996, 110 Stat. 1321, 1321–66. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 3601 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3601&num=0&edition=prelim), Crimes and Criminal Procedure, and Tables.
 
 #### Codification
 Section is comprised of section 4 of Pub. L. 106–274. Subsec. (d) of section 4 of Pub. L. 106–274 amended [section 1988(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1988/b&num=0&edition=prelim).

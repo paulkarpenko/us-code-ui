@@ -98,17 +98,74 @@ source: >-
 
 **(f) Special Authority for Military Construction Projects.—**
 
-(1) The Secretary of a military department may use funds available to the Secretary under section 2807(a) or 18233(e) of this title to accelerate the design effort in connection with a military construction project for which the two-phase selection procedures described in subsection (c) are used to select the contractor for both the design and construction portion of the project before the project is specifically authorized by law and before funds are appropriated for the construction portion of the project. Notwithstanding the limitations contained in such sections, use of such funds for the design portion of a military construction project may continue despite the subsequent authorization of the project. The advance notice requirement of [section 2807(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2807/b&num=0&edition=prelim) shall continue to apply whenever the estimated cost of the design portion of the project exceeds the amount specified in such section.
+(1) Subject to paragraph (4), each Secretary concerned may use funds available to the Secretary under section 2807(a) or 18233(e) of this title to accelerate the design effort in connection with a military construction project for which the two-phase selection procedures described in subsection (c) are used to select the contractor for both the design and construction portion of the project before the project is specifically authorized by law and before funds are appropriated for the construction portion of the project. Notwithstanding the limitations contained in such sections, use of such funds for the design portion of a military construction project may continue despite the subsequent authorization of the project. The advance notice requirement of [section 2807(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2807/b&num=0&edition=prelim) shall continue to apply whenever the estimated cost of the design portion of the project exceeds the amount specified in such section.
 
-(2) Any military construction contract that provides for an accelerated design effort, as authorized by paragraph (1), shall include as a condition of the contract that the liability of the United States in a termination for convenience before funds are first made available for construction may not exceed an amount attributable to the final design of the project.
+(2) Any construction contract for a military construction project that provides for an accelerated design effort, as authorized by paragraph (1), shall include as a condition of the contract that the liability of the United States in a termination for convenience before funds are first made available for construction may not exceed an amount attributable to the final design of the project.
 
-(3) For each fiscal year during which the authority provided by this subsection is in effect, the Secretary of a military department may select not more than two military construction projects to include the accelerated design effort authorized by paragraph (1) for each armed force under the jurisdiction of the Secretary. To be eligible for selection under this subsection, a request for the authorization of the project, and for the authorization of appropriations for the project, must have been included in the annual budget of the President for a fiscal year submitted to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim).
+(3) Not later than March 1, 2028, and annually thereafter until March 1, 2033, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority under this subsection that includes the following:
 
-(4) Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees a report evaluating the usefulness of the authority provided by this subsection in expediting the design and construction of military construction projects. The authority provided by this subsection expires September 30, 2008, except that, if the report required by this paragraph is not submitted by March 1, 2008, the authority shall expire on that date.
+  (A) A description of the military construction project for which such authority was used, including project title, location, scope, and rationale for selecting such project.
+
+  (B) The date of award of a contract for such military construction project, the initial estimated contract value, and the current projected total cost of such project.
+
+  (C) A comparison of projected schedule for completion of such project with the actual schedule, including dates for completing the design of such project and commencing construction.
+
+  (D) Any realized or anticipated cost savings or efficiencies, including those related to time, resources, or design innovation, attributable to the use of the authority under this subsection for a military construction project.
+
+  (E) An assessment of risk management benefits, including any improvements in design flexibility or coordination between contractors and the Secretary concerned.
+
+  (F) Any challenges encountered, and mitigation efforts made, in the use of such authority for a military construction project.
+
+(4) Each Secretary concerned may exercise the authority under this subsection using amounts appropriated for such purpose on or after the date of the enactment of this paragraph.
+
+**(g) Authorization of Progressive Design-build Contracts.—**
+
+(1) Notwithstanding subsections (b) through (e), the Secretary concerned may enter into a progressive design-build contract for a military construction project under the authority of subsection (a) in accordance with the following requirements:
+
+  (A) The contract is awarded in a single phase based on qualifications and demonstrated capabilities of the offeror without submission of a detailed construction cost or price proposal at the time of award.
+
+  (B) The contract provides for collaboration between the Secretary concerned and the contractor to develop and refine the project scope and design, including cost estimates.
+
+  (C) Following development of the project scope and preliminary design, the contract provide for the Secretary concerned and contractor to negotiate a guaranteed maximum price or other fixed-price agreement for the construction phase of the military construction project.
+
+  (D) If negotiations described in subparagraph (C) fail, the contract includes terms for termination or renegotiation.
+
+(2) The Secretary concerned shall issue rules to ensure appropriate oversight, risk management, and contract administration consistent with the requirements of this subsection.
+
+(3) Not later than March 1, 2028, and annually thereafter until March 1, 2033, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority under this subsection that includes the following:
+
+  (A) A description of the military construction project for which such authority was used, including project title, location, scope, and rationale for selecting such project.
+
+  (B) The date of award of a contract for such military construction project, the initial estimated contract value, and the current projected total cost of such project.
+
+  (C) A comparison of projected schedule for completion of such project with the actual schedule, including dates for completing the design of such project and commencing construction.
+
+  (D) Any realized or anticipated cost savings or efficiencies, including those related to time, resources, or design innovation, attributable to the use of the authority under this subsection for a military construction project.
+
+  (E) An assessment of risk management benefits, including any improvements in design flexibility or coordination between contractors and the Secretary concerned.
+
+  (F) Any challenges encountered, and mitigation efforts made, in the use of such authority for the military construction project.
+
+(4) Each Secretary concerned may exercise the authority under this subsection using amounts appropriated for such purpose on or after the date of the enactment of this paragraph.
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of this paragraph, referred to in subsecs. (f)(4) and (g)(4), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
+
 #### Amendments
+2025—Subsec. (f)(1). Pub. L. 119–60, § 2809(1)(A), substituted “Subject to paragraph (4), each Secretary concerned” for “The Secretary of a military department”.
+
+Subsec. (f)(2). Pub. L. 119–60, § 2809(1)(B), substituted “Any construction contract for a military construction project” for “Any military construction contract”.
+
+Subsec. (f)(3), (4). Pub. L. 119–60, § 2809(1)(C), amended pars. (3) and (4) generally. Prior to amendment, pars. (3) and (4) read as follows:
+
+“(3) For each fiscal year during which the authority provided by this subsection is in effect, the Secretary of a military department may select not more than two military construction projects to include the accelerated design effort authorized by paragraph (1) for each armed force under the jurisdiction of the Secretary. To be eligible for selection under this subsection, a request for the authorization of the project, and for the authorization of appropriations for the project, must have been included in the annual budget of the President for a fiscal year submitted to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim).
+
+“(4) Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees a report evaluating the usefulness of the authority provided by this subsection in expediting the design and construction of military construction projects. The authority provided by this subsection expires September 30, 2008, except that, if the report required by this paragraph is not submitted by March 1, 2008, the authority shall expire on that date.”
+
+Subsec. (g). Pub. L. 119–60, § 2809(2), added subsec. (g).
+
 2021—Pub. L. 116–283, § 1813(b), renumbered [section 2305a of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2305a) as this section.
 
 Subsec. (b). Pub. L. 116–283, § 1813(b)(1), inserted dash after “or work when”, reorganized remainder of former introductory provisions of subsec. (b) into designated pars. (1) to (4), and redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (4) and realigned margins.
@@ -231,17 +288,17 @@ Pub. L. 98–525, title XII, § 1233(b), Oct. 19, 1984, 98 Stat. 2601, provided 
 
   (A) periodically publish notice in the Commerce Business Daily soliciting additional sources or products to seek qualification, unless the contracting officer determines that such publication would compromise national security; and
 
-  (B) subject to paragraph (2), bear the cost of conducting the specified testing and evaluation (excluding the costs associated with producing the item or establishing the production, quality control, or other system to be tested and evaluated) for a small business concern or a product manufactured by a small business concern which has met the standards specified for qualification and which could reasonably be expected to compete for a contract for that requirement.
+  (B) bear the cost of conducting the specified testing and evaluation (excluding the costs associated with producing the item or establishing the production, quality control, or other system to be tested and evaluated) for a small business concern or a product manufactured by a small business concern which has met the standards specified for qualification and which could reasonably be expected to compete for a contract for that requirement.
 
-(2) **Certification when agency may bear cost.—** — Costs may be borne under paragraph (1)(B) only if the head of the agency determines that such additional qualified sources or products are likely to result in cost savings from increased competition for future requirements sufficient to amortize the costs incurred by the agency within a reasonable period of time considering the duration and dollar value of anticipated future requirements.
+(2) **Certification required.—** — The head of an agency shall require a prospective contractor requesting the United States to bear testing and evaluation costs under paragraph (1)(B) to certify as to its status as a small business concern under section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)).
 
-(3) **Certification required.—** — The head of an agency shall require a prospective contractor requesting the United States to bear testing and evaluation costs under paragraph (1)(B) to certify as to its status as a small business concern under section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)).
+**(e) Advanced Manufacturing Crisis Qualification Frameworks.—** The head of the agency shall establish a process to streamline and expedite the qualification of advanced manufacturing sources, processes, or products prior to or during wartime or upon activation of the Civil Reserve Manufacturing Network (as defined in section 1832 11 See References in Text note below. of National Defense Authorization Act for Fiscal Year 2026), that addresses materials, systems, and processes using a risk framework suitable for wartime or during periods in which the CRMN is activated.
 
-**(e) Examination and Revalidation of Qualification Requirement.—** Within seven years after the establishment of a qualification requirement under subsection (b) or within seven years following an agency’s enforcement of a qualified products list, qualified manufacturers list, or qualified bidders list, any such qualification requirement shall be examined and revalidated in accordance with the requirements of subsection (b). The preceding sentence does not apply in the case of a qualification requirement for which a waiver is in effect under subsection (c)(2).
+**(f) Examination and Revalidation of Qualification Requirement.—** Within seven years after the establishment of a qualification requirement under subsection (b) or within seven years following an agency’s enforcement of a qualified products list, qualified manufacturers list, or qualified bidders list, any such qualification requirement shall be examined and revalidated in accordance with the requirements of subsection (b). The preceding sentence does not apply in the case of a qualification requirement for which a waiver is in effect under subsection (c)(2).
 
-**(f) Restriction on Enforcement.—** Except in an emergency as determined by the head of the agency, whenever the head of the agency determines not to enforce a qualification requirement for a solicitation, the agency may not thereafter enforce that qualification requirement unless the agency complies with the requirements of subsection (b).
+**(g) Restriction on Enforcement.—** Except in an emergency as determined by the head of the agency, whenever the head of the agency determines not to enforce a qualification requirement for a solicitation, the agency may not thereafter enforce that qualification requirement unless the agency complies with the requirements of subsection (b).
 
-**(g) Definitions.—** In this section:
+**(h) Definitions.—** In this section:
 
 (1) The term “aviation critical safety item” means a part, an assembly, installation equipment, launch equipment, recovery equipment, or support equipment for an aircraft or aviation weapon system if the part, assembly, or equipment contains a characteristic any failure, malfunction, or absence of which could cause a catastrophic or critical failure resulting in the loss of or serious damage to the aircraft or weapon system, an unacceptable risk of personal injury or loss of life, or an uncommanded engine shutdown that jeopardizes safety.
 
@@ -251,7 +308,16 @@ Pub. L. 98–525, title XII, § 1233(b), Oct. 19, 1984, 98 Stat. 2601, provided 
 
 ### Statutory Notes
 
+#### References in Text
+Section 1832 of National Defense Authorization Act for Fiscal Year 2026, referred to in subsec. (e), probably means section 1841 of Pub. L. 119–60, which relates to the Civil Reserve Manufacturing Network. Subsecs. (a) to (e) of section 1841 are set out as a note under [section 4811 of this title](./chapter-382-policies-and-planning.md#section-4811). Subsec. (f) of section 1841 amends sections 3243 and 4841 of this title. Section 1832 of Pub. L. 119–60, which amends sections 4402 and 4403 of this title, relates to modifications to requirements for modular open system approach.
+
 #### Amendments
+2025—Subsec. (d)(1)(B). Pub. L. 119–60, § 812(a)(6)(A), struck out “subject to paragraph (2),” before “bear the cost”.
+
+Subsec. (d)(2), (3). Pub. L. 119–60, § 812(a)(6)(B), (C), redesignated par. (3) as (2) and struck out par. (2). Text of former par. (2) read as follows: “Costs may be borne under paragraph (1)(B) only if the head of the agency determines that such additional qualified sources or products are likely to result in cost savings from increased competition for future requirements sufficient to amortize the costs incurred by the agency within a reasonable period of time considering the duration and dollar value of anticipated future requirements.”
+
+Subsecs. (e) to (h). Pub. L. 119–60, § 1841(f)(2), added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
+
 2021—Pub. L. 116–283, § 1813(d)(1), substituted “Encouragement of new competitors: qualification requirement” for “Encouragement of new competitors” in section catchline.
 
 Pub. L. 116–283, § 1813(d), renumbered [section 2319 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2319) as this section.
@@ -414,9 +480,9 @@ Pub. L. 98–525, title XII, § 1216(c)(1), Oct. 19, 1984, 98 Stat. 2599, provid
 
 **(b) Determination and Notification.—** The head of a covered agency may exercise the authority provided in subsection (a) only after—
 
-(1) obtaining a joint recommendation by the Under Secretary of Defense for Acquisition and Sustainment and the Chief Information Officer of the Department of Defense, on the basis of a risk assessment by the Under Secretary of Defense for Intelligence and Security, that there is a significant supply chain risk to a covered system;
+(1) consulting with procurement or other relevant officials of the covered agency;
 
-(2) making a determination in writing, in unclassified or classified form, with the concurrence of the Under Secretary of Defense for Acquisition and Sustainment, that—
+(2) making a determination in writing, in unclassified or classified form, that—
 
   (A) use of the authority in subsection (a)(1) is necessary to protect national security by reducing supply chain risk;
 
@@ -426,17 +492,11 @@ Pub. L. 98–525, title XII, § 1216(c)(1), Oct. 19, 1984, 98 Stat. 2599, provid
 
 (3) providing a classified or unclassified notice of the determination made under paragraph (2) to the appropriate congressional committees, which notice shall include—
 
-  (A) the information required by [section 3204(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3204/e/2&num=0&edition=prelim);
+  (A) a summary of the risk assessment that serves as the basis for the written determination required by paragraph (2); and
 
-  (B) the joint recommendation by the Under Secretary of Defense for Acquisition and Sustainment and the Chief Information Officer of the Department of Defense as specified in paragraph (1);
+  (B) a summary of the basis for the determination, including a discussion of less intrusive measures that were considered and why they were not reasonably available to reduce supply chain risk.
 
-  (C) a summary of the risk assessment by the Under Secretary of Defense for Intelligence 11 See Change of Name note below. that serves as the basis for the joint recommendation specified in paragraph (1); and
-
-  (D) a summary of the basis for the determination, including a discussion of less intrusive measures that were considered and why they were not reasonably available to reduce supply chain risk.
-
-**(c) Delegation.—** The head of a covered agency may not delegate the authority provided in subsection (a) or the responsibility to make a determination under subsection (b) to an official below the level of the service acquisition executive for the agency concerned.
-
-**(d) Limitation on Disclosure.—** If the head of a covered agency has exercised the authority provided in subsection (a)(2) to limit disclosure of information—
+**(c) Limitation on Disclosure.—** If the head of a covered agency has exercised the authority provided in subsection (a)(2) to limit disclosure of information—
 
 (1) no action undertaken by the agency head under such authority shall be subject to review in a bid protest before the Government Accountability Office or in any Federal court; and
 
@@ -448,7 +508,7 @@ Pub. L. 98–525, title XII, § 1216(c)(1), Oct. 19, 1984, 98 Stat. 2599, provid
 
   (C) ensure the confidentiality of any such notifications.
 
-**(e) Definitions.—** In this section:
+**(d) Definitions.—** In this section:
 
 (1) **Head of a covered agency.—** — The term “head of a covered agency” means each of the following:
 
@@ -562,6 +622,20 @@ Section 3299, acts Aug. 10, 1956, ch. 1041, 70A Stat. 186; Aug. 21, 1957, Pub. L
 Section 3300, acts Aug. 10, 1956, ch. 1041, 70A Stat. 186; July 12, 1960, Pub. L. 86–616, § 1(2), 74 Stat. 386, provided for selection board procedure when promotion-list officers in regular grade of first lieutenant, captain, or major are to be considered for promotion under [section 3299 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3299&num=0&edition=prelim). See section 611 et seq. of this title.
 
 #### Amendments
+2024—Subsec. (b)(1). Pub. L. 118–159, § 841(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “obtaining a joint recommendation by the Under Secretary of Defense for Acquisition and Sustainment and the Chief Information Officer of the Department of Defense, on the basis of a risk assessment by the Under Secretary of Defense for Intelligence and Security, that there is a significant supply chain risk to a covered system;”.
+
+Subsec. (b)(2). Pub. L. 118–159, § 841(1)(B), struck out “with the concurrence of the Under Secretary of Defense for Acquisition and Sustainment,” after “in unclassified or classified form,” in introductory provisions.
+
+Subsec. (b)(3)(A). Pub. L. 118–159, § 841(1)(C)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the information required by [section 3204(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3204/e/2&num=0&edition=prelim);”.
+
+Subsec. (b)(3)(B) to (D). Pub. L. 118–159, § 841(1)(C)(ii), (iii), redesignated subpar. (D) as (B) and struck out former subpars. (B) and (C) which read as follows:
+
+“(B) the joint recommendation by the Under Secretary of Defense for Acquisition and Sustainment and the Chief Information Officer of the Department of Defense as specified in paragraph (1);
+
+“(C) a summary of the risk assessment by the Under Secretary of Defense for Intelligence that serves as the basis for the joint recommendation specified in paragraph (1); and”.
+
+Subsecs. (c) to (e). Pub. L. 118–159, § 841(2), (3), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “The head of a covered agency may not delegate the authority provided in subsection (a) or the responsibility to make a determination under subsection (b) to an official below the level of the service acquisition executive for the agency concerned.”
+
 2021—Pub. L. 116–283, § 1813(g), renumbered [section 2339a of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2339a) as this section.
 
 Subsec. (b)(1). Pub. L. 116–283, § 1081(a)(36), inserted “and Security” after “for Intelligence”.
@@ -575,9 +649,6 @@ Subsec. (e)(3)(A). Pub. L. 116–283, § 1813(g)(3)(A), substituted “section 3
 Subsec. (e)(3)(B). Pub. L. 116–283, § 1813(g)(3)(B), substituted “section 3406(d)(3)” for “section 2304c(d)(3)”.
 
 2019—Subsec. (e)(5). Pub. L. 116–92 substituted “section 3552(b)(6)” for “section 3542(b)”.
-
-#### Change of Name
-Under Secretary of Defense for Intelligence redesignated and references deemed to refer to Under Secretary of Defense for Intelligence and Security, see section 1621(a) of Pub. L. 116–92, set out as a note under [section 137 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-137).
 
 #### Effective Date of 2021 Amendment
 Amendment by section 1813(g) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

@@ -2,7 +2,7 @@
 title: 14
 chapter: '1'
 heading: ESTABLISHMENT AND DUTIES
-section_count: 6
+section_count: 7
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -92,14 +92,46 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Coast Guard transferred to Department of Transportation and all functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 931. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim). See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
+#### Directions
+Pub. L. 119–60, div. G, § 7002(b), Dec. 18, 2025, 139 Stat. 1661, provided that: “In this division [div. G (§§ 7001–7701) of Pub. L. 119–60, see Tables for classification], when Secretary [sic] or the Commandant are [sic] directed to provide or develop— “(1) a briefing, such briefing shall be accompanied by a narrative description, and at the option of any committee designated as a recipient, be delivered in person; “(2) a policy, such policy shall be detailed, in writing, and publicly available, but may contain a classified annex; “(3) a plan, such plan shall be detailed, and in writing; “(4) a report, such report shall be detailed and in writing; and “(5) a strategy, such strategy shall be detailed and in writing.”
+
+[For definitions of “Commandant” and “Secretary” as used in section 7002(b) of Pub. L. 119–60, set out above, see section 7002(a) of Pub. L. 119–60, set out as a note under [section 106 of this title](./chapter-001-establishment-and-duties.md#section-106).]
+
 #### Designation of Coast Guard Headquarters Building
 Pub. L. 113–31, Aug. 9, 2013, 127 Stat. 511, provided that: “SECTION 1. DESIGNATION.“The headquarters building of the Coast Guard on the campus located at 2701 Martin Luther King, Jr., Avenue Southeast in the District of Columbia shall be known and designated as the ‘Douglas A. Munro Coast Guard Headquarters Building’. “SEC. 2. REFERENCES.“Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in section 1 shall be deemed to be a reference to the ‘Douglas A. Munro Coast Guard Headquarters Building’.”
 
 
 <a id="section-102"></a>
 ## § 102. Primary duties
+**(a) Definitions.—** In this section:
 
-The Coast Guard shall—
+(1) **Non-homeland security missions.—** — The term “non-homeland security missions” means the following missions of the Coast Guard:
+
+  (A) Marine safety.
+
+  (B) Search and rescue.
+
+  (C) Aids to navigation.
+
+  (D) Living marine resources (fisheries law enforcement).
+
+  (E) Marine environmental protection.
+
+  (F) Ice operations.
+
+(2) **Homeland security missions.—** — The term “homeland security missions” means the following missions of the Coast Guard:
+
+  (A) Ports, waterways and coastal security.
+
+  (B) Drug interdiction.
+
+  (C) Migrant interdiction.
+
+  (D) Defense readiness.
+
+  (E) Other law enforcement.
+
+**(b) Primary Duties.—** The Coast Guard shall—
 
 (1) enforce or assist in the enforcement of all applicable Federal laws on, under, and over the high seas and waters subject to the jurisdiction of the United States;
 
@@ -122,10 +154,15 @@ This section defines in general terms, for the first time in any statute, all th
 
 This section contains a codification of functions. It sets forth in general language the primary responsibilities of the Coast Guard: enforcement of all Federal laws on waters to which they have application, safety of life and property at sea, aiding navigation, and readiness to function with the Navy. Having been created in 1915 by the consolidation of the Revenue Cutter Service and the Life Saving Service, the Coast Guard has gradually been given additional duties and responsibilities, such as the assignment of law enforcement powers on the high seas and navigable waters in 1936, the transfer of the Lighthouse Service in 1939, and the transfer of the Bureau of Marine Inspection and Navigation in 1942. Existing along with these other duties has been that of maintaining a state of readiness as a specialized service prepared for active participation with the Navy in time of war. These various interdependent functions of the Service have not been expressed collectively in any statute heretofore, but it is believed desirable to do so in this revision in order to have outlined in general terms in one section the broad scope of the functions of the Coast Guard. 81st Congress, House Report No. 557.
 
+#### Codification
+The text of [section 468(a) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section468/a&num=0&edition=prelim), Domestic Security, which was transferred to subsec. (a) of this section by Pub. L. 119–60, § 7201(j)(2), is based on Pub. L. 107–296, title VIII, § 888(a), Nov. 25, 2002, 116 Stat. 2249.
+
 #### Prior Provisions
 A prior section 102 was renumbered [section 717 of this title](./chapter-007-cooperation.md#section-717).
 
 #### Amendments
+2025—Pub. L. 119–60 designated existing provisions as subsec. (b), inserted heading, and transferred section 888(a) of Pub. L. 107–296 to this section to appear before subsec. (b). See Codification note above.
+
 2018—Pub. L. 115–282, § 103(b), renumbered [section 2 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2&num=0&edition=prelim) as this section.
 
 Par. (7). Pub. L. 115–282, § 302, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “maintain a state of readiness to function as a specialized service in the Navy in time of war, including the fulfillment of Maritime Defense Zone command responsibilities.”
@@ -344,7 +381,28 @@ A prior section 293, added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Sta
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 5 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section5&num=0&edition=prelim) as this section.
 
-#### Definitions
+#### Definitions of Commandant and Secretary in Specific Acts
+Pub. L. 119–60, div. G, § 7002(a), Dec. 18, 2025, 139 Stat. 1661, provided that: “In this division [div. G (§§ 7001–7701) of Pub. L. 119–60, see Tables for classification]: “(1) Commandant.—The term ‘Commandant’ means the Commandant of the Coast Guard. “(2) Secretary.—Unless otherwise specified, the term ‘Secretary’ means the Secretary of the department in which the Coast Guard is operating.”
+
 Pub. L. 117–263, div. K, § 11002, Dec. 23, 2022, 136 Stat. 4003, provided that: “In this division [div. K (§§ 11001–11808) of Pub. L. 117–263, see Tables for classification]: “(1) Commandant.—The term ‘Commandant’ means the Commandant of the Coast Guard. “(2) Secretary.—Except as otherwise provided, the term ‘Secretary’ means the Secretary of the department in which the Coast Guard is operating.”
 
 Pub. L. 116–283, div. G, § 8002, Jan. 1, 2021, 134 Stat. 4633, provided that: “In this division [div. G (§§ 8001–8605) of Pub. L. 116–283, see Tables for classification], the term ‘Commandant’ means the Commandant of the Coast Guard.”
+
+
+<a id="section-107"></a>
+## § 107. Automatic execution of conforming changes
+**(a) In General.—** When an amendment to a covered Coast Guard law adds a section or larger organizational unit to the covered Coast Guard law, repeals or transfers a section or larger organizational unit in the covered Coast Guard law, or amends the designation or heading of a section or larger organizational unit in the covered Coast Guard law, that amendment also shall have the effect of amending any analysis, table of contents, or similar tabular entries in the covered Coast Guard law to alter the table to conform to the changes made by the amendment.
+
+**(b) Exceptions.—** Subsection (a) shall not apply to an amendment described in such subsection when—
+
+(1) the amendment or a clerical amendment enacted at the same time expressly amends a table of sections, table of contents, or similar tabular entries in the covered maritime law to alter the table to conform to the changes made by the amendment; or
+
+(2) the amendment otherwise expressly exempts itself from the operation of this section.
+
+**(c) Covered Coast Guard Law Defined.—** In this section, the term “covered Coast Guard law” means—
+
+(1) this title;
+
+(2) any Coast Guard authorization Act that authorizes funds to be appropriated for a fiscal year to the Coast Guard; and
+
+(3) any other law designated in the text thereof as a covered Coast Guard law for purposes of application of this section.

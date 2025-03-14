@@ -203,13 +203,15 @@ Title I of the Department of the Interior and Related Agencies Appropriations Ac
 
 **(j) Multiyear grants**
 
-(1) **Authorization** — The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant to carry out a project that the person demonstrates is an effective, long-term conservation strategy for great apes and the habitat of great apes.
+(1) **Authorization** — The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for great apes and the habitat of great apes.
 
 (2) **Effect of subsection** — Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (j)(1). Pub. L. 118–159 inserted “of up to 5 years” after “multiyear grant”.
+
 2022—Subsec. (i)(5). Pub. L. 117–286 substituted “chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 App. U.S.C.)” in text.
 
 2019—Subsec. (i)(1). Pub. L. 116–9, § 7001(c)(2)(A)(i), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Every 2 years, the Secretary may convene a panel of experts to identify the greatest needs for the conservation of great apes.”
@@ -272,11 +274,13 @@ Subsec. (i). Pub. L. 109–363, § 701(2), designated existing provisions as par
 <a id="section-6305"></a>
 ## § 6305. Authorization of appropriations
 
-There are authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2019 through 2023.
+There are authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2025 through 2029.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Pub. L. 118–159 substituted “2025 through 2029” for “2019 through 2023”.
+
 2019—Pub. L. 116–9 substituted “2019 through 2023” for “2006 through 2010”.
 
 2006—Pub. L. 109–363 substituted “fiscal years 2006 through 2010” for “fiscal years 2001 through 2005”.

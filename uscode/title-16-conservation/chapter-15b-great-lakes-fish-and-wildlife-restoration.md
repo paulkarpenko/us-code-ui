@@ -24,6 +24,9 @@ Congress finds that—
 #### Prior Provisions
 A prior section 941, Pub. L. 101–537, title I, § 1002, Nov. 8, 1990, 104 Stat. 2370; Pub. L. 101–646, title II, § 2002, Nov. 29, 1990, 104 Stat. 4773; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, § 3(b), Oct. 19, 1998, 112 Stat. 2358, related to Congressional findings, prior to repeal by Pub. L. 114–322, title III, § 3901(b), Dec. 16, 2016, 130 Stat. 1848.
 
+#### Short Title of 2025 Amendment
+Pub. L. 119–67, § 1, Dec. 26, 2025, 139 Stat. 1993, provided that: “This Act [amending [section 941h of this title](./chapter-15b-great-lakes-fish-and-wildlife-restoration.md#section-941h)] may be cited as the ‘Great Lakes Fishery Research Reauthorization Act’.”
+
 #### Short Title of 2022 Amendment
 Pub. L. 117–287, § 1, Dec. 27, 2022, 136 Stat. 4363, provided that: “This Act [amending sections 941f and 941g of this title] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Reauthorization Act of 2022’.”
 
@@ -523,7 +526,7 @@ Par. (2). Pub. L. 114–322, § 3901(f)(3), substituted “the activities of the
 
 (4) **Savings clause** — Nothing in this section is intended or shall be construed to impede, supersede, or alter the authority of the Great Lakes Fishery Commission, States, and Indian tribes under the Convention on Great Lakes Fisheries between the United States of America and Canada on September 10, 1954, and the Great Lakes Fishery Act of 1956 ([16 U.S.C. 931](./chapter-15a-great-lakes-fisheries.md#section-931) et seq.).
 
-**(d) Authorization of appropriations** For each of fiscal years 2021 through 2025, there is authorized to be appropriated $15,000,000 to carry out this section.
+**(d) Authorization of appropriations** For each of fiscal years 2021 through 2030, there is authorized to be appropriated $15,000,000 to carry out this section.
 
 ### Statutory Notes
 
@@ -534,3 +537,6 @@ The Great Lakes Fishery Act of 1956, referred to in subsec. (c)(4), is act June 
 
 #### Codification
 Section was enacted as part of the Further Consolidated Appropriations Act, 2020, and not as part of the Great Lakes Fish and Wildlife Restoration Act of 1990 which comprises this chapter.
+
+#### Amendments
+2025—Subsec. (d). Pub. L. 119–67 substituted “2030” for “2025”.

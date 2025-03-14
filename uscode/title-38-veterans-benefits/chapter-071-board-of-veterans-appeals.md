@@ -2,7 +2,7 @@
 title: 38
 chapter: '71'
 heading: BOARD OF VETERANS’ APPEALS
-section_count: 15
+section_count: 16
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -767,3 +767,14 @@ Section applicable to any determination made before, on, or after Nov. 21, 1997,
 
 #### Effective Date
 Section applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as an Effective Date of 2017 Amendment note under [section 101 of this title](./chapter-001-general.md#section-101), and bracketed note thereunder.
+
+
+<a id="section-7114"></a>
+## § 7114. Internship program
+
+The Secretary shall establish a competitive internship program of the Board for individuals enrolled in the first or second year of law schools accredited by the American Bar Association.
+
+### Statutory Notes
+
+#### Deadline for Establishing Internship Program
+Pub. L. 118–196, § 5(c), Dec. 23, 2024, 138 Stat. 2673, provided that: “The Secretary of Veterans Affairs shall establish the internship program required by section 7114 of such title [meaning title 38, United States Code], as added by subsection (a), not later than one year after the date of the enactment of this Act [Dec. 23, 2024].”

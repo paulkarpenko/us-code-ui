@@ -2,7 +2,7 @@
 title: 10
 chapter: '303'
 heading: RESEARCH AND ENGINEERING ACTIVITIES
-section_count: 15
+section_count: 17
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -85,7 +85,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 Pub. L. 117–81, div. A, title II, § 213(b), Dec. 27, 2021, 135 Stat. 1589, provided that: “Subject to the availability of appropriations for such purpose, the Secretary of Defense may expand the efforts of the Defense Innovation Unit to engage and collaborate with private-sector industry and communities in various regions of the United States— “(1) to accelerate the adoption of commercially developed advanced technology in modernization priority areas and such other key technology areas as may be identified by the Secretary; and “(2) to expand outreach to communities that do not otherwise have a Defense Innovation Unit presence, including economically disadvantaged communities.”
 
 #### Pilot Program To Accelerate the Procurement and Fielding of Innovative Technologies
-Pub. L. 117–81, div. A, title VIII, § 834, Dec. 27, 2021, 135 Stat. 1835, as amended by Pub. L. 117–263, div. A, title VIII, § 845, Dec. 23, 2022, 136 Stat. 2720, provided that: “(a) Pilot Program.—Subject to availability of appropriations, the Secretary of Defense shall establish a competitive, merit-based pilot program to accelerate the procurement and fielding of innovative technologies by, with respect to such technologies—“(1) reducing acquisition or life-cycle costs; “(2) addressing technical risks; “(3) improving the timeliness and thoroughness of test and evaluation outcomes; and “(4) rapidly implementing such technologies to directly support defense missions. “(b) Guidelines.—Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretary shall issue guidelines for the operation of the pilot program established under this section. At a minimum such guidelines shall provide for the following:“(1) The issuance of one or more solicitations for proposals by the Department of Defense in support of the pilot program, with a priority established for technologies developed by small business concerns (as defined under section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim))) or nontraditional defense contractors (as defined under [section 2302 of title 10](./chapter-chapter-137-chapter-chapter-137.md#section-2302), United States Code [see [10 U.S.C. 3014](./chapter-201-definitions.md#section-3014)]). “(2) A process for—“(A) the review of proposals received in response to a solicitation issued under paragraph (1) by the Secretary of Defense and by each Secretary of a military department; “(B) the merit-based selection of the most promising cost-effective proposals; and “(C) the procurement of goods or services offered by such a proposal through contracts, cooperative agreements, other transaction authority, or by another appropriate process. “(c) Maximum Amount.—The total amount of funding provided for any proposal selected for an award under the pilot program established under this section shall not exceed $50,000,000, unless the Secretary (or designee of the Secretary) approves a greater amount of funding. “(d) Data Collection.—“(1) Plan required before implementation.—The Secretary of Defense may not provide funding under this section until the date on which the Secretary—“(A) completes a plan for carrying out the data collection required under paragraph (2); and “(B) submits the plan to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]. “(2) Data collection required.—The Secretary of Defense shall collect and analyze data on the pilot program established under this section for the purposes of—“(A) developing and sharing best practices for achieving the objectives of the pilot program; “(B) providing information on the implementation of the pilot program and related policy issues; and “(C) reporting to the congressional defense committees as required under subsection (e). “(e) Biannual Reports.—Not later than March 1 and September 1 of each year beginning after the date of the enactment of this Act until the termination of the pilot program established under this section, the Secretary of Defense shall submit to the congressional defense committees a report on the pilot program. “(f) Congressional Notification.—The Secretary of Defense shall notify the congressional defense committees within 30 days after funding has been provided for a proposal selected for an award under the pilot program established under this section. “(g) Termination.—The authority to carry out a pilot program under this section shall terminate on September 30, 2027.”
+Pub. L. 117–81, div. A, title VIII, § 834, Dec. 27, 2021, 135 Stat. 1835, as amended by Pub. L. 117–263, div. A, title VIII, § 845, Dec. 23, 2022, 136 Stat. 2720, which authorized the Secretary of Defense to establish a competitive, merit-based pilot program to accelerate the procurement and fielding of innovative technologies and required the Secretary to issue guidelines for the operation of such pilot program, was repealed by Pub. L. 118–159, div. A, title VIII, § 861(b), Dec. 23, 2024, 138 Stat. 2000. See [section 3604 of this title](./chapter-253-rapid-acquisition-procedures.md#section-3604).
 
 
 <a id="section-4062"></a>
@@ -331,11 +331,13 @@ As enacted, Pub. L. 116–283, div. A, title XVIII, § 1842(b), Jan. 1, 2021, 13
 
 **(e) Classification of Database Information.—** Information in electronic databases of the Global Research Watch program shall be maintained in unclassified form and, as determined necessary by the Under Secretary of Defense for Research and Engineering, in classified form in such databases.
 
-**(f) Termination.—** The requirement to carry out the program under this section shall terminate on September 30, 2025.
+**(f) Termination.—** The requirement to carry out the program under this section shall terminate on September 30, 2035.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (f). Pub. L. 118–159 substituted “September 30, 2035” for “September 30, 2025”.
+
 2021—Pub. L. 116–283, § 1842(b), as amended by Pub. L. 117–81, § 1701(q)(1), (u)(3)(B), renumbered [section 2365 of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2365) as this section.
 
 2019—Subsec. (a). Pub. L. 116–92, § 266(1), substituted “Under Secretary of Defense for Research and Engineering” for “Assistant Secretary of Defense for Research and Engineering”.
@@ -381,15 +383,17 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 
 <a id="section-4067"></a>
 ## § 4067. Technology protection features activities
-**(a) Activities.—** The Secretary of Defense shall carry out activities to develop and incorporate technology protection features in a designated system during the research and development phase of such system.
+**(a) Activities.—** The Secretary of Defense shall carry out activities to develop and incorporate technology protection features in a designated system to increase ally and partner military capability or improve coalition interoperability.
 
 **(b) Cost-sharing.—**
 
 (1) Any contract for the design or development of a system resulting from activities under subsection (a) for the purpose of enhancing or enabling the exportability of the system, either for the development of program protection strategies for the system or the design and incorporation of exportability features into the system, shall include a cost-sharing provision that requires the contractor to bear half of the cost of such activities, or such other portion of such cost as the Secretary considers appropriate upon showing of good cause.
 
-(2) The Secretary may deem the portion of the costs of the contractor described in paragraph (1) with respect to a designated system as allowable independent research and development costs under the regulations issued under [section 3762 of this title](./chapter-273-allowable-costs.md#section-3762) if—
+(2) Any contract for the design or development of an exportability feature of a system resulting from activities under subsection (a) for the purpose of enhancing or enabling the exportability of the system shall include a cost-sharing provision that requires the contractor to bear half of the cost of such activities, or such other portion of such cost as the Secretary considers appropriate upon showing of good cause.
 
-  (A) the designated system receives Milestone B approval; and
+(3) The Secretary may deem the portion of the costs of the contractor described in paragraph (1) or (2) with respect to a designated system or exportability feature as allowable independent research and development costs under the regulations issued under [section 3762 of this title](./chapter-273-allowable-costs.md#section-3762) if—
+
+  (A) in the case of a designated system, the designated system receives Milestone B approval; and
 
   (B) the Secretary determines that doing so would further the purposes of this section.
 
@@ -406,6 +410,14 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159, § 215(a), substituted “to increase ally and partner military capability or improve coalition interoperability” for “during the research and development phase of such system”.
+
+Subsec. (b)(2). Pub. L. 118–159, § 215(b)(2), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (b)(3). Pub. L. 118–159, § 215(b)(1), (3)(A), (B), redesignated par. (2) as (3) and inserted “or (2)” after “paragraph (1)” and “or exportability feature” after “with respect to a designated system” in introductory provisions.
+
+Subsec. (b)(3)(A). Pub. L. 118–159, § 215(b)(3)(C), inserted “in the case of a designated system,” before “the”.
+
 2021—Pub. L. 116–283, § 1842(b), as amended by Pub. L. 117–81, § 1701(u)(3)(B), renumbered [section 2357 of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2357) as this section.
 
 Pub. L. 116–283, § 1841(c), which directed the renumbering of [section 2357 of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2357) as section 4009 instead of this section, was amended generally by Pub. L. 117–81, § 1701(u)(2)(D), effective as if included therein, so that such transfer was no longer directed.
@@ -433,7 +445,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 Pub. L. 117–81, div. A, title VIII, § 831(b), Dec. 27, 2021, 135 Stat. 1832, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to conform with [section 2357 of title 10](./chapter-chapter-139-chapter-chapter-139.md#section-2357), United States Code [now [10 U.S.C. 4067](./chapter-303-research-and-engineering-activities.md#section-4067)], as amended by subsection (a).”
 
 #### Updated Guidance on Planning for Exportability Features for Future Programs
-Pub. L. 118–31, div. A, title VIII, § 810, Dec. 22, 2023, 137 Stat. 321, provided that: “(a) Program Guidance on Planning for Exportability Features.—Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], the Under Secretary of Defense for Acquisition and Sustainment shall ensure that the program guidance for major defense acquisition programs (as defined in [section 4201 of title 10](./chapter-321-general-matters.md#section-4201), United States Code) and for acquisition programs and projects that are carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; [10 U.S.C. 3201](./chapter-221-planning-and-solicitation-generally.md#section-3201) note prec.) is revised to integrate planning for exportability features under [section 4067 of title 10](./chapter-303-research-and-engineering-activities.md#section-4067), United States Code, including—“(1) for major defense acquisition programs, an assessment of such programs to identify potential exportability needs; and “(2) for technologies under an acquisition program or project carried out using the rapid fielding or rapid prototyping acquisition pathway that are transitioned to a major capability acquisition program, an assessment of potential exportability needs of such technologies not later than one year after the date of such transition. “(b) Revision of Guidance for Program Protection Plans.—Not later than three years after the date of the enactment of this Act, the Under Secretary shall revise guidance for program protection plans to integrate a requirement to determine exportability for the programs covered by such plans.”
+Pub. L. 118–31, div. A, title VIII, § 810, Dec. 22, 2023, 137 Stat. 321, as amended by Pub. L. 118–159, div. A, title VIII, § 804(c)(5), Dec. 23, 2024, 138 Stat. 1969, provided that: “(a) Program Guidance on Planning for Exportability Features.—Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], the Under Secretary of Defense for Acquisition and Sustainment shall ensure that the program guidance for major defense acquisition programs (as defined in [section 4201 of title 10](./chapter-321-general-matters.md#section-4201), United States Code) and for acquisition programs and projects that are carried out using the rapid fielding or rapid prototyping acquisition pathway under [section 3602 of title 10](./chapter-253-rapid-acquisition-procedures.md#section-3602), United States Code[,] is revised to integrate planning for exportability features under [section 4067 of title 10](./chapter-303-research-and-engineering-activities.md#section-4067), United States Code, including—“(1) for major defense acquisition programs, an assessment of such programs to identify potential exportability needs; and “(2) for technologies under an acquisition program or project carried out using the rapid fielding or rapid prototyping acquisition pathway that are transitioned to a major capability acquisition program, an assessment of potential exportability needs of such technologies not later than one year after the date of such transition. “(b) Revision of Guidance for Program Protection Plans.—Not later than three years after the date of the enactment of this Act, the Under Secretary shall revise guidance for program protection plans to integrate a requirement to determine exportability for the programs covered by such plans.”
 
 
 <a id="section-4091"></a>
@@ -546,7 +558,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 
 <a id="section-4092"></a>
-## § 4092. Personnel management authority to attract experts in science and engineering
+## § 4092. Personnel management authority to attract experts in science, engineering, and certain other disciplines
 **(a) Programs Authorized.—**
 
 (1) **Laboratories of the military departments.—** — The Secretary of Defense may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for such laboratories of the military departments as the Secretary shall designate for purposes of the program for research and development projects of such laboratories.
@@ -569,6 +581,8 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 (10) **Office of the under secretary of defense for research and engineering.—** — The Under Secretary of Defense for Research and Engineering may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for the Office of the Under Secretary.
 
+(11) **Office of strategic capital.—** — The Director of the Office of Strategic Capital may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in finance and investment for the Office.
+
 **(b) Personnel Management Authority.—** Under a program under subsection (a), the official responsible for administration of the program may—
 
 (1) without regard to any provision of title 5 governing the appointment of employees in the civil service—
@@ -579,27 +593,25 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
   (C) in the case of the Office of Operational Test and Evaluation, appoint scientists and engineers to a total of not more than 10 scientific and engineering positions in the Office;
 
-  (D) in the case of the Strategic Capabilities Office, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Office;
+  (D) in the case of the Strategic Capabilities Office, appoint scientists and engineers to a total of not more than 20 scientific and engineering positions in the Office, of which not more than 5 such positions may be positions of administration or management of the Office;
 
-  (E) in the case of the Defense Innovation Unit, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Unit;
+  (E) in the case of the Defense Innovation Unit, appoint scientists and engineers to a total of not more than 35 scientific and engineering positions in the Unit, of which not more than 5 such positions may be positions of administration or management of the Unit;
 
   (F) in the case of the office of the official designated under section 238(b) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232), appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in support of the activities of such official under section 238 of such Act;
 
   (G) in the case of the National Geospatial-Intelligence Agency, appoint individuals to a total of not more than 7 positions in the Agency, of which not more than 2 such positions may be positions of administration or management in the Agency;
 
-  (H) in the case of the Space Development Agency, appoint individuals to a total of not more than 15 positions in the Agency, of which not more than 5 such positions may be positions of administration or management of the Agency;
+  (H) in the case of the Space Development Agency, appoint individuals to a total of not more than 25 positions in the Agency, of which not more than 5 such positions may be positions of administration or management of the Agency;
 
-  (I) in the case of United States Cyber Command, appoint computer scientists, data scientists, engineers, mathematicians, and computer network exploitation specialists to a total of not more than 10 scientific and engineering positions in the Command; and
+  (I) in the case of United States Cyber Command, appoint computer scientists, data scientists, engineers, mathematicians, and computer network exploitation specialists to a total of not more than 10 scientific and engineering positions in the Command;
 
-  (J) in the case of the Office of the Under Secretary of Defense for Research and Engineering, appoint scientists and engineers to a total of not more than 10 scientific and engineering positions in the Office;
+  (J) in the case of the Office of the Under Secretary of Defense for Research and Engineering, appoint scientists and engineers to a total of not more than 10 scientific and engineering positions in the Office; and
+
+  (K) in the case of the Office of Strategic Capital, appoint individuals to a total of not more than 30 positions in the Office;
 
 (2) notwithstanding any provision of title 5 governing the rates of pay or classification of employees in the executive branch, prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1)—
 
-  (A) in the case of employees appointed pursuant to subparagraphs (B) and (H) of paragraph (1)—
-
-    (i) to any of the 5 positions designated by the Director of the Defense Advanced Research Projects Agency and any of the 5 positions designated by the Director of the Space Development Agency for purposes of this clause, at rates not in excess of a rate equal to 150 percent of the maximum rate of basic pay authorized for positions at Level I of the Executive Schedule under [section 5312 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5312&num=0&edition=prelim); and
-
-    (ii) to any other position designated by the Director of the Defense Advanced Research Projects Agency or the Director of the Space Development Agency for purposes of this clause, at rates not in excess of the maximum amount of total annual compensation payable at the salary set in accordance with [section 104 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim);
+  (A) in the case of employees appointed pursuant to subparagraphs (B), (D), (E), (H), and (K) of paragraph (1), at a rate to be determined by the head of the organization concerned up to 150 percent of the total annual compensation payable to the Vice President under [section 104 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim);
 
   (B) in the case of employees appointed pursuant to paragraph (1)(G), to any of 2 positions of administration or management designated by the Director of the National Geospatial-Intelligence Agency for purposes of this subparagraph; and
 
@@ -627,6 +639,24 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 Section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019, referred to in subsecs. (a)(6), (b)(1)(F), and (c)(2), is section 238 of Pub. L. 115–232, which is set out as a note preceding [section 4061 of this title](./chapter-303-research-and-engineering-activities.md#section-4061).
 
 #### Amendments
+2024—Pub. L. 118–159, § 216(1), substituted “science, engineering, and certain other disciplines” for “science and engineering” in section catchline.
+
+Subsec. (a)(11). Pub. L. 118–159, § 216(2), added par. (11).
+
+Subsec. (b)(1)(D). Pub. L. 118–159, § 216(3)(A)(i), substituted “20 scientific and engineering positions in the Office, of which not more than 5 such positions may be positions of administration or management of the Office” for “5 scientific and engineering positions in the Office”.
+
+Subsec. (b)(1)(E). Pub. L. 118–159, § 216(3)(A)(ii), substituted “35 scientific and engineering positions in the Unit, of which not more than 5 such positions may be positions of administration or management of the Unit” for “5 scientific and engineering positions in the Unit”.
+
+Subsec. (b)(1)(H). Pub. L. 118–159, § 216(3)(A)(iii), substituted “25” for “15”.
+
+Subsec. (b)(1)(K). Pub. L. 118–159, § 216(3)(A)(iv)–(vi), added subpar. (K).
+
+Subsec. (b)(2)(A). Pub. L. 118–159, § 216(3)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of employees appointed pursuant to subparagraphs (B) and (H) of paragraph (1)—
+
+“(i) to any of the 5 positions designated by the Director of the Defense Advanced Research Projects Agency and any of the 5 positions designated by the Director of the Space Development Agency for purposes of this clause, at rates not in excess of a rate equal to 150 percent of the maximum rate of basic pay authorized for positions at Level I of the Executive Schedule under [section 5312 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5312&num=0&edition=prelim); and
+
+“(ii) to any other position designated by the Director of the Defense Advanced Research Projects Agency or the Director of the Space Development Agency for purposes of this clause, at rates not in excess of the maximum amount of total annual compensation payable at the salary set in accordance with [section 104 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim);”.
+
 2023—Subsec. (b)(1)(B). Pub. L. 118–31, § 213(1), struck out “, of which not more than 5 such positions may be positions of administration or management of the Agency” before semicolon at end.
 
 Subsec. (b)(4). Pub. L. 118–31, § 213(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “during any fiscal year, pay up to 15 individuals newly appointed pursuant to paragraph (1)(B) the travel, transportation, and relocation expenses and services described under sections 5724, 5724a, and 5724c of title 5.”
@@ -987,24 +1017,24 @@ Pub. L. 110–181, div. A, title XI, § 1107, Jan. 28, 2008, 122 Stat. 357, as a
 
 
 <a id="section-4123"></a>
-## § 4123. Mechanisms to provide funds for defense laboratories for research and development of technologies for military missions
+## § 4123. Mechanisms to provide funds for defense laboratories and test organizations for research and development of technologies for military missions
 **(a) Mechanisms to Provide Funds.—**
 
-(1) The Secretary of Defense, in consultation with the Secretaries of the military departments, shall establish mechanisms under which the director of a defense laboratory may use an amount of funds equal to not less than two percent and not more than four percent of all funds available to the defense laboratory for the following purposes:
+(1) The Secretary of Defense, in consultation with the Secretaries of the military departments, shall establish mechanisms under which the director of a defense laboratory or test organization may use an amount of funds equal to not less than two percent and not more than four percent of all funds available to the defense laboratory or test organization for the following purposes:
 
-  (A) To fund innovative basic and applied research that is conducted at the defense laboratory and supports military missions.
+  (A) To fund innovative basic and applied research that is conducted at the defense laboratory or test organization and supports military missions.
 
-  (B) To fund development programs that support the transition of technologies developed by the defense laboratory into operational use.
+  (B) To fund development programs that support the transition of technologies developed by the defense laboratory or test organization into operational use.
 
-  (C) To fund workforce development activities that improve the capacity of the defense laboratory to recruit and retain personnel with necessary scientific and engineering expertise that support military missions.
+  (C) To fund workforce development activities that improve the capacity of the defense laboratory or test organization to recruit and retain personnel with necessary scientific and engineering expertise that support military missions.
 
-  (D) To fund the repair or minor military construction of the laboratory infrastructure and equipment, in accordance with subsection (b).
+  (D) To fund the repair or minor military construction of the laboratory or test organization infrastructure and equipment, in accordance with subsection (b).
 
-(2) The mechanisms established under paragraph (1) shall provide that funding shall be used under paragraph (1) at the discretion of the director of a defense laboratory in consultation with the science and technology executive of the military department concerned.
+(2) The mechanisms established under paragraph (1) shall provide that funding shall be used under paragraph (1) at the discretion of the director of a defense laboratory or test organization in consultation with the science and technology executive of the military department concerned.
 
-(3) The science and technology executive of a military department may develop policies and guidance to leverage funding and promote cross-laboratory collaboration, including with laboratories of other military departments.
+(3) The science and technology executive of a military department may develop policies and guidance to leverage funding and promote cross-laboratory collaboration, including with laboratories or test organizations of other military departments.
 
-(4) After consultation with the science and technology executive of the military department concerned, the director of a defense laboratory may charge customer activities a fixed percentage fee, in addition to normal costs of performance, in order to obtain funds to carry out activities authorized by this subsection. The fixed fee may not exceed four percent of costs.
+(4) After consultation with the science and technology executive of the military department concerned, the director of a defense laboratory or test organization may charge customer activities a fixed percentage fee, in addition to normal costs of performance, in order to obtain funds to carry out activities authorized by this subsection. The fixed fee may not exceed four percent of costs.
 
 **(b) Availability of Funds for Infrastructure Projects.—** Funds shall be available in accordance with subsection (a)(1)(D) only if—
 
@@ -1026,9 +1056,19 @@ Pub. L. 110–181, div. A, title XI, § 1107, Jan. 28, 2008, 122 Stat. 357, as a
 
   (B) Mechanisms for dissemination to appropriate civilian and military officials of information on achievements and best practices described in paragraph (1) in classified form.
 
+**(d) Test Organization Defined.—** In this section, the term “test organization” means a test organization of the Major Range and Test Facility Base specified in Department of Defense Directive 3200.11 or any successor directive.
+
 ### Statutory Notes
 
 #### Amendments
+2025—Pub. L. 119–60, § 212(1), inserted “and test organizations” after “defense laboratories” in section catchline.
+
+Subsec. (a). Pub. L. 119–60, § 212(2), inserted “or test organization” after “laboratory” wherever appearing.
+
+Subsec. (a)(3). Pub. L. 119–60, § 212(3), inserted “or test organizations” after “laboratories”.
+
+Subsec. (d). Pub. L. 119–60, § 212(4), added subsec. (d).
+
 2021—Pub. L. 116–283, § 1843(b)(1), as added by Pub. L. 117–81, § 1701(u)(4)(A), renumbered [section 2363 of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2363) as this section. A former section 1843(b)(1) of Pub. L. 116–283, which directed the renumbering of [section 2363 of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2363) as section 4103 instead of this section, was repealed by Pub. L. 117–81, § 1701(u)(4)(A), effective as if included therein, so that such renumbering was no longer directed.
 
 2018—Subsec. (c). Pub. L. 115–232 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to annual reports on the use of the authority under subsec. (a).
@@ -1270,11 +1310,11 @@ Pub. L. 102–190, div. A, title II, § 256(a)(2), Dec. 5, 1991, 105 Stat. 1330,
 For termination, effective Dec. 31, 2021, of provisions in subsec. (d) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 #### Pilot Program on Disclosure of Certain Sensitive Information to Federally Funded Research and Development Centers
-Pub. L. 114–328, div. A, title II, § 235, Dec. 23, 2016, 130 Stat. 2064, provided that: “(a) In General.—The Secretary of Defense shall carry out a pilot program on—“(1) permitting officers and employees of the Department of Defense to disclose sensitive information to federally funded research and development centers of the Department for the sole purpose of the performance of administrative, technical, or professional services under and within the scope of the contracts with the parent organizations of such federally funded research and development centers; and “(2) appropriately protecting proprietary information from unauthorized disclosure or use by such centers. “(b) FFRDCs.—The pilot program shall be carried out with one or more federally funded research and development centers of the Department selected by the Secretary for participation in the pilot program. “(c) FFRDC Personnel.—Sensitive information may be disclosed to personnel of a federally funded research and development center under the pilot program only if such personnel and contractors agree to be subject to, and comply with, appropriate ethics standards and requirements applicable to Government personnel, including the Ethics in Government Act of 1978 [see [5 U.S.C. 13101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101&num=0&edition=prelim) et seq.], [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim), United States Code, and chapter 21 of title 41, United States Code. “(d) Conditions on Disclosure.—Sensitive information may be disclosed under the pilot program only if the federally funded research and development center concerned and its parent organization agree to and acknowledge in the parent organization’s contract with the Department of Defense that—“(1) sensitive information furnished to the federally funded research and development center will be accessed and used only for the purposes stated in the contract between the parent organization of the federally funded research and development center and the Department of Defense; “(2) the federally funded research and development center will take all precautions necessary to prevent disclosure of the sensitive information furnished to anyone not authorized access to the information in order to perform the applicable contract; “(3) sensitive information furnished under the pilot program shall not be used by the federally funded research and development center or parent organization to compete against a third party for a Government or non-Government contract or funding, or to support other current or future research or technology development activities performed by the federally funded research and development center; and “(4) any personnel of a federally funded research and development center participating in the pilot program may not disclose or use any trade secrets or any nonpublic information accessed under the pilot program, unless specifically authorized by this section. “(e) Duration.—(1) The pilot program may commence at any time after the review and issuance of policy guidance, updated appropriately, pertaining to the identification, mitigation, and prevention of potentially unfair competitive advantage conferred to federally funded research and development center personnel with access to sensitive information who serve as technical advisors to acquisition programs. “(2) The pilot program shall terminate on the date that is three years after the date of the commencement of the pilot program. “(f) Assessment.—Not later than two years after the commencement of the pilot program, the Comptroller General of the United States shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program, including an assessment of the effectiveness of activities under the pilot program in improving acquisition processes and the effectiveness of protections of private-sector intellectual property in the course of such activities. “(g) Sensitive Information Defined.—In this section, the term ‘sensitive information’ means confidential commercial, financial, or proprietary information, technical data, contract performance, contract performance evaluation, management, and administration data, or other privileged information owned by other contractors of the Department of Defense that is exempt from public disclosure under [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim), United States Code, or which would otherwise be prohibited from disclosure under section 1832 or 1905 of title 18, United States Code.”
+Pub. L. 114–328, div. A, title II, § 235, Dec. 23, 2016, 130 Stat. 2064, which authorized the Secretary of Defense to carry out a pilot program on disclosure of certain sensitive information to federally funded research and development centers of the Department of Defense, was repealed by Pub. L. 118–159, div. A, title VIII, § 811(a)(1)(E), Dec. 23, 2024, 138 Stat. 1979.
 
 
 <a id="section-4127"></a>
-## § 4127. Defense innovation unit 11 So in original. Probably should be “Defense Innovation Unit”.
+## § 4127. Defense Innovation Unit
 **(a) Establishment.—** There is established in the Department of Defense a Defense Innovation Unit (referred to in this section as the “Unit”).
 
 **(b) Director and Deputy Director.—** There is a Director of the Unit who shall be appointed by the Secretary of Defense from among persons with substantial experience in innovation and commercial technology, as determined by the Secretary.
@@ -1311,7 +1351,7 @@ Pub. L. 114–328, div. A, title II, § 235, Dec. 23, 2016, 130 Stat. 2064, prov
 
   (C) monitor the execution of such projects by the service-level innovation organizations.
 
-(9) Serve as the principal liaison between the Department of Defense, nontraditional defense contractors, investors in nontraditional defense companies, and departments and agencies of the Federal Government pursing 22 So in original. Probably should be “pursuing”. nontraditional capabilities similar to those pursued by the Department.
+(9) Serve as the principal liaison between the Department of Defense, nontraditional defense contractors, investors in nontraditional defense companies, and departments and agencies of the Federal Government pursuing nontraditional capabilities similar to those pursued by the Department.
 
 (10) Lead engagement with industry, academia, and other nongovernment entities to develop—
 
@@ -1347,7 +1387,19 @@ Pub. L. 114–328, div. A, title II, § 235, Dec. 23, 2016, 130 Stat. 2064, prov
 
 (4) On an annual basis, the Director shall submit to the Secretary of Defense and the congressional defense committees a report on the activities, advances, outcomes, and work product of the multi-stakeholder research and innovation partnerships supported under this subsection.
 
-**(f) Definitions.—** In this section:
+**(f) Regional Outreach Centers.—**
+
+(1) **In general.—** — The Director may establish and maintain regional offices of the Unit at locations within and outside the United States for purposes of conducting outreach to and streamlining interactions between the Unit and the private sector, academia, and other mission partners.
+
+(2) **Selection criteria and other guidance.—** — In the event the Director exercises the authority to establish and maintain regional offices under paragraph (1), the Director shall—
+
+  (A) develop a strategy and criteria for the selection of locations for such offices;
+
+  (B) issue any rules, regulations, policies, or guidance necessary for the operation of such offices; and
+
+  (C) make the information described in subparagraphs (A) and (B) available on a publicly accessible website of the Department of Defense.
+
+**(g) Definitions.—** In this section:
 
 (1) The term “multi-stakeholder research and innovation partnership” means a partnership composed of any combination of two or more of the following:
 
@@ -1365,8 +1417,167 @@ Pub. L. 114–328, div. A, title II, § 235, Dec. 23, 2016, 130 Stat. 2064, prov
 
 ### Statutory Notes
 
-#### Delayed Effective Date of Section
-Section effective 180 days after Dec. 22, 2023, with additional implementation requirements, see Effective Date; Implementation note below.
+#### Amendments
+2025—Subsec. (d)(9). Pub. L. 119–60, § 1701(a)(26), substituted “pursuing” for “pursing”.
+
+Subsecs. (f), (g). Pub. L. 119–60, § 913, added subsec. (f) and redesignated former subsec. (f) as (g).
+
+2024—Pub. L. 118–159 substituted “Defense Innovation Unit” for “Defense innovation unit” in section catchline.
 
 #### Effective Date; Implementation
 Section effective 180 days after Dec. 22, 2023, with additional implementation requirements, see section 913(b)(1), (2) of Pub. L. 118–31, set out as notes under [section 1766 of this title](./chapter-087-defense-acquisition-workforce.md#section-1766).
+
+
+<a id="section-4128"></a>
+## § 4128. Laboratory Quality Enhancement Program
+**(a) Program Required.—**
+
+(1) The Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, shall carry out a program under which the Secretary shall establish the panels described in subsection (b) and direct such panels—
+
+  (A) to review and make recommendations to the Secretary with respect to—
+
+    (i) existing policies and practices affecting the science and technology reinvention laboratories to improve the mission effectiveness of such laboratories;
+
+    (ii) new initiatives proposed by the science and technology reinvention laboratories; and
+
+    (iii) new interpretations of existing provisions of law that would enhance the ability of a director of a science and technology reinvention laboratory to manage the laboratory and discharge the mission of the laboratory;
+
+  (B) to support implementation of current and future initiatives affecting the science and technology reinvention laboratories; and
+
+  (C) to conduct assessments or data analysis on the effectiveness of the authorities granted to the science and technology reinvention laboratories and such other issues as the Secretary determines to be appropriate.
+
+(2) The program carried out pursuant to paragraph (1) shall be known as the “Laboratory Quality Enhancement Program”.
+
+**(b) Panels.—** The panels described in this subsection are the following:
+
+(1) A panel on personnel, workforce development, and talent management.
+
+(2) A panel on facilities, equipment, and infrastructure.
+
+(3) A panel on research strategy, technology transfer, and industry and university partnerships.
+
+(4) A panel on governance and oversight processes.
+
+**(c) Composition of Panels.—**
+
+(1) Each panel described in paragraphs (1) through (3) of subsection (b) may be composed of subject matter and technical management experts from—
+
+  (A) laboratories and research centers of the Army, Navy, and Air Force;
+
+  (B) appropriate Defense Agencies;
+
+  (C) the Office of the Under Secretary of Defense for Research and Engineering; and
+
+  (D) such other entities as the Secretary determines to be appropriate.
+
+(2) The panel described in subsection (b)(4) shall be composed of—
+
+  (A) at least one member from each of the science and technology reinvention laboratories; and
+
+  (B) such other members as the Secretary determines to be appropriate.
+
+**(d) Governance of Panels.—**
+
+(1) The chairperson of each panel established pursuant to subsection (a) shall be selected by the members of the respective panel.
+
+(2) Each panel, in coordination with the Under Secretary of Defense for Research and Engineering, shall transmit to the Science and Technology Executive Committee of the Department of Defense such information or findings on topics requiring decision or approval as the panel considers appropriate.
+
+**(e) Interpretation of Provisions of Law.—**
+
+(1) The Under Secretary of Defense for Research and Engineering, acting under the guidance of the Secretary, shall issue regulations regarding the meaning, scope, implementation, and applicability of any provision of a statute relating to a science and technology reinvention laboratory.
+
+(2) In interpreting or defining under paragraph (1), the Under Secretary shall, to the degree practicable, emphasize providing the maximum operational flexibility to the directors of the science and technology reinvention laboratories to discharge the missions of their laboratories.
+
+(3) In interpreting or defining under paragraph (1), the Under Secretary shall, to the extent practicable, consult and coordinate with the secretaries of the military departments and such other agencies or entities as the Under Secretary considers relevant on any proposed revision to regulations under paragraph (1).
+
+(4) In interpreting or defining under paragraph (1), the Under Secretary shall seek recommendations from the panel described in subsection (b)(4).
+
+**(f) Science and Technology Reinvention Laboratory Defined.—** In this section, the term “science and technology reinvention laboratory” means a Department of Defense laboratory designated as a Department of Defense science and technology reinvention laboratory under [section 4121 of this title](./chapter-303-research-and-engineering-activities.md#section-4121).
+
+### Statutory Notes
+
+#### Codification
+Another section 4128 was renumbered [section 4129 of this title](./chapter-303-research-and-engineering-activities.md#section-4129).
+
+#### Prior Provisions
+Provisions similar to those in this section were contained in Pub. L. 114–328, div. A, title II, § 211, Dec. 23, 2016, 130 Stat. 2046, as amended by Pub. L. 115–91, div. A, title II, § 218(a), (b)(1), Dec. 12, 2017, 131 Stat. 1329, 1330; Pub. L. 117–81, div. A, title II, § 215(d)(6), Dec. 27, 2021, 135 Stat. 1594, which was set out in a note preceding [section 4121 of this title](./chapter-303-research-and-engineering-activities.md#section-4121), prior to repeal by Pub. L. 118–159, div. A, title II, § 217(b), Dec. 23, 2024, 138 Stat. 1827.
+
+
+<a id="section-4129"></a>
+## § 4129. Joint Federated Assurance Center
+**(a) Establishment.—** There is in the Office of the Under Secretary of Defense for Research and Engineering a Joint Federated Assurance Center (referred to in this section as the “Center”).
+
+**(b) Purpose.—** The purpose of the Center shall be to serve as a joint, Department-wide federation of organizations and capabilities to support the assurance needs of the Department of Defense by ensuring, pursuant to policies related to hardware and software assurance and supply chain risk management, that the software and hardware developed, acquired, maintained, and used by the Department are free from intentional and unintentional vulnerability during the life-cycle of development and deployment of assured, trustworthy defense systems.
+
+**(c) Governance.—**
+
+(1) The Center shall be governed by an Executive Steering Group. The Executive Steering Group shall continually evaluate the Center’s capabilities to support the hardware and software assurance needs of the Department.
+
+(2) The Executive Steering Group shall be composed of one or more representatives from each of the organizations that comprise the Center.
+
+(3) The Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Acquisition and Sustainment shall serve as co-Chairpersons of the Executive Steering Group.
+
+**(d) Duties.—** The duties of the Center are as follows:
+
+(1) Providing knowledge management capabilities for hardware and software assurance for the Department.
+
+(2) Providing Department-wide visibility on strategy, use cases, procurement, investment, and other relevant activities to aggregate, to the extent practicable, assurance tool purchases by the Department.
+
+(3) Developing and standardizing policies, procedures, competencies, risk assessment methodologies, and independent validation and verification test capabilities—
+
+  (A) to support timely and cost-effective fielding of current and future technologies to the Department;
+
+  (B) to ensure sustainment of enduring capability needs across the life-cycle of Department of Defense programs and determine the sustainment factors related to the assurance of future hardware and software systems;
+
+  (C) to increase efficiencies across Department of Defense programs through the use of emerging assurance technologies; and
+
+  (D) to leverage economies of scale through coordinated acquisition and use of hardware and software assurance technologies.
+
+(4) Promoting assurance capabilities for hardware and software assurance—
+
+  (A) to mature assessment criteria and enable scalable deployment of commercial best practices, such as through the fostering and maturation of evidence-based assurance of trusted defense microelectronics system needs, with emphasis on commercial security protocols that are transferable to defense applications;
+
+  (B) to scale the Center for Department-wide access, through the resourcing of adequate personnel to address standardization and automation of data collection and analysis;
+
+  (C) to utilize data from commercial assurance processes to support the development of Department hardware and software that meet standards, applications, and requirements, including through comparative analysis and data modeling;
+
+  (D) to seek and apply commercial best practices, where practicable, through industry collaboration; and
+
+  (E) to develop and align Department policy, investments, and activities with commercial best practices, to the extent practicable.
+
+(5) For contracts for application-specific integrated circuits designed by defense industrial base contractors, develop guidance for—
+
+  (A) the consideration of evidence-based assurance processes and techniques that are included in the contract data requirements list, to the extent practicable;
+
+  (B) the use of commercial best practices, as applicable, for confidentiality, integrity and availability; and
+
+  (C) the development of a library of certified third-party intellectual property for reuse, including streamlining legal mechanisms for data collection and sharing, and enhanced use of automation technology to achieve efficiency.
+
+(6) The assessment, creation, prototyping, maturation, and maintenance of relevant assurance practices, including the validation and maturation of evidence based assurance methods, for the development, procurement, and deployment of hardware and software assurance tools and processes, including—
+
+  (A) development and assessment of validation methods for such processes and techniques, in coordination with the developmental and operational test and evaluation community, as the Executive Steering Group determines necessary;
+
+  (B) development and assessment of threat models that comprehensively characterize the threat to microelectronics confidentiality, integrity, and availability across the entire supply chain, and the design, production, packaging, and deployment cycle to support risk management and risk mitigation; and
+
+  (C) support development of guides to inform use and decision-making by program evaluators, program offices, and industry to meet software and hardware assurance requirements.
+
+**(e) Revised Charter.—** Not later than 180 days after the date of the enactment of this section, the Secretary of Defense shall issue a revised charter for the Center. The charter shall set forth—
+
+(1) the role and authorities of the Center and the Executive Steering Group;
+
+(2) the requirement of the Center to establish guidelines for the development of improved software code vulnerability analysis and testing tools;
+
+(3) the requirement of the Center to establish guidelines for the development of improved hardware vulnerability testing and protection tools; and
+
+(4) the manner in which the Center will connect to the Department’s major governance and resourcing processes to ensure the continuation of Center duties.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 118–159, which was approved Dec. 23, 2024.
+
+#### Prior Provisions
+Provisions requiring the establishment of a joint federation of capabilities to support the trusted defense system needs of the Department were contained in Pub. L. 113–66, div. A, title IX, § 937, Dec. 26, 2013, 127 Stat. 834, as amended by Pub. L. 114–92, div. A, title II, § 231, Nov. 25, 2015, 129 Stat. 778, which was set out in a note under [section 2224 of this title](./chapter-131-planning-and-coordination.md#section-2224), prior to repeal by Pub. L. 118–159, div. A, title IX, § 922(c), Dec. 23, 2024, 138 Stat. 2039.
+
+#### Amendments
+2025—Pub. L. 119–60 renumbered [section 4128 of this title](./chapter-303-research-and-engineering-activities.md#section-4128), relating to the Joint Federated Assurance Center, as this section.

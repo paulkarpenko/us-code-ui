@@ -228,16 +228,14 @@ Pub. L. 98–369, div. A, title V, § 544(d), July 18, 1984, 98 Stat. 894, provi
 
 (3) **Basic exclusion amount**
 
-  (A) *In general* — For purposes of this subsection, the basic exclusion amount is $5,000,000.
+  (A) *In general* — For purposes of this subsection, the basic exclusion amount is $15,000,000.
 
-  (B) *Inflation adjustment* — In the case of any decedent dying in a calendar year after 2011, the dollar amount in subparagraph (A) shall be increased by an amount equal to—
+  (B) *Inflation adjustment* — In the case of any decedent dying in a calendar year after 2026, the dollar amount in subparagraph (A) shall be increased by an amount equal to—
 
     (i) such dollar amount, multiplied by
 
-    (ii) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2010” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+    (ii) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2025” for “calendar year 2016” in subparagraph (A)(ii) thereof.
     If any amount as adjusted under the preceding sentence is not a multiple of $10,000, such amount shall be rounded to the nearest multiple of $10,000.
-
-  (C) *Increase in basic exclusion amount* — In the case of estates of decedents dying or gifts made after December 31, 2017, and before January 1, 2026, subparagraph (A) shall be applied by substituting “$10,000,000” for “$5,000,000”.
 
 (4) **Deceased spousal unused exclusion amount** — For purposes of this subsection, with respect to a surviving spouse of a deceased spouse dying after December 31, 2010, the term “deceased spousal unused exclusion amount” means the lesser of—
 
@@ -270,6 +268,14 @@ The Tax Reform Act of 1976, referred to in subsec. (b), is Pub. L. 94–455, Oct
 [Section 2521 of this title](./chapter-012-gift-tax.md#section-2521), referred to in subsec. (b), was repealed by section 2001(b)(3) of Pub. L. 94–455, applicable to gifts made after Dec. 31, 1976.
 
 #### Amendments
+2025—Subsec. (c)(3)(A). Pub. L. 119–21, § 70106(a)(1), substituted “$15,000,000” for “$5,000,000”.
+
+Subsec. (c)(3)(B). Pub. L. 119–21, § 70106(a)(2)(A), substituted “2026” for “2011” in introductory provisions.
+
+Subsec. (c)(3)(B)(ii). Pub. L. 119–21, § 70106(a)(2)(B), substituted “calendar year 2025” for “calendar year 2010”.
+
+Subsec. (c)(3)(C). Pub. L. 119–21, § 70106(a)(3), struck out subpar. (C). Text read as follows: “In the case of estates of decedents dying or gifts made after December 31, 2017, and before January 1, 2026, subparagraph (A) shall be applied by substituting ‘$10,000,000’ for ‘$5,000,000’.”
+
 2017—Subsec. (c)(3)(B)(ii). Pub. L. 115–97, § 11002(d)(1)(CC), substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
 
 Subsec. (c)(3)(C). Pub. L. 115–97, § 11061(a), added subpar. (C).
@@ -301,6 +307,9 @@ Subsecs. (c), (d). Pub. L. 105–34, § 501(a)(1)(B), added subsec. (c) and rede
 1981—Subsec. (a). Pub. L. 97–34, § 401(a)(1), substituted “$192,800” for “$47,000”.
 
 Subsec. (b). Pub. L. 97–34, § 401(a)(2)(A), struck out “$47,000” before “credit” from heading and in text substituted in subsec. (a) substitutions for “$192,800” amounts of “$62,800”, “$79,300”, “$96,300”, “$121,800”, and “$155,800” in the case of decedents dying in 1982, 1983, 1984, 1985, and 1986, respectively, for subsec. (a) substitutions for “$47,000” amounts of “$30,000”, “$34,000”, “$38,000”, and “$42,500” in the case of decedents dying in 1977, 1978, 1979, and 1980, respectively.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VII, § 70106(b), July 4, 2025, 139 Stat. 162, provided that: “The amendments made by this section [amending this section] shall apply to estates of decedents dying and gifts made after December 31, 2025.”
 
 #### Effective Date of 2017 Amendment
 Amendment by section 11002(d)(1)(CC) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -3652,7 +3661,6 @@ Section applicable with respect to estates of decedents dying after Sept. 14, 19
 
 Section, added Pub. L. 107–16, title V, § 501(a), June 7, 2001, 115 Stat. 69, related to termination of applicability of chapter to estates of decedents dying after Dec. 31, 2009.
 
-#### Prior Provisions
 A prior section 2210, added Pub. L. 98–369, div. A, title V, § 544(a), July 18, 1984, 98 Stat. 892; amended Pub. L. 99–514, title XVIII, §§ 1854(d)(1)(A), (2)–(6), 1899A(37), Oct. 22, 1986, 100 Stat. 2879, 2880, 2960, related to liability for payment in case of transfer of employer securities to an employee stock ownership plan or a worker-owned cooperative, prior to repeal by Pub. L. 101–239, title VII, § 7304(b)(1), (3), Dec. 19, 1989, 103 Stat. 2353, applicable to estates of decedents dying after July 12, 1989.
 
 #### Effective Date of Repeal

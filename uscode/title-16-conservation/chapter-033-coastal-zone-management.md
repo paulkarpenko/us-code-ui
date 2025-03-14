@@ -1826,7 +1826,7 @@ Pub. L. 116–223, § 3, Dec. 18, 2020, 134 Stat. 1068, provided that: “In thi
 
 (1) **Administrator** — The term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration.
 
-(2) **Coastal State** — The term “coastal State” has the meaning given the term “Coastal state” 11 So in original. Probably should be “ ‘coastal state’ ”. in [section 1453 of this title](./chapter-033-coastal-zone-management.md#section-1453).
+(2) **Coastal State** — The term “coastal State” has the meaning given the term “Coastal state” 11 So in original. Probably should be “ ‘coastal state’ ” as it appears in [section 1453 of this title](./chapter-033-coastal-zone-management.md#section-1453). in [section 1453 of this title](./chapter-033-coastal-zone-management.md#section-1453).
 
 (3) **Indian Tribe** — The term “Indian Tribe” has the meaning given that term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 

@@ -450,7 +450,7 @@ Pub. L. 90–448, title V, § 501(c), Aug. 1, 1968, 82 Stat. 520, provided that 
 ### Statutory Notes
 
 #### References in Text
-The United States Housing Act of 1937, referred to in subsec. (a)(4), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
+The United States Housing Act of 1937, referred to in subsec. (a)(4), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b)(6), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
@@ -1696,7 +1696,7 @@ Subsec. (b)(7). Pub. L. 98–479, § 105(d)(2), substituted “1490m of this tit
 
 “(3) not more than $5,000,000 of such amount so approved shall be available for making advances under [section 1471(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1471/e&num=0&edition=prelim) for such fiscal year; and
 
-“(4) none of such amount shall be available for loans guaranteed pursuant to this title on behalf of borrowers who do not receive assistance pursuant to subparagraph (B) or (C) of [section 1490a(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1490a/a/1&num=0&edition=prelim).
+“(4) none of such amount shall be available for loans guaranteed pursuant to this title on behalf of borrowers who do not receive assistance pursuant to subparagraph (B) or (C) of [section 1490a(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1490a/a/1&num=0&edition=prelim).”
 
 Subsec. (b). Pub. L. 98–181 amended subsec. (b) generally, substituting “There are authorized to be appropriated for fiscal years 1984 and 1985—
 
@@ -1714,7 +1714,7 @@ Subsec. (b). Pub. L. 98–181 amended subsec. (b) generally, substituting “The
 
 “(7) not to exceed $100,000,000 for each such year for grants under [section 1490k of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1490k); of which 5 per centum shall be available for technical assistance; and
 
-“(8) such sums as may be required by the Secretary to administer the provisions of sections 1715z and 1715z–1 of title 12 and [section 1437f of this title](./chapter-008-low-income-housing.md#section-1437f)”
+“(8) such sums as may be required by the Secretary to administer the provisions of sections 1715z and 1715z–1 of title 12 and [section 1437f of this title](./chapter-008-low-income-housing.md#section-1437f).”
 
 for “There are authorized to be appropriated—
 
@@ -1863,46 +1863,35 @@ Amendment by act Aug. 7, 1956, effective July 1, 1956, see section 606(d) of act
 
 (2) any other standards as may be adopted by the Secretary, in collaboration with the Secretary of Housing and Urban Development, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
 
+**(k) Qualifying smoke alarms**
+
+(1) **In general** — Housing and related facilities constructed with loans under this section shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
+
+(2) **Definitions** — For purposes of this subsection, the following definitions shall apply:
+
+  (A) *Smoke alarm defined* — The term “smoke alarm” has the meaning given the term “smoke detector” in [section 2225(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2225/d&num=0&edition=prelim).
+
+  (B) *Qualifying smoke alarm defined* — The term “qualifying smoke alarm” means a smoke alarm that—
+
+    (i) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
+
+      (I)
+
+        (aa) is hardwired; or
+
+        (bb) uses 10-year non rechargeable, nonreplaceable primary batteries and—
+
+          (AA) is sealed;
+
+          (BB) is tamper resistant; and
+
+          (CC) contains silencing means; and
+
+      (II) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
+
+    (ii) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.
+
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 117–328, div. AA, title VI, § 601(e)(1), (h), Dec. 29, 2022, 136 Stat. 5546, 5548, provided that, effective two years after Dec. 29, 2022, this section is amended by adding at the end the following:
-
-(k) Qualifying smoke alarms
-
-(1) In general
-
-Housing and related facilities constructed with loans under this section shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
-
-(2) Definitions
-
-For purposes of this subsection, the following definitions shall apply:
-
-(A) Smoke alarm defined
-
-The term “smoke alarm” has the meaning given the term “smoke detector” in [section 2225(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2225/d&num=0&edition=prelim).
-
-(B) Qualifying smoke alarm defined
-
-The term “qualifying smoke alarm” means a smoke alarm that—
-
-(i) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
-
-(I)(aa) is hardwired; or
-
-(bb) uses 10-year non rechargeable, nonreplaceable primary batteries and—
-
-(AA) is sealed;
-
-(BB) is tamper resistant; and
-
-(CC) contains silencing means; and
-
-(II) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
-
-(ii) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.
-
-See 2022 Amendment note below.
 
 #### References in Text
 Sections 1005a and 1005c(a), (b), and (c) of title 7, referred to in subsec. (b), were repealed by section 341(a) of Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 318 (set out as a note under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim), Agriculture), which also provided that references in other laws to the Bankhead-Jones Farm Tenant Act shall be construed as referring to appropriate provisions of section 1921 et seq. of Title 7. The fund established pursuant to [section 1005a of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1005a&num=0&edition=prelim) was renamed the Agricultural Credit Insurance Fund. See [section 1929 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1929&num=0&edition=prelim).
@@ -2074,6 +2063,28 @@ After August 6, 1996, the ownership or control of a project for which a loan is 
 
   (B) any other standards as may be adopted by the Secretary, in collaboration with the Secretary of Housing and Urban Development, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
 
+(3) **Qualifying smoke alarms**
+
+  (A) *In general.—* — Housing and related facilities rehabilitated or repaired with amounts received under a loan made or insured under this section shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
+
+  (B) *Definitions.—* — For purposes of this paragraph, the following definitions shall apply:
+
+    (i) *Smoke alarm defined.—* — The term “smoke alarm” has the meaning given the term “smoke detector” in [section 2225(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2225/d&num=0&edition=prelim).
+
+    (ii) *Qualifying smoke alarm defined.—* — The term “qualifying smoke alarm” means a smoke alarm that—
+
+      (I) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
+
+        (aa)
+
+          (AA) is hardwired; or
+
+          (BB) uses 10-year non rechargeable, nonreplaceable primary batteries and is sealed, is tamper resistant, and contains silencing means; and
+
+        (bb) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
+
+      (II) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.
+
 **(n) Assistance to projects located on more than one site** The Secretary may not deny assistance under this section or [section 1490a of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1490a) on the basis that the project involved is to be located on more than one site.
 
 **(o) Rental assistance payments as affecting assistance to projects or occupancy by eligible persons** The Secretary may not (1) deny assistance under this section on the basis that rental assistance payments under [section 1490a of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1490a) may be required unless the authority to provide such assistance is not available; or (2) promulgate any regulation that would have the effect of denying occupancy to eligible persons on the basis that such persons require rental assistance payments under [section 1490a of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1490a).
@@ -2215,37 +2226,12 @@ After August 6, 1996, the ownership or control of a project for which a loan is 
 
 ### Statutory Notes
 
-#### Amendment of Subsection (m)
-Pub. L. 117–328, div. AA, title VI, § 601(e)(2), (h), Dec. 29, 2022, 136 Stat. 5547, 5548, provided that, effective two years after Dec. 29, 2022, subsection (m) of this section is amended by adding at the end the following:
-
-(3) Qualifying Smoke Alarms
-
-(A) In general.—Housing and related facilities rehabilitated or repaired with amounts received under a loan made or insured under this section shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
-
-(B) Definitions.—For purposes of this paragraph, the following definitions shall apply:
-
-(i) Smoke alarm defined.—The term “smoke alarm” has the meaning given the term “smoke detector” in [section 2225(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2225/d&num=0&edition=prelim).
-
-(ii) Qualifying smoke alarm defined.—The term “qualifying smoke alarm” means a smoke alarm that—
-
-(I) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
-
-(aa)(AA) is hardwired; or
-
-(BB) uses 10-year non rechargeable, nonreplaceable primary batteries and is sealed, is tamper resistant, and contains silencing means; and
-
-(bb) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
-
-(II) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.
-
-See 2022 Amendment note below.
-
 #### References in Text
 [Section 1928 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1928&num=0&edition=prelim), referred to in subsec. (b)(3), was amended generally by Pub. L. 104–127, title VI, § 605, Apr. 4, 1996, 110 Stat. 1086, and, as so amended, consists of subsecs. (a) and (b) which are substantially similar to provisions formerly contained in the third sentence of such section.
 
 [Section 1929(f)(1) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1929/f/1&num=0&edition=prelim), referred to in subsec. (b)(3), was repealed and section 1929(f)(2) was redesignated section 1929(f)(1) by Pub. L. 104–127, title VII, § 744, Apr. 4, 1996, 110 Stat. 1125.
 
-The United States Housing Act of 1937, referred to in subsec. (q), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
+The United States Housing Act of 1937, referred to in subsec. (q), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
 
 #### Codification
 Section 203(a) of Pub. L. 100–242, as amended, which was formerly set out in a note under section 1715l of Title 12, Banks and Banking, and which provided that on Nov. 28, 1990, the amendment made by section 263 of Pub. L. 100–242 is repealed and section is to read as it would without such amendment, was omitted in the general amendment of subtitle A of title II of Pub. L. 100–242 by Pub. L. 101–625.
@@ -2539,9 +2525,11 @@ Nothing in amendment made by Pub. L. 116–260 to be construed to preempt or lim
 
 (1) that the rentals charged domestic farm labor shall not exceed such amounts as may be approved by the Secretary, giving due consideration to the income and earning capacity of the tenants, and the necessary costs of operating and maintaining such housing;
 
-(2) that such housing shall be maintained at all times in a safe and sanitary condition in accordance with such standards as may be prescribed by State or local law, or, in the absence of such standards, in accordance with such minimum requirements as the Secretary shall prescribe; and
+(2) that such housing shall be maintained at all times in a safe and sanitary condition in accordance with such standards as may be prescribed by State or local law, or, in the absence of such standards, in accordance with such minimum requirements as the Secretary shall prescribe;
 
-(3) an absolute priority will be given at all times in granting occupancy of such housing and facilities to domestic farm labor.
+(3) an absolute priority will be given at all times in granting occupancy of such housing and facilities to domestic farm labor; and
+
+(4) that such housing shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
 
 **(d) Payments; contracts to specify uses of housing** The Secretary may make payments pursuant to any contract for financial assistance under this section at such times and in such manner, as may be specified in the contract. In each contract, the Secretary shall include such covenants, conditions, or provisions as he deems necessary to insure that the housing and related facilities, for which financial assistance is made available, be used only in conformity with the provisions of this section.
 
@@ -2555,9 +2543,31 @@ Nothing in amendment made by Pub. L. 116–260 to be construed to preempt or lim
 
 (2) the terms “related facilities” and “domestic farm labor” shall have the meaning assigned to them in [section 1484(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1484/f&num=0&edition=prelim);
 
-(3) the term “development cost” shall have the meaning assigned to it in section 1485(d)(4) 11 See References in Text note below. of this title; and
+(3) the term “development cost” shall have the meaning assigned to it in section 1485(d)(4) 11 See References in Text note below. of this title;
 
-(4) the term “domestic farm labor” has the meaning given such term in [section 1484(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1484/f/3&num=0&edition=prelim).
+(4) the term “domestic farm labor” has the meaning given such term in [section 1484(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1484/f/3&num=0&edition=prelim);
+
+(5) the term “smoke alarm” has the meaning given the term “smoke detector” in [section 2225(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2225/d&num=0&edition=prelim); and
+
+(6) the term “qualifying smoke alarm” means a smoke alarm that—
+
+  (A) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
+
+    (i)
+
+      (I) is hardwired; or
+
+      (II) uses 10-year non rechargeable, nonreplaceable primary batteries and—
+
+        (aa) is sealed;
+
+        (bb) is tamper resistant; and
+
+        (cc) contains silencing means; and
+
+    (ii) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
+
+  (B) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.
 
 **(h) Migrant farmworker housing** Notwithstanding the provisions of subsection (a)(3), the Secretary may, upon a finding of persistent need for migrant farmworker housing in any area, provide assistance to eligible applicants for 90 per centum of the development costs of such housing in such area to be used solely by migrant farmworkers while they are away from their residence. Such housing shall be constructed in such a manner as to be safe and weatherproof for the time it is to be occupied, be equipped with potable water and modern sanitation facilities (including a kitchen sink, toilet, and bathing facilities), and meet such other requirements as the Secretary may prescribe.
 
@@ -2652,49 +2662,6 @@ Nothing in amendment made by Pub. L. 116–260 to be construed to preempt or lim
   (D) The term “operating costs” means expenses incurred by a recipient providing housing under this subsection with respect to the administration, maintenance, repair, and security of such housing and utilities, fuel, furnishings, and equipment for such housing.
 
 ### Statutory Notes
-
-#### Amendment of Subsections (c) and (g)
-Pub. L. 117–328, div. AA, title VI, § 601(f), (h), Dec. 29, 2022, 136 Stat. 5548, provided that, effective two years after Dec. 29, 2022, this section is amended—
-
-(1) in subsection (c)—
-
-(A) in paragraph (2), by striking “and” at the end;
-
-(B) in paragraph (3), by striking the period at the end and inserting “; and”; and
-
-(C) by adding at the end the following:
-
-“(4) that such housing shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.”; and
-
-(2) in subsection (g)—
-
-(A) in paragraph (3) by striking “and” at the end;
-
-(B) in paragraph (4), by striking the period at the end and inserting a semicolon; and
-
-(C) by adding at the end the following:
-
-“(5) the term ‘smoke alarm’ has the meaning given the term ‘smoke detector’ in [section 2225(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2225/d&num=0&edition=prelim); and
-
-“(6) the term ‘qualifying smoke alarm’ means a smoke alarm that—
-
-“(A) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
-
-“(i)(I) is hardwired; or
-
-“(II) uses 10-year non rechargeable, nonreplaceable primary batteries and—
-
-“(aa) is sealed;
-
-“(bb) is tamper resistant; and
-
-“(cc) contains silencing means; and
-
-“(ii) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
-
-“(B) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.”
-
-See 2022 Amendment notes below.
 
 #### References in Text
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (f), is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -3093,11 +3060,11 @@ Pub. L. 101–625, title VII, § 715(b), Nov. 28, 1990, 104 Stat. 4296, provided
 #### References in Text
 [Section 1487(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1487/a&num=0&edition=prelim), referred to in subsecs. (a)(1)(A) and (b), was amended by Pub. L. 98–181, title I [title V, § 514(a)(1)], Nov. 30, 1983, 98 Stat. 1247, and, as so amended, does not contain a par. (1).
 
-The National Housing Act, referred to in subsec. (a)(1)(C) and (F), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in subsec. (a)(1)(C), (F), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
-The United States Housing Act of 1937, referred to in subsec. (a)(1)(C) and (F), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
+The United States Housing Act of 1937, referred to in subsec. (a)(1)(C), (F), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
 
-The effective date of this paragraph, referred to in subsec. (a)(3)(A) and (B), is six months after Nov. 30, 1983, or upon the earlier promulgation of implementing regulations by the Secretary. See section 517(f) of Pub. L. 98–181, set out as an Effective Date of 1983 Amendment note below.
+The effective date of this paragraph, referred to in subsec. (a)(3)(A), (B), is six months after Nov. 30, 1983, or upon the earlier promulgation of implementing regulations by the Secretary. See section 517(f) of Pub. L. 98–181, set out as an Effective Date of 1983 Amendment note below.
 
 #### Amendments
 2000—Subsec. (a)(5)(A). Pub. L. 106–569 substituted “Any tenant or unit assisted” for “Any project assisted” in last sentence.

@@ -279,7 +279,7 @@ This section not to be construed as modifying or superseding, or as intended to 
 
   (A) a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued; or
 
-  (B) a protest of an order valued in excess of $25,000,000.
+  (B) a protest of an order valued in excess of $35,000,000.
 
 (2) Notwithstanding [section 3556 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3556&num=0&edition=prelim), the Comptroller General of the United States shall have exclusive jurisdiction of a protest authorized under paragraph (1)(B).
 
@@ -325,6 +325,8 @@ Section 3449, act Aug. 10, 1956, ch. 1041, 70A Stat. 197, provided that temporar
 A prior section 3450, act Aug. 10, 1956, ch. 1041, 70A Stat. 197, provided for suspension of laws for promotion or mandatory retirement or separation during war or emergency of temporary warrant officers of the Army, prior to repeal by Pub. L. 90–235, § 3(b)(1), Jan. 2, 1968, 81 Stat. 758.
 
 #### Amendments
+2024—Subsec. (f)(1)(B). Pub. L. 118–159 substituted “$35,000,000” for “$25,000,000”.
+
 2022—Subsec. (h). Pub. L. 117–263 added subsec. (h).
 
 2021—Pub. L. 116–283, § 1820(e)(1), (2), renumbered [section 2304c of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2304c) as this section, redesignated subsecs. (g), (a), (b), (c), (e), and (f) as (a), (b), (c), (e), (f), and (g), respectively, and reordered subsecs. accordingly.

@@ -95,8 +95,14 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
+#### Prohibition on Participation of Males in Athletic Programs or Activities at the Military Service Academies That Are Designated for Women or Girls
+Pub. L. 119–60, div. A, title V, § 559A, Dec. 18, 2025, 139 Stat. 880, provided that: “(a) In General.—The Secretary of Defense shall ensure that the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy do not permit a person enrolled at such an Academy whose sex is male to participate in an athletic program or activity that is designated for women or girls. “(b) Rule of Construction.—Nothing in this section shall be construed to prohibit the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy from permitting males to train or practice with an athletic program or activity that is designated for women or girls so long as no female is deprived of a roster spot on a team or sport, opportunity to participate in a practice or competition, scholarship, admission to an educational institution, or any other benefit that accompanies participating in the athletic program or activity. “(c) Definitions.—In this section—“(1) the term ‘athletic programs and activities’ includes all programs or activities that are provided conditional upon participation with any athletic team; and “(2) the term ‘sex’ means a person’s reproductive biology and genetics at birth.”
+
 #### Regulations on Certain Parental Guardianship Rights of Cadets and Midshipmen
 Pub. L. 117–81, div. A, title V, § 559A, Dec. 27, 2021, 135 Stat. 1742, provided that: “(a) Regulations Required.—Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense, after consultation with the Secretaries of the military departments and the Superintendent of each military service academy, shall prescribe regulations that include the option to preserve parental guardianship rights of a cadet or midshipman who becomes pregnant or fathers a child while attending a military service academy, consistent with the individual and academic responsibilities of such cadet or midshipman. “(b) Briefings; Report.—“(1) Interim briefing.—Not later than May 1, 2022, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and House of Representatives an interim briefing on the development of the regulations prescribed under subsection (a). “(2) Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on any legislation the Secretary determines necessary to implement the regulations prescribed under subsection (a). “(3) Final briefing.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a final briefing on the regulations prescribed under subsection (a). “(c) Rule of Construction.—Nothing in this section shall be construed to change, or require a change to, any admission requirement at a military service academy. “(d) Military Service Academy Defined.—In this section, the term ‘military service academy’ means the following:“(1) The United States Military Academy. “(2) The United States Naval Academy. “(3) The United States Air Force Academy.”
+
+#### Service Academies: Referral of Applicants to the Senior Military Colleges and Units of the Senior Reserve Officer Training Corps
+Pub. L. 118–159, div. A, title V, § 559C, Dec. 23, 2024, 138 Stat. 1900, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall establish a system whereby a covered individual may elect to have the Secretary share information regarding such covered individual with a senior military college or a unit of the Senior Reserve Officer Training Corps. “(b) Definitions.—In this section:“(1) The term ‘covered individual’ means an individual who applied for an appointment as a cadet or midshipman at a Service Academy. “(2) The term ‘senior military college’ means a school specified in [section 2111a of title 10](./chapter-103-senior-reserve-officers-training-corps.md#section-2111a), United States Code. “(3) The term ‘Service Academy’ has the meaning given such term in [section 347 of title 10](./chapter-016-security-cooperation.md#section-347), United States Code.”
 
 #### Pilot Program on Cardiac Screening at Certain Military Service Academies
 Pub. L. 117–81, div. A, title VII, § 733, Dec. 27, 2021, 135 Stat. 1798, provided that: “(a) Pilot Program.—The Secretary of Defense shall establish a pilot program to furnish mandatory electrocardiograms to individuals who have been admitted to a covered military service academy in connection with the military accession screening process, at no cost to such candidates. “(b) Scope.—The scope of the pilot program under subsection (a) shall include at least 25 percent of the incoming class of individuals who have been admitted to a covered military service academy during the first fall semester that follows the date of the enactment of this Act [Dec. 27, 2021], and the pilot program shall terminate on the date on which the Secretary determines the military accession screening process for such class has concluded. “(c) Furnishing of Electrocardiograms.—In carrying out the pilot program under subsection (a), the Secretary shall furnish each mandatory electrocardiogram under the pilot program in a facility of the Department of Defense or by medical personnel within the military health system. “(d) Briefing.—Not later than 180 days after the date on which the pilot program under subsection (a) terminates, the Secretary shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the pilot program. Such briefing shall include the following:“(1) The results of all electrocardiograms furnished to individuals under the pilot program, disaggregated by military service academy, race, and gender. “(2) The rate of significant cardiac issues detected pursuant to electrocardiograms furnished under the pilot program, disaggregated by military service academy, race, and gender. “(3) The cost of carrying out the pilot program. “(4) The number of individuals, if any, who were disqualified from admission based solely on the result of an electrocardiogram furnished under the pilot program. “(e) Covered Military Service Academy Defined.—In this section, the term ‘covered military service academy’ does not include the United States Coast Guard Academy or the United States Merchant Marine Academy.”
@@ -555,7 +561,7 @@ Pub. L. 97–60, title II, § 203(d), Oct. 14, 1981, 95 Stat. 1007, provided tha
 (9) Three cadets from American Samoa, nominated by the Delegate in Congress from American Samoa.
 
 (10) Three cadets from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
-Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 15 persons 11 See Applicability of Amendment note below. for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter. When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.
+Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 15 persons for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and up to 14 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter. When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.
 
 **(b)** In addition, there may be appointed each year at the Academy cadets as follows:
 
@@ -656,10 +662,9 @@ In subsection (g), the words “(National Guard of the United States, the Air Na
 
 In subsection (h), the words “or shall hereafter be” are omitted as surplusage.
 
-#### Applicability of Amendment
-Amendment of section by section 561(a) of Pub. L. 118–31 applicable to nominations of candidates and appointments to the Service Academies for classes entering such Service Academies beginning with the 2025-2026 academic year. See 2023 Amendment notes below.
-
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 substituted “up to 14 ranked or unranked alternates” for “9 ranked or unranked alternates” in concluding provisions.
+
 2023—Subsec. (a). Pub. L. 118–31, § 561(a)(1), substituted “15 persons” for “10 persons” in concluding provisions.
 
 Subsec. (a)(8). Pub. L. 118–31, § 562(a), substituted “Five” for “Four”.
@@ -825,7 +830,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Information on Nominations and Applications for Military Service Academies
-Pub. L. 116–283, div. A, title V, § 575, Jan. 1, 2021, 134 Stat. 3645, as amended by Pub. L. 117–263, div. A, title V, § 556, Dec. 23, 2022, 136 Stat. 2595, provided that: “(a) Nominations Portal.—“(1) In general.—Not later than two years after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense, in consultation with the Superintendents of the military service academies, shall ensure that there is a uniform online portal for all military service academies that enables Members of Congress and other nominating sources to nominate individuals for appointment to each academy through a secure website. “(2) Information collection and reporting.—The online portal established under paragraph (1) shall have the ability to—“(A) collect, from each nominating source, the demographic information described in subsection (b) for each individual nominated to attend a military service academy; and “(B) collect the information required to be included in each annual report of the Secretary under subsection (c) in a manner that enables the Secretary to automatically compile such information when preparing the report. “(3) Availability of information.—The portal shall allow Members of Congress, other nominating sources, and their designees to view their past nomination records for all application cycles. “(b) Standard Classifications for Collection of Demographic Data.—“(1) Standards required.—The Secretary, in consultation with the Superintendents of the military service academies, shall establish standard classifications that cadets, midshipmen, and applicants to the academies may use to report gender, race, and ethnicity and to provide other demographic information in connection with admission to or enrollment in an academy. “(2) Consistency with omb guidance.—The standard classifications established under paragraph (1) shall be consistent with the standard classifications specified in Office of Management and Budget Directive No. 15 (pertaining to race and ethnic standards for Federal statistics and administrative reporting) or any successor directive. “(3) Incorporation into applications and records.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall incorporate the standard classifications established under paragraph (1) into—“(A) applications for admission to the military service academies; and “(B) the military personnel records of cadets and midshipmen enrolled in such academies. “(c) Annual Report on the Demographics Military Service Academy Applicants.—“(1) Report required.—Not later than September 30 of each year beginning after the establishment of the online portal, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the demographics of applicants to military service academies for the most recently concluded application year. “(2) Elements.—Each report under paragraph (1) shall include, with respect to each military service academy, the following:“(A) The number of individuals who submitted an application for admission to the academy in the application year covered by the report. “(B) Of the individuals who submitted an application for admission to the academy in such year—“(i) the overall demographics of applicant pool, disaggregated by the classifications established under subsection (b); “(ii) the number and percentage who received a nomination, disaggregated by the classifications established under subsection (b); “(iii) the number and percentage who received an offer for appointment to the academy, disaggregated by the classifications established under subsection (b); and “(iv) the number and percentage who accepted an appointment to the academy, disaggregated by the classifications established under subsection (b). “(C) Anything the Secretary determines to be significant regarding gender, race, ethnicity, or other demographic information, described in subsection (b), of such individuals. “(3) Consultation.—In preparing each report under paragraph (1), the Secretary shall consult with the Superintendents of the military service academies. “(4) Availability of reports and data.—The Secretary shall—“(A) make the results of each report under paragraph (1) available on a publicly accessible website of the Department of Defense; and “(B) ensure that any data included with the report is made available in a machine-readable format that is downloadable, searchable, and sortable. “(d) Definitions.—In this section:“(1) The term ‘application year’ means the period beginning on January 1 of one year and ending on June 1 of the following year. “(2) The term ‘machine-readable’ has the meaning given that term in [section 3502(18) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/18&num=0&edition=prelim), United States Code. “(3) The term ‘military service academy’ means—“(A) the United States Military Academy; “(B) the United States Naval Academy; and “(C) the United States Air Force Academy.”
+Pub. L. 116–283, div. A, title V, § 575, Jan. 1, 2021, 134 Stat. 3645, as amended by Pub. L. 117–263, div. A, title V, § 556, Dec. 23, 2022, 136 Stat. 2595; Pub. L. 118–159, div. A, title V, § 559A, Dec. 23, 2024, 138 Stat. 1900, provided that: “(a) Nominations Portal.—“(1) In general.—Not later than December 31, 2026, the Secretary of Defense, in consultation with the Superintendents of the military service academies, shall ensure that there is a uniform online portal for all military service academies that enables Members of Congress and other nominating sources to nominate individuals for appointment to each academy through a secure website. “(2) Information collection and reporting.—The online portal established under paragraph (1) shall have the ability to—“(A) collect, from each nominating source, the demographic information described in subsection (b) for each individual nominated to attend a military service academy; and “(B) collect the information required to be included in each annual report of the Secretary under subsection (c) in a manner that enables the Secretary to automatically compile such information when preparing the report. “(3) Availability of information.—The portal shall allow Members of Congress, other nominating sources, and their designees to view their past nomination records for all application cycles. “(b) Standard Classifications for Collection of Demographic Data.—“(1) Standards required.—The Secretary, in consultation with the Superintendents of the military service academies, shall establish standard classifications that cadets, midshipmen, and applicants to the academies may use to report gender, race, and ethnicity and to provide other demographic information in connection with admission to or enrollment in an academy. “(2) Consistency with omb guidance.—The standard classifications established under paragraph (1) shall be consistent with the standard classifications specified in Office of Management and Budget Directive No. 15 (pertaining to race and ethnic standards for Federal statistics and administrative reporting) or any successor directive. “(3) Incorporation into applications and records.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall incorporate the standard classifications established under paragraph (1) into—“(A) applications for admission to the military service academies; and “(B) the military personnel records of cadets and midshipmen enrolled in such academies. “(c) Annual Report on the Demographics Military Service Academy Applicants.—“(1) Report required.—Not later than September 30 of each year beginning after the establishment of the online portal, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the demographics of applicants to military service academies for the most recently concluded application year. “(2) Elements.—Each report under paragraph (1) shall include, with respect to each military service academy, the following:“(A) The number of individuals who submitted an application for admission to the academy in the application year covered by the report. “(B) Of the individuals who submitted an application for admission to the academy in such year—“(i) the overall demographics of applicant pool, disaggregated by the classifications established under subsection (b); “(ii) the number and percentage who received a nomination, disaggregated by the classifications established under subsection (b); “(iii) the number and percentage who received an offer for appointment to the academy, disaggregated by the classifications established under subsection (b); and “(iv) the number and percentage who accepted an appointment to the academy, disaggregated by the classifications established under subsection (b). “(C) Anything the Secretary determines to be significant regarding gender, race, ethnicity, or other demographic information, described in subsection (b), of such individuals. “(3) Consultation.—In preparing each report under paragraph (1), the Secretary shall consult with the Superintendents of the military service academies. “(4) Availability of reports and data.—The Secretary shall—“(A) make the results of each report under paragraph (1) available on a publicly accessible website of the Department of Defense; and “(B) ensure that any data included with the report is made available in a machine-readable format that is downloadable, searchable, and sortable. “(d) Definitions.—In this section:“(1) The term ‘application year’ means the period beginning on January 1 of one year and ending on June 1 of the following year. “(2) The term ‘machine-readable’ has the meaning given that term in [section 3502(18) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/18&num=0&edition=prelim), United States Code. “(3) The term ‘military service academy’ means—“(A) the United States Military Academy; “(B) the United States Naval Academy; and “(C) the United States Air Force Academy.”
 
 #### Eligibility of Female Individuals for Appointment and Admission to Service Academies; Uniform Application of Academic and Other Standards to Male and Female Individuals
 Pub. L. 94–106, title VIII, § 803(a), Oct. 7, 1975, 89 Stat. 537, provided that: “Notwithstanding any other provision of law, in the administration of chapter 403 [now 753] of title 10, United States Code [this chapter] (relating to the United States Military Academy), chapter 603 [now 853] of such title (relating to the United States Naval Academy), and chapter 903 [now 953] of such title (relating to the United States Air Force Academy), the Secretary of the military department concerned shall take such action as may be necessary and appropriate to insure that (1) female individuals shall be eligible for appointment and admission to the service academy concerned, beginning with appointments to such academy for the class beginning in calendar year 1976, and (2) the academic and other relevant standards required for appointment, admission, training, graduation, and commissioning of female individuals shall be the same as those required for male individuals, except for those minimum essential adjustments in such standards required because of physiological differences between male and female individuals.”
@@ -950,7 +955,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 
 <a id="section-7448"></a>
-## § 7448. Cadets: agreement to serve as officer
+## § 7448. Cadets: service obligation
 **(a)** Each cadet shall sign an agreement with respect to the cadet’s length of service in the armed forces. The agreement shall provide that the cadet agrees to the following:
 
 (1) That the cadet will complete the course of instruction at the Academy.
@@ -973,13 +978,21 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(b)**
 
-(1) The Secretary of the Army may transfer to the Army Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a cadet who breaches an agreement under subsection (a). The period of time for which a cadet is ordered to active duty under this paragraph may be determined without regard to [section 651(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section651/a&num=0&edition=prelim).
+(1) Subject to paragraph (4), the Secretary of the Army may transfer to the Army Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a cadet who breaches an agreement under subsection (a). The period of time for which a cadet is ordered to active duty under this paragraph may be determined without regard to [section 651(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section651/a&num=0&edition=prelim).
 
 (2) A cadet who is transferred to the Army Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
 
 (3) For the purposes of paragraph (1), a cadet shall be considered to have breached an agreement under subsection (a) if the cadet is separated from the Academy under circumstances which the Secretary determines constitute a breach by the cadet of the cadet’s agreement to complete the course of instruction at the Academy and accept an appointment as a commissioned officer upon graduation from the Academy.
 
-(4) A cadet who violates paragraph (5) of subsection (a) is not eligible for the alternative obligation under paragraph (1).
+(4) Each academic year, the Secretary of the Army may transfer not more than five cadets, who obtain employment in violation of paragraph (5) of subsection (a), to the Selected Reserve of the Army. Each cadet so transferred shall—
+
+  (A) serve as a commissioned officer—
+
+    (i) in an appropriate grade or rating, determined by the Secretary of the Army; and
+
+    (ii) for a period, determined by the Secretary of the Army, not longer than 10 years; and
+
+  (B) while so serving, participate in efforts to recruit and retain members of the armed forces.
 
 **(c)** The Secretary of the Army shall prescribe regulations to carry out this section. Those regulations shall include—
 
@@ -987,7 +1000,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (2) that a cadet who obtains employment as a professional athlete—
 
-  (A) in violation of paragraph (5) of subsection (a) has breached an agreement under such subsection; and
+  (A) in violation of paragraph (5) of subsection (a) has breached an agreement under such subsection unless such cadet receives a transfer under paragraph (4) of subsection (b); and
 
   (B) at least two years after the cadet graduates from the Academy has not breached an agreement under subsection (a);
 
@@ -1003,7 +1016,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (2) In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
 
-**(f)** A cadet or former cadet who does not fulfill each term of the agreement as specified under subsection (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
+**(f)** A cadet or former cadet who does not fulfill each term of the agreement as specified under subsection (a), or an alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
 ### Statutory Notes
 
@@ -1015,6 +1028,18 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 The word “agreement” is substituted for the word “articles”. The words “Hereafter”, “appointed to the United States Military Academy”, “engage”, and 10:1092c (1st 25 words of clause (2)) are omitted as surplusage. The word “separated” is substituted for the words “discharged by competent authority”. The words “if he is permitted to resign” are substituted for the words “in the event of the acceptance of his resignation”, since a resignation is effective only when accepted. The first 31 words of clause (3) are substituted for 10:1092c (last 29 words of clause (3)). The last sentence is substituted for the words “with the consent of his parents or guardian if he be a minor, and if any he have”.
 
 #### Amendments
+2025—Subsec. (b)(4). Pub. L. 119–60 substituted “five” for “three”.
+
+2024—Pub. L. 118–159, § 557(a)(1), substituted “service obligation” for “agreement to serve as officer” in section catchline.
+
+Subsec. (b)(1). Pub. L. 118–159, § 557(a)(2)(A), substituted “Subject to paragraph (4), the Secretary of the Army” for “The Secretary of the Army”.
+
+Subsec. (b)(4). Pub. L. 118–159, § 557(a)(2)(B), added par. (4) and struck out former par. (4) which read as follows: “A cadet who violates paragraph (5) of subsection (a) is not eligible for the alternative obligation under paragraph (1).”
+
+Subsec. (c)(2)(A). Pub. L. 118–159, § 557(a)(3), inserted “unless such cadet receives a transfer under paragraph (4) of subsection (b)” before “; and”.
+
+Subsec. (f). Pub. L. 118–159, § 557(a)(4), substituted “an alternative obligation” for “the alternative obligation”.
+
 2022—Subsec. (a)(5). Pub. L. 117–263, § 553(a)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “That the cadet—
 
 “(A) will not seek release from the cadet’s commissioned service obligation or seek or accept approval for off-duty employment while completing the cadet’s commissioned service obligation to obtain employment as a professional athlete following graduation until the cadet completes a period of at least two consecutive years of commissioned service; and
@@ -1309,15 +1334,23 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 ## § 7455. Board of Visitors
 **(a)** A Board of Visitors to the Academy is constituted annually of—
 
-(1) the chairman of the Committee on Armed Services of the Senate, or his designee;
+(1) the chair of the Committee on Armed Services of the Senate, or the designee of such chair;
 
-(2) three other members of the Senate designated by the Vice President or the President pro tempore of the Senate, two of whom are members of the Committee on Appropriations of the Senate;
+(2) the ranking member of the Committee on Armed Services of the Senate, or the designee of the ranking member;
 
-(3) the chairman of the Committee on Armed Services of the House of Representatives, or his designee;
+(3) two other members of the Senate designated by the Majority Leader of the Senate, one of whom is a member of the Committee on Appropriations of the Senate;
 
-(4) four other members of the House of Representatives designated by the Speaker of the House of Representatives, two of whom are members of the Committee on Appropriations of the House of Representatives; and
+(4) two other members of the Senate designated by the Minority Leader of the Senate, one of whom is a member of the Committee on Appropriations of the Senate;
 
-(5) six persons designated by the President.
+(5) the chair of the Committee on Armed Services of the House of Representatives, or the designee of such chair;
+
+(6) the ranking member of the Committee on Armed Services of the House of Representatives, or the designee of the ranking member;
+
+(7) two other members of the House of Representatives designated by the Speaker of the House of Representatives, one of whom is a member of the Committee on Appropriations of the House of Representatives;
+
+(8) two other members of the House of Representatives designated by the Minority Leader of the House of Representatives; and
+
+(9) six persons designated by the President.
 
 **(b)** The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is appointed by the President. The President shall designate two persons each year to succeed the members whose terms expire that year.
 
@@ -1327,7 +1360,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(e)** The Board shall inquire into the morale and discipline, the curriculum, instruction, physical equipment, fiscal affairs, academic methods, and other matters relating to the Academy that the Board decides to consider.
 
-**(f)** Within 60 days after its annual visit, the Board shall submit a written report to the President of its action, and of its views and recommendations pertaining to the Academy. Any report of a visit, other than the annual visit, shall, if approved by a majority of the members of the Board, be submitted to the President within 60 days after the approval.
+**(f)** Within 60 days after its annual visit, the Board shall submit a written report to the President and the Committees on Armed Services of the Senate and House of Representatives of its action, and of its views and recommendations pertaining to the Academy. Any report of a visit, other than the annual visit, shall, if approved by a majority of the members of the Board, be submitted to the President and the Committees on Armed Services of the Senate and House of Representatives within 60 days after the approval.
 
 **(g)** Upon approval by the Secretary, the Board may call in advisers for consultation.
 
@@ -1367,6 +1400,12 @@ In subsection (g), the words “as it may deem necessary or advisable effectuate
 In subsection (h), the words “called for consultation by the Board in connection with the business of the Board” are omitted as surplusage.
 
 #### Amendments
+2025—Subsec. (a)(8). Pub. L. 119–60 substituted “two other members” for “one other member”.
+
+2024—Subsec. (a). Pub. L. 118–159, § 558(a)(1), added subsec. (a) and struck out former subsec. (a) which related to membership of Board of Visitors.
+
+Subsec. (f). Pub. L. 118–159, § 558(a)(2), inserted “and the Committees on Armed Services of the Senate and House of Representatives” after “the President” in two places.
+
 2021—Subsec. (b). Pub. L. 117–81, § 554(a), substituted “is appointed by the President” for “is appointed”.
 
 Subsec. (i). Pub. L. 117–81, § 555(a), added subsec. (i).

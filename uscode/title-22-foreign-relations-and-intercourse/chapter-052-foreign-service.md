@@ -2,7 +2,7 @@
 title: 22
 chapter: '52'
 heading: FOREIGN SERVICE
-section_count: 217
+section_count: 223
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -824,6 +824,9 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 339(c)], Nov. 29
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this section relating to the requirement that the Secretary of State transmit a copy of the annual report furnished by the Inspector General, together with any comments which the Secretary deems appropriate, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and to other appropriate committees, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 129 of House Document No. 103–7.
+
+#### Periodic Inspector General Reviews of Chiefs of Mission
+Pub. L. 118–159, div. G, title LXXII, § 7203, Dec. 23, 2024, 138 Stat. 2528, provided that: “(a) In General.—Beginning on April 1, 2025, and for a 3-year period thereafter, the Inspector General of the Department of State shall conduct management reviews of chiefs of mission, charge d’affaires, and other principal officers assigned overseas during inspection visits, when those officers have been at post more than 180 days. “(b) Disposition.—If there are serious management concerns raised and substantiated, a copy of the management review document shall be provided to the rating officer for formal discussion as part of the performance evaluation process. The management review shall remain in the employee’s personnel file unless otherwise required by law. The subject of a review conducted pursuant to subsection (a) shall have the opportunity to respond to and comment on the review, and the response shall be included in the employee’s file for promotion panel review. “(c) Notification Requirement in Case of Serious Management Concerns.—The Inspector General of the Department of State shall notify the Secretary [of State], the Deputy Secretary, and the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives] within 30 days of any review in which a preponderance of evidence shows that a chief of mission, charge d’affaires, or other principal officer did not meet Department guidelines, and such behavior negatively impacted the ability to conduct operations at the mission, and which information is not otherwise submitted as part of the periodic inspection or report.”
 
 #### No Grievance or Right of Action
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 339(d)], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, provided that: “A failure to comply with the amendments made by this section [amending this section] shall not give rise to any private right of action in any court or to an administrative complaint or grievance under any law.”
@@ -1774,6 +1777,9 @@ The Secretary shall designate and classify positions in the Department and at Fo
 
 1983—Subsec. (d). Pub. L. 98–164 added subsec. (d).
 
+#### Assignment Process Modernization
+Pub. L. 118–159, div. G, title LXXI, § 7107, Dec. 23, 2024, 138 Stat. 2524, provided that: “(a) In General.—Not later than 18 months after the date of the enactment of this Act [Dec. 23, 2024], the Secretary [of State] shall modernize the Foreign Service bidding process, and should consider incorporating the following elements:“(1) A stable-pair matching, preference-ranking system for non-directed Foreign Service employees and hiring bureaus, allowing for a more strategic alignment of workforce and resources. “(2) Incorporation of lessons learned from the previous stable-pair matching bidding pilot framework referred to as ‘iMatch’ but applied more expansively to include non-directed assignments up through FS–01 positions, taking advantage of efficiency benefits such as tandem assignment functionalities. “(3) Mechanisms to ensure transparency, efficiency, effectiveness, accountability, and flexibility in the assignment process, while maintaining equal opportunities for all employees in the Foreign Service. “(4) An independent auditing process to ensure adherence to established rules, effectiveness in meeting the Department’s [Department of State’s] needs, and prevention of bias or manipulation, including through the use of protected categories in making assignment decisions. “(b) Consideration of Certain Promotion Issues.—In parallel with assignment process modernization efforts, the Secretary shall—“(1) assess whether any point systems tied to promotion incentives should consider service in hard-to-fill or critical positions; and “(2) assess whether the practice of dividing the assignment process into winter and summer cycles is necessary or efficient compared to stable matching processes. “(c) Reporting and Oversight.—Not later than 18 months after the date of the enactment of this Act, the Secretary shall provide the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives] a report on the implementation of the assignment process under this section, including—“(1) data on match rates, including in filling critical or priority positions, officer and hiring office satisfaction, and the impact on tandem placements; “(2) recommendations for further modifications to the bidding process; “(3) an overview of the strategy used to communicate any changes to the workforce; and “(4) results of analysis into additional transparency efforts, including those described in subsection (a)(3).”
+
 #### Supporting Tandem Spouses in the Foreign Service
 Pub. L. 118–31, div. F, title LXII, § 6227, Dec. 22, 2023, 137 Stat. 980, provided that: “(a) Sense of Congress.—It is the sense of Congress that—“(1) challenges finding and maintaining spousal employment and family dissatisfaction are one of the leading reasons employees cite for leaving the Department [of State]; “(2) tandem Foreign Service personnel represent important members of the Foreign Service community, who act as force multipliers for our diplomacy; “(3) the Department can and should do more to keep tandem spouses posted together and consider family member employment needs when assigning tandem officers; and “(4) common sense steps providing more flexibility in the assignments process would improve outcomes for tandem officers without disadvantaging other Foreign Service Officers. “(b) Definitions.—In this section:“(1) Family togetherness.—The term ‘family togetherness’ means facilitating the placement of Foreign Service personnel at the same United States diplomatic post when both spouses are members of a tandem couple of Foreign Service personnel. “(2) Tandem foreign service personnel; tandem.—The terms ‘tandem Foreign Service personnel’ and ‘tandem’ mean a member of a couple of which one spouse is a career or career candidate employee of the Foreign Service and the other spouse is a career or career candidate employee of the Foreign Service or an employee of one of the agencies authorized to use the Foreign Service Personnel System under section 202 of the Foreign Service Act of 1980 ([22 U.S.C. 3922](./chapter-052-foreign-service.md#section-3922)). “(c) Family Togetherness in Assignments.—Not later than 90 days after the date of enactment of this division [Dec. 22, 2023], the Department shall amend and update its policies to further promote the principle of family togetherness in the Foreign Service, which shall include the following:“(1) Entry-level foreign service personnel.—The Secretary [of State] shall adopt policies and procedures to facilitate the assignment of entry-level tandem Foreign Service personnel on directed assignments to the same diplomatic post or country as their tandem spouse if they request to be assigned to the same post or country. The Secretary shall also provide a written justification to the requesting personnel explaining any denial of a request that would result in tandem spouses not serving together at the same post or country. “(2) Tenured foreign service personnel.—The Secretary shall add family togetherness to the criteria when making a needs of the Service determination, as defined by the Foreign Affairs Manual, for the placement of tenured tandem Foreign Service personnel at United States diplomatic posts. “(3) Updates to antinepotism policy.—The Secretary shall update antinepotism policies so that nepotism rules only apply when an employee and a relative are placed into positions wherein they jointly and exclusively control government resources, property, or money or establish government policy. “(4) Temporary supervision of tandem spouse.—The Secretary shall update policies to allow for a tandem spouse to temporarily supervise another tandem spouse for up to 90 days in a calendar year, including at a United States diplomatic mission. “(d) Report.—Not later than 90 days after the date of enactment of this division, and annually thereafter for two years, the Secretary shall submit to the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives] a report that includes—“(1) the number of Foreign Service tandem spouses currently serving; “(2) the number of Foreign Service tandems currently serving in separate locations, or, to the extent possible, that are on leave without pay (LWOP); and “(3) an estimate of the cost savings that would result if all Foreign Service tandem spouses were placed at a single post.”
 
@@ -2211,7 +2217,7 @@ Pub. L. 95–105, title IV, § 411, Aug. 17, 1977, 91 Stat. 855, as amended by P
 
 (5) For each member of the Service suspended under paragraph (1)(A) whose security clearance remains suspended for more than one calendar year, not later than 30 days after the end of such calendar year, the Secretary of State shall report to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate in writing regarding the specific reasons relating to the duration of each such suspension.
 
-(6) Any member of the Service suspended under paragraph (1)(B) may be suspended without pay only after a final written decision is provided to such member pursuant to paragraph (2).
+(6) Any member of the Service suspended under this subsection may be suspended without pay only after a final written decision is provided to such member pursuant to paragraph (2).
 
 (7) In this subsection, the term “reasonable time” means—
 
@@ -2222,6 +2228,8 @@ Pub. L. 95–105, title IV, § 411, Aug. 17, 1977, 91 Stat. 855, as amended by P
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (c)(6). Pub. L. 118–159 substituted “this subsection” for “paragraph (1)(B)”.
+
 2022—Subsec. (a)(1). Pub. L. 117–263 struck out “decide to” after “The Secretary may” and inserted before period at end “, including upon receiving notification from the Bureau of Diplomatic Security that such member has engaged in criminal misconduct, such as murder, rape, or other sexual assault”.
 
 2021—Subsec. (c)(1). Pub. L. 117–81, § 5317(1), substituted “indefinitely suspend without duties” for “suspend” in introductory provisions.
@@ -2294,6 +2302,9 @@ A prior section 611 of Pub. L. 96–465 was renumbered section 612 and is classi
 
 #### Amendments
 1994—Pub. L. 103–415 made technical amendment relating to style of section catchline.
+
+#### Notification of Intent To Reduce Personnel at Covered Diplomatic Posts
+Pub. L. 119–60, div. E, title I, § 5177, Dec. 18, 2025, 139 Stat. 1590, provided that: “(a) In General.—Except as provided in subsection (b), not later than 30 days before the date on which the Secretary [of State] carries out a reduction in United States Foreign Service personnel of at least 10 percent at a covered diplomatic post, the Secretary shall submit to the appropriate congressional committees a notification of the intent to carry out such a reduction, which shall include a certification by the Secretary that such reduction will not negatively impact the ability of the United States to compete with the People’s Republic of China, the Islamic Republic of Iran, or the Russian Federation. “(b) Exception.—Subsection (a) shall not apply in the case of a security risk to personnel at a covered diplomatic post. “(c) Definitions.—In this section—“(1) the term ‘appropriate congressional committees’ means—“(A) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and “(B) the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and “(2) the term ‘covered diplomatic post’ means a United States diplomatic post in a country in which the People’s Republic of China, the Islamic Republic of Iran, or the Russian Federation also have a diplomatic post.”
 
 #### Employment Assistance Referral System for Certain Members of Foreign Service
 Pub. L. 103–236, title I, § 179, Apr. 30, 1994, 108 Stat. 415, as amended by Pub. L. 103–415, § 1(g), Oct. 25, 1994, 108 Stat. 4300, provided that: “(a) Referral System.—Certain members of the Foreign Service (as described in subsection (b)), may participate in the Office of Personnel Management’s Interagency Placement programs or any successor program. Such members of the Foreign Service shall be treated in the same manner as employees participating in such a program as of the effective date of this Act [Apr. 30, 1994]. “(b) Certain Members of the Foreign Service.—For purposes of this section, the term ‘members of the Foreign Service’ means any individuals holding career or career candidate appointments under chapter 3 of the Foreign Service Act of 1980 [[22 U.S.C. 3941](./chapter-052-foreign-service.md#section-3941) et seq.].”
@@ -2478,6 +2489,32 @@ Pub. L. 95–105, title IV, § 414, Aug. 17, 1977, 91 Stat. 857, as amended by P
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 
+<a id="section-4021a"></a>
+## § 4021a. Matters relating to the Foreign Service Institute
+**(a) Director line of reporting** The Director of the Foreign Service Institute shall report to the Assistant Secretary for Human Resources for all matters pertaining to the management, execution, and strategy of the training and instruction required by [section 4021 of this title](./chapter-052-foreign-service.md#section-4021).
+
+**(b) Schools of instruction** The Foreign Service Institute shall consist of at least four schools of instruction, which shall provide instruction consistent with the requirements set forth in this subchapter. The schools of instruction shall be as follows:
+
+(1) The School of Professional and Area Studies, which shall provide job-specific orientation, tradecraft, and area studies, as well as new-hire orientation programs.
+
+(2) The School of Leadership and Management Studies, which shall provide leadership and crisis management training.
+
+(3) The School of Applied Information Technology Studies, which shall provide instruction to ensure information technology professionals have the up-to-date knowledge and skills required to operate and maintain the complex computer and technology systems employed by the Department.
+
+(4) The School of Foreign Languages, which shall be responsible for providing language instruction as prescribed by law and at the direction of the Secretary.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Department of State Authorization Act for Fiscal Year 2026, and as part of the National Defense Authorization Act for Fiscal Year 2026, and not as part of the Foreign Service Act of 1980, which comprises this chapter.
+
+#### Change of Name
+Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412, provided that: “Any reference in any provision of law to the National Foreign Affairs Training Center or the Foreign Service Institute shall be considered to be a reference to the ‘George P. Shultz National Foreign Affairs Training Center’.”
+
+#### Definitions
+For definitions of “Secretary” and “Department” as used in this section, see section 5002 of Pub. L. 119–60, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+
 <a id="section-4022"></a>
 ## § 4022. Foreign language requirements
 **(a) In general** The Secretary shall establish foreign language proficiency requirements for members of the Service who are to be assigned abroad in order that Foreign Service posts abroad will be staffed by individuals having a useful knowledge of the language or dialect common to the country in which the post is located.
@@ -2548,7 +2585,7 @@ Pub. L. 117–263, div. I, title XCII, § 9211, Dec. 23, 2022, 136 Stat. 3874, p
 
 (2) pay the salary (excluding premium pay or any special differential under [section 3972 of this title](./chapter-052-foreign-service.md#section-3972)) of members of the Service selected and assigned for training; and
 
-(3) provide special monetary or other incentives to encourage members of the Service to acquire or retain proficiency in foreign languages or special abilities needed in the Service.
+(3) provide special monetary or other incentives to encourage members of the Service to acquire or retain proficiency in and reutilize foreign languages or special abilities needed in the Service.
 
 **(c) Orientation and training for family members** The Secretary may provide to family members of members of the Service or of employees of the Department or other agencies, in anticipation of their assignment abroad or while abroad—
 
@@ -2575,6 +2612,8 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 In subsec. (a)(5), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim)) and section 302 of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 252](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section252&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2025—Subsec. (b)(3). Pub. L. 119–60 inserted “and reutilize” after “to acquire or retain proficiency in”.
+
 2016—Subsec. (a)(4)(B). Pub. L. 114–323 substituted “education and training specialists, including language instructors and linguists, and other specialists who perform work directly relating to the design, delivery, oversight, or coordination of training delivered by the institution” for “language instructors, linguists, and other academic and training specialists”.
 
 1998—Subsec. (d). Pub. L. 105–277 added subsec. (d).
@@ -2612,7 +2651,7 @@ In subsec. (a)(5), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101
 
 (2) The Secretary may prescribe regulations—
 
-  (A) to provide preference to eligible family members in hiring for any civilian position in the Department, notwithstanding the prohibition on marital discrimination found in [5 U.S.C. 2302(b)(1)(E)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/b/1/E&num=0&edition=prelim), if —
+  (A) to provide preference to eligible family members in hiring for any civilian position in the Department, notwithstanding the prohibition on marital discrimination found in [5 U.S.C. 2302(b)(1)(E)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/b/1/E&num=0&edition=prelim), if—
 
     (i) the eligible family member is among persons determined to be best qualified for the position; and
 
@@ -2762,6 +2801,30 @@ Pub. L. 118–47, div. F, title VII, § 7028(b), Mar. 23, 2024, 138 Stat. 778, p
 
 #### Training for Department Employees
 Pub. L. 118–31, div. F, title LXVII, § 6702(b), Dec. 22, 2023, 137 Stat. 1015, provided that: “The Secretary of State shall ensure that employees of the Department of State who are assigned to positions described in paragraph (2) of subsection (e) of section 708 of the Foreign Service Act of 1980 [[22 U.S.C. 4028(e)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4028/e/2&num=0&edition=prelim)] (as added by subsection (a) of this section), including members of the civil service or general service, or who are seconded to international organizations for a period of at least one year, receive training described in such subsection and participate in other such courses as the Secretary may recommend to build or augment identifiable skills that would be useful for such Department officials representing United States interests at these institutions and organizations.”
+
+
+<a id="section-4028a"></a>
+## § 4028a. Per diem allowance for newly hired members of the Foreign Service
+**(a) Per diem allowance**
+
+(1) **In general** — Except as provided in paragraph (2), any newly hired Foreign Service employee who is in initial orientation training, or any other training expected to last less than 6 months in the Washington, D.C. area before transferring to the employee’s first assignment overseas or domestically outside the Washington, D.C. area shall, for the duration of such training, receive a per diem allowance at the levels prescribed under subchapter I of chapter 57 of title 5.
+
+(2) **Limitation on lodging expenses** — A newly hired Foreign Service employee may not receive any lodging expenses under the applicable per diem allowance pursuant to paragraph (1) if that employee—
+
+  (A) has a permanent residence in the Washington, D.C., area (not including government-supplied housing during such orientation training or other training); and
+
+  (B) does not vacate such residence during such orientation training or other training.
+
+**(b) Definitions** In this section—
+
+(1) the term “per diem allowance” has the meaning given such term in [section 5701 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701&num=0&edition=prelim); and
+
+(2) the term “Washington, D.C., area” means the geographic area within a 50-mile radius of the Washington Monument.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Department of State Authorization Act for Fiscal Year 2025, and also as part of the Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
 
 
 <a id="section-4029"></a>
@@ -3083,9 +3146,6 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
-
 #### Amendment of Section
 Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under [section 4067 of this title](./chapter-052-foreign-service.md#section-4067), provided that the second sentence of subsec. (d)(3) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under [section 4055(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4055/h&num=0&edition=prelim) and voluntary contributions under [section 4065(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4065/a&num=0&edition=prelim) from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under [section 4059 of this title](./chapter-052-foreign-service.md#section-4059), as determined by the Secretary of the Treasury.
 
@@ -3380,9 +3440,6 @@ shall be computed as if [section 8349 of title 5](https://uscode.house.gov/view.
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
-
 #### Amendment of Section
 Section 1(b) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under [section 4067 of this title](./chapter-052-foreign-service.md#section-4067), provided that subsection (a) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under [section 4055(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4055/h&num=0&edition=prelim) and voluntary contributions under [section 4065(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4065/a&num=0&edition=prelim) from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under [section 4056(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4056/a&num=0&edition=prelim) any period of civilian service for which retirement deductions or contributions have not been made under [section 4045(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4045/d&num=0&edition=prelim) unless—
 
@@ -3663,9 +3720,6 @@ Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section
 (3) Any participant who completes a period of service authorized by this subsection shall be retired at the end of the month in which such authorized service is completed.
 
 ### Statutory Notes
-
-#### Applicability of Amendment
-For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
 
 #### References in Text
 Section 4(a)(2) of the Department of State Special Agents Retirement Act of 1998, referred to in subsec. (a)(2)(A), is section 4(a)(2) of Pub. L. 105–382, which is set out as a note under [section 4044 of this title](./chapter-052-foreign-service.md#section-4044).
@@ -5626,7 +5680,7 @@ Pub. L. 107–228, div. A, title III, § 315(b), Sept. 30, 2002, 116 Stat. 1379,
 
 <a id="section-4081a"></a>
 ## § 4081a. Exception for Government-financed air transportation; reducing hardship for transportation of domestic animals
-(1) **In general** — Notwithstanding subsections (a) and (c) of [section 40118 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40118&num=0&edition=prelim), the Department is authorized to pay for the transportation by a foreign air carrier of Department personnel and any in-cabin or accompanying checked baggage or cargo if—
+(1) **In general** — Notwithstanding subsections (a) and (c) of [section 40118 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40118&num=0&edition=prelim), the Department and the United States Agency for International Development (USAID), and other United States Government employees under chief of mission authority are authorized to pay for the transportation by a foreign air carrier of Department and USAID personnel, and other United States Government employees under chief of mission authority and any in-cabin or accompanying checked baggage or cargo if—
 
   (A) no air carrier holding a certificate under section 41102 of such title is willing and able to transport up to 3 domestic animals accompanying such Federal personnel; and
 
@@ -5650,8 +5704,44 @@ This subsection, referred to in par. (3), means subsec. (a) of section 6224 of P
 #### Codification
 Section was enacted as part of the Department of State Authorization Act of 2023, and also as part of the National Defense Authorization Act for Fiscal Year 2024, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
 
+#### Amendments
+2024—Par. (1). Pub. L. 118–159, in introductory provisions, substituted “the Department and the United States Agency for International Development (USAID), and other United States Government employees under chief of mission authority are” for “the Department is” and “Department and USAID personnel, and other United States Government employees under chief of mission authority” for “Department personnel”.
+
 #### Definition
 For definition of “Department” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+
+<a id="section-4081b"></a>
+## § 4081b. Presence of chiefs of mission at diplomatic posts
+**(a) Requirement for arrival at diplomatic post within 60 days**
+
+(1) **In general** — The Secretary shall require that to be eligible for payment of travel expenses for initial arrival at the assigned post, a chief of mission must arrive at the post not later than 60 days after the date on which the chief of mission was confirmed by the Senate.
+
+(2) **Exceptions** — The restriction under paragraph (1) shall not apply to a chief of mission who arrives later than 60 days after confirmation by the Senate if the delay was caused by one or more of the following:
+
+  (A) A flight delay that was outside of the control of the chief of mission or the Department.
+
+  (B) A natural disaster, global health emergency, or other naturally occurring event that prevented the chief of mission from entering the country of the assigned post.
+
+  (C) Delay or refusal by the government of the host country to accept diplomatic accreditation.
+
+  (D) Family or medical emergency.
+
+  (E) Extenuating circumstances beyond the control of the chief of mission.
+
+(3) **Waiver** — The Secretary may waive the requirement under paragraph (1) upon a determination that extenuating circumstances warrant such a waiver and upon submission of a brief description of the determination to the appropriate congressional committees.
+
+(4) **Notification required** — Not later than 90 days after December 23, 2024, and in each case that a chief of mission arrives at an assigned post more than 60 days after confirmation, the Secretary shall submit to the appropriate congressional committees a report identifying any chief of mission who arrived at the assigned post more than 60 days after confirmation by the Senate, and includes a description of the justification.
+
+**(b) Notifications on departures of chiefs of mission** Beginning on April 1, 2025, for 5 years, the Secretary shall notify the appropriate congressional committees of any chief of mission who has permanently departed from the assigned post within 90 days of the departure.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Department of State Authorization Act for Fiscal Year 2025, and also as part of the Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
+
+#### Definitions
+For definitions of “Secretary”, “Department”, and “appropriate congressional committees” as used in this section, see section 7002 of Pub. L. 118–159, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
 
 
 <a id="section-4082"></a>
@@ -5678,6 +5768,70 @@ The Secretary may, as a means of eliminating transportation costs, provide membe
 2006—Subsec. (a). Pub. L. 109–234, which directed substitution of “12 months” for “18 months” in section 903(a) of the Foreign Service Act, was executed to subsec. (a) of this section, which is section 903 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
 
 1994—Subsec. (a). Pub. L. 103–236 inserted “(other than a member employed under [section 3951 of this title](./chapter-052-foreign-service.md#section-3951))” after “member of the Service” in two places.
+
+
+<a id="section-4083a"></a>
+## § 4083a. Rest and recuperation leave
+**(a) Definitions** In this section—
+
+(1) the term “agency” means an Executive agency (as that term is defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim)), but does not include the Government Accountability Office;
+
+(2) the term “combat zone” means a geographic area designated by an Executive order of the President as an area in which the Armed Forces are engaging or have engaged in combat, an area designated by law to be treated as a combat zone, or a location the Department of Defense has certified for combat zone tax benefits due to its direct support of military operations;
+
+(3) the term “employee” means an officer or an individual who is—
+
+  (A) appointed in the civil service, the Foreign Service, or any appointment authority other than the uniformed services (as that term is defined in [section 101 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section101&num=0&edition=prelim)), by one of the following acting in an official capacity:
+
+    (i) The President.
+
+    (ii) A Member or Members of Congress, or Congress.
+
+    (iii) An individual who is an employee under this section.
+
+    (iv) The head of a Government-controlled corporation;
+
+  (B) engaged in the performance of a Federal function under authority of law or an Executive act; and
+
+  (C) subject to the supervision of an individual described in subparagraph (A) while engaged in the performance of the duties of his or her position;
+
+(4) the term “high risk, high threat post” has the meaning given that term in [section 4803 of this title](./chapter-058-diplomatic-security.md#section-4803); and
+
+(5) the term “leave year” means the period beginning on the first day of the first complete pay period in a calendar year and ending on the day immediately before the first day of the first complete pay period in the following calendar year.
+
+**(b) Leave for rest and recuperation** The Secretary or other head of an agency may prescribe regulations to grant up to 20 days of paid leave, per leave year, for the purposes of rest and recuperation to an employee of the agency serving in a combat zone, any other high risk, high threat post, or any other location presenting significant security or operational challenges.
+
+**(c) Discretionary authority of the Secretary or other agency head** Use of the authority under subsection (b) is at the sole and exclusive discretion of the head of the agency concerned.
+
+**(d) Records** An agency shall record leave provided under this section separately from leave authorized under any other provision of law.
+
+
+<a id="section-4083b"></a>
+## § 4083b. Overseas operations leave
+**(a) Definitions** In this section—
+
+(1) the term “agency” means an Executive agency (as that term is defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim)), but does not include the Government Accountability Office.
+
+(2) the term “employee” means an officer or an individual who is—
+
+  (A) appointed in the civil service, the Foreign Service, or any appointment authority other than the uniformed services (as that term is defined in [section 101 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section101&num=0&edition=prelim)), by one of the following acting in an official capacity:
+
+    (i) The President.
+
+    (ii) A Member or Members of Congress, or Congress.
+
+    (iii) An individual who is an employee under this section.
+
+    (iv) The head of a Government-controlled corporation;
+
+  (B) engaged in the performance of a Federal function under authority of law or an Executive act; and
+
+  (C) subject to the supervision of an individual described in subparagraph (A) while engaged in the performance of the duties of his or her position; and
+
+(3) the term “leave year” means the period beginning with the first day of the first complete pay period in a calendar year and ending with the day immediately before the first day of the first complete pay period in the following calendar year.
+
+**(b) Leave for overseas operations** The Secretary or other head of an agency may prescribe regulations to grant up to 10 days of paid leave, per leave year, to an employee of the agency serving abroad for the purpose of local holidays.
+
+**(c) Discretionary authority of the Secretary or other agency head** Use of the authority under subsection (b) is at the sole and exclusive discretion of the head of the agency concerned.
 
 
 <a id="section-4084"></a>
@@ -5713,6 +5867,9 @@ Subsec. (d). Pub. L. 99–93, § 122(3), amended subsec. (d) generally. Prior to
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section 261(a) of Pub. L. 100–238, set out as a note under [section 4054 of this title](./chapter-052-foreign-service.md#section-4054).
+
+#### Electronic Medical Records Requirement
+Pub. L. 118–159, div. G, title LXXI, § 7103(b), Dec. 23, 2024, 138 Stat. 2522, provided that: “Not later than December 31, 2027, the Secretary [of State] shall have fully implemented an electronic medical records process or system for all Foreign Service personnel and their Eligible Family Members that eliminates reliance on paper medical records and includes appropriate safeguards to protect personal privacy.”
 
 #### Improving Mental Health Services for Foreign and Civil Servants
 Pub. L. 118–31, div. F, title LXII, § 6222(a), Dec. 22, 2023, 137 Stat. 978, provided that: “(a) Additional Personnel to Address Mental Health.—“(1) In general.—The Secretary [of State] shall seek to increase the number of personnel within the Bureau of Medical Services to address mental health needs for both foreign and civil servants. “(2) Employment targets.—Not later than 180 days after the date of the enactment of this division [Dec. 22, 2023], the Secretary shall seek to employ not fewer than 10 additional personnel in the Bureau of Medical Services, compared to the number of personnel employed as of the date of the enactment of this division.”
@@ -5750,7 +5907,7 @@ The Overseas Citizens Voting Rights Act, referred to in text, probably means the
 <a id="section-4087"></a>
 ## § 4087. Termination of residential or motor vehicle leases and telephone service contracts
 
-The terms governing the termination of residential or motor vehicle leases and telephone service contracts described in sections 305 and 305A, respectively, of the Servicemembers Civil Relief Act ([50 U.S.C. 3955](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3955&num=0&edition=prelim) and 3956) with respect to servicemembers who receive military orders described in such Act [[50 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) et seq.] shall apply in the same manner and to the same extent to members of the Service who are posted abroad at a Foreign Service post in accordance with this chapter.
+The terms governing the termination of residential or motor vehicle leases and telephone service contracts described in sections 305 and 305A, respectively, of the Servicemembers Civil Relief Act ([50 U.S.C. 3955](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3955&num=0&edition=prelim) and 3956) with respect to servicemembers who receive military orders described in such Act [[50 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) et seq.] shall apply in the same manner and to the same extent to members of the Foreign Service who are posted in the United States or posted abroad in accordance with this chapter.
 
 ### Statutory Notes
 
@@ -5759,11 +5916,44 @@ The Servicemembers Civil Relief Act, referred to in text, is act Oct. 17, 1940, 
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
+#### Amendments
+2024—Pub. L. 118–159 substituted “Foreign Service who are posted in the United States or posted abroad” for “Service who are posted abroad at a Foreign Service post”.
+
 
 <a id="section-4088"></a>
 ## § 4088. Education allowance
 
-A Department employee who is on leave to perform service in the uniformed services (as defined in [section 4303(13) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4303/13&num=0&edition=prelim)) may receive an education allowance if the employee would, if not for such service, be eligible to receive the education allowance.
+A Department or United States Agency for International Development employee who is on leave to perform service in the uniformed services (as defined in [section 4303(13) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4303/13&num=0&edition=prelim)) may receive an education allowance if the employee would, if not for such service, be eligible to receive the education allowance.
+
+### Statutory Notes
+
+#### Amendments
+2024—Pub. L. 118–159 inserted “or United States Agency for International Development” after “A Department”.
+
+
+<a id="section-4089"></a>
+## § 4089. Portability of professional licenses
+**(a) In general** In any case in which a member of the Foreign Service or the spouse of a member of the Foreign Service has a covered United States license and such member of the Foreign Service or spouse relocates his or her residency because of an assignment or detail to a location that is not in the jurisdiction of the licensing authority that issued the covered license, such covered license shall be considered valid at a similar scope of practice and in the discipline applied for in the jurisdiction of such new residency for the duration of such an assignment or detail if such member of the Foreign Service or spouse—
+
+(1) provides a copy of the member’s notification of assignment to the licensing authority in the jurisdiction in which the new residency is located;
+
+(2) remains in good standing with—
+
+  (A) the licensing authority that issued the covered license; and
+
+  (B) every other licensing authority that has issued to the member of the Foreign Service or spouse a license valid at a similar scope of practice and in the discipline applied in the jurisdiction of such licensing authority; and
+
+(3) submits to the authority of the licensing authority in the new jurisdiction for the purposes of standards of practice, discipline, and fulfillment of any continuing education requirements.
+
+**(b) Interstate licensure compacts** If a member of the Foreign Service or spouse of a member of the Foreign Service is licensed and able to operate in multiple jurisdictions through an interstate licensure compact, with respect to services provided in the jurisdiction of the interstate licensure compact by a licensee covered by such compact, the member of the Foreign Service or spouse of a member of the Foreign Service shall be subject to the requirements of the compact or the applicable provisions of law of the applicable State and not this section.
+
+**(c) Covered license defined** In this section, the term “covered license” means a professional license or certificate—
+
+(1) that is in good standing with the licensing authority that issued such professional license or certificate;
+
+(2) that the member of the Foreign Service or spouse of a member of the Foreign Service has actively used during the two years immediately preceding the relocation described in subsection (a); and
+
+(3) that is not a license to practice law.
 
 
 <a id="section-4101"></a>

@@ -87,12 +87,14 @@ Pub. L. 96–374, title XIII, § 1393, Oct. 3, 1980, 94 Stat. 1504, provided tha
 Pub. L. 94–482, title V, § 532, Oct. 12, 1976, 90 Stat. 2241, provided that: “The provisions of this Act [see Tables for classification] and the amendments made by this Act shall take effect 30 days after the date of the enactment of this Act [Oct. 12, 1976] except— “(1) as specifically otherwise provided; and “(2) that each amendment made by this Act (not subject to clause (1) of this section) providing for authorization of appropriations shall take effect July 1, 1976.”
 
 #### Short Title of 2024 Amendment
+Pub. L. 118–173, § 1, Dec. 23, 2024, 138 Stat. 2597, provided that: “This Act [amending [section 1092 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1092) and enacting provisions set out as notes under [section 1092 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1092)] may be cited as the ‘Stop Campus Hazing Act’.”
+
 Pub. L. 118–145, § 1, Dec. 11, 2024, 138 Stat. 1671, provided that: “This Act [amending [section 1090 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1090)] may be cited as the ‘FAFSA Deadline Act’.”
 
 #### Short Title of 2022 Amendment
 Pub. L. 117–200, § 1, Oct. 11, 2022, 136 Stat. 2219, provided that: “This Act [amending sections 1078–3 and 1087e of this title] may be cited as the ‘Joint Consolidation Loan Separation Act’.”
 
-Pub. L. 117–103, div. R, § 101, Mar. 15, 2022, 136 Stat. 819, provided that: “This division [amending sections 1070a, 1087kk, 1087ll, 1087ss, 1087uu–2, 1090, and 1092f of this title and sections 292d and 292r of Title 42, The Public Health and Welfare, repealing [section 1070h of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070h), enacting provisions set out as notes under 1070a of this title, and amending provisions set out as a note under this section] may be cited as the ‘FAFSA Simplification Act Technical Corrections Act’.”
+Pub. L. 117–103, div. R, § 101, Mar. 15, 2022, 136 Stat. 819, provided that: “This division [amending sections 1070a, 1087kk, 1087ll, 1087ss, 1087uu–2, 1090, and 1092f of this title and sections 292d and 292r of Title 42, The Public Health and Welfare, repealing [section 1070h of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070h), enacting provisions set out as notes under [section 1070a of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070a), and amending provisions set out as a note under this section] may be cited as the ‘FAFSA Simplification Act Technical Corrections Act’.”
 
 #### Short Title of 2021 Amendment
 Pub. L. 117–49, § 1, Oct. 13, 2021, 135 Stat. 402, provided that: “This Act [amending [section 1070g–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070g-2), enacting provisions set out as notes under this section and [section 1070g–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070g-2), and amending provisions set out as a note under this section] may be cited as the ‘Consider Teachers Act of 2021’.”
@@ -244,7 +246,7 @@ Pub. L. 89–329, § 1, Nov. 8, 1965, 79 Stat. 1219, provided: “That this Act 
 
 Pub. L. 89–329, title V, § 509, as added by Pub. L. 90–35, § 8, provided that title V of Pub. L. 89–329 could be cited as the “Education Professions Development Act”, prior to the general amendment of title V of Pub. L. 89–329 by Pub. L. 99–498, title V, § 501(a), Oct. 17, 1986, 100 Stat. 1495.
 
-For short title of [section 1092(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1092/f&num=0&edition=prelim) as the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, see [section 1092(f)(18) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1092/f/18&num=0&edition=prelim).
+For short title of [section 1092(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1092/f&num=0&edition=prelim) as the Jeanne Clery Campus Safety Act, see [section 1092(f)(19) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1092/f/19&num=0&edition=prelim).
 
 #### Emergency Financial Aid Grants
 Pub. L. 116–260, div. N, title II, § 277, Dec. 27, 2020, 134 Stat. 1980, provided that: “(a) In general.—In the case of a student receiving a qualified emergency financial aid grant—“(1) such grant shall not be included in the gross income of such individual for purposes of the Internal Revenue Code of 1986 [[26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.], and “(2) such grant shall not be treated as described in subparagraph (A), (B), or (C) of section 25A(g)(2) of such Code [[26 U.S.C. 25A(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section25A/g/2&num=0&edition=prelim)]. “(b) Definitions.—For purposes of this subsection, the term ‘qualified emergency financial aid grant’ means—“(1) any emergency financial aid grant awarded by an institution of higher education under section 3504 of the CARES Act [section 3504 of Pub. L. 116–136, set out below], “(2) any emergency financial aid grant from an institution of higher education made with funds made available under section 18004 of the CARES Act [Pub. L. 116–136, [20 U.S.C. 3401](./chapter-048-department-of-education.md#section-3401) note], and “(3) any other emergency financial aid grant made to a student from a Federal agency, a State, an Indian tribe, an institution of higher education, or a scholarship-granting organization (including a tribal organization, as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C.5304 [sic])) for the purpose of providing financial relief to students enrolled at institutions of higher education in response to a qualifying emergency (as defined in section 3502(a)(4) of the CARES Act [section 3502(a)(4) of Pub. L. 116–136, set out below]). “(c) Limitation.—This section shall not apply to that portion of any amount received which represents payment for teaching, research, or other services required as a condition for receiving the qualified emergency financial aid grant. “(d) Effective date.—This section shall apply to qualified emergency financial aid grants made after March 26, 2020.”
@@ -8350,9 +8352,17 @@ Pub. L. 102–25, title III, part E (§§ 371–376), Apr. 6, 1991, 105 Stat. 93
 
   (A) the term “adjusted gross income” means—
 
-    (i) in the case of a dependent student, the adjusted gross income (as defined in [section 62 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section62&num=0&edition=prelim)) of the student’s parents in the second tax year preceding the academic year; and
+    (i) in the case of a dependent student, for the second tax year preceding the academic year—
 
-    (ii) in the case of an independent student, the adjusted gross income (as defined in [section 62 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section62&num=0&edition=prelim)) of the student (and the student’s spouse, if applicable) in the second tax year preceding the academic year;
+      (I) the adjusted gross income (as defined in [section 62 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section62&num=0&edition=prelim)) of the student’s parents; plus
+
+      (II) for Federal Pell Grant determinations made for academic years beginning on or after July 1, 2026, the foreign income (as described in [section 1087vv(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087vv/b/5&num=0&edition=prelim)) of the student’s parents; and
+
+    (ii) in the case of an independent student, for the second tax year preceding the academic year—
+
+      (I) the adjusted gross income (as defined in [section 62 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section62&num=0&edition=prelim)) of the student (and the student’s spouse, if applicable); plus
+
+      (II) for Federal Pell Grant determinations made for academic years beginning on or after July 1, 2026, the foreign income (as described in [section 1087vv(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087vv/b/5&num=0&edition=prelim)) of the student (and the student’s spouse, if applicable);
 
   (B) the term “family size” has the meaning given the term in [section 1087vv(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087vv/k&num=0&edition=prelim);
 
@@ -8403,7 +8413,7 @@ Pub. L. 102–25, title III, part E (§§ 371–376), Apr. 6, 1991, 105 Stat. 93
 
       (III) if the student is not a parent, and the adjusted gross income is equal to or less than 275 percent of the poverty line.
 
-  (D) A student eligible for the total maximum Federal Pell Grant under subparagraph (A) who has (or whose spouse or parent, as applicable based on whose information is used under such subparagraph, has) foreign income that would, if added to adjusted gross income, result in the student no longer being eligible for such total maximum Federal Pell Grant, shall not be provided a Federal Pell Grant until the student aid administrator evaluates the student’s FAFSA and makes a determination regarding whether it is appropriate to make an adjustment under [section 1087tt(b)(1)(B)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087tt/b/1/B/v&num=0&edition=prelim) to account for such foreign income when determining the student’s eligibility for such total maximum Federal Pell Grant.
+  (D) For each academic year beginning before July 1, 2026, a student eligible for the total maximum Federal Pell Grant under subparagraph (A) who has (or whose spouse or parent, as applicable based on whose information is used under such subparagraph, has) foreign income that would, if added to adjusted gross income, result in the student no longer being eligible for such total maximum Federal Pell Grant, shall not be provided a Federal Pell Grant until the student aid administrator evaluates the student’s FAFSA and makes a determination regarding whether it is appropriate to make an adjustment under [section 1087tt(b)(1)(B)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087tt/b/1/B/v&num=0&edition=prelim), as in effect for such academic year, to account for such foreign income when determining the student’s eligibility for such total maximum Federal Pell Grant.
 
   (E) With respect to a student who is not eligible for the total maximum Federal Pell Grant under subparagraph (A) or a minimum Federal Pell Grant under subparagraph (C), the Secretary shall subtract from the student or parents’ adjusted gross income, as applicable based on whose income is used for the Federal Pell Grant calculation, the sum of the following for the individual whose income is so used, and consider such difference the adjusted gross income for purposes of determining the student’s eligibility for such Federal Pell Grant award under such subparagraph:
 
@@ -8445,7 +8455,7 @@ Pub. L. 102–25, title III, part E (§§ 371–376), Apr. 6, 1991, 105 Stat. 93
 
     (ii) $3,170,000,000 for fiscal year 2025;
 
-    (iii) $2,170,000,000 for fiscal year 2026; and
+    (iii) $12,670,000,000 for fiscal year 2026; and
 
     (iv) $1,236,000,000 for fiscal year 2027 and each succeeding fiscal year.
 
@@ -8562,6 +8572,8 @@ Pub. L. 102–25, title III, part E (§§ 371–376), Apr. 6, 1991, 105 Stat. 93
 
           (CC) [section 1087e(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/h&num=0&edition=prelim) due to the student’s successful assertion of a defense to repayment of the loan, including defenses provided to any applicable groups of students.
 
+(6) **Exclusion** — Beginning on July 1, 2026, and notwithstanding this subsection or subsection (b), a student shall not be eligible for a Federal Pell Grant under subsection (b) during any period for which the student receives grant aid from non-Federal sources, including States, institutions of higher education, or private sources, in an amount that equals or exceeds the student’s cost of attendance for such period.
+
 **(e) Applications for grants**
 
 (1) **Deadlines** — The Secretary shall from time to time set dates by which students shall file the Free Application for Federal Student Aid under [section 1090 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1090).
@@ -8588,6 +8600,55 @@ Pub. L. 102–25, title III, part E (§§ 371–376), Apr. 6, 1991, 105 Stat. 93
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 119–21, title VIII, § 83001(b), July 4, 2025, 139 Stat. 350, provided that, effective on July 1, 2026, subsection (b)(1) of this section is amended by adding at the end the following: “(F) Ineligibility of students with a high student aid index.—Notwithstanding subparagraphs (A) through (E), a student shall not be eligible for a Federal Pell Grant under this subsection for an academic year in which the student has a student aid index that equals or exceeds twice the amount of the total maximum Federal Pell Grant for such academic year.”
+
+See 2025 Amendment note below.
+
+Pub. L. 119–21, title VIII, § 83002(a), (c), July 4, 2025, 139 Stat. 350, 352, provided that, effective on July 1, 2026, and applicable with respect to award year 2026–2027 and each succeeding award year, this section is amended by adding at the end the following new subsection:
+
+“(k) Workforce Pell Grant Program
+
+“(1) In general
+
+“For the award year beginning on July 1, 2026, and each subsequent award year, the Secretary shall award grants (to be known as “Workforce Pell Grants”) to eligible students under paragraph (2) in accordance with this subsection.
+
+“(2) Eligible students
+
+“To be eligible to receive a Workforce Pell Grant under this subsection for any period of enrollment, a student shall meet the eligibility requirements for a Federal Pell Grant under this section, except that the student—
+
+“(A) shall be enrolled, or accepted for enrollment, in an eligible program under [section 1088(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1088/b/3&num=0&edition=prelim) (hereinafter referred to as an ‘eligible workforce program’); and
+
+“(B) may not—
+
+“(i) be enrolled, or accepted for enrollment, in a program of study that leads to a graduate credential; or
+
+“(ii) have attained such a credential.
+
+“(3) Terms and conditions of awards
+
+“The Secretary shall award Workforce Pell Grants under this subsection in the same manner and with the same terms and conditions as the Secretary awards Federal Pell Grants under this section, except that—
+
+“(A) each use of the term ‘eligible program’ (except in subsection (b)(9)(A)) shall be substituted by ‘eligible workforce program under [section 1088(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1088/b/3&num=0&edition=prelim)’;
+
+“(B) the provisions of subsection (d)(2) shall not be applicable to eligible workforce programs; and
+
+“(C) a student who is eligible for a grant equal to less than the amount of the minimum Federal Pell Grant because the eligible workforce program in which the student is enrolled or accepted for enrollment is less than an academic year (in hours of instruction or weeks of duration) may still be eligible for a Workforce Pell Grant in an amount that is prorated based on the length of the program.
+
+“(4) Prevention of double benefits
+
+“No eligible student described in paragraph (2) may concurrently receive a grant under both this subsection and—
+
+“(A) subsection (b); or
+
+“(B) subsection (c).
+
+“(5) Duration limit
+
+“Any period of study covered by a Workforce Pell Grant awarded under this subsection shall be included in determining a student’s duration limit under subsection (d)(5).”
+
+See 2025 Amendment note below.
+
 #### References in Text
 The FAFSA Simplification Act, referred to in subsec. (b)(7)(B), is title VII of Pub. L. 116–260, div. FF, Dec. 27, 2020, 134 Stat. 3137. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables. The effective date of the Act is July 1, 2024, except as otherwise provided, see section 701(b) of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
@@ -8603,6 +8664,22 @@ A prior section 401 of Pub. L. 89–329 was renumbered section 400 by section 40
 Another prior section 401 of Pub. L. 89–329, title IV, as added and amended Pub. L. 92–318, title I, § 131(b)(1), title X, § 1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94–482, title I, § 125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96–374, title IV, § 401, title XIII, § 1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, which stated purpose of program of grants to students in attendance at institutions of higher education, was classified to [section 1070 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070), prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+2025—Subsec. (a)(2)(A). Pub. L. 119–21, § 83001(a)(1), amended subpar. (A) generally. Prior to amendment, supbar. (A) read as follows: “the term ‘adjusted gross income’ means—
+
+“(i) in the case of a dependent student, the adjusted gross income (as defined in [section 62 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section62&num=0&edition=prelim)) of the student’s parents in the second tax year preceding the academic year; and
+
+“(ii) in the case of an independent student, the adjusted gross income (as defined in [section 62 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section62&num=0&edition=prelim)) of the student (and the student’s spouse, if applicable) in the second tax year preceding the academic year;”.
+
+Subsec. (b)(1)(D). Pub. L. 119–21, § 83001(a)(2), substituted “For each academic year beginning before July 1, 2026, a student” for “A student” and inserted “, as in effect for such academic year,” after “[section 1087tt(b)(1)(B)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087tt/b/1/B/v&num=0&edition=prelim)”.
+
+Subsec. (b)(1)(F). Pub. L. 119–21, § 83001(b)(1), added subpar. (F).
+
+Subsec. (b)(7)(A)(iii). Pub. L. 119–21, § 83003, substituted “$12,670,000,000” for “$2,170,000,000”.
+
+Subsec. (d)(6). Pub. L. 119–21, § 83004, added par. (6).
+
+Subsec. (k). Pub. L. 119–21, § 83002(a), added subsec. (k).
+
 2024—Subsec. (b)(7)(A). Pub. L. 118–40, § 101(b), amended subpar. (A) generally. Prior to amendment, text read as follows: “In addition to any funds appropriated under paragraph (6) and any funds made available for this section under any appropriations Act, there are authorized to be appropriated, and there are appropriated (out of any money in the Treasury not otherwise appropriated) to carry out this section, $1,170,000,000 for fiscal year 2023 and each subsequent award year.”
 
 Subsec. (b)(7)(B)(i). Pub. L. 118–40, § 101(c), substituted “2023, or 2024” for “or 2023”.
@@ -8882,6 +8959,11 @@ Subsec. (g). Pub. L. 102–325, § 401(g), struck out “Adjustments for” befo
 Subsec. (i). Pub. L. 102–325, § 401(h), substituted “Treatment of institutions and students under other laws” for “Noncontractor status of institutions” in heading and inserted at end of text “Recipients of Pell Grants shall not be considered to be individual grantees for purposes of part D of title V of Public Law 100–690.”
 
 1987—Subsec. (g)(2). Pub. L. 100–50 substituted “paragraph (1)(B)” for “paragraph (1)”.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VIII, § 83001(b)(2), July 4, 2025, 139 Stat. 350, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on July 1, 2026.”
+
+Pub. L. 119–21, title VIII, § 83002(c), July 4, 2025, 139 Stat. 352, provided that: “The amendments made by this section [amending this section and [section 1088 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1088)] shall take effect on July 1, 2026, and shall apply with respect to award year 2026–2027 and each succeeding award year.”
 
 #### Effective Date of 2024 Amendment
 Pub. L. 118–40, div. B, § 101(d), Mar. 1, 2024, 138 Stat. 18, provided that: “The amendments made by this section [amending this section and section 1087oo of this title] shall take effect and apply as if included in the FAFSA Simplification Act [title VII of div. FF of Pub. L. 116–260] and in accordance with section 701(b) of such Act, as amended by section 102(a) of the FAFSA Simplification Act Technical Corrections Act (division R of Public Law 117–103) (including the authorization provided under section 102(c)(1)(A) of such Act [set out in a note below]).”
@@ -13937,7 +14019,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
     (iv) for new borrowers on or after October 7, 1998, who accumulate (after October 7, 1998) outstanding loans under this part totaling more than $30,000, an extended repayment plan, with a fixed annual or graduated repayment amount paid over an extended period of time, not to exceed 25 years, except that the borrower shall repay annually a minimum amount determined in accordance with paragraph (1)(L)(i); and
 
-    (v) beginning July 1, 2009, an income-based repayment plan that enables a borrower who has a partial financial hardship to make a lower monthly payment in accordance with [section 1098e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e), except that the plan described in this clause shall not be available to a borrower for a loan under [section 1078–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-2) made on behalf of a dependent student or for a consolidation loan under [section 1078–3 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-3), if the proceeds of such loan were used to discharge the liability of a loan under [section 1078–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-2) made on behalf of a dependent student.
+    (v) beginning July 1, 2009, an income-based repayment plan that enables a borrower to make a lower monthly payment in accordance with [section 1098e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e), except that the plan described in this clause shall not be available to a borrower for a loan under [section 1078–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-2) made on behalf of a dependent student or for a consolidation loan under [section 1078–3 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-3), if the proceeds of such loan were used to discharge the liability of a loan under [section 1078–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-2) made on behalf of a dependent student.
 
   (B) *Lender selection of option if borrower does not select* — If a borrower of a loan made under this part does not select a repayment plan described in subparagraph (A), the lender shall provide the borrower with a repayment plan described in subparagraph (A)(i).
 
@@ -14366,6 +14448,25 @@ the Secretary shall consider and act upon such application within 180 days, and 
 
 ### Statutory Notes
 
+#### Amendment of Subsections (b)(1)(D) and (m)
+Pub. L. 119–21, title VIII, § 82001(c)(2)(A), (3), July 4, 2025, 139 Stat. 340, 341, provided that, effective on July 1, 2028, this section is amended as follows:
+
+(1) in subsection (b)(1)(D), by striking “be subject to income contingent repayment in accordance with subsection (m)” and inserting “be subject to income-based repayment in accordance with subsection (m)”; and
+
+(2) in subsection (m)—
+
+(A) in the subsection heading, by striking “Income contingent and”;
+
+(B) by amending paragraph (1) to read as follows:
+
+“(1) Authority of Secretary to require
+
+“The Secretary may require borrowers who have defaulted on loans made under this part that are assigned to the Secretary under subsection (c)(8) to repay those loans pursuant to an income-based repayment plan under [section 1098e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e).”; and
+
+(C) in the heading of paragraph (2), by striking “income contingent or”.
+
+See 2025 Amendment notes below.
+
 #### References in Text
 The National and Community Service Act of 1990, referred to in subsec. (a)(2)(C)(ii)(II)(aa), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Title I of the Act enacted subchapter I (§ 12511 et seq.) of chapter 129 of Title 42, The Public Health and Welfare, and amended sections 1070a–6 and 1087vv of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12501&num=0&edition=prelim) and Tables.
 
@@ -14386,6 +14487,16 @@ A prior section 1078, Pub. L. 89–329, title IV, § 428, Nov. 8, 1965, 79 Stat.
 A prior section 1078a, Pub. L. 91–95, § 2, Oct. 22, 1969, 83 Stat. 141; Pub. L. 92–318, title I, § 134(a), June 23, 1972, 86 Stat. 270; Pub. L. 93–269, § 5, Apr. 18, 1974, 88 Stat. 89; Pub. L. 94–328, § 2(c), June 30, 1976, 90 Stat. 727; Pub. L. 94–482, title I, § 127(c)(1), Oct. 12, 1976, 90 Stat. 2142, related to special allowances for insured student loans, prior to repeal by Pub. L. 94–482, title I, § 127(c)(2), Oct. 12, 1976, 90 Stat. 2142.
 
 #### Amendments
+2025—Subsec. (b)(1)(D). Pub. L. 119–21, § 82001(c)(2)(A)(i), substituted “be subject to income-based repayment in accordance with subsection (m)” for “be subject to income contingent repayment in accordance with subsection (m)”.
+
+Subsec. (b)(9)(A)(v). Pub. L. 119–21, § 82001(g), struck out “who has a partial financial hardship” after “that enables a borrower”.
+
+Subsec. (m). Pub. L. 119–21, § 82001(c)(2)(A)(ii)(I), struck out “Income contingent and” before “income-based repayment” in heading.
+
+Subsec. (m)(1). Pub. L. 119–21, § 82001(c)(2)(A)(ii)(II), amended par. (1) generally. Prior to amendment, text read as follows: “The Secretary may require borrowers who have defaulted on loans made under this part that are assigned to the Secretary under subsection (c)(8) to repay those loans under an income contingent repayment plan or income-based repayment plan, the terms and conditions of which shall be established by the Secretary and the same as, or similar to, an income contingent repayment plan established for purposes of part D of this subchapter or an income-based repayment plan under [section 1098e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e), as the case may be.”
+
+Subsec. (m)(2). Pub. L. 119–21, § 82001(c)(2)(A)(ii)(III), struck out “income contingent or” before “income-based” in heading.
+
 2020—Subsec. (a)(2)(B). Pub. L. 116–260, § 704(6), substituted “student aid index” for “expected family contribution”.
 
 Subsec. (a)(2)(E). Pub. L. 116–260, § 704(1), substituted “the student aid index” for “the expected family contribution”.
@@ -15085,6 +15196,9 @@ Subsec. (i)(1). Pub. L. 100–50, § 10(l), struck out “multiple” after “a
 Subsec. (j). Pub. L. 100–50, § 10(m), inserted provision at end that the guaranty agency consider the request of an eligible lender to serve as the lender-of-last-resort pursuant to this subsection.
 
 Subsec. (k)(1). Pub. L. 100–203, § 3003, substituted “Notwithstanding any other provision of law, in” for “In”, “guaranty agency shall” for “guaranty agency may”, and “subsection shall include” for “subsection may include”.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VIII, § 82001(c)(3), July 4, 2025, 139 Stat. 341, provided that: “The amendments made by this subsection [amending this section and sections 1078–3, 1087e, 1092, and 1098h of this title] shall take effect on July 1, 2028.”
 
 #### Effective Date of 2020 Amendment
 Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -16392,6 +16506,21 @@ Pub. L. 100–50, § 10(r)(2), June 3, 1987, 101 Stat. 344, provided that: “An
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 119–21, title VIII, § 82001(c)(2)(B), (3), July 4, 2025, 139 Stat. 340, 341, provided that, effective on July 1, 2028, this section is amended as follows:
+
+(1) in subsection (a)(3)(B)(i)(V)(aa), by striking “for the purposes of obtaining income contingent repayment or income-based repayment” and inserting “for the purposes of qualifying for an income-based repayment plan under [section 1087e(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/q&num=0&edition=prelim) or [section 1098e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e), as applicable”;
+
+(2) in subsection (b)(5), by striking “be repaid either pursuant to income contingent repayment under part D of this title, pursuant to income-based repayment under [section 1098e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e), or pursuant to any other repayment provision under this section” and inserting “be repaid pursuant to an income-based repayment plan under [section 1098e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e) or any other repayment provision under this section”; and
+
+(3) in subsection (c)—
+
+(A) in paragraph (2)(A), by striking “or by the terms of repayment pursuant to income contingent repayment offered by the Secretary under subsection (b)(5)” and inserting “or by the terms of repayment pursuant to an income-based repayment plan under [section 1098e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e)”; and
+
+(B) in paragraph (3)(B), by striking “except as required by the terms of repayment pursuant to income contingent repayment offered by the Secretary under subsection (b)(5)” and inserting “except as required by the terms of repayment pursuant to an income-based repayment plan under [section 1098e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e)”.
+
+See 2025 Amendment notes below.
+
 #### References in Text
 The Public Health Service Act, referred to in subsecs. (a)(4)(D), (E) and (d)(1)(C)(ii), (3)(D), is act July 1, 1944, ch. 373, 58 Stat. 682. Subparts I and II of part A of title VII of the Act are classified generally to subpart I (§ 292 et seq.) and subpart II (§ 292q et seq.), respectively, of part A of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part E of title VIII of the Act is classified generally to part E (§ 297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
@@ -16402,6 +16531,14 @@ Amendments by section 2(c)(33), (36) of Pub. L. 103–208 (which were effective 
 A prior section 1078–3, Pub. L. 89–329, title IV, § 428C, as added Pub. L. 99–272, title XVI, § 16017(a), Apr. 7, 1986, 100 Stat. 343, related to consolidation loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+2025—Subsec. (a)(3)(B)(i)(V)(aa). Pub. L. 119–21, § 82001(c)(2)(B)(i), substituted “for the purposes of qualifying for an income-based repayment plan under [section 1087e(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/q&num=0&edition=prelim) or [section 1098e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e), as applicable” for “for the purposes of obtaining income contingent repayment or income-based repayment”.
+
+Subsec. (b)(5). Pub. L. 119–21, § 82001(c)(2)(B)(ii), substituted “be repaid pursuant to an income-based repayment plan under [section 1098e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e) or any other repayment provision under this section” for “be repaid either pursuant to income contingent repayment under part D of this subchapter, pursuant to income-based repayment under [section 1098e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e), or pursuant to any other repayment provision under this section”.
+
+Subsec. (c)(2)(A). Pub. L. 119–21, § 82001(c)(2)(B)(iii)(I), substituted “or by the terms of repayment pursuant to an income-based repayment plan under [section 1098e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e)” for “or by the terms of repayment pursuant to income contingent repayment offered by the Secretary under subsection (b)(5)”.
+
+Subsec. (c)(3)(B). Pub. L. 119–21, § 82001(c)(2)(B)(iii)(II), substituted “except as required by the terms of repayment pursuant to an income-based repayment plan under [section 1098e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e)” for “except as required by the terms of repayment pursuant to income contingent repayment offered by the Secretary under subsection (b)(5)”.
+
 2022—Subsec. (a)(3)(B)(i)(V)(dd). Pub. L. 117–200 added item (dd).
 
 2010—Subsec. (a)(4)(A). Pub. L. 111–152, § 2206(a)(1), inserted “, and first disbursed before July 1, 2010” after “under this part”.
@@ -16602,6 +16739,9 @@ Subsec. (c)(2)(A)(v). Pub. L. 100–50, § 10(s)(6), substituted “equal to or 
 
 Subsec. (c)(5). Pub. L. 100–50, § 10(s)(7), inserted “, but a fee may be payable by the lender to the guaranty agency to cover the costs of increased or extended liability with respect to such loan” before period at end.
 
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21 effective July 1, 2028, see section 82001(c)(3) of Pub. L. 119–21, set out as a note under [section 1078 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078).
+
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), except as otherwise provided, see section 3 of Pub. L. 111–39, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
@@ -16679,7 +16819,7 @@ Section, Pub. L. 89–329, title IV, § 428E, as added Pub. L. 99–498, title I
 
     (ii) beginning July 1, 2014, assign the loan to the Secretary if the guaranty agency has been unable to sell the loan under clause (i).
 
-  (B) *Monthly payments* — Neither the guaranty agency nor the Secretary shall demand from a borrower as monthly payment amounts described in subparagraph (A) more than is reasonable and affordable based on the borrower’s total financial circumstances.
+  (B) *Monthly payments* — Neither the guaranty agency nor the Secretary shall demand from a borrower as monthly payment amounts described in subparagraph (A) more than is reasonable and affordable based on the borrower’s total financial circumstances. With respect to a borrower who has 1 or more loans made under part D on or after July 1, 2027 that are described in subparagraph (A), the total monthly payment of the borrower for all such loans shall not be less than $10.
 
   (C) *Consumer reporting agencies* — Upon the sale or assignment of the loan, the Secretary, guaranty agency or other holder of the loan shall request any consumer reporting agency to which the Secretary, guaranty agency or holder, as applicable, reported the default of the loan, to remove the record of the default from the borrower’s credit history.
 
@@ -16725,7 +16865,14 @@ Section, Pub. L. 89–329, title IV, § 428E, as added Pub. L. 99–498, title I
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(5)
+Pub. L. 119–21, title VIII, § 82003(a)(1), (3), July 4, 2025, 139 Stat. 348, provided that, effective on July 1, 2027, and applicable with respect to any loan made, insured, or guaranteed under this subchapter, subsection (a)(5) of this section is amended by striking “one time” and inserting “two times”. See 2025 Amendment notes below.
+
 #### Amendments
+2025—Subsec. (a)(1)(B). Pub. L. 119–21, § 82003(b), inserted at end “With respect to a borrower who has 1 or more loans made under part D on or after July 1, 2027 that are described in subparagraph (A), the total monthly payment of the borrower for all such loans shall not be less than $10.”
+
+Subsec. (a)(5). Pub. L. 119–21, § 82003(a)(1), substituted “two times” for “one time”.
+
 2013—Subsec. (a)(1)(A)(ii). Pub. L. 113–67, § 501(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “on or before September 30, 2011, assign the loan to the Secretary if—
 
 “(I) the Secretary has determined that market conditions unduly limit a guaranty agency’s ability to sell loans under clause (i); and
@@ -16781,6 +16928,9 @@ Subsec. (b). Pub. L. 102–325, § 420(4), added subsec. (b). Former subsec. (b)
 1989—Pub. L. 101–239 amended section generally, substituting provisions relating to default reduction program for former provisions relating to rehabilitation of defaulted loans.
 
 1987—Subsecs. (b), (c). Pub. L. 100–50 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The loans which shall be eligible for rehabilitation under this section shall be only those loans which are made to borrowers who, at the time of default on the loan, are unemployed or institutionalized.”
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VIII, § 82003(a)(3), July 4, 2025, 139 Stat. 348, provided that: “The amendments made by this subsection [amending this section and [section 1087dd of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087dd)] shall take effect beginning on July 1, 2027, and shall apply with respect to any loan made, insured, or guaranteed under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070) et seq.).”
 
 #### Effective Date of 2013 Amendment
 Pub. L. 113–67, div. A, title V, § 501, Dec. 26, 2013, 127 Stat. 1186, provided that the amendments made by section 501 of Pub. L. 113–67 are effective July 1, 2014.
@@ -19855,25 +20005,93 @@ Section applicable only to loans made for periods of enrollment beginning on or 
 
 (4) provide for the implementation of a quality assurance system, as established by the Secretary and developed in consultation with institutions of higher education, to ensure that the institution is complying with program requirements and meeting program objectives;
 
-(5) provide that the institution will not charge any fees of any kind, however described, to student or parent borrowers for origination activities or the provision of any information necessary for a student or parent to receive a loan under this part, or any benefits associated with such loan; and
+(5) provide that the institution will not charge any fees of any kind, however described, to student or parent borrowers for origination activities or the provision of any information necessary for a student or parent to receive a loan under this part, or any benefits associated with such loan;
 
-(6) include such other provisions as the Secretary determines are necessary to protect the interests of the United States and to promote the purposes of this part.
+(6) provide assurances that, beginning July 1, 2026, the institution will comply with all requirements of subsection (c); and
+
+(7) include such other provisions as the Secretary determines are necessary to protect the interests of the United States and to promote the purposes of this part.
 
 **(b) Origination** An agreement with any institution of higher education, or consortia thereof, for the origination of loans under this part shall—
 
 (1) supplement the agreement entered into in accordance with subsection (a);
 
-(2) include provisions established by the Secretary that are similar to the participation agreement provisions described in paragraphs (1)(E)(ii), (2), (3), (4), (5), and (6) of subsection (a), as modified to relate to the origination of loans by the institution or consortium;
+(2) include provisions established by the Secretary that are similar to the participation agreement provisions described in paragraphs (1)(E)(ii), (2), (3), (4), (5), (6), and (7) of subsection (a), as modified to relate to the origination of loans by the institution or consortium;
 
 (3) provide that the institution or consortium will originate loans to eligible students and parents in accordance with this part; and
 
 (4) provide that the note or evidence of obligation on the loan shall be the property of the Secretary.
 
-**(c) Withdrawal and termination procedures** The Secretary shall establish procedures by which institutions or consortia may withdraw or be terminated from the program under this part.
+**(c) Ineligibility for certain programs based on low earning outcomes**
+
+(1) **In general** — Notwithstanding [section 1088(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1088/b&num=0&edition=prelim), an institution of higher education subject to this subsection shall not use funds under this part for student enrollment in an educational program offered by the institution that is described in paragraph (2).
+
+(2) **Low-earning outcome programs described** — An educational program at an institution is described in this paragraph if the program awards an undergraduate degree, graduate or professional degree, or graduate certificate, for which the median earnings (as determined by the Secretary) of the programmatic cohort of students who received funds under this subchapter for enrollment in such program, who completed such program during the academic year that is 4 years before the year of the determination, who are not enrolled in any institution of higher education, and who are working, are, for not less than 2 of the 3 years immediately preceding the date of the determination, less than the median earnings of a working adult described in paragraph (3) for the corresponding year.
+
+(3) **Calculation of median earnings**
+
+  (A) *Working adult* — For purposes of applying paragraph (2) to an educational program at an institution, a working adult described in this paragraph is a working adult who, for the corresponding year—
+
+    (i) is aged 25 to 34;
+
+    (ii) is not enrolled in an institution of higher education; and
+
+    (iii)
+
+      (I) in the case of a determination made for an educational program that awards a baccalaureate or lesser degree, has only a high school diploma or its recognized equivalent; or
+
+      (II) in the case of a determination made for a graduate or professional program, has only a baccalaureate degree.
+
+  (B) *Source of data* — For purposes of applying paragraph (2) to an educational program at an institution, the median earnings of a working adult, as described in subparagraph (A), shall be based on data from the Bureau of the Census—
+
+    (i) with respect to an educational program that awards a baccalaureate or lesser degree—
+
+      (I) for the State in which the institution is located; or
+
+      (II) if fewer than 50 percent of the students enrolled in the institution reside in the State where the institution is located, for the entire United States; and
+
+    (ii) with respect to an educational program that is a graduate or professional program—
+
+      (I) for the lowest median earnings of—
+
+        (aa) a working adult in the State in which the institution is located;
+
+        (bb) a working adult in the same field of study (as determined by the Secretary, such as by using the 2-digit CIP code) in the State in which the institution is located; and
+
+        (cc) a working adult in the same field of study (as so determined) in the entire United States; or
+
+      (II) if fewer than 50 percent of the students enrolled in the institution reside in the State where the institution is located, for the lower median earnings of—
+
+        (aa) a working adult in the entire United States; or
+
+        (bb) a working adult in the same field of study (as so determined) in the entire United States.
+
+(4) **Small programmatic cohorts** — For any year for which the programmatic cohort described in paragraph (2) for an educational program of an institution is fewer than 30 individuals, the Secretary shall—
+
+  (A) first, aggregate additional years of programmatic data in order to achieve a cohort of at least 30 individuals; and
+
+  (B) second, in cases in which the cohort (including the individuals added under subparagraph (A)) is still fewer than 30 individuals, aggregate additional cohort years of programmatic data for educational programs of equivalent length in order to achieve a cohort of at least 30 individuals.
+
+(5) **Appeals process** — An educational program shall not lose eligibility under this subsection unless the institution has had the opportunity to appeal the programmatic median earnings of students working and not enrolled determination under paragraph (2), through a process established by the Secretary. During such appeal, the Secretary may permit the educational program to continue to participate in the program under this part.
+
+(6) **Notice to students**
+
+  (A) *In general* — If an educational program of an institution of higher education subject to this subsection does not meet the cohort median earning requirements, as described in paragraph (2), for one year during the applicable covered period but has not yet failed to meet such requirements for 2 years during such covered period, the institution shall promptly inform each student enrolled in the educational program of the eligible program’s low cohort median earnings and that the educational program is at risk of losing its eligibility for funds under this part.
+
+  (B) *Covered period* — In this paragraph, the term “covered period” means the period of the 3 years immediately preceding the date of a determination made under paragraph (2).
+
+(7) **Regaining programmatic eligibility** — The Secretary shall establish a process by which an institution of higher education that has an educational program that has lost eligibility under this subsection may, after a period of not less than 2 years of such program’s ineligibility, apply to regain such eligibility, subject to the requirements established by the Secretary that further the purpose of this subsection.
+
+**(d) Withdrawal and termination procedures** The Secretary shall establish procedures by which institutions or consortia may withdraw or be terminated from the program under this part.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a)(6), (7). Pub. L. 119–21, § 84001(1), added par. (6) and redesignated former par. (6) as (7).
+
+Subsec. (b)(2). Pub. L. 119–21, § 84001(2), substituted “(6), and (7)” for “and (6)”.
+
+Subsecs. (c), (d). Pub. L. 119–21, § 84001(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d).
+
 2020—Subsec. (a)(1)(B). Pub. L. 116–260 substituted “the student aid index” for “the expected family contribution”.
 
 2010—Subsec. (a)(4) to (7). Pub. L. 111–152, § 2210(a)(1), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4), which read as follows: “provide that students at the institution and their parents (with respect to such students) will be eligible to participate in the programs under part B of this subchapter at the discretion of the Secretary for the period during which such institution participates in the direct student loan program under this part, except that a student or parent may not receive loans under both this part and part B of this subchapter for the same period of enrollment;”.
@@ -20101,6 +20319,9 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 ### Statutory Notes
 
+#### Amendment of Subsection (h)(1)(D)
+Pub. L. 119–21, title VIII, § 82003(a)(2), (3), July 4, 2025, 139 Stat. 348, provided that, effective on July 1, 2027, subsection (h)(1)(D) of this section is amended by striking “once” and inserting “twice”. See 2025 Amendment note below.
+
 #### References in Text
 [Section 1087cc(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087cc/a&num=0&edition=prelim), referred to in subsec. (c)(1)(G), was amended by Pub. L. 105–244, title IV, § 463(a)(3), Oct. 7, 1998, 112 Stat. 1724, which redesignated pars. (6) and (7) as (5) and (6), respectively.
 
@@ -20108,6 +20329,8 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 A prior section 1087dd, Pub. L. 89–329, title IV, § 464, as added Pub. L. 92–318, title I, § 137(b), June 23, 1972, 86 Stat. 275; amended Pub. L. 94–482, title I, § 130(d)–(g)(1), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 95–43, § 1(a)(39), June 15, 1977, 91 Stat. 217; Pub. L. 96–374, title IV, §§ 442(b)(5), 443, 444, 445(b)(2), 446, 448(c), title XIII, § 1391(a)(1), Oct. 3, 1980, 94 Stat. 1440–1443, 1503; Pub. L. 97–35, title V, § 539, Aug. 13, 1981, 95 Stat. 458; Pub. L. 99–272, title XVI, § 16028, Apr. 7, 1986, 100 Stat. 353, related to terms and conditions of loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+2025—Subsec. (h)(1)(D). Pub. L. 119–21 substituted “twice” for “once”.
+
 2020—Subsec. (j). Pub. L. 116–259, § 202(b)(2)(A), substituted “Armed Forces and NOAA Commissioned Officer Corps student loan interest payment programs” for “Armed Forces student loan interest payment program” in heading.
 
 Subsec. (j)(1). Pub. L. 116–259, § 202(b)(2)(B), inserted “or [section 3078 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3078&num=0&edition=prelim)” after “[section 2174 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2174&num=0&edition=prelim)” and “or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively” after “Armed Forces”.
@@ -20200,6 +20423,9 @@ Subsecs. (e), (f). Pub. L. 102–325, § 464(h), added subsecs. (e) and (f).
 
 1987—Subsec. (c)(2)(A)(vi). Pub. L. 100–50 inserted “or serving in an internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility that offers postgraduate training” before semicolon at end.
 
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21 effective on July 1, 2027, see section 82003(a)(3) of Pub. L. 119–21, set out as a note under [section 1078–6 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-6).
+
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–245 applicable with respect to loans made on or after Sept. 28, 2018, or in repayment on Sept. 28, 2018, see section 309(f) of Pub. L. 115–245, set out as a note under [section 1077 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1077).
 
@@ -20262,15 +20488,87 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
 
   (D) [section 1078–8 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-8) shall be known as “Federal Direct Unsubsidized Stafford Loans”.
 
-(3) **Termination of authority to make interest subsidized loans to graduate and professional students**
+(3) **Termination of authority to make interest subsidized loans and Federal Direct PLUS loans to graduate and professional students**
 
-  (A) *In general* — Subject to subparagraph (B) and notwithstanding any provision of this part or part B, for any period of instruction beginning on or after July 1, 2012—
+  (A) *Termination of authority to make interest subsidized loans to graduate and professional students* — Subject to subparagraph (B), and notwithstanding any provision of this part or part B—
 
-    (i) a graduate or professional student shall not be eligible to receive a Federal Direct Stafford loan under this part; and
+    (i) for any period of instruction beginning on or after July 1, 2012, a graduate or professional student shall not be eligible to receive a Federal Direct Stafford loan under this part; and
 
-    (ii) the maximum annual amount of Federal Direct Unsubsidized Stafford loans such a student may borrow in any academic year (as defined in [section 1088(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1088/a/2&num=0&edition=prelim)) or its equivalent shall be the maximum annual amount for such student determined under [section 1078–8 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-8), plus an amount equal to the amount of Federal Direct Stafford loans the student would have received in the absence of this subparagraph.
+    (ii) for any period of instruction beginning on July 1, 2012, and ending on June 30, 2026, the maximum annual amount of Federal Direct Unsubsidized Stafford loans such a student may borrow in any academic year (as defined in [section 1088(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1088/a/2&num=0&edition=prelim)) or its equivalent shall be the maximum annual amount for such student determined under [section 1078–8 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-8), plus an amount equal to the amount of Federal Direct Stafford loans the student would have received in the absence of this subparagraph.
 
   (B) *Exception* — Subparagraph (A) shall not apply to an individual enrolled in course work specified in paragraph (3)(B) or (4)(B) of [section 1091(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1091/b&num=0&edition=prelim).
+
+  (C) *Termination of authority to make Federal Direct PLUS loans to graduate and professional students* — Subject to paragraph (8) and notwithstanding any provision of this part or part B, for any period of instruction beginning on or after July 1, 2026, a graduate or professional student shall not be eligible to receive a Federal Direct PLUS Loan under this part.
+
+(4) **Graduate and professional annual and aggregate limits for Federal Direct Unsubsidized Stafford loans beginning July 1, 2026**
+
+  (A) *Annual limits beginning July 1, 2026* — Subject to paragraphs (7)(A) and (8), beginning on July 1, 2026, the maximum annual amount of Federal Direct Unsubsidized Stafford loans—
+
+    (i) a graduate student, who is not a professional student, may borrow in any academic year or its equivalent shall be $20,500; and
+
+    (ii) a professional student may borrow in any academic year or its equivalent shall be $50,000.
+
+  (B) *Aggregate limits* — Subject to paragraphs (6), (7)(A), and (8), beginning on July 1, 2026, the maximum aggregate amount of Federal Direct Unsubsidized Stafford loans, in addition to the amount borrowed for undergraduate education, that—
+
+    (i) a graduate student—
+
+      (I) who is not (and has not been) a professional student, may borrow for programs of study described in subparagraph (C)(i) shall be $100,000; or
+
+      (II) who is (or has been) a professional student, may borrow for programs of study described in subparagraph (C)(i) shall be an amount equal to—
+
+        (aa) $200,000; minus
+
+        (bb) the amount such student borrowed for programs of study described in subparagraph (C)(ii); and
+
+    (ii) a professional student—
+
+      (I) who is not (and has not been) a graduate student, may borrow for programs of study described in subparagraph (C)(ii) shall be $200,000; or
+
+      (II) who is (or has been) a graduate student, may borrow for programs of study described in subparagraph (C)(ii) shall be an amount equal to—
+
+        (aa) $200,000; minus
+
+        (bb) the amount such student borrowed for programs of study described in subparagraph (C)(i).
+
+  (C) *Definitions*
+
+    (i) *Graduate student* — The term “graduate student” means a student enrolled in a program of study that awards a graduate credential (other than a professional degree) upon completion of the program.
+
+    (ii) *Professional student* — In this paragraph, the term “professional student” means a student enrolled in a program of study that awards a professional degree, as defined under section 668.2 of title 34, Code of Federal Regulations (as in effect on July 4, 2025), upon completion of the program.
+
+(5) **Parent borrower annual and aggregate limits for Federal Direct PLUS loans beginning July 1, 2026**
+
+  (A) *Annual limits* — Subject to paragraph (8) and notwithstanding any provision of this part or part B, beginning on July 1, 2026, for each dependent student, the total maximum annual amount of Federal Direct PLUS loans that may be borrowed on behalf of that dependent student by all parents of that dependent student shall be $20,000.
+
+  (B) *Aggregate limits* — Subject to paragraph (8) and notwithstanding any provision of this part or part B, beginning on July 1, 2026, for each dependent student, the total maximum aggregate amount of Federal Direct PLUS loans that may be borrowed on behalf of that dependent student by all parents of that dependent student shall be $65,000, without regard to any amounts repaid, forgiven, canceled, or otherwise discharged on any such loan.
+
+(6) **Lifetime maximum aggregate amount for all students** — Subject to paragraph (8) and notwithstanding any provision of this part or part B, beginning on July 1, 2026, the maximum aggregate amount of loans made, insured, or guaranteed under this subchapter that a student may borrow (other than a Federal Direct PLUS loan, or loan under [section 1078–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-2), made to the student as a parent borrower on behalf of a dependent student) shall be $257,500, without regard to any amounts repaid, forgiven, canceled, or otherwise discharged on any such loan.
+
+(7) **Additional rules regarding annual loan limits**
+
+  (A) *Less than full-time enrollment* — Notwithstanding any provision of this part or part B, in any case in which a student is enrolled in a program of study of an institution of higher education on less than a full-time basis during any academic year, the amount of a loan that student may borrow for an academic year or its equivalent shall be reduced in direct proportion to the degree to which that student is not so enrolled on a full-time basis, rounded to the nearest whole percentage point, as provided in a schedule of reductions published by the Secretary computed for purposes of this subparagraph.
+
+  (B) *Institutionally determined limits* — Notwithstanding the annual loan limits established under this section and, for undergraduate students, under this part and part B, beginning on July 1, 2026, an institution of higher education (at the discretion of a financial aid administrator at the institution) may limit the total amount of loans made under this part for a program of study for an academic year that a student may borrow, and that a parent may borrow on behalf of such student, as long as any such limit is applied consistently to all students enrolled in such program of study.
+
+(8) **Interim exception for certain students**
+
+  (A) *Application of prior limits* — Paragraphs (3)(C), (4), (5), and (6) shall not apply, and paragraph (3)(A)(ii) shall apply as such paragraph was in effect for periods of instruction ending before June 30, 2026, during the expected time to credential described in subparagraph (B), with respect to an individual who, as of June 30, 2026—
+
+    (i) is enrolled in a program of study at an institution of higher education; and
+
+    (ii) has received a loan (or on whose behalf a loan was made) under this part for such program of study.
+
+  (B) *Expected time to credential* — For purposes of this paragraph, the expected time to credential of an individual shall be equal to the lesser of—
+
+    (i) three academic years; or
+
+    (ii) the period determined by calculating the difference between—
+
+      (I) the program length for the program of study in which the individual is enrolled; and
+
+      (II) the period of such program of study that such individual has completed as of the date of the determination under this subparagraph.
+
+  (C) *Definition of program length* — In this paragraph, the term “program length” means the minimum amount of time in weeks, months, or years that is specified in the catalog, marketing materials, or other official publications of an institution of higher education for a full-time student to complete the requirements for a specific program of study.
 
 **(b) Interest rate**
 
@@ -20456,7 +20754,7 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
 
 **(d) Repayment plans**
 
-(1) **Design and selection** — Consistent with criteria established by the Secretary, the Secretary shall offer a borrower of a loan made under this part a variety of plans for repayment of such loan, including principal and interest on the loan. The borrower shall be entitled to accelerate, without penalty, repayment on the borrower’s loans under this part. The borrower may choose—
+(1) **Design and selection** — Consistent with criteria established by the Secretary, the Secretary shall offer a borrower of a loan made under this part before July 1, 2026, who has not received a loan made under this part on or after July 1, 2026, a variety of plans for repayment of such loan, including principal and interest on the loan. The borrower shall be entitled to accelerate, without penalty, repayment on the borrower’s loans under this part. The borrower may choose—
 
   (A) a standard repayment plan, consistent with subsection (a)(1) of this section and with [section 1078(b)(9)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078/b/9/A/i&num=0&edition=prelim);
 
@@ -20464,9 +20762,15 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
 
   (C) an extended repayment plan, consistent with [section 1078(b)(9)(A)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078/b/9/A/iv&num=0&edition=prelim), except that the borrower shall annually repay a minimum amount determined by the Secretary in accordance with [section 1078(b)(1)(L) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078/b/1/L&num=0&edition=prelim);
 
-  (D) an income contingent repayment plan, with varying annual repayment amounts based on the income of the borrower, paid over an extended period of time prescribed by the Secretary, not to exceed 25 years, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS loan made on behalf of a dependent student; and
+  (D) before June 30, 2028, an income contingent repayment plan, with varying annual repayment amounts based on the income of the borrower, paid over an extended period of time prescribed by the Secretary, not to exceed 25 years, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS loan made on behalf of a dependent student;
 
-  (E) beginning on July 1, 2009, an income-based repayment plan that enables borrowers who have a partial financial hardship to make a lower monthly payment in accordance with [section 1098e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e), except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS Loan made on behalf of a dependent student or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to discharge the liability on such Federal Direct PLUS Loan or a loan under [section 1078–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-2) made on behalf of a dependent student.
+  (E) beginning on July 1, 2009, an income-based repayment plan in accordance with [section 1098e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e), except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS Loan made on behalf of a dependent student or an excepted Consolidation Loan (as defined in [section 1098e(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1098e/a/2&num=0&edition=prelim)); and
+
+  (F) beginning on July 1, 2026, the income-based Repayment Assistance Plan under subsection (q), provided that—
+
+    (i) such Plan shall not be available for the repayment of excepted loans (as defined in paragraph (7)(E)); and
+
+    (ii) the borrower is required to pay each outstanding loan of the borrower made under this part under such Repayment Assistance Plan, except that a borrower of an excepted loan (as defined in paragraph (7)(E)) may repay the excepted loan separately from other loans under this part obtained by the borrower.
 
 (2) **Selection by Secretary** — If a borrower of a loan made under this part does not select a repayment plan described in paragraph (1), the Secretary may provide the borrower with a repayment plan described in subparagraph (A), (B), or (C) of paragraph (1).
 
@@ -20478,7 +20782,61 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
 
   (A) pay all reasonable collection costs associated with such loan; and
 
-  (B) repay the loan pursuant to an income contingent repayment plan.
+  (B) repay the loan pursuant to an income-based repayment plan under subsection (q) or [section 1098e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e), as applicable.
+
+(6) **Termination and limitation of repayment authority**
+
+  (A) *Sunset of repayment plans available before July 1, 2026* — Paragraphs (1) through (4) of this subsection shall only apply to loans made under this part before July 1, 2026.
+
+  (B) *Prohibitions* — The Secretary may not, for any loan made under this part on or after July 1, 2026—
+
+    (i) authorize a borrower of such a loan to repay such loan pursuant to a repayment plan that is not described in paragraph (7)(A); or
+
+    (ii) carry out or modify a repayment plan that is not described in such paragraph.
+
+(7) **Repayment plans for loans made on or after July 1, 2026**
+
+  (A) *Design and selection* — Beginning on July 1, 2026, the Secretary shall offer a borrower of a loan made under this part on or after such date (including such a borrower who also has a loan made under this part before such date) two plans for repayment of the borrower’s loans under this part, including principal and interest on such loans. The borrower shall be entitled to accelerate, without penalty, repayment on such loans. The borrower may choose—
+
+    (i) a standard repayment plan—
+
+      (I) with a fixed monthly repayment amount paid over a fixed period of time equal to the applicable period determined under subclause (II); and
+
+      (II) with the applicable period of time for repayment determined based on the total outstanding principal of all loans of the borrower made under this part before, on, or after July 1, 2026, at the time the borrower is entering repayment under such plan, as follows—
+
+        (aa) for a borrower with total outstanding principal of less than $25,000, a period of 10 years;
+
+        (bb) for a borrower with total outstanding principal of not less than $25,000 and less than $50,000, a period of 15 years;
+
+        (cc) for a borrower with total outstanding principal of not less than $50,000 and less than $100,000, a period of 20 years; and
+
+        (dd) for a borrower with total outstanding principal of $100,000 or more, a period of 25 years; or
+
+    (ii) the income-based Repayment Assistance Plan under subsection (q).
+
+  (B) *Selection by Secretary* — If a borrower of a loan made under this part on or after July 1, 2026, does not select a repayment plan described in subparagraph (A), the Secretary shall provide the borrower with the standard repayment plan described in subparagraph (A)(i).
+
+  (C) *Selection applies to all outstanding loans* — A borrower is required to pay each outstanding loan of the borrower made under this part under the same selected repayment plan, except that a borrower who selects the Repayment Assistance Plan and also has an excepted loan that is not eligible for repayment under such Repayment Assistance Plan shall repay the excepted loan separately from other loans under this part obtained by the borrower.
+
+  (D) *Changes of repayment plan* — A borrower may change the borrower’s selection of—
+
+    (i) the standard repayment plan under subparagraph (A)(i), or the Secretary’s selection of such plan for the borrower under subparagraph (B), as the case may be, to the Repayment Assistance Plan under subparagraph (A)(ii) at any time; and
+
+    (ii) the Repayment Assistance Plan under subparagraph (A)(ii) to the standard repayment plan under subparagraph (A)(i) at any time.
+
+  (E) *Repayment for borrowers with excepted loans made on or after July 1, 2026*
+
+    (i) *Standard repayment plan required* — Notwithstanding subparagraphs (A) through (D), beginning on July 1, 2026, the Secretary shall require a borrower who has received an excepted loan made on or after such date (including such a borrower who also has an excepted loan made before such date) to repay each excepted loan, including principal and interest on those excepted loans, under the standard repayment plan under subparagraph (A)(i). The borrower shall be entitled to accelerate, without penalty, repayment on such loans.
+
+    (ii) *Excepted loan defined* — For the purposes of this paragraph, the term “excepted loan” means a loan with an outstanding balance that is—
+
+      (I) a Federal Direct PLUS Loan that is made on behalf of a dependent student; or
+
+      (II) a Federal Direct Consolidation Loan, if the proceeds of such loan were used to discharge the liability on—
+
+        (aa) an excepted PLUS loan, as defined in [section 1098e(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1098e/a/1&num=0&edition=prelim); or
+
+        (bb) an excepted consolidation loan (as such term is defined in [section 1098e(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1098e/a/2/A&num=0&edition=prelim), notwithstanding subparagraph (B) of such section).
 
 **(e) Income contingent repayment**
 
@@ -20526,7 +20884,7 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
 
     (ii) recertifies income or family size under such plan.
 
-**(f) Deferment**
+**(f) Deferment; Forbearance**
 
 (1) **Effect on principal and interest** — A borrower of a loan made under this part who meets the requirements described in paragraph (2) shall be eligible for a deferment, during which periodic installments of principal need not be paid, and interest—
 
@@ -20547,7 +20905,7 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
     (ii) is pursuing a course of study pursuant to a graduate fellowship program approved by the Secretary, or pursuant to a rehabilitation training program for individuals with disabilities approved by the Secretary,
     except that no borrower shall be eligible for a deferment under this subparagraph, or a loan made under this part (other than a Federal Direct PLUS Loan or a Federal Direct Consolidation Loan), while serving in a medical internship or residency program;
 
-  (B) not in excess of 3 years during which the borrower is seeking and unable to find full-time employment;
+  (B) subject to paragraph (7), not in excess of 3 years during which the borrower is seeking and unable to find full-time employment;
 
   (C) during which the borrower—
 
@@ -20556,7 +20914,7 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
     (ii) is performing qualifying National Guard duty during a war or other military operation or national emergency,
     and for the 180-day period following the demobilization date for the service described in clause (i) or (ii); or
 
-  (D) not in excess of 3 years during which the Secretary determines, in accordance with regulations prescribed under section 1085(o) of this title, that the borrower has experienced or will experience an economic hardship.
+  (D) subject to paragraph (7), not in excess of 3 years during which the Secretary determines, in accordance with regulations prescribed under section 1085(o) of this title, that the borrower has experienced or will experience an economic hardship.
 
 (3) **Deferment for borrowers receiving cancer treatment**
 
@@ -20616,6 +20974,10 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
 
 (6) **Deferments for previous part B loan borrowers** — A borrower of a loan made under this part, who at the time such individual applies for such loan, has an outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under part B of this subchapter prior to July 1, 1993, shall be eligible for a deferment under [section 1077(a)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1077/a/2/C&num=0&edition=prelim) or [section 1078(b)(1)(M) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078/b/1/M&num=0&edition=prelim) as such sections were in effect on July 22, 1992.
 
+(7) **Sunset of unemployment and economic hardship deferments** — A borrower who receives a loan made under this part on or after July 1, 2027, shall not be eligible to defer such loan under subparagraph (B) or (D) of paragraph (2).
+
+(8) **Forbearance on loans made under this part on or after July 1, 2027** — A borrower who receives a loan made under this part on or after July 1, 2027, may only be eligible for a forbearance on such loan pursuant to [section 1078(c)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078/c/3/B&num=0&edition=prelim) that does not exceed 9 months during any 24-month period.
+
 **(g) Federal Direct Consolidation Loans**
 
 (1) **In general** — A borrower of a loan made under this part may consolidate such loan with the loans described in [section 1078–3(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078–3/a/4&num=0&edition=prelim), including any loan made under part B and first disbursed before July 1, 2010. To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in [section 1078–3(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078–3/a/3&num=0&edition=prelim).
@@ -20664,6 +21026,8 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
 
     (iii) *Remaining obligation from separate application* — In the case of an individual borrower who receives a separate consolidation loan due to the circumstances described in clause (ii), the other non-applying individual borrower shall become solely liable for the remaining balance of the joint consolidation loan.
 
+(3) **Consolidation loans made on or after July 1, 2026** — A Federal Direct Consolidation Loan offered to a borrower under this part on or after July 1, 2026, may only be repaid pursuant to a repayment plan described in clause (i) or (ii) of subsection (d)(7)(A) of this section, as applicable, and the repayment schedule of such a Consolidation Loan shall be determined in accordance with such repayment plan.
+
 **(h) Borrower defenses** Notwithstanding any other provision of State or Federal law, the Secretary shall specify in regulations which acts or omissions of an institution of higher education a borrower may assert as a defense to repayment of a loan made under this part, except that in no event may a borrower recover from the Secretary, in any action arising from or relating to a loan made under this part, an amount in excess of the amount such borrower has repaid on such loan.
 
 **(i) Loan application and promissory note** The common financial reporting form required in [section 1090(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1090/a/1&num=0&edition=prelim) shall constitute the application for loans made under this part (other than a Federal Direct PLUS loan). The Secretary shall develop, print, and distribute to participating institutions a standard promissory note and loan disclosure form.
@@ -20702,9 +21066,11 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
 
     (ii) payments under a standard repayment plan under subsection (d)(1)(A), based on a 10-year repayment period;
 
-    (iii) monthly payments under a repayment plan under subsection (d)(1) or (g) of not less than the monthly amount calculated under subsection (d)(1)(A), based on a 10-year repayment period; or
+    (iii) monthly payments under a repayment plan under subsection (d)(1) or (g) of not less than the monthly amount calculated under subsection (d)(1)(A), based on a 10-year repayment period;
 
-    (iv) payments under an income contingent repayment plan under subsection (d)(1)(D); and
+    (iv) payments under an income contingent repayment plan under subsection (d)(1)(D) (as in effect on the day before the date of the repeal of subsection (e) of this section); or
+
+    (v) on-time payments under the Repayment Assistance Plan under subsection (q); and
 
   (B)
 
@@ -20748,14 +21114,163 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
 
 **(p) Disclosures** Each institution of higher education with which the Secretary has an agreement under [section 1087c of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087c), and each contractor with which the Secretary has a contract under [section 1087f of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087f), shall, with respect to loans under this part and in accordance with such regulations as the Secretary shall prescribe, comply with each of the requirements under [section 1083 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1083) that apply to a lender with respect to a loan under part B.
 
+**(q) Repayment Assistance Plan**
+
+(1) **In general** — Notwithstanding any other provision of this chapter, beginning on July 1, 2026, the Secretary shall carry out an income-based repayment plan (to be known as the “Repayment Assistance Plan”), that shall have the following terms and conditions:
+
+  (A) The total monthly repayment amount owed by a borrower for all of the loans of the borrower that are repaid pursuant to the Repayment Assistance Plan shall be equal to the applicable monthly payment of a borrower calculated under paragraph (4)(B), except that the borrower may not be precluded from repaying an amount that exceeds such amount for any month.
+
+  (B) The Secretary shall apply the borrower’s applicable monthly payment under this paragraph first toward interest due on each such loan, next toward any fees due on each loan, and then toward the principal of each loan.
+
+  (C) Any principal due and not paid under subparagraph (B) or paragraph (2)(B) shall be deferred.
+
+  (D) A borrower who is not in a period of deferment or forbearance shall make an applicable monthly payment for each month until the earlier of—
+
+    (i) the date on which the outstanding balance of principal and interest due on all of the loans of the borrower that are repaid pursuant to the Repayment Assistance Plan is $0; or
+
+    (ii) the date on which the borrower has made 360 qualifying monthly payments.
+
+  (E) The Secretary shall cancel any outstanding balance of principal and interest due on a loan made under this part to a borrower—
+
+    (i) who, for any period of time, participated in the Repayment Assistance Plan under this subsection;
+
+    (ii) whose most recent payment for such loan prior to the loan cancellation under this subparagraph was made under such Repayment Assistance Plan; and
+
+    (iii) who has made 360 qualifying monthly payments on such loan.
+
+  (F) For the purposes of this subsection, the term “qualifying monthly payment” means any of the following:
+
+    (i) An on-time applicable monthly payment under this subsection.
+
+    (ii) An on-time monthly payment under the standard repayment plan under subsection (d)(7)(A)(i) of not less than the monthly payment required under such plan.
+
+    (iii) A monthly payment under any repayment plan (excluding the Repayment Assistance Plan under this subsection) of not less than the monthly payment that would be required under a standard repayment plan under subsection (d)(1)(A) with a repayment period of 10 years.
+
+    (iv) A monthly payment under [section 1098e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e) of not less than the monthly payment required under such section, including a monthly payment equal to the minimum payment amount permitted under such section.
+
+    (v) A monthly payment made before July 1, 2028, under an income contingent repayment plan carried out under subsection (d)(1)(D) (or under an alternative repayment plan in lieu of repayment under such an income contingent repayment plan, if placed in such an alternative repayment plan by the Secretary) of not less than the monthly payment required under such a plan, including a monthly payment equal to the minimum payment amount permitted under such a plan.
+
+    (vi) A month when the borrower did not make a payment because the borrower was in deferment under subsection (f)(2)(B) or due to an economic hardship described in subsection (f)(2)(D).
+
+    (vii) A month that ended before July 4, 2025, when the borrower did not make a payment because the borrower was in a period of deferment or forbearance described in section 685.209(k)(4)(iv) of title 34, Code of Federal Regulations (as in effect on July 4, 2025).
+
+  (G) The procedures established by the Secretary under [section 1098e(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1098e/c&num=0&edition=prelim) shall apply for annually determining the borrower’s eligibility for the Repayment Assistance Plan, including verification of a borrower’s annual income and the annual amount due on the total amount of loans eligible to be repaid under this subsection, and such other procedures as are necessary to effectively implement income-based repayment under this subsection. With respect to carrying out [section 1098h(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1098h/a/2&num=0&edition=prelim) for the Repayment Assistance Plan, an individual may elect to opt out of the disclosures required under [section 1098h(a)(2)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1098h/a/2/A/ii&num=0&edition=prelim) in accordance with the procedures established under [section 1098e(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1098e/c/2&num=0&edition=prelim).
+
+(2) **Balance assistance for distressed borrowers**
+
+  (A) *Interest subsidy* — With respect to a borrower of a loan made under this part, for each month for which such a borrower makes an on-time applicable monthly payment required under paragraph (1)(A) and such monthly payment is insufficient to pay the total amount of interest that accrues for the month on all loans of the borrower repaid pursuant to the Repayment Assistance Plan under this subsection, the amount of interest accrued and not paid for the month shall not be charged to the borrower.
+
+  (B) *Matching principal payment* — With respect to a borrower of a loan made under this part and not in a period of deferment or forbearance, for each month for which a borrower makes an on-time applicable monthly payment required under paragraph (1)(A) and such monthly payment reduces the total outstanding principal balance of all loans of the borrower repaid pursuant to the Repayment Assistance Plan under this subsection by less than $50, the Secretary shall reduce such total outstanding principal balance of the borrower by an amount that is equal to—
+
+    (i) the amount that is the lesser of—
+
+      (I) $50; or
+
+      (II) the total amount paid by the borrower for such month pursuant to paragraph (1)(A); minus
+
+    (ii) the total amount paid by the borrower for such month pursuant to paragraph (1)(A) that is applied to such total outstanding principal balance.
+
+(3) **Additional documents** — A borrower who chooses, or is required, to repay a loan under this subsection, and for whom adjusted gross income is unavailable or does not reasonably reflect the borrower’s current income, shall provide to the Secretary other documentation of income satisfactory to the Secretary, which documentation the Secretary may use to determine repayment under this subsection.
+
+(4) **Definitions** — In this subsection:
+
+  (A) *Adjusted gross income* — The term “adjusted gross income”, when used with respect to a borrower, means the adjusted gross income (as such term is defined in [section 62 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section62&num=0&edition=prelim)) of the borrower (and the borrower’s spouse, as applicable) for the most recent taxable year, except that, in the case of a married borrower who files a separate Federal income tax return, the term does not include the adjusted gross income of the borrower’s spouse.
+
+  (B) *Applicable monthly payment*
+
+    (i) *In general* — Except as provided in clause (ii), (iii), or (vi), the term “applicable monthly payment” means, when used with respect to a borrower, the amount equal to—
+
+      (I) the applicable base payment of the borrower, divided by 12; minus
+
+      (II) $50 for each dependent of the borrower (which, in the case of a married borrower filing a separate Federal income tax return, shall include only each dependent that the borrower claims on that return).
+
+    (ii) *Minimum amount* — In the case of a borrower with an applicable monthly payment amount calculated under clause (i) that is less than $10, the applicable monthly payment of the borrower shall be $10.
+
+    (iii) *Final payment* — In the case of a borrower whose total outstanding balance of principal and interest on all of the loans of the borrower that are repaid pursuant to the Repayment Assistance Plan is less than the applicable monthly payment calculated pursuant to clause (i) or (ii), as applicable, then the applicable monthly payment of the borrower shall be the total outstanding balance of principal and interest on all such loans.
+
+    (iv) *Base payment* — The amount of the applicable base payment for a borrower with an adjusted gross income of—
+
+      (I) not more than $10,000, is $120;
+
+      (II) more than $10,000 and not more than $20,000, is 1 percent of such adjusted gross income;
+
+      (III) more than $20,000 and not more than $30,000, is 2 percent of such adjusted gross income;
+
+      (IV) more than $30,000 and not more than $40,000, is 3 percent of such adjusted gross income;
+
+      (V) more than $40,000 and not more than $50,000, is 4 percent of such adjusted gross income;
+
+      (VI) more than $50,000 and not more than $60,000, is 5 percent of such adjusted gross income;
+
+      (VII) more than $60,000 and not more than $70,000, is 6 percent of such adjusted gross income;
+
+      (VIII) more than $70,000 and not more than $80,000, is 7 percent of such adjusted gross income;
+
+      (IX) more than $80,000 and not more than $90,000, is 8 percent of such adjusted gross income;
+
+      (X) more than $90,000 and not more than $100,000, is 9 percent of such adjusted gross income; and
+
+      (XI) more than $100,000, is 10 percent of such adjusted gross income.
+
+    (v) *Dependent* — For the purposes of this paragraph, the term “dependent” means an individual who is a dependent under [section 152 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section152&num=0&edition=prelim).
+
+    (vi) *Special rule* — In the case of a borrower who is required by the Secretary to provide information to the Secretary to determine the applicable monthly payment of the borrower under this subparagraph, and who does not comply with such requirement, the applicable monthly payment of the borrower shall be—
+
+      (I) the sum of the monthly payment amounts the borrower would have paid for each of the borrower’s loans made under this part under a standard repayment plan with a fixed monthly repayment amount, paid over a period of 10 years, based on the outstanding principal due on such loan when such loan entered repayment; and
+
+      (II) determined pursuant to this clause until the date on which the borrower provides such information to the Secretary.
+
 ### Statutory Notes
+
+#### Repeal of Subsection (e)
+Pub. L. 119–21, title VIII, § 82001(c)(1), (3), July 4, 2025, 139 Stat. 340, 341, provided that, effective on July 1, 2028, subsection (e) of this section is repealed. See 2025 Amendment note below.
 
 #### References in Text
 Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(6), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
 
 Subparagraph (C) of [section 1078–3(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078–3/a/3&num=0&edition=prelim) (as such subparagraph was in effect on June 30, 2006), referred to in subsec. (g)(2)(A)(i), means [section 1078–3(a)(3)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078–3/a/3/C&num=0&edition=prelim) prior to being struck out by Pub. L. 109–171, title VIII, § 8009(c), Feb. 8, 2006, 120 Stat. 164, effective July 1, 2006. Text of subsec. (a)(3)(C) prior to its repeal is set out in a 2006 Amendment note under [section 1078–3 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-3).
 
+For the date of the repeal of subsection (e) of this section, referred to in subsec. (m)(1)(A)(iv), see section 82001(c)(3) of Pub. L. 119–21, set out as an Effective Date of 2025 Amendment note under [section 1078 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078).
+
 #### Amendments
+2025—Subsec. (a)(3). Pub. L. 119–21, § 81001(1)(A), inserted “and federal direct plus loans” after “subsidized loans” in heading.
+
+Subsec. (a)(3)(A). Pub. L. 119–21, § 81001(1)(B), added subpar. (A) and struck out former subpar. (A) which related to a graduate or professional student’s ineligibility to receive a Federal Direct Stafford loan under this part and the maximum annual amount of Federal Direct Unsubsidized Stafford loans such a student may borrow.
+
+Subsec. (a)(3)(C). Pub. L. 119–21, § 81001(1)(C), added subpar. (C).
+
+Subsec. (a)(4) to (8). Pub. L. 119–21, § 81001(2), added pars. (4) to (8).
+
+Subsec. (d)(1). Pub. L. 119–21, § 82001(b)(1)(A), inserted “before July 1, 2026, who has not received a loan made under this part on or after July 1, 2026,” before “a variety of plans” in introductory provisions.
+
+Subsec. (d)(1)(D). Pub. L. 119–21, § 82001(b)(1)(B), inserted “before June 30, 2028,” before “an income contingent repayment plan” and struck out “and” after semicolon.
+
+Subsec. (d)(1)(E). Pub. L. 119–21, § 82001(b)(1)(C), struck out “that enables borrowers who have a partial financial hardship to make a lower monthly payment” after “an income-based repayment plan”, and substituted “an excepted Consolidation Loan (as defined in [section 1098e(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1098e/a/2&num=0&edition=prelim))” for “a Federal Direct Consolidation Loan, if the proceeds of such loan were used to discharge the liability on such Federal Direct PLUS Loan or a loan under [section 1078–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-2) made on behalf of a dependent student” and “; and” for period at end.
+
+Subsec. (d)(1)(F). Pub. L. 119–21, § 82001(b)(1)(D), added subpar. (F).
+
+Subsec. (d)(5)(B). Pub. L. 119–21, § 82001(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “repay the loan pursuant to an income contingent repayment plan.”
+
+Subsec. (d)(6), (7). Pub. L. 119–21, § 82001(b)(3), added pars. (6) and (7).
+
+Subsec. (e). Pub. L. 119–21, § 82001(c)(1), struck out subsec. (e) which related to income contingent repayment.
+
+Subsec. (f). Pub. L. 119–21, § 82002(a)(1), substituted “Deferment; Forbearance” for “Deferment” in heading.
+
+Subsec. (f)(2)(B). Pub. L. 119–21, § 82002(a)(2)(A), substituted “subject to paragraph (7), not in” for “not in”.
+
+Subsec. (f)(2)(D). Pub. L. 119–21, § 82002(a)(2)(B), substituted “subject to paragraph (7), not in” for “not in”.
+
+Subsec. (f)(7). Pub. L. 119–21, § 82002(a)(3), added par. (7).
+
+Subsec. (f)(8). Pub. L. 119–21, § 82002(b), added par. (8).
+
+Subsec. (g)(3). Pub. L. 119–21, § 82001(e), added par. (3).
+
+Subsec. (m)(1)(A)(iv), (v). Pub. L. 119–21, § 82004, substituted “(as in effect on the day before the date of the repeal of subsection (e) of this section); or” for “; and” in cl. (iv) and added cl. (v).
+
+Subsec. (q). Pub. L. 119–21, § 82001(d), added subsec. (q).
+
 2023—Subsec. (f)(4) to (6). Pub. L. 118–31 added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
 2022—Subsec. (g). Pub. L. 117–200 designated existing provisions as par. (1), inserted heading, and added par. (2).
@@ -20890,6 +21405,9 @@ Subsecs. (j)(2), (k)(3). Pub. L. 105–244, § 401(g)(6), substituted “Federal
 
 1992—Pub. L. 102–325 amended section generally, substituting provisions relating to withdrawal and termination procedures for former provisions relating to feasibility study.
 
+#### Effective Date of 2025 Amendment
+Amendment by section 82001(c)(1) of Pub. L. 119–21 effective July 1, 2028, see section 82001(c)(3) of Pub. L. 119–21, set out in a note under [section 1078 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078).
+
 #### Effective Date of 2023 Amendment
 Pub. L. 118–31, div. A, title X, § 1054(b), Dec. 22, 2023, 137 Stat. 398, provided that: “The amendments made by subsection (a) [amending this section] shall take effect 90 days after the date of the enactment of this Act [Dec. 22, 2023].”
 
@@ -20936,8 +21454,49 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 #### Construction of 2006 Amendment
 Nothing in amendment by section 8007(b) of Pub. L. 109–171 to be construed to authorize any refunding of any repayment of a loan, see section 8007(e) of Pub. L. 109–171, set out as a note under [section 1078 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078).
 
+#### Loan Repayment
+Pub. L. 119–21, title VIII, § 82001(a), July 4, 2025, 139 Stat. 337, provided that: “(a) Transition to Income-based Repayment Plans.—“(1) Selection.—The Secretary of Education shall take such steps as may be necessary to ensure that before July 1, 2028, each borrower who has one or more loans that are in a repayment status in accordance with, or an administrative forbearance associated with, an income contingent repayment plan authorized under section 455(e) of the Higher Education Act of 1965 [[20 U.S.C. 1087e(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/e&num=0&edition=prelim)] (referred to in this subsection as ‘covered income contingent loans’) selects one of the following income-based repayment plans that is otherwise applicable, and for which that borrower is otherwise eligible, for the repayment of the covered income contingent loans of the borrower:“(A) The Repayment Assistance Plan under section 455(q) of the Higher Education Act of 1965 [[20 U.S.C. 1087e(q)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/q&num=0&edition=prelim)]. “(B) The income-based repayment plan under section 493C of the Higher Education Act of 1965 [[20 U.S.C. 1098e](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e)]. “(C) Any other repayment plan as authorized under section 455(d)(1) of the Higher Education Act of 1965 [[20 U.S.C. 1087e(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/d/1&num=0&edition=prelim)]. “(2) Commencement of new repayment plan.—Beginning on July 1, 2028, a borrower described in paragraph (1) shall begin repaying the covered income contingent loans of the borrower in accordance with the repayment plan selected under paragraph (1), unless the borrower chooses to begin repaying in accordance with the repayment plan selected under paragraph (1) before such date. “(3) Failure to select.—In the case of a borrower described in paragraph (1) who fails to select a repayment plan in accordance with such paragraph, the Secretary of Education shall—“(A) enroll the covered income contingent loans of such borrower in—“(i) the Repayment Assistance Plan under section 455(q) of the Higher Education Act of 1965 [[20 U.S.C. 1087e(q)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/q&num=0&edition=prelim)] with respect to loans that are eligible for the Repayment Assistance Plan under such subsection; or “(ii) the income-based repayment plan under section 493C of such Act [[20 U.S.C. 1098e](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098e)], with respect to loans that are not eligible for the Repayment Assistance Plan; and “(B) require the borrower to begin repaying covered income contingent loans according to the plans under subparagraph (A) on July 1, 2028.”
+
+#### Ensuring Access to Certain Higher Education Benefits
+Pub. L. 118–159, div. A, title V, § 559B, Dec. 23, 2024, 138 Stat. 1900, provided that: “(a) Data Matching Required.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense and the Secretary of Education shall jointly complete a data matching process—“(1) to identify each individual who, while serving as a covered employee of the Department of Defense, made one or more student loan payments eligible to be counted for purposes of the Public Service Loan Forgiveness program under section 455(m) of the Higher Education Act of 1965 ([20 U.S.C. 1087e(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/m&num=0&edition=prelim)); and “(2) without requiring further information or action from such individual—“(A) to certify the total period of such employment for purposes of such program; and “(B) to count the total number of qualifying payments made by the individual for purposes of such program during such period. “(b) Covered Employee Defined.—In this section, the term ‘covered employee’ means an individual who, at any time beginning on or after October 1, 2007, was—“(1) a member of the Armed Forces serving on active duty for a period of more than 30 consecutive days; or “(2) a civilian employee of the Department of Defense.”
+
 #### Limitation on Consolidation Loans During Temporary Interest Rate
 Pub. L. 105–244, title IV, § 452(a)(2), Oct. 7, 1998, 112 Stat. 1716, provided that: “Notwithstanding section 455(g) of the Higher Education Act of 1965 [subsec. (g) of this section], a borrower who is enrolled or accepted for enrollment in an institution of higher education may not consolidate loans under such section during the period beginning October 1, 1998, and ending February 1, 1999, unless the borrower certifies that the borrower has no outstanding loans made, insured, or guaranteed under title IV of such Act [[20 U.S.C. 1070](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070) et seq.] other than loans made under part D of such title [this part].”
+
+#### Ex. Ord. No. 14235. Restoring Public Service Loan Forgiveness
+Ex. Ord. No. 14235, Mar. 7, 2025, 90 F.R. 11885, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:
+
+Section 1. Purpose. In 2007, the Congress established the Public Service Loan Forgiveness (PSLF) Program to encourage Americans to enter the public service sector by promising to forgive their remaining student loans after they completed 10 years of service in those jobs while making 10 years of minimum payments.
+
+The prior administration abused the PSLF Program through a waiver process, using taxpayer funds to pay off loans for employees still years away from the statutorily required number of payments. Moreover, instead of alleviating worker shortages in necessary occupations, the PSLF Program has misdirected tax dollars into activist organizations that not only fail to serve the public interest, but actually harm our national security and American values, sometimes through criminal means. The PSLF Program also creates perverse incentives that can increase the cost of tuition, can load students in low-need majors with unsustainable debt, and may push students into organizations that hide under the umbrella of a non-profit designation and degrade our national interest, thus requiring additional Federal funding to correct the negative societal effects caused by these organizations’ federally subsidized wrongdoing.
+
+As President of the United States, I have a duty to protect, preserve, and defend the Constitution and our national security, which includes ending the subsidization of illegal activities, including illegal immigration, human smuggling, child trafficking, pervasive damage to public property, and disruption of the public order, which threaten the security and stability of the United States. Accordingly, it is the policy of my Administration that individuals employed by organizations whose activities have a substantial illegal purpose shall not be eligible for public service loan forgiveness.
+
+Sec. 2. Restoring Public Service Loan Forgiveness. The Secretary of Education shall propose revisions to 34 CFR 685.219, Public Service Loan Forgiveness Program, in coordination with the Secretary of the Treasury as appropriate, that ensure the definition of “public service” excludes organizations that engage in activities that have a substantial illegal purpose, including:
+
+(a) aiding or abetting violations of [8 U.S.C. 1325](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1325&num=0&edition=prelim) [sic] or other Federal immigration laws;
+
+(b) supporting terrorism, including by facilitating funding to, or the operations of, cartels designated as Foreign Terrorist Organizations consistent with [8 U.S.C. 1189](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1189&num=0&edition=prelim) [sic], or by engaging in violence for the purpose of obstructing or influencing Federal Government policy;
+
+(c) child abuse, including the chemical and surgical castration or mutilation of children or the trafficking of children to so-called transgender sanctuary States for purposes of emancipation from their lawful parents, in violation of applicable law;
+
+(d) engaging in a pattern of aiding and abetting illegal discrimination; or
+
+(e) engaging in a pattern of violating State tort laws, including laws against trespassing, disorderly conduct, public nuisance, vandalism, and obstruction of highways.
+
+Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 #### Continued Student Loan Payment Relief During the COVID–19 Pandemic
 Memorandum of President of the United States, Aug. 8, 2020, 85 F.R. 49585, provided:
@@ -21338,12 +21897,7 @@ Pub. L. 105–244, title IV, § 467(b), Oct. 7, 1998, 112 Stat. 1728, provided t
 ## § 1087h. Funds for administrative expenses
 **(a) Administrative expenses**
 
-(1) **Mandatory funds for fiscal year 2006** — For fiscal year 2006, there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for—
-
-  (A) administrative costs under this part and part B, including the costs of the direct student loan programs under this part; and
-
-  (B) account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsections (b) and (c),
-  not to exceed (from such funds not otherwise appropriated) $820,000,000 in fiscal year 2006.
+(1) **Additional mandatory funds for servicing** — There shall be available to the Secretary (in addition to any other amounts appropriated under any appropriations Act for administrative costs under this part and part B and out of any money in the Treasury not otherwise appropriated) $1,000,000,000 to be obligated for administrative costs under this part and part B, including the costs of servicing the direct student loan programs under this part, which shall remain available until expended.
 
 (2) **Repealed. Pub. L. 113–67, div. A, title V, § 502(2), Dec. 26, 2013, 127 Stat. 1187**
 
@@ -21379,6 +21933,14 @@ Pub. L. 105–244, title IV, § 467(b), Oct. 7, 1998, 112 Stat. 1728, provided t
 Paragraph (3), referred to in subsec. (a)(5), was redesignated par. (4) by Pub. L. 111–152, § 2212(b)(1)(B).
 
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–21 amended par. (1) generally. Prior to amendment, text read as follows: “For fiscal year 2006, there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for—
+
+“(A) administrative costs under this part and part B, including the costs of the direct student loan programs under this part; and
+
+“(B) account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsections (b) and (c),
+
+not to exceed (from such funds not otherwise appropriated) $820,000,000 in fiscal year 2006.”
+
 2020—Subsec. (a)(4). Pub. L. 116–260 substituted “2021” for “2020”.
 
 2019—Subsec. (a)(4). Pub. L. 116–94 substituted “2020” for “2019”.
@@ -21441,7 +22003,7 @@ Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a
 Pub. L. 105–78, title VI, § 609(m), Nov. 13, 1997, 111 Stat. 1524, provided that: “Nothing in this Act [see Tables for classification] or an amendment made by this Act shall be construed to prohibit the Secretary of Education from using funds that are returned or otherwise recovered by the Secretary under section 422(g) of the Higher Education Act of 1965 ([20 U.S.C. 1072(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1072/g&num=0&edition=prelim)) including the balances of returned reserve funds, formerly held by the Higher Education Assistance Foundation, that are currently held in Higher Education Assistance Foundation Claims Reserves, Treasury account number 91X6192, for expenditure for expenses pursuant to section 458 of such Act ([20 U.S.C. 1087h](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087h)).”
 
 #### Funds for Account Maintenance Fees
-Pub. L. 118–47, div. D, title III, § 306, Mar. 23, 2024, 138 Stat. 692, provided that: “Section 458(a)(4) of the HEA [Higher Education Act of 1965] ([20 U.S.C. 1087h(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087h/a&num=0&edition=prelim)[(4)]) shall be applied by substituting ‘2024’ for ‘2021’.”
+Pub. L. 118–47, div. D, title III, § 306, Mar. 23, 2024, 138 Stat. 692, as amended by Pub. L. 119–4, div. A, title IX, § 1909, Mar. 15, 2025, 139 Stat. 33, provided that: “Section 458(a)(4) of the HEA [Higher Education Act of 1965] ([20 U.S.C. 1087h(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087h/a&num=0&edition=prelim)[(4)]) shall be applied by substituting ‘2026’ for ‘2021’.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -22499,9 +23061,9 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 (1) to prescribe updated tables in accordance with subsections (b) through (g); and
 
-(2) with respect to the definition of cost of attendance under [section 1087ll of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087ll), excluding [section 1087ll(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087ll/a/1&num=0&edition=prelim).
+(2) with respect to the definition of cost of attendance under section 1087ll of this title, excluding section 1087ll(a)(1) of this title.
 
-**(b) Income protection allowance adjustments** For award year 2023–2024 and each subsequent award year, the Secretary shall publish in the Federal Register revised income protection allowances for the purposes of subsections (c)(3) and (g)(2)(C) of [section 1087oo of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087oo), subclauses (I) and (II) of [section 1087pp(b)(1)(A)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087pp/b/1/A/iii&num=0&edition=prelim), and [section 1087qq(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087qq/b/3&num=0&edition=prelim), by increasing the income protection allowances in each of such provisions, by a percentage equal to the percentage increase in the Consumer Price Index, as defined in subsection (f), between April 2020 and the April in the year prior to the beginning of the award year and rounding the result to the nearest $10.
+**(b) Income protection allowance adjustments** For award year 2023–2024 and each subsequent award year, the Secretary shall publish in the Federal Register revised income protection allowances for the purposes of subsections (c)(3) and (g)(2)(C) of section 1087oo of this title, subclauses (I) and (II) of [section 1087pp(b)(1)(A)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087pp/b/1/A/iii&num=0&edition=prelim), and [section 1087qq(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087qq/b/3&num=0&edition=prelim), by increasing the income protection allowances in each of such provisions, by a percentage equal to the percentage increase in the Consumer Price Index, as defined in subsection (f), between April 2020 and the April in the year prior to the beginning of the award year and rounding the result to the nearest $10.
 
 **(c) Adjusted net worth of a farm or business**
 
@@ -22964,10 +23526,21 @@ Pub. L. 109–171, title VIII, § 8018(b), Feb. 8, 2006, 120 Stat. 175, provided
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)(1)(B)
+Pub. L. 119–21, title VIII, § 83001(a)(3), July 4, 2025, 139 Stat. 350, provided that, effective on July 1, 2026, subsection (b)(1)(B) of this section is amended as follows:
+
+(1) by striking clause (v); and
+
+(2) by redesignating clauses (vi) and (vii) as clauses (v) and (vi), respectively.
+
+See 2025 Amendment note below.
+
 #### Prior Provisions
 A prior section 1087tt, Pub. L. 89–329, title IV, § 479A, as added Pub. L. 99–498, title IV, § 406(a), Oct. 17, 1986, 100 Stat. 1472, related to discretion of student financial aid administrators under this part, prior to repeal by section 14(26) of Pub. L. 100–50.
 
 #### Amendments
+2025—Subsec. (b)(1)(B)(v) to (vii). Pub. L. 119–21 redesignated cls. (vi) and (vii) as (v) and (vi), respectively, and struck out former cl. (v) which read as follows: “receipt of foreign income of permanent residents or United States citizens exempt from Federal taxation, or the foreign income for which a permanent resident or citizen received a foreign tax credit;”.
+
 2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to discretion of student financial aid administrators to take special circumstances into account and to make adjustments to cost of attendance or values of data items required to calculate expected student and/or parent contribution.
 
 2014—Subsec. (a). Pub. L. 113–128 substituted “a dislocated worker (as defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim))” for “a dislocated worker (as defined in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim))”.
@@ -22985,6 +23558,9 @@ Subsec. (c). Pub. L. 105–244, § 478(2), amended heading and text of subsec. (
 1992—Pub. L. 102–325 amended section generally, revising and restating provisions of subsecs. (a) and (b) and striking out former subsec. (c) which related to asset adjustment as example.
 
 1989—Subsec. (a). Pub. L. 101–239 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Nothing in this subchapter shall be interpreted as limiting the authority of the student financial aid administrator, on the basis of adequate documentation, to make necessary adjustments to the cost of attendance and expected student or parent contribution (or both) to allow for treatment of individual students with special circumstances. In addition, nothing in this subchapter shall be interpreted as limiting the authority of the student financial aid administrator to use supplementary information about the financial status or personal circumstance of eligible applicants in selecting recipients and determining the amount of awards under subparts 1 and 2 of part A and parts B, C, and E of this subchapter.”
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VIII, § 83001(a)(3)(B), July 4, 2025, 139 Stat. 350, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect on July 1, 2026.”
 
 #### Effective Date of 2020 Amendment
 Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001). Implementation of amendment by Pub. L. 116–260 allowed on or after July 1, 2023, see section 102(c)(1)(A)(ii) of Pub. L. 117–103, set out as an On-Time Effective Date Permitted note under [section 1070a of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070a).
@@ -23324,6 +23900,25 @@ In this part:
 
 ### Statutory Notes
 
+#### Amendment of Subsection (f)(2)
+Pub. L. 119–21, title VIII, § 80001, July 4, 2025, 139 Stat. 333, provided that, effective on July 1, 2026, and applicable with respect to award year 2026–2027 and each subsequent award year, as determined under this chapter, subsection (f)(2) of this section is amended as follows:
+
+(1) by striking “net value of the” and inserting “net value of—
+
+“(A) the”;
+
+(2) by striking the period at the end and inserting a semicolon; and
+
+(3) by adding at the end the following:
+
+“(B) a family farm on which the family resides;
+
+“(C) a small business with not more than 100 full-time or full-time equivalent employees (or any part of such a small business) that is owned and controlled by the family; or
+
+“(D) a commercial fishing business and related expenses, including fishing vessels and permits owned and controlled by the family.”
+
+See 2025 Amendment note below.
+
 #### References in Text
 Section 903 of the Department of Defense Authorization Act, 1981, referred to in subsec. (c)(2)(J), is section 903 of Pub. L. 96–342, which is set out as a note under [section 2141 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2141&num=0&edition=prelim), Armed Forces.
 
@@ -23339,6 +23934,8 @@ The Social Security Act, referred to in subsec. (i)(4), is act Aug. 14, 1935, ch
 Amendment by section 2(g)(19) of Pub. L. 103–208 (which was effective as if included in Pub. L. 102–325) was executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–82, to reflect the probable intent of Congress.
 
 #### Amendments
+2025—Subsec. (f)(2). Pub. L. 119–21 inserted a dash after “net value of”, designated remainder of existing provisions as subpar. (A), and added subpars. (B) to (D).
+
 2020—Pub. L. 116–260 amended section generally. Prior to amendment, section provided definitions for this part, including current balance of checking and savings accounts and special combat pay.
 
 2014—Subsec. (b)(1)(I). Pub. L. 113–128 substituted “benefits received through participation in employment and training activities under title I of the Workforce Innovation and Opportunity Act” for “benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)”.
@@ -23450,6 +24047,9 @@ Subsecs. (b), (c). Pub. L. 100–50, § 14(28)(E), substituted subsec. (b) consi
 Subsec. (d)(2)(F). Pub. L. 100–50, § 14(28)(F), substituted “annual total resources (including all sources of resources other than parents)” for “an annual total income”.
 
 Subsecs. (f) to (h). Pub. L. 100–50, § 14(28)(G), added subsecs. (f) to (h).
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VIII, § 80001(b), July 4, 2025, 139 Stat. 333, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on July 1, 2026, and shall apply with respect to award year 2026–2027 and each subsequent award year, as determined under the Higher Education Act of 1965 ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.).”
 
 #### Effective Date of 2020 Amendment
 Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001). Implementation of amendment by Pub. L. 116–260 allowed on or after July 1, 2023, see section 102(c)(1)(A)(iii) of Pub. L. 117–103, set out as an On-Time Effective Date Permitted note under [section 1070a of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070a).
@@ -24877,7 +25477,7 @@ Pub. L. 90–575, title I, § 131(c), Oct. 16, 1968, 82 Stat. 1028, provided tha
 
   (A) establish various income categories for dependent and independent undergraduate students;
 
-  (B) establish a student aid index for each income category of dependent and independent undergraduate students, determined on the basis of the average student aid index (computed in accordance with part F of this subchapter of a representative sample within each income category for the second preceding fiscal year;
+  (B) establish a student aid index for each income category of dependent and independent undergraduate students, determined on the basis of the average student aid index (computed in accordance with part F of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
 
   (C) compute 25 percent of the average cost of attendance for all undergraduate students;
 
@@ -24903,7 +25503,7 @@ Pub. L. 90–575, title I, § 131(c), Oct. 16, 1968, 82 Stat. 1028, provided tha
 
   (A) establish various income categories of graduate and professional students;
 
-  (B) establish a student aid index for each income category of graduate and professional students, determined on the basis of the average student aid index (computed in accordance with part F of this subchapter of a representative sample within each income category for the second preceding fiscal year;
+  (B) establish a student aid index for each income category of graduate and professional students, determined on the basis of the average student aid index (computed in accordance with part F of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
 
   (C) determine the average cost of attendance for all graduate and professional students;
 
@@ -25586,12 +26186,73 @@ Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)
+Pub. L. 119–21, title VIII, § 83002(b), (c), July 4, 2025, 139 Stat. 351, 352, provided that, effective on July 1, 2026, and applicable with respect to award year 2026–2027 and each succeeding award year, subsection (b) of this section is amended as follows:
+
+(1) by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively; and
+
+(2) by inserting after paragraph (2) the following:
+
+“(3)(A) A program is an eligible program for purposes of the Workforce Pell Grant program under [section 1070a(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/k&num=0&edition=prelim) only if—
+
+“(i) it is a program of at least 150 clock hours of instruction, but less than 600 clock hours of instruction, or an equivalent number of credit hours, offered by an eligible institution during a minimum of 8 weeks, but less than 15 weeks;
+
+“(ii) it is not offered as a correspondence course, as defined in 600.2 of title 34, Code of Federal Regulations (as in effect on July 1, 2021);
+
+“(iii) the Governor of a State, after consultation with the State board, determines that the program—
+
+“(I) provides an education aligned with the requirements of high-skill, high-wage (as identified by the State pursuant to [section 2342 of this title](./chapter-044-career-and-technical-education.md#section-2342)), or in-demand industry sectors or occupations;
+
+“(II) meets the hiring requirements of potential employers in the sectors or occupations described in subclause (I);
+
+“(III) either—
+
+“(aa) leads to a recognized postsecondary credential that is stackable and portable across more than one employer; or
+
+“(bb) with respect to students enrolled in the program—
+
+“(AA) prepares such students for employment in an occupation for which there is only one recognized postsecondary credential; and
+
+“(BB) provides such students with such a credential upon completion of such program; and
+
+“(IV) prepares students to pursue 1 or more certificate or degree programs at 1 or more institutions of higher education (which may include the eligible institution providing the program), including by ensuring—
+
+“(aa) that a student, upon completion of the program and enrollment in such a related certificate or degree program, will receive academic credit for the Workforce Pell program that will be accepted toward meeting such certificate or degree program requirements; and
+
+“(bb) the acceptability of such credit toward meeting such certificate or degree program requirements; and
+
+“(iv) after the Governor of such State makes the determination that the program meets the requirements under clause (iii), the Secretary determines that—
+
+“(I) the program has been offered by the eligible institution for not less than 1 year prior to the date on which the Secretary makes a determination under this clause;
+
+“(II) for each award year, the program has a verified completion rate of at least 70 percent, within 150 percent of the normal time for completion;
+
+“(III) for each award year, the program has a verified job placement rate of at least 70 percent, measured 180 days after completion; and
+
+“(IV) for each award year, the total amount of the published tuition and fees of the program for such year is an amount that does not exceed the value-added earnings of students who received Federal financial aid under this subchapter and who completed the program 3 years prior to the award year, as such earnings are determined by calculating the difference between—
+
+“(aa) the median earnings of such students, as adjusted by the State and metropolitan area regional price parities of the Bureau of Economic Analysis based on the location of such program; and
+
+“(bb) 150 percent of the poverty line applicable to a single individual as determined under section 9902(2)of title 42 for such year.
+
+“(B) In this paragraph:
+
+“(i) The term “eligible institution” means an eligible institution for purposes of [section 1070a of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070a).
+
+“(ii) The term “Governor” means the chief executive of a State.
+
+“(iii) The terms “in-demand industry sector or occupation”, “recognized postsecondary credential”, and “State board” have the meanings given such terms in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim).”
+
+See 2025 Amendment note below.
+
 #### Prior Provisions
 A prior section 1088, Pub. L. 89–329, title IV, § 481, as added Pub. L. 96–374, title IV, § 451(a), Oct. 3, 1980, 94 Stat. 1443, defined “institution of higher education” for this subchapter, prior to the general amendment of this part by Pub. L. 99–498.
 
 Another prior section 1088, Pub. L. 89–329, title IV, § 491, formerly § 461, as added Pub. L. 90–575, title I, § 151, Oct. 16, 1968, 82 Stat. 1032, renumbered § 491 and amended Pub. L. 92–318, title I, §§ 131(c), 137(b), title X, § 1001(c)(3), June 23, 1972, 86 Stat. 259, 272, 381; amended Pub. L. 95–180, § 1(b), Nov. 15, 1977, 91 Stat. 1372; Pub. L. 95–566, § 6, Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–49, § 5(e), Aug. 13, 1979, 93 Stat. 352, defined terms for this subchapter, prior to the general revision of this part by Pub. L. 96–374.
 
 #### Amendments
+2025—Subsec. (b)(3) to (5). Pub. L. 119–21 added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
 2015—Subsec. (f). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
 
 2009—Subsec. (c). Pub. L. 111–39 substituted “any State, or any private, for-profit or nonprofit organization,” for “or any State, or private, profit or nonprofit organization” in introductory provisions.
@@ -25657,6 +26318,9 @@ Subsec. (a)(3). Pub. L. 101–239, § 2007(c), added par. (3).
 Subsec. (e). Pub. L. 101–239, § 2007(b)(2), added subsec. (e).
 
 1987—Subsec. (c). Pub. L. 100–50 substituted “[section 1091(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1091/d&num=0&edition=prelim)” for “subsection (d) of this section”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21 effective on July 1, 2026, and applicable with respect to award year 2026–2027 and each succeeding award year, see section 83002(c) of Pub. L. 119–21, set out as a note under [section 1070a of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070a).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -27274,7 +27938,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 <a id="section-1091c"></a>
 ## § 1091c. Readmission requirements for servicemembers
-**(a) Definition of service in the uniformed services** In this section, the term “service in the uniformed services” means service (whether voluntary or involuntary) on active duty in the Armed Forces, including such service by a member of the National Guard or Reserve, for a period of more than 30 days under a call or order to active duty of more than 30 days.
+**(a) Definition of service in the uniformed services** In this section, the term “service in the uniformed services” means service (whether voluntary or involuntary) on active duty in the Armed Forces, including such service by a member of the National Guard or Reserve.
 
 **(b) Discrimination against students who serve in the uniformed services prohibited** A person who is a member of, applies to be a member of, performs, has performed, applies to perform, or has an obligation to perform, service in the uniformed services shall not be denied readmission to an institution of higher education on the basis of that membership, application for membership, performance of service, application for service, or obligation.
 
@@ -27363,6 +28027,8 @@ Section 1091e, Pub. L. 89–329, title V, § 506, as added Pub. L. 90–35, § 2
 Section 1091f, Pub. L. 89–329, title V, § 507, as added Pub. L. 90–35, § 2(c), June 29, 1967, 81 Stat. 84, authorized employment of experts and consultants and set forth provisions for compensation and travel expenses.
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159 amended subsec. (a) generally. Prior to amendment, text read as follows: “In this section, the term ‘service in the uniformed services’ means service (whether voluntary or involuntary) on active duty in the Armed Forces, including such service by a member of the National Guard or Reserve, for a period of more than 30 days under a call or order to active duty of more than 30 days.”
+
 2018—Subsec. (c)(3)(C)(i). Pub. L. 115–232, § 1204(b)(2), substituted “section 251, 252,” for “section 331, 332,”.
 
 Subsec. (c)(3)(C)(v). Pub. L. 115–232, § 1204(a)(6), substituted “chapter 13” for “chapter 15”.
@@ -27630,11 +28296,13 @@ Subsec. (c)(3)(C)(v). Pub. L. 115–232, § 1204(a)(6), substituted “chapter 1
 
       (VIII) arson;
 
-      (IX) arrests or persons referred for campus disciplinary action for liquor law violations, drug-related violations, and weapons possession; and
+      (IX) arrests or persons referred for campus disciplinary action for liquor law violations, drug-related violations, and weapons possession;
 
-    (ii) of the crimes described in subclauses (I) through (VIII) of clause (i), of larceny-theft, simple assault, intimidation, and destruction, damage, or vandalism of property, and of other crimes involving bodily injury to any person, in which the victim is intentionally selected because of the actual or perceived race, gender, religion, national origin, sexual orientation, gender identity,,22 So in original. ethnicity, or disability of the victim that are reported to campus security authorities or local police agencies, which data shall be collected and reported according to category of prejudice; and
+    (ii) of the crimes described in subclauses (I) through (VIII) of clause (i), of larceny-theft, simple assault, intimidation, and destruction, damage, or vandalism of property, and of other crimes involving bodily injury to any person, in which the victim is intentionally selected because of the actual or perceived race, gender, religion, national origin, sexual orientation, gender identity,,22 So in original. ethnicity, or disability of the victim that are reported to campus security authorities or local police agencies, which data shall be collected and reported according to category of prejudice;
 
-    (iii) of domestic violence, dating violence, and stalking incidents that were reported to campus security authorities or local police agencies.
+    (iii) of domestic violence, dating violence, and stalking incidents that were reported to campus security authorities or local police agencies; and
+
+    (iv) of hazing incidents that were reported to campus security authorities or local police agencies.
 
   (G) A statement of policy concerning the monitoring and recording through local police agencies of criminal activity at off-campus student organizations which are recognized by the institution and that are engaged in by students attending the institution, including those student organizations with off-campus housing facilities.
 
@@ -27649,6 +28317,14 @@ Subsec. (c)(3)(C)(v). Pub. L. 115–232, § 1204(a)(6), substituted “chapter 1
     (ii) publicize emergency response and evacuation procedures on an annual basis in a manner designed to reach students and staff; and
 
     (iii) test emergency response and evacuation procedures on an annual basis.
+
+  (K) A statement of current policies relating to hazing (as defined by the institution), how to report incidents of such hazing, and the process used to investigate such incidents of hazing, and information on applicable local, State, and Tribal laws on hazing (as defined by such local, State, and Tribal laws).
+
+  (L) A statement of policy regarding prevention and awareness programs related to hazing (as defined by the institution) that includes a description of research-informed campus-wide prevention programs designed to reach students, staff, and faculty, which includes—
+
+    (i) the information referred to in subparagraph (K); and
+
+    (ii) primary prevention strategies intended to stop hazing before hazing occurs, which may include skill building for bystander intervention, information about ethical leadership, and the promotion of strategies for building group cohesion without hazing.
 
 (2) Nothing in this subsection shall be construed to authorize the Secretary to require particular policies, procedures, or practices by institutions of higher education with respect to campus crimes or campus security.
 
@@ -27700,9 +28376,31 @@ Subsec. (c)(3)(C)(v). Pub. L. 115–232, § 1204(a)(6), substituted “chapter 1
 
     (v) The term “sexual assault” means an offense classified as a forcible or nonforcible sex offense under the uniform crime reporting system of the Federal Bureau of Investigation.
 
+    (vi) The term “hazing”, for purposes of reporting statistics on hazing incidents under paragraph (1)(F)(iv), means any intentional, knowing, or reckless act committed by a person (whether individually or in concert with other persons) against another person or persons regardless of the willingness of such other person or persons to participate, that—
+
+      (I) is committed in the course of an initiation into, an affiliation with, or the maintenance of membership in, a student organization; and
+
+      (II) causes or creates a risk, above the reasonable risk encountered in the course of participation in the institution of higher education or the organization (such as the physical preparation necessary for participation in an athletic team), of physical or psychological injury including—
+
+        (aa) whipping, beating, striking, electronic shocking, placing of a harmful substance on someone’s body, or similar activity;
+
+        (bb) causing, coercing, or otherwise inducing sleep deprivation, exposure to the elements, confinement in a small space, extreme calisthenics, or other similar activity;
+
+        (cc) causing, coercing, or otherwise inducing another person to consume food, liquid, alcohol, drugs, or other substances;
+
+        (dd) causing, coercing, or otherwise inducing another person to perform sexual acts;
+
+        (ee) any activity that places another person in reasonable fear of bodily harm through the use of threatening words or conduct;
+
+        (ff) any activity against another person that includes a criminal violation of local, State, Tribal, or Federal law; and
+
+        (gg) any activity that induces, causes, or requires another person to perform a duty or task that involves a criminal violation of local, State, Tribal, or Federal law.
+
+    (vii) The term “student organization”, for purposes of reporting under paragraph (1)(F)(iv) and paragraph (9)(A), means an organization at an institution of higher education (such as a club, society, association, varsity or junior varsity athletic team, club sports team, fraternity, sorority, band, or student government) in which two or more of the members are students enrolled at the institution of higher education, whether or not the organization is established or recognized by the institution.
+
   (B) In cases where branch campuses of an institution of higher education, schools within an institution of higher education, or administrative divisions within an institution are not within a reasonably contiguous geographic area, such entities shall be considered separate campuses for purposes of the reporting requirements of this section.
 
-(7) The statistics described in clauses (i) and (ii) of paragraph (1)(F) shall be compiled in accordance with the definitions used in the uniform crime reporting system of the Department of Justice, Federal Bureau of Investigation, and the modifications in such definitions as implemented pursuant to the Hate Crime Statistics Act. For the offenses of domestic violence, dating violence, and stalking, such statistics shall be compiled in accordance with the definitions used in [section 12291(a) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/a&num=0&edition=prelim). Such statistics shall not identify victims of crimes or persons accused of crimes.
+(7) The statistics described in clauses (i) and (ii) of paragraph (1)(F) shall be compiled in accordance with the definitions used in the uniform crime reporting system of the Department of Justice, Federal Bureau of Investigation, and the modifications in such definitions as implemented pursuant to the Hate Crime Statistics Act. For the offenses of domestic violence, dating violence, and stalking, such statistics shall be compiled in accordance with the definitions used in [section 12291(a) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/a&num=0&edition=prelim). For hazing incidents referred to in clause (iv) of paragraph (1)(F), such statistics shall be compiled per each single hazing incident and in accordance with the definition of the term “hazing” in paragraph (6)(A)(vi), and if the same person or persons commit more than one hazing act, and the time and place intervals separating each such act are insignificant, such acts shall be reported as a single hazing incident. Such statistics shall not identify victims of crimes or persons accused of crimes.
 
 (8)
 
@@ -27778,13 +28476,75 @@ Subsec. (c)(3)(C)(v). Pub. L. 115–232, § 1204(a)(6), substituted “chapter 1
 
   (C) A student or employee who reports to an institution of higher education that the student or employee has been a victim of domestic violence, dating violence, sexual assault, or stalking, whether the offense occurred on or off campus, shall be provided with a written explanation of the student or employee’s rights and options, as described in clauses (ii) through (vii) of subparagraph (B).
 
-(9) The Secretary, in consultation with the Attorney General of the United States, shall provide technical assistance in complying with the provisions of this section to an institution of higher education who requests such assistance.
+(9)
 
-(10) Nothing in this section shall be construed to require the reporting or disclosure of privileged information.
+  (A) Each institution participating in any program under this subchapter, other than a foreign institution of higher education, shall develop, in accordance with the institution’s statement of policy relating to hazing under paragraph (1)(K), a report (which shall be referred to as the “Campus Hazing Transparency Report”) summarizing findings concerning any student organization (except that this shall only apply to student organizations that are established or recognized by the institution) found to be in violation of an institution’s standards of conduct relating to hazing, as defined by the institution, (hereinafter referred to in this paragraph as a “hazing violation”) that requires the institution to—
 
-(11) The Secretary shall report to the appropriate committees of Congress each institution of higher education that the Secretary determines is not in compliance with the reporting requirements of this subsection.
+    (i) beginning July 1, 2025, collect information with respect to hazing incidents at the institution;
 
-(12) For purposes of reporting the statistics with respect to crimes described in paragraph (1)(F), an institution of higher education shall distinguish, by means of separate categories, any criminal offenses that occur—
+    (ii) not later than 12 months after December 23, 2024, make the Campus Hazing Transparency Report publicly available on the public website of the institution; and
+
+    (iii) not less frequently than 2 times each year, update the Campus Hazing Transparency Report to include, for the period beginning on the date on which the Report was last published and ending on the date on which such update is submitted, each incident involving a student organization for which a finding of responsibility is issued relating to a hazing violation, including—
+
+      (I) the name of such student organization;
+
+      (II) a general description of the violation that resulted in a finding of responsibility, including whether the violation involved the abuse or illegal use of alcohol or drugs, the findings of the institution, and any sanctions placed on the student organization by the institution, as applicable; and
+
+      (III) the dates on which—
+
+        (aa) the incident was alleged to have occurred;
+
+        (bb) the investigation into the incident was initiated;
+
+        (cc) the investigation ended with a finding that a hazing violation occurred; and
+
+        (dd) the institution provided notice to the student organization that the incident resulted in a hazing violation.
+
+  (B) The Campus Hazing Transparency Report may include—
+
+    (i) to satisfy the requirements of this paragraph, information that—
+
+      (I) is included as part of a report published by the institution; and
+
+      (II) meets the requirements of the Campus Hazing Transparency Report; and
+
+    (ii) any additional information—
+
+      (I) determined by the institution to be necessary; or
+
+      (II) reported as required by State law.
+
+  (C) The Campus Hazing Transparency Report shall not include any personally identifiable information, including any information that would reveal personally identifiable information, about any individual student in accordance with section 444 of the General Education Provisions Act [[20 U.S.C. 1232g](./chapter-031-general-provisions-concerning-education.md#section-1232g)] (commonly known as the “Family Educational Rights and Privacy Act of 1974”).
+
+  (D) The institution shall publish, in a prominent location on the public website of the institution, the Campus Hazing Transparency Report, including—
+
+    (i) a statement notifying the public of the annual availability of statistics on hazing pursuant to the report required under paragraph (1)(F), including a link to such report;
+
+    (ii) information about the institution’s policies relating to hazing under paragraph (1)(K) and applicable local, State, and Tribal laws on hazing; and
+
+    (iii) the information included in each update required under subparagraph (A)(iii), which shall be maintained for a period of 5 calendar years from the date of publication of such update.
+
+  (E) The institution may include, as part of the publication of the Campus Hazing Transparency Report under subparagraph (D), a description of the purposes of, and differences between—
+
+    (i) the report required under paragraph (1)(F); and
+
+    (ii) the Campus Hazing Transparency Report required under this paragraph.
+
+  (F) For purposes of this paragraph, the definition of “campus” under paragraph (6)(A)(ii) shall not apply.
+
+  (G) An institution described in subparagraph (A) is not required to—
+
+    (i) develop the Campus Hazing Transparency Report under this subsection until such institution has a finding of a hazing violation; or
+
+    (ii) update the Campus Hazing Transparency Report in accordance with clause (iii) of subparagraph (A) for a period described in such clause if such institution does not have a finding of a hazing violation for such period.
+
+(10) The Secretary, in consultation with the Attorney General of the United States, shall provide technical assistance in complying with the provisions of this section to an institution of higher education who requests such assistance.
+
+(11) Nothing in this section shall be construed to require the reporting or disclosure of privileged information.
+
+(12) The Secretary shall report to the appropriate committees of Congress each institution of higher education that the Secretary determines is not in compliance with the reporting requirements of this subsection.
+
+(13) For purposes of reporting the statistics with respect to crimes described in paragraph (1)(F), an institution of higher education shall distinguish, by means of separate categories, any criminal offenses that occur—
 
   (A) on campus;
 
@@ -27794,9 +28554,9 @@ Subsec. (c)(3)(C)(v). Pub. L. 115–232, § 1204(a)(6), substituted “chapter 1
 
   (D) in dormitories or other residential facilities for students on campus.
 
-(13) Upon a determination pursuant to [section 1094(c)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1094/c/3/B&num=0&edition=prelim) that an institution of higher education has substantially misrepresented the number, location, or nature of the crimes required to be reported under this subsection, the Secretary shall impose a civil penalty upon the institution in the same amount and pursuant to the same procedures as a civil penalty is imposed under [section 1094(c)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1094/c/3/B&num=0&edition=prelim).
+(14) Upon a determination pursuant to [section 1094(c)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1094/c/3/B&num=0&edition=prelim) that an institution of higher education has substantially misrepresented the number, location, or nature of the crimes required to be reported under this subsection, the Secretary shall impose a civil penalty upon the institution in the same amount and pursuant to the same procedures as a civil penalty is imposed under [section 1094(c)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1094/c/3/B&num=0&edition=prelim).
 
-(14)
+(15)
 
   (A) Nothing in this subsection may be construed to—
 
@@ -27806,17 +28566,17 @@ Subsec. (c)(3)(C)(v). Pub. L. 115–232, § 1204(a)(6), substituted “chapter 1
 
   (B) Notwithstanding any other provision of law, evidence regarding compliance or noncompliance with this subsection shall not be admissible as evidence in any proceeding of any court, agency, board, or other entity, except with respect to an action to enforce this subsection.
 
-(15) The Secretary shall annually report to the authorizing committees regarding compliance with this subsection by institutions of higher education, including an up-to-date report on the Secretary’s monitoring of such compliance.
+(16) The Secretary shall annually report to the authorizing committees regarding compliance with this subsection by institutions of higher education, including an up-to-date report on the Secretary’s monitoring of such compliance.
 
-(16)
+(17)
 
   (A) The Secretary shall seek the advice and counsel of the Attorney General of the United States concerning the development, and dissemination to institutions of higher education, of best practices information about campus safety and emergencies.
 
   (B) The Secretary shall seek the advice and counsel of the Attorney General of the United States and the Secretary of Health and Human Services concerning the development, and dissemination to institutions of higher education, of best practices information about preventing and responding to incidents of domestic violence, dating violence, sexual assault, and stalking, including elements of institutional policies that have proven successful based on evidence-based outcome measurements.
 
-(17) No officer, employee, or agent of an institution participating in any program under this subchapter shall retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual for exercising their rights or responsibilities under any provision of this subsection.
+(18) No officer, employee, or agent of an institution participating in any program under this subchapter shall retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual for exercising their rights or responsibilities under any provision of this subsection.
 
-(18) This subsection may be cited as the “Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act”.
+(19) This subsection may be cited as the “Jeanne Clery Campus Safety Act”.
 
 **(g) Data required**
 
@@ -28052,6 +28812,9 @@ Subsec. (c)(3)(C)(v). Pub. L. 115–232, § 1204(a)(6), substituted “chapter 1
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)(1)
+Pub. L. 119–21, title VIII, § 82001(c)(2)(C), (3), July 4, 2025, 139 Stat. 341, provided that, effective on July 1, 2028, subsection (d)(1) of this section is amended by striking “income-contingent and”. See 2025 Amendment note below.
+
 #### References in Text
 [Section 14071 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14071&num=0&edition=prelim), referred to in subsec. (f)(1)(I), was repealed by Pub. L. 109–248, title I, § 129(a), July 27, 2006, 120 Stat. 600.
 
@@ -28069,6 +28832,24 @@ A prior section 1092, Pub. L. 89–329, title IV, § 485, as added Pub. L. 96–
 Another prior section 1092, Pub. L. 89–329, title V, § 508, formerly § 502, Nov. 8, 1965, 79 Stat. 1255; renumbered § 508 and amended Pub. L. 90–35, §§ 2(b), 7, June 29, 1967, 81 Stat. 82, 93, prohibited the making of payments for religious purposes for authorized programs, prior to repeal by Pub. L. 94–482, title I, § 151(a)(2), Oct. 12, 1976, 90 Stat. 2151.
 
 #### Amendments
+2025—Subsec. (d)(1). Pub. L. 119–21 struck out “income-contingent and” before “income-based repayment plans for loans made under part D”.
+
+2024—Subsec. (f)(1)(F)(iv). Pub. L. 118–173, § 2(a)(1), added cl. (iv).
+
+Subsec. (f)(1)(K), (L). Pub. L. 118–173, § 2(b), added subpars. (K) and (L).
+
+Subsec. (f)(6)(A)(vi). Pub. L. 118–173, § 2(a)(4), added cl. (vi).
+
+Subsec. (f)(6)(A)(vii). Pub. L. 118–173, § 2(a)(5), added cl. (vii).
+
+Subsec. (f)(7). Pub. L. 118–173, § 2(a)(2), inserted “For hazing incidents referred to in clause (iv) of paragraph (1)(F), such statistics shall be compiled per each single hazing incident and in accordance with the definition of the term ‘hazing’ in paragraph (6)(A)(vi), and if the same person or persons commit more than one hazing act, and the time and place intervals separating each such act are insignificant, such acts shall be reported as a single hazing incident.” before “Such statistics shall not identify”.
+
+Subsec. (f)(9) to (18). Pub. L. 118–173, § 3, added par. (9) and redesignated former pars. (9) to (17) as (10) to (18), respectively. Former par. (18) redesignated (19).
+
+Subsec. (f)(19). Pub. L. 118–173, § 4, substituted “Jeanne Clery Campus Safety Act” for “Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act”.
+
+Pub. L. 118–173, § 3, redesignated par. (18) as (19).
+
 2020—Subsec. (b)(1)(A)(viii), (x). Pub. L. 116–251, which directed amendment of subsec. (b) of this section by striking out “and” after semicolon in cl. (viii) and adding cl. (x), was executed to subsec. (b)(1)(A) of this section to reflect the probable intent of Congress.
 
 Subsec. (k). Pub. L. 116–260 struck out subsec. (k) which related to notice to students concerning penalties for drug violations.
@@ -28359,6 +29140,12 @@ Subsec. (f). Pub. L. 101–542, § 204(a), added subsec. (f).
 
 Subsec. (d). Pub. L. 100–50, § 15(11), inserted after second sentence “In addition, such information shall include information to enable borrowers to assess the practical consequences of loan consolidation, including differences in deferment eligibility, interest rates, monthly payments, and finance charges, and samples of loan consolidation profiles to illustrate such consequences.”
 
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21 effective July 1, 2028, see section 82001(c)(3) of Pub. L. 119–21, set out as a note under [section 1078 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078).
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–173, § 2(c), Dec. 23, 2024, 138 Stat. 2599, provided that: “The amendments made by this section [amending this section] shall— “(1) take effect on the date that is 6 months after the date of enactment of this Act [Dec. 23, 2024]; and “(2) apply with respect to the annual security report required under section 485(f)(1) of the Higher Education Act of 1965 ([20 U.S.C. 1092(f)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1092/f/1&num=0&edition=prelim)) for the calendar year that is 2 years after such date of enactment, including any data collected on or after such effective date, and any subsequent report required under such section.”
+
 #### Effective Date of 2020 Amendment
 Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
@@ -28404,6 +29191,12 @@ Subsec. (b) of this section applicable only to periods of enrollment beginning o
 
 #### Regulations
 Pub. L. 101–542, title IV, § 401(a), Nov. 8, 1990, 104 Stat. 2388, provided that: “The Secretary is authorized to issue regulations to carry out the provisions of this Act [amending this section and sections 1085, 1094, and 1232g of this title and enacting provisions set out as notes under this section and [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001)].”
+
+#### Rule of Construction
+Pub. L. 118–173, § 5, Dec. 23, 2024, 138 Stat. 2601, provided that: “Nothing in this Act [amending this section and enacting provisions set out as notes under this section], or an amendment made by this Act, shall be construed to affect the rights (including remedies and procedures) available to persons under the First Amendment of the Constitution of the United States or rights to due process.”
+
+#### Beginning of Compilation of Hazing Statistics
+Pub. L. 118–173, § 2(a)(3), Dec. 23, 2024, 138 Stat. 2597, provided that: “Not later than January 1 of the first year after the date of enactment of this Act [Dec. 23, 2024], each eligible institution participating in any program under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070) et seq.), other than a foreign institution of higher education, shall begin to collect statistics on hazing incidents for the purpose of complying with clause (iv) of section 485(f)(1)(F) of such Act [[20 U.S.C. 1092(f)(1)(F)(iv)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1092/f/1/F/iv&num=0&edition=prelim)], as added by paragraph (1) of this subsection.”
 
 #### Model Institution Financial Aid Offer Form
 Pub. L. 110–315, title IV, § 484, Aug. 14, 2008, 122 Stat. 3286, provided that: “(a) Model Format.—The Secretary of Education shall—“(1) not later than six months after the date of enactment of the Higher Education Opportunity Act [Aug. 14, 2008], convene a group of students, families of students, secondary school guidance counselors, representatives of institutions of higher education (including financial aid administrators, registrars, and business officers), and nonprofit consumer groups for the purpose of offering recommendations for improvements that—“(A) can be made to financial aid offer forms; and “(B) include the information described in subsection (b); “(2) develop a model format for financial aid offer forms based on the recommendations of the group; and “(3) not later than one year after the date of enactment of the Higher Education Opportunity Act—“(A) submit recommendations to the authorizing committees (as defined in section 103 of the Higher Education Act of 1965 ([20 U.S.C. 1003](./chapter-028-higher-education-resources-and-student-assistance.md#section-1003)); and “(B) make the recommendations and model format widely available. “(b) Contents.—The recommendations developed under subsection (a) for model financial aid offer forms shall include, in a consumer-friendly manner that is simple and understandable, the following:“(1) Information on the student’s cost of attendance, including the following:“(A) Tuition and fees. “(B) Room and board costs. “(C) Books and supplies. “(D) Transportation. “(2) The amount of financial aid that the student does not have to repay, such as scholarships, grants, and work-study assistance, offered to the student for such year, and the conditions of such financial aid. “(3) The types and amounts of loans under part B, D, or E of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1071](./chapter-028-higher-education-resources-and-student-assistance.md#section-1071) et seq., 1087a et seq., 1087aa et seq.) for which the student is eligible for such year, and the applicable terms and conditions of such loans. “(4) The net amount that the student, or the student’s family on behalf of the student, will have to pay for the student to attend the institution for such year, equal to—“(A) the cost of attendance for the student for such year; minus “(B) the amount of financial aid described in paragraphs (2) and (3) that is offered in the financial aid offer form. “(5) Where a student or the student’s family can seek additional information regarding the financial aid offered. “(6) Any other information the Secretary of Education determines necessary so that students and parents can make informed student loan borrowing decisions.”
@@ -30668,21 +31461,29 @@ Section was enacted as part of the Higher Education Relief Opportunities for Stu
 
 (1) **Excepted PLUS loan** — The term “excepted PLUS loan” means a loan under [section 1078–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-2), or a Federal Direct PLUS Loan, that is made, insured, or guaranteed on behalf of a dependent student.
 
-(2) **Excepted consolidation loan** — The term “excepted consolidation loan” means a consolidation loan under [section 1078–3 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-3), or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to the discharge the liability on an excepted PLUS loan.
+(2) **Excepted consolidation loan**
 
-(3) **Partial financial hardship** — The term “partial financial hardship”, when used with respect to a borrower, means that for such borrower—
+  (A) *In general* — The term “excepted consolidation loan” means—
 
-  (A) the annual amount due on the total amount of loans made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan) to a borrower as calculated under the standard repayment plan under section 1078(b)(9)(A)(i) or 1087e(d)(1)(A) of this title, based on a 10-year repayment period; exceeds
+    (i) a consolidation loan under [section 1078–3 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-3), or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to discharge the liability on an excepted PLUS loan; or
 
-  (B) 15 percent of the result obtained by calculating, on at least an annual basis, the amount by which—
+    (ii) a consolidation loan under [section 1078–3 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-3), or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to discharge the liability on a consolidation loan under [section 1078–3 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-3), or a Federal Direct Consolidation Loan described in clause (i).
 
-    (i) the borrower’s, and the borrower’s spouse’s (if applicable), adjusted gross income; exceeds
+  (B) *Exclusion* — The term “excepted consolidation loan” does not include a Federal Direct Consolidation Loan described in subparagraph (A) that, on any date during the period beginning on July 4, 2025, and ending on June 30, 2028, was being repaid—
 
-    (ii) 150 percent of the poverty line applicable to the borrower’s family size as determined under [section 9902(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9902/2&num=0&edition=prelim).
+    (i) pursuant to the Income Contingent Repayment (ICR) plan in accordance with section 685.209(b) of title 34, Code of Federal Regulations (as in effect on June 30, 2023); or
+
+    (ii) pursuant to another income driven repayment plan.
+
+(3) **Applicable amount** — The term “applicable amount” means 15 percent of the result obtained by calculating, on at least an annual basis, the amount by which—
+
+  (A) the borrower’s, and the borrower’s spouse’s (if applicable), adjusted gross income; exceeds
+
+  (B) 150 percent of the poverty line applicable to the borrower’s family size as determined under [section 9902(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9902/2&num=0&edition=prelim).
 
 **(b) Income-based repayment program authorized** Notwithstanding any other provision of this chapter, the Secretary shall carry out a program under which—
 
-(1) a borrower of any loan made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan) who has a partial financial hardship (whether or not the borrower’s loan has been submitted to a guaranty agency for default aversion or had been in default) may elect, during any period the borrower has the partial financial hardship, to have the borrower’s aggregate monthly payment for all such loans not exceed the result described in subsection (a)(3)(B) divided by 12;
+(1) a borrower of any loan made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan), may elect to have the borrower’s aggregate monthly payment for all such loans not exceed the applicable amount divided by 12;
 
 (2) the holder of such a loan shall apply the borrower’s monthly payment under this subsection first toward interest due on the loan, next toward any fees due on the loan, and then toward the principal of the loan;
 
@@ -30708,9 +31509,9 @@ Section was enacted as part of the Higher Education Relief Opportunities for Stu
 
 (5) the amount of time the borrower makes monthly payments under paragraph (1) may exceed 10 years;
 
-(6) if the borrower no longer has a partial financial hardship or no longer wishes to continue the election under this subsection, then—
+(6) if the monthly payment amount calculated under this section for all loans made to the borrower under part B or D (other than an excepted PLUS loan or excepted consolidation loan) exceeds the monthly amount calculated under [section 1078(b)(9)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078/b/9/A/i&num=0&edition=prelim) or 1087e(d)(1)(A) of this title, based on a 10-year repayment period, when the borrower first made the election described in this subsection (referred to in this paragraph as the “standard monthly repayment amount”), or if the borrower no longer wishes to continue the election under this subsection, then—
 
-  (A) the maximum monthly payment required to be paid for all loans made to the borrower under part B or D (other than an excepted PLUS loan or excepted consolidation loan) shall not exceed the monthly amount calculated under section 1078(b)(9)(A)(i) or 1087e(d)(1)(A) of this title, based on a 10-year repayment period, when the borrower first made the election described in this subsection; and
+  (A) the maximum monthly payment required to be paid for all loans made to the borrower under part B or D (other than an excepted PLUS loan or excepted consolidation loan) shall be the standard monthly repayment amount; and
 
   (B) the amount of time the borrower is permitted to repay such loans may exceed 10 years;
 
@@ -30726,27 +31527,37 @@ Section was enacted as part of the Higher Education Relief Opportunities for Stu
 
     (iii) has made payments of not less than the payments required under a standard repayment plan under section 1078(b)(9)(A)(i) or 1087e(d)(1)(A) of this title with a repayment period of 10 years;
 
-    (iv) has made payments under an income-contingent repayment plan under [section 1087e(d)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/d/1/D&num=0&edition=prelim); or
+    (iv) has made payments under an income-contingent repayment plan under [section 1087e(d)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/d/1/D&num=0&edition=prelim) (as such section was in effect on the day before the date of the repeal of [section 1087e(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/e&num=0&edition=prelim); or
 
     (v) has been in deferment due to an economic hardship described in section 1085(o) of this title;
 
-(8) a borrower who is repaying a loan made under part B or D pursuant to income-based repayment may elect, at any time, to terminate repayment pursuant to income-based repayment and repay such loan under the standard repayment plan; and
+(8) a borrower who is repaying a loan made under part B or D pursuant to income-based repayment may elect, at any time, to terminate repayment pursuant to income-based repayment and repay such loan under the standard repayment plan or the Repayment Assistance Program under [section 1087e(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/q&num=0&edition=prelim); and
 
 (9) the special allowance payment to a lender calculated under [section 1087–1(b)(2)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–1/b/2/I&num=0&edition=prelim), when calculated for a loan in repayment under this section, shall be calculated on the principal balance of the loan and on any accrued interest unpaid by the borrower in accordance with this section.
 
-**(c) Eligibility determinations**
+**(c) Eligibility determinations; automatic recertification**
 
-(1) **In general** — The Secretary shall establish procedures for annually determining the borrower’s eligibility for income-based repayment, including verification of a borrower’s annual income and the annual amount due on the total amount of loans made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan), and such other procedures as are necessary to effectively implement income-based repayment under this section.
+(1) **In general** — The Secretary shall establish procedures for annually determining, in accordance with paragraph (2), the borrower’s eligibility for income-based repayment, including the verification of a borrower’s annual income and the annual amount due on the total amount of loans made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan), and such other procedures as are necessary to effectively implement income-based repayment under this section. The Secretary shall consider, but is not limited to, the procedures established in accordance with [section 1087e(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/e/1&num=0&edition=prelim) (as in effect on the day before the date of repeal of subsection (e) of [section 1087e of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087e)) or in connection with income sensitive repayment schedules under [section 1078(b)(9)(A)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078/b/9/A/iii&num=0&edition=prelim) or 1078–3(b)(1)(E) of this title.
 
-(2) **Procedures for eligibility** — The Secretary shall—
+(2) **Automatic recertification**
 
-  (A) consider, but is not limited to, the procedures established in accordance with [section 1087e(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/e/1&num=0&edition=prelim) or in connection with income sensitive repayment schedules under section 1078(b)(9)(A)(iii) or 1078–3(b)(1)(E) of this title; and
+  (A) *In general* — The Secretary shall establish and implement, with respect to any borrower enrolled in an income-based repayment program under this section or under [section 1087e(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/q&num=0&edition=prelim), procedures to—
 
-  (B) carry out, with respect to borrowers of any loan made under part D (other than an excepted PLUS loan or excepted consolidation loan), procedures for income-based repayment plans that are equivalent to the procedures carried out under [section 1087e(e)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/e/8&num=0&edition=prelim) with respect to income-contingent repayment plans.
+    (i) use return information disclosed under section 6103(l)(13) of title 26, pursuant to approval provided under [section 1098h of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098h), to determine the repayment obligation of the borrower without further action by the borrower;
+
+    (ii) allow the borrower (or the spouse of the borrower), at any time, to opt out of disclosure under such section 6103(l)(13) and instead provide such information as the Secretary may require to determine the repayment obligation of the borrower (or withdraw from the repayment plan under this section or under [section 1087e(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/q&num=0&edition=prelim), as the case may be); and
+
+    (iii) provide the borrower with an opportunity to update the return information so disclosed before the determination of the repayment obligation of the borrower.
+
+  (B) *Applicability* — Subparagraph (A) shall apply to each borrower of a loan eligible to be repaid under this section or under [section 1087e(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/q&num=0&edition=prelim), who, on or after the date on which the Secretary establishes procedures under such subparagraph (A)—
+
+    (i) selects, or is required to repay such loan pursuant to, an income-based repayment plan under this section or under [section 1087e(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/q&num=0&edition=prelim); or
+
+    (ii) recertifies income or family size under such plan.
 
 **(d) Special rule for married borrowers filing separately** In the case of a married borrower who files a separate Federal income tax return, the Secretary shall calculate the amount of the borrower’s income-based repayment under this section solely on the basis of the borrower’s student loan debt and adjusted gross income.
 
-**(e) Special terms for new borrowers on and after July 1, 2014** With respect to any loan made to a new borrower on or after July 1, 2014—
+**(e) Special terms for new borrowers on and after July 1, 2014 and before July 1, 2026** With respect to any loan made to a new borrower on or after July 1, 2014 and before July 1, 2026—
 
 (1) subsection (a)(3)(B) shall be applied by substituting “10 percent” for “15 percent”; and
 
@@ -30754,7 +31565,28 @@ Section was enacted as part of the Higher Education Relief Opportunities for Stu
 
 ### Statutory Notes
 
+#### References in Text
+The date of the repeal of [section 1087e(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/e&num=0&edition=prelim), referred to in subsec. (b)(7)(B)(iv), is July 1, 2028. See section 82001(c)(3) of Pub. L. 119–21, set out as an Effective Date of 2025 Amendment note under [section 1078 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078).
+
 #### Amendments
+2025—Subsec. (a)(2). Pub. L. 119–21, § 82001(f)(1)(A), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘excepted consolidation loan’ means a consolidation loan under [section 1078–3 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-3), or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to the discharge the liability on an excepted PLUS loan.”
+
+Subsec. (a)(3). Pub. L. 119–21, § 82001(f)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) defined “partial financial hardship” with respect to a borrower.
+
+Subsec. (b)(1). Pub. L. 119–21, § 82001(f)(1)(C)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “a borrower of any loan made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan) who has a partial financial hardship (whether or not the borrower’s loan has been submitted to a guaranty agency for default aversion or had been in default) may elect, during any period the borrower has the partial financial hardship, to have the borrower’s aggregate monthly payment for all such loans not exceed the result described in subsection (a)(3)(B) divided by 12;”.
+
+Subsec. (b)(6). Pub. L. 119–21, § 82001(f)(1)(C)(ii), added par. (6) and struck out former par. (6) which related to a borrower who no longer has a partial financial hardship or no longer wishes to continue the election under the income-based repayment program.
+
+Subsec. (b)(7)(B)(iv). Pub. L. 119–21, § 82001(f)(1)(C)(iii), inserted “(as such section was in effect on the day before the date of the repeal of [section 1087e(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/e&num=0&edition=prelim)” after “[section 1087e(d)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/d/1/D&num=0&edition=prelim)”.
+
+Subsec. (b)(8). Pub. L. 119–21, § 82001(f)(1)(C)(iv), inserted “or the Repayment Assistance Program under [section 1087e(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/q&num=0&edition=prelim)” after “standard repayment plan”.
+
+Subsec. (c). Pub. L. 119–21, § 82001(f)(1)(D), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to eligibility determinations for income-based repayment.
+
+Subsec. (e). Pub. L. 119–21, § 82001(f)(1)(E)(ii), inserted “and before July 1, 2026” after “after July 1, 2014” in introductory provisions.
+
+Pub. L. 119–21, § 82001(f)(1)(E)(i), inserted “and before July 1, 2026” after “after July 1, 2014” in heading.
+
 2019—Subsec. (c)(1). Pub. L. 116–91, § 4(b)(1), designated first sentence of existing provisions as par. (1) and inserted heading.
 
 Subsec. (c)(2). Pub. L. 116–91, § 4(b)(2), (3), designated second sentence of existing provisions as par. (2) and inserted heading, substituted “The Secretary shall—” for “The Secretary shall”, inserted subpar. (A) designation before “consider,”, substituted “; and” for period at end of subpar. (A), and added subpar. (B).
@@ -30765,8 +31597,11 @@ Subsec. (c)(2). Pub. L. 116–91, § 4(b)(2), (3), designated second sentence of
 
 2007—Subsec. (d). Pub. L. 110–153 added subsec. (d).
 
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VIII, § 82001(f)(2), July 4, 2025, 139 Stat. 347, provided that: “The amendments made by this subsection [amending this section] shall take effect on the date of enactment of this title [July 4, 2025], and shall apply with respect to any borrower who is in repayment before, on, or after the date of enactment of this title.”
+
 #### Effective Date
-Section effective July 1, 2009, see section 203(c)(1) of Pub. L. 110–84, set out as an Effective Date of 2007 Amendment note under [section 1078–3 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-3).
+Section effective July 1, 2009, see section 203(c)(1) of Pub. L. 110–84, set out in an Effective Date of 2007 Amendment note under [section 1078–3 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-3).
 
 
 <a id="section-1098ee"></a>
@@ -30927,7 +31762,26 @@ Section effective both with respect to loans made prior to and after Oct. 15, 19
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(2)
+Pub. L. 119–21, title VIII, § 82001(c)(2)(D), (3), July 4, 2025, 139 Stat. 341, provided that, effective on July 1, 2028, subsection (a)(2) of this section is amended as follows:
+
+(1) in the paragraph heading, by striking “Income-contingent and income-based” and inserting “Income-based”; and
+
+(2) in subparagraph (A)—
+
+(A) in the matter preceding clause (i), by striking “income-contingent or”; and
+
+(B) in clause (ii)(I), by striking “[section 1087e(e)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/e/8&num=0&edition=prelim) or the equivalent procedures established under section 1098e (c)(2)(B) of this title, as applicable” and inserting “[section 1098e(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1098e/c/2&num=0&edition=prelim)”.
+
+See 2025 Amendment notes below.
+
 #### Amendments
+2025—Subsec. (a)(2). Pub. L. 119–21, § 82001(c)(2)(D)(i), substituted “Income-based” for “Income-contingent and income-based” in heading.
+
+Subsec. (a)(2)(A). Pub. L. 119–21, § 82001(c)(2)(D)(ii)(I), struck out “income-contingent or” before “income-based repayment plan” in introductory provisions.
+
+Subsec. (a)(2)(A)(ii)(I). Pub. L. 119–21, § 82001(c)(2)(D)(ii)(II), substituted “[section 1098e(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1098e/c/2&num=0&edition=prelim)” for “[section 1087e(e)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/e/8&num=0&edition=prelim) or the equivalent procedures established under [section 1098e(c)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1098e/c/2/B&num=0&edition=prelim), as applicable”.
+
 2020—Subsec. (a)(1). Pub. L. 116–260, div. N, § 284(b)(1)(A)(i), and div. FF, § 103(b)(1)(A)(i), amended par. (1) identically, inserting “, including return information,” after “financial information” in introductory provisions.
 
 Subsec. (a)(1)(A)(i). Pub. L. 116–260, div. N, § 284(b)(1)(A)(ii)(I), and div. FF, § 103(b)(1)(A)(ii)(I), amended cl. (i) identically, substituting “subparagraph (B)—” and “(I) the” for “subparagraph (B), the” and adding subcl. (II).
@@ -30943,6 +31797,9 @@ Subsec. (a)(2)(A)(ii)(I). Pub. L. 116–260, div. N, § 284(b)(1)(B), and div. F
 Subsec. (a)(3). Pub. L. 116–260, div. N, § 284(b)(2), and div. FF, § 103(b)(2), amended par. (3) identically, substituting “paragraph (1)(A)(i)(I)” for “paragraph (1)(A)(i)” in two places.
 
 Subsec. (c). Pub. L. 116–260, div. N, § 284(b)(1)(C), and div. FF, § 103(b)(1)(C), amended section identically, adding subsec. (c).
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21 effective July 1, 2028, see section 82001(c)(3) of Pub. L. 119–21, set out as a note under [section 1078 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078).
 
 #### Effective Date of 2020 Amendment
 Amendment by section 702(p) of Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).

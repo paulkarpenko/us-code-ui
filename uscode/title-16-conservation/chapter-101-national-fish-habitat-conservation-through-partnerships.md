@@ -43,6 +43,9 @@ The purpose of this chapter is to encourage partnerships among public agencies a
 
 ### Statutory Notes
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–198, § 1(a), Dec. 23, 2024, 138 Stat. 2678, provided that: “This Act [amending sections 666c–1, 667h, 3709, 4406, 8203 to 8206, 8209, 8211, and 8212 of this title, sections 8355 and 8356 of Title 7, Agriculture, and [section 1267 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1267&num=0&edition=prelim), Navigation and Navigable Waters, and provisions set out as notes under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim), Commerce and Trade, [section 1267 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1267&num=0&edition=prelim), and [section 320101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim), National Park Service and Related Programs] may be cited as the ‘America’s Conservation Enhancement Reauthorization Act of 2024’.”
+
 #### Short Title
 Pub. L. 116–188, § 1(a), Oct. 30, 2020, 134 Stat. 905, provided that: “This Act [enacting this chapter, sections 667h and 669l of this title, and sections 8355 and 8356 of Title 7, Agriculture, amending sections 666c–1, 3702, 3703, 3709, 3710, 4403, and 4406 of this title and [section 1267 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1267&num=0&edition=prelim), Navigation and Navigable Waters, enacting provisions set out as notes under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim), Commerce and Trade, and [section 1267 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1267&num=0&edition=prelim), and amending provisions set out as notes under sections 669 and 742b of this title and [section 320101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320101&num=0&edition=prelim), National Park Service and Related Programs] may be cited as the ‘America’s Conservation Enhancement Act’.”
 
@@ -109,9 +112,9 @@ In this chapter:
 
   (D) to review and make recommendations regarding fish habitat conservation projects.
 
-(2) **Membership** — The Board shall be composed of 26 members, of whom—
+(2) **Membership** — The Board shall be composed of 28 members, of whom—
 
-  (A) 1 shall be a representative of the Department of the Interior;
+  (A) 2 shall be representatives of the Department of the Interior, including the United States Fish and Wildlife Service and the Bureau of Land Management;
 
   (B) 1 shall be a representative of the United States Geological Survey;
 
@@ -123,17 +126,17 @@ In this chapter:
 
   (F) 4 shall be representatives of State agencies, 1 of whom shall be nominated by a regional association of fish and wildlife agencies from each of the Northeast, Southeast, Midwest, and Western regions of the United States;
 
-  (G) 2 shall be representatives of either—
+  (G) 2 shall be representatives of Indian Tribes, of whom—
 
-    (i) Indian Tribes in the State of Alaska; or
+    (i) 1 shall be a representative of Indian Tribes in the State of Alaska; and
 
-    (ii) Indian Tribes in States other than the State of Alaska;
+    (ii) 1 shall be a representative of Indian Tribes in States other than the State of Alaska;
 
-  (H) 1 shall be a representative of either—
+  (H) 2 shall be representatives of—
 
-    (i) the Regional Fishery Management Councils established under [section 1852 of this title](./chapter-038-fishery-conservation-and-management.md#section-1852); or
+    (i) the Regional Fishery Management Councils established by [section 1852(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1852/a/1&num=0&edition=prelim); or
 
-    (ii) a representative of the Marine Fisheries Commissions;
+    (ii) the Marine Fisheries Commissions;
 
   (I) 1 shall be a representative of the Sport Fishing and Boating Partnership Council;
 
@@ -227,7 +230,7 @@ In this chapter:
 
   (A) a requirement that a quorum of the members of the Board be present to transact business;
 
-  (B) a requirement that no recommendations may be adopted by the Board, except by the vote of two-thirds of all members;
+  (B) a requirement that no recommendations may be adopted by the Board, except by the vote of two-thirds of the members present;
 
   (C) procedures for establishing national goals and priorities for fish habitat conservation for the purposes of this chapter;
 
@@ -236,6 +239,29 @@ In this chapter:
   (E) procedures for reviewing, evaluating, and making recommendations regarding fish habitat conservation projects.
 
 (2) **Quorum** — A majority of the members of the Board shall constitute a quorum.
+
+### Statutory Notes
+
+#### Amendments
+2024—Subsec. (a)(2). Pub. L. 118–198, § 201(1)(A), substituted “28 members” for “26 members” in introductory provisions.
+
+Subsec. (a)(2)(A). Pub. L. 118–198, § 201(1)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “1 shall be a representative of the Department of the Interior;”.
+
+Subsec. (a)(2)(G), (H). Pub. L. 118–198, § 201(1)(C), added subpars. (G) and (H) and struck out former subpars. (G) and (H) which read as follows:
+
+“(G) 2 shall be representatives of either—
+
+“(i) Indian Tribes in the State of Alaska; or
+
+“(ii) Indian Tribes in States other than the State of Alaska;
+
+“(H) 1 shall be a representative of either—
+
+“(i) the Regional Fishery Management Councils established under [section 1852 of this title](./chapter-038-fishery-conservation-and-management.md#section-1852); or
+
+“(ii) a representative of the Marine Fisheries Commissions;”.
+
+Subsec. (e)(1)(B). Pub. L. 118–198, § 201(2), substituted “the members present” for “all members”.
 
 
 <a id="section-8204"></a>
@@ -304,7 +330,7 @@ In this chapter:
 
 **(e) Report to Congress**
 
-(1) **In general** — Not later than February 1 of the first fiscal year beginning after October 30, 2020, and each February 1 thereafter, the Board shall develop and submit to the appropriate congressional committees an annual report, to be entitled “Report to Congress on Future Fish Habitat Partnerships and Modifications”, that—
+(1) **In general** — Not later than February 1 of the first fiscal year beginning after October 30, 2020, and, subject to paragraph (3), each February 1 thereafter, the Board shall develop and submit to the appropriate congressional committees an annual report, to be entitled “Report to Congress on Future Fish Habitat Partnerships and Modifications”, that—
 
   (A) identifies each entity that—
 
@@ -326,7 +352,13 @@ In this chapter:
 
   (B) provide to the appropriate congressional committees and the State agency of any State included in a recommended Partnership area written notification of the public availability of the report.
 
-**(f) Designation or modification of partnership** Congress shall have the exclusive authority to designate or modify a Partnership.
+(3) **Limitation** — The Board shall only submit a report required under paragraph (1) in the fiscal years in which the Board is proposing modifications to, or new designations of, 1 or more Partnerships.
+
+**(f) Designation or modification of Partnership**
+
+(1) **In general** — Congress shall have the exclusive authority to designate or modify a Partnership.
+
+(2) **Designation or modification process** — A Partnership designation or modification the Board recommends to Congress shall be deemed to be approved by Congress if Congress does not pass a joint resolution of disapproval with respect to the designation or modification by the date that is 90 days after the date on which the relevant congressional committees receive such recommendation.
 
 **(g) Existing partnerships**
 
@@ -334,12 +366,21 @@ In this chapter:
 
 (2) **Ineligibility for Federal funds** — A partnership referred to in paragraph (1) that Congress does not designate as described in that paragraph shall be ineligible to receive Federal funds under this chapter.
 
+### Statutory Notes
+
+#### Amendments
+2024—Subsec. (e)(1). Pub. L. 118–198, § 202(1)(A), inserted “, subject to paragraph (3),” after “October 30, 2020, and” in introductory provisions.
+
+Subsec. (e)(3). Pub. L. 118–198, § 202(1)(B), added par. (3).
+
+Subsec. (f). Pub. L. 118–198, § 202(2), amended subsec. (f) generally. Prior to amendment, text read as follows: “Congress shall have the exclusive authority to designate or modify a Partnership.”
+
 
 <a id="section-8205"></a>
 ## § 8205. Fish habitat conservation projects
 **(a) Submission to Board** Not later than March 31 of each year, each Partnership shall submit to the Board a list of priority fish habitat conservation projects recommended by the Partnership for annual funding under this chapter.
 
-**(b) Recommendations by Board** Not later than July 1 of each year, the Board shall submit to the Secretary a priority list of fish habitat conservation projects that includes a description, including estimated costs, of each project that the Board recommends that the Secretary approve and fund under this chapter for the following fiscal year.
+**(b) Recommendations by Board** Not later than July 1 of each year, the Board shall submit to the Secretary a priority list of fish habitat conservation projects that includes a description, including estimated costs, of each project that the Board recommends that the Secretary approve and fund under this chapter.
 
 **(c) Criteria for project selection** The Board shall select each fish habitat conservation project recommended to the Secretary under subsection (b) after taking into consideration, at a minimum, the following information:
 
@@ -419,9 +460,9 @@ In this chapter:
 
 **(e) Non-Federal contributions**
 
-(1) **In general** — Except as provided in paragraphs (2) and (4), no fish habitat conservation project may be recommended by the Board under subsection (b) or provided financial assistance under this chapter unless at least 50 percent of the cost of the fish habitat conservation project will be funded with non-Federal funds.
+(1) **In general** — The non-Federal share of the total cost of all fish habitat conservation projects carried out by a Partnership each year shall be at least 50 percent.
 
-(2) **Non-Federal share** — Such non-Federal share of the cost of a fish habitat conservation project—
+(2) **Non-Federal share** — The non-Federal share described in paragraph (1)—
 
   (A) may not be derived from another Federal grant program; and
 
@@ -444,10 +485,17 @@ In this chapter:
 #### References in Text
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c)(5)(E), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
+#### Amendments
+2024—Subsec. (b). Pub. L. 118–198, § 203(1), struck out “for the following fiscal year” before period at end.
+
+Subsec. (e)(1). Pub. L. 118–198, § 203(2)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Except as provided in paragraphs (2) and (4), no fish habitat conservation project may be recommended by the Board under subsection (b) or provided financial assistance under this chapter unless at least 50 percent of the cost of the fish habitat conservation project will be funded with non-Federal funds.”
+
+Subsec. (e)(2). Pub. L. 118–198, § 203(2)(B), substituted “The non-Federal share described in paragraph (1)” for “Such non-Federal share of the cost of a fish habitat conservation project” in introductory provisions.
+
 
 <a id="section-8206"></a>
 ## § 8206. Technical and scientific assistance
-**(a) In general** The Director, the National Oceanic and Atmospheric Administration Assistant Administrator, the Environmental Protection Agency Assistant Administrator, and the Director of the United States Geological Survey, in coordination with the Forest Service and other appropriate Federal departments and agencies, may provide scientific and technical assistance to Partnerships, participants in fish habitat conservation projects, and the Board.
+**(a) In general** The Director, the National Oceanic and Atmospheric Administration Assistant Administrator, the Environmental Protection Agency Assistant Administrator, and the Director of the United States Geological Survey, in coordination with the Forest Service, the Bureau of Land Management, and other appropriate Federal departments and agencies, may provide scientific and technical assistance to Partnerships, participants in fish habitat conservation projects, and the Board.
 
 **(b) Inclusions** Scientific and technical assistance provided under subsection (a) may include—
 
@@ -464,6 +512,11 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 (6) ensuring the availability of experts to assist in conducting scientifically based evaluation and reporting of the results of fish habitat conservation projects; and
 
 (7) providing resources to secure State agency scientific and technical assistance to support Partnerships, participants in fish habitat conservation projects, and the Board.
+
+### Statutory Notes
+
+#### Amendments
+2024—Subsec. (a). Pub. L. 118–198 inserted “, the Bureau of Land Management,” after “the Forest Service”.
 
 
 <a id="section-8207"></a>
@@ -484,45 +537,48 @@ Not later than 1 year after October 30, 2020, and every 5 years thereafter, the 
 
 <a id="section-8209"></a>
 ## § 8209. Accountability and reporting
-**(a) Reporting**
+**(a) In general** Not later than 5 years after October 30, 2020, and every 5 years thereafter, the Board shall submit to the appropriate congressional committees a report describing the progress of this chapter.
 
-(1) **In general** — Not later than 5 years after October 30, 2020, and every 5 years thereafter, the Board shall submit to the appropriate congressional committees a report describing the progress of this chapter.
+**(b) Contents** Each report submitted under subsection (a) shall include—
 
-(2) **Contents** — Each report submitted under paragraph (1) shall include—
+(1) an estimate of the number of acres, stream miles, or acre-feet, or other suitable measures of fish habitat, that was maintained or improved by Partnerships under this chapter during the 5-year period ending on the date of submission of the report;
 
-  (A) an estimate of the number of acres, stream miles, or acre-feet, or other suitable measures of fish habitat, that was maintained or improved by Partnerships under this chapter during the 5-year period ending on the date of submission of the report;
+(2) a description of the public access to fish habitats established or improved under this chapter during that 5-year period;
 
-  (B) a description of the public access to fish habitats established or improved under this chapter during that 5-year period;
+(3) a description of the improved opportunities for public recreational fishing achieved under this chapter;
 
-  (C) a description of the improved opportunities for public recreational fishing achieved under this chapter; and
+(4) a description of the status of fish habitats in the United States as identified by Partnerships; and
 
-  (D) an assessment of the status of fish habitat conservation projects carried out with funds provided under this chapter during that period, disaggregated by year, including—
+(5) an assessment of the status of fish habitat conservation projects carried out with funds provided under this chapter during that period, disaggregated by year, including—
 
-    (i) a description of the fish habitat conservation projects recommended by the Board under [section 8205(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8205/b&num=0&edition=prelim);
+  (A) a description of the fish habitat conservation projects recommended by the Board under [section 8205(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8205/b&num=0&edition=prelim);
 
-    (ii) a description of each fish habitat conservation project approved by the Secretary under [section 8205(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8205/f&num=0&edition=prelim), in order of priority for funding;
+  (B) a description of each fish habitat conservation project approved by the Secretary under [section 8205(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8205/f&num=0&edition=prelim), in order of priority for funding;
 
-    (iii) a justification for—
+  (C) a justification for—
 
-      (I) the approval of each fish habitat conservation project; and
+    (i) the approval of each fish habitat conservation project; and
 
-      (II) the order of priority for funding of each fish habitat conservation project;
+    (ii) the order of priority for funding of each fish habitat conservation project;
 
-    (iv) a justification for any rejection of a fish habitat conservation project recommended by the Board under [section 8205(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8205/b&num=0&edition=prelim) that was based on a factor other than the criteria described in [section 8205(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8205/c&num=0&edition=prelim); and
+  (D) a justification for any rejection of a fish habitat conservation project recommended by the Board under [section 8205(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8205/b&num=0&edition=prelim) that was based on a factor other than the criteria described in [section 8205(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8205/c&num=0&edition=prelim); and
 
-    (v) an accounting of expenditures by Federal, State, or local governments, Indian Tribes, or other entities to carry out fish habitat conservation projects under this chapter.
+  (E) an accounting of expenditures by Federal, State, or local governments, Indian Tribes, or other entities to carry out fish habitat conservation projects under this chapter.
 
-**(b) Status and trends report** Not later than December 31, 2021, and every 5 years thereafter, the Board shall submit to the appropriate congressional committees a report that includes—
+### Statutory Notes
 
-(1) a status of all Partnerships designated under this chapter;
+#### Amendments
+2024—Subsec. (a). Pub. L. 118–198, § 205(2)(A), inserted subsec. (a) designation and heading and struck out former subsec. (a) designation and heading “Reporting” and former par. (1) designation and heading “In general” before “Not later than”.
 
-(2) a description of the status of fish habitats in the United States as identified by designated Partnerships; and
+Subsec. (a)(2). Pub. L. 118–198, § 205(2)(B), redesignated par. (2) of subsec. (a) as subsec. (b) and realigned margins.
 
-(3) enhancements or reductions in public access as a result of—
+Subsec. (b). Pub. L. 118–198, § 205(1), (2)(B), (3)(A), (B), redesignated par. (2) of subsec. (a) as subsec. (b) and subpars. (A), (B), (C), and (D) of former par. (2) of subsec. (a) as pars. (1), (2), (3), and (5), respectively, of subsec. (b), realigned margins, substituted “subsection (a)” for “paragraph (1)” in introductory provisions, and struck out former subsec. (b) which authorized the Board to submit status and trends report to appropriate congressional committees.
 
-  (A) the activities of the Partnerships; or
+Subsec. (b)(4). Pub. L. 118–198, § 205(3)(C), (D), added par. (4).
 
-  (B) any other activities carried out pursuant to this chapter.
+Subsec. (b)(5). Pub. L. 118–198, § 205(3)(E)(i), redesignated cls. (i) to (v) as subpars. (A) to (E), respectively, and realigned margins.
+
+Subsec. (b)(5)(C). Pub. L. 118–198, § 205(3)(E)(ii), redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively, and realigned margins.
 
 
 <a id="section-8210"></a>
@@ -590,7 +646,7 @@ The Water Resources Development Act of 1986, referred to in subsec. (g)(2)(C), i
 <a id="section-8211"></a>
 ## § 8211. Nonapplicability of Federal Advisory Committee Act
 
-The Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply to—
+Chapter 10 of title 5 (commonly known as the “Federal Advisory Committee Act”), shall not apply to—
 
 (1) the Board; or
 
@@ -598,23 +654,23 @@ The Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text not
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
+#### Amendments
+2024—Pub. L. 118–198 substituted “Chapter 10 of title 5 (commonly known as the ‘Federal Advisory Committee Act’),” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in introductory provisions.
 
 
 <a id="section-8212"></a>
 ## § 8212. Funding
 **(a) Authorization of appropriations**
 
-(1) **Fish habitat conservation projects** — There is authorized to be appropriated to the Secretary $7,200,000 for each of fiscal years 2021 through 2025 to provide funds for fish habitat conservation projects approved under [section 8205(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8205/f&num=0&edition=prelim), of which 5 percent is authorized only for projects carried out by Indian Tribes.
+(1) **Fish habitat Partnerships and conservation projects** — There is authorized to be appropriated to the Secretary $7,200,000 for each of fiscal years 2021 through 2030 to provide funds for Partnership operations under [section 8204 of this title](./chapter-101-national-fish-habitat-conservation-through-partnerships.md#section-8204) and fish habitat conservation projects approved under [section 8205(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8205/f&num=0&edition=prelim), of which 5 percent is authorized only for projects carried out by Indian Tribes.
 
-(2) **Administrative and planning expenses** — There is authorized to be appropriated to the Secretary for each of fiscal years 2021 through 2025 an amount equal to 5 percent of the amount appropriated for the applicable fiscal year pursuant to paragraph (1)—
+(2) **Administrative and planning expenses** — There is authorized to be appropriated to the Secretary for each of fiscal years 2021 through 2030 an amount equal to 5 percent of the amount appropriated for the applicable fiscal year pursuant to paragraph (1)—
 
   (A) for administrative and planning expenses under this chapter; and
 
   (B) to carry out [section 8209 of this title](./chapter-101-national-fish-habitat-conservation-through-partnerships.md#section-8209).
 
-(3) **Technical and scientific assistance** — There is authorized to be appropriated for each of fiscal years 2021 through 2025 to carry out, and provide technical and scientific assistance under, [section 8206 of this title](./chapter-101-national-fish-habitat-conservation-through-partnerships.md#section-8206)—
+(3) **Technical and scientific assistance** — There is authorized to be appropriated for each of fiscal years 2021 through 2030 to carry out, and provide technical and scientific assistance under, [section 8206 of this title](./chapter-101-national-fish-habitat-conservation-through-partnerships.md#section-8206)—
 
   (A) $400,000 to the Secretary for use by the United States Fish and Wildlife Service;
 
@@ -658,6 +714,13 @@ The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oc
 The Federal Financial Assistance Management Improvement Act of 1999, referred to in subsec. (b)(1), is Pub. L. 106–107, Nov. 20, 1999, 113 Stat. 1486, which was formerly set out as a note under [section 6101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6101&num=0&edition=prelim), Money and Finance. Pursuant to section 11 of the Act, the Act ceased to be effective 8 years after Nov. 20, 1999.
 
 This Act, referred to in subsec. (b)(3), is Pub. L. 116–188, Oct. 30, 2020, 134 Stat. 905, known as America’s Conservation Enhancement Act. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of this title](./chapter-101-national-fish-habitat-conservation-through-partnerships.md#section-8201) and Tables.
+
+#### Amendments
+2024—Subsec. (a)(1). Pub. L. 118–198, § 206(1), inserted “Partnerships and” after “habitat” in heading and “Partnership operations under [section 8204 of this title](./chapter-101-national-fish-habitat-conservation-through-partnerships.md#section-8204) and” after “to provide funds for” in text and substituted “2030” for “2025”.
+
+Subsec. (a)(2). Pub. L. 118–198, § 206(2), substituted “2030” for “2025” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 118–198, § 206(3), substituted “2030” for “2025” in introductory provisions.
 
 
 <a id="section-8213"></a>

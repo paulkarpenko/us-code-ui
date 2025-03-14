@@ -1774,7 +1774,11 @@ Repeal applicable with respect to Medals of Honor awarded on or after Dec. 26, 2
 ## § 1562. Special provisions relating to pension
 **(a)**
 
-(1) The Secretary shall pay monthly to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, and a copy of whose certificate has been delivered to the Secretary under subsection (d) of [section 1134a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1134a&num=0&edition=prelim), a special pension at the rate of $1,406.73, as adjusted from time to time under subsection (e),11 See Special Benefit Allowance Rates note below. beginning as of the date on which the person’s name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section.
+(1)
+
+  (A) The Secretary shall pay monthly to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, and a copy of whose certificate has been delivered to the Secretary under subsection (d) of [section 1134a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1134a&num=0&edition=prelim), a special pension at the rate described in subparagraph (B), as adjusted from time to time under subsection (e),11 See Special Benefit Allowance Rates note below. beginning as of the date on which the person’s name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section.
+
+  (B) The rate described in this subparagraph is equal to the amount of monthly compensation paid to a veteran without dependents under subsection (m) of [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114), increased to the next intermediate rate under subsection (p) of such section.
 
 (2)
 
@@ -1794,7 +1798,11 @@ Repeal applicable with respect to Medals of Honor awarded on or after Dec. 26, 2
 
 **(d)** If any person has been awarded more than one medal of honor, or married to more than one person who has been awarded a medal of honor, such person shall not receive more than one special pension.
 
-**(e)** Effective as of December 1 each year, the Secretary shall increase the amount of monthly special pension payable under subsection (a) as of November 30 of such year by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.) are increased effective December 1 of such year as a result of a determination under section 215(i) of that Act ([42 U.S.C. 415(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i&num=0&edition=prelim)).
+**(e)**
+
+(1) Effective as of December 1 each year, the Secretary, subject to paragraph (2), shall increase the amount of monthly special pension payable under subsection (a) as of November 30 of such year by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.) are increased effective December 1 of such year as a result of a determination under section 215(i) of that Act ([42 U.S.C. 415(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i&num=0&edition=prelim)).
+
+(2) The Secretary shall not, under paragraph (1), increase the amount of monthly special pension payable under subsection (a) in a year if such amount was otherwise increased during such year.
 
 **(f)**
 
@@ -1811,7 +1819,7 @@ Repeal applicable with respect to Medals of Honor awarded on or after Dec. 26, 2
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (e)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Prior sections 1601, 1602, 1621 to 1625, 1631 to 1634, 1641, and 1643, which comprised chapter 32, were renumbered sections 3201, 3202, 3221 to 3225, 3231 to 3234, 3241, and 3243 of this title, respectively. Prior section 1642, Pub. L. 94–502, title IV, § 404, Oct. 15, 1976, 90 Stat. 2397; amended Pub. L. 97–295, § 4(37), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 101–237, title IV, § 423(b)(1)(A), (4)(A), Dec. 18, 1989, 103 Stat. 2092, directed Secretary of Veterans Affairs and Secretary of Defense to submit a joint report annually on operations of program provided under chapter 32 of this title, prior to repeal by Pub. L. 102–16, § 5(a), Mar. 22, 1991, 105 Stat. 50.
@@ -1937,6 +1945,10 @@ Section 1698, added Pub. L. 92–540, title III, § 308, Oct. 24, 1972, 86 Stat.
 Prior section 1700, which comprised the first section of chapter 35, was renumbered [section 3500 of this title](./chapter-035-survivors-and-dependents-educational-assistance.md#section-3500).
 
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–43, § 3(1), designated existing provisions as subpar. (A), substituted “the rate described in subparagraph (B)” for “the rate of $1,406.73”, and added subpar. (B).
+
+Subsec. (e). Pub. L. 119–43, § 3(2), designated existing provisions as par. (1), inserted “, subject to paragraph (2),” before “shall”, and added par. (2).
+
 2022—Subsec. (a)(1). Pub. L. 117–328 substituted “$1,406.73” for “$1,388.68”.
 
 2021—Subsec. (a). Pub. L. 116–315, § 2003(b)(1), designated existing provisions as par. (1) and added par. (2).

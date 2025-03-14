@@ -853,9 +853,9 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
   (D) On the date on which the President submits the budget under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) for fiscal year 2032, the President shall order a sequestration of payments for the Medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim), effective upon issuance, such that, notwithstanding the 2 percent limit specified in subparagraph (A) for such payments—
 
-    (i) with respect to the first 8 months in which such order is effective for such fiscal year, the payment reduction shall be 2.0 percent; and
+    (i) with respect to the first 11 months in which such order is effective for such fiscal year, the payment reduction shall be 2.0 percent; and
 
-    (ii) with respect to the last 4 months in which such order is effective for such fiscal year, the payment reduction shall be 0 percent.
+    (ii) with respect to the last 1 month in which such order is effective for such fiscal year, the payment reduction shall be 0 percent.
 
   (E) The sequestration order issued by the President under subparagraph (D) shall also include, effective upon issuance, that—
 
@@ -912,6 +912,14 @@ The Bipartisan Budget Act of 2019, referred to in par. (13)(A), is Pub. L. 116�
 A prior section 901a, Pub. L. 99–177, title II, § 251A, as added Pub. L. 103–322, title XXXI, § 310001(g)(1), Sept. 13, 1994, 108 Stat. 2104, related to sequestration with respect to Violent Crime Reduction Trust Fund, prior to repeal by Pub. L. 105–33, title X, § 10204(a)(1), Aug. 5, 1997, 111 Stat. 702.
 
 #### Amendments
+2025—Par. (6)(D)(i). Pub. L. 119–37, § 6213(1), substituted “11 months” for “10 months”.
+
+Pub. L. 119–4, § 2211(1), substituted “10 months” for “8 months”.
+
+Par. (6)(D)(ii). Pub. L. 119–37, § 6213(2), substituted “1 month” for “2 months”.
+
+Pub. L. 119–4, § 2211(2), substituted “2 months” for “4 months”.
+
 2024—Par. (6)(D)(i). Pub. L. 118–42, § 303(1), substituted “8 months” for “7 months”.
 
 Par. (6)(D)(ii). Pub. L. 118–42, § 303(2), substituted “4 months” for “5 months”.
@@ -1044,16 +1052,18 @@ Pub. L. 116–136, div. A, title III, § 3709(a), Mar. 27, 2020, 134 Stat. 421, 
 #### 2013 Sequester
 Pub. L. 112–240, title IX, § 901(e), Jan. 2, 2013, 126 Stat. 2370, provided that: “On March 1, 2013, the President shall order a sequestration for fiscal year 2013 pursuant to section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 901a](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a)], as amended by this section, pursuant to which, only for the purposes of the calculation in sections 251A(5)(A), 251A(6)(A), and 251A(7)(A), section 251(c)(2) [former [2 U.S.C. 901(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/c/2&num=0&edition=prelim)] shall be applied as if it read as follows: “ ‘(2) For fiscal year 2013— “ ‘(A) for the security category, $544,000,000,000 in budget authority; and “ ‘(B) for the nonsecurity category, $499,000,000,000 in budget authority;’.”
 
-#### Sequestration Order for Fiscal Year 2024 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
-Order of President of the United States, dated Mar. 13, 2023, 88 F.R. 16171, provided:
+#### Sequestration Order for Fiscal Year 2025 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
+Order of President of the United States, dated Mar. 11, 2024, 89 F.R. 18531, provided:
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the “Act”), as amended, [2 U.S.C. 901a](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a), I hereby order that, on October 1, 2023, direct spending budgetary resources for fiscal year 2024 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 13, 2023.
+By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the “Act”), as amended, [2 U.S.C. 901a](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a), I hereby order that, on October 1, 2024, direct spending budgetary resources for fiscal year 2025 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 11, 2024.
 
-All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget’s report of March 13, 2023, prepared pursuant to section 251A(9) of the Act.
+All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget’s report of March 11, 2024, prepared pursuant to section 251A(9) of the Act.
 
 J.R. Biden, Jr.
 
 Sequestration orders pursuant to this section for prior fiscal years were contained in the following:
+
+2024—Order of President of the United States, dated Mar. 13, 2023, 88 F.R. 16171.
 
 2023—Order of President of the United States, dated Mar. 28, 2022, 87 F.R. 18603.
 
@@ -1925,9 +1935,11 @@ The Soldiers’ and Airmen’s Home, referred to in subsec. (g)(1)(A), was incor
 
   (A) any amount paid as regular unemployment compensation by a State from its account in the Unemployment Trust Fund (established by section 904(a) of the Social Security Act [[42 U.S.C. 1104(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1104/a&num=0&edition=prelim)]),
 
-  (B) any advance made to a State from the Federal unemployment account (established by section 904(g) of such Act [[42 U.S.C. 1104(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1104/g&num=0&edition=prelim)]) under title XII of such Act [[42 U.S.C. 1321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1321&num=0&edition=prelim) et seq.] and any advance appropriated to the Federal unemployment account pursuant to section 1203 of such Act [[42 U.S.C. 1323](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1323&num=0&edition=prelim)], and
+  (B) any advance made to a State from the Federal unemployment account (established by section 904(g) of such Act [[42 U.S.C. 1104(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1104/g&num=0&edition=prelim)]) under title XII of such Act [[42 U.S.C. 1321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1321&num=0&edition=prelim) et seq.] and any advance appropriated to the Federal unemployment account pursuant to section 1203 of such Act [[42 U.S.C. 1323](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1323&num=0&edition=prelim)],
 
-  (C) any payment made from the Federal Employees Compensation Account (as established under section 909 of such Act [[42 U.S.C. 1109](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1109&num=0&edition=prelim)]) for the purpose of carrying out chapter 85 of title 5 and funds appropriated or transferred to or otherwise deposited in such Account,
+  (C) any payment made from the Federal Employees Compensation Account (as established under section 909 of such Act [[42 U.S.C. 1109](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1109&num=0&edition=prelim)]) for the purpose of carrying out chapter 85 of title 5 and funds appropriated or transferred to or otherwise deposited in such Account, and
+
+  (D) any payment made from the Railroad Unemployment Insurance Account (established by section 10 of the Railroad Unemployment Insurance Act [[45 U.S.C. 360](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section360&num=0&edition=prelim)]) for the purpose of carrying out the Railroad Unemployment Insurance Act [[45 U.S.C. 351](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section351&num=0&edition=prelim) et seq.], and funds appropriated or transferred to or otherwise deposited in such Account,
   shall not be subject to reduction.
 
 (2)
@@ -1981,16 +1993,22 @@ This title, referred to in subsecs. (h)(1) and (j)(1), (3), means title II (§ 2
 
 Subsec. (h)(1), referred to in subsec. (h)(3), was redesignated subsec. (i)(1) by Pub. L. 101–508, title XIII, § 13101(d)(2), Nov. 5, 1990, 104 Stat. 1388–589.
 
+The Railroad Unemployment Insurance Act, referred to in subsec. (i)(1)(D), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§ 351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 367 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section367&num=0&edition=prelim) and Tables.
+
 The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (i)(2)(A), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which is classified generally as a note under [section 3304 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3304&num=0&edition=prelim), Internal Revenue Code. Section 204 of such Act is set out in the note under [section 3304 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3304&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
 This joint resolution, referred to in subsec. (j)(6), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106, 1109, and 3101 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-661), enacted provisions set out as notes under [section 900 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-900) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-621). For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2024—Subsec. (i)(1)(D). Pub. L. 118–159, § 5701(a)(2), repealed Pub. L. 116–260, § 235(c). See 2020 Amendment note below.
+
 2022—Subsec. (g)(2)(B)(ii). Pub. L. 117–263 substituted “sections 403b and 405” for “sections 403a and 475”.
 
 Subsec. (h)(4)(G). Pub. L. 117–168 added subpar. (G).
 
-2020—Subsec. (i)(1)(D). Pub. L. 116–260, § 235(a), temporarily added subpar. (D) which read as follows: “any payment made from the Railroad Unemployment Insurance Account (established by section 10 of the Railroad Unemployment Insurance Act [[45 U.S.C. 360](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section360&num=0&edition=prelim)]) for the purpose of carrying out the Railroad Unemployment Insurance Act [[45 U.S.C. 351](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section351&num=0&edition=prelim) et seq.], and funds appropriated or transferred to or otherwise deposited in such Account,”. See Effective and Termination Dates of 2020 Amendment note below.
+2020—Subsec. (i)(1)(D). Pub. L. 116–260, § 235(c), which directed the repeal of the amendment made by section 235(a) of Pub. L. 116–260, was repealed by Pub. L. 118–159, § 5701(a)(2).
+
+Pub. L. 116–260, § 235(a), added subpar. (D).
 
 2013—Subsec. (g)(2)(B)(ii). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(B). See 2011 Amendment note below.
 
@@ -2122,14 +2140,15 @@ Subsec. (l). Pub. L. 100–119, § 102(b)(3), amended subsec. (l) generally, str
 
 1986—Subsec. (h)(2)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
+#### Effective Date of 2024 Amendment
+Pub. L. 118–159, div. E, title LVII, § 5701(b), Dec. 23, 2024, 138 Stat. 2461, provided that: “The amendments made by subsection (a) [amending and repealing provisions set out as notes below] shall apply as if enacted on the day before the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020, under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) terminates.”
+
+[The national emergency concerning the COVID–19 outbreak terminated on Apr. 10, 2023, see Pub. L. 118–3, set out as a note under [section 1621 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1621&num=0&edition=prelim), War and National Defense.]
+
 #### Effective and Termination Dates of 2020 Amendment
-Pub. L. 116–260, div. N, title II, § 235(b), Dec. 27, 2020, 134 Stat. 1959, provided that: “The treatment of payments made from the Railroad Unemployment Insurance Account pursuant to the amendment made by subsection (a) [amending this section]— “(1) shall take effect 7 days after the date of the enactment of this Act [Dec. 27, 2020]; and “(2) shall apply only to obligations incurred during the period beginning on the effective date described in paragraph (1) and ending on the date that is 30 days after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020, under the National Emergencies Act [Pub. L. 94–412] ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) terminates.” [The national emergency concerning the COVID–19 outbreak terminated on Apr. 10, 2023, see Pub. L. 118–3, set out as a note under [section 1621 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1621&num=0&edition=prelim), War and National Defense.]
+Pub. L. 116–260, div. N, title II, § 235(b), Dec. 27, 2020, 134 Stat. 1959, as amended by Pub. L. 118–159, div. E, title LVII, § 5701(a)(1), Dec. 23, 2024, 138 Stat. 2461, provided that: “The treatment of payments made from the Railroad Unemployment Insurance Account pursuant to the amendment made by subsection (a) [amending this section] shall take effect 7 days after the date of enactment of the Continued Assistance to Rail Workers Act of 2020 [Dec. 27, 2020].”
 
-[For definition of “coronavirus” as used in section 235(b) of Pub. L. 116–260, set out above, see section 8 of Pub. L. 116–260, set out as a note under [section 5547 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5547&num=0&edition=prelim), Government Organization and Employees.]
-
-Pub. L. 116–260, div. N, title II, § 235(c), Dec. 27, 2020, 134 Stat. 1959, provided that: “The amendments made by subsection (a) [amending this section] shall be repealed on the date that is 30 days after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020, under the National Emergencies Act [Pub. L. 94–412] ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) terminates.” [The national emergency concerning the COVID–19 outbreak terminated on Apr. 10, 2023, see Pub. L. 118–3, set out as a note under [section 1621 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1621&num=0&edition=prelim), War and National Defense.]
-
-[For definition of “coronavirus” as used in section 235(c) of Pub. L. 116–260, set out above, see section 8 of Pub. L. 116–260, set out as a note under [section 5547 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5547&num=0&edition=prelim), Government Organization and Employees.]
+Pub. L. 116–260, div. N, title II, § 235(c), Dec. 27, 2020, 134 Stat. 1959, which provided that the amendments made by section 235(a) of Pub. L. 116–260 to this section would be repealed 30 days after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020, under the National Emergencies Act terminated, was repealed by Pub. L. 118–159, div. E, title LVII, § 5701(a)(2), Dec. 23, 2024, 138 Stat. 2461. See Effective Date of 2024 Amendment note above.
 
 #### Effective Date of 2013 Amendment
 Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.

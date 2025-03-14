@@ -179,7 +179,7 @@ Section, added Pub. L. 98–94, title IX, § 925(a)(1), Sept. 24, 1983, 97 Stat.
 
 **(d)** All determinations under this section shall be made using methods and assumptions approved by the Board of Actuaries (including assumptions of interest rates and inflation) and in accordance with generally accepted actuarial principles and practices.
 
-**(e)** The Secretary of Defense and, with regard to the Coast Guard, the Secretary of the department in which the Coast Guard is operating provide 11 So in original. for the keeping of such records as are necessary for determining the actuarial status of the Fund.
+**(e)** The Secretary of Defense and, with regard to the Coast Guard, the Secretary of the department in which the Coast Guard is operating shall provide for the keeping of such records as are necessary for determining the actuarial status of the Fund.
 
 ### Statutory Notes
 
@@ -189,6 +189,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Amendment of section by Pub. L. 99–500 and Pub. L. 99–591 is based on section 642 of S. 2638, Ninety-ninth Congress, as passed by the Senate on Aug. 9, 1986, which was enacted into permanent law by Pub. L. 99–500 and Pub. L. 99–591. S. 2638 was subsequently enacted as Pub. L. 99–661.
 
 #### Amendments
+2024—Subsec. (e). Pub. L. 118–159 inserted “shall” before “provide”.
+
 2021—Subsec. (a). Pub. L. 116–283, § 8224(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b)(1). Pub. L. 116–283, § 8224(2)(A)(i), in introductory provisions, inserted “, in consultation with the Secretary of the department in which the Coast Guard is operating,” after “Secretary of Defense” and “and Coast Guard” after “Department of Defense”.

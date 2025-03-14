@@ -327,7 +327,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 **(b) Other properties** In all other cases the sales price to priority purchasers shall be the appraised value less the deductions provided by [section 2326 of this title](./chapter-024-disposal-of-atomic-energy-communities.md#section-2326), except that sales made under sections 2343(b) and 2343(c) of this title shall be made at the prices set forth therein.
 
-**(c) Appraised value of interest in commercial prop­erty** The appraised value of the Government’s interest in commercial property shall, in the cases where renegotiation of the lease is requested by the lessee under the provisions of [section 2201(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2201/e&num=0&edition=prelim) be based upon the renegotiated lease if any is agreed on. Where such renegotiations are requested, the sales proceedings shall not be initiated until the completion of the renegotiation.
+**(c) Appraised value of interest in commercial property** The appraised value of the Government’s interest in commercial property shall, in the cases where renegotiation of the lease is requested by the lessee under the provisions of [section 2201(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2201/e&num=0&edition=prelim) be based upon the renegotiated lease if any is agreed on. Where such renegotiations are requested, the sales proceedings shall not be initiated until the completion of the renegotiation.
 
 ### Statutory Notes
 

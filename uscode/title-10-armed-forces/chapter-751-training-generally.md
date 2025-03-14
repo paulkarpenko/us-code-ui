@@ -396,6 +396,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under [section 2163 of this title](./chapter-108-department-of-defense-schools.md#section-2163).
 
+#### Organization of Army War College
+Pub. L. 119–60, div. A, title V, § 559B, Dec. 18, 2025, 139 Stat. 881, provided that: “The Secretary of the Army shall— “(1) incorporate the Army War College into the Army University; and “(2) direct the head of the Army War College to report to the head of the Army University.”
+
 
 <a id="section-7422"></a>
 ## § 7422. Degree granting authority for United States Army Armament Graduate School

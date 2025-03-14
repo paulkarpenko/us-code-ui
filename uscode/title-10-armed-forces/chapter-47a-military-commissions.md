@@ -1285,15 +1285,47 @@ A prior section 950e, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 St
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)
+Pub. L. 118–159, div. A, title V, § 567, Dec. 23, 2024, 138 Stat. 1905, provided that, effective 180 days after Dec. 23, 2024, and applicable with respect to any civilian judge of the United States Court of Military Commission Review who will have served as such a judge for a period of 10 or more years as of 180 days after Dec. 23, 2024, subsection (b) of this section is amended as follows:
+
+(1) in paragraph (6)—
+
+(A) by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and indenting appropriately;
+
+(B) by striking “The term of an appellate military judge assigned to the Court under paragraph (2) or appointed to the Court under paragraph (3)” and inserting the following: “(A) The term of an appellate military judge assigned or appointed to the Court under this subsection”; and
+
+(C) by adding at the end the following new subparagraph:
+
+“(B) The term of a civilian judge of the Court appointed under paragraph (3) shall expire on the date that is 10 years after the date on which the judge was appointed.”; and
+
+(2) by adding at the end the following new paragraph:
+
+“(7) Judges of the Court may be removed from office by the President (in the case of a judge appointed under paragraph (3)) or the Secretary of Defense (in the case of an appellate military judge assigned under paragraph (2)) upon notice and hearing, for—
+
+“(A) neglect of duty;
+
+“(B) misconduct; or
+
+“(C) mental or physical disability.”
+
+See 2024 Amendment notes below.
+
 #### Prior Provisions
 A prior section 950f, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2621; amended Pub. L. 110–181, div. A, title X, § 1063(a)(6), Jan. 28, 2008, 122 Stat. 322, related to review by Court of Military Commission Review, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 #### Amendments
+2024—Subsec. (b)(6). Pub. L. 118–159, § 567(a)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and realigned margins; substituted “The term of an appellate military judge assigned or appointed to the Court under this subsection” for “The term of an appellate military judge assigned to the Court under paragraph (2) or appointed to the Court under paragraph (3)”; and added subpar. (B).
+
+Subsec. (b)(7). Pub. L. 118–159, § 567(a)(2), added par. (7).
+
 2018—Subsec. (b)(6). Pub. L. 115–232 added par. (6).
 
 2017—Subsec. (b)(5). Pub. L. 115–91 added par. (5).
 
 2011—Subsec. (a). Pub. L. 112–81 substituted “judges on the Court” for “appellate military judges” in second sentence.
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–159, div. A, title V, § 567(b), Dec. 23, 2024, 138 Stat. 1905, provided that: “(1) In general.—The amendments made by subsection (a) [amending this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Dec. 23, 2024]. “(2) Applicability to existing civilian judges.—The term of any civilian judge of the United States Court of Military Commission Review who will have served as such a judge for a period of 10 or more years as of the effective date described in paragraph (1) shall expire on such effective date.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–232, div. A, title V, § 541(b), Aug. 13, 2018, 132 Stat. 1762, provided that: “The amendment made by subsection (a) [amending this section] shall apply to each judge of the United States Court of Military Commission Review serving on that court on the date of the enactment of this Act [Aug. 13, 2018] and each judge assigned or appointed to that court on or after such date.”

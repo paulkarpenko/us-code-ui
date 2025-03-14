@@ -699,7 +699,7 @@ Pub. L. 116–92, div. A, title VII, § 733(c), Dec. 20, 2019, 133 Stat. 1461, p
 
 <a id="section-179"></a>
 ## § 179. Nuclear Weapons Council
-**(a) Establishment; Membership.—** There is a Nuclear Weapons Council (hereinafter in this section referred to as the “Council”) operated as a joint activity of the Department of Defense and the Department of Energy. The membership of the Council is comprised of the following officers of those departments:
+**(a) Establishment; Membership.—** There is a Nuclear Weapons Council (hereinafter in this section referred to as the “Council”) operated as a joint activity of the Department of Defense and the Department of Energy. The Council shall be the primary mechanism for integrating, streamlining, and ensuring unity of purpose and direction for nuclear deterrence related activities within the Department of Defense and the Department of Energy. The membership of the Council is comprised of the following officers of those departments:
 
 (1) The Under Secretary of Defense for Acquisition and Sustainment.
 
@@ -725,61 +725,61 @@ Pub. L. 116–92, div. A, title VII, § 733(c), Dec. 20, 2019, 133 Stat. 1461, p
 
 (1) The Secretary of Defense and the Secretary of Energy shall enter into an agreement with the Council to furnish necessary staff and administrative services to the Council.
 
-(2) The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs shall be the Staff Director of the Council.
-
-(3)
-
-  (A) Whenever the position of Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs has been vacant a period of more than 6 months, the Secretary of Energy shall designate a qualified individual to serve as acting staff director of the Council until the position of Assistant Secretary is filled.
-
-  (B) An individual designated under subparagraph (A) shall possess substantial technical and policy experience relevant to the management and oversight of nuclear weapons programs.
+(2) The Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs shall be the Staff Director of the Council.
 
 **(d) Responsibilities.—** The Council shall be responsible for the following matters:
 
-(1) Preparing the annual Nuclear Weapons Stockpile Memorandum.
+(1) Overseeing nuclear deterrence activities of the Department of Defense and the National Nuclear Security Administration, including policy and resources, and developing options for adjusting the deterrence posture of the United States in response to evolving international security conditions.
 
-(2) Developing nuclear weapons stockpiles options and the costs of such options and alternatives.
+(2) Preparing the annual Nuclear Weapons Stockpile Memorandum.
 
-(3) Coordinating and approving programming and budget matters pertaining to nuclear weapons programs between the Department of Defense and the Department of Energy.
+(3) Developing nuclear weapons stockpiles options and the costs of such options and alternatives.
 
-(4) Identifying various options for cost-effective schedules for nuclear weapons production.
+(4) Coordinating and approving programming and budget matters pertaining to nuclear weapons programs between the Department of Defense and the Department of Energy.
 
-(5) Considering safety, security, and control issues for existing weapons and for proposed new weapon program starts.
+(5) Identifying various options for cost-effective schedules for nuclear weapons production.
 
-(6) Ensuring that adequate consideration is given to design, performance, and cost tradeoffs for all proposed new nuclear weapons programs.
+(6) Evaluating safety, security, and control issues for existing weapons and for proposed new weapon program starts and approving adjustments as required.
 
-(7) Providing specific guidance regarding priorities for research on nuclear weapons and priorities among activities, including production, surveillance, research, construction, and any other programs within the National Nuclear Security Administration.
+(7) Overseeing the approval of design, performance, and cost tradeoffs for all proposed new nuclear weapons programs.
 
-(8) Coordinating and approving activities conducted by the Department of Energy for the study, development, production, and retirement of nuclear warheads, including concept definition studies, feasibility studies, engineering development, hardware component fabrication, warhead production, and warhead retirement.
+(8) Providing specific guidance regarding priorities for research on—
 
-(9) Reviewing proposed capabilities, and, in coordination with the Joint Requirements Oversight Council, establishing and validating performance requirements (as defined in [section 181(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section181/h&num=0&edition=prelim)), for nuclear warhead programs.
+  (A) nuclear weapon delivery systems and platforms and priorities on military capability development within the armed forces and the broader Department of Defense; and
 
-(10) With respect to nuclear warheads—
+  (B) nuclear weapons and priorities among activities, including production, surveillance, research, construction, and any other programs within the National Nuclear Security Administration.
+
+(9) Coordinating and approving activities conducted by the Department of Defense and the Department of Energy for the study, development, production, and retirement of nuclear warheads and weapon systems, including concept definition studies, feasibility studies, engineering development, hardware component fabrication, warhead and weapon system production, and warhead retirement.
+
+(10) Reviewing proposed capabilities, and, in coordination with the Joint Requirements Oversight Council, establishing and validating performance requirements (as defined in [section 181(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section181/h&num=0&edition=prelim)), for nuclear warhead and weapon system programs.
+
+(11) With respect to nuclear warheads—
 
   (A) reviewing military requirements, performance requirements, and planned delivery schedules to evaluate whether such requirements and schedules create significant risks to cost, schedules, or other matters regarding production, surveillance, research, and other programs relating to nuclear weapons within the National Nuclear Security Administration; and
 
   (B) if any such risk exists, proposing and analyzing adjustments to such requirements and schedules.
 
-(11) Preparing comments on annual proposals for budget levels for research on nuclear weapons and transmitting those comments to the Secretary of Defense and the Secretary of Energy before the preparation of the annual budget requests by the Secretaries of those departments.
+(12) Preparing comments on annual proposals for budget levels for research on nuclear weapons and related weapon systems supporting nuclear deterrence missions and transmitting those comments to the Secretary of Defense and the Secretary of Energy before the preparation of the annual budget requests by the Secretaries of those departments.
 
-(12) Coordinating and approving the annual budget proposals of the National Nuclear Security Administration.
+(13) Coordinating and approving the annual budget proposals of the National Nuclear Security Administration.
 
-(13) Coordinating risk management efforts between the Department of Defense and the National Nuclear Security Administration relating to the nuclear weapons stockpile, the nuclear security enterprise (as defined in section 4002 of the Atomic Energy Defense Act ([50 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2501&num=0&edition=prelim))), and the delivery platforms for nuclear weapons, including with respect to identifying and analyzing risks and proposing actions to mitigate risks.
+(14) Overseeing risk management efforts between the Department of Defense and the National Nuclear Security Administration relating to the nuclear weapons stockpile, the nuclear security enterprise (as defined in section 6101), and the delivery systems and platforms for nuclear weapons, including with respect to identifying and analyzing risks and proposing actions to mitigate risks.
 
 **(e) Report on Difficulties Relating to Safety or Reliability.—** The Council shall submit to Congress a report on any analysis conducted by the Council with respect to difficulties at nuclear weapons laboratories or nuclear weapons production plants that have significant bearing on confidence in the safety or reliability of nuclear weapons or nuclear weapon types.
 
 **(f) Budget and Funding Matters.—**
 
-(1) The Council shall annually review the plans and budget of the National Nuclear Security Administration and assess whether such plans and budget meet the current and projected requirements relating to nuclear weapons.
+(1) The Council shall annually review the plans and budget of the National Nuclear Security Administration and the military departments to assess whether such plans and budget meet the current and projected requirements relating to nuclear weapons and related weapon systems supporting nuclear deterrence missions.
 
 (2)
 
-  (A) The Council shall review each budget request transmitted by the Secretary of Energy to the Council under section 4717 of the Atomic Energy Defense Act ([50 U.S.C. 2757](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2757&num=0&edition=prelim)) and make a determination under subparagraph (B) regarding the adequacy of each such request. Not later than 30 days after making such a determination, the Council shall notify the congressional defense committees that such a determination has been made.
+  (A) The Council shall review each budget request transmitted by the Secretary of Energy to the Council under section 6289 and make a determination under subparagraph (B) regarding the adequacy of each such request. Not later than 30 days after making such a determination, the Council shall notify the congressional defense committees that such a determination has been made.
 
   (B)
 
-    (i) If the Council determines that a budget request for a fiscal year transmitted to the Council under section 4717 of the Atomic Energy Defense Act ([50 U.S.C. 2757](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2757&num=0&edition=prelim)) is inadequate, in whole or in part, to implement the objectives of the Department of Defense with respect to nuclear weapons for that fiscal year, the Council shall submit to the Secretary of Energy a written description of funding levels and specific initiatives that would, in the determination of the Council, make the budget request adequate to implement those objectives.
+    (i) If the Council determines that a budget request for a fiscal year transmitted to the Council under section 6289 is inadequate, in whole or in part, to implement the objectives of the Department of Defense with respect to nuclear weapons for that fiscal year, the Council shall submit to the Secretary of Energy a written description of funding levels and specific initiatives that would, in the determination of the Council, make the budget request adequate to implement those objectives.
 
-    (ii) If the Council determines that a budget request for a fiscal year transmitted to the Council under section 4717 of the Atomic Energy Defense Act ([50 U.S.C. 2757](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2757&num=0&edition=prelim)) is adequate to implement the objectives described in clause (i) for that fiscal year, the Council shall submit to the Secretary of Energy a written statement confirming the adequacy of the request.
+    (ii) If the Council determines that a budget request for a fiscal year transmitted to the Council under section 6289 is adequate to implement the objectives described in clause (i) for that fiscal year, the Council shall submit to the Secretary of Energy a written statement confirming the adequacy of the request.
 
     (iii) The Council shall maintain a record of each description submitted under clause (i) and each statement submitted under clause (ii).
 
@@ -797,11 +797,11 @@ Pub. L. 116–92, div. A, title VII, § 733(c), Dec. 20, 2019, 133 Stat. 1461, p
 
     (ii) whether the plans and budget reviewed under paragraph (1) will enable the Administrator to meet—
 
-      (I) the requirements to produce war reserve plutonium pits under section 4219(a) of such Act ([50 U.S.C. 2538a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2538a/a&num=0&edition=prelim)); and
+      (I) the requirements to produce war reserve plutonium pits under section 4219(a) 11 See References in Text note below. of such Act ([50 U.S.C. 2538a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2538a/a&num=0&edition=prelim)); and
 
       (II) any other requirements under Federal law.
 
-  (C) If the evaluation under subparagraph (B)(ii) determines that the plans and budget reviewed under paragraph (1) will not enable the Administrator to meet the requirements to produce war reserve plutonium pits under section 4219(a) of the Atomic Energy Defense Act ([50 U.S.C. 2538a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2538a/a&num=0&edition=prelim))—
+  (C) If the evaluation under subparagraph (B)(ii) determines that the plans and budget reviewed under paragraph (1) will not enable the Administrator to meet the requirements to produce war reserve plutonium pits under section 6218 22 So in original. Probably should be “6128”.—
 
     (i) an explanation for why the plans and budget will not enable the Administrator to meet such requirements; and
 
@@ -823,7 +823,7 @@ Pub. L. 116–92, div. A, title VII, § 733(c), Dec. 20, 2019, 133 Stat. 1461, p
 
     (ii) any comments of the Chairman.
 
-(6) In this subsection, the term “budget” has the meaning given that term in [section 231(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/f&num=0&edition=prelim).
+(6) In this subsection, the term “budget” has the meaning given that term in section 231(f) 1 of this title.
 
 **(g) Semiannual Updates on Council Meetings.—**
 
@@ -839,7 +839,60 @@ Pub. L. 116–92, div. A, title VII, § 733(c), Dec. 20, 2019, 133 Stat. 1461, p
 
 ### Statutory Notes
 
+#### References in Text
+Section 4219(a) of such Act ([50 U.S.C. 2538a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2538a/a&num=0&edition=prelim)), referred to in subsec. (f)(3)(B)(ii)(I), means section 4219(a) of the Atomic Energy Defense Act, div. D of Pub. L. 107–314, which was classified to [section 2538a(a) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2538a/a&num=0&edition=prelim), War and National Defense, prior to repeal and restatement as [section 6128(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6128/a&num=0&edition=prelim) by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1363, 1458.
+
+[Section 231(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/f&num=0&edition=prelim), referred to in subsec. (f)(6), was redesignated as [section 231(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/g&num=0&edition=prelim) by Pub. L. 117–263, div. A, title III, § 352(a)(2), Dec. 23, 2022, 136 Stat. 2533, and was subsequently redesignated as [section 231(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/h&num=0&edition=prelim) by Pub. L. 118–159, div. A, title X, § 1021(1), Dec. 23, 2024, 138 Stat. 2052.
+
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 1631(1), in introductory provisions, inserted “The Council shall be the primary mechanism for integrating, streamlining, and ensuring unity of purpose and direction for nuclear deterrence related activities within the Department of Defense and the Department of Energy.” after “joint activity of the Department of Defense and the Department of Energy.”
+
+Subsec. (c)(3). Pub. L. 119–60, § 1631(2), struck out par. (3) which related to staff and administrative services; staff director.
+
+Subsec. (d)(1) to (5). Pub. L. 119–60, § 1631(3)(A), (B), added par. (1) and redesignated former pars. (1) to (4) as (2) to (5), respectively. Former par. (5) redesignated (6).
+
+Subsec. (d)(6). Pub. L. 119–60, § 1631(3)(C), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Considering safety, security, and control issues for existing weapons and for proposed new weapon program starts.”
+
+Pub. L. 119–60, § 1631(3)(A), designated par. (5) as (6). Former par. (6) redesignated (7).
+
+Subsec. (d)(7). Pub. L. 119–60, § 1631(3)(D), substituted “Overseeing the approval of” for “Ensuring that adequate consideration is given to”.
+
+Pub. L. 119–60, § 1631(3)(A), designated par. (6) as (7). Former par. (7) redesignated (8).
+
+Subsec. (d)(8). Pub. L. 119–60, § 1631(3)(E), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “Providing specific guidance regarding priorities for research on nuclear weapons and priorities among activities, including production, surveillance, research, construction, and any other programs within the National Nuclear Security Administration.”
+
+Pub. L. 119–60, § 1631(3)(A), designated par. (7) as (8). Former par. (8) redesignated (9).
+
+Subsec. (d)(9). Pub. L. 119–60, § 1631(3)(F), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Coordinating and approving activities conducted by the Department of Energy for the study, development, production, and retirement of nuclear warheads, including concept definition studies, feasibility studies, engineering development, hardware component fabrication, warhead production, and warhead retirement.”
+
+Pub. L. 119–60, § 1631(3)(A), designated par. (8) as (9). Former par. (9) redesignated (10).
+
+Subsec. (d)(10). Pub. L. 119–60, § 1631(3)(G), inserted “and weapon system” after “warhead”.
+
+Pub. L. 119–60, § 1631(3)(A), designated par. (9) as (10). Former par. (10) redesignated (11).
+
+Subsec. (d)(11). Pub. L. 119–60, § 1631(3)(A), designated par. (10) as (11). Former par. (11) redesignated (12).
+
+Subsec. (d)(12). Pub. L. 119–60, § 1631(3)(H), inserted “and related weapon systems supporting nuclear deterrence missions” after “weapons”.
+
+Pub. L. 119–60, § 1631(3)(A), designated par. (11) as (12). Former par. (12) redesignated (13).
+
+Subsec. (d)(13). Pub. L. 119–60, § 1631(3)(A), designated par. (12) as (13). Former par. (13) redesignated (14).
+
+Subsec. (d)(14). Pub. L. 119–60, § 3111(c)(1)(A)(i), which directed amendment of par. (13) of subsec. (d) by substituting “section 6101” for “section 4002 of the Atomic Energy Defense Act ([50 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2501&num=0&edition=prelim))”, was executed by making the substitution in par. (14), to reflect the probable intent of Congress, in view of the redesignation of par. (13) as (14) by Pub. L. 119–60, § 1631(3)(A). See note below.
+
+Pub. L. 119–60, § 1631(3)(I), substituted “Overseeing” for “Coordinating” and inserted “systems and” after “delivery”.
+
+Pub. L. 119–60, § 1631(3)(A), designated par. (13) as (14).
+
+Subsec. (f)(1). Pub. L. 119–60, § 1631(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Council shall annually review the plans and budget of the National Nuclear Security Administration and assess whether such plans and budget meet the current and projected requirements relating to nuclear weapons.”
+
+Subsec. (f)(2)(A), (B)(i), (ii). Pub. L. 119–60, § 3111(c)(1)(A)(ii)(I), substituted “section 6289” for “section 4717 of the Atomic Energy Defense Act ([50 U.S.C. 2757](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2757&num=0&edition=prelim))”.
+
+Subsec. (f)(3)(C). Pub. L. 119–60, § 3111(c)(1)(A)(ii)(II), substituted “section 6218” for “section 4219(a) of the Atomic Energy Defense Act ([50 U.S.C. 2538a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2538a/a&num=0&edition=prelim))”.
+
+2024—Subsec. (c)(2), (3)(A). Pub. L. 118–159 substituted “Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs” for “Nuclear, Chemical, and Biological Defense Programs”.
+
 2022—Subsec. (d)(9). Pub. L. 117–263, § 1633(a)(1), inserted “, in coordination with the Joint Requirements Oversight Council,” after “capabilities, and”.
 
 Subsec. (d)(10) to (12). Pub. L. 117–263, § 1633(a)(2), (3), added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
@@ -1004,29 +1057,39 @@ Pub. L. 99–661, div. C, title I, § 3137(b), Nov. 14, 1986, 100 Stat. 4066, pr
 
 **(b) Mission.—** In addition to other matters assigned to it by the President or Secretary of Defense, the Joint Requirements Oversight Council shall assist the Chairman of the Joint Chiefs of Staff in—
 
-(1) assessing joint military capabilities, and identifying, approving, and prioritizing gaps in such capabilities, to meet applicable requirements in the national defense strategy under [section 113(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim);
+(1) evaluating global trends, emerging threats, and adversary capabilities to inform understanding of joint operational problems and to shape joint force design;
 
-(2) increasing awareness of global trends, threats, and adversary capabilities to address gaps in joint military capabilities and validate joint requirements developed by the military departments;
+(2) coordinating with commanders of combatant commands to compile, refine, and prioritize joint operational problems;
 
-(3) reviewing and validating whether a capability proposed by an armed force, Defense Agency, or other entity of the Department of Defense fulfills a gap in joint military capabilities;
+(3) continuously reviewing and assessing joint military capabilities of elements of the Department of Defense listed in [section 111(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111/b&num=0&edition=prelim) in a manner that meets applicable requirements in the national defense strategy under [section 113(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim);
 
-(4) establishing and approving joint performance requirements that—
+(4) identifying and prioritizing gaps and opportunities in joint military capabilities, including making recommendations for changes to address such capability and capacity gaps;
 
-  (A) ensure interoperability, where appropriate, between and among joint military capabilities; and
+(5) identifying advances in technology, innovative commercial solutions, and concepts of operation that could improve the military advantage of the joint force;
 
-  (B) are necessary, as designated by the Chairman of the Joint Chiefs of Staff, to fulfill capability gaps of more than one armed force, Defense Agency, or other entity of the Department;
+(6) recommending joint capability requirements that—
 
-(5) reviewing performance requirements for any existing or proposed capability that the Chairman of the Joint Chiefs of Staff determines should be reviewed by the Council;
+  (A) describe the joint operational problem to provide necessary context for the joint capability requirement;
 
-(6) identifying new joint military capabilities based on advances in technology and concepts of operation; and
+  (B) proposes nonprescriptive solutions to joint operational problems; and
 
-(7) identifying alternatives to any acquisition program that meets approved joint military capability requirements for the purposes of sections 4251(b), 4252(a)(4), and 4375(b) of this title.
+  (C) ensures system interoperability, where appropriate, between and among joint military capabilities;
+
+(7) designing the joint force in a manner that—
+
+  (A) addresses joint operational problems; and
+
+  (B) evaluates force design initiatives of the Armed Forces to recommend acceptance, mitigation, or alternative force designs for the joint force;
+
+(8) maintaining a repository of joint operational problems and identification of capabilities to address those problems; and
+
+(9) evaluating effect of joint military capability requirements for the purposes of [section 4376(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4376/a&num=0&edition=prelim).
 
 **(c) Composition.—**
 
 (1) **In general.—** — The Joint Requirements Oversight Council is composed of the following:
 
-  (A) The Vice Chairman of the Joint Chiefs of Staff, who is the Chair of the Council and is the principal adviser to the Chairman of the Joint Chiefs of Staff for making recommendations about joint military capabilities or joint performance requirements.
+  (A) The Vice Chairman of the Joint Chiefs of Staff, who is the Chair of the Council and is the principal adviser to the Chairman of the Joint Chiefs of Staff for making recommendations about joint military capabilities.
 
   (B) An Army officer in the grade of general.
 
@@ -1036,7 +1099,7 @@ Pub. L. 99–661, div. C, title I, § 3137(b), Nov. 14, 1986, 100 Stat. 4066, pr
 
   (E) A Marine Corps officer in the grade of general.
 
-  (F) A Space Force officer in the grade equivalent to the grade of general in the Army, Air Force, or Marine Corps, or admiral in the Navy.
+  (F) A Space Force officer in the grade of general.
 
 (2) **Selection of members.—** — Members of the Council under subparagraphs (B), (C), (D), and (E) of paragraph (1) shall be selected by the Chairman of the Joint Chiefs of Staff, after consultation with the Secretary of Defense, from officers in the grade of general or admiral, as the case may be, who are recommended for selection by the Secretary of the military department concerned.
 
@@ -1066,31 +1129,63 @@ Pub. L. 99–661, div. C, title I, § 3137(b), Nov. 14, 1986, 100 Stat. 4066, pr
 
   (H) The commander of a combatant command when matters related to the area of responsibility or functions of that command are under consideration by the Council.
 
-(2) **Input from combatant commands.—** — The Council shall seek and consider input from the commanders of the combatant commands in carrying out its mission under paragraphs (1) and (2) of subsection (b).
+(2) **Input from combatant commands.—** — The Council shall seek and strongly consider input from the commanders of the combatant commands in carrying out its mission under subsection (b).
 
-(3) **Input from chiefs of staff.—** — The Council shall seek, and strongly consider, the views of the Chiefs of Staff of the armed forces, in their roles as customers of the acquisition system, on matters pertaining to a capability proposed by an armed force, Defense Agency, or other entity of the Department of Defense under subsection (b)(2) and joint performance requirements pursuant to subsection (b)(3).
+(3) **Input from service chiefs.—** — The Council shall seek and consider the views of the service chiefs in their roles as end users of capabilities delivered by the defense acquisition system on matters pertaining to a capability proposed by an armed force, Defense Agency, or other entity of the Department of Defense.
 
-(4) **Input from vice chief of the national guard bureau.—** — The Council shall seek, and strongly consider, the views of the Vice Chief of the National Guard Bureau regarding non-Federalized National Guard capabilities in support of homeland defense and civil support missions.
+(4) **Input from vice chief of the national guard bureau.—** — The Council shall seek and consider the views of the Vice Chief of the National Guard Bureau regarding non-Federalized National Guard capabilities in support of homeland defense and civil support missions.
 
-**(e) Performance Requirements as Responsibility of Armed Forces.—** The Chief of Staff of an armed force is responsible for all performance requirements for that armed force and, except for performance requirements specified in subsections (b)(4) and (b)(5), such performance requirements do not need to be validated by the Joint Requirements Oversight Council.
+(5) **Input from industry.—** — The Council shall seek views from private entities on commercially available technology to address joint operational problems or gaps in joint military capabilities.
 
-**(f) Analytic Support.—** The Secretary of Defense shall ensure that analytical organizations within the Department of Defense, such as the Office of Cost Assessment and Program Evaluation, provide resources and expertise in operations research, systems analysis, and cost estimation to the Joint Requirements Oversight Council to assist the Council in performing the mission in subsection (b).
+**(e) Responsibility for Capability Requirements.—** Each service chief is responsible for the capability requirements of the armed force of such service chief.
+
+**(f) Analytic and Engineering Support.—** The Secretary of Defense shall ensure that analytical organizations within the Department of Defense, such as the Office of Cost Assessment and Program Evaluation and mission engineering activities, provide resources and expertise to the Joint Requirements Oversight Council to assist the Council in performing the mission in subsection (b).
 
 **(g) Availability of Oversight Information to Congressional Defense Committees.—** The Secretary of Defense shall ensure that, in the case of a recommendation by the Chairman of the Joint Chiefs of Staff to the Secretary that is approved by the Secretary, oversight information with respect to such recommendation that is produced as a result of the activities of the Joint Requirements Oversight Council is made available in a timely fashion to the congressional defense committees.
 
 **(h) Definitions.—** In this section:
 
-(1) The term “joint military capabilities” means the collective capabilities across the joint force, including both joint and force-specific capabilities, that are available to conduct military operations.
+(1) The term “joint capability requirement” means a capability that is critical or essential to address a joint operational problem.
 
-(2) The term “performance requirement” means a performance attribute of a particular system considered critical or essential to the development of an effective military capability.
+(2) The term “joint military capabilities” means the collective capabilities across the joint force, including both joint and force-specific capabilities, that are available to conduct military operations.
 
-(3) The term “joint performance requirement” means a performance requirement that is critical or essential to ensure interoperability or fulfill a capability gap of more than one armed force, Defense Agency, or other entity of the Department of Defense, or impacts the joint force in other ways such as logistics.
+(3) The term “joint operational problem”—
+
+  (A) means a challenge across the joint force in achieving an assigned military objective based on current doctrine, emerging threats or future concepts; and
+
+  (B) may include limitations in capabilities, capacity, resources, or the ability to effectively and efficiently coordinate across the joint force, with another combatant command, or among joint military capabilities.
 
 (4) The term “oversight information” means information and materials comprising analysis and justification that are prepared to support a recommendation that is made to, and approved by, the Secretary of Defense.
+
+(5) The term “service chief” has the meaning given in [section 3101 of this title](./chapter-205-defense-acquisition-system.md#section-3101).
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–60, § 1811(a), which directed amendment of subsec. (b) “by amending paragraphs (1) through (7)”, was executed by generally amending pars. (1) to (7) and adding pars. (8) and (9), to reflect the probable intent of Congress. Prior to amendment, pars. (1) to (7) listed tasks in which the Joint Requirements Oversight Council was to assist the Chairman of the Joint Chiefs of Staff.
+
+Subsec. (c)(1)(A). Pub. L. 119–60, § 1811(b), struck out “or joint performance requirements” before period at end.
+
+Subsec. (d)(2). Pub. L. 119–60, § 1811(c)(1), inserted “strongly” before “consider” and struck out “paragraphs (1) and (2)” before “of subsection (b)”.
+
+Subsec. (d)(3). Pub. L. 119–60, § 1811(c)(2), substituted “Input from service chiefs” for “Input from chiefs of staff” in heading and “and consider the views of the service chiefs in their roles as end users of capabilities delivered by the defense acquisition system” for “, and strongly consider, the views of the Chiefs of Staff of the armed forces, in their roles as customers of the acquisition system,” in text, and struck out “under subsection (b)(2) and joint performance requirements pursuant to subsection (b)(3)” before period at end.
+
+Subsec. (d)(4). Pub. L. 119–60, § 1811(c)(3), substituted “and consider” for “, and strongly consider,”.
+
+Subsec. (d)(5). Pub. L. 119–60, § 1811(c)(4), added par. (5).
+
+Subsec. (e). Pub. L. 119–60, § 1811(d), amended subsec. (e) generally. Prior to amendment, text of subsec. (e) read as follows: “The Chief of Staff of an armed force is responsible for all performance requirements for that armed force and, except for performance requirements specified in subsections (b)(4) and (b)(5), such performance requirements do not need to be validated by the Joint Requirements Oversight Council.”
+
+Subsec. (f). Pub. L. 119–60, § 1811(e), inserted “and Engineering” after “Analytic” in heading and “and mission engineering activities” after “Office of Cost Assessment and Program Evaluation” in text, and struck out “in operations research, systems analysis, and cost estimation” after “resources and expertise”.
+
+Subsec. (h). Pub. L. 119–60, § 1811(f), added par. (1), redesignated former par. (1) as (2), added pars. (1), (3), and (5), and struck out former pars. (2) and (3) which read as follows:
+
+“(2) The term ‘performance requirement’ means a performance attribute of a particular system considered critical or essential to the development of an effective military capability.
+
+“(3) The term ‘joint performance requirement’ means a performance requirement that is critical or essential to ensure interoperability or fulfill a capability gap of more than one armed force, Defense Agency, or other entity of the Department of Defense, or impacts the joint force in other ways such as logistics.”
+
+2024—Subsec. (c)(1)(F). Pub. L. 118–159 substituted “in the grade of general” for “in the grade equivalent to the grade of general in the Army, Air Force, or Marine Corps, or admiral in the Navy”.
+
 2021—Subsec. (b)(2) to (5). Pub. L. 117–81, § 903(a)(1), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively. Former par. (5) redesignated (6).
 
 Subsec. (b)(6). Pub. L. 117–81, § 903(a)(1)(A), redesignated par. (5) as (6). Former par. (6) redesignated (7).
@@ -1182,19 +1277,21 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 Pub. L. 104–106, div. A, title IX, § 905(b), Feb. 10, 1996, 110 Stat. 404, provided that: “The amendments made by this section [enacting this section] shall take effect on January 31, 1997.”
 
 #### Input From Commanders of Combatant Commands
-Pub. L. 111–23, title I, § 105(b), May 22, 2009, 123 Stat. 1718, provided that: “The Joint Requirements Oversight Council in the Department of Defense shall seek and consider input from the commanders of combatant commands, in accordance with [section 181(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section181/d&num=0&edition=prelim), United States Code (as amended by subsection (a)). Such input may include, but is not limited to, an assessment of the following: “(1) Any current or projected missions or threats in the theater of operations of the commander of a combatant command that would inform the assessment of a new joint military requirement. “(2) The necessity and sufficiency of a proposed joint military requirement in terms of current and projected missions or threats. “(3) The relative priority of a proposed joint military requirement in comparison with other joint military requirements within the theater of operations of the commander of a combatant command. “(4) The ability of partner nations in the theater of operations of the commander of a combatant command to assist in meeting the joint military requirement or the benefit, if any, of a partner nation assisting in development or use of technologies developed to meet the joint military requirement.”
+Pub. L. 111–23, title I, § 105(b), May 22, 2009, 123 Stat. 1718, which provided that the Joint Requirements Oversight Council in the Department of Defense was to seek and consider input from the commanders of combatant commands, in accordance with [section 181(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section181/d&num=0&edition=prelim), was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(3), Dec. 18, 2025, 139 Stat. 1244.
 
 #### Review of Joint Military Requirements
-Pub. L. 111–23, title II, § 201(c), May 22, 2009, 123 Stat. 1720, provided that: “The Secretary of Defense shall ensure that each new joint military requirement recommended by the Joint Requirements Oversight Council is reviewed to ensure that the Joint Requirements Oversight Council has, in making such recommendation— “(1) taken appropriate action to seek and consider input from the commanders of the combatant commands, in accordance with the requirements of [section 181(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section181/d&num=0&edition=prelim), United States Code (as amended by section 105(a) of this Act); “(2) engaged in consideration of trade-offs among cost, schedule, and performance objectives in accordance with the requirements of [section 181(b)(1)(C) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section181/b/1/C&num=0&edition=prelim), United States Code (as added by subsection (b)); and “(3) engaged in consideration of issues of joint portfolio management, including alternative material and non-material solutions, as provided in Department of Defense instructions for the development of joint military requirements.”
+Pub. L. 111–23, title II, § 201(c), May 22, 2009, 123 Stat. 1720, which provided that the Secretary of Defense was to ensure that each new joint military requirement recommended by the Joint Requirements Oversight Council was reviewed, was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(4), Dec. 18, 2025, 139 Stat. 1244.
 
 #### Study Guidance for Analyses of Alternatives
+Pub. L. 111–23, title II, § 201(d), May 22, 2009, 123 Stat. 1720, which related to study guidance for analyses of alternatives for each joint military requirement for which the Chairman of the Joint Requirements Oversight Council was the validation authority, was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(4), Dec. 18, 2025, 139 Stat. 1244.
+
 Pub. L. 111–23, title II, § 201(d), May 22, 2009, 123 Stat. 1720, provided that: “The Director of Cost Assessment and Program Evaluation shall take the lead in the development of study guidance for an analysis of alternatives for each joint military requirement for which the Chairman of the Joint Requirements Oversight Council is the validation authority. In developing the guidance, the Director shall solicit the advice of appropriate officials within the Department of Defense and ensure that the guidance requires, at a minimum— “(1) full consideration of possible trade-offs among cost, schedule, and performance objectives for each alternative considered; and “(2) an assessment of whether or not the joint military requirement can be met in a manner that is consistent with the cost and schedule objectives recommended by the Joint Requirements Oversight Council.”
 
 #### Deadlines for Inclusion of Core Mission References in Documents
-Pub. L. 110–181, div. A, title IX, § 942(f), Jan. 28, 2008, 122 Stat. 288, provided that: “Effective June 1, 2009, all joint military requirements documents of the Joint Requirements Oversight Council produced to carry out its mission under [section 181(b)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section181/b/1&num=0&edition=prelim), United States Code, shall reference the core mission areas organized and defined under [former] section 118b of such title. Not later than October 1, 2009, all such documents produced before June 1, 2009, shall reference such structure.”
+Pub. L. 110–181, div. A, title IX, § 942(f), Jan. 28, 2008, 122 Stat. 288, which provided that, effective June 1, 2009, all joint military requirements documents of the Joint Requirements Oversight Council produced to carry out its mission under [section 181(b)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section181/b/1&num=0&edition=prelim)were to reference the core mission areas organized and defined under former [section 118b of title 10](./chapter-002-department-of-defense.md#section-118b), was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(2), Dec. 18, 2025, 139 Stat. 1244.
 
 #### Reports on Joint Requirements Oversight Council Reform Initiative
-Pub. L. 106–398, § 1 [[div. A], title IX, § 916], Oct. 30, 2000, 114 Stat. 1654, 1654A–231, as amended by Pub. L. 107–107, div. A, title IX, § 923, Dec. 28, 2001, 115 Stat. 1199, directed the Chairman of the Joints Chiefs of Staff to submit reports to committees of Congress not later than Mar. 1, 2001, Sept. 1, 2001, Mar. 1, 2002, and Mar. 1, 2003, on the progress made on the initiative of the Chairman to reform and refocus the Joint Requirements Oversight Council.
+Pub. L. 106–398, § 1 [[div. A], title IX, § 916], Oct. 30, 2000, 114 Stat. 1654, 1654A–231, as amended by Pub. L. 107–107, div. A, title IX, § 923, Dec. 28, 2001, 115 Stat. 1199, which directed the Chairman of the Joints Chiefs of Staff to submit reports to committees of Congress not later than Mar. 1, 2001, Sept. 1, 2001, Mar. 1, 2002, and Mar. 1, 2003, on the progress made on the initiative of the Chairman to reform and refocus the Joint Requirements Oversight Council, was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(1), Dec. 18, 2025, 139 Stat. 1244.
 
 
 <a id="section-182"></a>
@@ -1459,7 +1556,7 @@ Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277,
 
     (i) is constructed or used to transmit radio energy or that is constructed or used for the primary purpose of supporting antennas to transmit or receive radio energy (or both), and any antennas and other appurtenances mounted on the structure, from the time construction of the supporting structure begins until such time as the supporting structure is dismantled; and
 
-    (ii) for which notification is required to be made to the Federal Aviation Administration pursuant to processes already established under this title; and
+    (ii) for which notification is required to be made to the Federal Aviation Administration pursuant to processes already established by law; and
 
   (B) does not include—
 
@@ -1467,7 +1564,7 @@ Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277,
 
     (ii) any project in support of or required by an intercontinental ballistic missile launch facility or control center, or any other such project that has been approved by the Secretary of Defense or the Secretary of Defense’s designee for use on the same military installation at which such facility or control center is located.
 
-(3) The term “intercontinental ballistic missile launch facility or control center” means such facilities or control centers located at the Francis E. Warren Air Force Base; 11 So in original. The semicolon probably should be a comma. the Malmstrom Air Force Base, and the Minot Air Force Base, and their respective missile fields.
+(3) The term “intercontinental ballistic missile launch facility or control center” means such facilities or control centers located at the Francis E. Warren Air Force Base, the Malmstrom Air Force Base, and the Minot Air Force Base, and their respective missile fields.
 
 (4) The term “energy project” means a project that provides for the generation or transmission of electrical energy.
 
@@ -1497,6 +1594,10 @@ Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277,
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsecs. (e)(1)(B)(ii) and (h)(2)(B)(i), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
 
 #### Amendments
+2025—Subsec. (h)(3). Pub. L. 119–60 substituted comma for semicolon after “Francis E. Warren Air Force Base”.
+
+2024—Subsec. (h)(2)(A)(ii). Pub. L. 118–159 substituted “by law” for “under this title”.
+
 2023—Pub. L. 118–31, § 362(b)(1), inserted “or antenna structure projects” after “energy projects” wherever appearing and inserted “or antenna structure project” after “energy project” wherever appearing except in subsecs. (e)(1) and (h)(2).
 
 Subsec. (c)(3). Pub. L. 118–31, § 361, inserted “The Clearinghouse shall ensure that a governor has at least 30 days after the date on which the governor receives the notice of presumed risk to provide any such comments and shall provide detailed information and other information necessary to ensure that the governor can fully understand the nature of the presumed risk.” after “to the application.”
@@ -1700,17 +1801,33 @@ Pub. L. 117–263, div. A, title X, § 1082(b), Dec. 23, 2022, 136 Stat. 2799, p
 
 **(k) Reports.—**
 
-(1) The Chair of the Council shall submit to the congressional defense committees semi-annual reports on the activities of the Council.
+(1) The Chairperson of the Council shall submit to the congressional defense committees biannual reports on the activities of the Council.
 
-(2) Not later than March 31, 2023, and not later than December 31 of each year thereafter, the Deputy Secretary of Defense shall submit to the congressional defense committees a report containing—
+(2) Not later than December 31 of each year, the Deputy Secretary of Defense shall submit to the congressional defense committees an annual report containing—
 
-  (A) a summary of the goals and priorities of the Deputy Secretary for the year following the date of the submission of the report with respect to the activities of the Council; and
+  (A) a summary of the goals and priorities of the Deputy Secretary for the year following the date of the submission of the report with respect to the activities of the Council;
 
-  (B) an assessment by the Deputy Secretary of the activities of the Council carried out during the year preceding the date of such submission.
+  (B) an assessment by the Deputy Secretary of the activities of the Council carried out during the year preceding the date of such submission; and
+
+  (C) for the year covered by the report—
+
+    (i) releasable information regarding any mishap that occurred during such year; and
+
+    (ii) an identification of any corrective or preventative action implemented pursuant to a recommendation made in a safety or legal investigation report of such a mishap.
+
+**(l) Biannual Briefings.—** Not later than March 31 and December 31 of each year, the Chairperson of the Council shall provide to the congressional defense committees a briefing on the contents of the report required to be submitted under subsection (k)(1) that covers the six-month period preceding the date of the briefing.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (k)(1). Pub. L. 118–159, § 331(1)(A), substituted “Chairperson” for “Chair” and “biannual” for “semi-annual”.
+
+Subsec. (k)(2). Pub. L. 118–159, § 331(1)(B)(i), in introductory provisions, struck out “March 31, 2023, and not later than” before “December 31” and “thereafter” after “each year” and substituted “an annual report” for “a report”.
+
+Subsec. (k)(2)(C). Pub. L. 118–159, § 331(1)(B)(ii)–(iv), added subpar. (C).
+
+Subsec. (l). Pub. L. 118–159, § 331(2), added subsec. (l).
+
 2023—Pub. L. 118–31, § 363(1), renumbered [section 184 of this title](./chapter-007-boards-councils-and-committees.md#section-184) relating to Joint Safety Council as this section.
 
 Subsec. (d)(7) to (12). Pub. L. 118–31, § 363(2), added pars. (7), (11), and (12), redesignated former pars. (7) to (9) as (8) to (10), respectively, and substituted “the safety management system and program described in paragraphs (5) and (6), respectively” for “the safety management systems described in paragraphs (9) and (10)” in par. (8) as so redesignated.
@@ -1718,6 +1835,9 @@ Subsec. (d)(7) to (12). Pub. L. 118–31, § 363(2), added pars. (7), (11), and 
 2022—Subsec. (b)(1)(D), (E). Pub. L. 117–263, § 383, added subpar. (D) and redesignated former subpar. (D) as (E).
 
 Subsec. (k). Pub. L. 117–263, § 381, substituted “Reports” for “Report” in heading, designated existing provisions as par. (1), and added par. (2).
+
+#### Establishment of Major Mishap Incident Designation Classification for Department of Defense Incidents
+Pub. L. 118–159, div. A, title X, § 1054, Dec. 23, 2024, 138 Stat. 2061, provided that: “(a) Establishment.—The Secretary of Defense shall establish a new mishap designation classification for the most serious incidents, to be known as ‘major mishap incidents’, to describe any incident that—“(1) results in not less than $500,000,000 in damage or loss; and “(2) is of such complexity or sensitivity, or would have such an effect on the national security of the United States, as to warrant designation by the Secretary of Defense as a major mishap incident pursuant to regulations prescribed by the Secretary and that include the consideration of—“(A) the number of members of the Armed Forces who were killed due to the incident; “(B) the geographic dispersion of the incident; “(C) the grade of individuals involved; “(D) the number of Armed Forces and Government entities involved; “(E) the effect of the incident on the local civilian population; “(F) the effect of the incident on any foreign government or foreign personnel; “(G) the anticipated complexity or difficulty of the investigation of the incident; “(H) the effect of the incident on the capability of any major operational command or component to continue to function effectively; and “(I) such other matters as the Secretary determines appropriate. “(b) Investigations.—“(1) Grade of investigating officer.—The convening authority for any investigation of a major mishap incident shall appoint an investigating officer from among officers who hold a rank not lower than Major General in the Army, Air Force, or Marine Corps or Rear Admiral in the Navy to investigate all major mishap incidents—“(A) including any related administrative, disciplinary, or legal investigations; and “(B) excluding any criminal investigations conducted by a military criminal investigative organization. “(2) Timeline for investigations.—The Secretary of Defense shall amend Department of Defense Instruction 6055.07 to set the goal that a full investigation of each major mishap incident be completed, to the extent practicable, not later than one year after the date on which the investigation is initiated. “(3) Briefing requirement.—In the case of any investigation of a major mishap incident that is not completed within the timeline provided under paragraph (2), the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and House of Representatives a briefing every 90 days until the date of the completion of the investigation. Each such briefing shall include—“(A) an explanation for why the investigation has not been completed; and “(B) the projected date of the completion of the investigation. “(c) Accountability Actions.—If an investigation into a major mishap incident includes a recommendation to hold an individual accountable, the separation authority or convening authority, as appropriate, shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the status of the proceeding for the accountability action every 120 days beginning on the date of the completion of the investigation of the incident and ending on the date on which the proceeding is complete. “(d) Briefing Requirement.—Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall provide to the Committees on Armed Services for the Senate and House of Representatives a briefing on—“(1) the status of the implementation of the establishment of a major mishap incident designation, as required under subsection (a); “(2) any updates to statutes or Department of Defense Instructions that are needed to implement this section; and “(3) the projected timeline for the implementation of this section. “(e) Deadline for Implementation.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall finalize the implementation of this section, including by updating any Department of Defense guidance and policy as necessary to carry out the requirements of this section.”
 
 #### Deadlines
 Pub. L. 117–81, div. A, title III, § 372(c), Dec. 27, 2021, 135 Stat. 1666, provided that: “(1) Establishment.—The Secretary of Defense shall ensure the establishment of the Joint Safety Council under [section 184 of title 10](./chapter-007-boards-councils-and-committees.md#section-184), United States Code (as added by subsection (a)) [now [10 U.S.C. 185](./chapter-007-boards-councils-and-committees.md#section-185)], by not later than the date that is 120 days after the date of the enactment of this Act [Dec. 27, 2021]. “(2) Appointment of first members.—The initial members of the Joint Safety Council established under such section 184 [now [10 U.S.C. 185](./chapter-007-boards-councils-and-committees.md#section-185)] shall be appointed by not later than the date that is 120 days after the date of the enactment of this Act. “(3) Directors of safety.—Not later than 30 days after the date of the enactment of this Act, the Secretary of each military department shall ensure there is appointed as the Director of Safety for the military department concerned an officer of that military department in pay grade O–8 or above.”

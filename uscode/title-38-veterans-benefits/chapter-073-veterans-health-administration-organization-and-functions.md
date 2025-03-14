@@ -168,9 +168,7 @@ Pub. L. 115–182, title IV, § 403, June 6, 2018, 132 Stat. 1472, as amended by
 “(d) Duration.—The pilot program under this section shall terminate on August 7, 2031.”
 
 #### Ten-year Increase
-Pub. L. 113–146, title III, § 301(b)(2), Aug. 7, 2014, 128 Stat. 1785, as amended by Pub. L. 114–315, title VI, § 617(a), Dec. 16, 2016, 130 Stat. 1577, provided that: “(A) In general.—In carrying out [section 7302(e) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7302/e&num=0&edition=prelim), United States Code, as added by paragraph (1), during the 10-year period beginning on the day that is 1 year after the date of the enactment of this Act [Aug. 7, 2014], the Secretary of Veterans Affairs shall increase the number of graduate medical education residency positions at medical facilities of the Department by up to 1,500 positions. “(B) Priority.—In increasing the number of graduate medical education residency positions at medical facilities of the Department under subparagraph (A), the Secretary shall give priority to medical facilities that—“(i) as of the date of the enactment of this Act, do not have a medical residency program; and “(ii) are located in a community that has a high concentration of veterans.”
-
-[For definition of “facility of the Department” as used in section 301(b)(2) of Pub. L. 113–146, set out above, see section 2 of Pub. L. 113–146, set out as a note under [section 1701 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1701).]
+Pub. L. 113–146, title III, § 301(b)(2), Aug. 7, 2014, 128 Stat. 1785, as amended by Pub. L. 114–315, title VI, § 617(a), Dec. 16, 2016, 130 Stat. 1577, provided for an increase in the number of graduate medical education residency positions at medical facilities of the Department of Veterans Affairs during the 10-year period beginning on Aug. 7, 2015.
 
 
 <a id="section-7303"></a>
@@ -324,17 +322,9 @@ The Veterans Health Administration shall include the following:
 
 (12) Such other personnel as may be authorized by this chapter.
 
-**(b)** Of the Assistant Under Secretaries for Health appointed under subsection (a)(3)—
+**(b)** Appointments under subsection (a) shall be made by the Secretary. In the case of appointments under paragraphs (1), (2), (3), (4), (8), and (10) of that subsection, such appointments shall be made upon the recommendation of the Under Secretary for Health.
 
-(1) not more than two may be persons qualified in the administration of health services who are not doctors of medicine, podiatric medicine, dental surgery, or dental medicines;
-
-(2) one shall be a qualified doctor of dental surgery or dental medicine who shall be directly responsible to the Under Secretary for Health for the operation of the Dental Service; and
-
-(3) one shall be a qualified physician trained in, or having suitable extensive experience in, geriatrics who shall be responsible to the Under Secretary for Health for evaluating all research, educational, and clinical health-care programs carried out in the Administration in the field of geriatrics and who shall serve as the principal advisor to the Under Secretary for Health with respect to such programs.
-
-**(c)** Appointments under subsection (a) shall be made by the Secretary. In the case of appointments under paragraphs (1), (2), (3), (4), (8), and (10) of that subsection, such appointments shall be made upon the recommendation of the Under Secretary for Health.
-
-**(d)** Except as provided in subsection (e)—
+**(c)** Except as provided in subsection (d)—
 
 (1) any appointment under this section shall be for a period of four years, with reappointment permissible for successive like periods,
 
@@ -342,13 +332,13 @@ The Veterans Health Administration shall include the following:
 
 (3) any person so appointed or reappointed or whose appointment or reappointment is extended shall be subject to removal by the Secretary for cause.
 
-**(e)**
+**(d)**
 
 (1) The Secretary may designate a member of the Chaplain Service of the Department as Director, Chaplain Service, for a period of two years, subject to removal by the Secretary for cause. Redesignation under this subsection may be made for successive like periods or for any period not exceeding two years.
 
 (2) A person designated as Director, Chaplain Service, shall at the end of such person’s period of service as Director revert to the position, grade, and status which such person held immediately before being designated Director, Chaplain Service, and all service as Director, Chaplain Service, shall be creditable as service in the former position.
 
-**(f)** In organizing the Office and appointing persons to positions in the Office, the Under Secretary shall ensure that—
+**(e)** In organizing the Office and appointing persons to positions in the Office, the Under Secretary shall ensure that—
 
 (1) the Office is staffed so as to provide the Under Secretary, through a designated clinician in the appropriate discipline in each instance, with expertise and direct policy guidance on—
 
@@ -358,11 +348,13 @@ The Veterans Health Administration shall include the following:
 
 (2) with respect to the programs established under [section 1712A of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1712a), a clinician with appropriate expertise in those programs is responsible to the Under Secretary for the management of those programs.
 
-**(g)** For purposes of applying any provision of chapter 74 of this title, including sections 7404, 7410, and 7421, or any other provision of law, the Secretary may treat any appointment for a position under this chapter to be an appointment under this section.
+**(f)** For purposes of applying any provision of chapter 74 of this title, including sections 7404, 7410, and 7421, or any other provision of law, the Secretary may treat any appointment for a position under this chapter to be an appointment under this section.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Pub. L. 118–210 redesignated subsecs. (c) to (g) as (b) to (f), respectively, substituted “subsection (d)” for “subsection (e)” in introductory provisions of subsec. (c), and struck out former subsec. (b) which related to the Assistant Under Secretaries for Health appointed under subsec. (a)(3).
+
 2022—Subsec. (a)(6). Pub. L. 117–96, § 1(a)(1)(A), struck out “a Director of Podiatric Service,” after “a Director of Dietetic Service,”.
 
 Subsec. (a)(10), (11). Pub. L. 117–96, § 1(a)(1)(B), (C), added par. (10) and redesignated former par. (10), relating to Chief Officer of Women’s Health, as (11). Another par. (11), relating to such other personnel as may be authorized by this chapter, subsequently redesignated (12).

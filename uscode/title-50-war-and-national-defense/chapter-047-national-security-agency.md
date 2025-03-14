@@ -46,6 +46,9 @@ A prior section 2 of Pub. L. 86–36, May 29, 1959, 73 Stat. 63; Pub. L. 87–36
 #### Effective Date of 2014 Amendment
 Pub. L. 113–126, title IV, § 403, July 7, 2014, 128 Stat. 1408, as amended by Pub. L. 117–286, § 4(b)(11), Dec. 27, 2022, 136 Stat. 4344, provided that: “(a) In General.—Except as otherwise specifically provided, the amendments made by sections 401 [amending this section] and 402 [amending sections 8G and 12 of Pub. L. 95–452, formerly set out in the Appendix to Title 5, Government Organization and Employees] shall take effect on October 1, 2014, and shall apply upon the earlier of—“(1) in the case of section 401—“(A) the date of the first nomination by the President of an individual to serve as the Director of the National Security Agency that occurs on or after October 1, 2014; or “(B) the date of the cessation of the performance of the duties of the Director of the National Security Agency by the individual performing such duties on October 1, 2014; and “(2) in the case of section 402—“(A) the date of the first nomination by the President of an individual to serve as the Inspector General of the National Security Agency that occurs on or after October 1, 2014; or “(B) the date of the cessation of the performance of the duties of the Inspector General of the National Security Agency by the individual performing such duties on October 1, 2014. “(b) Exception for Initial Nominations.—Notwithstanding paragraph (1)(A) or (2)(A) of subsection (a), an individual serving as the Director of the National Security Agency or the Inspector General of the National Security Agency on the date that the President first nominates an individual for such position on or after October 1, 2014, may continue to perform in that position after such date of nomination and until the individual appointed to the position, by and with the advice and consent of the Senate, assumes the duties of the position. “(c) Incumbent Inspector General.—The individual serving as Inspector General of the National Security Agency on the date of the enactment of this Act [July 7, 2014] shall be eligible to be appointed by the President to a new term of service under [section 403 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section403&num=0&edition=prelim), United States Code, by and with the advice and consent of the Senate.”
 
+#### Establishment of Artificial Intelligence Security Center
+Pub. L. 118–159, div. F, title LXV, § 6504, Dec. 23, 2024, 138 Stat. 2495, as amended by Pub. L. 119–60, div. F, title LXVI, § 6601, Dec. 18, 2025, 139 Stat. 1633, provided that: “(a) Definition of Counter-artificial Intelligence.—In this section, the term ‘counter-artificial intelligence’ means techniques or procedures to extract information about the behavior or characteristics of an artificial intelligence system, or to learn how to manipulate an artificial intelligence system, in order to subvert the confidentiality, integrity, or availability of an artificial intelligence system or adjacent system. “(b) Establishment.—Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2024], the Director of the National Security Agency shall establish an Artificial Intelligence Security Center (referred to in this section as the ‘Center’) within the Cybersecurity Collaboration Center of the National Security Agency. “(c) Functions.—The functions of the Artificial Intelligence Security Center shall be as follows:“(1) Developing guidance to prevent or mitigate counter-artificial intelligence techniques. “(2) Promoting secure artificial intelligence adoption practices for managers of national security systems (as defined in [section 3552 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552&num=0&edition=prelim), United States Code) and elements of the defense industrial base. “(3) In accordance with subsection (d), developing security guidance to defend artificial intelligence technologies from technology theft by nation-state adversaries. “(4) Such other functions as the Director considers appropriate. “(d) Artificial Intelligence Security Guidance.—“(1) Elements.—In developing the guidance pursuant to subsection (c)(3), the Director of the National Security Agency shall—“(A) identify vulnerabilities in advanced artificial intelligence technologies, with a focus on cybersecurity risks and security challenges unique to protecting such technologies from theft or sabotage by nation-state adversaries; “(B) identify elements of the artificial intelligence supply chain or development or product lifecycle that, if accessed by nation-state adversaries, would contribute to progress made by nation-state adversaries on advanced artificial intelligence or would provide opportunities to adversaries to compromise the confidentiality, integrity, or availability of artificial intelligence systems or associated supply chains; and “(C) identify strategies for artificial intelligence technologies to identify, protect, detect, respond, and recover from nation-state adversary cyber threats. “(2) External collaboration.—In developing the guidance pursuant to subsection (c)(3), the Director of the National Security Agency may collaborate, on a voluntary basis, with other departments and agencies of the United States Government, research entities, and private sector entities, as determined appropriate by the Director, on artificial intelligence model safety and security, including through the provision of any computing resources the Director determines appropriate. “(3) Security guidance form.—The Director of the National Security Agency shall publish, and may update from time to time, the security guidance developed under subsection (c)(3) to share with departments and agencies of the United States Government, research entities, and private sector entities, as determined appropriate by the Director, at unclassified or classified levels. “(e) Disestablishment.—The Director of the National Security Agency may disestablish the Center established in subsection (b) not earlier than 3 years after the date of the enactment of this Act provided that the Director of the National Security Agency submits to the congressional intelligence committees [Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives] a report documenting the rationale for disestablishment of the Center, including resource trades, effectiveness, priority, and any other pertinent considerations not later than 6 months prior to the disestablishment.”
+
 #### Position of Importance and Responsibility
 Pub. L. 113–126, title IV, § 401(b), July 7, 2014, 128 Stat. 1408, provided that: “(1) In general.—The President may designate the Director of the National Security Agency as a position of importance and responsibility under [section 601 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section601&num=0&edition=prelim), United States Code. “(2) Effective date.—Paragraph (1) shall take effect on the date of the enactment of this Act [July 7, 2014].”
 
@@ -57,7 +60,6 @@ Pub. L. 113–126, title IV, § 401(b), July 7, 2014, 128 Stat. 1408, provided t
 
 Section, Pub. L. 86–36, § 4, May 29, 1959, 73 Stat. 63; Pub. L. 87–367, title II, § 204, Oct. 4, 1961, 75 Stat. 791; Pub. L. 87–793, § 1001(c), Oct. 11, 1962, 76 Stat. 864; Pub. L. 89–632, § 1(e)(2), Oct. 8, 1966, 80 Stat. 878; Pub. L. 91–187, § 2, Dec. 30, 1969, 83 Stat. 850, authorized establishment of civilian positions in research, development, science, medicine, and cryptology.
 
-#### Codification
 Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) and repealed prior to editorial reclassification as this section.
 
 #### Effective Date of Repeal
@@ -109,7 +111,6 @@ Section effective on the first day of the first pay period which begins later th
 
 Section, Pub. L. 86–36, § 7, May 29, 1959, 73 Stat. 64, related to reduction in number of positions in certain grades authorized by section 1105(b) of former Title 5, Executive Departments and Government Officers and Employees, by the number of positions in such grades allocated to the National Security Agency on effective date of section.
 
-#### Codification
 Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) and repealed prior to editorial reclassification as this section.
 
 
@@ -444,7 +445,7 @@ Section effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as a
 
   (B) The Secretary of Defense may release a person, in whole or in part, from the obligation to reimburse the United States under an agreement described in paragraph (1) when, in his discretion, the Secretary determines that equity or the interests of the United States so require.
 
-  (C) The Secretary of Defense shall permit an 11 So in original. program participant assigned under this section who, prior to commencing a second academic year of such assignment, voluntarily terminates the assignment or the program participant’s employment with the Agency, to satisfy his obligation under an agreement described in paragraph (1) to reimburse the United States by reimbursement according to a schedule of monthly payments which results in completion of reimbursement by a date five years after the date of termination of the assignment or employment or earlier at the option of the program participant.
+  (C) The Secretary of Defense shall permit a program participant assigned under this section who, prior to commencing a second academic year of such assignment, voluntarily terminates the assignment or the program participant’s employment with the Agency, to satisfy his obligation under an agreement described in paragraph (1) to reimburse the United States by reimbursement according to a schedule of monthly payments which results in completion of reimbursement by a date five years after the date of termination of the assignment or employment or earlier at the option of the program participant.
 
 **(e) Recruitment of individuals** Agency efforts to recruit individuals at educational institutions for participation in the undergraduate and graduate training program established by this section shall be made openly and according to the common practices of universities and employers recruiting at such institutions.
 
@@ -460,6 +461,8 @@ Section effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as a
 Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section.
 
 #### Amendments
+2024—Subsec. (d)(3)(C). Pub. L. 118–159 substituted “a program participant” for “an program participant”.
+
 2023—Subsec. (d)(1). Pub. L. 118–31 substituted “program participant must” for “program participant, must”.
 
 2010—Subsec. (a). Pub. L. 111–259, § 312(a)(1), inserted “and graduate” after “undergraduate” and substituted “a baccalaureate or graduate” for “the baccalaureate”.
@@ -496,7 +499,6 @@ Subsec. (h). Pub. L. 111–259, § 312(a)(4), added subsec. (h).
 
 Section, Pub. L. 86–36, § 17, as added Pub. L. 102–88, title V, § 503, Aug. 14, 1991, 105 Stat. 436, related to post-employment assistance for certain National Security Agency employees.
 
-#### Codification
 Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) and repealed prior to editorial reclassification as this section.
 
 Another section 17 of Pub. L. 86–36 was renumbered section 18 and is classified to [section 3616 of this title](./chapter-047-national-security-agency.md#section-3616).
@@ -558,10 +560,21 @@ Section was formerly classified in a note under [section 402 of this title](./ch
 
 <a id="section-3620"></a>
 ## § 3620. Congressional notification of intelligence collection adjustments
-**(a) Notification** Not later than 30 days after the date on which the Director of the National Security Agency determines the occurrence of an intelligence collection adjustment, the Director shall submit to the congressional intelligence committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives a notification of the intelligence collection adjustment.
+**(a) Notification** Not later than 30 days after the date on which the Director of the National Security Agency determines that a covered intelligence collection or sharing adjustment has occurred, the Director shall submit to the congressional intelligence committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives a summary of such adjustment and the cause of such adjustment.
 
 **(b) Definitions** In this section:
 
 (1) **Congressional intelligence committees** — The term “congressional intelligence committees” has the meaning given that term in [section 3003 of this title](./chapter-044-national-security.md#section-3003).
 
-(2) **Intelligence collection adjustment** — The term “intelligence collection adjustment” includes a change by the United States Government to a policy on intelligence collection or the prioritization thereof that results in a significant loss of intelligence.
+(2) **Covered intelligence collection or sharing adjustment** — The term “covered intelligence collection or sharing adjustment” means an action or inaction by the National Security Agency that results in a significant change to—
+
+  (A) the quantity of intelligence collected by the National Security Agency with respect to a foreign country, foreign organization, or senior leader of a foreign country or foreign organization; or
+
+  (B) policies or practices of the National Security Agency with respect to the sharing of intelligence with a foreign country, organization of foreign countries, or organization of countries of which the United States is a member.
+
+### Statutory Notes
+
+#### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 6802(1), substituted “that a covered intelligence collection or sharing adjustment has occurred” for “the occurrence of an intelligence collection adjustment” and “summary of such adjustment and the cause of such adjustment” for “notification of the intelligence collection adjustment”.
+
+Subsec. (b)(2). Pub. L. 119–60, § 6802(2), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘intelligence collection adjustment’ includes a change by the United States Government to a policy on intelligence collection or the prioritization thereof that results in a significant loss of intelligence.”

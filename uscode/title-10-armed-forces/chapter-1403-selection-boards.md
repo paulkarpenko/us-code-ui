@@ -365,6 +365,12 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 (2) In the case of an officer recommended by a selection board for promotion to a grade below brigadier general or rear admiral (lower half), the name of the officer may also be removed from the report of the selection board by the Secretary of Defense or the Deputy Secretary of Defense.
 
+(3) The Secretary of Defense shall notify the congressional defense committees of the removal of the name of an officer from the report of a selection board by the President or the Secretary or Deputy Secretary of Defense under paragraph (1) or paragraph (2), respectively, for any reason other than misconduct—
+
+  (A) not later than 30 days after the name of an officer is removed; and
+
+  (B) prior to submission to the Senate of a promotion list with respect to such report pursuant to [section 12203 of this title](./chapter-1205-appointment-of-reserve-officers.md#section-12203).
+
 **(c) Recommendations for Removal of Selected Officers From Report.—** If the Secretary of a military department or the Secretary of Defense makes a recommendation under this section that the name of an officer be removed from the report of a promotion board and the recommendation is accompanied by information that was not presented to that promotion board, that information shall be made available to that officer. The officer shall then be afforded a reasonable opportunity to submit comments on that information to the officials making the recommendation and the officials reviewing the recommendation. If an eligible officer cannot be given access to such information because of its classification status, the officer shall, to the maximum extent practicable, be provided with an appropriate summary of the information.
 
 ### Statutory Notes
@@ -373,6 +379,8 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 Provisions similar to those in subsecs. (a) and (b) of this section were contained in section 5898(b) and (c) of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
 
 #### Amendments
+2025—Subsec. (b)(3). Pub. L. 119–60 added par. (3).
+
 2006—Subsec. (b). Pub. L. 109–364 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The”, and added par. (2).
 
 #### Effective Date of 2006 Amendment

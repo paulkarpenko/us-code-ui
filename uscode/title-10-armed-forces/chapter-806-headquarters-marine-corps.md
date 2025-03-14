@@ -2,7 +2,7 @@
 title: 10
 chapter: '806'
 heading: 'HEADQUARTERS, MARINE CORPS'
-section_count: 7
+section_count: 8
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -182,11 +182,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 <a id="section-8045"></a>
 ## § 8045. Deputy Commandants
 
-There are in the Headquarters, Marine Corps, not more than seven Deputy Commandants, detailed by the Secretary of the Navy from officers on the active-duty list of the Marine Corps.
+There are in the Headquarters, Marine Corps, not more than eight Deputy Commandants, detailed by the Secretary of the Navy from officers on the active-duty list of the Marine Corps.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Pub. L. 118–159 substituted “not more than eight Deputy Commandants” for “not more than seven Deputy Commandants”.
+
 2018—Pub. L. 115–232 renumbered [section 5045 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5045&num=0&edition=prelim) as this section.
 
 2016—Pub. L. 114–328 substituted “seven” for “six”.
@@ -274,3 +276,10 @@ There is in the Marine Corps a Legislative Assistant to the Commandant.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
+<a id="section-8048"></a>
+## § 8048. Medical Officer of the Marine Corps
+**(a)** There is a Medical Officer of the Marine Corps who shall be appointed from among flag officers of the Navy.
+
+**(b)** The Medical Officer of the Marine Corps, while so serving, shall hold the grade of rear admiral (lower half).

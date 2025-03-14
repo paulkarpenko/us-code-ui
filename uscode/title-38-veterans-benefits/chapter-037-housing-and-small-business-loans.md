@@ -2,7 +2,7 @@
 title: 38
 chapter: '37'
 heading: HOUSING AND SMALL BUSINESS LOANS
-section_count: 49
+section_count: 51
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -2180,7 +2180,7 @@ Section 1819 was renumbered [section 1812 of this title](./chapter-018-benefits-
 
 <a id="section-3720"></a>
 ## § 3720. Powers of Secretary
-**(a)** Notwithstanding the provisions of any other law, with respect to matters arising by reason of this chapter, the Secretary may—
+**(a)** Except as provided in subsection (h), notwithstanding the provisions of any other law, with respect to matters arising by reason of this chapter, the Secretary may—
 
 (1) sue and be sued in the Secretary’s official capacity in any court of competent jurisdiction, State or Federal, but nothing in this clause shall be construed as authorizing garnishment or attachment against the Secretary, the Department of Veterans Affairs, or any of its employees;
 
@@ -2200,20 +2200,28 @@ Section 1819 was renumbered [section 1812 of this title](./chapter-018-benefits-
 
 **(d)** The right to redeem provided for by [section 2410(c) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2410/c&num=0&edition=prelim) shall not arise in any case in which the subordinate lien or interest of the United States derives from a guaranteed or insured loan.
 
-**(e)** Repealed. Pub. L. 105–368, title VI, § 602(c)(1), Nov. 11, 1998, 112 Stat. 3346.]
+**(e)** Whenever loss, destruction, or damage to any residential property securing loans guaranteed, insured, made, or acquired by the Secretary under this chapter occurs as the result of a major disaster as determined by the President under the Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.), the Secretary shall (1) provide counseling and such other service to the owner of such property as may be feasible and shall inform such owner concerning the disaster assistance available from other Federal agencies and from State or local agencies, and (2) pursuant to subsection (a)(2) of this section, extend on an individual case basis such forebearance or indulgence to such owner as the Secretary determines to be warranted by the facts of the case and the circumstances of such owner.
 
-**(f)** Whenever loss, destruction, or damage to any residential property securing loans guaranteed, insured, made, or acquired by the Secretary under this chapter occurs as the result of a major disaster as determined by the President under the Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.), the Secretary shall (1) provide counseling and such other service to the owner of such property as may be feasible and shall inform such owner concerning the disaster assistance available from other Federal agencies and from State or local agencies, and (2) pursuant to subsection (a)(2) of this section, extend on an individual case basis such forebearance or indulgence to such owner as the Secretary determines to be warranted by the facts of the case and the circumstances of such owner.
+**(f)** The Secretary shall, at the request of the Secretary of Housing and Urban Development and without reimbursement, certify to such Secretary whether an applicant for assistance under any law administered by the Department of Housing and Urban Development is a veteran.
 
-**(g)** The Secretary shall, at the request of the Secretary of Housing and Urban Development and without reimbursement, certify to such Secretary whether an applicant for assistance under any law administered by the Department of Housing and Urban Development is a veteran.
+**(g)** The Secretary may, upon such terms and conditions as the Secretary considers appropriate, issue or approve the issuance of, and guarantee the timely payment of principal and interest on, certificates or other securities evidencing an interest in a pool of mortgage loans made in connection with the sale of properties acquired under this chapter.
 
-**(h)** The Secretary may, upon such terms and conditions as the Secretary considers appropriate, issue or approve the issuance of, and guarantee the timely payment of principal and interest on, certificates or other securities evidencing an interest in a pool of mortgage loans made in connection with the sale of properties acquired under this chapter.
+**(h)** The Secretary may not take any action under paragraph (2), (3), (4), or (5) of subsection (a) in conjunction with the purchase of a loan under [section 3732(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3732/a/2&num=0&edition=prelim) unless the Secretary determines the purchase would be made consistent with [section 3732(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3732/d&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### References in Text
-The Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.), referred to in subsec. (f), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.), referred to in subsec. (e), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–31, § 2(b)(1), substituted “Except as provided in subsection (h), notwithstanding” for “Notwithstanding” in introductory provisions.
+
+Subsecs. (e) to (g). Pub. L. 119–31, § 2(b)(2), redesignated subsecs. (f) to (h) as (e) to (g), respectively. Former subsec. (e) had been struck out by Pub. L. 105–368, § 602(c)(1).
+
+Subsec. (h). Pub. L. 119–37 substituted “of subsection (a) in conjunction with the purchase of a loan under [section 3732(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3732/a/2&num=0&edition=prelim) unless the Secretary determines the purchase would be made consistent with [section 3732(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3732/d&num=0&edition=prelim).” for “of subsection (a) with respect to a loan guaranteed under this chapter before the completion of the sequence of mitigation options offered to the veteran to whom the loan is made under [section 3732(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3732/d&num=0&edition=prelim).”
+
+Pub. L. 119–31, § 2(b)(3), added subsec. (h). Former subsec. (h) redesignated (g).
+
 2018—Subsec. (h). Pub. L. 115–251 struck out par. (1) designation before “The Secretary may, upon” and struck out par. (2) which read as follows: “The Secretary may not under this subsection guarantee the payment of principal and interest on certificates or other securities issued or approved after September 30, 2018.”
 
 2017—Subsec. (h)(2). Pub. L. 115–62 substituted “September 30, 2018” for “December 31, 2017”.
@@ -2331,7 +2339,7 @@ Pub. L. 95–202, title III, § 311, Nov. 23, 1977, 91 Stat. 1449, directed Admi
 Pub. L. 88–151, § 2, Oct. 17, 1963, 77 Stat. 271, provided that: “The Administrator of Veterans’ Affairs shall submit to the Committee on Labor and Public Welfare of the Senate and the Committee on Veterans’ Affairs of the House of Representatives, not later than December 31 of each year, a written report concerning each case in which a waiver of indebtedness has been made under the authority of the amendment made by the first section of this Act [amending subsec. (a)(4) of this section]. Such report shall include, together with such other information as the Administrator deems appropriate, the name and address of each person with respect to which a waiver of indebtedness has been made and the total amount of such waiver.”
 
 #### Administration of Trusts by Federal National Mortgage Association
-Provision for participation sales and administration of trusts by Federal National Mortgage Association not to be construed as a repeal or modification of the provisions of subsection (e) of this section respecting the authority of the Administrator of Veterans’ Affairs, see section 6(a) of Pub. L. 89–429, set out as a note under [section 1717 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1717&num=0&edition=prelim), Banks and Banking.
+Provision for participation sales and administration of trusts by Federal National Mortgage Association not to be construed as a repeal or modification of the provisions of former subsection (e) of this section respecting the authority of the Administrator of Veterans’ Affairs, see section 6(a) of Pub. L. 89–429, set out as a note under [section 1717 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1717&num=0&edition=prelim), Banks and Banking.
 
 
 <a id="section-3721"></a>
@@ -2505,7 +2513,7 @@ Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out
 
 (1) The amount of the fee shall be determined from the loan fee table in paragraph (2). The fee is expressed as a percentage of the total amount of the loan guaranteed, insured, or made, or, in the case of a loan assumption, the unpaid principal balance of the loan on the date of the transfer of the property.
 
-(2) The loan fee table referred to in paragraph (1) is as follows: Type of loanActive duty veteranReservistOther obligor (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before January 1, 2020)2.152.40NA (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2020, and before April 7, 2023)2.302.30NA (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after April 7, 2023, and before November 29, 2031)2.152.15NA (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after November 29, 2031)1.401.40NA (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2004, and before January 1, 2020)3.303.30NA (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after January 1, 2020, and before April 7, 2023)3.603.60NA (B)(iii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after April 7, 2023, and before November 29, 2031)3.303.30NA (B)(iv) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after November 29, 2031)1.251.25NA (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before January 1, 2020)1.501.75NA (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after January 1, 2020, and before April 7, 2023)1.651.65NA (C)(iii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after April 7, 2023, and before November 29, 2031)1.501.50NA (C)(iv) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after November 29, 2031)0.750.75NA (D)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before January 1, 2020)1.251.50NA (D)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after January 1, 2020, and before April 7, 2023)1.401.40NA (D)(iii) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after April 7, 2023, and before November 29, 2031)1.251.25NA (D)(iv) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after November 29, 2031)0.500.50NA (E) Interest rate reduction refinancing loan0.500.50NA (F) Direct loan under section 37111.001.00NA (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan)1.001.00NA (H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan)1.251.25NA (I) Loan assumption under section 37140.500.500.50 (J) Loan under section 3733(a)2.252.252.25.
+(2) The loan fee table referred to in paragraph (1) is as follows: Type of loanActive duty veteranReservistOther obligor (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before January 1, 2020)2.152.40NA (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2020, and before April 7, 2023)2.302.30NA (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after April 7, 2023, and before June 9, 2034)2.152.15NA (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after June 9, 2034)1.401.40NA (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2004, and before January 1, 2020)3.303.30NA (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after January 1, 2020, and before April 7, 2023)3.603.60NA (B)(iii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after April 7, 2023, and before June 9, 2034)3.303.30NA (B)(iv) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after June 9, 2034)1.251.25NA (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before January 1, 2020)1.501.75NA (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after January 1, 2020, and before April 7, 2023)1.651.65NA (C)(iii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after April 7, 2023, and before June 9, 2034)1.501.50NA (C)(iv) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after June 9, 2034)0.750.75NA (D)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before January 1, 2020)1.251.50NA (D)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after January 1, 2020, and before April 7, 2023)1.401.40NA (D)(iii) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after April 7, 2023, and before June 9, 2034)1.251.25NA (D)(iv) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after June 9, 2034)0.500.50NA (E) Interest rate reduction refinancing loan0.500.50NA (F) Direct loan under section 37111.001.00NA (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan)1.001.00NA (H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan)1.251.25NA (I) Loan assumption under section 37140.500.500.50 (J) Loan under section 3733(a)2.252.252.25.
 
 (3) Any reference to a section in the “Type of loan” column in the loan fee table in paragraph (2) refers to a section of this title.
 
@@ -2529,7 +2537,7 @@ Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out
 
   (E) The term “subsequent loan” means a loan to a veteran, other than an interest rate reduction refinancing loan, guaranteed under section 3710 or made under [section 3711 of this title](./chapter-037-housing-and-small-business-loans.md#section-3711) that is not an initial loan.
 
-  (F) The term “interest rate reduction refinancing loan” means a loan described in section 3710(a)(8), 3710(a)(9)(B)(i), 3710(a)(11), 3712(a)(1)(F), or 3762(h) of this title.
+  (F) The term “interest rate reduction refinancing loan” means a loan described in section 3710(a)(8), 3710(a)(9)(B)(i), 3710(a)(11), 3712(a)(1)(F), or 3762(h)(1) of this title.
 
   (G) The term “0-down” means a downpayment, if any, of less than 5 percent of the total purchase price or construction cost of the dwelling.
 
@@ -2554,6 +2562,10 @@ Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b)(2). Pub. L. 118–210, § 503, substituted “June 9, 2034” for “November 29, 2031” wherever appearing in table.
+
+Subsec. (b)(4)(F). Pub. L. 118–210, § 231(f), substituted “3762(h)(1)” for “3762(h)”.
+
 2024—Subsec. (b)(2). Pub. L. 118–83 substituted “November 29, 2031” for “November 15, 2031” wherever appearing in table.
 
 2023—Subsec. (b)(2). Pub. L. 118–19 substituted “November 15, 2031” for “November 14, 2031” wherever appearing in table.
@@ -2881,13 +2893,31 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 ## § 3732. Procedure on default
 **(a)**
 
-(1) In the event of default in the payment of any loan guaranteed under this chapter, the holder of the obligation shall notify the Secretary of such default. Upon receipt of such notice, the Secretary may, subject to subsection (c) of this section, pay to such holder the guaranty not in excess of the pro rata portion of the amount originally guaranteed. Except as provided in [section 3703(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3703/e&num=0&edition=prelim), if the Secretary makes such a payment, the Secretary shall be subrogated to the rights of the holder of the obligation to the extent of the amount paid on the guaranty.
+(1) In the event of default in the payment of any loan guaranteed under this chapter, the holder of the loan shall notify the Secretary of such default. Upon receipt of such notice, the Secretary may, subject to subsection (c) of this section, pay to such holder the guaranty not in excess of the pro rata portion of the amount originally guaranteed. Except as provided in [section 3703(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3703/e&num=0&edition=prelim), if the Secretary makes such a payment, the Secretary shall be subrogated to the rights of the holder of the loan to the extent of the amount paid on the guaranty.
 
 (2)
 
-  (A) Before suit or foreclosure the holder of the obligation shall notify the Secretary of the default, and within thirty days thereafter the Secretary may, at the Secretary’s option, pay the holder of the obligation the unpaid balance of the obligation plus accrued interest and receive an assignment of the loan and security. Nothing in this section shall preclude any forebearance for the benefit of the veteran as may be agreed upon by the parties to the loan and approved by the Secretary.
+  (A) The Secretary may, under terms and conditions determined by the Secretary—
 
-  (B) In the event that a housing loan guaranteed under this chapter is modified under the authority provided under [section 1322(b) of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1322/b&num=0&edition=prelim), the Secretary may pay the holder of the obligation the unpaid principal balance of the obligation due, plus accrued interest, as of the date of the filing of the petition under title 11, but only upon the assignment, transfer, and delivery to the Secretary (in a form and manner satisfactory to the Secretary) of all rights, interest, claims, evidence, and records with respect to the housing loan.
+    (i) pay the holder of a loan guaranteed under this chapter an amount necessary to avoid the foreclosure of such loan;
+
+    (ii) require the holder of the loan and the veteran obligated on the loan to execute all documents necessary to ensure the Secretary obtains a secured interest in the property covered by the loan; and
+
+    (iii) require the holder of the loan to take any actions necessary to carry out this paragraph, including preparing, executing, transmitting, receiving, and recording documents, and requiring the holder of the loan to place the loan in forbearance.
+
+  (B) In the event that a housing loan guaranteed under this chapter is modified under the authority provided under [section 1322(b) of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1322/b&num=0&edition=prelim), the Secretary may pay the holder of the housing loan the unpaid principal balance of the housing loan due, plus accrued interest, as of the date of the filing of the petition under title 11, but only upon the assignment, transfer, and delivery to the Secretary (in a form and manner satisfactory to the Secretary) of all rights, interest, claims, evidence, and records with respect to the housing loan.
+
+  (C)
+
+    (i) Any decision by the Secretary under this paragraph is final and is not subject to judicial review.
+
+    (ii) For purposes of [section 511 of this title](./chapter-005-authority-and-duties-of-the-secretary.md#section-511), any decision under this paragraph shall not be treated as a decision under a law that affects the provision of benefits.
+
+  (D)
+
+    (i) The Secretary may establish standards for processing payments under this paragraph based on a certification by a holder of a loan guaranteed under this chapter that the holder has complied with all applicable requirements established by the Secretary.
+
+    (ii) The Secretary shall carry out, on a random-sampling basis, post-payment audits to ensure compliance with all requirements described in clause (i).
 
 (3) The Secretary may establish the date, not later than the date of judgment and decree of foreclosure or sale, upon which accrual of interest or charges shall cease.
 
@@ -2906,13 +2936,13 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
   (B) The Secretary shall, to the extent of the availability of appropriations, ensure that sufficient personnel are available to administer subparagraph (A) of this paragraph effectively and efficiently.
 
-(5) In the event of default in the payment of any loan guaranteed or insured under this chapter in which a partial payment has been tendered by the veteran concerned and refused by the holder, the holder of the obligation shall notify the Secretary as soon as such payment has been refused. The Secretary may require that any such notification include a statement of the circumstances of the default, the amount tendered, the amount of the indebtedness on the date of the tender, and the reasons for the holder’s refusal.
+(5) In the event of default in the payment of any loan guaranteed or insured under this chapter in which a partial payment has been tendered by the veteran concerned and refused by the holder, the holder of the loan shall notify the Secretary as soon as such payment has been refused. The Secretary may require that any such notification include a statement of the circumstances of the default, the amount tendered, the amount of the indebtedness on the date of the tender, and the reasons for the holder’s refusal.
 
 **(b)** With respect to any loan made under section 3711 which has not been sold as provided in subsection (g) of such section, if the Secretary finds, after there has been a default in the payment of any installment of principal or interest owing on such loan, that the default was due to the fact that the veteran who is obligated under the loan has become unemployed as the result of the closing (in whole or in part) of a Federal installation, the Secretary shall (1) extend the time for curing the default to such time as the Secretary determines is necessary and desirable to enable such veteran to complete payments on such loan, including an extension of time beyond the stated maturity thereof, or (2) modify the terms of such loan for the purpose of changing the amortization provisions thereof by recasting, over the remaining term of the loan, or over such longer period as the Secretary may determine, the total unpaid amount then due with the modification to become effective currently or upon the termination of an agreed-upon extension of the period for curing the default.
 
 **(c)**
 
-(1) For purposes of this subsection—
+(1) For purposes of this subsection:
 
   (A) The term “defaulted loan” means a loan that is guaranteed under this chapter, that was made for a purpose described in [section 3710(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3710/a&num=0&edition=prelim), and that is in default.
 
@@ -2968,7 +2998,7 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
   (B)
 
-    (i) Subject to division (ii) of this subparagraph, in any case in which there is a substantial delay in such sale caused by the holder of the loan exercising forebearance at the request of the Secretary, the date referred to in paragraph (1)(D)(ii) of this subsection shall be such date, on or after the date on which forebearance was requested and prior to the date of such sale, as the Secretary specifies pursuant to regulations which the Secretary shall prescribe to implement this paragraph.
+    (i) Subject to division (ii) of this subparagraph, in any case in which there is a substantial delay in such sale caused by the holder of the loan exercising forbearance at the request of the Secretary, the date referred to in paragraph (1)(D)(ii) of this subsection shall be such date, on or after the date on which forbearance was requested and prior to the date of such sale, as the Secretary specifies pursuant to regulations which the Secretary shall prescribe to implement this paragraph.
 
     (ii) The Secretary may specify a date under subdivision (i) of this subparagraph only if, based on the use of a date so specified for the purposes of such paragraph (1)(D)(ii), the Secretary is authorized, under paragraph (5)(A) or (7)(A) of this subsection, to accept conveyance of the property.
 
@@ -2981,9 +3011,30 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
   (D) For the purpose of determining the liability of the United States under a loan guaranty under paragraphs (5)(B), (6), (7)(B), and (8)(B), the amount of the total indebtedness with respect to such loan guaranty shall include, in any case in which there was an excessive delay caused by the Department of Veterans Affairs in the liquidation sale of the property securing such loan, any interest which had accrued as of the date of such sale and which would not be included, except for this subparagraph, in the calculation of such total indebtedness as a result of the specification of an earlier date under subparagraph (C)(i) of this paragraph.
 
+**(d)** The Secretary shall prescribe loss mitigation procedures, including a mandatory sequence in which the holder of a loan guaranteed under this chapter shall offer loss mitigation options (including an option to enter into a partial claim agreement under the VA Home Loan Program Reform Act) to a veteran, to help prevent the foreclosure of such loan. The Secretary may not purchase an entire such loan until the veteran has completed such sequence.
+
 ### Statutory Notes
 
+#### References in Text
+The VA Home Loan Program Reform Act, referred to in subsec. (d), is Pub. L. 119–31, July 30, 2025, 139 Stat. 475. For complete classification of this Act to the Code, see Short Title of 2025 Amendment note set out under [section 101 of this title](./chapter-001-general.md#section-101) and Tables.
+
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–31, § 2(a)(1)(A), substituted “holder of the loan” for “holder of the obligation” in two places.
+
+Subsec. (a)(2)(A). Pub. L. 119–31, § 2(a)(1)(B)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Before suit or foreclosure the holder of the obligation shall notify the Secretary of the default, and within thirty days thereafter the Secretary may, at the Secretary’s option, pay the holder of the obligation the unpaid balance of the obligation plus accrued interest and receive an assignment of the loan and security. Nothing in this section shall preclude any forebearance for the benefit of the veteran as may be agreed upon by the parties to the loan and approved by the Secretary.”
+
+Subsec. (a)(2)(B). Pub. L. 119–31, § 2(a)(1)(B)(ii), substituted “of the housing loan” for “of the obligation” in two places.
+
+Subsec. (a)(2)(C), (D). Pub. L. 119–31, § 2(a)(1)(B)(iii), added subpars. (C) and (D).
+
+Subsec. (a)(5). Pub. L. 119–31, § 2(a)(1)(C), substituted “holder of the loan” for “holder of the obligation”.
+
+Subsec. (c)(1). Pub. L. 119–31, § 2(a)(2)(A), substituted “subsection:” for “subsection—” in introductory provisions.
+
+Subsec. (c)(10)(B)(i). Pub. L. 119–31, § 2(a)(2)(B), substituted “forbearance” for “forebearance” in two places.
+
+Subsec. (d). Pub. L. 119–31, § 2(a)(3), added subsec. (d).
+
 2018—Subsec. (c)(11). Pub. L. 115–251 struck out par. (11) which read as follows: “This subsection shall apply to loans closed before September 30, 2018.”
 
 2017—Subsec. (c)(11). Pub. L. 115–62 substituted “September 30, 2018” for “October 1, 2017”.
@@ -3144,13 +3195,13 @@ Pub. L. 102–389, title I, Oct. 6, 1992, 106 Stat. 1574, provided in part: “T
 
   (C) the reference in paragraph (2) to “September 30, 1990,” were a reference to “September 30, 2020,”.
 
-(8) During the period that begins on October 1, 2020, and ends on September 30, 2025, the Secretary shall carry out the provisions of this subsection as if—
+(8) During the period that begins on October 1, 2020, and ends on September 30, 2026, the Secretary shall carry out the provisions of this subsection as if—
 
   (A) the references in the first sentence of paragraph (1) to “65 percent” and “may be financed by a loan” were references to “85 percent” and “shall be of property marketed with financing to be”, respectively;
 
   (B) the second sentence of paragraph (1) were repealed; and
 
-  (C) the reference in paragraph (2) to “September 30, 1990,” were a reference to “September 30, 2025,”.
+  (C) the reference in paragraph (2) to “September 30, 1990,” were a reference to “September 30, 2026,”.
 
 **(b)** The Secretary may not make a loan to finance a purchase of property acquired by the Secretary as a result of a default on a loan guaranteed under this chapter unless the purchaser meets the credit underwriting standards established under [section 3710(g)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3710/g/2/A&num=0&edition=prelim).
 
@@ -3169,6 +3220,10 @@ Pub. L. 102–389, title I, Oct. 6, 1992, 106 Stat. 1574, provided in part: “T
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a)(8). Pub. L. 119–37, § 7404(1), substituted “September 30, 2026” for “September 30, 2025” in introductory provisions.
+
+Subsec. (a)(8)(C). Pub. L. 119–37, § 7404(2), substituted “September 30, 2026” for “September 30, 2025”.
+
 2020—Subsec. (a)(8). Pub. L. 116–159 added par. (8).
 
 2019—Subsec. (a)(7). Pub. L. 116–61 substituted “September 30, 2020” for “September 30, 2019” in introductory provisions and in subpar. (C).
@@ -3278,6 +3333,9 @@ Subsec. (c) [formerly § 1816(f)]. Pub. L. 99–576, § 403, added subsec. (f). 
 Subsec. (d) [formerly § 1832]. Pub. L. 99–576, § 408(a), enacted section. See 1988 Amendment note above.
 
 1984—Subsec. (a) [formerly § 1816(d)]. Pub. L. 98–369, § 2512(a)(2), added subsec. (d). See 1988 Amendment note above.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under [section 111A of this title](./chapter-001-general.md#section-111a).
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as a note under [section 2106 of this title](./chapter-021-specially-adapted-housing-for-disabled-veterans.md#section-2106).
@@ -3392,6 +3450,125 @@ The annual report required by [section 529 of this title](./chapter-005-authorit
 (4) Loans that include funds for energy efficiency improvements pursuant to [section 3710(a)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3710/a/10&num=0&edition=prelim).
 
 (5) Direct loans to Native American veterans made pursuant to subchapter V of this chapter.
+
+
+<a id="section-3737"></a>
+## § 3737. Partial Claim Program
+**(a) Establishment.—** The Secretary shall carry out a program, to be known as the “Partial Claim Program”, under which the Secretary may make a partial claim, described in subsection (b), with respect to a loan—
+
+(1) guaranteed under this chapter;
+
+(2) regarding the primary residence of the borrower; and
+
+(3) that the Secretary determines is in default or at imminent risk of default.
+
+**(b) Partial Claim Described.—** A partial claim described in this subsection, with respect to a loan described in subsection (a), is the purchase by the Secretary of a portion of indebtedness under the loan, through a transaction under which the Secretary—
+
+(1) pays to the holder of the loan the amount of indebtedness, subject to subsection (c), that the Secretary determines necessary to help prevent or resolve a default; and
+
+(2) receives a secured interest in the property that serves as collateral for the guaranteed loan, which is subordinate to the amount of indebtedness under the guaranteed loan that the Secretary does not purchase.
+
+**(c) Administration of Partial Claim.—**
+
+(1)
+
+  (A) Subject to subparagraph (B), the amount of a partial claim under this section with respect to a loan guaranteed described in subsection (a) may not exceed 25 percent of the unpaid principal balance of the loan on the date on which the partial claim is made.
+
+  (B) In the case of an individual who failed to make a payment on a loan guaranteed under this chapter during the period beginning on March 1, 2020 and ending on May 1, 2025, the amount of a partial claim under this section may not exceed 30 percent of the unpaid principal balance of the guaranteed loan as of the date that the initial partial claim is made.
+
+(2)
+
+  (A) Subject to subparagraph (B), the Secretary may make only one partial claim per loan.
+
+  (B) The Secretary may make an additional partial claim on a loan guaranteed under this chapter in the case of an individual who failed to make a payment on such loan during—
+
+    (i) a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim)); or
+
+    (ii) the period of 180 days following such a major disaster.
+
+(3) An amount paid to the holder of a loan as a partial claim—
+
+  (A) shall not alter the guaranty calculation specified by [section 3703 of this title](./chapter-037-housing-and-small-business-loans.md#section-3703);
+
+  (B) shall be included, for the purpose of a liquidation sale, in the same manner as any other advance allowed by the Secretary; and
+
+  (C) shall not be claimed under the guaranty or increase the Secretary’s cost of acquisition of the property securing the defaulted loan.
+
+(4) A holder of a loan guaranteed under such chapter for which the Secretary makes a partial claim under this section shall apply the amount paid by the Secretary for the partial claim first to arrearages, if any, on the guaranteed loan. Such arrearages may include any additional costs (such as taxes, insurance premiums, or homeowner’s dues) the Secretary determines necessary to prevent or resolve a default.
+
+(5) The Secretary may enter into a contract with an appropriate entity for the service of a partial claim made by the Secretary under this section. Any such contract shall provide that such entity shall provide quarterly statements to the holder of the loan for which the Secretary makes the partial claim.
+
+**(d) Requirements of Loan Holder.—**
+
+(1) The Secretary may require the holder of a loan for which the Secretary makes a partial claim under this section to take any actions necessary to establish the partial claim, including preparing, executing, transmitting, receiving, and recording loan documents and servicing the loan.
+
+(2) The Secretary shall compensate the holder of such a loan appropriately, as determined by the Secretary, for the services required of such holder under this subsection.
+
+(3) The Secretary may exercise the authority of the Secretary under this subsection without regard to any other provision of law not enacted expressly in limitation of this section that would otherwise govern the expenditure of public funds.
+
+**(e) Default and Foreclosure.—**
+
+(1)
+
+  (A) Notwithstanding [section 3703(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3703/e&num=0&edition=prelim), a borrower who defaults on a partial claim shall be liable to the Secretary for any loss suffered by the Secretary with respect to such default, and such loss may be recovered in the same manner as any other debt due the United States. The Secretary shall not restore housing loan entitlement under [section 3702(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3702/b&num=0&edition=prelim) until such loss is repaid in full.
+
+  (B) The Secretary may charge administrative costs, fees, and interest, as appropriate, with respect to any default under a partial claim in a manner similar to the interest and administrative costs charged under [section 5315 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5315).
+
+(2) Notwithstanding [section 2410 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2410&num=0&edition=prelim), a non-judicial sale of real property to satisfy a loan guaranteed under this chapter shall discharge the property from a partial claim interest held by the Secretary, provided that the holder of the guaranteed loan conducts the non-judicial sale and distributes the sale proceeds, if any, in accordance with the State or local law where such property is situated.
+
+**(f) Decisions by the Secretary.—**
+
+(1) Any partial claim made under this section shall be made in the sole discretion of the Secretary and on terms and conditions acceptable to the Secretary that are consistent with this section.
+
+(2) Any decision by the Secretary under this section is final and conclusive and is not subject to judicial review.
+
+(3) For purposes of [section 511 of this title](./chapter-005-authority-and-duties-of-the-secretary.md#section-511), any decision under this section shall not be treated as a decision under a law that affects the provision of benefits.
+
+**(g) Compliance.—**
+
+(1) The Secretary may establish standards for processing payments under this section based on a certification by a holder of a loan guaranteed under such chapter that the holder has complied with all applicable requirements established by the Secretary.
+
+(2) The Secretary shall carry out, on a random-sampling basis, post-payment audits to ensure compliance with all requirements under paragraph (1).
+
+**(h) Guidance in Advance of Regulations.—** Notwithstanding any other provision of law, the Secretary may, before prescribing regulations, issue administrative guidance with respect to the Partial Claim Program under this section and the loss mitigation options prescribed under [section 3732(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3732/d&num=0&edition=prelim), including any additional terms, conditions, and requirements the Secretary determines necessary.
+
+**(i) Rule of Construction.—** Nothing in this section shall be construed to limit the authority of the Secretary under subsections (a) and (d) of [section 3732 of this title](./chapter-037-housing-and-small-business-loans.md#section-3732).
+
+**(j) Termination.—** The Secretary may not make a partial claim under this section after the date that is five years after the date of the enactment of this section.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (j), is the date of enactment of Pub. L. 119–31, which was approved July 30, 2025.
+
+#### Amendments
+2025—Subsec. (b)(2). Pub. L. 119–37, § 7307(b)(1), substituted “amount of indebtedness under the guaranteed loan that the Secretary does not purchase” for “first lien guaranteed loan for such property”.
+
+Subsec. (c)(2)(B)(ii). Pub. L. 119–37, § 7307(b)(2)(A), substituted “180 days” for “120 days”.
+
+Subsec. (c)(3). Pub. L. 119–37, § 7307(b)(2)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “An amount paid to the holder of a loan as a partial claim—
+
+“(A) shall not count against the amount of a loan that may otherwise be guaranteed under this chapter; and
+
+“(B) may not be applied to the portion of the loan that is guaranteed under this chapter.”
+
+Subsec. (d)(1). Pub. L. 119–37, § 7307(c), inserted “and servicing the loan” after “documents”.
+
+Subsec. (e)(1)(A). Pub. L. 119–37, § 7307(d)(1)(A), substituted “a borrower who defaults on a partial claim shall be liable to the Secretary for any loss suffered by the Secretary with respect to such default, and such loss may be recovered in the same manner as any other debt due the United States. The Secretary shall not restore housing loan entitlement under [section 3702(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3702/b&num=0&edition=prelim) until such loss is repaid in full.” for “an individual who defaults on a loan for which the Secretary makes a partial claim made under this section shall be liable to the Secretary for any loss suffered by the Secretary resulting from such default.”
+
+Subsec. (e)(1)(B). Pub. L. 119–37, § 7307(d)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In the event of default by an individual on a loan for which the Secretary makes a partial claim made under this section, the Secretary may reduce the aggregate amount of guaranty or insurance housing loan entitlement available to the individual under this chapter.”
+
+Subsec. (e)(2). Pub. L. 119–37, § 7307(d)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding [section 2410(c) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2410/c&num=0&edition=prelim), an action to foreclose a lien held by the United States arising under a partial claim made under this section shall follow foreclosure procedures in accordance with State or local law where the property involved is located.”
+
+Subsec. (h). Pub. L. 119–37, § 7307(e), amended subsec. (h) generally. Prior to amendment, text read as follows:
+
+“(1) With respect to a loan described in paragraph (2), the Secretary may—
+
+“(A) before prescribing regulations, issue administrative guidance regarding the making of a partial claim relating to such loan; and
+
+“(B) establish, through such guidance, additional requirements applicable to such a partial claim.
+
+“(2) A loan described in this paragraph is a loan that the Secretary determines was in default on the date of the enactment of this section.”
 
 
 <a id="section-3741"></a>
@@ -3645,9 +3822,13 @@ The Secretary may not make commitments for financial assistance under this subch
 
 **(b)** The Secretary shall, to the extent practicable, make direct housing loans to Native American veterans who are located in a variety of geographic areas and in areas experiencing a variety of economic circumstances.
 
+**(c)** The Secretary shall prescribe such regulations as may be necessary to carry out this subchapter.
+
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 118–210 added subsec. (c).
+
 2006—Pub. L. 109–233, § 103(f)(2), amended section catchline generally, substituting “Direct housing loans to Native American veterans; program authority” for “Pilot program”.
 
 Subsec. (a). Pub. L. 109–233, § 103(a)(1), struck out “establish and implement a pilot program under which the Secretary may” before “make direct housing loans” and substituted “shall make such loans” for “shall establish and implement the pilot program”.
@@ -3674,43 +3855,43 @@ Pub. L. 102–547, § 8(e), Oct. 28, 1992, 106 Stat. 3640, provided that: “New
 
 <a id="section-3762"></a>
 ## § 3762. Direct housing loans to Native American veterans; program administration
-**(a)** The Secretary may make a direct housing loan to a Native American veteran under this subchapter if—
+**(a)** The Secretary may make a direct housing loan to a Native American veteran under this subchapter if the Secretary ensures the following:
 
-(1)
+(1) That each Native American veteran to whom the Secretary makes a direct housing loan under this subchapter—
 
-  (A) the Secretary has entered into a memorandum of understanding with respect to such loans with the tribal organization that has jurisdiction over the veteran; or
+  (A) holds, possesses, or purchases using the proceeds of the loan a meaningful interest in a lot or dwelling (or both) that is located on trust land; and
 
-  (B) the tribal organization that has jurisdiction over the veteran has entered into a memorandum of understanding with any department or agency of the United States with respect to direct housing loans to Native Americans that the Secretary determines substantially complies with the requirements of subsection (b); and
+  (B) will purchase, construct, or improve (as the case may be) a dwelling on the lot using the proceeds of the loan.
 
-(2) the memorandum is in effect when the loan is made.
+(2) That each such Native American veteran will convey to the Secretary by an appropriate instrument the interest referred to in paragraph (1)(A) as security for a direct housing loan under this subchapter.
+
+(3) That the Secretary, including the Secretary’s employees or agents, may enter upon the trust land for the purposes of carrying out such actions as the Secretary determines are necessary, including—
+
+  (A) to evaluate the advisability of the loan;
+
+  (B) to monitor any purchase, construction, or improvements carried out using the proceeds of the loan; and
+
+  (C) to manage any servicing or post-foreclosure activities, including acquisition, property inspections, and property management.
+
+(4) That there are established standards and procedures that apply to the foreclosure of the interest conveyed by a Native American veteran pursuant to paragraph (2), including—
+
+  (A) procedures for foreclosing the interest; and
+
+  (B) procedures for the resale of the lot or dwelling (or both) purchased, constructed, or improved using the proceeds of the loan.
+
+(5) That the loan is made in a responsible and prudent manner, subject to standards and procedures as are necessary for the reasonable protection of the financial interests of the United States.
 
 **(b)**
 
-(1) Subject to paragraph (2), the Secretary shall ensure that each memorandum of understanding that the Secretary enters into with a tribal organization shall provide for the following:
+(1) To carry out the purpose of subsection (a), the Secretary may—
 
-  (A) That each Native American veteran who is under the jurisdiction of the tribal organization and to whom the Secretary makes a direct loan under this subchapter—
+  (A) enter into a memorandum of understanding with a tribal organization, other entity, or individual;
 
-    (i) holds, possesses, or purchases using the proceeds of the loan a meaningful interest in a lot or dwelling (or both) that is located on trust land; and
+  (B) rely on agreements or determinations of other Federal agencies to guarantee, insure, or make loans on trust land; and
 
-    (ii) will purchase, construct, or improve (as the case may be) a dwelling on the lot using the proceeds of the loan.
+  (C) enter into other agreements or take such other actions as the Secretary determines necessary.
 
-  (B) That each such Native American veteran will convey to the Secretary by an appropriate instrument the interest referred to in subparagraph (A) as security for a direct housing loan under this subchapter.
-
-  (C) That the tribal organization and each such Native American veteran will permit the Secretary to enter upon the trust land of that organization or veteran for the purposes of carrying out such actions as the Secretary determines are necessary—
-
-    (i) to evaluate the advisability of the loan; and
-
-    (ii) to monitor any purchase, construction, or improvements carried out using the proceeds of the loan.
-
-  (D) That the tribal organization has established standards and procedures that apply to the foreclosure of the interest conveyed by a Native American veteran pursuant to subparagraph (B), including—
-
-    (i) procedures for foreclosing the interest; and
-
-    (ii) procedures for the resale of the lot or the dwelling (or both) purchased, constructed, or improved using the proceeds of the loan.
-
-  (E) That the tribal organization agrees to such other terms and conditions with respect to the making of direct loans to Native American veterans under the jurisdiction of the tribal organization as the Secretary may require in order to ensure that loans under this subchapter are made in a responsible and prudent manner.
-
-(2) The Secretary may not enter into a memorandum of understanding with a tribal organization under this subsection unless the Secretary determines that the memorandum provides for such standards and procedures as are necessary for the reasonable protection of the financial interests of the United States.
+(2) If the Secretary determines that the requirements under subsection (a) are not being enforced by a tribal organization, other entity, or individual that is a party to any memorandum of understanding, agreement, or determination described in paragraph (1), the Secretary may cease making new direct housing loans to Native American veterans under this subchapter within the area of the authority of the tribal organization, other entity, or individual (as the case may be).
 
 **(c)**
 
@@ -3738,17 +3919,61 @@ Pub. L. 102–547, § 8(e), Oct. 28, 1992, 106 Stat. 3640, provided that: “New
 
 (4) in a manner consistent with the provisions of this chapter and with the Secretary’s functions under this subchapter, employ, utilize, and compensate any persons, organizations, or departments or agencies (including departments and agencies of the United States) designated by the Secretary to carry out such functions.
 
-**(h)**
+**(h)** The Secretary may make direct loans to Native American veterans in order to enable such veterans to refinance existing mortgage loans for any of the following purposes:
 
-(1) The Secretary may make direct loans to Native American veterans in order to enable such veterans to refinance existing loans made under this section.
+(1) To refinance an existing loan made under this section, if the loan—
 
-(2)
+  (A) meets the requirements set forth in subparagraphs (B), (C), and (E) of paragraph (1) of [section 3710(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3710/e&num=0&edition=prelim);
 
-  (A) The Secretary may not make a loan under this subsection unless the loan meets the requirements set forth in subparagraphs (B), (C), and (E) of paragraph (1) of [section 3710(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3710/e&num=0&edition=prelim).
+  (B) will bear an interest rate at least one percentage point less than the interest rate borne by the loan being refinanced; and
 
-  (B) The Secretary may not make a loan under this subsection unless the loan will bear an interest rate at least one percentage point less than the interest rate borne by the loan being refinanced.
+  (C) complies with paragraphs (2) and (3) of [section 3710(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3710/e&num=0&edition=prelim), except that for the purposes of this subsection the reference to subsection (a)(8) of [section 3710 of this title](./chapter-037-housing-and-small-business-loans.md#section-3710) in such paragraphs (2) 11 So in original. Reference in [section 3710(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3710/e/2&num=0&edition=prelim) is to “clause (8) of subsection (a)” of section 3710. and (3) shall be deemed to be a reference to this subsection.
 
-  (C) Paragraphs (2) and (3) of such section 3710(e) shall apply to any loan made under this subsection, except that for the purposes of this subsection the reference to subsection (a)(8) of [section 3710 of this title](./chapter-037-housing-and-small-business-loans.md#section-3710) in such paragraphs (2) and (3) shall be deemed to be a reference to this subsection.
+(2) To refinance an existing mortgage loan not made under this section on a dwelling owned and occupied by the veteran as the veteran’s home, if all of the following requirements are met:
+
+  (A) The loan will be secured by the same dwelling as was the loan being refinanced.
+
+  (B) The loan will provide the veteran with a net tangible benefit.
+
+  (C) The nature and condition of the property is such as to be suitable for dwelling purposes.
+
+  (D) The amount of the loan does not exceed either of the following:
+
+    (i) 100 percent of the reasonable value of the dwelling, with such reasonable value determined under the procedures established by the Secretary under subsection (d)(2).
+
+    (ii) An amount equal to the sum of the balance of the loan being refinanced and such closing costs (including any discount points) as may be authorized by the Secretary to be included in the loan.
+
+  (E) Notwithstanding subparagraph (D), if a loan is made for both the purpose of this paragraph and to make energy efficiency improvements, the loan must not exceed either of the following:
+
+    (i) 100 percent of the reasonable value of the dwelling as improved for energy efficiency, with such reasonable value determined under the procedures established by the Secretary under subsection (d)(2).
+
+    (ii) The amount referred to under subparagraph (D)(ii), plus the applicable amount specified under [section 3710(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3710/d/2&num=0&edition=prelim).
+
+  (F) The loan meets all other requirements the Secretary may establish under this subchapter.
+
+  (G) The existing mortgage being refinanced is a first lien on the property and secured of record.
+
+(3) To refinance an existing mortgage loan to repair, alter, or improve a dwelling owned by the veteran and occupied by the veteran as the veteran’s home, if all of the following requirements are met:
+
+  (A) The loan will be secured by the same dwelling as was the loan being refinanced.
+
+  (B) The nature and condition of the property is such as to be suitable for dwelling purposes, and the repair, alteration, or improvement substantially protects or improves the basic livability or utility of such property.
+
+  (C) The amount of the loan, including the costs of repairs, alterations, and improvements, does not exceed either of the following:
+
+    (i) 100 percent of the reasonable value of the dwelling as repaired, altered, or improved, with such reasonable value determined under the procedures established by the Secretary under subsection (d)(2).
+
+    (ii) An amount equal to the sum of—
+
+      (I) the balance of the loan being refinanced;
+
+      (II) the actual cost of repairs, alterations, or improvements; and
+
+      (III) such closing costs (including any discount points) as may be authorized by the Secretary to be included in the loan.
+
+  (D) The loan meets all other requirements the Secretary may establish under this subchapter.
+
+  (E) The existing mortgage loan being refinanced is a first lien on the property and secured of record.
 
 **(i)**
 
@@ -3768,11 +3993,31 @@ Pub. L. 102–547, § 8(e), Oct. 28, 1992, 106 Stat. 3640, provided that: “New
 
   (F) Outstationing loan guarantee specialists in tribal facilities on a part-time basis if requested by the tribal government.
 
+  (G) Pursuant to subsection (g)(4), assisting Native American veterans in qualifying for mortgage financing by—
+
+    (i) partnering with local service providers, such as tribal organizations, tribally designated housing entities, Native community development financial institutions, and nonprofit organizations, for conducting outreach, homebuyer education, housing counseling, and post-purchase education; and
+
+    (ii) providing other technical assistance as needed.
+
+  (H) Attending conferences and conventions conducted by the network of Native community development financial institutions and other Native American homeownership organizations to provide information and training to Native community development financial institutions about the availability of the relending program under [section 3762A of this title](./chapter-037-housing-and-small-business-loans.md#section-3762a).
+
 **(j)** The Secretary shall include as part of the annual benefits report of the Veterans Benefits Administration information concerning the cost and number of loans provided under this subchapter for the fiscal year covered by the report.
+
+**(k)** The Secretary shall assign a sufficient number of personnel of the Department dedicated to carrying out the authority of the Secretary under this subchapter, including construction and valuation specialists to assist with issues unique to new construction and renovations on trust land.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 118–210, § 231(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to the requirements for the Secretary to make a direct housing loan to a Native American veteran.
+
+Subsec. (b). Pub. L. 118–210, § 231(a)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to the requirements that each memorandum of understanding the Secretary enters into with a tribal organization must provide.
+
+Subsec. (h). Pub. L. 118–210, § 231(b), amended subsec. (h) generally. Prior to amendment, subsec. (h) related to when the Secretary may make direct loans to Native American veterans.
+
+Subsec. (i)(2)(G), (H). Pub. L. 118–210, § 231(c), added subpars. (G) and (H).
+
+Subsec. (k). Pub. L. 118–210, § 231(d), added subsec. (k).
+
 2019—Subsec. (c). Pub. L. 116–23 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which set an $80,000 limit, with certain exceptions, on the principal amount of any direct housing loan made to a Native American veteran.
 
 2006—Pub. L. 109–233, § 103(f)(3), amended section catchline generally, substituting “Direct housing loans to Native American veterans; program administration” for “Direct housing loans to Native American veterans”.
@@ -3805,15 +4050,60 @@ Subsec. (j). Pub. L. 105–114, § 201(c), added subsec. (j).
 Amendment by Pub. L. 116–23 applicable with respect to a loan guaranteed under [section 3710 of this title](./chapter-037-housing-and-small-business-loans.md#section-3710) on or after Jan. 1, 2020, see section 6(d) of Pub. L. 116–23, set out as a note under [section 3703 of this title](./chapter-037-housing-and-small-business-loans.md#section-3703).
 
 
+<a id="section-3762a"></a>
+## § 3762A. Native community development financial institution relending program
+**(a) Purpose.—** The Secretary may make a loan to a Native community development financial institution for the purpose of allowing the institution to relend loan amounts to qualified Native American veterans, subject to the requirements of this section.
+
+**(b) Standards.—**
+
+(1) The Secretary shall establish standards to be used in evaluating whether to make a loan to a Native community development financial institution under this section.
+
+(2) In establishing standards under paragraph (1), the Secretary shall ensure that a Native community development financial institution—
+
+  (A) is able to originate and service loans for single-family homes;
+
+  (B) is able to operate the relending program in a manner consistent with the mission of the Department to serve veterans; and
+
+  (C) uses loan amounts received under this section only for the purpose of relending, as described in subsection (c), to Native American veterans.
+
+**(c) Relending Requirements.—**
+
+(1) A Native community development financial institution that receives a loan under this section shall use the loan amounts to make loans to Native American veterans residing on trust land.
+
+(2) A loan to a Native American veteran made by a Native community development financial institution under paragraph (1) shall—
+
+  (A) be limited either to the purpose of purchase, construction, or improvement of a dwelling located on trust land or to the refinance of an existing mortgage loan for a dwelling on trust land, consistent with the requirements of [section 3762(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3762/h&num=0&edition=prelim); and
+
+  (B) comply with such terms and conditions as the Secretary determines are necessary to protect against predatory lending, including the interest rate charged on a loan to a Native American veteran.
+
+**(d) Repayment.—** A loan made to a Native community development financial institution under this section shall—
+
+(1) be payable to the Secretary upon such terms and conditions as are prescribed in regulations pursuant to this subchapter; and
+
+(2) bear interest at a rate of one percent.
+
+**(e) Oversight.—** Subject to notice and opportunity for a hearing, whenever the Secretary finds with respect to loans made under subsection (a) or (c) that any Native community development financial institution has failed to maintain adequate loan accounting records, to demonstrate proper ability to service loans adequately, or to exercise proper credit judgment, or that such Native community development financial institution has willfully or negligently engaged in practices otherwise detrimental to the interest of veterans or of the Government, the Secretary may take such actions as the Secretary determines necessary to protect veterans or the Government, such as requiring immediate repayment of any loans made under subsection (a) and the assignment to the Secretary of loans made under subsection (c).
+
+**(f) Sunset.—** The Secretary may not make a loan under this section after September 30, 2027.
+
+
 <a id="section-3763"></a>
 ## § 3763. Native American Veteran Housing Loan Program Account
 **(a)** There is hereby established in the Treasury of the United States an account known as the “Native American Veteran Housing Loan Program Account” (hereinafter in this subchapter referred to as the “Account”).
 
 **(b)** The Account shall be available to the Secretary to carry out all operations relating to the making of direct housing loans to Native American veterans under this subchapter, including any administrative expenses relating to the making of such loans. Amounts in the Account shall be available without fiscal year limitation.
 
+**(c)** Of amounts available in the Account, the Secretary may use for loans made under [section 3762A of this title](./chapter-037-housing-and-small-business-loans.md#section-3762a)—
+
+(1) in fiscal year 2025, not more than $5,000,000; and
+
+(2) in any fiscal year after fiscal year 2025, an amount determined necessary by the Secretary to meet the demand for such loans.
+
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 118–210 added subsec. (c).
+
 2001—Subsec. (a). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 
 1998—Pub. L. 105–368 substituted “Native American Veteran Housing Loan Program Account” for “Housing loan program account” in section catchline.
@@ -3851,9 +4141,13 @@ For the purposes of this subchapter—
 
   (B) is subject to restrictions on alienation imposed by the United States on Indian lands (including native Hawaiian homelands);
 
-  (C) is owned by a Regional Corporation or a Village Corporation, as such terms are defined in section 3(g) and 3(j) of the Alaska Native Claims Settlement Act, respectively ([43 U.S.C. 1602(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602/g&num=0&edition=prelim), (j)); or
+  (C) is located in the State of Alaska within a region established under section 7(a) of the Alaska Native Claims Settlement Act ([43 U.S.C. 1606(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1606/a&num=0&edition=prelim));
 
-  (D) is on any island in the Pacific Ocean if such land is, by cultural tradition, communally-owned land, as determined by the Secretary.
+  (D) is on any island in the Pacific Ocean if such land is, by cultural tradition, communally-owned land, as determined by the Secretary;
+
+  (E) is defined by the Secretary of the Interior and recognized by the United States as land over which an Indian Tribe has governmental dominion; or
+
+  (F) is on any land that the Secretary determines is provided to Native American veterans because of their status as Native Americans.
 
 (2) The term “Native American veteran” means any veteran who is a Native American.
 
@@ -3875,6 +4169,24 @@ For the purposes of this subchapter—
 
   (B) is not a Native American.
 
+(6) The term “community development financial institution” has the meaning given that term in section 103 of the Community Development Banking and Financial Institutions Act of 1994 ([12 U.S.C. 4702](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4702&num=0&edition=prelim)).
+
+(7) The term “Indian Tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+
+(8) The term “Native community development financial institution” means any entity—
+
+  (A) that has been certified as a community development financial institution by the Secretary of the Treasury;
+
+  (B) that is not less than 51 percent owned or controlled by Native Americans; and
+
+  (C) for which not less than 51 percent of the activities of the entity serve Native Americans.
+
+(9) The term “net tangible benefit” shall have such meaning as the Secretary determines appropriate, but shall include the refinance of an interim construction loan.
+
+(10) The term “other technical assistance” means services to assist a Native American veteran to navigate the steps necessary for securing a mortgage loan on trust land, including pre-development activities related to utilities, identifying appropriate residential construction services, and obtaining lease clearances and title status reports from the applicable tribal organization or the Bureau of Indian Affairs.
+
+(11) The term “tribally designated housing entity” has the meaning given that term in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996 ([25 U.S.C. 4103](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4103&num=0&edition=prelim)).
+
 ### Statutory Notes
 
 #### References in Text
@@ -3886,7 +4198,15 @@ The Native American Programs Act of 1974, referred to in par. (3)(D), is title V
 
 Section 4(l) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)(l)), referred to in par. (4), was classified to section 450b(l) of Title 25, prior to editorial reclassification as section 5304(l) of Title 25.
 
+The Alaska Native Claims Settlement Act, referred to in par. (7), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+
 #### Amendments
+2025—Par. (1)(C). Pub. L. 118–210, § 231(e)(1)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “is owned by a Regional Corporation or a Village Corporation, as such terms are defined in section 3(g) and 3(j) of the Alaska Native Claims Settlement Act, respectively ([43 U.S.C. 1602(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602/g&num=0&edition=prelim), (j)); or”.
+
+Par. (1)(E), (F). Pub. L. 118–210, § 231(e)(1)(B), (C), added subpars. (E) and (F).
+
+Pars. (6) to (11). Pub. L. 118–210, § 231(e)(2), added pars. (6) to (11).
+
 2006—Pub. L. 109–233, § 104(a)(1), renumbered [section 3764 of this title](./chapter-037-housing-and-small-business-loans.md#section-3764) as this section.
 
 Par. (5). Pub. L. 109–233, § 104(b), added par. (5).

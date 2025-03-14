@@ -1620,7 +1620,7 @@ This chapter, referred to in subsecs. (a) and (e), was in the original “this A
 ### Statutory Notes
 
 #### References in Text
-The Natural Gas Act, referred to in subsecs. (e)(5) and (f)(2), (3), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
+The Natural Gas Act, referred to in subsecs. (e)(5) and (f)(2), (3), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1987—Subsec. (a)(1). Pub. L. 100–42, § 1(c)(21)(A), struck out reference to subchapter II of this chapter.

@@ -272,7 +272,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Pub. L. 107–107, div. A, title V, § 509(c), Dec. 28, 2001, 115 Stat. 1091, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 690 of this title](./chapter-039-active-duty.md#section-690)] shall apply with respect to officers serving on active duty as a defense attaché or service attaché on or after the date of the enactment of this Act [Dec. 28, 2001].”
 
 #### Effective Date
-Pub. L. 104–201, div. A, title V, § 521(b), Sept. 23, 1996, 110 Stat. 2517, provided that: “The amendments made by this section [enacting this section and sections 689 and 690 of this title, amending [section 6151 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6151&num=0&edition=prelim), and repealing former [section 688 of this title](./chapter-039-active-duty.md#section-688)] shall take effect on September 30, 1997.”
+Pub. L. 104–201, div. A, title V, § 521(b), Sept. 23, 1996, 110 Stat. 2517, provided that: “The amendments made by this section [enacting this section and sections 689 and 690 of this title, amending [section 6151 of this title](./chapter-603-proliferation-matters.md#section-6151), and repealing former [section 688 of this title](./chapter-039-active-duty.md#section-688)] shall take effect on September 30, 1997.”
 
 
 <a id="section-688a"></a>

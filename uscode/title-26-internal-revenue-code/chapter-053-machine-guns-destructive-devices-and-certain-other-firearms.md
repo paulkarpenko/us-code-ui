@@ -65,7 +65,11 @@ A prior section 5803, act Aug. 16, 1954, ch. 736, 68A Stat. 722, made a cross re
 
 <a id="section-5811"></a>
 ## § 5811. Transfer tax
-**(a) Rate** There shall be levied, collected, and paid on firearms transferred a tax at the rate of $200 for each firearm transferred, except, the transfer tax on any firearm classified as any other weapon under section 5845(e) shall be at the rate of $5 for each such firearm transferred.
+**(a) Rate** There shall be levied, collected, and paid on firearms transferred a tax at the rate of—
+
+(1) $200 for each firearm transferred in the case of a machinegun or a destructive device, and
+
+(2) $0 for any firearm transferred which is not described in paragraph (1).
 
 **(b) By whom paid** The tax imposed by subsection (a) of this section shall be paid by the transferor.
 
@@ -77,7 +81,12 @@ A prior section 5803, act Aug. 16, 1954, ch. 736, 68A Stat. 722, made a cross re
 A prior section 5811, acts Aug. 16, 1954, ch. 736, 68A Stat. 722; Sept. 2, 1958, Pub. L. 85–859, title II, § 203(b), 72 Stat. 1427; June 1, 1960, Pub. L. 86–478, § 2, 74 Stat. 149, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 90–618.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–21 amended subsec. (a) generally. Prior to amendment, text read as follows: “There shall be levied, collected, and paid on firearms transferred a tax at the rate of $200 for each firearm transferred, except, the transfer tax on any firearm classified as any other weapon under section 5845(e) shall be at the rate of $5 for each such firearm transferred.”
+
 1976—Subsec. (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21 applicable to calendar quarters beginning more than 90 days after July 4, 2025, see section 70436(d) of Pub. L. 119–21, set out as a note under [section 4182 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4182).
 
 #### Effective Date
 Section effective on first day of first month following October 1968, see section 207 of Pub. L. 90–618, set out as a note under [section 5801 of this title](./chapter-053-machine-guns-destructive-devices-and-certain-other-firearms.md#section-5801).
@@ -104,7 +113,11 @@ A prior section 5814, acts Aug. 16, 1954, ch. 736, 68A Stat. 723; Sept. 2, 1958,
 
 <a id="section-5821"></a>
 ## § 5821. Making tax
-**(a) Rate** There shall be levied, collected, and paid upon the making of a firearm a tax at the rate of $200 for each firearm made.
+**(a) Rate** There shall be levied, collected, and paid upon the making of a firearm a tax at the rate of—
+
+(1) $200 for each firearm made in the case of a machinegun or a destructive device, and
+
+(2) $0 for any firearm made which is not described in paragraph (1).
 
 **(b) By whom paid** The tax imposed by subsection (a) of this section shall be paid by the person making the firearm.
 
@@ -116,7 +129,12 @@ A prior section 5814, acts Aug. 16, 1954, ch. 736, 68A Stat. 723; Sept. 2, 1958,
 A prior section 5821, acts Aug. 16, 1954, ch. 736, 68A Stat. 724; Sept. 2, 1958, Pub. L. 85–859, title II, § 203(d), 72 Stat. 1427, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 90–618.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–21 amended subsec. (a) generally. Prior to amendment, text read as follows: “There shall be levied, collected, and paid upon the making of a firearm a tax at the rate of $200 for each firearm made.”
+
 1976—Subsec. (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21 applicable to calendar quarters beginning more than 90 days after July 4, 2025, see section 70436(d) of Pub. L. 119–21, set out as a note under [section 4182 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4182).
 
 #### Effective Date
 Section effective on first day of first month following October 1968, see section 207 of Pub. L. 90–618, set out as a note under [section 5801 of this title](./chapter-053-machine-guns-destructive-devices-and-certain-other-firearms.md#section-5801).

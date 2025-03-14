@@ -94,11 +94,11 @@ Title 3, The President—Act June 25, 1948, ch. 644, § 1, 62 Stat. 672.
 
 Title 4, Flag and Seal, Seat of Government, and the States—Act July 30, 1947, ch. 389, § 1, 61 Stat. 641.
 
-Title 5, Government Organization and Employees—Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Title 5, Government Organization and Employees—Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378; Pub. L. 117–286, § 3, Dec. 27, 2022, 136 Stat. 4197.
 
 Title 9, Arbitration—Act July 30, 1947, ch. 392, § 1, 61 Stat. 669.
 
-Title 10, Armed Forces—Act Aug. 10, 1956, ch. 1041, § 1, 70A Stat. 1.
+Title 10, Armed Forces—Act Aug. 10, 1956, ch. 1041, § 1, 70 Stat. 1126, set out beginning at 70A Stat. 1.
 
 Title 11, Bankruptcy—Pub. L. 95–598, title I, § 101, Nov. 6, 1978, 92 Stat. 2549.
 

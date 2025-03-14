@@ -6500,7 +6500,7 @@ The date of the enactment of this Act, referred to in subsec. (a), probably mean
 
     (ii) 11 percent of such expenses in fiscal year 2012; and
 
-    (iii) 12 percent of such expenses in fiscal year 2013, and in each year thereafter.
+    (iii) 6.5 percent of such expenses in fiscal year 2013, and in each year thereafter.
 
   (B) *Adjustment of amount* — The dollar amount referred to in subparagraph (A)(iii) shall be adjusted annually, using the percent increase, if any, in the employment cost index for total compensation for State and local government workers published by the Federal Government, or the successor index thereto, for the 12-month period ending on September 30 of the year preceding the transfer.
 
@@ -6585,6 +6585,9 @@ This title, referred to in subsec. (a)(2)(C), is title X of Pub. L. 111–203, J
 
 #### Codification
 In subsec. (a)(5)(C), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### Amendments
+2025—Subsec. (a)(2)(A)(iii). Pub. L. 119–21 substituted “6.5 percent” for “12 percent”.
 
 
 <a id="section-5513"></a>

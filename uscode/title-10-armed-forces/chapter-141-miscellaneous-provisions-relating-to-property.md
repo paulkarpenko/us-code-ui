@@ -167,7 +167,7 @@ A prior section 2390, added Pub. L. 95–79, title VIII, § 815(a), July 30, 197
 
 **(b) Adjustment and Diversification Assistance.—**
 
-(1) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense in order to assist State and local governments in planning community adjustments and economic diversification required (A) by the proposed or actual establishment, realignment, or closure of a military installation, (B) by the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, (C) by a publicly announced planned major reduction in Department of Defense spending that would directly and adversely affect a community, (D) by the encroachment of a civilian community on a military installation, (E) by threats to military installation resilience, or (F) by the closure or the significantly reduced operations of a defense facility as the result of the merger, acquisition, or consolidation of the defense contractor operating the defense facility, if the Secretary determines that an action described in clause (A), (B), (C), or (F) is likely to have a direct and significantly adverse consequence on the affected community or, in the case of an action described in clause (D) or (E), if the Secretary determines that either the encroachment of the civilian community or threats to military installation resilience is likely to impair the continued operational utility of the military installation.
+(1) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense in order to assist State and local governments in planning community adjustments and economic diversification required (A) by the proposed or actual establishment, realignment, or closure of a military installation, (B) by the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, (C) by a publicly announced planned major reduction in Department of Defense spending that would directly and adversely affect a community, (D) by the encroachment of a civilian community on a military installation, (E) by threats to military installation resilience, (F) by the closure or the significantly reduced operations of a defense facility as the result of the merger, acquisition, or consolidation of the defense contractor operating the defense facility, or (G) by any action of the Department of Defense that negatively affects a covered depot (as such term is defined in [section 2476(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2476/f&num=0&edition=prelim)), if the Secretary determines that an action described in clause (A), (B), (C), (F), or (G) is likely to have a direct and significantly adverse consequence on the affected community or, in the case of an action described in clause (D) or (E), if the Secretary determines that either the encroachment of the civilian community or threats to military installation resilience is likely to impair the continued operational utility of the military installation.
 
 (2) In the case of the establishment or expansion of a military installation, assistance may be made under paragraph (1) only if (A) community impact assistance or special impact assistance is not otherwise available, and (B) the establishment or expansion involves the assignment to the installation of (i) more than 2,000 military, civilian, and contractor Department of Defense personnel, or (ii) more military, civilian, and contractor Department of Defense personnel than the number equal to 10 percent of the number of persons employed in counties or independent municipalities within fifteen miles of the installation, whichever is lesser.
 
@@ -191,13 +191,15 @@ A prior section 2390, added Pub. L. 95–79, title VIII, § 815(a), July 30, 197
 
   (A) The Secretary of Defense may also make grants, conclude cooperative agreements, and supplement other Federal funds in order to assist a State or local government in planning community adjustments and economic diversification even though the State or local government is not currently eligible for assistance under paragraph (1) if the Secretary determines that a substantial portion of the economic activity or population of the geographic area to be subject to the advance planning is dependent on defense expenditures.
 
-  (B) The Secretary of Defense may also make grants, conclude cooperative agreements, and supplement other Federal funds in order to assist a State in enhancing its capacities—
+  (B) The Secretary of Defense may also make grants, conclude cooperative agreements, and supplement other Federal funds in order to assist a State or local government in enhancing its capacities—
 
     (i) to assist communities, businesses, and workers adversely affected by an action described in paragraph (1);
 
-    (ii) to support local adjustment and diversification initiatives; and
+    (ii) to support local adjustment and diversification initiatives;
 
-    (iii) to stimulate cooperation between statewide and local adjustment and diversification efforts.
+    (iii) to stimulate cooperation between statewide and local adjustment and diversification efforts; and
+
+    (iv) to support public infrastructure projects and services (including health care, housing, and defense critical infrastructure projects and services) that enhance the capabilities and resilience of the defense industrial base, defense industrial base workers, and military installations.
 
   (C) The Secretary of Defense may also make grants, conclude cooperative agreements, and supplement other Federal funds in order to assist a State or local government in enhancing the capabilities of the government to support efforts of the Department of Defense to privatize, contract for, or diversify the performance of military family support services in cases in which the capability of the Department to provide such services is adversely affected by an action described in paragraph (1).
 
@@ -223,21 +225,21 @@ A prior section 2390, added Pub. L. 95–79, title VIII, § 815(a), July 30, 197
 
 (1)
 
-  (A) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense to assist State and local governments to address deficiencies in community infrastructure supportive of a military installation.
+  (A) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense to assist State governments, local governments, and not-for-profit, member-owned utility services to address deficiencies in community infrastructure supportive of a military installation.
 
-  (B) The Secretary shall establish criteria for the selection of community infrastructure projects to receive assistance under this subsection, including selection of community infrastructure projects in the following order of priority:
+  (B) The Secretary shall establish criteria for the selection of community infrastructure projects to receive assistance under this subsection for each of the following categories:
 
-    (i) Projects that will enhance military value at a military installation, taking into consideration the military value criteria originally developed by the Secretary in compliance with the amendment made by section 3002 of the Military Construction Authorization Act for Fiscal Year 2002 (division B of Public Law 107–107; 115 Stat. 1344).
+    (i) Projects that will enhance the readiness of a military department or mission assurance at a military installation.
 
-    (ii) Projects that will contribute to the training of cadets enrolled in an independent Reserve Officer Training Corps program at a covered educational institution.
+    (ii) Projects that will enhance military family quality of life at a military installation, taking into consideration subsection (e)(4)(C).
 
-    (iii) Projects that will enhance military installation resilience, as defined in section 101(e)(8) 11 See References in Text note below. of this title.
+    (iii) Projects that will enhance military installation resilience, as defined in [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
-    (iv) Projects that will enhance military family quality of life at a military installation, taking into consideration subsection (e)(4)(C).
+    (iv) Projects that will contribute to the training of cadets enrolled in an independent Reserve Officer Training Corps program at a covered educational institution.
 
 (2)
 
-  (A) The criteria established for the selection of community infrastructure projects to receive assistance under this subsection shall include a requirement that, except as provided in subparagraph (B), the State or local government agree to contribute not less than 30 percent of the funding for the community infrastructure project.
+  (A) The criteria established for the selection of community infrastructure projects to receive assistance under this subsection shall include a requirement that, except as provided in subparagraph (B), the recipient of such assistance agrees to contribute not less than 30 percent of the funding for the community infrastructure project.
 
   (B) If a proposed community infrastructure project will be carried out in a rural area or the Secretary of Defense determines that a proposed community infrastructure project is advantageous for reasons related to national security, the Secretary—
 
@@ -277,6 +279,8 @@ A prior section 2390, added Pub. L. 95–79, title VIII, § 815(a), July 30, 197
 
     (iii) A water, waste-water, telecommunications, electric, gas, or other utility infrastructure project.
 
+    (iv) A demolition project.
+
   (C) For the purposes of determining whether proposed community infrastructure will enhance quality of life, the Secretary of Defense shall consider the impact of the community infrastructure on alleviating installation commuter workforce issues and the benefit of schools or other local infrastructure located off of a military installation that will support members of the armed forces and their dependents residing in the community.
 
 (5) The term “rural area” means a city, town, or unincorporated area that has a population of not more than 100,000 inhabitants.
@@ -302,9 +306,29 @@ Executive Order 12788, referred to in subsec. (c), is set out below.
 
 The amendment made by section 3002 of the Military Construction Authorization Act for Fiscal Year 2002, referred to in subsec. (d)(1)(B)(i), is the amendment made by section 3002 of title XXX of div. B of Pub. L. 107–107, Dec. 28, 2001, 115 Stat. 1344, which amended the Defense Base Closure and Realignment Act of 1990 (Pub. L. 101–510, div. B, title XXIX, part A [§ 2901 et seq.], Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under [section 2687 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687)) by adding section 2912 of such Act.
 
-[Section 101(e)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/8&num=0&edition=prelim), referred to in subsec. (d)(1)(B)(iii), was redesignated [section 101(f)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/f/8&num=0&edition=prelim), and a new subsec. (e) of section 101 was added, by Pub. L. 118–31, div. A, title XVII, § 1713(a), Dec. 22, 2023, 137 Stat. 625.
-
 #### Amendments
+2025—Subsec. (b)(1). Pub. L. 119–60, § 371(a), struck out “or” after “military installation resilience,”, inserted “or (G) by any action of the Department of Defense that negatively affects a covered depot (as such term is defined in [section 2476(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2476/f&num=0&edition=prelim)),” after “the defense facility,”, and substituted “(C), (F), or (G)” for “(C), or (F)”.
+
+Subsec. (b)(5)(B)(iv). Pub. L. 119–60, § 2805, inserted “(including health care, housing, and defense critical infrastructure projects and services)” after “projects and services” and substituted “the defense industrial base, defense industrial base workers, and military installations” for “the defense industrial base workers, if the Secretary determines such support will improve operations of the Department of Defense”.
+
+Subsec. (d)(1)(B). Pub. L. 119–60, § 2806(a)(1), substituted “for each of the following categories” for “, including selection of community infrastructure projects in the following order of priority” in introductory provisions.
+
+Subsec. (d)(1)(B)(i). Pub. L. 119–60, § 2806(a)(2), which directed substitution of “the readiness of a military department or mission assurance at a military installation.” for “ ‘military value’ and all that follows through the period”, was executed by striking out “military value at a military installation, taking into consideration the military value criteria originally developed by the Secretary in compliance with the amendment made by section 3002 of the Military Construction Authorization Act for Fiscal Year 2002 (division B of Public Law 107–107; 115 Stat. 1344).”, beginning with “military value” where first appearing, to reflect the probable intent of Congress.
+
+Subsec. (d)(1)(B)(ii), (iv). Pub. L. 119–60, § 2806(a)(3), redesignated cls. (ii) and (iv) as (iv) and (ii), respectively, and reordered cls. accordingly.
+
+Subsec. (e)(4)(B)(iv). Pub. L. 119–60, § 2807, added cl. (iv).
+
+2024—Subsec. (b)(5)(B). Pub. L. 118–159, § 2842(1), inserted “or local government” after “a State” in introductory provisions.
+
+Subsec. (b)(5)(B)(iv). Pub. L. 118–159, § 2842(2)–(4), added cl. (iv).
+
+Subsec. (d)(1)(A). Pub. L. 118–159, § 2802(a)(1), substituted “State governments, local governments, and not-for-profit, member-owned utility services” for “State and local governments”.
+
+Subsec. (d)(1)(B)(iii). Pub. L. 118–159, § 2802(b), substituted “[section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101)” for “[section 101(e)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/8&num=0&edition=prelim)”.
+
+Subsec. (d)(2)(A). Pub. L. 118–159, § 2802(a)(2), substituted “the recipient of such assistance agrees” for “the State or local government agree”.
+
 2023—Subsec. (d). Pub. L. 118–31, § 2801(1), struck out “Pilot” before “Program” in heading.
 
 Subsec. (d)(5). Pub. L. 118–31, § 2801(2), struck out par. (5) which read as follows: “The authority under this subsection shall expire on September 30, 2028.”
@@ -423,6 +447,9 @@ Pub. L. 100–456, div. B, title XXVII, § 2702, Sept. 29, 1988, 102 Stat. 2115,
 
 #### Effective Date of 1983 Amendment
 Pub. L. 98–115, title VIII, § 808, Oct. 11, 1983, 97 Stat. 789, provided that the amendment made by that section is effective Oct. 1, 1983.
+
+#### Temporary Priority and Allocation of Funds Under Program
+Pub. L. 119–60, div. B, title XXVIII, § 2806(b), Dec. 18, 2025, 139 Stat. 1298, provided that: “During the two-year period beginning on the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall— “(1) give priority under the Defense Community Infrastructure Program under [section 2391(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2391/d&num=0&edition=prelim), United States Code, to projects under subparagraph (B)(ii) of such section (as amended by subsection (a)), for which an application has been previously made for assistance under that program; and “(2) allocate not less than two-thirds of the amounts appropriated or otherwise made available for such program equally among projects under subparagraphs (B)(i) and (B)(ii) of such program (as amended by subsection (a)).”
 
 #### Restrictions on Use of Funds for Development of Public Infrastructure in Commonwealth of Northern Mariana Islands
 Pub. L. 115–232, div. B, title XXVIII, § 2863, Aug. 13, 2018, 132 Stat. 2284, provided that: “(a) Restriction.—If the Secretary of Defense determines that any grant, cooperative agreement, transfer of funds to another Federal agency, or supplement of funds available under Federal programs administered by agencies other than the Department of Defense will result in the development (including repair, replacement, renovation, conversion, improvement, expansion, acquisition, or construction) of public infrastructure in the Commonwealth of the Northern Mariana Islands (hereafter in this section referred to as the ‘Commonwealth’), the Secretary of Defense may not carry out such grant, transfer, cooperative agreement, or supplemental funding unless such grant, transfer, cooperative agreement, or supplemental funding—“(1) is specifically authorized by law; and “(2) will be used to carry out a public infrastructure project included in the report submitted under subsection (b). “(b) Report of Economic Adjustment Committee.—“(1) Convening of committee.—Not later than 90 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense, as the chair of the Economic Adjustment Committee established in Executive Order No. 127887 [probably should be Executive Order No. 12788] ([10 U.S.C. 2391](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2391) note), shall convene the Economic Adjustment Committee to consider assistance, including assistance to support public infrastructure projects, necessary to support changes in Department of Defense activities in the Commonwealth. “(2) Report.—Not later than 180 days after convening the Economic Adjustment Committee under paragraph (1), the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report—“(A) describing the results of the Economic Adjustment Committee deliberations required by paragraph (1); and “(B) containing a description of any assistance the Committee determines to be necessary to support changes in Department of Defense activities in the Commonwealth, including any public infrastructure projects the Committee determines should be carried out with such assistance. “(c) Public Infrastructure Defined.—In this section, the term ‘public infrastructure’ means any utility, method of transportation, item of equipment, or facility under the control of a public entity or State or local government that is used by, or constructed for the benefit of, the general public.”
@@ -602,7 +629,41 @@ Sec. 7. Construction. (a) Nothing in this order shall be construed as subjecting
 
 
 <a id="section-2392"></a>
-## § 2392. Renumbered § 4653]
+## § 2392. Process for strategic basing actions for the Department of the Air Force
+**(a) Programmatic Basing Decisions Prohibited.—** The Secretary of the Air Force (or a designee) shall not make any basing decision during the resource allocation plan or program objective memorandum process.
+
+**(b) Quarterly Briefings.—** Not later than 90 days after the date of the enactment of this section, and quarterly thereafter, the Secretary of the Air Force (or a designee) shall brief the congressional defense committees on the following:
+
+(1) Strategic basing actions approved by the strategic basing panel for review by the strategic basing executive steering group during the quarter covered by the briefing.
+
+(2) For each strategic basing action not covered by a previous briefing, a description of the criteria for selection of candidate location for each such strategic basing action and how each criterion will be applied to the candidate locations to determine preferred location.
+
+(3) Updates regarding candidate locations, preferred locations, and the final location selected for each strategic basing action covered by the briefing.
+
+(4) Any strategic basing actions with projected decision dates that will occur before the next scheduled briefing under this subsection.
+
+**(c) Additional Briefings.—** Upon request by either the Committee on Armed Services of the House of Representatives or of the Senate, the Secretary of the Air Force (or a designee) shall provide to such Committee a briefing on the information described in subsection (b).
+
+**(d) Post-briefing Changes.—** The Secretary of the Air Force (or a designee) shall notify the congressional defense committees, not later than seven days after the effective date of a change, if such change is a change—
+
+(1) to the selection criteria or the application of selection criteria, that would result in a different decision than briefed under subsection (b) regarding the enterprise definition, identified candidate locations, or identified preferred location; or
+
+(2) to the governance process used to oversee a strategic basing action.
+
+**(e) Overseas Strategic Basing Actions.—** With respect to a strategic basing action relating to a military installation located outside of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or Guam, a notification required under this section may be provided in a classified form.
+
+**(f) Definitions.—** In this section, the terms “enterprise definition”, “program objective memorandum process”, “resource allocation plan”, “strategic basing action”, “strategic basing executive steering group”, and “strategic basing panel” have the meanings given, respectively, under the Department of the Air Force Instruction 10–503 (issued June 12, 2023, as in effect on November 1, 2024).
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (b), is the date of enactment of Pub. L. 118–159, which was approved Dec. 23, 2024.
+
+#### Prior Provisions
+A prior section 2392 was renumbered [section 4653 of this title](./chapter-363-prohibition-and-penalties.md#section-4653).
+
+#### Effective Date
+Pub. L. 118–159, div. B, title XXVIII, § 2803(b), Dec. 23, 2024, 138 Stat. 2248, provided that: “This section [enacting this section] and the amendments made by this section shall apply with respect to strategic basing actions (as defined in [section 2392 of title 10](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2392), United States Code, as added by this section) made by the Secretary of the Air Force on or after the date of the enactment of this Act [Dec. 23, 2024].”
 
 
 <a id="section-2393"></a>

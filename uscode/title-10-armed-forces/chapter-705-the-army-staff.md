@@ -508,6 +508,8 @@ The Adjutant General.
 
 (2) the ability of judge advocates of the Army assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
 
+**(f)** If the Judge Advocate General is removed from office before the end of the term of the Judge Advocate General as specified in subsection (a), the Secretary of Defense shall, not later than five days after the removal takes effect, submit to the Committees on Armed Services of the Senate and the House of Representatives notice that the Judge Advocate General is being removed and a statement of the reason for the removal.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -529,6 +531,8 @@ In subsection (c), the words “In addition to duties elsewhere prescribed for h
 The change corrects an inadvertence. The source statute for [section 3036(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3036/c&num=0&edition=prelim) (the third sentence of sec. 513(a) of the Officer Personnel Act of 1947, 61 Stat. 901), providing for a 4-year term of office, applied also to the Judge Advocate General and the Assistant Judge Advocate General. As restated in section 3036(c), it now applies only to the officers named in section 3036(b), which excludes the two officers named. For this reason, the effect of the source statute with respect to those officers is added to section 3037(a), relating to their appointment.
 
 #### Amendments
+2025—Subsec. (f). Pub. L. 119–60 added subsec. (f).
+
 2018—Pub. L. 115–232 renumbered [section 3037 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3037&num=0&edition=prelim) as this section.
 
 2016—Subsec. (a). Pub. L. 114–328 struck out last two sentences which read as follows: “The Judge Advocate General, while so serving, has the grade of lieutenant general. An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.”

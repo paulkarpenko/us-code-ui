@@ -2,7 +2,7 @@
 title: 37
 chapter: '19'
 heading: ADMINISTRATION
-section_count: 15
+section_count: 16
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37&num=0&edition=prelim
 ---
@@ -54,8 +54,8 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 
 <a id="section-1002"></a>
-## § 1002. Additional training or duty without pay: Reserves and members of National Guard
-**(a)** A member of the National Guard, or of a reserve component of a uniformed service, may, with his consent, be given additional training or other duty as provided by law, without pay, as may be authorized by the Secretary concerned.
+## § 1002. Additional training or duty without pay: Reserves; members of the National Guard; members of the Space Force
+**(a)** A member of a reserve component of a uniformed service, or of the Space Force may, with the consent of the member, be given additional training or other duty as provided by law, without pay, as may be authorized by the Secretary concerned.
 
 **(b)**
 
@@ -63,7 +63,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (2) If a military technician (dual status), as described in [section 10216 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section10216&num=0&edition=prelim), is performing active duty without pay while on leave from technician employment, as authorized by [section 6323(d) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6323/d&num=0&edition=prelim), the Secretary concerned may authorize the payment of a per diem allowance to the military technician in lieu of commutation for subsistence and quarters under paragraph (1).
 
-**(c)** This section does not authorize compensation for work or study performed by a member of a reserve component in connection with correspondence courses of an armed force.
+**(c)** This section does not authorize compensation for work or study performed by a member of a reserve component or the Space Force in connection with correspondence courses of an armed force.
 
 **(d)** This section does not apply to a member who is entitled to basic pay under chapter 3 of this title.
 
@@ -81,6 +81,12 @@ In subsection (b), the words “section 404(a)–(d), and (f), of this title” 
 Subsection (d) is substituted for section 301(e) of existing title 37.
 
 #### Amendments
+2025—Pub. L. 119–60, § 601(h)(1), substituted “; members of the National Guard; members of the Space Force” for “and members of National Guard” in section catchline. Catchline text was editorially conformed to the style used in this title.
+
+Subsec. (a). Pub. L. 119–60, § 601(h)(2), substituted “of a reserve component of a uniformed service, or of the Space Force” for “of the National Guard, or of a reserve component of a uniformed service,” and “the consent of the member” for “his consent”.
+
+Subsec. (c). Pub. L. 119–60, § 601(h)(3), inserted “or the Space Force” after “of a reserve component”.
+
 2022—Subsec. (b)(1). Pub. L. 117–263 substituted “section 452” for “section 474(a)–(d), and (f),”.
 
 2013—Subsec. (b)(1). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
@@ -648,7 +654,7 @@ Pub. L. 110–417, [div. A], title VI, § 601, Oct. 14, 2008, 122 Stat. 4482.
 
 Pub. L. 110–181, div. A, title VI, § 601, Jan. 28, 2008, 122 Stat. 145.
 
-Pub. L. 109–364, div. A, title VI, § 601, Oct. 17, 2006, 120 Stat. 2240, as amended by Pub. L. 116–283, div. A, title IX, § 925(b), Jan. 1, 2021, 134 Stat. 3826.
+Pub. L. 109–364, div. A, title VI, § 601, Oct. 17, 2006, 120 Stat. 2240, as amended by Pub. L. 116–283, div. A, title IX, § 925(b), Jan. 1, 2021, 134 Stat. 3826; Pub. L. 118–159, div. A, title V, § 521(g)(4), Dec. 23, 2024, 138 Stat. 1881.
 
 Pub. L. 109–163, div. A, title VI, § 601, Jan. 6, 2006, 119 Stat. 3286.
 
@@ -843,3 +849,27 @@ Pub. L. 99–500, § 101(c) [title IX, § 9103(4)], Oct. 18, 1986, 100 Stat. 178
 
 #### Prior Provisions
 A prior section 1015, added Pub. L. 106–65, div. A, title VI, § 673(a)(1), Oct. 5, 1999, 113 Stat. 674, related to annual report on effects of recruitment and retention initiatives, prior to repeal by Pub. L. 109–364, div. A, title X, § 1046(b)(1), Oct. 17, 2006, 120 Stat. 2393.
+
+
+<a id="section-1016"></a>
+## § 1016. Pay statements: descriptions of types of pay
+**(a) In General.—** The Secretary of Defense shall make available contemporaneously with each pay statement provided to a member of the Armed Forces, for each type of pay, allowance, and deduction listed on the statement, a brief and plain-language description of—
+
+(1) the statutory or regulatory authority under which a pay, allowance, or deduction is made;
+
+(2) the purpose of a pay, allowance, or deduction;
+
+(3) the criteria for determining eligibility of members for a pay, allowance, or deduction; and
+
+(4) possible changes in the eligibility of the member for a pay, allowance, or deduction, including the circumstances under which a pay, allowance, or deduction may be suspended or modified or may expire.
+
+**(b) Requirements.—** The descriptions required to be made available with a pay statement under paragraph (1) shall be—
+
+(1) published on a website accessible by a member and printable with the pay statement of the member; and
+
+(2) presented in language easily understood by individuals without specialized knowledge of military finance, accounting, or law.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 119–60, div. A, title VI, § 661(b), Dec. 18, 2025, 139 Stat. 914, provided that: “The requirements of [section 1016 of title 37](./chapter-019-administration.md#section-1016), United States Code, as added by subsection (a), shall apply with respect to pay statements issued on or after the date that is 180 days after the date of the enactment of this Act [Dec. 18, 2025].”

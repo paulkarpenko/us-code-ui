@@ -2,7 +2,7 @@
 title: 46
 chapter: '75'
 heading: 'GENERAL PROCEDURES FOR LICENSING, CERTIFICATION, AND DOCUMENTATION'
-section_count: 11
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -146,9 +146,13 @@ Notwithstanding any provision of section 14302(c) or 14305 of this title, the Se
 
 **(c) Manner of Extension.—** Any extensions granted under this section may be granted to individual seamen or a specifically identified group of seamen.
 
+**(d) Renewal.—** With respect to any renewal of an active merchant mariner credential issued under this part that is not an extension under subsection (a) or (b), such credential shall begin the day after the expiration of the active credential of the credential holder.
+
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (d). Pub. L. 119–60 added subsec. (d).
+
 2018—Subsec. (b)(1). Pub. L. 115–282, § 510(3), substituted “merchant mariner documents” for “licenses or certificates of registry”.
 
 Subsec. (b)(2). Pub. L. 115–282, § 510(4), substituted “license or certificate of registry.” for “merchant mariner’s document.”
@@ -208,9 +212,9 @@ Pub. L. 114–120, title III, § 309(b), Feb. 8, 2016, 130 Stat. 57, provided th
 
 **(b) Exception for Certain Questions.—** Notwithstanding subsection (a), the Secretary may, for the purpose of preparation by the general public for examinations required for merchant mariner credentials, release an examination question and answer that the Secretary has retired or is not presently on or part of an examination, or that the Secretary determines is appropriate for release.
 
-**(c) Exam Review.—**
+**(c) Working group.—**
 
-(1) **In general.—** — Not later than 90 days after the date of the enactment of the Coast Guard Authorization Act of 2016, and once every two years thereafter, the Commandant shall commission a working group to review new questions for inclusion in examinations required for merchant mariner credentials, composed of—
+(1) **In general.—** — Not later than 180 days after the date of the enactment of the Coast Guard Authorization Act of 2025, and once every two years thereafter, the Commandant shall commission a working group to review questions, content, and relevancy of examinations required for merchant mariner credentials, composed of—
 
   (A) 1 subject matter expert from the Coast Guard;
 
@@ -224,52 +228,88 @@ Pub. L. 114–120, title III, § 309(b), Feb. 8, 2016, 130 Stat. 57, provided th
 
   (D) at least 2 representatives from the State maritime academies, of whom one shall be a representative from the deck training track and one shall be a representative of the engineer license track;
 
-  (E) representatives from other Coast Guard Federal advisory committees, as appropriate, for the industry segment associated with the subject examinations;
+  (E) at least 2 individuals that have taken and passed the examination in the 5 years before the commissioning of the working group;
 
-  (F) at least 1 subject matter expert from the Maritime Administration; and
+  (F) at least 1 representative from the United States Merchant Marine Academy;
 
-  (G) at least 1 human performance technology representative.
+  (G) representatives from other Coast Guard Federal advisory committees, as appropriate, for the industry segment associated with the subject examinations;
+
+  (H) at least 1 subject matter expert from the Maritime Administration; and
+
+  (I) at least 1 human performance technology representative.
 
 (2) **Inclusion of persons knowledgeable about examination type.—** — The working group shall include representatives knowledgeable about the examination type under review.
 
-(3) **Limitation.—** — The requirement to convene a working group under paragraph (1) does not apply unless there are new examination questions to review.
+(3) **Meeting of working group.—**
 
-(4) **Baseline review.—**
+  (A) *In general.—* — The Commandant shall convene the working group annually or at the creation of new examination questions, whichever occurs sooner.
 
-  (A) *In general.—* — Within 1 year after the date of the enactment of the Coast Guard Authorization Act of 2016, the Secretary shall convene the working group to complete a baseline review of the Coast Guard’s Merchant Mariner Credentialing Examination, including review of—
+  (B) *Remote participation.—* — The Commandant shall allow any member of the working group to participate remotely if the member of the working group does not have the means to participate in person.
 
-    (i) the accuracy of examination questions;
+(4) **Use of questions.—** — The Commandant may not use questions developed for use in the Merchant Mariner Credentialing Examination until such questions are reviewed and approved by the working group.
 
-    (ii) the accuracy and availability of examination references;
+(5) **Review.—**
 
-    (iii) the length of merchant mariner examinations; and
+  (A) *In general.—* — Not later than 270 days after the date of the enactment of the Coast Guard Authorization Act of 2025, the Commandant shall convene the working group to complete a baseline review of the Coast Guard’s Merchant Mariner Credentialing Examination, including review of—
 
-    (iv) the use of standard technologies in administering, scoring, and analyzing the examinations.
+    (i) industry standards, practices, and technology to be considered in the Merchant Mariner Credentialing Examination;
 
-  (B) *Progress report.—* — The Coast Guard shall provide a progress report to the appropriate congressional committees on the review under this paragraph.
+    (ii) the accuracy of examination questions;
 
-(5) **Full membership not required.—** — The Coast Guard may convene the working group without all members present if any non-Coast-Guard representative is present.
+    (iii) the accuracy and availability of examination references;
+
+    (iv) the length of merchant mariner examinations;
+
+    (v) the relevancy of examination topics and contents;
+
+    (vi) any redundancy of core competencies between the Merchant Mariner Credentialing Examination and Standards of Training, Certification, and Watchingkeeping competencies; and
+
+    (vii) the use of standard technologies in administering, scoring, and analyzing the examinations.
+
+  (B) *Report to commandant.—* — Upon completion of the review under this paragraph, a report shall be provided to the Commandant which shall include findings of the review with recommendations for updates to the Merchant Marine Credentialling Examination.
 
 (6) **Nondisclosure agreement.—** — The Secretary shall require all members of the working group to sign a nondisclosure agreement with the Secretary.
 
 (7) **Treatment of members as federal employees.—** — A member of the working group who is not a Federal Government employee shall not be considered a Federal employee in the service or the employment of the Federal Government, except that such a member shall be considered a special government employee, as defined in [section 202(a) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section202/a&num=0&edition=prelim) for purposes of sections 203, 205, 207, 208, and 209 of such title and shall be subject to any administrative standards of conduct applicable to an employee of the department in which the Coast Guard is operating.
 
-(8) **Formal exam review.—** — The Secretary shall ensure that the Coast Guard Performance Technology Center—
-
-  (A) prioritizes the review of examinations required for merchant mariner credentials; and
-
-  (B) not later than 3 years after the date of enactment of the Coast Guard Authorization Act of 2016, completes a formal review, including an appropriate analysis, of the topics and testing methodology employed by the National Maritime Center for merchant mariner licensing.
-
-(9) **Chapter 10 of title 5.—** — Chapter 10 of title 5 shall not apply to any working group created under this section to review the Coast Guard’s merchant mariner credentialing examinations.
+(8) **Chapter 10 of title 5.—** — Chapter 10 of title 5 shall not apply to any working group created under this section to review the Coast Guard’s merchant mariner credentialing examinations.
 
 **(d) Merchant Mariner Credential Defined.—** In this section, the term “merchant mariner credential” means a merchant mariner license, certificate, or document that the Secretary is authorized to issue pursuant to this title.
 
 ### Statutory Notes
 
 #### References in Text
-The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsec. (c)(1), (4)(A), (8)(B), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
+The date of the enactment of the Coast Guard Authorization Act of 2025, referred to in subsec. (c)(1), (5)(A), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 119–60, § 7301(g)(2)(A), substituted “Working Group” for “Exam Review” in heading.
+
+Subsec. (c)(1). Pub. L. 119–60, § 7301(g)(2)(B)(i)–(iii), substituted “180 days” for “90 days”, “Coast Guard Authorization Act of 2025” for “Coast Guard Authorization Act of 2016”, and “questions, content, and relevancy of” for “new questions for inclusion in” in introductory provisions.
+
+Subsec. (c)(1)(E) to (I). Pub. L. 119–60, § 7301(g)(2)(B)(iv), (v), added subpars. (E) and (F) and redesignated former subpars. (E) to (G) as (G) to (I), respectively.
+
+Subsec. (c)(3). Pub. L. 119–60, § 7301(g)(2)(D), (F), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The requirement to convene a working group under paragraph (1) does not apply unless there are new examination questions to review.”
+
+Subsec. (c)(4). Pub. L. 119–60, § 7301(g)(2)(F), added par. (4). Former par. (4) redesignated (5).
+
+Pub. L. 119–60, § 7301(g)(2)(C)(i), substituted “Review” for “Baseline review” in heading.
+
+Subsec. (c)(4)(A). Pub. L. 119–60, § 7301(g)(2)(C)(ii)(IV)–(VII), added cl. (i), redesignated former cls. (i) to (iii) as (ii) to (iv), respectively, added cls. (v) and (vi), and redesignated former cl. (iv) as (vii).
+
+Pub. L. 119–60, § 7301(g)(2)(C)(ii)(I)–(III), substituted “Not later than 270 days” for “Within 1 year”, “Coast Guard Authorization Act of 2025” for “Coast Guard Authorization Act of 2016”, and “Commandant” for “Secretary” in introductory provisions.
+
+Subsec. (c)(4)(B). Pub. L. 119–60, § 7301(g)(2)(C)(iii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The Coast Guard shall provide a progress report to the appropriate congressional committees on the review under this paragraph.”
+
+Subsec. (c)(5). Pub. L. 119–60, § 7301(g)(2)(D), (E), redesignated par. (4) as (5) and struck out par. (5). Text read as follows: “The Coast Guard may convene the working group without all members present if any non-Coast-Guard representative is present.”
+
+Subsec. (c)(8). Pub. L. 119–60, § 7301(g)(2)(D), (E), redesignated par. (9) as (8) and struck out par. (8). Text read as follows: “The Secretary shall ensure that the Coast Guard Performance Technology Center—
+
+“(A) prioritizes the review of examinations required for merchant mariner credentials; and
+
+“(B) not later than 3 years after the date of enactment of the Coast Guard Authorization Act of 2016, completes a formal review, including an appropriate analysis, of the topics and testing methodology employed by the National Maritime Center for merchant mariner licensing.”
+
+Subsec. (c)(9). Pub. L. 119–60, § 7301(g)(2)(E), redesignated par. (9) as (8).
+
 2022—Subsec. (c)(9). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
 2021—Subsec. (c)(8)(B). Pub. L. 116–283, § 8505(b)(7)(A), substituted “merchant mariner” for “merchant seamen”.
@@ -289,7 +329,7 @@ Subsec. (c)(4)(A), (8)(B). Pub. L. 114–328, § 3503(a), substituted “Coast G
 Subsec. (c)(9). Pub. L. 114–328, § 3503(b)(1)(B), inserted a period after “App”.
 
 #### Effective Date of 2016 Amendment
-Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under [section 315 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section315&num=0&edition=prelim), Coast Guard.
+Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under [section 2182 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2182&num=0&edition=prelim), Coast Guard.
 
 #### Disclosure to Congress
 Pub. L. 114–120, title III, § 315(c), Feb. 8, 2016, 130 Stat. 62, provided that: “Nothing in this section [enacting this section and [section 7116 of this title](./chapter-071-licenses-and-certificates-of-registry.md#section-7116)] may be construed to authorize the withholding of information from an appropriate inspector general, the Committee on Commerce, Science, and Transportation of the Senate, or the Committee on Transportation and Infrastructure of the House of Representatives.”
@@ -299,8 +339,56 @@ Pub. L. 114–120, title III, § 315(c), Feb. 8, 2016, 130 Stat. 62, provided th
 ## § 7511. Convicted sex offender as grounds for denial
 **(a) Sexual Abuse.—** A license, certificate of registry, or merchant mariner’s document authorized to be issued under this part shall be denied to an individual who has been convicted of a sexual offense prohibited under—
 
-(1) chapter 109A of title 18, except for subsection (b) of [section 2244 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2244&num=0&edition=prelim); or
+(1) chapter 109A of title 18, except for subsection (b) of [section 2244 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2244&num=0&edition=prelim);
 
-(2) a substantially similar offense under State, local, or Tribal law.
+(2) section 920 or 920b of title 10 (article 120 and 120b of the Uniform Code of Military Justice); or
+
+(3) a substantially similar offense under Federal, State, local, or Tribal law.
 
 **(b) Abusive Sexual Contact.—** A license, certificate of registry, or merchant mariner’s document authorized to be issued under this part may be denied to an individual who within 5 years before applying for the license, certificate, or document, has been convicted of a sexual offense prohibited under subsection (b) of [section 2244 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2244&num=0&edition=prelim), or a substantially similar offense under State, local, or Tribal law.
+
+### Statutory Notes
+
+#### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–60, § 7301(g)(3)(A), struck out “or” after “title 18;”.
+
+Subsec. (a)(2). Pub. L. 119–60, § 7301(g)(3)(D), added par. (2). Former par. (2) redesignated (3).
+
+Pub. L. 119–60, § 7301(g)(3)(B), substituted “Federal, State, local, or Tribal law” for “State, local, or Tribal law”.
+
+Subsec. (a)(3). Pub. L. 119–60, § 7301(g)(3)(C), redesignated par. (2) as (3).
+
+
+<a id="section-7512"></a>
+## § 7512. Requirements of electronic merchant mariner credentialing system
+**(a) Definition of Merchant Mariner Credential.—** In this section, the term “merchant mariner credential” means a merchant mariner license, certificate, or document that the Secretary is authorized to issue pursuant to this title.
+
+**(b) Necessary Considerations.—** In implementing any electronic merchant mariner credentialing system for purposes of this chapter, the Secretary shall consider how to allow, to the maximum extent practicable—
+
+(1) the electronic submission of the components of merchant mariner credential applications (such as sea service documentation, professional qualifications, course completion certificates, safety and suitability documents, and medical records) and course approval requests;
+
+(2) the direct electronic and secure submission of—
+
+  (A) sea service verification documentation from employers;
+
+  (B) course completion certificates from training providers; and
+
+  (C) necessary documentation from other stakeholders; and
+
+(3) the electronic processing and evaluation of information for the issuance of merchant mariner credentials and course approvals, including the capability for the Secretary to complete remote evaluation of information submitted through the system.
+
+**(c) Access to Data.—** The Secretary shall ensure that the Maritime Administration and other Federal agencies, as authorized by the Secretary, have access to anonymized and aggregated data from the electronic system described in subsection (b) and that such data include, at a minimum—
+
+(1) the total amount of sea service for individuals with a valid merchant mariner credential;
+
+(2) the number of mariners with valid merchant mariner credentials for each rating, including the capability to filter data based on credential endorsements;
+
+(3) demographic information including age, gender, and region or address;
+
+(4) the estimated times for the Coast Guard to process merchant mariner credential applications, mariner medical certificates, and course approvals;
+
+(5) the number of providers approved to provide training for purposes of this part and, for each such training provider, the number of classes taken by individuals with, or applying for, a merchant mariner credential; and
+
+(6) if applicable, the branch of the uniformed services (as defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim)) and duty status of applicants for a merchant mariner credential.
+
+**(d) Privacy Requirements.—** The Secretary shall collect the information required under subsection (b) in a manner that protects the privacy rights of individuals who are the subjects of such information.

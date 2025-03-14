@@ -25,4 +25,4 @@ Section 106, act May 27, 1930, ch. 342, § 6, 46 Stat. 429, related to filing of
 
 Section 107, act May 27, 1930, ch. 342, § 7, 46 Stat. 429, related to grant, renewal, and amendment of permits.
 
-Section 108, act May 27, 1930, ch. 342, § 8, 46 Stat. 430, provided that Bureau of Prohibition shall here­after be known as Bureau of Industrial Alcohol, and Commissioner of Prohibition shall hereafter have title of Commissioner of Industrial Alcohol.
+Section 108, act May 27, 1930, ch. 342, § 8, 46 Stat. 430, provided that Bureau of Prohibition shall hereafter be known as Bureau of Industrial Alcohol, and Commissioner of Prohibition shall hereafter have title of Commissioner of Industrial Alcohol.

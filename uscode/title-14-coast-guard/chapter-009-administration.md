@@ -91,7 +91,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 **(d) Minor Construction and Improvement.—**
 
-(1) **In general.—** — Subject to the reporting requirements set forth in paragraph (2), each fiscal year the Secretary may expend from amounts made available for the operations and support of the Coast Guard not more than $1,500,000 for minor construction and improvement projects at any location.
+(1) **In general.—** — Subject to the reporting requirements set forth in paragraph (2), each fiscal year the Secretary may expend from amounts made available for the operations and support of the Coast Guard not more than $2,000,000 for minor construction and improvement projects at any location.
 
 (2) **Report.—** — Not later than the date on which the President submits to Congress a budget under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) each year, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing each project carried out under paragraph (1), in the most recently concluded fiscal year, for which the amount expended under such paragraph for such project was more than $1,000,000. If no such project was carried out during a fiscal year, no report under this paragraph shall be required with respect to that fiscal year.
 
@@ -101,6 +101,8 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 Section 8513(a)(2)(B) of Pub. L. 116–283 amended subsec. (d)(1) of this section “amended by section 241(b)(1)”. Section 241(a), (b) of Pub. L. 116–283, set out as a note preceding [section 501 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section501&num=0&edition=prelim), Armed Forces, does not amend this section. Section 261(a)(1) of S. 2297, 116th Congress, known as the Coast Guard Authorization Act of 2019, as reported to the Senate, would have amended subsec. (d)(1) of this title by striking “reporting” and inserting “briefing”. S. 2297 was not enacted into law.
 
 #### Amendments
+2025—Subsec. (d)(1). Pub. L. 119–60 substituted “$2,000,000” for “$1,500,000”.
+
 2021—Subsec. (a). Pub. L. 116–283, § 8513(a)(2)(A), substituted “procurement, construction, and improvement of facilities and for research and development” for “acquisition, construction, and improvement of facilities, for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters”.
 
 Subsec. (d)(1). Pub. L. 116–283, § 8513(a)(2)(B), substituted “operations and support” for “operating expenses”.
@@ -382,7 +384,7 @@ Subsecs. (b), (c). Pub. L. 115–282, § 319(2), redesignated subsec. (c) as (b)
 2016—Subsec. (a)(2)(B). Pub. L. 114–328 substituted “Coast Guard Authorization Act of 2016” for “Coast Guard Authorization Act of 2015”.
 
 #### Effective Date of 2016 Amendment
-Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under [section 315 of this title](./chapter-003-composition-and-organization.md#section-315).
+Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under [section 2182 of this title](./chapter-021-personnel-officers.md#section-2182).
 
 
 <a id="section-913"></a>

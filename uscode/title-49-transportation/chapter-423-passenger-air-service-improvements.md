@@ -144,7 +144,7 @@ Pub. L. 114–190, title II, § 2308(c), July 15, 2016, 130 Stat. 648, provided 
 ### Statutory Notes
 
 #### References in Text
-Section 424 of the FAA Reauthorization Act of 2018, referred to in subsec. (d), is section 424 of Pub. L. 115–254, which is set out as a note under this section.
+Section 424 of the FAA Reauthorization Act of 2018, referred to in subsec. (d), is section 424 of Pub. L. 115–254, which is set out as a note below.
 
 #### Amendments
 2024—Pub. L. 118–63 amended section generally. Prior to amendment, section related to various means by which passengers could register consumer complaints.
@@ -301,9 +301,6 @@ The date of enactment of this section, referred to in subsec. (e)(1), is the dat
 **(c) Accessibility Assistance.—** Each large hub airport, medium hub airport, and small hub airport with scheduled passenger service shall ensure that passengers with a disability (as such term is defined in section 382.3 of title 14, Code of Federal Regulations) who identify themselves as having such a disability are notified of the availability of accessibility assistance and shall assist such passengers in connecting to the appropriate entities to obtain the same information required in this section that is provided to other passengers.
 
 ### Statutory Notes
-
-#### Delayed Effective Date of Section
-Section effective 1 year after May 16, 2024, see Effective Date note below.
 
 #### Effective Date
 Pub. L. 118–63, title V, § 504(d), May 16, 2024, 138 Stat. 1191, provided that: “The amendments made by this section [enacting this section and amending [section 46301 of this title](./chapter-463-penalties.md#section-46301)] shall take effect on the date that is 1 year after the date of enactment of this Act [May 16, 2024].”

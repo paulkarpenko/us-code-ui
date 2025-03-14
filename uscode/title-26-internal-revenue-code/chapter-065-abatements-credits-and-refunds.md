@@ -2,7 +2,7 @@
 title: 26
 chapter: '65'
 heading: 'ABATEMENTS, CREDITS, AND REFUNDS'
-section_count: 34
+section_count: 36
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -122,7 +122,7 @@ Amendment by Pub. L. 89–44 applicable to taxable years beginning on or after J
 
 **(b) Credits against estimated tax** The Secretary is authorized to prescribe regulations providing for the crediting against the estimated income tax for any taxable year of the amount determined by the taxpayer or the Secretary to be an overpayment of the income tax for a preceding taxable year.
 
-**(c) Offset of past-due support against overpayments** The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-due support (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of such Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligation for past-due support has been paid to the State. The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law. This subsection shall be applied to an overpayment prior to its being credited to a person’s future liability for an internal revenue tax.
+**(c) Offset of past-due support against overpayments** The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-due support (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of such Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligation for past-due support has been paid to the State. The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law. This subsection shall be applied to an overpayment prior to its being credited to a person’s future liability for an internal revenue tax. For purposes of this subsection, any reference to a State shall include a reference to any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act.
 
 **(d) Collection of debts owed to Federal agencies**
 
@@ -290,11 +290,13 @@ Amendment by Pub. L. 89–44 applicable to taxable years beginning on or after J
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (c), (d)(3)(D), and (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 204 and 464 of the Act are classified to sections 404 and 664, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (c), (d)(3)(D), and (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 204, 455, and 464 of the Act are classified to sections 404, 655, and 664, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 The date of the enactment of the Taxpayer First Act, referred to in subsec. (n), is the date of enactment of Pub. L. 116–25, which was approved July 1, 2019.
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 118–258 inserted at end “For purposes of this subsection, any reference to a State shall include a reference to any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act.”
+
 2019—Subsec. (n). Pub. L. 116–25 added subsec. (n).
 
 2018—Subsec. (a). Pub. L. 115–141, § 401(a)(285), substituted “(f), refund” for “(f) refund”.
@@ -2081,7 +2083,7 @@ Pub. L. 85–859, title I, § 163(e), Sept. 2, 1958, 72 Stat. 1312, as amended b
 
         (aa) in the case of a taxpayer who makes an election described in paragraph (1)(C), apply to the taxable year in which such equipment is placed in service and the 4 subsequent taxable years with respect to such equipment which end before January 1, 2033, and
 
-        (bb) in any other case, apply to such taxable year and to any subsequent taxable year which is within the period described in paragraph (3)(A) or (4)(A) of section 45Q(a) with respect to such equipment.
+        (bb) in any other case, apply to such taxable year and to any subsequent taxable year which is within the period described in section 45Q(a)(3)(A) with respect to such equipment.
 
     (ii) *Prohibition on transfer* — For any taxable year described in clause (i)(II)(aa) with respect to carbon capture equipment, no election may be made by the taxpayer under section 6418(a) for such taxable year with respect to such equipment for purposes of the credit described in subsection (b)(3).
 
@@ -2137,6 +2139,8 @@ Pub. L. 85–859, title I, § 163(e), Sept. 2, 1958, 72 Stat. 1312, as amended b
 
     (ii) the amount of the credit which, without application of this section, would be otherwise allowable (as determined pursuant to paragraph (2) and without regard to section 38(c)) under this title with respect to such facility or property for such taxable year.
 
+  (D) *Disallowance of an applicable energy credit* — In the case of an applicable entity which made an election under subsection (a) with respect to an applicable credit for which there is a disallowance described in section 6662(m)(2), subparagraph (A) shall apply with respect to any excessive payment resulting from such disallowance.
+
 **(e) Denial of double benefit** In the case of an applicable entity making an election under this section with respect to an applicable credit, such credit shall be reduced to zero and shall, for any other purposes under this title, be deemed to have been allowed to such entity for such taxable year.
 
 **(f) Mirror code possessions** In the case of any possession of the United States with a mirror code tax system (as defined in section 24(k)), this section shall not be treated as part of the income tax laws of the United States for purposes of determining the income tax law of such possession unless such possession elects to have this section be so treated.
@@ -2152,6 +2156,16 @@ The date of the enactment of this section, referred to in subsec. (d)(3)(A)(i)(I
 
 #### Prior Provisions
 A prior section 6417, act Aug. 16, 1954, ch. 736, 68A Stat. 801, related to a tax credit or refund to any person who has sold to a State, or a political subdivision thereof, any article containing any oil, combination, or mixture, upon the processing of which a tax has been paid under former section 4511, and to a refund to the exporter of the tax paid under former subchapter B of chapter 37, prior to repeal by Pub. L. 94–455, title XIX, § 1906(a)(25), (d)(1), Oct. 4, 1976, 90 Stat. 1827, 1835, effective on the first day of the first month beginning more than 90 days after Oct. 4, 1976.
+
+#### Amendments
+2025—Subsec. (d)(3)(C)(i)(II)(bb). Pub. L. 119–21, § 70522(c), substituted “section 45Q(a)(3)(A)” for “paragraph (3)(A) or (4)(A) of section 45Q(a)”.
+
+Subsec. (d)(6)(D). Pub. L. 119–21, § 70512(j)(2), added subpar. (D).
+
+#### Effective Date of 2025 Amendment
+Amendment by section 70512(j)(2) of Pub. L. 119–21 applicable to taxable years beginning after July 4, 2025, see section 70512(l)(1) of Pub. L. 119–21, set out in a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
+
+Amendment by section 70522(c) of Pub. L. 119–21 applicable to facilities or equipment placed in service after July 4, 2025, see section 70522(d)(2) of Pub. L. 119–21, set out in a note under [section 45Q of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45q).
 
 #### Effective Date
 Pub. L. 117–169, title I, § 13801(g), Aug. 16, 2022, 136 Stat. 2013, provided that: “The amendments made by this section [enacting this section and [section 6418 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6418) and amending sections 39 and 50 of this title] shall apply to taxable years beginning after December 31, 2022.”
@@ -2218,6 +2232,8 @@ Pub. L. 117–169, title I, § 13801(f), Aug. 16, 2022, 136 Stat. 2013, provided
 
     (xi) The clean electricity investment credit determined under section 48E.
 
+    (xii) So much of the biodiesel fuels credit determined under section 40A which consists of the small agri-biodiesel producer credit determined under subsection (b)(4) of such section.
+
   (B) *Election for certain credits* — In the case of any eligible credit described in clause (ii), (iii), (v), or (vii) of subparagraph (A), an election under subsection (a) shall be made—
 
     (i) separately with respect to each facility for which such credit is determined, and
@@ -2250,15 +2266,17 @@ Pub. L. 117–169, title I, § 13801(f), Aug. 16, 2022, 136 Stat. 2013, provided
 
 (3) **Basis reduction; notification of recapture** — In the case of any election under subsection (a) with respect to any portion of an eligible credit described in clauses (ix) through (xi) of subsection (f)(1)(A)—
 
-  (A) subsection (c) of section 50 shall apply to the applicable investment credit property (as defined in subsection (a)(5) of such section) as if such eligible credit was allowed to the eligible taxpayer, and
+  (A) subsection (c) of section 50 shall apply to the applicable investment credit property (as defined in subsection (a)(7) of such section) as if such eligible credit was allowed to the eligible taxpayer, and
 
-  (B) if, during any taxable year, the applicable investment credit property (as defined in subsection (a)(5) of section 50) is disposed of, or otherwise ceases to be investment credit property with respect to the eligible taxpayer, before the close of the recapture period (as described in subsection (a)(1) of such section)—
+  (B) if, during any taxable year, the applicable investment credit property (as defined in subsection (a)(7) of section 50) is disposed of, or otherwise ceases to be investment credit property with respect to the eligible taxpayer, before the close of the recapture period (as described in subsection (a)(1) of such section)—
 
     (i) such eligible taxpayer shall provide notice of such occurrence to the transferee taxpayer (in such form and manner as the Secretary shall prescribe), and
 
     (ii) the transferee taxpayer shall provide notice of the recapture amount (as defined in subsection (c)(2) of such section), if any, to the eligible taxpayer (in such form and manner as the Secretary shall prescribe).
 
 (4) **Prohibition on election or transfer with respect to progress expenditures** — This section shall not apply with respect to any amount of an eligible credit which is allowed pursuant to rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990).
+
+(5) **Prohibition on transfer of credits to specified foreign entities** — With respect to any eligible credit described in clause (iii), (iv), (vi), (vii), (viii), or (xi) of subsection (f)(1)(A), an eligible taxpayer may not elect to transfer any portion of such credit to a taxpayer that is a specified foreign entity (as defined in section 7701(a)(51)(B)).
 
 **(h) Regulations** The Secretary shall issue such regulations or other guidance as may be necessary to carry out the purposes of this section, including regulations or other guidance providing rules for determining a partner’s distributive share of the tax exempt income described in subsection (c)(1).
 
@@ -2271,6 +2289,20 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 
 #### Prior Provisions
 A prior section 6418, acts Aug. 16, 1954, ch. 736, 68A Stat. 801; May 29, 1956, ch. 342, § 21(b), 70 Stat. 221; May 24, 1962, Pub. L. 87–456, title III, § 302(c), 76 Stat. 77; Nov. 8, 1965, Pub. L. 89–331, § 9(b), 79 Stat. 1278; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1906(b)(13)(A), 90 Stat. 1834, authorized refund of taxes paid on sugar used as livestock feed, for distillation or production of alcohol, or in certain cases where sugar was exported, prior to repeal by Pub. L. 101–508, title XI, § 11801(c)(22)(B)(i), Nov. 5, 1990, 104 Stat. 1388–528. For provisions that nothing in repeal by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under [section 45K of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45k).
+
+#### Amendments
+2025—Subsec. (f)(1)(A)(xii). Pub. L. 119–21, § 70521(j)(2), added cl. (xii).
+
+Subsec. (g)(3). Pub. L. 119–21, § 70513(b)(3)(B)(ii), substituted “subsection (a)(7)” for “subsection (a)(5)” in subpars. (A) and (B).
+
+Subsec. (g)(5). Pub. L. 119–21, § 70512(h), added par. (5).
+
+#### Effective Date of 2025 Amendment
+Amendment by section 70512(h) of Pub. L. 119–21 applicable to taxable years beginning after July 4, 2025, see section 70512(l)(1) of Pub. L. 119–21, set out in a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
+
+Amendment by section 70513(b)(3)(B)(ii) of Pub. L. 119–21 applicable to taxable years beginning after July 4, 2025, see section 70513(g)(1) of Pub. L. 119–21, set out in a note under [section 48 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48).
+
+Amendment by section 70521(j)(2) of Pub. L. 119–21 applicable to fuel sold or used after June 30, 2025, see section 70521(j)(3) of Pub. L. 119–21, set out as a note under [section 40A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-40a).
 
 #### Effective Date
 Section applicable to taxable years beginning after Dec. 31, 2022, see section 13801(g) of Pub. L. 117–169, set out as a note under [section 6417 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6417).
@@ -3313,6 +3345,10 @@ For purposes of this subsection, the term “United States” includes any posse
 
 (3) **Registration requirement** — For purposes of this subsection, rules similar to the rules of section 40B(f) shall apply.
 
+(4) **Coordination of credits** — With respect to any gallon of sustainable aviation fuel in a qualified mixture, this subsection shall not apply to any such gallon for which a credit under section 45Z is allowable (as determined without regard to subsection (a)(1)(A) of such section).
+
+(5) **Termination** — This subsection shall not apply to any sale or use for any period after September 30, 2025.
+
 ### Statutory Notes
 
 #### Codification
@@ -3322,6 +3358,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 6426, added Pub. L. 91–258, title II, § 206(c), May 21, 1970, 84 Stat. 245; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, provided for a refund of aircraft use tax where plane transports for hire in foreign air commerce, prior to repeal by Pub. L. 97–248, title II, § 280(c)(2)(G), (d), Sept. 3, 1982, 96 Stat. 564, 565, applicable with respect to transportation beginning after Aug. 31, 1982.
 
 #### Amendments
+2025—Subsec. (k)(4). Pub. L. 119–21, § 70521(g)(1)(A), added par. (4).
+
+Subsec. (k)(5). Pub. L. 119–21, § 70521(h), added par. (5).
+
 2022—Subsec. (a)(1). Pub. L. 117–169, § 13203(d)(2)(A)(i), substituted “(e), and (k)” for “and (e)”.
 
 Subsec. (c)(6). Pub. L. 117–169, § 13201(b)(1), substituted “December 31, 2024” for “December 31, 2022”.
@@ -3429,6 +3469,9 @@ Subsec. (d). Pub. L. 109–59, § 11113(b)(2), added subsec. (d). Former subsec.
 Subsec. (d)(2)(F). Pub. L. 109–59, § 11151(e)(2), substituted “section 45K(c)(3)” for “section 29(c)(3)”.
 
 Subsecs. (e) to (g). Pub. L. 109–59, § 11113(b)(2), added subsec. (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VII, § 70521(g)(1)(B), July 4, 2025, 139 Stat. 278, provided that: “The amendment made by this paragraph [amending this section] shall apply to— “(i) fuel sold or used on or after the date of the enactment of this Act [July 4, 2025], and “(ii) fuel sold or used before the date of enactment of this Act, but only to the extent that claims for the credit under section 6426(k) of the Internal Revenue Code of 1986 with respect to such sale or use have not been paid or allowed as of such date.”
 
 #### Effective Date of 2022 Amendment
 Amendment by section 13201(b)(1), (c), (d) of Pub. L. 117–169 applicable to fuel sold or used after Dec. 31, 2021, see section 13201(f) of Pub. L. 117–169, set out as a note under [section 40A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-40a).
@@ -5156,9 +5199,11 @@ No refunds, credits, or payments shall be made under this subchapter for any tax
 
 (1) which are exempt from tax under section 4081(a) by reason of section 4082(f)(2),
 
-(2) which are exempt from tax under section 4041(d) by reason of the last sentence of paragraph (5) thereof, or
+(2) which are exempt from tax under section 4041(d) by reason of the last sentence of paragraph (5) thereof,
 
-(3) with respect to which the rate increase under section 4081(a)(2)(B) is zero by reason of section 4082(e)(2).
+(3) with respect to which the rate increase under section 4081(a)(2)(B) is zero by reason of section 4082(e)(2), or
+
+(4) which are removed as eligible indelibly dyed diesel fuel or kerosene under section 6435.
 
 ### Statutory Notes
 
@@ -5166,7 +5211,12 @@ No refunds, credits, or payments shall be made under this subchapter for any tax
 A prior section 6430, added Pub. L. 97–448, title I, § 106(a)(4)(A), Jan. 12, 1983, 96 Stat. 2388, related to credit or refund of windfall profit taxes to certain trust beneficiaries, prior to repeal by Pub. L. 100–418, title I, § 1941(b)(1), (c), Aug. 23, 1988, 102 Stat. 1323, 1324, applicable to crude oil removed from the premises on or after Aug. 23, 1988.
 
 #### Amendments
+2025—Par. (4). Pub. L. 119–21 added par. (4).
+
 2007—Pub. L. 110–172 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “No refunds, credits, or payments shall be made under this subchapter for any tax imposed at the Leaking Underground Storage Tank Trust Fund financing rate, except in the case of fuels destined for export.”
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21 applicable to eligible indelibly dyed diesel fuel or kerosene removed on or after the date that is 180 days after July 4, 2025, see section 70525(c) of Pub. L. 119–21, set out as a note under [section 6206 of this title](./chapter-063-assessment.md#section-6206).
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–172 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 6(e) of Pub. L. 110–172, set out as a note under [section 30C of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-30c).
@@ -5255,7 +5305,7 @@ Repeal by Pub. L. 115–97 applicable to bonds issued after Dec. 31, 2017, see s
 #### References in Text
 Section 9501(a)(1) of the American Rescue Plan Act of 2021, referred to in subsec. (a)(1), is section 9501(a)(1) of title IX of Pub. L. 117–2, Mar. 11, 2021, 135 Stat. 127, which is set out as a note under [section 4980B of this title](./chapter-043-qualified-pension-etc-plans.md#section-4980b).
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(2)(A)(ii), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. Section 3(37) of the Act is classified to [section 1002(37) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/37&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(1), (2)(A)(ii) and (g)(2), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. Section 3(37) of the Act is classified to [section 1002(37) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/37&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 The Public Health Service Act, referred to in subsec. (b)(2)(A)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
@@ -5474,3 +5524,65 @@ Pub. L. 117–328, div. T, title I, § 103(b), Dec. 29, 2022, 136 Stat. 5284, pr
 
 #### Promotion of Saver’s Match
 Pub. L. 117–328, div. T, title I, § 104(a), Dec. 29, 2022, 136 Stat. 5286, provided that: “The Secretary of the Treasury shall take such steps as the Secretary determines are necessary and appropriate to increase public awareness of the matching contribution provided under section 6433 of the Internal Revenue Code of 1986.”
+
+
+<a id="section-6434"></a>
+## § 6434. Trump accounts contribution pilot program
+**(a) In general** In the case of an individual who makes an election under this section with respect to an eligible child of the individual, such eligible child shall be treated as making a payment against the tax imposed by subtitle A (for the taxable year for which the election was made) in an amount equal to $1,000.
+
+**(b) Refund of payment** The amount treated as a payment under subsection (a) shall be paid by the Secretary to the Trump account with respect to which such eligible child is the account beneficiary.
+
+**(c) Eligible child** For purposes of this section, the term “eligible child” means a qualifying child (as defined in section 152(c))—
+
+(1) who is born after December 31, 2024, and before January 1, 2029,
+
+(2) with respect to whom no prior election has been made under this section by such individual or any other individual, and
+
+(3) who is a United States citizen.
+
+**(d) Election** An election under this section shall be made at such time and in such manner as the Secretary shall provide.
+
+**(e) Social security number required**
+
+(1) **In general** — This section shall not apply to any taxpayer unless such individual includes with the election made under this section the social security number of the eligible child with respect to whom the election is made.
+
+(2) **Social security number defined** — For purposes of paragraph (1), the term “social security number” shall have the meaning given such term in section 24(h)(7), determined by substituting “before the date of the election made under section 6434” for “before the due date of 11 So in original. Probably should be “for”. such return” in subparagraph (B) thereof.
+
+**(f) Exception from reduction or offset** Any payment made to any individual under this section shall not be—
+
+(1) subject to reduction or offset pursuant to subsection (c), (d), (e), or (f) of section 6402 or any similar authority permitting offset, or
+
+(2) reduced or offset by other assessed Federal taxes that would otherwise be subject to levy or collection.
+
+**(g) Special rule regarding interest** The period determined under section 6611(a) with respect to any payment under this section shall not begin before January 1, 2028.
+
+**(h) Mirror code possessions** In the case of any possession of the United States with a mirror code tax system (as defined in section 24(k)), this section shall not be treated as part of the income tax laws of the United States for purposes of determining the income tax law of such possession unless such possession elects to have this section be so treated.
+
+**(i) Definitions** For purposes of this section, the terms “Trump account” and “account beneficiary” have the meaning given such terms in section 530A(b).
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to taxable years beginning after Dec. 31, 2025, see section 70204(e) of Pub. L. 119–21, set out as a note under [section 128 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-128).
+
+
+<a id="section-6435"></a>
+## § 6435. Dyed fuel
+**(a) In general** If a person establishes to the satisfaction of the Secretary that such person meets the requirements of subsection (b) with respect to diesel fuel or kerosene, then the Secretary shall pay to such person an amount (without interest) equal to the tax described in subsection (b)(2)(A) with respect to such diesel fuel or kerosene.
+
+**(b) Requirements**
+
+(1) **In general** — A person meets the requirements of this subsection with respect to diesel fuel or kerosene if such person removes from a terminal eligible indelibly dyed diesel fuel or kerosene.
+
+(2) **Eligible indelibly dyed diesel fuel or kerosene defined** — The term “eligible indelibly dyed diesel fuel or kerosene” means diesel fuel or kerosene—
+
+  (A) with respect to which a tax under section 4081 was previously paid (and not credited or refunded), and
+
+  (B) which is exempt from taxation under section 4082(a).
+
+**(c) Cross reference** For civil penalty for excessive claims under this section, see section 6675.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to eligible indelibly dyed diesel fuel or kerosene removed on or after the date that is 180 days after July 4, 2025, see section 70525(c) of Pub. L. 119–21, set out as an Effective Date of 2025 Amendment note under [section 6206 of this title](./chapter-063-assessment.md#section-6206).

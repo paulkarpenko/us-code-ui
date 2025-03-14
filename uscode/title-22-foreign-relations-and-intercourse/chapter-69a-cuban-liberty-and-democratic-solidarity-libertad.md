@@ -516,39 +516,11 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 
 <a id="section-6042"></a>
-## § 6042. Reports on commerce with, and assistance to, Cuba from other foreign countries
-**(a) Reports required** Not later than 90 days after March 12, 1996, and by January 1 of each year thereafter until the President submits a determination under [section 6063(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6063/c/1&num=0&edition=prelim), the President shall submit a report to the appropriate congressional committees on commerce with, and assistance to, Cuba from other foreign countries during the preceding 12-month period.
-
-**(b) Contents of reports** Each report required by subsection (a) shall, for the period covered by the report, contain the following, to the extent such information is available:
-
-(1) A description of all bilateral assistance provided to Cuba by other foreign countries, including humanitarian assistance.
-
-(2) A description of Cuba’s commerce with foreign countries, including an identification of Cuba’s trading partners and the extent of such trade.
-
-(3) A description of the joint ventures completed, or under consideration, by foreign nationals and business firms involving facilities in Cuba, including an identification of the location of the facilities involved and a description of the terms of agreement of the joint ventures and the names of the parties that are involved.
-
-(4) A determination as to whether or not any of the facilities described in paragraph (3) is the subject of a claim against Cuba by a United States national.
-
-(5) A determination of the amount of debt of the Cuban Government that is owed to each foreign country, including—
-
-  (A) the amount of debt exchanged, forgiven, or reduced under the terms of each investment or operation in Cuba involving foreign nationals; and
-
-  (B) the amount of debt owed the foreign country that has been exchanged, forgiven, or reduced in return for a grant by the Cuban Government of an equity interest in a property, investment, or operation of the Cuban Government or of a Cuban national.
-
-(6) A description of the steps taken to assure that raw materials and semifinished or finished goods produced by facilities in Cuba involving foreign nationals do not enter the United States market, either directly or through third countries or parties.
-
-(7) An identification of countries that purchase, or have purchased, arms or military supplies from Cuba or that otherwise have entered into agreements with Cuba that have a military application, including—
-
-  (A) a description of the military supplies, equipment, or other material sold, bartered, or exchanged between Cuba and such countries,
-
-  (B) a listing of the goods, services, credits, or other consideration received by Cuba in exchange for military supplies, equipment, or material, and
-
-  (C) the terms or conditions of any such agreement.
+## § 6042. Repealed. Pub. L. 119–60, div. F, title LXVIII, § 6801(c)(3), Dec. 18, 2025, 139 Stat. 1654
 
 ### Statutory Notes
 
-#### Delegation of Functions
-For delegation of congressional reporting functions of President under subsec. (a) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46075, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
+Section, Pub. L. 104–114, title I, § 108, Mar. 12, 1996, 110 Stat. 798, required reports from the President on commerce with, and assistance to, Cuba from other foreign countries.
 
 
 <a id="section-6043"></a>
@@ -918,7 +890,7 @@ The Trade Act of 1974, referred to in subsec. (h)(1)(B)(ii), is Pub. L. 93–618
 
 The Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(1)(B)(ii), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§ 2701 et seq.) of Title 19. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2701&num=0&edition=prelim) and Tables.
 
-Section 108(b)(5) of the North American Free Trade Agreement Implementation Act, referred to in subsec. (b)(5)(D)(ii), is section 108(b)(5) of Pub. L. 103–182, which was classified to [section 3317(b)(5) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3317/b/5&num=0&edition=prelim), Customs Duties, prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Section 108(b)(5) of the North American Free Trade Agreement Implementation Act, referred to in subsec. (h)(1)(C), is section 108(b)(5) of Pub. L. 103–182, which was classified to [section 3317(b)(5) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3317/b/5&num=0&edition=prelim), Customs Duties, prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Amendments
 2018—Subsec. (b)(2)(B)(iv). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.

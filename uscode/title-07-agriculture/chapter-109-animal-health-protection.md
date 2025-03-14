@@ -584,7 +584,17 @@ Pub. L. 113–79, title XII, § 12107, Feb. 7, 2014, 128 Stat. 982, provided tha
 
   (A) *Fiscal years 2019 through 2022* — Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $120,000,000 for the period of fiscal years 2019 through 2022, of which not less than $5,000,000 shall be made available for each of those fiscal years to carry out subsection (b).
 
-  (B) *Subsequent fiscal years* — Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $30,000,000 for fiscal year 2023 and each fiscal year thereafter, of which not less than $18,000,000 shall be made available for each of those fiscal years to carry out subsection (b).
+  (B) *Fiscal years 2023 through 2025* — Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $30,000,000 for each of fiscal years 2023 through 2025, of which not less than $18,000,000 shall be made available for each of those fiscal years to carry out subsection (b).
+
+  (C) *Fiscal years 2026 through 2030* — Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $233,000,000 for each of fiscal years 2026 through 2030, of which—
+
+    (i) not less than $10,000,000 shall be made available for each such fiscal year to carry out subsection (a);
+
+    (ii) not less than $70,000,000 shall be made available for each such fiscal year to carry out subsection (b); and
+
+    (iii) not less than $153,000,000 shall be made available for each such fiscal year to carry out subsection (c).
+
+  (D) *Subsequent fiscal years* — Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $75,000,000 for fiscal year 2031 and each fiscal year thereafter, of which not less than $45,000,000 shall be made available for each of those fiscal years to carry out subsection (b).
 
 (2) **Authorization of appropriations**
 
@@ -622,6 +632,10 @@ Pub. L. 113–79, title XII, § 12107, Feb. 7, 2014, 128 Stat. 982, provided tha
 The Federal Advisory Committee Act, referred to in subsec. (b)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 #### Amendments
+2025—Subsec. (d)(1)(B). Pub. L. 119–21, § 10607(a)(1), substituted “Fiscal years 2023 through 2025” for “Subsequent fiscal years” in heading and “each of fiscal years 2023 through 2025” for “fiscal year 2023 and each fiscal year thereafter” in text.
+
+Subsec. (d)(1)(C), (D). Pub. L. 119–21, § 10607(a)(2), added subpars. (C) and (D).
+
 2018—Pub. L. 115–334, § 12101(b)(1), substituted “Animal disease prevention and management” for “National animal health laboratory network” in section catchline.
 
 Subsec. (a). Pub. L. 115–334, § 12101(b)(2), (4), substituted “National Animal Health Laboratory Network” for “Definition of eligible laboratory” in heading, inserted par. (1) designation and heading and substituted “In this subsection,” for “In this section,”, redesignated subsecs. (b) and (c) as pars. (2) and (3), respectively, and realigned margins.

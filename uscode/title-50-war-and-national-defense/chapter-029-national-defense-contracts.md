@@ -34,7 +34,7 @@ source: >-
 
 (2) account only for the actual cost of performing such eligible contract or such eligible subcontract, but may account for indirect costs of performance, as the Secretary of Defense determines appropriate.
 
-**(e)** The authority under subsections (c) and (d) shall be effective during the period beginning on December 23, 2022, and ending on December 31, 2024.
+**(e)** The authority under subsections (c) and (d) shall be effective during the period beginning on December 23, 2022, and ending on December 31, 2025.
 
 **(f)** In this section:
 
@@ -47,6 +47,8 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (e). Pub. L. 118–159 substituted “December 31, 2025” for “December 31, 2024”.
+
 2023—Subsec. (b). Pub. L. 118–31, § 824(1), inserted at end “If any such amounts are so specifically provided, the Secretary may use them for such purposes.”
 
 Subsec. (e). Pub. L. 118–31, § 824(2), substituted “December 31, 2024” for “December 31, 2023”.
@@ -70,6 +72,9 @@ Pub. L. 102–25, title VII, § 705(f)(1), Apr. 6, 1991, 105 Stat. 120, provided
 
 #### Nonapplicability of National Emergencies Act
 The provisions of the National Emergencies Act [see Short Title note set out under [section 1601 of this title](./chapter-034-national-emergencies.md#section-1601)] shall not apply to the powers and authorities conferred by this section and actions taken hereunder, see [section 1651(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1651/a/4&num=0&edition=prelim).
+
+#### Indemnification of Contractors Against Nuclear and Unusually Hazardous Risks
+Pub. L. 119–60, div. A, title VIII, § 876, Dec. 18, 2025, 139 Stat. 1005, provided that: “(a) Review.—The review of requests submitted by a contractor to a Department of Defense contracting officer pursuant to Public Law 85–804 ([50 U.S.C. 1431](./chapter-029-national-defense-contracts.md#section-1431) et seq.) for indemnification against nuclear and unusually hazardous risks, including those involving the procurement of commercial nuclear technology, shall include, to the extent practicable, input from the Defense Contract Management Agency, including reviews of insurance markets and coverage availability from the Contractor Insurance/Pension Review group. “(b) Deadline.—The review of each indemnification request submitted by a contractor described in subsection (a) shall be completed with a final decision on approval or denial, including an executed memorandum of decision, not later than 90 days after the date of the request. “(c) Delegation.—The Secretary of each military department shall delegate the authority to approve or deny indemnification requests submitted by contractors described in subsection (a) for contracts relating to advanced nuclear energy systems or components to such subordinate officials as the Secretary determines appropriate to ensure the timely and effective execution of reviewing such requests.”
 
 #### Guidance
 Pub. L. 117–263, div. A, title VIII, § 822(b), Dec. 23, 2022, 136 Stat. 2711, provided that: “Not later than 90 days after the date of the enactment of an Act providing appropriations to carry out section 1 of Public Law 85–804 ([50 U.S.C. 1431](./chapter-029-national-defense-contracts.md#section-1431)) (as added by subsection (a)), the Under Secretary of Defense for Acquisition and Sustainment shall issue guidance implementing the authority under subsections (b) through (d) of section 1 of Public Law 85–804 ([50 U.S.C. 1431](./chapter-029-national-defense-contracts.md#section-1431)) (as added by subsection (a)).”

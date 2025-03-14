@@ -903,7 +903,7 @@ Section, act Aug. 11, 1916, ch. 313, pt. B, § 7C, as added Aug. 13, 1981, Pub. 
 <a id="section-79d"></a>
 ## § 79d. Limitation on administrative and supervisory costs
 
-The total administrative and supervisory costs which may be incurred under this chapter for services performed (excluding standardization, compliance, and foreign monitoring activities) for each of the fiscal years 1989 through 2025 shall not exceed 30 percent of the total costs for such activities carried out by the Secretary for such year.
+The total administrative and supervisory costs which may be incurred under this chapter for services performed (excluding standardization, compliance, and foreign monitoring activities) for each of the fiscal years 1989 through 2025 11 See Application of Section note below. shall not exceed 30 percent of the total costs for such activities carried out by the Secretary for such year.
 
 ### Statutory Notes
 
@@ -928,6 +928,9 @@ Amendment by Pub. L. 103–156 effective as of Sept. 30, 1993, see section 16(b)
 
 #### Effective and Termination Dates
 That part of section 2 of Pub. L. 100–518 which provided that section was effective for the period Oct. 1, 1988, through Sept. 30, 1993, inclusive, was repealed by Pub. L. 103–156, §§ 13(a), 16(b), Nov. 24, 1993, 107 Stat. 1529, 1530, eff. Sept. 30, 1993.
+
+#### Application of Section
+Pub. L. 119–37, div. E, § 5001(b), Nov. 12, 2025, 139 Stat. 626, provided that: “Sections 7D and 19(a) of the United States Grain Standards Act ([7 U.S.C. 79d](./chapter-003-grain-standards.md#section-79d), 87h(a)) shall be applied by substituting ‘2026’ for ‘2025’ each place it appears.”
 
 
 <a id="section-80-to-83"></a>
@@ -1696,7 +1699,7 @@ For effective date of section, see section 2 of Pub. L. 90–487, set out as an 
 
 <a id="section-87h"></a>
 ## § 87h. Funding
-**(a) Authorization of appropriations** There are authorized to be appropriated $23,000,000 for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 2021 through 2025, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
+**(a) Authorization of appropriations** There are authorized to be appropriated $23,000,000 for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 2021 through 2025,11 See Application of Section note below. to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
 
 **(b) Limitations on uses of user fees**
 
@@ -1770,6 +1773,9 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 
 #### Effective Date
 For effective date of section, see section 2 of Pub. L. 90–487, set out as an Effective Date of 1968 Amendment note under [section 78 of this title](./chapter-003-grain-standards.md#section-78).
+
+#### Application of Section
+Subsec. (a) of this section to be applied by substituting “2026” for “2025”, see section 5001(b) of Pub. L. 119–37, set out as a note under [section 79d of this title](./chapter-003-grain-standards.md#section-79d).
 
 
 <a id="section-87i"></a>

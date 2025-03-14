@@ -38,12 +38,16 @@ source: >-
 
 (3) The amounts received by the Secretary in payment of the fees shall be available to the Department of Defense for defraying the costs of conducting summer school programs under this subsection.
 
+**(e) Meal programs** In addition to carrying out the requirement under [section 1769b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1769b&num=0&edition=prelim) to administer lunch programs in certain dependents’ schools, the Secretary of Defense may administer a school breakfast program for students attending a school of the defense dependents’ education system.
+
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, known as the Defense Dependents’ Education Act of 1978, which enacted this chapter, [section 489 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section489&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, and [section 1769b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1769b&num=0&edition=prelim), The Public Health and Welfare, amended sections 1773 and 1789 of Title 42, and enacted provisions set out as notes under this section. For complete classification of this title to the Code, see Short Title note below and Tables.
 
 #### Amendments
+2024—Subsec. (e). Pub. L. 118–159 added subsec. (e).
+
 2002—Subsec. (d)(2). Pub. L. 107–314 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall provide in regulations for fees to be charged for the students enrolling in a summer school program under this subsection in amounts determined on the basis of family income.”
 
 1999—Subsec. (b)(1). Pub. L. 106–65 substituted “to receive” for “to recieve”.
@@ -174,11 +178,19 @@ Subsec. (d)(3). Pub. L. 106–65, § 354(2)(H), substituted “the Department of
 
   (C) Children of other citizens or nationals of the United States or of foreign nationals, if the Secretary determines that enrollment of such children is in the national interest.
 
+  (D) Children of employees of the American Red Cross who—
+
+    (i) are performing, on a full-time basis, services for the Armed Forces, including emergency services; and
+
+    (ii) reside in an overseas area supported by a school of the defense dependents’ education system.
+
 (2) Notwithstanding subsection (c), the Secretary may not waive the tuition requirements of subsection (b)(1) with respect to children referred to in paragraph (1).
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (d)(1)(D). Pub. L. 119–60 added subpar. (D).
+
 2003—Pub. L. 108–136, § 563(b), substituted “Space-available enrollment of students; tuition” for “Tuition-paying students” in section catchline.
 
 Subsec. (c). Pub. L. 108–136, § 563(a), designated existing provisions as par. (1) and added par. (2).
@@ -197,19 +209,31 @@ Pub. L. 101–189, div. A, title III, § 325(c), Nov. 29, 1989, 103 Stat. 1415, 
 
 (1) the children of full-time, locally-hired employees of the Department of Defense in an overseas area if such employees are citizens or nationals of the United States; and
 
-(2) the children of a foreign military member assigned to the Supreme Headquarters Allied Powers, Europe, but only in a school of the defense dependents’ education system in Mons, Belgium.
+(2) the children of foreign military members assigned to—
+
+  (A) the Supreme Headquarters Allied Powers, Europe, but only in a school of the defense dependents’ education system in Mons, Belgium; or
+
+  (B) the United Nations Command, but only in a school of the defense dependents’ education system in South Korea or Japan.
 
 **(b) Funding** The Secretary may use funds available for the defense dependents’ education system to provide for the education of children enrolled in the defense dependents’ education system under subsection (a).
 
-**(c) Special rules regarding enrollment of dependents of foreign military members assigned to Supreme Headquarters Allied Powers, Europe**
+**(c) Special rules regarding enrollment of dependents of foreign military members**
 
-(1) In the regulations required by subsection (a), the Secretary shall prescribe a methodology based on the estimated total number of dependents of sponsors under [section 932(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section932/2&num=0&edition=prelim) enrolled in schools of the defense dependents’ education system in Mons, Belgium, to determine the number of children described in paragraph (2) of subsection (a) who will be authorized to enroll under such subsection. The Secretary shall prescribe such methodology with the advice and assistance of the commander of the geographic combatant command with jurisdiction over Mons, Belgium.
+(1) In the regulations required by subsection (a), the Secretary shall prescribe a methodology based on the estimated total number of dependents of sponsors under [section 932(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section932/2&num=0&edition=prelim) enrolled in schools of the defense dependents’ education system described in paragraph (2) of subsection (a) to determine the number of children described in that paragraph who will be authorized to enroll under such subsection. The Secretary shall prescribe such methodology with the advice and assistance of the commanders of the geographic combatant commands with jurisdiction over the locations described in paragraph (2) of subsection (a).
 
-(2) If the number of children described in paragraph (2) of subsection (a) who seek enrollment in schools of the defense dependents’ education system in Mons, Belgium, exceeds the number authorized by the Secretary under paragraph (1), the Secretary may enroll the additional children on a space-available, tuition-free basis notwithstanding [section 923(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section923/d/2&num=0&edition=prelim).
+(2) If the number of children described in paragraph (2) of subsection (a) who seek enrollment in schools of the defense dependents’ education system exceeds the number authorized by the Secretary under paragraph (1), the Secretary may enroll the additional children on a space-available, tuition-free basis notwithstanding [section 923(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section923/d/2&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a)(2). Pub. L. 118–159, § 597(1), substituted “foreign military members assigned to—” for “a foreign military member assigned to”, designated remainder of existing provisions as subpar. (A), and added subpar. (B).
+
+Subsec. (c). Pub. L. 118–159, § 597(2)(A), struck out “assigned to Supreme Headquarters Allied Powers, Europe” after “members” in heading.
+
+Subsec. (c)(1). Pub. L. 118–159, § 597(2)(B), substituted “described in paragraph (2) of subsection (a) to determine the number of children described in that paragraph” for “in Mons, Belgium, to determine the number of children described in paragraph (2) of subsection (a)” in first sentence and “the commanders of the geographic combatant commands with jurisdiction over the locations described in paragraph (2) of subsection (a)” for “the commander of the geographic combatant command with jurisdiction over Mons, Belgium” in second sentence.
+
+Subsec. (c)(2). Pub. L. 118–159, § 597(2)(C), struck out “in Mons, Belgium,” after “education system”.
+
 2009—Subsec. (a)(2). Pub. L. 111–84, § 535(a), struck out “, and only through the 2010–2011 school year” before period at end.
 
 Subsec. (c)(1). Pub. L. 111–84, § 535(b), inserted at end “The Secretary shall prescribe such methodology with the advice and assistance of the commander of the geographic combatant command with jurisdiction over Mons, Belgium.”

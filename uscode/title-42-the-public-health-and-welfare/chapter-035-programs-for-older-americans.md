@@ -4408,7 +4408,7 @@ the Assistant Secretary shall notify such State agency that no further payments 
 ### Statutory Notes
 
 #### References in Text
-The Legal Services Corporation Act, referred to in subsec. (a)(11)(A), is title X of Pub. L. 88–452, as added by Pub. L. 93–355, § 2, July 25, 1974, 88 Stat. 378, as amended, which is classified generally to subchapter X (§ 2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-034-economic-opportunity-program.md#section-2701) and Tables.
+The Legal Services Corporation Act, referred to in subsec. (a)(11)(A), is title X of Pub. L. 88–452, as added by Pub. L. 93–355, § 2, July 25, 1974, 88 Stat. 378, which is classified generally to subchapter X (§ 2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-034-economic-opportunity-program.md#section-2701) and Tables.
 
 #### Prior Provisions
 A prior section 3027, Pub. L. 89–73, title III, § 307, as added Pub. L. 93–29, title III, § 301, May 3, 1973, 87 Stat. 44, related to payment of grants or contracts, prior to the general amendment of this subchapter by Pub. L. 95–478. See [section 3029 of this title](./chapter-035-programs-for-older-americans.md#section-3029).

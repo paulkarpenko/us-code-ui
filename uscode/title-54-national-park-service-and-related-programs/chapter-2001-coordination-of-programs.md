@@ -111,9 +111,15 @@ Barack Obama.
 
 As used in this chapter:
 
-(1) **State.—** — The term “State”, to the extent practicable, as determined by the Secretary, includes Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Northern Mariana Islands.
+(1) **Council.—** — The term “Council” means the Federal Interagency Council on Outdoor Recreation established under section 200104.
 
-(2) **United States.—** — The term “United States”—
+(2) **Federal land and water management agency.—** — The term “Federal land and water management agency” means the National Park Service, Bureau of Land Management, United States Fish and Wildlife Service, Bureau of Indian Affairs, Bureau of Reclamation, Forest Service, Corps of Engineers, and the National Oceanic and Atmospheric Administration.
+
+(3) **Federal recreational lands and waters.—** — The term “Federal recreational lands and waters” has the meaning given the term in section 802 of the Federal Lands Recreation Enhancement Act ([16 U.S.C. 6801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6801&num=0&edition=prelim)) and also includes Federal lands and waters managed by the Bureau of Indian Affairs, Corps of Engineers, or National Oceanic and Atmospheric Administration.
+
+(4) **State.—** — The term “State”, to the extent practicable, as determined by the Secretary, includes Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Northern Mariana Islands.
+
+(5) **United States.—** — The term “United States”—
 
   (A) includes the District of Columbia; and
 
@@ -128,6 +134,9 @@ As used in this chapter:
 
 The words “the Trust Territory of the Pacific Islands” are omitted as obsolete. See note at 48 U.S.C. prec. 1681. For continued application of certain laws of the United States in certain cases, see the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America ([48 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1801&num=0&edition=prelim) note), the Compact of Free Association between the Government of the United States of America and the Governments of the Marshall Islands and the Federated States of Micronesia ([48 U.S.C. 1901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1901&num=0&edition=prelim) note), and the Compact of Free Association between the Government of the United States of America and the Government of Palau ([48 U.S.C. 1931](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1931&num=0&edition=prelim) note). The words “as determined by the Secretary” are added to make it clear that it is the Secretary who determines if it is practicable to include the stated entities.
 
+#### Amendments
+2025—Pub. L. 118–234 added pars. (1) to (3) and redesignated former pars. (1) and (2) as (4) and (5), respectively.
+
 
 <a id="section-200103"></a>
 ## § 200103. Authority of Secretary to carry out certain functions and activities
@@ -137,13 +146,11 @@ The words “the Trust Territory of the Pacific Islands” are omitted as obsole
 
 **(c) Classification System.—** The Secretary may prepare a system for classification of outdoor recreation resources to assist in the effective and beneficial use and management of such resources.
 
-**(d) Recreation Plan.—** The Secretary may formulate and maintain a comprehensive nationwide outdoor recreation plan, taking into consideration the plans of the various Federal agencies, States, and their political subdivisions. The plan shall set forth the needs and demands of the public for outdoor recreation and the current and foreseeable availability in the future of outdoor recreation resources to meet those needs. The plan shall identify critical outdoor recreation problems, recommend solutions, and recommend desirable actions to be taken at each level of government and by private interests. The Secretary shall submit the plan to the President for transmittal to Congress. Revisions of the plan shall be similarly transmitted at succeeding 5-year intervals. When a plan or revision is transmitted to the Congress, the Secretary shall transmit copies to the chief executive officials of the States.
+**(d) Technical Assistance and Advice.—** The Secretary may provide technical assistance and advice to and cooperate with States, political subdivisions, and private interests, including nonprofit organizations, with respect to outdoor recreation.
 
-**(e) Technical Assistance and Advice.—** The Secretary may provide technical assistance and advice to and cooperate with States, political subdivisions, and private interests, including nonprofit organizations, with respect to outdoor recreation.
+**(e) Interstate and Regional Cooperation.—** The Secretary may encourage interstate and regional cooperation in the planning, acquisition, and development of outdoor recreation resources.
 
-**(f) Interstate and Regional Cooperation.—** The Secretary may encourage interstate and regional cooperation in the planning, acquisition, and development of outdoor recreation resources.
-
-**(g) Research, Information, and Education Programs and Activities.—** The Secretary may—
+**(f) Research, Information, and Education Programs and Activities.—** The Secretary may—
 
 (1) sponsor, engage in, and assist in research relating to outdoor recreation, directly or by contract or cooperative agreements, and make payments for such purposes without regard to the limitations of section 3324(a) and (b) of title 31 concerning advances of funds when the Secretary considers such action to be in the public interest;
 
@@ -151,7 +158,7 @@ The words “the Trust Territory of the Pacific Islands” are omitted as obsole
 
 (3) cooperate with educational institutions and others to assist in establishing education programs and activities and to encourage public use and benefits from outdoor recreation.
 
-**(h) Cooperation and Coordination with Federal Agencies.—**
+**(g) Cooperation and Coordination with Federal Agencies.—**
 
 (1) **In general.—** — The Secretary may—
 
@@ -161,7 +168,7 @@ The words “the Trust Territory of the Pacific Islands” are omitted as obsole
 
 (2) **Funding.—** — An agency furnishing advice or assistance under this paragraph may expend its own funds for those purposes, with or without reimbursement, as may be agreed to by that agency.
 
-**(i) Donations.—** The Secretary may accept and use donations of money, property, personal services, or facilities for the purposes of this chapter.
+**(h) Donations.—** The Secretary may accept and use donations of money, property, personal services, or facilities for the purposes of this chapter.
 
 ### Statutory Notes
 
@@ -174,15 +181,99 @@ In subsection (d), the words “which shall be prepared as soon as practicable w
 
 In subsection (h), the word “department” is omitted as being included in “agency”.
 
+#### Amendments
+2025—Subsecs. (d) to (i). Pub. L. 118–234 redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d) which related to formulation and maintenance of a comprehensive nationwide outdoor recreation plan.
+
 
 <a id="section-200104"></a>
-## § 200104. Consultations of Secretary with administrative officers; execution of administrative responsibilities in conformity with nationwide plan
+## § 200104. Federal interagency council on outdoor recreation 11 So in original. Probably should be capitalized as “Federal Interagency Council on Outdoor Recreation”.
+**(a) Establishment.—** The Secretary shall establish an interagency council, to be known as the “Federal Interagency Council on Outdoor Recreation”.
 
-To carry out the policy declared in [section 200101 of this title](./chapter-2001-coordination-of-programs.md#section-200101), the heads of Federal agencies having administrative responsibility over activities or resources the conduct or use of which is pertinent to fulfillment of that policy shall, individually or as a group—
+**(b) Composition.—**
 
-(1) consult with and be consulted by the Secretary from time to time both with respect to their conduct of those activities and their use of those resources and with respect to the activities that the Secretary carries on under authority of this chapter that are pertinent to their work; and
+(1) **In general.—** — The Council shall be composed of representatives of each of the following agencies, to be appointed by the head of the respective agency:
 
-(2) carry out that responsibility in general conformance with the nationwide plan authorized under [section 200103(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200103/d&num=0&edition=prelim).
+  (A) The National Park Service.
+
+  (B) The Bureau of Land Management.
+
+  (C) The United States Fish and Wildlife Service.
+
+  (D) The Bureau of Indian Affairs.
+
+  (E) The Bureau of Reclamation.
+
+  (F) The Forest Service.
+
+  (G) The Army Corps of Engineers.
+
+  (H) The National Oceanic and Atmospheric Administration.
+
+(2) **Additional participants.—** — In addition to the members of the Council appointed under paragraph (1), the Secretary may invite participation in the Council’s meetings or other activities from representatives of the following:
+
+  (A) The Council on Environmental Quality.
+
+  (B) The Natural Resources Conservation Service.
+
+  (C) Rural development programs of the Department of Agriculture.
+
+  (D) The National Center for Chronic Disease Prevention and Health Promotion.
+
+  (E) The Environmental Protection Agency.
+
+  (F) The Department of Transportation, including the Federal Highway Administration.
+
+  (G) The Tennessee Valley Authority.
+
+  (H) The Department of Commerce, including—
+
+    (i) the Bureau of Economic Analysis;
+
+    (ii) the National Travel and Tourism Office; and
+
+    (iii) the Economic Development Administration.
+
+  (I) The Federal Energy Regulatory Commission.
+
+  (J) An applicable State agency or office.
+
+  (K) An applicable agency or office of a local government.
+
+  (L) Other organizations or interests, as determined appropriate by the Secretary.
+
+(3) **State coordination.—** — In determining additional participants under this subsection, the Secretary shall seek to ensure that States are invited and represented in the Council’s meetings or other activities.
+
+(4) **Leadership.—** — The leadership of the Council shall rotate every 2 years among the Council members appointed under paragraph (1), or as otherwise determined by the Secretary in consultation with the Secretaries of Agriculture, Defense, and Commerce.
+
+(5) **Funding.—** — Notwithstanding section 708 of title VII of division E of the Consolidated Appropriations Act, 2023 (Public Law 117–328), the Council members appointed under paragraph (1) may enter into agreements to share the management and operational costs of the Council.
+
+**(c) Coordination.—** The Council shall meet as frequently as appropriate for the purposes of coordinating on issues related to outdoor recreation, including—
+
+(1) recreation programs and management policies across Federal land and water management agencies, including activities associated with the implementation of the Federal Lands Recreation Enhancement Act ([16 U.S.C. 6801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6801&num=0&edition=prelim) et seq.), as appropriate;
+
+(2) the response by Federal land and water management agencies to public health emergencies or other emergencies, including those that result in disruptions to, or closures of, Federal recreational lands and waters;
+
+(3) investments relating to outdoor recreation on Federal recreational lands and waters, including funds made available under section 40804(b)(7) of the Infrastructure Investment and Jobs Act ([16 U.S.C. 6592a(b)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6592a/b/7&num=0&edition=prelim));
+
+(4) management of emerging technologies on Federal recreational lands and waters;
+
+(5) research activities, including quantifying the economic impacts of recreation;
+
+(6) dissemination to the public of recreation-related information, in a manner that ensures the recreation-related information is easily accessible with modern communication devices;
+
+(7) the improvement of access to Federal recreational lands and waters; and
+
+(8) the identification and engagement of partners outside the Federal Government—
+
+  (A) to promote outdoor recreation;
+
+  (B) to facilitate collaborative management of outdoor recreation; and
+
+  (C) to provide additional resources relating to enhancing outdoor recreation opportunities; and
+
+(9) any other outdoor recreation-related issues that the Council determines necessary.
+
+**(d) Effect.—** Nothing in this section affects the authorities, regulations, or policies of any Federal agency described in paragraph (1) or (2) of subsection (b).
 
 ### Statutory Notes
 
@@ -192,3 +283,11 @@ To carry out the policy declared in [section 200101 of this title](./chapter-200
 | 200104 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–2. | Pub. L. 88–29, § 3, May 28, 1963, 77 Stat. 50. |
 
 The word “department” is omitted as being included in “agency”. The word “independent” is omitted as unnecessary.
+
+#### References in Text
+Section 708 of title VII of division E of the Consolidated Appropriations Act, 2023, referred to in subsec. (b)(5), is section 708 of Pub. L. 117–328, div. E, title VII, Dec. 29, 2022, 136 Stat. 4706, which is not classified to the Code.
+
+The Federal Lands Recreation Enhancement Act, referred to in subsec. (c)(1), is title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, which is classified principally to chapter 87 (§ 6801 et seq.) of Title 16, Conservation. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6801&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2025—Pub. L. 118–234 amended section generally. Prior to amendment, section related to consultations of Secretary with administrative officers and execution of administrative responsibilities in conformity with nationwide plan.

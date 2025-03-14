@@ -212,7 +212,13 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 #### Commemorative Medals
 Provisions authorizing commemorative medals were contained in the following acts:
 
-Pub. L. 118–150, Dec. 12, 2024, 138 Stat. 1682, recognizing Shirley Chisholm.
+Pub. L. 119–53, Dec. 12, 2025, 139 Stat. 702, recognizing the members of the 1980 United States Olympic Men’s Ice Hockey Team in the “Miracle on Ice”.
+
+Pub. L. 118–161, Dec. 23, 2024, 138 Stat. 2572, recognizing Everett Alvarez, Jr. for distinctive service and sacrifice during the Vietnam war.
+
+Pub. L. 118–159, div. E, title LVII, § 5703, Dec. 23, 2024, 138 Stat. 2462, recognizing female telephone operators of the Army Signal Corps, known as the “Hello Girls”.
+
+Pub. L. 118–150, Dec. 12, 2024, 138 Stat. 1682, recognizing Shirley Chisholm, the first African-American woman elected to Congress.
 
 Pub. L. 118–149, Dec. 12, 2024, 138 Stat. 1678, recognizing 60 diplomats for their brave and vital service of saving Jews during World War II, known as the Forgotten Heroes of the Holocaust.
 

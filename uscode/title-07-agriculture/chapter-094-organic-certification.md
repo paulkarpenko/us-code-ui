@@ -1029,7 +1029,7 @@ Pub. L. 115–334, title X, § 10104(k), Dec. 20, 2018, 132 Stat. 4905, provided
 
   (C) enforcement of trade requirements for organically produced agricultural products.
 
-(4) **Funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall make available $5,000,000 for fiscal year 2019 and $1,000,000 for fiscal year 2024 for the purposes of—
+(4) **Funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall make available $5,000,000 for fiscal year 2019, $1,000,000 for fiscal years 2024 and 2025, and $5,000,000 for fiscal year 2026 for the purposes of—
 
   (A) carrying out this subsection; and
 
@@ -1043,6 +1043,8 @@ Pub. L. 115–334, title X, § 10104(k), Dec. 20, 2018, 132 Stat. 4905, provided
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (c)(4). Pub. L. 119–21 substituted “, $1,000,000 for fiscal years 2024 and 2025, and $5,000,000 for fiscal year 2026” for “and $1,000,000 for fiscal year 2024” in introductory provisions.
+
 2023—Subsec. (c)(4). Pub. L. 118–22 inserted “and $1,000,000 for fiscal year 2024” after “2019” in introductory provisions.
 
 2018—Pub. L. 115–334, § 10104(j)(1), substituted “Funding” for “Authorization of appropriations” in section catchline.
@@ -1084,7 +1086,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (B) $4,000,000 for fiscal year 2021; and
 
-  (C) $8,000,000 for each of fiscal years 2022 through 2024.
+  (C) $8,000,000 for each of fiscal years 2022 through 2031.
 
 (2) **Availability** — Amounts made available under paragraph (1) shall remain available until expended.
 
@@ -1099,6 +1101,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Organic Foods Production Act of 1990 which comprises this chapter.
 
 #### Amendments
+2025—Subsec. (d)(1)(C). Pub. L. 119–21 substituted “2031” for “2024”.
+
 2023—Subsec. (d)(1)(C). Pub. L. 118–22 substituted “through 2024” for “and 2023”.
 
 2018—Subsec. (a). Pub. L. 115–334, § 10105(a), struck out “(acting through the Agricultural Marketing Service)” after “Secretary of Agriculture”.

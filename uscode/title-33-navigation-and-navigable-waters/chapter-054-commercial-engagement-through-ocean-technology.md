@@ -54,6 +54,9 @@ In this chapter:
 #### Short Title
 Pub. L. 115–394, § 1(a), Dec. 21, 2018, 132 Stat. 5281, provided that: “This Act [enacting this chapter] may be cited as the ‘Commercial Engagement Through Ocean Technology Act of 2018’ or the ‘CENOTE Act of 2018’.”
 
+#### Pilot Program for Governance and Oversight of Small Uncrewed Maritime Systems
+Pub. L. 119–60, div. G, title LXXIII, § 7331, Dec. 18, 2025, 139 Stat. 1771, provided that: “(a) Limitation.—Notwithstanding any other provision of law, for the period beginning on the date of enactment of this Act [Dec. 18, 2025] and ending on the date that is 2 years after such date of enactment, small uncrewed maritime systems owned, operated, or chartered by the National Oceanic and Atmospheric Administration, or that are performing specified oceanographic surveys on behalf of and pursuant to a contract or other written agreement with the National Oceanic and Atmospheric Administration, shall not be subject to any vessel inspection, design, operations, navigation, credentialing, or training requirement, law, or regulation, that the Assistant Administrator of the Office of Marine and Aviation Operations of the National Oceanic and Atmospheric Administration determines will harm real-time operational extreme weather oceanographic and atmospheric data collection and predictions. “(b) Other Authority.—Nothing in this section shall be construed to limit the authority of the Secretary of the department in which the Coast Guard is operating, acting through the Commandant, if there is an immediate safety or security concern regarding small uncrewed maritime systems. “(c) Definitions.—In this section:“(1) Small uncrewed maritime systems.—The term ‘small uncrewed maritime systems’ means unmanned maritime systems (as defined in section 2 of the CENOTE Act of 2018 ([33 U.S.C. 4101](./chapter-054-commercial-engagement-through-ocean-technology.md#section-4101))), that—“(A) are not greater than 35 feet overall in length; “(B) are operated remotely or autonomously; and “(C) exclusively perform oceanographic surveys or scientific research. “(2) Uncrewed system.—The term ‘uncrewed system’—“(A) means an uncrewed surface, undersea, or aircraft system and associated elements (including communication links and the components that control the uncrewed system) that are required for the operator to operate the system safely and efficiently; and “(B) includes an unmanned aircraft system (as such term is defined in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim), United States Code). “(d) Savings Clause.—Nothing in this section may be construed to repeal, replace, or preclude application of chapter 551 of title 46, United States Code.”
+
 
 <a id="section-4102"></a>
 ## § 4102. Coordination regarding assessment and acquisition by National Oceanic and Atmospheric Administration of unmanned maritime systems
@@ -140,7 +143,7 @@ Pub. L. 115–394, § 1(a), Dec. 21, 2018, 132 Stat. 5281, provided that: “Thi
 
 <a id="section-4103"></a>
 ## § 4103. Regular assessment of unmanned maritime systems to support National Oceanic and Atmospheric Administration missions
-**(a) In general** The Administrator, acting through the Assistant Administrator for Oceanic and Atmospheric Research and the Director of the Office of Marine and Aviation Operations and the National Oceanic and Atmospheric Administration Commissioned Officer Corps, shall regularly assess publicly and commercially available unmanned maritime systems for potential use to support missions of the Administration.
+**(a) In general** The Administrator, acting through the Assistant Administrator for Oceanic and Atmospheric Research and the Assistant Administrator of the National Oceanic and Atmospheric Administration for Marine and Aviation Operations and the National Oceanic and Atmospheric Administration Commissioned Officer Corps, shall regularly assess publicly and commercially available unmanned maritime systems for potential use to support missions of the Administration.
 
 **(b) Science-based assessments** The Administrator shall carry out subsection (a) through the Assistant Administrator for all matters relating to assessment of the suitability, feasibility, and cost-effectiveness of unmanned maritime systems to meet data specifications required by programs of the Administration.
 
@@ -151,6 +154,11 @@ Pub. L. 115–394, § 1(a), Dec. 21, 2018, 132 Stat. 5281, provided that: “Thi
 (1) convene and consult the Unmanned Maritime Systems Ocean Technology Coordinating Committee established under [section 4102(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section4102/b&num=0&edition=prelim); and
 
 (2) consult with the heads of other offices of the Administration, the academic sector, and developers and manufacturers of unmanned maritime systems to conduct the assessments under subsection (a).
+
+### Statutory Notes
+
+#### Amendments
+2025—Subsec. (a). Pub. L. 119–60 substituted “Assistant Administrator of the National Oceanic and Atmospheric Administration for” for “Director of the Office of”.
 
 
 <a id="section-4104"></a>

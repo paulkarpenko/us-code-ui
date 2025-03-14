@@ -653,7 +653,7 @@ Section 2129, Pub. L. 87–63, title III, § 307, as added Pub. L. 101–508, ti
 
   (A) *Start-up expenses* — The Secretary of the Treasury shall make available to the Corporation such sums as may be necessary, but not to exceed $10,000,000, from amounts deposited in the general fund of the Treasury from fees under [section 1187(h)(3)(B)(i)(I) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187/h/3/B/i/I&num=0&edition=prelim) to cover the Corporation’s initial expenses and activities under this section. Transfers shall be made at least monthly, immediately following the collection of fees under [section 1187(h)(3)(B)(i)(I) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187/h/3/B/i/I&num=0&edition=prelim), on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
 
-  (B) *Subsequent years* — For each of fiscal years 2012 through 2027, from amounts deposited in the general fund of the Treasury during the preceding fiscal year from fees under [section 1187(h)(3)(B)(i)(I) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187/h/3/B/i/I&num=0&edition=prelim), the Secretary of the Treasury shall transfer not more than $100,000,000 to the Fund, which shall be made available to the Corporation, subject to paragraph (3) of this subsection, to carry out its functions under this section. Transfers shall be made at least quarterly on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
+  (B) *Subsequent years* — For each of fiscal years 2012 through 2027, from amounts deposited in the general fund of the Treasury during the preceding fiscal year from fees under [section 1187(h)(3)(B)(i)(I) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187/h/3/B/i/I&num=0&edition=prelim), the Secretary of the Treasury shall transfer not more than $20,000,000 to the Fund, which shall be made available to the Corporation, subject to paragraph (3) of this subsection, to carry out its functions under this section. Transfers shall be made at least quarterly on the basis of estimates by the Secretary, and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess or less than the amounts required to be transferred.
 
 (3) **Matching requirement**
 
@@ -726,6 +726,8 @@ Section is comprised of section 9 of Pub. L. 111–145. Subsec. (h) of section 9
 Section was enacted as part of the United States Capitol Police Administrative Technical Corrections Act of 2009, and not as part of the International Travel Act of 1961 which comprises this chapter.
 
 #### Amendments
+2025—Subsec. (d)(2)(B). Pub. L. 119–21 substituted “$20,000,000” for “$100,000,000”.
+
 2019—Subsec. (b)(2)(A)(ii). Pub. L. 116–94, § 802(1)(A), inserted “or foodservice” after “restaurant”.
 
 Subsec. (b)(2)(A)(v). Pub. L. 116–94, § 802(1)(B), inserted “, such as outdoor recreation” before semicolon at end.

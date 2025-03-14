@@ -55,6 +55,9 @@ source: >-
 #### References in Text
 This chapter, referred to in subsec. (b), was in the original “this title”, meaning title IV of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4544, known as the Indian Child Protection and Family Violence Prevention Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note below and Tables.
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–160, § 1, Dec. 23, 2024, 138 Stat. 2567, provided that: “This Act [amending sections 3202, 3208, 3209, and 3210 of this title] may be cited as the ‘Native American Child Protection Act’.”
+
 #### Short Title of 2016 Amendment
 Pub. L. 114–165, § 1, June 3, 2016, 130 Stat. 415, provided that: “This Act [amending [section 3207 of this title](./chapter-034-indian-child-protection-and-family-violence-prevention.md#section-3207)] may be cited as the ‘Native American Children’s Safety Act’.”
 
@@ -77,11 +80,15 @@ For the purposes of this chapter, the term—
 
 (3) “child abuse” includes but is not limited to—
 
-  (A) any case in which—
+  (A) in any case in which—
 
-    (i) a child is dead or exhibits evidence of skin bruising, bleeding, malnutrition, failure to thrive, burns, fracture of any bone, subdural hematoma, soft tissue swelling, and
+    (i)
 
-    (ii) such condition is not justifiably explained or may not be the product of an accidental occurrence; and
+      (I) a child is dead or exhibits evidence of skin bruising, bleeding, malnutrition, failure to thrive, burns, fracture of any bone, subdural hematoma, soft tissue swelling; and
+
+      (II) such condition is not justifiably explained or may not be the product of an accidental occurrence; or
+
+    (ii) a child is subjected to sexual assault, sexual molestation, sexual exploitation, sexual contact, or prostitution; and
 
   (B) any case in which a child is subjected to sexual assault, sexual molestation, sexual exploitation, sexual contact, or prostitution;
 
@@ -141,6 +148,13 @@ For the purposes of this chapter, the term—
 This chapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4544, known as the Indian Child Protection and Family Violence Prevention Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under [section 3201 of this title](./chapter-034-indian-child-protection-and-family-violence-prevention.md#section-3201) and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in par. (9), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2024—Par. (3)(A). Pub. L. 118–160 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “any case in which—
+
+“(i) a child is dead or exhibits evidence of skin bruising, bleeding, malnutrition, failure to thrive, burns, fracture of any bone, subdural hematoma, soft tissue swelling, and
+
+“(ii) such condition is not justifiably explained or may not be the product of an accidental occurrence; and”.
 
 
 <a id="section-3203"></a>
@@ -379,17 +393,17 @@ This chapter, referred to in subsec. (d)(5)(D), was in the original “this Act�
 
 <a id="section-3208"></a>
 ## § 3208. Indian Child Abuse Treatment Grant Program
-**(a) Establishment** The Secretary of Health and Human Services, acting through the Service and in cooperation with the Bureau, shall establish an Indian Child Abuse Treatment Grant Program that provides grants to any Indian tribe or inter­tribal consortium for the establishment on Indian reservations of treatment programs for Indians who have been victims of child sexual abuse.
+**(a) Establishment** The Service, in cooperation with the Bureau, shall establish an Indian Child Abuse Treatment Grant Program that provides grants to any Indian tribe or inter­tribal consortium for the establishment on Indian reservations of treatment programs for Indians who have been victims of child abuse or neglect.
 
 **(b) Grant applications**
 
-(1) Any Indian tribe or intertribal consortium may submit to the Secretary of Health and Human Services an application for a grant under subsection (a).
+(1) Any Indian tribe or intertribal consortium, on its own or in partnership with an urban Indian organization, may submit to the Service an application for a grant under subsection (a).
 
 (2) Any application submitted under paragraph (1)—
 
-  (A) shall be in such form as the Secretary of Health and Human Services may prescribe;
+  (A) shall be in such form as the Service may prescribe;
 
-  (B) shall be submitted to such Secretary on or before the date designated by such Secretary; and
+  (B) shall be submitted to the Service on or before the date designated by the Service; and
 
   (C) shall specify—
 
@@ -401,47 +415,69 @@ This chapter, referred to in subsec. (d)(5)(D), was in the original “this Act�
 
     (iv) the specific treatment concepts to be used under the program.
 
-**(c) Maximum grant amount** The maximum amount of any grant awarded under subsection (a) shall not exceed $500,000.
+**(c) Culturally appropriate treatment** In awarding grants under this section, the Service shall encourage the use of culturally appropriate treatment services and programs that respond to the unique cultural values, customs, and traditions of applicant Indian Tribes.
 
 **(d) Grant administration and final report** Each recipient of a grant awarded under subsection (a) shall—
 
-(1) furnish the Secretary of Health and Human Services with such information as such Secretary may require to—
+(1) furnish the Service with such information as the Service may require to—
 
   (A) evaluate the program for which the grant is made, and
 
   (B) ensure that the grant funds are expended for the purposes for which the grant was made, and
 
-(2) submit to such Secretary at the close of the term of the grant a final report which shall include such information as the Secretary may require.
+(2) submit to the Service at the close of the term of the grant a final report which shall include such information as the Service may require.
 
-**(e) Authorization of appropriations** there 11 So in original. Probably should be capitalized. is hereby authorized to be appropriated to carry out the provisions of this section $10,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
+**(e) Report** Not later than 2 years after December 23, 2024, the Service shall submit a report to Congress on the award of grants under this section. The report shall contain—
+
+(1) a description of treatment and services for which grantees have used funds awarded under this section; and
+
+(2) any other information that the Service requires.
+
+**(f) Authorization of appropriations** there 11 So in original. Probably should be capitalized. is hereby authorized to be appropriated to carry out the provisions of this section $10,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–160, § 2(2)(A), substituted “The Service, in cooperation with the Bureau” for “The Secretary of Health and Human Services, acting through the Service and in cooperation with the Bureau” and “abuse or neglect” for “sexual abuse”.
+
+Subsec. (b)(1). Pub. L. 118–160, § 2(2)(B), (C), inserted “, on its own or in partnership with an urban Indian organization,” after “Any Indian tribe or intertribal consortium” and substituted “Service” for “Secretary of Health and Human Services”.
+
+Subsec. (b)(2)(A). Pub. L. 118–160, § 2(2)(B), substituted “Service” for “Secretary of Health and Human Services”.
+
+Subsec. (b)(2)(B). Pub. L. 118–160, § 2(2)(D), substituted “the Service” for “such Secretary” in two places.
+
+Subsec. (c). Pub. L. 118–160, § 2(2)(E), amended subsec. (c) generally. Prior to amendment, text read as follows: “The maximum amount of any grant awarded under subsection (a) shall not exceed $500,000.”
+
+Subsec. (d)(1). Pub. L. 118–160, § 2(2)(B), (D), substituted “Service” for “Secretary of Health and Human Services” and “as the Service” for “as such Secretary” in introductory provisions.
+
+Subsec. (d)(2). Pub. L. 118–160, § 2(2)(D), (F), substituted “to the Service” for “to such Secretary” and “as the Service” for “as the Secretary”.
+
+Subsecs. (e), (f). Pub. L. 118–160, § 2(2)(G), (H), added subsec. (e) and redesignated former subsec. (e) as (f).
+
 1995—Subsec. (e). Pub. L. 104–16 substituted “1995, 1996, and 1997” for “and 1995”.
 
 
 <a id="section-3209"></a>
-## § 3209. Indian Child Resource and Family Services Centers
-**(a) Establishment** The Secretary shall establish within each area office of the Bureau an Indian Child Resource and Family Services Center.
+## § 3209. National Indian Child Resource and Family Services Center
+**(a) Establishment** Not later than 1 year after December 23, 2024, the Secretary shall establish a National Indian Child Resource and Family Services Center.
 
-**(b) Memorandum of Agreement** The Secretary and the Secretary of Health and Human Services shall enter into a Memorandum of Agreement which provides for the staffing of the Centers established under this section.
+**(b) Report** Not later than 2 years after December 23, 2024, the Secretary of the Interior, acting through the Bureau of Indian Affairs, shall submit a report to Congress on the status of the National Indian Child Resource and Family Services Center.
 
-**(c) Center staffing** Each Center established under subsection (a) shall be staffed by a multidisciplinary team of personnel with experience and training in prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect.
+**(c) Center staffing** The Center established under subsection (a) shall be staffed by a team of personnel with experience and training in prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect.
 
-**(d) Center responsibilities and functions** Each Center established under subsection (a) shall—
+**(d) Center responsibilities and functions** The Center established under subsection (a) shall—
 
-(1) provide advice, technical assistance, and consultation to Indian tribes, tribal organizations, and inter-tribal consortia upon request;
+(1) provide advice, technical assistance, and consultation to Indian tribes, tribal organizations, inter-tribal consortia, and urban Indian organizations upon request;
 
-(2) provide training to appropriate personnel of Indian tribes, tribal organizations, the Bureau and the Service on the identification and investigation of cases of family violence, child abuse, and child neglect and, to the extent practicable, coordinate with institutions of higher education, including tribally controlled community colleges, to offer college-level credit to interested trainees;
+(2) provide training to appropriate personnel of Indian tribes, tribal organizations, urban Indian organizations, the Bureau and the Service on the identification and investigation of cases of family violence, child abuse, and child neglect and, to the extent practicable, coordinate with institutions of higher education, including tribally controlled community colleges, to offer college-level credit to interested trainees;
 
-(3) develop training materials on the prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect for distribution to Indian tribes and to tribal organizations;
+(3) develop training and technical assistance materials on the prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect for distribution to Indian tribes, Tribal organizations, and urban Indian organizations;
 
-(4) develop recommendations to assist Federal and tribal personnel to respond to cases of family violence, child abuse, and child neglect; and
+(4) develop recommendations to assist Federal, State, Tribal, and urban Indian personnel to respond to cases of family violence, child abuse, and child neglect; and
 
-(5) develop policies and procedures for each agency office of the Bureau and service unit of the Service within the area which, to the extent feasible, comply with tribal laws pertaining to cases of family violence, child abuse, and child neglect, including any criminal laws, and which provide for maximum cooperation with the enforcement of such laws.
+(5) develop model intergovernmental agreements between Tribes and States, and other materials that provide examples of how Federal, State, and Tribal governments can develop effective relationships and provide for maximum cooperation in the furtherance of prevention, investigation, treatment, and prosecution of incidents of family violence and child abuse and child neglect involving Indian children and families.
 
-**(e) Multidisciplinary team personnel** Each multidisciplinary team established under this section shall include, but is not limited to, personnel with a background in—
+**(e) Team personnel** The team established under this section shall include, but is not limited to, personnel with a background in—
 
 (1) law enforcement,
 
@@ -451,20 +487,40 @@ This chapter, referred to in subsec. (d)(5)(D), was in the original “this Act�
 
 (4) domestic violence.
 
-**(f) Center advisory board** The Secretary, in consultation with the Secretary of Health and Human Services, shall establish, for each Indian Child Resource and Family Services Center, an advisory board to advise and assist such Center in carrying out its activities under this chapter. Each advisory board shall consist of 7 members appointed by the Secretary from Indian tribes and human service providers served by an area office of the Bureau. Members shall serve without compensation, but may be reimbursed for travel and other expenses while carrying out the duties of the board. The advisory board shall assist the Center in coordinating programs, identifying training materials, and developing policies and procedures relating to family violence, child abuse, and child neglect.
+**(f) Center advisory board** The Secretary shall establish an advisory board to advise and assist the National Indian Child Resource and Family Services Center in carrying out its activities under this section. The advisory board shall consist of 12 members appointed by the Secretary from Indian Tribes, Tribal organizations, and urban Indian organizations with expertise in child abuse and child neglect. Members shall serve without compensation, but may be reimbursed for travel and other expenses while carrying out the duties of the board. The advisory board shall assist the Center in coordinating programs, identifying training and technical assistance materials, and developing intergovernmental agreements relating to family violence, child abuse, and child neglect.
 
-**(g) Application of Indian Self-Determination Act to Centers** Indian Child Resource and Family Services Centers established under subsection (a) shall be subject to the provisions of the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.]. If a Center is located in an area office of the Bureau which serves more than one Indian tribe, any application to enter into a contract to operate the Center pursuant to such Act must have the consent of each of the other tribes to be served under the contract, except that, in the Juneau Area, only the consent of such tribes or tribal consortia that are engaged in contracting of Indian Child Protection and Family Violence Prevention programs pursuant to such Act shall be required. This section shall not preclude the designation of an existing child resource and family services center operated by a tribe or tribal organization as a Center if all of the tribes to be served by the Center agree to such designation.
+**(g) Application of Indian Self-Determination Act to the Center** The National Indian Child Resource and Family Services Center shall be subject to the provisions of the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.]. The Secretary may also contract for the operation of the Center with a nonprofit Indian organization governed by an Indian-controlled board of directors that have substantial experience in child abuse, child neglect, and family violence involving Indian children and families.
 
 **(h) Authorization of appropriations** There are authorized to be appropriated to carry out the provisions of this section $3,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (f), was in the original “this Act” and was translated as reading “this title”, meaning title IV of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4544, known as the Indian Child Protection and Family Violence Prevention Act, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title IV to the Code, see Short Title note set out under [section 3201 of this title](./chapter-034-indian-child-protection-and-family-violence-prevention.md#section-3201) and Tables.
-
 The Indian Self-Determination Act, referred to in subsec. (g), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
+2024—Pub. L. 118–160, § 2(3)(A), inserted “National” before “Indian” and substituted “Center” for “Centers” in section catchline.
+
+Subsecs. (a), (b). Pub. L. 118–160, § 2(3)(B), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) related to the establishment of an Indian Child Resource and Family Services Center in Bureau area offices and the requirement to enter into a staffing Memorandum of Agreement, respectively.
+
+Subsec. (c). Pub. L. 118–160, § 2(3)(C), substituted “The Center” for “Each Center” and struck out “multidisciplinary” before “team”.
+
+Subsec. (d). Pub. L. 118–160, § 2(3)(D)(i), substituted “The Center” for “Each Center” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 118–160, § 2(3)(D)(ii), substituted “inter-tribal consortia, and urban Indian organizations” for “and inter-tribal consortia”.
+
+Subsec. (d)(2). Pub. L. 118–160, § 2(3)(D)(iii), inserted “urban Indian organizations,” after “tribal organizations,”.
+
+Subsec. (d)(3). Pub. L. 118–160, § 2(3)(D)(iv), inserted “and technical assistance” after “training” and substituted “, Tribal organizations, and urban Indian organizations” for “and to tribal organizations”.
+
+Subsec. (d)(4). Pub. L. 118–160, § 2(3)(D)(v), inserted “, State,” after “Federal” and substituted “Tribal, and urban Indian” for “and tribal”.
+
+Subsec. (d)(5). Pub. L. 118–160, § 2(3)(D)(vi), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “develop policies and procedures for each agency office of the Bureau and service unit of the Service within the area which, to the extent feasible, comply with tribal laws pertaining to cases of family violence, child abuse, and child neglect, including any criminal laws, and which provide for maximum cooperation with the enforcement of such laws.”
+
+Subsec. (e). Pub. L. 118–160, § 2(3)(E), substituted “Team” for “Multidisciplinary team” in heading and “The” for “Each multidisciplinary” in introductory provisions.
+
+Subsecs. (f), (g). Pub. L. 118–160, § 2(3)(F), amended subsecs. (f) and (g) generally. Prior to amendment, subsecs. (f) and (g) related to the establishment of an advisory board to advise and assist each Indian Child Resource and Family Services Center and the application of the Indian Self-Determination Act to Indian Child Resource and Family Services Centers, respectively.
+
 1995—Subsec. (h). Pub. L. 104–16 substituted “1995, 1996, and 1997” for “and 1995”.
 
 #### Termination of Advisory Boards
@@ -489,27 +545,33 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 (1) the establishment of a child protective services program which may include—
 
-  (A) the employment of child protective services staff to investigate cases of child abuse and child neglect,
+  (A) the employment of child protective services staff to investigate cases of child abuse, neglect, or both,
 
-  (B) training programs for child protective services personnel, law enforcement personnel, and judicial personnel in the investigation, prevention, and treatment of cases of child abuse and child neglect, and
+  (B) training programs for child protective services personnel, law enforcement personnel, and judicial personnel in the investigation, prevention, and treatment of cases of child abuse and child neglect,
 
   (C) purchase of equipment to assist in the investigation of cases of child abuse and child neglect;
 
+  (D) development of agreements between Tribes, States, or private agencies on the coordination of child abuse and neglect prevention, investigation, and treatment services;
+
+  (E) child protective services operational costs including transportation, risk and protective factors assessments, family engagement and kinship navigator services, and relative searches, criminal background checks for prospective placements, and home studies; and
+
+  (F) development of a Tribal child protection or multidisciplinary team to assist in the prevention and investigation of child abuse and neglect;
+
 (2) the establishment of a family violence prevention and treatment program which may include—
 
-  (A) the employment of family violence prevention and treatment staff to respond to incidents of family violence,
+  (A) the employment of family violence prevention and treatment staff to respond to incidents of family violence in culturally appropriate ways,
 
   (B) the provision of immediate shelter and related assistance for victims of family violence and their dependents,
 
-  (C) training programs for family violence prevention and treatment personnel, law enforcement personnel, and judicial personnel in the investigation, prevention, and treatment of cases of family violence; and
+  (C) training programs that may include culturally appropriate programs for family violence prevention and treatment personnel, law enforcement personnel, and judicial personnel in the investigation, prevention, and treatment of cases of family violence; and
 
   (D) construction or renovation of facilities for the establishment of family violence shelters;
 
 (3) the development and implementation of a multidisciplinary child abuse investigation and prosecution program which may—
 
-  (A) coordinate child abuse prevention, investigation, prosecution, treatment, and counseling services,
+  (A) coordinate child abuse and neglect prevention, investigation, prosecution, treatment, and counseling services,
 
-  (B) develop protocols among related agencies to ensure that investigations of child abuse cases, to the extent practicable, minimize the trauma to the child victim, and
+  (B) develop protocols among related agencies to ensure that investigations of child abuse and neglect cases minimize the trauma to the child victim, and
 
   (C) provide for the coordination and cooperation of law enforcement agencies, courts of competent jurisdiction, and other tribal, Federal, and State agencies through intergovernmental or interagency agreements that define and specify each party’s responsibilities;
 
@@ -538,7 +600,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 (1) The Secretary, with the participation of Indian tribes, shall establish, and promulgate by regulations, a formula which establishes base support funding for Indian Child Protection and Family Violence Prevention programs.
 
-(2) In the development of regulations for base support funding for such programs, the Secretary shall develop, in consultation with Indian tribes, appropriate caseload standards and staffing requirements which are comparable to standards developed by the National Association of Social Work, the Child Welfare League of America and other professional associations in the field of social work and child welfare. Each level of funding assistance shall correspond to the staffing requirements established by the Secretary pursuant to this section.
+(2) In the development of regulations for base support funding for such programs, the Secretary shall develop, not later than one year after December 23, 2024, in consultation with Indian Tribes, appropriate caseload standards and staffing requirements. Each level of funding assistance shall correspond to the staffing requirements established by the Secretary pursuant to this section.
 
 (3) Factors to be considered in the development of the base support funding formula shall include, but are not limited to—
 
@@ -548,31 +610,17 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
   (C) projected number of cases per month; and
 
-  (D) special circumstances warranting additional program resources, such as high incidence of child sexual abuse, high incidence of violent crimes against women, or the existence of a significant victim population within the community.
+  (D) special circumstances warranting additional program resources, such as high incidence of child abuse and neglect, high incidence of family violence, high incidence of violent crimes against women, or the existence of a significant victim population within the community.
 
-(4) The formula established pursuant to this subsection shall provide funding necessary to support—
+(4) The formula established pursuant to this subsection shall provide funding necessary to support not less than one child protective services or family violence caseworker, including fringe benefits and support costs, for each Indian Tribe.
 
-  (A) one child protective services or family violence caseworker, including fringe benefits and support costs, for each tribe; and
+(5) In any fiscal year that appropriations are not sufficient to fully fund Indian Child Protection and Family Violence Prevention programs at each level of assistance under the formula required to be established in this subsection, available funds for each level of assistance shall be evenly divided among the Indian Tribes qualifying for that level of assistance.
 
-  (B) an additional child protective services and family violence caseworker, including fringe benefits and support costs, for each level of assistance for which an Indian tribe qualifies.
+**(g) Report** Not later than 2 years after December 23, 2024, the Secretary of the Interior, acting through the Bureau of Indian Affairs, shall submit a report to Congress on the award of grants under this section. The report shall contain—
 
-(5) In any fiscal year that appropriations are not sufficient to fully fund Indian Child Protection and Family Violence Prevention programs at each level of assistance under the formula required to be established in this subsection, available funds for each level of assistance shall be evenly divided among the tribes qualifying for that level of assistance.
+(1) a description of treatment and services for which grantees have used funds awarded under this section; and
 
-**(g) Maintenance of effort** Services provided under contracts made under this section shall supplement, not supplant, services from any other funds available for the same general purposes, including, but not limited to—
-
-(1) treatment, including, but not limited to—
-
-  (A) individual counseling,
-
-  (B) group counseling, and
-
-  (C) family counseling;
-
-(2) social services and case management;
-
-(3) training available to Indian tribes, tribal agencies, and Indian organizations regarding the identification, investigation, prevention, and treatment of family violence, child abuse, and child neglect; and
-
-(4) law enforcement services, including investigations and prosecutions.
+(2) any other information that the Secretary of the Interior requires.
 
 **(h) Contract evaluation and annual report** Each recipient of funds awarded pursuant to subsection (a) shall—
 
@@ -592,6 +640,32 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 The Indian Self-Determination Act, referred to in subsec. (b), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
+2024—Subsec. (d)(1)(A). Pub. L. 118–160, § 2(4)(A)(i)(I), substituted “abuse, neglect, or both” for “abuse and child neglect”.
+
+Subsec. (d)(1)(D) to (F). Pub. L. 118–160, § 2(4)(A)(i)(II), (III), added subpars. (D) to (F).
+
+Subsec. (d)(2)(A). Pub. L. 118–160, § 2(4)(A)(ii)(I), inserted “in culturally appropriate ways” after “incidents of family violence”.
+
+Subsec. (d)(2)(C). Pub. L. 118–160, § 2(4)(A)(ii)(II), inserted “that may include culturally appropriate programs” after “training programs”.
+
+Subsec. (d)(3)(A). Pub. L. 118–160, § 2(4)(A)(iii)(I), inserted “and neglect” after “abuse”.
+
+Subsec. (d)(3)(B). Pub. L. 118–160, § 2(4)(A)(iii)(II), substituted “and neglect cases” for “cases, to the extent practicable,”.
+
+Subsec. (f)(2). Pub. L. 118–160, § 2(4)(B)(i), substituted “develop, not later than one year after December 23, 2024, in consultation with Indian Tribes, appropriate caseload standards and staffing requirements” for “develop, in consultation with Indian tribes, appropriate caseload standards and staffing requirements which are comparable to standards developed by the National Association of Social Work, the Child Welfare League of America and other professional associations in the field of social work and child welfare”.
+
+Subsec. (f)(3)(D). Pub. L. 118–160, § 2(4)(B)(ii), substituted “abuse and neglect, high incidence of family violence” for “sexual abuse”.
+
+Subsec. (f)(4). Pub. L. 118–160, § 2(4)(B)(iii), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The formula established pursuant to this subsection shall provide funding necessary to support—
+
+“(A) one child protective services or family violence caseworker, including fringe benefits and support costs, for each tribe; and
+
+“(B) an additional child protective services and family violence caseworker, including fringe benefits and support costs, for each level of assistance for which an Indian tribe qualifies.”
+
+Subsec. (f)(5). Pub. L. 118–160, § 2(4)(B)(iv), substituted “Indian Tribes” for “tribes”.
+
+Subsec. (g). Pub. L. 118–160, § 2(4)(C), amended subsec. (g) generally. Prior to amendment, subsec. (g) provided that services provided under contracts made under this section shall supplement, not supplant, services from any other funds available for the same general purposes.
+
 2008—Subsec. (d)(5)(C). Pub. L. 110–315 substituted “tribally controlled college or university (within the meaning of [section 1801 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1801))” for “tribally controlled community colleges (within the meaning of [section 1801 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1801))”.
 
 1998—Subsec. (d)(5)(C). Pub. L. 105–244 made technical amendment to reference in original act which appears in text as reference to [section 1801 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1801).

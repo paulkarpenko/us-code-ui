@@ -293,6 +293,8 @@ Repeal effective Dec. 4, 2018, and as if included in Pub. L. 115—282, see sect
 
   (B) The Secretary may waive the requirement of subparagraph (A) with respect to an individual if the Secretary determines that it is appropriate to do so based on a complete background check of the individual and a review of all terrorist watch lists to ensure that the individual is not identified on any such terrorist watch list.
 
+(9) The Secretary may conduct no-notice exercises in Captain of the Port Zones (as described in part 3 of title 33, Code of Federal Regulations as in effect on the date of enactment of the Coast Guard Authorization Act of 2025 [Dec. 18, 2025]) involving a facility or vessel required to maintain a security plan under this subsection.
+
 **(d) Nondisclosure of Information.—**
 
 (1) **In general.—** — Information developed under this section or sections 70102, 70104, and 70108 is not required to be disclosed to the public, including—
@@ -325,6 +327,8 @@ Repeal effective Dec. 4, 2018, and as if included in Pub. L. 115—282, see sect
 [Section 1226(c) of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226/c&num=0&edition=prelim), Navigation and Navigable Waters, which was transferred and redesignated as subsec. (f) of this section by Pub. L. 115–282, title IV, §§ 402(c)(1), 408(d)(1), Dec. 4, 2018, 132 Stat. 4264, 4268, was based on section 7(c) of Pub. L. 92–340, as added by Pub. L. 104–324, title III, § 302, Oct. 19, 1996, 110 Stat. 3917.
 
 #### Amendments
+2025—Subsec. (c)(9). Pub. L. 119–60 added par. (9).
+
 2021—Subsec. (b)(3). Pub. L. 116–283, § 8344(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary shall—
 
 “(A) review and approve Area Maritime Transportation Security Plans under this subsection; and
@@ -1537,9 +1541,9 @@ Pub. L. 109–241, title IV, § 404, July 11, 2006, 120 Stat. 535, provided that
 
 **(b) Specific Authority.—** Under subsection (a), the Secretary may—
 
-(1) carry out or require measures, including inspections, port and harbor patrols, the establishment of security and safety zones, and the development of contingency plans and procedures, to prevent or respond to acts of terrorism cyber 11 So in original. Probably should be preceded by a comma. incidents, transnational organized crime, and foreign state threats;
+(1) carry out or require measures, including inspections, port and harbor patrols, the establishment of security and safety zones, and the development of contingency plans and procedures, to prevent or respond to acts of terrorism, cyber incidents, transnational organized crime, and foreign state threats;
 
-(2) recruit members of the Regular Coast Guard and the Coast Guard Reserve and train members of the Regular Coast Guard and the Coast Guard Reserve in the techniques of preventing and responding to acts of terrorism cyber 1 incidents, transnational organized crime, and foreign state threats; and
+(2) recruit members of the Regular Coast Guard and the Coast Guard Reserve and train members of the Regular Coast Guard and the Coast Guard Reserve in the techniques of preventing and responding to acts of terrorism, cyber incidents, transnational organized crime, and foreign state threats; and
 
 (3) dispatch properly trained and qualified, armed (as needed), Coast Guard personnel on vessels and public or commercial structures on or adjacent to waters subject to United States jurisdiction to deter or respond to acts of terrorism, cyber incidents, transnational organized crime, foreign state threats, or transportation security incidents, as defined in [section 70101 of title 46](./chapter-701-port-security.md#section-70101), United States Code.
 
@@ -1557,6 +1561,10 @@ Section, as added and amended by Pub. L. 115–282, is based on subsecs. (a) and
 A prior section 70116, added Pub. L. 107–295, title I, § 102(a), Nov. 25, 2002, 116 Stat. 2083, related to secure systems of transportation, prior to repeal by Pub. L. 115–254, div. J, § 1809(b), Oct. 5, 2018, 132 Stat. 3538.
 
 #### Amendments
+2025—Subsec. (b)(1). Pub. L. 119–60, § 7701(b)(1), substituted “terrorism, cyber” for “terrorism cyber”.
+
+Subsec. (b)(2). Pub. L. 119–60, § 7701(b)(2), inserted a comma after “acts of terrorism”.
+
 2021—Subsec. (a). Pub. L. 116–283, § 8341(1), inserted “, cyber incidents, transnational organized crime, and foreign state threats” after “an act of terrorism” in introductory provisions.
 
 Subsec. (b)(1), (2). Pub. L. 116–283, § 8341(2)(A), inserted “cyber incidents, transnational organized crime, and foreign state threats” after “terrorism”.
@@ -1585,7 +1593,7 @@ Another prior section 70117 was renumbered [section 70119 of this title](./chapt
 
 <a id="section-70118"></a>
 ## § 70118. Enforcement by State and local officers
-**(a) In General.—** Any State or local government law enforcement officer who has authority to enforce State criminal laws may make an arrest for violation of a security zone regulation prescribed under section 1 11 See References in Text note below. of title II of the Act of June 15, 1917 (chapter 30; [50 U.S.C. 191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim)) or security or safety zone regulation under section 7(b) 1 of the Ports and Waterways Safety Act ([33 U.S.C. 1226(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226/b&num=0&edition=prelim)) or a safety zone regulation prescribed under section 10(d) of the Deepwater Port Act of 1974 ([33 U.S.C. 1509(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1509/d&num=0&edition=prelim)) by a Coast Guard official authorized by law to prescribe such regulations, if—
+**(a) In General.—** Any State or local government law enforcement officer who has authority to enforce State criminal laws may make an arrest for violation of a security zone regulation prescribed under section 70051 or security or safety zone regulation under section 70116(b) or a safety zone regulation prescribed under section 10(d) of the Deepwater Port Act of 1974 ([33 U.S.C. 1509(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1509/d&num=0&edition=prelim)) by a Coast Guard official authorized by law to prescribe such regulations, if—
 
 (1) such violation is a felony; and
 
@@ -1595,17 +1603,14 @@ Another prior section 70117 was renumbered [section 70119 of this title](./chapt
 
 ### Statutory Notes
 
-#### References in Text
-Section 1 of title II of the Act of June 15, 1917, referred to in subsec. (a), which was classified to [section 191 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim), War and National Defense, was redesignated and transferred to [section 70051 of this title](./chapter-700-ports-and-waterways-safety.md#section-70051) by Pub. L. 115–282, title IV, § 407(b)(1), (5), Dec. 4, 2018, 132 Stat. 4267.
-
-Section 7(b) of the Ports and Waterways Safety Act, referred to in subsec. (a), which was classified to [section 1226(b) of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226/b&num=0&edition=prelim), Navigation and Navigable Waters, was redesignated and transferred to [section 70116(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70116/b&num=0&edition=prelim) by Pub. L. 115–282, title IV, § 402(b)(1), Dec. 4, 2018, 132 Stat. 4264. A duplicate transfer to [section 70102a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70102a/b&num=0&edition=prelim) by section 408(a) of Pub. L. 115–282 was repealed by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8507(d)(1), Jan. 1, 2021, 134 Stat. 4754.
-
 #### Prior Provisions
 A prior section 70118 was renumbered [section 70117 of this title](./chapter-701-port-security.md#section-70117) and subsequently repealed.
 
 Another prior section 70118 was renumbered [section 70121 of this title](./chapter-701-port-security.md#section-70121).
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 substituted “section 70051” for “section 1 of title II of the Act of June 15, 1917 (chapter 30; [50 U.S.C. 191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim))” and “section 70116(b)” for “section 7(b) of the Ports and Waterways Safety Act ([33 U.S.C. 1226(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226/b&num=0&edition=prelim))”.
+
 2008—Pub. L. 110–181 repealed Pub. L. 109–304, § 15(33)(A). See 2006 Amendment note below.
 
 2006—Pub. L. 109–304, § 15(33)(A), which directed renumbering identical to that made by Pub. L. 109–241, was repealed by Pub. L. 110–181. See Amendment note and Construction of 2006 Amendment note below.
@@ -1830,7 +1835,7 @@ In this subchapter:
 
 (1) **Law enforcement agency.—** — The term “law enforcement agency” means an agency of a State, a political subdivision of a State, or a Federally recognized tribe that is authorized by law to supervise the prevention, detection, investigation, or prosecution of any violation of criminal law.
 
-(2) **Security zone.—** — The term “security zone” means a security zone, established by the Commandant of the Coast Guard or the Commandant’s designee pursuant to section 1 11 See References in Text note below. of title II of the Act of June 15, 1917 ([50 U.S.C. 191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim)) or section 7(b) 1 of the Ports and Waterways Safety Act ([33 U.S.C. 1226(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226/b&num=0&edition=prelim)), for a vessel carrying especially hazardous cargo when such vessel—
+(2) **Security zone.—** — The term “security zone” means a security zone, established by the Commandant of the Coast Guard or the Commandant’s designee pursuant to section 70051 or section 70116(b), for a vessel carrying especially hazardous cargo when such vessel—
 
   (A) enters, or operates within, the internal waters of the United States and the territorial sea of the United States; or
 
@@ -1838,12 +1843,9 @@ In this subchapter:
 
 ### Statutory Notes
 
-#### References in Text
-Section 1 of title II of the Act of June 15, 1917, referred to in par. (2), which was classified to [section 191 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim), War and National Defense, was redesignated and transferred to [section 70051 of this title](./chapter-700-ports-and-waterways-safety.md#section-70051) by Pub. L. 115–282, title IV, § 407(b)(1), (5), Dec. 4, 2018, 132 Stat. 4267.
-
-Section 7(b) of the Ports and Waterways Safety Act, referred to in par. (2), which was classified to [section 1226(b) of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226/b&num=0&edition=prelim), Navigation and Navigable Waters, was redesignated and transferred to [section 70116(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70116/b&num=0&edition=prelim) by Pub. L. 115–282, title IV, § 402(b)(1), Dec. 4, 2018, 132 Stat. 4264. A duplicate transfer to [section 70102a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70102a/b&num=0&edition=prelim) by section 408(a) of Pub. L. 115–282 was repealed by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8507(d)(1), Jan. 1, 2021, 134 Stat. 4754.
-
 #### Amendments
+2025—Par. (2). Pub. L. 119–60 subtituted “section 70051” for “section 1 of title II of the Act of June 15, 1917 ([50 U.S.C. 191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim))” and “section 70116(b)” for “section 7(b) of the Ports and Waterways Safety Act ([33 U.S.C. 1226(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226/b&num=0&edition=prelim))” in introductory provisions.
+
 2010—Pub. L. 111–330 amended Pub. L. 111–281, § 828(a), which enacted this section.
 
 #### Effective Date of 2010 Amendment

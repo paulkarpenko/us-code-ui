@@ -945,7 +945,7 @@ Pub. L. 102–190, div. A, title VI, § 662(b), Dec. 5, 1991, 105 Stat. 1398, pr
 
 **(k) Termination of Authority.—**
 
-(1) The authority to separate a member of the armed forces from active duty under subsection (c) shall terminate on December 31, 2025.
+(1) The authority to separate a member of the armed forces from active duty under subsection (c) shall terminate on December 31, 2030.
 
 (2) A member who separates by the date specified in paragraph (1) may continue to be provided voluntary separation pay and benefits under this section until the member has received the entire amount of pay and benefits to which the member is entitled under this section.
 
@@ -955,6 +955,8 @@ Pub. L. 102–190, div. A, title VI, § 662(b), Dec. 5, 1991, 105 Stat. 1398, pr
 Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2)(A), is classified generally to chapter 24 (§ 3401 et seq.) of Title 26, Internal Revenue Code.
 
 #### Amendments
+2025—Subsec. (k)(1). Pub. L. 119–60 substituted “December 31, 2030” for “December 31, 2025”.
+
 2022—Subsec. (e)(2)(B). Pub. L. 117–263 substituted “sections 452 and 453(c)” for “sections 474 and 476”.
 
 2019—Subsec. (j)(1). Pub. L. 116–92, § 603(1), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.

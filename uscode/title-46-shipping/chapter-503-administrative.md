@@ -331,7 +331,7 @@ Subsection (c) is substituted for the source provision to eliminate unnecessary 
 
 (1) a private entity, including a nonprofit organization;
 
-(2) a State, regional, or local government or entity, including special districts;
+(2) a public entity, including a Federal, State, regional, or local government entity, including a special district;
 
 (3) an Indian Tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim))) or a consortium of Indian Tribes;
 
@@ -378,6 +378,8 @@ Subsection (c) is substituted for the source provision to eliminate unnecessary 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (d)(2). Pub. L. 118–159 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a State, regional, or local government or entity, including special districts;”.
+
 2022—Subsec. (a). Pub. L. 117–263, § 3543(a)(1), designated existing provisions as par. (1) and inserted subsec. heading.
 
 Subsec. (a)(1). Pub. L. 117–263, § 3543(a)(7)(A), inserted “or support” after “engage in” and substituted “eligible entities.” for “the use of public vessels under the control of the Maritime Administration or private vessels under United States registry, and through partnerships and cooperative efforts with academic, public, private, and nongovernmental entities and facilities.”

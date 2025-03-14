@@ -2,7 +2,7 @@
 title: 26
 chapter: '68'
 heading: 'ADDITIONS TO THE TAX, ADDITIONAL AMOUNTS, AND ASSESSABLE PENALTIES'
-section_count: 77
+section_count: 80
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -528,7 +528,7 @@ Subsecs. (e) to (g). Pub. L. 93–406, § 1031(b)(1)(A), added subsecs. (e) and 
 
 1969—Subsecs. (d), (e). Pub. L. 91–172 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1965—Subsec. (b). Pub. L. 89–97, § 313(e)(2)(B), inserted “and in the case of each failure to furnish a statement required by section 6053(b) (relating to statements furnished by employers with respect to tips),” after “income tax withheld).”.
+1965—Subsec. (b). Pub. L. 89–97, § 313(e)(2)(B), inserted “and in the case of each failure to furnish a statement required by section 6053(b) (relating to statements furnished by employers with respect to tips),” after “income tax withheld),”.
 
 Subsec. (c). Pub. L. 89–212 inserted “or which are compensation (as defined in section 3231(e))” and “or section 3201 (as the case may be)”.
 
@@ -2125,14 +2125,35 @@ A prior section 6658, act Aug. 16, 1954, ch. 736, 68A Stat. 826, authorized incl
 Section effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as an Effective Date of 1980 Amendment note under [section 108 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-108).
 
 
-<a id="section-6659-to-6661"></a>
-## § 6659 to 6661. Repealed. Pub. L. 101–239, title VII, § 7721(c)(2), Dec. 19, 1989, 103 Stat. 2399]
+<a id="section-6659"></a>
+## § 6659. Improper claim for Trump account contribution pilot program credit
+**(a) In general** In the case of any individual who makes an election under section 6434 with respect to an individual who is not an eligible child of the taxpayer—
+
+(1) if such election was made due to negligence or disregard of the rules or regulations, there shall be imposed a penalty of $500, or
+
+(2) if such election was made due to fraud, there shall be imposed a penalty of $1,000.
+
+**(b) Definitions**
+
+(1) **Eligible child** — The term “eligible child” has the meaning given such term under section 6434.
+
+(2) **Negligence; disregard** — The terms “negligence” and “disregard” have the same meaning as when such terms are used in section 6662.
 
 ### Statutory Notes
 
-Section 6659, added Pub. L. 97–34, title VII, § 722(a)(1), Aug. 13, 1981, 95 Stat. 341; amended Pub. L. 97–448, title I, § 107(a)(1), (2), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–369, div. A, title I, § 155(c)(1), title VII, § 721(x)(4), July 18, 1984, 98 Stat. 693, 971, related to additions to tax in case of valuation overstatements for purposes of the income tax.
+#### Prior Provisions
+A prior section 6659, added Pub. L. 97–34, title VII, § 722(a)(1), Aug. 13, 1981, 95 Stat. 341; amended Pub. L. 97–448, title I, § 107(a)(1), (2), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–369, div. A, title I, § 155(c)(1), title VII, § 721(x)(4), July 18, 1984, 98 Stat. 693, 971, related to additions to tax in case of valuation overstatements for purposes of the income tax, prior to repeal by Pub. L. 101–239, title VII, § 7721(c)(2), Dec. 19, 1989, 103 Stat. 2399.
 
-A prior section 6659 was renumbered [section 6662 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6662).
+Another prior section 6659 was renumbered [section 6662 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6662).
+
+#### Effective Date
+Section applicable to taxable years beginning after Dec. 31, 2025, see section 70204(e) of Pub. L. 119–21, set out as a note under [section 128 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-128).
+
+
+<a id="section-6659a-to-6661"></a>
+## § 6659A to 6661. Repealed. Pub. L. 101–239, title VII, § 7721(c)(2), Dec. 19, 1989, 103 Stat. 2399]
+
+### Statutory Notes
 
 Section 6659A, added Pub. L. 99–514, title XI, § 1138(a), Oct. 22, 1986, 100 Stat. 2486, related to additions to tax in case of overstatements of pension liabilities.
 
@@ -2330,6 +2351,16 @@ This section shall not apply to any portion of an underpayment on which a penalt
 
 **(l) Increase in penalty in case of overstatement of qualified charitable contributions** In the case of any portion of an underpayment which is attributable to one or more overstatements of the deduction provided in section 170(p), subsection (a) shall be applied with respect to such portion by substituting “50 percent” for “20 percent”.
 
+**(m) Substantial understatement of income tax due to disallowance of applicable energy credits**
+
+(1) **In general** — In the case of a taxpayer for which there is a disallowance of an applicable energy credit for any taxable year, for purposes of determining whether there is a substantial understatement of income tax for such taxable year, subsection (d)(1) shall be applied—
+
+  (A) in subparagraphs (A) and (B), by substituting “1 percent” for “10 percent” each place it appears, and
+
+  (B) without regard to subparagraph (C).
+
+(2) **Disallowance of an applicable energy credit** — For purposes of this subsection, the term “disallowance of an applicable energy credit” means the disallowance of a credit under section 45X, 45Y, or 48E by reason of overstating the material assistance cost ratio (as determined under section 7701(a)(52)) with respect to any qualified facility, energy storage technology, or facility which produces eligible components.
+
 ### Statutory Notes
 
 #### Codification
@@ -2343,13 +2374,15 @@ Section 1219(a)(1), (2) of Pub. L. 109–280, which directed the amendment of se
 A prior section 6662, acts Aug. 16, 1954, ch. 736, 68A Stat. 827, § 6659; May 14, 1960, Pub. L. 86–470, § 1, 74 Stat. 132; Dec. 30, 1969, Pub. L. 91–172, title I, § 101(j)(51), 83 Stat. 531; Sept. 2, 1974, Pub. L. 93–406, title II, § 1016(a)(19), 88 Stat. 931; renumbered § 6660, Aug. 13, 1981, Pub. L. 97–34, title VII, § 722(a)(1), 95 Stat. 341; renumbered § 6662, Sept. 3, 1982, Pub. L. 97–248, title III, § 323(a), 96 Stat. 613, directed that additions be treated as tax and set procedure for assessing certain additions to tax, prior to repeal by Pub. L. 101–239, title VII, § 7721(a), Dec. 19, 1989, 103 Stat. 2395, applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989. See [section 6665 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6665).
 
 #### Amendments
+2025—Subsec. (m). Pub. L. 119–21 added subsec. (m).
+
 2022—Subsec. (b)(10). Pub. L. 117–328, § 605(a)(2)(A), added par. (10).
 
 Subsec. (h)(2)(D). Pub. L. 117–328, § 605(a)(2)(B), added subpar. (D).
 
 2020—Subsec. (b)(9). Pub. L. 116–260, § 212(b)(1), added par. (9).
 
-Subsec. (l). Pub. L. 116–260, § 212(b)(2), added subsec. (l)
+Subsec. (l). Pub. L. 116–260, § 212(b)(2), added subsec. (l).
 
 2018—Subsec. (d)(1)(C). Pub. L. 115–141, § 101(a)(2)(A), substituted “any deduction” for “the deduction”.
 
@@ -2444,6 +2477,9 @@ Subsec. (e). Pub. L. 101–508, § 11312(a), substituted “misstatement” for 
 “(2) Limitation.—No penalty shall be imposed by reason of subsection (b)(3) unless the portion of the underpayment for the taxable year attributable to substantial valuation overstatements under chapter 1 exceeds $5,000 ($10,000 in the case of a corporation other than an S corporation or a personal holding company (as defined in section 542)).”
 
 Subsec. (h)(2)(A). Pub. L. 101–508, § 11312(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “any substantial valuation overstatement under chapter 1 as determined under subsection (e) by substituting ‘400 percent’ for ‘200 percent’,”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21 applicable to taxable years beginning after July 4, 2025, see section 70512(l)(1) of Pub. L. 119–21, set out in a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
 
 #### Effective Date of 2022 Amendment
 Amendment by Pub. L. 117–328 applicable to contributions made after Dec. 29, 2022, see section 605(c)(1) of Pub. L. 117–328, set out as a note under [section 170 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-170).
@@ -2936,7 +2972,7 @@ Amendment by section 313 of Pub. L. 89–97 applicable only with respect to tips
 
 <a id="section-6675"></a>
 ## § 6675. Excessive claims with respect to the use of certain fuels
-**(a) Civil penalty** In addition to any criminal penalty provided by law, if a claim is made under section 6416(a)(4) (relating to certain sales of gasoline), section 6420 (relating to gasoline used on farms), 6421 (relating to gasoline used for certain nonhighway purposes or by local transit systems), or 6427 (relating to fuels not used for taxable purposes) for an excessive amount, unless it is shown that the claim for such excessive amount is due to reasonable cause, the person making such claim shall be liable to a penalty in an amount equal to whichever of the following is the greater:
+**(a) Civil penalty** In addition to any criminal penalty provided by law, if a claim is made under section 6416(a)(4) (relating to certain sales of gasoline), section 6420 (relating to gasoline used on farms), 6421 (relating to gasoline used for certain nonhighway purposes or by local transit systems), 6427 (relating to fuels not used for taxable purposes), or 6435 (relating to eligible indelibly dyed fuel) for an excessive amount, unless it is shown that the claim for such excessive amount is due to reasonable cause, the person making such claim shall be liable to a penalty in an amount equal to whichever of the following is the greater:
 
 (1) Two times the excessive amount; or
 
@@ -2944,7 +2980,7 @@ Amendment by section 313 of Pub. L. 89–97 applicable only with respect to tips
 
 **(b) Excessive amount defined** For purposes of this section, the term “excessive amount” means in the case of any person the amount by which—
 
-(1) the amount claimed under section 6416(a)(4), 6420, 6421, or 6427, as the case may be, for any period, exceeds
+(1) the amount claimed under section 6416(a)(4), 6420, 6421, 6427, or 6435, as the case may be, for any period, exceeds
 
 (2) the amount allowable under such section for such period.
 
@@ -2953,6 +2989,10 @@ Amendment by section 313 of Pub. L. 89–97 applicable only with respect to tips
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–21, § 70525(b)(3)(A), substituted “6427 (relating to fuels not used for taxable purposes), or 6435 (relating to eligible indelibly dyed fuel)” for “or 6427 (relating to fuels not used for taxable purposes)” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 119–21, § 70525(b)(3)(B), substituted “6421, 6427, or 6435,” for “6421, or 6427,”.
+
 2005—Subsec. (a). Pub. L. 109–59, § 11163(d)(2), inserted “section 6416(a)(4) (relating to certain sales of gasoline),” after “made under” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 109–59, § 11163(d)(3), inserted “6416(a)(4),” after “under section”.
@@ -2983,6 +3023,9 @@ Subsec. (a). Act June 29, 1956, § 208(d)(2)(B), inserted reference to claims ma
 
 Subsec. (b). Act June 29, 1956, § 208(d)(2)(C), inserted reference to amounts claimed under section 6421.
 
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21 applicable to eligible indelibly dyed diesel fuel or kerosene removed on or after the date that is 180 days after July 4, 2025, see section 70525(c) of Pub. L. 119–21, set out as a note under [section 6206 of this title](./chapter-063-assessment.md#section-6206).
+
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–59 applicable to sales after Dec. 31, 2005, see section 11163(e) of Pub. L. 109–59, set out as a note under [section 4101 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4101).
 
@@ -3004,7 +3047,7 @@ Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act 
 
 <a id="section-6676"></a>
 ## § 6676. Erroneous claim for refund or credit
-**(a) Civil penalty** If a claim for refund or credit with respect to income tax is made for an excessive amount, unless it is shown that the claim for such excessive amount is due to reasonable cause, the person making such claim shall be liable for a penalty in an amount equal to 20 percent of the excessive amount.
+**(a) Civil penalty** If a claim for refund or credit with respect to income or employment tax is made for an excessive amount, unless it is shown that the claim for such excessive amount is due to reasonable cause, the person making such claim shall be liable for a penalty in an amount equal to 20 percent of the excessive amount.
 
 **(b) Excessive amount** For purposes of this section, the term “excessive amount” means in the case of any person the amount by which the amount of the claim for refund or credit for any taxable year exceeds the amount of such claim allowable under this title for such taxable year.
 
@@ -3021,6 +3064,8 @@ Section 1409(d) of Pub. L. 111–152, which directed the amendment of section 66
 A prior section 6676, added Pub. L. 87–397, § 1(b), Oct. 5, 1961, 75 Stat. 828; amended Pub. L. 91–172, title I, § 101(j)(52), Dec. 30, 1969, 83 Stat. 531; Pub. L. 93–406, title II, § 1016(a)(20), Sept. 2, 1974, 88 Stat. 931; Pub. L. 97–248, title III, § 316(a), Sept. 3, 1982, 96 Stat. 607; Pub. L. 98–67, title I, § 105(a), Aug. 5, 1983, 97 Stat. 380; Pub. L. 98–369, div. A, title IV, § 422(c), July 18, 1984, 98 Stat. 798; Pub. L. 99–514, title XV, §§ 1501(b), 1523(b)(3), 1524(b), Oct. 22, 1986, 100 Stat. 2736, 2748, 2749; Pub. L. 100–647, title I, § 1015(g), Nov. 10, 1988, 102 Stat. 3570, related to failure to supply identifying numbers, prior to repeal by Pub. L. 101–239, title VII, § 7711(b)(1), (c), Dec. 19, 1989, 103 Stat. 2393, applicable to returns and statements the due date for which (determined without regard to extensions) is after Dec. 31, 1989.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–21 substituted “income or employment tax” for “income tax”.
+
 2018—Subsec. (c). Pub. L. 115–141 substituted “reasonable cause” for “reasonable basis” in heading.
 
 2015—Subsec. (a). Pub. L. 114–113, § 209(c)(1), substituted “is due to reasonable cause” for “has a reasonable basis”.
@@ -3030,6 +3075,9 @@ Pub. L. 114–113, § 209(b), struck out “(other than a claim for a refund or 
 Subsec. (c). Pub. L. 114–113, § 209(c)(2), substituted “due to reasonable cause” for “having a reasonable basis”.
 
 2010—Subsecs. (c), (d). Pub. L. 111–152 added subsec. (c) and redesignated former subsec. (c) as (d). See Codification note above.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21 applicable to claims for credit or refund after July 4, 2025, see section 70605(g)(4) of Pub. L. 119–21, set out as an Enforcement Provisions With Respect to COVID-Related Employee Retention Credits note under [section 3134 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3134).
 
 #### Effective Date of 2015 Amendment
 Pub. L. 114–113, div. Q, title II, § 209(d)(2), Dec. 18, 2015, 129 Stat. 3085, as amended by Pub. L. 115–141, div. U, title I, § 101(k), Mar. 23, 2018, 132 Stat. 1162, provided that: “The amendments made by subsections (b) and (c) [amending this section] shall apply to claims filed after the date of the enactment of this Act [Dec. 18, 2015].”
@@ -3403,9 +3451,11 @@ Section effective Sept. 2, 1974, see section 1034 of Pub. L. 93–406, set out a
 
   (D) section 529(d) (relating to qualified tuition programs),
 
-  (E) section 529A(d) (relating to qualified ABLE programs), and
+  (E) section 529A(d) (relating to qualified ABLE programs),
 
-  (F) section 530(h) (relating to Coverdell education savings accounts).
+  (F) section 530(h) (relating to Coverdell education savings accounts), and
+
+  (G) section 530A(i) (relating to Trump accounts).
 This subsection shall not apply to any report which is an information return described in section 6724(d)(1)(C)(i) or a payee statement described in section 6724(d)(2)(X).
 
 **(b) Penalties relating to nondeductible contributions**
@@ -3436,6 +3486,8 @@ This subsection shall not apply to any report which is an information return des
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a)(2)(G). Pub. L. 119–21 added subpar. (G).
+
 2014—Subsec. (a)(2)(E), (F). Pub. L. 113–295 added subpar. (E) and redesignated former subpar. (E) as (F).
 
 2003—Subsec. (a)(2)(C) to (E). Pub. L. 108–173 added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
@@ -3483,6 +3535,9 @@ Subsec. (c). Pub. L. 99–514, § 1102(d)(1), (2)(A), redesignated former subsec
 1984—Subsec. (a). Pub. L. 98–369 substituted “$50” for “$10”.
 
 1980—Subsec. (a). Pub. L. 96–222 substituted “subsection (i) or (l) of section 408 to file” for “section 408(i) to file”, and “such subsection shall pay” for “section 408(i) shall pay”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2025, see section 70204(e) of Pub. L. 119–21, set out as an Effective Date note under [section 128 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-128).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 applicable to taxable years beginning after Dec. 31, 2014, see section 102(f)(1) of Pub. L. 113–295, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
@@ -3799,21 +3854,60 @@ Amendment by section 3(e)(1) of Pub. L. 110–172 effective as if included in th
 Section applicable to appraisals prepared with respect to returns or submissions filed after Aug. 17, 2006, with special rule for certain easements, see section 1219(e)(2), (3) of Pub. L. 109–280, set out as an Effective Date of 2006 Amendments note under [section 170 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-170).
 
 
+<a id="section-6695b"></a>
+## § 6695B. Penalty for substantial misstatements on certification provided by supplier
+**(a) Imposition of penalty** If—
+
+(1) a person—
+
+  (A) provides a certification described in clause (iii)(II)(bb) of section 7701(a)(52)(D) with respect to any manufactured product, eligible component, or constituent element, material, or subcomponent of an eligible component, and
+
+  (B) knows, or reasonably should have known, that the certification would be used in connection with a determination under such section,
+
+(2) such person knows, or reasonably should have known, that such certification is inaccurate or false with respect to—
+
+  (A) whether such property was produced or manufactured by a prohibited foreign entity, or
+
+  (B) the total direct costs or total direct material costs of such property that was not produced or manufactured by a prohibited foreign entity that were provided on such certification, and
+
+(3) the inaccuracy or falsity described in paragraph (2) resulted in the disallowance of an applicable energy credit (as defined in section 6662(m)(2)) and an understatement of income tax (within the meaning of section 6662(d)(2)) for the taxable year in an amount which exceeds the lesser of—
+
+  (A) 5 percent of the tax required to be shown on the return for the taxable year, or
+
+  (B) $100,000,
+  then such person shall pay a penalty in the amount determined under subsection (b).
+
+**(b) Amount of penalty** The amount of the penalty imposed under subsection (a) on any person with respect to a certification shall be equal to the greater of—
+
+(1) 10 percent of the amount of the underpayment (as defined in section 6664(a)) solely attributable to the inaccuracy or falsity described in subsection (a)(2), or
+
+(2) $5,000.
+
+**(c) Exception** No penalty shall be imposed under subsection (a) if the person establishes to the satisfaction of the Secretary that any inaccuracy or falsity described in subsection (a)(2) is due to a reasonable cause and not willful neglect.
+
+**(d) Definitions** Any term used in this section which is also used in section 7701(a)(52) shall have the meaning given such term in such section.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to certifications provided after Dec. 31, 2025, see section 70512(l)(3) of Pub. L. 119–21, set out in an Effective Date of 2025 Amendment note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
+
+
 <a id="section-6696"></a>
-## § 6696. Rules applicable with respect to sections 6694, 6695, and 6695A
-**(a) Penalties to be additional to any other penalties** The penalties provided by sections 6694, 6695, and 6695A shall be in addition to any other penalties provided by law.
+## § 6696. Rules applicable with respect to sections 6694, 6695, 6695A, and 6695B
+**(a) Penalties to be additional to any other penalties** The penalties provided by sections 6694, 6695, 6695A, and 6695B shall be in addition to any other penalties provided by law.
 
-**(b) Deficiency procedures not to apply** Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply with respect to the assessment or collection of the penalties provided by sections 6694, 6695, and 6695A.
+**(b) Deficiency procedures not to apply** Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply with respect to the assessment or collection of the penalties provided by sections 6694, 6695, 6695A, and 6695B.
 
-**(c) Procedure for claiming refund** Any claim for credit or refund of any penalty paid under section 6694, 6695, or 6695A shall be filed in accordance with regulations prescribed by the Secretary.
+**(c) Procedure for claiming refund** Any claim for credit or refund of any penalty paid under section 6694, 6695, 6695A, or 6695B shall be filed in accordance with regulations prescribed by the Secretary.
 
 **(d) Periods of limitation**
 
-(1) **Assessment** — The amount of any penalty under section 6694(a), 6695, or 6695A shall be assessed within 3 years after the return or claim for refund with respect to which the penalty is assessed was filed, and no proceeding in court without assessment for the collection of such tax shall be begun after the expiration of such period. In the case of any penalty under section 6694(b), the penalty may be assessed, or a proceeding in court for the collection of the penalty may be begun without assessment, at any time.
+(1) **Assessment** — The amount of any penalty under section 6694(a), 6695, or 6695A shall be assessed within 3 years (or, in the case of any penalty under section 6695B, 6 years) after the return or claim for refund with respect to which the penalty is assessed was filed, and no proceeding in court without assessment for the collection of such tax shall be begun after the expiration of such period. In the case of any penalty under section 6694(b), the penalty may be assessed, or a proceeding in court for the collection of the penalty may be begun without assessment, at any time.
 
-(2) **Claim for refund** — Except as provided in section 6694(d), any claim for refund of an overpayment of any penalty assessed under section 6694, 6695, or 6695A shall be filed within 3 years from the time the penalty was paid.
+(2) **Claim for refund** — Except as provided in section 6694(d), any claim for refund of an overpayment of any penalty assessed under section 6694, 6695, or 6695A shall be filed within 3 years (or, in the case of any claim for refund of an overpayment of any penalty assessed under section 6695B, 6 years) from the time the penalty was paid.
 
-**(e) Definitions** For purposes of sections 6694, 6695, and 6695A—
+**(e) Definitions** For purposes of sections 6694, 6695, 6695A, and 6695B—
 
 (1) **Return** — The term “return” means any return of any tax imposed by this title, any administrative adjustment request under section 6227, and any partnership adjustment tracking report under section 6226(b)(4)(A).
 
@@ -3825,6 +3919,14 @@ Section applicable to appraisals prepared with respect to returns or submissions
 Section 1219(b)(2) of Pub. L. 109–280, which directed the amendment of section 6696 without specifying the act to be amended, was executed to this section, which is section 6696 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment note below.
 
 #### Amendments
+2025—Pub. L. 119–21, § 70512(k)(2)(A)(i), (ii), substituted “6695A, and 6695B” for “and 6695A” in section catchline and wherever appearing in text.
+
+Subsec. (c). Pub. L. 119–21, § 70512(k)(2)(A)(iii), substituted “6695A, or 6695B” for “or 6695A”.
+
+Subsec. (d)(1). Pub. L. 119–21, § 70512(k)(2)(A)(iv)(I), inserted “(or, in the case of any penalty under section 6695B, 6 years)” after “assessed within 3 years”.
+
+Subsec. (d)(2). Pub. L. 119–21, § 70512(k)(2)(A)(iv)(II), inserted “(or, in the case of any claim for refund of an overpayment of any penalty assessed under section 6695B, 6 years)” after “filed within 3 years”.
+
 2018—Subsec. (a). Pub. L. 115–141, § 401(a)(311), substituted “sections 6694,” for “section 6694,”.
 
 Subsec. (d)(1). Pub. L. 115–141, § 401(a)(312), substituted “6695,” for “section 6695,”.
@@ -3836,6 +3938,9 @@ Subsec. (e)(1). Pub. L. 115–141, § 206(n)(3), inserted “, any administrativ
 Subsec. (e). Pub. L. 110–28 substituted “this title” for “subtitle A” in pars. (1) and (2).
 
 2006—Pub. L. 109–280 substituted “6694, 6695, and 6695A” for “6694 and 6695” wherever appearing in section catchline and text and “6694, 6695, or 6695A” for “6694 or 6695” wherever appearing in text. See Codification note above.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21 applicable to certifications provided after Dec. 31, 2025, see section 70512(l)(3) of Pub. L. 119–21, set out in a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
 
 #### Effective Date of 2018 Amendment
 Amendment by section 206(n)(3) of Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).
@@ -5361,9 +5466,13 @@ Section applicable to returns the due date for which (determined without regard 
 
     (xxv) section 6056 (relating to returns relating to certain employers required to report on health insurance coverage),
 
-    (xxvi) section 6050Y (relating to returns relating to certain life insurance contract transactions),11 So in original. Probably should be followed by “or”.
+    (xxvi) section 6050Y (relating to returns relating to certain life insurance contract transactions),
 
     (xxvii) section 6045A(d) (relating to returns for certain digital assets),
+
+    (xxviii) section 6050Z (relating to reports relating to long-term care premium statements), or
+
+    (xxix) section 6050AA(a) (relating to returns relating to applicable passenger vehicle loan interest received in trade or business from individuals),
 
   (C) any statement of the amount of payments to another person required to be made to the Secretary under—
 
@@ -5444,11 +5553,19 @@ Section applicable to returns the due date for which (determined without regard 
 
   (HH) section 6056(c) (relating to statements relating to certain employers required to report on health insurance coverage),
 
-  (II) section 6035 (other than a statement described in paragraph (1)(D)), or
+  (II) section 6035 (other than a statement described in paragraph (1)(D)),
 
-  (JJ) 22 So in original. Two subpars. (JJ) have been enacted. section 6226(a)(2) (relating to statements relating to alternative to payment of imputed underpayment by partnership) or under any other provision of this title which provides for the application of rules similar to such section.
+  (JJ) section 6226(a)(2) (relating to statements relating to alternative to payment of imputed underpayment by partnership) or under any other provision of this title which provides for the application of rules similar to such section,
 
-  (JJ) 2 subsection (a)(2), (b)(2), or (c)(2) of section 6050Y (relating to returns relating to certain life insurance contract transactions).
+  (KK) subsection (a)(2), (b)(2), or (c)(2) of section 6050Y (relating to returns relating to certain life insurance contract transactions),
+
+  (LL) section 6050Z (relating to reports relating to long-term care premium statements),
+
+  (MM) section 6050AA(c) (relating to statements relating to applicable passenger vehicle loan interest received in trade or business from individuals),
+
+  (NN) section 6039K(c) (relating to disposition of qualified opportunity fund investments), or
+
+  (OO) section 6039L (relating to information required from certain qualified opportunity zone businesses and qualified rural opportunity zone businesses).
   Such term also includes any form, statement, or schedule required to be furnished to the recipient of any amount from which tax was required to be deducted and withheld under chapter 3 or 4 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States).
 
 (3) **Specified information reporting requirement** — The term “specified information reporting requirement” means—
@@ -5461,7 +5578,7 @@ Section applicable to returns the due date for which (determined without regard 
 
     (ii) furnish his TIN to another person, or
 
-    (iii) include on any return, statement, or other document (other than an information return or payee statement) made with respect to another person the TIN of such person,33 So in original. Probably should be followed by “and”.
+    (iii) include on any return, statement, or other document (other than an information return or payee statement) made with respect to another person the TIN of such person,11 So in original. Probably should be followed by “and”.
 
   (C) any requirement under section 6109(h) that—
 
@@ -5487,35 +5604,18 @@ Section applicable to returns the due date for which (determined without regard 
 
 ### Statutory Notes
 
-#### Amendment of Subsection (d)
-Pub. L. 117–328, div. T, title III, § 334(d)(2), (e), Dec. 29, 2022, 136 Stat. 5371, 5372, provided that, applicable to distributions made after the date which is 3 years after Dec. 29, 2022, subsection (d) of this section is amended as follows:
-
-(1) in paragraph (1)(B), by adding “or” at the end of clause (xxvii) and by inserting after such clause the following new clause:
-
-“(xxviii) section 6050Z (relating to reports relating to long-term care premium statements), and”; and
-
-(2) in paragraph (2)—
-
-(A) by redesignating subparagraph (JJ), relating to section 6050Y, as subparagraph (KK) and moving such subparagraph to the position immediately after subparagraph (JJ), relating to section 6226(a)(2),
-
-(B) by striking “or” at the end of subparagraph (II),
-
-(C) by striking the period at the end of subparagraph (JJ), relating to section 6226(a)(2), and inserting a comma,
-
-(D) by striking the period at the end of subparagraph (KK), as so redesignated, and inserting “, or”, and
-
-(E) by inserting after subparagraph (KK), as so redesignated, the following new subparagraph:
-
-“(LL) section 6050Z (relating to reports relating to long-term care premium statements).”.
-
-See 2022 Amendment notes below.
-
 #### Codification
 Section 1211(b)(1) of Pub. L. 109–280, which directed the amendment of section 6724 without specifying the act to be amended, was executed to this section, which is section 6724 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 Amendments to subsec. (d)(2) of this section by section 1901(c)(1) of Pub. L. 104–188 were executed before amendments by sections 1116(b)(2)(B) and 1455(a)(2) of Pub. L. 104–188, to reflect the probable intent of Congress.
 
 #### Amendments
+2025—Subsec. (d)(1)(B)(xxix). Pub. L. 119–21, § 70203(c)(2)(A), added cl. (xxix).
+
+Subsec. (d)(2)(MM). Pub. L. 119–21, § 70203(c)(2)(B), added subpar. (MM).
+
+Subsec. (d)(2)(NN), (OO). Pub. L. 119–21, § 70421(d)(2)(B), added subpars. (NN) and (OO).
+
 2022—Subsec. (d)(1)(B)(xxviii). Pub. L. 117–328, § 334(d)(2)(A), added cl. (xxviii).
 
 Subsec. (d)(2)(JJ) to (LL). Pub. L. 117–328, § 334(d)(2)(B), redesignated subpar. (JJ) relating to section 6050Y as subpar. (KK) and added subpar. (LL).
@@ -5844,6 +5944,11 @@ Pub. L. 100–418, § 1941(b)(2)(M)(ii), redesignated subpars. (B) to (J) as (A)
 
 Subsec. (d)(2)(B). Pub. L. 100–647, § 1015(a), substituted “6031(b) or (c)” for “6031(b)”.
 
+#### Effective Date of 2025 Amendment
+Amendment by section 70203(c)(2) of Pub. L. 119–21 applicable to indebtedness incurred after Dec. 31, 2024, see section 70203(e) of Pub. L. 119–21, set out as a note under [section 56 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-56).
+
+Amendment by section 70421(d)(2)(B) of Pub. L. 119–21 applicable to taxable years beginning after July 4, 2025, see section 70421(d)(5) of Pub. L. 119–21, set out as a note under [section 6011 of this title](./chapter-061-information-and-returns.md#section-6011).
+
 #### Effective Date of 2022 Amendment
 Amendment by section 323(c) of Pub. L. 117–328 applicable to transfers, rollovers, and exchanges occurring after Dec. 31, 2023, see section 323(e) of Pub. L. 117–328, set out as a note under [section 72 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-72).
 
@@ -5973,6 +6078,46 @@ For provisions directing that if any amendments made by subtitle D [§§ 1401–
 
 #### Effective Date
 Section applicable to penalties imposed after Dec. 31, 2004, see section 863(e) of Pub. L. 108–357, set out as a note under [section 6719 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6719).
+
+
+<a id="section-6726"></a>
+## § 6726. Failure to comply with information reporting requirements relating to qualified opportunity funds and qualified rural opportunity funds
+**(a) In general** If any person required to file a return under section 6039K fails to file a complete and correct return under such section in the time and in the manner prescribed therefor, such person shall pay a penalty of $500 for each day during which such failure continues.
+
+**(b) Limitation**
+
+(1) **In general** — The maximum penalty under this section on failures with respect to any 1 return shall not exceed $10,000.
+
+(2) **Large qualified opportunity funds** — In the case of any failure described in subsection (a) with respect to a fund the gross assets of which (determined on the last day of the taxable year) are in excess of $10,000,000, paragraph (1) shall be applied by substituting “$50,000” for “$10,000”.
+
+**(c) Penalty in cases of intentional disregard** If a failure described in subsection (a) is due to intentional disregard, then—
+
+(1) subsection (a) shall be applied by substituting “$2,500” for “$500”,
+
+(2) subsection (b)(1) shall be applied by substituting “$50,000” for “$10,000”, and
+
+(3) subsection (b)(2) shall be applied by substituting “$250,000” for “$50,000”.
+
+**(d) Inflation adjustment**
+
+(1) **In general** — In the case of any failure relating to a return required to be filed in a calendar year beginning after 2025, each of the dollar amounts in subsections (a), (b), and (c) shall be increased by an amount equal to—
+
+  (A) such dollar amount, multiplied by
+
+  (B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year determined by substituting “calendar year 2024” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+
+(2) **Rounding**
+
+  (A) *In general* — If the $500 dollar amount in subsection (a) and (c)(1) or the $2,500 amount in subsection (c)(1), after being increased under paragraph (1), is not a multiple of $10, such dollar amount shall be rounded to the next lowest multiple of $10.
+
+  (B) *Asset threshold* — If the $10,000,000 dollar amount in subsection (b)(2), after being increased under paragraph (1), is not a multiple of $10,000, such dollar amount shall be rounded to the next lowest multiple of $10,000.
+
+  (C) *Other dollar amounts* — If any dollar amount in subsection (b) or (c) (other than any amount to which subparagraph (A) or (B) applies), after being increased under paragraph (1), is not a multiple of $1,000, such dollar amount shall be rounded to the next lowest multiple of $1,000.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to taxable years beginning after July 4, 2025, see section 70421(d)(5) of Pub. L. 119–21, set out as an Effective Date of 2025 Amendment note under [section 6011 of this title](./chapter-061-information-and-returns.md#section-6011).
 
 
 <a id="section-6751"></a>

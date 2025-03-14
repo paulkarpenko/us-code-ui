@@ -16,6 +16,9 @@ The Secretary of the Interior is authorized to cooperate with the States, throug
 #### Amendments
 2019—Pub. L. 116–94 inserted at end “One of the purposes of this chapter is to provide financial and technical assistance to the States for the promotion of hunting and recreational shooting.”
 
+#### Short Title of 2025 Amendment
+Pub. L. 119–40, § 1, Nov. 25, 2025, 139 Stat. 662, provided that: “This Act [amending [section 669b of this title](./chapter-5b-wildlife-restoration.md#section-669b)] may be cited as the ‘Wetlands Conservation and Access Improvement Act of 2025’.”
+
 #### Short Title of 2019 Amendment
 Pub. L. 116–94, div. P, title V, § 501(a), Dec. 20, 2019, 133 Stat. 3191, provided that: “This title [amending this section and sections 669a, 669c, 669g, 669h–1, and 669h–2 of this title and enacting provisions set out as a note under [section 669h–2 of this title](./chapter-5b-wildlife-restoration.md#section-669h-2)] may be cited as the ‘Modernizing the Pittman-Robertson Fund for Tomorrow’s Needs Act’.”
 
@@ -150,7 +153,7 @@ Pub. L. 116–17, §§ 2, 3, May 10, 2019, 133 Stat. 866, 867, provided that: �
 
   (B) constitute the sums available for allocation by the Secretary under [section 4407 of this title](./chapter-064-north-american-wetlands-conservation.md#section-4407); and
 
-  (C) shall become available for apportionment under this chapter at the beginning of fiscal year 2026.
+  (C) shall become available for apportionment under this chapter at the beginning of fiscal year 2033.
 
 **(c) Wildlife Conservation and Restoration Account**
 
@@ -168,6 +171,8 @@ Pub. L. 116–17, §§ 2, 3, May 10, 2019, 133 Stat. 866, 867, provided that: �
 The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
 
 #### Amendments
+2025—Subsec. (b)(2)(C). Pub. L. 119–40 substituted “2033” for “2026”.
+
 2015—Subsec. (b)(2)(C). Pub. L. 114–113 substituted “2026” for “2016”.
 
 2005—Subsec. (b)(2)(C). Pub. L. 109–75 substituted “2016” for “2006”.

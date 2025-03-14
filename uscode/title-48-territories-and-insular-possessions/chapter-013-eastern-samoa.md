@@ -70,14 +70,11 @@ Harry S. Truman.
 
 
 <a id="section-1662a"></a>
-## § 1662a. Amendment of constitution of American Samoa
-
-Amendments of, or modifications to, the constitution of American Samoa, as approved by the Secretary of the Interior pursuant to Executive Order 10264 as in effect January 1, 1983, may be made only by Act of Congress.
+## § 1662a. Repealed. Pub. L. 118–232, § 1, Jan. 4, 2025, 138 Stat. 2834
 
 ### Statutory Notes
 
-#### References in Text
-Executive Order 10264, referred to in text, is set out under [section 1662 of this title](./chapter-013-eastern-samoa.md#section-1662).
+Section, Pub. L. 98–213, § 12, Dec. 8, 1983, 97 Stat. 1462, provided that amendments or modifications to the constitution of American Samoa, as approved pursuant to Executive Order 10264 as in effect Jan. 1, 1983, could be made only by Congress.
 
 
 <a id="section-1663"></a>

@@ -434,7 +434,7 @@ In time of war or national emergency declared by Congress, the President may sus
 Provisions similar to those in this section were contained in [section 778 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section778&num=0&edition=prelim) prior to the complete revision of former chapter 21 of this title by Pub. L. 96–322.
 
 #### Amendments
-2018—Pub. L. 115–282 renumbered [section 722 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section722&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–282 renumbered [section 722 of this title](./chapter-007-cooperation.md#section-722) as this section.
 
 #### Delegation of Authority
 Authority of President under this section to suspend the operation of this subchapter concerning officers of the Coast Guard Reserve without the approval, ratification, or other action by the President during a time of war or national emergency delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 2(b), Aug. 14, 2023, 88 F.R. 55905, set out in a note under [section 2101 of this title](./chapter-021-personnel-officers.md#section-2101).
@@ -495,7 +495,7 @@ Subsec. (b)(1). Pub. L. 109–241, § 207(2), added par. (1) and struck out form
 
 <a id="section-3736"></a>
 ## § 3736. Precedence
-**(a)** Reserve officers rank and take precedence in their respective grades among themselves and with officers of the same grade on the active duty promotion list and the permanent commissioned teaching staff in accordance with their dates of rank. When Reserve officers and officers on the active duty promotion list or the permanent commissioned teaching staff have the same date of rank in a grade, they take prec­edence as determined by the Secretary.
+**(a)** Reserve officers rank and take precedence in their respective grades among themselves and with officers of the same grade on the active duty promotion list, officers designated by the Secretary pursuant to this section, and the officers on the permanent commissioned teaching staff in accordance with their dates of rank. When Reserve officers and officers on the active duty promotion list, officers designated by the Secretary pursuant to this section, or the officers on the permanent commissioned teaching staff have the same date of rank in a grade, they take prec­edence as determined by the Secretary.
 
 **(b)** Notwithstanding any other law, a Reserve officer shall not lose precedence when transferred to or from the active duty promotion list, nor shall that officer’s date of rank be changed due to the transfer.
 
@@ -511,6 +511,8 @@ Subsec. (b)(1). Pub. L. 109–241, § 207(2), added par. (1) and struck out form
 Provisions similar to those in this section were contained in [section 781 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section781&num=0&edition=prelim) prior to the complete revision of former chapter 21 of this title by Pub. L. 96–322.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 substituted, in first sentence, “promotion list, officers designated by the Secretary pursuant to this section, and the officers on the” for “promotion list and the” and, in second sentence, “promotion list, officers designated by the Secretary pursuant to this section, or the officers on the” for “promotion list or the”.
+
 2018—Pub. L. 115–282 renumbered [section 725 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section725&num=0&edition=prelim) as this section.
 
 2004—Subsecs. (d), (e). Pub. L. 108–293 added subsecs. (d) and (e).
@@ -634,7 +636,7 @@ Pub. L. 115–282, § 118(b), renumbered [section 728 of this title](https://usc
 
 **(e)** The law and regulations relating to the selection for promotion of a commissioned officer of the Regular Coast Guard to the grades of rear admiral (lower half) and rear admiral apply to a Reserve officer, except that to be eligible for consideration for promotion to the grade of rear admiral (lower half) an officer shall have completed at least ten years commissioned service, of which the last five years shall have been served in the Coast Guard Reserve.
 
-**(f)** The provisions of [section 2117 of this title](./chapter-021-personnel-officers.md#section-2117) apply to boards convened under this section. The Secretary shall determine the procedure to be used by a selection board.
+**(f)** The provisions of sections 2115 and 2117 of this title apply to boards convened under this section. The Secretary shall determine the procedure to be used by a selection board.
 
 **(g)** The report of a selection board shall be submitted to the Secretary for review and transmission to the President for approval. When an officer recommended by a board for promotion is not acceptable to the President, the President may remove the name of that officer from the report of the board.
 
@@ -648,6 +650,8 @@ Pub. L. 115–282, § 118(b), renumbered [section 728 of this title](https://usc
 Provisions similar to those in this section were contained in [section 780 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section780&num=0&edition=prelim) prior to the complete revision of former chapter 21 of this title by Pub. L. 96–322.
 
 #### Amendments
+2025—Subsec. (f). Pub. L. 119–60 substituted “sections 2115 and 2117” for “section 2117”.
+
 2018—Pub. L. 115–282, § 118(b), renumbered [section 729 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section729&num=0&edition=prelim) as this section.
 
 Subsec. (f). Pub. L. 115–282, § 123(b)(2), substituted “section 2117” for “section 260”.
@@ -995,11 +999,27 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 **(c)** Notwithstanding subsections (a) and (b), the Secretary may authorize the retention of a Reserve rear admiral or rear admiral (lower half) in an active status not longer than the day on which the officer concerned becomes 64 years of age.
 
-**(d)** For purposes of this section, “active duty” does not include active duty for training, duty on a board, or duty of a limited or temporary nature if assigned to active duty from an inactive duty status.
+**(d) Retention of Health Professions Officers.—**
+
+(1) **In general.—** — Notwithstanding subsections (a), (b), and (c), the Secretary may authorize the retention of a Reserve health professions officer in an active status not beyond the first day of the month following the month in which the health professions officer concerned becomes 68 years of age.
+
+(2) **Rule of construction.—** — Nothing in this subsection may be construed to prohibit or modify the application of any provision relating to mandatory separation or disciplinary action.
+
+(3) **Health professions officer defined.—** — In this subsection, the term “health professions officer” means an officer or enlisted member of the Coast Guard in good standing who is—
+
+  (A) a physician, surgeon, medical specialist, nurse or nurse practitioner, physician’s assistant, health service technician, therapist, fully licensed clinical psychotherapist, counselor, social worker, medical assistant, radiology assistant, pharmacist, pharmacy assistant, nutritionist, dietitian, any administrative personnel associated with a Coast Guard medical program (including a clinic), personnel who works in a medical laboratory, physical therapist, physical therapist aide, occupational therapist, or occupational therapist aide;
+
+  (B) a dentist, dental assistant, oral surgeon, or any other dental-related personnel; or
+
+  (C) a member of a category designated by the Secretary under section 2154(c)(3).
+
+**(e)** For purposes of this section, “active duty” does not include active duty for training, duty on a board, or duty of a limited or temporary nature if assigned to active duty from an inactive duty status.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsecs. (d), (e). Pub. L. 119–60 added subsec. (d) and redesignated former subsec. (d) as (e).
+
 2018—Pub. L. 115–282 renumbered [section 742 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section742&num=0&edition=prelim) as this section.
 
 2016—Subsec. (c). Pub. L. 114–120 substituted “subsections” for “subsection”.

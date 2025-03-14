@@ -398,13 +398,13 @@ Pub. L. 118–5, div. B, title III, June 3, 2023, 137 Stat. 31, provided that: �
 Pub. L. 106–544, § 7, Dec. 19, 2000, 114 Stat. 2719, provided that: “(a) Study on Use of Administrative Subpoenas.—Not later than December 31, 2001, the Attorney General, in consultation with the Secretary of the Treasury, shall complete a study on the use of administrative subpoena power by executive branch agencies or entities and shall report the findings to the Committees on the Judiciary of the Senate and the House of Representatives. Such report shall include—“(1) a description of the sources of administrative subpoena power and the scope of such subpoena power within executive branch agencies; “(2) a description of applicable subpoena enforcement mechanisms; “(3) a description of any notification provisions and any other provisions relating to safeguarding privacy interests; “(4) a description of the standards governing the issuance of administrative subpoenas; and “(5) recommendations from the Attorney General regarding necessary steps to ensure that administrative subpoena power is used and enforced consistently and fairly by executive branch agencies. “(b) Report on Frequency of Use of Administrative Subpoenas.—“(1) In general.—The Attorney General and the Secretary of the Treasury shall report in January of each year to the Committees on the Judiciary of the Senate and the House of Representatives on the number of administrative subpoenas issued by them under this section and the identity of the agency or component of the Department of Justice or the Department of the Treasury issuing the subpoena and imposing the charges. “(2) Expiration.—The reporting requirement of this subsection shall terminate in 3 years after the date of the enactment of this section [Dec. 19, 2000].”
 
 #### Executive Order No. 13892
-Ex. Ord. No. 13892, Oct. 9, 2019, 84 F.R. 55239, which related to civil administrative enforcement and adjudication, was revoked by Ex. Ord. No. 13992, § 2, Jan. 20, 2021, 86 F.R. 7049, set out below.
+Ex. Ord. No. 13892, Oct. 9, 2019, 84 F.R. 55239, which related to civil administrative enforcement and adjudication, was revoked by Ex. Ord. No. 13992, § 2, Jan. 20, 2021, 86 F.R. 7049, formerly set out below.
 
 #### Executive Order No. 13979
 Ex. Ord. No. 13979, Jan. 18, 2021, 86 F.R. 6813, which required senior appointee participation in agency rulemaking, was revoked by Ex. Ord. No. 14018, § 1, Feb. 24, 2021, 86 F.R. 11855.
 
-#### Ex. Ord. No. 13992. Revocation of Certain Executive Orders Concerning Federal Regulation
-Ex. Ord. No. 13992, Jan. 20, 2021, 86 F.R. 7049, provided:
+#### Executive Order No. 13992
+Ex. Ord. No. 13992, Jan. 20, 2021, 86 F.R. 7049, which related to agency regulatory actions and revoked Executive Orders formerly set out under this section, [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601), and in the former Appendix to this title, was revoked by Ex. Ord. No. 14148, § 2(g), Jan. 20, 2025, 90 F.R. 8237, and Ex. Ord. No. 14154, § 4(a)(ii), Jan. 20, 2025, 90 F.R. 8354.
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered that:
 

@@ -671,6 +671,17 @@ Pub. L. 117–167, div. A, § 104, Aug. 9, 2022, 136 Stat. 1390, provided that: 
 #### References in Pub. L. 117–167
 Pub. L. 117–167, § 2, Aug. 9, 2022, 136 Stat. 1371, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [see Tables for classification] shall be treated as referring only to the provisions of that division.”
 
+#### Delegation of Functions and Authorities Under Section 9902(a)(3)(B) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021
+Memorandum of President of the United States, July 19, 2024, 89 F.R. 59817, provided:
+
+Memorandum for the Director of the Office of Management and Budget
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate to the Director of the Office of Management and Budget the functions and authorities vested in the President by section 9902(a)(3)(B) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [[15 U.S.C. 4652(a)(3)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4652/a/3/B&num=0&edition=prelim)] with respect to the certification and reporting requirements regarding Federal investments in individual projects exceeding $3 billion.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.
+
 
 <a id="section-4653"></a>
 ## § 4653. Department of Defense

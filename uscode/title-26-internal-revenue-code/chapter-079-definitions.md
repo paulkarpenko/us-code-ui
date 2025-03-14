@@ -10,7 +10,7 @@ source: >-
 ## § 7701. Definitions
 **(a)** When used in this title, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof—
 
-(1) **Person** — The term “person” shall be construed to mean and include an individual, a trust, estate, partnership, association, company or corporation.
+(1) **Person** — The term “person” shall be construed to mean an+d include an individual, a trust, estate, partnership, association, company or corporation.
 
 (2) **Partnership and partner** — The term “partnership” includes a syndicate, group, pool, joint venture, or other unincorporated organization, through or by means of which any business, financial operation, or venture is carried on, and which is not, within the meaning of this title, a trust or estate or a corporation; and the term “partner” includes a member in such a syndicate, group, pool, joint venture, or organization.
 
@@ -248,6 +248,427 @@ source: >-
 
   (B) *Dual citizens* — Under regulations prescribed by the Secretary, subparagraph (A) shall not apply to an individual who became at birth a citizen of the United States and a citizen of another country.
 
+(51) **Prohibited foreign entity**
+
+  (A) *In general*
+
+    (i) *Definition* — The term “prohibited foreign entity” means a specified foreign entity or a foreign-influenced entity.
+
+    (ii) *Determination*
+
+      (I) *In general* — Subject to subclause (II), for any taxable year, the determination as to whether an entity is a specified foreign entity or foreign-influenced entity shall be made as of the last day of such taxable year.
+
+      (II) *Initial taxable year* — For purposes of the first taxable year beginning after the date of enactment of this paragraph, the determination as to whether an entity is a specified foreign entity described in clauses (i) through (iv) of subparagraph (B) shall be made as of the first day of such taxable year.
+
+  (B) *Specified foreign entity* — For purposes of this paragraph, the term “specified foreign entity” means—
+
+    (i) a foreign entity of concern described in subparagraph (A), (B), (D), or (E) of section 9901(8) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; [15 U.S.C. 4651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4651&num=0&edition=prelim)),
+
+    (ii) an entity identified as a Chinese military company operating in the United States in accordance with section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; [10 U.S.C. 113](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113&num=0&edition=prelim) note),
+
+    (iii) an entity included on a list required by clause (i), (ii), (iv), or (v) of section 2(d)(2)(B) of Public Law 117–78 (135 Stat. 1527),
+
+    (iv) an entity specified under section 154(b) of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31; 10 U.S.C. note prec. 4651), or
+
+    (v) a foreign-controlled entity.
+
+  (C) *Foreign-controlled entity* — For purposes of subparagraph (B), the term “foreign-controlled entity” means—
+
+    (i) the government (including any level of government below the national level) of a covered nation,
+
+    (ii) an agency or instrumentality of a government described in clause (i),
+
+    (iii) a person who is a citizen or national of a covered nation, provided that such person is not an individual who is a citizen, national, or lawful permanent resident of the United States,
+
+    (iv) an entity or a qualified business unit (as defined in section 989(a)) incorporated or organized under the laws of, or having its principal place of business in, a covered nation, or
+
+    (v) an entity (including subsidiary entities) controlled (as determined under subparagraph (G)) by an entity described in clause (i), (ii), (iii), or (iv).
+
+  (D) *Foreign-influenced entity*
+
+    (i) *In general* — For purposes of subparagraph (A), the term “foreign-influenced entity” means an entity—
+
+      (I) with respect to which, during the taxable year—
+
+        (aa) a specified foreign entity has the direct authority to appoint a covered officer of such entity,
+
+        (bb) a single specified foreign entity owns at least 25 percent of such entity,
+
+        (cc) one or more specified foreign entities own in the aggregate at least 40 percent of such entity, or
+
+        (dd) at least 15 percent of the debt of such entity has been issued, in the aggregate, to 1 or more specified foreign entities, or
+
+      (II) which, during the previous taxable year, made a payment to a specified foreign entity pursuant to a contract, agreement, or other arrangement which entitles such specified foreign entity (or an entity related to such specified foreign entity) to exercise effective control over—
+
+        (aa) any qualified facility or energy storage technology of the taxpayer (or any person related to the taxpayer), or
+
+        (bb) with respect to any eligible component produced by the taxpayer (or any person related to the taxpayer)—
+
+          (AA) the extraction, processing, or recycling of any applicable critical mineral, or
+
+          (BB) the production of an eligible component which is not an applicable critical mineral.
+
+    (ii) *Effective control*
+
+      (I) *In general*
+
+        (aa) *General rule* — Subject to subclause (II), for purposes of clause (i)(II), the term “effective control” means 1 or more agreements or arrangements similar to those described in subclauses (II) and (III) which provide 1 or more contractual counterparties of a taxpayer with specific authority over key aspects of the production of eligible components, energy generation in a qualified facility, or energy storage which are not included in the measures of control through authority, ownership, or debt held which are described in clause (i)(I).
+
+        (bb) *Guidance* — The Secretary shall issue such guidance as is necessary to carry out the purposes of this clause, including the establishment of rules to prevent entities from evading, circumventing, or abusing the application of the restrictions described subparagraph (C) and subclauses (II) and (III) of this clause through a contract, agreement, or other arrangement.
+
+      (II) *Application of rules prior to issuance of guidance* — During any period prior to the date that the guidance described in subclause (I)(bb) is issued by the Secretary, for purposes of clause (i)(II), the term “effective control” means the unrestricted contractual right of a contractual counterparty to—
+
+        (aa) determine the quantity or timing of production of an eligible component produced by the taxpayer,
+
+        (bb) determine the amount or timing of activities related to the production of electricity undertaken at a qualified facility of the taxpayer or the storage of electrical energy in energy storage technology of the taxpayer,
+
+        (cc) determine which entity may purchase or use the output of a production unit of the taxpayer that produces eligible components,
+
+        (dd) determine which entity may purchase or use the output of a qualified facility of the taxpayer,
+
+        (ee) restrict access to data critical to production or storage of energy undertaken at a qualified facility of the taxpayer, or to the site of production or any part of a qualified facility or energy storage technology of the taxpayer, to the personnel or agents of such contractual counterparty, or
+
+        (ff) on an exclusive basis, maintain, repair, or operate any plant or equipment which is necessary to the production by the taxpayer of eligible components or electricity.
+
+      (III) *Licensing and other agreements*
+
+        (aa) *In general* — In addition to subclause (II), for purposes of clause (i)(II), the term “effective control” means, with respect to a licensing agreement for the provision of intellectual property (or any other contract, agreement or other arrangement entered into with a contractual counterparty related to such licensing agreement) with respect to a qualified facility, energy storage technology, or the production of an eligible component, any of the following:
+
+          (AA) A contractual right retained by the contractual counterparty to specify or otherwise direct 1 or more sources of components, subcomponents, or applicable critical minerals utilized in a qualified facility, energy storage technology, or in the production of an eligible component.
+
+          (BB) A contractual right retained by the contractual counterparty to direct the operation of any qualified facility, any energy storage technology, or any production unit that produces an eligible component.
+
+          (CC) A contractual right retained by the contractual counterparty to limit the taxpayer’s utilization of intellectual property related to the operation of a qualified facility or energy storage technology, or in the production of an eligible component.
+
+          (DD) A contractual right retained by the contractual counterparty to receive royalties under the licensing agreement or any similar agreement (or payments under any related agreement) beyond the 10th year of the agreement (including modifications or extensions thereof).
+
+          (EE) A contractual right retained by the contractual counterparty to direct or otherwise require the taxpayer to enter into an agreement for the provision of services for a duration longer than 2 years (including any modifications or extensions thereof).
+
+          (FF) Such contract, agreement, or other arrangement does not provide the licensee with all the technical data, information, and know-how necessary to enable the licensee to produce the eligible component or components subject to the contract, agreement, or other arrangement without further involvement from the contractual counterparty or a specified foreign entity.
+
+          (GG) Such contract, agreement, or other arrangement was entered into (or modified) on or after the date of enactment of this paragraph.
+
+        (bb) *Exception*
+
+          (AA) *In general* — Item (aa) shall not apply in the case of a bona fide purchase or sale of intellectual property.
+
+          (BB) *Bona fide purchase or sale* — For purposes of item (aa), any purchase or sale of intellectual property where the agreement provides that ownership of the intellectual property reverts to the contractual counterparty after a period of time shall not be considered a bona-fide purchase or sale.
+
+      (IV) *Persons related to the taxpayer* — For purposes of subclauses (I), (II), and (III), the term “taxpayer” shall include any person related to the taxpayer.
+
+      (V) *Contractual counterparty* — For purposes of this clause, the term “contractual counterparty” means an entity with which the taxpayer has entered into a contract, agreement, or other arrangement.
+
+    (iii) *Guidance* — Not later than December 31, 2026, the Secretary shall issue such guidance as is necessary to carry out the purposes of this subparagraph, including establishment of rules to prevent entities from evading, circumventing, or abusing the application of the restrictions against impermissible technology licensing arrangements with specified foreign entities, such as through temporary transfers of intellectual property, retention by a specified foreign entity of a reversionary interest in transferred intellectual property, or otherwise.
+
+  (E) *Publicly traded entities*
+
+    (i) *In general*
+
+      (I) *Nonapplication of certain foreign-controlled entity rules* — Subparagraph (C)(v) shall not apply in the case of any entity the securities of which are regularly traded on—
+
+        (aa) a national securities exchange which is registered with the Securities and Exchange Commission,
+
+        (bb) the national market system established pursuant to section 11A of the Securities and 11 So in original. The word “and” probably should not appear. Exchange Act of 1934, or
+
+        (cc) any other exchange or other market which the Secretary has determined in guidance issued under section 1296(e)(1)(A)(ii) has rules adequate to carry out the purposes of part VI of subchapter P of chapter 1 of subtitle A.
+
+      (II) *Nonapplication of certain foreign-influenced entity rules* — Subparagraph (D)(i)(I) shall not apply in the case of any entity—
+
+        (aa) the securities of which are regularly traded in a manner described in subclause (I), or
+
+        (bb) for which not less than 80 percent of the equity securities of such entity are owned directly or indirectly by an entity which is described in item (aa).
+
+      (III) *Exclusion of exchanges or markets in covered nations* — Subclause (I)(cc) shall not apply with respect to any exchange or market which—
+
+        (aa) is incorporated or organized under the laws of a covered nation, or
+
+        (bb) has its principal place of business in a covered nation.
+
+    (ii) *Additional foreign-controlled entity requirements for publicly traded companies* — In the case of an entity described in clause (i)(I), such entity shall be deemed to be a foreign-controlled entity under subparagraph (C)(v) if such entity is controlled (as determined under subparagraph (G)) by—
+
+      (I) 1 or more specified foreign entities (as determined without regard to subparagraph (B)(v)) that are each required to report their beneficial ownership pursuant to a rule described in clause (iii)(I)(bb), or
+
+      (II) 1 or more foreign-controlled entities (as determined without regard to subparagraph (C)(v)) that are each required to report their beneficial ownership pursuant to a rule described in such clause.
+
+    (iii) *Additional foreign-influenced entity requirements for publicly traded companies* — In the case of an entity described in clause (i)(II), such entity shall be deemed to be a foreign-influenced entity under subparagraph (D)(i)(I) if—
+
+      (I) during the taxable year—
+
+        (aa) a specified foreign entity has the authority to appoint a covered officer of such entity,
+
+        (bb) a single specified foreign entity required to report its beneficial ownership under Rule 13d-3 of the Securities and 1 Exchange Act of 1934 (or, in the case of an exchange or market described in clause (i)(I)(cc), an equivalent rule) owns not less than 25 percent of such entity, or
+
+        (cc) 1 or more specified foreign entities that are each required to report their beneficial ownership under Rule 13d-3 of the Securities and 1 Exchange Act of 1934 own, in the aggregate, not less than 40 percent of such entity, or
+
+      (II) such entity has issued debt, as part of an original issuance, in excess of 15 percent of its publicly-traded debt to 1 or more specified foreign entities.
+
+  (F) *Covered officer* — For purposes of this paragraph, the term “covered officer” means, with respect to an entity—
+
+    (i) a member of the board of directors, board of supervisors, or equivalent governing body,
+
+    (ii) an executive-level officer, including the president, chief executive officer, chief operating officer, chief financial officer, general counsel, or senior vice president, or
+
+    (iii) an individual having powers or responsibilities similar to those of officers or members described in clause (i) or (ii).
+
+  (G) *Determination of control* — For purposes of subparagraph (C)(v), the term “control” means—
+
+    (i) in the case of a corporation, ownership (by vote or value) of more than 50 percent of the stock in such corporation,
+
+    (ii) in the case of a partnership, ownership of more than 50 percent of the profits interests or capital interests in such partnership, or
+
+    (iii) in any other case, ownership of more than 50 percent of the beneficial interests in the entity.
+
+  (H) *Determination of ownership* — For purposes of this paragraph, section 318(a)(2) shall apply for purposes of determining ownership of stock in a corporation. Similar principles shall apply for purposes of determining ownership of interests in any other entity.
+
+  (I) *Other definitions* — For purposes of this paragraph—
+
+    (i) *Applicable critical mineral* — The term “applicable critical mineral” has the same meaning given such term under section 45X(c)(6).
+
+    (ii) *Covered nation* — The term “covered nation” has the same meaning given such term under [section 4872(f)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4872/f/2&num=0&edition=prelim), United States Code.
+
+    (iii) *Eligible component* — The term “eligible component” has the same meaning given such term under section 45X(c)(1).
+
+    (iv) *Energy storage technology* — The term “energy storage technology” has the same meaning given such term under section 48E(c)(2).
+
+    (v) *Qualified facility* — The term “qualified facility” means—
+
+      (I) a qualified facility, as defined in section 45Y(b)(1), and
+
+      (II) a qualified facility, as defined in section 48E(b)(3).
+
+    (vi) *Related* — The term “related” shall have the same meaning given such term under sections 267(b) and 707(b).
+
+  (J) *Beginning of construction* — For purposes of applying any provision under this paragraph, the beginning of construction with respect to any property shall be determined pursuant to rules similar to the rules under Internal Revenue Service Notice 2013–29 and Internal Revenue Service Notice 2018-59 (as well as any subsequently issued guidance clarifying, modifying, or updating either such Notice), as in effect on January 1, 2025.
+
+  (K) *Regulations and guidance* — The Secretary may prescribe such regulations and guidance as may be necessary or appropriate to carry out the provisions of this paragraph, including rules to prevent the circumvention of any rules or restrictions with respect to prohibited foreign entities.
+
+(52) **Material assistance from a prohibited foreign entity**
+
+  (A) *In general* — The term “material assistance from a prohibited foreign entity” means—
+
+    (i) with respect to any qualified facility or energy storage technology, a material assistance cost ratio which is less than the threshold percentage applicable under subparagraph (B), or
+
+    (ii) with respect to any facility which produces eligible components, a material assistance cost ratio which is less than the threshold percentage applicable under subparagraph (C).
+
+  (B) *Threshold percentage for qualified facilities and energy storage technology* — For purposes of subparagraph (A)(i), the threshold percentage shall be—
+
+    (i) in the case of a qualified facility the construction of which begins—
+
+      (I) during calendar year 2026, 40 percent,
+
+      (II) during calendar year 2027, 45 percent,
+
+      (III) during calendar year 2028, 50 percent,
+
+      (IV) during calendar year 2029, 55 percent, and
+
+      (V) after December 31, 2029, 60 percent, and
+
+    (ii) in the case of energy storage technology the construction of which begins—
+
+      (I) during calendar year 2026, 55 percent,
+
+      (II) during calendar year 2027, 60 percent,
+
+      (III) during calendar year 2028, 65 percent,
+
+      (IV) during calendar year 2029, 70 percent, and
+
+      (V) after December 31, 2029, 75 percent.
+
+  (C) *Threshold percentage for eligible components*
+
+    (i) *In general* — For purposes of subparagraph (A)(ii), the threshold percentage shall be—
+
+      (I) in the case of any solar energy component (as such term is defined in section 45X(c)(3)(A)) which is sold—
+
+        (aa) during calendar year 2026, 50 percent,
+
+        (bb) during calendar year 2027, 60 percent,
+
+        (cc) during calendar year 2028, 70 percent,
+
+        (dd) during calendar year 2029, 80 percent, and
+
+        (ee) after December 31, 2029, 85 percent,
+
+      (II) in the case of any wind energy component (as such term is defined in section 45X(c)(4)(A)) which is sold—
+
+        (aa) during calendar year 2026, 85 percent, and
+
+        (bb) during calendar year 2027, 90 percent,
+
+      (III) in the case of any inverter described in subparagraphs (B) through (G) of section 45X(c)(2) which is sold—
+
+        (aa) during calendar year 2026, 50 percent,
+
+        (bb) during calendar year 2027, 55 percent,
+
+        (cc) during calendar year 2028, 60 percent,
+
+        (dd) during calendar year 2029, 65 percent, and
+
+        (ee) after December 31, 2029, 70 percent,
+
+      (IV) in the case of any qualifying battery component (as such term is defined in section 45X(c)(5)(A)) which is sold—
+
+        (aa) during calendar year 2026, 60 percent,
+
+        (bb) during calendar year 2027, 65 percent,
+
+        (cc) during calendar year 2028, 70 percent,
+
+        (dd) during calendar year 2029, 80 percent, and
+
+        (ee) after December 31, 2029, 85 percent, and
+
+      (V) subject to clause (ii), in the case of any applicable critical mineral (as such term is defined in section 45X(c)(6)) which is sold—
+
+        (aa) after December 31, 2025, and before January 1, 2030, 0 percent,
+
+        (bb) during calendar year 2030, 25 percent,
+
+        (cc) during calendar year 2031, 30 percent,
+
+        (dd) during calendar year 2032, 40 percent, and
+
+        (ee) after December 31, 2032, 50 percent.
+
+    (ii) *Adjusted threshold percentage for applicable critical minerals* — Not later than December 31, 2027, the Secretary shall issue threshold percentages for each of the applicable critical minerals described in section 45X(c)(6)), which shall—
+
+      (I) apply in lieu of the threshold percentage determined under clause (i)(V) for each calendar year, and
+
+      (II) equal or exceed the threshold percentage which would otherwise apply with respect to such applicable critical mineral under such clause for such calendar year, taking into account—
+
+        (aa) domestic geographic availability,
+
+        (bb) supply chain constraints,
+
+        (cc) domestic processing capacity needs, and
+
+        (dd) national security concerns.
+
+  (D) *Material assistance cost ratio*
+
+    (i) *Qualified facilities and energy storage technology* — For purposes of subparagraph (A)(i), the term “material assistance cost ratio” means the amount (expressed as a percentage) equal to the quotient of—
+
+      (I) an amount equal to—
+
+        (aa) the total direct costs to the taxpayer attributable to all manufactured products (including components) which are incorporated into the qualified facility or energy storage technology upon completion of construction, minus
+
+        (bb) the total direct costs to the taxpayer attributable to all manufactured products (including components) which are—
+
+          (AA) incorporated into the qualified facility or energy storage technology upon completion of construction, and
+
+          (BB) mined, produced, or manufactured by a prohibited foreign entity, divided by
+
+      (II) the amount described in subclause (I)(aa).
+
+    (ii) *Eligible components* — For purposes of subparagraph (A)(ii), the term “material assistance cost ratio” means the amount (expressed as a percentage) equal to the quotient of—
+
+      (I) an amount equal to—
+
+        (aa) with respect to an eligible component, the total direct material costs that are paid or incurred (within the meaning of section 461 and any regulations issued under section 263A) by the taxpayer for production of such eligible component, minus
+
+        (bb) with respect to an eligible component, the total direct material costs that are paid or incurred (within the meaning of section 461 and any regulations issued under section 263A) by the taxpayer for production of such eligible component that are mined, produced, or manufactured by a prohibited foreign entity, divided by
+
+      (II) the amount described in subclause (I)(aa).
+
+    (iii) *Safe harbor tables*
+
+      (I) *In general* — Not later than December 31, 2026, the Secretary shall issue safe harbor tables (and such other guidance as deemed necessary) to—
+
+        (aa) identify the percentage of total direct costs of any manufactured product which is attributable to a prohibited foreign entity,
+
+        (bb) identify the percentage of total direct material costs of any eligible component which is attributable to a prohibited foreign entity, and
+
+        (cc) provide all rules necessary to determine the amount of a taxpayer’s material assistance from a prohibited foreign entity within the meaning of this paragraph.
+
+      (II) *Safe harbors prior to issuance* — For purposes of this paragraph, prior to the date on which the Secretary issues the safe harbor tables described in subclause (I), and for construction of a qualified facility or energy storage technology which begins on or before the date which is 60 days after the date of issuance of such tables, a taxpayer may—
+
+        (aa) use the tables included in Internal Revenue Service Notice 2025–08 to establish the percentage of the total direct costs of any listed eligible component and any manufactured product, and
+
+        (bb) rely on a certification by the supplier of the manufactured product, eligible component, or constituent element, material, or subcomponent of an eligible component—
+
+          (AA) of the total direct costs or the total direct material costs, as applicable, of such product or component that was not produced or manufactured by a prohibited foreign entity, or
+
+          (BB) that such product or component was not produced or manufactured by a prohibited foreign entity.
+
+      (III) *Exception* — Notwithstanding subclauses (I) and (II)—
+
+        (aa) if the taxpayer knows (or has reason to know) that a manufactured product or eligible component was produced or manufactured by a prohibited foreign entity, the taxpayer shall treat all direct costs with respect to such manufactured product, or all direct material costs with respect to such eligible component, as attributable to a prohibited foreign entity, and
+
+        (bb) if the taxpayer knows (or has reason to know) that the certification referred to in subclause (II)(bb) pertaining to a manufactured product or eligible component is inaccurate, the taxpayer may not rely on such certification.
+
+      (IV) *Certification requirement* — In a manner consistent with Treasury Regulation section 1.45X–4(c)(4)(i) (as in effect on the date of enactment of this paragraph), the certification referred to in subclause (II)(bb) shall—
+
+        (aa) include—
+
+          (AA) the supplier’s employer identification number, or
+
+          (BB) any such similar identification number issued by a foreign government,
+
+        (bb) be signed under penalties of perjury,
+
+        (cc) be retained by the supplier and the taxpayer for a period of not less than 6 years and shall be provided to the Secretary upon request, and
+
+        (dd) be from the supplier from which the taxpayer purchased any manufactured product, eligible component, or constituent elements, materials, or subcomponents of an eligible component, stating—
+
+          (AA) that such property was not produced or manufactured by a prohibited foreign entity and that the supplier does not know (or have reason to know) that any prior supplier in the chain of production of that property is a prohibited foreign entity,
+
+          (BB) for purposes of section 45X, the total direct material costs for each component, constituent element, material, or subcomponent that were not produced or manufactured by a prohibited foreign entity, or
+
+          (CC) for purposes of section 45Y or section 48E, the total direct costs attributable to all manufactured products that were not produced or manufactured by a prohibited foreign entity.
+
+    (iv) *Existing contract* — Upon the election of the taxpayer (in such form and manner as the Secretary shall designate), in the case of any manufactured product, eligible component, or constituent element, material, or subcomponent of an eligible component which is—
+
+      (I) acquired by the taxpayer, or manufactured or assembled by or for the taxpayer, pursuant to a binding written contract which was entered into prior to June 16, 2025, and
+
+      (II)
+
+        (aa) placed into service before January 1, 2030 (or, in the case of an applicable facility, as defined in section 45Y(d)(4)(B), before January 1, 2028) in a facility the construction of which began before August 1, 2025, or
+
+        (bb) in the case of a constituent element, material, or subcomponent, used in a product sold before January 1, 2030,
+    the cost to the taxpayer with respect to such product, component, element, material, or subcomponent shall not be included for purposes of determining the material assistance cost ratio under this subparagraph.
+
+    (v) *Anti-circumvention rules* — The Secretary shall prescribe such regulations and guidance as may be necessary or appropriate to prevent circumvention of the rules under this subparagraph, including prevention of—
+
+      (I) any abuse of the exception provided under clause (iv) through the stockpiling of any manufactured product, eligible component, or constituent element, material, or subcomponent of an eligible component during any period prior to the application of the requirements under this paragraph, or
+
+      (II) any evasion with respect to the requirements of this subparagraph where the facts and circumstances demonstrate that the beginning of construction of a qualified facility or energy storage technology has not in fact occurred.
+
+  (E) *Other definitions* — For purposes of this paragraph—
+
+    (i) *Eligible component* — The term “eligible component” means—
+
+      (I) any property described in section 45X(c)(1), or
+
+      (II) any component which is identified by the Secretary pursuant to regulations or guidance issued under subparagraph (G).
+
+    (ii) *Energy storage technology* — The term “energy storage technology” has the same meaning given such term under section 48E(c)(2).
+
+    (iii) *Manufactured product* — The term “manufactured product” means—
+
+      (I) a manufactured product which is a component of a qualified facility, as described in section 45Y(g)(11)(B) and any guidance issued thereunder, or
+
+      (II) any product which is identified by the Secretary pursuant to regulations or guidance issued under subparagraph (G).
+
+    (iv) *Qualified facility* — The term “qualified facility” means—
+
+      (I) a qualified facility, as defined in section 45Y(b)(1),
+
+      (II) a qualified facility, as defined in section 48E(b)(3), and
+
+      (III) any qualified interconnection property (as defined in section 48E(b)(4)) which is part of the qualified investment with respect to a qualified facility (as described in section 48E(b)(1)).
+
+  (F) *Determination of ownership; beginning of construction* — Rules similar to the rules under subparagraphs (H) and (J) of paragraph (51) shall apply for purposes of this paragraph.
+
+  (G) *Regulations and guidance* — The Secretary may prescribe such regulations and guidance as may be necessary or appropriate to carry out the provisions of this paragraph, including—
+
+    (i) identification of components or products for purposes of clauses (i) and (iii) of subparagraph (E), and
+
+    (ii) for purposes of subparagraph (A)(ii), rules to address facilities which produce more than one eligible component.
+
 **(b) Definition of resident alien and nonresident alien**
 
 (1) **In general** — For purposes of this title (other than subtitle B)—
@@ -354,7 +775,7 @@ source: >-
 
       (I) which is organized for the primary purpose of benefiting an organization which is described in section 501(c)(3) and exempt from tax under section 501(a),
 
-      (II) all of the net proceeds of which are contributed to such organization, and,11 So in original. The comma probably should not appear.
+      (II) all of the net proceeds of which are contributed to such organization, and,22 So in original. The comma probably should not appear.
 
       (III) which utilizes volunteers for substantially all of the work performed in carrying out such event.
 
@@ -666,13 +1087,21 @@ For purposes of this subsection, a Senator, a Representative in, or a Delegate o
 #### References in Text
 Part A and part B of title I of the Housing Act of 1949, referred to in subsec. (a)(19)(C)(vi), which were classified generally to part A (§ 1450 et seq.) and part B (§ 1469 et seq.) of subchapter II of chapter 8A of Title 42, The Public Health and Welfare, were omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim), which terminated authority to make new loans and grants under title I of that Act after Jan. 1, 1975.
 
-Section 103 of the Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (a)(19)(C)(vi), which was classified to [section 3303 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3303&num=0&edition=prelim), was omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim), which terminated authority to make new loans and grants under title I (§ 101 et seq.) of that Act after Jan. 1, 1975.
+Section 103 of the Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (a)(19)(C)(vi), which was classified to [section 3303 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3303&num=0&edition=prelim), The Public Health and Welfare, was omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim), which terminated authority to make new loans and grants under title I (§ 101 et seq.) of that Act after Jan. 1, 1975.
 
-The Internal Revenue Code of 1939, referred to in subsec. (a)(29), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+The Internal Revenue Code of 1939, referred to in subsec. (a)(29), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(35), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Subtitle C of title III of the Employee Retirement Income Security Act of 1974 is classified to subtitle C (§ 1241 et seq.) of subchapter II of chapter 18 of Title 29, Labor and amended subsec. (a)(35) of this section. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(35), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Subtitle C of title III of the Employee Retirement Income Security Act of 1974 is classified to subtitle C (§ 1241 et seq.) of subchapter II of chapter 18 of Title 29, Labor, and amended subsec. (a)(35) of this section. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 The Indian Tribal Governmental Tax Status Act of 1982, referred to in subsec. (a)(40)(B), is title II of Pub. L. 97–473, Jan. 14, 1983, 96 Stat. 2607, which is classified principally to subchapter C (§ 7871) of chapter 80 of this title. For complete classification of this Act to the Code, see Short Title of 1983 Amendments note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Tables.
+
+The date of enactment of this paragraph, referred to in subsec. (a)(51)(A)(ii)(II), (D)(ii)(III)(aa)(GG), (52)(D)(iii)(IV), is the date of enactment of Pub. L. 119–21, which was approved July 4, 2025.
+
+Section 2(d)(2)(B) of Public Law 117–78, referred to in subsec. (a)(51)(B)(iii), is section 2(d)(2)(B) of Pub. L. 117–78, Dec. 23, 2021, 135 Stat. 1527, which is set out in a note under [section 6901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6901&num=0&edition=prelim), Foreign Relations and Intercourse.
+
+Section 11A of the Securities Exchange Act of 1934, referred to in subsec. (a)(51)(E)(i)(I)(bb), is classified to [section 78k–1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78k–1&num=0&edition=prelim), Commerce and Trade.
+
+Rule 13d-3 of the Securities Exchange Act of 1934, referred to in subsec. (a)(51)(E)(iii)(I)(bb), (cc), is set out as section 240.13d–3 of title 17, Code of Federal Regulations.
 
 Section 101(15) of the Immigration and Nationality Act, referred to in subsec. (b)(5)(C)(i), (D)(i), probably means section 101(a)(15) of that Act, which is classified to [section 1101(a)(15) of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15&num=0&edition=prelim), Aliens and Nationality.
 
@@ -688,6 +1117,8 @@ The date of the enactment of the Commodity Futures Modernization Act of 2000, re
 Sections 1207(f) and 1222 of Pub. L. 109–280, which directed the amendment of section 7701 without specifying the act to be amended, were executed to this section, which is section 7701 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2025—Subsec. (a)(51), (52). Pub. L. 119–21 added pars. (51) and (52).
+
 2022—Subsec. (e)(3)(A)(i)(IV). Pub. L. 117–169, § 13102(n)(1)(A), added subcl. (IV).
 
 Subsec. (e)(3)(F). Pub. L. 117–169, § 13102(n)(1)(B), added subpar. (F).
@@ -967,6 +1398,9 @@ Subsec. (a)(12). Pub. L. 86–778 designated existing provisions as par. (A) and
 1959—Subsec. (a)(9). Pub. L. 86–70, § 22(g), substituted “the Territory of Hawaii” for “the Territories of Alaska and Hawaii”.
 
 Subsec. (a)(10). Pub. L. 86–70, § 22(h), substituted “Territory of Hawaii” for “Territories”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21 applicable to taxable years beginning after July 4, 2025, see section 70512(l)(1) of Pub. L. 119–21, set out in a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
 
 #### Effective Date of 2022 Amendment
 Amendment by Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2022, see section 13102(q)(2) of Pub. L. 117–169, set out in a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
@@ -1980,7 +2414,27 @@ Section applicable to bonds issued after Aug. 15, 1986, except as otherwise prov
 
   (D) gain from the sale or other disposition of real property (including property described in section 1221(a)(1)),
 
-  (E) income and gains derived from the exploration, development, mining or production, processing, refining, transportation (including pipelines transporting gas, oil, or products thereof), or the marketing of any mineral or natural resource (including fertilizer, geothermal energy, and timber), industrial source carbon dioxide, or the transportation or storage of any fuel described in subsection (b), (c), (d), or (e) of section 6426, or any alcohol fuel defined in section 6426(b)(4)(A) or any biodiesel fuel as defined in section 40A(d)(1),
+  (E) income and gains derived from—
+
+    (i) the exploration, development, mining or production, processing, refining, transportation (including pipelines transporting gas, oil, or products thereof), or the marketing of any mineral or natural resource (including fertilizer, geothermal energy, and timber), or industrial source carbon dioxide,
+
+    (ii) the transportation or storage of—
+
+      (I) any fuel described in subsection (b), (c), (d), (e), or (k) of section 6426, or any alcohol fuel defined in section 6426(b)(4)(A) or any biodiesel fuel as defined in section 40A(d)(1) or sustainable aviation fuel as defined in section 40B(d)(1), or
+
+      (II) liquified hydrogen or compressed hydrogen,
+
+    (iii) in the case of a qualified facility (as defined in section 45Q(d), without regard to any date by which construction of the facility or equipment is required to begin) not less than 50 percent of the total carbon oxide production of which is qualified carbon oxide (as defined in section 45Q(c))—
+
+      (I) the generation, availability for such generation, or storage of electric power at such facility, or
+
+      (II) the capture of carbon dioxide by such facility,
+
+    (iv) the production of electricity from any advanced nuclear facility (as defined in section 45J(d)(2)),
+
+    (v) the production of electricity or thermal energy exclusively using a qualified energy resource described in subparagraph (D) or (H) of section 45(c)(1), or
+
+    (vi) the operation of energy property described in clause (iii) or (vii) of section 48(a)(3)(A) (determined without regard to any requirement under such section with respect to the date on which construction of property begins).
 
   (F) any gain from the sale or disposition of a capital asset (or property described in section 1231(b)) held for the production of income described in any of the foregoing subparagraphs of this paragraph, and
 
@@ -2049,6 +2503,8 @@ then, notwithstanding such failure, such entity shall be treated as continuing t
 Section 10211(c)(2) of the Revenue Reconciliation Act of 1987, referred to in subsec. (g)(2)(A), probably means section 10211(c)(2) of the Revenue Act of 1987, title X of Pub. L. 100–203, which is set out as a note below.
 
 #### Amendments
+2025—Subsec. (d)(1)(E). Pub. L. 119–21 substituted “gains derived from—” for “gains derived from”, inserted cl. (i) designation before “the exploration”, inserted “or” before “industrial source”, and substituted cls. (ii) to (vi) for “or the transportation or storage of any fuel described in subsection (b), (c), (d), or (e) of section 6426, or any alcohol fuel defined in section 6426(b)(4)(A) or any biodiesel fuel as defined in section 40A(d)(1),”.
+
 2008—Subsec. (d)(1)(E). Pub. L. 110–343, § 208(a), substituted “, industrial source carbon dioxide, or the transportation or storage of any fuel described in subsection (b), (c), (d), or (e) of section 6426, or any alcohol fuel defined in section 6426(b)(4)(A) or any biodiesel fuel as defined in section 40A(d)(1)” for “or industrial source carbon dioxide”.
 
 Pub. L. 110–343, § 116(a), inserted “or industrial source carbon dioxide” before comma at end.
@@ -2068,6 +2524,9 @@ Subsec. (d)(1). Pub. L. 100–647, § 2004(f)(4), inserted at end “For purpose
 Subsec. (d)(3). Pub. L. 100–647, § 2004(f)(5), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘real property rent’ means amounts which would qualify as rent from real property under section 856(d) if such section were applied without regard to paragraph (2)(C) thereof (relating to independent contractor requirements).”
 
 Subsec. (e)(4). Pub. L. 100–647, § 2004(f)(1), inserted “or to pay such amounts” before “as may be required”.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VII, § 70524(b), July 4, 2025, 139 Stat. 282, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2025.”
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–343, div. B, title I, § 116(b), Oct. 3, 2008, 122 Stat. 3831, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Oct. 3, 2008], in taxable years ending after such date.”

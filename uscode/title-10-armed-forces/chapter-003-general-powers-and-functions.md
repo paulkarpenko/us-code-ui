@@ -2,7 +2,7 @@
 title: 10
 chapter: '3'
 heading: GENERAL POWERS AND FUNCTIONS
-section_count: 34
+section_count: 35
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -235,6 +235,12 @@ A prior section 124, added Pub. L. 87–651, title II, § 201(a), Sept. 7, 1962,
 #### Amendments
 1991—Subsec. (a). Pub. L. 102–190 designated existing provisions as par. (1) and added par. (2).
 
+#### Support for Counterdrug Activities Affecting Flow of Drugs Into the United States
+Pub. L. 118–159, div. A, title X, § 1011, Dec. 23, 2024, 138 Stat. 2050, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary shall prescribe Department-wide guidance that establishes support for counterdrug activities and programs affecting the flow of drugs into the United States as the principal foreign counterdrug program priority of the Department.”
+
+#### Authority for Detection and Monitoring of Illegal Drugs Regardless of Destination
+Pub. L. 118–159, div. A, title X, § 1012, Dec. 23, 2024, 138 Stat. 2050, provided that: “In conducting detection and monitoring of illegal drugs under [section 124 of title 10](./chapter-003-general-powers-and-functions.md#section-124), United States Code, the Joint Interagency Task Force South may conduct detection and monitoring of vessels or aircraft transiting illegal drugs in the air and maritime domains within the established joint operating area of such task force regardless of the destination of the illegal drugs.”
+
 #### Condition on Development of Forward Operating Locations for United States Southern Command Counter-Drug Detection and Monitoring Flights
 Pub. L. 106–65, div. A, title X, § 1024, Oct. 5, 1999, 113 Stat. 748, provided that: “(a) Condition.—Except as provided in subsection (b), none of the funds appropriated or otherwise made available to the Department of Defense for any fiscal year may be obligated or expended for the purpose of improving the physical infrastructure at any proposed forward operating location outside the United States from which the United States Southern Command may conduct counter-drug detection and monitoring flights until a formal agreement regarding the extent and use of, and host nation support for, the forward operating location is executed by both the host nation and the United States. “(b) Exception.—The limitation in subsection (a) does not apply to an unspecified minor military construction project authorized by [section 2805 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2805), United States Code.”
 
@@ -402,7 +408,7 @@ Authority of President under subsec. (a) of this section to approve transfers of
 
 <a id="section-127"></a>
 ## § 127. Emergency and extraordinary expenses
-**(a)** Subject to the limitations of subsection (c), and within the limitation of appropriations made for the purpose, the Secretary of Defense, the Inspector General of the Department of Defense, and the Secretary of a military department within his department, may provide for any emergency or extraordinary expense which cannot be anticipated or classified. When it is so provided in such an appropriation, the funds may be spent on approval or authority of the Secretary concerned or the Inspector General for any purpose he determines to be proper, and such a determination is final and conclusive upon the accounting officers of the United States. The Secretary concerned or the Inspector General may certify the amount of any such expenditure authorized by him that he considers advisable not to specify, and his certificate is sufficient voucher for the expenditure of that amount.
+**(a)** Subject to the limitations of subsection (c), and within the limitation of appropriations made for the purpose, the Secretary of Defense, the Inspector General of the Department of Defense, and the Secretary of a military department within his department, may provide for any emergency or extraordinary expense which cannot be anticipated or classified. When it is so provided in such an appropriation, the funds may be spent on approval or authority of the Secretary concerned or the Inspector General for any purpose he determines to be proper, and such a determination is final and conclusive upon the accounting officers of the United States. The Secretary concerned or the Inspector General may certify the amount of any such expenditure authorized by him that he considers advisable not to specify, and his certificate is sufficient voucher for the expenditure of that amount. The authority to expend amounts made available for the Military Intelligence Program for intelligence and counterintelligence objects of a confidential, extraordinary, or emergency nature is provided by [section 429a of this title](./chapter-021-department-of-defense-intelligence-matters.md#section-429a) instead of this section.
 
 **(b)** The authority conferred by this section may be delegated by the Secretary of Defense to any person in the Department of Defense, by the Inspector General to any person in the Office of the Inspector General, or by the Secretary of a military department to any person within his department, with or without the authority to make successive re­delegations.
 
@@ -449,6 +455,8 @@ Authority of President under subsec. (a) of this section to approve transfers of
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159 inserted at end “The authority to expend amounts made available for the Military Intelligence Program for intelligence and counterintelligence objects of a confidential, extraordinary, or emergency nature is provided by [section 429a of this title](./chapter-021-department-of-defense-intelligence-matters.md#section-429a) instead of this section.”
+
 2019—Subsec. (c)(1). Pub. L. 116–92, § 1731(a)(5), inserted “the” before “congressional defense committees”.
 
 Subsec. (d)(2). Pub. L. 116–92, § 1012, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Each report required to be submitted under paragraph (1) shall include a detailed explanation, by category of activity and approving authority (the Secretary of Defense, the Inspector General of the Department of Defense, and the Secretary of a military department), of the expenditures during the preceding fiscal year.”
@@ -865,6 +873,9 @@ Another section 127c was renumbered [section 127d of this title](./chapter-003-g
 #### Prior Provisions
 A prior section 127d was renumbered [section 331 of this title](./chapter-016-security-cooperation.md#section-331).
 
+#### Irregular Warfare Exercise Laboratory
+Pub. L. 119–60, div. A, title X, § 1094, Dec. 18, 2025, 139 Stat. 1066, provided that: “(a) In General.—The Secretary of Defense may establish and maintain an Irregular Warfare Exercise Laboratory to—“(1) support the training, experimentation, preparation, and validation of the United States Armed Forces to conduct full-spectrum irregular warfare activities; and “(2) enable activities to build the capacity and interoperability of the national security forces of friendly foreign countries. “(b) Authorities.—In carrying out the activities authorized under subsection (a), the Secretary may use the authorities under chapter 16 of title 10, United States Code, or other applicable statutory authorities available to the Secretary of Defense. “(c) National Security Forces Defined.—In this section, the term ‘national security forces’ has the meaning given that term in [section 301 of title 10](./chapter-016-security-cooperation.md#section-301), United States Code.”
+
 
 <a id="section-127e"></a>
 ## § 127e. Support of special operations to combat terrorism
@@ -1150,25 +1161,13 @@ Subsec. (d). Pub. L. 114–328, § 1662(a)(1), added subsec. (d).
 
 **(b)** With respect to each budget activity within an appropriation for a fiscal year for operations and maintenance, the Secretary of Defense shall ensure that there are employed during that fiscal year employees in the number and with the combination of skills and qualifications that are necessary to carry out the functions within that budget activity as determined under the total force management policies and procedures established under [section 129a of this title](./chapter-003-general-powers-and-functions.md#section-129a).
 
-**(c)**
-
-(1) Not later than February 1 of each year—
-
-  (A) the Secretary of Defense shall submit to the congressional defense committees a report on the management of the civilian workforce of the Office of the Secretary of Defense and the Defense Agencies and Field Activities; and
-
-  (B) the Secretary of each military department shall submit to the congressional defense committees a report on the management of the civilian workforces under the jurisdiction of such Secretary.
-
-(2) Each report under paragraph (1) shall contain, with respect to the civilian workforce under the jurisdiction of the official submitting the report, the following:
-
-  (A) An assessment of the projected size and associated cost of such civilian workforce in the current year and for each year in the future-years defense program.
-
-  (B) If the projected size and associated cost of such civilian workforce has changed from the previous year’s projected size and associated cost, an explanation of the reasons for the increase or decrease from the previous projection, including an explanation of any efforts to reduce the overall costs of the total force of military, civilian, and contract workforces.
-
-  (C) In the case of a transfer of functions between military, civilian, and contractor workforces, an explanation of the reasons for the transfer and the steps that have been taken to control the overall cost of the function to the Department.
-
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 119–60, § 422(b)(3), struck out subsec. (c) which required the Secretary of Defense to submit to the congressional defense committees a report on the management of the civilian workforce of the Office of the Secretary of Defense and the Defense Agencies and Field Activities and the Secretary of each military department to submit to the congressional defense committees a report on the management of the civilian workforces under the jurisdiction of such Secretary. See [section 115a(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115a/d&num=0&edition=prelim).
+
+Subsec. (c)(2). Pub. L. 119–60, § 422(b)(2), in introductory provisions, substituted “The matter to be included in each discussion under paragraph (1)” for “Each report under paragraph (1) shall contain” and “of each element of the Department of Defense named in such paragraph, is” for “under the jurisdiction of the official submitting the report,” and redesignated par. (2) as [section 115a(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115a/d/2&num=0&edition=prelim).
+
 2021—Subsec. (a). Pub. L. 117–81, in first sentence, substituted “solely” for “primarily” and, in second sentence, struck out “solely” after “shall not be subject”.
 
 2019—Subsec. (a). Pub. L. 116–92, § 1103(1), in first sentence, substituted “each fiscal year primarily” for “each fiscal year”, and in second sentence, substituted “The management of such personnel in any fiscal year shall not be subject solely to any” for “Any” and struck out “shall be developed on the basis of those factors and shall be subject to adjustment solely for reasons of changed circumstances” after “number of employees”.
@@ -1232,7 +1231,7 @@ Pub. L. 99–433 renumbered [section 140b of this title](./chapter-004-office-of
 ## § 129a. General policy for total force management
 **(a) Policies and Procedures.—** The Secretary of Defense shall establish policies and procedures for determining the most appropriate and cost efficient mix of military, civilian, and contractor personnel to perform the mission of the Department of Defense.
 
-**(b) Risk Mitigation Over Cost.—** In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces takes precedence over cost. The Secretary may not reduce the civilian workforce programmed full-time equivalent levels unless the Secretary conducts an appropriate analysis of the impacts of such reductions on workload, military force structure, lethality, readiness, operational effectiveness, stress on the military force, and fully burdened costs.
+**(b) Risk Mitigation Over Cost.—** In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces takes precedence over cost. The Secretary may not reduce the civilian workforce programmed full-time equivalent levels, or conduct any reductions or realignments that occur outside the normal programming process (including ad hoc, immediate, or unprogrammed changes) of 50 employees or more implemented before or after the submission of the annual budget request, unless the Secretary conducts an appropriate analysis of the impacts of such reductions on workload, military force structure, lethality, readiness, operational effectiveness, stress on the military force, and fully burdened costs.
 
 **(c) Delegation of Responsibilities.—** The Secretary shall delegate responsibility for implementation of the policies and procedures established under subsection (a) as follows:
 
@@ -1290,12 +1289,21 @@ Pub. L. 99–433 renumbered [section 140b of this title](./chapter-004-office-of
 
 (2) In determining the workforce mix between civilian and military personnel, the Secretary of a military department shall reserve military personnel for the performance of the functions that, in the estimation of the Secretary, are required to be performed by military personnel in order to achieve national defense goals or in order to enable the proper functioning of the military department. In making workforce decisions, the Secretary shall account for the relative budgetary impact of military versus civilian personnel in determining the functions required to be performed by military personnel.
 
+**(h) Report to Congressional Defense Committees.—** Not later than 1 year after the date of the enactment of this subsection and annually thereafter, the Secretary of Defense shall submit a report to the congressional defense committees containing the analysis conducted pursuant to subsection (b).
+
 ### Statutory Notes
+
+#### References in Text
+The date of the enactment of this subsection, referred to in subsec. (h), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 115(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115/b/5&num=0&edition=prelim), prior to repeal by Pub. L. 101–510, § 1483(a).
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–60, § 1107(b), inserted “, or conduct any reductions or realignments that occur outside the normal programming process (including ad hoc, immediate, or unprogrammed changes) of 50 employees or more implemented before or after the submission of the annual budget request,” after “full-time equivalent levels”.
+
+Subsec. (h). Pub. L. 119–60, § 1107(c), added subsec. (h).
+
 2023—Subsec. (c)(2). Pub. L. 118–31 inserted at end “The Secretary of Defense shall ensure that the requirements determination, planning, programming, and budgeting conducted under this paragraph considers all components of the total force (including active and reserve military, the civilian workforce, and contract support) in a holistic manner—” and added subpars. (A) and (B).
 
 2021—Subsec. (b). Pub. L. 116–283, § 912, inserted at end “The Secretary may not reduce the civilian workforce programmed full-time equivalent levels unless the Secretary conducts an appropriate analysis of the impacts of such reductions on workload, military force structure, lethality, readiness, operational effectiveness, stress on the military force, and fully burdened costs.”
@@ -1328,6 +1336,9 @@ Subsec. (d). Pub. L. 115–91, § 1051(a)(6)(B), redesignated pars. (3) and (4) 
 
 #### Effective Date of 2021 Amendment
 Amendment by sections 1808(d)(1) and 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Modifications to Total Force Management Requirements
+Pub. L. 119–60, div. A, title XI, § 1107(a), Dec. 18, 2025, 139 Stat. 1074, provided that: “Not later than 30 days after the date of the enactment of this Act [Dec. 18, 2025], the Office of the Secretary of Defense shall, in consultation with each Secretary of a military department, provide guidance to each such Secretary on the analysis required under subsection (b) of [section 129a of title 10](./chapter-003-general-powers-and-functions.md#section-129a), United States Code. Such guidance shall include defining the seven required elements of the analysis under such subsection, on either a Department-wide or component level.”
 
 #### Management Innovation Activities
 Pub. L. 117–81, div. A, title IX, § 908, Dec. 27, 2021, 135 Stat. 1875, provided that: “(a) In General.—The Secretary of Defense shall carry out a set of activities to improve the effectiveness of management activities within the Department of Defense, with the goals of incorporating appropriate private sector management practices and technologies and enhancing the capabilities of the defense management workforce. “(b) Management Activities.—Subject to the total force management requirements under [section 129a of title 10](./chapter-003-general-powers-and-functions.md#section-129a), United States Code, the activities carried out under subsection (a) may include the following:“(1) Public-private partnerships with appropriate private sector and government organizations. “(2) Personnel exchange programs with appropriate industry, academic, and government organizations to enhance the capabilities of the defense management workforce. “(3) Research, development, and technology and business process prototyping activities to create new technological capabilities to support management missions, or development and testing of new management concepts and business transformation activities. “(4) The designation of appropriate organizations to lead management innovation activities. “(5) A process by which defense business process owners and other personnel of the Department of Defense can identify management and business process challenges and opportunities that could be addressed by activities carried out under this section. “(6) Processes to develop, prototype, test, and field new business processes and practices to improve defense management capabilities. “(7) Academic research and educational activities related to defense management missions to promote—“(A) development of innovative management concepts; “(B) analyses and addressing of appropriate management challenges; and “(C) development of programs and activities to develop the defense management workforce. “(8) Academic research and independent studies from federally funded research and development centers assessing lessons learned from previous Departmental management reform initiatives and whether legacy organizations exist and should be consolidated. “(c) Plan Required.—Not later than February 1, 2023, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan for carrying out the activities under this section. “(d) Briefings.—“(1) Initial briefing.—Not later than July 1, 2022, the Secretary of Defense shall provide to the congressional defense committees an initial briefing on the activities carried out and plans developed under this section. “(2) Subsequent briefing.—On a date occurring after the briefing under paragraph (1), but not later than July 1, 2023, the Secretary of Defense shall provide to the congressional defense committees a briefing on the activities carried out and plans developed under this section.”
@@ -1430,11 +1441,14 @@ Subsec. (d). Pub. L. 108–136, § 841(a), added subsec. (d).
 
 **(e) Definition.—** In this section, the term “medical personnel” means—
 
-(1) the members of the armed forces covered by the term “medical personnel” as defined in [section 115a(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115a/e/2&num=0&edition=prelim); and
+(1) the members of the armed forces covered by the term “medical personnel” as defined in section 115a(e)(2) 11 See References in Text note below. of this title; and
 
 (2) the civilian personnel of the Department of Defense assigned to military medical facilities.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 115a(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115a/e/2&num=0&edition=prelim), referred to in subsec. (e)(1), was redesignated as [section 115a(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115a/f/2&num=0&edition=prelim) by Pub. L. 119–60, div. A, title IV, § 422(b)(1)(A), Dec. 18, 2025, 139 Stat. 850.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in Pub. L. 101–510, div. A, title VII, § 711, Nov. 5, 1990, 104 Stat. 1582, as amended, which was set out as a note under [section 115 of this title](./chapter-002-department-of-defense.md#section-115), prior to repeal by Pub. L. 104–106, § 564(d)(1).
@@ -1443,7 +1457,7 @@ Provisions similar to those in this section were contained in Pub. L. 101–510,
 1997—Subsec. (e)(1). Pub. L. 105–85 substituted “section 115a(e)(2)” for “section 115a(g)(2)”.
 
 #### Limitation on Reduction of Military Medical Manning End Strength: Certification Requirement and Other Reforms
-Pub. L. 117–263, div. A, title VII, § 741(a), (d), Dec. 23, 2022, 136 Stat. 2676, 2680, provided that: “(a) Limitation.—“(1) In general.—Except as provided in paragraph (2), and in addition to the limitation under section 719 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1454), as most recently amended by section 731 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1795), during the five-year period beginning on the date of the enactment of this Act [Dec. 23, 2022], neither the Secretary of Defense nor a Secretary concerned may reduce military medical end strength authorizations, and following such period, neither may reduce such authorizations unless the Secretary of Defense issues a waiver pursuant to paragraph (6). “(2) Exception.—The limitation under paragraph (1) shall not apply with respect to the following:“(A) Administrative billets of a military department that have remained unfilled since at least October 1, 2018. “(B) Billets identified as non-clinical in the budget of the President for fiscal year 2020 submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, except that the number of such billets may not exceed 1,700. “(C) Medical headquarters billets of the military departments not assigned to, or providing direct support to, operational commands. “(3) Report on composition of military medical workforce requirements.—The Secretary of Defense, in coordination with the Secretaries of the military departments, shall conduct an assessment of current military medical manning requirements (taking into consideration factors including future operational planning, training, and beneficiary healthcare) and submit to the Committees on Armed Services of the House of Representatives and the Senate a report containing the findings of such assessment. Such assessment shall be informed by the following:“(A) The National Defense Strategy submitted under [section 113(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim), United States Code. “(B) The National Military Strategy prepared under section 153(b) of such title. “(C) The campaign plans of the combatant commands. “(D) Theater strategies. “(E) The joint medical estimate under section 732 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1817). “(F) The plan of the Department of Defense on integrated medical operations, as updated pursuant to paragraph (1) of section 724(a) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1793; [10 U.S.C. 1096](./chapter-055-medical-and-dental-care.md#section-1096) note). “(G) The plan of the Department of Defense on global patient movement, as updated pursuant to paragraph (2) of such section 724(a). “(H) The biosurveillance program of the Department of Defense established pursuant to Department of Defense Directive 6420.02 (relating to biosurveillance). “(I) Requirements for graduate medical education. “(J) The report of the COVID–19 Military Health System Review Panel under section 731 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 134 Stat. 3698). “(K) The report of the Inspector General of the Department of Defense titled ‘Evaluation of Department of Defense Military Medical Treatment Facility Challenges During the Coronavirus Disease-2019 (COVID-19) Pandemic in Fiscal Year 2021 (DODIG-2022-081)’ and published on April 5, 2022. “(L) Reports of the Comptroller General of the United States relating to military health system reforms undertaken on or after January, 1, 2017, including any such reports relating to military medical manning and force composition mix. “(M) Such other reports as may be determined appropriate by the Secretary of Defense. “(4) Certification.—The Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and the Senate a certification containing the following:“(A) A certification of the completion of a comprehensive review of military medical manning, including with respect to the medical corps (or other health- or medical-related component of a military department), designator, profession, occupation, and rating of medical personnel. “(B) A justification for any proposed increase, realignment, reduction, or other change to the specialty or occupational composition of military medical end strength authorizations, which may include compliance with a requirement or recommendation set forth in a strategy, plan, or other matter specified in paragraph (3). “(C) A certification that, in the case that any change to such specialty or occupational composition is required, a vacancy resulting from such change may not be filled with a position other than a health- or medical-related position until such time as there are no military medical billets remaining to fill the vacancy. “(D) A risk analysis associated with the potential realignment or reduction of any military medical end strength authorizations. “(E) An identification of any plans of the Department to backfill military medical personnel positions with civilian personnel. “(F) A plan to address persistent vacancies for civilian personnel in health- or medical-related positions, and a risk analysis associated with the hiring, onboarding, and retention of such civilian personnel, taking into account provider shortfalls across the United States. “(G) A comprehensive plan to mitigate any risk identified pursuant to subparagraph (D) or (F), including with respect to funding necessary for such mitigation across fiscal years. “(5) Process required.—The Secretaries of the military departments, in coordination with the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, shall develop and submit to the Committees on Armed Services of the House of Representatives and the Senate a process for the authorization of proposed modifications to the composition of the medical manning force mix across the military departments while maintaining compliance with the limitation under paragraph (1). Such process shall—“(A) take into consideration the funding required for any such proposed modification; and “(B) include distinct processes for proposed increases and proposed decreases, respectively, to the medical manning force mix of each military department. “(6) Waiver.—“(A) In general.—Following the conclusion of the five-year period specified in paragraph (1), the Secretary of Defense may waive the prohibition under such subsection if—“(i) the report requirement under paragraph (3), the certification requirement under paragraph (4), and the process requirement under paragraph (5) have been completed; “(ii) the Secretary determines that the waiver is necessary and in the interests of the national security of the United States; and “(iii) the waiver is issued in writing. “(B) Notification to congress.—Not later than five days after issuing a waiver under subparagraph (A), the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and the Senate a notification of the waiver (including the text of the waiver and a justification for the waiver) and provide to such committees a briefing on the components of the waiver. “(d) Definitions.—In this section:“(1) The term ‘medical personnel’ has the meaning given such term in [section 115a(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115a/e&num=0&edition=prelim), United States Code. “(2) The term ‘Secretary concerned’ has the meaning given that term in section 101(a) of such title. “(3) The term ‘theater strategy’ means an overarching construct outlining the vision of a combatant commander for the integration and synchronization of military activities and operations with other national power instruments to achieve the strategic objectives of the United States.”
+Pub. L. 117–263, div. A, title VII, § 741(a), (d), Dec. 23, 2022, 136 Stat. 2676, 2680, as amended by Pub. L. 119–60, div. A, title VII, § 713(1), Dec. 18, 2025, 139 Stat. 921, provided that: “(a) Limitation.—“(1) In general.—Except as provided in paragraph (2), and in addition to the limitation under section 719 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1454), as most recently amended by section 731 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1795), during the 10-year period beginning on the date of the enactment of this Act [Dec. 23, 2022], neither the Secretary of Defense nor a Secretary concerned may reduce military medical end strength authorizations, and following such period, neither may reduce such authorizations unless the Secretary of Defense issues a waiver pursuant to paragraph (6). “(2) Exception.—The limitation under paragraph (1) shall not apply with respect to the following:“(A) Administrative billets of a military department that have remained unfilled since at least October 1, 2018. “(B) Billets identified as non-clinical in the budget of the President for fiscal year 2020 submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, except that the number of such billets may not exceed 1,700. “(C) Medical headquarters billets of the military departments not assigned to, or providing direct support to, operational commands. “(3) Report on composition of military medical workforce requirements.—The Secretary of Defense, in coordination with the Secretaries of the military departments, shall conduct an assessment of current military medical manning requirements (taking into consideration factors including future operational planning, training, and beneficiary healthcare) and submit to the Committees on Armed Services of the House of Representatives and the Senate a report containing the findings of such assessment. Such assessment shall be informed by the following:“(A) The National Defense Strategy submitted under [section 113(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim), United States Code. “(B) The National Military Strategy prepared under section 153(b) of such title. “(C) The campaign plans of the combatant commands. “(D) Theater strategies. “(E) The joint medical estimate under section 732 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1817). “(F) The plan of the Department of Defense on integrated medical operations, as updated pursuant to paragraph (1) of section 724(a) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1793; [10 U.S.C. 1096](./chapter-055-medical-and-dental-care.md#section-1096) note). “(G) The plan of the Department of Defense on global patient movement, as updated pursuant to paragraph (2) of such section 724(a). “(H) The biosurveillance program of the Department of Defense established pursuant to Department of Defense Directive 6420.02 (relating to biosurveillance). “(I) Requirements for graduate medical education. “(J) The report of the COVID–19 Military Health System Review Panel under section 731 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 134 Stat. 3698). “(K) The report of the Inspector General of the Department of Defense titled ‘Evaluation of Department of Defense Military Medical Treatment Facility Challenges During the Coronavirus Disease-2019 (COVID-19) Pandemic in Fiscal Year 2021 (DODIG-2022-081)’ and published on April 5, 2022. “(L) Reports of the Comptroller General of the United States relating to military health system reforms undertaken on or after January, 1, 2017, including any such reports relating to military medical manning and force composition mix. “(M) Such other reports as may be determined appropriate by the Secretary of Defense. “(4) Certification.—The Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and the Senate a certification containing the following:“(A) A certification of the completion of a comprehensive review of military medical manning, including with respect to the medical corps (or other health- or medical-related component of a military department), designator, profession, occupation, and rating of medical personnel. “(B) A justification for any proposed increase, realignment, reduction, or other change to the specialty or occupational composition of military medical end strength authorizations, which may include compliance with a requirement or recommendation set forth in a strategy, plan, or other matter specified in paragraph (3). “(C) A certification that, in the case that any change to such specialty or occupational composition is required, a vacancy resulting from such change may not be filled with a position other than a health- or medical-related position until such time as there are no military medical billets remaining to fill the vacancy. “(D) A risk analysis associated with the potential realignment or reduction of any military medical end strength authorizations. “(E) An identification of any plans of the Department to backfill military medical personnel positions with civilian personnel. “(F) A plan to address persistent vacancies for civilian personnel in health- or medical-related positions, and a risk analysis associated with the hiring, onboarding, and retention of such civilian personnel, taking into account provider shortfalls across the United States. “(G) A comprehensive plan to mitigate any risk identified pursuant to subparagraph (D) or (F), including with respect to funding necessary for such mitigation across fiscal years. “(5) Process required.—The Secretaries of the military departments, in coordination with the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, shall develop and submit to the Committees on Armed Services of the House of Representatives and the Senate a process for the authorization of proposed modifications to the composition of the medical manning force mix across the military departments while maintaining compliance with the limitation under paragraph (1). Such process shall—“(A) take into consideration the funding required for any such proposed modification; and “(B) include distinct processes for proposed increases and proposed decreases, respectively, to the medical manning force mix of each military department. “(6) Waiver.—“(A) In general.—Following the conclusion of the 10-year period specified in paragraph (1), the Secretary of Defense may waive the prohibition under such subsection if—“(i) the report requirement under paragraph (3), the certification requirement under paragraph (4), and the process requirement under paragraph (5) have been completed; “(ii) the Secretary determines that the waiver is necessary and in the interests of the national security of the United States; and “(iii) the waiver is issued in writing. “(B) Notification to congress.—Not later than five days after issuing a waiver under subparagraph (A), the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and the Senate a notification of the waiver (including the text of the waiver and a justification for the waiver) and provide to such committees a briefing on the components of the waiver. “(d) Definitions.—In this section:“(1) The term ‘medical personnel’ has the meaning given such term in [section 115a(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115a/e&num=0&edition=prelim), United States Code [now [10 U.S.C. 115a(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115a/f&num=0&edition=prelim)]. “(2) The term ‘Secretary concerned’ has the meaning given that term in section 101(a) of such title. “(3) The term ‘theater strategy’ means an overarching construct outlining the vision of a combatant commander for the integration and synchronization of military activities and operations with other national power instruments to achieve the strategic objectives of the United States.”
 
 #### Prohibition on Conversion of Military Medical and Dental Positions to Civilian Medical and Dental Positions
 Pub. L. 110–181, div. A, title VII, § 721(a)–(d), Jan. 28, 2008, 122 Stat. 198, 199, as amended by Pub. L. 111–84, div. A, title VII, § 701, Oct. 28, 2009, 123 Stat. 2372, prohibited the Secretary of a military department from converting any military medical or dental position to a civilian medical or dental position on or after Oct. 1, 2007, and required restoration of certain converted positions to military positions, prior to repeal by Pub. L. 114–328, div. A, title VII, § 721(c), Dec. 23, 2016, 130 Stat. 2228.
@@ -1735,7 +1749,7 @@ The National Security Act of 1947, referred to in subsecs. (c) and (e), is act J
 The War Powers Resolution, referred to in subsec. (e), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under [section 1541 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2021—Subsec. (d). Pub. L. 117–81, § 1042(1)–(3), substituted “In” for “(1) Except as provided in paragraph (2), in”, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “ For purposes of this section, the term ‘sensitive military operation’ does not include any operation conducted within Afghanistan, Syria, or Iraq.”
+2021—Subsec. (d). Pub. L. 117–81, § 1042(1)–(3), substituted “In” for “(1) Except as provided in paragraph (2), in”, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “For purposes of this section, the term ‘sensitive military operation’ does not include any operation conducted within Afghanistan, Syria, or Iraq.”
 
 Subsec. (d)(3). Pub. L. 117–81, § 1042(4)–(6), added par. (3).
 
@@ -1788,49 +1802,55 @@ Pub. L. 113–66, div. A, title X, § 1041(c), Dec. 26, 2013, 127 Stat. 857, pro
 
 
 <a id="section-130g"></a>
-## § 130g. Renumbered § 394]
+## § 130g. Oversight of sensitive activities of the Department of Defense.
+**(a) Requirement.—** The Secretary of Defense shall keep the congressional defense committees fully and currently informed of Department of Defense sensitive activities.
 
+**(b) Notification.—** In addition to the requirement under subsection (a), the Secretary shall submit to the congressional defense committees a written notification of any compromise or failure of a sensitive activity of the Department of Defense by not later than 48 hours after the date on which the Secretary determines that such a compromise or failure has occurred.
 
-<a id="section-130h"></a>
-## § 130h. Prohibitions relating to missile defense information and systems
-**(a) Certain “Hit-to-kill” Technology and Telemetry Data.—** None of the funds authorized to be appropriated or otherwise made available for any fiscal year for the Department of Defense may be used to provide the Russian Federation with “hit-to-kill” technology and telemetry data for missile defense interceptors or target vehicles.
+**(c) Procedures.—** The Secretary, in consultation with the congressional defense committees, shall establish and submit to such committees procedures for complying with the requirements of subsections (a) and (b), including clearly established reporting thresholds and timelines for the prompt delivery of written notifications consistent with the national security of the United States and the protection of operational security. The Secretary shall promptly notify the congressional defense committees in writing of any changes to such procedures at least 14 days prior to the adoption of any such changes.
 
-**(b) Other Sensitive Missile Defense Information.—** None of the funds authorized to be appropriated or otherwise made available for any fiscal year for the Department of Defense may be used to provide the Russian Federation with—
-
-(1) information relating to velocity at burnout of missile defense interceptors or targets of the United States; or
-
-(2) classified or otherwise controlled missile defense information.
-
-**(c) Exception.—** The prohibitions in subsections (a) and (b) shall not apply to the United States providing to the Russian Federation information regarding ballistic missile early warning.
-
-**(d) Integration.—** None of the funds authorized to be appropriated or otherwise made available for any fiscal year for the Department of Defense may be obligated or expended to integrate a missile defense system of the Russian Federation or a missile defense system of the People’s Republic of China into any missile defense system of the United States.
+**(d) Sensitive Activities Defined.—** In this section, the term “Department of Defense sensitive activities” means operations, actions, activities, or programs of the Department of Defense that if compromised, could have enduring adverse effects on United States foreign policy, Department of Defense activities, or military operations, or cause significant embarrassment to the United States, its allies, or the Department of Defense. Such activities are generally handled through special access, compartmented, or other sensitive control mechanisms.
 
 ### Statutory Notes
 
-#### Amendments
-2022—Subsec. (e). Pub. L. 117–263 struck out subsec. (e). Text read as follows: “The prohibitions in subsections (a), (b), and (d) shall expire on January 1, 2026.”
+#### Prior Provisions
+A prior section 130g was renumbered [section 394 of this title](./chapter-019-cyber-and-information-operations-matters.md#section-394).
 
-2021—Subsec. (e). Pub. L. 116–283 substituted “January 1, 2026” for “January 1, 2021”.
+#### Application of Notifications
+Pub. L. 119–60, div. A, title XVI, § 1622(b), Dec. 18, 2025, 139 Stat. 1182, provided that: “The Secretary of Defense shall— “(1) not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], establish the procedures under subsection (c) of [section 130g of title 10](./chapter-003-general-powers-and-functions.md#section-130g), United States Code, as added by subsection (a) of this section; and “(2) not later than 90 days after the date of such establishment, begin making notifications under subsection (b) of such section 130g.”
 
-2018—Subsec. (e). Pub. L. 115–232 substituted “January 1, 2021” for “January 1, 2019”.
 
-2016—Pub. L. 114–328, § 1682(a)(1)(C), added section catchline and struck out former section catchline which read as follows: “Prohibitions on providing certain missile defense information to Russian Federation”.
+<a id="section-130g"></a>
+## § 130g. Notification requirements for waivers issued under Department of Defense guidance related to autonomy in weapon systems
+**(a) In General.—** The Secretary of Defense shall submit to the congressional defense committees written notification of any waiver under Department of Defense Directive 3000.09 (relating to autonomy in weapon systems), or any successor directive, by not later than 30 days after the date on which the waiver is issued.
 
-Subsec. (c). Pub. L. 114–328, § 1081(a)(1), substituted “subsections (a) and (b)” for “subsection (a) and (b)”.
+**(b) Elements.—** Each notification submitted under subsection (a) shall include the following:
 
-Subsec. (d). Pub. L. 114–328, § 1682(a)(1)(B), added subsec. (d). Former subsec. (d) redesignated (e).
+(1) The rationale for the waiver.
 
-Pub. L. 114–328, § 1081(a)(1), substituted “subsections (a) and (b)” for “subsection (a) and (b)”.
+(2) A description of the autonomous weapon system or technology covered by the waiver.
 
-Subsec. (e). Pub. L. 114–328, § 1682(a)(1)(A), (b), redesignated subsec. (d) as (e) and amended it generally. Prior to amendment, text read as follows: “The prohibitions in subsections (a) and (b) shall expire on January 1, 2017.”
+(3) The anticipated duration of the waiver.
 
-#### Certification Required for Russia and China To Tour Certain Missile Defense Sites
-Pub. L. 117–81, div. A, title XVI, § 1667, Dec. 27, 2021, 135 Stat. 2106, provided that: “(a) Certification.—Before the Secretary of Defense makes a determination with respect to allowing a foreign national of Russia or China to tour a covered site, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a certification that—“(1) the Secretary has determined that such tour is in the national security interest of the United States, including the justifications for such determination; and “(2) the Secretary will not share any technical data relating to the covered site with the foreign nationals. “(b) Timing.—The Secretary may not conduct a tour described in subsection (a) until a period of 45 days has elapsed following the date on which the Secretary submits the certification for that tour under such subsection. “(c) Construction With Other Requirements.—Nothing in this section shall be construed to supersede or otherwise affect [section 130h of title 10](./chapter-003-general-powers-and-functions.md#section-130h), United States Code. “(d) Covered Site.—In this section, the term ‘covered site’ means any of the following:“(1) The combat information center of a naval ship equipped with the Aegis ballistic missile defense system. “(2) An Aegis Ashore site. “(3) A terminal high altitude area defense battery. “(4) A ground-based midcourse defense interceptor silo.”
+**(c) Form.—** A notification under subsection (a) shall be submitted in unclassified form, but may include a classified annex, as the Secretary determines necessary.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 130g was renumbered [section 394 of this title](./chapter-019-cyber-and-information-operations-matters.md#section-394).
+
+
+<a id="section-130h"></a>
+## § 130h. Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)(1), Dec. 23, 2024, 138 Stat. 2199]
+
+### Statutory Notes
+
+Section, added Pub. L. 114–92, div. A, title XVI, § 1671(a)(1), Nov. 25, 2015, 129 Stat. 1129; amended Pub. L. 114–328, div. A, title X, § 1081(a)(1), title XVI, § 1682(a)(1), (b), Dec. 23, 2016, 130 Stat. 2417, 2623, 2624; Pub. L. 115–232, div. A, title XVI, § 1678, Aug. 13, 2018, 132 Stat. 2161; Pub. L. 116–283, div. A, title XVI, § 1642, Jan. 1, 2021, 134 Stat. 4062; Pub. L. 117–263, div. A, title XVI, § 1653, Dec. 23, 2022, 136 Stat. 2949, prohibited the Department of Defense from using appropriated funds to provide the Russian Federation with “hit-to-kill” technology and telemetry data for missile defense interceptors or target vehicles and other sensitive missile defense information. See [section 5551 of this title](./chapter-551-missile-defense.md#section-5551).
 
 
 <a id="section-130i"></a>
 ## § 130i. Protection of certain facilities and assets from unmanned aircraft
-**(a) Authority.—** Notwithstanding [section 46502 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section46502&num=0&edition=prelim), or any provision of title 18, the Secretary of Defense may take, and may authorize members of the armed forces and officers and civilian employees of the Department of Defense with assigned duties that include safety, security, or protection of personnel, facilities, or assets, to take, such actions described in subsection (b)(1) that are necessary to mitigate the threat (as defined by the Secretary of Defense, in consultation with the Secretary of Transportation) that an unmanned aircraft system or unmanned aircraft poses to the safety or security of a covered facility or asset.
+**(a) Authority.—** Notwithstanding [section 46502 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section46502&num=0&edition=prelim), or section 32, 1030, or 1367 or chapter 119 or 206 of title 18, the Secretary of Defense may take, and may authorize members of the armed forces and officers, civilian employees, and contractors of the Department of Defense with assigned duties that include safety, security, or protection of personnel, facilities, or assets, to take, such actions described in subsection (b)(1) that are necessary to mitigate the threat (as defined by the Secretary of Defense, in consultation with the Secretary of Transportation) that an unmanned aircraft system or unmanned aircraft poses to the safety or security of a covered facility or asset.
 
 **(b) Actions Described.—**
 
@@ -1838,7 +1858,7 @@ Pub. L. 117–81, div. A, title XVI, § 1667, Dec. 27, 2021, 135 Stat. 2106, pro
 
   (A) Detect, identify, monitor, and track the unmanned aircraft system or unmanned aircraft, without prior consent, including by means of intercept or other access of a wire communication, an oral communication, or an electronic communication used to control the unmanned aircraft system or unmanned aircraft.
 
-  (B) Warn the operator of the unmanned aircraft system or unmanned aircraft, including by passive or active, and direct or indirect physical, electronic, radio, and electromagnetic means.
+  (B) Warn the operator of the unmanned aircraft system or unmanned aircraft, including by passive or active, and direct or indirect physical, electronic, radio, and electromagnetic means, including through the use of remote identification broadcast or other means.
 
   (C) Disrupt control of the unmanned aircraft system or unmanned aircraft, without prior consent, including by disabling the unmanned aircraft system or unmanned aircraft by intercepting, interfering, or causing interference with wire, oral, electronic, or radio communications used to control the unmanned aircraft system or unmanned aircraft.
 
@@ -1850,7 +1870,11 @@ Pub. L. 117–81, div. A, title XVI, § 1667, Dec. 27, 2021, 135 Stat. 2106, pro
 
 (2) The Secretary of Defense shall develop the actions described in paragraph (1) in coordination with the Secretary of Transportation.
 
-**(c) Forfeiture.—** Any unmanned aircraft system or unmanned aircraft described in subsection (a) that is seized by the Secretary of Defense is subject to forfeiture to the United States.
+**(c) Forfeiture.—**
+
+(1) Any unmanned aircraft system or unmanned aircraft described in subsection (a) that is seized by the Secretary of Defense is subject to forfeiture to the United States.
+
+(2) Any forfeiture conducted under paragraph (1) shall be made subject to the requirements for civil, criminal, or administrative forfeiture.
 
 **(d) Regulations and Guidance.—**
 
@@ -1862,31 +1886,55 @@ Pub. L. 117–81, div. A, title XVI, § 1667, Dec. 27, 2021, 135 Stat. 2106, pro
 
   (B) The Secretary of Defense shall coordinate with the Secretary of Transportation and the Administrator of the Federal Aviation Administration before issuing any guidance or otherwise implementing this section if such guidance or implementation might affect aviation safety, civilian aviation and aerospace operations, aircraft airworthiness, or the use of airspace.
 
+  (C) If the Secretary of Transportation notifies the Secretary of Defense that the manner of implementation of this section by the Department of Defense would result in an adverse impact to civil aviation safety, the Secretary of Defense shall consult with the Secretary of Transportation to mitigate adverse impacts.
+
+(3) The Secretary of Defense shall ensure that the regulations prescribed or guidance issued under paragraph (1) require that, when taking an action described in subsection (b)(1), all due consideration is given to—
+
+  (A) mitigating impacts on privacy and civil liberties under the first and fourth amendments to the Constitution of the United States;
+
+  (B) mitigating damage to, or loss of, real and personal property;
+
+  (C) mitigating any risk of personal injury or death; and
+
+  (D) when practicable, obtaining the identification of, or issuing a warning to, the operator of an unmanned aircraft system or unmanned aircraft prior to taking action under subparagraphs (C) through (F) of subsection (b)(1), unless doing so would—
+
+    (i) endanger the safety of members of the armed forces or civilians;
+
+    (ii) create a flight risk or result in the destruction of evidence; or
+
+    (iii) seriously jeopardize an investigation, criminal proceeding, or legal proceeding pursuant to subsection (c).
+
 **(e) Privacy Protection.—** The regulations prescribed or guidance issued under subsection (d) shall ensure that—
 
-(1) the interception or acquisition of, or access to, communications to or from an unmanned aircraft system under this section is conducted in a manner consistent with the fourth amendment to the Constitution and applicable provisions of Federal law;
+(1) the interception, acquisition, maintenance, or use of, or access to, communications to or from an unmanned aircraft system under this section is conducted in a manner consistent with the first and fourth amendments to the Constitution and applicable provisions of Federal law;
 
-(2) communications to or from an unmanned aircraft system are intercepted, acquired, or accessed only to the extent necessary to support a function of the Department of Defense;
+(2) communications to or from an unmanned aircraft system are intercepted, acquired, or accessed only to the extent necessary to support an action described in subsection (b)(1);
 
-(3) records of such communications are not maintained for more than 180 days unless the Secretary of Defense determines that maintenance of such records—
+(3) records of such communications are maintained only for as long as necessary, and in no event maintained for more than 180 days unless the Secretary of Defense determines that maintenance of such records—
 
-  (A) is necessary to support one or more functions of the Department of Defense; or
+  (A) is necessary to investigate or prosecute a violation of law or to directly support an ongoing security operation; or
 
-  (B) is required for a longer period to support a civilian law enforcement agency or by any other applicable law or regulation; and
+  (B) is required under Federal law or for the purpose of any litigation; and
 
 (4) such communications are not disclosed outside the Department of Defense unless the disclosure—
 
-  (A) would fulfill a function of the Department of Defense;
+  (A) is necessary to support an ongoing action described in subsection (b)(1);
 
-  (B) would support a civilian law enforcement agency or the enforcement activities of a regulatory agency of the Federal Government in connection with a criminal or civil investigation of, or any regulatory action with regard to, an action described in subsection (b)(1); or
+  (B) would support a civilian law enforcement agency or the enforcement activities of a regulatory agency of the Federal Government in connection with a criminal or civil investigation of, or any regulatory action with regard to, an action described in subsection (b)(1);
 
-  (C) is otherwise required by law or regulation.
+  (C) is necessary to support the counter-unmanned aircraft systems activities of another Federal agency with authority to mitigate the threat of unmanned aircraft systems or unmanned aircraft in mitigating such threats; or
 
-**(f) Budget.—** The Secretary of Defense shall submit to Congress, as a part of the defense budget materials for each fiscal year after fiscal year 2018, a consolidated funding display that identifies the funding source for the actions described in subsection (b)(1) within the Department of Defense. The funding display shall be in unclassified form, but may contain a classified annex.
+  (D) is otherwise required by law or regulation.
 
-**(g) Semiannual Briefings.—**
+**(f) Claims.—** Claims for loss of property, injury, or death pursuant to actions under subsection (b) may be made consistent with chapter 171 of title 28, and chapter 163 of this title, as applicable.
 
-(1) On a semiannual basis during the five-year period beginning March 1, 2018, the Secretary of Defense and the Secretary of Transportation, shall jointly provide a briefing to the appropriate congressional committees on the activities carried out pursuant to this section. Such briefings shall include—
+**(g) Budget.—** The Secretary of Defense shall submit to Congress, as a part of the defense budget materials for each fiscal year after fiscal year 2018, a consolidated funding display that identifies the funding source for the actions described in subsection (b)(1) within the Department of Defense. The funding display shall be in unclassified form, but may contain a classified annex.
+
+**(h) Semiannual Reports.—**
+
+(1) On a semiannual basis during the five-year period beginning March 1, 2026, the Secretary of Defense shall submit to the appropriate congressional committees and publish on a publicly available website a report summarizing all detection and mitigation activities conducted under this section during the previous year to counter unmanned aircraft systems.
+
+(2) Each report under paragraph (1) shall include—
 
   (A) policies, programs, and procedures to mitigate or eliminate impacts of such activities to the National Airspace System;
 
@@ -1896,21 +1944,61 @@ Pub. L. 117–81, div. A, title XVI, § 1667, Dec. 27, 2021, 135 Stat. 2106, pro
 
   (D) how the Secretaries have engaged with Federal, State, and local law enforcement agencies to implement and use such authorities.
 
-(2) Each briefing under paragraph (1) shall be in unclassified form, but may be accompanied by an additional classified briefing.
+(3) Each briefing under paragraph (1) shall be in unclassified form, and shall be accompanied by an additional classified briefing.
 
-**(h) Rule of Construction.—** Nothing in this section may be construed to—
+**(i) Briefing, Report, and Publication.—**
+
+(1) Not later than 180 days after the date of the enactment of this subsection, and annually thereafter, the Secretary of Defense shall submit to the appropriate congressional committees and publish on a publicly available website a report summarizing all detection and mitigation activities conducted under this section during the previous year to counter unmanned aircraft systems.
+
+(2) Each report under paragraph (1) shall include—
+
+  (A) information on any violation of, or failure to comply with, the privacy and civil liberties protections referenced in this section by personnel authorized to conduct detection and mitigation activities, including a description of any such violation or failure;
+
+  (B) data on the number of detection activities conducted, the number of mitigation activities conducted, and the number of instances of communications interception from an unmanned aircraft system;
+
+  (C) whether any unmanned aircraft that experienced mitigation was engaged in or attempting to engage in activities protected under the first amendment to the Constitution if such intent is readily and reasonably ascertainable;
+
+  (D) whether any unmanned aircraft or unmanned aircraft system was properly or improperly seized, disabled, damaged, or destroyed and an identification of any methods used to seize, disable, damage, or destroy such aircraft or system; and
+
+  (E) a description of the efforts of the Federal Government to protect privacy and civil liberties when carrying out detection and mitigation activities under this section to counter unmanned aircraft systems.
+
+(3) Each report required under paragraph (1) shall be submitted and published in unclassified form, but may include a classified annex.
+
+**(j) Rule of Construction.—** Nothing in this section may be construed to—
 
 (1) vest in the Secretary of Defense any authority of the Secretary of Transportation or the Administrator of the Federal Aviation Administration under title 49; and
 
 (2) vest in the Secretary of Transportation or the Administrator of the Federal Aviation Administration any authority of the Secretary of Defense under this title.
 
-**(i) Partial Termination.—**
+**(k) Interagency Executive Committees on Execution of Department of Defense Counter Unmanned Aviation Authority.—**
 
-(1) Except as provided by paragraph (2), the authority to carry out this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3)(C) shall terminate on December 31, 2026.
+(1) The Secretary of Defense, the Attorney General, and the Administrator of the Federal Aviation Administration shall jointly establish by memorandum of understanding an interagency executive committee (referred to in this subsection as the “executive committee”), for the purpose of exchanging views, information, and advice relating to the execution of this section.
 
-(2) The President may extend by 180 days the termination date specified in paragraph (1) if before November 15, 2026, the President certifies to Congress that such extension is in the national security interests of the United States.
+(2) The memorandum of understanding entered into under paragraph (1) shall include—
 
-**(j) Definitions.—** In this section:
+  (A) a description of the officials and other individuals to be invited to participate as members in the executive committee;
+
+  (B) a procedure for creating a forum to carry out the purpose described in paragraph (1);
+
+  (C) a procedure for rotating the Chairperson and meeting location of the executive committee; and
+
+  (D) a procedure for scheduling regular meetings of the executive committee no fewer than three times each calendar year.
+
+**(l) Additional Annual Report.—** Not later than April 1 of each year this section is in force, the Secretary of Defense shall submit to the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate a report containing—
+
+(1) a summary of the use of activities described in subsection (b);
+
+(2) an identification of additional missions of the Department of Defense for which the actions described in subsection (b)(1) are appropriate, as identified by the Secretary and including the specific list of facilities, installations, or assets, if any, that would be included if protections described in subsection (b)(1) were extended to facilities associated with the missions in such report;
+
+(3) an updated copy of the memorandum of understanding required by subsection (k);
+
+(4) a summary of actions taken by the interagency executive committee required by subsection (k);
+
+(5) a summary of recommendations produced by each member of the interagency executive committee required by subsection (k), disaggregated by department or agency; and
+
+(6) a summary of actions taken as a result of meetings or decisions taken by the interagency executive committee required by subsection (k) to change procedures, regulations, guidelines, or other governing instruction of the Department of Defense relating to the use of authority provided by this section.
+
+**(m) Definitions.—** In this section:
 
 (1) The term “appropriate congressional committees” means—
 
@@ -1922,44 +2010,110 @@ Pub. L. 117–81, div. A, title XVI, § 1667, Dec. 27, 2021, 135 Stat. 2106, pro
 
 (2) The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim).
 
-(3) The term “covered facility or asset” means any facility or asset that—
+(3) The term “contractor” means a person who—
 
-  (A) is identified by the Secretary of Defense, in consultation with the Secretary of Transportation with respect to potentially impacted airspace, through a risk-based assessment for purposes of this section;
+  (A) performs functions that support or carry out actions authorized in this section pursuant to a contract or subcontract entered into with an entity of the Department of Defense; and
 
-  (B) is located in the United States (including the territories and possessions of the United States); and
+  (B) has completed training for the counter-unmanned aircraft system the person will use in performance of such functions, as certified by the Secretary of Defense.
 
-  (C) directly relates to the missions of the Department of Defense pertaining to—
+(4) The term “covered facility or asset—” 11 So in original.
 
-    (i) nuclear deterrence, including with respect to nuclear command and control, integrated tactical warning and attack assessment, and continuity of government;
+  (A) means any facility or asset that—
 
-    (ii) missile defense;
+    (i) is identified by the Secretary of Defense, in consultation with the Secretary of Transportation with respect to potentially impacted airspace, through a risk-based assessment for purposes of this section;
 
-    (iii) national security space;
+    (ii) is located in the United States (including the territories and possessions of the United States); and
 
-    (iv) assistance in protecting the President or the Vice President (or other officer immediately next in order of succession to the office of the President) pursuant to the Presidential Protection Assistance Act of 1976 ([18 U.S.C. 3056](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056&num=0&edition=prelim) note);
+    (iii) directly relates to the missions of the Department of Defense pertaining to—
 
-    (v) air defense of the United States, including air sovereignty, ground-based air defense, and the National Capital Region integrated air defense system;
+      (I) nuclear deterrence, including with respect to nuclear command and control, integrated tactical warning and attack assessment, and continuity of government;
 
-    (vi) combat support agencies (as defined in paragraphs (1) through (4) of [section 193(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section193/f&num=0&edition=prelim));
+      (II) missile defense;
 
-    (vii) special operations activities specified in paragraphs (1) through (9) of [section 167(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section167/k&num=0&edition=prelim);
+      (III) national security space;
 
-    (viii) production, storage, transportation, or decommissioning of high-yield explosive munitions, by the Department; or
+      (IV) assistance in protecting the President or the Vice President (or other officer immediately next in order of succession to the office of the President) pursuant to the Presidential Protection Assistance Act of 1976 ([18 U.S.C. 3056](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056&num=0&edition=prelim) note);
 
-    (ix) a Major Range and Test Facility Base (as defined in sections 11 So in original. Probably should be “section”. 4173(i) of this title).
+      (V) air defense of the United States, including air sovereignty, ground-based air defense, and the National Capital Region integrated air defense system;
 
-(4) The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
+      (VI) combat support agencies (as defined in paragraphs (1) through (4) of [section 193(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section193/f&num=0&edition=prelim));
 
-(5) The terms “electronic communication”, “intercept”, “oral communication”, and “wire communication” have the meanings given those terms in [section 2510 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2510&num=0&edition=prelim).
+      (VII) special operations activities specified in paragraphs (1) through (9) of [section 167(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section167/k&num=0&edition=prelim);
 
-(6) The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim).
+      (VIII) production, storage, transportation, or decommissioning of high-yield explosive munitions, by the Department;
+
+      (IX) a Major Range and Test Facility Base (as defined in [section 4173 of this title](./chapter-307-test-and-evaluation.md#section-4173));
+
+      (X) the physical security of other installations or property owned, leased, or operated by the Department of Defense to which the public is not permitted regular, unrestricted access, determined by the Secretary on a site by site basis to be critical to the national defense and certified as such to the Secretary of Transportation, the Attorney General, and the appropriate congressional committees; or
+
+      (XI) assistance to Federal, State, or local officials in responding to incidents involving nuclear, radiological, biological, or chemical weapons, high-yield explosives, or related materials or technologies, as well as support pursuant to [section 282 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-282); and
+
+  (B) includes any persons physically present at any such facility or asset.
+
+(5) The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
+
+(6) The terms “electronic communication”, “intercept”, “oral communication”, and “wire communication” have the meanings given those terms in [section 2510 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2510&num=0&edition=prelim).
+
+(7) The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim).
+
+**(n) Termination.—** The authority to carry out this section shall terminate on December 31, 2030.
 
 ### Statutory Notes
 
 #### References in Text
-The Presidential Protection Assistance Act of 1976, referred to in subsec. (j)(3)(C)(iv), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under [section 3056 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056&num=0&edition=prelim), Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
+The date of the enactment of this subsection, referred to in subsec. (i), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
+
+The Presidential Protection Assistance Act of 1976, referred to in subsec. (m)(4)(A)(iii)(IV), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under [section 3056 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056&num=0&edition=prelim), Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 1707(1), substituted “section 32, 1030, or 1367 or chapter 119 or 206 of title 18” for “any provision of title 18” and a comma for “and” after “officers”, and inserted “, and contractors” after “civilian employees”.
+
+Subsec. (b)(1)(B). Pub. L. 119–60, § 1707(2), inserted “, including through the use of remote identification broadcast or other means” after “electromagnetic means”.
+
+Subsec. (c). Pub. L. 119–60, § 1707(3), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (d)(2)(C). Pub. L. 119–60, § 1707(4)(A), added subpar. (C).
+
+Subsec. (d)(3). Pub. L. 119–60, § 1707(4)(B), added par. (3).
+
+Subsec. (e)(1). Pub. L. 119–60, § 1707(5)(A), substituted a comma for “or” before “acquisition” and “amendments” for “amendment”, and inserted “, maintenance, or use” after “acquisition” and “first and” before “fourth”.
+
+Subsec. (e)(2). Pub. L. 119–60, § 1707(5)(B), substituted “an action described in subsection (b)(1)” for “a function of the Department of Defense”.
+
+Subsec. (e)(3). Pub. L. 119–60, § 1707(5)(C)(i), in introductory provisions, substituted “maintained only for as long as necessary, and in no event maintained” for “not maintained”.
+
+Subsec. (e)(3)(A). Pub. L. 119–60, § 1707(5)(C)(ii), substituted “investigate or prosecute a violation of law or to directly support an ongoing security operation” for “support one or more functions of the Department of Defense”.
+
+Subsec. (e)(3)(B). Pub. L. 119–60, § 1707(5)(C)(iii), substituted “under Federal law or for the purpose of any litigation” for “for a longer period to support a civilian law enforcement agency or by any other applicable law or regulation”.
+
+Subsec. (e)(4)(A). Pub. L. 119–60, § 1707(6)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “would fulfill a function of the Department of Defense;”.
+
+Subsec. (e)(4)(C), (D). Pub. L. 119–60, § 1707(6)(B)–(D), added subpar. (C) and redesignated former subpar. (C) as (D).
+
+Subsecs. (f), (g). Pub. L. 119–60, § 1707(10), (11), added subsec. (f) and redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 119–60, § 1707(12)(A), substituted “Reports” for “Briefings” in heading.
+
+Pub. L. 119–60, § 1707(10), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (j).
+
+Subsec. (h)(1) to (3). Pub. L. 119–60, § 1707(12)(B)–(D), substituted “2026” for “2018” and “shall submit to the appropriate congressional committees and publish on a publicly available website a report summarizing all detection and mitigation activities conducted under this section during the previous year to counter unmanned aircraft systems.” for “and the Secretary of Transportation, shall jointly provide a briefing to the appropriate congressional committees on the activities carried out pursuant to this section. Such briefings shall include—”; inserted “(2) Each report under paragraph (1) shall include—” before subpar. (A); redesignated former par. (2) as (3); and, in par. (3) as redesignated, substituted “and shall” for “but may”.
+
+Subsec. (i). Pub. L. 119–60, § 1707(8), (13), added subsec. (i) and struck out former subsec. (i), which terminated, on Dec. 31, 2026, authority to carry out this section with respect to certain covered facilities or assets.
+
+Subsec. (j). Pub. L. 119–60, § 1707(9), redesignated subsec. (h) as (j). Former subsec. (j) redesignated (m).
+
+Subsecs. (k), (l). Pub. L. 119–60, § 1707(14), added subsecs. (k) and (l).
+
+Subsec. (m). Pub. L. 119–60, § 1707(15), which directed amendment of “subsection (m)(3)” of this section, as redesignated by Pub. L. 119–60, § 1707(7), was executed by making the following amendments to subsec. (m) as redesignated by Pub. L. 119–60, § 1707(7), to reflect the probable intent of Congress: adding par. (3); redesignating former pars. (3) to (6) as (4) to (7), respectively; and, in par. (4) as so redesignated, substituting “covered facility or asset—” for “ ‘covered facility or asset’ means any facility or asset that—” in introductory provisions, redesignating subpars. (A) to (C) as cls. (i) to (iii), respectively, inserting “(A) means any facility or asset that—” before cl. (i), as so redesignated, redesignating cls. (i) to (ix) of former subpar. (C) as subcls. (I) to (IX), respectively, of cl. (iii) and adding subcl. (X) at end of cl. (iii), and adding subpar. (B).
+
+Pub. L. 119–60, § 1707(7), redesignated subsec. (j) as (m).
+
+Subsec. (n). Pub. L. 119–60, § 1707(16), added subsec. (n).
+
+2024—Subsec. (j)(3)(C)(ix). Pub. L. 118–159, § 2871(c)(1), which directed substitution of “section 4173” for “sections 4173(i)”, was executed by making the substitution for “section 4173(i)”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 118–159, § 1701(a)(2). See below and see section 1701(h) of Pub. L. 118–159, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
+
+Pub. L. 118–159, § 1701(a)(2), substituted “section” for “sections”.
+
 2023—Subsec. (i). Pub. L. 118–31 substituted “2026” for “2023” in pars. (1) and (2).
 
 2021—Subsec. (i)(1). Pub. L. 116–283, § 1081(a)(8)(A), substituted “of subsection (j)(3)(C) shall” for “of subsection (j)(3)(C) shall”, resulting in no change in text. See 2019 Amendment notes and Coordination of Amendments by Pub. L. 116–92 note below.
@@ -1982,6 +2136,18 @@ Pub. L. 116–92, § 1694(b)(2), substituted “in [section 44801 of title 49](h
 
 #### Effective Date of 2021 Amendment
 Amendment by section 1845(c)(4) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Pilot Program on Enhanced Use of Advanced Sensor Networks To Improve Air Force Counter-Unmanned Aircraft System Capabilities for Base Defense
+Pub. L. 119–60, div. A, title X, § 1088, Dec. 18, 2025, 139 Stat. 1059, provided that: “(a) Establishment.—Beginning not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of the Air Force, in coordination with the Director of the Joint Interagency Task Force 401 established under [section 199 of title 10](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-199), United States Code, as added by section 912, and in consultation with the Administrator of the Federal Aviation Administration, shall carry out a pilot program, to be known as the ‘Enhancing Cooperation for Counter-Unmanned Aircraft Systems Program’, under which the Secretary shall incorporate the use of civilian civil airspace sensor networks into Air Force data processing systems to—“(1) improve base defense against small unmanned aircraft systems (in this section referred to as ‘sUAS’); “(2) inform the development of counter-unmanned aircraft system capabilities that are suitable for use inside the United States and in the National Airspace System; and “(3) enhance cooperation with law enforcement, State and local partners, and other Federal departments and agencies to counter domestic threats. “(b) Locations.—The Secretary, in coordination with the Director and in consultation with the Administrator, shall select at least two military installations located in the United States at which to conduct the pilot program. In selecting such military installations, the Secretary shall consider the potential for the Air Force to—“(1) access advanced civilian airspace sensor networks; “(2) leverage public-private partnerships that enable multi-use of airspace awareness capabilities for public safety, defense of critical infrastructure to include Department of Defense installations, and protection of civil aviation; and “(3) minimize the potential for negatively affecting civil aircraft operations in the National Airspace System. “(c) Objectives.—The objectives of the pilot program are—“(1) to provide the Air Force with access to air space awareness data derived from civilian airspace sensor networks to increase the situational awareness of Air Force bases; “(2) to determine any authority, capability, and capacity barriers to enhancing cooperation between the Air Force, civilian partners, and other Federal, State, and local government entities to extend the over-the-horizon identification of potential sUAS threats beyond the current range of existing domestic base defense systems; and “(3) to improve the data-sharing frameworks for airspace data between the Air Force and various stakeholders for the purpose of base defense. “(d) Contract Authority.—In carrying out the pilot program, the Secretary of the Air Force may enter into one or more contracts for the procurement of additional technologies capable of—“(1) leveraging commercial or Government off-the-shelf detect-track-defeat systems; “(2) integrating and using civilian airspace awareness data to serve as an early warning capability specifically to help identify and monitor non-compliant sUAS; and “(3) informing appropriate communication mechanisms between military installations and local law enforcement agencies to report and track non-compliant air vehicles, deter incursions, and foster potential prosecution. “(e) Briefings.—Not later than 90 days after the conclusion of all activities carried out under the pilot program at an installation selected for such program, the Secretary shall provide to the appropriate congressional committees a briefing that includes a description of—“(1) the manner in which the program was conducted at such installation; and “(2) any results achieved under the program at such installation. “(f) Termination.—“(1) In general.—The authority to carry out a pilot program under this section shall terminate on the date that is five years after the date of the enactment of this Act. “(2) Early termination option.—The Secretary of the Air Force may request the termination of the pilot program before the date specified in paragraph (1) if the Secretary—“(A) determines that administrative, legal, performance, or other factors indicate the program will not be successful; and “(B) submits to the appropriate congressional committees notice in writing of such determination. “(g) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the Committee on Armed Services and the Committee on Transportation and Infrastructure of the House of Representatives; and “(2) the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate.”
+
+#### Pilot Program and Other Requirements for Accelerating Protection of Certain Facilities and Assets From Unmanned Aircraft
+Pub. L. 119–60, div. A, title X, § 1089, Dec. 18, 2025, 139 Stat. 1060, provided that: “(a) Requirements.—Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense, acting through the Joint Interagency Task Force 401 established under [section 199 of title 10](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-199), United States Code, as added by section 912, shall ensure that for each covered facility or asset at which the Secretary has determined counter-UAS operations are necessary to mitigate the threat that an unmanned aircraft system poses to the safety or security of such covered facility or asset—“(1) any administrative action required for the effective use of the authorities under [section 130i of title 10](./chapter-003-general-powers-and-functions.md#section-130i), United States Code, for the protection of the covered facility or asset not contingent upon action by another Federal department or agency has been completed, including the establishment of appropriate policies for the training of relevant personnel upon the deployment of new counter-UAS systems, annual training, and training for newly assigned personnel; “(2) any such training required for the safe or effective use of counter-UAS systems for such protection has been completed; and “(3) planning to deploy and sustain systems similar to those procured pursuant to the pilot program under subsection (b) in a manner appropriate for the covered facility or asset has commenced. “(b) Pilot Program for Deployment of Certain Counter-UAS Systems.—“(1) Pilot program.—The Secretary, acting through the Joint Interagency Task Force 401 established under [section 199 of title 10](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-199), United States Code, as added by section 912, and in coordination with the Administrator as required by [section 130i of title 10](./chapter-003-general-powers-and-functions.md#section-130i), United States Code, shall carry out a pilot program for the deployment of covered counter-UAS systems to expeditiously demonstrate enhanced protective capabilities for certain covered facilities or assets (in this subsection, referred to as the ‘pilot program’). “(2) Elements.—Under the pilot program, the Secretary shall—“(A) not later than 180 days after the date of the enactment of this Act, select and procure covered counter-UAS systems for deployment for the protection of at least four covered facilities or assets identified for purposes of the pilot program; “(B) not later than 240 days after the date of the enactment of this Act submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on any delays caused by interagency coordination requirements, particularly delays related to site surveys by other agencies; and “(C) not later than one year after the date of the enactment of this Act, ensure such covered counter-UAS systems are so deployed with respect to each such identified covered facility or asset. “(c) Coordination Required.—The Secretary shall carry out this section consistent with the requirements of [section 130i of title 10](./chapter-003-general-powers-and-functions.md#section-130i), United States Code. “(d) Briefings.—Not later than 60 days after the date of the enactment of this Act, and every 60 days thereafter until the date on which each requirement under this section is complete, the Secretary, in consultation with the Administrator, shall provide to the congressional defense committees and the Committee on Transportation and Infrastructure of the House of Representatives a briefing on the implementation of this section. “(e) Definitions.—In this section:“(1) The term ‘Administrator’ means the Administrator of the Federal Aviation Administration. “(2) The terms ‘counter-UAS system’ and ‘small unmanned aircraft’ have the meanings given those terms in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim), United States Code. “(3) The term ‘covered counter-UAS system’ means a counter-UAS system that—“(A) is capable of destroying or disabling a small unmanned aircraft by means of high-powered microwave, laser, or other similar technology; and “(B) may be integrated with appropriate sensing and command-and-control systems. “(4) The term ‘covered facility or asset’ means a facility or asset with respect to which there is authority to carry out [section 130i of title 10](./chapter-003-general-powers-and-functions.md#section-130i), United States Code, for the protection of the facility or asset. “(5) The term ‘unmanned aircraft’ has the meaning given such term in [section 130i(j) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section130i/j&num=0&edition=prelim), United States Code [now [10 U.S.C. 130i(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section130i/m&num=0&edition=prelim)].”
+
+#### Counter Unmanned Aerial System Threat Library
+Pub. L. 118–159, div. A, title III, § 353, Dec. 23, 2024, 138 Stat. 1858, as amended by Pub. L. 119–60, div. A, title IX, § 912(d), Dec. 18, 2025, 139 Stat. 1018, provided that: “(a) In General.—Not later than June 30, 2027, the Director of the Joint Interagency Task Force 401 shall establish and maintain a threat library, or expand and maintain an existing threat library, to coordinate efforts across the Department of Defense to counter unmanned aircraft systems. “(b) Information To Be Included.—The threat library required under subsection (a) shall include—“(1) classified and unclassified information relating to known or suspected threats from unmanned aircraft systems; “(2) proposed solutions for countering such known threats; and “(3) a comprehensive listing of global incursions from unmanned aircraft systems at installations of the Department of Defense. “(c) Dissemination.—The Director of the Joint Interagency Task Force 401 shall establish a framework to share the information contained in the threat library required under subsection (a) with the military departments, the combatant commands, other Federal agencies, and relevant industries, as determined by the Director, in order to maintain technological superiority in aerial defense.”
+
+#### Counter Unmanned Aerial Systems Task Force
+Pub. L. 118–159, div. A, title IX, § 925, Dec. 23, 2024, 138 Stat. 2041, provided that: “(a) In General.—Not later than 30 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall establish, or designate from existing organizations and personnel of the Department of Defense, a counter unmanned aerial systems task force, to be known as the ‘C-UAS Task Force’. “(b) Review of Memoranda and Directives.—“(1) In general.—Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, acting through the C-UAS Task Force, shall review and, if necessary, consolidate and update all Department of Defense memoranda and directives related to the countering of unmanned aircraft systems in United States airspace to provide clarity to and an expedited decision-making process for commanders with respect to effectively countering unmanned aircraft systems or unmanned aircraft incursions at military installations in the United States. “(2) Included memoranda and directives.—The memoranda and directives required to be reviewed and, if necessary, consolidated and updated under paragraph (1) include the following:“(A) The Counter-Small Unmanned Aircraft Systems Strategy of the Department of Defense, dated January 7, 2021. “(B) The Deputy Secretary of Defense Memorandum entitled ‘Risk-based Assessment in Support of Counter-Unmanned Aircraft Activities to Protect DOD Facilities and Assets’ and dated May 7, 2020. “(C) Deputy Secretary of Defense Policy Memorandum 16–003, entitled ‘Interim Guidance for Countering Unmanned Aircraft’ and dated August 18, 2016. “(D) Deputy Secretary of Defense Policy Memorandum 17–00X, entitled ‘Supplemental Guidance for Countering Unmanned Aircraft’ and dated July 5, 2017. “(E) Chairman of the Joint Chiefs of Staff Notice 3124, entitled ‘Interim Guidance for Countering Unmanned Aircraft’ and dated February 8, 2017. “(F) Other related general administrative notices of the Joint Staff. “(G) Any other associated memoranda or directives of the Department of Defense relating to unmanned aircraft systems, as the Secretary of Defense and the Chairman of the Joint Chiefs of Staff determine necessary. “(c) Issuance of Updated Guidance.—“(1) In general.—Not later than 120 days after the date of the enactment of this Act, the Secretary of Defense shall issue new memoranda, directives, and guidance related to authorities to counter unmanned aircraft systems. “(2) Dissemination to installation commanders.—The Secretary of Defense shall ensure that memoranda, directives, and guidance issued under paragraph (1), and any subsequent memoranda, directives and guidance, are included in pre-briefings for any officers that assume command of a military installation in the United States on or after July 1, 2025. “(3) Standard operating procedures for military installations.—“(A) In general.—Not later than 60 days after the issuance of the memoranda, directives, and guidance required by paragraph (1), each commander of a military installation shall issue operating procedures specific to their military installation for countering unmanned aircraft systems at the installation. “(B) Extension during changes in command.—If there is a change of command of a military installation during the 60-day period described in subparagraph (A), the incoming commander of the installation shall issue operating procedures specific to their military installation required by that subparagraph not later than 60 days after receiving the pre-briefing described in paragraph (2). “(d) Report on Existing Training Efforts.—Not later than 120 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the counter-unmanned aircraft systems training efforts of the Department of Defense in effect as of the date of the enactment of this Act. The report shall include—“(1) a description of any training that is commonly provided to members of the Armed Forces on countering threats posed by unmanned aircraft systems; and “(2) a summary of the training curriculum that is provided for installation commanders and deployed forces to counter unmanned aircraft systems.”
 
 #### Assessment and Strategy for Fielding Capabilities To Counter Threats Posed by Unmanned Aerial System Swarms
 Pub. L. 117–263, div. A, title I, § 162, Dec. 23, 2022, 136 Stat. 2462, provided that: “(a) Assessment, Analysis, and Review.—The Secretary of Defense shall conduct—“(1) an assessment of the threats posed by unmanned aerial system swarms and unmanned aerial systems with swarm capabilities to installations and deployed Armed Forces; “(2) an analysis of the use or potential use of unmanned aerial system swarms by adversaries, including the People’s Republic of China, the Russian Federation, the Islamic Republic of Iran, the Democratic People’s Republic of North Korea, and non-state actors; “(3) an analysis of the national security implications of swarming technologies such as autonomous intelligence and machine learning; “(4) a review of the capabilities used by the Department of Defense to counter threats posed by unmanned aerial systems and an assessment of the effectiveness of such capabilities at countering the threat of unmanned aerial system swarms; and “(5) an overview of the efforts of the Department of Defense to develop and field test technologies that offer scalable, modular, and rapidly deployable capabilities with the ability to counter unmanned aerial system swarms. “(b) Strategy Development and Implementation Required.—“(1) In general.—The Secretary of Defense shall develop and implement a strategy to field capabilities to counter threats posed by unmanned aerial system swarms. “(2) Elements.—The strategy required by paragraph (1) shall include the following:“(A) The development of a comprehensive definition of ‘unmanned aerial system swarm’. “(B) A plan to establish and incorporate requirements for the development, testing, and fielding of technologies and capabilities to counter unmanned aerial system swarms. “(C) A plan to acquire and field adequate capabilities to counter unmanned aerial system swarms in defense of the Armed Forces, infrastructure, and other assets of the United States across land, air, and maritime domains. “(D) An estimate of the resources needed by each Armed Force to implement the strategy. “(E) An analysis, determination, and prioritization of legislative action required to ensure the Department of Defense has the ability to counter the threats posed by unmanned aerial system swarms. “(F) Such other matters as the Secretary determines to be relevant to the strategy. “(3) Incorporation into existing strategy.—The Secretary of Defense may incorporate the strategy required by paragraph (1) into a comprehensive strategy of the Department of Defense to counter the threat of unmanned aerial systems. “(c) Information to Congress.—Not later than 270 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on—“(1) the findings of the Secretary under subsection (a); and “(2) the strategy developed and implemented by the Secretary under subsection (b).”

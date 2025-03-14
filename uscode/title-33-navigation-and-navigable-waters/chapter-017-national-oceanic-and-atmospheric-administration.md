@@ -1532,60 +1532,92 @@ For short title of this subchapter as the “NOAA Fleet Modernization Act”, se
 
 
 <a id="section-891a"></a>
-## § 891a. Fleet replacement and modernization program
+## § 891a. Operation and maintenance of NOAA fleet
 
-The Secretary is authorized to implement, subject to the requirements of this subchapter, a 15-year program to replace and modernize the NOAA fleet.
+The Secretary, acting through the Assistant Administrator of NOAA for Marine and Aviation Operations, shall operate and maintain a fleet of vessels to meet the requirements of NOAA in carrying out the mission and functions of NOAA, subject to the requirements of this subchapter.
 
 ### Statutory Notes
 
-#### References in Text
-This subchapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”, meaning title VI of Pub. L. 102–567, which enacted this subchapter, to reflect the probable intent of Congress.
+#### Amendments
+2025—Pub. L. 119–60 substituted “Operation and maintenance of NOAA fleet” for “Fleet replacement and modernization program” in section catchline and “, acting through the Assistant Administrator of NOAA for Marine and Aviation Operations, shall operate and maintain a fleet of vessels to meet the requirements of NOAA in carrying out the mission and functions of NOAA, subject to the requirements of this subchapter.” for “is authorized to implement, subject to the requirements of this subchapter, a 15-year program to replace and modernize the NOAA fleet.” in text.
 
 
 <a id="section-891b"></a>
 ## § 891b. Fleet replacement and modernization Plan
-**(a) In general** To carry out the program authorized in [section 891a of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-891a), the Secretary shall develop and submit to Congress a replacement and modernization Plan for the NOAA fleet covering the years authorized under [section 891h of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-891h).
+**(a) In general** To carry out the program authorized in [section 891a of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-891a), the Secretary, acting through the Assistant Administrator of NOAA for Marine and Aviation Operations, shall develop and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives a replacement and modernization plan for the NOAA fleet not later than 180 days after December 18, 2025, and every 2 years thereafter.
 
-**(b) Timing** The Plan required in subsection (a) shall be submitted to Congress within 30 days of October 29, 1992, and updated on an annual basis.
+**(b) Plan elements** The Plan required in subsection (a) shall include the following—
 
-**(c) Plan elements** The Plan required in subsection (a) shall include the following—
+(1) the number of vessels in operation in the NOAA fleet as of the date of submission of the Plan, a description of the status of those vessels, and a statement of the planned and anticipated service life of those vessels;
 
-(1) the number of vessels proposed to be modernized or replaced, the schedule for their modernization or replacement, and anticipated funding requirements;
+(2) a plan with respect to operation, maintenance, and replacement of vessels described in paragraph (1), including the schedule for maintenance or replacement and anticipated funding requirements;
 
-(2) the number of vessels proposed to be constructed, leased, or chartered;
+(3) the number of vessels proposed to be constructed by NOAA;
 
-(3) the number of vessels, or days at sea, that can be obtained by using the vessels of the UNOLS;
+(4) the number of vessels proposed to be acquired, leased, or chartered by NOAA;
 
-(4) the number of vessels that will be made available to NOAA by the Secretary of the Navy, or any other federal 11 So in original. Probably should be capitalized. official, and the terms and conditions for their availability;
+(5) the number of vessels, or days at sea, that can be obtained by using the vessels of the UNOLS;
 
-(5) the proposed acquisition of modern scientific instrumentation for the NOAA fleet, including acoustic systems, data transmission positioning and communication systems, physical, chemical, and meteorological oceanographic systems, and data acquisition and processing systems; and
+(6) the number of vessels that will be made available to NOAA by the Secretary of the Navy, the Director of the National Science Foundation, or any other Federal official, and the terms and conditions for the availability of those vessels;
 
-(6) the appropriate role of the NOAA Corps in operating and maintaining the NOAA fleet.
+(7) the proposed acquisition of modern scientific instrumentation for the NOAA fleet, including acoustic systems, data transmission positioning and communication systems, physical, chemical, and meteorological oceanographic systems, and data acquisition and processing systems;
 
-**(d) Contracting limitation** The Secretary may not enter into any contract for the construction, lease, or service life extension of a vessel of the NOAA fleet before the date of the submission to Congress of the Plan required in subsection (a).
+(8) a plan for using small vessels, uncrewed systems, and partnerships to augment the requirements of NOAA for days at sea;
+
+(9) the number of officers of the NOAA commissioned officer corps and professional wage mariners needed to operate and maintain the NOAA fleet, including the vessels identified under paragraph (3); and
+
+(10) current and potential challenges with meeting the requirements under paragraph (9) and proposed solutions to those challenges.
+
+**(c) Vessel procurement approval** The National Oceanic and Atmospheric Administration may not procure vessels that are more than 65 feet in length without the approval of the Assistant Administrator of NOAA for Marine and Aviation Operations.
 
 ### Statutory Notes
 
+#### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 8402(a)(2)(A), substituted “Secretary, acting through the Assistant Administrator of NOAA for Marine and Aviation Operations, shall develop and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives a replacement and modernization plan for the NOAA fleet not later than 180 days after December 19, 2025, and every 2 years thereafter.” for “Secretary shall develop and submit to Congress a replacement and modernization Plan for the NOAA fleet covering the years authorized under [section 891h of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-891h).”
+
+Subsec. (b). Pub. L. 119–60, § 8402(a)(2)(C), redesignated subsec. (c) as (b).
+
+Pub. L. 119–60, § 8402(a)(2)(B), struck out subsec. (b). Text read as follows: “The Plan required in subsection (a) shall be submitted to Congress within 30 days of October 29, 1992, and updated on an annual basis.”
+
+Subsec. (b)(1). Pub. L. 119–60, § 8402(a)(2)(D)(i), substituted “in operation in the NOAA fleet as of the date of submission of the Plan, a description of the status of those vessels, and a statement of the planned and anticipated service life of those vessels;” for “proposed to be modernized or replaced, the schedule for their modernization or replacement, and anticipated funding requirements;”.
+
+Subsec. (b)(2) to (10). Pub. L. 119–60, § 8402(a)(2)(D)(ii)–(viii), added pars. (2) and (3) and redesignated former pars. (2) to (5) as (4) to (7), respectively; in par. (4), substituted “acquired, leased, or chartered by NOAA” for “constructed, leased, or chartered”; in par. (6), substituted “the Director of the National Science Foundation, or any other Federal official” for “or any other federal official” and “the availability of those vessels” for “their availability”; struck out former par. (6), which related to the appropriate role of the NOAA Corps in operating and maintaining the NOAA fleet; and added pars. (8) to (10).
+
+Subsec. (c). Pub. L. 119–60, § 8402(a)(2)(E), added subsec. (c).
+
+Pub. L. 119–60, § 8402(a)(2)(C), redesignated subsec. (c) as (b).
+
+Subsec. (d). Pub. L. 119–60, § 8402(a)(2)(B), struck out subsec. (d). Text read as follows: “The Secretary may not enter into any contract for the construction, lease, or service life extension of a vessel of the NOAA fleet before the date of the submission to Congress of the Plan required in subsection (a).”
+
 #### Fishery Survey Vessel Acquisition
-Pub. L. 106–450, title III, Nov. 7, 2000, 114 Stat. 1945, provided that: “SEC. 301. SHORT TITLE.“This title may be cited as the ‘Fisheries Survey Vessel Authorization Act of 2000’. “SEC. 302. ACQUISITION OF FISHERY SURVEY VESSELS.“(a) In General.—The Secretary, subject to the availability of appropriations, may in accordance with this section acquire, by purchase, lease, lease-purchase, or charter, and equip up to six fishery survey vessels in accordance with this section. “(b) Vessel Requirements.—Any vessel acquired and equipped under this section must—“(1) be capable of—“(A) staying at sea continuously for at least 30 days; “(B) conducting fishery population surveys using hydroacoustic, longlining, deep water, and pelagic trawls, and other necessary survey techniques; and “(C) conducting other work necessary to provide fishery managers with the accurate and timely data needed to prepare and implement fishery management plans; and “(2) have a hull that meets the International Council for Exploration of the Sea standard regarding acoustic quietness. “(c) Authorization.—To carry out this section there are authorized to be appropriated to the Secretary $60,000,000 for each of fiscal years 2002 and 2003.”
+Pub. L. 106–450, title III, Nov. 7, 2000, 114 Stat. 1945, as amended by Pub. L. 119–60, div. H, title LXXXIV, § 8402(b), Dec. 18, 2025, 139 Stat. 1910, provided that: “SEC. 301. SHORT TITLE.“This title may be cited as the ‘Fisheries Survey Vessel Authorization Act of 2000’. “SEC. 302. ACQUISITION OF FISHERY SURVEY VESSELS.“(a) In General.—The Secretary, subject to the availability of appropriations, may acquire, by purchase, lease, lease-purchase, or charter, and equip fishery survey vessels in accordance with this section and the NOAA Fleet Modernization Act ([33 U.S.C. 891](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-891) et seq.). “(b) Vessel Requirements.—Any vessel acquired and equipped under this section must—“(1) be capable of—“(A) staying at sea continuously for at least 30 days; “(B) conducting fishery population surveys using hydroacoustic, longlining, deep water, and pelagic trawls, and other necessary survey techniques; and “(C) conducting other work necessary to provide fishery managers with the accurate and timely data needed to prepare and implement fishery management plans; and “(2) have a hull that meets the International Council for Exploration of the Sea standard regarding acoustic quietness. “(c) Authorization.—To carry out this section there are authorized to be appropriated to the Secretary $60,000,000 for each of fiscal years 2002 and 2003.”
 
 #### Deactivation of NOAA Research Vessels
-Pub. L. 102–567, title IV, § 401(b)(4), Oct. 29, 1992, 106 Stat. 4291, provided that: “(A) Unless necessary for safety reasons, the Secretary of Commerce shall not deactivate the ALBATROSS IV (if active), until an equivalent replacement vessel is operational. “(B) The Secretary of Commerce shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries [now Committee on Science, Space, and Technology] of the House of Representatives 60 days prior to the proposed deactivation of any other research vessel of the National Oceanic and Atmospheric Administration, if an equivalent replacement vessel will not become operational at the time of deactivation.”
+Pub. L. 102–567, title IV, § 401(b)(4), Oct. 29, 1992, 106 Stat. 4291, as amended by Pub. L. 119–60, div. H, title LXXXIV, § 8402(c), Dec. 18, 2025, 139 Stat. 1910, provided that: The Secretary of Commerce shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives 60 days prior to the proposed deactivation of any other research vessel of the National Oceanic and Atmospheric Administration.”
 
 
 <a id="section-891c"></a>
 ## § 891c. Design of NOAA vessels
-**(a) Design requirement** Except for the vessel designs identified under subsection (b), the Secretary, working through the Office of the NOAA Corps Operations and the Systems Procurement Office, shall—
+**(a) Design requirement** Except for the vessel designs identified under subsection (b), the Secretary, acting through the Assistant Administrator of NOAA for Marine and Aviation Operations, shall—
 
 (1) prepare requirements for each class of vessel to be constructed or converted under the Plan; and
 
 (2) contract competitively from nongovernmental entities with expertise in shipbuilding for vessel design and construction based on the requirements for each class of vessel to be acquired.
 
-**(b) Exception** The Secretary shall—
+**(b) Exception** The Secretary, acting through the Assistant Administrator of NOAA for Marine and Aviation Operations, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives, as part of the annual update of the Plan required in [section 891b of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-891b), any existing vessel design or design proposals that meet the requirements of the Plan.
 
-(1) report to Congress identifying any existing vessel design or design proposal that meets the requirements of the Plan within 30 days after October 29, 1992, and shall promptly advise the Congress of any modification of these designs; and
+### Statutory Notes
 
-(2) submit to Congress as part of the annual update of the Plan required in [section 891b of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-891b), any subsequent existing vessel design or design proposals that meet the requirements of the Plan.
+#### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 8402(a)(3)(A), substituted “acting through the Assistant Administrator of NOAA for Marine and Aviation Operations” for “working through the Office of the NOAA Corps Operations and the Systems Procurement Office” in introductory provisions.
+
+Pub. L. 119–60, § 8402(a)(3)(B), substituted “, acting through the Assistant Administrator of NOAA for Marine and Aviation Operations, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives,” for “shall—
+
+“(1) report to Congress identifying any existing vessel design or design proposal that meets the requirements of the Plan within 30 days after October 29, 1992, and shall promptly advise the Congress of any modification of these designs; and
+
+“(2) submit to Congress”,
+
+and struck out “subsequent” before “existing vessel design”.
 
 
 <a id="section-891d"></a>
@@ -1693,9 +1725,13 @@ Section was enacted as part of the Commerce, Justice, Science, and Related Agenc
 
 <a id="section-891f"></a>
 ## § 891f. Use of vessels
-**(a) Vessel agreements** In implementing the NOAA fleet replacement and modernization program, the Secretary shall use excess capacity of UNOLS vessels where appropriate and may enter into memoranda of agreement with the operators of these vessels to carry out this requirement.
 
-**(b) Report to Congress** Within one year after October 29, 1992, the Comptroller General of the United States shall provide a report to Congress, in consultation with the Secretary, comparing the cost-efficiency, accounting, and operating practices of the vessels of NOAA, UNOLS, other Federal agencies, and the United States private sector in meeting the missions of NOAA.
+In implementing the NOAA fleet replacement and modernization program, the Secretary, acting through the Assistant Administrator of NOAA for Marine and Aviation Operations, shall use excess capacity of UNOLS vessels where appropriate and may enter into memoranda of agreement with the operators of these vessels to carry out this requirement.
+
+### Statutory Notes
+
+#### Amendments
+2025—Pub. L. 119–60 struck out subsec. (a) designation and heading “Vessel Agreements” and struck out subsec. (b), which required the Comptroller General to provide a report within one year after October 29, 1992 comparing the cost-efficiency, accounting, and operating practices of the vessels of NOAA, UNOLS, other Federal agencies, and the United States private sector in meeting the missions of NOAA.
 
 
 <a id="section-891g"></a>
@@ -1711,15 +1747,22 @@ Pub. L. 102–567, title IV, § 401(b)(5), Oct. 29, 1992, 106 Stat. 4291, provid
 
 <a id="section-891h"></a>
 ## § 891h. Authorization of appropriations
-**(a) In general** There are authorized to be appropriated to the Secretary for carrying out this subchapter—
+**(a) In general** There are authorized to be appropriated to the Secretary $93,000,000 for the period of fiscal years 2025 through 2026 to carry out this subchapter and section 302 of the Fisheries Survey Vessel Authorization Act of 2000 (title III of Public Law 106–450; 114 Stat. 1945; [33 U.S.C. 891b](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-891b) note).
 
-(1) $50,000,000 for fiscal year 1993;
+**(b) Limitation on fleet modernization activities** All NOAA fleet modernization, shipbuilding, and conversion shall be conducted in accordance with this subchapter.
 
-(2) $100,000,000 for fiscal year 1994; and
+### Statutory Notes
 
-(3) such sums as are necessary for each of the fiscal years 1995, 1996, and 1997.
+#### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 8402(a)(5)(A), substituted “$93,000,000 for the period of fiscal years 2025 through 2026 to carry out this subchapter and section 302 of the Fisheries Survey Vessel Authorization Act of 2000 (title III of Public Law 106–450; 114 Stat. 1945; [33 U.S.C. 891b](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-891b) note).” for “carrying out this subchapter—
 
-**(b) Limitation on fleet modernization activities** All National Oceanic and Atmospheric Administration fleet modernization shipbuilding, and conversion shall be conducted in accordance with this subchapter.
+“(1) $50,000,000 for fiscal year 1993;
+
+“(2) $100,000,000 for fiscal year 1994; and
+
+“(3) such sums as are necessary for each of the fiscal years 1995, 1996, and 1997.”
+
+Subsec. (b). Pub. L. 119–60, § 8402(a)(5)(B), substituted “NOAA fleet modernization,” for “National Oceanic and Atmospheric Administration fleet modernization”.
 
 
 <a id="section-892"></a>
@@ -1807,18 +1850,17 @@ For short title of this subchapter as the “Hydrographic Services Improvement A
 
 (5) may create, support, and maintain such joint centers with other Federal agencies and other entities as the Administrator deems appropriate or necessary to carry out the purposes of this subchapter; and
 
-(6) notwithstanding the existence of such joint centers, shall award contracts for the acquisition of hydrographic data in accordance with subchapter VI of chapter 10 of title 40.11 See References in Text note below.
+(6) notwithstanding the existence of such joint centers, shall award contracts for the acquisition of hydrographic data in accordance with chapter 11 of title 40.
 
 **(c) Conservation and management of coastal and ocean resources** Where appropriate and to the extent that it does not detract from the promotion of safe and efficient navigation, the Secretary may use hydrographic data and services to support the conservation and management of coastal and ocean resources.
 
 ### Statutory Notes
 
-#### References in Text
-This subchapter, referred to in subsecs. (a) and (b), was in the original “this Act”, and was translated, to reflect the probable intent of Congress, as reading “this title”, meaning title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, known as the Hydrographic Services Improvement Act of 1998, which is classified principally to this subchapter. For complete classification of title III to the Code, see Short Title of 1998 Amendment note set out under [section 851 of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-851) and Tables.
-
-Subchapter VI of chapter 10 of title 40, referred to in subsec. (b)(6), probably means title IX of the Federal Property and Administrative Services Act of 1949, act June 30, 1949, ch. 288, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1278. Title IX of the Act, which was classified generally to subchapter VI (§ 541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§ 1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding [section 101 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section101&num=0&edition=prelim). For complete classification of act June 30, 1949, to the Code, see Tables.
-
 #### Amendments
+2025—Subsecs. (a), (b). Pub. L. 119–60, § 7701(h)(1), (2)(A), in introductory provisions, made technical amendment to reference in original act which appears in text as reference to “this subchapter”, requiring no change in text.
+
+Subsec. (b)(6). Pub. L. 119–60, § 7701(h)(2)(B), substituted “chapter 11” for “subchapter VI of chapter 10”.
+
 2022—Subsec. (b). Pub. L. 117–263, § 10308(b)(1), inserted “precision navigation,” after “promote” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 117–263, § 10308(b)(2), inserted “and hydrodynamic forecast models” after “monitoring systems” and “and provide foundational information and services required to support coastal resilience planning for coastal transportation and other infrastructure, coastal protection and restoration projects, and related activities” after “efficiency” and struck out “and” after semicolon at end.

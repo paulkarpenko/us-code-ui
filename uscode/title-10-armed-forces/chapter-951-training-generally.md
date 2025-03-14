@@ -2,7 +2,7 @@
 title: 10
 chapter: '951'
 heading: TRAINING GENERALLY
-section_count: 14
+section_count: 15
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -230,7 +230,7 @@ There is in the Department of the Air Force a United States Air Force Institute 
 
 
 <a id="section-9414"></a>
-## § 9414. Degree granting authority for United States Air Force Institute of Technology
+## § 9414. United States Air Force Institute of Technology: degree granting authority; faculty, reimbursement and tuition; acceptance of research grants
 **(a) Authority.—** Under regulations prescribed by the Secretary of the Air Force, the commander of the Air University may, upon the recommendation of the faculty of the United States Air Force Institute of Technology, confer appropriate degrees upon graduates of the United States Air Force Institute of Technology who meet the degree requirements.
 
 **(b) Limitation.—** A degree may not be conferred under this section unless—
@@ -261,7 +261,17 @@ There is in the Department of the Air Force a United States Air Force Institute 
 
   (B) pay of civilian members of the faculty, notwithstanding chapter 53 of title 5, but subject to the limitation set out in [section 5373 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5373&num=0&edition=prelim).
 
-**(e) Reimbursement and Tuition.—**
+**(e) Space Force Faculty.—**
+
+(1) The Secretary shall detail members of the Space Force as instructors at the United States Air Force Institute of Technology to provide instruction in areas that support the mission of the Space Force.
+
+(2) The number of members of the Space Force detailed by the Secretary to the United States Air Force Institute of Technology as instructors during an academic year shall be equal to or greater than the product of—
+
+  (A) the total number of members of the Space Force divided by the total number of members of the Space Force and the Air Force; and
+
+  (B) the total number of instructors at the United States Air Force Institute of Technology.
+
+**(f) Reimbursement and Tuition.—**
 
 (1) The Department of the Army, the Department of the Navy, and the Department of Homeland Security shall bear the cost of the instruction at the Air Force Institute of Technology that is received by members of the armed forces detailed for that instruction by the Secretaries of the Army, Navy, and Homeland Security, respectively.
 
@@ -277,7 +287,7 @@ There is in the Department of the Air Force a United States Air Force Institute 
 
 (5) Amounts received by the Institute for the instruction of students under this subsection shall be retained by the Institute. Such amounts shall be available to the Institute to cover the costs of such instruction. The source and disposition of such amounts shall be specifically identified in the records of the Institute.
 
-**(f) Acceptance of Research Grants.—**
+**(g) Acceptance of Research Grants.—**
 
 (1) The Secretary of the Air Force may authorize the Director and Chancellor of the United States Air Force Institute of Technology to accept qualifying research grants. Any such grant may only be accepted if the work under the grant is to be carried out by a professor or instructor of the Institute for a scientific, literary, or educational purpose.
 
@@ -302,6 +312,10 @@ There is in the Department of the Air Force a United States Air Force Institute 
 A prior section 9414 was renumbered [section 9484 of this title](./chapter-957-schools-and-camps.md#section-9484).
 
 #### Amendments
+2025—Pub. L. 119–60, § 559(a)(1), added section catchline and struck out former catchline “Degree granting authority for United States Air Force Institute of Technology”.
+
+Subsecs. (e) to (g). Pub. L. 119–60, § 559(a)(2), (3), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+
 2021—Subsec. (d)(1). Pub. L. 116–283 inserted “or the Space Force” after “needs of the Air Force”.
 
 2019—Subsec. (f). Pub. L. 116–92 substituted “Director and Chancellor” for “Commandant” in pars. (1) and (4).
@@ -430,7 +444,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
   (A) An officer of the Air Force or the Space Force on active duty in a grade not below the grade of colonel who possesses such qualifications as the Secretary considers appropriate and is assigned or detailed to such position.
 
-  (B) A member of the Senior Executive Service or a civilian individual, including an individual who was retired from the Air Force or the Space Force in a grade not below brigadier general or the equivalent grade in the Space Force, who has the qualifications appropriate for the position of Director and Chancellor and is selected by the Secretary as the best qualified from among candidates for the position in accordance with a process and criteria determined by the Secretary.
+  (B) A member of the Senior Executive Service or a civilian individual, including an individual who was retired from the Air Force or the Space Force in a grade not below brigadier general, who has the qualifications appropriate for the position of Director and Chancellor and is selected by the Secretary as the best qualified from among candidates for the position in accordance with a process and criteria determined by the Secretary.
 
 (3) **Term for civilian director and chancellor.—** — An individual selected for the position of Director and Chancellor under paragraph (2)(B) shall serve in that position for a term of not more than five years and may be continued in that position for an additional term of up to five years.
 
@@ -448,6 +462,8 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Level IV of the Executive Schedule, referred to in subsec. (b)(3), is set out in [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2024—Subsec. (a)(2)(B). Pub. L. 118–159 struck out “or the equivalent grade in the Space Force” after “brigadier general”.
+
 2022—Subsec. (b). Pub. L. 117–263, § 554(b)(2), substituted “Chief Academic Officer” for “Academic Dean” wherever appearing.
 
 Pub. L. 117–263, § 554(b)(1), substituted “Chief Academic Officer” for “Academic Dean” in heading.
@@ -670,3 +686,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Implementation
 Pub. L. 105–261, div. A, title V, § 522(c)(3), Oct. 17, 1998, 112 Stat. 2013, provided that: “The Secretary of the Air Force shall implement section 9320 [now 9420] of title 10, United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999.”
+
+
+<a id="section-9421"></a>
+## § 9421. Space Force officer training course requirements
+
+The Secretary of the Air Force shall ensure that—
+
+(1) the initial Space Force officer training course provides foundational instruction in acquisition management, space mission integration, and related disciplines; and
+
+(2) the curriculum for such course is developed by the Commander of Space Training and Readiness Command, in coordination with the Assistant Secretary of the Air Force for Space Acquisition and Integration and the Director of Acquisition Career Management.

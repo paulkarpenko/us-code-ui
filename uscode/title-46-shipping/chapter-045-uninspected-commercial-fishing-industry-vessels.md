@@ -175,7 +175,7 @@ Pub. L. 100–424, § 7, Sept. 9, 1988, 102 Stat. 1592, provided that: “Until 
 
 (3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
 
-(4) There is authorized to be appropriated $3,000,000 for fiscal year 2023 for grants under this subsection.
+(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2026, and 2027 for grants under this subsection.
 
 **(j)**
 
@@ -185,13 +185,17 @@ Pub. L. 100–424, § 7, Sept. 9, 1988, 102 Stat. 1592, provided that: “Until 
 
 (3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
 
-(4) There is authorized to be appropriated $3,000,000 for fiscal year 2023 for activities under this subsection.
+(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2026, and 2027. 22 So in original. Period probably should not appear. for activities under this subsection.
 
 **(k)** For the purposes of this section, the term “auxiliary craft” means a vessel that is carried onboard a fishing vessel and is normally used to support fishing operations.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (i)(4). Pub. L. 119–60, § 7313(1), substituted “each of fiscal years 2026, and 2027” for “fiscal year 2023”.
+
+Subsec. (j)(4). Pub. L. 119–60, § 7313(2), substituted “each of fiscal years 2026, and 2027.” for “fiscal year 2023”.
+
 2022—Subsec. (f)(2). Pub. L. 117–263, § 11509(a)(1), substituted “vessels described in subsection (b) if—” and subpars. (A) and (B) for “certain vessels described in subsection (b) if requested by the owner or operator; and”.
 
 Subsec. (i)(4). Pub. L. 117–263, § 11328(a)(1), substituted “fiscal year 2023” for “each of fiscal years 2018 through 2021”.
@@ -416,7 +420,7 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 **(f)**
 
-(1) For purposes of this section and section 4503a, the term “built” means, with respect to a vessel, that the vessel’s construction has reached any of the following stages:
+(1) For purposes of this section and section 4503a,11 See References in Text note below. the term “built” means, with respect to a vessel, that the vessel’s construction has reached any of the following stages:
 
   (A) The vessel’s keel is laid.
 
@@ -428,6 +432,8 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 #### References in Text
 The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsecs. (c)(2)(B)(i) and (e)(1), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
+
+Section 4503a, referred to in subsec. (f)(1), was repealed by Pub. L. 117–263, div. K, title CXV, § 11509(a)(3), Dec. 23, 2022, 136 Stat. 4137.
 
 #### Amendments
 2022—Subsec. (b). Pub. L. 117–263 substituted “Subsection (a)” for “Except as provided in section 4503a, subsection (a)” in introductory provisions.
@@ -495,7 +501,7 @@ Subsecs. (c), (d). Pub. L. 111–281, § 604(e)(1)(C), added subsecs. (c) and (d
 1984—Pub. L. 98–557 substituted “is deemed” for “shall be deemed”.
 
 #### Effective Date of 2016 Amendment
-Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under [section 315 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section315&num=0&edition=prelim), Coast Guard.
+Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under [section 2182 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2182&num=0&edition=prelim), Coast Guard.
 
 #### Final Rule
 Pub. L. 115–282, title V, § 508(f), Dec. 4, 2018, 132 Stat. 4273, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 4, 2018], the Secretary of the department in which the Coast Guard is operating shall issue a final rule implementing the requirements enumerated in [section 4503(d) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4503/d&num=0&edition=prelim), as amended by subsection (b)(1) of this section.”

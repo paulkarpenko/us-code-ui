@@ -20,7 +20,7 @@ source: >-
 A prior section 8261, acts Aug. 10, 1956, ch. 1041, 70A Stat. 505; Oct. 4, 1961, Pub. L. 87–378, § 4, 75 Stat. 808, related to enlistment in Air National Guard of United States, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(b)(3), Oct. 5, 1994, 108 Stat. 2990. See [section 12107 of this title](./chapter-1203-enlisted-members.md#section-12107).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6141 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6141&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6141 of this title](./chapter-602-nuclear-weapons-stockpile-matters.md#section-6141) as this section.
 
 1999—Subsec. (b). Pub. L. 106–65 substituted “under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement.” for “under this section or section 3681 or 8681 of this title or [section 516 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section516&num=0&edition=prelim).”
 
@@ -74,7 +74,7 @@ A prior section 8262, acts Aug. 10, 1956, ch. 1041, 70A Stat. 506; Sept. 2, 1958
 #### Amendments
 2021—Subsec. (a). Pub. L. 116–283 substituted “section 689, and section 1370 or 1370a (as applicable),” for “sections 689 and 1370”.
 
-2018—Pub. L. 115–232 renumbered [section 6151 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6151&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6151 of this title](./chapter-603-proliferation-matters.md#section-6151) as this section.
 
 1996—Subsec. (a). Pub. L. 104–201 substituted “sections 689” for “sections 688”.
 
@@ -143,7 +143,7 @@ The words “public”, “actual”, and “by law” are omitted as surplusage
 A prior section 8263, added Pub. L. 85–861, § 1(166)(B), Sept. 2, 1958, 72 Stat. 1516; Pub. L. 87–649, § 14c(53), Sept. 7, 1962, 76 Stat. 501, provided for voluntary extension of enlistments in the Air Force, prior to repeal by Pub. L. 90–235, § 2(a)(4)(B), Jan. 2, 1968, 81 Stat. 756.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6152 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6152&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6152 of this title](./chapter-603-proliferation-matters.md#section-6152) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -165,7 +165,7 @@ An officer, midshipman, or cadet of the naval service who is assigned to shore p
 | 6153 | [37 U.S.C. 306](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section306&num=0&edition=prelim) (less applicability to Coast Guard). | Oct. 12, 1949, ch. 681, § 506 (less applicability to Coast Guard), 63 Stat. 828. |
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6153 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6153&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6153 of this title](./chapter-603-proliferation-matters.md#section-6153) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -186,7 +186,7 @@ The Secretary of the Navy may buy such mileage books, commutation tickets, and o
 The words “to continue” and the words “upon their receipt in accordance with commercial usage” are omitted as surplusage. The word “persons” is substituted for the words “officers and others”.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6154 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6154&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6154 of this title](./chapter-603-proliferation-matters.md#section-6154) as this section.
 
 1984—Pub. L. 98–525 substituted “subsections (a) and (b) of section 3324” for “section 3324(a) and (b)”.
 
@@ -211,7 +211,7 @@ Under such regulations as the Secretary of the Navy prescribes, uniforms, accout
 The words “officers and midshipmen of the naval service” are substituted for the words “any officer of the Navy or any officer of the Marine Corps” and “any midshipman”. The words “at the Naval Academy” are omitted. The statute is interpreted as covering all midshipmen, including the reserve category created by subsequent statute. The word “sold” is substituted for the word “furnished” for directness of expression.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6155 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6155&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6155 of this title](./chapter-603-proliferation-matters.md#section-6155) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -236,7 +236,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 The word “person” is substituted for the words “former members of the naval service”.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6156 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6156&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6156 of this title](./chapter-603-proliferation-matters.md#section-6156) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -253,7 +253,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6160 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6160&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6160 of this title](./chapter-603-proliferation-matters.md#section-6160) as this section.
 
 1990—Subsec. (c). Pub. L. 101–510 substituted “Secretary of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -284,7 +284,7 @@ Section effective Jan. 1, 1958, see section 2301 of Pub. L. 85–56.
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6161 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6161&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6161 of this title](./chapter-603-proliferation-matters.md#section-6161) as this section.
 
 2016—Subsec. (a). Pub. L. 114–328 substituted “as a member of the naval service, whether as a regular or a reserve in active status” for “on active duty as a member of the naval service”.
 

@@ -4030,6 +4030,8 @@ Pub. L. 97–98, title XIV, § 1432(b), Dec. 22, 1981, 95 Stat. 1311, as amended
 
   (B) *Additional funding* — Not later than 30 days after November 17, 2023, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $10,000,000, to remain available until expended.
 
+  (C) *Further funding* — Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $60,000,000 for fiscal year 2026, to remain available until expended.
+
 (2) **Discretionary funding** — In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2020 through 2023.
 
 (3) **Administrative expenses** — Of the funds made available under paragraphs (1) and (2) to carry out this section for a fiscal year, not more than 4 percent may be used for expenses related to administering the program under this section.
@@ -4054,6 +4056,8 @@ Another section 1446 of Pub. L. 95–113 amended [section 3104 of this title](./
 A prior section 3222a, Pub. L. 95–113, title XIV, § 1446, as added Pub. L. 101–624, title XVI, § 1612(a), Nov. 28, 1990, 104 Stat. 3721; amended Pub. L. 102–237, title IV, § 402(9), (10), Dec. 13, 1991, 105 Stat. 1863, which related to resident instruction at 1890 land-grant colleges, including Tuskegee University, was repealed by Pub. L. 104–127, title VIII, § 855, Apr. 4, 1996, 110 Stat. 1172.
 
 #### Amendments
+2025—Subsec. (b)(1)(C). Pub. L. 119–21 added subpar. (C).
+
 2023—Subsec. (a)(3). Pub. L. 118–22, § 102(d)(5)(A)(i), substituted “4 succeeding” for “three succeeding”.
 
 Subsec. (b)(1). Pub. L. 118–22, § 102(d)(5)(A)(ii), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).

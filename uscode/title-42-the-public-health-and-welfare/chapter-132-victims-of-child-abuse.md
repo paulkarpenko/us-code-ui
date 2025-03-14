@@ -101,6 +101,7 @@ Section 13013 was editorially reclassified as [section 20323 of Title 34](https:
 
 ### Statutory Notes
 
+#### Codification
 Section, Pub. L. 101–647, title II, § 218, as added Pub. L. 109–162, title I, § 112(d)(2), Jan. 5, 2006, 119 Stat. 2986, which required the Inspector General of the Department of Justice to submit a report to Congress not later than Dec. 31, 2006, on activities funded by the National Court-Appointed Special Advocate Association, was omitted as obsolete.
 
 #### Prior Provisions

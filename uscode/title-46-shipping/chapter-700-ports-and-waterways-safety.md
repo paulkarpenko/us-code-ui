@@ -130,9 +130,9 @@ source: >-
 
     (v) Geographic locations for near-miss events incidents and marine casualties, including latitude and longitude.
 
-    (vi) Cyclical risk factors such as weather, seasonal water body currents, tides, bathymetry, and topography.
+    (vi) Cyclical risk factors such as weather, ice cover, seasonal water body currents, tides, bathymetry, and topography.
 
-    (vii) Weather data, in coordination with the National Oceanic and Atmospheric Administration.
+    (vii) Weather data and information, in coordination with the Administrator of the National Oceanic and Atmospheric Administration.
 
   (B) *Information storage and management policies.—* — The Secretary shall retain all information collected under subparagraph (A) and ensure policies and procedures are in place to standardize the format in which that information is retained to facilitate statistical analysis of that information to calculate within a vessel traffic service area, at a minimum, the incident rate, intervention rate, and casualty prevention rate.
 
@@ -236,9 +236,9 @@ source: >-
 
     (v) Geographic locations for near-miss incidents and marine casualties, including latitude and longitude.
 
-    (vi) Cyclical risk factors such as weather, seasonal water body currents, tides, bathymetry, and topography.
+    (vi) Cyclical risk factors such as weather, ice cover, seasonal water body currents, tides, bathymetry, and topography.
 
-    (vii) Weather data, in coordination with the National Oceanic and Atmospheric Administration.
+    (vii) Weather data and information, in coordination with the Administrator of the National Oceanic and Atmospheric Administration.
 
 (3) **Stakeholder input.—** — In conducting the periodic reviews under paragraph (1), the Secretary shall seek input from port and waterway stakeholders to identify areas of increased vessel conflicts or marine casualties that could benefit from the use of routing measures or vessel traffic service special areas to improve safety, port security, and environmental protection.
 
@@ -250,9 +250,11 @@ source: >-
 
 (2) **Non-federal vessel traffic service operators.—** — An entity operating a non-Federal vessel traffic information service or advisory service pursuant to a duly executed written agreement with the Coast Guard, and any pilot acting on behalf of such entity, is not liable for damages caused by or related to information, advice, or communication assistance provided by such entity or pilot while so operating or acting unless the acts or omissions of such entity or pilot constitute gross negligence or willful misconduct.
 
-**(l) Existing Authority.—** Nothing in this section shall be construed to alter the existing authorities of the Secretary to enhance navigation, vessel safety, marine environmental protection, and to ensure safety and preservation of life and property at sea.
+**(l)** The regulations required under section 109(a) of the Security and Accountability For Every Port Act of 2006 ([46 U.S.C. 70001](./chapter-700-ports-and-waterways-safety.md#section-70001) note) dealing with notice of arrival requirements for foreign vessels on the Outer Continental Shelf shall not apply to a vessel documented under section 12105 unless the vessel arrives from a foreign port or place.
 
-**(m) Definitions.—** In this section:
+**(m) Existing Authority.—** Nothing in this section shall be construed to alter the existing authorities of the Secretary to enhance navigation, vessel safety, marine environmental protection, and to ensure safety and preservation of life and property at sea.
+
+**(n) Definitions.—** In this section:
 
 (1) **Hazardous liquid cargo.—** — The term “hazardous liquid cargo” has the meaning given that term in regulations prescribed under [section 5103 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5103&num=0&edition=prelim).
 
@@ -275,14 +277,32 @@ The date of the enactment of this paragraph, referred to in subsec. (e)(3), is t
 
 The International Navigational Rules Act of 1977, referred to in subsec. (g)(1)(B)(i)(II), (iii)(I), is Pub. L. 95–75, July 27, 1977, 91 Stat. 308, which is classified principally to chapter 30 (§ 1601 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1601&num=0&edition=prelim) and Tables.
 
+#### Codification
+The text of section 704 of Pub. L. 112–213, which was set out as a note below and was transferred to this section and redesignated as subsec. (l), was based on Pub. L. 112–213, title VII, § 704, Dec. 20, 2012, 126 Stat. 1580, as amended by Pub. L. 119–60, div. G, title LXXVII, § 7701(e)(2)(A), (B), Dec. 18, 2025, 139 Stat. 1835.
+
 #### Amendments
+2025—Subsec. (f)(3)(A)(vi). Pub. L. 119–60, § 7321(b)(1)(A)(i), inserted “ice cover,” after “weather,”.
+
+Subsec. (f)(3)(A)(vii). Pub. L. 119–60, § 7321(b)(1)(A)(ii), substituted “Weather data and information, in coordination with the Administrator of” for “Weather data, in coordination with”.
+
+Subsec. (j)(2)(A)(vi). Pub. L. 119–60, § 7321(b)(1)(B)(i), inserted “ice cover,” after “weather,”.
+
+Subsec. (j)(2)(A)(vii). Pub. L. 119–60, § 7321(b)(1)(B)(ii), substituted “Weather data and information, in coordination with the Administrator of” for “Weather data, in coordination with”.
+
+Subsec. (l). Pub. L. 119–60, § 7701(e)(2)(C), (D), transferred section 704 of Pub. L. 112–213 to this section and renumbered it as subsec. (l). Former subsec. (l) redesignated (m). See Codification note above.
+
+Subsecs. (m), (n). Pub. L. 119–60, § 7701(e)(1), redesignated subsecs. (l) and (m) as (m) and (n), respectively.
+
 2021—Pub. L. 116–283 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to establishment of vessel traffic services, cooperative agreements, and limitation of liability for Coast Guard Vessel Traffic Service pilots and non-federal vessel traffic service operators, respectively.
+
+#### Great Lakes and Saint Lawrence River Cooperative Vessel Traffic Service
+Pub. L. 119–60, div. G, title LXXIII, § 7321(g), Dec. 18, 2025, 139 Stat. 1767, provided that: “Not later than 2 years after the date of enactment of this Act [Dec. 18, 2025], the Secretary of the department in which the Coast Guard is operating shall issue or amend such regulations as are necessary to address any applicable arrangements with the Canadian Coast Guard regarding vessel traffic services cooperation and vessel traffic management data exchanges within the Saint Lawrence Seaway and the Great Lakes.”
 
 #### No Wake Zones in Navigation Channels
 Pub. L. 114–322, title I, § 1149, Dec. 16, 2016, 130 Stat. 1660, as amended by Pub. L. 116–260, div. AA, title III, § 347, Dec. 27, 2020, 134 Stat. 2715, provided that: “(a) In General.—At the request of a State or local official, the Secretary [of the Army], in consultation with the Commandant of the Coast Guard, shall promptly identify and, subject to the considerations in subsection (b), allow the implementation of measures for addressing navigation safety hazards in a covered navigation channel resulting from wakes created by covered vessels identified by such official, while maintaining the navigability of the channel. “(b) Considerations.—In identifying measures under subsection (a) with respect to a covered navigation channel, the Secretary shall consider, at a minimum, whether—“(1) State or local law enforcement officers have documented the existence of safety hazards in the channel that are the direct result of excessive wakes from covered vessels present in the channel; “(2) the Secretary has made a determination that safety concerns exist in the channel and that the proposed measures will remedy those concerns without significant impacts to the navigable capacity of the channel; and “(3) the measures are consistent with any recommendations made by the Commandant of the Coast Guard to ensure the safety of vessels operating in the channel and the safety of the passengers and crew aboard such vessels. “(c) Definitions.—In this section:“(1) Covered navigation channel.—The term ‘covered navigation channel’ means a navigation channel that—“(A) is federally marked or maintained; “(B) is part of the Atlantic Intracoastal Waterway; and “(C) is adjacent to a marina. “(2) Covered vessel.—The term ‘covered vessel’ means a recreational vessel or an uninspected passenger vessel, as such terms are defined in [section 2101 of title 46](./chapter-021-general.md#section-2101), United States Code. “(d) Savings Clause.—Nothing in this section shall be construed to relieve the master, pilot, or other person responsible for determining the speed of a vessel from the obligation to comply with the inland navigation regulations promulgated pursuant to section 3 of the Inland Navigational Rules Act of 1980 ([33 U.S.C. 2071](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2071&num=0&edition=prelim)) or any other applicable laws or regulations governing the safe navigation of a vessel.”
 
 #### Notice of Arrival for Foreign Vessels on the Outer Continental Shelf
-Pub. L. 112–213, title VII, § 704, Dec. 20, 2012, 126 Stat. 1580, provided that: “The regulations required under section 109(a) of the Security and Accountability For Every Port Act of 2006 [Pub. L. 109–347] ([33 U.S.C. 1223](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223&num=0&edition=prelim) note) [now [46 U.S.C. 70001](./chapter-700-ports-and-waterways-safety.md#section-70001) note] dealing with notice of arrival requirements for foreign vessels on the Outer Continental Shelf shall not apply to a vessel documented under [section 12105 of title 46](./chapter-121-documentation-of-vessels.md#section-12105), United States Code, unless the vessel arrives from a foreign port or place.”
+Pub. L. 112–213, title VII, § 704, Dec. 20, 2012, 126 Stat. 1580, as amended by Pub. L. 119–60, div. G, title LXXVII, § 7701(e)(2)(A), (B), Dec. 18, 2025, 139 Stat. 1835, formerly set out as a note under this section, was transferred to subsec. (l) of this section.
 
 Pub. L. 109–347, title I, § 109, Oct. 13, 2006, 120 Stat. 1893, provided that: “(a) Notice of Arrival.—Not later than 180 days after the date of the enactment of this Act [Oct. 13, 2006], the Secretary of the department in which the Coast Guard is operating shall update and finalize the rulemaking on notice of arrival for foreign vessels on the Outer Continental Shelf. “(b) Content of Regulations.—The regulations promulgated pursuant to subsection (a) shall be consistent with information required under the Notice of Arrival under section 160.206 of title 33, Code of Federal Regulations, as in effect on the date of the enactment of this Act [Oct. 13, 2006].”
 
@@ -354,6 +374,9 @@ The Secretary may order any vessel, in a port or place subject to the jurisdicti
 
 #### References in Text
 The International Regulations for Preventing Collisions at Sea, 1972, referred to in subsec. (e)(1), came into effect pursuant to the Convention on the International Regulations for Preventing Collisions at Sea, 1972. See International Regulations for Preventing Collisions at Sea, 1972 note under [section 1602 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1602&num=0&edition=prelim), Navigation and Navigable Waters.
+
+#### Port Access Routes
+Pub. L. 119–60, div. G, title LXXIII, § 7349, Dec. 18, 2025, 139 Stat. 1782, provided that: “(a) Regulation.—Not later than 1 year after the date of enactment of this Act [Dec. 18, 2025], the Secretary of the department in which the Coast Guard is operating shall issue a regulation for nearshore and offshore shipping safety fairways, to include a minimum appropriate width of not less than the width proposed in the proposed rule of the Coast Guard titled ‘Shipping Safety Fairways Along the Atlantic Coast’, issued on January 19, 2024 (89 Fed. Reg. 3587). “(b) Exception.—The minimum appropriate width under subsection (a) shall not apply to connector, cutacross, or cutoff fairways, Traffic Separation Schemes, or precautionary areas. “(c) Applicability.—In issuing the regulation under subsection (a), the Secretary shall apply the regulation to the geographic area covered by the proposed rule of the Coast Guard titled ‘Shipping Safety Fairways Along the Atlantic Coast’, issued on January 19, 2024 (89 Fed. Reg. 3587). “(d) Effective Date.—The regulation issued under subsection (a) shall take effect on December 31, 2026.”
 
 
 <a id="section-70004"></a>
@@ -478,9 +501,9 @@ Pub. L. 117–263, div. K, title CXIII, § 11318(e), Dec. 23, 2022, 136 Stat. 40
 ## § 70011. Waterfront safety
 **(a) In General.—** The Secretary may take such action as is necessary to—
 
-(1) prevent damage to, or the destruction of, any bridge or other structure on or in the navigable waters of the United States, or any land structure or shore area immediately adjacent to such waters; and
+(1) prevent damage to, or the destruction of, any bridge or other structure on or in the navigable waters of the United States, or any land structure or shore area immediately adjacent to such waters, including damage or destruction resulting from cyber incidents, transnational organized crime, or foreign state threats; and
 
-(2) protect the navigable waters and the resources therein from harm resulting from vessel or structure damage, destruction, or loss.
+(2) protect the navigable waters and the resources therein from harm resulting from vessel or structure damage, destruction, or loss or harm resulting from cyber incidents, transnational organized crime, or foreign state threats.
 
 **(b) Actions Authorized.—** Actions authorized by subsection (a) include—
 
@@ -488,11 +511,22 @@ Pub. L. 117–263, div. K, title CXIII, § 11318(e), Dec. 23, 2022, 136 Stat. 40
 
 (2) prescribing minimum safety equipment requirements for a structure to assure adequate protection from fire, explosion, natural disaster, and other serious accidents or casualties;
 
-(3) establishing water or waterfront safety zones, or other measures, for limited, controlled, or conditional access and activity when necessary for the protection of any vessel, structure, waters, or shore area; and
+(3) establishing water or waterfront safety zones, or other measures, for limited, controlled, or conditional access and activity when necessary for the protection of any vessel, structure, waters, or shore area;
 
-(4) establishing procedures for examination to assure compliance with the requirements prescribed under this section.
+(4) establishing procedures for examination to assure compliance with the requirements prescribed under this section; and
+
+(5) prohibiting a representative of a government of country that the Secretary of State has determined has repeatedly provided support for acts of international terrorism under section 620A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371&num=0&edition=prelim)) from visiting a facility for which a facility security plan is required under section 70103(c).
 
 **(c) State Law.—** Nothing in this section, with respect to structures, prohibits a State or political subdivision thereof from prescribing higher safety equipment requirements or safety standards than those that may be prescribed by regulations under this section.
+
+### Statutory Notes
+
+#### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–60, § 7321(c)(1), inserted “, including damage or destruction resulting from cyber incidents, transnational organized crime, or foreign state threats” after “adjacent to such waters”.
+
+Subsec. (a)(2). Pub. L. 119–60, § 7321(c)(2), inserted “or harm resulting from cyber incidents, transnational organized crime, or foreign state threats” after “loss”.
+
+Subsec. (b)(5). Pub. L. 119–60, § 7321(d), added par. (5).
 
 
 <a id="section-70012"></a>
@@ -578,7 +612,7 @@ Section 10 of the Act of March 3, 1899, popularly known as the Rivers and Harbor
 
 **(b) Vessels Described.—** A vessel referred to in subsection (a) is a foreign vessel for which a notice of arrival is required to be filed under section 70001(a)(5), and that—
 
-(1) is on the most recent list of vessels published in Federal 11 So in original. Probably should be preceded by “the”. Register under subsection (c)(2); or
+(1) is on the most recent list of vessels published in the Federal Register under subsection (c)(2); or
 
 (2) more than 180 days after the publication of such list, is knowingly registered, pursuant to the 1958 Convention on the High Seas entered into force on September 30, 1962, by a government the agents or instrumentalities of which are maintaining a registration of a vessel that is included on such list.
 
@@ -619,6 +653,8 @@ Sections 3 and 205(a)(1)(A) of the North Korea Sanctions and Policy Enhancement 
 Section, as added and amended by Pub. L. 116–283, is based on section 16 of Pub. L. 92–340, as added Pub. L. 115–44, title III, § 315(a), Aug. 2, 2017, 131 Stat. 948, which was formerly classified to [section 1232c of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1232c&num=0&edition=prelim), Navigation and Navigable Waters, repealed by Pub. L. 115–282, title IV, §402(e), Dec. 4, 2018, 132 Stat. 4264, then transferred to this title and renumbered as this section effective upon the enactment of such Pub. L. 115–282 and notwithstanding such repeal.
 
 #### Amendments
+2025—Subsec. (b)(1). Pub. L. 119–60 substituted “the Federal Register” for “Federal Register”.
+
 2021—Pub. L. 116–283, § 8508(1)(A), transferred section 16 of Pub. L. 92–340 to this title and renumbered it as this section. See Codification note above.
 
 Subsec. (b). Pub. L. 116–283, § 8508(1)(B)(i), substituted “section 70001(a)(5)” for “section 4(a)(5)” in introductory provisions.
@@ -664,13 +700,22 @@ Presidential Proclamation No. 5928, referred to in par. (3), is set out under [s
 
 
 <a id="section-70032"></a>
-## § 70032. Saint Lawrence Seaway
+## § 70032. Delegation of ports and waterways authorities in Saint Lawrence Seaway
+**(a) In General.—** Except as provided in subsection (b), the authority granted to the Secretary under sections 70001, 70002, 70003, 70004, and 70011 may not be delegated with respect to the Saint Lawrence Seaway to any agency other than the Great Lakes St. Lawrence Seaway Development Corporation. Any other authority granted the Secretary under subchapters I through III and this subchapter shall be delegated by the Secretary to the Great Lakes St. Lawrence Seaway Development Corporation to the extent the Secretary determines such delegation is necessary for the proper operation of the Saint Lawrence Seaway.
 
-The authority granted to the Secretary under sections 70001, 70002, 70003, 70004, and 70011 may not be delegated with respect to the Saint Lawrence Seaway to any agency other than the Great Lakes St. Lawrence Seaway Development Corporation. Any other authority granted the Secretary under subchapters I through III and this subchapter shall be delegated by the Secretary to the Great Lakes St. Lawrence Seaway Development Corporation to the extent the Secretary determines such delegation is necessary for the proper operation of the Saint Lawrence Seaway.
+**(b) Exception.—** The Secretary of the department in which the Coast Guard is operating, after consultation with the Secretary or the head of an agency to which the Secretary has delegated the authorities in subsection (a), may—
+
+(1) issue and enforce special orders in accordance with section 70002;
+
+(2) establish water or waterfront safety zones, or other measures, for limited, controlled, or conditional access and activity when necessary for the protection of any vessel structure, waters, or shore area, as permitted in section 70011(b)(3); and
+
+(3) take actions for port, harbor, and coastal facility security in accordance with section 70116.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Pub. L. 119–60 amended section generally. Prior to amendment, text read as follows: “The authority granted to the Secretary under sections 70001, 70002, 70003, 70004, and 70011 may not be delegated with respect to the Saint Lawrence Seaway to any agency other than the Great Lakes St. Lawrence Seaway Development Corporation. Any other authority granted the Secretary under subchapters I through III and this subchapter shall be delegated by the Secretary to the Great Lakes St. Lawrence Seaway Development Corporation to the extent the Secretary determines such delegation is necessary for the proper operation of the Saint Lawrence Seaway.”
+
 2021—Pub. L. 116–283 substituted “I through III” for “A through C”.
 
 2020—Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation” in two places.
@@ -717,7 +762,9 @@ Except pursuant to international treaty, convention, or agreement, to which the 
 2021—Pub. L. 116–283 substituted “I through III” for “A through C” in subsecs. (a) and (b).
 
 #### Safety of Special Activities
-Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8343, Jan. 1, 2021, 134 Stat. 4710, provided that: “(a) In General.—The Secretary of the department in which the Coast Guard is operating shall conduct a 2-year pilot program to establish and implement a process to—“(1) establish safety zones to address special activities in the exclusive economic zone; “(2) account for the number of safety zones established for special activities; “(3) differentiate whether an applicant who requests a safety zone for such activities is—“(A) an individual; “(B) an organization; or “(C) a government entity; and “(4) account for Coast Guard resources utilized to enforce safety zones established for special activities, including—“(A) the number of Coast Guard or Coast Guard Auxiliary vessels used; and “(B) the number of Coast Guard or Coast Guard Auxiliary patrol hours required. “(b) Briefing.—Not later than 180 days after the expiration of the 2-year pilot program, the Commandant [of the Coast Guard] shall brief the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate regarding—“(1) the process required under subsection (a); and “(2) whether the authority to establish safety zones to address special activities in the exclusive economic zone should be extended or made permanent in the interest of safety. “(c) Definitions.—In this section:“(1) Safety zone.—The term ‘safety zone’ has the meaning given such term in section 165.20 of title 33, Code of Federal Regulations. “(2) Special activities.—The term ‘special activities’ includes—“(A) space activities, including launch and reentry, as such terms are defined in [section 50902 of title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section50902&num=0&edition=prelim), United States Code, carried out by United States citizens; and “(B) offshore energy development activities, as described in section 8(p)(1)(C) of the Outer Continental Shelf Lands Act ([43 U.S.C. 1337(p)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1337/p/1/C&num=0&edition=prelim)), on or near a fixed platform. “(3) United states citizen.—The term ‘United States citizen’ has the meaning given the term ‘eligible owners’ in [section 12103 of title 46](./chapter-121-documentation-of-vessels.md#section-12103), United States Code. “(4) Fixed platform.—The term ‘fixed platform’ means an artificial island, installation, or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes.”
+Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8343, Jan. 1, 2021, 134 Stat. 4710, as amended by Pub. L. 119–60, div. G, title LXXIII, § 7321(a), Dec. 18, 2025, 139 Stat. 1765, provided that: “(a) In General.—The Secretary of the department in which the Coast Guard is operating shall conduct a pilot program to establish and implement a process to—“(1) establish safety zones to address special activities in the exclusive economic zone; “(2) account for the number of safety zones established for special activities; “(3) differentiate whether an applicant who requests a safety zone for such activities is—“(A) an individual; “(B) an organization; or “(C) a government entity; and “(4) account for Coast Guard resources utilized to enforce safety zones established for special activities, including—“(A) the number of Coast Guard or Coast Guard Auxiliary vessels used; and “(B) the number of Coast Guard or Coast Guard Auxiliary patrol hours required. “(b) Briefing.—Not later than 180 days after the expiration of the pilot program, the Commandant [of the Coast Guard] shall brief the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate regarding—“(1) the process required under subsection (a); and “(2) whether the authority to establish safety zones to address special activities in the exclusive economic zone should be extended or made permanent in the interest of safety. “(c) Authorization.—The pilot program under subsection (a) is authorized for fiscal years 2026, 2027, 2028, 2029, 2030, 2031, and 2032. “(d) Definitions.—In this section:“(1) Safety zone.—The term ‘safety zone’ has the meaning given such term in section 165.20 of title 33, Code of Federal Regulations. “(2) Special activities.—The term ‘special activities’ includes—“(A) space activities, including launch and reentry, as such terms are defined in [section 50902 of title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section50902&num=0&edition=prelim), United States Code, carried out by United States citizens; and “(B) offshore energy development activities, as described in section 8(p)(1)(C) of the Outer Continental Shelf Lands Act ([43 U.S.C. 1337(p)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1337/p/1/C&num=0&edition=prelim)), on or near a fixed platform. “(3) United states citizen.—The term ‘United States citizen’ has the meaning given the term ‘eligible owners’ in [section 12103 of title 46](./chapter-121-documentation-of-vessels.md#section-12103), United States Code. “(4) Fixed platform.—The term ‘fixed platform’ means an artificial island, installation, or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes.”
+
+[Pub. L. 119–60, div. G, title LXXIII, § 7321(a)(1), Dec. 18, 2025, 139 Stat. 1765, which directed amendment of section 8343 of Pub. L. 116–283, by striking “2-year pilot program” and inserting “pilot program”, was executed by making the substitution in two places to reflect the probable intent of Congress.]
 
 #### Safety Zones for Permitted Marine Events
 Pub. L. 114–120, title III, § 305, Feb. 8, 2016, 130 Stat. 54, provided that: “Not later than 6 months after the date of the enactment of this Act [Feb. 8, 2016], the Secretary of the department in which the Coast Guard is operating shall establish and implement a process to— “(1) account for the number of safety zones established for permitted marine events; “(2) differentiate whether the event sponsor who requested a permit for such an event is—“(A) an individual; “(B) an organization; or “(C) a government entity; and “(3) account for Coast Guard resources utilized to enforce safety zones established for permitted marine events, including for—“(A) the number of Coast Guard or Coast Guard Auxiliary vessels used; and “(B) the number of Coast Guard or Coast Guard Auxiliary patrol hours required.”
@@ -813,6 +860,8 @@ Whenever the President by proclamation or Executive order declares a national em
 Section, as added by Pub. L. 115–282, is based on acts June 15, 1917, ch. 30, title II, § 1, 40 Stat. 220; Aug. 9, 1950, ch. 656, § 1, 64 Stat. 427; Sept. 26, 1950, ch. 1049, § 2(b), 64 Stat. 1038; Pub. L. 96–70, title III, § 3302(a), Sept. 27, 1979, 93 Stat. 498; Pub. L. 104–208, div. C, title VI, § 649, Sept. 30, 1996, 110 Stat. 3009–711; Pub. L. 108–293, title II, § 223, Aug. 9, 2004, 118 Stat. 1040; Pub. L. 115–232, div. C, title XXXV, § 3548(a), Aug. 13, 2018, 132 Stat. 2328; Pub. L. 115–282, title IV, § 407(b)(1)–(4), Dec. 4, 2018, 132 Stat. 4267, which was formerly classified to [section 191 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim), War and National Defense, before being transferred to this chapter and renumbered as this section. Prior to such renumbering and transfer, section 3548(a) of Pub. L. 115–232 amended section 1 of title II of act June 15, 1917, by substituting “the Secretary of the department in which the Coast Guard is operating” for “the Secretary of the Treasury” in the first par. Subsequently, section 407(b)(2) of Pub. L. 115–282 directed striking out “of the Treasury” but could not be executed because of the amendment by Pub. L. 115–232. Section 407(b)(3) of Pub. L. 115–282 further directed striking out “of the department in which the Coast Guard is operating”, which appeared in two places following the amendment by Pub. L. 115–232, but the amendment did not specify where the deletion should occur. The amendment was executed by striking out such phrase following “regulations to the Secretary” in concluding provisions, to reflect the probable intent of Congress.
 
 #### Amendments
+2025—Pub. L. 119–60 inserted “or cyber incidents, or transnational organized crime, or foreign state threats,” after “threatened war, or invasion, or insurrection, or subversive activity,” in introductory provisions.
+
 2021—Pub. L. 116–283 substituted “immediate Federal response, the Secretary of the department in which the Coast Guard is operating may make, subject to the approval” for “immediate Federal response, the Secretary of the department in which the Coast Guard is operating may make, subject to the approval” in introductory provisions and “authority to issue such rules and regulations to the Secretary of the department in which the Coast Guard is operating. Any appropriation” for “authority to issue such rules and regulations to the Secretary. Any appropriation” in concluding provisions. See Codification note above.
 
 #### Proc. No. 6867. Declaration of National Emergency and Invocation of Emergency Authority Relating to Regulation of Anchorage and Movement of Vessels
@@ -847,7 +896,7 @@ William J. Clinton.
 [Provisions of Proc. No. 6867 superseded to the extent of inconsistency with provisions of Procs. No. 7757, 9398, and 9699, see Sec. 6 of Proc. No. 7757, Sec. 6 of Proc. No. 9398, and Sec. 6 of Proc. No. 9699, set out below.]
 
 #### Continuation of National Emergency Declared by Proc. No. 6867
-Notice of President of the United States, dated Feb. 17, 2023, 88 F.R. 10821, provided:
+Notice of President of the United States, dated Feb. 20, 2025, 90 F.R. 10571, provided:
 
 On March 1, 1996, by Proclamation 6867, a national emergency was declared to address the disturbance or threatened disturbance of international relations caused by the February 24, 1996, destruction by the Cuban government of two unarmed, United States-registered civilian aircraft in international airspace north of Cuba. On February 26, 2004, by Proclamation 7757 [[46 U.S.C. 70051](./chapter-700-ports-and-waterways-safety.md#section-70051) note], the national emergency was expanded to deny monetary and material support to the Cuban government. On February 24, 2016, by Proclamation 9398, and on February 22, 2018, by Proclamation 9699 [[46 U.S.C. 70051](./chapter-700-ports-and-waterways-safety.md#section-70051) notes], the national emergency was further modified based on continued disturbances or threatened disturbances of the international relations of the United States related to Cuba. The Cuban government has not demonstrated that it will refrain from the use of excessive force against United States vessels or aircraft that may engage in memorial activities or peaceful protest north of Cuba.
 
@@ -857,9 +906,13 @@ Therefore, in accordance with section 202(d) of the National Emergencies Act ([5
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
-J.R. Biden, Jr.
+Donald J. Trump.
 
 Prior continuations of national emergency declared by Proc. No. 6867 were contained in the following:
+
+Notice of President of the United States, dated Feb. 21, 2024, 89 F.R. 13967.
+
+Notice of President of the United States, dated Feb. 17, 2023, 88 F.R. 10821.
 
 Notice of President of the United States, dated Feb. 23, 2022, 87 F.R. 10685.
 
@@ -1092,15 +1145,19 @@ IN WITNESS WHEREOF, I have hereunto set my hand this twenty-first day of April, 
 J.R. Biden, Jr.
 
 #### Continuation of National Emergency Declared by Proc. No. 10371
-Notice of President of the United States, dated Apr. 18, 2023, 88 F.R. 24327, provided:
+Notice of President of the United States, dated Apr. 15, 2025, 90 F.R. 16431, provided:
 
-On April 21, 2022, by Proclamation 10371, I declared a national emergency by reason of a disturbance or threatened disturbance of international relations of the United States and authorized the Secretary of Homeland Security to regulate the anchorage and movement of Russian-affiliated vessels, pursuant to the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) and section 1 of title II of Public Law 65–24, ch. 30, June 15, 1917, as amended (Magnuson Act) ([46 U.S.C. 70051](./chapter-700-ports-and-waterways-safety.md#section-70051)).
+On April 21, 2022, by Proclamation 10371, the President declared a national emergency by reason of a disturbance or threatened disturbance of international relations of the United States and authorized the Secretary of Homeland Security to regulate the anchorage and movement of Russian-affiliated vessels, pursuant to the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) and section 1 of title II of Public Law 65–24, ch. 30, June 15, 1917, as amended (Magnuson Act) ([46 U.S.C. 70051](./chapter-700-ports-and-waterways-safety.md#section-70051)).
 
-The policies and actions of the Government of the Russian Federation to continue the premeditated, unjustified, unprovoked, and brutal war against Ukraine continue to constitute a national emergency by reason of a disturbance or threatened disturbance of international relations of the United States. Therefore, in accordance with section 202(d) of the National Emergencies Act ([50 U.S.C. 1622(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1622/d&num=0&edition=prelim)), I am continuing for 1 year the national emergency with respect to the Russian Federation and the emergency authority relating to the regulation of the anchorage and movement of Russian-affiliated vessels to United States ports set out in Proclamation 10371.
+The policies and actions of the Government of the Russian Federation continue to constitute a national emergency by reason of a disturbance or threatened disturbance of international relations of the United States. Therefore, in accordance with section 202(d) of the National Emergencies Act ([50 U.S.C. 1622(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1622/d&num=0&edition=prelim)), I am continuing for 1 year the national emergency with respect to the Russian Federation and the emergency authority relating to the regulation of the anchorage and movement of Russian-affiliated vessels to United States ports set out in Proclamation 10371.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
-J.R. Biden, Jr.
+Donald J. Trump.
+
+Prior continuation of national emergency declared by Proc. No. 10371 was contained in the following:
+
+Notice of President of the United States, dated Apr. 16, 2024, 89 F.R. 27649.
 
 
 <a id="section-70052"></a>
@@ -1115,19 +1172,18 @@ J.R. Biden, Jr.
 
 **(e) Withholding of Clearance.—**
 
-(1) **In general.—** — If any owner, agent, master, officer, or person in charge of a vessel is liable for a penalty or fine under subsection (c), or if reasonable cause exists to believe that the owner, agent, master, officer, or person in charge may be subject to a penalty or fine under this section, the Secretary of the department in which the Coast Guard is operating may, with respect to such vessel, refuse or revoke any clearance required by section 4197 11 See References in Text note below. of the Revised Statutes of the United States (46 U.S.C. App. 91).
+(1) **In general.—** — If any owner, agent, master, officer, or person in charge of a vessel is liable for a penalty or fine under subsection (c), or if reasonable cause exists to believe that the owner, agent, master, officer, or person in charge may be subject to a penalty or fine under this section, the Secretary of the department in which the Coast Guard is operating may, with respect to such vessel, refuse or revoke any clearance required by section 60105.
 
 (2) **Clearance upon filing of bond or other surety.—** — The Secretary of the department in which the Coast Guard is operating may require the filing of a bond or other surety as a condition of granting clearance refused or revoked under this subsection.
 
 ### Statutory Notes
 
-#### References in Text
-Section 4197 of the Revised Statutes of the United States, referred to in subsec. (e)(1), was classified to section 91 of the former Appendix to this title, prior to repeal and restatement as [section 60105 of this title](./chapter-601-arrival-and-departure-requirements.md#section-60105) by Pub. L. 109–304, §§ 9(b), 19, Oct. 6, 2006, 120 Stat. 1675, 1710.
-
 #### Codification
 Section, as added by Pub. L. 115–282, is based on acts June 15, 1917, ch. 30, title II, § 2, 40 Stat. 220; Mar. 28, 1940, ch. 72, § 3(a), 54 Stat. 79; Nov. 15, 1941, ch. 471, § 3, 55 Stat. 763; Aug. 9, 1950, ch. 656, § 3, 64 Stat. 428; Pub. L. 107–295, title I, § 104(b), Nov. 25, 2002, 116 Stat. 2085; Pub. L. 108–293, title VIII, § 802(b), Aug. 9, 2004, 118 Stat. 1079; Pub. L. 115–282, title IV, § 407(c)(1), (2), Dec. 4, 2018, 132 Stat. 4267, which was formerly classified to [section 192 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section192&num=0&edition=prelim), War and National Defense, before being transferred to this chapter and renumbered as this section.
 
 #### Amendments
+2025—Subsec. (e)(1). Pub. L. 119–60 substituted “section 60105” for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)”.
+
 2021—Subsec. (e). Pub. L. 116–283 substituted “Secretary of the department in which the Coast Guard is operating” for “Secretary” in pars. (1) and (2).
 
 

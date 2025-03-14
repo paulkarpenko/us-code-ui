@@ -263,7 +263,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 <a id="section-9279"></a>
 ## § 9279. Distinguished flying cross: award; limitations
-**(a)** The President may award a distinguished flying cross of appropriate design with accompanying ribbon to any person who, while serving in any capacity with the Air Force, distinguishes himself by heroism or extraordinary achievement while participating in an aerial flight.
+**(a)** The President may award a distinguished flying cross of appropriate design with accompanying ribbon to any person who, while serving in any capacity with the Air Force or Space Force, distinguishes himself by heroism or extraordinary achievement while participating in an aerial or space flight.
 
 **(b)** Not more than one distinguished flying cross may be awarded to a person. However, for each succeeding act that would otherwise justify the award of such a cross, the President may award a suitable bar or other device to be worn as he directs.
 
@@ -277,6 +277,8 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 In subsection (a), the words “under such rules and regulations as he may prescribe” are omitted, since the President has inherent authority to issue regulations appropriate to exercising his functions. The words “but not in the name of Congress” are omitted as surplusage, since a medal is presented in the name of Congress only if the law so directs. The word “award” is substituted for the word “present” to cover the determination of the recipients as well as the actual presentation of the medal. The words “since the 6th day of April, 1917, has distinguished, or who, after July 2, 1926” and 10:1429 (proviso of 1st sentence) are omitted as executed.
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159 inserted “or Space Force” after “Air Force” and “or space” after “aerial”.
+
 2019—Subsec. (c). Pub. L. 116–92 struck out subsec. (c) which read as follows: “No distinguished flying cross, or device in place thereof, may be awarded or presented to a person whose service after he distinguished himself has not been honorable.”
 
 2018—Pub. L. 115–232 renumbered [section 8749 of this title](./chapter-871-civilian-employees.md#section-8749) as this section.
@@ -289,7 +291,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 ## § 9280. Airman’s Medal: award; limitations
 **(a)**
 
-(1) The President may award a decoration called the “Airman’s Medal”, of appropriate design with accompanying ribbon, to any person who, while serving in any capacity with the Air Force, distinguishes himself by heroism not involving actual conflict with an enemy.
+(1) The President may award a decoration called the “Airman’s Medal”, of appropriate design with accompanying ribbon, to any person who, while serving in any capacity with the Air Force or Space Force, distinguishes himself by heroism not involving actual conflict with an enemy.
 
 (2) The authority in paragraph (1) includes authority to award the medal to a member of the Ready Reserve who was not in a duty status defined in [section 101(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d&num=0&edition=prelim) when the member distinguished himself by heroism.
 
@@ -308,6 +310,8 @@ The words “Under such rules and regulations as he may prescribe” are omitted
 In subsection (b), the words “that would otherwise justify” are substituted for the words “sufficient to”.
 
 #### Amendments
+2024—Subsec. (a)(1). Pub. L. 118–159 inserted “or Space Force” after “Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 8750 of this title](./chapter-871-civilian-employees.md#section-8750) as this section.
 
 1997—Subsec. (a). Pub. L. 105–85 designated existing provisions as par. (1) and added par. (2).

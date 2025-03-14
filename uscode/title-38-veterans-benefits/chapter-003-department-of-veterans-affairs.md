@@ -2,7 +2,7 @@
 title: 38
 chapter: '3'
 heading: DEPARTMENT OF VETERANS AFFAIRS
-section_count: 25
+section_count: 26
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -139,9 +139,11 @@ Pub. L. 116–136, div. B, title X, § 20009, Mar. 27, 2020, 134 Stat. 588, prov
 [For definition of “public health emergency” as used in section 20009 of Pub. L. 116–136, set out above, see section 20003 of Pub. L. 116–136, set out below.]
 
 #### Secretary’s Approval of Research Using Canines, Felines, or Non-Human Primates
-Pub. L. 118–42, div. A, title II, § 247, Mar. 9, 2024, 138 Stat. 57, provided that: “(a) None of the funds appropriated or otherwise made available by this Act [div. A of Pub. L. 118–42, see Tables for classification] may be used to conduct research commencing on or after the date of enactment of this Act [Mar. 9, 2024], that uses any canine, feline, or non-human primate unless the Secretary of Veterans Affairs approves such research specifically and in writing pursuant to subsection (b). “(b)(1) The Secretary of Veterans Affairs may approve the conduct of research commencing on or after the date of enactment of this Act, using canines, felines, or non-human primates if the Secretary certifies that—“(A) the scientific objectives of the research can only be met by using such canines, felines, or non-human primates and cannot be met using other animal models, in vitro models, computational models, human clinical studies, or other research alternatives; “(B) such scientific objectives are necessary to advance research benefiting veterans and are directly related to an illness or injury that is combat-related as defined by [10 U.S.C. 1413(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1413/e&num=0&edition=prelim); “(C) the research is consistent with the revised Department of Veterans Affairs canine research policy document dated December 15, 2017, including any subsequent revisions to such document; and “(D) ethical considerations regarding minimizing the harm experienced by canines, felines, or non-human primates are included in evaluating the scientific necessity of the research. “(2) The Secretary may not delegate the authority under this subsection. “(c) If the Secretary approves any new research pursuant to subsection (b), not later than 30 days before the commencement of such research, the Secretary shall submit to the Committees on Appropriations of the Senate and House of Representatives a report describing—“(1) the nature of the research to be conducted using canines, felines, or non-human primates; “(2) the date on which the Secretary approved the research; “(3) the USDA pain category on the approved use; “(4) the justification for the determination of the Secretary that the scientific objectives of such research could only be met using canines, felines, or non-human primates, and methods used to make such determination; “(5) the frequency and duration of such research; and “(6) the protocols in place to ensure the necessity, safety, and efficacy of the research, and animal welfare. “(d) Not later than 180 days after the date of the enactment of this Act [Mar. 9, 2024], and biannually thereafter, the Secretary shall submit to such Committees a report describing—“(1) any research being conducted by the Department of Veterans Affairs using canines, felines, or non-human primates as of the date of the submittal of the report; “(2) the circumstances under which such research was conducted using canines, felines, or non-human primates; “(3) the justification for using canines, felines, or non-human primates to conduct such research; “(4) the protocols in place to ensure the necessity, safety, and efficacy of such research; and “(5) the development and adoption of alternatives to canines, felines, or non-human primate research. “(e) Not later than 180 days after the date of the enactment of this Act [Mar. 9, 2024], and annually thereafter, the Department of Veterans Affairs must submit to voluntary U.S. Department of Agriculture inspections of canine, feline, and non-human primate research facilities. “(f) Not later than 180 days after the date of the enactment of this Act, and annually thereafter, the Secretary shall submit to such Committees a report describing —“(1) any violations of the Animal Welfare Act, the Public Health Service Policy on Humane Care and Use of Laboratory Animals, or other Department of Veterans Affairs policies related to oversight of animal research found during that quarter in VA research facilities; “(2) immediate corrective actions taken; and “(3) specific actions taken to prevent their recurrence. “(g) The Department shall implement a plan under which the Secretary will eliminate the research conducted using canines, felines, or non-human primates by not later than 2 years after the date of enactment of this Act.”
+Pub. L. 119–37, div. D, title II, § 247, Nov. 12, 2025, 139 Stat. 618, provided that: “(a) None of the funds appropriated or otherwise made available by this Act [div. D of Pub. L. 119–37, see Tables for classification] may be used to conduct research commencing on or after July 1, 2025, that uses any canine, feline, or non-human primate unless the Secretary of Veterans Affairs approves such research specifically and in writing pursuant to subsection (b). “(b)(1) The Secretary of Veterans Affairs may approve the conduct of research commencing on or after July 1, 2025, using canines, felines, or non-human primates if the Secretary certifies that—“(A) the scientific objectives of the research can only be met by using such canines, felines, or non-human primates and cannot be met using other animal models, in vitro models, computational models, human clinical studies, or other research alternatives; “(B) such scientific objectives are necessary to advance research benefiting veterans and are directly related to an illness or injury that is combat-related as defined by [10 U.S.C. 1413(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1413/e&num=0&edition=prelim) [probably means [10 U.S.C. 1413a(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1413a/e&num=0&edition=prelim)]; “(C) the research is consistent with the revised Department of Veterans Affairs canine research policy document dated December 15, 2017, including any subsequent revisions to such document; and “(D) ethical considerations regarding minimizing the harm experienced by canines, felines, or non-human primates are included in evaluating the scientific necessity of the research. “(2) The Secretary may not delegate the authority under this subsection. “(c) If the Secretary approves any new research pursuant to subsection (b), not later than 30 days before the commencement of such research, the Secretary shall submit to the Committees on Appropriations of the Senate and House of Representatives a report describing—“(1) the nature of the research to be conducted using canines, felines, or non-human primates; “(2) the date on which the Secretary approved the research; “(3) the USDA pain category on the approved use; “(4) the justification for the determination of the Secretary that the scientific objectives of such research could only be met using canines, felines, or non-human primates, and methods used to make such determination; “(5) the frequency and duration of such research; and “(6) the protocols in place to ensure the necessity, safety, and efficacy of the research, and animal welfare. “(d) Not later than December 31, 2025, and biannually thereafter, the Secretary shall submit to such Committees a report describing—“(1) any research being conducted by the Department of Veterans Affairs using canines, felines, or non-human primates as of the date of the submittal of the report; “(2) the circumstances under which such research was conducted using canines, felines, or non-human primates; “(3) the justification for using canines, felines, or non-human primates to conduct such research; “(4) the protocols in place to ensure the necessity, safety, and efficacy of such research; and “(5) the development and adoption of alternatives to canines, felines, or non-human primate research. “(e) Not later than December 31, 2025, and annually thereafter, the Department of Veterans Affairs must submit to voluntary U.S. Department of Agriculture inspections of canine, feline, and non-human primate research facilities. “(f) Not later than December 31, 2025, and annually thereafter, the Secretary shall submit to such Committees a report describing—“(1) any violations of the Animal Welfare Act [[7 U.S.C. 2131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2131&num=0&edition=prelim) et seq.], the Public Health Service Policy on Humane Care and Use of Laboratory Animals, or other Department of Veterans Affairs policies related to oversight of animal research found during that quarter in VA research facilities; “(2) immediate corrective actions taken; and “(3) specific actions taken to prevent their recurrence. “(g) The Department shall implement a plan under which the Secretary will eliminate the research conducted using canines, felines, or non-human primates by not later than September 20, 2026.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 118–42, div. A, title II, § 247, Mar. 9, 2024, 138 Stat. 57.
 
 Pub. L. 117–328, div. J, title II, § 247, Dec. 29, 2022, 136 Stat. 4967.
 
@@ -539,14 +541,14 @@ Provisions similar to those in this section were contained in section 8(a) of Pu
 
 (7)
 
-  (A) The authority provided by paragraph (1)(A) shall terminate on September 30, 2025.
+  (A) The authority provided by paragraph (1)(A) shall terminate on September 30, 2026.
 
   (B) The termination of authority by subparagraph (A) shall not affect the enforceability of a subpoena issued under paragraph (1)(A) before the date of such termination.
 
 ### Statutory Notes
 
 #### References in Text
-The Inspector General Act of 1978 and that Act, referred to in subsecs. (a) and (d)(1)(A), (6)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§ 401 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. Section 5(b) of the Act was repealed and restated as [section 405(b) of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section405/b&num=0&edition=prelim). For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
+The Inspector General Act of 1978 and that Act, referred to in subsecs. (a) and (d)(1)(A), (6)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§ 401 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. Section 5(b) of the Act was repealed and restated as [section 405(c) of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section405/c&num=0&edition=prelim). For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 #### Prior Provisions
 Prior section 312 was renumbered [section 1112 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1112).
@@ -554,6 +556,8 @@ Prior section 312 was renumbered [section 1112 of this title](./chapter-011-comp
 Provisions similar to those in this section were contained in section 9(b) of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, § 3(3).
 
 #### Amendments
+2025—Subsec. (d)(7)(A). Pub. L. 119–37 substituted “September 30, 2026” for “September 30, 2025”.
+
 2024—Subsec. (d)(7)(A). Pub. L. 118–83 substituted “September 30, 2025” for “May 31, 2025”.
 
 2022—Subsec. (a). Pub. L. 117–286, § 4(b)(60)(A), substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978 (5 U.S.C. App.).”
@@ -573,8 +577,14 @@ Subsec. (b)(3). Pub. L. 103–446, § 1201(g)(1), struck out par. (3) which read
 #### Change of Name
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under [section 111A of this title](./chapter-001-general.md#section-111a).
+
 #### Effective Date of 2022 Amendment
 Pub. L. 117–136, § 2(b), June 7, 2022, 136 Stat. 1252, provided that: “(1) In general.—Subsection (d) of [section 312 of title 38](./chapter-003-department-of-veterans-affairs.md#section-312), United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act [June 7, 2022]. “(2) Semiannual report.—Paragraph (6) of subsection (d) of such section, as so added, shall apply beginning on the date that is seven months after the first day of the first fiscal year beginning after the date of the enactment of this Act.”
+
+#### Department of Veterans Affairs Employee Training Regarding Office of Inspector General
+Pub. L. 118–210, title V, § 501, Jan. 2, 2025, 138 Stat. 2797, provided that: “(a) Training.—The Secretary of Veterans Affairs shall require each employee of the Department of Veterans Affairs who begins employment with the Department on or after the date of the enactment of this Act [Jan. 2, 2025] to receive training that the Inspector General of the Department shall develop on the reporting of wrongdoing to, responding to requests from, and the duty of cooperating with the Office of Inspector General of the Department. “(b) Timing of Training.—In carrying out subsection (a), the Secretary shall require each employee of the Department covered under such subsection to undergo the training required by such subsection not later than one year after the date on which the employee begins employment with the Department. “(c) Elements.—Training developed and required under subsection (a) shall include the following:“(1) Definition of the role, responsibilities, and legal authority of the Inspector General of the Department and the duties of employees of the Department for engaging with the Office of Inspector General. “(2) Identification of Federal whistleblower protection rights, including the right to report fraud, waste, abuse, and other wrongdoing to Congress. “(3) Identification of the circumstances and mechanisms for reporting fraud, waste, abuse, and other wrongdoing to the Inspector General, including making confidential complaints to the Inspector General. “(4) Identification of the prohibitions and remedies that help to protect employees of the Department from retaliation when reporting wrongdoing to the Inspector General. “(5) Recognition of opportunities to engage with staff of the Office of Inspector General to improve programs, operations, and services of the Department. “(6) Notification of the authority of the Inspector General to subpoena the attendance and testimony of witnesses, including former employees of the Department, as necessary to carry out the duties of the Office of Inspector General under [section 312 of title 38](./chapter-003-department-of-veterans-affairs.md#section-312), United States Code. “(d) Design and Update.—The Inspector General of the Department shall design, and update as the Inspector General considers appropriate, the training developed and required by subsection (a). “(e) System.—The Secretary shall provide, via the talent management system of the Department, or successor system, the training developed and required under subsection (a). “(f) Relation to Certain Training.—The Secretary shall ensure that training developed and required under subsection (a) is separate and distinct from training provided under [section 733 of title 38](./chapter-007-employees.md#section-733), United States Code. “(g) Notice to Employees.—The Secretary shall ensure that the Inspector General is afforded the opportunity, not less frequently than twice each year and more frequently if the Inspector General considers appropriate under extraordinary circumstances, to use the electronic mail system of the Department to notify all authorized users of such system of the following:“(1) The roles and responsibilities of the employees of the Department when engaging with the Office of Inspector General. “(2) The availability of training provided under subsection (a). “(3) How to access training provided under subsection (a). “(4) Information about how to contact the Office of Inspector General, including a link to any website-based reporting form of the Office.”
 
 
 <a id="section-312a"></a>
@@ -654,7 +664,7 @@ Provisions similar to those in this section were contained in [section 230(a) of
 ## § 315. Regional offices
 **(a)** The Secretary may establish such regional offices and such other field offices within the United States, its Territories, Commonwealths, and possessions, as the Secretary considers necessary.
 
-**(b)** The Secretary may maintain a regional office in the Republic of the Philippines until September 30, 2025.
+**(b)** The Secretary may maintain a regional office in the Republic of the Philippines until September 30, 2026.
 
 ### Statutory Notes
 
@@ -664,6 +674,8 @@ Prior section 315 was renumbered [section 1115 of this title](./chapter-011-comp
 Provisions similar to those in this section were contained in section 230(a), (b) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–37 substituted “September 30, 2026” for “September 30, 2025”.
+
 2024—Subsec. (b). Pub. L. 118–83 substituted “September 30, 2025” for “September 30, 2024”.
 
 2022—Subsec. (b). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”.
@@ -701,6 +713,9 @@ Provisions similar to those in this section were contained in section 230(a), (b
 1993—Subsec. (b). Pub. L. 103–210 substituted “December 31, 1994” for “March 31, 1994”.
 
 1992—Subsec. (b). Pub. L. 102–291 substituted “March 31, 1994” for “September 30, 1991”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under [section 111A of this title](./chapter-001-general.md#section-111a).
 
 #### Effective Date of 1992 Amendment
 Pub. L. 102–291, § 1(b), May 20, 1992, 106 Stat. 178, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of September 30, 1991.”
@@ -1302,3 +1317,83 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 #### Authority To Use Appropriations To Enhance Claims Processing Capacity and Automation
 Pub. L. 117–168, title VII, § 701(a), Aug. 10, 2022, 136 Stat. 1794, provided that: “The Secretary of Veterans Affairs may use, from amounts appropriated to the Cost of War Toxic Exposures Fund established by [section 324 of title 38](./chapter-003-department-of-veterans-affairs.md#section-324), United States Code, as added by section 805 of this Act, such amounts as may be necessary to continue the modernization, development, and expansion of capabilities and capacity of information technology systems and infrastructure of the Veterans Benefits Administration, including for claims automation, to support expected increased claims processing for newly eligible veterans pursuant to this Act [see Short Title of 2022 Amendment note set out under [section 101 of this title](./chapter-001-general.md#section-101)].”
+
+
+<a id="section-325"></a>
+## § 325. Veterans experience office 11 So in original. Probably should be “Veterans Experience Office”.
+**(a) Establishment.—** There is established in the Department within the Office of the Secretary an office to be known as the “Veterans Experience Office” (in this section referred to as the “Office”).
+
+**(b) Head of Office.—**
+
+(1) The head of the Office shall be the Chief Veterans Experience Officer.
+
+(2) The Chief Veterans Experience Officer shall—
+
+  (A) be appointed by the Secretary from among individuals the Secretary considers qualified to perform the duties of the position;
+
+  (B) report directly to the Secretary; and
+
+  (C) be responsible for carrying out the functions of the Office set forth under subsection (c).
+
+**(c) Function.—** The functions of the Office are as follows:
+
+(1) Carrying out the key customer experience initiatives of the Department relating to veterans’ and other beneficiaries’ satisfaction with and usage of benefits and services furnished under laws administered by the Secretary for which they are eligible, including setting the strategy, framework, policy, and other guidance for the Department relating to customer experience, including ensuring the activities of the Office and those of other organizations and offices within the Department are coordinated and not duplicative.
+
+(2) Requiring the heads of other organizations and offices within the Department to report regularly on customer experience metrics, action plans, and other customer experience improvement efforts to the Chief Veterans Experience Officer.
+
+(3) Collecting veteran-derived data—
+
+  (A) to determine veteran and beneficiary satisfaction with and usage of the benefits and services furnished under laws administered by the Secretary for which they are eligible; and
+
+  (B) to be considered during policymaking.
+
+(4) Providing strategic guidance and strategies to Department entities for engaging with veterans and beneficiaries regarding benefits and services furnished under laws administered by the Secretary, including those not using such benefits and services.
+
+(5) Assessing and advising the Secretary on the accuracy and helpfulness of the websites and other customer-facing information of the Department, be it available electronically or in any other format.
+
+(6) Assessing and advising the Secretary on the status and opportunities for improvement of the customer service efforts of the Department.
+
+**(d) Reports.—**
+
+(1) Each year, the Chief Veterans Experience Officer shall submit to the Secretary a summary of the data received by the Chief Veterans Experience Officer under subsection (c)(2).
+
+(2) Each year, not later than 180 days after the date on which the Secretary receives the summary under paragraph (1), the Secretary shall submit to Congress an annual summary and analysis of the matters summarized pursuant to such paragraph.
+
+(3) Each annual summary submitted pursuant to paragraph (2) shall include the following:
+
+  (A) Data regarding customer service and experience feedback, disaggregated by benefit or service furnished under laws administered by the Secretary, and relevant demographic data of the veterans and beneficiaries providing the feedback.
+
+  (B) Data regarding veteran and beneficiary satisfaction with and usage of benefits or services, disaggregated by benefit or service furnished under laws administered by the Secretary, and relevant demographic data of the veterans and beneficiaries providing the feedback, including—
+
+    (i) potential reasons for not using the benefits or services, such as—
+
+      (I) eligibility;
+
+      (II) lack of knowledge or awareness of existence of benefit or service;
+
+      (III) barriers of technology, information, or time; and
+
+      (IV) other related reasons; and
+
+    (ii) an analysis of how such reasons may be addressed.
+
+**(e) Staff and Resources.—**
+
+(1) The Secretary shall ensure that—
+
+  (A) the Office has such staff, resources, and access to customer service and experience information as may be necessary to carry out the functions of the Office; and
+
+  (B) any information provided to the Office does not include personally identifiable information of an individual veteran, survivor, dependent, or other beneficiary unless such individual provides appropriate consent to allow such information to be shared with the Office.
+
+(2) Funds available for basic pay and other administrative expenses of other Department organizations and offices may be available to reimburse the Office for all services provided at rates which will recover actual costs for services provided to such organizations if the Secretary determines that contributing to such costs will not undermine the ability of any such organization or office to provide services required by such office.
+
+(3) Nothing in this subsection shall be construed to authorize an increase in the number of full-time employees otherwise authorized for the Department.
+
+**(f) Privacy.—** Nothing in this section shall be construed to authorize the Chief Veterans Experience Officer to disclose any record in contravention of [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim) (commonly referred to as the “Privacy Act of 1974”).
+
+**(g) Sunset.—** The requirements and authorities of this section shall terminate on September 30, 2028.
+
+### Statutory Notes
+
+#### Short Title
+For short title of section 2 of Pub. L. 119–33, which enacted this section, as the “Improving Veterans’ Experience Act of 2025”, see section 2(a) of Pub. L. 119–33, set out as a Short Title of 2025 Amendment note under [section 101 of this title](./chapter-001-general.md#section-101).

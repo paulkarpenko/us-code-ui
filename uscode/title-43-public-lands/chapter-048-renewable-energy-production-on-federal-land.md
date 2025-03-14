@@ -2,7 +2,7 @@
 title: 43
 chapter: '48'
 heading: RENEWABLE ENERGY PRODUCTION ON FEDERAL LAND
-section_count: 6
+section_count: 8
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43&num=0&edition=prelim
 ---
@@ -228,3 +228,157 @@ Section was enacted as part of Pub. L. 117–169, and not as part of subtitle B 
 
 #### Definitions
 Pub. L. 117–169, title V, § 50211, Aug. 16, 2022, 136 Stat. 2052, provided that: “In this subtitle [subtitle B (§§ 50211–50281), enacting this section, [section 1356c of this title](./chapter-029-submerged-lands.md#section-1356c), and [section 1727 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1727&num=0&edition=prelim), Mineral Lands and Mining, and amending sections 1331, 1337, and 1344 of this title and sections 188 and 226 of Title 30]: “(1) Secretary.—The term ‘Secretary’ means the Secretary of the Interior. “(2) United states insular areas.—The term ‘United States Insular Areas’ means American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, the Commonwealth of Puerto Rico, and the United States Virgin Islands.”
+
+
+<a id="section-3007"></a>
+## § 3007. Renewable energy fees on Federal land
+**(a) Definitions** In this section:
+
+(1) **Annual Adjustment Factor** — The term “Annual Adjustment Factor” means 3 percent.
+
+(2) **Encumbrance Factor** — The term “Encumbrance Factor” means—
+
+  (A) 100 percent for a solar energy generation facility; and
+
+  (B) an amount determined by the Secretary, but not less than 10 percent for a wind energy generation facility.
+
+(3) **National Forest System**
+
+  (A) *In general* — The term “National Forest System” means land of the National Forest System (as defined in [section 1609(a) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1609/a&num=0&edition=prelim)) administered by the Secretary of Agriculture.
+
+  (B) *Exclusion* — The term “National Forest System” does not include any forest reserve not created from the public domain.
+
+(4) **Per-Acre Rate** — The term “Per-Acre Rate”, with respect to a right-of-way, means the average of the per-acre pastureland rental rates published in the Cash Rents Survey by the National Agricultural Statistics Service for the State in which the right-of-way is located over the 5 calendar-year period preceding the issuance or renewal of the right-of-way.
+
+(5) **Project** — The term “project” means a system described in section 2801.9(a)(4) of title 43, Code of Federal Regulations (as in effect on July 4, 2025).
+
+(6) **Public land** — The term “public land” means—
+
+  (A) public lands (as defined in [section 1702 of this title](./chapter-035-federal-land-policy-and-management.md#section-1702)); and
+
+  (B) National Forest System land.
+
+(7) **Renewable energy project** — The term “renewable energy project” means a project located on public land that uses wind or solar energy to generate energy.
+
+(8) **Right-of-way** — The term “right-of-way” has the meaning given the term in [section 1702 of this title](./chapter-035-federal-land-policy-and-management.md#section-1702).
+
+(9) **Secretary** — The term “Secretary” means—
+
+  (A) the Secretary of the Interior, with respect to land controlled or administered by the Secretary of the Interior; and
+
+  (B) the Secretary of Agriculture, with respect to National Forest System land.
+
+**(b) Acreage rent for wind and solar rights-of-way**
+
+(1) **In general** — Pursuant to [section 1764(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1764/g&num=0&edition=prelim), the Secretary shall, subject to paragraph (3) and not later than January 1 of each calendar year, collect from the holder of a right-of-way for a renewable energy project an acreage rent in an amount determined by the equation described in paragraph (2).
+
+(2) **Calculation of acreage rent rate**
+
+  (A) *Equation* — The amount of an acreage rent collected under paragraph (1) shall be determined using the following equation: Acreage rent = A × B × ((1 + C)D)).
+
+  (B) *Definitions* — For purposes of the equation described in subparagraph (A):
+
+    (i) The letter “A” means the Per-Acre Rate.
+
+    (ii) The letter “B” means the Encumbrance Factor.
+
+    (iii) The letter “C” means the Annual Adjustment Factor.
+
+    (iv) The letter “D” means the year in the term of the right-of-way.
+
+(3) **Payment until production** — The holder of a right-of-way for a renewable energy project shall pay an acreage rent collected under paragraph (1) until the date on which energy generation begins.
+
+**(c) Capacity fees**
+
+(1) **In general** — The Secretary shall, subject to paragraph (3), annually collect a capacity fee from the holder of a right-of-way for a renewable energy project based on the amount described in paragraph (2).
+
+(2) **Calculation of capacity fee** — The amount of a capacity fee collected under paragraph (1) shall be equal to the greater of—
+
+  (A) an amount equal to the acreage rent described in subsection (b); and
+
+  (B) 3.9 percent of the gross proceeds from the sale of electricity produced by the renewable energy project.
+
+(3) **Multiple-use reduction factor**
+
+  (A) *Application* — The holder of a right-of-way for a wind energy generation project may request that the Secretary apply a multiple-use reduction factor of 10-percent to the amount of a capacity fee determined under paragraph (2) by submitting to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+  (B) *Approval* — The Secretary may approve an application submitted under subparagraph (A) only if not less than 25 percent of the land within the area of the right-of-way is authorized for use, occupancy, or development with respect to an activity other than the generation of wind energy for the entirety of the year in which the capacity fee is collected.
+
+  (C) *Late determination*
+
+    (i) *In general* — If the Secretary approves an application under subparagraph (B) for a wind energy generation project after the date on which the holder of the right-of-way for the project begins paying a capacity fee, the Secretary shall apply the multiple-use reduction factor described in subparagraph (A) to the capacity fee for the first year beginning after the date of approval and each year thereafter for the period during which the right-of-way remains in effect.
+
+    (ii) *Refund* — The Secretary may not refund the holder of a right-of-way for the difference in the amount of a capacity fee paid in a previous year.
+
+**(d) Late payment fee; termination**
+
+(1) **In general** — The Secretary may charge the holder of a right-of-way for a renewable energy project a late payment fee if the Secretary does not receive payment for the acreage rent under subsection (b) or the capacity fee under subsection (c) by the date that is 15 days after the date on which the payment was due.
+
+(2) **Termination of right-of-way** — The Secretary may terminate a right-of-way for a renewable energy project if the Secretary does not receive payment for the acreage rent under subsection (b) or the capacity fee under subsection (c) by the date that is 90 days after the date on which the payment was due.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of Pub. L. 119–21, and not as part of subtitle B of title III of div. Z of Pub. L. 116–260 which comprises this chapter.
+
+
+<a id="section-3008"></a>
+## § 3008. Renewable energy revenue sharing
+**(a) Definitions** In this section:
+
+(1) **County** — The term “county” includes a parish, township, borough, and any other similar, independent unit of local government.
+
+(2) **Covered land** — The term “covered land” means land that is—
+
+  (A) public land administered by the Secretary; and
+
+  (B) not excluded from the development of solar or wind energy under—
+
+    (i) a land use plan; or
+
+    (ii) other Federal law.
+
+(3) **National Forest System**
+
+  (A) *In general* — The term “National Forest System” means land of the National Forest System (as defined in [section 1609(a) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1609/a&num=0&edition=prelim)) administered by the Secretary of Agriculture.
+
+  (B) *Exclusion* — The term “National Forest System” does not include any forest reserve not created from the public domain.
+
+(4) **Public land** — The term “public land” means—
+
+  (A) public lands (as defined in [section 1702 of this title](./chapter-035-federal-land-policy-and-management.md#section-1702)); and
+
+  (B) National Forest System land.
+
+(5) **Renewable energy project** — The term “renewable energy project” means a system described in section 2801.9(a)(4) of title 43, Code of Federal Regulations (as in effect on July 4, 2025), located on covered land that uses wind or solar energy to generate energy.
+
+(6) **Secretary** — The term “Secretary” means—
+
+  (A) the Secretary of the Interior, with respect to land controlled or administered by the Secretary of the Interior; and
+
+  (B) the Secretary of Agriculture, with respect to National Forest System land.
+
+**(b) Disposition of revenue**
+
+(1) **Disposition of revenues** — Beginning on January 1, 2026, the amounts collected from a renewable energy project as bonus bids, rentals, fees, or other payments under a right-of-way, permit, lease, or other authorization shall—
+
+  (A) be deposited in the general fund of the Treasury; and
+
+  (B) without further appropriation or fiscal year limitation, be allocated as follows:
+
+    (i) 25 percent shall be paid from amounts in the general fund of the Treasury to the State within the boundaries of which the revenue is derived.
+
+    (ii) 25 percent shall be paid from amounts in the general fund of the Treasury to each county in a State within the boundaries of which the revenue is derived, to be allocated among each applicable county based on the percentage of county land from which the revenue is derived.
+
+(2) **Payments to States and counties**
+
+  (A) *In general* — Amounts paid to States and counties under paragraph (1) shall be used in accordance with the requirements of [section 191 of title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section191&num=0&edition=prelim).
+
+  (B) *Payments in lieu of taxes* — A payment to a county under paragraph (1) shall be in addition to a payment in lieu of taxes received by the county under chapter 69 of title 31.
+
+  (C) *Timing* — The amounts required to be paid under paragraph (1)(B) for an applicable fiscal year shall be made available in the fiscal year that immediately follows the fiscal year for which the amounts were collected.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of Pub. L. 119–21, and not as part of subtitle B of title III of div. Z of Pub. L. 116–260 which comprises this chapter.

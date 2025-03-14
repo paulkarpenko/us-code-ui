@@ -2,7 +2,7 @@
 title: 40
 chapter: '33'
 heading: 'ACQUISITION, CONSTRUCTION, AND ALTERATION'
-section_count: 19
+section_count: 20
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40&num=0&edition=prelim
 ---
@@ -332,7 +332,7 @@ Sec. 5. Judicial Review. This order is not intended to create, nor does it creat
 
 (3) An appropriation to alter any building, or part of the building, which is under lease by the Federal Government for use for a public purpose if the cost of the alteration will exceed $750,000.
 
-**(b) Transmission to Congress of Prospectus of Proposed Project.—** To secure consideration for the approval referred to in subsection (a), the Administrator of General Services shall transmit to Congress a prospectus of the proposed facility, including—
+**(b) Transmission to Congress of Prospectus of Proposed Project.—** To secure consideration for the approval referred to in subsection (a), the Administrator of General Services (referred to in this section as the “Administrator”) shall transmit to Congress a prospectus of the proposed facility, including—
 
 (1) a brief description of the building to be constructed, altered, or acquired, or the space to be leased, under this chapter;
 
@@ -346,11 +346,17 @@ Sec. 5. Judicial Review. This order is not intended to create, nor does it creat
 
 (6) a statement of rents and other housing costs currently being paid by the Government for federal agencies to be housed in the building to be constructed, altered, or acquired, or the space to be leased;
 
-(7) with respect to any prospectus for the construction, alteration, or acquisition of any building or space to be leased, an estimate of the future energy performance of the building or space and a specific description of the use of energy efficient and renewable energy systems, including photovoltaic systems, in carrying out the project; and
+(7) with respect to any prospectus for the construction, alteration, or acquisition of any building or space to be leased, an estimate of the future energy performance of the building or space and a specific description of the use of energy efficient and renewable energy systems, including photovoltaic systems, in carrying out the project;
 
-(8) a statement of how the proposed project is consistent with the standards and criteria developed under section 11(b) of the Federal Assets Sale and Transfer Act of 2016.
+(8) a statement of how the proposed project is consistent with the standards and criteria developed under section 11(b) of the Federal Assets Sale and Transfer Act of 2016;
 
-**(c) Increase of Estimated Maximum Cost.—** The estimated maximum cost of any project approved under this section as set forth in any prospectus may be increased by an amount equal to any percentage increase, as determined by the Administrator, in construction or alteration costs from the date the prospectus is transmitted to Congress. The increase authorized by this subsection may not exceed 10 percent of the estimated maximum cost.
+(9) information on any space occupied by the relevant agency in the geographical area of the proposed facility, including uses, utilization rates, any proposed consolidations, and, if not proposed to be consolidated, a justification for such determination;
+
+(10) a statement by the Administrator of whether the public building needs of the Government for the proposed space to be leased were formerly met by a federally owned building, including any building identified for disposal or sale; and
+
+(11) details on actual utilization rates, including number of personnel assigned to the facility, number of personnel expected to work in-person at the facility and whether all personnel identified reflect filled and authorized positions.
+
+**(c) Increase of Estimated Maximum Cost.—** The estimated maximum cost of any project approved under this section as set forth in any prospectus may be increased by an amount equal to any percentage increase, as determined by the Administrator, in construction or alteration costs from the date the prospectus is transmitted to Congress. The increase authorized by this subsection may not exceed 10 percent of the estimated maximum cost. The Administrator shall notify, in writing, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of any increase of more than 5 percent of an estimated maximum cost or of any increase or decrease in the scope or size of a project of 5 or more percent. Such notification shall include an explanation regarding any such increase or decrease. The scope or size of a project shall not increase or decrease by more than 10 percent unless an amended prospectus is submitted and approved pursuant to this section.
 
 **(d) Rescission of Approval.—** If an appropriation is not made within one year after the date a project for construction, alteration, or acquisition is approved under subsection (a), the Committee on Environment and Public Works of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives by resolution may rescind its approval before an appropriation is made.
 
@@ -376,6 +382,24 @@ Sec. 5. Judicial Review. This order is not intended to create, nor does it creat
 
 **(h) Dollar Amount Adjustment.—** The Administrator annually may adjust any dollar amount referred to in this section to reflect a percentage increase or decrease in construction costs during the prior calendar year, as determined by the composite index of construction costs of the Department of Commerce. Any adjustment shall be expeditiously reported to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
+**(i) Notification Required.—** For each project approved under this section, the Administrator shall notify, in writing, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of any project milestones that are accomplished, including—
+
+(1) the solicitation and award of design and construction services;
+
+(2) the completion of any actions required for the project pursuant to the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.);
+
+(3) any ceremonies for the beginning or completion of the project;
+
+(4) a naming ceremony for the project; and
+
+(5) the completion of the project.
+
+**(j) Expiration of Committee Resolutions.—**
+
+(1) **In general.—** — Unless a lease is awarded or a construction, alteration, repair, design, or acquisition project is initiated not later than 5 years after the resolution approvals adopted by the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate pursuant to subsection (a), the resolutions shall be deemed expired.
+
+(2) **Application.—** — This subsection shall only apply to resolutions approved after the date of enactment of this subsection.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -400,7 +424,21 @@ In subsection (f)(2)(A), the word “first” is omitted as unnecessary.
 #### References in Text
 Section 11(b) of the Federal Assets Sale and Transfer Act of 2016, referred to in subsec. (b)(8), is section 11(b) of Pub. L. 114–287, which is set out in a note under [section 1303 of this title](./chapter-013-public-property.md#section-1303).
 
+The National Environmental Policy Act of 1969, referred to in subsec. (i)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+The date of enactment of this subsection, referred to subsec. (j)(2), is the date of enactment of Pub. L. 118–272, which was approved Jan. 4, 2025.
+
 #### Amendments
+2025—Subsec. (b). Pub. L. 118–272, § 2304(c)(1), inserted “(referred to in this section as the ‘Administrator’)” after “Administrator of General Services” in introductory provisions.
+
+Subsec. (b)(9) to (11). Pub. L. 118–272, § 2304(c)(2)–(4), added pars. (9) to (11).
+
+Subsec. (c). Pub. L. 118–272, § 2304(a), inserted at end “The Administrator shall notify, in writing, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of any increase of more than 5 percent of an estimated maximum cost or of any increase or decrease in the scope or size of a project of 5 or more percent. Such notification shall include an explanation regarding any such increase or decrease. The scope or size of a project shall not increase or decrease by more than 10 percent unless an amended prospectus is submitted and approved pursuant to this section.”
+
+Subsec. (i). Pub. L. 118–272, § 2304(f), added subsec. (i).
+
+Subsec. (j). Pub. L. 118–272, § 2310, added subsec. (j).
+
 2016—Subsec. (b)(8). Pub. L. 114–287 added par. (8).
 
 2007—Subsec. (b)(7). Pub. L. 110–140, § 323(a), added par. (7).
@@ -909,3 +947,9 @@ Pub. L. 116–30, § 2(c), July 25, 2019, 133 Stat. 1033, provided that: “The 
 
 #### References in Text
 The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 116–333, which was approved Jan. 13, 2021.
+
+
+<a id="section-3319"></a>
+## § 3319. Interagency space coordination
+
+Unless a Federal agency specifically restricts the sharing of the information described in this section for national security purposes, the Administrator of General Services shall share with tenant Federal agencies pursuing new or replacement office space information on any other Federal agencies located in the same geographical area for purposes of determining opportunities for consolidations, collocations, or other space sharing to reduce the costs of space and maximize space utilization.

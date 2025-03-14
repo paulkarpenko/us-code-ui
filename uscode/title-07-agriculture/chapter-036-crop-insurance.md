@@ -54,7 +54,7 @@ Pub. L. 106–224, title I, § 173, June 20, 2000, 114 Stat. 398, provided that:
 
 (2) **Approved insurance provider** — The term “approved insurance provider” means a private insurance provider that has been approved by the Corporation to provide insurance coverage to producers participating in the Federal crop insurance program established under this subchapter.
 
-(3) **Beginning farmer or rancher** — The term “beginning farmer or rancher” means a farmer or rancher who has not actively operated and managed a farm or ranch with a bona fide insurable interest in a crop or livestock as an owner-operator, landlord, tenant, or sharecropper for more than 5 crop years, as determined by the Secretary.
+(3) **Beginning farmer or rancher** — The term “beginning farmer or rancher” means a farmer or rancher who has not actively operated and managed a farm or ranch with a bona fide insurable interest in a crop or livestock as an owner-operator, landlord, tenant, or sharecropper for more than 10 crop years, as determined by the Secretary.
 
 (4) **Board** — The term “Board” means the Board of Directors of the Corporation established under [section 1505(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1505/a&num=0&edition=prelim).
 
@@ -135,6 +135,8 @@ The Commodity Exchange Act, referred to in subsec. (d)(1)(B), (2), is act Sept. 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (b)(3). Pub. L. 119–21 substituted “10” for “5”.
+
 2018—Subsec. (b)(6) to (13). Pub. L. 115–334, § 11101, added pars. (6) and (9) and redesignated former pars. (6) to (11) as (7), (8), and (10) to (13), respectively.
 
 Subsec. (b)(14). Pub. L. 115–334, § 12306(b)(1), added par. (14).
@@ -1035,7 +1037,13 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
     (i) shall be dollar denominated; and
 
-    (ii) may be purchased at any level not to exceed 85 percent of the individual yield or 95 percent of the area yield (as determined by the Corporation).
+    (ii) may be purchased at any level not to exceed—
+
+      (I) in the case of the individual yield or revenue coverage, 85 percent;
+
+      (II) in the case of individual yield or revenue coverage aggregated across multiple commodities, 90 percent; and
+
+      (III) in the case of area yield or revenue coverage (as determined by the Corporation), 95 percent.
 
   (B) *Information* — The Corporation shall provide producers with information on catastrophic risk and additional coverage in terms of dollar coverage (within the allowable limits of coverage provided in this paragraph).
 
@@ -1047,15 +1055,15 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
       (II) in counties that lack sufficient data, on the basis of such larger geographical area as the Corporation determines to provide sufficient data for purposes of providing the coverage.
 
-    (ii) *Trigger* — Coverage offered under paragraph (3)(B) and clause (i) shall be triggered only if the losses in the area exceed 14 percent of normal levels (as determined by the Corporation).
+    (ii) *Trigger* — Coverage offered under paragraph (3)(B) and clause (i) shall be triggered only if the losses in the area exceed 10 percent of normal levels (as determined by the Corporation).
 
     (iii) *Coverage* — Subject to the trigger described in clause (ii), coverage offered under paragraph (3)(B) and clause (i) shall not exceed the difference between—
 
-      (I) 86 percent; and
+      (I) 90 percent; and
 
       (II) the coverage level selected by the producer for the underlying policy or plan of insurance.
 
-    (iv) *Ineligible crops and acres* — Crops for which the producer has elected under [section 9016 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9016) to receive agriculture risk coverage and acres that are enrolled in the stacked income protection plan under [section 1508b of this title](./chapter-036-crop-insurance.md#section-1508b) shall not be eligible for supplemental coverage under this subparagraph.
+    (iv) *Ineligible crops and acres* — Acres that are enrolled in the stacked income protection plan under [section 1508b of this title](./chapter-036-crop-insurance.md#section-1508b) shall not be eligible for supplemental coverage under this subparagraph.
 
     (v) *Calculation of premium* — Notwithstanding subsection (d), the premium for coverage offered under paragraph (3)(B) and clause (i) shall—
 
@@ -1191,37 +1199,37 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
   (C) In the case of additional coverage equal to or greater than 55 percent, but less than 65 percent, of the recorded or appraised average yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policy or plan of insurance that is not based on individual yield, the amount shall be equal to the sum of—
 
-    (i) 64 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
+    (i) 69 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
 
     (ii) the amount determined under subsection (d)(2)(B)(ii) for the coverage level selected to cover operating and administrative expenses.
 
   (D) In the case of additional coverage equal to or greater than 65 percent, but less than 75 percent, of the recorded or appraised average yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policy or plan of insurance that is not based on individual yield, the amount shall be equal to the sum of—
 
-    (i) 59 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
+    (i) 64 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
 
     (ii) the amount determined under subsection (d)(2)(B)(ii) for the coverage level selected to cover operating and administrative expenses.
 
   (E) In the case of additional coverage equal to or greater than 75 percent, but less than 80 percent, of the recorded or appraised average yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policy or plan of insurance that is not based on individual yield, the amount shall be equal to the sum of—
 
-    (i) 55 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
+    (i) 60 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
 
     (ii) the amount determined under subsection (d)(2)(B)(ii) for the coverage level selected to cover operating and administrative expenses.
 
   (F) In the case of additional coverage equal to or greater than 80 percent, but less than 85 percent, of the recorded or appraised average yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policy or plan of insurance that is not based on individual yield, the amount shall be equal to the sum of—
 
-    (i) 48 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
+    (i) 51 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
 
     (ii) the amount determined under subsection (d)(2)(B)(ii) for the coverage level selected to cover operating and administrative expenses.
 
   (G) Subject to subsection (c)(4), in the case of additional coverage equal to or greater than 85 percent of the recorded or appraised average yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policy or plan of insurance that is not based on individual yield, the amount shall be equal to the sum of—
 
-    (i) 38 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
+    (i) 41 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
 
     (ii) the amount determined under subsection (d)(2)(B)(ii) for the coverage level selected to cover operating and administrative expenses.
 
   (H) In the case of the supplemental coverage option authorized in subsection (c)(4)(C), the amount shall be equal to the sum of—
 
-    (i) 65 percent of the additional premium associated with the coverage; and
+    (i) 80 percent of the additional premium associated with the coverage; and
 
     (ii) the amount determined under subsection (c)(4)(C)(v)(II), subject to subsection (k)(4)(F), for the coverage to cover operating and administrative expenses.
 
@@ -1292,6 +1300,18 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
     (ii) the amount determined under subsection (d)(2)(B)(ii) for the coverage level selected to cover operating and administrative expenses.
 
 (8) **Premium for beginning and veteran farmers or ranchers** — Notwithstanding any other provision of this subsection regarding payment of a portion of premiums, a beginning farmer or rancher or veteran farmer or rancher shall receive premium assistance that is 10 percentage points greater than premium assistance that would otherwise be available under paragraphs (2) (except for subparagraph (A) of that paragraph), (5), (6), and (7) for the applicable policy, plan of insurance, and coverage level selected by the beginning farmer or rancher or veteran farmer or rancher.
+
+(9) **Additional support**
+
+  (A) *In general* — In addition to any other provision of this subsection (except paragraph (2)(A)) regarding payment of a portion of premiums, a beginning farmer or rancher shall receive additional premium assistance that is the number of percentage points specified in subparagraph (B) greater than the premium assistance that would otherwise be available for the applicable policy, plan of insurance, and coverage level selected by the beginning farmer or rancher.
+
+  (B) *Percentage points adjustments* — The percentage points referred to in subparagraph (A) are the following:
+
+    (i) For each of the first and second reinsurance years that a beginning farmer or rancher participates as a beginning farmer or rancher in the applicable policy or plan of insurance, 5 percentage points.
+
+    (ii) For the third reinsurance year that a beginning farmer or rancher participates as a beginning farmer or rancher in the applicable policy or plan of insurance, 3 percentage points.
+
+    (iii) For the fourth reinsurance year that a beginning farmer or rancher participates as a beginning farmer or rancher in the applicable policy or plan of insurance, 1 percentage point.
 
 **(f) Eligibility**
 
@@ -1649,6 +1669,52 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
   (B) for each reinsurance year thereafter, October 1 of the following calendar year.
 
+(10) **Additional expenses**
+
+  (A) *In general* — Beginning with the 2026 reinsurance year, and for each reinsurance year thereafter, in addition to the terms and conditions of the Standard Reinsurance Agreement, to cover additional expenses for loss adjustment procedures, the Corporation shall pay an additional administrative and operating expense subsidy to approved insurance providers for eligible contracts.
+
+  (B) *Payment amount* — In the case of an eligible contract, the payment to an approved insurance provider required under subparagraph (A) shall be the amount equal to 6 percent of the net book premium.
+
+  (C) *Definitions* — In this paragraph:
+
+    (i) *Eligible contract* — The term “eligible contract”—
+
+      (I) means a crop insurance contract entered into by an approved insurance provider in an eligible State; and
+
+      (II) does not include a contract for—
+
+        (aa) catastrophic risk protection under subsection (b);
+
+        (bb) an area-based plan of insurance or similar plan of insurance, as determined by the Corporation; or
+
+        (cc) a policy under which an approved insurance provider does not incur loss adjustment expenses, as determined by the Corporation.
+
+    (ii) *Eligible State* — The term “eligible State” means a State in which, with respect to an insurance year, the loss ratio for eligible contracts is greater than 120 percent of the total net book premium written by all approved insurance providers.
+
+(11) **Specialty crops**
+
+  (A) *Minimum reimbursement* — Beginning with the 2026 reinsurance year, and for each reinsurance year thereafter, the rate of reimbursement to approved insurance providers and agents for administrative and operating expenses with respect to crop insurance contracts covering agricultural commodities described in section 101 of the Specialty Crops Competitiveness Act of 2004 ([7 U.S.C. 1621](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621) note; Public Law 108–465) shall be equal to or greater than the percentage that is the greater of the following:
+
+    (i) 17 percent of the premium used to define loss ratio.
+
+    (ii) The percent of the premium used to define loss ratio that is otherwise applicable for the reinsurance year under the terms of the Standard Reinsurance Agreement in effect for the reinsurance year.
+
+  (B) *Other contracts* — In carrying out subparagraph (A), the Corporation shall not reduce, with respect to any reinsurance year, the amount or the rate of reimbursement to approved insurance providers and agents under the Standard Reinsurance Agreement described in clause (ii) of such subparagraph for administrative and operating expenses with respect to contracts covering agricultural commodities that are not subject to such subparagraph.
+
+  (C) *Administration* — The requirements of this paragraph and the adjustments made pursuant to this paragraph shall not be considered a renegotiation under paragraph (8)(A).
+
+(12) **A&O inflation adjustment**
+
+  (A) *In general* — Subject to subparagraph (B), beginning with the 2026 reinsurance year, and for each reinsurance year thereafter, the Corporation shall increase the total administrative and operating expense reimbursements otherwise required under the Standard Reinsurance Agreement in effect for the reinsurance year in order to account for inflation, in a manner consistent with the increases provided with respect to the 2011 through 2015 reinsurance years under the enclosure included in Risk Management Agency Bulletin numbered MGR–10–007 and dated June 30, 2010.
+
+  (B) *Special rule for 2026 reinsurance year* — The increase under subparagraph (A) for the 2026 reinsurance year shall not exceed the percentage change for the preceding reinsurance year included in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+
+  (C) *Administration* — An increase under subparagraph (A)—
+
+    (i) shall apply with respect to all contracts covering agricultural commodities that were subject to an increase during the period of the 2011 through 2015 reinsurance years under the enclosure referred to in that subparagraph; and
+
+    (ii) shall not be considered a renegotiation under paragraph (8)(A).
+
 **(l) Optional coverages** The Corporation may offer specific risk protection programs, including protection against prevented planting, wildlife depredation, tree damage and disease, and insect infestation, under such terms and conditions as the Board may determine, except that no program may be undertaken if insurance for the specific risk involved is generally available from private companies.
 
 **(m) Quality loss adjustment coverage**
@@ -1768,6 +1834,30 @@ The Consolidated Farm and Rural Development Act, referred to in subsec. (n)(2), 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (c)(4)(A)(ii). Pub. L. 119–21, § 10502(a)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “may be purchased at any level not to exceed 85 percent of the individual yield or 95 percent of the area yield (as determined by the Corporation).”
+
+Subsec. (c)(4)(C)(ii). Pub. L. 119–21, § 10502(a)(2)(A), substituted “10” for “14”.
+
+Subsec. (c)(4)(C)(iii)(I). Pub. L. 119–21, § 10502(a)(2)(B), substituted “90” for “86”.
+
+Subsec. (c)(4)(C)(iv). Pub. L. 119–21, § 10303(b), substituted “Acres” for “Crops for which the producer has elected under [section 9016 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9016) to receive agriculture risk coverage and acres”.
+
+Subsec. (e)(2)(C)(i). Pub. L. 119–21, § 10504(1), substituted “69” for “64”.
+
+Subsec. (e)(2)(D)(i). Pub. L. 119–21, § 10504(2), substituted “64” for “59”.
+
+Subsec. (e)(2)(E)(i). Pub. L. 119–21, § 10504(3), substituted “60” for “55”.
+
+Subsec. (e)(2)(F)(i). Pub. L. 119–21, § 10504(4), substituted “51” for “48”.
+
+Subsec. (e)(2)(G)(i). Pub. L. 119–21, § 10504(5), substituted “41” for “38”.
+
+Subsec. (e)(2)(H)(i). Pub. L. 119–21, § 10502(b), substituted “80” for “65”.
+
+Subsec. (e)(9). Pub. L. 119–21, § 10501(b), added par. (9).
+
+Subsec. (k)(10) to (12). Pub. L. 119–21, § 10503, added pars. (10) to (12).
+
 2018—Subsec. (a)(2). Pub. L. 115–334, § 11106, substituted “sweet potatoes, and hemp” for “and sweet potatoes”.
 
 Subsec. (a)(3)(B). Pub. L. 115–334, § 11107(1), inserted “determination review” after “practices” in heading.
@@ -2821,7 +2911,11 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
   (B) *Notification* — The Secretary shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate of the substantial completion of the Acreage Crop Reporting Streamlining Initiative (ACRSI) project not later than July 1, 2015.
 
-(2) **Data mining** — To carry out subsection (j)(2), the Corporation may use, from amounts made available from the insurance fund established under [section 1516(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1516/c&num=0&edition=prelim), not more than $4,000,000 for fiscal year 2009 and each subsequent fiscal year.
+(2) **Data mining** — To carry out subsection (j)(2), the Corporation may use, from amounts made available from the insurance fund established under [section 1516(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1516/c&num=0&edition=prelim), not more than—
+
+  (A) $4,000,000 for each of fiscal years 2009 through 2025; and
+
+  (B) $6,000,000 for fiscal year 2026 and each subsequent fiscal year.
 
 ### Statutory Notes
 
@@ -2847,6 +2941,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 1515, act Feb. 16, 1938, ch. 30, title V, § 515, 52 Stat. 77, provided for appointment and compensation of an advisory committee, prior to repeal by Pub. L. 96–365, title I, § 108, Sept. 26, 1980, 94 Stat. 1317.
 
 #### Amendments
+2025—Subsec. (l)(2). Pub. L. 119–21 substituted “not more than—” and subpars. (A) and (B) for “not more than $4,000,000 for fiscal year 2009 and each subsequent fiscal year.”
+
 2018—Subsec. (d)(1)(D). Pub. L. 115–334, § 11115(1), added subpar. (D).
 
 Subsec. (f)(2)(A). Pub. L. 115–334, § 11115(2), substituted “under paragraph” for “pursuant to paragraph” in two places.
@@ -2926,7 +3022,7 @@ Section effective Oct. 13, 1994, and applicable to provision of crop insurance u
 
   (C) *Reviews, compliance, and integrity*
 
-    (i) *In general* — For each of the 2014 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c), but not to exceed $7,000,000 for each fiscal year, to pay costs—
+    (i) *In general* — For each of the 2014 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c), but not to exceed $7,000,000 for each of fiscal years 2014 through 2025 and $10,000,000 for fiscal year 2026 and each fiscal year thereafter, to pay costs—
 
       (I) to reimburse expenses incurred for the operations and review of policies, plans of insurance, and related materials (including actuarial and related information); and
 
@@ -2953,6 +3049,8 @@ Section effective Oct. 13, 1994, and applicable to provision of crop insurance u
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b)(2)(C)(i). Pub. L. 119–21 substituted “for each of fiscal years 2014 through 2025 and $10,000,000 for fiscal year 2026 and each fiscal year thereafter” for “for each fiscal year” in introductory provisions.
+
 2018—Subsecs. (a)(2)(C), (b)(1)(D). Pub. L. 115–123 substituted “subsection (a)(3)(E)(ii) of that section” for “subsections (a)(3)(E)(ii) and (b)(10) of [section 1523 of this title](./chapter-036-crop-insurance.md#section-1523)”.
 
 Subsec. (b)(2)(C)(i). Pub. L. 115–334 substituted “$7,000,000” for “$9,000,000” in introductory provisions.
@@ -3369,8 +3467,6 @@ Section effective Oct. 13, 1994, and applicable to provision of crop insurance u
 
         (bb) up to the maximum amount of total coverage.
 
-  (F) *Beginning farmer or rancher defined* — Notwithstanding [section 1502(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1502/b/3&num=0&edition=prelim), with respect to plans described under this paragraph, the term “beginning farmer or rancher” means a farmer or rancher who has not actively operated and managed a farm or ranch with a bona fide insurable interest in a crop or livestock as an owner-operator, landlord, tenant, or sharecropper for more than 10 crop years.
-
 (8) **Relation to limitations** — A policy developed under this subsection may be prepared without regard to the limitations of this subchapter, including—
 
   (A) the requirement concerning the levels of coverage and rates; and
@@ -3691,6 +3787,8 @@ Section effective Oct. 13, 1994, and applicable to provision of crop insurance u
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (c)(7). Pub. L. 119–21 struck out subpar. (F). Prior to amendment, text read as follows: “Notwithstanding [section 1502(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1502/b/3&num=0&edition=prelim), with respect to plans described under this paragraph, the term ‘beginning farmer or rancher’ means a farmer or rancher who has not actively operated and managed a farm or ranch with a bona fide insurable interest in a crop or livestock as an owner-operator, landlord, tenant, or sharecropper for more than 10 crop years.”
+
 2018—Subsec. (b)(1)(B). Pub. L. 115–334, § 11120(a)(1), amended subpar. (B) generally. Prior to amendment, text read as follows: “An applicant who submits a policy under [section 1508(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/h&num=0&edition=prelim) shall be eligible for the reimbursement of reasonable research and development costs directly related to the policy if the policy is approved by the Board for sale to producers.”
 
 Subsec. (b)(2)(K). Pub. L. 115–334, § 11121(1), added subpar. (K).
@@ -4034,6 +4132,20 @@ Pub. L. 107–20, title II, § 2103, July 24, 2001, 115 Stat. 165, provided that
 
   (B) *Relation to other programs* — The amount of funds made available under this section shall be in addition to amounts made available under other provisions of this subchapter, including amounts made available under subsection (b).
 
+**(j) Poultry Insurance Pilot Program**
+
+(1) **In general** — Notwithstanding subsection (a)(2), the Corporation shall establish a pilot program under which contract poultry growers, including growers of broilers and laying hens, may elect to receive index-based insurance from extreme weather-related risk resulting in increased utility costs (including costs of natural gas, propane, electricity, water, and other appropriate costs, as determined by the Corporation) associated with poultry production.
+
+(2) **Stakeholder engagement** — The Corporation shall engage with poultry industry stakeholders in establishing the pilot program under paragraph (1).
+
+(3) **Location** — The pilot program established under paragraph (1) shall be conducted in a sufficient number of counties to provide a comprehensive evaluation of the feasibility, effectiveness, and demand among producers in the top poultry producing States, as determined by the Corporation.
+
+(4) **Approval of policy or plan** — Notwithstanding section 1508(l) of this title, the Board shall approve a policy or plan of insurance based on the pilot program under paragraph (1)—
+
+  (A) in accordance with [section 1508(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1508/h&num=0&edition=prelim); and
+
+  (B) not later than 2 years after July 4, 2025.
+
 ### Statutory Notes
 
 #### References in Text
@@ -4045,6 +4157,8 @@ The date of enactment of this subsection, referred to in subsecs. (f)(3), (g)(4)
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (j). Pub. L. 119–21 added subsec. (j).
+
 2018—Subsec. (b)(10). Pub. L. 115–123 struck out par. (10) which related to limitation on expenditures.
 
 Subsec. (i)(3)(A). Pub. L. 115–334 inserted period at end.

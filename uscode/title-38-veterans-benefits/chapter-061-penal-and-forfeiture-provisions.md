@@ -201,37 +201,35 @@ Section applicable with respect to any determinations by the Secretary of Vetera
 
 <a id="section-6107"></a>
 ## § 6107. Reissuance of benefits
-**(a) Negligent Failure by Secretary.—**
+**(a) Reissuance of Misused Benefits.—**
 
-(1) In any case in which the negligent failure of the Secretary to investigate or monitor a fiduciary results in misuse of benefits by the fiduciary, the Secretary shall pay to the beneficiary or the beneficiary’s successor fiduciary an amount equal to the amount of benefits that were so misused.
+(1) In any case in which a fiduciary misuses all or part of an individual’s benefit paid to such fiduciary, the Secretary shall pay to the beneficiary or the beneficiary’s successor fiduciary an amount equal to the amount of such benefit so misused.
 
-(2) There shall be considered to have been a negligent failure by the Secretary to investigate and monitor a fiduciary in the following cases:
+(2) In any case in which the Secretary reissues a benefit payment (in whole or in part) under paragraph (1), the Secretary shall make a good faith effort to obtain recoupment from the fiduciary to whom the payment was originally made.
 
-  (A) A case in which the Secretary failed to review a fiduciary’s accounting within 60 days of the date on which that accounting is scheduled for review.
+(3) In any case in which the Secretary obtains recoupment from a fiduciary who has misused benefits, the Secretary shall promptly remit payment of the recouped amounts to the beneficiary or the beneficiary’s successor fiduciary, as the case may be, to the extent that such amounts have not been paid under paragraph (1).
 
-  (B) A case in which the Secretary was notified of allegations of misuse, but failed to act within 60 days of the date of such notification to terminate the fiduciary.
+**(b) Reissuance of Amounts in the Case of a Deceased Beneficiary.—**
 
-  (C) In any other case in which actual negligence is shown.
-
-**(b) Reissuance of Misused Benefits in Other Cases.—**
-
-(1) In any case not covered by subsection (a) in which a fiduciary misuses all or part of an individual’s benefit paid to such fiduciary, the Secretary shall pay to the beneficiary or the beneficiary’s successor fiduciary an amount equal to the amount of such benefit so misused.
-
-(2) In any other case in which the Secretary obtains recoupment from a fiduciary who has misused benefits, the Secretary shall promptly remit payment of the recouped amounts to the beneficiary or the beneficiary’s successor fiduciary as the case may be.
-
-**(c) Reissuance of Amounts in the Case of a Deceased Beneficiary.—**
-
-(1) If a beneficiary described in subsection (a) predeceases a payment under subsection (a) or (b), the Secretary shall pay such benefits, subject to paragraph (2), to an individual or entity in accordance with [section 5121 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5121).
+(1) If a beneficiary described in subsection (a)(1) predeceases a payment under such subsection, the Secretary shall pay such amount, subject to paragraph (2), to an individual or entity in accordance with [section 5121 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5121).
 
 (2) The Secretary may not make a payment under this subsection to a fiduciary who misused benefits of the beneficiary.
 
-**(d) Limitation on Total Amount Paid.—** The total of the amounts paid to a beneficiary (or a beneficiary’s successor fiduciary) under this section may not exceed the total benefit amount misused by the fiduciary with respect to that beneficiary.
+**(c) Limitation on Total Amount Paid.—** The total of the amounts paid to a beneficiary or the beneficiary’s successor fiduciary under this section may not exceed the total benefit amount misused by the fiduciary with respect to that beneficiary.
 
-**(e) Recoupment of Amounts Reissued.—** In any case in which the Secretary reissues a benefit payment (in whole or in part) under this section, the Secretary shall make a good faith effort to obtain recoupment from the fiduciary to whom the payment was originally made.
+**(d) Oversight of Negligence.—**
+
+(1) The Secretary shall establish methods and timing with respect to determining whether an instance of misuse by a fiduciary, of all or part of an individual’s benefit paid to such fiduciary, is the result of negligence by the Secretary.
+
+(2) The Secretary may not withhold the reissuing of a benefit payment under subsection (a)(1) by reason of a pending determination under paragraph (1).
+
+(3) The Secretary is not required to make a determination under paragraph (1) for each instance of misuse by a fiduciary, of all or part of an individual’s benefit paid to such fiduciary.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Pub. L. 119–56 amended section generally. Prior to amendment, section related to reissuance of benefits after misuse of benefits by a fiduciary in cases of negligent failure of the Secretary to investigate or monitor the fiduciary or in other cases.
+
 2024—Subsecs. (c), (d). Pub. L. 118–114, § 2(1), (2), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 118–114, § 2(1), (3), redesignated subsec. (d) as (e) and substituted “this section” for “subsection (a) or (b)”.

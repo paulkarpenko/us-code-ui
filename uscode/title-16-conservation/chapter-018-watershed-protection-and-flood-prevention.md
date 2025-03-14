@@ -664,4 +664,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 <a id="section-1012a"></a>
 ## § 1012a. Funding
 
-In addition to any other funds made available by this chapter, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this chapter $50,000,000 for fiscal year 2019 and each fiscal year thereafter.
+In addition to any other funds made available by this chapter, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this chapter $150,000,000 for fiscal year 2026 and each fiscal year thereafter, to remain available until expended.
+
+### Statutory Notes
+
+#### Amendments
+2025—Pub. L. 119–21 substituted “$150,000,000 for fiscal year 2026 and each fiscal year thereafter, to remain available until expended” for “$50,000,000 for fiscal year 2019 and each fiscal year thereafter”.

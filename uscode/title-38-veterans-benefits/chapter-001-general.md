@@ -15,7 +15,7 @@ For the purposes of this title—
 
 (2) The term “veteran” means a person who served in the active military, naval, air, or space service, and who was discharged or released therefrom under conditions other than dishonorable.
 
-(3) The term “surviving spouse” means (except for purposes of chapter 19 of this title) a person of the opposite sex who was the spouse of a veteran at the time of the veteran’s death, and who lived with the veteran continuously from the date of marriage to the date of the veteran’s death (except where there was a separation which was due to the misconduct of, or procured by, the veteran without the fault of the spouse) and who has not remarried or (in cases not involving remarriage) has not since the death of the veteran, and after September 19, 1962, lived with another person and held himself or herself out openly to the public to be the spouse of such other person.
+(3) The term “surviving spouse” means (except for purposes of chapter 19 of this title) a person who was the spouse of a veteran at the time of the veteran’s death, and who lived with the veteran continuously from the date of marriage to the date of the veteran’s death (except where there was a separation which was due to the misconduct of, or procured by, the veteran without the fault of the spouse) and who has not remarried.
 
 (4)
 
@@ -196,6 +196,8 @@ For the purposes of this title—
 For definition of Canal Zone, referred to in par. (20), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
+2025—Par. (3). Pub. L. 118–210 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘surviving spouse’ means (except for purposes of chapter 19 of this title) a person of the opposite sex who was the spouse of a veteran at the time of the veteran’s death, and who lived with the veteran continuously from the date of marriage to the date of the veteran’s death (except where there was a separation which was due to the misconduct of, or procured by, the veteran without the fault of the spouse) and who has not remarried or (in cases not involving remarriage) has not since the death of the veteran, and after September 19, 1962, lived with another person and held himself or herself out openly to the public to be the spouse of such other person.”
+
 2023—Par. (23)(A), (B). Pub. L. 118–31, § 1723(a)(1)(A), inserted “, or for members of the Space Force in a space force active status (as defined in [section 101(e)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/1&num=0&edition=prelim)),” after “(including commissioned officers of the Reserve Corps of the Public Health Service)”.
 
 Par. (27)(E) to (H). Pub. L. 118–31, § 1723(a)(1)(B), redesignated subpars. (F), (G), and (H) as subpars. (E), (F), and (G), respectively, and struck out former subpar. (E) which read as follows: “the Space Force Reserve;”.
@@ -403,7 +405,35 @@ Pub. L. 90–77, title IV, § 405, Aug. 31, 1967, 81 Stat. 191, provided that: �
 #### Effective Date of 1965 Amendment
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
 
+#### Short Title of 2026 Amendment
+Pub. L. 119–72, § 1, Jan. 20, 2026, 139 Stat. 2001, provided that: “This Act [amending [section 3107 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3107)] may be cited as the ‘Focused Assistance and Skills Training for Veterans’ Employment and Transition Success Act’ or the ‘FAST VETS Act’.”
+
+#### Short Title of 2025 Amendment
+Pub. L. 119–56, § 1, Dec. 12, 2025, 139 Stat. 709, provided that: “This Act [amending [section 6107 of this title](./chapter-061-penal-and-forfeiture-provisions.md#section-6107)] may be cited as the ‘Veteran Fraud Reimbursement Act of 2025’.”
+
+Pub. L. 119–55, § 1, Dec. 12, 2025, 139 Stat. 707, provided that: “This Act [amending [section 3679 of this title](./chapter-036-administration-of-educational-benefits.md#section-3679) and enacting provisions set out as a note under [section 3679 of this title](./chapter-036-administration-of-educational-benefits.md#section-3679)] may be cited as the ‘Montgomery GI Bill Selected Reserves Tuition Fairness Act of 2025’.”
+
+Pub. L. 119–54, § 1, Dec. 12, 2025, 139 Stat. 705, provided that: “This Act [enacting [section 1980B of this title](./chapter-019-insurance.md#section-1980b)] may be cited as the ‘Fairness for Servicemembers and their Families Act of 2025’.”
+
+Pub. L. 119–43, § 1, Dec. 1, 2025, 139 Stat. 667, provided that: “This Act [amending sections 1562 and 5503 of this title] may be cited as the ‘Medal of Honor Act’.”
+
+Pub. L. 119–42, § 1, Nov. 25, 2025, 139 Stat. 665, provided that: “This Act [enacting provisions set out as notes under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114)] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2025’.”
+
+Pub. L. 119–33, § 1(a), Aug. 14, 2025, 139 Stat. 483, provided that: “This section [amending [section 706 of this title](./chapter-007-employees.md#section-706)] may be cited as the ‘Protecting Regular Order for Veterans Act of 2025’ or the ‘PRO Veterans Act of 2025’.”
+
+Pub. L. 119–33, § 2(a), Aug. 14, 2025, 139 Stat. 485, provided that: “This section [enacting [section 325 of this title](./chapter-003-department-of-veterans-affairs.md#section-325)] may be cited as the ‘Improving Veterans’ Experience Act of 2025’.”
+
+Pub. L. 119–31, § 1, July 30, 2025, 139 Stat. 475, provided that: “This Act [enacting [section 3737 of this title](./chapter-037-housing-and-small-business-loans.md#section-3737) and amending sections 2016, 3720, and 3732 of this title] may be cited as the ‘VA Home Loan Program Reform Act’.”
+
+Pub. L. 118–271, § 1, Jan. 4, 2025, 138 Stat. 2991, provided that: “This Act [amending sections 2306 and 2402 of this title] may be cited as the ‘Keeping Military Families Together Act of 2024’.”
+
+Pub. L. 118–210, § 1(a), Jan. 2, 2025, 138 Stat. 2706, provided that: “This Act [see Tables for classification] may be cited as the ‘Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act’.”
+
+Pub. L. 118–210, title IV, § 401, Jan. 2, 2025, 138 Stat. 2794, provided that: “This title [enacting [section 2069 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2069), amending [section 2012 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2012), and enacting provisions set out as notes under sections 2001 and 2012 of this title] may be cited as the ‘Housing our Military Veterans Effectively Act of 2024’ or the ‘HOME Act of 2024’.”
+
 #### Short Title of 2024 Amendment
+Pub. L. 118–196, § 1, Dec. 23, 2024, 138 Stat. 2671, provided that: “This Act [enacting [section 7114 of this title](./chapter-071-board-of-veterans-appeals.md#section-7114), amending sections 5101 and 7253 of this title, and enacting provisions set out as notes under sections 706, 5101, and 7114 of this title] may be cited as the ‘Veterans Benefits Improvement Act of 2024’.”
+
 Pub. L. 118–134, § 1, Nov. 25, 2024, 138 Stat. 1646, provided that: “This Act [amending [section 2306 of this title](./chapter-023-burial-benefits.md#section-2306)] may be cited as the ‘Mark Our Place Act’.”
 
 Pub. L. 118–130, § 1, Nov. 25, 2024, 138 Stat. 1639, provided that: “This Act [enacting provisions set out as notes under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114)] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2024’.”
@@ -1704,7 +1734,7 @@ Pub. L. 87–825, § 7, Oct. 15, 1962, 76 Stat. 950, provided that: “This Act 
 
   (B) the Republic of the Marshall Islands, during such time as it is a party to the Compact of Free Association set forth in section 201 of the Compact of Free Association Act of 1985 (Public Law 99–239; [48 U.S.C. 1901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1901&num=0&edition=prelim) note); and
 
-  (C) the Republic of Palau, during such time as it is a party to the Compact of Free Association between the United States and the Government of Palau set forth in section 201 of Joint Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and the Government of Palau, and for other purposes” (Public Law 99–658; [48 U.S.C. 1931](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1931&num=0&edition=prelim) note).
+  (C) the Republic of Palau, during such time as it is a party to the Compact of Free Association between the United States and the Government of Palau set forth in section 201 of Joint 11 So in original. Probably should be preceded by “the”. Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and the Government of Palau, and for other purposes” (Public Law 99–658; [48 U.S.C. 1931](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1931&num=0&edition=prelim) note).
 
 ### Statutory Notes
 
@@ -1887,7 +1917,7 @@ Sec. 6. Executive Order No. 11142 of February 12, 1964, is hereby superseded.
 
 (1) The Secretary may transport any person to or from a Department facility or other place in connection with vocational rehabilitation, counseling required by the Secretary pursuant to chapter 34 or 35 of this title, or for the purpose of examination, treatment, or care.
 
-(2) The authority granted by paragraph (1) shall expire on September 30, 2025.
+(2) The authority granted by paragraph (1) shall expire on September 30, 2026.
 
 **(b) Transportation by Third-parties.—**
 
@@ -1913,6 +1943,8 @@ Sec. 6. Executive Order No. 11142 of February 12, 1964, is hereby superseded.
 The date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 116–315, which was approved Jan. 5, 2021.
 
 #### Amendments
+2025—Subsec. (a)(2). Pub. L. 119–37 substituted “September 30, 2026” for “September 30, 2025”.
+
 2024—Subsec. (a)(2). Pub. L. 118–83 substituted “September 30, 2025” for “September 30, 2024”.
 
 2022—Subsec. (a)(2). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”.
@@ -1934,6 +1966,9 @@ The date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans 
 2013—Subsec. (a)(2). Pub. L. 113–59 substituted “December 31, 2014” for “the date that is one year after the date of the enactment of this section”.
 
 Subsec. (b). Pub. L. 112–260, § 202(b), transferred subsec. (h) of [section 111 of this title](./chapter-001-general.md#section-111) to this section, redesignated it as subsec. (b), and inserted heading.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–37, div. G, title IV, § 7406, Nov. 12, 2025, 139 Stat. 654, provided that: “The amendments made by this division [amending this section, sections 312, 315, 503, 1710, 1710A, 2021A, 2031, 2033, 2044, 2061, 2102A, 2108, 3699, 3720, 3733, 3737, and 8118 of this title and provisions set out as notes under sections 1712A, 1720F, and 5101 of this title], except for the amendments made by section 7307 [amending sections 3720 and 3737 of this title], shall take effect as if enacted on September 30, 2025.”
 
 
 <a id="section-112"></a>

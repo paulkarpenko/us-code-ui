@@ -6313,9 +6313,6 @@ Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 30012(a)(5) of div. C of Pub. L. 117—58 applicable with respect to a State safety oversight agency on and after the date that is 2 years after the date on which the Secretary of Transportation issues the special directive to the State safety oversight agency under subsec. (k)(5) of this section. See 2021 Amendment note below.
-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -6379,7 +6376,7 @@ Subsec. (h). Pub. L. 114–94, § 3013(6), added subsec. (h) and struck out form
 2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to investigations of safety hazards and security risks for provisions relating to investigation of safety hazards.
 
 #### Effective Date of 2021 Amendment
-Pub. L. 117–58, div. C, § 30012(b)(2), Nov. 15, 2021, 135 Stat. 909, provided that: “[Section 5329(k) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5329/k&num=0&edition=prelim), United States Code (as amended by subsection (a)), shall apply with respect to a State safety oversight agency on and after the date that is 2 years after the date on which the Secretary of Transportation issues the special directive to the State safety oversight agency under paragraph (5) of that section 5329(k).”
+Pub. L. 117–58, div. C, § 30012(b)(2), Nov. 15, 2021, 135 Stat. 909, provided that: “[Section 5329(k) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5329/k&num=0&edition=prelim), United States Code (as amended by subsection (a)), shall apply with respect to a State safety oversight agency on and after the date that is 2 years after the date on which the Secretary of Transportation issues the special directive to the State safety oversight agency under paragraph (5) of that section 5329(k).” [The Federal Transit Administration issued 31 special directives under subsec. (k)(5) of this section on Oct. 21, 2022. See 89 F.R. 83977.]
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.

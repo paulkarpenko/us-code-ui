@@ -16,9 +16,9 @@ source: >-
 
 (3) in the case of either an officer or an enlisted member, death while on active duty unless the decedent was put to death as lawful punishment for a crime or a military offense;
 
-(4) in the case of an officer or an enlisted member of a reserve component who is not serving on active duty, separation or release from the reserve component under honorable conditions, or death; and
+(4) in the case of an officer or an enlisted member of a reserve component, or of the Space Force, who is not serving on active duty, separation or release from the reserve component, or from the Space Force, under honorable conditions, or death; and
 
-(5) in the case of an enlisted member of a reserve component who is not serving on active duty, termination of enlistment in conjunction with the commencement of a successive enlistment, or appointment as an officer.
+(5) in the case of an enlisted member of a reserve component, or of the Space Force, who is not serving on active duty, termination of enlistment in conjunction with the commencement of a successive enlistment, or appointment as an officer.
 
 **(b)**
 
@@ -32,13 +32,13 @@ source: >-
 
 (5) The limitation in the second sentence of paragraph (3) and in subsection (f) shall not apply with respect to leave accrued—
 
-  (A) by a member of a reserve component while serving on active duty in support of a contingency operation;
+  (A) by a member of a reserve component, or a member of the Space Force in space force active status not on sustained duty, while serving on active duty in support of a contingency operation;
 
   (B) by a member of the armed forces in the Retired Reserve while serving on active duty in support of a contingency operation;
 
-  (C) by a retired member of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Space Force or a member of the Fleet Reserve or Fleet Marine Corps Reserve while the member is serving on active duty in support of a contingency operation; or
+  (C) by a retired member of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Space Force or a member of the Fleet Reserve or Fleet Marine Corps Reserve while the member is serving on active duty in support of a contingency operation; or
 
-  (D) by a member of a reserve component while serving on active duty, full-time National Guard duty, or active duty for training for a period of more than 30 days but not in excess of 365 days.
+  (D) by a member of a reserve component, or a member of the Space Force in space force active status not on sustained duty, while serving on active duty, full-time National Guard duty, or active duty for training for a period of more than 30 days but not in excess of 365 days.
 
 (6) An enlisted member of the armed forces who would lose accumulated leave in excess of 90 days of leave under [section 701(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701/e&num=0&edition=prelim) may elect to be paid in cash or by a check on the Treasurer of the United States for any leave in excess so accumulated for up to 30 days of such leave. A member may make an election under this paragraph only once.
 
@@ -98,6 +98,16 @@ In subsection (f), the words “cash” and “unused or accumulated” are omit
 In subsection (g), the word “retirement” is omitted as covered by the words “separation or release from active duty”. The words “under this subsection” are substituted for the words “for such unused leave”. The word “appointment” is substituted for the word “commission”.
 
 #### Amendments
+2025—Subsec. (a)(4). Pub. L. 119–60, § 601(f)(1), inserted “, or of the Space Force,” after “of a reserve component” and “, or from the Space Force,” after “from the reserve component”.
+
+Subsec. (a)(5). Pub. L. 119–60, § 601(f)(1)(A), inserted “, or of the Space Force,” after “of a reserve component”.
+
+Subsec. (b)(5)(A). Pub. L. 119–60, § 601(f)(2)(A), inserted “, or a member of the Space Force in space force active status not on sustained duty,” after “of a reserve component”.
+
+Subsec. (b)(5)(C). Pub. L. 119–60, § 601(f)(2)(B), struck out “Regular” before “Space Force”.
+
+Subsec. (b)(5)(D). Pub. L. 119–60, § 601(f)(2)(A), inserted “, or a member of the Space Force in space force active status not on sustained duty,” after “of a reserve component”.
+
 2022—Subsec. (b)(6). Pub. L. 117–263, § 631(c)(2)(A)(i), substituted “90 days of leave under section 701(e)” for “120 days of leave under section 701(f)(1)”.
 
 Subsec. (h). Pub. L. 117–263, § 631(c)(2)(A)(ii), substituted “section 701(f)” for “section 701(g)”.
@@ -217,7 +227,7 @@ Pub. L. 94–361, title III, § 304(h), July 14, 1976, 90 Stat. 926, provided th
 ## § 502. Absences due to sickness, wounds, and certain other causes
 **(a)** A member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent because of sickness or wounds, or who is directed by the Secretary concerned, or the Secretary’s designated representative, to be absent from duty to await orders pending disability retirement proceedings for a period that is longer than the leave authorized by [section 701 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701&num=0&edition=prelim), is entitled to the pay and allowances to which the member would be entitled if the member were not so absent. A member who is absent with leave for any other reason for not longer than the leave authorized by that section is entitled to the same pay and allowances to which the member would be entitled if the member were not on leave, and to any additional allowances otherwise provided by law for members on leave.
 
-**(b)** Except as provided in subsection (a) and [section 701(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701/g&num=0&edition=prelim), a member who is authorized by the Secretary concerned, or the Secretary’s designated representative, to be absent for a period that is longer than the leave authorized by [section 701 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701&num=0&edition=prelim) is not entitled to pay or allowances during the part of the member’s absence that is more than the number of days’ leave authorized by that section.
+**(b)** Except as provided in subsection (a) and [section 701(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701/g&num=0&edition=prelim), a member who is authorized by the Secretary concerned, or the Secretary’s designated representative, to be absent for a period that is longer than the leave authorized by [section 701 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701&num=0&edition=prelim) is not entitled to pay or allowances during the part of the member’s absence that is more than the number of days’ leave authorized by that section. Nothing in this subsection may be construed to deprive a member, detailed or assigned by the Secretary concerned as a full-time student at a civilian institution to pursue a program of education that is substantially the same as a program of education offered to civilians, of pay or allowances to which such member is entitled.
 
 ### Statutory Notes
 
@@ -236,6 +246,8 @@ In subsections (a) and (b), the words “, or his designated representative,” 
 In subsection (b), the words “Except as provided in subsection (a) of this section” are inserted for clarity. The words “the part of his absence that is more than the number of days’ leave authorized by that section” are substituted for the words “such absence”.
 
 #### Amendments
+2024—Subsec. (b). Pub. L. 118–159 inserted at end “Nothing in this subsection may be construed to deprive a member, detailed or assigned by the Secretary concerned as a full-time student at a civilian institution to pursue a program of education that is substantially the same as a program of education offered to civilians, of pay or allowances to which such member is entitled.”
+
 2022—Subsec. (b). Pub. L. 117–263 substituted “section 701(g)” for “section 701(h)”.
 
 2021—Subsec. (a). Pub. L. 116–283, § 925(g)(3)(B)(i), (ii), substituted “the Secretary’s designated representative” for “his designated representative” and substituted “the member” for “he” wherever appearing.

@@ -2,7 +2,7 @@
 title: 6
 chapter: '1'
 heading: HOMELAND SECURITY ORGANIZATION
-section_count: 402
+section_count: 395
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6&num=0&edition=prelim
 ---
@@ -564,7 +564,14 @@ Pub. L. 109–295 inserted “fire,” after “safety,”.
 #### Effective Date
 Pub. L. 107–296, § 4, Nov. 25, 2002, 116 Stat. 2142, provided that: “This Act [see Tables for classification] shall take effect 60 days after the date of enactment [Nov. 25, 2002].”
 
+#### Short Title of 2025 Amendment
+Pub. L. 119–60, div. H, title LXXXVI, § 8601, Dec. 18, 2025, 139 Stat. 1938, provided that: “This title [enacting [section 124n–1 of this title](./chapter-001-homeland-security-organization.md#section-124n-1), amending [section 124n of this title](./chapter-001-homeland-security-organization.md#section-124n), sections 10152 and 10381 of title 34, Crime Control and Law Enforcement, and [section 46307 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section46307&num=0&edition=prelim), Transportation, enacting provisions set out as notes under sections 124n and 124n–1 of this title and listed in a table relating to sentencing guidelines set out as a note under [section 994 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim), Judiciary and Judicial Procedure] may be cited as the ‘SAFER SKIES Act’.”
+
 #### Short Title of 2024 Amendment
+Pub. L. 118–186, § 1, Dec. 23, 2024, 138 Stat. 2636, provided that: “This Act [amending [section 182 of this title](./chapter-001-homeland-security-organization.md#section-182) and enacting provisions set out as notes under [section 182 of this title](./chapter-001-homeland-security-organization.md#section-182)] may be cited as the ‘Detection Equipment and Technology Evaluation to Counter the Threat of Fentanyl and Xylazine Act of 2024’ or the ‘DETECT Fentanyl and Xylazine Act of 2024’.”
+
+Pub. L. 118–165, § 1, Dec. 23, 2024, 138 Stat. 2581, provided that: “This Act [amending [section 609 of this title](./chapter-001-homeland-security-organization.md#section-609)] may be cited as the ‘First Responder Access to Innovative Technologies Act’.”
+
 Pub. L. 118–103, § 1, Oct. 1, 2024, 138 Stat. 1584, provided that: “This Act [amending [section 348 of this title](./chapter-001-homeland-security-organization.md#section-348) and enacting provisions set out as a note under [section 348 of this title](./chapter-001-homeland-security-organization.md#section-348)] may be cited as the ‘DHS Joint Task Forces Reauthorization Act of 2024’.”
 
 Pub. L. 118–96, § 1, Oct. 1, 2024, 138 Stat. 1569, provided that: “This Act [enacting [section 258 of this title](./chapter-001-homeland-security-organization.md#section-258), amending sections 252 and 253 of this title, and enacting provisions set out as notes under sections 252 and 258 of this title] may be cited as the ‘IMPACTT Human Trafficking Act’.”
@@ -607,7 +614,7 @@ Pub. L. 116–108, § 1, Jan. 24, 2020, 133 Stat. 3294, provided that: “This A
 #### Short Title of 2019 Amendment
 Pub. L. 116–94, div. L, § 101, Dec. 20, 2019, 133 Stat. 3089, provided that: “This division [amending [section 659 of this title](./chapter-001-homeland-security-organization.md#section-659)] may be cited as the ‘DHS Cyber Hunt and Incident Response Teams Act of 2019’.”
 
-Pub. L. 116–2, § 1, Jan. 18, 2019, 133 Stat. 5, provided that: “This Act [amending provisions set out as a note under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621)] may be cited as the ‘Chemical Facility Anti-Terrorism Standards Program Extension Act’.”
+Pub. L. 116–2, § 1, Jan. 18, 2019, 133 Stat. 5, provided that: “This Act [amending provisions set out as a note under [section 621 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section621&num=0&edition=prelim)] may be cited as the ‘Chemical Facility Anti-Terrorism Standards Program Extension Act’.”
 
 #### Short Title of 2018 Amendment
 Pub. L. 115–387, § 1, Dec. 21, 2018, 132 Stat. 5162, provided that: “This Act [enacting sections 350, 590, 591, 591g, 591h, 596b, and 597 of this title, amending sections 113, 195b, 195c, 315, 321q, 592, 593, 594, 596, and 596a of this title, repealing sections 321e, 591, and 595 of this title, and enacting provisions set out as notes under [section 591 of this title](./chapter-001-homeland-security-organization.md#section-591)] may be cited as the ‘Countering Weapons of Mass Destruction Act of 2018’.”
@@ -762,7 +769,7 @@ Section was enacted as part of the Department of Homeland Security Appropriation
 2024—Subsecs. (d), (e). Pub. L. 118–47 added subsecs. (d) and (e) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “Amounts in the Fund may be obligated only after the Committees on Appropriations of the House of Representatives and the Senate are notified at least 15 days in advance of the planned use of funds.”
 
 #### Effective Date of 2024 Amendment
-Pub. L. 118–47, div. C, title V, § 539(b), Mar. 23, 2024, 138 Stat. 624, provided that: “The amendments made by this section [amending this section] shall apply to amounts transferred under such section 538 [[6 U.S.C. 103a](./chapter-001-homeland-security-organization.md#section-103a)] on or after the date of enactment of this Act [Mar. 23, 2024].”
+Pub. L. 118–47, div. C, title V, § 539(b), Mar. 23, 2024, 138 Stat. 624, provided that: “The amendments made by this section [amending this section] shall apply to amounts transferred under such section 538 [of Pub. L. 117–103, [6 U.S.C. 103a](./chapter-001-homeland-security-organization.md#section-103a)] on or after the date of enactment of this Act [Mar. 23, 2024].”
 
 
 <a id="section-115"></a>
@@ -810,6 +817,9 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 2019—Subsec. (d). Pub. L. 116–92 substituted “March 1, 2025” for “March 1, 2019”.
+
+#### Enhancement of International Biodefense Capacity
+Pub. L. 119–60, div. A, title XII, § 1207, Dec. 18, 2025, 139 Stat. 1082, provided that: “(a) Clarification of Roles and Responsibilities.—The Secretary of Defense shall direct the Assistant Secretary of Defense for Nuclear Deterrence, Chemical and Biological Defense Programs, in consultation with the Director of the Defense Threat Reduction Agency, to seek to enter into memoranda of understanding with other departments and agencies of the Federal Government to clarify the roles and responsibilities of those departments and agencies for building biodefense capabilities internationally in execution of national security and other policies of the Federal Government, with the Secretary focused on working with defense counterparts in countries that are allies or partners of the United States. “(b) Elements of Memoranda of Understanding.—The memoranda of understanding entered into under subsection (a) shall address how each relevant department or agency selects partner countries and the feasibility of coordinating efforts with each such country.”
 
 #### “Congressional Defense Committees” Defined
 Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 114–328, 130 Stat. 2025. See note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
@@ -941,7 +951,7 @@ Pub. L. 109–90, title V, § 516, Oct. 18, 2005, 119 Stat. 2084.
 Pub. L. 108–334, title V, § 518, Oct. 18, 2004, 118 Stat. 1318.
 
 #### Ex. Ord. No. 13286. Amendment of Executive Orders, and Other Actions, in Connection With the Transfer of Certain Functions to the Secretary of Homeland Security
-Ex. Ord. No. 13286, Feb. 28, 2003, 68 F.R. 10619, as amended by Ex. Ord. No. 13442, § 1, Aug. 13, 2007, 72 F.R. 45877; Ex. Ord. No. 13753, § 1, Dec. 9, 2016, 81 F.R. 90667, provided:
+Ex. Ord. No. 13286, Feb. 28, 2003, 68 F.R. 10619, as amended by Ex. Ord. No. 13442, § 1, Aug. 13, 2007, 72 F.R. 45877; Ex. Ord. No. 13753, § 1, Dec. 9, 2016, 81 F.R. 90667; Ex. Ord. No. 14135, § 3(b), Jan. 3, 2025, 90 F.R. 2579, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Homeland Security Act of 2002 (Public Law 107–296) [see Tables for classification] and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, and in order to reflect the transfer of certain functions to, and other responsibilities vested in, the Secretary of Homeland Security, the transfer of certain agencies and agency components to the Department of Homeland Security, and the delegation of appropriate responsibilities to the Secretary of Homeland Security, it is hereby ordered as follows:
 
@@ -1127,65 +1137,17 @@ Sec. 87. Functions of Certain Officials in the Coast Guard.
 
 The Commandant and the Assistant Commandant for Intelligence of the Coast Guard each shall be considered a “Senior Official of the Intelligence Community” for purposes of Executive Order 12333 of December 4, 1981 [[50 U.S.C. 3001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim) note], and all other relevant authorities.
 
-Sec. 88. Order of Succession.
-
-Subject to the provisions of subsection (b) of this section, the officers named in subsection (a) of this section, in the order listed, shall act as, and perform the functions and duties of the office of, the Secretary of Homeland Security (Secretary), if they are eligible to act as Secretary under the provisions of the Federal Vacancies Reform Act of 1998, [5 U.S.C. 3345](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim) et seq. (Vacancies Act), during any period in which the Secretary has died, resigned, or otherwise become unable to perform the functions and duties of the office of Secretary.
-
-(a) Order of Succession.
-
-(i) Deputy Secretary of Homeland Security;
-
-(ii) Under Secretary for Management;
-
-(iii) Administrator of the Federal Emergency Management Agency;
-
-(iv) Under Secretary for National Protection and Programs;
-
-(v) Under Secretary for Science and Technology;
-
-(vi) Under Secretary for Intelligence and Analysis;
-
-(vii) Commissioner of U.S. Customs and Border Protection;
-
-(viii) Administrator of the Transportation Security Administration;
-
-(ix) Director of U.S. Immigration and Customs Enforcement;
-
-(x) Director of U.S. Citizenship and Immigration Services;
-
-(xi) Assistant Secretary for Policy;
-
-(xii) General Counsel;
-
-(xiii) Deputy Under Secretary for Management;
-
-(xiv) Deputy Commissioner of U.S. Customs and Border Protection;
-
-(xv) Deputy Administrator of the Transportation Security Administration;
-
-(xvi) Deputy Director of U.S. Immigration and Customs Enforcement;
-
-(xvii) Deputy Director of U.S. Citizenship and Immigration Services; and
-
-(xviii) Director of the Federal Law Enforcement Training Center.
-
-(b) Exceptions.
-
-(i) No individual who is serving in an office listed in subsection (a) in an acting capacity, by virtue of so serving, shall act as Secretary pursuant to this section.
-
-(ii) Notwithstanding the provisions of this section, the President retains discretion, to the extent permitted by the Vacancies Act, to depart from this order in designating an acting Secretary.
-
-Sec. 89. Savings Provision.
+Sec. 88. Savings Provision.
 
 Except as otherwise specifically provided above or in Executive Order 13284 of January 23, 2003 (“Amendment of Executive Orders, and Other Actions, in Connection With the Establishment of the Department of Homeland Security”) [[6 U.S.C. 121](./chapter-001-homeland-security-organization.md#section-121) note], references in any prior Executive Order relating to an agency or an agency component that is transferred to the Department of Homeland Security (“the Department”), or relating to a function that is transferred to the Secretary of Homeland Security, shall be deemed to refer, as appropriate, to the Department or its officers, employees, agents, organizational units, or functions.
 
-Sec. 90. Nothing in this order shall be construed to impair or otherwise affect the authority of the Secretary of Defense with respect to the Department of Defense, including the chain of command for the armed forces of the United States under [section 162(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section162/b&num=0&edition=prelim), United States Code, and the authority of the Secretary of Defense with respect to the Department of Defense under section 113(b) of that title.
+Sec. 89. Nothing in this order shall be construed to impair or otherwise affect the authority of the Secretary of Defense with respect to the Department of Defense, including the chain of command for the armed forces of the United States under [section 162(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section162/b&num=0&edition=prelim), United States Code, and the authority of the Secretary of Defense with respect to the Department of Defense under section 113(b) of that title.
 
-Sec. 91. Nothing in this order shall be construed to limit or restrict the authorities of the Central Intelligence Agency and the Director of Central Intelligence pursuant to the National Security Act of 1947 [act July 26, 1947, ch. 343; see Tables for classification] and the CIA Act of 1949 [probably means the Central Intelligence Agency Act of 1949, act June 20, 1949, ch. 227; see Tables for classification].
+Sec. 90. Nothing in this order shall be construed to limit or restrict the authorities of the Central Intelligence Agency and the Director of Central Intelligence pursuant to the National Security Act of 1947 [act July 26, 1947, ch. 343; see Tables for classification] and the CIA Act of 1949 [probably means the Central Intelligence Agency Act of 1949, act June 20, 1949, ch. 227; see Tables for classification].
 
-Sec. 92. This order shall become effective on March 1, 2003.
+Sec. 91. This order shall become effective on March 1, 2003.
 
-Sec. 93. This order does not create any right or benefit, substantive or procedural, enforceable at law or in equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
+Sec. 92. This order does not create any right or benefit, substantive or procedural, enforceable at law or in equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
 
 [Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a) and (b) of Pub. L. 108–458, set out as a note under [section 3001 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim), War and National Defense.]
 
@@ -1535,7 +1497,7 @@ For definitions of terms used in this section, see [section 901 of this title](.
 
 (3) To integrate relevant information, analysis, and vulnerability assessments (regardless of whether such information, analysis or assessments are provided by or produced by the Department) in order to—
 
-  (A) identify priorities for protective and support measures regarding terrorist and other threats to homeland security by the Department, other agencies of the Federal Government, State, 11 So in original. The comma probably should not appear. and local government agencies and authorities, the private sector, and other entities; and
+  (A) identify priorities for protective and support measures regarding terrorist and other threats to homeland security by the Department, other agencies of the Federal Government, State,11 So in original. The comma probably should not appear. and local government agencies and authorities, the private sector, and other entities; and
 
   (B) prepare finished intelligence and information products in both classified and unclassified formats, as appropriate, whenever reasonably expected to be of benefit to a State, local, or tribal government (including a State, local, or tribal law enforcement agency) or a private sector entity.
 
@@ -1768,9 +1730,9 @@ Subsec. (g). Pub. L. 110–53, § 531(a)(6), substituted “Office of Intelligen
 Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment by section 1073(c)(9) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 #### Regulations
-Pub. L. 109–295, title V, § 550, Oct. 4, 2006, 120 Stat. 1388, as amended by Pub. L. 110–161, div. E, title V, § 534, Dec. 26, 2007, 121 Stat. 2075; Pub. L. 111–83, title V, § 550, Oct. 28, 2009, 123 Stat. 2177; Pub. L. 112–10, div. B, title VI, § 1650, Apr. 15, 2011, 125 Stat. 146; Pub. L. 112–74, div. D, title V, § 540, Dec. 23, 2011, 125 Stat. 976; Pub. L. 113–6, div. D, title V, § 537, Mar. 26, 2013, 127 Stat. 373; Pub. L. 113–76, div. F, title V, § 536, Jan. 17, 2014, 128 Stat. 275, required interim final regulations establishing risk-based performance standards for security of chemical facilities and requiring vulnerability assessments and the development and implementation of site security plans for chemical facilities, prior to repeal by Pub. L. 113–254, § 4(b), Dec. 18, 2014, 128 Stat. 2919. See [section 627 of this title](./chapter-001-homeland-security-organization.md#section-627).
+Pub. L. 109–295, title V, § 550, Oct. 4, 2006, 120 Stat. 1388, as amended by Pub. L. 110–161, div. E, title V, § 534, Dec. 26, 2007, 121 Stat. 2075; Pub. L. 111–83, title V, § 550, Oct. 28, 2009, 123 Stat. 2177; Pub. L. 112–10, div. B, title VI, § 1650, Apr. 15, 2011, 125 Stat. 146; Pub. L. 112–74, div. D, title V, § 540, Dec. 23, 2011, 125 Stat. 976; Pub. L. 113–6, div. D, title V, § 537, Mar. 26, 2013, 127 Stat. 373; Pub. L. 113–76, div. F, title V, § 536, Jan. 17, 2014, 128 Stat. 275, required interim final regulations establishing risk-based performance standards for security of chemical facilities and requiring vulnerability assessments and the development and implementation of site security plans for chemical facilities, prior to repeal by Pub. L. 113–254, § 4(b), Dec. 18, 2014, 128 Stat. 2919. See [section 627 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section627&num=0&edition=prelim).
 
-[Pub. L. 113–254, § 4(b), Dec. 18, 2014, 128 Stat. 2919, provided that the repeal of section 550 of Pub. L. 109–295, formerly set out above, is effective as of the effective date of Pub. L. 113–254, which is the date that is 30 days after Dec. 18, 2014. See section 4(a) of Pub. L. 113–254, set out as an Effective and Termination Dates note under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621).]
+[Pub. L. 113–254, § 4(b), Dec. 18, 2014, 128 Stat. 2919, provided that the repeal of section 550 of Pub. L. 109–295, formerly set out above, is effective as of the effective date of Pub. L. 113–254, which is the date that is 30 days after Dec. 18, 2014. See section 4(a) of Pub. L. 113–254, set out as an Effective and Termination Dates note under former [section 621 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section621&num=0&edition=prelim).]
 
 #### Prohibition on Availability of Funds for Certain Activities and Assessment of the Overt Human Intelligence and Open Source Intelligence Collection Programs of the Office of Intelligence and Analysis of the Department of Homeland Security
 Pub. L. 118–31, div. G, title III, § 7324, Dec. 22, 2023, 137 Stat. 1039, provided that: “(a) Definitions.—In this section:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the following:“(A) The congressional intelligence committees [Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives]. “(B) The Committee on Homeland Security and Governmental Affairs of the Senate. “(C) The Committee on Homeland Security of the House of Representatives. “(2) Covered activity.—The term ‘covered activity’ means—“(A) with respect to the Overt Human Intelligence Collection Program, an interview for intelligence collection purposes with any individual, including a United States person, who has been criminally charged, arraigned, or taken into the custody of a Federal, State, or local law enforcement agency, but whose guilt with respect to such criminal matters has not yet been adjudicated, unless the Office of Intelligence and Analysis has obtained the consent of the interviewee following consultation with counsel; “(B) with respect to either the Overt Human Intelligence Collection Program or the Open Source Intelligence Collection Program, any collection targeting journalists in the performance of their journalistic functions; and “(C) with respect to the Overt Human Intelligence Collection Program, an interview for intelligence collection purposes with a United States person where the Office of Intelligence and Analysis lacks a reasonable belief based on facts and circumstances that the United States person may possess significant foreign intelligence (as defined in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim))). “(3) Overt human intelligence collection program.—The term ‘Overt Human Intelligence Collection Program’ means the program established by the Under Secretary of Homeland Security for Intelligence and Analysis pursuant to Policy Instruction 907 of the Office of Intelligence and Analysis, issued on June 29, 2016, or any successor program. “(4) Open source intelligence collection program.—The term ‘Open Source Collection Intelligence Program’ means the program established by the Under Secretary of Homeland Security for Intelligence and Analysis for the purpose of collecting intelligence and information for potential production and reporting in the form of Open Source Information Reports as reflected in Policy Instruction 900 of the Office of Intelligence and Analysis, issued on January 13, 2015, or any successor program. “(5) United states person.—The term ‘United States person’ means—“(A) a United States citizen; “(B) an alien known by the Office of Intelligence and Analysis to be a permanent resident alien; “(C) an unincorporated association substantially composed of United States citizens or permanent resident aliens; or “(D) a corporation incorporated in the United States, except for a corporation directed and controlled by a foreign government or governments. “(6) United states person information (uspi).—The term ‘United States person information’—“(A) means information that is reasonably likely to identify 1 or more specific United States persons; and “(B) may be either a single item of information or information that, when combined with other available information, is reasonably likely to identify one or more specific United States persons. “(b) Prohibition on Availability of Funds for Covered Activities of Overt Human Intelligence Collection Program and Open Source Intelligence Collection Program.—None of the funds authorized to be appropriated by this division [see Tables for classification] may be made available to the Office of Intelligence and Analysis of the Department of Homeland Security to conduct a covered activity. “(c) Limitation on Personnel.—None of the funds authorized to be appropriated by this division may be used by the Office of Intelligence and Analysis of the Department of Homeland Security to increase, above the staffing level in effect on the day before the date of the enactment of this Act [Dec. 22, 2023], the number of personnel assigned to the Open Source Intelligence Division who work exclusively or predominantly on domestic terrorism issues. “(d) Inspector General of the Intelligence Community Assessment of Overt Human Intelligence Collection Program and Open Source Intelligence Collection Program.—“(1) Requirement.—The Inspector General of the Intelligence Community shall conduct an assessment of the Overt Human Intelligence Collection Program and the Open Source Intelligence Collection Program. “(2) Elements.—The assessment under paragraph (1) shall include findings and, as the Inspector General considers appropriate, recommendations on the following:“(A) Whether the Overt Human Intelligence Collection Program and the Open Source Intelligence Collection Program are legally authorized, and if so, an identification of the legal authorities. “(B) Whether, and to what extent, such programs have provided valuable insights on national intelligence priorities and intelligence priorities of the Department of Homeland Security, citing specific examples of such insights at the appropriate classification level. “(C) Whether there is sufficient training provided to, and sufficient oversight provided of, personnel of the Office of Intelligence and Analysis of the Department of Homeland Security who conduct intelligence collection under such programs. “(D) Whether the responsibilities and requirements for such programs set forth in the relevant policy instructions, intelligence oversight guidelines, and other governing documents or standard operating procedures of the Office of Intelligence and Analysis, particularly as they relate to the obligation to safeguard the privacy, civil liberties, and civil rights of United States persons, are adequate, appropriate, and consistently adhered to by such personnel. “(E) Whether such programs raise or have raised legal, ethical, or operational concerns, including concerns relating to the actual or potential violation of any applicable policies or procedures for protecting the constitutional or statutory rights of United States persons. “(F) Whether other Federal agencies, such as the Federal Bureau of Investigation, conduct similar programs and, if so, a comparison of any similarities and differences between the respective programs. “(G) With respect to non-analytic intelligence reports produced by the Office of Intelligence and Analysis derived in whole or in part from such programs, whether such reports appropriately minimize United States person information and use press reporting in an appropriate manner. “(H) With respect to the Open Source Intelligence Collection Program, whether such program is effective at identifying threats directed against the United States, including true threats, incitement to violence, and malign cyber activity. “(I) Whether there have been any identified instances in which State, local, territorial, or Tribal government agencies have used, or sought to use, the Office of Intelligence and Analysis as an instrument to introduce political or politicized information into the national intelligence collection and reporting stream. “(J) Any other matter the Inspector General of the Intelligence Community determines appropriate. “(3) Briefing.—Not later than 120 days after the date of the enactment of this Act [Dec. 22, 2023], the Inspector General of the Intelligence Community shall provide to the appropriate congressional committees a briefing on the preliminary findings and recommendations of the Inspector General with respect to the assessment under paragraph (1). “(4) Report.—“(A) In general.—Not later than 180 days after the date of the enactment of this Act, the Inspector General of the Intelligence Community shall submit to the appropriate congressional committees a report containing the findings and recommendations of the Inspector General with respect to the assessment under paragraph (1). “(B) Form.—The report submitted pursuant to subparagraph (A) shall be submitted under that subparagraph in unclassified form, but may include a classified annex. “(5) Quarterly briefings.—The Under Secretary of Homeland Security for Intelligence and Analysis shall, not less than once per quarter, provide to the appropriate congressional committees a briefing on the intelligence collection activities of the Office of Intelligence and Analysis. These briefings shall include—“(A) a description of any new activities, initiatives, or efforts undertaken pursuant to the Overt Human Intelligence Collection Program or the Open Source Intelligence Collection Program; “(B) a description of any new policies, procedures, or guidance concerning the Overt Human Intelligence Collection Program or the Open Source Intelligence Collection Program; “(C) a description of any compliance-related inquiries, investigations, reviews, checks, or audits initiated concerning the Overt Human Intelligence Collection Program or the Open Source Intelligence Collection Program, as well as an update on the outcome or status of any preexisting inquiries, investigations, reviews, checks, or audits concerning these programs; “(D) a comparison of the volume of intelligence and information collected on United States persons by the Office and used in finished intelligence products produced by the Office with the volume of intelligence or information on United States persons that is—“(i) collected by State, local, and Tribal territory governments, the private sector, and other components of the Department of Homeland Security; “(ii) provided directly or indirectly to the Office; and “(iii) used in finished intelligence products produced by the Office; and “(E) information on the reports and products issued by the Overt Human Intelligence Collection Program and the Open Source Intelligence Collection Program for the quarter covered by the briefing, which shall reflect—“(i) the number of reports and products issued by each program; “(ii) the number of reports and products issued by type or format of the report or product; “(iii) the number of reports and products based on information provided by representatives of Federal, foreign or international, State, local, Tribal, territorial, or private sector entities, respectively, and, for each of these subcategories, the number of reports or products based on information provided by known or presumed United States persons; “(iv) the number of reports and products based on information provided by individuals in administrative custody and, within that number, the number of reports or products based on information provided by known or presumed United States persons; “(v) the number of reports and products based on information provided by confidential informants and, within that number, the number of reports or products based on information provided by known or presumed United States persons; “(vi) the number of reports and products supporting different national or departmental missions and, for each of these subcategories, the number of reports or products based on information provided by known or presumed United States persons; and “(vii) the number of reports and products identifying United States persons. “(e) Rules of Construction.—“(1) Effect on other intelligence oversight.—Nothing in this section shall be construed as limiting or superseding the authority of any official within the Department of Homeland Security to conduct legal, privacy, civil rights, or civil liberties oversight of the intelligence activities of the Office of Intelligence and Analysis. “(2) Sharing and receiving intelligence information.—Nothing in this section shall be construed to prohibit, or to limit the authority of, personnel of the Office of Intelligence and Analysis from sharing intelligence information with, or receiving information from—“(A) foreign, State, local, Tribal, or territorial governments (or any agency or subdivision thereof); “(B) the private sector; or “(C) other elements of the Federal government, including the components of the Department of Homeland Security.”
@@ -2048,7 +2010,7 @@ Barack Obama.
 [Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning given such term in [section 650 of this title](./chapter-001-homeland-security-organization.md#section-650), see [section 652a(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section652a/c/3&num=0&edition=prelim), enacted Jan. 1, 2021.]
 
 #### Executive Order No. 13650
-Ex. Ord. No. 13650, Aug. 1, 2013, 78 F.R. 48029, was transferred to a note set out under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621).
+Ex. Ord. No. 13650, Aug. 1, 2013, 78 F.R. 48029, was transferred to a note set out under former [section 621 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section621&num=0&edition=prelim).
 
 #### Ex. Ord. No. 13691. Promoting Private Sector Cybersecurity Information Sharing
 Ex. Ord. No. 13691, Feb. 13, 2015, 80 F.R. 9349, provided:
@@ -2628,8 +2590,8 @@ Executive Order No. 13549, referred to in subsec. (c), is Ex. Ord. No. 13549, Au
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2022, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 
-<a id="section-125"></a>
-## § 125. Homeland Security Information Sharing Fellows Program
+<a id="section-124n-1"></a>
+## § 124n–1. Homeland Security Information Sharing Fellows Program
 **(a) Establishment**
 
 (1) **In general** — The Secretary, acting through the Under Secretary for Intelligence and Analysis, and in consultation with the Chief Human Capital Officer, shall establish a fellowship program in accordance with this section for the purpose of—
@@ -2691,8 +2653,8 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
   (B) ensure that the number of Information Sharing Fellows selected does not impede the activities of the Office of Intelligence and Analysis.
 
 
-<a id="section-126"></a>
-## § 126. Rural Policing Institute
+<a id="section-125"></a>
+## § 125. Rural Policing Institute
 **(a) In general** The Secretary shall establish a Rural Policing Institute, which shall be administered by the Federal Law Enforcement Training Center, to target training to law enforcement agencies and other emergency response providers located in rural areas. The Secretary, through the Rural Policing Institute, shall—
 
 (1) evaluate the needs of law enforcement agencies and other emergency response providers in rural areas;
@@ -2723,8 +2685,8 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 Pub. L. 112–74, div. D, title V, § 546, Dec. 23, 2011, 125 Stat. 977, provided that: “For fiscal year 2012 and thereafter, for purposes of section 210C of the Homeland Security Act of 2002 ([6 U.S.C. 124j](./chapter-001-homeland-security-organization.md#section-124j)), a rural area shall also include any area that is located in a metropolitan statistical area and a county, borough, parish, or area under the jurisdiction of an Indian tribe with a population of not more than 50,000.”
 
 
-<a id="section-131-to-134"></a>
-## § 131 to 134. Interagency Threat Assessment and Coordination Group
+<a id="section-126"></a>
+## § 126. Interagency Threat Assessment and Coordination Group
 **(a) In general** To improve the sharing of information within the scope of the information sharing environment established under [section 485 of this title](./chapter-001-homeland-security-organization.md#section-485) with State, local, tribal, and private sector officials, the Director of National Intelligence, through the program manager for the information sharing environment, in coordination with the Secretary, shall coordinate and oversee the creation of an Interagency Threat Assessment and Coordination Group (referred to in this section as the “ITACG”).
 
 **(b) Composition of ITACG** The ITACG shall consist of—
@@ -2805,7 +2767,7 @@ Pub. L. 112–74, div. D, title V, § 546, Dec. 23, 2011, 125 Stat. 977, provide
 
   (A) the products derived from information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, prepared by the National Counterterrorism Center and the ITACG Detail for distribution to State, local, and tribal homeland security and law enforcement agencies reflect the requirements of such agencies and are produced consistently with the policies, processes, procedures, standards, and guidelines established by the ITACG Advisory Council;
 
-  (B) in consultation with the ITACG Advisory Council and consistent with sections 3024(f)(1)(B)(iii) and 3056(f)(E) 1 of title 50, all products described in subparagraph (A) are disseminated through existing channels of the Department and the Department of Justice and other appropriate channels to State, local, and tribal government officials and other entities;
+  (B) in consultation with the ITACG Advisory Council and consistent with sections 3024(e)(1)(B)(iii) and 3056(f)(E) 1 of title 50, all products described in subparagraph (A) are disseminated through existing channels of the Department and the Department of Justice and other appropriate channels to State, local, and tribal government officials and other entities;
 
   (C) all detailees under subsection (d)(5) 2 have appropriate access to all relevant information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, available at the National Counterterrorism Center in order to accomplish the objectives under that paragraph;
 
@@ -2823,6 +2785,8 @@ Pub. L. 112–74, div. D, title V, § 546, Dec. 23, 2011, 125 Stat. 977, provide
 Subsection (d)(5) and (6), referred to in subsec. (f)(2), was redesignated subsec. (c)(5) and (6), respectively, by Pub. L. 116–92, div. E, title LXVII, § 6726(b)(2), Dec. 20, 2019, 133 Stat. 2236.
 
 #### Amendments
+2025—Subsec. (f)(2)(B). Pub. L. 119–60 substituted “sections 3024(e)(1)(B)(iii)” for “sections 3024(f)(1)(B)(iii)”.
+
 2022—Subsec. (g). Pub. L. 117–286, which directed amendment of subsec. (h) by substituting “chapter 10 of title 5” for “the Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text, was executed by making the substitutions in subsec. (g) to reflect the probable intent of Congress and the prior amendment by Pub. L. 116–92. See 2019 Amendment below.
 
 2019—Subsec. (c). Pub. L. 116–92, § 6726(b)(1), (2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to responsibilities of program manager.
@@ -2840,8 +2804,8 @@ Subsec. (d)(5)(E), (F). Pub. L. 111–258, § 5(b)(2)(A), added subpar. (E) and 
 Subsec. (d)(8), (9). Pub. L. 111–258, § 5(b)(2)(B)–(D), added pars. (8) and (9).
 
 
-<a id="section-141"></a>
-## § 141. Transferred
+<a id="section-131-to-134"></a>
+## § 131 to 134. Transferred
 
 ### Statutory Notes
 
@@ -2849,8 +2813,8 @@ Subsec. (d)(8), (9). Pub. L. 111–258, § 5(b)(2)(B)–(D), added pars. (8) and
 Section, Pub. L. 107–296, title II, § 210E, as added Pub. L. 110–53, title X, § 1001(a), Aug. 3, 2007, 121 Stat. 372, which related to national asset database, was renumbered section 2214 of Pub. L. 107–296 by Pub. L. 115–278, § 2(g)(2)(G), Nov. 16, 2018, 132 Stat. 4178, and transferred to [section 664 of this title](./chapter-001-homeland-security-organization.md#section-664).
 
 
-<a id="section-142"></a>
-## § 142. Classified Information Advisory Officer
+<a id="section-141"></a>
+## § 141. Classified Information Advisory Officer
 **(a) Requirement to establish** The Secretary shall identify and designate within the Department a Classified Information Advisory Officer, as described in this section.
 
 **(b) Responsibilities** The responsibilities of the Classified Information Advisory Officer shall be as follows:
@@ -2880,8 +2844,8 @@ A prior section 210E of Pub. L. 107–296, title II, as added Pub. L. 110–53, 
 Pub. L. 111–258, § 2, Oct. 7, 2010, 124 Stat. 2648, provided that: “Congress finds the following: “(1) The National Commission on Terrorist Attacks Upon the United States (commonly known as the ‘9/11 Commission’) concluded that security requirements nurture over-classification and excessive compartmentation of information among agencies. “(2) The 9/11 Commission and others have observed that the over-classification of information interferes with accurate, actionable, and timely information sharing, increases the cost of information security, and needlessly limits stakeholder and public access to information. “(3) Over-classification of information causes considerable confusion regarding what information may be shared with whom, and negatively affects the dissemination of information within the Federal Government and with State, local, and tribal entities, and with the private sector. “(4) Over-classification of information is antithetical to the creation and operation of the information sharing environment established under section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([6 U.S.C. 485](./chapter-001-homeland-security-organization.md#section-485)). “(5) Federal departments or agencies authorized to make original classification decisions or that perform derivative classification of information are responsible for developing, implementing, and administering policies, procedures, and programs that promote compliance with applicable laws, executive orders, and other authorities pertaining to the proper use of classification markings and the policies of the National Archives and Records Administration.”
 
 
-<a id="section-143-to-145"></a>
-## § 143 to 145. Departmental coordination on counter threats
+<a id="section-142"></a>
+## § 142. Departmental coordination on counter threats
 **(a) Establishment** There is authorized in the Department, for a period of 2 years beginning after December 27, 2020, a Counter Threats Advisory Board (in this section referred to as the “Board”) which shall—
 
 (1) be composed of senior representatives of departmental operational components and headquarters elements; and
@@ -2955,9 +2919,13 @@ A prior section 210F of Pub. L. 107–296 was renumbered section 210E and is cla
 Pub. L. 116–260, div. U, title VI, § 602(d), Dec. 27, 2020, 134 Stat. 2295, provided that: “The Secretary of Homeland Security shall provide written notification to and brief the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives on any changes to or introductions of new mechanisms to coordinate threats across the Department of Homeland Security.”
 
 
-<a id="section-146"></a>
-## § 146. Protection of certain facilities and assets from unmanned aircraft
-**(a) Authority** Notwithstanding [section 46502 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section46502&num=0&edition=prelim) or sections 32, 1030, 1367 and chapters 119 and 206 of title 18, the Secretary and the Attorney General may, for their respective Departments, take, and may authorize personnel with assigned duties that include the security or protection of people, facilities, or assets, to take such actions as are described in subsection (b)(1) that are necessary to mitigate a credible threat (as defined by the Secretary or the Attorney General, in consultation with the Secretary of Transportation) that an unmanned aircraft system or unmanned aircraft poses to the safety or security of a covered facility or asset.
+<a id="section-143-to-145"></a>
+## § 143 to 145. Protection of certain facilities and assets from unmanned aircraft
+**(a) Authorities**
+
+(1) **Authority of the Department of Homeland Security and Department of Justice** — Notwithstanding [section 46502 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section46502&num=0&edition=prelim) or sections 32, 1030, 1367 and chapters 119 and 206 of title 18, the Secretary and the Attorney General may, for their respective Departments, take and may authorize personnel to take such actions as are described in subsection (b)(1) that are necessary to enforce the law, protect the public, or to mitigate a credible threat that an unmanned aircraft system or unmanned aircraft poses to the safety or security of a covered facility or asset.
+
+(2) **Authority of State, local, Tribal, and territorial law enforcement and correctional agencies** — Notwithstanding [section 46502 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section46502&num=0&edition=prelim) or sections 32, 1030, 1367 and chapters 119 and 206 of title 18, notwithstanding the laws of any particular State, local, Tribal, or territorial jurisdiction, and after completing the training detailed in subsection (d)(2), any State, local, Tribal, or territorial law enforcement or correctional agency may, subject to subsection (d)(2), take, and authorize personnel with assigned duties that include the security or protection of people, facilities, or assets, to take such actions as are described in subsection (b)(1) that are necessary to mitigate a credible threat that an unmanned aircraft system or unmanned aircraft poses to the safety or security of people, facilities, and assets, a venue or set of venues used for large-scale public gatherings or events, critical infrastructure, or correctional facilities.
 
 **(b) Actions described**
 
@@ -2965,7 +2933,7 @@ Pub. L. 116–260, div. U, title VI, § 602(d), Dec. 27, 2020, 134 Stat. 2295, p
 
   (A) During the operation of the unmanned aircraft system, detect, identify, monitor, and track the unmanned aircraft system or unmanned aircraft, without prior consent, including by means of intercept or other access of a wire communication, an oral communication, or an electronic communication used to control the unmanned aircraft system or unmanned aircraft.
 
-  (B) Warn the operator of the unmanned aircraft system or unmanned aircraft, including by passive or active, and direct or indirect physical, electronic, radio, and electromagnetic means.
+  (B) Warn the operator of the unmanned aircraft system or unmanned aircraft, including by passive or active, and direct or indirect physical, electronic, radio, electromagnetic means, and through the use of remote identification broadcast or other means.
 
   (C) Disrupt control of the unmanned aircraft system or unmanned aircraft, without prior consent, including by disabling the unmanned aircraft system or unmanned aircraft by intercepting, interfering, or causing interference with wire, oral, electronic, or radio communications used to control the unmanned aircraft system or unmanned aircraft.
 
@@ -2981,27 +2949,73 @@ Pub. L. 116–260, div. U, title VI, § 602(d), Dec. 27, 2020, 134 Stat. 2295, p
 
 (4) **Coordination** — The Secretary and the Attorney General shall coordinate with the Administrator of the Federal Aviation Administration when any action authorized by this section might affect aviation safety, civilian aviation and aerospace operations, aircraft airworthiness, or the use of the airspace.
 
-**(c) Forfeiture** Any unmanned aircraft system or unmanned aircraft described in subsection (a) that is seized by the Secretary or the Attorney General is subject to forfeiture to the United States.
+**(c) Forfeiture**
+
+(1) **Federal agencies** — Any unmanned aircraft system or unmanned aircraft described in subsection (a) that is seized by the Secretary or the Attorney General pursuant to subsection (a)(1) is subject to forfeiture to the United States.
+
+(2) **Other agencies** — Any unmanned aircraft system or unmanned aircraft described in subsection (a) that is seized by a State, local, Tribal, or territorial law enforcement or correctional agency pursuant to subsection (a)(2) is subject to forfeiture under the laws of the agency’s jurisdiction.
 
 **(d) Regulations and guidance**
 
-(1) **In general** — The Secretary, the Attorney General, and the Secretary of Transportation may prescribe regulations and shall issue guidance in the respective areas of each Secretary or the Attorney General to carry out this section.
+(1) **In general** — The Secretary, the Attorney General, and the Secretary of Transportation may prescribe regulations and shall issue guidance in the respective areas of each Secretary, the Attorney General, or any State, local, Tribal, or territorial law enforcement or correctional agency to carry out this section.
 
-(2) **Coordination**
+(2) **State, local, Tribal, and territorial law enforcement training and certification**
+
+  (A) *Training and certification required*
+
+    (i) *In general* — Only State, local, Tribal, or territorial law enforcement and correctional officers who have been trained and certified by the Attorney General, or the Attorney General’s designee, in coordination with the Secretary of Homeland Security through a national schoolhouse which will serve as the sole certifying authority for State, local, Tribal, territorial, and correctional officers in the use of the authority granted under subsection (a)(2), may exercise authorities in subsection (b)(1)(C), (D), and (F).
+
+    (ii) *Training and certification procedures* — The Attorney General, in coordination with the Secretary of Homeland Security, the Secretary of Defense, and the Secretary of Transportation, shall, not later than 180 days after December 18, 2025, develop training and certification procedures for the use of the authority described in subsection (a)(2) that State, local, Tribal, and territorial law enforcement and correctional officers shall be required to satisfy before taking any actions described in subsection (b)(1).
+
+    (iii) *Technologies* — Technologies used by State, local, Tribal, and territorial law enforcement or correctional agencies to take actions described in subsection (b)(1) shall be limited to systems or technologies that are included on a list of authorized technologies maintained jointly by the Department of Justice, the Department of Homeland Security, the Department of Defense, the Department of Transportation, the Federal Communications Commission, and the National Telecommunications and Information Administration.
+
+  (B) *Oversight* — The Attorney General, in coordination with the Secretary of Homeland Security and the Administrator of the Federal Aviation Administration, shall oversee compliance with the requirements set forth in subsection (e) with respect to the use of the authority granted under subsection (a)(2) by each State, local, Tribal, and territorial law enforcement agency that has been certified pursuant to the training and certification requirements described in subparagraph (A).
+
+  (C) *State, local, Tribal, and territorial law enforcement and correctional agencies mitigation notification requirement*
+
+    (i) *In general* — Any State, local, Tribal, or territorial law enforcement or correctional agency exercising authority under subsection (a)(2) shall, within 48 hours of taking any mitigation action described in subsection (b)(1), submit a notification to the Attorney General and the Secretary of Homeland Security containing—
+
+      (I) the date, time, and geographic location of the mitigation action;
+
+      (II) a brief description of the credible threat or safety concern necessitating such action;
+
+      (III) the type of mitigation capability employed; and
+
+      (IV) any known operational effects, including the seizure, disabling, or destruction of an unmanned aircraft system or unmanned aircraft.
+
+    (ii) *Report mechanism* — The Attorney General and the Secretary of Homeland Security shall establish a streamlined and secure submission mechanism to support the notification requirement under clause (i).
+
+  (D) *Reports* — Not later than 1 year after December 18, 2025, and biannually thereafter, the Attorney General, in coordination with the Secretary of Homeland Security and the Secretary of Transportation, shall submit to the appropriate congressional committees an unclassified report with a classified annex on activities carried out by State, local, Tribal, and territorial law and correctional enforcement agencies exercising the authority granted under subsection (a)(2) and subject to the training and certification requirements described in subparagraph (A), including—
+
+    (i) a description of the training and certification procedures developed and implemented pursuant to subparagraph (A)(ii);
+
+    (ii) a list of State, local, Tribal, and territorial law enforcement and correctional agencies that applied for and were certified to exercise the authorities granted by subsection (a)(2);
+
+    (iii) a list of currently authorized technologies pursuant to subparagraph (A)(iii);
+
+    (iv) the frequency, location, and circumstances of State, local, Tribal, territorial, and correctional officers mitigation deployments and types of mitigation employed;
+
+    (v) a list of any aviation security or safety incidents that occurred due to State, local, Tribal, territorial, and correctional officers deployment of counter-UAS technologies;
+
+    (vi) recommendations for improving State, local, Tribal, and territorial law and correctional agencies counter-UAS training, oversight, compliance, and execution and the compliance audits required by section 8606(b)(2) of the SAFER SKIES Act; and
+
+    (vii) a determination on if State, local, Tribal, and territorial law and correctional agencies are able to fully protect critical infrastructure from the drone threat and if not, recommendations on how to expand counter-UAS authorities to critical infrastructure owners.
+
+(3) **Coordination**
 
   (A) *Coordination with Department of Transportation* — The Secretary and the Attorney General shall coordinate the development of their respective guidance under paragraph (1) with the Secretary of Transportation.
 
   (B) *Effect on aviation safety* — The Secretary and the Attorney General shall respectively coordinate with the Secretary of Transportation and the Administrator of the Federal Aviation Administration before issuing any guidance, or otherwise implementing this section, if such guidance or implementation might affect aviation safety, civilian aviation and aerospace operations, aircraft airworthiness, or the use of airspace.
 
-**(e) Privacy protection** The regulations or guidance issued to carry out actions authorized under subsection (b) by each Secretary or the Attorney General, as the case may be, shall ensure that—
+**(e) Privacy protection** The regulations or guidance issued to carry out actions authorized under subsection (b) by each Secretary, the Attorney General, or any State, local, Tribal, or territorial law enforcement or correctional agency, as the case may be, shall ensure that—
 
 (1) the interception or acquisition of, or access to, or maintenance or use of, communications to or from an unmanned aircraft system under this section is conducted in a manner consistent with the First and Fourth Amendments to the Constitution of the United States and applicable provisions of Federal law;
 
 (2) communications to or from an unmanned aircraft system are intercepted or acquired only to the extent necessary to support an action described in subsection (b)(1);
 
-(3) records of such communications are maintained only for as long as necessary, and in no event for more than 180 days, unless the Secretary of Homeland Security or the Attorney General determine 11 So in original. Probably should be “determines”. that maintenance of such records is necessary to investigate or prosecute a violation of law, directly support an ongoing security operation, is required under Federal law, or for the purpose of any litigation;
+(3) records of such communications are maintained only for as long as necessary, and in no event for more than 180 days, unless the Secretary of Homeland Security, the Attorney General, or any State, local, Tribal, or territorial law enforcement or correctional agency determine 11 So in original. Probably should be “determines”. that maintenance of such records is necessary to investigate or prosecute a violation of law, directly support an ongoing security operation, is required under Federal, State, local, Tribal, or territorial law (as applicable), or for the purpose of any litigation;
 
-(4) such communications are not disclosed outside the Department of Homeland Security or the Department of Justice unless the disclosure—
+(4) such communications are not disclosed outside the Department of Homeland Security 22 So in original. Probably should be followed by a comma. the Department of Justice, or the State, local, Tribal, or territorial law enforcement or correctional agency unless the disclosure—
 
   (A) is necessary to investigate or prosecute a violation of law;
 
@@ -3011,7 +3025,7 @@ Pub. L. 116–260, div. U, title VI, § 602(d), Dec. 27, 2020, 134 Stat. 2295, p
 
   (D) is otherwise required by law; and
 
-(5) to the extent necessary, the Department of Homeland Security and the Department of Justice are authorized to share threat information, which shall not include communications referred to in subsection (b), with State, local, territorial, or tribal law enforcement agencies in the course of a security or protection operation.
+(5) to the extent necessary, the Department of Homeland Security and the Department of Justice are authorized to share threat information, which shall not include communications other than those of an aeronautical communications system, as allowed for in [section 2511(2)(g)(ii)(IV) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2511/2/g/ii/IV&num=0&edition=prelim) or information readily available to the public referred to in subsection (b), with State, local, territorial, or Tribal law enforcement agencies in the course of a security or protection operation.
 
 **(f) Budget** The Secretary and the Attorney General shall submit to Congress, as a part of the homeland security or justice budget materials for each fiscal year after fiscal year 2019, a consolidated funding display that identifies the funding source for the actions described in subsection (b)(1) within the Department of Homeland Security or the Department of Justice. The funding display shall be in unclassified form, but may contain a classified annex.
 
@@ -3033,9 +3047,9 @@ Pub. L. 116–260, div. U, title VI, § 602(d), Dec. 27, 2020, 134 Stat. 2295, p
 
   (E) a description of instances in which communications intercepted or acquired during the course of operations of an unmanned aircraft system were held for more than 180 days or shared outside of the Department of Justice or the Department of Homeland Security;
 
-  (F) how the Secretary, the Attorney General, and the Secretary of Transportation have informed the public as to the possible use of authorities under this section; 22 So in original. Probably should be followed by “and”.
+  (F) how the Secretary, the Attorney General, and the Secretary of Transportation have informed the public as to the possible use of authorities under this section; 33 So in original. Probably should be followed by “and”.
 
-  (G) how the Secretary, the Attorney General, and the Secretary of Transportation have engaged with Federal, State, and local law enforcement agencies to implement and use such authorities.
+  (G) how the Secretary, the Attorney General, and the Secretary of Transportation have engaged with Federal, State, Tribal, territorial, and local law enforcement agencies to implement and use such authorities, including those exercised under subsection (a)(2).
 
 (4) **Unclassified form** — Each briefing required under paragraph (1) shall be in unclassified form, but may be accompanied by an additional classified briefing.
 
@@ -3053,11 +3067,21 @@ Pub. L. 116–260, div. U, title VI, § 602(d), Dec. 27, 2020, 134 Stat. 2295, p
 
 (5) provide a new basis of liability for any State, local, territorial, or tribal law enforcement officers who participate in the protection of a mass gathering identified by the Secretary or Attorney General under subsection (k)(3)(C)(iii)(II), act within the scope of their authority, and do not exercise the authority granted to the Secretary and Attorney General by this section.
 
-**(i) Termination** The authority to carry out this section with respect to a covered facility or asset specified in subsection (k)(3) shall terminate on March 14, 2025.
+**(i) Applicability of other laws to activities related to the mitigation of threats from unmanned aircraft systems or unmanned aircraft** Sections 32, 1030, and 1367 and chapters 119 and 206 of title 18 and [section 46502 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section46502&num=0&edition=prelim) may not be construed to apply to activities of the Coast Guard, whether under this section or any other provision of law, that—
 
-**(j) Scope of authority** Nothing in this section shall be construed to provide the Secretary or the Attorney General with additional authorities beyond those described in subsections (a) and (k)(3)(C)(iii).
+(1) are conducted outside the United States; and
 
-**(k) Definitions** In this section:
+(2) are related to the mitigation of threats from unmanned aircraft systems or unmanned aircraft.
+
+**(j) Terminations**
+
+(1) **Counter-UAS authority** — The authority to carry out this section with respect to a covered facility or asset, protecting the public, and enforcing the law shall terminate on September 30, 2031.
+
+(2) **State, local, tribal, and territorial law enforcement and correctional agencies** — Authority of State, local, tribal, and territorial law enforcement and correctional agencies under subsection (a)(2) shall terminate on December 31, 2031.
+
+**(k) Scope of authority** Nothing in this section shall be construed to provide the Secretary or the Attorney General with additional authorities beyond those described in subsections (a) and (k)(3)(C)(iii).
+
+**(l) Definitions** In this section:
 
 (1) The term “appropriate congressional committees” means—
 
@@ -3073,7 +3097,7 @@ Pub. L. 116–260, div. U, title VI, § 602(d), Dec. 27, 2020, 134 Stat. 2295, p
 
   (B) is located in the United States (including the territories and possessions, territorial seas or navigable waters of the United States); and
 
-  (C) directly relates to one or more—
+  (C) directly relates to a Federal law enforcement, correctional, and homeland security agency mission necessary to enforce the law, protect the public or to one or more—
 
     (i) missions authorized to be performed by the Department of Homeland Security, consistent with governing statutes, regulations, and orders issued by the Secretary, pertaining to—
 
@@ -3101,17 +3125,21 @@ Pub. L. 116–260, div. U, title VI, § 602(d), Dec. 27, 2020, 134 Stat. 2295, p
 
       (II) the provision of support to State, local, territorial, or tribal law enforcement, upon request of the chief executive officer of the State or territory, to ensure protection of people and property at mass gatherings, that is limited to a specified timeframe and location, within available resources, and without delegating any authority under this section to State, local, territorial, or tribal law enforcement; or
 
-      (III) protection of an active Federal law enforcement investigation, emergency response, or security function, that is limited to a specified timeframe and location; and 33 So in original. Probably should be “or”.
+      (III) protection of an active Federal law enforcement investigation, emergency response, or security function, that is limited to a specified timeframe and location; and 44 So in original. Probably should be “or”.
 
-    (iv) missions authorized to be performed by the United States Coast Guard, including those described in clause (iii) as directed by the Secretary, and as further set forth in section 104 44 See References in Text note below. of title 14, and consistent with governing statutes, regulations, and orders issued by the Secretary of the Department in which the Coast Guard is operating.
+    (iv) missions authorized to be performed by the United States Coast Guard, including those described in clause (iii) as directed by the Secretary, and as further set forth in section 104 55 See References in Text note below. of title 14, and consistent with governing statutes, regulations, and orders issued by the Secretary of the Department in which the Coast Guard is operating.
 
-(4) The terms “electronic communication”, “intercept”, “oral communication”, and “wire communication” have the meaning 55 So in original. Probably should be “meanings”. given those terms in [section 2510 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2510&num=0&edition=prelim).
+(4) The terms “electronic communication”, “intercept”, “oral communication”, and “wire communication” have the meaning 66 So in original. Probably should be “meanings”. given those terms in [section 2510 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2510&num=0&edition=prelim).
 
 (5) The term “homeland security or justice budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary and the Attorney General in support of the budget for that fiscal year.
 
-(6) For purposes of subsection (a), the term “personnel” means officers and employees of the Department of Homeland Security or the Department of Justice.
+(6)
 
-(7) The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 44801, 66 So in original. The comma probably should not appear. of title 49.
+  (A) For purposes of subsection (a)(1), the term “personnel” means officers, employees, contractors, detailed personnel, and deputized personnel who perform Federal law enforcement, correctional, homeland or national security duties.
+
+  (B) For purposes of subsection (a)(2), the term “personnel” means officers and employees of State, local, Tribal, and territorial law enforcement and correctional agencies.
+
+(7) The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 44801,77 So in original. The comma probably should not appear. of title 49.
 
 (8) For purposes of this section, the term “risk-based assessment” includes an evaluation of threat information specific to a covered facility or asset and, with respect to potential impacts on the safety and efficiency of the national airspace system and the needs of law enforcement and national security at each covered facility or asset identified by the Secretary or the Attorney General, respectively, of each of the following factors:
 
@@ -3129,13 +3157,17 @@ Pub. L. 116–260, div. U, title VI, § 602(d), Dec. 27, 2020, 134 Stat. 2295, p
 
   (G) Potential consequences to national security, public safety, or law enforcement if threats posed by unmanned aircraft systems are not mitigated or defeated.
 
-**(l) Department of Homeland Security assessment**
+(9) The term “correctional facility” means any jail, prison, or any other penal or detention facility operated by a State, local, Tribal, or territorial law enforcement agency, or by a private party that is under contract with a State, local, Tribal, or territorial law enforcement agency, and used to house individuals who have been arrested, detained, held, or charged with or convicted of criminal offenses.
+
+(10) The term “critical infrastructure” has the meaning given the term in subsection (e) of [section 5195c of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195c&num=0&edition=prelim).
+
+**(m) Department of Homeland Security assessment**
 
 (1) **Report** — Not later than 1 year after October 5, 2018, the Secretary shall conduct, in coordination with the Attorney General and the Secretary of Transportation, an assessment to the appropriate congressional committees, including—
 
   (A) an evaluation of the threat from unmanned aircraft systems to United States critical infrastructure (as defined in this chapter) and to domestic large hub airports (as defined in [section 40102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102&num=0&edition=prelim));
 
-  (B) an evaluation of current Federal and 77 So in original. Probably should be “Federal,”. State, local, territorial, or tribal law enforcement authorities to counter the threat identified in subparagraph (A), and recommendations, if any, for potential changes to existing authorities to allow State, local, territorial, and tribal law enforcement to assist Federal law enforcement to counter the threat where appropriate;
+  (B) an evaluation of current Federal and 88 So in original. Probably should be “Federal,”. State, local, territorial, or tribal law enforcement authorities to counter the threat identified in subparagraph (A), and recommendations, if any, for potential changes to existing authorities to allow State, local, territorial, and tribal law enforcement to assist Federal law enforcement to counter the threat where appropriate;
 
   (C) an evaluation of the knowledge of, efficiency of, and effectiveness of current procedures and resources available to owners of critical infrastructure and domestic large hub airports when they believe a threat from unmanned aircraft systems is present and what additional actions, if any, the Department of Homeland Security or the Department of Transportation could implement under existing authorities to assist these entities to counter the threat identified in subparagraph (A);
 
@@ -3145,16 +3177,56 @@ Pub. L. 116–260, div. U, title VI, § 602(d), Dec. 27, 2020, 134 Stat. 2295, p
 
 (2) **Unclassified form** — The report required under paragraph (1) shall be submitted in unclassified form, but may contain a classified annex.
 
+**(n) Reimbursement program** Not later than 180 days of after December 18, 2025, the Secretary of Homeland Security and the Attorney General shall provide the appropriate congressional committees with a plan to establish a reimbursement program for Federal agencies providing counter-UAS protection to events that are not organized or operated by the Federal Government.
+
 ### Statutory Notes
 
 #### References in Text
-The Presidential Protection Assistance Act of 1976, referred to in subsec. (k)(3)(C)(i)(II), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under [section 3056 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056&num=0&edition=prelim), Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
+Section 8606(b)(2) of the SAFER SKIES Act, referred to in subsec. (d)(2)(D)(vi), is section 8606(b)(2) of Pub. L. 119–60, div. H, title LXXXVI, which is set out in a note below.
 
-[Section 104 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section104&num=0&edition=prelim), referred to in subsec. (k)(3)(C)(iv), was redesignated [section 528 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section528&num=0&edition=prelim) by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to [section 104 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section104&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+The Presidential Protection Assistance Act of 1976, referred to in subsec. (l)(3)(C)(i)(II), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under [section 3056 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056&num=0&edition=prelim), Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
 
-This chapter, referred to in subsec. (l)(1)(A), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of this title](./chapter-001-homeland-security-organization.md#section-101) and Tables.
+[Section 104 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section104&num=0&edition=prelim), referred to in subsec. (l)(3)(C)(iv), was redesignated [section 528 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section528&num=0&edition=prelim) by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and references to [section 104 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section104&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
+
+This chapter, referred to in subsec. (m)(1)(A), was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of this title](./chapter-001-homeland-security-organization.md#section-101) and Tables.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 8602(1), added subsec. (a) and struck out former subsec. (a) which related to the authorities of the Secretary and the Attorney General.
+
+Subsec. (b)(1)(B). Pub. L. 119–60, § 8602(2), substituted “electromagnetic means, and through the use of remote identification broadcast or other means” for “and electromagnetic means”.
+
+Subsec. (c). Pub. L. 119–60, § 8602(3), inserted “pursuant to subsection (a)(1)” after “Attorney General”, designated existing provisions as par. (1) and inserted heading, and added par. (2).
+
+Subsec. (d)(1). Pub. L. 119–60, § 8602(4)(A), substituted “, the Attorney General, or any State, local, Tribal, or territorial law enforcement or correctional agency” for “or the Attorney General”.
+
+Subsec. (d)(2), (3). Pub. L. 119–60, § 8602(4)(B), (C), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (e). Pub. L. 119–60, § 8602(5)(A), substituted “, the Attorney General, or any State, local, Tribal, or territorial law enforcement or correctional agency” for “or the Attorney General” in introductory provisions.
+
+Subsec. (e)(3). Pub. L. 119–60, § 8602(5)(B), substituted “, the Attorney General, or any State, local, Tribal, or territorial law enforcement or correctional agency” for “or the Attorney General” and inserted “, State, local, Tribal, or territorial” after “Federal” and “(as applicable)” after “law”.
+
+Subsec. (e)(4). Pub. L. 119–60, § 8602(5)(C), substituted “the Department of Justice, or the State, local, Tribal, or territorial law enforcement or correctional agency” for “or the Department of Justice” in introductory provisions.
+
+Subsec. (e)(5). Pub. L. 119–60, § 8602(5)(D), substituted “Tribal” for “tribal” and inserted “other than those of an aeronautical communications system, as allowed for in [section 2511(2)(g)(ii)(IV) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2511/2/g/ii/IV&num=0&edition=prelim) or information readily available to the public” after “which shall not include communications”.
+
+Subsec. (g)(3)(G). Pub. L. 119–60, § 8602(6), inserted “Tribal, territorial,” after “State,” and “, including those exercised under subsection (a)(2)” after “authorities”.
+
+Subsec. (i). Pub. L. 119–60, § 8602(8), added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows: “The authority to carry out this section with respect to a covered facility or asset specified in subsection (k)(3) shall terminate on September 30, 2025”
+
+Pub. L. 119–4 substituted “September 30, 2025” for “March 14, 2025”.
+
+Subsec. (j). Pub. L. 119–60, § 8602(8), added subsec. (j). Former subsec. (j) redesignated (k).
+
+Subsecs. (k), (l). Pub. L. 119–60, § 8602(7), redesignated subsecs. (j) and (k) as (k) and (l), respectively.
+
+Subsec. (l)(3)(C). Pub. L. 119–60, § 8602(9)(A), inserted “a Federal law enforcement, correctional, and homeland security agency mission necessary to enforce the law, protect the public or to” after “directly relates to”.
+
+Subsec. (l)(6). Pub. L. 119–60, § 8602(9)(B), added par. (6) and struck out former par. (6) which read as follows: “For purposes of subsection (a), the term ‘personnel’ means officers and employees of the Department of Homeland Security or the Department of Justice.”
+
+Subsec. (l)(9), (10). Pub. L. 119–60, § 8602(9)(C), added pars. (9) and (10).
+
+Subsec. (n). Pub. L. 119–60, § 8602(10), added subsec. (n).
+
 2024—Subsec. (i). Pub. L. 118–158 substituted “March 14, 2025” for “December 20, 2024”.
 
 Pub. L. 118–83 substituted “December 20, 2024” for “October 1, 2024”.
@@ -3170,7 +3242,51 @@ Pub. L. 118–35 substituted “March 9, 2024” for “February 3, 2024”.
 Pub. L. 118–15 substituted “on November 18, 2023” for “on the date that is 4 years after October 5, 2018”.
 
 #### Termination Date
-Pub. L. 117–328, div. F, title V, § 547, Dec. 29, 2022, 136 Stat. 4758, provided that: “Section 210G(i) of the Homeland Security Act of 2002 ([6 U.S.C. 124n(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section124n/i&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2023’ for ‘the date that is 4 years after the date of enactment of this section [Oct. 5, 2018]’.”
+Pub. L. 117–328, div. F, title V, § 547, Dec. 29, 2022, 136 Stat. 4758, provided that former subsec. (i) of this section would be applied by substituting “September 30, 2023” for “the date that is 4 years after the date of enactment of this section”.
+
+#### Rulemaking and Implementation
+Pub. L. 119–60, div. H, title LXXXVI, § 8606, Dec. 18, 2025, 139 Stat. 1944, provided that: “(a) Rulemaking Authority.—“(1) In general.—Not later than 180 days after the date of enactment of this Act [Dec. 18, 2025], the Secretary of Homeland Security and the Attorney General, in coordination with the Secretary of Defense and the Secretary of Transportation, shall develop and publish regulations governing counter-UAS authority for SLTT law enforcement agencies and correctional agencies under this title [see Short Title of 2025 Amendment note set out under [section 101 of this title](./chapter-001-homeland-security-organization.md#section-101)] and the amendments made by this title. “(2) Role of faa.—In carrying out the rulemaking in paragraph (1), the Secretary of Homeland Security and the Attorney General shall coordinate with the Administrator of the Federal Aviation Administration on any aspect of the rulemaking that affects aviation safety, civilian aviation and aerospace operations, aircraft airworthiness, or the use of airspace. “(3) Saving clause.—Nothing in this section shall be construed to vest in the Secretary or the Attorney General any authority of the Secretary of Transportation or the Administrator of the Federal Aviation Administration. “(4) Authorized equipment and technology.—The Secretary of Homeland Security, the Attorney General, the Secretary of Defense, in coordination with the Administrator of the Federal Aviation Administration, the Chairman of the Federal Communications Commission, and the Administrator of National Telecommunications and Information Administrator shall authorize equipment and technology to be used for actions in subparagraphs (B), (C), (D), and (F) of section 210G(b)(1) of the Homeland Security Act of 2002 [[6 U.S.C. 124n(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section124n/b/1&num=0&edition=prelim)]. “(b) Training and Compliance.—“(1) In general.—The Attorney General, in coordination with the Secretary of Homeland Security, the Secretary of Defense, and the Department of Transportation, shall approve standards for training programs for SLTT law enforcement agencies or correctional agencies for the safe and lawful interception of drones. Such training programs shall include instruction on the legal, operational, and technological aspects of counter-UAS operations. “(2) Compliance audits.—The Attorney General and the Secretary of Homeland Security shall periodically conduct compliance audits to prevent misuse of counter-UAS authority. “(c) Definitions.—In this section:“(1) SLTT law enforcement agency.—The term ‘SLTT law enforcement agency’ means a State, local, Tribal, or territorial law enforcement agency. “(2) Correctional agency.—The term ‘correctional agency’ means a Federal, State, local, Tribal, or territorial government body responsible for operating correctional facilities or a private party that is under contract with a State, local, Tribal, or territorial law enforcement agency to operate such facilities. “(3) Correctional facility.—The term ‘correctional facility’ means any jail, prison, or any other penal or detention facility operated by a State, local, Tribal, or territorial law enforcement agency, or by a private party that is under contract with a State, local, Tribal, or territorial law enforcement agency, and used to house individuals who have been arrested, detained, held, or charged with or convicted of criminal offenses.”
+
+#### Severability
+Pub. L. 119–60, div. H, title LXXXVI, § 8607, Dec. 18, 2025, 139 Stat. 1945, provided that: “If any provision of this title [see Short Title of 2025 Amendment note set out under [section 101 of this title](./chapter-001-homeland-security-organization.md#section-101)], or the application of any provision of this title to any person or circumstance is held invalid, the application of such provision or circumstance and the remainder of this title shall not be affected thereby.”
+
+
+<a id="section-146"></a>
+## § 146. Penalties
+**(a) Definition** In this section, the term “unmanned aircraft” has the meaning given the term in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim).
+
+**(b) Omitted**
+
+**(c) Increased penalties for operation of unmanned aircraft to facilitate felony offense** If a person who is convicted of a felony offense (other than an offense based solely on the operation of an unmanned aircraft) knowingly operated an unmanned aircraft during, in relation to, or in furtherance of such offense, the maximum imprisonment otherwise provided by law for that offense shall be doubled or increased by 5 years, whichever is less.
+
+**(d) Increased penalties for use of unmanned aircraft to introduce contraband into prisons** If a defendant who is convicted under [section 1791 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1791&num=0&edition=prelim) knowingly used an unmanned aircraft to provide a prohibited object to an inmate of a prison, the maximum imprisonment otherwise provided by law for that offense shall be increased by 5 years.
+
+**(e) Directive to United States Sentencing Commission: enhanced sentencing range for use of unmanned aircraft**
+
+(1) **In general** — To carry out the purposes of this section, during the Sentencing Commission’s amendment cycle in progress at the time this Act is enacted, the Commission shall, under [section 994 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim)—
+
+  (A) promulgate guidelines, or amendments to guidelines, that substantially increase the sentencing range for all offenses involving the use of an unmanned aircraft; and
+
+  (B) as necessary, promulgate policy statements, or amendments to policy statements to assist in the application of this section.
+
+(2) **Enhanced penalties** — In any case in which the enhanced penalties of subsection (c) apply, the guidelines and amendments issued under paragraph (1) shall call for an increase of at least 6 levels in the base offense level and in all other cases, the base offense level shall be increased by at least 4 levels.
+
+**(f) Penalties for unauthorized counter-UAS actions** Any entity or individual authorized to take such actions to mitigate the threat posed by an unmanned aircraft system or unmanned aircraft pursuant to [section 124n of this title](./chapter-001-homeland-security-organization.md#section-124n) who knowingly engages in such actions without Federal coordination as required by those statutes, shall be subject to—
+
+(1) a civil fine up to $100,000 per violation; or
+
+(2) suspension of counter-UAS authority pending review by the Attorney General or Secretary of Homeland Security.
+
+**(g) Civil enforcement** The Attorney General is authorized to bring a civil action in a United States district court to collect fines and enforce civil penalties imposed under this section.
+
+**(h) Effective date** This section and the amendments made by this section shall take effect 30 days after December 18, 2025.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the SAFER SKIES Act, and also as part of the National Defense Authorization Act for Fiscal Year 2026, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+Section is comprised of section 8605 of Pub. L. 119–60. Subsec. (b) of section 8605 of Pub. L. 119–60 amended [section 46307 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section46307&num=0&edition=prelim), Transportation. Subsec. (e) of section 8605 of Pub. L. 119–60 is also listed in a table relating to sentencing guidelines set out under [section 994 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 
 <a id="section-147-to-151"></a>
@@ -3725,13 +3841,23 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
 
 (12) coordinating and integrating all research, development, demonstration, testing, and evaluation activities of the Department;
 
-(13) coordinating with other appropriate executive agencies in developing and carrying out the science and technology agenda of the Department to reduce duplication and identify unmet needs; and
+(13) coordinating with other appropriate executive agencies in developing and carrying out the science and technology agenda of the Department to reduce duplication and identify unmet needs;
 
-(14) developing and overseeing the administration of guidelines for merit review of research and development projects throughout the Department, and for the dissemination of research conducted or sponsored by the Department.
+(14) developing and overseeing the administration of guidelines for merit review of research and development projects throughout the Department, and for the dissemination of research conducted or sponsored by the Department; and
+
+(15) carrying out, in coordination with the Drug Enforcement Administration, research, development, testing, evaluation, and cost-benefit analyses to improve the safety, effectiveness, and efficiency of equipment and the effectiveness and efficiency of reference libraries for use by Federal, State, local, Tribal, and territorial law enforcement agencies for the accurate detection of drugs, such as fentanyl and xylazine, including—
+
+  (A) portable equipment that can detect and identify drugs with minimal or no handling of the sample;
+
+  (B) equipment that can separate complex mixtures containing low concentrations of drugs and high concentrations of cutting agents into their component parts to enable signature extraction for field identification and detection; and
+
+  (C) technologies that use machine learning or artificial intelligence (as defined in [section 9401 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9401&num=0&edition=prelim)) and other techniques to predict whether the substances in a sample are controlled substance analogues or other new psychoactive substances not yet included in available reference libraries.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Par. (15). Pub. L. 118–186 added par. (15).
+
 2018—Par. (2). Pub. L. 115–278, § 2(g)(3)(A)(i), substituted “biological,” for “biological,,”.
 
 Par. (3). Pub. L. 115–278, § 2(g)(3)(A)(ii), substituted “Director of the Cybersecurity and Infrastructure Security Agency” for “Assistant Secretary for Infrastructure Protection”.
@@ -3741,6 +3867,12 @@ Par. (5)(A). Pub. L. 115–278, § 2(g)(3)(A)(i), substituted “biological,” 
 2007—Par. (3). Pub. L. 110–53 substituted “Under Secretary for Intelligence and Analysis and the Assistant Secretary for Infrastructure Protection” for “Under Secretary for Information Analysis and Infrastructure Protection”.
 
 2006—Pars. (2), (5)(A). Pub. L. 109–347 struck out “radiological, nuclear” after “biological,”.
+
+#### Rule of Construction
+Pub. L. 118–186, § 4, Dec. 23, 2024, 138 Stat. 2637, provided that: “Nothing in this Act [amending this section and enacting provisions set out as a note below] may be construed to limit the authority of agencies currently managing, overseeing, or otherwise involved in drug equipment and reference libraries.”
+
+#### Requirements
+Pub. L. 118–186, § 3, Dec. 23, 2024, 138 Stat. 2637, provided that: “In carrying out section 302(15) of the Homeland Security Act of 2002 [[6 U.S.C. 182(15)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section182/15&num=0&edition=prelim)], as added by section 2, the Under Secretary for Science and Technology shall— “(1) follow the recommendations, guidelines, and best practices described in the Artificial Intelligence Risk Management Framework (NIST AI 100–1) or any successor document published by the National Institute of Standards and Technology; and “(2) establish the Directorate of Science and Technology’s research, development, testing, evaluation, and cost-benefit analysis priorities under such section 302(15) based on the latest available information, including specific drugs identified as threats in—“(A) the latest Homeland Threat Assessment published by the Department of Homeland Security; “(B) the latest State and Territory Report on Enduring and Emerging Threats published by the Drug Enforcement Administration; or “(C) any successor documents.”
 
 
 <a id="section-190"></a>
@@ -5798,7 +5930,7 @@ Pub. L. 115–372, Dec. 21, 2018, 132 Stat. 5107, provided that: “SECTION 1. S
 #### Required Notice of Aircraft Transfers
 Pub. L. 115–141, div. F, title II, § 203, Mar. 23, 2018, 132 Stat. 612, provided that: “Hereafter, no U.S. Customs and Border Protection aircraft or other related equipment, with the exception of aircraft that are one of a kind and have been identified as excess to U.S. Customs and Border Protection requirements and aircraft that have been damaged beyond repair, shall be transferred to any other Federal agency, department, or office outside of the Department of Homeland Security without prior notice to the Committees on Appropriations of the Senate and the House of Representatives.”
 
-#### Detecting Incoming Contraband with Technology
+#### Detecting Incoming Contraband With Technology
 Pub. L. 115–112, Jan. 10, 2018, 131 Stat. 2274, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘International Narcotics Trafficking Emergency Response by Detecting Incoming Contraband with Technology Act’ or the ‘INTERDICT Act’. “SEC. 2. DEFINITIONS.“In this Act:“(1) Chemical screening device.—The term ‘chemical screening device’ means an immunoassay, narcotics field test kit, infrared spectrophotometer, mass spectrometer, nuclear magnetic resonance spectrometer, Raman spectrophotometer, or other scientific instrumentation able to collect data that can be interpreted to determine the presence of fentanyl, other synthetic opioids, and other narcotics and psychoactive substances. “(2) Commissioner.—The term ‘Commissioner’ means the Commissioner of U.S. Customs and Border Protection. “(3) Express consignment operator or carrier.—The term ‘express consignment operator or carrier’ has the meaning given that term in section 128.1 of title 19, Code of Federal Regulations (or any similar successor regulation). “SEC. 3. INTERDICTION OF FENTANYL, OTHER SYNTHETIC OPIOIDS, AND OTHER NARCOTICS AND PSYCHOACTIVE SUBSTANCES.“(a) Chemical Screening Devices.—The Commissioner shall—“(1) increase the number of chemical screening devices available to U.S. Customs and Border Protection officers over the number of such devices that are available on the date of the enactment of this Act [Jan. 10, 2018]; and “(2) make such additional chemical screening devices available to U.S. Customs and Border Protection officers as the Commissioner determines are necessary to interdict fentanyl, other synthetic opioids, and other narcotics and psychoactive substances that are illegally imported into the United States, including such substances that are imported through the mail or by an express consignment operator or carrier. “(b) Personnel to Interpret Data.—The Commissioner shall dedicate the appropriate number of U.S. Customs and Border Protection personnel, including scientists, so that such personnel are available during all operational hours to interpret data collected by chemical screening devices. “SEC. 4. AUTHORIZATION OF APPROPRIATIONS.“There is authorized to be appropriated to the Commissioner $9,000,000 to ensure that U.S. Customs and Border Protection has resources, including chemical screening devices, personnel, and scientists, available during all operational hours to prevent, detect, and interdict the unlawful importation of fentanyl, other synthetic opioids, and other narcotics and psychoactive substances.”
 
 #### Continuation in Office
@@ -7315,7 +7447,7 @@ Pub. L. 118–96, §§ 3(b)(2)(A), 6, temporarily amended section catchline gene
 
 Subsec. (a). Pub. L. 118–96, §§ 3(b)(2)(D)(i), 6, temporarily struck out “of Bureau” after “Establishment” in heading. See Termination Date of 2024 Amendment note below.
 
-Subsec. (a)(3)(C). Pub. L. 118–96, §§ 3(b)(2)(D)(ii), 6, which directed the temporary substitution of “affecting U.S.” for “affecting the Bureau of” was executed by making the temporary substitution for “that may affect the Bureau of” to reflect the probable intent of Congress. See Termination Date of 2024 Amendment note below.
+Subsec. (a)(3)(C). Pub. L. 118–96, §§ 3(b)(2)(D)(ii), 6, which directed the temporary substitution of “affecting U.S.” for “affecting the Bureau of”, was executed by making the temporary substitution for “that may affect the Bureau of” to reflect the probable intent of Congress. See Termination Date of 2024 Amendment note below.
 
 Subsec. (a)(4). Pub. L. 118–96, §§ 3(b)(2)(D), 6, temporarily substituted “the agency.” for “the Bureau.” See Termination Date of 2024 Amendment note below.
 
@@ -7479,7 +7611,7 @@ For termination of section by section 6 of Pub. L. 118–96, see Termination Dat
 #### Termination Date
 Section to cease to be effective Oct. 1, 2030, see section 6 of Pub. L. 118–96, set out as a Termination Date of 2024 Amendment note under [section 252 of this title](./chapter-001-homeland-security-organization.md#section-252).
 
-#### Investigators Maintain Purposeful Awareness To Combat Trafficking Trauma Program
+#### Investigators Maintain Purposeful Awareness to Combat Trafficking Trauma Program
 Pub. L. 118–96, § 2, Oct. 1, 2024, 138 Stat. 1569, provided that: “(a) Establishment.—There is established, in Homeland Security Investigations of U.S. Immigration and Customs Enforcement, the Investigators Maintain Purposeful Awareness to Combat Trafficking Trauma Program (referred to in this Act [see Short Title of 2024 Amendment note set out under [section 101 of this title](./chapter-001-homeland-security-organization.md#section-101)] as the ‘IMPACTT Program’). “(b) Functions.—The IMPACTT Program shall—“(1) provide outreach and training to Homeland Security Investigations employees who have been exposed to various forms of trauma in working with victims of human trafficking, including—“(A) self-awareness training for the relevant employees on recognizing the signs of burnout, compassion fatigue, critical incident stress, traumatic stress, posttraumatic stress, secondary traumatic stress, and vicarious trauma; “(B) training material that—“(i) provides mechanisms for self-care and resilience and notification of resources that are available through U.S. Immigration and Customs Enforcement, such as the Employee Assistance Program, the Peer Support Program, the Chaplain Program, and other relevant accredited programs that are available; and “(ii) provides examples of potential resources that are available outside of U.S. Immigration and Customs Enforcement, which may include, faith-based and community-based resources; and “(C) provide [sic] additional training to first line supervisors of relevant employees on recognizing the signs referred to in subparagraph (A) and the appropriate responses to employees exhibiting such signs; “(2) include training modules that are carried out by—“(A) licensed and accredited clinicians who—“(i) have been trained on the exposure of various forms of trauma and other stressors experienced in working with victims; and “(ii) may have experience working with faith-based organizations, community-based organizations, counseling programs, or other social service programs; and “(B) additional subject matter experts who are available; and “(3) be overseen and coordinated by the Department of Homeland Security Center for Countering Human Trafficking to ensure that—“(A) appropriate program materials are distributed; “(B) training is offered to all relevant employees; and “(C) any needed travel and equipment is provided.”
 
 
@@ -13182,7 +13314,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 ### Statutory Notes
 
-#### Incorporation of Governors of West Virginia and Pennsylvania into Mass Evacuation Planning
+#### Incorporation of Governors of West Virginia and Pennsylvania Into Mass Evacuation Planning
 Pub. L. 113–6, div. D, title III, Mar. 26, 2013, 127 Stat. 357, provided in part: “That for fiscal year 2013 and thereafter, for purposes of planning, coordination, execution, and decision making related to mass evacuation during a disaster, the Governors of the State of West Virginia and the Commonwealth of Pennsylvania, or their designees, shall be incorporated into efforts to integrate the activities of Federal, State, and local governments in the National Capital Region, as defined in section 882 of the Homeland Security Act of 2002 (Public Law 107–296) [[6 U.S.C. 462](./chapter-001-homeland-security-organization.md#section-462)]”.
 
 
@@ -13638,33 +13770,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 <a id="section-474"></a>
 ## § 474. Preserving Coast Guard mission performance
-**(a) Definitions** In this section:
-
-(1) **Non-homeland security missions** — The term “non-homeland security missions” means the following missions of the Coast Guard:
-
-  (A) Marine safety.
-
-  (B) Search and rescue.
-
-  (C) Aids to navigation.
-
-  (D) Living marine resources (fisheries law enforcement).
-
-  (E) Marine environmental protection.
-
-  (F) Ice operations.
-
-(2) **Homeland security missions** — The term “homeland security missions” means the following missions of the Coast Guard:
-
-  (A) Ports, waterways and coastal security.
-
-  (B) Drug interdiction.
-
-  (C) Migrant interdiction.
-
-  (D) Defense readiness.
-
-  (E) Other law enforcement.
+**(a) Transferred**
 
 **(b) Transfer** There are transferred to the Department the authorities, functions, personnel, and assets of the Coast Guard, which shall be maintained as a distinct entity within the Department, including the authorities and functions of the Secretary of Transportation relating thereto.
 
@@ -13690,6 +13796,8 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 [Section 3 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim), referred to in subsec. (g), was redesignated [section 103 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section103&num=0&edition=prelim) by Pub. L. 115–282, title I, § 103(b), Dec. 4, 2018, 132 Stat. 4195, and references to [section 3 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 transferred subsec. (a) of this section defining “non-homeland security missions” and “homeland security missions” to [section 102 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section102&num=0&edition=prelim), Coast Guard.
+
 2018—Subsec. (h). Pub. L. 115–282 struck out subsec. (h). Text read as follows: “Not later than 90 days after November 25, 2002, the Secretary, in consultation with the Commandant of the Coast Guard, shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives that—
 
 “(1) analyzes the feasibility of accelerating the rate of procurement in the Coast Guard’s Integrated Deepwater System from 20 years to 10 years;
@@ -14427,7 +14535,7 @@ Section 1. Assignment of Functions. (a) The functions of the President under sec
 
 Sec. 2. Rules of Construction. Nothing in this order shall be construed to impair or otherwise affect:
 
-(a) the authority of the Director of National Intelligence under section 102A(i)(1) of the National Security Act of 1947, as amended ([50 U.S.C. 403–3(c)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–3/c/7&num=0&edition=prelim) [sic]) [[50 U.S.C. 3024(i)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/i/1&num=0&edition=prelim)], to protect intelligence sources and methods from unauthorized disclosure;
+(a) the authority of the Director of National Intelligence under section 102A(i)(1) [now 102A(h)(1)] of the National Security Act of 1947, as amended ([50 U.S.C. 403–3(c)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–3/c/7&num=0&edition=prelim) [sic]) [now [50 U.S.C. 3024(h)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/h/1&num=0&edition=prelim)], to protect intelligence sources and methods from unauthorized disclosure;
 
 (b) the functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals; or
 
@@ -14802,7 +14910,7 @@ Section 1. Policy. To the maximum extent consistent with applicable law, agencie
 
 Sec. 2. Duties of Heads of Agencies Possessing or Acquiring Terrorism Information. To implement the policy set forth in section 1 of this order, the head of each agency that possesses or acquires terrorism information:
 
-(a) shall promptly give access to the terrorism information to the head of each other agency that has counterterrorism functions, and provide the terrorism information to each such agency, unless otherwise directed by the President, and consistent with (i) the statutory responsibilities of the agencies providing and receiving the information; (ii) any guidance issued by the Attorney General to fulfill the policy set forth in subsection 1(b) of this order; and (iii) other applicable law, including sections 102A(g) and (i) of the National Security Act of 1947 [[50 U.S.C. 3024(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/g&num=0&edition=prelim), (i)], section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 [[6 U.S.C. 485](./chapter-001-homeland-security-organization.md#section-485)] (including any policies, procedures, guidelines, rules, and standards issued pursuant thereto), sections 202 and 892 of the Homeland Security Act of 2002 [[6 U.S.C. 122](./chapter-001-homeland-security-organization.md#section-122), 482], [former] Executive Order 12958 of April 17, 1995, as amended, and Executive Order 13311 of July 29, 2003 [[6 U.S.C. 482](./chapter-001-homeland-security-organization.md#section-482) note]; and
+(a) shall promptly give access to the terrorism information to the head of each other agency that has counterterrorism functions, and provide the terrorism information to each such agency, unless otherwise directed by the President, and consistent with (i) the statutory responsibilities of the agencies providing and receiving the information; (ii) any guidance issued by the Attorney General to fulfill the policy set forth in subsection 1(b) of this order; and (iii) other applicable law, including sections 102A(g) and (i) [now 102A(f), (h)] of the National Security Act of 1947 [[50 U.S.C. 3024(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/f&num=0&edition=prelim), (h)], section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 [[6 U.S.C. 485](./chapter-001-homeland-security-organization.md#section-485)] (including any policies, procedures, guidelines, rules, and standards issued pursuant thereto), sections 202 and 892 of the Homeland Security Act of 2002 [[6 U.S.C. 122](./chapter-001-homeland-security-organization.md#section-122), 482], [former] Executive Order 12958 of April 17, 1995, as amended, and Executive Order 13311 of July 29, 2003 [[6 U.S.C. 482](./chapter-001-homeland-security-organization.md#section-482) note]; and
 
 (b) shall cooperate in and facilitate production of reports based on terrorism information with contents and formats that permit dissemination that maximizes the utility of the information in protecting the territory, people, and interests of the United States.
 
@@ -17787,8 +17895,8 @@ Pub. L. 107–56, title X, § 1014, Oct. 26, 2001, 115 Stat. 399, as amended by 
 (2) such sums as are necessary for fiscal year 2013, and each fiscal year thereafter.
 
 
-<a id="section-621"></a>
-## § 621. Terrorism prevention
+<a id="section-621-to-629"></a>
+## § 621 to 629. Terrorism prevention
 **(a) Law enforcement terrorism prevention program**
 
 (1) **In general** — The Administrator shall ensure that not less than 25 percent of the total combined funds appropriated for grants under sections 604 and 605 of this title is used for law enforcement terrorism prevention activities.
@@ -17847,8 +17955,8 @@ Pub. L. 107–56, title X, § 1014, Oct. 26, 2001, 115 Stat. 399, as amended by 
 2016—Subsec. (a)(2)(E) to (J). Pub. L. 114–190 added subpar. (E) and redesignated former subpars. (E) to (I) as (F) to (J), respectively.
 
 
-<a id="section-622"></a>
-## § 622. Prioritization
+<a id="section-641"></a>
+## § 641. Prioritization
 **(a) In general** In allocating funds among States and high-risk urban areas applying for grants under section 604 or 605 of this title, the Administrator shall consider, for each State or high-risk urban area—
 
 (1) its relative threat, vulnerability, and consequences from acts of terrorism, including consideration of—
@@ -17902,8 +18010,8 @@ Pub. L. 107–56, title X, § 1014, Oct. 26, 2001, 115 Stat. 399, as amended by 
 (9) Such other types of threat determined relevant by the Administrator.
 
 
-<a id="section-623"></a>
-## § 623. Use of funds
+<a id="section-642"></a>
+## § 642. Use of funds
 **(a) Permitted uses** The Administrator shall permit the recipient of a grant under section 604 or 605 of this title to use grant funds to achieve target capabilities related to preventing, preparing for, protecting against, and responding to acts of terrorism, consistent with a State homeland security plan and relevant local, tribal, and regional homeland security plans, including by working in conjunction with a National Laboratory (as defined in [section 15801(3) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801/3&num=0&edition=prelim)), through—
 
 (1) developing and enhancing homeland security, emergency management, or other relevant plans, assessments, or mutual aid agreements;
@@ -17988,18 +18096,42 @@ Pub. L. 107–56, title X, § 1014, Oct. 26, 2001, 115 Stat. 399, as amended by 
 
 **(e) Flexibility in unspent homeland security grant funds** Upon request by the recipient of a grant under section 604, 605, or 609a of this title, the Administrator may authorize the grant recipient to transfer all or part of the grant funds from uses specified in the grant agreement to other uses authorized under this section, if the Administrator determines that such transfer is in the interests of homeland security.
 
-**(f) Equipment standards** If an applicant for a grant under section 604 or 605 of this title proposes to upgrade or purchase, with assistance provided under that grant, new equipment or systems that do not meet or exceed any applicable national voluntary consensus standards developed under [section 747 of this title](./chapter-002-national-emergency-management.md#section-747), the applicant shall include in its application an explanation of why such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed such standards.
+**(f) Equipment standards**
+
+(1) **Application requirement** — If an applicant for a grant under section 604 or 605 of this title proposes to upgrade or purchase, with assistance provided under that grant, new equipment or systems that do not meet or exceed any applicable national voluntary consensus standards developed under [section 747 of this title](./chapter-002-national-emergency-management.md#section-747), the applicant shall include in its application an explanation of why such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed such standards.
+
+(2) **Review process** — The Administrator shall implement a uniform process for reviewing applications that, in accordance with paragraph (1), contain explanations to use grants provided under section 604 or 605 of this title to purchase equipment or systems that do not meet or exceed any applicable national voluntary consensus standards developed under [section 747 of this title](./chapter-002-national-emergency-management.md#section-747).
+
+(3) **Factors** — In carrying out the review process under paragraph (2), the Administrator shall consider the following:
+
+  (A) Current or past use of proposed equipment or systems by Federal agencies or the Armed Forces.
+
+  (B) The absence of a national voluntary consensus standard for such equipment or systems.
+
+  (C) The existence of an international consensus standard for such equipment or systems, and whether such equipment or systems meets such standard.
+
+  (D) The nature of the capability gap identified by the applicant and how such equipment or systems will address such gap.
+
+  (E) The degree to which such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed existing consensus standards.
+
+  (F) Any other factor determined appropriate by the Administrator.
+
+**(g) Review process** The Administrator shall implement a uniform process for reviewing applications to use grants provided under section 604 or 605 of this title to purchase equipment or systems not included on the Authorized Equipment List maintained by the Administrator.
 
 ### Statutory Notes
 
 #### References in Text
-Subsection (a)(10), referred to in subsec. (b)(3)(B), was redesignated subsec. (a)(11) by Pub. L. 114–190, title III, § 3603(1), July 15, 2016, 130 Stat. 665.
-
 Section 3 of the DOTGOV Online Trust in Government Act of 2020, referred to in subsec. (a)(14), probably means section 903 of title IX of div. U of Pub. L. 116–260, which defines “online service” and is set out as a note under [section 665 of this title](./chapter-001-homeland-security-organization.md#section-665).
+
+Subsection (a)(10), referred to in subsec. (b)(3)(B), was redesignated subsec. (a)(11) by Pub. L. 114–190, title III, § 3603(1), July 15, 2016, 130 Stat. 665.
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (d)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2024—Subsec. (f). Pub. L. 118–165, § 2(a)(1), designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
+
+Subsec. (g). Pub. L. 118–165, § 2(a)(2), added subsec. (g).
+
 2022—Subsec. (c). Pub. L. 117–263, § 7101(c)(1), substituted “sections 604, 605, and 609a of this title” for “sections 604 and 605 of this title”.
 
 Subsec. (e). Pub. L. 117–263, § 7101(c)(2), substituted “section 604, 605, or 609a of this title” for “section 604 or 605 of this title”.
@@ -18019,8 +18151,8 @@ Subsec. (a)(10). Pub. L. 110–412, § 2(1)(B), inserted “, regardless of whet
 Subsec. (b)(3) to (5). Pub. L. 110–412, § 2(2), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
 
-<a id="section-624"></a>
-## § 624. Nonprofit Security Grant Program
+<a id="section-643"></a>
+## § 643. Nonprofit Security Grant Program
 **(a) Establishment** There is established in the Department a program to be known as the “Nonprofit Security Grant Program” (in this section referred to as the “Program”). Under the Program, the Secretary, acting through the Administrator, shall make grants to eligible nonprofit organizations described in subsection (b), through the State in which such organizations are located, for target hardening and other security enhancements to protect against terrorist attacks or other threats.
 
 **(b) Eligible recipients** Eligible nonprofit organizations described in this subsection are organizations that are—
@@ -18123,8 +18255,8 @@ Pub. L. 117–263, § 7101(a)(4)(A), substituted “2022 through 2028” for “
 Subsecs. (f) to (i). Pub. L. 117–263, § 7101(a)(5), added subsecs. (f) to (i) and struck out former subsec. (f) which related to authorization of appropriations for fiscal years 2020 through 2024.
 
 
-<a id="section-625"></a>
-## § 625. Administration and coordination
+<a id="section-644"></a>
+## § 644. Administration and coordination
 **(a) Regional coordination** The Administrator shall ensure that—
 
 (1) all recipients of grants administered by the Department to prevent, prepare for, protect against, or respond to natural disasters, acts of terrorism, or other man-made disasters (excluding assistance provided under section 203, title IV, or title V of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5133](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5133&num=0&edition=prelim), 5170 et seq., and 5191 et seq.)) coordinate, as appropriate, their prevention, preparedness, and protection efforts with neighboring State, local, and tribal governments; and
@@ -18176,8 +18308,8 @@ The Implementing Recommendations of the 9/11 Commission Act of 2007, referred to
 2016—Subsec. (b). Pub. L. 114–328 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to planning committees to assist in preparation and revision of State, regional, or local homeland security plans, and to assist in determining effective funding priorities for grants under sections 604 and 605 of this title.
 
 
-<a id="section-626"></a>
-## § 626. Accountability
+<a id="section-645"></a>
+## § 645. Accountability
 **(a) Audits of grant programs**
 
 (1) **Compliance requirements**
@@ -18310,8 +18442,8 @@ Subsec. (a)(5). Pub. L. 116–117, § 3(b)(2)(B), substituted “[section 3352(i
 Pub. L. 113–284, § 2(c)(3), Dec. 18, 2014, 128 Stat. 3090, provided that: “The amendments made by this subsection [amending this section] shall take effect on January 1, 2015.”
 
 
-<a id="section-627"></a>
-## § 627. Identification of reporting redundancies and development of performance metrics
+<a id="section-645a"></a>
+## § 645a. Identification of reporting redundancies and development of performance metrics
 **(a) Definition** In this section, the term “covered grants” means grants awarded under [section 604 of this title](./chapter-001-homeland-security-organization.md#section-604), grants awarded under [section 605 of this title](./chapter-001-homeland-security-organization.md#section-605), and any other grants specified by the Administrator.
 
 **(b) Initial report** Not later than 90 days after October 12, 2010, the Administrator shall submit to the appropriate committees of Congress a report that includes—
@@ -18370,95 +18502,120 @@ Pub. L. 113–284, § 2(c)(3), Dec. 18, 2014, 128 Stat. 3090, provided that: “
 [Section 612(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section612/a/4&num=0&edition=prelim), referred to in subsec. (c)(3)(B), was redesignated [section 612(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section612/a/3&num=0&edition=prelim) by Pub. L. 113–284, § 2(c)(2)(A), Dec. 18, 2014, 128 Stat. 3089.
 
 
-<a id="section-628"></a>
-## § 628. Definitions
+<a id="section-650"></a>
+## § 650. Definitions
 
-In this subchapter—
+In this part:
 
-(1) the term “CFATS regulation” means—
+(1) **Center** — The term “Center” means the center established under [section 659 of this title](./chapter-001-homeland-security-organization.md#section-659).
 
-  (A) an existing CFATS regulation; and
+(2) **Council** — The term “Council” means the Cyber Incident Reporting Council described in [section 681f of this title](./chapter-001-homeland-security-organization.md#section-681f).
 
-  (B) any regulation or amendment to an existing CFATS regulation issued pursuant to the authority under [section 627 of this title](./chapter-001-homeland-security-organization.md#section-627);
+(3) **Covered cyber incident** — The term “covered cyber incident” means a substantial cyber incident experienced by a covered entity that satisfies the definition and criteria established by the Director in the final rule issued pursuant to [section 681b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section681b/b&num=0&edition=prelim).
 
-(2) the term “chemical facility of interest” means a facility that—
+(4) **Covered entity** — The term “covered entity” means an entity in a critical infrastructure sector, as defined in Presidential Policy Directive 21, that satisfies the definition established by the Director in the final rule issued pursuant to [section 681b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section681b/b&num=0&edition=prelim).
 
-  (A) holds, or that the Secretary has a reasonable basis to believe holds, a chemical of interest, as designated under Appendix A to part 27 of title 6, Code of Federal Regulations, or any successor thereto, at a threshold quantity set pursuant to relevant risk-related security principles; and
+(5) **Cyber incident** — The term “cyber incident”—
 
-  (B) is not an excluded facility;
+  (A) has the meaning given the term “incident” in section 659 11 See References in Text note below. of this title; and
 
-(3) the term “covered chemical facility” means a facility that—
+  (B) does not include an occurrence that imminently, but not actually, jeopardizes—
 
-  (A) the Secretary—
+    (i) information on information systems; or
 
-    (i) identifies as a chemical facility of interest; and
+    (ii) information systems.
 
-    (ii) based upon review of the facility’s Top-Screen, determines meets the risk criteria developed under [section 622(e)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section622/e/2/B&num=0&edition=prelim); and
+(6) **Cyber threat** — The term “cyber threat” has the meaning given the term “cybersecurity threat” in [section 650 of this title](./chapter-001-homeland-security-organization.md#section-650).
 
-  (B) is not an excluded facility;
+(7) **Federal entity** — The term “Federal entity” has the meaning given the term in [section 1501 of this title](./chapter-006-cybersecurity.md#section-1501).
 
-(4) the term “excluded facility” means—
+(8) **Ransom payment** — The term “ransom payment” means the transmission of any money or other property or asset, including virtual currency, or any portion thereof, which has at any time been delivered as ransom in connection with a ransomware attack.
 
-  (A) a facility regulated under the Maritime Transportation Security Act of 2002 (Public Law 107–295; 116 Stat. 2064);
+(9) **Significant cyber incident** — The term “significant cyber incident” means a cyber incident, or a group of related cyber incidents, that the Secretary determines is likely to result in demonstrable harm to the national security interests, foreign relations, or economy of the United States or to the public confidence, civil liberties, or public health and safety of the people of the United States.
 
-  (B) a public water system, as that term is defined in [section 300f of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300f&num=0&edition=prelim);
+(10) **Virtual currency** — The term “virtual currency” means the digital representation of value that functions as a medium of exchange, a unit of account, or a store of value.
 
-  (C) a Treatment Works, as that term is defined in [section 1292 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1292&num=0&edition=prelim);
-
-  (D) a facility owned or operated by the Department of Defense or the Department of Energy; or
-
-  (E) a facility subject to regulation by the Nuclear Regulatory Commission, or by a State that has entered into an agreement with the Nuclear Regulatory Commission under [section 2021(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2021/b&num=0&edition=prelim) to protect against unauthorized access of any material, activity, or structure licensed by the Nuclear Regulatory Commission;
-
-(5) the term “existing CFATS regulation” means—
-
-  (A) a regulation promulgated under section 550 of the Department of Homeland Security Appropriations Act, 2007 (Public Law 109–295; [6 U.S.C. 121](./chapter-001-homeland-security-organization.md#section-121) note) that is in effect on the day before December 18, 2014; and
-
-  (B) a Federal Register notice or other published guidance relating to section 550 of the Department of Homeland Security Appropriations Act, 2007 that is in effect on the day before December 18, 2014;
-
-(6) the term “expedited approval facility” means a covered chemical facility for which the owner or operator elects to submit a site security plan in accordance with [section 622(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section622/c/4&num=0&edition=prelim);
-
-(7) the term “facially deficient”, relating to a site security plan, means a site security plan that does not support a certification that the security measures in the plan address the security vulnerability assessment and the risk-based performance standards for security for the facility, based on a review of—
-
-  (A) the facility’s site security plan;
-
-  (B) the facility’s Top-Screen;
-
-  (C) the facility’s security vulnerability assessment; or
-
-  (D) any other information that—
-
-    (i) the facility submits to the Department; or
-
-    (ii) the Department obtains from a public source or other source;
-
-(8) the term “guidance for expedited approval facilities” means the guidance issued under [section 622(c)(4)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section622/c/4/B/i&num=0&edition=prelim);
-
-(9) the term “risk assessment” means the Secretary’s application of relevant risk criteria identified in [section 622(e)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section622/e/2/B&num=0&edition=prelim);
-
-(10) the term “terrorist screening database” means the terrorist screening database maintained by the Federal Government Terrorist Screening Center or its successor;
-
-(11) the term “tier” has the meaning given the term in section 27.105 of title 6, Code of Federal Regulations, or any successor thereto;
-
-(12) the terms “tiering” and “tiering methodology” mean the procedure by which the Secretary assigns a tier to each covered chemical facility based on the risk assessment for that covered chemical facility;
-
-(13) the term “Top-Screen” has the meaning given the term in section 27.105 of title 6, Code of Federal Regulations, or any successor thereto; and
-
-(14) the term “vulnerability assessment” means the identification of weaknesses in the security of a chemical facility of interest.
+(11) **Virtual currency address** — The term “virtual currency address” means a unique public cryptographic key identifying the location to which a virtual currency payment can be made.
 
 ### Statutory Notes
 
-#### Termination of Section
-For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.
-
 #### References in Text
-The Maritime Transportation Security Act of 2002, referred to in par. (4)(A), is Pub. L. 107–295, Nov. 25, 2002, 116 Stat. 2064. For complete classification of this Act to the Code, see Tables.
+[Section 659 of this title](./chapter-001-homeland-security-organization.md#section-659), referred to in par. (5)(A), was subsequently amended, and section 659(a) no longer defines the term “incident”. Reference to term, “incident”, as defined in this chapter deemed to be a reference to that term as defined in [section 650(12) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section650/12&num=0&edition=prelim), see section 7143(f)(2) of Pub. L. 117–263, set out as a Rule of Construction note under [section 650 of this title](./chapter-001-homeland-security-organization.md#section-650).
 
-Section 550 of the Department of Homeland Security Appropriations Act, 2007, referred to in par. (5), is section 550 of Pub. L. 109–295, title V, Oct. 4, 2006, 120 Stat. 1388, which was set out as a note under [section 121 of this title](./chapter-001-homeland-security-organization.md#section-121) and was repealed by Pub. L. 113–254, § 4(b), Dec. 18, 2014, 128 Stat. 2919.
+#### Amendments
+2022—Par. (2). Pub. L. 117–263, § 7143(b)(2)(N)(i), (ii), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The term ‘cloud service provider’ means an entity offering products or services related to cloud computing, as defined by the National Institute of Standards and Technology in NIST Special Publication 800–145 and any amendatory or superseding document relating thereto.”
+
+Pars. (3) to (5). Pub. L. 117–263, § 7143(b)(2)(N)(ii), redesignated pars. (4) to (6) as (3) to (5), respectively. Former par. (3) redesignated (2).
+
+Par. (6). Pub. L. 117–263, § 7143(b)(2)(N)(ii), (iii), redesignated par. (7) as (6) and substituted “[section 650 of this title](./chapter-001-homeland-security-organization.md#section-650)” for “[section 651 of this title](./chapter-001-homeland-security-organization.md#section-651)”. Former par. (6) redesignated (5).
+
+Par. (7). Pub. L. 117–263, § 7143(b)(2)(N)(iv), added par. (7). Former par. (7) redesignated (6).
+
+Par. (8). Pub. L. 117–263, § 7143(b)(2)(N)(iv), (vi), redesignated par. (13) as (8) and struck out former par. (8). Prior to amendment, text of par. (8) read as follows: “The terms ‘cyber threat indicator’, ‘cybersecurity purpose’, ‘defensive measure’, ‘Federal entity’, and ‘security vulnerability’ have the meanings given those terms in [section 1501 of this title](./chapter-006-cybersecurity.md#section-1501).”
+
+Par. (9). Pub. L. 117–263, § 7143(b)(2)(N)(v), (vi), redesignated par. (16) as (9) and struck out former par. (9). Prior to amendment, text of par. (9) read as follows: “The terms ‘incident’ and ‘sharing’ have the meanings given those terms in [section 659 of this title](./chapter-001-homeland-security-organization.md#section-659).”
+
+Par. (10). Pub. L. 117–263, § 7143(b)(2)(N)(v), (vi), redesignated par. (18) as (10) and struck out former par. (10). Prior to amendment, text of par. (10) read as follows: “The term ‘Information Sharing and Analysis Organization’ has the meaning given the term in [section 671 of this title](./chapter-001-homeland-security-organization.md#section-671).”
+
+Par. (11). Pub. L. 117–263, § 7143(b)(2)(N)(v), (vi), redesignated par. (19) as (11) and struck out former par. (11). Prior to amendment, text of par. (11) read as follows: “The term ‘information system’—
+
+“(A) has the meaning given the term in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim); and
+
+“(B) includes industrial control systems, such as supervisory control and data acquisition systems, distributed control systems, and programmable logic controllers.”
+
+Par. (12). Pub. L. 117–263, § 7143(b)(2)(N)(v), struck out par. (12). Text read as follows: “The term ‘managed service provider’ means an entity that delivers services, such as network, application, infrastructure, or security services, via ongoing and regular support and active administration on the premises of a customer, in the data center of the entity (such as hosting), or in a third party data center.”
+
+Par. (13). Pub. L. 117–263, § 7143(b)(2)(N)(vi), redesignated par. (13) as (8).
+
+Par. (14). Pub. L. 117–263, § 7143(b)(2)(N)(v), struck out par. (14). Text read as follows: “The term ‘ransomware attack’—
+
+“(A) means an incident that includes the use or threat of use of unauthorized or malicious code on an information system, or the use or threat of use of another digital mechanism such as a denial of service attack, to interrupt or disrupt the operations of an information system or compromise the confidentiality, availability, or integrity of electronic data stored on, processed by, or transiting an information system to extort a demand for a ransom payment; and
+
+“(B) does not include any such event where the demand for payment is—
+
+“(i) not genuine; or
+
+“(ii) made in good faith by an entity in response to a specific request by the owner or operator of the information system.”
+
+Par. (15). Pub. L. 117–263, § 7143(b)(2)(N)(v), struck out par. (15). Text read as follows: “The term ‘Sector Risk Management Agency’ has the meaning given the term in [section 651 of this title](./chapter-001-homeland-security-organization.md#section-651).”
+
+Par. (16). Pub. L. 117–263, § 7143(b)(2)(N)(vi), redesignated par. (16) as (9).
+
+Par. (17). Pub. L. 117–263, § 7143(b)(2)(N)(v), struck out par. (17). Text read as follows: “The term ‘supply chain compromise’ means an incident within the supply chain of an information system that an adversary can leverage or does leverage to jeopardize the confidentiality, integrity, or availability of the information system or the information the system processes, stores, or transmits, and can occur at any point during the life cycle.”
+
+Pars. (18), (19). Pub. L. 117–263, § 7143(b)(2)(N)(vi), redesignated pars. (18) and (19) as (10) and (11), respectively.
+
+
+<a id="section-651"></a>
+## § 651. Omitted
+
+### Statutory Notes
+
+#### Codification
+The authority provided under sections 621 to 629, comprising subchapter XVI of this chapter, terminated on July 27, 2023, pursuant to section 5 of Pub. L. 113–254, set out as a note below.
+
+Section 621, Pub. L. 107–296, title XXI, § 2101, as added Pub. L. 113–254, § 2(a), Dec. 18, 2014, 128 Stat. 2898, provided definitions for this subchapter.
+
+Section 622, Pub. L. 107–296, title XXI, § 2102, as added Pub. L. 113–254, § 2(a), Dec. 18, 2014, 128 Stat. 2900; amended Pub. L. 115–278, § 2(g)(8)(A), Nov. 16, 2018, 132 Stat. 4180, established a Chemical Facility Anti-Terrorism Standards Program within the Cybersecurity and Infrastructure Security Agency.
+
+Section 623, Pub. L. 107–296, title XXI, § 2103, as added Pub. L. 113–254, § 2(a), Dec. 18, 2014, 128 Stat. 2911, related to protection and sharing of information.
+
+Section 624, Pub. L. 107–296, title XXI, § 2104, as added Pub. L. 113–254, § 2(a), Dec. 18, 2014, 128 Stat. 2912; amended Pub. L. 115–278, § 2(g)(8)(B), Nov. 16, 2018, 132 Stat. 4180; Pub. L. 117–263, div. G, title LXXI, § 7143(c)(4), Dec. 23, 2022, 136 Stat. 3663, related to civil enforcement.
+
+Section 625, Pub. L. 107–296, title XXI, § 2105, as added Pub. L. 113–254, § 2(a), Dec. 18, 2014, 128 Stat. 2914, related to whistleblower protections.
+
+Section 626, Pub. L. 107–296, title XXI, § 2106, as added Pub. L. 113–254, § 2(a), Dec. 18, 2014, 128 Stat. 2915, related to relationship of provisions of this subchapter to other laws.
+
+Section 627, Pub. L. 107–296, title XXI, § 2107, as added Pub. L. 113–254, § 2(a), Dec. 18, 2014, 128 Stat. 2916, related to CFATS regulations.
+
+Section 628, Pub. L. 107–296, title XXI, § 2108, as added Pub. L. 113–254, § 2(a), Dec. 18, 2014, 128 Stat. 2916, related to small covered chemical facilities.
+
+Section 629, Pub. L. 107–296, title XXI, § 2109, as added Pub. L. 113–254, § 2(a), Dec. 18, 2014, 128 Stat. 2916, related to outreach to chemical facilities of interest.
 
 #### Effective and Termination Dates
 Pub. L. 113–254, § 4(a), Dec. 18, 2014, 128 Stat. 2918, provided that: “This Act [see Short Title of 2014 Amendment note set out under [section 101 of this title](./chapter-001-homeland-security-organization.md#section-101)], and the amendments made by this Act, shall take effect on the date that is 30 days after the date of enactment of this Act [Dec. 18, 2014].”
 
-Pub. L. 113–254, § 5, Dec. 18, 2014, 128 Stat. 2919, as amended by Pub. L. 116–2, § 2, Jan. 18, 2019, 133 Stat. 5; Pub. L. 116–136, div. B, title VI, § 16007, Mar. 27, 2020, 134 Stat. 546; Pub. L. 116–150, § 1(a), July 22, 2020, 134 Stat. 679, provided that: “The authority provided under title XXI of the Homeland Security Act of 2002 [[6 U.S.C. 621](./chapter-001-homeland-security-organization.md#section-621) et seq.], as added by section 2(a), shall terminate on July 27, 2023.”
+Pub. L. 113–254, § 5, Dec. 18, 2014, 128 Stat. 2919, as amended by Pub. L. 116–2, § 2, Jan. 18, 2019, 133 Stat. 5; Pub. L. 116–136, div. B, title VI, § 16007, Mar. 27, 2020, 134 Stat. 546; Pub. L. 116–150, § 1(a), July 22, 2020, 134 Stat. 679, provided that: “The authority provided under title XXI of the Homeland Security Act of 2002 [[6 U.S.C. 621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section621&num=0&edition=prelim) et seq.], as added by section 2(a), shall terminate on July 27, 2023.”
 
 [Pub. L. 116–150, § 1(b), July 22, 2020, 134 Stat. 679, provided that: “The amendment made by subsection (a) [amending section 5 of Pub. L. 113–254, set out above] shall take effect on the date that is 1 day after the date of enactment of this Act [July 22, 2020].” ]
 
@@ -18566,749 +18723,6 @@ Sec. 8. General Provisions. (a) This order shall be implemented consistent with 
 Barack Obama.
 
 [Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under [section 3021 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim), War and National Defense.]
-
-
-<a id="section-629"></a>
-## § 629. Chemical Facility Anti-Terrorism Standards Program
-**(a) Program established**
-
-(1) **In general** — There is in the Department a Chemical Facility Anti-Terrorism Standards Program, which shall be located in the Cybersecurity and Infrastructure Security Agency.
-
-(2) **Requirements** — In carrying out the Chemical Facility Anti-Terrorism Standards Program, the Secretary shall—
-
-  (A) identify—
-
-    (i) chemical facilities of interest; and
-
-    (ii) covered chemical facilities;
-
-  (B) require each chemical facility of interest to submit a Top-Screen and any other information the Secretary determines necessary to enable the Department to assess the security risks associated with the facility;
-
-  (C) establish risk-based performance standards designed to address high levels of security risk at covered chemical facilities; and
-
-  (D) require each covered chemical facility to—
-
-    (i) submit a security vulnerability assessment; and
-
-    (ii) develop, submit, and implement a site security plan.
-
-**(b) Security measures**
-
-(1) **In general** — A facility, in developing a site security plan as required under subsection (a), shall include security measures that, in combination, appropriately address the security vulnerability assessment and the risk-based performance standards for security for the facility.
-
-(2) **Employee input** — To the greatest extent practicable, a facility’s security vulnerability assessment and site security plan shall include input from at least 1 facility employee and, where applicable, 1 employee representative from the bargaining agent at that facility, each of whom possesses, in the determination of the facility’s security officer, relevant knowledge, experience, training, or education as pertains to matters of site security.
-
-**(c) Approval or disapproval of site security plans**
-
-(1) **In general**
-
-  (A) *Review* — Except as provided in paragraph (4), the Secretary shall review and approve or disapprove each site security plan submitted pursuant to subsection (a).
-
-  (B) *Bases for disapproval* — The Secretary—
-
-    (i) may not disapprove a site security plan based on the presence or absence of a particular security measure; and
-
-    (ii) shall disapprove a site security plan if the plan fails to satisfy the risk-based performance standards established pursuant to subsection (a)(2)(C).
-
-(2) **Alternative security programs**
-
-  (A) *Authority to approve*
-
-    (i) *In general* — The Secretary may approve an alternative security program established by a private sector entity or a Federal, State, or local authority or under other applicable laws, if the Secretary determines that the requirements of the program meet the requirements under this section.
-
-    (ii) *Additional security measures* — If the requirements of an alternative security program do not meet the requirements under this section, the Secretary may recommend additional security measures to the program that will enable the Secretary to approve the program.
-
-  (B) *Satisfaction of site security plan requirement* — A covered chemical facility may satisfy the site security plan requirement under subsection (a) by adopting an alternative security program that the Secretary has—
-
-    (i) reviewed and approved under subparagraph (A); and
-
-    (ii) determined to be appropriate for the operations and security concerns of the covered chemical facility.
-
-(3) **Site security plan assessments**
-
-  (A) *Risk assessment policies and procedures* — In approving or disapproving a site security plan under this subsection, the Secretary shall employ the risk assessment policies and procedures developed under this subchapter.
-
-  (B) *Previously approved plans* — In the case of a covered chemical facility for which the Secretary approved a site security plan before December 18, 2014, the Secretary may not require the facility to resubmit the site security plan solely by reason of the enactment of this subchapter.
-
-(4) **Expedited approval program**
-
-  (A) *In general* — A covered chemical facility assigned to tier 3 or 4 may meet the requirement to develop and submit a site security plan under subsection (a)(2)(D) by developing and submitting to the Secretary—
-
-    (i) a site security plan and the certification described in subparagraph (C); or
-
-    (ii) a site security plan in conformance with a template authorized under subparagraph (H).
-
-  (B) *Guidance for expedited approval facilities*
-
-    (i) *In general* — Not later than 180 days after December 18, 2014, the Secretary shall issue guidance for expedited approval facilities that identifies specific security measures that are sufficient to meet the risk-based performance standards.
-
-    (ii) *Material deviation from guidance* — If a security measure in the site security plan of an expedited approval facility materially deviates from a security measure in the guidance for expedited approval facilities, the site security plan shall include an explanation of how such security measure meets the risk-based performance standards.
-
-    (iii) *Applicability of other laws to development and issuance of initial guidance* — During the period before the Secretary has met the deadline under clause (i), in developing and issuing, or amending, the guidance for expedited approval facilities under this subparagraph and in collecting information from expedited approval facilities, the Secretary shall not be subject to—
-
-      (I) [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim);
-
-      (II) subchapter I of chapter 35 of title 44; or
-
-      (III) [section 627(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section627/b&num=0&edition=prelim).
-
-  (C) *Certification* — The owner or operator of an expedited approval facility shall submit to the Secretary a certification, signed under penalty of perjury, that—
-
-    (i) the owner or operator is familiar with the requirements of this subchapter and part 27 of title 6, Code of Federal Regulations, or any successor thereto, and the site security plan being submitted;
-
-    (ii) the site security plan includes the security measures required by subsection (b);
-
-    (iii)
-
-      (I) the security measures in the site security plan do not materially deviate from the guidance for expedited approval facilities except where indicated in the site security plan;
-
-      (II) any deviations from the guidance for expedited approval facilities in the site security plan meet the risk-based performance standards for the tier to which the facility is assigned; and
-
-      (III) the owner or operator has provided an explanation of how the site security plan meets the risk-based performance standards for any material deviation;
-
-    (iv) the owner or operator has visited, examined, documented, and verified that the expedited approval facility meets the criteria set forth in the site security plan;
-
-    (v) the expedited approval facility has implemented all of the required performance measures outlined in the site security plan or set out planned measures that will be implemented within a reasonable time period stated in the site security plan;
-
-    (vi) each individual responsible for implementing the site security plan has been made aware of the requirements relevant to the individual’s responsibility contained in the site security plan and has demonstrated competency to carry out those requirements;
-
-    (vii) the owner or operator has committed, or, in the case of planned measures will commit, the necessary resources to fully implement the site security plan; and
-
-    (viii) the planned measures include an adequate procedure for addressing events beyond the control of the owner or operator in implementing any planned measures.
-
-  (D) *Deadline*
-
-    (i) *In general* — Not later than 120 days after the date described in clause (ii), the owner or operator of an expedited approval facility shall submit to the Secretary the site security plan and the certification described in subparagraph (C).
-
-    (ii) *Date* — The date described in this clause is—
-
-      (I) for an expedited approval facility that was assigned to tier 3 or 4 under existing CFATS regulations before December 18, 2014, the date that is 210 days after December 18, 2014; and
-
-      (II) for any expedited approval facility not described in subclause (I), the later of—
-
-        (aa) the date on which the expedited approval facility is assigned to tier 3 or 4 under subsection (e)(2)(A); or
-
-        (bb) the date that is 210 days after December 18, 2014.
-
-    (iii) *Notice* — An owner or operator of an expedited approval facility shall notify the Secretary of the intent of the owner or operator to certify the site security plan for the expedited approval facility not later than 30 days before the date on which the owner or operator submits the site security plan and certification described in subparagraph (C).
-
-  (E) *Compliance*
-
-    (i) *In general* — For an expedited approval facility submitting a site security plan and certification in accordance with subparagraphs (A), (B), (C), and (D)—
-
-      (I) the expedited approval facility shall comply with all of the requirements of its site security plan; and
-
-      (II) the Secretary—
-
-        (aa) except as provided in subparagraph (G), may not disapprove the site security plan; and
-
-        (bb) may audit and inspect the expedited approval facility under subsection (d) to verify compliance with its site security plan.
-
-    (ii) *Noncompliance* — If the Secretary determines an expedited approval facility is not in compliance with the requirements of the site security plan or is otherwise in violation of this subchapter, the Secretary may enforce compliance in accordance with [section 624 of this title](./chapter-001-homeland-security-organization.md#section-624).
-
-  (F) *Amendments to site security plan*
-
-    (i) *Requirement*
-
-      (I) *In general* — If the owner or operator of an expedited approval facility amends a site security plan submitted under subparagraph (A), the owner or operator shall submit the amended site security plan and a certification relating to the amended site security plan that contains the information described in subparagraph (C).
-
-      (II) *Technical amendments* — For purposes of this clause, an amendment to a site security plan includes any technical amendment to the site security plan.
-
-    (ii) *Amendment required* — The owner or operator of an expedited approval facility shall amend the site security plan if—
-
-      (I) there is a change in the design, construction, operation, or maintenance of the expedited approval facility that affects the site security plan;
-
-      (II) the Secretary requires additional security measures or suspends a certification and recommends additional security measures under subparagraph (G); or
-
-      (III) the owner or operator receives notice from the Secretary of a change in tiering under subsection (e)(3).
-
-    (iii) *Deadline* — An amended site security plan and certification shall be submitted under clause (i)—
-
-      (I) in the case of a change in design, construction, operation, or maintenance of the expedited approval facility that affects the security plan, not later than 120 days after the date on which the change in design, construction, operation, or maintenance occurred;
-
-      (II) in the case of the Secretary requiring additional security measures or suspending a certification and recommending additional security measures under subparagraph (G), not later than 120 days after the date on which the owner or operator receives notice of the requirement for additional security measures or suspension of the certification and recommendation of additional security measures; and
-
-      (III) in the case of a change in tiering, not later than 120 days after the date on which the owner or operator receives notice under subsection (e)(3).
-
-  (G) *Facially deficient site security plans*
-
-    (i) *Prohibition* — Notwithstanding subparagraph (A) or (E), the Secretary may suspend the authority of a covered chemical facility to certify a site security plan if the Secretary—
-
-      (I) determines the certified site security plan or an amended site security plan is facially deficient; and
-
-      (II) not later than 100 days after the date on which the Secretary receives the site security plan and certification, provides the covered chemical facility with written notification that the site security plan is facially deficient, including a clear explanation of each deficiency in the site security plan.
-
-    (ii) *Additional security measures*
-
-      (I) *In general* — If, during or after a compliance inspection of an expedited approval facility, the Secretary determines that planned or implemented security measures in the site security plan of the facility are insufficient to meet the risk-based performance standards based on misrepresentation, omission, or an inadequate description of the site, the Secretary may—
-
-        (aa) require additional security measures; or
-
-        (bb) suspend the certification of the facility.
-
-      (II) *Recommendation of additional security measures* — If the Secretary suspends the certification of an expedited approval facility under subclause (I), the Secretary shall—
-
-        (aa) recommend specific additional security measures that, if made part of the site security plan by the facility, would enable the Secretary to approve the site security plan; and
-
-        (bb) provide the facility an opportunity to submit a new or modified site security plan and certification under subparagraph (A).
-
-      (III) *Submission; review* — If an expedited approval facility determines to submit a new or modified site security plan and certification as authorized under subclause (II)(bb)—
-
-        (aa) not later than 90 days after the date on which the facility receives recommendations under subclause (II)(aa), the facility shall submit the new or modified plan and certification; and
-
-        (bb) not later than 45 days after the date on which the Secretary receives the new or modified plan under item (aa), the Secretary shall review the plan and determine whether the plan is facially deficient.
-
-      (IV) *Determination not to include additional security measures*
-
-        (aa) *Revocation of certification* — If an expedited approval facility does not agree to include in its site security plan specific additional security measures recommended by the Secretary under subclause (II)(aa), or does not submit a new or modified site security plan in accordance with subclause (III), the Secretary may revoke the certification of the facility by issuing an order under [section 624(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section624/a/1/B&num=0&edition=prelim).
-
-        (bb) *Effect of revocation* — If the Secretary revokes the certification of an expedited approval facility under item (aa) by issuing an order under [section 624(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section624/a/1/B&num=0&edition=prelim)—
-
-          (AA) the order shall require the owner or operator of the facility to submit a site security plan or alternative security program for review by the Secretary review 11 So in original. under subsection (c)(1); and
-
-          (BB) the facility shall no longer be eligible to certify a site security plan under this paragraph.
-
-      (V) *Facial deficiency* — If the Secretary determines that a new or modified site security plan submitted by an expedited approval facility under subclause (III) is facially deficient—
-
-        (aa) not later than 120 days after the date of the determination, the owner or operator of the facility shall submit a site security plan or alternative security program for review by the Secretary under subsection (c)(1); and
-
-        (bb) the facility shall no longer be eligible to certify a site security plan under this paragraph.
-
-  (H) *Templates*
-
-    (i) *In general* — The Secretary may develop prescriptive site security plan templates with specific security measures to meet the risk-based performance standards under subsection (a)(2)(C) for adoption and certification by a covered chemical facility assigned to tier 3 or 4 in lieu of developing and certifying its own plan.
-
-    (ii) *Applicability of other laws to development and issuance of initial site security plan templates and related guidance* — During the period before the Secretary has met the deadline under subparagraph (B)(i),22 So in original. Probably should be “(D)(i),”. in developing and issuing, or amending, the site security plan templates under this subparagraph, in issuing guidance for implementation of the templates, and in collecting information from expedited approval facilities, the Secretary shall not be subject to—
-
-      (I) [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim);
-
-      (II) subchapter I of chapter 35 of title 44; or
-
-      (III) [section 627(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section627/b&num=0&edition=prelim).
-
-    (iii) *Rule of construction* — Nothing in this subparagraph shall be construed to prevent a covered chemical facility from developing and certifying its own security plan in accordance with subparagraph (A).
-
-  (I) *Evaluation*
-
-    (i) *In general* — Not later than 18 months after December 18, 2014, the Secretary shall take any appropriate action necessary for a full evaluation of the expedited approval program authorized under this paragraph, including conducting an appropriate number of inspections, as authorized under subsection (d), of expedited approval facilities.
-
-    (ii) *Report* — Not later than 18 months after December 18, 2014, the Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Energy and Commerce of the House of Representatives a report that contains—
-
-      (I)
-
-        (aa) the number of eligible facilities using the expedited approval program authorized under this paragraph; and
-
-        (bb) the number of facilities that are eligible for the expedited approval program but are using the standard process for developing and submitting a site security plan under subsection (a)(2)(D);
-
-      (II) any costs and efficiencies associated with the expedited approval program;
-
-      (III) the impact of the expedited approval program on the backlog for site security plan approval and authorization inspections;
-
-      (IV) an assessment of the ability of expedited approval facilities to submit facially sufficient site security plans;
-
-      (V) an assessment of any impact of the expedited approval program on the security of chemical facilities; and
-
-      (VI) a recommendation by the Secretary on the frequency of compliance inspections that may be required for expedited approval facilities.
-
-**(d) Compliance**
-
-(1) **Audits and inspections**
-
-  (A) *Definitions* — In this paragraph—
-
-    (i) the term “nondepartmental”—
-
-      (I) with respect to personnel, means personnel that is not employed by the Department; and
-
-      (II) with respect to an entity, means an entity that is not a component or other authority of the Department; and
-
-    (ii) the term “nongovernmental”—
-
-      (I) with respect to personnel, means personnel that is not employed by the Federal Government; and
-
-      (II) with respect to an entity, means an entity that is not an agency, department, or other authority of the Federal Government.
-
-  (B) *Authority to conduct audits and inspections* — The Secretary shall conduct audits or inspections under this subchapter using—
-
-    (i) employees of the Department;
-
-    (ii) nondepartmental or nongovernmental personnel approved by the Secretary; or
-
-    (iii) a combination of individuals described in clauses (i) and (ii).
-
-  (C) *Support personnel* — The Secretary may use nongovernmental personnel to provide administrative and logistical services in support of audits and inspections under this subchapter.
-
-  (D) *Reporting structure*
-
-    (i) *Nondepartmental and nongovernmental audits and inspections* — Any audit or inspection conducted by an individual employed by a nondepartmental or nongovernmental entity shall be assigned in coordination with a regional supervisor with responsibility for supervising inspectors within the Infrastructure Security Compliance Division of the Department for the region in which the audit or inspection is to be conducted.
-
-    (ii) *Requirement to report* — While an individual employed by a nondepartmental or nongovernmental entity is in the field conducting an audit or inspection under this subsection, the individual shall report to the regional supervisor with responsibility for supervising inspectors within the Infrastructure Security Compliance Division of the Department for the region in which the individual is operating.
-
-    (iii) *Approval* — The authority to approve a site security plan under subsection (c) or determine if a covered chemical facility is in compliance with an approved site security plan shall be exercised solely by the Secretary or a designee of the Secretary within the Department.
-
-  (E) *Standards for auditors and inspectors* — The Secretary shall prescribe standards for the training and retraining of each individual used by the Department as an auditor or inspector, including each individual employed by the Department and all nondepartmental or nongovernmental personnel, including—
-
-    (i) minimum training requirements for new auditors and inspectors;
-
-    (ii) retraining requirements;
-
-    (iii) minimum education and experience levels;
-
-    (iv) the submission of information as required by the Secretary to enable determination of whether the auditor or inspector has a conflict of interest;
-
-    (v) the proper certification or certifications necessary to handle chemical-terrorism vulnerability information (as defined in section 27.105 of title 6, Code of Federal Regulations, or any successor thereto);
-
-    (vi) the reporting of any issue of non-compliance with this section to the Secretary within 24 hours; and
-
-    (vii) any additional qualifications for fitness of duty as the Secretary may require.
-
-  (F) *Conditions for nongovernmental auditors and inspectors* — If the Secretary arranges for an audit or inspection under subparagraph (B) to be carried out by a nongovernmental entity, the Secretary shall—
-
-    (i) prescribe standards for the qualification of the individuals who carry out such audits and inspections that are commensurate with the standards for similar Government auditors or inspectors; and
-
-    (ii) ensure that any duties carried out by a nongovernmental entity are not inherently governmental functions.
-
-(2) **Personnel surety**
-
-  (A) *Personnel surety program* — For purposes of this subchapter, the Secretary shall establish and carry out a Personnel Surety Program that—
-
-    (i) does not require an owner or operator of a covered chemical facility that voluntarily participates in the program to submit information about an individual more than 1 time;
-
-    (ii) provides a participating owner or operator of a covered chemical facility with relevant information about an individual based on vetting the individual against the terrorist screening database, to the extent that such feedback is necessary for the facility to be in compliance with regulations promulgated under this subchapter; and
-
-    (iii) provides redress to an individual—
-
-      (I) whose information was vetted against the terrorist screening database under the program; and
-
-      (II) who believes that the personally identifiable information submitted to the Department for such vetting by a covered chemical facility, or its designated representative, was inaccurate.
-
-  (B) *Personnel surety program implementation* — To the extent that a risk-based performance standard established under subsection (a) requires identifying individuals with ties to terrorism—
-
-    (i) a covered chemical facility—
-
-      (I) may satisfy its obligation under the standard by using any Federal screening program that periodically vets individuals against the terrorist screening database, or any successor program, including the Personnel Surety Program established under subparagraph (A); and
-
-      (II) shall—
-
-        (aa) accept a credential from a Federal screening program described in subclause (I) if an individual who is required to be screened presents such a credential; and
-
-        (bb) address in its site security plan or alternative security program the measures it will take to verify that a credential or documentation from a Federal screening program described in subclause (I) is current;
-
-    (ii) visual inspection shall be sufficient to meet the requirement under clause (i)(II)(bb), but the facility should consider other means of verification, consistent with the facility’s assessment of the threat posed by acceptance of such credentials; and
-
-    (iii) the Secretary may not require a covered chemical facility to submit any information about an individual unless the individual—
-
-      (I) is to be vetted under the Personnel Surety Program; or
-
-      (II) has been identified as presenting a terrorism security risk.
-
-  (C) *Rights unaffected* — Nothing in this section shall supersede the ability—
-
-    (i) of a facility to maintain its own policies regarding the access of individuals to restricted areas or critical assets; or
-
-    (ii) of an employing facility and a bargaining agent, where applicable, to negotiate as to how the results of a background check may be used by the facility with respect to employment status.
-
-(3) **Availability of information** — The Secretary shall share with the owner or operator of a covered chemical facility any information that the owner or operator needs to comply with this section.
-
-**(e) Responsibilities of the Secretary**
-
-(1) **Identification of chemical facilities of interest** — In carrying out this subchapter, the Secretary shall consult with the heads of other Federal agencies, States and political subdivisions thereof, relevant business associations, and public and private labor organizations to identify all chemical facilities of interest.
-
-(2) **Risk assessment**
-
-  (A) *In general* — For purposes of this subchapter, the Secretary shall develop a security risk assessment approach and corresponding tiering methodology for covered chemical facilities that incorporates the relevant elements of risk, including threat, vulnerability, and consequence.
-
-  (B) *Criteria for determining security risk* — The criteria for determining the security risk of terrorism associated with a covered chemical facility shall take into account—
-
-    (i) relevant threat information;
-
-    (ii) potential severe economic consequences and the potential loss of human life in the event of the facility being subject to attack, compromise, infiltration, or exploitation by terrorists; and
-
-    (iii) vulnerability of the facility to attack, compromise, infiltration, or exploitation by terrorists.
-
-(3) **Changes in tiering**
-
-  (A) *Maintenance of records* — The Secretary shall document the basis for each instance in which—
-
-    (i) tiering for a covered chemical facility is changed; or
-
-    (ii) a covered chemical facility is determined to no longer be subject to the requirements under this subchapter.
-
-  (B) *Required information* — The records maintained under subparagraph (A) shall include information on whether and how the Secretary confirmed the information that was the basis for the change or determination described in subparagraph (A).
-
-(4) **Semiannual performance reporting** — Not later than 6 months after December 18, 2014, and not less frequently than once every 6 months thereafter, the Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Energy and Commerce of the House of Representatives a report that includes, for the period covered by the report—
-
-  (A) the number of covered chemical facilities in the United States;
-
-  (B) information—
-
-    (i) describing—
-
-      (I) the number of instances in which the Secretary—
-
-        (aa) placed a covered chemical facility in a lower risk tier; or
-
-        (bb) determined that a facility that had previously met the criteria for a covered chemical facility under [section 621(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section621/3&num=0&edition=prelim) no longer met the criteria; and
-
-      (II) the basis, in summary form, for each action or determination under subclause (I); and
-
-    (ii) that is provided in a sufficiently anonymized form to ensure that the information does not identify any specific facility or company as the source of the information when viewed alone or in combination with other public information;
-
-  (C) the average number of days spent reviewing site security or an alternative security program for a covered chemical facility prior to approval;
-
-  (D) the number of covered chemical facilities inspected;
-
-  (E) the average number of covered chemical facilities inspected per inspector; and
-
-  (F) any other information that the Secretary determines will be helpful to Congress in evaluating the performance of the Chemical Facility Anti-Terrorism Standards Program.
-
-### Statutory Notes
-
-#### Termination of Section
-For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.
-
-#### Amendments
-2018—Subsec. (a)(1). Pub. L. 115–278 inserted before period at end “, which shall be located in the Cybersecurity and Infrastructure Security Agency”.
-
-#### Effective and Termination Dates
-Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on July 27, 2023, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621).
-
-
-<a id="section-641"></a>
-## § 641. Protection and sharing of information
-**(a) In general** Notwithstanding any other provision of law, information developed under this subchapter, including vulnerability assessments, site security plans, and other security related information, records, and documents shall be given protections from public disclosure consistent with the protection of similar information under [section 70103(d) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70103/d&num=0&edition=prelim).
-
-**(b) Sharing of information with States and local governments** Nothing in this section shall be construed to prohibit the sharing of information developed under this subchapter, as the Secretary determines appropriate, with State and local government officials possessing a need to know and the necessary security clearances, including law enforcement officials and first responders, for the purpose of carrying out this subchapter, provided that such information may not be disclosed pursuant to any State or local law.
-
-**(c) Sharing of information with first responders**
-
-(1) **Requirement** — The Secretary shall provide to State, local, and regional fusion centers (as that term is defined in [section 124h(j)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section124h/j/1&num=0&edition=prelim)) and State and local government officials, as the Secretary determines appropriate, such information as is necessary to help ensure that first responders are properly prepared and provided with the situational awareness needed to respond to security incidents at covered chemical facilities.
-
-(2) **Dissemination** — The Secretary shall disseminate information under paragraph (1) through a medium or system determined by the Secretary to be appropriate to ensure the secure and expeditious dissemination of such information to necessary selected individuals.
-
-**(d) Enforcement proceedings** In any proceeding to enforce this section, vulnerability assessments, site security plans, and other information submitted to or obtained by the Secretary under this subchapter, and related vulnerability or security information, shall be treated as if the information were classified information.
-
-**(e) Availability of information** Notwithstanding any other provision of law (including [section 552(b)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/3&num=0&edition=prelim)), [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) (commonly known as the “Freedom of Information Act”) shall not apply to information protected from public disclosure pursuant to subsection (a) of this section.
-
-**(f) Sharing of information with Members of Congress** Nothing in this section shall prohibit the Secretary from disclosing information developed under this subchapter to a Member of Congress in response to a request by a Member of Congress.
-
-### Statutory Notes
-
-#### Termination of Section
-For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.
-
-#### Effective and Termination Dates
-Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on July 27, 2023, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621).
-
-
-<a id="section-642"></a>
-## § 642. Civil enforcement
-**(a) Notice of noncompliance**
-
-(1) **Notice** — If the Secretary determines that a covered chemical facility is not in compliance with this subchapter, the Secretary shall—
-
-  (A) provide the owner or operator of the facility with—
-
-    (i) not later than 14 days after date 11 So in original. Probably should be preceded by “the”. on which the Secretary makes the determination, a written notification of noncompliance that includes a clear explanation of any deficiency in the security vulnerability assessment or site security plan; and
-
-    (ii) an opportunity for consultation with the Secretary or the Secretary’s designee; and
-
-  (B) issue to the owner or operator of the facility an order to comply with this subchapter by a date specified by the Secretary in the order, which date shall be not later than 180 days after the date on which the Secretary issues the order.
-
-(2) **Continued noncompliance** — If an owner or operator remains noncompliant after the procedures outlined in paragraph (1) have been executed, or demonstrates repeated violations of this subchapter, the Secretary may enter an order in accordance with this section assessing a civil penalty, an order to cease operations, or both.
-
-**(b) Civil penalties**
-
-(1) **Violations of orders** — Any person who violates an order issued under this subchapter shall be liable for a civil penalty under [section 70119(a) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70119/a&num=0&edition=prelim).
-
-(2) **Non-reporting chemical facilities of interest** — Any owner of a chemical facility of interest who fails to comply with, or knowingly submits false information under, this subchapter or the CFATS regulations shall be liable for a civil penalty under [section 70119(a) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70119/a&num=0&edition=prelim).
-
-**(c) Emergency orders**
-
-(1) **In general** — Notwithstanding subsection (a) or any site security plan or alternative security program approved under this subchapter, if the Secretary determines that there is an imminent threat of death, serious illness, or severe personal injury, due to a violation of this subchapter or the risk of a terrorist incident that may affect a chemical facility of interest, the Secretary—
-
-  (A) shall consult with the facility, if practicable, on steps to mitigate the risk; and
-
-  (B) may order the facility, without notice or opportunity for a hearing, effective immediately or as soon as practicable, to—
-
-    (i) implement appropriate emergency security measures; or
-
-    (ii) cease or reduce some or all operations, in accordance with safe shutdown procedures, if the Secretary determines that such a cessation or reduction of operations is the most appropriate means to address the risk.
-
-(2) **Limitation on delegation** — The Secretary may not delegate the authority under paragraph (1) to any official other than the Director of the Cybersecurity and Infrastructure Security Agency.
-
-(3) **Limitation on authority** — The Secretary may exercise the authority under this subsection only to the extent necessary to abate the imminent threat determination under paragraph (1).
-
-(4) **Due process for facility owner or operator**
-
-  (A) *Written orders* — An order issued by the Secretary under paragraph (1) shall be in the form of a written emergency order that—
-
-    (i) describes the violation or risk that creates the imminent threat;
-
-    (ii) states the security measures or order issued or imposed; and
-
-    (iii) describes the standards and procedures for obtaining relief from the order.
-
-  (B) *Opportunity for review* — After issuing an order under paragraph (1) with respect to a chemical facility of interest, the Secretary shall provide for review of the order under [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim) if a petition for review is filed not later than 20 days after the date on which the Secretary issues the order.
-
-  (C) *Expiration of effectiveness of order* — If a petition for review of an order is filed under subparagraph (B) and the review under that paragraph 22 So in original. Probably should be “that subparagraph”. is not completed by the last day of the 30-day period beginning on the date on which the petition is filed, the order shall vacate automatically at the end of that period unless the Secretary determines, in writing, that the imminent threat providing a basis for the order continues to exist.
-
-**(d) Right of action** Nothing in this subchapter confers upon any person except the Secretary or his or her designee a right of action against an owner or operator of a covered chemical facility to enforce any provision of this subchapter.
-
-### Statutory Notes
-
-#### Termination of Section
-For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.
-
-#### Amendments
-2022—Subsec. (c)(2). Pub. L. 117–263 substituted “Director of the Cybersecurity and Infrastructure Security Agency” for “Director of Cybersecurity and Infrastructure Security”.
-
-2018—Subsec. (c)(2). Pub. L. 115–278 substituted “Director of Cybersecurity and Infrastructure Security” for “Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department appointed under [section 113(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section113/a/1/H&num=0&edition=prelim)”.
-
-#### Effective and Termination Dates
-Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on July 27, 2023, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621).
-
-#### Rule of Construction
-Nothing in amendment made by Pub. L. 117–263 to be construed to alter the authorities, responsibilities, functions, or activities of any agency (as such term is defined in [44 U.S.C. 3502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim)) or officer or employee of the United States on or before Dec. 23, 2022, see section 7143(f)(1) of Pub. L. 117–263, set out in a note under [section 650 of this title](./chapter-001-homeland-security-organization.md#section-650).
-
-
-<a id="section-643"></a>
-## § 643. Whistleblower protections
-**(a) Procedure for reporting problems**
-
-(1) **Establishment of a reporting procedure** — Not later than 180 days after December 18, 2014, the Secretary shall establish, and provide information to the public regarding, a procedure under which any employee or contractor of a chemical facility of interest may submit a report to the Secretary regarding a violation of a requirement under this subchapter.
-
-(2) **Confidentiality** — The Secretary shall keep confidential the identity of an individual who submits a report under paragraph (1) and any such report shall be treated as a record containing protected information to the extent that the report does not consist of publicly available information.
-
-(3) **Acknowledgment of receipt** — If a report submitted under paragraph (1) identifies the individual making the report, the Secretary shall promptly respond to the individual directly and shall promptly acknowledge receipt of the report.
-
-(4) **Steps to address problems** — The Secretary—
-
-  (A) shall review and consider the information provided in any report submitted under paragraph (1); and
-
-  (B) may take action under [section 624 of this title](./chapter-001-homeland-security-organization.md#section-624) if necessary to address any substantiated violation of a requirement under this subchapter identified in the report.
-
-(5) **Due process for facility owner or operator**
-
-  (A) *In general* — If, upon the review described in paragraph (4), the Secretary determines that a violation of a provision of this subchapter, or a regulation prescribed under this subchapter, has occurred, the Secretary may—
-
-    (i) institute a civil enforcement under [section 624(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section624/a&num=0&edition=prelim); or
-
-    (ii) if the Secretary makes the determination under [section 624(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section624/c&num=0&edition=prelim), issue an emergency order.
-
-  (B) *Written orders* — The action of the Secretary under paragraph (4) shall be in a written form that—
-
-    (i) describes the violation;
-
-    (ii) states the authority under which the Secretary is proceeding; and
-
-    (iii) describes the standards and procedures for obtaining relief from the order.
-
-  (C) *Opportunity for review* — After taking action under paragraph (4), the Secretary shall provide for review of the action if a petition for review is filed within 20 calendar days of the date of issuance of the order for the action.
-
-  (D) *Expiration of effectiveness of order* — If a petition for review of an action is filed under subparagraph (C) and the review under that subparagraph is not completed by the end of the 30-day period beginning on the date the petition is filed, the action shall cease to be effective at the end of such period unless the Secretary determines, in writing, that the violation providing a basis for the action continues to exist.
-
-(6) **Retaliation prohibited**
-
-  (A) *In general* — An owner or operator of a chemical facility of interest or agent thereof may not discharge an employee or otherwise discriminate against an employee with respect to the compensation provided to, or terms, conditions, or privileges of the employment of, the employee because the employee (or an individual acting pursuant to a request of the employee) submitted a report under paragraph (1).
-
-  (B) *Exception* — An employee shall not be entitled to the protections under this section if the employee—
-
-    (i) knowingly and willfully makes any false, fictitious, or fraudulent statement or representation; or
-
-    (ii) uses any false writing or document knowing the writing or document contains any false, fictitious, or fraudulent statement or entry.
-
-**(b) Protected disclosures** Nothing in this subchapter shall be construed to limit the right of an individual to make any disclosure—
-
-(1) protected or authorized under section 2302(b)(8) or 7211 of title 5;
-
-(2) protected under any other Federal or State law that shields the disclosing individual against retaliation or discrimination for having made the disclosure in the public interest; or
-
-(3) to the Special Counsel of an agency, the inspector general of an agency, or any other employee designated by the head of an agency to receive disclosures similar to the disclosures described in paragraphs (1) and (2).
-
-**(c) Publication of rights** The Secretary, in partnership with industry associations and labor organizations, shall make publicly available both physically and online the rights that an individual who discloses information, including security-sensitive information, regarding problems, deficiencies, or vulnerabilities at a covered chemical facility would have under Federal whistleblower protection laws or this subchapter.
-
-**(d) Protected information** All information contained in a report made under this subsection (a) 11 So in original. shall be protected in accordance with [section 623 of this title](./chapter-001-homeland-security-organization.md#section-623).
-
-### Statutory Notes
-
-#### Termination of Section
-For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.
-
-#### Effective and Termination Dates
-Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on July 27, 2023, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621).
-
-
-<a id="section-644"></a>
-## § 644. Relationship to other laws
-**(a) Other Federal laws** Nothing in this subchapter shall be construed to supersede, amend, alter, or affect any Federal law that—
-
-(1) regulates (including by requiring information to be submitted or made available) the manufacture, distribution in commerce, use, handling, sale, other treatment, or disposal of chemical substances or mixtures; or
-
-(2) authorizes or requires the disclosure of any record or information obtained from a chemical facility under any law other than this subchapter.
-
-**(b) States and political subdivisions** This subchapter shall not preclude or deny any right of any State or political subdivision thereof to adopt or enforce any regulation, requirement, or standard of performance with respect to chemical facility security that is more stringent than a regulation, requirement, or standard of performance issued under this section, or otherwise impair any right or jurisdiction of any State with respect to chemical facilities within that State, unless there is an actual conflict between this section and the law of that State.
-
-### Statutory Notes
-
-#### Termination of Section
-For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.
-
-#### Effective and Termination Dates
-Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on July 27, 2023, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621).
-
-
-<a id="section-645"></a>
-## § 645. CFATS regulations
-**(a) General authority** The Secretary may, in accordance with chapter 5 of title 5, promulgate regulations or amend existing CFATS regulations to implement the provisions under this subchapter.
-
-**(b) Existing CFATS regulations**
-
-(1) **In general** — Notwithstanding section 4(b) of the Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014, each existing CFATS regulation shall remain in effect unless the Secretary amends, consolidates, or repeals the regulation.
-
-(2) **Repeal** — Not later than 30 days after December 18, 2014, the Secretary shall repeal any existing CFATS regulation that the Secretary determines is duplicative of, or conflicts with, this subchapter.
-
-**(c) Authority** The Secretary shall exclusively rely upon authority provided under this subchapter in—
-
-(1) determining compliance with this subchapter;
-
-(2) identifying chemicals of interest; and
-
-(3) determining security risk associated with a chemical facility.
-
-### Statutory Notes
-
-#### Termination of Section
-For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.
-
-#### References in Text
-Section 4(b) of the Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014, referred to in subsec. (b)(1), is section 4(b) of Pub. L. 113–254, Dec. 18, 2014, 128 Stat. 2919, which repealed section 550 of Pub. L. 109–295, formerly set out as a Regulations note under [section 121 of this title](./chapter-001-homeland-security-organization.md#section-121), effective as of the date that is 30 days after Dec. 18, 2014.
-
-#### Effective and Termination Dates
-Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on July 27, 2023, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621).
-
-
-<a id="section-645a"></a>
-## § 645a. Small covered chemical facilities
-**(a) Definition** In this section, the term “small covered chemical facility” means a covered chemical facility that—
-
-(1) has fewer than 100 employees employed at the covered chemical facility; and
-
-(2) is owned and operated by a small business concern (as defined in [section 632 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)).
-
-**(b) Assistance to facilities** The Secretary may provide guidance and, as appropriate, tools, methodologies, or computer software, to assist small covered chemical facilities in developing the physical security, cybersecurity, recordkeeping, and reporting procedures required under this subchapter.
-
-**(c) Report** The Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Energy and Commerce of the House of Representatives a report on best practices that may assist small covered chemical facilities in development of physical security best practices.
-
-### Statutory Notes
-
-#### Termination of Section
-For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.
-
-#### Effective and Termination Dates
-Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on July 27, 2023, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621).
-
-
-<a id="section-650"></a>
-## § 650. Definitions
-
-In this part:
-
-(1) **Center** — The term “Center” means the center established under [section 659 of this title](./chapter-001-homeland-security-organization.md#section-659).
-
-(2) **Council** — The term “Council” means the Cyber Incident Reporting Council described in [section 681f of this title](./chapter-001-homeland-security-organization.md#section-681f).
-
-(3) **Covered cyber incident** — The term “covered cyber incident” means a substantial cyber incident experienced by a covered entity that satisfies the definition and criteria established by the Director in the final rule issued pursuant to [section 681b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section681b/b&num=0&edition=prelim).
-
-(4) **Covered entity** — The term “covered entity” means an entity in a critical infrastructure sector, as defined in Presidential Policy Directive 21, that satisfies the definition established by the Director in the final rule issued pursuant to [section 681b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section681b/b&num=0&edition=prelim).
-
-(5) **Cyber incident** — The term “cyber incident”—
-
-  (A) has the meaning given the term “incident” in section 659 11 See References in Text note below. of this title; and
-
-  (B) does not include an occurrence that imminently, but not actually, jeopardizes—
-
-    (i) information on information systems; or
-
-    (ii) information systems.
-
-(6) **Cyber threat** — The term “cyber threat” has the meaning given the term “cybersecurity threat” in [section 650 of this title](./chapter-001-homeland-security-organization.md#section-650).
-
-(7) **Federal entity** — The term “Federal entity” has the meaning given the term in [section 1501 of this title](./chapter-006-cybersecurity.md#section-1501).
-
-(8) **Ransom payment** — The term “ransom payment” means the transmission of any money or other property or asset, including virtual currency, or any portion thereof, which has at any time been delivered as ransom in connection with a ransomware attack.
-
-(9) **Significant cyber incident** — The term “significant cyber incident” means a cyber incident, or a group of related cyber incidents, that the Secretary determines is likely to result in demonstrable harm to the national security interests, foreign relations, or economy of the United States or to the public confidence, civil liberties, or public health and safety of the people of the United States.
-
-(10) **Virtual currency** — The term “virtual currency” means the digital representation of value that functions as a medium of exchange, a unit of account, or a store of value.
-
-(11) **Virtual currency address** — The term “virtual currency address” means a unique public cryptographic key identifying the location to which a virtual currency payment can be made.
-
-### Statutory Notes
-
-#### References in Text
-[Section 659 of this title](./chapter-001-homeland-security-organization.md#section-659), referred to in par. (5)(A), was subsequently amended, and section 659(a) no longer defines the term “incident”. Reference to term, “incident”, as defined in this chapter deemed to be a reference to that term as defined in [section 650(12) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section650/12&num=0&edition=prelim), see section 7143(f)(2) of Pub. L. 117–263, set out as a Rule of Construction note under [section 650 of this title](./chapter-001-homeland-security-organization.md#section-650).
-
-#### Amendments
-2022—Par. (2). Pub. L. 117–263, § 7143(b)(2)(N)(i), (ii), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The term ‘cloud service provider’ means an entity offering products or services related to cloud computing, as defined by the National Institute of Standards and Technology in NIST Special Publication 800–145 and any amendatory or superseding document relating thereto.”
-
-Pars. (3) to (5). Pub. L. 117–263, § 7143(b)(2)(N)(ii), redesignated pars. (4) to (6) as (3) to (5), respectively. Former par. (3) redesignated (2).
-
-Par. (6). Pub. L. 117–263, § 7143(b)(2)(N)(ii), (iii), redesignated par. (7) as (6) and substituted “[section 650 of this title](./chapter-001-homeland-security-organization.md#section-650)” for “[section 651 of this title](./chapter-001-homeland-security-organization.md#section-651)”. Former par. (6) redesignated (5).
-
-Par. (7). Pub. L. 117–263, § 7143(b)(2)(N)(iv), added par. (7). Former par. (7) redesignated (6).
-
-Par. (8). Pub. L. 117–263, § 7143(b)(2)(N)(iv), (vi), redesignated par. (13) as (8) and struck out former par. (8). Prior to amendment, text of par. (8) read as follows: “The terms ‘cyber threat indicator’, ‘cybersecurity purpose’, ‘defensive measure’, ‘Federal entity’, and ‘security vulnerability’ have the meanings given those terms in [section 1501 of this title](./chapter-006-cybersecurity.md#section-1501).”
-
-Par. (9). Pub. L. 117–263, § 7143(b)(2)(N)(v), (vi), redesignated par. (16) as (9) and struck out former par. (9). Prior to amendment, text of par. (9) read as follows: “The terms ‘incident’ and ‘sharing’ have the meanings given those terms in [section 659 of this title](./chapter-001-homeland-security-organization.md#section-659).”
-
-Par. (10). Pub. L. 117–263, § 7143(b)(2)(N)(v), (vi), redesignated par. (18) as (10) and struck out former par. (10). Prior to amendment, text of par. (10) read as follows: “The term ‘Information Sharing and Analysis Organization’ has the meaning given the term in [section 671 of this title](./chapter-001-homeland-security-organization.md#section-671).”
-
-Par. (11). Pub. L. 117–263, § 7143(b)(2)(N)(v), (vi), redesignated par. (19) as (11) and struck out former par. (11). Prior to amendment, text of par. (11) read as follows: “The term ‘information system’—
-
-“(A) has the meaning given the term in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim); and
-
-“(B) includes industrial control systems, such as supervisory control and data acquisition systems, distributed control systems, and programmable logic controllers.”
-
-Par. (12). Pub. L. 117–263, § 7143(b)(2)(N)(v), struck out par. (12). Text read as follows: “The term ‘managed service provider’ means an entity that delivers services, such as network, application, infrastructure, or security services, via ongoing and regular support and active administration on the premises of a customer, in the data center of the entity (such as hosting), or in a third party data center.”
-
-Par. (13). Pub. L. 117–263, § 7143(b)(2)(N)(vi), redesignated par. (13) as (8).
-
-Par. (14). Pub. L. 117–263, § 7143(b)(2)(N)(v), struck out par. (14). Text read as follows: “The term ‘ransomware attack’—
-
-“(A) means an incident that includes the use or threat of use of unauthorized or malicious code on an information system, or the use or threat of use of another digital mechanism such as a denial of service attack, to interrupt or disrupt the operations of an information system or compromise the confidentiality, availability, or integrity of electronic data stored on, processed by, or transiting an information system to extort a demand for a ransom payment; and
-
-“(B) does not include any such event where the demand for payment is—
-
-“(i) not genuine; or
-
-“(ii) made in good faith by an entity in response to a specific request by the owner or operator of the information system.”
-
-Par. (15). Pub. L. 117–263, § 7143(b)(2)(N)(v), struck out par. (15). Text read as follows: “The term ‘Sector Risk Management Agency’ has the meaning given the term in [section 651 of this title](./chapter-001-homeland-security-organization.md#section-651).”
-
-Par. (16). Pub. L. 117–263, § 7143(b)(2)(N)(vi), redesignated par. (16) as (9).
-
-Par. (17). Pub. L. 117–263, § 7143(b)(2)(N)(v), struck out par. (17). Text read as follows: “The term ‘supply chain compromise’ means an incident within the supply chain of an information system that an adversary can leverage or does leverage to jeopardize the confidentiality, integrity, or availability of the information system or the information the system processes, stores, or transmits, and can occur at any point during the life cycle.”
-
-Pars. (18), (19). Pub. L. 117–263, § 7143(b)(2)(N)(vi), redesignated pars. (18) and (19) as (10) and (11), respectively.
-
-
-<a id="section-651"></a>
-## § 651. Outreach to chemical facilities of interest
-
-Not later than 90 days after December 18, 2014, the Secretary shall establish an outreach implementation plan, in coordination with the heads of other appropriate Federal and State agencies, relevant business associations, and public and private labor organizations, to—
-
-(1) identify chemical facilities of interest; and
-
-(2) make available compliance assistance materials and information on education and training.
-
-### Statutory Notes
-
-#### Termination of Section
-For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.
-
-#### Effective and Termination Dates
-Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on July 27, 2023, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under [section 621 of this title](./chapter-001-homeland-security-organization.md#section-621).
 
 
 <a id="section-652"></a>

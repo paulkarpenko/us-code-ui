@@ -1428,6 +1428,8 @@ Section, Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1621; Pub. L. 109�
 
 **(e) Transfer of Amounts.—** The Administrator may accept the transfer of amounts from a department, agency, or instrumentality of the United States Government and may use those amounts to cover the cost (as defined in section 502 of the Federal Credit Reform Act of 1990 ([2 U.S.C. 661a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim))) of making guarantees or commitments to guarantee under this section.
 
+**(f) Buy America.—** Part I of subtitle A of title IX of division G of the Infrastructure Investment and Jobs Act (Public Law 117–58; [41 U.S.C. 8301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section8301&num=0&edition=prelim) note) shall apply to any funds obligated by the Administrator under this section.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -1445,6 +1447,8 @@ In subsection (a)(2)(A)(i), the words “(as defined in title 1)” are omitted 
 In subsection (b), the words “and subject to the terms the Secretary shall be prescribe” are omitted as unnecessary because section 53702(a) of the revised title provides the Secretary authority to prescribe the terms. The words “Only a private shipyard is eligible to receive a guarantee” are substituted for 46 App. U.S.C. 1280a to eliminate unnecessary words.
 
 #### Amendments
+2024—Subsec. (f). Pub. L. 118–159 added subsec. (f).
+
 2008—Pub. L. 110–181, § 3522(b), repealed Pub. L. 109–163, § 3507(a)(2)(K). See 2006 Amendment note below.
 
 Subsecs. (b), (e). Pub. L. 110–181, § 3522(a)(9)(F), incorporated the substance of the amendment by Pub. L. 109–163, § 3507(a)(2)(K), into this section by substituting “Administrator” for “Secretary”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-definitions.md#section-101).

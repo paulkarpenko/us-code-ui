@@ -14,7 +14,7 @@ source: >-
 
 (2)
 
-  (A) Notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim), the Secretary concerned may accept a gift of services for a military museum program from a nonprofit entity established for the purpose of supporting a military museum program. Employees or personnel of a nonprofit entity who provide a gift of services under this subparagraph may not be considered to be employees of the United States.
+  (A) Notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim), the Secretary concerned may accept a gift of services for a military museum program or a professional military education institution from a nonprofit entity established for the purpose of supporting a military museum program or a professional military education institution. Employees or personnel of a nonprofit entity who provide a gift of services under this subparagraph may not be considered to be employees of the United States.
 
   (B) For the use and benefit of a military museum program, the Secretary concerned may solicit from a bona fide collector a gift of books, manuscripts, works of art, historical artifacts, drawings, plans, models, or condemned or obsolete combat materiel.
 
@@ -116,6 +116,8 @@ In subsection (c), the words “any gift, devise, or bequest of” and “real o
 In subsection (d), the words “or any part thereof deposited in the Treasury pursuant to [section 150r of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section150r&num=0&edition=prelim)” are omitted as surplusage.
 
 #### Amendments
+2024—Subsec. (a)(2)(A). Pub. L. 118–159 inserted “or a professional military education institution” after “museum program” in two places.
+
 2021—Subsec. (e). Pub. L. 116–283, § 2821(a)(1), struck out “Real” before “Property” in heading.
 
 Subsec. (e)(1). Pub. L. 116–283, § 2821(b)(1), substituted “an eligible entity” for “the United States Military Academy, the Naval Academy, the Air Force Academy, or the Coast Guard Academy”.
@@ -268,11 +270,13 @@ Pub. L. 103–337, div. A, title III, § 383(b), Oct. 5, 1994, 108 Stat. 2740, p
 (3) for development of the recognized potential for future career service of the member.
 However, the benefits of such a fellowship, scholarship, or grant may be accepted by the member in addition to the member’s pay and allowances only to the extent that those benefits would be conferred upon the member if the education or training contemplated by that fellowship, scholarship, or grant were provided at the expense of the United States. In addition, if such a benefit, in cash or in kind, is for travel, subsistence, or other expenses, an appropriate reduction shall be made from any payment that is made for the same purpose to the member by the United States incident to the member’s acceptance of the fellowship, scholarship, or grant.
 
-**(b)** Each member of the armed forces who accepts a fellowship, scholarship, or grant in accordance with subsection (a) shall, before he is permitted to undertake the education or training contemplated by that fellowship, scholarship, or grant, agree in writing that, after he completes the education or training, he will serve on active duty for a period three times the length of the period of the education or training.
+**(b)** Each member of the armed forces who accepts a fellowship, scholarship, or grant in accordance with subsection (a) shall, before he is permitted to undertake the education or training contemplated by that fellowship, scholarship, or grant, agree in writing that, after he completes the education or training, he will serve on active duty for a period determined by the Secretary concerned, which may not be less than twice the length of the period of the education or training. Notwithstanding [section 2004(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2004/c&num=0&edition=prelim), the service obligation required under this subsection may run concurrently with any service obligations incurred under chapter 101 of this title in accordance with regulations established by the Secretary concerned.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (b). Pub. L. 118–159 substituted “determined by the Secretary concerned, which may not be less than twice the length of the period of the education or training. Notwithstanding [section 2004(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2004/c&num=0&edition=prelim), the service obligation required under this subsection may run concurrently with any service obligations incurred under chapter 101 of this title in accordance with regulations established by the Secretary concerned.” for “three times the length of the period of the education or training.”
+
 2022—Subsec. (a). Pub. L. 117–263, § 523(b)(1), (4), in introductory provisions, substituted “(or an individual designated by the President)” for “or his designee” and “the member—” for “him—”, and, in concluding provisions, substituted “the member’s” for “his” in two places and “the member” for “him”.
 
 Subsec. (a)(1). Pub. L. 117–263, § 523(b)(2), substituted “the field of the member” for “his field”.

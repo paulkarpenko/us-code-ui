@@ -214,6 +214,9 @@ source: >-
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)(3)
+Pub. L. 119–21, title VII, § 71301(d), (e), July 4, 2025, 139 Stat. 322, provided that, applicable to taxable years beginning after Dec. 31, 2026, subsection (d)(3) of this section is amended by striking “an alien lawfully present in the United States” and inserting “an eligible alien (within the meaning of section 36B(e)(2))”. See 2025 Amendment notes below.
+
 #### Inflation Adjusted Items for Certain Years
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
@@ -225,6 +228,8 @@ The Social Security Act, referred to in subsec. (f)(1)(A)(i) to (iii), is act Au
 Section 2791 of the Public Health Service Act, referred to in subsec. (f)(2)(A), (3), is classified to [section 300gg–91 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–91&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2025—Subsec. (d)(3). Pub. L. 119–21 substituted “an eligible alien (within the meaning of section 36B(e)(2))” for “an alien lawfully present in the United States”.
+
 2018—Subsec. (d)(2)(A). Pub. L. 115–271 amended subpar. (A) generally. Prior to amendment, text read as follows: “Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that such individual is—
 
 “(i) a member of a recognized religious sect or division thereof which is described in section 1402(g)(1), and
@@ -294,6 +299,9 @@ Subsec. (f)(1)(A)(iv). Pub. L. 111–159, § 2(a)(1), added cl. (iv) and struck 
 Subsec. (f)(1)(A)(v). Pub. L. 111–173, § 1(a), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “the veteran’s health care program under chapter 17 of title 38, United States Code,”.
 
 Subsec. (f)(1)(A)(vii). Pub. L. 111–159, § 2(a)(2)–(4), added cl. (vii).
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21, applicable to taxable years beginning after Dec. 31, 2026, see section 71301(e) of Pub. L. 119–21, set out as a note under [section 36B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-36b).
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–271, title IV, § 4003(b), Oct. 24, 2018, 132 Stat. 3960, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2018.”

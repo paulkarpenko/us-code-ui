@@ -210,23 +210,6 @@ A prior section 4471 was contained in subchapter C of this chapter prior to repe
 Pub. L. 101–239, title VII, § 7504(c), Dec. 19, 1989, 103 Stat. 2363, provided that: “(1) In general.—The amendments made by this section [enacting this subchapter] shall apply to voyages beginning after December 31, 1989, which were not paid for before such date. “(2) No deposits required before april 1, 1990.—No deposit of any tax imposed by subchapter B of chapter 36 of the Internal Revenue Code of 1986, as added by this section, shall be required to be made before April 1, 1990.”
 
 
-<a id="section-4471-to-4474"></a>
-## § 4471 to 4474. Repealed. Pub. L. 89–44, title IV, § 404, June 21, 1965, 79 Stat. 149]
-
-### Statutory Notes
-
-Section 4471, act Aug. 16, 1954, ch. 736, 68A Stat. 532, imposed a $20 annual tax upon bowling alleys, billiard tables, and pool tables to be paid by operators of bowling alleys, billiard rooms, and pool rooms.
-
-Section 4472, act Aug. 16, 1954, ch. 736, 68A Stat. 532, defined bowling alley, billiard room, and pool room.
-
-Section 4473, acts Aug. 16, 1954, ch. 736, 68A Stat. 532; Sept. 2, 1958, Pub. L. 85–859, title I, § 153(a), 72 Stat. 1305, granted exemptions for hospitals, the armed forces, and certain non-profit and governmental organizations.
-
-Section 4474, act Aug. 16, 1954, ch. 736, 68A Stat. 532, made cross references to chapter 40 and subtitle F for penalties and administrative provisions.
-
-#### Effective Date of Repeal
-Repeal applicable on and after July 1, 1965, see section 701(c)(2) of Pub. L. 89–44, set out in part as an Effective Date of 1965 Amendment note under [section 4402 of this title](./chapter-035-taxes-on-wagering.md#section-4402).
-
-
 <a id="section-4472"></a>
 ## § 4472. Definitions
 
@@ -249,6 +232,46 @@ For purposes of this subchapter—
 
 #### Prior Provisions
 A prior section 4472 was contained in subchapter C of this chapter prior to repeal by Pub. L. 89–44, title IV, § 404, June 21, 1965, 79 Stat. 149.
+
+
+<a id="section-4475"></a>
+## § 4475. Imposition of tax
+**(a) In general** There is hereby imposed on any remittance transfer a tax equal to 1 percent of the amount of such transfer.
+
+**(b) Payment of tax**
+
+(1) **In general** — The tax imposed by this section with respect to any remittance transfer shall be paid by the sender with respect to such transfer.
+
+(2) **Collection of tax** — The remittance transfer provider with respect to any remittance transfer shall collect the amount of the tax imposed under subsection (a) with respect to such transfer from the sender and remit such tax quarterly to the Secretary at such time and in such manner as provided by the Secretary,11 So in original. The comma probably should be a period.
+
+(3) **Secondary liability** — Where any tax imposed by subsection (a) is not paid at the time the transfer is made, then to the extent that such tax is not collected, such tax shall be paid by the remittance transfer provider.
+
+**(c) Tax limited to cash and similar instruments** The tax imposed under subsection (a) shall apply only to any remittance transfer for which the sender provides cash, a money order, a cashier’s check, or any other similar physical instrument (as determined by the Secretary) to the remittance transfer provider.
+
+**(d) Nonapplication to certain noncash remittance transfers** Subsection (a) shall not apply to any remittance transfer for which the funds being transferred are—
+
+(1) withdrawn from an account held in or by a financial institution—
+
+  (A) which is described in subparagraphs (A) through (H) of [section 5312(a)(2) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5312/a/2&num=0&edition=prelim), United States Code, and
+
+  (B) that is subject to the requirements under subchapter II of chapter 53 of such title, or
+
+(2) funded with a debit card or a credit card which is issued in the United States.
+
+**(e) Definitions** For purposes of this section—
+
+(1) **In general** — The terms “remittance transfer”, “remittance transfer provider”, and “sender” shall each have the respective meanings given such terms by section 919(g) of the Electronic Fund Transfer Act ([15 U.S.C. 1693](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1693&num=0&edition=prelim)o–1(g)).
+
+(2) **Credit card** — The term “credit card” has the same meaning given such term under section 920(c)(3) of the Electronic Fund Transfer Act ([15 U.S.C. 1693](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1693&num=0&edition=prelim)o–2(c)(3)).
+
+(3) **Debit card** — The term “debit card” has the same meaning given such term under section 920(c)(2) of the Electronic Fund Transfer Act ([15 U.S.C. 1693](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1693&num=0&edition=prelim)o–2(c)(2)), without regard to subparagraph (B) of such section.
+
+**(f) Application of anti-conduit rules** For purposes of section 7701(l), with respect to any multiple-party arrangements involving the sender, a remittance transfer shall be treated as a financing transaction.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 119–21, title VII, § 70604(c), July 4, 2025, 139 Stat. 286, provided that: “The amendments made by this section [enacting this subchapter] shall apply to transfers made after December 31, 2025.”
 
 
 <a id="section-4481"></a>

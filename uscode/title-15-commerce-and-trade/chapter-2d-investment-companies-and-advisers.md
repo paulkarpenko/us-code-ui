@@ -921,6 +921,9 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(36)
+Pub. L. 119–27, §§ 17(b)(1), 20, July 18, 2025, 139 Stat. 462, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, subsection (a)(36) of this section is amended by adding at the end the following: “The term ‘security’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in [section 5901 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim).” See 2025 Amendment note below.
+
 #### References in Text
 The Securities Exchange Act of 1934, referred to in subsec. (a)(11), (44), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
 
@@ -934,6 +937,8 @@ The Small Business Investment Act of 1958, referred to in subsec. (a)(46)(B), (4
 Words “Philippine Islands” deleted from definition of term “State” under authority of Proc. No. 2695, which granted independence to the Philippine Islands. Proc. No. 2695 was issued pursuant to [section 1394 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1394&num=0&edition=prelim), Foreign Relations and Intercourse, and is set out as a note under that section.
 
 #### Amendments
+2025—Subsec. (a)(36). Pub. L. 119–27 inserted at end “The term ‘security’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in [section 5901 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim).”
+
 2010—Subsec. (a)(19). Pub. L. 111–203, § 985(d)(1)(A), substituted “clause (vii)” for “clause (vi)” in two places in concluding provisions.
 
 Subsec. (a)(19)(A)(vi)(III), (B)(vi)(III). Pub. L. 111–203, § 985(d)(1)(B), inserted “and” at end.
@@ -1003,6 +1008,9 @@ Subsec. (a)(45). Pub. L. 91–547, § 2(a)(5), added par. (45).
 1959—Subsec. (a)(37). Pub. L. 86–70 struck out reference to Alaska.
 
 1954—Subsec. (a)(30). Act Aug. 10, 1954, substituted “section 10(a) of the Securities Act of 1933” for “section 5(b) of the Securities Act of 1933”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as an Effective Date note under [section 5901 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim), Banks and Banking.
 
 #### Effective Date of 2010 Amendment
 Amendment by sections 985(d)(1) and 986(c)(1) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.
@@ -1757,7 +1765,12 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)(3)
+Pub. L. 119–27, §§ 17(b)(2), 20, July 18, 2025, 139 Stat. 462, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, subsection (c)(3) of this section is amended by inserting “any permitted payment stablecoin issuer, as such term is defined in [section 5901 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim);” after “therefor;”. See 2025 Amendment note below.
+
 #### Amendments
+2025—Subsec. (c)(3). Pub. L. 119–27 inserted “any permitted payment stablecoin issuer, as such term is defined in [section 5901 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim);” after “therefor;”.
+
 2018—Subsec. (c)(1). Pub. L. 115–174, § 504(1), inserted “(or, in the case of a qualifying venture capital fund, 250 persons)” after “one hundred persons” in introductory provisions.
 
 Subsec. (c)(1)(C). Pub. L. 115–174, § 504(2), added subpar. (C).
@@ -1823,6 +1836,9 @@ Subsecs. (c)(12) to (15). Pub. L. 91–547, § 3(b)(2), redesignated pars. (14) 
 1966—Subsec. (c)(4). Pub. L. 89–485 repealed provisions which exempt holding company affiliates granted a general voting permit by the Board of Governors of the Federal Reserve System before 1940 and any such affiliates with a later voting permit concerning which determinations were made of being primarily engaged, directly or indirectly, in the business of holding the stock of, and managing or controlling, banks, banking associations, savings banks, or trust companies.
 
 1942—Subsec. (c)(13). Act Oct. 31, 1942, inserted “as amended”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as an Effective Date note under [section 5901 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim), Banks and Banking.
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.
@@ -3763,6 +3779,9 @@ If any provision of this subchapter or the application of such provision to any 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(18)
+Pub. L. 119–27, §§ 17(a), 20, July 18, 2025, 139 Stat. 462, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, subsection (a)(18) of this section is amended by adding at the end the following: “The term ‘security’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in [section 5901 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim).” See 2025 Amendment note below.
+
 #### References in Text
 The Bank Holding Company Act of 1956, referred to in subsec. (a)(11)(A), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841&num=0&edition=prelim) and Tables.
 
@@ -3777,6 +3796,8 @@ The Trust Indenture Act of 1939, referred to in subsec. (a)(21), is title III of
 This subchapter, referred to in subsec. (a)(26)(B), was in the original “this Act” and was translated as reading “this title”, meaning title II of act Aug. 22, 1940, ch. 686, known as the Investment Advisers Act of 1940, to reflect the probable intent of Congress.
 
 #### Amendments
+2025—Subsec. (a)(18). Pub. L. 119–27 inserted at end “The term ‘security’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in [section 5901 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim).”
+
 2010—Subsec. (a)(11)(G), (H). Pub. L. 111–203, § 409(a), added subpar. (G) and redesignated former subpar. (G) as (H).
 
 Subsec. (a)(21). Pub. L. 111–203, § 986(d), struck out “ ‘Public Utility Holding Company Act of 1935’,” after “ ‘Securities Exchange Act of 1934’,”.
@@ -3836,6 +3857,9 @@ Subsec. (a)(18). Pub. L. 86–750, § 1(b), struck out reference to Philippine I
 Pub. L. 86–624 struck out reference to Hawaii.
 
 1959—Subsec. (a)(18). Pub. L. 86–70 struck out reference to Alaska.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as an Effective Date note under [section 5901 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim), Banks and Banking.
 
 #### Effective Date of 2010 Amendment
 Amendment by section 986(d) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.

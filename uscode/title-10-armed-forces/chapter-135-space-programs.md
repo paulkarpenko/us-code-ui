@@ -2,7 +2,7 @@
 title: 10
 chapter: '135'
 heading: SPACE PROGRAMS
-section_count: 17
+section_count: 20
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -25,11 +25,17 @@ source: >-
 #### Prior Provisions
 A prior section 2271, act Aug. 10, 1956, ch. 1041, 70A Stat. 123, related to competitions for designs of aircraft, aircraft parts, and aeronautical accessories, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
+#### Continuation of Operation of Defense Meteorological Satellite Program
+Pub. L. 119–60, div. A, title XVI, § 1606, Dec. 18, 2025, 139 Stat. 1176, provided that: “The Secretary of Defense shall continue to operate the Defense Meteorological Satellite Program, and its existing functions and distribution capability, until the end of the functional life of the satellites in orbit as of the date of the enactment of this Act [Dec. 18, 2025] under such program.”
+
+#### Study on Establishing a Tactical Surveillance, Reconnaissance, and Tracking Program of Record
+Pub. L. 119–60, div. A, title XVI, § 1607, Dec. 18, 2025, 139 Stat. 1176, provided that: “(a) Study.—The Secretary of the Air Force, in coordination with the Under Secretary of Defense for Intelligence and Security, shall conduct a study on the feasibility and advisability of establishing a program of record for tactical surveillance, reconnaissance, and tracking capabilities within the Department of Defense. “(b) Scope.—The study under subsection (a) shall—“(1) assess operational and technical requirements for tactical surveillance, reconnaissance, and tracking capabilities across the joint force, including requirements identified by the combatant commands; “(2) evaluate options for organizational placement of such a program within the Department of Defense; “(3) develop recommended acquisition and management approaches; “(4) consider applicable intelligence oversight, legal, and policy regulations relevant to the collection, retention, and dissemination of information; and “(5) provide funding profile options and estimated resource requirements to establish and sustain such a program. “(c) Coordination.—In conducting the study under subsection (a), the Secretary—“(1) shall coordinate with the Under Secretary of Defense for Acquisition and Sustainment, the Chairman of the Joint Chiefs of Staff, and commanders of the combatant commands; and “(2) may receive support from other elements of the Department or federally funded research and development centers as the Secretary determines appropriate. “(d) Report.—Not later than July 31, 2026, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report, and shall provide a briefing on, the findings and recommendations of the study under subsection (a). “(e) Authority to Establish.—The Secretary may establish a program of record for tactical surveillance, reconnaissance, and tracking capabilities within the Department of Defense if—“(1) the Secretary determines in the study under subsection (a) that such establishment is advisable and feasible; and “(2) a period of 90 days elapses following the date on which the Secretary submits the report under subsection (d); and “(3) after such 90-day period, the Secretary notifies the congressional defense committees of carrying out this subsection. “(f) Tactical Surveillance, Reconnaissance, and Tracking Capabilities Defined.—In this section, the term ‘tactical surveillance, reconnaissance, and tracking capabilities’ means the capabilities provided under the pilot program carried out by the Space Force to use commercial data and analytics to provide surveillance, reconnaissance, and tracking information to the combatant commands.”
+
 #### Use of Middle Tier Acquisition Program for Proliferated Warfighter Space Architecture of the Space Development Agency
-Pub. L. 118–31, div. A, title XVI, § 1608, Dec. 22, 2023, 137 Stat. 587, provided that: “(a) In General.—The Director of the Space Development Agency shall use a middle tier acquisition program for the rapid fielding of satellites and associated systems for each of the following tranches of the of the [sic] proliferated warfighter space architecture of the Agency:“(1) Tranch [sic] 1. “(2) Tranch [sic] 2. “(3) Tranch [sic] 3. “(b) Rapid Prototyping and Fielding.—Any tranche of satellites or associated systems developed and fielded under subsection (a) shall have a level of maturity that allows such satellites or systems to be rapidly prototyped within an acquisition program or rapidly fielded within five years of the development of an approved requirement for such satellites or systems. “(c) Designation as Major Capability Acquisition.—“(1) In general.—The Under Secretary of Defense for Acquisition and Sustainment may designate a tranche described in subsection (a) as a major capability acquisition program consistent with Department of Defense Instruction 5000.85, titled ‘Major Capability Acquisition’ and issued on August 6, 2020 (or a successor instruction). “(2) Notice to congress.—Not later than 90 days before the date on which a designation under paragraph (1) is made, the Under Secretary of Defense for Acquisition and Sustainment shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of the intent of the Under Secretary to make such designation and include with such notice a justification for such designation. “(d) Space Acquisition Council Review and Waiver.—“(1) Review.—In accordance with [section 9021 of title 10](./chapter-903-department-of-the-air-force.md#section-9021), United States Code, the Space Acquisition Council shall review each tranch described subsection (a) to ensure integration across the national security space enterprise. “(2) Waiver.—The Space Acquisition Council may waive the requirements of subsection (a) with respect to a tranch or portion of a tranch described in such subsection if the Council—“(A) on the basis of the review conducted under paragraph (1), determines that the use of a middle tier acquisition program is not warranted for such tranch or portion thereof; and “(B) not later than 14 days after making such determination, submits to the congressional defense committees notice of the intent of the Council to issue such a waiver. “(e) Middle Tier Acquisition Program Defined.—In this section, the term ‘middle tier acquisition program’ means an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; [10 U.S.C. 3201](./chapter-221-planning-and-solicitation-generally.md#section-3201) note prec.) in a manner consistent with Department of Defense Instruction 5000.80, titled ‘Operation of the Middle Tier of Acquisition (MTA)’ and issued on December 30, 2019 (or a successor instruction).”
+Pub. L. 118–31, div. A, title XVI, § 1608, Dec. 22, 2023, 137 Stat. 587, as amended by Pub. L. 118–159, div. A, title VIII, § 804(c)(6), title XVII, § 1701(b), Dec. 23, 2024, 138 Stat. 1969, 2206; Pub. L. 119–60, div. A, title XVI, § 1604, Dec. 18, 2025, 139 Stat. 1176, provided that: “(a) In General.—The Director of the Space Development Agency shall use a middle tier acquisition program for the rapid fielding of satellites and associated systems for each of the following tranches of the proliferated warfighter space architecture of the Agency:“(1) Tranche 1. “(2) Tranche 2. “(3) Tranche 3. “(4) Tranche 4. “(5) Tranche 5. “(6) Tranche 6. “(b) Rapid Prototyping and Fielding.—Any tranche of satellites or associated systems developed and fielded under subsection (a) shall have a level of maturity that allows such satellites or systems to be rapidly prototyped within an acquisition program or rapidly fielded within five years of the development of an approved requirement for such satellites or systems. “(c) Designation as Major Capability Acquisition.—“(1) In general.—The Under Secretary of Defense for Acquisition and Sustainment may designate a tranche described in subsection (a) as a major capability acquisition program consistent with Department of Defense Instruction 5000.85, titled ‘Major Capability Acquisition’ and issued on August 6, 2020 (or a successor instruction). “(2) Notice to congress.—Not later than 90 days before the date on which a designation under paragraph (1) is made, the Under Secretary of Defense for Acquisition and Sustainment shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of the intent of the Under Secretary to make such designation and include with such notice a justification for such designation. “(d) Space Acquisition Council Review and Waiver.—“(1) Review.—In accordance with [section 9021 of title 10](./chapter-903-department-of-the-air-force.md#section-9021), United States Code, the Space Acquisition Council shall review each tranch described subsection (a) to ensure integration across the national security space enterprise. “(2) Waiver.—The Space Acquisition Council may waive the requirements of subsection (a) with respect to a tranch or portion of a tranch described in such subsection if the Council—“(A) on the basis of the review conducted under paragraph (1), determines that the use of a middle tier acquisition program is not warranted for such tranch or portion thereof; and “(B) not later than 14 days after making such determination, submits to the congressional defense committees notice of the intent of the Council to issue such a waiver. “(e) Middle Tier Acquisition Program Defined.—In this section, the term ‘middle tier acquisition program’ means an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under [section 3602 of title 10](./chapter-253-rapid-acquisition-procedures.md#section-3602), United States Code[,] in a manner consistent with Department of Defense Instruction 5000.80, titled ‘Operation of the Middle Tier of Acquisition (MTA)’ and issued on December 30, 2019 (or a successor instruction).”
 
 #### Matters Relating to Space-Based Ground and Airborne Moving Target Indication Systems
-Pub. L. 118–31, div. A, title XVI, § 1684, Dec. 22, 2023, 137 Stat. 618, provided that: “(a) In General.—The Secretary of the Air Force shall be responsible for presenting space-based ground and airborne moving target indication systems to the combatant commands to accomplish missions assigned to such commands under the Unified Command Plan that—“(1) are primarily or fully funded by the Department of Defense; and “(2) provide near real-time, direct support to satisfy the operational requirements of such commands. “(b) Milestone Decision Authority.—The Secretary of the Air Force, in consultation with the Director of National Intelligence, shall be milestone decision authority (as defined in [section 4204 of title 10](./chapter-321-general-matters.md#section-4204), United States Code) for Milestone A approval (as defined in section 4211 of such title) for space-related acquisition programs for ground and airborne moving target indication systems described in subsection (a) that are primarily or fully funded within the military intelligence program. “(c) Working Group.—“(1) Establishment.—Not later than 90 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall establish a working group, to be known as the ‘Moving Target Indication Working Group’ (referred to in this section as the ‘working group’). “(2) Responsibilities.—The working group shall be responsible for—“(A) addressing Department of Defense joint service requirements for moving target indication systems; “(B) monitoring the cost, schedule, and performance of all efforts to replace the tactical intelligence, surveillance, and reconnaissance capability that is provided, as of the date of enactment of this Act, by the Joint Surveillance Target Attack Radar System; and “(C) developing the processes and procedures for tasking, collection, processing, exploitation, and dissemination of the data collected by moving target indication systems. “(3) Membership.—“(A) In general.—The working group shall be composed of members selected by the Secretary of Defense as follows:“(i) One member of the Space Force and one member of the Joint Staff each of whom shall serve as a co-chair of the working group. “(ii) One representative of each of the following: “(I) The Army. “(II) The Navy. “(III) The Marine Corps. “(IV) The Air Force. “(B) Congressional notification.—Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a list of the members selected to serve on the working group pursuant to subparagraph (A). “(4) Briefing requirements.—“(A) Initial briefing.—Not later than 120 days after the date of the enactment of this Act, the co-chairs of the working group shall provide to the congressional defense committees a briefing on—“(i) any capabilities development documents developed by the working group that are either approved by, or in development for, the Joint Requirements Oversight Council; and “(ii) any progress of the working group towards developing processes and procedures for tasking, collection, processing, exploitation, and dissemination of data collected by future moving target indication systems. “(B) Biannual briefings.—Not less frequently than biannually following the initial briefing under subparagraph (A), the working group shall provide to the congressional defense committees a briefing on the status of any moving target indication programs under development by the Department of Defense as of the date of the briefing. “(C) Sunset.—The requirement to provide briefings under this paragraph shall terminate on the date that is five years after the date of the enactment of this Act.”
+Pub. L. 118–31, div. A, title XVI, § 1684, Dec. 22, 2023, 137 Stat. 618, as amended by Pub. L. 118–159, div. A, title XVI, § 1654, Dec. 23, 2024, 138 Stat. 2201; Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(A), Dec. 18, 2025, 139 Stat. 1227, provided that: “(a) In General.—The Secretary of the Air Force shall be responsible for presenting space-based ground and airborne moving target indication systems to the combatant commands to accomplish missions assigned to such commands under the Unified Command Plan that—“(1) are primarily or fully funded by the Department of Defense; and “(2) provide near real-time, direct support to satisfy the operational requirements of such commands. “(b) Milestone Decision Authority.—“(1) In general.—The Secretary of the Air Force, in consultation with the Director of National Intelligence, shall be the milestone decision authority (as defined in [section 4204 of title 10](./chapter-321-general-matters.md#section-4204), United States Code) for space-related acquisition programs for ground and airborne moving target indication systems described in subsection (a) that are primarily or fully funded within the military intelligence program. “(2) Appointment of portfolio acquisition executive.—The service acquisition executive for the Air Force for space systems and programs shall appoint a portfolio acquisition executive, and designate an office, for the acquisition of space-based air and moving target indication systems. “(c) Initial Operational Capability.—Not later than May 31, 2025, the Chairman of the Joint Chiefs of Staff shall—“(1) designate a date by which the space-based ground moving target indication system will achieve initial operational capability; and “(2) notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of such date. “(d) Working Group.—“(1) Establishment.—Not later than 90 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall establish a working group, to be known as the ‘Moving Target Indication Working Group’ (referred to in this section as the ‘working group’). “(2) Responsibilities.—The working group shall be responsible for—“(A) addressing Department of Defense joint service requirements for moving target indication systems; “(B) monitoring the cost, schedule, and performance of all efforts to replace the tactical intelligence, surveillance, and reconnaissance capability that is provided, as of the date of enactment of this Act, by the Joint Surveillance Target Attack Radar System; and “(C) developing the processes and procedures for tasking, collection, processing, exploitation, and dissemination of the data collected by moving target indication systems. “(3) Membership.—“(A) In general.—The working group shall be composed of members selected by the Secretary of Defense as follows:“(i) One member of the Space Force and one member of the Joint Staff each of whom shall serve as a co-chair of the working group. “(ii) One representative of each of the following: “(I) The Army. “(II) The Navy. “(III) The Marine Corps. “(IV) The Air Force. “(B) Congressional notification.—Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a list of the members selected to serve on the working group pursuant to subparagraph (A). “(4) Briefing requirements.—“(A) Initial briefing.—Not later than 120 days after the date of the enactment of this Act, the co-chairs of the working group shall provide to the congressional defense committees a briefing on—“(i) any capabilities development documents developed by the working group that are either approved by, or in development for, the Joint Requirements Oversight Council; and “(ii) any progress of the working group towards developing processes and procedures for tasking, collection, processing, exploitation, and dissemination of data collected by future moving target indication systems. “(B) Biannual briefings.—Not less frequently than biannually following the initial briefing under subparagraph (A), the working group shall provide to the congressional defense committees a briefing on the status of any moving target indication programs under development by the Department of Defense as of the date of the briefing. “(C) Sunset.—The requirement to provide briefings under this paragraph shall terminate on the date that is five years after the date of the enactment of this Act.”
 
 #### Allied Responsive Space Capabilities
 Pub. L. 117–263, div. A, title XVI, § 1606, Dec. 23, 2022, 136 Stat. 2931, provided that: “(a) Initiatives.—The Secretary of the Defense and the Secretary of State shall jointly ensure that responsive space capabilities of the Department of Defense align with initiatives by Five Eyes countries, member states of the North Atlantic Treaty Organization, and other allies to promote a globally responsive space architecture. “(b) Report.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense and the Secretary of State, in coordination with the Commander of the United States European Command, the Commander of the United States Indo-Pacific Command, and the Commander of the United States Space Command, shall jointly submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate a report assessing current investments and partnerships by the United States with allies of the United States with respect to responsive space efforts. The report shall include the following:“(1) An assessment of the benefits of leveraging allied and partner spaceports for responsive launch. “(2) A discussion of current and future plans to engage with allies and partners with respect to activities ensuring rapid reconstitution or augmentation of the space capabilities of the United States and allies. “(3) An assessment of the shared costs and technology between the United States and allies, including if investments from the Pacific Deterrence Initiative and the European Deterrence Initiative could be considered for allied spaceports. “(c) Five Eyes Countries Defined.—In this section, the term ‘Five Eyes countries’ means the following:“(1) Australia. “(2) Canada. “(3) New Zealand. “(4) The United Kingdom. “(5) The United States.”
@@ -62,7 +68,7 @@ Pub. L. 115–232, div. A, title XVI, § 1607, Aug. 13, 2018, 132 Stat. 2108, pr
 Pub. L. 115–232, div. A, title XVI, § 1611, Aug. 13, 2018, 132 Stat. 2112, provided that: “Not later than 30 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense, in coordination with the Secretary of the Air Force, and other Secretaries of the military departments and the heads of Defense Agencies the Secretary determines appropriate, shall designate a component of the Department of Defense or a military department to be responsible for coordinating information, processes, and lessons learned relating to using commercially hosted payloads across the military departments, Defense Agencies, and other appropriate elements of the Department of Defense. The functions of such designated component shall include, at a minimum, the following: “(1) Systematically collecting information from past and planned hosted payload arrangements to inform future acquisition planning and space system architecture design, including integration test data, lessons learned, and design solutions. “(2) Creating a centralized database for cost, technical data, and lessons learned on commercially hosted payloads and sharing such information with other elements of the Department.”
 
 #### Air Force Space Contractor Responsibility Watch List
-Pub. L. 115–91, div. A, title XVI, § 1612, Dec. 12, 2017, 131 Stat. 1729, provided that: “(a) In General.—The Commander of the Air Force Space and Missile Systems Center shall establish and maintain a watch list of contractors with a history of poor performance on space procurement contracts or research, development, test, and evaluation space program contracts. “(b) Basis for Inclusion on List.—“(1) Determination.—The Commander may place a contractor on the watch list established under subsection (a) upon determining that the ability of the contractor to perform a contract specified in such subsection is uncertain because of any of the following issues:“(A) Poor performance or award fee scores below 50 percent. “(B) Financial concerns. “(C) Felony convictions or civil judgements. “(D) Security or foreign ownership and control issues. “(2) Discretion of the commander.—The Commander shall be responsible for determining which contractors to place on the watch list, whether an entire company or a specific division should be included, and when to remove a contractor from the list. “(c) Effect of Listing.—“(1) Prime contracts.—The Commander may not solicit an offer from, award a contract to, execute an engineering change proposal with, or exercise an option on any space program of the Air Force with a contractor included on the list established under subsection (a) without the prior approval of the Commander. “(2) Subcontracts.—A prime contractor on a contract entered into with the Air Force Space and Missile Systems Center may not enter into a subcontract valued in excess of $3,000,000 or five percent of the prime contract value, whichever is lesser, with a contractor included on the watch list established under subsection (a) without the prior approval of the Commander. “(d) Request for Removal From List.—A contractor may submit to the Commander a written request for removal from the watch list, including evidence that the contractor has resolved the issue that was the basis for inclusion on the list. “(e) Rule of Construction.—Nothing in this section shall be construed as preventing the suspension or debarment of a contractor, but inclusion on the watch list shall not be construed as a punitive measure or de facto suspension or debarment of a contractor.”
+Pub. L. 115–91, div. A, title XVI, § 1612, Dec. 12, 2017, 131 Stat. 1729, which required the Commander of the Air Force Space and Missile Systems Center to establish and maintain a space contractor responsibility watch list, was repealed by Pub. L. 118–159, div. A, title XVI, § 1601(b), Dec. 23, 2024, 138 Stat. 2158. See [section 2271a of this title](./chapter-135-space-programs.md#section-2271a).
 
 #### Briefings on the National Space Defense Center
 Pub. L. 115–31, div. N, title VI, § 605(e)(2), May 5, 2017, 131 Stat. 832, as amended by Pub. L. 116–283, div. A, title XVI, § 1604(c)(2), (3), Jan. 1, 2021, 134 Stat. 4043, 4044, provided that: “The Director of the National Reconnaissance Office and the Commander of the United States Space Command, in coordination with the Director of National Intelligence and Under Secretary of Defense for Intelligence [now Under Secretary of Defense for Intelligence and Security], shall provide to the appropriate committees of Congress briefings providing updates on activities and progress of the National Space Defense Center to begin 30 days after the date of the enactment of this Act [May 5, 2017]. Such briefings shall be quarterly for the first year following enactment, and annually thereafter.”
@@ -94,10 +100,70 @@ Pub. L. 110–181, div. A, title X, § 1065, Jan. 28, 2008, 122 Stat. 324, provi
 Pub. L. 109–163, div. A, title IX, § 911, Jan. 6, 2006, 119 Stat. 3405, required the Secretary of Defense to develop a “Space Situational Awareness Strategy” for ensuring freedom to operate United States space assets affecting national security, and to provide for a review and assessment of the requirements of the Department of Defense for the space control mission, prior to repeal by Pub. L. 110–181, div. A, title IX, § 911(g), Jan. 28, 2008, 122 Stat. 280.
 
 #### Space Personnel Career Fields
-Pub. L. 108–136, div. A, title V, § 547, Nov. 24, 2003, 117 Stat. 1480, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that: “(a) Strategy Required.—The Secretary of Defense shall develop a strategy for the Department of Defense that will—“(1) promote the development of space personnel career fields within each of the military departments; and “(2) ensure that the space personnel career fields developed by the military departments are integrated with each other to the maximum extent practicable. “(b) Report.—Not later than February 1, 2004, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the strategy developed under subsection (a). The report shall include the following:“(1) A statement of the strategy developed under subsection (a), together with an explanation of that strategy. “(2) An assessment of the measures required for the Department of Defense and the military departments to integrate the space personnel career fields of the military departments. “(3) A comprehensive assessment of the adequacy of the actions of the Secretary of Air Force pursuant to section 8084 [now 9084] of title 10, United States Code, to establish for Air Force officers a career field for space. “(c) Government Accountability Office Review and Reports.—(1) The Comptroller General shall review the strategy developed under subsection (a) and the status of efforts by the military departments in developing space personnel career fields. “(2) The Comptroller General shall submit to the committees referred to in subsection (b) two reports on the review under paragraph (1), as follows:“(A) Not later than June 15, 2004, the Comptroller General shall submit a report that assesses how effective that Department of Defense strategy and the efforts by the military departments, when implemented, are likely to be for developing the personnel required by each of the military departments who are expert in development of space doctrine and concepts of space operations, the development of space systems, and operation of space systems. “(B) Not later than March 15, 2005, the Comptroller General shall submit a report that assesses, as of the date of the report—“(i) the effectiveness of that Department of Defense strategy and the efforts by the military departments in developing the personnel required by each of the military departments who are expert in development of space doctrine and concepts of space operations, the development of space systems, and in operation of space systems; and “(ii) progress made in integrating the space career fields of the military departments.”
+Pub. L. 108–136, div. A, title V, § 547, Nov. 24, 2003, 117 Stat. 1480, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, required the Secretary of Defense to develop a strategy to promote the development of space personnel career fields and required reports regarding the strategy to be submitted by the Secretary of Defense and the Comptroller General to Congress in 2004 and 2005.
 
 #### Comptroller General Assessment of Implementation of Recommendations of Space Commission
 Pub. L. 107–107, div. A, title IX, § 914, Dec. 28, 2001, 115 Stat. 1197, directed the Comptroller General to carry out an assessment through Feb. 15, 2003, of the actions taken by the Secretary of Defense in implementing the recommendations in the report of the Space Commission submitted to Congress pursuant to Pub. L. 106–65, § 1623, formerly set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111), that were applicable to the Department of Defense, and to submit reports to committees of Congress, not later than Feb. 15, 2002, and Feb. 15, 2003, setting forth the results of the assessment.
+
+
+<a id="section-2271a"></a>
+## § 2271a. Space Contractor Responsibility Watch List
+**(a) Establishment.—** The Assistant Secretary of the Air Force for Space Acquisition and Integration, acting as the service acquisition executive for the Air Force for space systems and programs, shall maintain a list of contractors with a history of poor performance on space procurement contracts.
+
+**(b) Basis for Inclusion on Watch List.—**
+
+(1) The Assistant Secretary shall place a contractor, which may consist of the entire contracting entity or a specific division of the contracting entity, on the watch list based on a determination made under paragraph (2).
+
+(2)
+
+  (A) In considering whether to place a contractor on the watch list, the Assistant Secretary shall determine whether there is evidence of any of the following:
+
+    (i) Poor performance on one or more space procurement contracts, or award fee scores below 50 percent.
+
+    (ii) Inadequate management, operational or financial controls, or resources.
+
+    (iii) Inadequate security controls or resources, including unremediated vulnerabilities arising from foreign ownership, control, or influence.
+
+    (iv) Any other failure of controls or performance of a nature so serious or compelling as to warrant placement of the contractor on the watch list.
+
+  (B) If the Assistant Secretary determines, based on evidence described in any of clauses (i) through (iv) of subparagraph (A), that the ability of a contractor to responsibly perform is meaningfully impaired, the Assistant Secretary shall place the contractor on the watch list.
+
+  (C) The Assistant Secretary shall establish written policies for the consideration of contractors for placement on the watch list, including policies that require that—
+
+    (i) contractors proposed for placement on the watch list shall be provided with notice and an opportunity to respond;
+
+    (ii) the basis for a final determination placing a contractor on the watch list shall be documented in writing; and
+
+    (iii) at the request of a contractor, the contractor shall be removed from the watch list if the Assistant Secretary determines that there is evidence that the issue resulting in placement on the list has been satisfactorily remediated.
+
+**(c) Effect of Listing.—**
+
+(1) The Assistant Secretary may not solicit an offer from, award a contract to, consent to a subcontract with, execute a grant, cooperative agreement, or other transaction with, or exercise an option on any space procurement contract with, an entity included on the watch list unless the Assistant Secretary makes a written determination that there is a compelling reason to do so.
+
+(2) Not later than 10 days after the Assistant Secretary makes a determination under paragraph (1), the Assistant Secretary shall notify the congressional defense committees and the Interagency Committee on Debarment and Suspension constituted under sections 4 and 5 of Executive Order 12549 (51 Fed. Reg. 6370; relating to debarment and suspension) of the determination.
+
+**(d) Limitation on Delegation.—** The Assistant Secretary may delegate the authority to make a determination under subsection (b)(2)(B) or subsection (c)(1) only if the following criteria are met:
+
+(1) The delegation is to the suspension and debarment official of the Air Force.
+
+(2) The delegation is made on a case-by-case basis.
+
+(3) Not later than seven days after the date on which such determination is made, the Assistant Secretary notifies the congressional defense committees of the delegation.
+
+**(e) Rule of Construction.—** Nothing in this section shall be construed as preventing the suspension or debarment of a contractor, but inclusion on the watch list shall not be construed as a punitive measure or de facto suspension or debarment of a contractor.
+
+**(f) Definitions.—** In this section:
+
+(1) The term “contract” includes a grant, cooperative agreement, or other transaction.
+
+(2) The term “contractor” means any individual or entity that enters into a contract.
+
+(3) The term “watch list” means the watch list maintained under subsection (a).
+
+### Statutory Notes
+
+#### Prior Provisions
+Provisions similar to those in this section were contained in Pub. L. 115–91, div. A, title XVI, § 1612, Dec. 12, 2017, 131 Stat. 1729, which was set out in a note under [section 2271 of this title](./chapter-135-space-programs.md#section-2271), prior to repeal by Pub. L. 118–159, div. A, title XVI, § 1601(b), Dec. 23, 2024, 138 Stat. 2158.
 
 
 <a id="section-2272"></a>
@@ -198,7 +264,7 @@ Pub. L. 113–291, div. A, title XVI, § 1604, Dec. 19, 2014, 128 Stat. 3623, as
 
 <a id="section-2273a"></a>
 ## § 2273a. Space Rapid Capabilities Office
-**(a) In General.—** There is within the Space Force a program office known as the Space Rapid Capabilities Office (in this section referred to as the “Office”). The facilities of the Office may not be co-located with the headquarters facilities of the Air Force Space and Missile Systems Center.
+**(a) In General.—** There is within the Space Force a program office known as the Space Rapid Capabilities Office (in this section referred to as the “Office”). The facilities of the Office may not be co-located with the headquarters facilities of the Space Force Space Systems Command.
 
 **(b) Head of Office.—** The head of the Office shall be the designee of the Secretary of the Air Force. The head of the Office shall report to the Chief of Space Operations.
 
@@ -231,6 +297,8 @@ Pub. L. 113–291, div. A, title XVI, § 1604, Dec. 19, 2014, 128 Stat. 3623, as
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 substituted “Space Force Space Systems Command” for “Air Force Space and Missile Systems Center”.
+
 2021—Subsec. (d)(3). Pub. L. 116–283 struck out par. (3) which read as follows: “The Commander of the United States Space Command, or, if no such command exists, the Commander of the United States Strategic Command, shall—
 
 “(A) establish and validate capability requirements; and
@@ -360,95 +428,13 @@ Pub. L. 115–91, div. A, title XVI, § 1610, Dec. 12, 2017, 131 Stat. 1728, pro
 
 
 <a id="section-2275"></a>
-## § 2275. Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs
-**(a) Reports Required.—** The Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees a report on each major satellite acquisition program in accordance with subsection (d) that assesses—
-
-(1) the integration of the schedules for the acquisition and the delivery of the capabilities of the segments for the program; and
-
-(2) funding for the program.
-
-**(b) Elements.—** Each report required by subsection (a) with respect to a major satellite acquisition program shall include the following:
-
-(1) The amount of funding approved for the program and for each segment of the program that is necessary for full operational capability of the program.
-
-(2) The dates by which the program and each segment of the program is anticipated to reach initial and full operational capability.
-
-(3) A description of the intended primary capabilities and key performance parameters of the program.
-
-(4) An assessment of the extent to which the schedules for the acquisition and the delivery of the capabilities of the segments for the program or any related program referred to in paragraph (1) are integrated.
-
-(5) If the Under Secretary determines pursuant to the assessment under paragraph (4) that the program is a non-integrated program, an identification of—
-
-  (A) the impact on the mission of the program of having the delivery of the segment capabilities of the program more than one year apart;
-
-  (B) the measures the Under Secretary is taking or is planning to take to improve the integration of the acquisition and delivery schedules of the segment capabilities; and
-
-  (C) the risks and challenges that impede the ability of the Department of Defense to fully integrate those schedules.
-
-**(c) Consideration by Milestone Decision Authority.—** The Milestone Decision Authority shall include the report required by subsection (a) with respect to a major satellite acquisition program as part of the documentation used to approve the acquisition of the program.
-
-**(d) Submittal of Reports.—**
-
-(1) In the case of a major satellite acquisition program initiated before January 2, 2013, the Under Secretary shall submit the report required by subsection (a) with respect to the program not later than one year after such date of enactment.11 See References in Text note below.
-
-(2) In the case of a major satellite acquisition program initiated on or after January 2, 2013, the Under Secretary shall submit the report required by subsection (a) with respect to the program at the time of the Milestone B approval of the program.
-
-**(e) Notification to Congress of Non-integrated Acquisition and Capability Delivery Schedules.—** If, after submitting the report required by subsection (a) with respect to a major satellite acquisition program, the Under Secretary determines that the program is a non-integrated program, the Under Secretary shall, not later than 30 days after making that determination, submit to the congressional defense committees a report—
-
-(1) notifying the committees of that determination; and
-
-(2) identifying—
-
-  (A) the impact on the mission of the program of having the delivery of the segment capabilities of the program more than one year apart;
-
-  (B) the measures the Under Secretary is taking or is planning to take to improve the integration of the acquisition and delivery schedules of the segment capabilities; and
-
-  (C) the risks and challenges that impede the ability of the Department of Defense to fully integrate those schedules.
-
-**(f) Annual Updates for Non-integrated Programs.—**
-
-(1) **Requirement.—** — For each major satellite acquisition program that the Under Secretary has determined under subsection (b)(5) or subsection (e) is a non-integrated program, the Under Secretary shall annually submit to Congress, at the same time the budget of the President for a fiscal year is submitted under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), an update to the report required by subsection (a) for such program.
-
-(2) **Termination of requirement.—** — The requirement to submit an annual report update for a program under paragraph (1) shall terminate on the date on which the Under Secretary submits to the congressional defense committees notice that the Under Secretary has determined that such program is no longer a non-integrated program, or on the date that is five years after the date on which the initial report update required under paragraph (1) is submitted, whichever is earlier.
-
-**(g) Definitions.—** In this section:
-
-(1) **Segments.—** — The term “segments”, with respect to a major satellite acquisition program, refers to any satellites acquired under the program and the ground equipment and user terminals necessary to fully exploit the capabilities provided by those satellites.
-
-(2) **Major satellite acquisition program.—** — The term “major satellite acquisition program” means a major defense acquisition program (as defined in [section 4201 of this title](./chapter-321-general-matters.md#section-4201)) for the acquisition of a satellite.
-
-(3) **Milestone b approval.—** — The term “Milestone B approval” has the meaning given that term in [section 4172(e)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4172/e/7&num=0&edition=prelim).
-
-(4) **Non-integrated program.—** — The term “non-integrated program” means a program with respect to which the schedules for the acquisition and the delivery of the capabilities of the segments for the program, or a related program that is necessary for the operational capability of the program, provide for the acquisition or the delivery of the capabilities of at least two of the three segments for the program or related program more than one year apart.
+## § 2275. Repealed. Pub. L. 118–159, div. A, title XVI, § 1603(b), Dec. 23, 2024, 138 Stat. 2160]
 
 ### Statutory Notes
 
-#### References in Text
-Such date of enactment, referred to in subsec. (d)(1), is a reference to the date of enactment of the National Defense Authorization Act for Fiscal Year 2013, Pub. L. 112–239, which was approved Jan. 2, 2013. Such reference was struck out by Pub. L. 113–291, § 1071(e)(3)(A), see 2014 Amendment note below.
+Section, added Pub. L. 112–239, div. A, title IX, § 911(a), Jan. 2, 2013, 126 Stat. 1870; amended Pub. L. 113–291, div. A, title X, § 1071(e)(3), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 116–92, div. A, title IX, § 902(29), Dec. 20, 2019, 133 Stat. 1546; Pub. L. 116–283, div. A, title XVIII, §§ 1845(c)(3), 1846(i)(5), Jan. 1, 2021, 134 Stat. 4247, 4252; Pub. L. 117–263, div. A, title XVI, § 1603, Dec. 23, 2022, 136 Stat. 2930; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(21), Dec. 22, 2023, 137 Stat. 684, related to reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs. See [section 2275c of this title](./chapter-135-space-programs.md#section-2275c).
 
-#### Prior Provisions
 A prior section 2275, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related to award of contracts and review of decisions, was repealed by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
-
-#### Amendments
-2023—Subsec. (g)(3). Pub. L. 118–31 substituted “section” for “sections”.
-
-2022—Subsec. (f)(3). Pub. L. 117–263 struck out par. (3). Text read as follows: “If at the time of the termination of the requirement to annually update a report for a program under paragraph (1) the Under Secretary has not provided notice to the congressional defense committees that the Under Secretary has determined that the program is no longer a non-integrated program, the Comptroller General shall conduct a review of such program and submit the results of such review to the congressional defense committees.”
-
-2021—Subsec. (g)(2). Pub. L. 116–283, § 1846(i)(5), substituted “section 4201” for “section 2430”.
-
-Subsec. (g)(3). Pub. L. 116–283, § 1845(c)(3), substituted “sections 4172(e)(7)” for “section 2366(e)(7)”.
-
-2019—Subsec. (a). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics” in introductory provisions.
-
-2014—Subsec. (d)(1). Pub. L. 113–291, § 1071(e)(3)(A), substituted “before January 2, 2013” for “before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013”.
-
-Subsec. (d)(2). Pub. L. 113–291, § 1071(e)(3)(B), substituted “on or after January 2, 2013” for “on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013”.
-
-#### Effective Date of 2021 Amendment
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
-
-#### Termination of Reporting Requirements
-For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 
 <a id="section-2275a"></a>
@@ -463,7 +449,7 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 
 
 <a id="section-2275b"></a>
-## § 2275b. Requirements for appropriate classification guidance.11 So in original. The period probably should not appear.
+## § 2275b. Requirements for appropriate classification guidance
 **(a) In General.—** Before a space major defense acquisition program achieves Milestone B approval, or equivalent, the milestone decision authority shall determine whether the classification guidance for the program remains appropriate and—
 
 (1) if such guidance is determined to be appropriate, submit to the congressional defense committees a certification of such determination; or
@@ -477,6 +463,52 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 (2) The term “major defense acquisition program” has the meaning given such term in [section 4201 of this title](./chapter-321-general-matters.md#section-4201).
 
 (3) The term “space major defense acquisition program” means a major defense acquisition program for the acquisition of a satellite, ground system, or command and control system.
+
+### Statutory Notes
+
+#### Amendments
+2024—Pub. L. 118–159 struck out period at end of section catchline.
+
+
+<a id="section-2275c"></a>
+## § 2275c. Space Force satellite ground systems
+**(a) Requirement.—** The Assistant Secretary of the Air Force for Space Acquisitions and Integration, acting as the service acquisition executive for the Air Force for space systems and programs, may not authorize a launch associated with a Space Force satellite acquisition program unless—
+
+(1) the associated ground systems and modifications are completed and ready for operation at the time of the launch; and
+
+(2) the applicable satellite capabilities may be used on completion of the launch.
+
+**(b) Waiver.—**
+
+(1) The Secretary of the Air Force may waive the requirement under subsection (a) if the Secretary determines that such waiver is necessary for reasons of national security.
+
+(2) Not later than 10 days after making a waiver under paragraph (1), the Secretary shall notify the congressional defense committees of such waiver.
+
+### Statutory Notes
+
+#### Prior Provisions
+Provisions requiring reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs were contained in [section 2275 of this title](./chapter-135-space-programs.md#section-2275), prior to repeal by Pub. L. 118–159, div. A, title XVI, § 1603(b), Dec. 23, 2024, 138 Stat. 2160.
+
+
+<a id="section-2275d"></a>
+## § 2275d. Acquisition and operation of space systems for space warfighting and control
+**(a) Requirement.—** The Secretary of Defense shall acquire and operate space systems to be used primarily for space warfighting and control to meet the requirements specified by one or more combatant commanders in carrying out the responsibilities set forth in [section 164 of this title](./chapter-006-combatant-commands.md#section-164).
+
+**(b) Role of Commercial Space Systems.—** The Secretary may use one or more commercial space systems to augment the space systems acquired and operated under subsection (a) if such commercial space systems are under the direction of a member of the armed forces with responsibility for space warfighting and control operations.
+
+**(c) National Security Waiver.—**
+
+(1) The Secretary may waive the application of subsection (a) if the Secretary determines that such a waiver is in the national security interest of the United States.
+
+(2) Not later than 10 days after exercising the waiver authority under paragraph (1), the Secretary shall submit to the congressional defense committees a notification of the use of such authority that includes—
+
+  (A) a description of the national security interest upon which the exercise of such authority is based;
+
+  (B) the anticipated vulnerabilities to national security posed by the use of such waiver;
+
+  (C) identification of which operational commander will provide direction to the commercial space system that is used pursuant to the waiver instead of a system acquired and operated by the Secretary; and
+
+  (D) the anticipated duration of such waiver.
 
 
 <a id="section-2276"></a>
@@ -563,7 +595,9 @@ A prior section 2276, acts Aug. 10, 1956, ch. 1041, 70A Stat. 126; Sept. 7, 1962
 Pub. L. 118–31, div. A, title XVI, § 1610, Dec. 22, 2023, 137 Stat. 589, provided that: “(a) Plan for Threat Sharing With Commercial Space Operators.—The Assistant Secretary of the Air Force for Space Acquisition and Integration, in consultation with the Commander of the United States Space Command, shall develop and implement a plan to expand threat-sharing arrangements with commercial space operators that are under contract with the Department of Defense as of the date of the enactment of this Act [Dec. 22, 2023]. “(b) Report.—Not later than 180 days after the date of the enactment of this Act, the Assistant Secretary of the Air Force for Space Acquisition and Integration, in coordination with the Commander of the United States Space Command, shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the plan required under subsection (a).”
 
 #### National Security Space Launch Program
-Pub. L. 117–81, div. A, title XVI, § 1601(b), (c), (e), Dec. 27, 2021, 135 Stat. 2073–2075, provided that: “(b) Policy.—With respect to entering into contracts for launch services during the period beginning on the date of the enactment of this Act [Dec. 27, 2021] and ending September 30, 2024, it shall be the policy of the Department of Defense and the National Reconnaissance Office to—“(1) use the National Security Space Launch program to the extent practical to procure launch services only from launch service providers that can meet Federal requirements with respect to delivering required payloads to reference orbits covered under the requirements of phase two; and “(2) maximize continuous competition for launch services as the Space Force initiates planning for phase three, specifically for those technology areas that are unique to existing and emerging national security requirements. “(c) Notification.—If the Secretary of Defense or the Director of the National Reconnaissance Office determines that a program requiring launch services that could be met using phase two contracts will instead use an alternative launch procurement approach, not later than seven days after the date of such determination, the Secretary of Defense or, as appropriate, the Director of National Intelligence, shall submit to the appropriate congressional committees—“(1) a notification of such determination; “(2) a certification that the alternative launch procurement approach is in the national security interest of the United States; and “(3) an outline of the cost analysis and any other rationale for such determination. “(e) Definitions.—In this section:“(1) The term ‘appropriate congressional committees’ means—“(A) the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; and “(B) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate. “(2) The term ‘phase three’ means, with respect to the National Security Space Launch program, launch missions ordered under the program after fiscal year 2024. “(3) The term ‘phase two’ means, with respect to the National Security Space Launch program, launch missions ordered under the program during fiscal years 2020 through 2024.”
+Pub. L. 118–159, div. A, title XVI, § 1605(b), (c), Dec. 23, 2024, 138 Stat. 2161, provided that: “(b) Notification of Changes in Phase Three Acquisition Strategy.—Not later than seven days before implementing any modification to the final phase three acquisition strategy under the National Security Space Launch program, the Assistant Secretary of the Air Force for Space Acquisition and Integration shall submit to the appropriate congressional committees notice of the proposed modification together with an explanation of the reasons for such modification. “(c) Definitions.—In this section:“(1) The term ‘appropriate congressional committees’ means—“(A) the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; and “(B) the congressional intelligence committees (as defined in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim))). “(2) The term ‘final phase three acquisition strategy’ means the acquisition strategy for phase three of the National Security Space Launch program, as approved by the Assistant Secretary of the Air Force for Space Acquisition and Integration on March 4, 2024. “(3) The term ‘phase three’ has the meaning given that term in section 1601(e) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 118–71 [probably should be 117–81]; [10 U.S.C. 2276](./chapter-135-space-programs.md#section-2276) note) [set out below].”
+
+Pub. L. 117–81, div. A, title XVI, § 1601(b), (c), (e), Dec. 27, 2021, 135 Stat. 2073–2075, as amended by Pub. L. 118–159, div. A, title XVI, § 1605(a), Dec. 23, 2024, 138 Stat. 2161, provided that: “(b) Policy.—With respect to entering into contracts for launch services during the period beginning on the date of the enactment of this Act [Dec. 27, 2021] and ending September 30, 2029, it shall be the policy of the Department of Defense and the National Reconnaissance Office to—“(1) use the National Security Space Launch program to the extent practical to procure launch services only from launch service providers that can meet Federal requirements with respect to delivering required payloads to reference orbits covered under the requirements of phase two; and “(2) maximize continuous competition for launch services as the Space Force initiates planning for phase three, specifically for those technology areas that are unique to existing and emerging national security requirements. “(c) Notification.—If the Secretary of Defense or the Director of the National Reconnaissance Office determines that a program requiring launch services that could be met using the National Security Space Launch program will instead use an alternative launch procurement approach, not later than seven days after the date of such determination, the Secretary of Defense or, as appropriate, the Director of National Intelligence, shall submit to the appropriate congressional committees—“(1) a notification of such determination; “(2) a certification that the alternative launch procurement approach is in the national security interest of the United States; and “(3) an outline of the cost analysis and any other rationale for such determination. “(e) Definitions.—In this section:“(1) The term ‘appropriate congressional committees’ means—“(A) the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; and “(B) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate. “(2) The term ‘phase three’ means, with respect to the National Security Space Launch program, launch missions ordered under the program after fiscal year 2024. “(3) The term ‘phase two’ means, with respect to the National Security Space Launch program, launch missions ordered under the program during fiscal years 2020 through 2024.”
 
 
 <a id="section-2276a"></a>
@@ -584,13 +618,19 @@ Pub. L. 117–81, div. A, title XVI, § 1601(b), (c), (e), Dec. 27, 2021, 135 St
 
 (4) **Regulations.—** — The Secretary of each of the military departments shall prescribe regulations to carry out this subsection.
 
-**(c) Definitions.—** In this section:
+**(c) Noise Mitigation at Space Force Launch Sites.—** In providing space launch support services to a commercial entity, the Secretary of the Air Force shall coordinate with the entity to—
+
+(1) study the noise caused by launches at launch sites of the Space Force; and
+
+(2) identify potential technologies and procedures to mitigate such noise to the extent practicable.
+
+**(d) Definitions.—** In this section:
 
 (1) **Space launch.—** — The term “space launch” includes all activities, supplies, equipment, facilities, or services supporting launch preparation, launch, reentry, recovery, and other launch-related activities for both the payload and the space transportation vehicle.
 
 (2) **Commercial entity.—** — The term “commercial entity” or “commercial” means a non-Federal entity organized under the laws of the United States or of any jurisdiction within the United States.
 
-**(d) Transition Limitations and Reporting Requirements.—** For each of fiscal years 2024, 2025, and 2026, the Secretary of a military department shall—
+**(e) Transition Limitations and Reporting Requirements.—** For each of fiscal years 2024, 2025, and 2026, the Secretary of a military department shall—
 
 (1) with respect to any contract or other transaction authority entered into pursuant to subsection (b), limit the amount of the indirect costs that are reimbursable under paragraph (2)(B) of such subsection to not more than 30 percent, not to exceed $5,000,000 annually (based on fiscal year 2024 constant dollars), of the total amount of the direct costs reimbursable under paragraph (2)(A) of such subsection; and
 
@@ -601,6 +641,11 @@ Pub. L. 117–81, div. A, title XVI, § 1601(b), (c), (e), Dec. 27, 2021, 135 St
   (B) a description of the support provided by reimbursed indirect costs for the fiscal year covered by the report; and
 
   (C) an identification of the rate, fixed price, or similar mechanism, if any, used to calculate the amount of the indirect costs that are reimbursable for the fiscal year following the fiscal year covered by the report.
+
+### Statutory Notes
+
+#### Amendments
+2025—Subsecs. (c) to (e). Pub. L. 119–60 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 
 <a id="section-2277"></a>
@@ -625,11 +670,19 @@ Another prior section 2277, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related 
 
 <a id="section-2278"></a>
 ## § 2278. Notification of foreign interference of national security space
-**(a) Notice Required.—** The Commander of the United States Space Command shall, with respect to each intentional attempt by a foreign actor to disrupt, degrade, or destroy a United States national security space capability, provide to the appropriate congressional committees—
+**(a) Notice Required.—**
 
-(1) not later than 48 hours after the Commander determines that there is reason to believe such attempt occurred, notice of such attempt; and
+(1) Except as provided by paragraph (2), the Commander of the United States Space Command shall, with respect to each intentional attempt by a foreign actor to disrupt, degrade, or destroy a United States critical national security space capability, provide to the appropriate congressional committees—
 
-(2) not later than 10 days after the date on which the Commander determines that there is reason to believe such attempt occurred, a notification described in subsection (b) with respect to such attempt.
+  (A) not later than 48 hours after the Commander determines that there is reason to believe such attempt occurred, notice of such attempt; and
+
+  (B) not later than 10 days after the date on which the Commander determines that there is reason to believe such attempt occurred, a notification described in subsection (b) with respect to such attempt.
+
+(2) With respect to intentional attempts by a foreign actor to disrupt, degrade, or destroy a United States critical national security space capability that are continuous or repetitive in nature, the Commander shall—
+
+  (A) provide the notice and notification regarding the first attempt by such foreign actor in accordance with paragraph (1); and
+
+  (B) during the period in which such foreign actor continues or repeats such attempts, provide to the appropriate congressional committees a consolidated monthly notice and notification of such attempts by not later than the tenth day of each month following the month in which the first notice under paragraph (1) was provided.
 
 **(b) Notification Description.—** A notification described in this subsection is a written notification that includes—
 
@@ -639,11 +692,15 @@ Another prior section 2277, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related 
 
 (3) any other information the Commander considers relevant.
 
-**(c) Appropriate Congressional Committees Defined.—** In this section, the term “appropriate congressional committees” means—
+**(c) Definitions.—** In this section:
 
-(1) the congressional defense committees; and
+(1) The term “appropriate congressional committees” means the following:
 
-(2) with respect to a notice or notification related to an attempt by a foreign actor to disrupt, degrade, or destroy a United States national security space capability that is intelligence-related, the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+  (A) The congressional defense committees.
+
+  (B) With respect to a notice or notification relating to an attempt by a foreign actor to disrupt, degrade, or destroy a capability that is intelligence-related, the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+
+(2) The term “United States critical national security space capability” means a national security space capability of the United States provided by an asset on the critical asset list established by the Commander of the United States Space Command pursuant to Department of Defense Directive 3020.40, Department of Defense Instruction 3020.45, Joint Publication 3-01 of the Joint Chiefs of Staff, or such other relevant requirements of the Department of Defense.
 
 ### Statutory Notes
 
@@ -651,6 +708,14 @@ Another prior section 2277, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related 
 A prior section 2278, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to purchases of sample aircraft, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159, § 1604(1), designated introductory provisions as par. (1), substituted “Except as provided by paragraph (2), the Commander of the United States Space Command” for “The Commander of the United States Space Command”, inserted “critical” before “national security space capability”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+
+Subsec. (c). Pub. L. 118–159, § 1604(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “In this section, the term ‘appropriate congressional committees’ means—
+
+“(1) the congressional defense committees; and
+
+“(2) with respect to a notice or notification related to an attempt by a foreign actor to disrupt, degrade, or destroy a United States national security space capability that is intelligence-related, the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.”
+
 2021—Subsec. (a). Pub. L. 116–283 substituted “Space Command” for “Strategic Command”.
 
 

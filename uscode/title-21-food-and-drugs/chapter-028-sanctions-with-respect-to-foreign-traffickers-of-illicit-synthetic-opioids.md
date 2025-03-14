@@ -63,7 +63,23 @@ In this chapter:
 
 (4) **Entity** — The term “entity” means a partnership, joint venture, association, corporation, organization, network, group, or subgroup, or any form of business collaboration.
 
-(5) **Foreign opioid trafficker** — The term “foreign opioid trafficker” means any foreign person that the President determines plays a significant role in opioid trafficking.
+(5) **Foreign opioid trafficker** — The term “foreign opioid trafficker” means— 11 So in original.
+
+  (A) means 1 any foreign person that the President determines plays a significant role in opioid trafficking; and
+
+  (B) may 1 include—
+
+    (i) any entity of the People’s Republic of China that the President determines—
+
+      (I) produces, manufactures, distributes, sells, or knowingly finances or transports any goods described in clause (i) or (ii) of paragraph (8)(A); and
+
+      (II) demonstrates a pattern of failing to take credible steps (including implementing appropriate know-your-customer procedures or cooperating with United States counternarcotics efforts) to detect or prevent opioid trafficking; and
+
+    (ii) any senior official of the Government of the People’s Republic of China that—
+
+      (I) has significant regulatory or law enforcement responsibilities with respect to the activities of an entity described in clause (i); and
+
+      (II) aids and abets opioid trafficking.
 
 (6) **Foreign person** — The term “foreign person”—
 
@@ -106,8 +122,14 @@ In this chapter:
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title LXXII of div. F of Pub. L. 116–92, Dec. 20, 2019, 133 Stat. 2262, known as the Fentanyl Sanctions Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of this title](./chapter-028-sanctions-with-respect-to-foreign-traffickers-of-illicit-synthetic-opioids.md#section-2301) and Tables.
 
+#### Amendments
+2025—Par. (5). Pub. L. 119–60 designated existing provisions as subpar. (A) and added subpar. (B).
+
 #### Change of Name
 Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
+#### Rule of Construction Regarding the Use of Military Force
+Pub. L. 119–60, div. H, title LXXXIII, § 8320, Dec. 18, 2025, 139 Stat. 1863, provided that: “Nothing in this subtitle [subtitle B (§§ 8311–8320) of title LXXXIII of div. H of Pub. L. 119–60, amending this section, sections 2311 and 2312 of this title, and [section 2291h of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291h&num=0&edition=prelim), Foreign Relations and Intercourse, enacting provisions set out as notes under [section 2313 of this title](./chapter-028-sanctions-with-respect-to-foreign-traffickers-of-illicit-synthetic-opioids.md#section-2313), [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim), and [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense, and amending provisions set out as a note under [section 2291 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291&num=0&edition=prelim)], or the amendments made by this subtitle, may be construed as authorizing the use of military force.”
 
 
 <a id="section-2313"></a>
@@ -118,15 +140,37 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
   (A) identifying the foreign persons that the President determines are foreign opioid traffickers;
 
-  (B) detailing progress the President has made in implementing this subchapter; and
+  (B) detailing progress the President has made in implementing this subchapter;
 
-  (C) providing an update on cooperative efforts with the governments of Mexico, the People’s Republic of China, and other countries of concern with respect to combating foreign opioid traffickers.
+  (C) providing an update on cooperative efforts with the governments of Mexico, the People’s Republic of China, and other countries of concern with respect to combating foreign opioid traffickers; and
+
+  (D) assessing whether any senior official of any anti-narcotics, regulatory, law enforcement, intelligence, or customs body of the People’s Republic of China—
+
+    (i) has directly or indirectly taken actions that have facilitated or advanced foreign opioid trafficking; and
+
+    (ii) should be identified as a foreign opioid trafficker.
 
 (2) **Identification of additional persons** — If, at any time after submitting a report required by paragraph (1) and before the submission of the next such report, the President determines that a foreign person not identified in the report is a foreign opioid trafficker, the President shall submit to the appropriate congressional committees and leadership an additional report containing the information required by paragraph (1) with respect to the foreign person.
 
-(3) **Exclusion** — The President shall not be required to include in a report under paragraph (1) or (2) any persons with respect to which the United States has imposed sanctions before the date of the report under this subchapter or any other provision of law with respect to opioid trafficking.
+(3) **Prioritization**
 
-(4) **Form of report**
+  (A) *Defined term* — In this paragraph, the term “person of the People’s Republic of China” means—
+
+    (i) an individual who is a citizen or national of the People’s Republic of China; or
+
+    (ii) an entity organized under the laws of the People’s Republic of China or otherwise subject to the jurisdiction of the Government of the People’s Republic of China.
+
+  (B) *In general* — In preparing the report required under paragraph (1), the President shall direct the Secretary of the Treasury to prioritize, to the greatest extent practicable, the identification of persons of the People’s Republic of China involved in the shipment of fentanyl, fentanyl analogues, fentanyl precursors, precursors for fentanyl analogues, pre-precursors for fentanyl and fentanyl analogues, and equipment for the manufacturing of fentanyl and fentanyl-laced counterfeit pills to Mexico or any other country that is involved in the production of fentanyl trafficked into the United States, including—
+
+    (i) any entity involved in the production of pharmaceuticals; and
+
+    (ii) any person that is acting on behalf of any such entity.
+
+  (C) *Termination of prioritization* — The President shall continue the prioritization required under subparagraph (B) until the President certifies to the appropriate congressional committees that the People’s Republic of China is no longer the primary source for the shipment of fentanyl, fentanyl analogues, fentanyl precursors, precursors for fentanyl analogues, pre-precursors for fentanyl and fentanyl analogues, and equipment for the manufacturing of fentanyl and fentanyl-laced counterfeit pills to Mexico or any other country that is involved in the production of fentanyl trafficked into the United States.
+
+(4) **Exclusion** — The President shall not be required to include in a report under paragraph (1) or (2) any persons with respect to which the United States has imposed sanctions before the date of the report under this subchapter or any other provision of law with respect to opioid trafficking.
+
+(5) **Form of report**
 
   (A) *In general* — Each report required by paragraph (1) or (2) shall be submitted in unclassified form but may include a classified annex.
 
@@ -146,7 +190,7 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 (2) **Effect on other reporting requirements** — The report required by paragraph (1) is in addition to, and in no way delimits or restricts, the obligations of the President to keep Congress fully and currently informed pursuant to the provisions of the National Security Act of 1947 ([50 U.S.C. 3001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim) et seq.).
 
-**(c) Submission of reports** Not later than 180 days after December 20, 2019, and annually thereafter until the date that is 5 years after December 20, 2019, the President shall submit the reports required by subsections (a) and (b) to the appropriate congressional committees and leadership.
+**(c) Submission of reports** Not later than 180 days after December 20, 2019, and annually thereafter until December 31, 2030, the President shall submit the reports required by subsections (a) and (b) to the appropriate congressional committees and leadership.
 
 **(d) Exclusion of certain information**
 
@@ -174,6 +218,13 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 This subchapter, referred to in subsecs. (a)(1)(B), (3) and (b)(1)(A), (C), was in the original “this subtitle”, meaning subtitle A (§§ 7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
 The National Security Act of 1947, referred to in subsec. (b)(2), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§ 3001 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+2025—Subsec. (a)(1)(D). Pub. L. 119–60, § 8315(1)(A), added subpar. (D).
+
+Subsec. (a)(3) to (5). Pub. L. 119–60, § 8315(1)(B), (C), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
+Subsec. (c). Pub. L. 119–60, § 8315(2), substituted “December 31, 2030” for “the date that is 5 years after December 20, 2019”.
 
 #### Delegation of Certain Functions and Authorities Under the National Defense Authorization Act for Fiscal Year 2020
 Memorandum of President of the United States, Mar. 31, 2020, 85 F.R. 22343, provided:
@@ -236,11 +287,22 @@ Donald J. Trump.
 
 The President shall impose five or more of the sanctions described in [section 2313 of this title](./chapter-028-sanctions-with-respect-to-foreign-traffickers-of-illicit-synthetic-opioids.md#section-2313) with respect to each foreign person that is an entity, and four or more of such sanctions with respect to each foreign person that is an individual, that—
 
-(1) is identified as a foreign opioid trafficker in a report submitted under [section 2311(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section2311/a&num=0&edition=prelim); or
+(1) is identified as a foreign opioid trafficker in a report submitted under [section 2311(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section2311/a&num=0&edition=prelim);
 
-(2) the President determines is owned, controlled, directed by, knowingly supplying or sourcing precursors for, or knowingly acting for or on behalf of, such a foreign opioid trafficker.
+(2) the President determines is owned, controlled, directed by, knowingly supplying or sourcing precursors for, or knowingly acting for or on behalf of, such a foreign opioid trafficker;
+
+(3) the President determines has knowingly engaged in, on or after December 18, 2025, a pattern of significant activity that has materially contributed to opioid trafficking; or
+
+(4) the President determines—
+
+  (A) has knowingly engaged in a pattern of providing significant financial, material, or technological support for, including through the provision of goods or services in support of, any activity or transaction described in paragraph (3); or
+
+  (B) is owned, controlled, or directed by any foreign person described in subparagraph (A) or in paragraph (3), or has knowingly acted or purported to act for or on behalf of, directly or indirectly, such a foreign person.
 
 ### Statutory Notes
+
+#### Amendments
+2025—Pars. (3), (4). Pub. L. 119–60 added pars. (3) and (4).
 
 #### Delegation of Functions
 Functions and authorities of President under this section delegated to Secretary of the Treasury, in consultation with the Secretary of State, by section 1(d)(v) of Memorandum of President of the United States, Mar. 31, 2020, 85 F.R. 22343, set out as a note under [section 2311 of this title](./chapter-028-sanctions-with-respect-to-foreign-traffickers-of-illicit-synthetic-opioids.md#section-2311).
@@ -297,6 +359,9 @@ Functions and authorities of President under this section delegated to Secretary
 
 #### References in Text
 The National Security Act of 1947, referred to in subsec. (c)(1)(A), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+
+#### Imposition of Sanctions With Respect to Agencies or Instrumentalities of Foreign States
+Pub. L. 119–60, div. H, title LXXXIII, § 8317, Dec. 18, 2025, 139 Stat. 1858, provided that: “(a) Definitions.—In this section, the terms ‘knowingly’ and ‘opioid trafficking’ have the meanings given such terms in section 7203 of the Fentanyl Sanctions Act ([21 U.S.C. 2302](./chapter-028-sanctions-with-respect-to-foreign-traffickers-of-illicit-synthetic-opioids.md#section-2302)). “(b) In General.—The President may—“(1) impose one or more of the sanctions described in section 7213 of the Fentanyl Sanctions Act ([21 U.S.C. 2313](./chapter-028-sanctions-with-respect-to-foreign-traffickers-of-illicit-synthetic-opioids.md#section-2313)) with respect to any political subdivision, agency, or instrumentality of a foreign government that the President determines has knowingly, on or after the date of the enactment of this Act [Dec. 18, 2025]—“(A) engaged in a significant activity that has materially contributed to opioid trafficking; or “(B) provided financial, material, or technological support for (including through the provision of goods or services in support of) any significant activity described in subclause (A); and “(2) impose one or more of the sanctions described in section 7213(a)(6) of the Fentanyl Sanctions Act ([21 U.S.C. 2313(a)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section2313/a/6&num=0&edition=prelim)) with respect to any senior official of a political subdivision, agency, or instrumentality of a foreign government that the President determines has knowingly, on or after the date of the enactment of this Act engaged in a significant activity described in paragraph (1). “(c) Sunset.—The provisions of this section shall have no force or effect beginning on the date that is 5 years after the date of the enactment of this Act.”
 
 #### Delegation of Functions
 Functions and authorities of President under subsections (a)(4) to (9) and (d) of this section delegated to Secretary of the Treasury, in consultation with the Secretary of State, by section 1(d)(vi) and (vii) of Memorandum of President of the United States, Mar. 31, 2020, 85 F.R. 22343, set out as a note under [section 2311 of this title](./chapter-028-sanctions-with-respect-to-foreign-traffickers-of-illicit-synthetic-opioids.md#section-2311).

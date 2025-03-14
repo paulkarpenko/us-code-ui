@@ -2,7 +2,7 @@
 title: 16
 chapter: '87'
 heading: FEDERAL LANDS RECREATION ENHANCEMENT
-section_count: 14
+section_count: 15
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -11,42 +11,134 @@ source: >-
 
 In this chapter:
 
-(1) **Standard amenity recreation fee** — The term “standard amenity recreation fee” means the recreation fee authorized by [section 6802(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6802/f&num=0&edition=prelim).
+(1) **Entrance fee** — The term “entrance fee” means the recreation fee authorized to be charged to enter onto lands managed by the National Park Service or the United States Fish and Wildlife Service.
 
 (2) **Expanded amenity recreation fee** — The term “expanded amenity recreation fee” means the recreation fee authorized by [section 6802(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6802/g&num=0&edition=prelim).
 
-(3) **Entrance fee** — The term “entrance fee” means the recreation fee authorized to be charged to enter onto lands managed by the National Park Service or the United States Fish and Wildlife Service.
+(3) **Federal land management agency** — The term “Federal land management agency” means the National Park Service, the United States Fish and Wildlife Service, the Bureau of Land Management, the Bureau of Reclamation, or the Forest Service.
 
-(4) **Federal land management agency** — The term “Federal land management agency” means the National Park Service, the United States Fish and Wildlife Service, the Bureau of Land Management, the Bureau of Reclamation, or the Forest Service.
+(4) **Federal recreational lands and waters** — The term “Federal recreational lands and waters” means lands or waters managed by a Federal land management agency.
 
-(5) **Federal recreational lands and waters** — The term “Federal recreational lands and waters” means lands or waters managed by a Federal land management agency.
+(5) **National Parks and Federal Recreational Lands Pass** — The term “National Parks and Federal Recreational Lands Pass” means the interagency national pass authorized by [section 6804 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6804).
 
-(6) **National Parks and Federal Recreational Lands Pass** — The term “National Parks and Federal Recreational Lands Pass” means the interagency national pass authorized by [section 6804 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6804).
+(6) **Passholder** — The term “passholder” means the person who is issued a recreation pass.
 
-(7) **Passholder** — The term “passholder” means the person who is issued a recreation pass.
+(7) **Recreation fee** — The term “recreation fee” means an entrance fee, standard amenity recreation fee, expanded amenity recreation fee, or special recreation permit fee.
 
-(8) **Recreation fee** — The term “recreation fee” means an entrance fee, standard amenity recreation fee, expanded amenity recreation fee, or special recreation permit fee.
+(8) **Recreation pass** — The term “recreation pass” means the National Parks and Federal Recreational Lands Pass or one of the other recreation passes available as authorized by [section 6804 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6804).
 
-(9) **Recreation pass** — The term “recreation pass” means the National Parks and Federal Recreational Lands Pass or one of the other recreation passes available as authorized by [section 6804 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6804).
+(9) **Recreation service provider** — The term “recreation service provider” means a person that provides recreational services to the public under a special recreation permit under clause (iii) or (iv) of paragraph (13)(A).
 
-(10) **Secretary** — The term “Secretary” means—
+(10) **Secretaries** — The term “Secretaries” means the Secretary of the Interior and the Secretary of Agriculture acting jointly.
+
+(11) **Secretary** — The term “Secretary” means—
 
   (A) the Secretary of the Interior, with respect to a Federal land management agency (other than the Forest Service); and
 
   (B) the Secretary of Agriculture, with respect to the Forest Service.
 
-(11) **Secretaries** — The term “Secretaries” means the Secretary of the Interior and the Secretary of Agriculture acting jointly.
-
 (12) **Special account** — The term “special account” means the special account established in the Treasury under [section 6806 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6806) for a Federal land management agency.
 
-(13) **Special recreation permit fee** — The term “special recreation permit fee” means the fee authorized by [section 6802(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6802/h&num=0&edition=prelim).
+(13) **Special recreation permit**
+
+  (A) *In general* — The term “special recreation permit” means a permit issued by a Federal land management agency for the use of Federal recreational lands and waters—
+
+    (i) for a specialized recreational use not described in clause (ii), (iii), or (iv), such as—
+
+      (I) an organizational camp;
+
+      (II) a single event that does not require an entry or participation fee that is not strictly a sharing of expenses for the purposes of the event; and
+
+      (III) participation by the public in a recreation activity or recreation use of a specific area of Federal recreational lands and waters in which use by the public is allocated;
+
+    (ii) for a large-group activity or event of 75 participants or more;
+
+    (iii) for—
+
+      (I) at the discretion of the Secretary, a single organized group recreation activity or event (including an activity or event in which motorized recreational vehicles are used or in which outfitting and guiding services are used) that—
+
+        (aa) is a structured or scheduled event or activity;
+
+        (bb) is not competitive and is for fewer than 75 participants;
+
+        (cc) may charge an entry or participation fee;
+
+        (dd) involves fewer than 200 visitor-use days; and
+
+        (ee) is undertaken or provided by the recreation service provider at the same site not more frequently than 3 times a year;
+
+      (II) a single competitive event; or
+
+      (III) at the discretion of the Secretary, a recurring organized group recreation activity (including an outfitting and guiding activity) that—
+
+        (aa) is a structured or scheduled activity;
+
+        (bb) is not competitive;
+
+        (cc) may charge a participation fee;
+
+        (dd) occurs in a group size of fewer than 7 participants;
+
+        (ee) involves fewer than 40 visitor-use days; and
+
+        (ff) is undertaken or provided by the recreation service provider for a term of not more than 180 days; or
+
+    (iv) for—
+
+      (I) a recurring outfitting, guiding, or, at the discretion of the Secretary, other recreation service, the authorization for which is for a term of not more than 10 years; or
+
+      (II) a recurring outfitting, guiding, or, at the discretion of the Secretary, other recreation service, that occurs under a temporary special recreation permit authorized under [section 8545 of this title](./chapter-103-expanding-public-lands-outdoor-recreation-experiences.md#section-8545).
+
+  (B) *Exclusions* — The term “special recreation permit” does not include—
+
+    (i) a concession contract for the provision of accommodations, facilities, or services;
+
+    (ii) a commercial use authorization issued under [section 101925 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section101925&num=0&edition=prelim); or
+
+    (iii) any other type of permit, including a special use permit administered by the National Park Service.
+
+(14) **Special recreation permit fee** — The term “special recreation permit fee” means the fee authorized by [section 6802(h)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6802/h/2&num=0&edition=prelim).
+
+(15) **Standard amenity recreation fee** — The term “standard amenity recreation fee” means the recreation fee authorized by [section 6802(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6802/f&num=0&edition=prelim).
+
+(16) **State** — The term “State” means each of the several States, the District of Columbia, and each territory of the United States.
 
 ### Statutory Notes
 
-#### References in Text
-This chapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out below and Tables.
+#### Amendments
+2025—Pub. L. 118–234, § 311(a)(1), made technical amendment to reference in original act which appears in introductory provisions as reference to this chapter.
 
-Sections 6802, 6804 and 6806 of this title, referred to in text, were in the original references to sections 3, 5 and 7, respectively, and were translated as meaning sections 803, 805 and 807, respectively, of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
+Par. (1). Pub. L. 118–234, § 311(a)(8), redesignated par. (3) as (1). Former par. (1) redesignated (15).
+
+Pub. L. 118–234, § 311(a)(2), prior to redesignation of par. (1) as (15), made technical amendment to reference in original act which appears in text as reference to [section 6802(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6802/f&num=0&edition=prelim).
+
+Par. (2). Pub. L. 118–234, § 311(a)(3), made technical amendment to reference in original act which appears in text as reference to [section 6802(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6802/g&num=0&edition=prelim).
+
+Pars. (3) to (5). Pub. L. 118–234, § 311(a)(8), redesignated pars. (4) to (6) as (3) to (5), respectively. Former par. (3) redesignated (1).
+
+Par. (6). Pub. L. 118–234, § 311(a)(8), redesignated par. (7) as (6). Former par. (6) redesignated (5).
+
+Pub. L. 118–234, § 311(a)(4), prior to redesignation of par. (6) as (5), made technical amendment to reference in original act which appears in text as reference to [section 6804 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6804).
+
+Pars. (7), (8). Pub. L. 118–234, § 311(a)(8), redesignated pars. (8) and (9) as (7) and (8), respectively. Former par. (7) redesignated (6).
+
+Par. (9). Pub. L. 118–234, § 311(a)(9), added par. (9). Former par. (9) redesignated (8).
+
+Pub. L. 118–234, § 311(a)(5), prior to redesignation of par. (9) as (8), made technical amendment to reference in original act which appears in text as reference to [section 6804 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6804).
+
+Pars. (10), (11). Pub. L. 118–234, § 311(a)(8), redesignated pars. (10) and (11) as (11) and (10), respectively.
+
+Par. (12). Pub. L. 118–234, § 311(a)(6), made technical amendment to reference in original act which appears in text as reference to [section 6806 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6806).
+
+Par. (13). Pub. L. 118–234, § 311(a)(10), added par. (13). Former par. (13) redesignated (14).
+
+Pub. L. 118–234, § 311(a)(7), prior to redesignation of par. (13) as (14), substituted “[section 6802(h)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6802/h/2&num=0&edition=prelim)” for “[section 6802(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6802/h&num=0&edition=prelim)”.
+
+Par. (14). Pub. L. 118–234, § 311(a)(8), redesignated par. (13) as (14).
+
+Par. (15). Pub. L. 118–234, § 311(a)(8), redesignated par. (1) as (15).
+
+Par. (16). Pub. L. 118–234, § 311(a)(11), added par. (16).
 
 #### Short Title of 2020 Amendment
 Pub. L. 116–205, § 1, Dec. 3, 2020, 134 Stat. 996, provided that: “This Act [amending [section 6804 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6804)] may be cited as the ‘Wounded Veterans Recreation Act’.”
@@ -221,18 +313,169 @@ Pub. L. 108–447, div. J, title VIII, § 801(a), Dec. 8, 2004, 118 Stat. 3377, 
 
     (vii) Swimming deck.
 
-**(h) Special recreation permit fee** The Secretary may issue a special recreation permit, and charge a special recreation permit fee in connection with the issuance of the permit, for specialized recreation uses of Federal recreational lands and waters, such as group activities, recreation events, motorized recreational vehicle use.
+**(h) Special recreation permits and fees**
+
+(1) **Special recreation permits**
+
+  (A) *Applications* — The Secretary—
+
+    (i) may develop and make available to the public an application to obtain a special recreation permit described in clause (i) of [section 6801(13)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6801/13/A&num=0&edition=prelim); and
+
+    (ii) shall develop and make available to the public an application to obtain a special recreation permit described in each of clauses (ii) through (iv) of [section 6801(13)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6801/13/A&num=0&edition=prelim).
+
+  (B) *Issuance of permits* — On review of a completed application developed under subparagraph (A), as applicable, and a determination by the Secretary that the applicant is eligible for the special recreation permit, the Secretary may issue to the applicant a special recreation permit, subject to any terms and conditions that are determined to be necessary by the Secretary.
+
+  (C) *Incidental sales* — A special recreation permit issued under this paragraph may include an authorization for sales that are incidental in nature to the permitted use of the Federal recreational lands and waters, except where otherwise prohibited by law.
+
+(2) **Special recreation permit fees**
+
+  (A) *In general* — The Secretary may charge a special recreation permit fee for the issuance of a special recreation permit in accordance with this paragraph.
+
+  (B) *Predetermined special recreation permit fees*
+
+    (i) *In general* — For purposes of subparagraphs (D) and (E) of this paragraph, the Secretary shall establish and may charge a predetermined fee, described in clause (ii) of this subparagraph, for a special recreation permit described in clause (iii) or (iv) of [section 6801(13)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6801/13/A&num=0&edition=prelim) for a specific type of use on a unit of Federal recreational lands and waters, consistent with the criteria set forth in clause (iii) of this subparagraph.
+
+    (ii) *Type of fee* — A predetermined fee described in clause (i) shall be—
+
+      (I) a fixed fee that is assessed per special recreation permit, including a fee with an associated size limitation or other criteria as determined to be appropriate by the Secretary; or
+
+      (II) an amount assessed per visitor-use day.
+
+    (iii) *Criteria* — A predetermined fee under clause (i) shall—
+
+      (I) have been established before January 4, 2025;
+
+      (II) be established after January 4, 2025, in accordance with subsection (b);
+
+      (III)
+
+        (aa) be established after January 4, 2025; and
+
+        (bb) be comparable to an amount described in subparagraph (D)(ii) or (E)(ii), as applicable; or
+
+      (IV) beginning on the date that is 2 years after January 4, 2025, be $6 per visitor-use day in instances in which the Secretary has not established a predetermined fee under subclause (I), (II), or (III).
+
+  (C) *Calculation of fees for specialized recreational uses and large-group activities or events* — The Secretary may, at the discretion of the Secretary, establish and charge a fee for a special recreation permit described in clause (i) or (ii) of [section 6801(13)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6801/13/A&num=0&edition=prelim).
+
+  (D) *Calculation of fees for single organized group recreation activities or events, competitive events, and certain recurring organized group recreation activities* — If the Secretary elects to charge a fee for a special recreation permit described in [section 6801(13)(A)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6801/13/A/iii&num=0&edition=prelim), the Secretary shall charge the recreation service provider, based on the election of the recreation service provider—
+
+    (i) the applicable predetermined fee established under subparagraph (B); or
+
+    (ii) an amount equal to a percentage of, to be determined by the Secretary, but to not to exceed 5 percent of, adjusted gross receipts calculated under subparagraph (F).
+
+  (E) *Calculation of fees for temporary permits and long-term permits* — Subject to subparagraph (G), if the Secretary elects to charge a fee for a special recreation permit described in [section 6801(13)(A)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6801/13/A/iv&num=0&edition=prelim), the Secretary shall charge the recreation service provider, based on the election of the recreation service provider—
+
+    (i) the applicable predetermined fee established under subparagraph (B); or
+
+    (ii) an amount equal to a percentage of, to be determined by the Secretary, but not to exceed 3 percent of, adjusted gross receipts calculated under subparagraph (F).
+
+  (F) *Adjusted gross receipts* — For the purposes of subparagraphs (D)(ii) and (E)(ii), the Secretary shall calculate the adjusted gross receipts collected for each trip or event authorized under a special recreation permit, using either of the following calculations, based on the election of the recreation service provider:
+
+    (i) The sum of—
+
+      (I) the product obtained by multiplying—
+
+        (aa) the general amount paid by participants of the trip or event to the recreation service provider for the applicable trip or event (excluding amounts related to goods, souvenirs, merchandise, gear, and additional food provided or sold by the recreation service provider); and
+
+        (bb) the quotient obtained by dividing—
+
+          (AA) the number of days of the trip or event that occurred on Federal recreational lands and waters covered by the special recreation permit, rounded to the nearest whole day; by
+
+          (BB) the total number of days of the trip or event; and
+
+      (II) the amount of any additional revenue received by the recreation service provider for an add-on activity or an optional excursion that occurred on the Federal recreational lands and waters covered by the special recreation permit.
+
+    (ii) The difference between—
+
+      (I) the total cost paid by the participants of the trip or event for the trip or event to the recreation service provider, including any additional revenue received by the recreation service provider for an add-on activity or an optional excursion that occurred on the Federal recreational lands and waters covered by the special recreation permit; and
+
+      (II) the sum of—
+
+        (aa) the amount of any revenues from goods, souvenirs, merchandise, gear, and additional food provided or sold by the recreation service provider to the participants of the applicable trip or event;
+
+        (bb) the amount of any costs or revenues from services and activities provided or sold by the recreation service provider to the participants of the trip or event that occurred in a location other than the Federal recreational lands and waters covered by the special recreation permit (including costs for travel and lodging outside the Federal recreational lands and waters covered by the special recreation permit); and
+
+        (cc) the amount of any revenues from any service provided by a recreation service provider for an activity on Federal recreational lands and waters that is not covered by the special recreation permit.
+
+  (G) *Exception* — Notwithstanding subparagraph (E), the Secretary may charge a recreation service provider a minimum annual fee for a special recreation permit described in [section 6801(13)(A)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6801/13/A/iv&num=0&edition=prelim).
+
+  (H) *Savings clauses*
+
+    (i) *Effect* — Nothing in this paragraph affects any fee for—
+
+      (I) a concession contract administered by the National Park Service or the United States Fish and Wildlife Service for the provision of accommodations, facilities, or services; or
+
+      (II) a commercial use authorization or special use permit for use of Federal recreational lands and waters managed by the National Park Service.
+
+    (ii) *Cost recovery* — Nothing in this paragraph affects the ability of the Secretary to recover any administrative costs under [section 8549 of this title](./chapter-103-expanding-public-lands-outdoor-recreation-experiences.md#section-8549).
+
+    (iii) *Special recreation permit fees and other recreation fees* — The collection of a special recreation permit fee under this paragraph shall not affect the authority of the Secretary to collect an entrance fee, a standard amenity recreation fee, or an expanded amenity recreation fee authorized under subsections (e), (f), and (g).
+
+**(i) Disclosure of recreation fees and use of recreation fees**
+
+(1) **Notice of entrance fees, standard amenity recreation fees, expanded amenity recreation fees, and available recreation passes**
+
+  (A) *In general* — The Secretary shall post clear notice of any entrance fee, standard amenity recreation fee, expanded amenity recreation fee, and available recreation passes—
+
+    (i) at appropriate locations in each unit or area of Federal recreational land and waters at which an entrance fee, standard amenity recreation fee, or expanded amenity recreation fee is charged; and
+
+    (ii) on the appropriate website for such unit or area.
+
+  (B) *Publications* — The Secretary shall include in publications distributed at a unit or area or described in subparagraph (A) the notice described in that subparagraph.
+
+(2) **Notice of uses of recreation fees** — Beginning on January 1, 2026, the Secretary shall annually post, at the location at which a recreation fee described in paragraph (1)(A) is collected, clear notice of—
+
+  (A) the total recreation fees collected during each of the 2 preceding fiscal years at the respective unit or area of the Federal land management agency; and
+
+  (B) each use during the preceding fiscal year of the applicable recreation fee or recreation pass revenues collected under this section.
+
+(3) **Notice of recreation fee projects** — To the extent practicable, the Secretary shall post clear notice at the location at which work is performed using recreation fee and recreation pass revenues collected under this section.
+
+(4) **Centralized reporting on agency websites**
+
+  (A) *In general* — Not later than January 1, 2025, and not later than 60 days after the beginning of each fiscal year thereafter, the Secretary shall post on the website of the applicable Federal land management agency a searchable list of each use during the preceding fiscal year of the recreation fee or recreation pass revenues collected under this section.
+
+  (B) *List components* — The list required under subparagraph (A) shall include, with respect to each use described in that subparagraph—
+
+    (i) a title and description of the overall project;
+
+    (ii) a title and description for each component of the project;
+
+    (iii) the location of the project; and
+
+    (iv) the amount obligated for the project.
+
+(5) **Notice to customers** — A recreation service provider may inform a customer of the recreation service provider of any fee charged by the Secretary under this section.
+
+**(j) Online payments**
+
+(1) **In general** — In addition to providing onsite payment methods, the Secretaries may collect payment online for—
+
+  (A) entrance fees under subsection (e);
+
+  (B) standard amenity recreation fees under subsection (f);
+
+  (C) expanded amenity recreation fees under subsection (g); and
+
+  (D) special recreation permit fees.
+
+(2) **Distribution of online payments** — An online payment collected under paragraph (1) that is associated with a specific unit or area of a Federal land management agency shall be distributed in accordance with [section 6804(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6804/c&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### References in Text
-[Section 6803 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6803), referred to in subsec. (b)(5), was in the original a reference to section 4, and was translated as meaning section 804 of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
-
-This chapter, referred to in subsec. (d)(1), (4), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) and Tables.
-
 [Section 101 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), referred to in subsec. (d)(1)(G), was subsequently amended, and section 101 no longer defines “Federal-aid System”.
 
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (d)(3)(H), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+
+#### Amendments
+2025—Subsec. (b)(5). Pub. L. 118–234, § 311(b)(2), made technical amendment to reference in original act which appears in text as reference to [section 6803(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6803/d&num=0&edition=prelim).
+
+Subsec. (d)(1), (4). Pub. L. 118–234, § 311(b)(1), made technical amendment to references in original act which appear in introductory provisions and two places in text of par. (1) and in text of par. (4) as references to this chapter.
+
+Subsecs. (h), (i). Pub. L. 118–234, § 311(b)(3), added subsecs. (h) and (i) and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows: “The Secretary may issue a special recreation permit, and charge a special recreation permit fee in connection with the issuance of the permit, for specialized recreation uses of Federal recreational lands and waters, such as group activities, recreation events, motorized recreational vehicle use.”
+
+Subsec. (j). Pub. L. 118–234, § 322(c), added subsec. (j).
 
 #### Prohibition on Entrance Fee at Statue of Liberty National Monument
 Pub. L. 100–55, June 19, 1987, 101 Stat. 371, provided: “That, notwithstanding any other provision of law, after the date of enactment of this Act [June 19, 1987], the Secretary of the Interior shall not charge any entrance or admission fee at the Statue of Liberty National Monument, New Jersey and New York.”
@@ -278,7 +521,7 @@ Pub. L. 100–55, June 19, 1987, 101 Stat. 371, provided: “That, notwithstandi
 
 (5) **Composition of the Advisory Committee**
 
-  (A) *Number* — A Recreation Resource Advisory Committee shall be comprised of 11 members.
+  (A) *Number* — A Recreation Resource Advisory Committee shall be comprised of 12 members.
 
   (B) *Nominations* — The Governor and the designated county official from each county in the relevant State or Region may submit a list of nominations in the categories described under subparagraph (D).
 
@@ -298,13 +541,15 @@ Pub. L. 100–55, June 19, 1987, 101 Stat. 371, provided: “That, notwithstandi
 
       (V) Hunting and fishing.
 
-    (ii) Three persons who represent interest groups that include, as appropriate, the following:
+    (ii) Four persons who represent interest groups that include, as appropriate, the following:
 
       (I) Motorized outfitters and guides.
 
       (II) Non-motorized outfitters and guides.
 
       (III) Local environmental groups.
+
+      (IV) Veterans organizations, as such term is defined in [section 8471 of this title](./chapter-103-expanding-public-lands-outdoor-recreation-experiences.md#section-8471).
 
     (iii) Three persons, as follows:
 
@@ -324,7 +569,7 @@ Pub. L. 100–55, June 19, 1987, 101 Stat. 371, provided: “That, notwithstandi
 
 (7) **Chairperson** — The chairperson of a Recreation Resource Advisory Committee shall be selected by the majority vote of the members of the Committee.
 
-(8) **Quorum** — Eight members shall constitute a quorum. A quorum must be present to constitute an official meeting of a Recreation Resource Advisory Committee.
+(8) **Quorum** — Six members shall constitute a quorum. A quorum must be present to constitute an official meeting of a Recreation Resource Advisory Committee.
 
 (9) **Approval procedures** — A Recreation Resource Advisory Committee shall establish procedures for making recommendations to the Secretary. A recommendation may be submitted to the Secretary only if the recommendation is approved by a majority of the members of the Committee from each of the categories specified in paragraph (5)(D) and general public support for the recommendation is documented.
 
@@ -338,18 +583,22 @@ Pub. L. 100–55, June 19, 1987, 101 Stat. 371, provided: “That, notwithstandi
 
 (12) **Chapter 10 of title 5** — A Recreation Resource Advisory Committee is subject to the provisions of chapter 10 of title 5.
 
-**(e) Miscellaneous administrative provisions regarding recreation fees and recreation passes**
-
-(1) **Notice of entrance fees, standard amenity recreation fees, and passes** — The Secretary shall post clear notice of any entrance fee, standard amenity recreation fee, and available recreation passes at appropriate locations in each unit or area of a Federal land management agency where an entrance fee or a standard amenity recreation fee is charged. The Secretary shall include such notice in publications distributed at the unit or area.
-
-(2) **Notice of recreation fee projects** — To the extent practicable, the Secretary shall post clear notice of locations where work is performed using recreation fee or recreation pass revenues collected under this chapter.
-
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a), (b), (d)(1)(B), and (e)(2), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) and Tables.
+This chapter, referred to in subsecs. (a), (b), and (d)(1)(B), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) and Tables.
 
 #### Amendments
+2025—Subsec. (d)(5)(A). Pub. L. 118–234, § 225(1), substituted “12” for “11”.
+
+Subsec. (d)(5)(D)(ii). Pub. L. 118–234, § 225(2)(A), substituted “Four” for “Three” in introductory provisions.
+
+Subsec. (d)(5)(D)(ii)(IV). Pub. L. 118–234, § 225(2)(B), added subcl. (IV).
+
+Subsec. (d)(8). Pub. L. 118–234, § 225(3), substituted “Six” for “Eight”.
+
+Subsec. (e). Pub. L. 118–234, § 311(c), struck out subsec. (e) which authorized the Secretary to post clear notice of any entrance fee, standard amenity recreation fee, and available recreation passes and clear notice of locations where work is performed using recreation fee or recreation pass revenues collected.
+
 2022—Subsec. (d)(12). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).” in text.
 
 #### Change of Name
@@ -372,7 +621,17 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 (6) **Sales locations and marketing**
 
-  (A) *In general* — The Secretary shall sell the National Parks and Federal Recreational Lands Pass at all Federal recreational lands and waters at which an entrance fee or a standard amenity recreation fee is charged and at such other locations as the Secretaries consider appropriate and feasible.
+  (A) *In general* — The Secretaries shall sell or otherwise make available the National Parks and Federal Recreational Lands Pass—
+
+    (i) at all Federal recreational lands and waters at which—
+
+      (I) an entrance fee or a standard amenity recreation fee is charged; and
+
+      (II) such sales or distribution of the Pass is feasible;
+
+    (ii) at such other locations as the Secretaries consider appropriate and feasible; and
+
+    (iii) through a prominent link to a centralized pass sale system on the website of each of the Federal land management agencies and the websites of the relevant units and subunits of those agencies, which shall include information about where and when a National Parks and Federal Recreational Lands Pass may be used.
 
   (B) *Use of vendors* — The Secretary may enter into fee management agreements as provided in [section 6805 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6805).
 
@@ -383,6 +642,12 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 (8) **Development and implementation agreements** — The Secretaries may enter into cooperative agreements with governmental and nongovernmental entities for the development and implementation of the National Parks and Federal Recreational Lands Pass Program.
 
 (9) **Prohibition on other national recreation passes** — The Secretary may not establish any national recreation pass, except as provided in this section.
+
+(10) **Digital recreation passes** — Not later than January 1, 2026, the Secretaries shall—
+
+  (A) establish a digital version of the National Parks and Federal Recreational Lands Pass that is able to be stored on a mobile device, including with respect to free and discounted passes; and
+
+  (B) upon completion of a transaction for a National Parks and Federal Recreational Lands Pass, make immediately available to the passholder a digital version of the National Parks and Federal Recreational Lands Pass established under subparagraph (A).
 
 **(b) Free and discounted passes**
 
@@ -433,6 +698,10 @@ The National Parks Omnibus Management Act of 1998, referred to in subsec. (f)(1)
 In subsec. (f), “[section 100904 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100904&num=0&edition=prelim)” substituted for “section 4 of the Land and Water Conservation Fund Act of 1965” in two places on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
+2025—Subsec. (a)(6)(A). Pub. L. 118–234, § 322(a), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary shall sell the National Parks and Federal Recreational Lands Pass at all Federal recreational lands and waters at which an entrance fee or a standard amenity recreation fee is charged and at such other locations as the Secretaries consider appropriate and feasible.”
+
+Subsec. (a)(10). Pub. L. 118–234, § 322(b), added par. (10).
+
 2021—Subsec. (a)(4). Pub. L. 117–81, § 641(1), substituted “age discount and lifetime” for “age and disability discounted”.
 
 Subsec. (a)(7). Pub. L. 116–283, § 625(b)(1), struck out “age and disability” before “discounts”.
@@ -460,10 +729,35 @@ Pub. L. 116–283, § 625(a), added par. (3).
 Pub. L. 113–287, § 5(d)(36)(A), made technical amendment to reference in original act which appeared in text as reference to “section 460l–6a of this title” prior to substitution of “[section 100904 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100904&num=0&edition=prelim)”. See Codification note above.
 
 #### Every Kid Outdoors Act
-Pub. L. 116–9, title IX, § 9001, Mar. 12, 2019, 133 Stat. 829, provided that: “(a) Definitions.—In this section:“(1) Federal land and waters.—The term ‘Federal land and waters’ means any Federal land or body of water under the jurisdiction of any of the Secretaries to which the public has access. “(2) Program.—The term ‘program’ means the Every Kid Outdoors program established under subsection (b)(1). “(3) Secretaries.—The term ‘Secretaries’ means—“(A) the Secretary [of the Interior], acting through—“(i) the Director of the National Park Service; “(ii) the Director of the United States Fish and Wildlife Service; “(iii) the Director of the Bureau of Land Management; and “(iv) the Commissioner of Reclamation; “(B) the Secretary of Agriculture, acting through the Chief of the Forest Service; “(C) the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration; and “(D) the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works. “(4) State.—The term ‘State’ means each of the several States, the District of Columbia, American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, the Virgin Islands of the United States, and any other territory or possession of the United States. “(5) Student or students.—The term ‘student’ or ‘students’ means any fourth grader or home-schooled learner 10 years of age residing in the United States, including any territory or possession of the United States. “(b) Every Kid Outdoors Program.—“(1) Establishment.—The Secretaries shall jointly establish a program, to be known as the ‘Every Kid Outdoors program’, to provide free access to Federal land and waters for students and accompanying individuals in accordance with this subsection. “(2) Annual passes.—“(A) In general.—At the request of a student, the Secretaries shall issue a pass to the student, which allows access to Federal lands and waters for which access is subject to an entrance, standard amenity, or day use fee, free of charge for the student and—“(i) in the case of a per-vehicle fee area— “(I) any passengers accompanying the student in a private, noncommercial vehicle; or “(II) not more than three adults accompanying the student on bicycles; or “(ii) in the case of a per-person fee area, not more than three adults accompanying the student. “(B) Term.—A pass described in subparagraph (A) shall be effective during the period beginning on September 1 and ending on August 31 of the following year. “(C) Presence of a student in grade four required.—A pass described in subparagraph (A) shall be effective only if the student to which the pass was issued is present at the point of entry to the applicable Federal land or water. “(3) Other activities.—In carrying out the program, the Secretaries—“(A) may collaborate with State Park systems that opt to implement a complementary Every Kid Outdoors State park pass; “(B) may coordinate with the Secretary of Education to implement the program; “(C) shall maintain a publicly available website with information about the program; “(D) may provide visitor services for the program; and “(E) may support approved partners of the Federal land and waters by providing the partners with opportunities to participate in the program. “(4) Reports.—The Secretary, in coordination with each Secretary described in subparagraphs (B) through (D) of subsection (a)(3), shall prepare a comprehensive report to Congress each year describing—“(A) the implementation of the program; “(B) the number and geographical distribution of students who participated in the program; and “(C) the number of passes described in paragraph (2)(A) that were distributed. “(5) Sunset.—The authorities provided in this section, including the reporting requirement, shall expire on the date that is 7 years after the date of enactment of this Act [Mar. 12, 2019].”
+Pub. L. 116–9, title IX, § 9001, Mar. 12, 2019, 133 Stat. 829, as amended by Pub. L. 118–234, title II, § 232, Jan. 4, 2025, 138 Stat. 2890, provided that: “(a) Definitions.—In this section:“(1) Federal land and waters.—The term ‘Federal land and waters’ means any Federal land or body of water under the jurisdiction of any of the Secretaries to which the public has access. “(2) Program.—The term ‘program’ means the Every Kid Outdoors program established under subsection (b)(1). “(3) Secretaries.—The term ‘Secretaries’ means—“(A) the Secretary [of the Interior], acting through—“(i) the Director of the National Park Service; “(ii) the Director of the United States Fish and Wildlife Service; “(iii) the Director of the Bureau of Land Management; and “(iv) the Commissioner of Reclamation; “(B) the Secretary of Agriculture, acting through the Chief of the Forest Service; “(C) the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration; and “(D) the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works. “(4) State.—The term ‘State’ means each of the several States, the District of Columbia, American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, the Virgin Islands of the United States, and any other territory or possession of the United States. “(5) Student or students.—The term ‘student’ or ‘students’ means any fourth grader or home-schooled learner 10 years of age residing in the United States, including any territory or possession of the United States. “(b) Every Kid Outdoors Program.—“(1) Establishment.—The Secretaries shall jointly establish a program, to be known as the ‘Every Kid Outdoors program’, to provide free access to Federal land and waters for students and accompanying individuals in accordance with this subsection. “(2) Annual passes.—“(A) In general.—At the request of a student, the Secretaries shall issue a pass to the student, which allows access to Federal lands and waters for which access is subject to an entrance, standard amenity, or day use fee, free of charge for the student and—“(i) in the case of a per-vehicle fee area— “(I) any passengers accompanying the student in a private, noncommercial vehicle; or “(II) not more than three adults accompanying the student on bicycles; or “(ii) in the case of a per-person fee area, not more than three adults accompanying the student. “(B) Term.—A pass described in subparagraph (A) shall be effective for a 12-month period that begins on a date determined by the Secretaries. “(C) Presence of a student in grade four required.—A pass described in subparagraph (A) shall be effective only if the student to which the pass was issued is present at the point of entry to the applicable Federal land or water. “(3) Other activities.—In carrying out the program, the Secretaries—“(A) may collaborate with State Park systems that opt to implement a complementary Every Kid Outdoors State park pass; “(B) may coordinate with the Secretary of Education to implement the program; “(C) shall maintain a publicly available website with information about the program; “(D) may provide visitor services for the program; and “(E) may support approved partners of the Federal land and waters by providing the partners with opportunities to participate in the program. “(4) Reports.—The Secretary, in coordination with each Secretary described in subparagraphs (B) through (D) of subsection (a)(3), shall prepare a comprehensive report to Congress each year describing—“(A) the implementation of the program; “(B) the number and geographical distribution of students who participated in the program; and “(C) the number of passes described in paragraph (2)(A) that were distributed. “(5) Sunset.—The authorities provided in this section, including the reporting requirement, shall expire on September 30, 2031.”
 
 #### America the Beautiful National Parks and Federal Recreational Lands Pass Program
 Pub. L. 113–121, title I, § 1048, June 10, 2014, 128 Stat. 1257, provided that: “The Secretary [of the Army] may participate in the America the Beautiful National Parks and Federal Recreational Lands Pass program in the same manner as the National Park Service, the Bureau of Land Management, the United States Fish and Wildlife Service, the Forest Service, and the Bureau of Reclamation, including the provision of free annual passes to active duty military personnel and dependents.”
+
+
+<a id="section-6804a"></a>
+## § 6804a. Availability of Federal, State, and local recreation passes
+**(a) Establishment of program**
+
+(1) **In general** — To improve the availability of Federal, State, and local outdoor recreation passes, the Secretaries are encouraged to coordinate with States and counties regarding the availability of Federal, State, and local recreation passes to allow a purchaser to buy a Federal recreation pass, State recreation pass, and local recreation pass in a single transaction.
+
+(2) **Included passes** — Passes covered by the program established under paragraph (1) include—
+
+  (A) an America the Beautiful—the National Parks and Federal Recreational Lands Pass under [section 6804 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6804); and
+
+  (B) any pass covering any fees charged by participating States and counties for entrance and recreational use of parks and public land in the participating States.
+
+**(b) Agreements with States and counties**
+
+(1) **In general** — The Secretaries, after consultation with the States and counties, may enter into agreements with States and counties to coordinate the availability of passes as described in subsection (a).
+
+(2) **Revenue from pass sales** — Agreements between the Secretaries, States, and counties entered into pursuant to this section shall ensure that—
+
+  (A) funds from the sale of State or local passes are transferred to the appropriate State agency or county government;
+
+  (B) funds from the sale of Federal passes are transferred to the appropriate Federal agency; and
+
+  (C) fund transfers are completed by the end of a fiscal year for all pass sales occurring during the fiscal year.
 
 
 <a id="section-6805"></a>
@@ -533,9 +827,13 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, an
 
   (D) law enforcement related to public use and recreation;
 
-  (E) direct operating or capital costs associated with the recreation fee program; and
+  (E) direct operating or capital costs associated with the recreation fee program;
 
-  (F) a fee management agreement established under [section 6805(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6805/a&num=0&edition=prelim) or a visitor reservation service.
+  (F) a fee management agreement established under [section 6805(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6805/a&num=0&edition=prelim) or a visitor reservation service;
+
+  (G) the processing of special recreation permit applications and administration of special recreation permits; and
+
+  (H) the improvement of the operation of the special recreation permit program under [section 6802(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6802/h&num=0&edition=prelim).
 
 **(b) Limitation on use of fees** The Secretary may not use any recreation fees for biological monitoring on Federal recreational lands and waters under the Endangered Species Act of 1973 [[16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.] for listed or candidate species.
 
@@ -552,12 +850,18 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, an
 #### References in Text
 The Endangered Species Act of 1973, referred to in subsec. (b), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-This chapter, referred to in subsecs. (c) and (d), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) and Tables.
-
-[Section 6804 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6804), referred to in subsec. (d), was in the original a reference to section 5 and was translated as meaning section 805 of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
-
 #### Amendments
-2009—Subsec. (a)(3)(F). Pub. L. 111–11, which directed technical amendment in subsec. (a)(1)(F) to reference in original act which appears in text as reference to [section 6805(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6805/a&num=0&edition=prelim), was executed by making technical amendment in par. (3)(F) to reflect the probable intent of Congress.
+2025—Subsec. (a)(3)(F). Pub. L. 118–234, § 311(d)(2)(B), made technical amendment to reference in original act which appears in text as reference to [section 6805(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6805/a&num=0&edition=prelim) and substituted semicolon for period at end.
+
+Subsec. (a)(3)(G), (H). Pub. L. 118–234, § 311(d)(2)(A), (C), added subpars. (G) and (H).
+
+Subsecs. (c), (d). Pub. L. 118–234, § 311(d)(1), made technical amendment to references in original act which appear in text of subsec. (c) and in introductory provisions of subsec. (d) as references to this chapter.
+
+Subsec. (d)(1). Pub. L. 118–234, § 311(d)(3)(A), made technical amendment to reference in original act which appears in text as reference to [section 6804(a)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6804/a/7&num=0&edition=prelim).
+
+Subsec. (d)(2). Pub. L. 118–234, § 311(d)(3)(B), made technical amendment to reference in original act which appears in text as reference to [section 6804(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6804/d&num=0&edition=prelim).
+
+2009—Subsec. (a)(1)(F). Pub. L. 111–11, which directed technical amendment in subsec. (a)(1)(F) to reference in original act which appears in text as reference to [section 6805(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6805/a&num=0&edition=prelim), could not be executed because there is no subsec. (a)(1)(F) of this section.
 
 
 <a id="section-6808"></a>
@@ -569,7 +873,7 @@ Not later than May 1, 2006, and every 3 years thereafter, the Secretary shall su
 <a id="section-6809"></a>
 ## § 6809. Sunset provision
 
-The authority of the Secretary to carry out this chapter shall terminate September 30, 2019.11 See Recreation Fees note below.
+The authority of the Secretary to carry out this chapter shall terminate September 30, 2031.
 
 ### Statutory Notes
 
@@ -577,6 +881,8 @@ The authority of the Secretary to carry out this chapter shall terminate Septemb
 This chapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) and Tables.
 
 #### Amendments
+2025—Pub. L. 118–234 substituted “2031” for “2019”.
+
 2017—Pub. L. 115–56 substituted “September 30, 2019” for “September 30, 2018”.
 
 2016—Pub. L. 114–223 substituted “September 30, 2018” for “September 30, 2017”.

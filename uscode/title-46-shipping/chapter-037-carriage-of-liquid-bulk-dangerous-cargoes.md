@@ -54,11 +54,11 @@ Chapter effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out
 ## § 3702. Application
 **(a)** Subject to subsections (b)–(e) of this section, this chapter applies to a tank vessel.
 
-**(b)** This chapter does not apply to a documented vessel that would be subject to this chapter only because of the transfer of fuel from the fuel supply tanks of the vessel to offshore drilling or production facilities in the oil industry if the vessel is—
+**(b)** This chapter does not apply to a documented vessel that would be subject to this chapter only because of the transfer of fuel from the fuel supply tanks of the vessel to exploration, development, or production of offshore drilling or production facilities in the oil industry and non-mineral energy production if the vessel is—
 
 (1) not a tanker; and
 
-(2) in the service of oil exploitation.
+(2) in the service of exploration, development, or production of offshore energy resources.
 
 **(c)** This chapter does not apply to a fishing or fish tender vessel of not more than 500 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104) when engaged only in the fishing industry.
 
@@ -90,6 +90,10 @@ Section 3702, with certain exceptions, makes this chapter applicable to any tank
 It exempts certain small vessels documented in the service of oil exploitation, certain small tender and fishing vessels used in the Northwest salmon or crab fisheries, certain vessels used in the processing and assembling of fishery products used in the Northwest fisheries, public vessels, and foreign vessels engaged on innocent passage on the navigable waters of the United States. However, processing vessels, while not treated as tank vessels, are still subject to regulation when carrying flammable or combustible liquid cargo in bulk.
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–60, § 7348(a)(1), substituted “exploration, development, or production of offshore drilling or production facilities in the oil industry and non-mineral energy production” for “offshore drilling or production facilities in the oil industry” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 119–60, § 7348(a)(2), substituted “exploration, development, or production of offshore energy resources” for “oil exploitation”.
+
 2010—Subsec. (b)(1) to (3). Pub. L. 111–281 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1), which read as follows: “not more than 500 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104);”.
 
 1996—Subsec. (b)(1). Pub. L. 104–324, § 714(1), inserted “as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104)” after “500 gross tons”.
@@ -103,6 +107,9 @@ Subsec. (f). Pub. L. 104–324, § 1104(b), added subsec. (f).
 1984—Subsec. (c). Pub. L. 98–364, § 402(6)(A), substituted “This chapter does not apply to a fishing or fish tender vessel of not more than 500 gross tons when engaged only in the fishing industry” for “This chapter does not apply to a cannery tender, fishing tender, or fishing vessel of not more than 500 gross tons, used in the salmon or crab fisheries of Alaska, Oregon, or Washington, when engaged only in the fishing industry”.
 
 Subsec. (d). Pub. L. 98–364, § 402(6)(B), substituted “This chapter does not apply to a fish processing vessel of not more than 5,000 gross tons” for “This chapter does not apply to a vessel of not more than 5,000 gross tons used in processing and assembling fishery products of the fisheries of Alaska, Oregon, and Washington”.
+
+#### Offshore Operations
+Pub. L. 119–60, div. G, title LXXIII, § 7348(b), (c), Dec. 18, 2025, 139 Stat. 1782, provided that: “(b) Oil Fuel Tank Protection.—“(1) In general.—Notwithstanding any other provision of law and not later than 60 days after the date of enactment of this Act [Dec. 18, 2025], the Commandant [of the Coast Guard] shall amend section 125.115(b) of title 46, Code of Federal Regulations (as in effect on such date of enactment), to reflect the amendment made in subsection (a) [amending this section]. “(2) Application.—If the Commandant fails to amend the section described in paragraph (1) by the date that is 60 days after the date of enactment of this Act, then, in lieu of the application of such section, the Secretary shall allow vessels to which [section 3702 of title 46](./chapter-037-carriage-of-liquid-bulk-dangerous-cargoes.md#section-3702), United States Code, applies to transfer fuel from the fuel supply tanks of such vessel to offshore facilities in support of exploration, development, or production of offshore energy resources. “(c) Outer Continental Shelf Activities.—“(1) In general.—Not later than 60 days after the date of enactment of this Act, the Commandant shall amend section G6.3.a of the United States Coast Guard Marine Safety Manual, Volume II titled ‘Materiel Inspection: Outer Continental Shelf Activities’, issued September 20, 2021 (COMDTINST M16000.76) (as in effect on such date of enactment), to reflect the amendment made in subsection (a). “(2) Application.—If the Commandant fails to amend the section described in paragraph (1) by the date that is 60 days after the date of enactment of this Act, then the Secretary shall in lieu of such section not apply [section 3702 of title 46](./chapter-037-carriage-of-liquid-bulk-dangerous-cargoes.md#section-3702), United States Code, to a documented vessel transferring fuel from the fuel supply tanks of such vessel to an offshore facility if such vessel is not a tanker and is in the service of exploration, development, or production of offshore energy resources.”
 
 
 <a id="section-3703"></a>
@@ -586,7 +593,7 @@ Section 3713(b) prohibits any vessel, subject to the provisions of this chapter 
 ## § 3714. Inspection and examination
 **(a)**
 
-(1) The Secretary shall have each vessel to which this chapter applies inspected or examined at least once each year.
+(1) Except as provided in subsection (c), the Secretary shall have each vessel to which this chapter applies inspected or examined at least once each year.
 
 (2) Each of those vessels that is more than 10 years of age shall undergo a special and detailed inspection of structural strength and hull integrity as specified by the Secretary.
 
@@ -606,7 +613,59 @@ Section 3713(b) prohibits any vessel, subject to the provisions of this chapter 
 
 (4) the name of an agent in the United States authorized to accept service of legal process.
 
-**(c)** Each vessel to which this chapter applies that operates in the United States shall have a person designated as authorized to accept service of legal process for the vessel.
+**(c) Performance-driven Examination Schedule.—**
+
+(1) **In general.—** — With respect to examinations of foreign vessels to which this chapter applies, and subject to paragraph (3), the Secretary may adopt a performance-driven examination schedule to which such vessels are to be examined and the frequency with which such examinations occur, including the frequency of examinations for each vessel. Such schedule shall be consistent with the Secretary’s assessment of the safety performance of such vessels, including each vessel participating in the performance-driven examination schedule, in accordance with paragraph (2).
+
+(2) **Considerations.—** — In developing an examination schedule under paragraph (1) and subject to paragraph (3), with respect to each vessel in determining eligibility to participate in the performance based examination schedule—
+
+  (A) the Secretary shall consider—
+
+    (i) certificate of compliance and examination history, to include those conducted by foreign countries;
+
+    (ii) history of violations, vessel detentions, incidents, and casualties;
+
+    (iii) history of notices of violation issued by the Coast Guard;
+
+    (iv) safety related information provided by the flag state of the vessel;
+
+    (v) owner and operator history;
+
+    (vi) historical classification society data, which may include relevant surveys;
+
+    (vii) cargo-specific documentation;
+
+    (viii) data from port state control safety exams; and
+
+    (ix) relevant repair and maintenance history; and
+
+  (B) the Secretary may consider—
+
+    (i) data from relevant vessel quality assurance and risk assessment programs including Quality Shipping for the 21st Century (QUALSHIP 21);
+
+    (ii) data from industry inspection regimes;
+
+    (iii) data from vessel self assessments submitted to the International Maritime Organization or other maritime organizations; and
+
+    (iv) other safety relevant data or information as determined by the Secretary.
+
+(3) **Eligibility.—** — In developing an examination schedule under paragraph (1), the Secretary shall not consider a vessel eligible to take part in a performance-driven examination schedule under paragraph (1) if, within the last 36 months, the vessel has—
+
+  (A) been detained by the Coast Guard;
+
+  (B) a record of a violation issued by the Coast Guard against the owners or operators with a finding of proved; or
+
+  (C) suffered a marine casualty that, as determined by the Secretary, involves the safe operation of the vessel and overall performance of the vessel.
+
+(4) **Restrictions.—** — The Secretary may not adopt a performance-driven examination schedule under paragraph (1) until the Secretary has—
+
+  (A) conducted the assessment recommended in the Government Accountability Office report submitted under section 8254(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283);
+
+  (B) concluded through such assessment that a performance-driven examination schedule provides not less than the level of safety provided by the annual examinations required under subsection (a)(1); and
+
+  (C) provided the results of such assessment to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+**(d)** Each vessel to which this chapter applies that operates in the United States shall have a person designated as authorized to accept service of legal process for the vessel.
 
 ### Statutory Notes
 
@@ -631,7 +690,14 @@ Section 3714(b) requires each vessel subject to this chapter to have on board th
 
 Section 3714(c) requires each vessel subject to this chapter to have a person authorized to accept service of legal process for the vessel.
 
+#### References in Text
+Section 8254(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (d)(4)(A), is section 8254 of Pub. L. 116–283, div. G, title LVXXXII [LXXXII], Jan. 1, 2021, 134 Stat. 4674, which is not set out in the Code.
+
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–60, § 7312(a)(1), substituted “Except as provided in subsection (c), the Secretary” for “The Secretary”.
+
+Subsecs. (c), (d). Pub. L. 119–60, § 7312(a)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+
 1986—Subsec. (a)(4). Pub. L. 99–307 substituted “charterer” for “charter”.
 
 

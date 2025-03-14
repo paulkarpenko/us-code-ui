@@ -1057,7 +1057,7 @@ In subsection (f), the text of 49 App.:2706(g) and section 9105(b) of the Anti-D
 The date of enactment of this subsection, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
-2024—Subsec. (a). Pub. L. 118–156, § 2(a)(1), inserted “(referred to in this section as the ‘Secretary’)” after “Secretary of Transportation”, “referred to in this section as the ‘information system’)” after “an information system”, and “information” before “system shall be coordinated”.
+2024—Subsec. (a). Pub. L. 118–156, § 2(a)(1), inserted “(referred to in this section as the ‘Secretary’)” after “Secretary of Transportation”, “(referred to in this section as the ‘information system’)” after “an information system”, and “information” before “system shall be coordinated”.
 
 Subsec. (b)(1). Pub. L. 118–156, § 2(a)(2)(A), inserted heading, struck out “under this section” after “information system” in introductory provisions, and realigned margins of subpars. (A) to (F).
 

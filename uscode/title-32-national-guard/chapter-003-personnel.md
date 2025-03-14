@@ -2,7 +2,7 @@
 title: 32
 chapter: '3'
 heading: PERSONNEL
-section_count: 27
+section_count: 28
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32&num=0&edition=prelim
 ---
@@ -59,6 +59,20 @@ Pub. L. 87–378, § 6, Oct. 4, 1961, 75 Stat. 808, provided that: “The amendm
 
 **(c)** In time of peace, no enlisted member may be required to serve for a period longer than that for which he enlisted in the active or inactive National Guard.
 
+**(d)**
+
+(1) Under regulations prescribed by the Secretary of the Army—
+
+  (A) an officer of the Army National Guard who fills a vacancy in a federally recognized unit of the Army National Guard may be transferred from the active Army National Guard to the inactive Army National Guard; and
+
+  (B) an officer of the Army National Guard transferred to the inactive Army National Guard pursuant to subparagraph (A) may be transferred from the inactive Army National Guard to the active Army National Guard to fill a vacancy in a federally recognized unit.
+
+(2) Under regulations prescribed by the Secretary of the Air Force—
+
+  (A) an officer of the Air National Guard who fills a vacancy in a federally recognized unit of the Air National Guard may be transferred from the active Air National Guard to the inactive Air National Guard; and
+
+  (B) an officer of the Air National Guard transferred to the inactive Air National Guard pursuant to subparagraph (A) may be transferred from the inactive Air National Guard to the active Air National Guard to fill a vacancy in a federally recognized unit.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -76,6 +90,8 @@ In subsection (c), the words “in the inactive * * * National Guard” are subs
 In subsection (d), the words “under any enlistment” are omitted as surplusage.
 
 #### Amendments
+2025—Subsec. (d). Pub. L. 119–60 added subsec. (d).
+
 1980—Subsecs. (c), (d). Pub. L. 96–513 redesignated subsec. (d) as (c).
 
 1962—Subsec. (c). Pub. L. 87–649 repealed subsec. (c) which provided that a person enlisted in inactive Army National Guard or inactive Air National Guard is not entitled to pay under [section 301 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section301&num=0&edition=prelim).
@@ -779,6 +795,54 @@ A prior section 328, act Aug. 10, 1956, ch. 1041, 70A Stat. 608, related to spec
 
 #### Amendments
 2022—Subsec. (c). Pub. L. 117–263 added subsec. (c).
+
+
+<a id="section-328a"></a>
+## § 328a. Active Guard and Reserve duty: State disaster response duty
+**(a) Authority.—** The chief executive of a State who has declared an emergency in such State due to a disaster, may, with the consent of the Secretary of Defense, order a member of the National Guard of such State, who is performing Active Guard and Reserve duty pursuant to [section 328 of this title](./chapter-003-personnel.md#section-328), to perform duties in response to, or in preparation for, such disaster. Duty performed under this section shall be referred to as “State disaster response duty”.
+
+**(b) Requirements.—** State disaster response duty performed pursuant to this section—
+
+(1) shall be on a reimbursable basis, in accordance with subsection (c);
+
+(2) may be performed to the extent that the performance of such duty does not interfere with the performance of the member’s primary Active Guard and Reserve duties of organizing, administering, recruiting, instructing, and training the reserve components; and
+
+(3) shall not exceed a total of 14 days per member per calendar year, except that the Secretary of Defense may, if the chief executive so requests before the end of the 14th such day, authorize an extension of the duration of such duty, not to exceed an additional—
+
+  (A) 7 days, if the Secretary determines that such extension is appropriate; and
+
+  (B) 46 days if the Secretary determines that such duty is in support of the response to a catastrophic incident, as that term is defined in section 501 of the Homeland Security Act of 2002 ([6 U.S.C. 311](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section311&num=0&edition=prelim)).
+
+**(c) Reimbursement.—**
+
+(1) The Secretary of the military department concerned shall charge a State for the fully burdened costs of manpower for each day of State disaster response duty performed pursuant to this section.
+
+(2) Such charges shall be paid from the funds of the State of the requesting chief executive or from any other non-Federal funds.
+
+(3) Any amounts received by a Secretary of a military department under this section shall be credited, at the discretion of the Secretary of Defense, to—
+
+  (A) the appropriation, fund, or account used to pay such costs; or
+
+  (B) an appropriation, fund, or account available for the purposes for which such costs were incurred.
+
+(4) If the State of the requesting chief executive is more than 90 days in arrears in reimbursing the Secretary of the military department concerned for State disaster response duty performed pursuant to this section, such duty may not be performed—
+
+  (A) unless authorized by the Secretary of Defense; and
+
+  (B) after the requesting chief executive obligates funds for the amount in arrears.
+
+**(d) Limitation of Liability.—** While performing State disaster response duty under this section, a member of the National Guard is not an instrumentality of the United States with respect to any act or omission in carrying out such duty. The United States shall not be responsible for any claim or judgment arising from the use of a member of the National Guard under this section.
+
+**(e) Definitions.—** In this section:
+
+(1) The term “Active Guard and Reserve duty” has the meaning given such term in [section 101 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim).
+
+(2) The term “State” has the meaning given such term in [section 901 of this title](./chapter-009-homeland-defense-activities.md#section-901).
+
+### Statutory Notes
+
+#### Regulations
+Pub. L. 119–60, div. A, title V, § 512(b), Dec. 18, 2025, 139 Stat. 861, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall prescribe regulations under section 328a of such title, as added by subsection (a).”
 
 
 <a id="section-329"></a>

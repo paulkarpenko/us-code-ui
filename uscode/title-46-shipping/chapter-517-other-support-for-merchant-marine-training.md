@@ -248,7 +248,7 @@ Pub. L. 112–213, title V, § 502(b), Dec. 20, 2012, 126 Stat. 1575, provided t
 
     (i) recreational boating; and
 
-    (ii) oceanographic and limnological research as described in section 2101(24).
+    (ii) oceanographic and limnological research as described in section 2101(26).
 
 ### Statutory Notes
 
@@ -256,6 +256,8 @@ Pub. L. 112–213, title V, § 502(b), Dec. 20, 2012, 126 Stat. 1575, provided t
 The date of enactment of the National Defense Authorization Act for Fiscal Year 2023, referred to in subsec. (c)(1)(B)(v), is the date of enactment of Pub. L. 117–263, also known as the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, which was approved Dec. 23, 2022.
 
 #### Amendments
+2025—Subsec. (c)(6)(C)(ii). Pub. L. 119–60 substituted “section 2101(26)” for “section 2101(24)”.
+
 2023—Subsec. (a). Pub. L. 118–31, § 3534(k)(1), designated existing provisions as par. (1) and inserted heading, inserted “, after consultation with the Coast Guard,” after “Transportation” and “, for a 5-year period,” after “designate”, and added par. (2).
 
 2023—Subsec. (b)(5). Pub. L. 118–31, § 3534(k)(2), added par. (5).

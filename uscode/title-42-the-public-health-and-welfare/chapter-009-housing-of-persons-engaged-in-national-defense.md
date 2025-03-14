@@ -766,7 +766,7 @@ The United States Housing Act of 1937, referred to in subsecs. (a)(1), (b), and 
 
 Subchapters III and VI of this chapter, referred to in subsec. (b), were comprised of sections 1531 to 1536 and 1571 to 1576, respectively, of this title and have been omitted from the Code. For further details, see note set out under [section 1522 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1522).
 
-Subsections 2(1) and 2(2) and section 10 of the United States Housing Act of 1937, referred to in subsec. (c)(1), (3), and (6), are references to sections 2 and 10 of the Act prior to the general revision of the Act by Pub. L. 93–383. The Act as so revised is classified to section 1437 et seq. of this title. Provisions of former sections 2 and 10 are covered by sections 3 and 5 of the Act which are classified to sections 1437a and 1437d of this title.
+Subsections 2(1) and 2(2) and section 10 of the United States Housing Act of 1937, referred to in subsec. (c)(1), (3), (6), are references to sections 2 and 10 of the Act prior to the general revision of the Act by Pub. L. 93–383. The Act as so revised is classified to section 1437 et seq. of this title. Provisions of former sections 2 and 10 are covered by sections 3 and 5 of the Act which are classified to sections 1437a and 1437d of this title.
 
 #### Amendments
 1974—Subsec. (b). Pub. L. 93–383, § 207(a), struck out provisions relating to payment of capital grants or annual contributions to low-rent housing projects.
@@ -1167,7 +1167,7 @@ In furtherance of the purposes of this subchapter and subject to the provisions 
 ### Statutory Notes
 
 #### References in Text
-Public Law 725, Seventy-ninth Congress, approved Aug. 13, 1946, as amended, referred to in text, means act Aug. 13, 1946, ch. 958, 60 Stat. 1041, as amended, known as the Hospital Survey and Construction Act. For complete classification of this Act to the Code, see Tables.
+Public Law 725, Seventy-ninth Congress, approved Aug. 13, 1946, as amended, referred to in text, means act Aug. 13, 1946, ch. 958, 60 Stat. 1041, known as the Hospital Survey and Construction Act. For complete classification of this Act to the Code, see Tables.
 
 Public Law 380, Eighty-first Congress, approved Oct. 25, 1949, referred to in text, means act Oct. 25, 1949, ch. 722, 63 Stat. 898, known as the Hospital Survey and Construction Amendments of 1949, which amended sections 291, 291d, 291f, 291g, 291h, 291i, 291j, 291n, and enacted provisions set out as notes under [section 291 of this title](./chapter-6a-public-health-service.md#section-291). For complete classification of this Act to the Code, see Tables.
 
@@ -1191,7 +1191,7 @@ Act Aug. 7, 1956, ch. 1029, § 605, 70 Stat. 1114, as amended by Pub. L. 86–37
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a) and (c), means act Sept. 1, 1951, ch. 378, 65 Stat. 293, as amended, known as the Defense Housing and Community Facilities and Services Act of 1951. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under [section 1501 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1501) and Tables.
+This Act, referred to in subsecs. (a) and (c), means act Sept. 1, 1951, ch. 378, 65 Stat. 293, known as the Defense Housing and Community Facilities and Services Act of 1951. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under [section 1501 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1501) and Tables.
 
 Section 322 of the Act of June 30, 1932, referred to in subsec. (a), is section 322 of act June 30, 1932, ch. 314, 47 Stat. 412, which was classified to section 278a of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 100–678, § 7, Nov. 17, 1988, 102 Stat. 4052.
 
@@ -1233,7 +1233,7 @@ Notwithstanding any other provisions of law, the acquisition by the United State
 ### Statutory Notes
 
 #### References in Text
-Subchapter X of this chapter, referred to in text, was in the original “title IV of this Act”, meaning title IV of act Sept. 1, 1951, ch. 378, 65 Stat. 310, hich enacted sections 1593 to 1593d of this title and was repealed by act June 30, 1953, ch. 170, § 19, 67 Stat. 126.
+Subchapter X of this chapter, referred to in text, was in the original “title IV of this Act”, meaning title IV of act Sept. 1, 1951, ch. 378, 65 Stat. 310, which enacted sections 1593 to 1593d of this title and was repealed by act June 30, 1953, ch. 170, § 19, 67 Stat. 126.
 
 
 <a id="section-1592g"></a>
@@ -1564,7 +1564,7 @@ The Secretary of Defense or his designee is authorized to maintain and operate a
 ### Statutory Notes
 
 #### References in Text
-This title, referred to in text, means title IV of act Aug. 11, 1955, ch. 783, 69 Stat. 646, as amended, which enacted sections 1594 and 1594a, 1594b to 1594f of this title, amended sections 1720, 1748, and 1748a to 1748g of Title 12, Banks and Banking, and enacted provisions set out as a note under [section 1748 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1748&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+This title, referred to in text, means title IV of act Aug. 11, 1955, ch. 783, 69 Stat. 646, which enacted sections 1594 and 1594a, 1594b to 1594f of this title, amended sections 1720, 1748, and 1748a to 1748g of Title 12, Banks and Banking, and enacted provisions set out as a note under [section 1748 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1748&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1956—Act Aug. 7, 1956, substituted “$21,000,000” for “$9,000,000”.

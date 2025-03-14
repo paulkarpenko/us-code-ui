@@ -236,7 +236,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 <a id="section-3069"></a>
 ## § 3069. Buy-to-budget acquisition: end items
-**(a) Authority To Acquire Additional End Items.—** Using funds available to the Department of Defense for the acquisition of an end item, the head of an agency making the acquisition may acquire a higher quantity of the end item than the quantity specified for the end item in a law providing for the funding of that acquisition if that head of an agency makes each of the following findings:
+**(a) Authority To Acquire Additional End Items.—** Using funds available to the Department of Defense for the acquisition of an end item, a contracting officer making the acquisition may acquire a higher quantity of the end item than the quantity specified for the end item in a law providing for the funding of that acquisition if that contracting officer determines in writing that:
 
 (1) The agency has an established requirement for the end item that is expected to remain substantially unchanged throughout the period of the acquisition.
 
@@ -244,35 +244,19 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 (3) The amount of the funds used for the acquisition of the higher quantity of the end item will not exceed the amount provided under that law for the acquisition of the end item.
 
-(4) The amount so provided is sufficient to ensure that each unit of the end item acquired within the higher quantity is fully funded as a complete end item.
+**(b) Regulations.—** The Secretary of Defense shall prescribe regulations for the administration of this section.
 
-**(b) Regulations.—** The Secretary of Defense shall prescribe regulations for the administration of this section. The regulations shall include, at a minimum, the following:
-
-(1) The level of approval within the Department of Defense that is required for a decision to acquire a higher quantity of an end item under subsection (a).
-
-(2) Authority (subject to subsection (a)) to acquire up to 10 percent more than the quantity of an end item approved in a justification and approval of the use of procedures other than competitive procedures for the acquisition of the end item under sections 3201 through 3205 of this title.
-
-**(c) Notification of Congress.—**
-
-(1) The head of an agency is not required to notify Congress in advance regarding a decision under the authority of this section to acquire a higher quantity of an end item than is specified in a law described in subsection (a), but, except as provided in paragraph (2), shall notify the congressional defense committees of the decision not later than 30 days after the date of the decision.
-
-(2) A notification is not required under paragraph (1) if the end item being acquired in a higher quantity is an end item under a tactical missile program or a munitions program.
-
-**(d) Waiver by Other Law.—** A provision of law may not be construed as prohibiting the acquisition of a higher quantity of an end item under this section unless that provision of law—
+**(c) Waiver by Other Law.—** A provision of law may not be construed as prohibiting the acquisition of a higher quantity of an end item under this section unless that provision of law—
 
 (1) specifically refers to this section; and
 
 (2) specifically states that the acquisition of the higher quantity of the end item is prohibited notwithstanding the authority provided in this section.
 
-**(e) Definitions.—**
+**(d) Definitions.—**
 
 (1) For the purposes of this section, a quantity of an end item shall be considered specified in a law if the quantity is specified either in a provision of that law or in any related representation that is set forth separately in a table, chart, or explanatory text included in a joint explanatory statement or governing committee report accompanying the law.
 
-(2) In this section:
-
-  (A) The term “end item” means a production product assembled, completed, and ready for issue or deployment.
-
-  (B) The term “head of an agency” means the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force.
+(2) In this section, the term “end item” means a production product assembled, completed, and ready for issue or deployment.
 
 ### Statutory Notes
 
@@ -280,6 +264,22 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 A prior section 3069 was renumbered [section 7069 of this title](./chapter-707-the-army.md#section-7069).
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 812(a)(4)(A)(i), in introductory provisions, substituted “a contracting officer making the acquisition may acquire a higher quantity of the end item than the quantity specified for the end item in a law providing for the funding of that acquisition if that contracting officer determines in writing that:” for “the head of an agency making the acquisition may acquire a higher quantity of the end item than the quantity specified for the end item in a law providing for the funding of that acquisition if that head of an agency makes each of the following findings:”.
+
+Subsec. (a)(4). Pub. L. 119–60, § 812(a)(4)(A)(ii), struck out par. (4) which read as follows: “The amount so provided is sufficient to ensure that each unit of the end item acquired within the higher quantity is fully funded as a complete end item.”
+
+Subsec. (b). Pub. L. 119–60, § 812(a)(4)(B), struck out “The regulations shall include, at a minimum, the following:” after “administration of this section.” in introductory provisions and struck out pars. (1) and (2) which read as follows:
+
+“(1) The level of approval within the Department of Defense that is required for a decision to acquire a higher quantity of an end item under subsection (a).
+
+“(2) Authority (subject to subsection (a)) to acquire up to 10 percent more than the quantity of an end item approved in a justification and approval of the use of procedures other than competitive procedures for the acquisition of the end item under sections 3201 through 3205 of this title.”
+
+Subsecs. (c), (d). Pub. L. 119–60, § 812(a)(4)(C), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c). Prior to amendment, subsec. (c) related to notification of Congress regarding a decision to acquire a higher quantity of an end item than is specified in a law described in subsection (a).
+
+Subsec. (d)(2). Pub. L. 119–60, § 812(a)(4)(D), amended par. (2) generally. Prior to amendment, par. (2) defined terms “end item” and “head of an agency”.
+
+Subsec. (e). Pub. L. 119–60, § 812(a)(4)(C), redesignated subsec. (e) as (d).
+
 2021—Pub. L. 116–283 renumbered [section 2308 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2308) as this section.
 
 Subsec. (b)(2). Pub. L. 116–283 substituted “sections 3201 through 3205” for “section 2304”.
@@ -297,48 +297,36 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 
 <a id="section-3070"></a>
-## § 3070. Limitation on acquisition of excess supplies
-**(a) Two-Year Supply.—** The Secretary of Defense may not incur any obligation against a stock fund of the Department of Defense for the acquisition of any item of supply if that acquisition is likely to result in an on-hand inventory (excluding war reserves) of that item of supply in excess of two years of operating stocks.
-
-**(b) Exceptions.—** The head of a procuring activity may authorize the acquisition of an item of supply in excess of the limitation contained in subsection (a) if that activity head determines in writing—
-
-(1) that the acquisition is necessary to achieve an economical order quantity and will not result in an on-hand inventory (excluding war reserves) in excess of three years of operating stocks and that the need for the item is unlikely to decline during the period for which the acquisition is made; or
-
-(2) that the acquisition is necessary for purposes of maintaining the industrial base or for other reasons of national security.
+## § 3070. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(2), Dec. 18, 2025, 139 Stat. 948]
 
 ### Statutory Notes
 
-#### Prior Provisions
+Section, added Pub. L. 102–190, div. A, title III, § 317(a), Dec. 5, 1991, 105 Stat. 1338, § 2213; renumbered § 3070, Pub. L. 116–283, div. A, title XVIII, § 1807(g)(1), Jan. 1, 2021, 134 Stat. 4159; amended Pub. L. 118–159, div. A, title VIII, § 812, Dec. 23, 2024, 138 Stat. 1979, related to limitation on acquisition of excess supplies.
+
 A prior section 3070 was renumbered [section 7070 of this title](./chapter-707-the-army.md#section-7070).
 
 A prior section 3071, acts Aug. 10, 1956, ch. 1041, 70A Stat. 169; Sept. 7, 1962, Pub. L. 87–649, § 6(a)(2), (3), 76 Stat. 494; Nov. 8, 1967, Pub. L. 90–130, § 1(8)(C), 81 Stat. 374, prescribed composition of Women’s Army Corps and provided for a Director, a Deputy Director, and other positions for Women’s Army Corps, prior to repeal by Pub. L. 95–485, title VIII, § 820(b), Oct. 20, 1978, 92 Stat. 1627.
 
-#### Amendments
-2021—Pub. L. 116–283 renumbered [section 2213 of this title](./chapter-131-planning-and-coordination.md#section-2213) as this section.
-
-#### Effective Date of 2021 Amendment
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
-
 
 <a id="section-3072"></a>
-## § 3072. Comptroller General assessment of acquisition programs and efforts
-**(a) Assessment Required.—** The Comptroller General of the United States shall submit to the congressional defense committees an annual assessment of selected acquisition programs and efforts of the Department of Defense by March 30th of each year from 2020 through 2026.
+## § 3072. Comptroller General assessment of acquisition programs and initiatives
+**(a) Assessment Required.—** The Comptroller General of the United States shall submit to the congressional defense committees an annual assessment of selected acquisition programs and initiatives of the Department of Defense by March 30th of each year from 2020 through 2029.
 
 **(b) Analyses To Be Included.—** The assessment required under subsection (a) shall include—
 
-(1) a macro analysis of how well acquisition programs and efforts are performing and reasons for that performance;
+(1) a macro analysis of how well acquisition programs and initiatives are performing and reasons for that performance;
 
-(2) a discussion of selected organizational, policy, and legislative changes, as determined appropriate by the Comptroller General, and the potential implications for execution and oversight of programs and efforts; and
+(2) specific analyses of individual acquisition programs and initiatives; and
 
-(3) specific analyses of individual acquisition programs and efforts.
+(3) other issues as determined appropriate by the Comptroller General.
 
-**(c) Acquisition Programs and Efforts to Be Considered.—** The assessment required under subsection (a) shall consider the following programs and efforts:
+**(c) Acquisition Programs and Initiatives to Be Considered.—** The assessment required under subsection (a) shall consider the following programs and initiatives:
 
 (1) Selected weapon systems, as determined appropriate by the Comptroller General.
 
-(2) Selected information technology systems and efforts, including defense business systems, networks, and software-intensive systems, as determined appropriate by the Comptroller General.
+(2) Selected information technology systems and initiatives, including defense business systems, networks, and software-intensive systems, as determined appropriate by the Comptroller General.
 
-(3) Selected prototyping and rapid fielding activities and efforts, as determined appropriate by the Comptroller General.
+(3) Selected prototyping and rapid fielding activities and initiatives, as determined appropriate by the Comptroller General.
 
 ### Statutory Notes
 
@@ -360,6 +348,14 @@ Section 3080, added Pub. L. 86–603, § 1(2)(A), July 7, 1960, 74 Stat. 357, re
 Prior sections 3081, 3082, 3083, and 3084 were renumbered sections 7081, 10542, 7083, and 7084 of this title, respectively.
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 119–60 substituted “Initiatives” for “Efforts” in heading.
+
+2024—Pub. L. 118–159, § 813(a)(1), (2), substituted “initiatives” for “efforts” in section catchline and wherever appearing in text.
+
+Subsec. (a). Pub. L. 118–159, § 813(a)(3), substituted “2029” for “2026”.
+
+Subsec. (b)(2), (3). Pub. L. 118–159, § 813(a)(4), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2) which read as follows: “a discussion of selected organizational, policy, and legislative changes, as determined appropriate by the Comptroller General, and the potential implications for execution and oversight of programs and efforts; and”.
+
 2022—Pub. L. 117–263, § 812(a)(1), (2), substituted “efforts” for “initiatives” in section catchline and wherever appearing in text.
 
 Subsec. (a). Pub. L. 117–263, § 812(a)(3), substituted “through 2026” for “through 2023”.

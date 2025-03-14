@@ -2,7 +2,7 @@
 title: 10
 chapter: '903'
 heading: DEPARTMENT OF THE AIR FORCE
-section_count: 16
+section_count: 17
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -163,8 +163,17 @@ Amendment by Pub. L. 117–81 applicable with respect to appointments made on or
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
+#### Blast Damage Assessment Guide for Space Vehicles at Air Force Launch Complexes
+Pub. L. 119–60, div. A, title XVI, § 1610, Dec. 18, 2025, 139 Stat. 1180, provided that: “(a) Requirement.—Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of the Air Force shall publish a liquid oxygen and methane blast damage assessment guide for space launch vehicles at Air Force launch complexes. “(b) Notice and Briefing.—Not later than 30 days after the date on which the Secretary publishes the assessment guide under subsection (a), the Secretary shall—“(1) notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of such publication; and “(2) provide the congressional defense committees with a briefing on the contents of the assessment guide. “(c) Waiver.—“(1) Authority.—The Secretary may waive the one-year publication timeline under subsection (a) for national security purposes, or if the Secretary determines that such timeline is impractical, if the Secretary notifies the congressional defense committees with respect to an alternate date on which the publication shall occur. “(2) Limitation.—The Secretary may exercise the waiver authority under paragraph (1) not more than once.”
+
+#### Provision By Air Force of Meteorological Services for Intelligence Community
+Pub. L. 119–60, div. A, title XVI, § 1624, Dec. 18, 2025, 139 Stat. 1183, provided that: “(a) In General.—The Secretary of the Air Force shall provide meteorological services for operations of—“(1) each combat support agency that is an element of the intelligence community; and “(2) by agreement with the head of any other element of the intelligence community, that element of the intelligence community. “(b) Definitions.—In this section:“(1) The term ‘combat support agency’ has the meaning given that term in [section 193 of title 10](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-193), United States Code. “(2) The term ‘intelligence community’ has the meaning given that term in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim)).”
+
+#### Provision by Secretary of the Air Force of Meteorological Data for Air Force and Army
+Pub. L. 118–159, div. A, title III, § 321, Dec. 23, 2024, 138 Stat. 1853, provided that: “(a) In General.—Except as provided in subsection (b), the Secretary of the Air Force shall provide meteorological and environmental services for operations of the Department of the Air Force and shall provide meteorological services for the Department of the Army. “(b) Exception for Ballistics Data.—The requirement under subsection (a) shall not apply to meteorological ballistics data for the Department of the Army.”
+
 #### Rating Chains for System Program Managers
-Pub. L. 112–239, div. A, title III, § 323, Jan. 2, 2013, 126 Stat. 1696, provided that: “The Secretary of the Air Force, in managing system program management responsibilities for sustainment programs not assigned to a program executive officer or a direct reporting program manager, shall comply with the Department of Defense Instructions regarding assignment of program responsibility.”
+Pub. L. 112–239, div. A, title III, § 323, Jan. 2, 2013, 126 Stat. 1696, as amended Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(A), Dec. 18, 2025, 139 Stat. 1227, provided that: “The Secretary of the Air Force, in managing system program management responsibilities for sustainment programs not assigned to a portfolio acquisition executive or a direct reporting program manager, shall comply with the Department of Defense Instructions regarding assignment of program responsibility.”
 
 #### Order of Succession
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Air Force, see Ex. Ord. No. 12909, Apr. 22, 1994, 59 F.R. 21909, listed in a table under [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
@@ -367,7 +376,7 @@ For order of succession in event of death, permanent disability, or resignation 
 
       (I) The Space Rapid Capabilities Office under [section 2273a of this title](./chapter-135-space-programs.md#section-2273a).
 
-      (II) The Space and Missile Systems Center.
+      (II) The Space Systems Command.
 
       (III) The Space Development Agency with respect to acquisition decisions.
 
@@ -388,6 +397,8 @@ Section 956(b)(3) of the United States Space Force Act and section 957 of that A
 Provisions similar to those in this section were contained in [section 3013 of this title](./chapter-201-definitions.md#section-3013) prior to enactment of Pub. L. 99–433.
 
 #### Amendments
+2024—Subsec. (b)(6)(B)(iv)(II). Pub. L. 118–159 substituted “Space Systems Command” for “Space and Missile Systems Center”.
+
 2023—Subsec. (b)(6)(C). Pub. L. 118–31 added subpar. (C).
 
 2021—Subsec. (b)(6)(B)(i). Pub. L. 117–81, § 1602(b)(2), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “Be responsible for all architecture and integration of the Air Force for space systems and programs, including in support of the Chief of Space Operations under [section 9082 of this title](./chapter-908-the-space-force.md#section-9082).”
@@ -433,6 +444,9 @@ For applicability of appointment qualifications imposed by section 921 of Pub. L
 
 #### Effective Date of 1988 Amendment
 Pub. L. 100–456, div. A, title VII, § 702(e)(2), Sept. 29, 1988, 102 Stat. 1996, provided that: “The amendments made by subsections (c) and (d) [enacting [section 8022 of this title](./chapter-803-department-of-the-navy.md#section-8022) and amending this section] shall take effect on July 1, 1989, except that such amendments shall take effect on such earlier date, but not before January 21, 1989, as may be prescribed by the President in advance by Executive order.”
+
+#### Senior Advisor for Space Command, Control, and Integration
+Pub. L. 118–159, div. A, title XVI, § 1607, Dec. 23, 2024, 138 Stat. 2162, provided that: “(a) Designation.—Not later than 30 days after the date of the enactment of this Act [Dec. 23, 2024], the Assistant Secretary of the Air Force for Space Acquisition and Integration, acting as the service acquisition executive for the Air Force for space systems and programs, shall designate from among qualified officers and employees of the Department of Defense a Senior Advisor for Space Command, Control, and Integration. “(b) Responsibilities.—The Senior Advisor shall be responsible for conducting oversight of all acquisition efforts within the authority of the Assistant Secretary with respect to developing, upgrading, deploying, and sustaining space command, control, and integration to meet the space command, control, and integration requirements of the combatant commands, including by monitoring system-level integration of each of the following:“(1) Space domain sensors. “(2) Space catalog. “(3) Target recognition. “(4) Weapons system selection and control. “(5) Battle damage assessment. “(6) Associated communications among elements of the space control and command architecture of the Department of Defense. “(c) Notification.—Not later than 10 days after the date on which a designation is made under subsection (a), the Assistant Secretary shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of such designation. “(d) Annual Review.—Not later than June 30 of each year, the Space Acquisition Council established by [section 9021 of title 10](./chapter-903-department-of-the-air-force.md#section-9021), United States Code, shall review whether the requirements of the United States Space Command with respect to space command, control, and integration are being fulfilled. “(e) Annual Briefing.—At the same time as the submission of each budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, through fiscal year 2029, the Assistant Secretary, in consultation with the Commander of the United States Space Command, shall provide to the congressional defense committees a briefing on the status of all space command, control, and integration activities to support the missions of the Armed Forces. The briefing shall include—“(1) accomplishments achieved in the year prior to the submission of the respective budget; and “(2) actions to meet the requirements of the United States Space Command with respect to space command, control, and integration that will be taken during the period covered by the most recent future-years defense program submitted under [section 221 of title 10](./chapter-009-defense-budget-matters.md#section-221), United States Code, as of the date of the briefing.”
 
 #### Assistant Secretary of the Air Force for Space Acquisition and Integration
 Pub. L. 116–92, div. A, title IX, § 956(a), Dec. 20, 2019, 133 Stat. 1565, provided that: “(a) Redesignation of Principal Assistant for Space as Assistant Secretary for Space Acquisition and Integration.—“(1) In general.—The Principal Assistant to the Secretary of the Air Force for Space is hereby redesignated as the Assistant Secretary of the Air Force for Space Acquisition and Integration. “(2) References.—Any reference to the Principal Assistant to the Secretary of the Air Force for Space in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Assistant Secretary of the Air Force for Space Acquisition and Integration.”
@@ -769,3 +783,44 @@ The Director of Small and Disadvantaged Business Utilization of the Department o
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
+<a id="section-9025"></a>
+## § 9025. Office of Expanded Competition
+**(a) Establishment.—** There is in the Office of the Secretary of the Air Force an office to be known as the Office of Expanded Competition (in this section referred to as the “Office”).
+
+**(b) Director.—** The head of the Office shall be the Director. The Director shall be appointed by the Secretary of the Air Force from among employees of the Department of Defense with requisite subject matter expertise who—
+
+(1) are in a Senior Executive Service position (as defined in [section 3132 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132&num=0&edition=prelim)) at the time of appointment; or
+
+(2) are not in a Senior Executive Service position at the time of appointment, but meet the Executive Core Qualifications (ECQs) for such a position.
+
+**(c) Duties.—** The duties of the Office are as follows:
+
+(1) In consultation with other components of the Department of Defense and the Federal Government, conduct coordinated and integrated assessments of adversarial capital flows into industries or businesses of interest to the Department of Defense.
+
+(2) Identify and prioritize promising critical technologies and assets for the Joint Force in need of capital assistance, including critical technologies and assets available from foreign entities.
+
+(3) Fund investments in such technologies and assets, including supply chain technologies not always supported through direct investment.
+
+(4) Support the coordination and outreach efforts of technology scouting and acquisition elements within the Department of Defense to enable investment decision-making by those elements that counteract entities employing adversarial capital flows against industries or businesses described in paragraph (1), including the employment of relevant authorities vested in other components of the Department and the Federal Government.
+
+(5) Identify, accelerate, and sustain the establishment, research, development, construction, procurement, leasing, consolidation, alteration, improvement, modernization, and repair of tangible and intangible assets vital to the national security of the United States.
+
+(6) Help the Department of Defense provide capital assistance to entities, including foreign entities, engaged in investments that facilitate the efforts of the Department.
+
+(7) Experiment, prototype, test, or validate Government-developed or commercially developed analytical tools, processes, and tradecraft to improve the due diligence and investment analysis processes for the Department of Defense, including the employment of relevant delegated authorities vested in other components of the Department and the Federal Government.
+
+(8) Assist the Secretary of Defense in developing access and placement using commercial means.
+
+(9) Otherwise engage with, coordinate, and collaborate with other components of the Department of Defense and the Federal Government to maximize efficiencies and promote whole-of-government solutions to protect the national security of the United States.
+
+**(d) Definitions.—** In this section:
+
+(1) The term “adversarial capital flow” means an investment by—
+
+  (A) the government of a country that is an adversary of the United States; or
+
+  (B) an entity organized under the laws of, or otherwise subject to the jurisdiction of, such a country.
+
+(2) The term “capital assistance” means a loan, loan guarantee, or technical assistance.

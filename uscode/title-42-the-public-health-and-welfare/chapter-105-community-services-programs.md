@@ -388,7 +388,7 @@ To the extent he deems appropriate, the Secretary shall utilize funds available 
 #### References in Text
 [Section 681(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section681/d&num=0&edition=prelim), referred to in subsec. (a)(1), was repealed by Pub. L. 104–208, div. D, title II, § 208(b)(3)(A), Sept. 30, 1996, 110 Stat. 3009–742.
 
-The Public Works and Economic Development Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended. Titles I to VI of the Act of 1965 were repealed and new titles I to VI were enacted by Pub. L. 105–393, title I, § 102(a), Nov. 13, 1998, 112 Stat. 3597. As so enacted, section 401 of the Act no longer defines “redevelopment areas” and section 202 of the Act no longer contains a subsec. (b). For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121) and Tables.
+The Public Works and Economic Development Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552. Titles I to VI of the Act of 1965 were repealed and new titles I to VI were enacted by Pub. L. 105–393, title I, § 102(a), Nov. 13, 1998, 112 Stat. 3597. As so enacted, section 401 of the Act no longer defines “redevelopment areas” and section 202 of the Act no longer contains a subsec. (b). For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121) and Tables.
 
 
 <a id="section-9820"></a>
@@ -1288,7 +1288,7 @@ Subsec. (a)(6). Pub. L. 105–285, § 106(a)(5), designated existing provisions 
 
 Subsec. (d). Pub. L. 105–285, § 106(b)(2), which directed striking out “(as defined in [section 1401(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1401/a&num=0&edition=prelim))”, was executed by striking out “(as defined in [section 1401(a)(1) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1401/a/1&num=0&edition=prelim))” after “children with disabilities” to reflect the probable intent of Congress.
 
-Pub. L. 105–285, § 106(b)(1), (3), substituted “1999” for “1982” and inserted at end “Such policies and procedures shall require Head Start agencies to coordinate programmatic efforts with efforts to implement part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C 1431–1445, 1419).”.
+Pub. L. 105–285, § 106(b)(1), (3), substituted “1999” for “1982” and inserted at end “Such policies and procedures shall require Head Start agencies to coordinate programmatic efforts with efforts to implement part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C 1431–1445, 1419).”
 
 Subsec. (g)(2)(A). Pub. L. 105–285, § 106(c)(1)(A), inserted before semicolon at end “, and the performance history of the applicant in providing services under other Federal programs (other than the program carried out under this subchapter)”.
 
@@ -2562,7 +2562,7 @@ Section effective May 18, 1994, but not applicable to Head Start agencies and ot
 ### Statutory Notes
 
 #### References in Text
-The Individuals with Disabilities Education Act, referred to in subsecs. (b)(14), (15), and (e)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to [section 1419 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1419&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (b)(14), (15) and (e)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to [section 1419 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1419&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (e)(3), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see [section 9857(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9857/a&num=0&edition=prelim) and Tables.
 

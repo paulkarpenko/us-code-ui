@@ -288,12 +288,12 @@ In this chapter:
 
 (3) **Briefings** — The Secretary shall keep the appropriate congressional committees fully and currently informed as such strategies are developed.
 
-**(b) Omitted**
+**(b) to (d) Omitted or repealed**
 
 ### Statutory Notes
 
 #### Codification
-Section is comprised of section 2121 of Pub. L. 110–53. Subsecs. (b) and (d) of section 2121 of Pub. L. 110–53 amended section 665(c) of Pub. L. 107–228, which is set out as a note under [section 2151n of this title](./chapter-032-foreign-assistance.md#section-2151n). Subsec. (c) of section 2121 was repealed by section 6707(b)(3) of Pub. L. 118–31.
+Section is comprised of section 2121 of Pub. L. 110–53. Subsecs. (b) and (d) of section 2121 of Pub. L. 110–53 amended section 665(c) of Pub. L. 107–228, which is set out as a note under [section 2151n of this title](./chapter-032-foreign-assistance.md#section-2151n). Subsec. (c) of section 2121 of Pub. L. 110–53 was repealed by Pub. L. 118–31, see 2023 Amendment note below.
 
 #### Amendments
 2023—Subsec. (c). Pub. L. 118–31 struck out subsec. (c). Text read as follows: “The Annual Report on Advancing Freedom and Democracy shall include, as appropriate—

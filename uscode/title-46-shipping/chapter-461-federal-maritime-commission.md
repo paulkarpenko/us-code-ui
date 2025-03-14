@@ -85,7 +85,7 @@ Subsection (c)(4) is based on section 3 of Reorganization Plan No. 6 of 1949.
 
 Subsec. (b)(3). Pub. L. 117–263, § 11801(a)(2), substituted “to which such individual is appointed” for “of the individual being succeeded”, “3 terms” for “2 terms”, and “such” for “the predecessor of that”.
 
-2021—Pub. L. 116–283, § 8605(a)(3), renumbered [section 301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section301&num=0&edition=prelim) as this section.
+2021—Pub. L. 116–283, § 8605(a)(3), renumbered [section 301 of this title](./chapter-003-automatic-execution-of-conforming-changes.md#section-301) as this section.
 
 Subsec. (c)(3)(A)(v). Pub. L. 116–283, § 8605(b)(1), substituted “46104” for “304”.
 
@@ -240,7 +240,7 @@ Pub. L. 115–282, title VII, § 712, Dec. 4, 2018, 132 Stat. 4298, provided tha
 
 
 <a id="section-46106"></a>
-## § 46106. Annual report
+## § 46106. Annual report and public disclosure
 **(a) In General.—** Not later than April 1 of each year, the Federal Maritime Commission shall submit a report to Congress. The report shall include the results of its investigations, a summary of its transactions, the purposes for which all of its expenditures were made, and any recommendations for legislation.
 
 **(b) Report on Foreign Laws and Practices.—** The Commission shall include in its annual report to Congress—
@@ -293,6 +293,8 @@ The reference to “this part”, referred to in subsec. (b)(6), was added when 
 The date of enactment of this paragraph, referred to in subsec. (b)(7)(B)(i), is the date of enactment of Pub. L. 117–146, which was approved June 16, 2022.
 
 #### Amendments
+2024—Pub. L. 118–159 inserted “and public disclosure” after “report” in section catchline.
+
 2022—Subsec. (b)(7). Pub. L. 117–146, § 14, added par. (7).
 
 Subsec. (d). Pub. L. 117–146, § 6, added subsec. (d).

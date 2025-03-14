@@ -6085,9 +6085,11 @@ Pub. L. 109–364, div. A, title VI, § 622(a)(3), Oct. 17, 2006, 120 Stat. 2256
 
   (B) under other conditions of service in an armed force;
 
-(4) transfers from a regular component of an armed force to a reserve component of that same armed force or from a reserve component of an armed force to the regular component of that same armed force; or
+(4) transfers from a regular component of an armed force to a reserve component of that same armed force or from a reserve component of an armed force to the regular component of that same armed force;
 
-(5) transfers from a regular component or reserve component of an armed force to a regular component or reserve component of another armed force, subject to the approval of the Secretary with jurisdiction over the armed force to which the member is transferring.
+(5) transfers from a regular component or reserve component of an armed force to a regular component or reserve component of another armed force, subject to the approval of the Secretary with jurisdiction over the armed force to which the member is transferring; or
+
+(6) transfers from a regular component or reserve component of an armed force to the Space Force or from the Space Force to a regular component or reserve component of another armed force, subject to the approval of the Secretary with jurisdiction over the armed force to which the member is transferring.
 
 **(b) Service Eligibility.—** A bonus authorized by subsection (a) may be paid to a person or member only if the person or member agrees under subsection (d)—
 
@@ -6101,11 +6103,11 @@ Pub. L. 109–364, div. A, title VI, § 622(a)(3), Oct. 17, 2006, 120 Stat. 2256
 
   (A) a bonus paid under paragraph (1) or (2) of subsection (a) may not exceed $75,000 for a minimum two-year period of obligated service agreed to under subsection (d);
 
-  (B) a bonus paid under paragraph (3) of subsection (a) may not exceed $50,000 for each year of obligated service in a regular component agreed to under subsection (d);
+  (B) a bonus paid under paragraph (3) of subsection (a) may not exceed $50,000 for each year of obligated service in a regular component, or in the Space Force on sustained duty under [section 20105 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105&num=0&edition=prelim), agreed to under subsection (d);
 
-  (C) a bonus paid under paragraph (3) of subsection (a) may not exceed $15,000 for each year of obligated service in a reserve component agreed to under subsection (d); and
+  (C) a bonus paid under paragraph (3) of subsection (a) may not exceed $15,000 for each year of obligated service in a reserve component, or in the Space Force in space force active status not on sustained duty under [section 20105 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105&num=0&edition=prelim), agreed to under subsection (d); and
 
-  (D) a bonus paid under paragraph (4) or (5) of subsection (a) may not exceed $10,000.
+  (D) a bonus paid under paragraph (4), (5), or (6) of subsection (a) may not exceed $10,000.
 
 (2) **Lump sum or installments.—** — A bonus under this section may be paid in a lump sum or in periodic installments, as determined by the Secretary concerned.
 
@@ -6127,11 +6129,23 @@ Pub. L. 109–364, div. A, title VI, § 622(a)(3), Oct. 17, 2006, 120 Stat. 2256
 
 **(g) Repayment.—** A person or member who receives a bonus under this section and who fails to complete the period of service, or meet the conditions of service, for which the bonus is paid, as specified in the written agreement under subsection (d), shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(h) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2024.
+**(h) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2026.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a)(6). Pub. L. 119–60, § 601(c)(1)(A), added par. (6).
+
+Subsec. (c)(1)(B). Pub. L. 119–60, § 601(c)(1)(B)(i), inserted “, or in the Space Force on sustained duty under [section 20105 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105&num=0&edition=prelim),” after “in a regular component”.
+
+Subsec. (c)(1)(C). Pub. L. 119–60, § 601(c)(1)(B)(ii), inserted “, or in the Space Force in space force active status not on sustained duty under [section 20105 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105&num=0&edition=prelim),” after “in a reserve component”.
+
+Subsec. (c)(1)(D). Pub. L. 119–60, § 601(c)(1)(B)(iii), substituted “paragraph (4), (5), or (6)” for “paragraph (4) or (5)”.
+
+Subsec. (h). Pub. L. 119–60, § 611(d)(1), substituted “December 31, 2026” for “December 31, 2025”.
+
+2024—Subsec. (h). Pub. L. 118–159 substituted “December 31, 2025” for “December 31, 2024”.
+
 2023—Subsec. (h). Pub. L. 118–31 substituted “December 31, 2024” for “December 31, 2023”.
 
 2022—Subsec. (c)(1)(A). Pub. L. 117–263, § 602(a)(1), substituted “$75,000” for “$50,000”.
@@ -6177,9 +6191,11 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 (3) agrees to remain on active duty or to serve in an active status for a specific period as an officer in a uniformed service;
 
-(4) transfers from a regular component of a uniformed service to a reserve component of that same uniformed service or from a reserve component of a uniformed service to the regular component of that same uniformed service; or
+(4) transfers from a regular component of a uniformed service to a reserve component of that same uniformed service or from a reserve component of a uniformed service to the regular component of that same uniformed service;
 
-(5) transfers from a regular component or reserve component of a uniformed service to a regular component or reserve component of another uniformed service, subject to the approval of the Secretary with jurisdiction over the uniformed service to which the member is transferring.
+(5) transfers from a regular component or reserve component of a uniformed service to a regular component or reserve component of another uniformed service, subject to the approval of the Secretary with jurisdiction over the uniformed service to which the member is transferring; or
+
+(6) transfers from a regular component or reserve component of a uniformed service to the Space Force or from the Space Force to a regular component or reserve component of another uniformed service, subject to the approval of the Secretary with jurisdiction over the uniformed service to which the member is transferring.
 
 **(b) Service Eligibility.—** A bonus authorized by subsection (a) may be paid to a person or officer only if the person or officer agrees under subsection (d)—
 
@@ -6195,11 +6211,11 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
   (B) a bonus paid under paragraph (2) of subsection (a) may not exceed $20,000 for a minimum three-year period of obligated service agreed to under subsection (d);
 
-  (C) a bonus paid under paragraph (3) of subsection (a) may not exceed $50,000 for each year of obligated service in a regular component agreed to under subsection (d);
+  (C) a bonus paid under paragraph (3) of subsection (a) may not exceed $50,000 for each year of obligated service in a regular component, or in the Space Force on sustained duty under [section 20105 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105&num=0&edition=prelim), agreed to under subsection (d);
 
-  (D) a bonus paid under paragraph (3) of subsection (a) may not exceed $12,000 for each year of obligated service in a reserve component agreed to under subsection (d); and
+  (D) a bonus paid under paragraph (3) of subsection (a) may not exceed $12,000 for each year of obligated service in a reserve component, or in the Space Force in space force active status not on sustained duty under [section 20105 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105&num=0&edition=prelim), agreed to under subsection (d); and
 
-  (E) a bonus paid under paragraph (4) or (5) of subsection (a) may not exceed $10,000.
+  (E) a bonus paid under paragraph (4), (5), or (6) of subsection (a) may not exceed $10,000.
 
 (2) **Lump sum or installments.—** — A bonus under this section may be paid in a lump sum or in periodic installments, as determined by the Secretary concerned.
 
@@ -6219,11 +6235,23 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 **(f) Repayment.—** A person or officer who receives a bonus under this section and who fails to complete the period of service, or meet the conditions of service, for which the bonus is paid, as specified in the written agreement under subsection (d), shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2024.
+**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2026.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a)(6). Pub. L. 119–60, § 601(c)(2)(A), added par. (6).
+
+Subsec. (c)(1)(C). Pub. L. 119–60, § 601(c)(2)(B)(i), inserted “, or in the Space Force on sustained duty under [section 20105 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105&num=0&edition=prelim),” after “in a regular component”.
+
+Subsec. (c)(1)(D). Pub. L. 119–60, § 601(c)(2)(B)(ii), inserted “, or in the Space Force in space force active status not on sustained duty under [section 20105 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105&num=0&edition=prelim),” after “in a reserve component”.
+
+Subsec. (c)(1)(E). Pub. L. 119–60, § 601(c)(2)(B)(iii), substituted “paragraph (4), (5), or (6)” for “paragraph (4) or (5)”.
+
+Subsec. (g). Pub. L. 119–60, § 611(d)(2), substituted “December 31, 2026” for “December 31, 2025”.
+
+2024—Subsec. (g). Pub. L. 118–159 substituted “December 31, 2025” for “December 31, 2024”.
+
 2023—Subsec. (g). Pub. L. 118–31 substituted “December 31, 2024” for “December 31, 2023”.
 
 2022—Subsec. (g). Pub. L. 117–263 substituted “December 31, 2023” for “December 31, 2022”.
@@ -6305,11 +6333,15 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 **(h) Regulations.—** This section shall be administered under regulations prescribed by the Secretary of the Navy.
 
-**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2024.
+**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2026.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (i). Pub. L. 119–60 substituted “December 31, 2026” for “December 31, 2025”.
+
+2024—Subsec. (i). Pub. L. 118–159 substituted “December 31, 2025” for “December 31, 2024”.
+
 2023—Subsec. (i). Pub. L. 118–31 substituted “December 31, 2024” for “December 31, 2023”.
 
 2022—Subsec. (d)(1)(A). Pub. L. 117–263, § 602(b), substituted “$75,000” for “$50,000”.
@@ -6351,7 +6383,7 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 ## § 334. Special aviation incentive pay and bonus authorities for officers
 **(a) Aviation Incentive Pay.—**
 
-(1) **Incentive pay authorized.—** — The Secretary concerned may pay aviation incentive pay under this section to an officer in a regular or reserve component of a uniformed service who—
+(1) **Incentive pay authorized.—** — The Secretary concerned may pay aviation incentive pay under this section to an officer of a uniformed service who—
 
   (A) is entitled to basic pay under [section 204 of this title](./chapter-003-basic-pay.md#section-204) or compensation under [section 206 of this title](./chapter-003-basic-pay.md#section-206);
 
@@ -6365,13 +6397,13 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 (2) **Officers not currently engaged in flying duty.—** — The Secretary concerned may pay aviation incentive pay under this section to an officer who is otherwise qualified for such pay but who is not currently engaged in the performance of operational flying duty or proficiency flying duty if the Secretary determines, under regulations prescribed under [section 374 of this title](./chapter-005-special-and-incentive-pays.md#section-374), that payment of aviation incentive pay to that officer is in the best interests of the service.
 
-**(b) Aviation Bonus.—** The Secretary concerned may pay an aviation bonus under this section to an officer in a regular or reserve component of a uniformed service who—
+**(b) Aviation Bonus.—** The Secretary concerned may pay an aviation bonus under this section to an officer of a uniformed service who—
 
 (1) is entitled to aviation incentive pay under subsection (a);
 
 (2) has completed any active duty service commitment incurred for undergraduate aviator training or is within one year of completing such commitment;
 
-(3) executes a written agreement to remain on active duty in a regular component or to serve in an active status in a reserve component in aviation service for at least one year; and
+(3) executes a written agreement to remain on active duty in a regular component or to serve in an active status in a reserve component, or, in the case of an officer of the Space Force, to remain in space force active status in aviation service for at least one year; and
 
 (4) meets such other criteria as the Secretary concerned determines appropriate.
 
@@ -6411,7 +6443,7 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 (4) the type or conditions of the service.
 
-**(e) Reserve Component Officers Performing Inactive Duty Training.—** A reserve component officer who is entitled to compensation under [section 206 of this title](./chapter-003-basic-pay.md#section-206) and who is authorized aviation incentive pay under this section may be paid an amount of incentive pay that is proportionate to the compensation received under section 206 for inactive-duty training.
+**(e) Officers Performing Inactive Duty Training.—** An officer who is entitled to compensation under [section 206 of this title](./chapter-003-basic-pay.md#section-206) and who is authorized aviation incentive pay under this section may be paid an amount of incentive pay that is proportionate to the compensation received under section 206 for inactive-duty training.
 
 **(f) Relationship to Other Pay and Allowances.—**
 
@@ -6423,19 +6455,33 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 
 **(h) Definitions.—** In this section:
 
-(1) The term “aviation service” means service performed by an officer in a regular or reserve component while holding an aeronautical rating or designation or while in training to receive an aeronautical rating or designation.
+(1) The term “aviation service” means service performed by an officer while holding an aeronautical rating or designation or while in training to receive an aeronautical rating or designation.
 
-(2) The term “operational flying duty” means flying performed under competent orders by rated or designated regular or reserve component officers while serving in assignments in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying performed by members in training that leads to the award of an aeronautical rating or designation.
+(2) The term “operational flying duty” means flying performed under competent orders by rated or designated officers while serving in assignments in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying performed by members in training that leads to the award of an aeronautical rating or designation.
 
-(3) The term “proficiency flying duty” means flying performed under competent orders by rated or designated regular or reserve component officers while serving in assignments in which such skills would normally not be maintained in the performance of assigned duties.
+(3) The term “proficiency flying duty” means flying performed under competent orders by rated or designated officers while serving in assignments in which such skills would normally not be maintained in the performance of assigned duties.
 
 (4) The term “officer” includes an individual enlisted and designated as an aviation cadet under [section 8411 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8411&num=0&edition=prelim).
 
-**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2024.
+**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2026.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsecs. (a)(1), (b). Pub. L. 119–60, § 601(c)(3)(A), struck out “in a regular or reserve component” after “to an officer” in introductory provisions.
+
+Subsec. (b)(3). Pub. L. 119–60, § 601(c)(3)(B), inserted “, or, in the case of an officer of the Space Force, to remain in space force active status,” after “in a reserve component”.
+
+Subsec. (e). Pub. L. 119–60, § 601(c)(3)(C), struck out “Reserve Component” before “Officers” in heading and substituted “An officer” for “A reserve component officer” in text.
+
+Subsec. (h)(1). Pub. L. 119–60, § 601(c)(3)(A), struck out “in a regular or reserve component” after “an officer”.
+
+Subsec. (h)(2), (3). Pub. L. 119–60, § 601(c)(3)(D), struck out “regular or reserve component” after “rated or designated”.
+
+Subsec. (i). Pub. L. 119–60, § 611(d)(3), substituted “December 31, 2026” for “December 31, 2025”.
+
+2024—Subsec. (i). Pub. L. 118–159 substituted “December 31, 2025” for “December 31, 2024”.
+
 2023—Subsec. (i). Pub. L. 118–31 substituted “December 31, 2024” for “December 31, 2023”.
 
 2022—Subsec. (c)(1)(A). Pub. L. 117–263, § 602(c)(1), substituted “$1,500” for “$1,000”.
@@ -6675,11 +6721,15 @@ Amendment by section 809(m)(3) of Pub. L. 115–232 effective Feb. 1, 2019, with
 
 (8) Any health profession performed by officers in the regular or reserve corps 11 See Change of Name note below. of the Public Health Service.
 
-**(k) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2024.
+**(k) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2026.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (k). Pub. L. 119–60 substituted “December 31, 2026” for “December 31, 2025”.
+
+2024—Subsec. (k). Pub. L. 118–159 substituted “December 31, 2025” for “December 31, 2024”.
+
 2023—Subsec. (k). Pub. L. 118–31 substituted “December 31, 2024” for “December 31, 2023”.
 
 2022—Subsec. (k). Pub. L. 117–263 substituted “December 31, 2023” for “December 31, 2022”.
@@ -6756,11 +6806,15 @@ Pub. L. 110–417, [div. A], title VI, § 620(a), Oct. 14, 2008, 122 Stat. 4489,
 
 **(f) Regulations.—** The Secretary concerned shall issue such regulations as may be necessary to carry out this section.
 
-**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2024.
+**(g) Termination of Authority.—** No agreement under this section may be entered into after December 31, 2026.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (g). Pub. L. 119–60 substituted “December 31, 2026” for “December 31, 2025”.
+
+2024—Subsec. (g). Pub. L. 118–159 substituted “December 31, 2025” for “December 31, 2024”.
+
 2023—Subsec. (g). Pub. L. 118–31 substituted “December 31, 2024” for “December 31, 2023”.
 
 2022—Subsec. (g). Pub. L. 117–263 substituted “December 31, 2023” for “December 31, 2022”.
@@ -6784,7 +6838,7 @@ Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020�
 
 <a id="section-351"></a>
 ## § 351. Hazardous duty pay
-**(a) Hazardous Duty Pay.—** The Secretary concerned may pay hazardous duty pay under this section to a member of a regular or reserve component of the uniformed services entitled to basic pay under [section 204 of this title](./chapter-003-basic-pay.md#section-204) or compensation under [section 206 of this title](./chapter-003-basic-pay.md#section-206) who—
+**(a) Hazardous Duty Pay.—** The Secretary concerned may pay hazardous duty pay under this section to a member of the uniformed services entitled to basic pay under [section 204 of this title](./chapter-003-basic-pay.md#section-204) or compensation under [section 206 of this title](./chapter-003-basic-pay.md#section-206) who—
 
 (1) performs duty in a hostile fire area designated by the Secretary concerned, is exposed to a hostile fire event, explosion of a hostile explosive device, or any other hostile action, or is on duty during a month in an area in which a hostile event occurred which placed the member in grave danger of physical injury;
 
@@ -6832,11 +6886,17 @@ Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020�
 
 **(g) Prohibition on Variable Rates.—** The regulations prescribed to administer this section may not include varied criteria or rates for payment of hazardous duty for officers and enlisted members.
 
-**(h) Termination of Authority.—** No hazardous duty pay under this section may be paid after December 31, 2024.
+**(h) Termination of Authority.—** No hazardous duty pay under this section may be paid after December 31, 2026.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 601(c)(4), struck out “of a regular or reserve component” after “to a member” in introductory provisions.
+
+Subsec. (h). Pub. L. 119–60, § 611(d)(6), substituted “December 31, 2026” for “December 31, 2025”.
+
+2024—Subsec. (h). Pub. L. 118–159 substituted “December 31, 2025” for “December 31, 2024”.
+
 2023—Subsec. (h). Pub. L. 118–31 substituted “December 31, 2024” for “December 31, 2023”.
 
 2022—Subsec. (h). Pub. L. 117–263 substituted “December 31, 2023” for “December 31, 2022”.
@@ -6885,10 +6945,13 @@ Pub. L. 111–84, § 614(6), substituted “December 31, 2010” for “December
 
 Subsec. (f). Pub. L. 110–417, § 618(e), substituted “in connection with determining whether a triggering event has occurred for the provision of hazardous duty pay under subsection (a)(1)” for “in administering subsection (a)” and struck out at end “The regulations prescribed to administer this section shall define the activities that are considered hazardous for purposes of subsection (a)(2).”
 
+#### Reviews of Designations of Imminent Danger Pay Areas
+Pub. L. 119–60, div. A, title VI, § 614, Dec. 18, 2025, 139 Stat. 907, provided that: “(a) Initial Review.—Not later than March 1, 2026, the Secretary of Defense, in coordination with the Secretaries of the military departments, shall—“(1) commence a review of each area designated under [section 351(a)(3) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section351/a/3&num=0&edition=prelim), United States Code, to determine whether the area is one in which a member of the uniformed services is subject to imminent danger of physical injury due to threat conditions; and “(2) submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the review, including any changes to designations under that section that result from the review. “(b) Subsequent Reviews.—“(1) In general.—Not later than March 1, 2031, and every 5 years thereafter, the Secretary of Defense, in coordination with the Secretaries of the military departments, shall conduct a review described in subsection (a)(1). “(2) Reports required.—Not later than 60 days after completing a review under paragraph (1), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the review, including any changes to designations under that section that result from the review. “(c) Reports on Designation Changes Between Reports.—If, at any time between the submission of reports required by subsections (a)(2) and (b)(2), the Secretary of Defense or the Secretary of a military department conducts a review of areas designated under [section 351(a)(3) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section351/a/3&num=0&edition=prelim), United States Code, and makes a change to any such designation, that Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the review and the change not later than 60 days after the change is made.”
+
 
 <a id="section-352"></a>
 ## § 352. Assignment pay or special duty pay
-**(a) Assignment or Special Duty Pay Authorized.—** The Secretary concerned may pay assignment or special duty pay under this section to a member of a regular or reserve component of the uniformed services who—
+**(a) Assignment or Special Duty Pay Authorized.—** The Secretary concerned may pay assignment or special duty pay under this section to a member of the uniformed services who—
 
 (1) is entitled to basic pay under [section 204 of this title](./chapter-003-basic-pay.md#section-204) or compensation under [section 206 of this title](./chapter-003-basic-pay.md#section-206); and
 
@@ -6930,11 +6993,17 @@ Subsec. (f). Pub. L. 110–417, § 618(e), substituted “in connection with det
 
 **(f) Repayment.—** A member who receives assignment or special duty pay under this section and who fails to fulfill the eligibility requirements under subsection (a) for receipt of such pay shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2024.
+**(g) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2026.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 601(c)(4), struck out “of a regular or reserve component” after “to a member” in introductory provisions.
+
+Subsec. (g). Pub. L. 119–60, § 611(d)(7), substituted “December 31, 2026” for “December 31, 2025”.
+
+2024—Subsec. (g). Pub. L. 118–159 substituted “December 31, 2025” for “December 31, 2024”.
+
 2023—Subsec. (g). Pub. L. 118–31 substituted “December 31, 2024” for “December 31, 2023”.
 
 2022—Subsec. (a)(2). Pub. L. 117–263, § 603(a), inserted “(including a cold weather location)” after “location”.
@@ -6970,10 +7039,10 @@ Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010�
 Subsec. (g). Pub. L. 111–84, § 614(7), substituted “December 31, 2010” for “December 31, 2009”.
 
 #### Determination of Cold Weather Location for Purposes of Special Duty Pay
-2023—Pub. L. 118–31, div. A, title VI, § 615, Dec. 22, 2023, 137 Stat. 292, “For purposes of special duty pay under [section 352 of title 37](./chapter-005-special-and-incentive-pays.md#section-352), United States Code, the Secretary concerned shall determine that a duty station is a cold weather location if, at such duty station, the temperature is expected to drop below -20 °F according to the 2012 Plant Hardiness Zone Map published by the Agricultural Research Service of the Department of Agriculture.”
+Pub. L. 118–31, div. A, title VI, § 615, Dec. 22, 2023, 137 Stat. 292, “For purposes of special duty pay under [section 352 of title 37](./chapter-005-special-and-incentive-pays.md#section-352), United States Code, the Secretary concerned shall determine that a duty station is a cold weather location if, at such duty station, the temperature is expected to drop below −20 °F according to the 2012 Plant Hardiness Zone Map published by the Agricultural Research Service of the Department of Agriculture.”
 
 #### Career Incentive Pay for Marine Inspectors
-Pub. L. 117–263, div. K, title CXII, § 11237, Dec. 23, 2022, 136 Stat. 4036, provided that: “(a) Authority To Provide Assignment Pay or Special Duty Pay.—The Secretary [of the department in which the Coast Guard is operating] may provide assignment pay or special duty pay under [section 352 of title 37](./chapter-005-special-and-incentive-pays.md#section-352), United States Code, to a member of the Coast Guard serving in a prevention position and assigned as a marine inspector or marine investigator pursuant to [section 312 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section312&num=0&edition=prelim), United States Code. “(b) Annual Briefing.—“(1) In general.—Not later than 180 days after the date of enactment of this Act [Dec. 23, 2022], and annually thereafter, the Secretary shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing on any uses of the authority under subsection (a) during the preceding year. “(2) Elements.—Each briefing required under paragraph (1) shall include the following:“(A) The number of members of the Coast Guard serving as marine inspectors or marine investigators pursuant to [section 312 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section312&num=0&edition=prelim), United States Code, who are receiving assignment pay or special duty pay under [section 352 of title 37](./chapter-005-special-and-incentive-pays.md#section-352), United States Code. “(B) An assessment of the impact of the use of the authority under this section on the effectiveness and efficiency of the Coast Guard in administering the laws and regulations for the promotion of safety of life and property on and under the high seas and waters subject to the jurisdiction of the United States. “(C) An assessment of the effects of assignment pay and special duty pay on retention of marine inspectors and investigators. “(D) If the authority provided in subsection (a) is not exercised, a detailed justification for not exercising such authority, including an explanation of the efforts the Secretary is taking to ensure that the Coast Guard workforce contains an adequate number of qualified marine inspectors. “(c) Study.—“(1) In general.—Not later than 2 years after the date of enactment of this Act, the Secretary, in coordination with the Director of the National Institute for Occupational Safety and Health, shall conduct a study on the health of marine inspectors and marine investigators who have served as such inspectors or investigators for a period of not less than 10 years. “(2) Elements.—The study required under paragraph (1) shall include the following:“(A) An evaluation of—“(i) the daily vessel inspection duties of marine inspectors and marine investigators, including the examination of internal cargo tanks and voids and new construction activities; “(ii) major incidents to which marine inspectors and marine investigators have had to respond, and any other significant incident, such as a vessel casualty, that has resulted in the exposure of marine inspectors and marine investigators to hazardous chemicals or substances; and “(iii) the types of hazardous chemicals or substances to which marine inspectors and marine investigators have been exposed relative to the effects such chemicals or substances have had on marine inspectors and marine investigators. “(B) A review and analysis of the current Coast Guard health and safety monitoring systems, and recommendations for improving such systems, specifically with respect to the exposure of members of the Coast Guard to hazardous substances while carrying out inspections and investigation duties. “(C) Any other element the Secretary considers appropriate. “(3) Report.—Upon completion of the study required under paragraph (1), the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the findings of the study and recommendations for actions the Commandant [of the Coast Guard] should take to improve the health and exposure of marine inspectors and marine investigators. “(d) Termination.—The authority provided by subsection (a) shall terminate on December 31, 2028.”
+Pub. L. 117–263, div. K, title CXII, § 11237, Dec. 23, 2022, 136 Stat. 4036, as amended by Pub. L. 119–60, div. G, title LXXII, §§ 7201(i)(1), 7312(b), Dec. 18, 2025, 139 Stat. 1686, 1761, provided that: “(a) Authority to Provide Assignment Pay or Special Duty Pay.—For the purposes of addressing an identified shortage of marine inspectors, the Secretary may provide assignment pay or special duty pay under [section 352 of title 37](./chapter-005-special-and-incentive-pays.md#section-352), United States Code, to a member of the Coast Guard serving in a prevention position that—“(1) is assigned in support of or is serving as a marine inspector pursuant to section 312 [now section 339] of title 14, United States Code; and “(2) is assigned to a billet that is difficult to fill due to geographic location, requisite experience or certifications, or lack of sufficient candidates, as determined by the Commandant, in an effort to address inspector workforce gaps. “(b) Annual Briefing.—“(1) In general.—Not later than 180 days after the date of enactment of this Act [Dec. 23, 2022], and annually thereafter, the Secretary shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing on any uses of the authority under subsection (a) during the preceding year. “(2) Elements.—Each briefing required under paragraph (1) shall include the following:“(A) The number of members of the Coast Guard serving as marine inspectors or marine investigators pursuant to [section 339 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section339&num=0&edition=prelim), United States Code, who are receiving assignment pay or special duty pay under [section 352 of title 37](./chapter-005-special-and-incentive-pays.md#section-352), United States Code. “(B) An assessment of the impact of the use of the authority under this section on the effectiveness and efficiency of the Coast Guard in administering the laws and regulations for the promotion of safety of life and property on and under the high seas and waters subject to the jurisdiction of the United States. “(C) An assessment of the effects of assignment pay and special duty pay on retention of marine inspectors and investigators. “(D) If the authority provided in subsection (a) is not exercised, a detailed justification for not exercising such authority, including an explanation of the efforts the Secretary is taking to ensure that the Coast Guard workforce contains an adequate number of qualified marine inspectors. “(c) Study.—“(1) In general.—Not later than 2 years after the date of enactment of this Act, the Secretary, in coordination with the Director of the National Institute for Occupational Safety and Health, shall conduct a study on the health of marine inspectors and marine investigators who have served as such inspectors or investigators for a period of not less than 10 years. “(2) Elements.—The study required under paragraph (1) shall include the following:“(A) An evaluation of—“(i) the daily vessel inspection duties of marine inspectors and marine investigators, including the examination of internal cargo tanks and voids and new construction activities; “(ii) major incidents to which marine inspectors and marine investigators have had to respond, and any other significant incident, such as a vessel casualty, that has resulted in the exposure of marine inspectors and marine investigators to hazardous chemicals or substances; and “(iii) the types of hazardous chemicals or substances to which marine inspectors and marine investigators have been exposed relative to the effects such chemicals or substances have had on marine inspectors and marine investigators. “(B) A review and analysis of the current Coast Guard health and safety monitoring systems, and recommendations for improving such systems, specifically with respect to the exposure of members of the Coast Guard to hazardous substances while carrying out inspections and investigation duties. “(C) Any other element the Secretary considers appropriate. “(3) Report.—Upon completion of the study required under paragraph (1), the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the findings of the study and recommendations for actions the Commandant [of the Coast Guard] should take to improve the health and exposure of marine inspectors and marine investigators. “(d) Termination.—The authority provided by subsection (a) shall terminate on December 31, 2028.”
 
 #### Additional Assignment Pay or Special Duty Pay Authorized for Members Agreeing To Serve in Afghanistan for Extended Periods
 Pub. L. 111–84, div. A, title VI, § 619, Oct. 28, 2009, 123 Stat. 2357, provided that: “(a) Authority to Provide Additional Assignment Pay or Special Duty Pay.—The Secretary of Defense may provide assignment pay or special duty pay under [section 352 of title 37](./chapter-005-special-and-incentive-pays.md#section-352), United States Code, in excess of the maximum amount of monthly or lump sum assignment or special duty pay authorized under subsection (b) of such section, to members of the Armed Forces (particularly members who achieve language proficiency at levels and in languages specified by the Secretary of Defense) who agree to serve on active duty in Afghanistan for a minimum of three years. The assignment period required by the agreement shall provide for reasonable periods of leave. “(b) Reporting Requirements.—The Secretary shall submit to Congress an annual report on the use of the authority provided under subsection (a) during the preceding year, including—“(1) the number of members of the Armed Forces receiving assignment pay or special duty pay under [section 352 of title 37](./chapter-005-special-and-incentive-pays.md#section-352), United States Code, in excess of the maximum amount otherwise authorized under such section; and “(2) an assessment of the impact of the use of such authority on the effectiveness and efficiency in achieving the United States mission in Afghanistan. “(c) Duration of Authority.—The authority provided by subsection (a) to offer additional assignment pay or special duty pay under [section 352 of title 37](./chapter-005-special-and-incentive-pays.md#section-352), United States Code, expires on December 31, 2012. The expiration of such authority shall not affect the terms or duration of any agreement entered into before that date to provide additional assignment pay or special duty pay under such section.”
@@ -6981,7 +7050,7 @@ Pub. L. 111–84, div. A, title VI, § 619, Oct. 28, 2009, 123 Stat. 2357, provi
 
 <a id="section-353"></a>
 ## § 353. Skill incentive pay or proficiency bonus
-**(a) Skill Incentive Pay.—** The Secretary concerned may pay a monthly skill incentive pay to a member of a regular or reserve component of the uniformed services who—
+**(a) Skill Incentive Pay.—** The Secretary concerned may pay a monthly skill incentive pay to a member of the uniformed services who—
 
 (1) is entitled to basic pay under [section 204 of this title](./chapter-003-basic-pay.md#section-204) or compensation under [section 206 of this title](./chapter-003-basic-pay.md#section-206); and
 
@@ -6989,7 +7058,7 @@ Pub. L. 111–84, div. A, title VI, § 619, Oct. 28, 2009, 123 Stat. 2357, provi
 
 **(b) Skill Proficiency Bonus.—**
 
-(1) **Availability; eligible persons.—** — The Secretary concerned may pay a proficiency bonus to a member of a regular or reserve component of the uniformed services who—
+(1) **Availability; eligible persons.—** — The Secretary concerned may pay a proficiency bonus to a member of the uniformed services who—
 
   (A) is entitled to basic pay under [section 204 of this title](./chapter-003-basic-pay.md#section-204) or compensation under [section 206 of this title](./chapter-003-basic-pay.md#section-206) or is enrolled in an officer training program; and
 
@@ -7005,7 +7074,7 @@ Pub. L. 111–84, div. A, title VI, § 619, Oct. 28, 2009, 123 Stat. 2357, provi
 
   (B) If a member does not satisfy the eligibility requirements specified in paragraphs (1) and (2) of subsection (a) for an entire month for receipt of skill incentive pay, the Secretary concerned may prorate the payment amount to reflect the duration of the member’s actual qualifying service during the month. A member of a reserve component entitled to compensation under [section 206 of this title](./chapter-003-basic-pay.md#section-206) who is authorized skill incentive pay under subsection (a) may be paid an amount of such pay that is proportionate to the compensation received by the member under [section 206 of this title](./chapter-003-basic-pay.md#section-206) for inactive-duty training.
 
-(2) **Proficiency bonus.—** — A proficiency bonus under subsection (b) may be paid in a lump sum at the beginning of the proficiency certification period or in periodic installments during the proficiency certification period. The amount of the bonus may not exceed $12,000 for each 12-month period of certification. The Secretary concerned may not vary the criteria or rates for the proficiency bonus paid for officers and enlisted members.
+(2) **Proficiency bonus.—** — A proficiency bonus under subsection (b) may be paid in a lump sum at the beginning of the proficiency certification period or in periodic installments during the proficiency certification period. The amount of the bonus may not exceed $55,000 for each 12-month period of certification. The Secretary concerned may not vary the criteria or rates for the proficiency bonus paid for officers and enlisted members.
 
 **(d) Certified Proficiency for Proficiency Bonus.—**
 
@@ -7033,7 +7102,7 @@ Pub. L. 111–84, div. A, title VI, § 619, Oct. 28, 2009, 123 Stat. 2357, provi
 
 **(h) Relationship to Other Pays and Allowances.—** A member may not be paid more than one pay under this section in any month for the same period of service and skill. A member may be paid skill incentive pay or the proficiency bonus under this section in addition to any other pay and allowances to which the member is entitled, except that a member may not be paid skill incentive pay or a proficiency bonus under this section and hazardous duty pay under [section 351 of this title](./chapter-005-special-and-incentive-pays.md#section-351) for the same period of service in the same career field or skill.
 
-**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2024.
+**(i) Termination of Authority.—** No agreement may be entered into under this section after December 31, 2026.
 
 ### Statutory Notes
 
@@ -7041,6 +7110,14 @@ Pub. L. 111–84, div. A, title VI, § 619, Oct. 28, 2009, 123 Stat. 2357, provi
 Subsection (g)(2), referred to in subsec. (b)(2), was redesignated subsec. (f)(2) by Pub. L. 111–84, div. A, title VI, § 618(d)(1), Oct. 28, 2009, 123 Stat. 2356.
 
 #### Amendments
+2025—Subsecs. (a), (b). Pub. L. 119–60, § 601(c)(4), struck out “of a regular or reserve component” after “to a member” in introductory provisions.
+
+Subsec. (i). Pub. L. 119–60, § 611(d)(8), substituted “December 31, 2026” for “December 31, 2025”.
+
+2024—Subsec. (c)(2). Pub. L. 118–159, § 613, substituted “$55,000” for “$12,000”.
+
+Subsec. (i). Pub. L. 118–159, § 611(d)(8), substituted “December 31, 2025” for “December 31, 2024”.
+
 2023—Subsec. (i). Pub. L. 118–31 substituted “December 31, 2024” for “December 31, 2023”.
 
 2022—Subsec. (c)(1)(A). Pub. L. 117–263, § 602(d), substituted “$1,750” for “$1,000”.
@@ -7188,9 +7265,9 @@ Pub. L. 107–107, div. A, title VI, § 620(b), Dec. 28, 2001, 115 Stat. 1139, p
 
 <a id="section-355"></a>
 ## § 355. Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units
-**(a) Retention Bonus Authorized.—** An officer or enlisted member of the armed forces who is serving on active duty in a regular component or in an active status in a reserve component and who is qualified in a critical military skill designated under subsection (b) or accepts an assignment to a high priority unit designated under such subsection may be paid a retention bonus as provided in this section if—
+**(a) Retention Bonus Authorized.—** A member of the armed forces who is serving on active duty in a regular component or in an active status in a reserve component, or a member the Space Force who is serving in space force active status, and who is qualified in a critical military skill designated under subsection (b) or accepts an assignment to a high priority unit designated under such subsection may be paid a retention bonus as provided in this section if—
 
-(1) in the case of an officer, the member executes a written agreement to remain on active duty for at least one year or to remain in an active status in a reserve component for at least one year;
+(1) in the case of an officer, the member executes a written agreement to remain on active duty for at least one year, to remain in an active status in a reserve component for at least one year, or to remain in space force active status for at least one year;
 
 (2) in the case of an enlisted member, other than an enlisted member referred to in paragraph (3), the member reenlists or voluntarily extends the member’s enlistment for a period of at least one year; or
 
@@ -7206,7 +7283,7 @@ Pub. L. 107–107, div. A, title VI, § 620(b), Dec. 28, 2001, 115 Stat. 1139, p
 
 **(d) Maximum Bonus Amount.—**
 
-(1) A member may enter into an agreement under this section, or reenlist or voluntarily extend the member’s enlistment, more than once to receive a bonus under this section. However, a member may not receive a total of more than $200,000 (or $100,000 in the case of a reserve component member) in payments under this section.
+(1) A member may enter into an agreement under this section, or reenlist or voluntarily extend the member’s enlistment, more than once to receive a bonus under this section. However, a member may not receive a total of more than $200,000 (or $100,000 in the case of a reserve component member or a member of the Space Force not on sustained duty) in payments under this section.
 
 (2) The limitation in paragraph (1) on the total bonus payments that a member may receive under this section does not apply with respect to an officer who is assigned duties as a health care professional.
 
@@ -7214,29 +7291,55 @@ Pub. L. 107–107, div. A, title VI, § 620(b), Dec. 28, 2001, 115 Stat. 1139, p
 
 (1) A retention bonus may not be provided under subsection (a) to a member of the armed forces who—
 
-  (A) has completed more than 25 years of active duty or service in an active status in a reserve component; or
+  (A) has completed more than 25 years of a specified form of service (or combination thereof); or
 
-  (B) will complete the member’s twenty-fifth year of active duty or service in an active status in a reserve component before the end of the period of active duty or service in an active status in a reserve component for which the bonus is being offered.
+  (B) will complete the member’s twenty-fifth year of a specified form of service (or combination thereof) before the end of the period of service for which the bonus is being offered.
 
-(2) The limitations in paragraph (1) do not apply with respect to an officer who, during the period of active duty or service in an active status in a reserve component for which the bonus is being offered, is assigned duties as a health care professional.
+(2) The limitations in paragraph (1) do not apply with respect to an officer who, during the period of service for which the bonus is being offered, is assigned duties as a health care professional.
 
-(3) The limitations in paragraph (1) do not apply with respect to a member who, during the period of active duty or service in an active status in a reserve component for which the bonus is being offered—
+(3) The limitations in paragraph (1) do not apply with respect to a member who, during the period of service for which the bonus is being offered—
 
   (A) is qualified in a skill designated as critical under subsection (b)(1) related to special operations forces; or
 
   (B) is qualified for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
 
-(4) The Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may waive the limitations in paragraph (1) with respect to a member who, during the period of active duty or service in an active status in a reserve component for which the bonus is being offered, is assigned duties in a skill designated as critical under subsection (b)(1). The authority to grant a waiver under this paragraph may not be delegated below the Under Secretary of Defense for Personnel and Readiness or the Deputy Secretary of the Department of Homeland Security.
+(4) The Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may waive the limitations in paragraph (1) with respect to a member who, during the period of service for which the bonus is being offered, is assigned duties in a skill designated as critical under subsection (b)(1). The authority to grant a waiver under this paragraph may not be delegated below the Under Secretary of Defense for Personnel and Readiness or the Deputy Secretary of the Department of Homeland Security.
+
+(5) In this subsection, the term “specified form of service” means—
+
+  (A) service on active duty;
+
+  (B) service in an active status in a reserve component; or
+
+  (C) service in the Space Force in space force active status.
 
 **(f) Relationship to Other Incentives.—** A retention bonus paid under this section is in addition to any other pay and allowances to which a member is entitled.
 
 **(g) Repayment.—** A member paid a bonus under this section who fails, during the period of service covered by the member’s agreement, reenlistment, or voluntary extension of enlistment under subsection (a), to remain qualified in the critical military skill or to satisfy the other eligibility criteria for which the bonus was paid shall be subject to the repayment provisions of [section 373 of this title](./chapter-005-special-and-incentive-pays.md#section-373).
 
-**(h) Termination of Bonus Authority.—** No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2024, and no agreement under this section may be entered into after that date.
+**(h) Termination of Bonus Authority.—** No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2026, and no agreement under this section may be entered into after that date.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 601(c)(5)(A)(i), substituted “A member” for “An officer or enlisted member” and inserted “, or a member the Space Force who is serving in space force active status,” after “in a reserve component” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 119–60, § 601(c)(5)(A)(ii), substituted “, to remain” for “or to remain” and inserted “, or to remain in space force active status for at least one year” before semicolon at end.
+
+Subsec. (d)(1). Pub. L. 119–60, § 601(c)(5)(B), inserted “or a member of the Space Force not on sustained duty” after “reserve component member”.
+
+Subsec. (e)(1)(A). Pub. L. 119–60, § 601(c)(5)(C)(i), substituted “a specified form of service (or combination thereof)” for “active duty or service in an active status in a reserve component”.
+
+Subsec. (e)(1)(B). Pub. L. 119–60, § 601(c)(5)(C)(i), (ii), substituted “a specified form of service (or combination thereof)” for “active duty or service in an active status in a reserve component” and “service for which” for “active duty or service in an active status in a reserve component for which”.
+
+Subsec. (e)(1)(2) to (4). Pub. L. 119–60, § 601(c)(5)(C)(ii), substituted “service for which” for “active duty or service in an active status in a reserve component for which”.
+
+Subsec. (e)(5). Pub. L. 119–60, § 601(c)(5)(C)(iii), added par. (5).
+
+Subsec. (h). Pub. L. 119–60, § 611(d)(9), substituted “December 31, 2026” for “December 31, 2025”.
+
+2024—Subsec. (h). Pub. L. 118–159 substituted “December 31, 2025” for “December 31, 2024”.
+
 2023—Subsec. (h). Pub. L. 118–31 substituted “December 31, 2024” for “December 31, 2023”.
 
 2022—Subsec. (h). Pub. L. 117–263 substituted “December 31, 2023” for “December 31, 2022”.
@@ -7352,17 +7455,17 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 (2) enters into an agreement with the Secretary to serve for not less than 3 additional years of obligated service.
 
-**(b) Payment Amount.—** The Secretary concerned shall determine the payment amount under this section as a multiple of a full TSP member’s monthly basic pay. The multiple for a full TSP member who is a member of a regular component or a reserve component, if the member is performing active Guard and Reserve duty (as defined in [section 101(d)(6) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d/6&num=0&edition=prelim)), shall not be less than 2.5 times the member’s monthly basic pay. The multiple for a full TSP member who is a member of a reserve component not performing active Guard or Reserve duty (as so defined) shall not be less than 0.5 times the monthly basic pay to which the member would be entitled if the member were a member of a regular component. The maximum amount the Secretary concerned may pay a member under this section is—
+**(b) Payment Amount.—** The Secretary concerned shall determine the payment amount under this section as a multiple of a full TSP member’s monthly basic pay. The multiple for a full TSP member who is a member of a regular component, a member of the Space Force on sustained duty, or a member of a reserve component, if the member is performing active Guard and Reserve duty (as defined in [section 101(d)(6) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d/6&num=0&edition=prelim)), shall not be less than 2.5 times the member’s monthly basic pay. The multiple for a full TSP member who is a member of a reserve component not performing active Guard or Reserve duty (as so defined) or a member of the Space Force in space force active status not on sustained duty shall not be less than 0.5 times the monthly basic pay to which the member would be entitled if the member were a member of a regular component. The maximum amount the Secretary concerned may pay a member under this section is—
 
-(1) in the case of a member of a regular component—
+(1) in the case of a member of a regular component or a member of the Space Force on sustained duty—
 
   (A) the monthly basic pay of the member at 12 years of service multiplied by 2.5; plus
 
   (B) at the discretion of the Secretary concerned, the monthly basic pay of the member at 12 years of service multiplied by such number of months (not to exceed 13 months) as the Secretary concerned shall specify in the agreement of the member under subsection (a); and
 
-(2) in the case of a member of a reserve component—
+(2) in the case of a member of a reserve component or a member of the Space Force in space force active status and not on sustained duty—
 
-  (A) the amount of monthly basic pay to which the member would be entitled at 12 years of service if the member were a member of a regular component multiplied by 0.5; plus
+  (A) the amount of monthly basic pay to which the member would be entitled at 12 years of service if the member were a member of a regular component or a member of the Space Force on sustained duty, respectively, multiplied by 0.5; plus
 
   (B) at the discretion of the Secretary concerned, the amount of monthly basic pay described in subparagraph (A) multiplied by such number of months (not to exceed 6 months) as the Secretary concerned shall specify in the agreement of the member under subsection (a).
 
@@ -7381,6 +7484,14 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–60, § 601(c)(6)(A), substituted “, a member of the Space Force on sustained duty, or a member of a reserve component” for “or a reserve component” and inserting “or a member of the Space Force in space force active status not on sustained duty” after “(as so defined)” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 119–60, § 601(c)(6)(B), inserted “or a member of the Space Force on sustained duty” after “of a regular component” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 119–60, § 601(c)(6)(C)(i), inserted “or a member of the Space Force in space force active status and not on sustained duty” after “of a reserve component” in introductory provisions.
+
+Subsec. (b)(2)(A). Pub. L. 119–60, § 601(c)(6)(C)(ii), inserted “or a member of the Space Force on sustained duty, respectively,” after “of a regular component”.
+
 2023—Pub. L. 118–31, § 611(a)(1), substituted “7” for “8” in section catchline.
 
 Subsec. (a)(1). Pub. L. 118–31, § 611(a)(2), substituted “7” for “8”.
@@ -7419,7 +7530,7 @@ Notwithstanding [section 1004 of this title](./chapter-019-administration.md#sec
 2023—Pub. L. 118–31, in section catchline, substituted “Special and incentive” for “Incentive” and, in text, substituted “special or incentive pay” for “incentive pay” and “if the Secretary concerned is paying the member of the reserve component the special or incentive pay for the purpose of—” for period, and added pars. (1) and (2).
 
 #### Implementation of Section
-Pub. L. 117–81, div. A, title VI, § 602(c), (d), Dec. 27, 2021, 135 Stat. 1765, as amended by Pub. L. 118–31, div. A, title VI, § 612(c), Dec. 22, 2023, 137 Stat. 291, provided that: “(c) Report.—Not later than September 30, 2022, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing—“(1) the plan of the Secretary to implement section 357 of such title [[37 U.S.C. 357](./chapter-005-special-and-incentive-pays.md#section-357)], as added by subsection (a); “(2) an estimate of the costs of such implementation; “(3) the number of members described in such section; and “(4) any other matter the Secretary determines relevant. “(d) Implementation Date.—“(1) In general.—The Secretary shall not implement section 357 of such title, as added by subsection (a) until after—“(A) submission of the report under subsection (c); and “(B) the Secretary determines and certifies in writing to the Committees on Armed Services of the Senate and House of Representatives that such implementation shall not have a detrimental effect on the force structure of an Armed Force concerned, including with regard to recruiting or retention of members in the regular component of such Armed Force. “(2) Evaluation of types of special and incentive pay.—In making the determination and certification described in paragraph (1)(B), the Secretary shall evaluate each type or category of special and incentive pay separately and may make the determination and certification based on the effect on an Armed Force concerned of a particular type or category of special or incentive pay.”
+Pub. L. 117–81, div. A, title VI, § 602(c), (d), Dec. 27, 2021, 135 Stat. 1765, as amended by Pub. L. 118–31, div. A, title VI, § 612(c), Dec. 22, 2023, 137 Stat. 291; Pub. L. 119–60, div. A, title VI, § 613, Dec. 18, 2025, 139 Stat. 907, provided that: “(c) Report.—Not later than September 30, 2022, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing—“(1) the plan of the Secretary to implement section 357 of such title [[37 U.S.C. 357](./chapter-005-special-and-incentive-pays.md#section-357)], as added by subsection (a); “(2) an estimate of the costs of such implementation; “(3) the number of members described in such section; and “(4) any other matter the Secretary determines relevant. “(d) Implementation Date.—“(1) In general.—The Secretary shall not implement section 357 of such title, as added by subsection (a) until after—“(A) submission of the report under subsection (c); and “(B) the Secretary determines and certifies in writing to the Committees on Armed Services of the Senate and House of Representatives that such implementation shall not have a detrimental effect on the force structure of an Armed Force concerned, including with regard to recruiting or retention of members in the regular component of such Armed Force. “(2) Evaluation of types of special and incentive pay.—“(A) In general.—In making the determination and certification described in paragraph (1)(B), the Secretary shall evaluate each type or category of special and incentive pay separately and may make the determination and certification based on the effect on an Armed Force concerned of a particular type or category of special or incentive pay. “(B) Aviation incentive pay evaluation.—Not later than June 1, 2026, the Secretary shall complete the evaluation required by subparagraph (A) with respect to aviation incentive pay under [section 334 of title 37](./chapter-005-special-and-incentive-pays.md#section-334), United States Code. In conducting that evaluation, the Secretary shall make a specific determination with respect to the percentage of such aviation incentive pay, if any, that is paid specifically to maintain skill certification or proficiency under [section 357 of title 37](./chapter-005-special-and-incentive-pays.md#section-357), United States Code. “(C) Special and incentive pay framework.—Not later than June 1, 2026, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a detailed report on the special and incentive pay assessment framework, required by the Senate report accompanying the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31) [see Tables for classification], that includes the Secretary’s plan and timeline for implementing such framework. “(3) Initiation of payments.—Not later than January 1, 2027, the Secretary concerned shall begin making aviation incentive payments under [section 357 of title 37](./chapter-005-special-and-incentive-pays.md#section-357), United States Code, pursuant to the determination made under paragraph (2)(B).”
 
 
 <a id="section-371"></a>
@@ -7437,7 +7548,7 @@ Pub. L. 117–81, div. A, title VI, § 602(c), (d), Dec. 27, 2021, 135 Stat. 176
 
 <a id="section-372"></a>
 ## § 372. Continuation of pays during hospitalization and rehabilitation resulting from wounds, injury, or illness incurred while on duty in a hostile fire area or exposed to an event of hostile fire or other hostile action
-**(a) Continuation of Pays.—** If a member of a regular or reserve component of a uniformed service incurs a wound, injury, or illness in the line of duty while serving in a combat operation or a combat zone, while serving in a hostile fire area, or while exposed to a hostile fire event, as described under [section 351 of this title](./chapter-005-special-and-incentive-pays.md#section-351), and is hospitalized for treatment of the wound, injury, or illness, the Secretary concerned may continue to pay to the member, notwithstanding any provision of this chapter to the contrary, all pay and allowances (including any bonus, incentive pay, or similar benefit) that were being paid to the member at the time the member incurred the wound, injury, or illness.
+**(a) Continuation of Pays.—** If a member of a uniformed service incurs a wound, injury, or illness in the line of duty while serving in a combat operation or a combat zone, while serving in a hostile fire area, or while exposed to a hostile fire event, as described under [section 351 of this title](./chapter-005-special-and-incentive-pays.md#section-351), and is hospitalized for treatment of the wound, injury, or illness, the Secretary concerned may continue to pay to the member, notwithstanding any provision of this chapter to the contrary, all pay and allowances (including any bonus, incentive pay, or similar benefit) that were being paid to the member at the time the member incurred the wound, injury, or illness.
 
 **(b) Duration.—** The payment of pay and allowances to a member under subsection (a) may continue until the end of the first month beginning after the earliest of the following dates:
 
@@ -7452,6 +7563,8 @@ Pub. L. 117–81, div. A, title VI, § 602(c), (d), Dec. 27, 2021, 135 Stat. 176
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 struck out “of a regular or reserve component” after “If a member”.
+
 2019—Subsec. (b)(1). Pub. L. 116–92 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The date on which the member is returned for assignment to other than a medical or patient unit for duty.”
 
 
@@ -7509,7 +7622,7 @@ Pub. L. 117–81, div. A, title VI, § 602(c), (d), Dec. 27, 2021, 135 Stat. 176
 
 (2) The term “service”, as used in subsection (c)(2), refers to an obligation willingly undertaken by a member of the uniformed services, in exchange for a bonus, incentive pay, or similar benefit offered by the Secretary concerned—
 
-  (A) to a member in a regular or reserve component who remains on active duty or in an active status;
+  (A) to a member who remains on active duty, in an active status in a reserve component, or in space force active status;
 
   (B) to perform duty in a specified skill, with or without a specified qualification or credential;
 
@@ -7520,6 +7633,8 @@ Pub. L. 117–81, div. A, title VI, § 602(c), (d), Dec. 27, 2021, 135 Stat. 176
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (d)(2)(A). Pub. L. 119–60 substituted “who remains on active duty, in an active status in a reserve component, or in space force active status” for “in a regular or reserve component who remains on active duty or in an active status”.
+
 2009—Subsec. (b)(2). Pub. L. 111–84, § 617(b)(1), substituted “Special rule for deceased and disabled members” for “Mandatory payment of unpaid amounts under certain circumstances; no repayment of unearned amounts” in heading.
 
 Subsec. (b)(3). Pub. L. 111–84, § 617(b)(2), added par. (3).

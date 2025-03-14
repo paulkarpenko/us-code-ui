@@ -167,6 +167,8 @@ Amendment by Pub. L. 95–570 applicable to any fiscal year beginning on or afte
 #### References in Text
 The General Schedule, referred to in text, is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
+Chapter 11 of title 2, referred to in subsec. (a), probably means section 225 of Pub. L. 90–206, which is classified generally to chapter 11 (§ 351 et seq.) of Title 2, The Congress. For complete classification of section 225 to the Code, see Tables.
+
 Section 704(a)(1) of the Ethics Reform Act of 1989, referred to in subsec. (a), is section 704(a)(1) of Pub. L. 101–194, which is set out as a note under [section 5318 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5318&num=0&edition=prelim).
 
 #### Amendments

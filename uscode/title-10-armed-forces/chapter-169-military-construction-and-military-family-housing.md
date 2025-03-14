@@ -2,7 +2,7 @@
 title: 10
 chapter: '169'
 heading: MILITARY CONSTRUCTION AND MILITARY FAMILY HOUSING
-section_count: 93
+section_count: 99
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -93,9 +93,11 @@ Pub. L. 115–91, div. B, title XXVIII, § 2875, Dec. 12, 2017, 131 Stat. 1871, 
 
 (3) acquisition and installation of equipment and appurtenances integral to the project;
 
-(4) acquisition and installation of supporting facilities (including utilities) and appurtenances incident to the project; and
+(4) acquisition and installation of supporting facilities (including utilities) and appurtenances incident to the project;
 
-(5) planning, supervision, administration, and overhead incident to the project.
+(5) planning, supervision, administration, and overhead incident to the project; and
+
+(6) personnel and personal services contracts required to carry out paragraphs (1) through (5).
 
 **(c)** In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President such recommendations as the Secretary considers to be appropriate regarding the incorporation and inclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) for the fiscal year in which a contract is proposed to be awarded for the project.
 
@@ -149,6 +151,8 @@ Executive Order No. 13007, referred to in subsec. (f)(4)(C), is Ex. Ord. No. 130
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (f)(4)(C), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
 
 #### Amendments
+2025—Subsec. (b)(6). Pub. L. 119–60 added par. (6).
+
 2019—Subsec. (e)(1). Pub. L. 116–92, § 1731(a)(53), substituted “shall—” for “shall” and inserted subpar. (A) designation before “comply with the congressional notification requirement”.
 
 Subsec. (f). Pub. L. 116–92, § 2802, added subsec. (f).
@@ -176,6 +180,30 @@ Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, pr
 
 #### Effective Date
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801).
+
+#### Multiyear Contracting Authority for Certain Military Construction Projects
+Pub. L. 119–60, div. B, title XXVIII, § 2814, Dec. 18, 2025, 139 Stat. 1302, provided that: “(a) Authority for Multiyear Contracting.—Subject to [section 3501 of title 10](./chapter-249-multiyear-contracts.md#section-3501), United States Code, each Secretary of a military department may enter into one or more multiyear contracts for any procurement relating to one or more authorized military construction projects for facilities at one or more military installations if the Secretary concerned—“(1) has identified such project as a multiyear contract in the budget submitted to Congress by the Secretary of Defense pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code—“(A) a list of locations included in the multiyear contract; “(B) the total number of facilities included such [sic] contract; and “(C) the total anticipated cost of the such [sic] contract; “(2) has determined the use of such contract will result in significant savings of the total anticipated cost for carrying out projects under the contract as compared to other contract types; “(3) has determined that the minimum need for such projects is expected to remain substantially unchanged during the proposed contract period; and “(4) has a reasonable expectation that throughout the proposed contract period funding for the contract will be available. “(b) Conditions for Out-year Contract Payments.—A contract entered into under subsection (a) shall provide that any obligation of the United States to make a payment under the contract for a fiscal year after the fiscal year in which the contract is awarded is subject to the availability of appropriations or funds for that purpose for such later fiscal year. “(c) Authority for Advance Procurement.—A Secretary of a military department may enter into one or more contracts for an advance procurement associated with a military construction project for which authorization to enter into a multiyear contract is provided under subsection (a), which may include procurement of economic order quantities of materials or components for such a project when cost savings are achievable. “(d) Additional Requirements.—“(1) Cost savings certification.—A Secretary of a military department desiring to award a multiyear contract under the authority of this section shall—“(A) submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a certification that such contract will result in cost savings of at least ten percent compared to a similar one-year contract; and “(B) not award such contract until the end of the 14-day period beginning on the date of submission of the certification described in subparagraph (A). “(2) Limitations.—A Secretary of a military department may only use the authority under this section for military construction projects that—“(A) are included in the future-years defense program submitted under [section 221 of title 10](./chapter-009-defense-budget-matters.md#section-221), United States Code; and “(B) use standardized and repeatable designs.”
+
+#### Designation of Official Responsible for Coordination of Defense Sites Within Area of Responsibility of Joint Region Marianas
+Pub. L. 119–60, div. B, title XXVIII, § 2884, Dec. 18, 2025, 139 Stat. 1330, provided that: “(a) In General.—Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], the Commander of Joint Region Marianas shall designate an official to be responsible for, in coordination with appropriate officials of the military departments (as defined in [section 101 of title 10](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101), United States Code) and the United States Indo-Pacific Command—“(1) coordinating Department of Defense-wide efforts with respect to the management of defense sites within the Joint Region Marianas area of responsibility; “(2) ensuring the continuity of such efforts at such defense sites, including necessary infrastructure investments; and “(3) ensuring clear and consistent communication to such Federal, State, and local officials with respect to the needs and priorities of the Department of Defense for such defense sites. “(b) Selection.—In making the designation under subsection (a), the Commander of Joint Region Marianas may appoint an individual with a significant background and expertise in—“(1) relevant legal and technical aspects related to land use or real estate issues; and “(2) working with officials at all levels of government. “(c) Notification.—Not later than 30 days after the date on which the Commander of Joint Region Marianas designates an individual pursuant to subsection (a), the Commander shall submit to the Committees on Armed Services of the House of Representatives and the Senate and appropriate officials of the defense sites within the Joint Region Marianas area of responsibility a notification that includes the name and contact information of such individual. “(d) Defense Site Defined.—In this section, the term ‘defense site’ has the meaning given such term in [section 2710 of title 10](./chapter-160-environmental-restoration.md#section-2710), United States Code.”
+
+#### Pilot Program on Use of Advanced Manufacturing Construction Technologies at Military Installations
+Pub. L. 119–60, div. B, title XXVIII, § 2887, Dec. 18, 2025, 139 Stat. 1331, provided that: “(a) Establishment.—Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense, acting through each Secretary of a military department, shall carry out a pilot program relating to the use of advanced manufacturing construction technologies for military construction projects (including unspecified minor military construction projects authorized under [section 2805 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2805), United States Code) on military installations selected under subsection (d). “(b) Designation of Official.—The Secretary of Defense shall designate an individual to administer the pilot program established under this section. Such individual shall establish guidelines and procedures with respect to carrying out military construction projects using advanced manufacturing construction technologies under the pilot program. “(c) Elements.—Under the pilot program, the Secretary of Defense shall—“(1) assess the cost, schedule, and quality advantages of advanced manufacturing construction technologies for military construction projects; “(2) identify and validate technical standards, design templates, and contracting methods for use under the pilot program; “(3) establish a Department-wide framework for lessons learned, data sharing, and future adoption of advanced manufacturing construction technologies for military construction projects; and “(4) create a centralized catalog of advanced manufacturing construction technologies that are compliant with the requirements of the Unified Facilities Criteria/DoD Building Code (UFC 1–200–01) and suitable for use across military installations. “(d) Selection of Installations.—The Secretary of Defense, in coordination with the official designated under subsection (b), shall—“(1) select one or more military installations at which to carry out the pilot program established under this section; and “(2) minimize any disruption to the operations of any selected installation due to participation in the pilot program. “(e) Reports.—“(1) Interim report.—Not later than 18 months after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the implementation of the pilot program established under this section, including—“(A) a summary of any barriers to such implementation, including any statutory or resource limitations; “(B) a summary of the recommendations to address any such barrier; and “(C) any other recommendation of the Secretary for improving the pilot program. “(2) Final report.—Not later than 180 days after the termination date in subsection (f), the Secretary shall submit to the congressional defense committees a report on the results of the pilot program. “(f) Termination.—The authority to carry out the pilot program under subsection (a) shall terminate on the date that is five years after the date of the enactment of this Act [Dec. 18, 2025]. “(g) Definitions.—In this section:“(1) The term ‘advanced manufacturing’ has the meaning given in [section 4841 of title 10](./chapter-384-manufacturing-technology.md#section-4841), United States Code. “(2) The term ‘military installation’ has the meaning given in [section 2801 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2801), United States Code.”
+
+#### Consideration of Modular Construction Methods for Military Construction Projects With Protective Design Elements
+Pub. L. 119–60, div. B, title XXVIII, § 2889, Dec. 18, 2025, 139 Stat. 1333, provided that: “(a) In General.—In determining the requirements for a proposed military construction project with protective design elements, the Secretary of Defense shall consider the use of modular construction methods along with other construction methods to determine the most effective method for such military construction project to meet mission needs. “(b) Report.—Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and Senate a report on the use of modular construction methods as described in subsection (a). Such report shall include the following:“(1) A summary of current Department of Defense policy and guidance governing the use of modular construction for military construction projects, including modular construction methodologies with protective design elements. “(2) A cost-benefit analysis that—“(A) compares modular construction methods to other construction methods for military construction projects; and “(B) describes the effect of modular construction methods on construction timelines and life-cycle costs. “(3) An identification of potential use cases for modular construction methods and any limitations or constraints on the use of such methods. “(c) Definitions.—In this section:“(1) The term ‘modular construction’ means a construction process in which components of a military construction project are prefabricated off-site under controlled conditions and then transported to the site of such project for assembly. “(2) The term ‘protective design elements’ means, with respect to a military construction project, that such project requires use of materials that have been blast hardened or ballistic hardened.”
+
+#### Pilot Program To Optimize and Consolidate Department of Defense Facilities To Improve Health and Resiliency in Defense Communities
+Pub. L. 118–159, div. B, title XXVIII, § 2848, Dec. 23, 2024, 138 Stat. 2266, provided that: “(a) Establishment.—Using funds available for minor military construction, the Secretary of Defense may conduct a pilot program to—“(1) conduct a study to assess the feasability [sic] and effectiveness of the implementation of a more comprehensive initiative to optimize the total square footage of facilities maintained by the Department of Defense; and “(2) subject to the requirements of subsection (b) carry out military construction projects, not otherwise authorized by law, to—“(A) optimize and consolidate facilities, including leased facilities, to ensure the scale and scope of the infrastructure footprint of such facilities aligns with the operational needs of the Department; and “(B) create more resilient and healthy communities located on military installations. “(b) Military Construction Projects Authorized.—“(1) Requirements.—The Secretary may carry out a military construction project under such pilot program if—“(A) the facilities subject to such a military construction project are occupied as of the date of the commencement of such military construction project; “(B) except as provided in paragraph (2), such facilities are demolished pursuant to such military construction project; “(C) in the case of a facility subject to such a military construction project that is leased by the Department, the Secretary terminates the lease for such facility, expect as provided in paragraph (2); and “(D) the military construction project will result in new facilities that have at least 20 percent less square footage (or equivalent unit of measure) than the facilities subject to such military construction project; “(E) the Secretary conducts an economic analysis of the military construction project that accounts for anticipated cost requirements for the design, construction, sustainment, restoration, modernization, operation, and demolition of new and existing facilities subject to such military construction project; and “(F) the results of such economic analysis support a positive net present value over a 20-year period. “(2) Exception.—The requirements of subparagraphs (B) and (C) of paragraph (1) shall not apply to a facility that is subject to a military construction project under the pilot program if the Secretary determines that such facility will be an integral part of new facilities constructed pursuant to such military construction project. “(3) Project cost.—A military construction project carried out under such pilot program may not exceed a total cost of $25,000,000. “(4) Limitation.—Not more than five military construction projects may be carried out under the pilot program. “(c) Congressional Notification.—“(1) In general.—Not later than 14 days before awarding a contract for a military construction project under such pilot program, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] notice of such military construction project. “(2) Elements.—Such notice shall include, with respect to the military construction project covered by such notice—“(A) the justification and current cost estimate; “(B) the expected savings-to-investment ratio; “(C) simple payback estimates; “(D) the measurement and verification cost estimate; and “(E) a description of how the project would improve the functions of the supported military department and the efficient management of real property of the Department of Defense. “(d) Report.—“(1) In general.—Not later than 18 months after the date of the enactment of this section [Dec. 23, 2024], the Secretary shall submit to the congressional defense committees a report on completed military construction projects carried out pursuant to the pilot program. “(2) Elements.—Such report shall include, for each military construction project covered by the report, the following:“(A) The title and location of the military construction project, a brief description of the scope of work, the original project cost estimate, and the completed total project cost. “(B) The original expected savings-to-investment ratio, simple payback estimates included in the notice required under subsection (c), annual recurring savings, 20-year net present value, annual return on investment, and measurement and verification cost estimate. “(C) The actual savings-to-investment ratio, and simple payback estimates, annual recurring savings, 20-year net present value, annual return on investment, and measurement and verification cost estimate. “(D) A brief description of the measurement and verification plan and planned funding source, to include the net change in the square footage (or other unit of measure) reduction accomplished by the military construction project. “(E) How the military construction project improved the functions of and the efficient management of real property by the supported military department or entity using the applicable facility. “(F) Such other information as the Secretary considers appropriate. “(e) Sunset.—“(1) Termination date.—Except as provided in paragraph (2), the authority of the Secretary to carry out a military construction project under the pilot program shall terminate on the date that is three years after the date of the enactment of this section. “(2) Exception.—If the Secretary submits a congressional notification under subsection (d) before the date that is three years after the date of the enactment of this section, the covered project that is the subject of such notification may be carried out to completion. “(f) Definitions.—In this section, the terms ‘facility’ and ‘military construction project’ have the meanings given such terms, respectively, in [section 2801 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2801), United States Code.”
+
+#### Guidance Regarding Maintenance of Aggregate Square Footage of Facilities of Department of Defense
+Pub. L. 118–159, div. B, title XXVIII, § 2849, Dec. 23, 2024, 138 Stat. 2268, as amended by Pub. L. 119–60, div. B, title XXVIII, § 2808(c), Dec. 18, 2025, 139 Stat. 1299, provided that: “(a) In General.—Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall issue guidance regarding the maintenance of the aggregate square footage of facilities of the Department of Defense, which shall be designated as ‘1 in 1 out guidance’, pursuant to the requirements of this section. “(b) Maintenance of Square Footage.—Guidance required under subsection (a) shall ensure that every square footage of growth of a facility is offset with an equivalent reduction in square footage by—“(1) a funded disposal action; or “(2) identifying facilities to be entered into a contingency operational status. “(c) Documentation.—Upon completion of the design phase of a project that results in the growth of a facility, the Secretary of Defense shall update the Department of Defense Form 1391 for such project to identify the reduction in square footage to accompany such increase. “(d) Submission.—Not later than 15 days after the date of submission of the defense budget materials for fiscal year 2026 (as submitted to Congress in support of the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code), and for each subsequent submission thereafter, each Secretary of a military department shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]—“(1) a list of facilities scheduled for a disposal action described in subsection (b) for the fiscal year covered by the submission and the subsequent fiscal year; and “(2) a list of facilities, disaggregated by military installation, for which a disposal action has been completed during the fiscal year preceding the date of the submission. “(e) Application.—This section and the requirements of this section shall apply to—“(1) military construction or unspecified minor military construction (as defined under [section 2805 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2805), United States Code) funded in fiscal year 2027 or a subsequent fiscal year; and “(2) other sources of growth on or after the date of the enactment of this Act [Dec. 23, 2024]. “(f) Exceptions.—This section and the requirements of this section do not apply to the following:“(1) The Sentinel intercontinental ballistic missile weapon system program. “(2) Public shipyards covered by the Shipyard Infrastructure Optimization Program. “(3) MHPI housing (as defined under section 606 of the National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; [10 U.S.C. 2871](./chapter-169-military-construction-and-military-family-housing.md#section-2871) note). “(4) The construction project for the headquarters facilities for the United States Space Command. “(g) Growth of a Facility Defined.—In this section, the term ‘growth of a facility’ means, with respect to a facility (as defined in [section 2801 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2801), United States Code), an increase in the square footage of such facility due to—“(1) carrying out a military construction project or an unspecified minor military construction project (pursuant to [section 2805 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2805), United States Code); “(2) acquisition of an existing facility on land owned by a military department; “(3) a gift of construction; “(4) construction of a facility carried out through the use of nonappropriated funds, private funds, or family housing funds, if the facility will be sustained with appropriated operation and maintenance funds; or “(5) the use of appropriated funds to sustain a facility that was previously sustained with nonappropriated funds, private funds, or family housing funds.”
+
+#### Notification to Members of Congress for Awards of Contracts for Military Construction Projects
+Pub. L. 118–159, div. B, title XXVIII, § 2874, Dec. 23, 2024, 138 Stat. 2283, provided that: “(a) Notification Required.—Not later than 30 days after the date of award of a contract for a military construction project, the Secretary of the military department with jurisdiction over such project shall notify the following Members of Congress:“(1) Any Member representing the State in which such contract will be performed. “(2) Any Member representing the State in which the contractor awarded such contract is a constituent of such Member. “(b) Elements.—A notification under subsection (a) shall include the following:“(1) The proposed value of the contract. “(2) The contractor awarded the contract. “(3) A brief description of the project that is the subject of the contract, including the location in which the contract will be performed.”
+
+#### Designation of Officials Responsible for Coordination of Infrastructure Projects To Support Additional Members of the Armed Forces and Their Families in the Indo-Pacific Region
+Pub. L. 118–159, div. B, title XXVIII, § 2880, Dec. 23, 2024, 138 Stat. 2290, provided that: “(a) In General.—Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall designate two officials employed by the Department of Defense or a military department as of the date of the enactment of this Act as follows:“(1) One official shall be responsible for coordination of infrastructure projects to support additional members of the Armed Forces and their families in Hawaii. “(2) One official shall be responsible for coordination of infrastructure projects to support additional members of the Armed Forces and their families in Guam and the Northern Mariana Islands. “(b) Duties.—Each official described in subsection (a) shall, in coordination with appropriate officials from the military departments and the United States Indo-Pacific Command—“(1) coordinate Department of Defense-wide efforts relating to the infrastructure needs associated with the significant addition of members of the Armed Forces and their families to the region for which such official is the designated official pursuant to subsection (a) during the 10-year period following the date of the enactment of this Act; “(2) analyze the expected impact on State and local government services of—“(A) military infrastructure projects in the designated region of such official; and “(B) the significant addition of members of the Armed Forces and their families as described in paragraph (1); and “(3) ensure clear and consistent communication to State and local elected officials and the public in the designated region of such official regarding the infrastructure needs and priorities of the Department of Defense, including conveying any finding or conclusion regarding the expected impact described in paragraph (2)(B). “(c) Selection.—“(1) Hawaii.—For the designation under paragraph (1) [of] subsection (a), the Secretary of Defense may appoint an individual with significant background and expertise in—“(A) the legal and technical aspects of city planning, State and local government services, and military infrastructure; and “(B) liaising with State and local elected officials and the public. “(2) Guam and the northern mariana islands.—For the designation under paragraph (2) of subsection (a), the Secretary of Defense shall appoint the Under Secretary of the Navy. “(d) Notification.—For the designations under paragraph (1) and paragraph (2) of subsection (a), the Secretary of Defense shall, not later than 30 days after the date of the designation, submit to the congressional defense committees and the Governor of Hawaii or the Governors of Guam and the Northern Mariana Islands, respectively, a notification that includes the name and contact information of the individual so designated.”
 
 #### Inclusion on Department of Defense Form 1391 of Information on Consideration of Certain Methods of Construction for Certain Military Construction Projects
 Pub. L. 118–31, div. B, title XXVIII, § 2808, Dec. 22, 2023, 137 Stat. 746, provided that: “(a) In General.—As part of the Department of Defense Form 1391 submitted to the appropriate committees of Congress for a covered military construction project, each covered official shall, to the extent practicable, include information on whether all relevant construction materials and methods of construction included in the Unified Facilities Criteria/DoD Building Code (UFC 1–200–01) were considered in the design of such covered military construction project. “(b) Definitions.—In this section:“(1) The terms ‘appropriate committees of Congress’ and ‘military construction project’ have the meanings given in [section 2801 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2801), United States Code. “(2) The term ‘covered military construction project’ means a military construction project with an estimated total cost in excess of $9,000,000. “(3) The term ‘covered official’ means—“(A) the Secretary of Defense; and “(B) each Secretary of a military department.”
@@ -211,7 +239,7 @@ Pub. L. 117–81, div. B, title XXVIII, § 2843, Dec. 27, 2021, 135 Stat. 2202, 
 Pub. L. 117–81, div. B, title XXVIII, § 2844, Dec. 27, 2021, 135 Stat. 2202, provided that: “(a) Consideration of Including Energy Microgrid in Military Construction Projects.—“(1) Amendment of unified facilities criteria required.—The Secretary of Defense shall amend the Unified Facilities Criteria/DoD Building Code (UFC 1–200–01) to require that planning and design for military construction projects inside the United States include consideration of the feasibility and cost-effectiveness of installing an energy microgrid as part of the project, including intentional islanding capability of at least seven consecutive days, for the purpose of—“(A) promoting on-installation energy security and energy resilience; and “(B) facilitating implementation and greater use of the authority provided by subsection (h) of [section 2911 of title 10](./chapter-173-energy-security.md#section-2911), United States Code, as added and amended by section 2825 of the Military Construction Authorization Act for Fiscal Year 2021 (division B of Public Law 116–283). “(2) Deadline.—The Secretary of Defense shall complete the amendment process required by paragraph (1) and implement the amendment not later than September 1, 2022. “(b) Contracts for Emergency Access to Existing On-installation Renewable Energy Sources.—In the case of a covered renewable energy generating source located on a military installation pursuant to a lease of non-excess defense property under [section 2667 of title 10](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2667), United States Code, the Secretary of the military department concerned is encouraged to negotiate with the owner and operator of the renewable energy generating source to revise the lease contract to permit the military installation to access the renewable energy generating source during an emergency. The negotiations shall include consideration of the ease of modifying the renewable energy generating source to include an islanding capability, the necessity of additional infrastructure to tie the renewable energy generating source into the installation energy grid, and the cost of such modifications and infrastructure. “(c) Definitions.—In this section:“(1) The term ‘covered renewable energy generating source’ means a renewable energy generating source that, on the date of the enactment of this Act [Dec. 27, 2021]—“(A) is located on a military installation inside the United States; but “(B) cannot be used as a direct source of resilient energy for the installation in the event of a power disruption. “(2) The term ‘islanding capability’ refers to the ability to remove an energy system, such as a microgrid, from the local utility grid and to operate the energy system, at least temporarily, as an integrated, stand-alone system, during an emergency involving the loss of external electric power supply. “(3) The term ‘microgrid’ means an integrated energy system consisting of interconnected loads and energy resources with an islanding capability to permit functioning separate from the local utility grid.”
 
 #### Pilot Program on Increased Use of Sustainable Building Materials in Military Construction
-Pub. L. 117–81, div. B, title XXVIII, § 2861, Dec. 27, 2021, 135 Stat. 2212, as amended by Pub. L. 117–263, div. B, title XXVIII, § 2865, Dec. 23, 2022, 136 Stat. 3011; Pub. L. 118–31, div. B, title XXVIII, § 2871, Dec. 22, 2023, 137 Stat. 775, provided that: “(a) Pilot Program Required.—Each Secretary of a military department shall conduct a pilot program to evaluate the effect that the use of sustainable building materials as the primary construction material in military construction may have on the environmental sustainability, infrastructure resilience, cost effectiveness, and construction timeliness of military construction. “(b) Project Selection and Locations.—“(1) Minimum number of projects.—Each Secretary of a military department shall carry out, under the pilot program, at least—“(A) one military construction project for mass timber; and “(B) one military construction project for low carbon concrete. “(2) Project locations.—The pilot program shall be conducted at military installations in the United States—“(A) that are identified as vulnerable to extreme weather events; and— “(B) for which a military construction project is authorized but a request for proposal has not been released. “(c) Inclusion of Military Unaccompanied Housing Project.—The Secretaries of the military departments shall coordinate the selection of military construction projects to be carried out under the pilot program so that at least one of the military construction projects involves construction of military unaccompanied housing. “(d) Duration of Program.—The authority of the Secretary of a military department to carry out a military construction project under the pilot program shall expire on September 30, 2025. Any construction commenced under the pilot program before the expiration date may continue to completion. “(e) Deadline for Commencement of Construction.—Any construction pursuant to a military construction project carried out under the pilot program must commence by not later than January 1, 2025. “(f) Reporting Requirement.—“(1) Report required.—Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], and every 180 days thereafter through December 31, 2025, the Secretaries of the military departments shall submit to the congressional defense committees [Committee on Armed Services and Committee on Appropriations of the Senate and House of Representatives] a report on the progress of the pilot program. “(2) Report elements.—The report shall include the following:“(A) A description of the status of the military construction projects selected to be conducted under the pilot program. “(B) An explanation of the reasons why those military construction projects were selected. “(C) An analysis of the following:“(i) The projected or actual carbon footprint over the full life cycle of the various sustainable building materials evaluated in the pilot program. “(ii) The life cycle costs of the various sustainable building materials evaluated in the pilot program. “(iii) The resilience to extreme weather events of the various sustainable building materials evaluated in the pilot program. “(iv) Any impact on construction timeliness of using the various sustainable building materials evaluated in the pilot program. “(v) The cost effectiveness of the military construction projects conducted under the pilot program using sustainable building materials as compared to other materials historically used in military construction. “(D) Any updated guidance the Under Secretary of Defense for Acquisition and Sustainment has released in relation to the procurement policy for future military construction projects based on comparable benefits realized from use of sustainable building materials, including guidance on prioritizing sustainable materials in establishing evaluation criteria for military construction project contracts when technically feasible. “(g) Sustainable Building Materials Defined.—In this section, the term ‘sustainable building material’ means any building material the use of which will reduce carbon emissions over the life cycle of the building. The term includes mass timber, concrete, and other carbon-reducing materials.”
+Pub. L. 117–81, div. B, title XXVIII, § 2861, Dec. 27, 2021, 135 Stat. 2212, as amended by Pub. L. 117–263, div. B, title XXVIII, § 2865, Dec. 23, 2022, 136 Stat. 3011; Pub. L. 118–31, div. B, title XXVIII, § 2871, Dec. 22, 2023, 137 Stat. 775; Pub. L. 119–60, div. B, title XXVIII, § 2812, Dec. 18, 2025, 139 Stat. 1301, provided that: “(a) Pilot Program Required.—Each Secretary of a military department shall conduct a pilot program to evaluate the effect that the use of sustainable building materials as the primary construction material in military construction may have on the environmental sustainability, infrastructure resilience, cost effectiveness, and construction timeliness of military construction. “(b) Project Selection and Locations.—“(1) Minimum number of projects.—Each Secretary of a military department shall carry out, under the pilot program, at least two military construction projects. “(2) Project locations.—The pilot program shall be conducted at military installations in the United States—“(A) that are identified as vulnerable to extreme weather events; and— “(B) for which a military construction project is authorized but a request for proposal has not been released. “(c) Inclusion of Military Unaccompanied Housing Project.—The Secretaries of the military departments shall coordinate the selection of military construction projects to be carried out under the pilot program so that at least one of the military construction projects involves construction of military unaccompanied housing. “(d) Duration of Program.—The authority of the Secretary of a military department to carry out a military construction project under the pilot program shall expire on September 30, 2029. Any construction commenced under the pilot program before the expiration date may continue to completion. “(e) Deadline for Commencement of Construction.—Any construction pursuant to a military construction project carried out under the pilot program must commence by not later than January 1, 2029. “(f) Use of Certain Technologies.—In carrying out each project under the pilot program commencing on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2026 [Dec. 18, 2025], the Secretary concerned shall use not fewer than three technologies identified in the report published by the Comptroller General of the United States on February 11, 2025, and titled ‘Science & Tech Spotlight: Sustainable Building Technologies’ (GAO–25–107931). Nothing in this subsection shall be construed to require the redesign, modification, or reauthorization of any project initiated prior to the date of the enactment of such Act. “(g) Reporting Requirement.—“(1) Report required.—Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], and every 180 days thereafter through December 31, 2030, the Secretaries of the military departments shall submit to the congressional defense committees [Committee on Armed Services and Committee on Appropriations of the Senate and House of Representatives] a report on the progress of the pilot program. “(2) Report elements.—The report shall include the following:“(A) A description of the status of the military construction projects selected to be conducted under the pilot program. “(B) An explanation of the reasons why those military construction projects were selected. “(C) An analysis of the following:“(i) The projected or actual carbon footprint over the full life cycle of the various sustainable building materials evaluated in the pilot program. “(ii) The life cycle costs of the various sustainable building materials evaluated in the pilot program. “(iii) The resilience to extreme weather events of the various sustainable building materials evaluated in the pilot program. “(iv) Any impact on construction timeliness of using the various sustainable building materials evaluated in the pilot program. “(v) The cost effectiveness of the military construction projects conducted under the pilot program using sustainable building materials as compared to other materials historically used in military construction. “(D) Any updated guidance the Under Secretary of Defense for Acquisition and Sustainment has released in relation to the procurement policy for future military construction projects based on comparable benefits realized from use of sustainable building materials, including guidance on prioritizing sustainable materials in establishing evaluation criteria for military construction project contracts when technically feasible. “(h) Sustainable Building Materials Defined.—In this section, the term ‘sustainable building material’ means any building material identified in the report published by the Comptroller General of the United States on February 11, 2025, and titled ‘Science & Tech Spotlight: Sustainable Building Technologies’ (GAO–25–107931) the use of which will reduce carbon emissions over the life cycle of the building. The term includes mass timber, concrete, and other carbon-reducing materials.”
 
 #### Pilot Program To Authorize Additional Military Construction Projects for Child Development Centers at Military Installations
 Pub. L. 116–283, div. B, title XXVIII, § 2865, Jan. 1, 2021, 134 Stat. 4360, provided that: “(a) Authorization of Additional Projects.—Each Secretary of a military department shall conduct a pilot program under which the Secretary may carry out military construction projects for child development centers at military installations, as specified in the funding table in section 4601 of a National Defense Authorization Act for a fiscal year covered by the pilot program. The military construction projects authorized under the pilot program are in addition to other military construction projects authorized by this Act or other National Defense Authorization Acts for fiscal years covered by the pilot program. “(b) Reporting Requirement as Condition of Authorization.—“(1) Report required.—Not later than 90 days after the date of the enactment of a National Defense Authorization Act for a fiscal year covered by the pilot program, the Secretary of the military department concerned shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that describes the location, title, and cost, together with a Department of Defense Form 1391, for each military construction project the Secretary proposes to carry out under the pilot program pursuant to that National Defense Authorization Act. “(2) Timing of availability of funds.—No funds may be obligated or expended for a military construction project under the pilot program—“(A) unless the project is included in a report submitted under paragraph (1); and “(B) until the expiration of the 30-day period beginning on the date on which the Secretary concerned submits the report under paragraph (1) in which the project is included. “(c) Expiration of Authorization.—Section 2002 of a National Defense Authorization Act for a fiscal year covered by the pilot program shall apply with respect to the authorization of a military construction project carried out under the pilot program pursuant to that National Defense Authorization Act in the same manner as such section applies to the authorization of military construction projects contained in titles XXI through XXIII of that National Defense Authorization Act. “(d) Covered Fiscal Years.—The pilot program shall be carried out for each of fiscal years 2021 through 2025, as provided in the National Defense Authorization Act for that fiscal year.”
@@ -314,7 +342,7 @@ Pub. L. 108–136, div. B, title XXVIII, § 2808, Nov. 24, 2003, 117 Stat. 1723,
 
 (1) Within an amount equal to 125 percent of the amount authorized by law for such purpose, the Secretary concerned may carry out unspecified minor military construction projects not otherwise authorized by law.
 
-(2) An unspecified minor military construction project is a military construction project or a demolition project that has an approved cost equal to or less than $9,000,000.
+(2) An unspecified minor military construction project is a military construction project, land acquisition, or demolition project that has an approved cost equal to or less than $9,000,000.
 
 (3) Notwithstanding the requirements of this section, the Secretary concerned may use amounts authorized pursuant to another law or regulation to carry out a demolition project described in paragraph (2).
 
@@ -322,7 +350,7 @@ Pub. L. 108–136, div. B, title XXVIII, § 2808, Nov. 24, 2003, 117 Stat. 1723,
 
 (1) An unspecified minor military construction project costing more than $750,000 may not be carried out under this section unless approved in advance by the Secretary concerned. This paragraph shall apply even though the project is to be carried out using funds made available to enhance the deployment and mobility of military forces and supplies.
 
-(2) When a decision is made to carry out an unspecified minor military construction project to which paragraph (1) is applicable and which costs more than $4,000,000, the Secretary concerned shall notify the appropriate committees of Congress of that decision, of the justification for the project, and of the estimated cost of the project. The project may then be carried out only after the end of the 14-day period beginning on the date the notification is received by the committees in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
+(2) When a decision is made to carry out an unspecified minor military construction project to which paragraph (1) is applicable and which costs more than $6,000,000, the Secretary concerned shall submit, in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480), to the appropriate committees of Congress a notification of that decision not later than 90 days after the date on which the Secretary concerned obligates funds for the project. Such notification shall include a description of the project, a justification for the project, and an estimation of the total cost of the project.
 
 **(c) Use of Operation and Maintenance Funds.—** The Secretary concerned may spend from appropriations available for operation and maintenance amounts necessary to carry out an unspecified minor military construction project costing not more than $4,000,000.
 
@@ -354,58 +382,22 @@ Pub. L. 108–136, div. B, title XXVIII, § 2808, Nov. 24, 2003, 117 Stat. 1723,
 
 (3) Repealed. Pub. L. 118–31, div. B, title XXVIII, § 2802(c)(2), Dec. 22, 2023, 137 Stat. 743.]
 
-**(g) Defense Laboratory Modernization Program.—**
-
-(1) Using amounts appropriated or otherwise made available to the Department of Defense for research, development, test, and evaluation, the Secretary of Defense may fund a military construction project described in paragraph (4) at any of the following:
-
-  (A) A Department of Defense science and technology reinvention laboratory (as designated under [section 4121(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4121/b&num=0&edition=prelim)).
-
-  (B) A Department of Defense federally funded research and development center that functions primarily as a research laboratory.
-
-  (C) A Department of Defense facility in support of a technology development program that is consistent with the fielding of offset technologies as described in section 218 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. note 4811).
-
-  (D) A Department of Defense research, development, test, and evaluation facility that is not designated as a science and technology reinvention laboratory, but nonetheless is involved with developmental test and evaluation.
-
-(2) Subject to the condition that a military construction project under paragraph (1) be authorized in a Military Construction Authorization Act, the authority to carry out the military construction project includes authority for—
-
-  (A) surveys, site preparation, and advanced planning and design;
-
-  (B) acquisition, conversion, rehabilitation, and installation of facilities;
-
-  (C) acquisition and installation of equipment and appurtenances integral to the project; acquisition and installation of supporting facilities (including utilities) and appurtenances incident to the project; and
-
-  (D) planning, supervision, administration, and overhead expenses incident to the project.
-
-(3)
-
-  (A) The Secretary of Defense shall include military construction projects proposed to be carried out under paragraph (1) in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget for a fiscal year submitted under 1105 of title 31.
-
-  (B) Not less than 14 days prior to the first obligation of funds described in paragraph (1) for a military construction project to be carried out under such paragraph, the Secretary of Defense shall submit to the congressional defense committees a notification providing an updated construction description, cost, and schedule for the project and any other matters regarding the project as the Secretary considers appropriate.
-
-(4) The authority provided by paragraph (1) to fund military construction projects using amounts appropriated or otherwise made available for research, development, test, and evaluation is limited to military construction projects that the Secretary of Defense, in the budget justification documents exhibits submitted pursuant to paragraph (3)(A), determines—
-
-  (A) will support research and development activities at laboratories described in paragraph (1);
-
-  (B) will establish facilities that will have significant potential for use by entities outside the Department of Defense, including universities, industrial partners, and other Federal agencies;
-
-  (C) are endorsed for funding by more than one military department or Defense Agency; and
-
-  (D) cannot be fully funded within the thresholds otherwise specified in this section.
-
-(5) The maximum amount of funds appropriated or otherwise made available for research, development, test, and evaluation that may be obligated in any fiscal year for military construction projects under paragraph (1) is $150,000,000.
-
-(6)
-
-  (A) In addition to the authority provided to the Secretary of Defense under paragraph (1) to use amounts appropriated or otherwise made available for research, development, test, and evaluation for a military construction project referred to in such subsection, the Secretary of the military department concerned may use amounts appropriated or otherwise made available for research, development, test, and evaluation to obtain architectural and engineering services and to carry out construction design in connection with such a project.
-
-  (B) In the case of architectural and engineering services and construction design to be undertaken under this paragraph for which the estimated cost exceeds $1,000,000, the Secretary concerned shall notify the appropriate committees of Congress of the scope of the proposed project and the estimated cost of such services before the initial obligation of funds for such services. The Secretary may then obligate funds for such services only after the end of the 14-day period beginning on the date on which the notification is received by the committees in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
-
 ### Statutory Notes
 
 #### Codification
 Another section 2803(a) of Pub. L. 117–263 (136 Stat. 2970), is set out as a note under [section 2687 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687).
 
 #### Amendments
+2025—Subsec. (b)(2). Pub. L. 119–60, § 2872(a), substituted “$6,000,000” for “$4,000,000”.
+
+Pub. L. 119–60, § 2871, substituted “shall submit, in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480), to the appropriate committees of Congress a notification of that decision not later than 90 days after the date on which the Secretary concerned obligates funds for the project. Such notification shall include a description of the project, a justification for the project, and an estimation of the total cost of the project.” for “shall notify the appropriate committees of Congress of that decision, of the justification for the project, and of the estimated cost of the project. The project may then be carried out only after the end of the 14-day period beginning on the date the notification is received by the committees in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).”.
+
+Subsec. (g). Pub. L. 119–60, § 2873, redesignated subsec. (g) as [section 2810(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2810/f&num=0&edition=prelim).
+
+2024—Subsec. (a)(2). Pub. L. 118–159, § 2804(a), substituted “, land acquisition, or demolition project” for “or a demolition project”.
+
+Subsec. (g)(6)(B). Pub. L. 118–159, § 2805, substituted “$4,000,000” for “$1,000,000”.
+
 2023—Subsec. (a)(2). Pub. L. 118–31, § 2802(a)(1), (b)(1), inserted “or a demolition project” after “is a military construction project” and substituted “$9,000,000” for “$6,000,000”.
 
 Subsec. (a)(3). Pub. L. 118–31, § 2802(a)(2), added par. (3).
@@ -567,8 +559,13 @@ Amendment by section 1843(c) of Pub. L. 116–283 effective Jan. 1, 2022, with a
 #### Effective Date
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801).
 
+#### Temporary Expansion of Authority for Caisson Requirements
+Pub. L. 119–60, div. B, title XXVIII, § 2810(b), Dec. 18, 2025, 139 Stat. 1301, provided that: “Not later than 30 days after each use of the authority described under section 2804(c) of the Military Construction Authorization Act for Fiscal Year 2025 (division B of Public Law 118–159; [10 U.S.C. 2805](./chapter-169-military-construction-and-military-family-housing.md#section-2805) note), the Secretary of the Army shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on such use.”
+
+Pub. L. 118–159, div. B, title XXVIII, § 2804(c), Dec. 23, 2024, 138 Stat. 2248, as amended by Pub. L. 119–60, div. B, title XXVIII, § 2810(a), Dec. 18, 2025, 139 Stat. 1300, provided that: “During the period beginning on the date of the enactment of this section [Dec. 23, 2024] and ending on August 1, 2026, the Secretary of the Army may use the authority under section 2805 of such title [meaning title 10, United States Code] for the purchase of interests in land at not more than 200 percent of the applicable dollar threshold specified in such section to support the caisson requirements of the Department of the Army with respect to equine welfare.”
+
 #### Authority for Indo-Pacific Posture Unspecified Minor Military Construction Projects
-Pub. L. 118–31, div. B, title XXVIII, § 2810, Dec. 22, 2023, 137 Stat. 747, provided that: “(a) Authority.—To support the posture of the Armed Forces in the United States Indo-Pacific Command area of operations, the Commander of the United States Indo-Pacific Command (in this section referred to as the ‘Commander’) may carry out unspecified minor military construction projects not otherwise authorized by law with an approved cost less than $15,000,000. “(b) Scope of Project Authority.—A project carried out under this section may include—“(1) the design, construction, development, conversion, extension, renovation, or repair of a facility, whether to satisfy temporary or permanent requirements; and “(2) to the extent necessary, any acquisition of land subject to the limitations on real property acquisition of chapter 159 of title 10, United States Code. “(c) Purposes.—A project carried out under this section shall be for the purpose of—“(1) supporting the rotational deployments of the Armed Forces; “(2) enhancing facility preparedness and military installation resilience (as defined in [section 101(e)(8) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/8&num=0&edition=prelim), United States Code) in support of potential, planned, or anticipated defense activities; or “(3) providing for prepositioning and storage of equipment and supplies. “(d) Location of Projects.—A project carried out under this section must be located within the area of responsibility of the United States Indo-Pacific Command and at a military installation that includes a main operating base, cooperative security location, forward operating site, or contingency location for use by the Armed Forces. “(e) Available Amounts.—In carrying out a project under this section, the Commander may use amounts appropriated for—“(1) the INDOPACOM Military Construction Pilot Program fund (as specified in the funding table in section 4601 [Pub. L. 118–31, 137 Stat. 901]); and “(2) operation and maintenance, not to exceed 200 percent of the amount specified in [section 2805(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2805/c&num=0&edition=prelim), United States Code. “(f) Notice to Congress.—“(1) In general.—If the Commander decides to carry out a project under this section with a cost exceeding $2,000,000, the Commander shall submit a written notification to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of that decision. “(2) Relevant details.—A notice under paragraph (1) with respect to a project shall include relevant details and justification of the project, including the estimated cost, and may include a classified annex. “(3) Timing.—A project under this section covered by paragraph (1) may not be carried out until the end of the 14-day period beginning on the date of receipt of the notification under such paragraph by the congressional defense committees. “(g) Project Execution.—“(1) Project supervision.—Subsections (a) and (b) of [section 2851 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2851), United States Code, shall not apply to projects carried out by the Commander under this section. “(2) Application of chapter 169 of title 10, united states code.—When exercising the authority under subsection (a), the Commander shall, for purposes of chapter 169 of title 10, United States Code, be considered the Secretary concerned. “(h) Annual Report.—Not later than December 31, 2024, and annually thereafter until the termination date in subsection (i), the Commander shall submit to the congressional defense committees a report containing a list of projects funded, lessons learned, and, subject to the concurrence of the Secretary of Defense, recommended adjustments to the authority under this section for the most recently ended fiscal year covered by the report. “(i) Termination.—The authority to carry out a project under this section expires on March 31, 2029.”
+Pub. L. 118–31, div. B, title XXVIII, § 2810, Dec. 22, 2023, 137 Stat. 747, as amended by Pub. L. 118–159, div. B, title XXVIII, § 2807, Dec. 23, 2024, 138 Stat. 2250, provided that: “(a) Authority.—To support the posture of the Armed Forces in the United States Indo-Pacific Command area of operations, the Commander of the United States Indo-Pacific Command (in this section referred to as the ‘Commander’) may carry out unspecified minor military construction projects not otherwise authorized by law with an approved cost less than $30,000,000. “(b) Scope of Project Authority.—A project carried out under this section may include—“(1) the design, construction, development, conversion, extension, renovation, or repair of a facility, whether to satisfy temporary or permanent requirements; and “(2) to the extent necessary, as either a stand-alone acquisition or as part of a minor military construction project, any acquisition of interests in land, or support or reimbursement for acquisition of interests in land, for establishment of a defense site or other area over which the Secretary of a military department or the Secretary of Defense will exercise operational control, without regard to the duration of the operational control. “(c) Purposes.—A project carried out under this section shall be for the purpose of—“(1) supporting the rotational deployments of the Armed Forces; “(2) enhancing facility preparedness and military installation resilience (as defined in [section 101(e)(8) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/8&num=0&edition=prelim), United States Code) in support of potential, planned, or anticipated defense activities; “(3) providing for prepositioning and storage of equipment and supplies; or “(4) acquiring interests in land, defense sites, or operational control over an area needed to support another project or projects under this section or to support a future military construction project. “(d) Location of Projects.—A project carried out under this section must be located within the area of responsibility of the United States Indo-Pacific Command and at a military installation or planned military installation that includes a main operating base, cooperative security location, forward operating site, or contingency location for use by the Armed Forces. “(e) Available Amounts.—In carrying out a project under this section, the Commander may use amounts appropriated for—“(1) the INDOPACOM Military Construction Pilot Program fund (as specified in the funding table in section 4601 [Pub. L. 118–31, 137 Stat. 901]); and “(2) operation and maintenance, not to exceed 200 percent of the amount specified in subsection (c) of section 2805, United States Code, subject to adjustment upward to reflect a construction cost index published pursuant to subsection (f) of such section if such an index applies to the location of the project, except that the adjusted amount may not exceed the limit under subsection (a). “(f) Notice to Congress.—“(1) In general.—If the Commander decides to carry out a project under this section with a cost exceeding $2,000,000, the Commander shall submit a written notification to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of that decision. “(2) Relevant details.—A notice under paragraph (1) with respect to a project shall include relevant details and justification of the project, including the estimated cost, and may include a classified annex. “(3) Timing.—A project under this section covered by paragraph (1) may not be carried out until the end of the 14-day period beginning on the date of receipt of the notification under such paragraph by the congressional defense committees. “(g) Project Execution.—“(1) Project supervision.—Subsections (a) and (b) of [section 2851 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2851), United States Code, shall not apply to projects carried out by the Commander under this section. “(2) Application of chapter 169 of title 10, united states code.—When exercising the authority under subsection (a), the Commander shall, for purposes of chapter 169 of title 10, United States Code, be considered the Secretary concerned. “(h) Annual Report.—Not later than December 31, 2024, and annually thereafter until the termination date in subsection (i), the Commander shall submit to the congressional defense committees a report containing a list of projects funded, lessons learned, and, subject to the concurrence of the Secretary of Defense, recommended adjustments to the authority under this section for the most recently ended fiscal year covered by the report. “(i) Termination.—The authority to carry out a project under this section expires on March 31, 2029.”
 
 #### Temporary Increase of Amounts in Connection With Authority To Carry Out Unspecified Minor Military Construction
 Pub. L. 117–263, div. B, title XXVIII, § 2801, Dec. 23, 2022, 136 Stat. 2992, which increased amounts in connection with authority to carry out unspecified minor military construction projects for the period beginning on Dec. 23, 2022, and ending on Dec. 1, 2025, was repealed by Pub. L. 118–31, div. B, title XXVIII, § 2802(e), Dec. 22, 2023, 137 Stat. 743.
@@ -590,7 +587,11 @@ Maximum amount of $1,000,000 for unspecified minor military construction project
 ## § 2806. Contributions for North Atlantic Treaty Organizations Security Investment
 **(a)** Within amounts authorized by law for such purpose, the Secretary of Defense may make contributions for the United States share of the cost of multilateral programs for the acquisition and construction of military facilities and installations (including international military headquarters) and for related expenses for the collective defense of the North Atlantic Treaty Area.
 
-**(b)** Funds may not be obligated or expended in connection with the North Atlantic Treaty Organization Security Investment program in any year unless such funds have been authorized by law for such program.
+**(b)**
+
+(1) Funds may not be obligated or expended in connection with the North Atlantic Treaty Organization Security Investment program in any year unless such funds have been authorized by law for such program.
+
+(2) If any funds authorized for the North Atlantic Treaty Organization Security Investment program for a fiscal year are available to be obligated or expended at the end of that fiscal year and no funds have been authorized for the following fiscal year, not more than 50 percent of the amount authorized for the North Atlantic Treaty Organization Security Investment program for that fiscal year shall be deemed to be authorized by law for purposes of paragraph (1) for the following fiscal year.
 
 **(c)**
 
@@ -601,6 +602,8 @@ Maximum amount of $1,000,000 for unspecified minor military construction project
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (b). Pub. L. 118–159 designated existing provisions as par. (1) and added par. (2).
+
 2017—Subsec. (c)(1). Pub. L. 115–91, § 2801(a)(4)(A), inserted “of Defense” after “The Secretary”.
 
 Subsec. (c)(2). Pub. L. 115–91, § 2801(a)(4)(B), substituted “, only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480), to the appropriate committees of Congress notice of the increase, including the reasons for the increase and the source of the funds to be used for the increase.” for “(A) after submitting a report in writing to the appropriate committees of Congress on such increase, including a statement of the reasons for the increase and a statement of the source of the funds to be used for the increase, and (B) after a period of 21 days has elapsed from the date of receipt of the report or, if earlier, a period of 14 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).”
@@ -624,6 +627,9 @@ Subsec. (b). Pub. L. 104–201, § 2802(a), substituted “Security Investment p
 #### Change of Name
 Pub. L. 104–201, div. B, title XXVIII, § 2802(b), Sept. 23, 1996, 110 Stat. 2787, provided that: “Any reference to the North Atlantic Treaty Organization Infrastructure program in any Federal law, Executive order, regulation, delegation of authority, or document of or pertaining to the Department of Defense shall be deemed to refer to the North Atlantic Treaty Organization Security Investment program.”
 
+#### Effective Date of 2024 Amendment
+Pub. L. 118–159, div. B, § 2003, Dec. 23, 2024, 138 Stat. 2212, provided that: “Titles XXI through XXVII [of Pub. L. 118–159, amending this section and enacting provisions related to military construction authorizations not set out in the Code] shall take effect on the later of— “(1) October 1, 2024; or “(2) the date of the enactment of this Act [Dec. 23, 2024].”
+
 #### Effective Date of 1986 Amendment
 Pub. L. 99–661, div. B, title V, § 2503(b), Nov. 14, 1986, 100 Stat. 4039, provided that: “The amendment made by subsection (a) [amending this section] shall apply only with respect to contributions made with funds appropriated for fiscal years after fiscal year 1986.”
 
@@ -638,7 +644,7 @@ Pub. L. 99–661, div. B, title V, § 2504, Nov. 14, 1986, 100 Stat. 4039, prohi
 ## § 2807. Architectural and engineering services and construction design
 **(a)** Within amounts appropriated for military construction and military family housing, the Secretary concerned may obtain architectural and engineering services and may carry out construction design in connection with military construction projects, family housing projects, and projects undertaken in connection with the authority provided under [section 2854 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2854) that are not otherwise authorized by law. Amounts available for such purposes may be used for construction management of projects that are funded by foreign governments directly or through international organizations and for which elements of the armed forces of the United States are the primary user.
 
-**(b)** In the case of architectural and engineering services and construction design to be undertaken under subsection (a) for which the estimated cost exceeds $1,000,000, the Secretary concerned shall notify the appropriate committees of Congress of the scope of the proposed project and the estimated cost of such services before the initial obligation of funds for such services. The Secretary may then obligate funds for such services only after the end of the 14-day period beginning on the date on which the notification is received by the committees in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
+**(b)** In the case of architectural and engineering services and construction design to be undertaken under subsection (a) for which the estimated cost exceeds $5,000,000, the Secretary concerned shall notify the appropriate committees of Congress of the scope of the proposed project and the estimated cost of such services before the initial obligation of funds for such services. The Secretary may then obligate funds for such services only after the end of the 14-day period beginning on the date on which the notification is received by the committees in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
 
 **(c)** If the Secretary concerned determines that the amount authorized for activities under subsection (a) in any fiscal year must be increased the Secretary may proceed with activities at such higher level only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480), to the appropriate committees of Congress notice of the need for the increase, including the source of funds to be used for the increase.
 
@@ -647,6 +653,8 @@ Pub. L. 99–661, div. B, title V, § 2504, Nov. 14, 1986, 100 Stat. 4039, prohi
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–60 substituted “$5,000,000” for “$1,000,000”.
+
 2017—Subsec. (b). Pub. L. 115–91, § 2801(a)(5)(A), substituted “14-day period” for “21-day period” and struck out “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided” after “received by the committees”.
 
 Subsec. (c). Pub. L. 115–91, § 2801(a)(5)(B), substituted “only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480), to the appropriate committees of Congress notice of the need for the increase, including the source of funds to be used for the increase.” for “(1) after submitting a report in writing to the appropriate committees of Congress on such increase, including a statement of the reasons for the increase and a statement of the source of funds to be used for the increase, and (2) after a period of 21 days has elapsed from the date of receipt of the report or, if over sooner, a period of 14 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).”
@@ -672,6 +680,9 @@ Pub. L. 99–661, div. B, title VII, § 2712(b), Nov. 14, 1986, 100 Stat. 4041, 
 
 #### Effective Date
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801).
+
+#### Obligation and Execution of Design Funds for Military Construction Projects
+Pub. L. 118–159, div. B, title XXVIII, § 2811, Dec. 23, 2024, 138 Stat. 2252, as amended by Pub. L. 119–60, div. B, title XXVIII, § 2811, Dec. 18, 2025, 139 Stat. 1301, provided that: “(a) In General.—Not later than one year after amounts are appropriated for any fiscal year for the congressionally-directed design of a military construction project, the Secretary of Defense shall ensure that the construction agent responsible for such project enters into a contract pursuant to [section 2807 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2807), United States Code, for the obligation and execution of such amounts. “(b) Completion of Work.—If a military construction project designated pursuant to subsection (a) has an estimated construction cost of less than $150,000,000, not less than 35 percent of the project design under a contract described in subsection (a) shall be completed not later than 240 days after the date of the award of such contract. “(c) Notification.—If the Secretary determines that a construction agent who is responsible for a military construction project under subsection (a) fails to satisfy the requirements of subsection (a) or (b), the Secretary shall, not later than 30 days after the Secretary makes such determination and at the end of each ninety-day period thereafter until such military construction project reaches 35 percent design, submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a notification that includes—“(1) a statement of whether the construction agent has exceeded the duration to—“(A) enter into a contract under subsection (a); or “(B) complete 35 percent project design under subsection (b); “(2) the reason for the delay in the satisfaction of such requirements; and “(3) the projected dates such requirements will be satisfied.”
 
 #### Architectural and Engineering Services and Construction Design Contracts for Military Construction Projects
 Pub. L. 98–212, title VII, § 796, Dec. 8, 1983, 97 Stat. 1455, provided that: “No funds appropriated for the Departments of Defense, Army, Navy, or the Air Force shall be obligated by their respective Secretaries for architectural and engineering services and construction design contracts for Military Construction projects in the amount of $85,000 and over, unless competition for such contracts is open to all firms regardless of size in accordance with 40 U.S.C. § 541, et seq. [now chapter 11 of Title 40, Public Buildings, Property, and Works.]”
@@ -765,6 +776,61 @@ Ex. Ord. No. 13235, Nov. 16, 2001, 66 F.R. 58343, provided:
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.), and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I declared a national emergency that requires the use of the Armed Forces of the United States, by Proclamation 7463 of September 14, 2001 [[50 U.S.C. 1621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1621&num=0&edition=prelim) note], because of the terrorist attacks on the World Trade Center and the Pentagon, and because of the continuing and immediate threat to the national security of the United States of further terrorist attacks. To provide additional authority to the Department of Defense to respond to that threat, and in accordance with section 301 of the National Emergencies Act ([50 U.S.C. 1631](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1631&num=0&edition=prelim)), I hereby order that the emergency construction authority at [10 U.S.C. 2808](./chapter-169-military-construction-and-military-family-housing.md#section-2808) is invoked and made available in accordance with its terms to the Secretary of Defense and, at the discretion of the Secretary of Defense, to the Secretaries of the military departments.
 
 George W. Bush.
+
+
+<a id="section-2808a"></a>
+## § 2808a. Facility construction or repair: transactions other than contracts and grants
+**(a) Authority.—** Subject to the requirements of [section 2853 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2853), the Secretary concerned may enter into transactions (other than contracts, cooperative agreements, or grants) to carry out repair and construction projects for facilities, including the planning, design, engineering, prototyping, piloting, and execution of such repair and construction projects.
+
+**(b) Use of Amounts.—** The Secretary concerned may carry out projects under subsection (a) using amounts available to such Secretary for military construction, operation and maintenance, or research, development, test, and evaluation, notwithstanding chapters 221 and 223 and [section 2851(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2851/a&num=0&edition=prelim).
+
+**(c) Follow-on Transactions.—** A transaction entered into under this section for a project may provide for the award of a follow-on production contract or transaction to the participants in the transaction without further competition, if—
+
+(1) competitive procedures were used for the selection of parties for participation in the original transaction; and
+
+(2) the participants in the original transaction successfully completed—
+
+  (A) a complete and useable facility; or
+
+  (B) a complete and useable improvement to a facility.
+
+**(d) Notification Requirement.—**
+
+(1) Not later than 14 days before entering into a transaction for a project under this section, the Secretary concerned shall submit to the congressional defense committees a notification of the intent to use this authority in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
+
+(2) Each notification under paragraph (1) shall include—
+
+  (A) the project title;
+
+  (B) a description of the project and its location;
+
+  (C) the estimated project cost and source of funds;
+
+  (D) the recipient or contractor selected to execute the project, if known at the time of notification; and
+
+  (E) the rationale for using the authority under this section instead of the process for military construction projects under subchapter I of chapter 169 of title 10, United States Code.
+
+**(e) Report.—** Not later than 180 days after the date of enactment of this section, and biannually thereafter, the Secretary of Defense shall submit to the congressional defense committees a report summarizing the use of the authority under this section during the period covered by the report, including—
+
+(1) the military department or Defense Agency carrying out each project;
+
+(2) the total cost of each project and the source of the funds obligated;
+
+(3) a description of the scope, purpose, and location of each project;
+
+(4) any observed differences in project delivery timelines or execution speed as a result of using the authority under this section;
+
+(5) an assessment of cost savings, efficiencies, or risk reductions realized through the use of such authority; and
+
+(6) lessons learned and recommendations to improve the implementation, oversight, or scope of such authority.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
+
+#### Effective Date
+Pub. L. 119–60, div. B, title XXVIII, § 2802(b), Dec. 18, 2025, 139 Stat. 1293, provided that: “The amendments made by this section [enacting this section] shall apply with respect to transactions entered into on or after the date of the enactment of this Act [Dec. 18, 2025].”
 
 
 <a id="section-2809"></a>
@@ -880,10 +946,102 @@ Pub. L. 100–180, div. B, subdiv. 3, title I, § 2302(c), Dec. 4, 1987, 101 Sta
 
 **(d) Application to Military Construction Projects.—** This section shall apply to military construction projects covered by subsection (a) for which a Department of Defense Form 1391 is submitted to the appropriate committees of Congress in connection with the budget of the Department of Defense for fiscal year 2023 and thereafter.
 
+**(e) Annual Five-year Plans on Improvement of Innovation Infrastructure.—**
+
+(1) **Submission.—** — Along with the budget for each fiscal year submitted by the President pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), each Secretary of a military department and the Secretary of Defense shall submit to the congressional defense committees a plan that describes the objectives of that Secretary to improve innovation infrastructure during the five fiscal years following the fiscal year for which such budget is submitted.
+
+(2) **Elements.—** — Each plan submitted by a Secretary of a military department under paragraph (1) shall include the following:
+
+  (A) With respect to the five-year period covered by the plan, an identification of the major lines of effort, milestones, and investment goals of the Secretary over such period relating to the improvement of innovation infrastructure and a description of how such goals support such goals, including the use of—
+
+    (i) military construction, facilities restoration and modernization funds;
+
+    (ii) the defense lab modernization program under [section 2805(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2805/d&num=0&edition=prelim); and
+
+    (iii) military construction projects for innovation, research, development, test, and evaluation under this section.
+
+  (B) The estimated costs of necessary innovation infrastructure improvements and a description of how such costs would be addressed by the Department of Defense budget request submitted during the same year as the plan and the applicable future-years defense program.
+
+  (C) Information regarding the plan of the Secretary to initiate such environmental and engineering studies as may be necessary to carry out planned innovation infrastructure improvements.
+
+  (D) Detailed information regarding how innovation infrastructure improvement projects will be paced and sequenced to ensure continuous operations.
+
+(3) **Incorporation of results-oriented management practices.—** — Each plan under subsection (a) shall incorporate the leading results-oriented management practices identified in the report of the Comptroller General of the United States titled “Actions Needed to Improve Poor Conditions of Facilities and Equipment that Affect Maintenance Timeliness and Efficiency” (GAO–19–242), or any successor report, including—
+
+  (A) analytically based goals;
+
+  (B) results-oriented metrics;
+
+  (C) the identification of required resources, risks, and stakeholders; and
+
+  (D) regular reporting on progress to decision makers.
+
+(4) **Innovative infrastructure defined.—** — In this subsection, the term “innovation infrastructure” includes laboratories, test and evaluation ranges, and any other infrastructure whose primary purpose is research, development, test, and evaluation.
+
+**(f) Defense Laboratory Modernization Program.—**
+
+(1) Using amounts appropriated or otherwise made available to the Department of Defense for research, development, test, and evaluation, the Secretary of Defense may fund a military construction project described in paragraph (4) at any of the following:
+
+  (A) A Department of Defense science and technology reinvention laboratory (as designated under [section 4121(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4121/b&num=0&edition=prelim)).
+
+  (B) A Department of Defense federally funded research and development center that functions primarily as a research laboratory.
+
+  (C) A Department of Defense facility in support of a technology development program that is consistent with the fielding of offset technologies as described in section 218 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. note 4811).
+
+  (D) A Department of Defense research, development, test, and evaluation facility that is not designated as a science and technology reinvention laboratory, but nonetheless is involved with developmental test and evaluation.
+
+(2) Subject to the condition that a military construction project under paragraph (1) be authorized in a Military Construction Authorization Act, the authority to carry out the military construction project includes authority for—
+
+  (A) surveys, site preparation, and advanced planning and design;
+
+  (B) acquisition, conversion, rehabilitation, and installation of facilities;
+
+  (C) acquisition and installation of equipment and appurtenances integral to the project; acquisition and installation of supporting facilities (including utilities) and appurtenances incident to the project; and
+
+  (D) planning, supervision, administration, and overhead expenses incident to the project.
+
+(3)
+
+  (A) The Secretary of Defense shall include military construction projects proposed to be carried out under paragraph (1) in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget for a fiscal year submitted under 1105 of title 31.
+
+  (B) Not less than 14 days prior to the first obligation of funds described in paragraph (1) for a military construction project to be carried out under such paragraph, the Secretary of Defense shall submit to the congressional defense committees a notification providing an updated construction description, cost, and schedule for the project and any other matters regarding the project as the Secretary considers appropriate.
+
+(4) The authority provided by paragraph (1) to fund military construction projects using amounts appropriated or otherwise made available for research, development, test, and evaluation is limited to military construction projects that the Secretary of Defense, in the budget justification documents exhibits submitted pursuant to paragraph (3)(A), determines—
+
+  (A) will support research and development activities at laboratories described in paragraph (1);
+
+  (B) will establish facilities that will have significant potential for use by entities outside the Department of Defense, including universities, industrial partners, and other Federal agencies;
+
+  (C) are endorsed for funding by more than one military department or Defense Agency; and
+
+  (D) cannot be fully funded within the thresholds otherwise specified in this section.
+
+(5) The maximum amount of funds appropriated or otherwise made available for research, development, test, and evaluation that may be obligated in any fiscal year for military construction projects under paragraph (1) is $150,000,000.
+
+(6)
+
+  (A) In addition to the authority provided to the Secretary of Defense under paragraph (1) to use amounts appropriated or otherwise made available for research, development, test, and evaluation for a military construction project referred to in such subsection, the Secretary of the military department concerned may use amounts appropriated or otherwise made available for research, development, test, and evaluation to obtain architectural and engineering services and to carry out construction design in connection with such a project.
+
+  (B) In the case of architectural and engineering services and construction design to be undertaken under this paragraph for which the estimated cost exceeds $4,000,000, the Secretary concerned shall notify the appropriate committees of Congress of the scope of the proposed project and the estimated cost of such services before the initial obligation of funds for such services. The Secretary may then obligate funds for such services only after the end of the 14-day period beginning on the date on which the notification is received by the committees in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
+
 ### Statutory Notes
+
+#### Codification
+The text of [section 2805(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2805/g&num=0&edition=prelim), which was transferred to this section and redesignated subsec. (f) by Pub. L. 119–60, § 2873, was based on Pub. L. Pub. L. 117–263, div. B, title XXVIII, § 2803(a), Dec. 23, 2022, 136 Stat. 2992; Pub. L. 118–159, div. B, title XXVIII, § 2805, Dec. 23, 2024, 138 Stat. 2249.
 
 #### Prior Provisions
 A prior section 2810, added Pub. L. 99–499, title II, § 211(b)(1), Oct. 17, 1986, 100 Stat. 1725, related to military construction projects for environmental response actions, prior to repeal by Pub. L. 107–314, div. A, title III, § 313(b), Dec. 2, 2002, 116 Stat. 2507.
+
+#### Amendments
+2025—Subsec. (f). Pub. L. 119–60 renumbered [section 2805(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2805/g&num=0&edition=prelim) as subsec. (f) of this section. See Codification note above.
+
+2024—Subsec. (e). Pub. L. 118–159 added subsec. (e).
+
+#### Deadline
+Pub. L. 118–159, div. B, title XXVIII, § 2806(b), Dec. 23, 2024, 138 Stat. 2250, provided that: “The first plan required under subsection (e) of such section [meaning [10 U.S.C. 2810](./chapter-169-military-construction-and-military-family-housing.md#section-2810)] (as amended by subsection (a)) shall be submitted as part of the annual budget submission of the President to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, for fiscal year 2027.”
+
+#### Guidance for Military Construction Projects for Innovation, Research, Development, Test, and Evaluation
+Pub. L. 119–60, div. B, title XXVIII, § 2815, Dec. 18, 2025, 139 Stat. 1303, provided that: “(a) Guidance Required.—Not later than 120 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall issue written guidance on the implementation of [section 2810 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2810), United States Code. “(b) Contents.—The guidance required by this section shall include, at minimum, the following:“(1) Procedures and criteria for the development and submission of project proposals pursuant to subsection (b) of [section 2810 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2810), United States Code. “(2) Definitions for roles and responsibilities for Department of Defense employees with respect to review, approval, and execution of projects carried out under the authority of such section 2810. “(3) Clarification on how the use of the authority to carry out projects under such section 2810 may be coordinated with the use of authorities for such projects under sections 2803, 2805, and 4123 of title 10, United States Code. “(4) A process for internal review and validation of projects proposed to be carried out using the authority under [section 2810 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2810), United States Code, which shall include—“(A) assessments of how such proposed projects could be integrated across military departments; “(B) comprehensive time-phased milestone plans for such proposed projects with clearly defined dependencies; and “(C) explicit documentation of budget programming action decisions of the Secretary of the military department with jurisdiction over such project.”
 
 
 <a id="section-2811"></a>
@@ -1156,7 +1314,11 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 <a id="section-2815"></a>
 ## § 2815. Military installation resilience projects
-**(a) Projects Required.—** The Secretary of Defense shall carry out military construction projects for military installation resilience, in accordance with [section 2802 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2802) (except as provided in subsections (d)(3) and (e)).
+**(a) Projects Required.—** The Secretary of Defense shall carry out military construction projects, including unspecified minor military construction projects not otherwise authorized by law, for military installation resilience, in accordance with—
+
+(1) [section 2802 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2802) (except as provided in subsection (e)); or
+
+(2) [section 2805 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2805).
 
 **(b) Congressional Notification.—**
 
@@ -1216,6 +1378,8 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 A prior section 2815, added Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2801(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–412; amended Pub. L. 107–314, div. A, title X, § 1062(a)(14), Dec. 2, 2002, 116 Stat. 2650, related to annual evaluation of joint use military construction projects, prior to repeal by Pub. L. 112–81, div. A, title X, § 1061(23)(A), Dec. 31, 2011, 125 Stat. 1584.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 inserted “, including unspecified minor military construction projects not otherwise authorized by law,” after “military construction projects” and substituted “in accordance with—” and pars. (1) and (2) for “in accordance with [section 2802 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2802) (except as provided in subsections (d)(3) and (e)).”
+
 2023—Subsec. (e)(3). Pub. L. 118–31 substituted “$125,000,000” for “$100,000,000”.
 
 2021—Subsec. (a). Pub. L. 116–283, § 315(a)(1), inserted “(except as provided in subsections (d)(3) and (e))” before period at end.
@@ -1226,14 +1390,20 @@ Subsecs. (d) to (f). Pub. L. 116–283, § 315(a)(3), (4), added subsecs. (d) an
 
 
 <a id="section-2815a"></a>
-## § 2815a. Stormwater management projects for installation and defense access road resilience and waterway and ecosystems conservation
-**(a) Projects Authorized.—** The Secretary concerned may carry out a stormwater management project on or related to a military installation for the purpose of—
+## § 2815a. Stormwater management, shoreline erosion control, and water resilience projects for installations and defense access roads
+**(a) Projects Authorized.—** The Secretary concerned may carry out one or more of the following projects on or related to a military installation:
 
-(1) improving military installation resilience or the resilience of a defense access road or other essential civilian infrastructure supporting the military installation; and
+(1) A stormwater management project for the purposes of—
 
-(2) protecting nearby waterways and stormwater-stressed ecosystems.
+  (A) improving military installation resilience or the resilience of a defense access road or other essential civilian infrastructure supporting a military installation; and
 
-**(b) Project Methods and Funding Sources.—** Using such amounts as may be provided in advance in appropriation Acts, the Secretary concerned may carry out a stormwater management project under this section as, or as part of, any of the following:
+  (B) protecting nearby waterways and stormwater-stressed ecosystems.
+
+(2) A shoreline erosion control project for the purpose of improving, protecting, or repairing shoreline to protect the infrastructure of a military installation or a defense access road.
+
+(3) A project to provide water storage and filtration, flood mitigation, or otherwise support water resilience.
+
+**(b) Project Methods and Funding Sources.—** Using such amounts as may be provided in advance in appropriation Acts, the Secretary concerned may carry out a project under this section as, or as part of, any of the following:
 
 (1) An authorized military construction project.
 
@@ -1243,41 +1413,63 @@ Subsecs. (d) to (f). Pub. L. 116–283, § 315(a)(3), (4), added subsecs. (d) an
 
 (4) A defense community infrastructure resilience project under [section 2391(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2391/d&num=0&edition=prelim).
 
-(5) A construction project under [section 2914 of this title](./chapter-173-energy-security.md#section-2914).
+(5) A military installation resilience project under [section 2684a of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2684a).
 
-(6) A reserve component facility project under [section 18233 of this title](./chapter-1803-facilities-for-reserve-components.md#section-18233).
+(6) A construction project under [section 2914 of this title](./chapter-173-energy-security.md#section-2914).
 
-(7) A defense access road project under [section 210 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section210&num=0&edition=prelim).
+(7) A reserve component facility project under [section 18233 of this title](./chapter-1803-facilities-for-reserve-components.md#section-18233).
 
-**(c) Project Priorities.—** In selecting stormwater management projects to be carried out under this section, the Secretary concerned shall give a priority to project proposals involving the retrofitting of buildings and grounds on a military installation or retrofitting a defense access road to reduce stormwater runoff and ponding or standing water that includes the combination of stormwater runoff and water levels resulting from extreme weather conditions.
+(8) A defense access road project under [section 210 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section210&num=0&edition=prelim).
 
-**(d) Project Activities.—** Activities carried out as part of a stormwater management project under this section may include, but are not limited to, the following:
+**(c) Project Priorities.—** In selecting projects to be carried out under this section, the Secretary concerned shall give a priority to a project proposal that—
 
-(1) The installation, expansion, or refurbishment of stormwater ponds and other water-slowing and retention measures.
+(1) minimizes the runoff of untreated stormwater into freshwater systems or tidal systems;
+
+(2) protects military installations and defense access roads from stormwater runoff and water levels resulting from extreme weather conditions;
+
+(3) controls shoreline erosion control that involve the improvement, protection, or repair of shoreline subject to wave action or stormwater runoff and water levels resulting from extreme weather condition; or
+
+(4) supports water resilience at military installations.
+
+**(d) Project Activities.—** Activities carried out as part of a project under this section may include, but are not limited to, the following:
+
+(1) The installation, expansion, or refurbishment of stormwater ponds and other water-slowing, retention, or filtration measures to address storm water management.
 
 (2) The installation of permeable pavement in lieu of, or to replace existing, nonpermeable pavement.
 
 (3) The use of planters, tree boxes, cisterns, and rain gardens to reduce stormwater runoff.
 
-**(e) Project Coordination.—** In the case of a stormwater management project carried out under this section on or related to a military installation and any project related to the same installation carried out under section 2391(d), 2815, or 2914 of this title, the Secretary concerned shall ensure coordination between the projects regarding the water access, management, conservation, security, and resilience aspects of the projects.
+(4) The capture or storage of stormwater for use in supporting water resilience at a military installation.
+
+(5) The use of sheet piles, riprap, armor stone, sea walls, natural plantings, or any other technologies created to address shoreline erosion control.
+
+**(e) Project Coordination.—**
+
+(1) In the case of a project carried out under this section on or related to a military installation and any project related to the same installation carried out under section 2391, 2684, 2815, or 2914 of this title, the Secretary concerned shall ensure coordination between the projects regarding the water access, management, conservation, security, and resilience aspects of the projects.
+
+(2) The Assistant Secretary of Defense for Energy, Installations, and Environment shall designate an official to be responsible for coordinating projects under this section among the military departments.
 
 **(f) Annual Report.—**
 
 (1) Not later than 90 days after the end of each fiscal year, each Secretary concerned shall submit to the congressional defense committees a report describing—
 
-  (A) the status of planned and active stormwater management projects carried out by that Secretary under this section; and
+  (A) the status of planned and active projects carried out by that Secretary under this section; and
 
   (B) all projects completed by the Secretary concerned during the previous fiscal year.
 
-(2) Each report shall include the following information with respect to each stormwater management project described in the report:
+(2) Each report shall include the following information with respect to each project described in the report:
 
   (A) The title, location, a brief description of the scope of work, the original project cost estimate, and the current working cost estimate.
 
   (B) The rationale for how the project will—
 
-    (i) improve military installation resilience or the resilience of a defense access road or other essential civilian infrastructure supporting a military installation; and
+    (i) improve military installation resilience or the resilience of a defense access road or other essential civilian infrastructure supporting a military installation;
 
-    (ii) protect waterways and stormwater-stressed ecosystems.
+    (ii) protect waterways and stormwater-stressed ecosystems;
+
+    (iii) improve, protect, or repair shoreline to protect infrastructure of a military installation or a defense access road from shoreline erosion; or
+
+    (iv) provide water storage and filtration, flood mitigation, or otherwise support water resilience.
 
   (C) Such other information as the Secretary concerned considers appropriate.
 
@@ -1289,7 +1481,7 @@ Subsecs. (d) to (f). Pub. L. 116–283, § 315(a)(3), (4), added subsecs. (d) an
 
 (3) The term “military installation” includes a facility of a reserve component owned by a State rather than the United States.
 
-(4) The term “military installation resilience” has the meaning given that term in section 101(e)(8) 11 See References in Text note below. of this title.
+(4) The term “military installation resilience” has the meaning given that term in [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 (5) The term “Secretary concerned” means—
 
@@ -1297,10 +1489,42 @@ Subsecs. (d) to (f). Pub. L. 116–283, § 315(a)(3), (4), added subsecs. (d) an
 
   (B) the Secretary of Defense with respect to matters concerning the Defense Agencies and facilities of a reserve component owned by a State rather than the United States.
 
+(6) The term “water resilience” means the capacity of a military installation to mitigate, respond, or adapt to changes in water availability due to manmade or natural phenomena.
+
 ### Statutory Notes
 
-#### References in Text
-[Section 101(e)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/8&num=0&edition=prelim), referred to in subsec. (g)(4), was redesignated [section 101(f)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/f/8&num=0&edition=prelim), and a new subsec. (e) of section 101 was added, by Pub. L. 118–31, div. A, title XVII, § 1713(a), Dec. 22, 2023, 137 Stat. 625.
+#### Amendments
+2024—Pub. L. 118–159, § 2847(a)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Stormwater management projects for installation and defense access road resilience and waterway and ecosystems conservation”.
+
+Subsec. (a). Pub. L. 118–159, § 2847(a)(2), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary concerned may carry out a stormwater management project on or related to a military installation for the purpose of—
+
+“(1) improving military installation resilience or the resilience of a defense access road or other essential civilian infrastructure supporting the military installation; and
+
+“(2) protecting nearby waterways and stormwater-stressed ecosystems.”
+
+Subsec. (b). Pub. L. 118–159, § 2847(a)(3)(A), struck out “stormwater management” before “project under this section” in introductory provisions.
+
+Subsec. (b)(5) to (8). Pub. L. 118–159, § 2847(a)(3)(B), (C), added par.(5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
+
+Subsec. (c). Pub. L. 118–159, § 2847(a)(4), amended subsec. (c) generally. Prior to amendment, text read as follows: “In selecting stormwater management projects to be carried out under this section, the Secretary concerned shall give a priority to project proposals involving the retrofitting of buildings and grounds on a military installation or retrofitting a defense access road to reduce stormwater runoff and ponding or standing water that includes the combination of stormwater runoff and water levels resulting from extreme weather conditions.”
+
+Subsec. (d). Pub. L. 118–159, § 2847(a)(5)(A), struck out “stormwater management” before “project” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 118–159, § 2847(a)(5)(B), substituted “, retention, or filtration measures to address storm water management” for “and retention measures”.
+
+Subsec. (d)(4), (5). Pub. L. 118–159, § 2847(a)(5)(C), added pars. (4) and (5).
+
+Subsec. (e). Pub. L. 118–159, § 2847(a)(6), designated existing provisions as par. (1), struck out “stormwater management” before “project carried”, substituted “section 2391, 2684,” for “section 2391(d),”, and added par. (2).
+
+Subsec. (f)(1)(A). Pub. L. 118–159, § 2847(a)(7)(A), struck out “stormwater management” before “projects”.
+
+Subsec. (f)(2). Pub. L. 118–159, § 2847(a)(7)(A), struck out “stormwater management” before “project” in introductory provisions.
+
+Subsec. (f)(2)(B)(iii), (iv). Pub. L. 118–159, § 2847(a)(7)(B), added cls. (iii) and (iv).
+
+Subsec. (g)(4). Pub. L. 118–159, § 2847(b), substituted “section 101” for “section 101(e)(8)”.
+
+Subsec. (g)(6). Pub. L. 118–159, § 2847(a)(8), added par. (6).
 
 
 <a id="section-2816"></a>
@@ -1391,6 +1615,130 @@ Subsecs. (d) to (f). Pub. L. 116–283, § 315(a)(3), (4), added subsecs. (d) an
 (2) the Committee on Armed Services and the Subcommittee on Defense and the Subcommittee on Military Construction, Veterans Affairs, and Related Agencies of the Committee on Appropriations of the House of Representatives.
 
 
+<a id="section-2818"></a>
+## § 2818. Contracts for design and construction of facilities of Department of Defense
+**(a) In General.—** The head of an element of the Department of Defense (as defined in [section 111(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111/b&num=0&edition=prelim)) may award a contract to any other such element for the design and construction of facilities of the Department of Defense, including facility maintenance and repair projects and unspecified minor military construction projects under [section 2805 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2805), on a reimbursable basis.
+
+**(b) Consideration as an Obligation.—** A contract awarded under subsection (a) by such head shall be considered to be an obligation of such head in the same manner as a similar order or contract placed by such head with a private entity.
+
+**(c) Limitation.—** An awardee of a contract under subsection (a) may include an amount equal to not more than 10 percent of the proposed value of the contract for contingency expenses.
+
+### Statutory Notes
+
+#### Amendments
+2025—Subsec. (a). Pub. L. 119–60 substituted “contract” for “contact”.
+
+
+<a id="section-2819"></a>
+## § 2819. Strategy and assessment with respect to non-operational, underutilized, and other Department of Defense facilities: assessments of historical significance
+**(a) Strategy for Demolition.—** Each Secretary concerned shall develop a strategy to demolish facilities under the respective jurisdiction of each such Secretary that—
+
+(1) are in poor or failing condition under the uniform index developed under section 2838 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31);
+
+(2) are not in operational use; or
+
+(3) such Secretary determines are underutilized.
+
+**(b) Assessment of Certain Maintenance Costs.—** Each Secretary concerned shall conduct an assessment to determine the total cost to the United States to maintain facilities that—
+
+(1) are not in operational use; and
+
+(2) such Secretary determines are underutilized.
+
+**(c) Required Consideration.—** In determining whether a facility is underutilized pursuant to subsections (a) or (b), each Secretary concerned shall compare the occupancy of such facility to the total square footage of such facility.
+
+**(d) Assessments of Historic Significance.—**
+
+(1) Not later than December 1, 2025, and on an annual basis thereafter, each Secretary concerned shall conduct an assessment of each facility under the jurisdiction of the Secretary concerned that was constructed at least 25 years prior to the year covered by the assessment to determine whether the facility—
+
+  (A) is historically significant; or
+
+  (B) will be historically significant at the end of the 25-year period beginning on the date of the completion of such assessment.
+
+(2) For each facility described in paragraph (1) that a Secretary concerned determines is not, or will not be, historically significant pursuant to an assessment under such paragraph, the Secretary concerned shall—
+
+  (A) conduct an assessment of the condition of such facility;
+
+  (B) make an initial determination of whether such facility will be modernized or demolished during such 25-year period; and
+
+  (C) submit to the digital facilities management system of the military department under the jurisdiction of such Secretary—
+
+    (i) the results of the assessment under subparagraph (A); and
+
+    (ii) the initial determination required by subparagraph (B).
+
+(3) If, during the course of any assessment of a facility described in paragraph (1), the Secretary concerned changes a determination with respect to the historic significance of the facility or plans of such Secretary to modernize or demolish the facility, such Secretary shall revise the information submitted to the applicable digital facilities management system pursuant to subparagraph (C) of paragraph (2).
+
+**(e) Annual Briefing.—**
+
+(1) Along with the budget for fiscal year 2027 submitted by the President pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, and on an annual basis thereafter, each Secretary concerned shall provide to the congressional defense committees a briefing on—
+
+  (A) the strategy required by subsection (a); and
+
+  (B) the results of the assessments required by subsections (b) and (d).
+
+(2) Each such briefing shall include—
+
+  (A) a summary of the existing authorities of each Secretary concerned to demolish the facilities covered by such strategy;
+
+  (B) a plan to implement such strategy; and
+
+  (C) recommendations of each such Secretary with respect to reducing—
+
+    (i) the inventory of facilities in poor or failing condition under the uniform index developed under section 2838 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31); and
+
+    (ii) the total cost to the United States to maintain the facilities covered by the assessment required by subsection (b) of such section.
+
+### Statutory Notes
+
+#### References in Text
+Section 2838 of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsecs. (a)(1) and (e)(2)(C)(i), is section 2838 of Pub. L. 118–31, which is set out as a note preceding [section 2851 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2851).
+
+#### Amendments
+2025—Subsec. (e). Pub. L. 119–60 inserted “the” before “congressional defense committees”.
+
+
+<a id="section-2820"></a>
+## § 2820. Development of infrastructure improvement plan for each military department
+**(a) In General.—** Not later than the date on which the budget of the President for fiscal year 2027 is submitted to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), and once every five years thereafter, each Secretary concerned shall submit to the congressional defense committees each of the following:
+
+(1) A detailed plan with respect to the improvement of infrastructure and facilities under the jurisdiction of the Secretary concerned during the 20-year period beginning after the date on which the plan is submitted that includes—
+
+  (A) a summary of major efforts of the Secretary concerned to be carried out pursuant to the plan;
+
+  (B) milestones and specific goals for such major efforts;
+
+  (C) a description of objectives of the Secretary concerned to manage and improve such infrastructure and facilities during such period, including—
+
+    (i) utility systems (electric, water and wastewater systems, energy distribution systems, transportation, and communication networks); and
+
+    (ii) all physical structures located on a military installation under the jurisdiction of the Secretary concerned.
+
+(2) A certification that the budget of the President for the applicable fiscal year and the future-years defense program submitted to Congress in relation to such budget under [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221) provide for funding of planning, design, and construction at a level that is sufficient to meet the requirements specified in the plan under paragraph (1) on the schedule provided in such plan.
+
+**(b) Elements.—** Each plan submitted by a Secretary concerned under subsection (a)(1) shall include the following:
+
+(1) The estimated costs of necessary infrastructure and facility improvements and a description of how such costs would be addressed by the budget request of the Department of Defense and the future-years defense program submitted for the applicable fiscal year.
+
+(2) An assessment of how the military department is accurately accounting for the costs of sustaining facilities and addressing the identified necessary improvements of infrastructure and facilities as outlined in the plan.
+
+**(c) Incorporation of Results-oriented Management Practices.—** Each plan under subsection (a)(1) shall incorporate the leading results-oriented management practices, including—
+
+(1) analytically based goals;
+
+(2) results-oriented metrics;
+
+(3) an identification of required resources, risks, and stakeholders; and
+
+(4) regular reporting on progress to decision makers.
+
+**(d) Service Chief Assessment.—** Each service chief (as defined in [section 3101 of this title](./chapter-205-defense-acquisition-system.md#section-3101)) shall—
+
+(1) assess each plan and certification developed by the Secretary concerned under subsection (a); and
+
+(2) submit to the congressional defense committees, not later than the date on which the Secretary concerned submits the plan and certification to such committees, an unaltered copy of the results of such assessment.
+
+
 <a id="section-2821"></a>
 ## § 2821. Requirement for authorization of appropriations for construction and acquisition of military family housing
 **(a)** Except as provided in subsection (b), funds may not be appropriated for the construction, acquisition, leasing, addition, extension, expansion, alteration, relocation, or operation and maintenance of family housing under the jurisdiction of the Department of Defense unless the appropriation of such funds has been authorized by law.
@@ -1422,6 +1770,15 @@ Subsec. (d). Pub. L. 99–167 added subsec. (d).
 
 #### Effective Date
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801).
+
+#### Pilot Program for Emerging Technologies for Moisture Control and Mitigation
+Pub. L. 119–60, div. B, title XXVIII, § 2829, Dec. 18, 2025, 139 Stat. 1312, provided that: “(a) Establishment.—Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall carry out a pilot program to assess and implement emerging technologies for moisture control and mitigation in covered housing. “(b) Selection of Locations.—The Secretary shall select not fewer than three and not more than five military installations at which to carry out the pilot program established under subsection (a). The Secretary shall prioritize selection of military installations in regions with elevated climate-related risk factors for mold growth, such as persistent humidity, frequent rainfall, or outdated HVAC infrastructure. “(c) Elements.—In carrying out the pilot program established under this section, the Secretary shall—“(1) install moisture detection systems with advanced capabilities, including sensor-based humidity or spore monitoring technologies capable of generating early warnings for environmental risk conditions; “(2) implement noninvasive or technology-enabled mold remediation tools, such as antimicrobial coatings, dry fogging systems, or UV-based sterilization units; “(3) define infrastructure requirements, including upgrades to building materials or HVAC systems, necessary to support sustained mold prevention using the selected moisture detection systems; “(4) train relevant personnel on the deployment, maintenance, and data interpretation of selected moisture detection systems; “(5) designate an individual at each military installation selected under subsection (b) to oversee the implementation of the pilot program; and “(6) develop a strategic implementation and evaluation plan to assess performance of the selected moisture detection systems and inform future decisions relating to such systems. “(d) Report and Briefings.—“(1) Report.—Not later than 180 days after the termination date in subsection (e), the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the results of the pilot program, including recommendations for broader implementation and an assessment of costs and benefits. “(2) Briefings.—“(A) Plan.—Upon completion of the plan required under subsection (c)(6), the Secretary shall provide to the congressional defense committees a briefing on the plan and any preliminary findings. “(B) Displacements.—Not later than 180 days after the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall provide to the congressional defense committees a briefing on—“(i) the number of individuals displaced from covered housing for reasons relating to mold or moisture control or mitigation during fiscal year 2025, disaggregated by military department; “(ii) the number of days such individuals were displaced; and “(iii) the result of the displacement. “(e) Termination.—The authority to carry out the pilot program under this section shall terminate on the date that is five years after the date of the enactment of this Act [Dec. 18, 2025]. “(f) Covered Housing Defined.—In this section, the term ‘covered housing’ means housing provided under subchapter II or subchapter IV of chapter 169 of title 10, United States Code.”
+
+#### Inspections by Qualified Home Inspector of Privatized and Government-Owned Military Housing
+Pub. L. 119–60, div. B, title XXVIII, § 2831, Dec. 18, 2025, 139 Stat. 1314, provided that: “(a) Establishment of Independent Inspection Protocol.—Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall establish a standardized inspection and audit program for privatized military housing and Government-owned military housing that provides for such inspections and audits to be conducted by an independent qualified home inspector. “(b) Inspection Requirements.—Under the program established by subsection (a), a qualified home inspector shall annually inspect not less than five percent of privatized military housing and Government-owned military housing units. Such inspection shall include, at a minimum—“(1) an evaluation of HVAC systems, plumbing, electrical systems, and structural integrity of the privatized military housing and Government-owned military housing units; and “(2) an inspection for signs of water intrusion, visible and nonvisible mold, microbial contamination, and other indoor air quality concerns. “(c) Inspection Implementation Plan.—Not later than February 1, 2026, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan to implement the program established under subsection (a), including—“(1) contracting procedures for qualified home inspectors; “(2) inspection methodologies; “(3) protocols for reporting, remediation, and follow-up actions; and “(4) integration with existing oversight and compliance frameworks for privatized military housing and Government-owned military housing. “(d) Reporting Requirements.—Not later than March 1, 2027, and annually thereafter until March 1, 2032, the Secretary of Defense shall submit to the congressional defense committees a report on the results of inspections conducted under this section during the preceding calendar year. The report shall include—“(1) findings and deficiencies identified; “(2) remediation timelines and actions taken; and “(3) recommendations for improving housing conditions and oversight. “(e) Definitions.—In this section:“(1) The term ‘privatized military housing’ has the meaning given in section 3001(a)(2) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; [10 U.S.C. 2821](./chapter-169-military-construction-and-military-family-housing.md#section-2821) note). “(2) The term ‘qualified home inspector’ means an individual who—“(A) possesses housing inspection credentials required by the State in which the inspection is performed; and “(B) is not an employee of, or in a fiduciary relationship with—“(i) the Federal Government; or “(ii) any entity that owns or manages privatized military housing or Government-owned military housing.”
+
+#### Implementation of Comptroller General Recommendations Relating to Critical Military Housing Supply and Affordability
+Pub. L. 119–60, div. B, title XXVIII, § 2852, Dec. 18, 2025, 139 Stat. 1322, provided that: “(a) In General.—Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], and except as provided in subsection (c), the Secretary of Defense shall implement each recommendation of the Comptroller General of the United States contained in the report dated October 30, 2024, and entitled ‘Military Housing: DOD Should Address Critical Supply and Affordability Challenges for Service Members’ (GAO–25–106208), as those recommendations are modified under subsection (b). “(b) Recommendations to Be Implemented.—In carrying out the requirements under subsection (a), the Secretary of Defense shall implement the recommendations specified under such subsection as follows:“(1) The Secretary shall—“(A) perform a structured analysis to develop a comprehensive list of housing areas in which members of the Armed Forces and their families may face the most critical challenges in finding and affording private sector housing in the community; “(B) in conducting the analysis under subparagraph (A), consider the unique characteristics of a location, such as vacation rental areas; and “(C) regularly update the list required under subparagraph (A) not less frequently than once every two years. “(2) The Secretary shall obtain and use feedback on the financial and quality-of-life effects of limited supply or unaffordable housing on members of the Armed Forces through the status of forces survey and other service or installation-specific feedback mechanisms. “(3) The Secretary shall, in coordination with each Secretary of a military department—“(A) develop a plan for how the Department of Defense can respond to and address the financial and quality-of-life effects in housing areas identified under paragraph (1); and “(B) in developing the plan under subparagraph (A), examine strategies for increasing housing supply or providing alternative compensation to offset the effects of limited supply or unaffordable housing in housing areas identified under paragraph (1). “(4) The Secretary shall clarify, through the issuance of guidance to the military departments, the role of the Office of the Secretary of Defense in oversight of the Housing Requirements and Market Analysis process of the military departments to ensure that—“(A) the military departments conduct such process in a timely manner; and “(B) the Secretary submits to Congress any plans or other matters relating to such process for each fiscal year as required by existing law. “(5) The Secretary shall ensure that the Assistant Secretary of Defense for Energy, Installations, and Environment provides updated guidance to the military departments on how installations of the Department of Defense should coordinate with local communities, including by clearly defining the roles and responsibilities of commanders and military housing offices of such installations in addressing housing needs. “(c) Non-implementation Reporting Requirement.—If the Secretary of Defense elects not to implement a recommendation specified under subsection (a), as modified under subsection (b), the Secretary shall, not later than one year after the date of the enactment of this Act [Dec. 18, 2025], submit to the Committees on Armed Services of the Senate and the House of Representatives a report that includes a justification for such election.”
 
 #### Inclusion of Questions Regarding Military Housing for Members of the Armed Forces in Status of Forces Survey
 Pub. L. 118–31, div. B, title XXVIII, § 2824, Dec. 22, 2023, 137 Stat. 752, provided that: “The Secretary of Defense shall include, at a minimum, in each status of forces survey of the Department of Defense conducted on or after the date of the enactment of this Act [Dec. 22, 2023] questions specifically relating to the following: “(1) Overall satisfaction with current military housing of members of the Armed Forces. “(2) Satisfaction of such members with the physical condition of such military housing. “(3) Satisfaction of such members with the affordability of such military housing. “(4) Whether such military housing of such members has impacted any decision of such a member related to reenlistment in the Armed Forces.”
@@ -1461,9 +1818,11 @@ Pub. L. 116–92, div. B, title XXX, § 3062, Dec. 20, 2019, 133 Stat. 1946, pro
 Pub. L. 114–328, div. A, title III, § 345, Dec. 23, 2016, 130 Stat. 2085, provided that: “(a) Removal of Certain Window Coverings.—Not later than three years after the date of enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall remove and replace disqualified window coverings from—“(1) military housing units owned by the Department of Defense in which children under the age of 9 may reside; and “(2) military housing units leased by the Department of Defense in which children under the age of 9 may reside if the lease for such units requires the Department to provide window coverings. “(b) Prohibition on Disqualified Window Coverings in Military Housing Units Acquired or Constructed by Contract.—All contracts entered into by the Secretary of Defense after September 30, 2017, for the acquisition or construction of military family housing, including military family housing acquired or constructed pursuant to subchapter IV of chapter 169 of title 10, United States Code, shall prohibit the use of disqualified window coverings in such housing. “(c) Disqualified Window Covering Defined.—In this section, the term ‘disqualified window covering’ means—“(1) a window covering with an accessible cord that exceeds 8 inches in length; or “(2) a window covering with an accessible continuous loop cord that does not have a cord tension device that prevents operation when the cord is not anchored to the wall.”
 
 #### Repair and Maintenance of Family Housing Units
-Pub. L. 118–42, div. A, title I, § 119, Mar. 9, 2024, 138 Stat. 34, provided that: “Notwithstanding any other provision of law, funds made available in this title [see Tables for classification] for operation and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: Provided, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days prior notification, or 14 days for a notification provided in an electronic medium pursuant to sections 480 and 2883 of title 10, United States Code, to the Committees on Appropriations of both Houses of Congress, except that an after-the-fact notification shall be submitted if the limitation is exceeded solely due to costs associated with environmental remediation that could not be reasonably anticipated at the time of the budget submission: Provided further, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations of both Houses of Congress all operation and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year.”
+Pub. L. 119–37, div. D, title I, § 119, Nov. 12, 2025, 139 Stat. 597, provided that: “Notwithstanding any other provision of law, funds made available in this title [see Tables for classification] for operation and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: Provided, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days prior notification, or 14 days for a notification provided in an electronic medium pursuant to sections 480 and 2883 of title 10, United States Code, to the Committees on Appropriations of both Houses of Congress, except that an after-the-fact notification shall be submitted if the limitation is exceeded solely due to costs associated with environmental remediation that could not be reasonably anticipated at the time of the budget submission: Provided further, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations of both Houses of Congress all operation and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 118–42, div. A, title I, § 119, Mar. 9, 2024, 138 Stat. 34.
 
 Pub. L. 117–328, div. J, title I, § 119, Dec. 29, 2022, 136 Stat. 4945.
 
@@ -1519,7 +1878,7 @@ Pub. L. 98–115, title VIII, § 802, Oct. 11, 1983, 97 Stat. 783, as amended by
 Pub. L. 98–115, title VIII, § 803, Oct. 11, 1983, 97 Stat. 784, as amended by Pub. L. 98–407, title VIII, § 812, Aug. 28, 1984, 98 Stat. 1524; Pub. L. 101–510, div. A, title XIII, § 1302(f), Nov. 5, 1990, 104 Stat. 1669, provided that any contract entered into for the construction of military family housing for the Department of Defense in a foreign country was to require the use of housing fabricated in the United States by a United States contractor or, in the case of concrete housing, the use of housing produced in a plant that was fabricated in the United States by a United States company, and for which the materials, fixtures, and equipment used in the construction (other than cement, sand, and aggregates) were manufactured in the United States, prior to repeal by Pub. L. 107–314, div. B, title XXVIII, § 2804, Dec. 2, 2002, 116 Stat. 2705.
 
 #### Definitions
-Pub. L. 116–92, div. B, title XXX, § 3001(a), Dec. 20, 2019, 133 Stat. 1916, provided that: “In this title [see Tables for classification]: “(1) The term ‘landlord’ means an eligible entity that enters into, or has entered into, a contract as a partner with the Secretary concerned for the acquisition or construction of a housing unit under subchapter IV of chapter 169 of title 10, United States Code. The term includes any agent of the eligible entity or any subsequent lessor who owns, manages, or is otherwise responsible for a housing unit. The term does not include an entity of the Federal Government. “(2) The term ‘privatized military housing’ means military housing provided under subchapter IV of chapter 169 of title 10, United States Code. “(3) The term ‘tenant’ means a member of the armed forces, including a reserve component thereof in an active status, or a dependent of a member of the armed forces who resides at a housing unit, is a party to a lease for a housing unit, or is authorized to act on behalf of the member under subchapters IV and V of chapter 169 of title 10, United States Code, in the event of the assignment or deployment of a member.”
+Pub. L. 116–92, div. B, title XXX, § 3001(a), Dec. 20, 2019, 133 Stat. 1916, as amended by Pub. L. 118–159, div. B, title XXVIII, § 2827, Dec. 23, 2024, 138 Stat. 2258, provided that: “In this title [see Tables for classification]: “(1) The term ‘landlord’ means an eligible entity that enters into, or has entered into, a contract as a partner with the Secretary concerned for the acquisition or construction of a housing unit under subchapter IV of chapter 169 of title 10, United States Code. The term includes any agent of the eligible entity or any subsequent lessor who owns, manages, or is otherwise responsible for a housing unit. The term does not include an entity of the Federal Government. “(2) The term ‘privatized military housing’ means military housing that is not Government-owned or Government-controlled that is provided under subchapter IV of chapter 169 of title 10, United States Code. “(3) The term ‘tenant’ means a member of the armed forces, including a reserve component thereof in an active status, or a dependent of a member of the armed forces who resides at a housing unit, is a party to a lease for a housing unit, or is authorized to act on behalf of the member under subchapters IV and V of chapter 169 of title 10, United States Code, in the event of the assignment or deployment of a member.”
 
 
 <a id="section-2822"></a>
@@ -2349,12 +2708,15 @@ Pub. L. 102–190, div. B, title XXVII, § 2809(c), Dec. 5. 1991, 105 Stat. 1543
 
 **(c) Submittal to Congress.—** The Secretary of Defense shall include with the budget materials for the Department of Defense for fiscal year 2024 and each subsequent fiscal year (as submitted to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code) a list of the military installations for which the Secretary concerned plans to conduct an HRMA during the fiscal year covered by such budget materials.
 
-**(d) Housing Requirements and Market Analysis.—** The term “Housing Requirements and Market Analysis”or “HRMA” means, with respect to a military installation, a structured analytical process under which an assessment is made of both the suitability and availability of the private sector rental housing market using assumed specific standards related to affordability, location, features, physical condition, and the housing requirements of the total military population of such installation.
+**(d) Housing Requirements and Market Analysis.—** The term “Housing Requirements and Market Analysis”or “HRMA” means, with respect to a military installation, a structured analytical process under which an assessment is made of both the suitability and availability of the private sector rental housing market using assumed specific standards related to affordability, location, features, physical condition, and the housing requirements of the total population of such installation, including members of the armed forces, civilian employees of the Department of Defense, and defense contractors.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 2837, added Pub. L. 103–337, div. B, title XXVIII, § 2803(a), Oct. 5, 1994, 108 Stat. 3051; amended Pub. L. 104–106, div. B, title XXVIII, § 2802, Feb. 10, 1996, 110 Stat. 551; Pub. L. 106–65, div. A, title X, § 1066(a)(28), Oct. 5, 1999, 113 Stat. 772; Pub. L. 108–136, div. A, title X, § 1031(a)(44), Nov. 24, 2003, 117 Stat. 1602, authorized the Secretary of a military department to enter into limited partnerships with private developers of housing through Sept. 30, 2000, further authorized such Secretary to enter into collateral incentive agreements with those private developers, and established the Defense Housing Investment Account, prior to repeal by Pub. L. 113–66, div. B, title XXVIII, § 2802(a)(1), Dec. 26, 2013, 127 Stat. 1006. For effects of repeal on existing contracts and on the Defense Housing Investment Account, see section 2802(b) and (c) of Pub. L. 113–66, set out as notes below.
+
+#### Amendments
+2025—Subsec. (d). Pub. L. 119–60 substituted “total population of such installation, including members of the armed forces, civilian employees of the Department of Defense, and defense contractors” for “total military population of such installation”.
 
 #### Housing Requirements and Market Analysis: Time Frame and Submittal of Information
 Pub. L. 117–263, div. B, title XXVIII, § 2821(b), (c), Dec. 23, 2022, 136 Stat. 2999, provided that: “(b) Time Frame.—“(1) In general.—During each of fiscal years 2023 through 2027, the Secretary concerned shall conduct an HRMA for 20 percent of the military installations under the jurisdiction of the Secretary concerned located in the United States. “(2) Submittal of information to congress.—Not later than January 15, 2023, the Secretary concerned shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a list of military installations for which the Secretary concerned plans to conduct an HRMA during fiscal year 2023. “(c) Definitions.—In this section:“(1) The term ‘HRMA’ means, with respect to a military installation, a structured analytical process under which an assessment is made of both the suitability and availability of the private sector rental housing market using assumed specific standards related to affordability, location, features, physical condition, and the housing requirements of the total military population of such installation. “(2) The term ‘military installation’ has the meaning given in [section 2801 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2801), United States Code. “(3) The term ‘Secretary concerned’ has the meaning given that term in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim), United States Code.”
@@ -2383,9 +2745,17 @@ Pub. L. 113–66, div. B, title XXVIII, § 2802(c), Dec. 26, 2013, 127 Stat. 100
 (2) The proceeds deposited into the special account of a military department pursuant to paragraph (1) shall be available to the Secretary of that military department, without further appropriation, for the maintenance, protection, alteration, repair, improvement, or restoration of military housing on the military installation at which the housing leased pursuant to subsection (a) is located.
 
 
+<a id="section-2839"></a>
+## § 2839. Repealed. Pub. L. 119–60, div. B, title XXVIII, § 2826(d), Dec. 18, 2025, 139 Stat. 1310]
+
+### Statutory Notes
+
+Section, added Pub. L. 118–159, div. B, title XXVIII, § 2823(a), Dec. 23, 2024, 138 Stat. 2255, related to application of certain authorities and standards to historic military housing and associated historic properties of the Department of the Army.
+
+
 <a id="section-2851"></a>
 ## § 2851. Supervision of military construction projects
-**(a) Supervision of Military Department Projects.—** Each contract entered into by the United States in connection with a military construction project or a military family housing project shall be carried out under the direction and supervision of the Secretary of the Army (acting through the Chief of Engineers), the Secretary of the Navy (acting through the Commander of the Naval Facilities Engineering Command), or such other department or Government agency as the Secretary of Defense approves to assure the most efficient, expeditious, and cost-effective completion of the project.
+**(a) Supervision of Military Department Projects.—** Each contract entered into by the United States in connection with a military construction project or a military family housing project shall be carried out under the direction and supervision of a Secretary of a military department or Government agency (as approved by the Secretary of Defense) to assure the most efficient, expeditious, and cost-effective completion of the project.
 
 **(b) Supervision of Defense Agency Projects.—** A military construction project for an activity or agency of the Department of Defense (other than a military department) financed from appropriations for military functions of the Department of Defense shall be accomplished by or through a military department designated by the Secretary of Defense.
 
@@ -2440,6 +2810,8 @@ Pub. L. 113–66, div. B, title XXVIII, § 2802(c), Dec. 26, 2013, 127 Stat. 100
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 substituted “a Secretary of a military department or Government agency (as approved by the Secretary of Defense)” for “the Secretary of the Army (acting through the Chief of Engineers), the Secretary of the Navy (acting through the Commander of the Naval Facilities Engineering Command), or such other department or Government agency as the Secretary of Defense approves”.
+
 2022—Subsecs. (d), (e). Pub. L. 117–263 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 2021—Subsec. (c)(1)(E). Pub. L. 117–81, § 2801(a)(2), added subpar. (E). Former subpar. (E) redesignated (F).
@@ -2470,6 +2842,9 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 #### Application of Amendment by Pub. L. 117–81
 Pub. L. 117–81, div. B, title XXVIII, § 2801(b), Dec. 27, 2021, 135 Stat. 2184, provided that: “Subparagraph (E) of [section 2851(c)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2851/c/1&num=0&edition=prelim), United States Code, as added by subsection (a)(2), and subparagraph (F) of such section, as amended by subsection (a)(3), shall apply with respect to a military department Facilities Sustainment, Restoration, and Modernization project described in such subparagraphs for which an award of a contract or delivery order for the project is made on or after June 1, 2022.”
+
+#### Implementation of Comptroller General Recommendations Relating to Information Sharing To Improve Oversight of Military Construction
+Pub. L. 119–60, div. B, title XXVIII, § 2817, Dec. 18, 2025, 139 Stat. 1304, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall— “(1) implement the recommendations of the Comptroller General of the United States in the report titled ‘Military Construction: Better Information Sharing Would Improve DOD’s Oversight’ (GAO–24–106499; published September 16, 2024); or “(2) if the Secretary does not implement any such recommendation, submit to the Committees on Armed Services of the Senate and the House of Representatives a report explaining why the Secretary has not implemented those recommendations.”
 
 #### Implementation of Internet Site
 Pub. L. 109–163, div. B, title XXVIII, § 2803(b), Jan. 6, 2006, 119 Stat. 3506, provided that: “The Internet site required by subsection (c) of [section 2851 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2851), United States Code, as added by subsection (a), shall be available to the persons referred to in paragraph (3) of such subsection not later than July 15, 2006.”
@@ -2778,11 +3153,13 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 (2) A replacement project under this subsection may be carried out only after the end of the 7-day period beginning on the date on which a copy of the notification described in paragraph (1) is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
 
-(3) The maximum aggregate amount that the Secretary concerned may obligate from appropriations available for operation and maintenance in any fiscal year for replacement projects under the authority of this subsection is $100,000,000.
+(3) The maximum aggregate amount that the Secretary concerned may obligate from appropriations available for operation and maintenance in any fiscal year for replacement projects under the authority of this subsection is $300,000,000.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (c)(3). Pub. L. 119–60 substituted “$300,000,000” for “$100,000,000”.
+
 2019—Subsec. (c)(3). Pub. L. 116–92 substituted “$100,000,000” for “$50,000,000”.
 
 2017—Subsec. (b). Pub. L. 115–91, § 2805(b), substituted “under subsection (a)” for “under this section”.
@@ -2908,7 +3285,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 <a id="section-2856"></a>
 ## § 2856. Military unaccompanied housing: standards
-**(a) Local Comparability in Floor Areas.—** In the construction, acquisition, and improvement of covered military unaccompanied housing, the Secretary concerned shall ensure that the floor areas of such housing in a particular locality (as designated by the Secretary concerned for purposes of this section) do not exceed the floor areas of similar housing in the private sector in that locality, except for purposes of meeting minimum area requirements under subsection (b)(1)(A),.11 So in original.
+**(a) Local Comparability in Floor Areas.—** In the construction, acquisition, and improvement of covered military unaccompanied housing, the Secretary concerned shall ensure that the floor areas of such housing in a particular locality (as designated by the Secretary concerned for purposes of this section) do not exceed the floor areas of similar housing in the private sector in that locality, except for purposes of meeting minimum area requirements under subsection (b)(1)(A).
 
 **(b) Floor Space and Number of Members Allowed.—** In the design and configuration of covered military unaccompanied housing, the Secretary of Defense shall establish uniform design standards that—
 
@@ -2929,6 +3306,8 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159 substituted “subsection (b)(1)(A).” for “subsection (b)(1)(A),.”.
+
 2023—Pub. L. 118–31, § 2831(a)(1)(B)–(D), designated existing provisions as subsec. (a) and inserted heading, inserted “covered” before “military unaccompanied housing” and “, except for purposes of meeting minimum area requirements under subsection (b)(1)(A),” before period at end, and added subsecs. (b) and (c).
 
 Pub. L. 118–31, § 2831(a)(1)(A), substituted “standards” for “local comparability of floor areas” in section catchline.
@@ -2940,52 +3319,102 @@ Pub. L. 118–31, § 2831(a)(1)(A), substituted “standards” for “local com
 #### Effective Date
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801).
 
+#### Improvement of Administration of Military Unaccompanied Housing
+Pub. L. 119–60, div. B, title XXVIII, § 2827, Dec. 18, 2025, 139 Stat. 1311, provided that: “(a) Updated Guidance on Surveys.—The Secretary of Defense, in carrying out the satisfaction survey requirement under section 3058 of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; [10 U.S.C. 2821](./chapter-169-military-construction-and-military-family-housing.md#section-2821) note), shall update guidance to the Secretaries of the military departments to ensure that members of the Armed Forces living in military unaccompanied housing are surveyed in a consistent and comparable manner. “(b) Review on Processes and Methodologies for Condition Scores.—“(1) In general.—The Secretary of Defense shall conduct a review of the processes and methodologies by which the Secretaries of the military departments calculate condition scores for military unaccompanied housing facilities under the jurisdiction of the Secretary concerned. “(2) Elements.—The review required under paragraph (1) shall, among other factors—“(A) consider how best to ensure a condition score of a facility reflects—“(i) the physical condition of the facility; and “(ii) the effect of that condition on the quality of life of members of the Armed Forces; and “(B) aim to increase methodological consistency among the military departments. “(3) Report.—Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the results of the review conducted under paragraph (1). “(c) Accounting of Members Residing in Military Unaccompanied Housing.—“(1) In general.—The Secretary of Defense shall include with the submission to Congress by the President of the annual budget of the Department of Defense under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, an accounting of unaccompanied members of the Armed Forces whose rank would require that they live in military unaccompanied housing, but that also receive a basic allowance for housing under [section 403 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim), United States Code. “(2) Elements.—The accounting required under paragraph (1) shall include—“(A) the number of members of the Armed Forces described in such paragraph; “(B) the total value of basic allowance for housing payments provided to those members; and “(C) such other information as the Secretary considers appropriate. “(d) Centralized Tracking.—Not later than one year after the date of the enactment of this Act, each Secretary of a military department shall develop a means for centralized tracking, at the service level, of all military construction requirements related to military unaccompanied housing that have been identified at the installation level, regardless of whether or not such requirements are submitted for funding. “(e) Military Unaccompanied Housing Defined.—In this section, the term ‘military unaccompanied housing’ has the meaning given that term in [section 2871 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2871), United States Code.”
+
 #### Uniform Design Standards
 Pub. L. 118–31, div. B, title XXVIII, § 2831(b), (c), Dec. 22, 2023, 137 Stat. 753, 754, provided that: “(b) Completion and Issuance of Uniform Design Standards.—Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall—“(1) ensure that the uniform design standards required under [section 2856(b)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2856/b/1&num=0&edition=prelim), United States Code, as added by subsection (a)(1)(D), are completed, issued, and submitted to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; or “(2) submit to the congressional defense committees a report—“(A) explaining in detail why such standards are not completed and issued; “(B) indicating when such standards are expected to be completed and issued; and “(C) specifying the names of the personnel responsible for the failure to complete and issue such standards. “(c) Compliance With Uniform Design Standards.—“(1) In general.—Not later than two years after the date of the enactment of this Act, the Secretary of each military department shall ensure that all covered military unaccompanied housing located on a military installation under the jurisdiction of such Secretary complies with the uniform standards established under [section 2856(b)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2856/b/1&num=0&edition=prelim), United States Code, as added by subsection (a)(1)(D). “(2) No waiver.—The requirement under paragraph (1) may not be waived. “(3) Covered military unaccompanied housing defined.—In this subsection, the term ‘covered military unaccompanied housing’ has the meaning given in [section 2856 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2856), United States Code (as amended by subsection (a)).”
 
 
 <a id="section-2856a"></a>
-## § 2856a. Covered military unaccompanied housing: waivers of covered privacy and configuration standards
-**(a) Procedures for Issuance of Certain Waivers.—** Effective March 2, 2024, any waiver of covered privacy and configuration standards shall be issued in accordance with the following:
+## § 2856a. Covered military unaccompanied housing: waivers of covered privacy and configuration standards and covered health and safety standards
+**(a) Procedures for Issuance of Certain Waivers.—** Any waiver of covered privacy and configuration standards or covered health and safety standards shall be issued in accordance with the following:
 
-(1) A commander of a military installation desiring a waiver of covered habitability standards shall submit to the Secretary of the military department concerned a request for such waiver.
+(1) A commander of a military installation desiring a waiver of covered privacy and configuration standards or covered health and safety standards shall submit to the Secretary of the military department concerned a request for such waiver.
 
-(2) A Secretary of a military department may approve a request under subparagraph (A) only if such Secretary has exhausted all options available to such Secretary to provide housing that meets covered privacy and configuration standards, including the—
+(2) A Secretary of a military department may approve a request under paragraph (1) only if such Secretary has exhausted all options available to such Secretary to provide housing that meets covered privacy and configuration standards or covered health and safety standards (as applicable), including the—
 
   (A) use of available privately-owned military housing;
 
-  (B) modification of unit integrity goals to allow the use of each available unit of covered military unaccompanied housing that meets covered privacy and configuration standards; and
+  (B) modification of unit integrity goals to allow the use of each available unit of covered military unaccompanied housing that meets covered privacy and configuration standards or covered health and safety standards (as applicable); and
 
   (C) issuance of a certificate of nonavailability of covered military unaccompanied housing to allow eligibility for basic allowance for housing under [section 403 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim).
 
 (3) An official described in paragraph (1) or (2) may not delegate the respective authorities under such paragraphs.
 
-(4) Any waiver of covered privacy and configuration standards issued pursuant to this paragraph shall terminate on the date that is 9 months after the date on which such waiver was issued. A Secretary of a military department may not renew any such waiver.
+(4) Any waiver of covered privacy and configuration standards or covered health and safety standards issued pursuant to this paragraph shall terminate on the date that is 15 months after the date on which such waiver was issued. A Secretary of a military department may not renew any such waiver.
 
 **(b) Annual Report on Waivers.—** Not later than March 1, 2025, and annually thereafter not later than 15 days after the submission of the budget of the President to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and the Senate and the Comptroller General of the United States a report on waivers issued under this section that includes—
 
 (1) the number of such waivers that were issued during the period covered by the report;
 
-(2) a plan to remedy the deficiencies, if any, of covered military unaccompanied housing that required the issuance of such a waiver;
+(2) a plan to remedy the deficiencies, if any, of covered military unaccompanied housing that required the issuance of such a waiver, and a timeline to implement such plan;
 
-(3) a strategy to remedy issues, if any, caused by covered military unaccompanied housing that did not comply with such uniform standards;
+(3) a strategy to remedy issues, if any, caused by covered military unaccompanied housing that did not comply with applicable standards;
 
-(4) a strategy to remedy the factors, if any, that require a commander of a military installation to submit to the applicable Secretary of a military department a request for consecutive waivers of such uniform standards, including a timeline for the implementation of such strategy; and
+(4) a strategy to remedy the factors, if any, that require a commander of a military installation to submit to the applicable Secretary of a military department a request for consecutive waivers of applicable standards, including a timeline for the implementation of such strategy;
 
 (5) an analysis of strategies to remedy the factors described in paragraph (4), including—
 
-  (A) projects to modernize existing covered military unaccompanied housing to comply with such uniform standards;
+  (A) projects to modernize existing covered military unaccompanied housing to comply with applicable standards;
 
   (B) projects to construct new covered military unaccompanied housing; and
 
-  (C) modifications to relevant policies of the Department of Defense, excluding such policies relating to infrastructure.
+  (C) modifications to relevant policies of the Department of Defense, excluding such policies relating to infrastructure;
 
-**(c) Covered Privacy and Configuration Standard Defined.—** In this section, the term “covered privacy and configuration standard” means the minimum standards for privacy and configuration applicable to covered military unaccompanied housing described in Department of Defense Manual 4165.63 titled “DoD Housing Management” and dated October 28, 2010 (or a successor document).
+(6) an assessment of whether a need for future waivers has been identified;
+
+(7) a summary of the analysis performed under subsection (a)(2), including a certification by the Secretary of each military department that the Secretary has—
+
+  (A) complied with the requirements for issuing a waiver; and
+
+  (B) identified all covered military unaccompanied housing that does not meet covered privacy and configuration standards or covered health and safety standards;
+
+(8) information about costs associated with remediation of covered military unaccompanied housing that requires such waivers, including—
+
+  (A) funding needs for military construction projects related to such remediation;
+
+  (B) funding needs for facilities sustainment, restoration, and modernization projects related to such remediation; and
+
+  (C) any increase required to the basic allowance for housing under [section 403 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim) for members of the armed forces that would otherwise be living in covered military unaccompanied housing but for the need for such remediation; and
+
+(9) a description of the status of the response of the Department to open recommendations contained in the 2023 report by the Comptroller General of the United States titled “Military Barracks: Poor Living Conditions Undermine Quality of Life and Readiness” (GAO–23–105797), including any privacy and configuration standard or health and safety standard of a military department that differs from the covered privacy and configuration standards or covered health and safety standards (as applicable).
+
+**(c) Definitions.—** In this section:
+
+(1) The term “covered health and safety standard” means the minimum health and safety criteria applicable to covered military unaccompanied housing established by the Secretary of Defense and may include standards relating to mold, ventilation, fire safety, or other related habitability conditions necessary to ensure safe occupancy.
+
+(2) The term “covered privacy and configuration standard” means the minimum standards for privacy and configuration applicable to covered military unaccompanied housing described in Department of Defense Manual 4165.63 titled “DoD Housing Management” and dated October 28, 2010 (or a successor document).
 
 ### Statutory Notes
 
 #### Codification
 Pub. L. 118–31, div. B, title XXVIII, § 2833(b), Dec. 22, 2023, 137 Stat. 755, which directed amendment of “Subchapter III of title 10” by adding this section after [section 2856 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2856), was executed to subchapter III of chapter 169 of this title, to reflect the probable intent of Congress.
+
+#### Amendments
+2025—Pub. L. 119–60, § 2822(a)(1), inserted “and covered health and safety standards” after “standards” in section catchline.
+
+Subsec. (a). Pub. L. 119–60, § 2822(a)(2)(A), (B), in introductory provisions, substituted “Any” for “Effective March 2, 2024, any” and inserted “or covered health and safety standards” after “covered privacy and configuration standards”.
+
+Subsec. (a)(1). Pub. L. 119–60, § 2822(a)(2)(C)(ii), substituted “covered privacy and configuration standards or covered health and safety standards” for “covered habitability standards”.
+
+Pub. L. 119–60, § 2822(a)(2)(C)(i), which directed the insertion of “or covered health and safety standards” after “covered privacy and configuration standards” could not be executed because “covered privacy and configuration standards” does not appear in text.
+
+Subsec. (a)(2). Pub. L. 119–60, § 2822(b), substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions.
+
+Pub. L. 119–60, § 2822(a)(2)(D), inserted “or covered health and safety standards (as applicable)” after “covered privacy and configuration standards” in introductory provisions and in subpar. (B).
+
+Subsec. (a)(4). Pub. L. 119–60, § 2822(a)(2)(E), inserted “or covered health and safety standards” after “covered privacy and configuration standards”.
+
+Subsec. (b)(2). Pub. L. 119–60, § 2822(a)(3)(B), inserted “, and a timeline to implement such plan” after “waiver”.
+
+Subsec. (b)(3), (4), (5)(A). Pub. L. 119–60, § 2822(a)(3)(A), substituted “applicable standards” for “such uniform standards”.
+
+Subsec. (b)(6) to (9). Pub. L. 119–60, § 2822(a)(3)(C)–(E), added pars. (6) to (9).
+
+Subsec. (c). Pub. L. 119–60, § 2822(a)(4), amended subsec. (c) generally. Prior to amendment, subsec. (c) defined “covered privacy and configuration standard”.
+
+2024—Subsec. (a)(4). Pub. L. 118–159 substituted “15 months” for “9 months”.
 
 #### Revisions to Rules, Guidance, or Other Issuances
 Pub. L. 118–31, div. B, title XXVIII, § 2833(d), Dec. 22, 2023, 137 Stat. 757, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense and Secretaries of the military departments shall revise any rule, guidance, or other issuance of the Department of Defense and the military departments under the respective jurisdictions of such Secretaries to include the procedures for the issuance of waivers of covered privacy and configuration standards [see section 2833(f) of Pub. L. 118–31, set out as a note below] pursuant to [section 2856a of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2856a), United States Code (as added by subsection (a)).”
@@ -3109,60 +3538,11 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 
 <a id="section-2859"></a>
-## § 2859. Construction requirements related to antiterrorism and force protection or urban-training operations
-**(a) Antiterrorism and Force Protection Guidance and Criteria.—** The Secretary of Defense shall develop common guidance and criteria to be used by each Secretary concerned—
-
-(1) to assess the vulnerability of military installations located inside and outside of the United States to terrorist attack;
-
-(2) to develop construction standards that, taking into consideration other security or force-protection measures available for the facility or military installation concerned, are designed to reduce the vulnerability of structures to terrorist attack and improve the security of the occupants of such structures;
-
-(3) to prepare and carry out military construction projects, such as gate and fenceline construction, to improve the physical security of military installations; and
-
-(4) to assist in prioritizing such projects within the military construction budget of each of the armed forces.
-
-**(b) Vulnerability Assessments.—** The Secretary of Defense shall require vulnerability assessments of military installations to be conducted, at regular intervals, using the criteria developed under subsection (a).
-
-**(c) Certification Required for Military Construction Projects Designed to Provide Training in Urban Operations.—**
-
-(1) Except as provided in paragraph (3), the Secretary concerned may not carry out a military construction project to construct a facility designed to provide training in urban operations for members of the armed forces or personnel of the Department of Defense or other Federal agencies until—
-
-  (A) the Secretary of Defense approves a strategy for training and facility construction for operations in urban terrain; and
-
-  (B) the Under Secretary of Defense for Personnel and Readiness evaluates the project and certifies to the appropriate committees of Congress that the project—
-
-    (i) is consistent with the strategy; and
-
-    (ii) incorporates the appropriate capabilities for joint and interagency use in accordance with the strategy.
-
-(2) This subsection shall not apply with respect to a military construction project carried out under the authority of section 2803, 2804, or 2808 of this title or section 2808 of the Military Construction Authorization Act for Fiscal Year 2004 (division B of Public Law 108–136; 117 Stat. 1723).
+## § 2859. Repealed. Pub. L. 119–60, div. B, title XXVIII, § 2848(a), Dec. 18, 2025, 139 Stat. 1319]
 
 ### Statutory Notes
 
-#### References in Text
-Section 2808 of the Military Construction Authorization Act for Fiscal Year 2004, referred to in subsec. (c)(2), is section 2808 of title XXVIII of div. B of Pub. L. 108–136, Nov. 24, 2003, 117 Stat. 1723, which is not classified to the Code except for section 2808(e), which is set out as a note under [section 2805 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2805).
-
-#### Prior Provisions
-A prior section 2859, added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 167; amended Pub. L. 97–295, § 1(36), Oct. 12, 1982, 96 Stat. 1296, provided for transmission of annual military construction authorization request, prior to repeal by Pub. L. 108–136, div. A, title X, § 1044(b)(1), Nov. 24, 2003, 117 Stat. 1612.
-
-#### Amendments
-2017—Subsecs. (c), (d). Pub. L. 115–91 redesignated subsec. (d) as (c) and struck out former subsec. (c) which required annual reports describing vulnerability assessments and military construction requirements.
-
-2013—Subsec. (a)(2). Pub. L. 113–66 substituted “develop construction standards that, taking into consideration other security or force-protection measures available for the facility or military installation concerned, are designed” for “develop construction standards designed”.
-
-Subsec. (d)(2), (3). Pub. L. 112–239 redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The Under Secretary of Defense for Personnel and Readiness shall conduct the evaluation required by paragraph (1)(B) in consultation with the Commander of the United States Joint Forces Command.”
-
-2006—Pub. L. 109–364, § 2808(b)(1), inserted “or urban-training operations” after “force protection” in section catchline.
-
-Subsec. (d). Pub. L. 109–364, § 2808(a), added subsec. (d).
-
-#### Effective Date of 2006 Amendment
-Pub. L. 109–364, div. B, title XXVIII, § 2808(c), Oct. 17, 2006, 120 Stat. 2470, provided that: “Subsection (d) [now (c)] of [section 2859 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2859), United States Code, as added by subsection (a), shall apply with respect to military construction projects described in such subsection (d) [(c)] for which funds are first provided for fiscal year 2007 or thereafter.”
-
-#### Joint Strategy for Air Base Defense Against Missile Threats
-Pub. L. 116–283, div. A, title I, § 156, Jan. 1, 2021, 134 Stat. 3447, provided that: “(a) Strategy Required.—The Chief of Staff of the Air Force and the Chief of Staff of the Army shall jointly develop and carry out a strategy to address the defense of air bases and prepositioned sites outside the continental United States against current and emerging missile threats, as validated by the Defense Intelligence Agency. “(b) Certification and Strategy.—Not later than June 1, 2021, the Chief of Staff of the Air Force and the Chief of Staff of the Army shall jointly submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the following:“(1) A certification that the defense of air bases and prepositioned sites outside the continental United States against threats described in subsection (a) is being addressed jointly. “(2) The strategy developed pursuant to subsection (a).”
-
-#### Special Requirement for 2006 Report
-Pub. L. 108–375, div. B, title XXVIII, § 2804(b), Oct. 28, 2004, 118 Stat. 2122, required the 2006 report under former subsec. (c) of this section to include a certification that since Sept. 11, 2001, terrorist attack vulnerability assessments had been undertaken for all major military installations.
+Section, added Pub. L. 108–375, div. B, title XXVIII, § 2804(a)(1), Oct. 28, 2004, 118 Stat. 2121; amended Pub. L. 109–364, div. B, title XXVIII, § 2808(a), (b)(1), Oct. 17, 2006, 120 Stat. 2469; Pub. L. 112–239, div. A, title X, § 1081(2), Jan. 2, 2013, 126 Stat. 1960; Pub. L. 113–66, div. B, title XXVIII, § 2803(a), Dec. 26, 2013, 127 Stat. 1006; Pub. L. 115–91, div. A, title X, § 1051(a)(22), Dec. 12, 2017, 131 Stat. 1562, related to construction requirements pertaining to antiterrorism and force protection or urban-training operations.
 
 
 <a id="section-2860"></a>
@@ -3396,9 +3776,7 @@ Notwithstanding any other provision of law, the Secretary concerned may pay meri
 
 **(d) Report.—** Not later than March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees a report listing all master plans completed pursuant to this section in the prior calendar year.
 
-**(e) Savings Clause.—** Nothing in this section shall supersede the requirements of [section 2859(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2859/a&num=0&edition=prelim).
-
-**(f) Definitions.—** In this section:
+**(e) Definitions.—** In this section:
 
 (1) The term “major military installation” has the meaning given to the term “large site” in the most recent version of the Department of Defense Base Structure Report issued before the time interval prescribed for development of installation master plans arises under subsection (a).
 
@@ -3411,12 +3789,14 @@ Notwithstanding any other provision of law, the Secretary concerned may pay meri
 ### Statutory Notes
 
 #### References in Text
-[Section 101(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e&num=0&edition=prelim), referred to in subsec. (f)(4), was redesignated [section 101(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/f&num=0&edition=prelim), and a new subsec. (e) of section 101 was added, by Pub. L. 118–31, div. A, title XVII, § 1713(a), Dec. 22, 2023, 137 Stat. 625.
+[Section 101(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e&num=0&edition=prelim), referred to in subsec. (e)(4), was redesignated [section 101(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/f&num=0&edition=prelim), and a new subsec. (e) of section 101 was added, by Pub. L. 118–31, div. A, title XVII, § 1713(a), Dec. 22, 2023, 137 Stat. 625.
 
 #### Prior Provisions
 A prior section 2864, added Pub. L. 101–189, div. B, title XXVIII, § 2807(a), Nov. 29, 1989, 103 Stat. 1648; amended Pub. L. 104–106, div. A, title X, § 1062(g), Feb. 10, 1996, 110 Stat. 444, related to military construction contracts on Guam, prior to repeal by Pub. L. 109–364, div. B, title XXVIII, § 2810(a), Oct. 17, 2006, 120 Stat. 2470.
 
 #### Amendments
+2025—Subsecs. (e), (f). Pub. L. 119–60 redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “Nothing in this section shall supersede the requirements of [section 2859(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2859/a&num=0&edition=prelim).”
+
 2023—Subsec. (f)(4), (6). Pub. L. 118–31 redesignated par. (6) as (4).
 
 2021—Subsec. (a)(2)(E). Pub. L. 117–81, § 2832(a), inserted “and military installation resilience” before period at end.
@@ -3452,7 +3832,7 @@ Pub. L. 117–263, div. B, title XXVIII, § 2872, Dec. 23, 2022, 136 Stat. 3014,
 Pub. L. 117–81, div. A, title III, § 311(d)–(g), (j), Dec. 27, 2021, 135 Stat. 1626, 1627, provided that: “(d) Strategic Decisions Relating to Military Installations.—The Secretary of each military department, with respect to any installation under the jurisdiction of that Secretary, and the Secretary of Defense, with respect to any installation of the Department of Defense that is not under the jurisdiction of the Secretary of a military department, shall consider the strategic risks associated with military installation resilience. “(e) National Defense Strategy and National Military Strategy.—The Secretary of Defense, in coordination with the heads of such other Federal agencies as the Secretary determines appropriate, shall incorporate the security implications of military installation resilience into the National Defense Strategy and the National Military Strategy. “(f) National Security Planning Documents.—The Secretary of Defense and the Chairman of the Joint Chiefs of Staff shall consider the security implications associated with military installation resilience in developing the Defense Planning Guidance under [section 113(g)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g/2&num=0&edition=prelim), United States Code, the Risk Assessment of the Chairman of the Joint Chiefs of Staff under section 153(b)(2) of such title, and other relevant strategy, planning, and programming documents and processes. “(g) Campaign Plans of Combatant Commands.—The Secretary of Defense shall ensure that the national security implications associated with military installation resilience are integrated into the campaign plans of the combatant commands. “(j) Definitions.—In this section [transferring [section 118a of this title](./chapter-002-department-of-defense.md#section-118a) to [section 118b of this title](./chapter-002-department-of-defense.md#section-118b), amending sections 113, 153, and 2925 of this title, enacting provisions set out as notes under this section and [section 2925 of this title](./chapter-173-energy-security.md#section-2925), and amending provisions set out as a note under [section 118b of this title](./chapter-002-department-of-defense.md#section-118b)]:“(1) The term ‘military installation resilience’ has the meaning given that term in [section 101(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e&num=0&edition=prelim), United States Code [now [10 U.S.C. 101(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/f&num=0&edition=prelim)]. “(2) The term ‘National Defense Strategy’ means the national defense strategy under section 113(g)(1) of such title. “(3) The term ‘National Military Strategy’ means the national military strategy under section 153(b) of such title.”
 
 #### Prompt Completion of Military Installation Resilience Component of Master Plans for At-Risk Major Military Installations
-Pub. L. 117–81, div. B, title XXVIII, § 2833, Dec. 27, 2021, 135 Stat. 2199, provided that: “(a) Identification of At-Risk Installations.—Not later than 30 days after the date of the enactment of this Act [Dec. 27, 2021], each Secretary of a military department shall—“(1) identify at least two major military installations under the jurisdiction of that Secretary that the Secretary considers at risk from extreme weather events; and “(2) notify the Committees on Armed Services of the Senate and the House of Representatives of the major military installations identified under paragraph (1). “(b) Completion Deadline.—Not later than one year after the date of the enactment of this Act, each Secretary of a military department shall ensure that the military installation resilience component of the master plan for each major military installation identified by the Secretary under subsection (a) is completed. “(c) Briefings.—Not later than 60 days after completion of a master plan component as required by subsection (b) for a major military installation, the Secretary of the military department concerned shall brief the Committees on Armed Services of the Senate and the House of Representatives regarding the results of the master plan efforts for that major military installation. “(d) Definitions.—In this section:“(1) The term ‘major military installation’ has the meaning given that term in [section 2864(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2864/f&num=0&edition=prelim), United States Code. “(2) The term ‘master plan’ means the master plan required by [section 2864(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2864/a&num=0&edition=prelim), United States Code, for a major military installation.”
+Pub. L. 117–81, div. B, title XXVIII, § 2833, Dec. 27, 2021, 135 Stat. 2199, provided that: “(a) Identification of At-Risk Installations.—Not later than 30 days after the date of the enactment of this Act [Dec. 27, 2021], each Secretary of a military department shall—“(1) identify at least two major military installations under the jurisdiction of that Secretary that the Secretary considers at risk from extreme weather events; and “(2) notify the Committees on Armed Services of the Senate and the House of Representatives of the major military installations identified under paragraph (1). “(b) Completion Deadline.—Not later than one year after the date of the enactment of this Act, each Secretary of a military department shall ensure that the military installation resilience component of the master plan for each major military installation identified by the Secretary under subsection (a) is completed. “(c) Briefings.—Not later than 60 days after completion of a master plan component as required by subsection (b) for a major military installation, the Secretary of the military department concerned shall brief the Committees on Armed Services of the Senate and the House of Representatives regarding the results of the master plan efforts for that major military installation. “(d) Definitions.—In this section:“(1) The term ‘major military installation’ has the meaning given that term in section 2864(f) [now 2864(e)] of title 10, United States Code. “(2) The term ‘master plan’ means the master plan required by [section 2864(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2864/a&num=0&edition=prelim), United States Code, for a major military installation.”
 
 #### Removal of Barriers That Discourage Investments To Increase Military Installation Resilience
 Pub. L. 116–92, div. A, title III, § 327, Dec. 20, 2019, 133 Stat. 1311, provided that: “(a) In General.—The Secretary of Defense shall—“(1) identify and seek to remove barriers that discourage investments to increase military installation resilience; “(2) reform policies and programs that unintentionally increased the vulnerability of systems to related extreme weather events; and “(3) develop, and update at least once every four years, an adaptation plan to assess how climate impacts affected the ability of the Department of Defense to accomplish its mission, and the short-and long- term actions the Department can take to ensure military installation resilience. “(b) Military Installation Resilience.—In this section, the term ‘military installation resilience’ has the meaning given such term in [section 101(e)(8) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/8&num=0&edition=prelim), United States Code [now [10 U.S.C. 101(f)(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/f/8&num=0&edition=prelim)].”
@@ -3548,11 +3928,187 @@ Subsec. (c)(2). Pub. L. 115–91, § 2801(c)(5), substituted “14-day period”
 
 1996—Subsec. (c)(2). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and Appropriations of the Senate and House of Representatives”.
 
-#### Improving Water Management and Security on Military Installations.
-Pub. L. 116–283, div. B, title XXVIII, § 2827, Jan. 1, 2021, 134 Stat. 4336, provided that: “(a) Risk-Based Approach to Installation Water Management and Security.—“(1) General requirement.—The Secretary concerned shall adopt a risk-based approach to water management and security for each military installation under the jurisdiction of the Secretary. “(2) Implementation priorities.—The Secretary concerned shall begin implementation of paragraph (1) by prioritizing those military installations under the jurisdiction of the Secretary that the Secretary determines—“(A) are experiencing the greatest risks to sustainable water management and security; and “(B) face the most severe existing or potential adverse impacts to mission assurance as a result of such risks. “(3) Determination method.—Determinations under paragraph (2) shall be made on the basis of the water management and security assessments made by the Secretary concerned under subsection (b). “(b) Water Management and Security Assessments.—“(1) Assessment methodology.—The Secretaries concerned, acting jointly, shall develop a methodology to assess risks to sustainable water management and security and mission assurance. “(2) Elements.—Required elements of the assessment methodology shall include the following:“(A) An evaluation of the water sources and supply connections for a military installation, including water flow rate and extent of competition for the water sources. “(B) An evaluation of the age, condition, and jurisdictional control of water infrastructure serving the military installation. “(C) An evaluation of the military installation’s water-security risks related to drought-prone climates, impacts of defense water usage on regional water demands, water quality, and legal issues, such as water rights disputes. “(D) An evaluation of the resiliency of the military installation’s water supply and the overall health of the aquifer basin of which the water supply is a part, including the robustness of the resource, redundancy, and ability to recover from disruption. “(E) An evaluation of existing water metering and consumption at the military installation, considered at a minimum—“(i) by type of installation activity, such as training, maintenance, medical, housing, and grounds maintenance and landscaping; and “(ii) by fluctuations in consumption, including peak consumption by quarter. “(c) Evaluation of Installations for Potential Net Zero Water Usage.—“(1) Evaluation required.—The Secretary concerned shall conduct an evaluation of each military installation under the jurisdiction of the Secretary to determine the potential for the military installation, or at a minimum certain installation activities, to achieve net zero water usage. “(2) Elements.—Required elements of each evaluation shall include the following:“(A) An evaluation of alternative water sources to offset use of freshwater, including water recycling and harvested rainwater for use as non-potable water. “(B) An evaluation of the feasibility of implementing Department of Energy guidelines for net zero water usage, when practicable, to minimize water consumption and wastewater discharge in buildings scheduled for renovation. “(C) An evaluation of the practicality of implementing net zero water usage technology into new construction in water-constrained areas, as determined by water management and security assessments conducted under subsection (b). “(d) Improved Landscaping Management Practices.—“(1) Landscaping management.—The Secretary concerned shall implement, to the maximum extent practicable, at each military installation under the jurisdiction of the Secretary landscaping management practices to increase water resilience and ensure greater quantities of water availability for operational, training, and maintenance requirements. “(2) Arid or semi-arid climates.—For military installations located in arid or semi-arid climates, landscaping management practices shall include the use of xeriscaping. “(3) Non-arid climates.—For military installations located in non-arid climates, landscaping management practices shall include the use of plants common to the region in which the installation is located and native grasses and plants. “(4) Pollinator conservation reference guide.—The Secretary concerned shall follow the recommendations of the Department of Defense Pollinator Conservation Reference Guide (September 2018) to the maximum extent practicable in order to reduce operation and maintenance costs related to landscaping management, while improving area management. Consistent with such guide, in the preparation of a military installation landscaping plan, the Secretary concerned should consider the following:“(A) Adding native flowering plants to sunny open areas and removing overhanging tree limbs above open patches within forested areas or dense shrub. “(B) Removing or controlling invasive plants to improve pollinator habitat. “(C) Preserving known and potential pollinator nesting and overwintering sites. “(D) Eliminating or minimizing pesticide use in pollinator habitat areas. “(E) Mowing in late fall or winter after plants have bloomed and set seed, adjusting timing to avoid vulnerable life stages of special status pollinators. “(F) Mowing mid-day when adult pollinators can avoid mowing equipment. “(e) Implementation Report.—“(1) Report required.—Not later than one year after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense, in coordination with the other Secretaries concerned, shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the progress made in implementing this section. “(2) Report elements.—The report shall include the following:“(A) The methodology developed under subsection (b) to conduct water management and security assessments. “(B) A list of the military installations that have been assessed using such methodology and a description of the findings. “(C) A list of planned assessments for the one-year period beginning on the date of the submission of the report. “(D) An evaluation of the progress made on implementation of xeriscaping and other regionally appropriate landscaping practices at military installations. “(f) Definitions.—In this section:“(1) The term ‘net zero water usage’, with respect to a military installation or installation activity, means a situation in which the combination of limitations on the consumption of water resources and the return of water to an original water source by the installation or activity is sufficient to prevent any reduction in the water resources of the area in both quantity and quality over a reasonable period of time. “(2) The terms ‘Secretary concerned’ and ‘Secretary’ mean the Secretary of a military department and the Secretary of Defense with respect to the Pentagon Reservation. “(3) The term ‘xeriscaping’ means landscape design that emphasizes low water use and drought-tolerant plants that require little or no supplemental irrigation.”
+#### Improving Water Management and Security on Military Installations
+Pub. L. 116–283, div. B, title XXVIII, § 2827, Jan. 1, 2021, 134 Stat. 4336, which related to adoption of a risk-based approach to water management and security for military installations, was repealed by Pub. L. 119–60, div. B, title XXVIII, § 2804(b), Dec. 18, 2025, 139 Stat. 1297. See [section 2866a of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2866a).
 
 #### Establishment of Targets for Water Use
 Pub. L. 116–92, div. A, title III, § 319(c), Dec. 20, 2019, 133 Stat. 1306, provided that: “The Secretary of Defense shall, where life-cycle cost-effective, improve water use efficiency and management by the Department of Defense, including storm water management, by— “(1) installing water meters and collecting and using water balance data of buildings and facilities to improve water conservation and management; “(2) reducing industrial, landscaping, and agricultural water consumption in gallons by two percent annually through fiscal year 2030 relative to a baseline of such consumption by the Department in fiscal year 2010; and “(3) installing appropriate sustainable infrastructure features on installations of the Department to help with storm water and wastewater management.”
+
+
+<a id="section-2866a"></a>
+## § 2866a. Risk-based approach to water management and water security at military installations
+**(a) In General.—**
+
+(1) The Secretary of Defense shall adopt a risk-based approach to water management and water security for each military installation.
+
+(2) In implementing paragraph (1), the Secretary shall prioritize those military installations that the Secretary determines—
+
+  (A) are experiencing the greatest risks to water management and water security; and
+
+  (B) face, or potentially face, the most severe adverse effects on mission assurance because of such risks.
+
+(3) Determinations under paragraph (2) shall be made on the basis of the water management and water security assessments made by the Secretary concerned under subsection (b).
+
+**(b) Water Management and Water Security Assessments.—**
+
+(1) The Secretary of Defense, in coordination with each Secretary of a military department, shall develop a methodology to assess, for each military installation—
+
+  (A) risks to water management and water security; and
+
+  (B) adverse effects on mission assurance because of such risks.
+
+(2) Such methodology shall include the following:
+
+  (A) An evaluation of all water sources available to a military installation, disaggregated by—
+
+    (i) total available water volume;
+
+    (ii) treated potable water; and
+
+    (iii) treated nonpotable water.
+
+  (B) An assessment of relevant water supply connections for a military installation, including the number, type, water flow rate, seasonal variability, and the extent of competition for each such connection.
+
+  (C) A calculation of the total water requirement of a military installation that—
+
+    (i) includes an identification of the water usage by each tenant command located on the military installation; and
+
+    (ii) describes the water uses that comprise such total water requirement, disaggregated by—
+
+      (I) drinking water uses; and
+
+      (II) nonpotable water uses, including—
+
+        (aa) cooling;
+
+        (bb) irrigation groundskeeping;
+
+        (cc) wash water; and
+
+        (dd) other industrial and agricultural uses.
+
+  (D) An evaluation of the age, condition, and jurisdictional control of water infrastructure serving a military installation, including an estimate of the percentage of water lost due to water infrastructure that is in poor or failing condition.
+
+  (E) An evaluation of water security risks that could have an adverse effect on mission assurance for a military installation, including—
+
+    (i) if the military installation is located in a drought-prone region;
+
+    (ii) decreasing water levels or sources that supply water to the military installation;
+
+    (iii) effects of new defense water uses on the total water requirement of the military installation; and
+
+    (iv) increases to the demand for water that result from nondefense or defense-adjacent requirements and that could affect—
+
+      (I) the supply of water available for use by the military installation;
+
+      (II) the quality of such water; and
+
+      (III) any legal rights to use of such water by the military installation, such as water rights disputes.
+
+  (F) An evaluation of the capacity of the water supply of a military installation to withstand or quickly recover from water constraints, and the overall health of the aquifer basin of which the water supply is a part, including the robustness of the resource, redundancy, and ability to recover from disruption.
+
+  (G) An evaluation of existing water metering and water consumption at a military installation, disaggregated—
+
+    (i) by type of activity, including training, maintenance, medical, housing, and grounds maintenance and landscaping; and
+
+    (ii) by fluctuations in consumption, including peak consumption by quarter.
+
+  (H) A determination of the appropriate frequency for reassessment of military installations with the highest water security risk.
+
+(3) The Secretary of Defense, in coordination with each Secretary of a military department, shall update the methodology under paragraph (1) not less frequently than once every ten years.
+
+**(c) Reassessment of Water Security Risk.—** The Secretary of Defense shall update assessments of the military installations with the highest water security risk not less frequently than as determined under subsection (b)(2)(H).
+
+**(d) Mitigation of Highest Water Security Risk Installations.—**
+
+(1) Each Secretary of a military department shall—
+
+  (A) identify the three military installations under the jurisdiction of the Secretary with the highest water security risk; and
+
+  (B) develop, for each military installation identified, a plan of action and milestones to address—
+
+    (i) risks to water security; and
+
+    (ii) adverse effects on mission assurance because of such risks.
+
+(2) Each such plan of action shall include the following:
+
+  (A) A description of each risk and the effect on the capacity of the military installation and mission assurance.
+
+  (B) A list of the factors contributing to the risk, disaggregated by risks originating from—
+
+    (i) the geographic area under the control of the military installation; and
+
+    (ii) the geographic area not under the control of the military installation.
+
+  (C) A plan for implementing installation-level water metering to ensure more accurate assessments of demand for water at the military installation.
+
+  (D) An assessment of—
+
+    (i) the effects of planned future missions and tenant commands on the demand for water at the military installation; and
+
+    (ii) the corresponding requirements for water infrastructure serving the military installation.
+
+  (E) A list of infrastructure projects to mitigate loss of available water supply to leakage, including new construction, recapitalization, required maintenance, and modernization of existing infrastructure.
+
+  (F) A cost-benefit analysis of using “no dig” technologies to mitigate infrastructure degradation that leads to water loss.
+
+**(e) Evaluation of Installations for Nonpotable Water Reuse.—**
+
+(1) The Secretary of Defense shall evaluate each military installation identified under subsection (d) to determine the potential to mitigate risks to water security for such installation through the reuse of nonpotable water for nondrinking water uses.
+
+(2) Such evaluation shall include the following:
+
+  (A) An evaluation of alternative water sources to offset use of freshwater, including water recycling and harvested rainwater for use as nonpotable water.
+
+  (B) An assessment of the feasibility of incorporating, when practicable, water-efficient technologies and systems to minimize water consumption and wastewater discharge on the installation.
+
+  (C) An evaluation of the practicality of implementing water reuse systems and other water-saving infrastructure into new construction in water-constrained areas, as determined pursuant to the applicable water management and security assessment under subsection (b).
+
+**(f) Cost Effective Landscaping Management Practices.—**
+
+(1) The Secretary of Defense shall, to the maximum extent practicable, implement, at each military installation identified under subsection (d), landscaping management practices that mitigate risks to water management and water security and enhance mission assurance by enabling greater quantities of water availability for operational, training, and maintenance requirements.
+
+(2) For military installations located in arid or semi-arid regions, such landscaping management practices shall, to the extent practicable, include practices that avoid the cost of irrigation.
+
+(3) To the extent practicable, each Secretary of a military department shall institute landscaping management practices that include plants native to, or appropriate for, the region in which the installation is located and native grass and plants that decrease water consumption requirements.
+
+**(g) Briefings Required.—**
+
+(1) Not later than 180 days after the date of the enactment of this section, the Secretary of Defense shall provide to the Committees of the Armed Services of the House of Representatives and the Senate a briefing that includes—
+
+  (A) an identification, in ranked order, of the military installations identified under subsection (d) with the highest water security risk; and
+
+  (B) a description of the schedule for developing each plan of action required by subsection (d).
+
+(2) Not later than one year after the date of the enactment of this section, and annually thereafter not later than the date of President’s budget for a fiscal year under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Secretary of Defense shall provide to the Committees of the Armed Services of the House of Representatives and the Senate a briefing that includes, with respect to the period covered by the briefing—
+
+  (A) an update on the progress of the Secretary concerned toward completing the water security assessment required by subsection (b);
+
+  (B) updated cost estimates for infrastructure projects to mitigate loss of available water supply to leakage identified pursuant to subsection (d)(1)(E); 11 So in original. Probably should be “subsection (d)(2)(E);”. and
+
+  (C) a description of—
+
+    (i) any agreement between a Secretary of a military department and the head of a non-Department of Defense entity with respect to property under the jurisdiction of such Secretary that may affect—
+
+      (I) the supply of water available to a military installation under the jurisdiction of such Secretary; or
+
+      (II) the demand for water of such installation; and
+
+    (ii) any change to—
+
+      (I) the water supply of a military installation under the jurisdiction such Secretary; or
+
+      (II) the demand for water of such military installation.
+
+**(h) Rule of Construction.—** Nothing in this section shall be construed to require the repetition or replacement of any prior water assessment or evaluation conducted before the date of the enactment of section 2827 of the Military Construction Authorization Act for Fiscal Year 2021 (division B of Public Law 118–159; [10 U.S.C. 2866](./chapter-169-military-construction-and-military-family-housing.md#section-2866) note) 22 See References in Text note below. that is accurate and reflects current mission requirements.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (g), is the date of enactment of Pub. L. 119–60, which was approved on Dec. 18, 2025.
+
+Section 2827 of the Military Construction Authorization Act for Fiscal Year 2021, referred to in subsec. (h), is section 2827 of div. B of Pub. L. 116–283, which was formerly set out as a note under [section 2866 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2866), prior to repeal by Pub. L. 119–60, div. B, title XXVIII, § 2804(b), Dec. 18, 2025, 139 Stat. 1297.
 
 
 <a id="section-2867"></a>
@@ -3635,13 +4191,13 @@ In two instances, the source section for provisions to be codified provides that
 
   (A) The Secretary of Defense shall establish a pilot program under which the Secretary concerned, during the term of the pilot program, may use the authority provided by paragraph (1) to also convey real property, including any improvements thereon, described in paragraph (2) to any person who agrees, in exchange for the real property, to provide—
 
-    (i) installation-support services (as defined in 2679(e) 11 See References in Text note below. of this title); or
+    (i) installation-support services (as defined in [section 2679(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2679/f&num=0&edition=prelim)); or
 
     (ii) a new facility or improvements to an existing facility.
 
   (B) The acquisition of a facility or improvements to an existing facility using the authority provided by subparagraph (A) shall not be treated as a military construction project for which an authorization is required by [section 2802 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2802).
 
-  (C) The expanded conveyance authority provided by subparagraph (A) applies only during the five-year period beginning on the date on which the Secretary of Defense issues guidance regarding the use by the Secretaries concerned of such authority.
+  (C) The expanded conveyance authority provided by subparagraph (A) applies only during the eight-year period beginning on the date on which the Secretary of Defense issues guidance regarding the use by the Secretaries concerned of such authority.
 
 **(b) Conditions on Conveyance Authority.—**
 
@@ -3675,7 +4231,7 @@ In two instances, the source section for provisions to be codified provides that
 
     (ii) a description of the land acquisition to be carried out under the agreement in exchange for the conveyance of the property; and
 
-    (iii) the amount of any payment to be made under subsection (b) or under section 2684a(d) 1 of this title to equalize the fair market values of the property to be conveyed and the land acquisition to be carried out under the agreement in exchange for the conveyance of the property; and
+    (iii) the amount of any payment to be made under subsection (b) or under section 2684a(d) 11 See References in Text note below. of this title to equalize the fair market values of the property to be conveyed and the land acquisition to be carried out under the agreement in exchange for the conveyance of the property; and
 
   (B) the waiting period applicable to that notice under paragraph (3) expires.
 
@@ -3690,11 +4246,13 @@ In two instances, the source section for provisions to be codified provides that
 ### Statutory Notes
 
 #### References in Text
-The reference to “2679(e) of this title”, referred to in subsec. (a)(3)(A)(i), probably should be to “[section 2679(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2679/f&num=0&edition=prelim)”. Subsec. (e) of [section 2679 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2679) was redesignated as subsec. (f) by Pub. L. 116–283, div. B, title XXVIII, § 2861(a)(1), Jan. 1, 2021, 134 Stat. 4356.
-
 [Section 2684a(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2684a/d&num=0&edition=prelim), referred to in subsec. (d)(2)(A)(iii), was redesignated [section 2684a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2684a/e&num=0&edition=prelim) by Pub. L. 118–31, div. A, title III, § 314(1), Dec. 22, 2023, 137 Stat. 216.
 
 #### Amendments
+2024—Subsec. (a)(3)(A)(i). Pub. L. 118–159, § 2851(b), substituted “section 2679(f)” for “2679(e)”.
+
+Subsec. (a)(3)(C). Pub. L. 118–159, § 2851(a), substituted “eight-year period” for “five-year period”.
+
 2021—Subsec. (a)(3). Pub. L. 116–283, § 2862(a), added par. (3).
 
 Subsec. (b)(1). Pub. L. 116–283, § 2862(b)(1), substituted “of the real property, installation-support services, or facility or improvements to an existing facility” for “of the land to be” and “of the real property conveyed by the Secretary concerned exceeds the fair market value of the real property, installation-support services, or facility or improvements received by the Secretary” for “of the land is less than the fair market value of the real property to be conveyed”.
@@ -3871,13 +4429,15 @@ Pub. L. 115–232, div. A, title VI, § 606, Aug. 13, 2018, 132 Stat. 1795, as a
 
 In addition to any other authority provided under this chapter for the acquisition or construction of military family housing or military unaccompanied housing, the Secretary concerned may exercise any authority or any combination of authorities provided under this subchapter in order to provide for the acquisition or construction by eligible entities of the following:
 
-(1) Family housing units on or near military installations within the United States and its territories and possessions.
+(1) Family housing units on or near military installations within the United States and its territories and possessions, including such units for civilian employees of the Department of Defense and defense contractors.
 
 (2) Military unaccompanied housing units on or near such military installations.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Par. (1). Pub. L. 119–60 substituted inserted “, including such units for civilian employees of the Department of Defense and defense contractors” before period at end.
+
 1999—Pub. L. 106–65 substituted “eligible entities” for “private persons” in introductory provisions.
 
 
@@ -4004,9 +4564,9 @@ Subsecs. (b), (c). Pub. L. 107–314, § 2802(b)(1), added subsec. (b) and redes
 
 **(c) Limitation on Value of Investment.—**
 
-(1) The cash amount of an investment under this section in an eligible entity may not exceed an amount equal to 33⅓ percent of the capital cost (as determined by the Secretary concerned) of the project or projects that the eligible entity proposes to carry out under this section with the investment.
+(1) The cash amount of an investment under this section in an eligible entity may not exceed an amount equal to 33⅓ percent 11 See Temporary Increase in Percentage of Value of Authorized Investment in Certain Privatized Military Housing Projects note below. of the capital cost (as determined by the Secretary concerned) of the project or projects that the eligible entity proposes to carry out under this section with the investment.
 
-(2) If the Secretary concerned conveys land or facilities to an eligible entity as all or part of an investment in the eligible entity under this section, the total value of the investment by the Secretary under this section may not exceed an amount equal to 45 percent of the capital cost (as determined by the Secretary) of the project or projects that the eligible entity proposes to carry out under this section with the investment.
+(2) If the Secretary concerned conveys land or facilities to an eligible entity as all or part of an investment in the eligible entity under this section, the total value of the investment by the Secretary under this section may not exceed an amount equal to 45 percent 1 of the capital cost (as determined by the Secretary) of the project or projects that the eligible entity proposes to carry out under this section with the investment.
 
 (3) In this subsection, the term “capital cost”, with respect to a project for the acquisition or construction of housing, means the total amount of the costs included in the basis of the housing for Federal income tax purposes.
 
@@ -4030,6 +4590,9 @@ Subsec. (d). Pub. L. 106–65, § 2803(d)(3), substituted “eligible” for “
 Subsec. (e). Pub. L. 106–65, § 2803(d)(4), substituted “an eligible entity” for “a nongovernmental entity”.
 
 1997—Subsec. (e). Pub. L. 105–85 added subsec. (e).
+
+#### Temporary Increase in Percentage of Value of Authorized Investment in Certain Privatized Military Housing Projects
+Pub. L. 119–21, title II, § 20001(b), July 4, 2025, 139 Stat. 112, provided that: “(1) In general.—During the period beginning on the date of the enactment of this section [July 4, 2025] and ending on September 30, 2029, the Secretary concerned shall apply—“(A) paragraph (1) of subsection (c) of [section 2875 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2875), United States Code, by substituting ‘60 percent’ for ‘33 ⅓ percent’; and “(B) paragraph (2) of such subsection by substituting ‘60 percent’ for ‘45 percent’. “(2) Secretary concerned defined.—In this subsection, the term ‘Secretary concerned’ has the meaning given such term in [section 101 of title 10](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101), United States Code.”
 
 
 <a id="section-2876"></a>
@@ -4195,30 +4758,46 @@ Pub. L. 109–163, div. B, title XXVIII, § 2805(c), Jan. 6, 2006, 119 Stat. 350
 
 
 <a id="section-2881a"></a>
-## § 2881a. Pilot projects for acquisition or construction of military unaccompanied housing
-**(a) Pilot Projects Authorized.—** The Secretary of the Navy may carry out not more than three pilot projects under the authority of this section or another provision of this subchapter to use the private sector for the acquisition or construction of military unaccompanied housing in the United States, including any territory or possession of the United States.
+## § 2881a. Temporary authority for acquisition or construction of privatized military unaccompanied housing
+**(a) In General.—** The Secretary concerned may use the authority under this subchapter to enter into contracts with appropriate private sector entities for the acquisition or construction of military unaccompanied housing in the United States, including any territory or possession of the United States.
 
-**(b) Treatment of Housing; Assignment of Members.—** The Secretary of the Navy may assign members of the armed forces without dependents to housing units acquired or constructed under the pilot projects, and such housing units shall be considered as quarters of the United States or a housing facility under the jurisdiction of the Secretary for purposes of [section 403 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim).
+**(b) Treatment of Housing; Assignment of Members.—** The Secretary concerned may assign members of the armed forces without dependents to housing units acquired or constructed pursuant to this section, and such housing units shall be considered as quarters of the United States or a housing facility under the jurisdiction of the Secretary for purposes of [section 403 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim).
 
 **(c) Basic Allowance for Housing.—**
 
-(1) The Secretary of Defense may prescribe and, under section 403(o) of title 37, pay for members of the armed forces without dependents in privatized housing acquired or constructed under the pilot projects higher rates of partial basic allowance for housing than the rates authorized under paragraph (2) of such section.
+(1) The Secretary of Defense may prescribe and, under section 403(o) of title 37, pay for members of the armed forces without dependents in privatized housing units acquired or constructed pursuant to this section higher rates of partial basic allowance for housing than the rates authorized under paragraph (2) of such section.
 
 (2) The partial basic allowance for housing paid for a member at a higher rate under this subsection may be paid directly to the private sector source of the housing to whom the member is obligated to pay rent or other charge for residing in such housing if the private sector source credits the amount so paid against the amount owed by the member for the rent or other charge.
 
 **(d) Funding.—**
 
-(1) The Secretary of the Navy shall use the Department of Defense Military Unaccompanied Housing Improvement Fund to carry out activities under the pilot projects.
+(1) The Secretary concerned shall use the Department of Defense Military Unaccompanied Housing Improvement Fund to carry out activities pursuant to this section.
 
 (2) Subject to 30 days prior notification to the appropriate committees of Congress in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480), such additional amounts as the Secretary of Defense considers necessary may be transferred to the Department of Defense Military Unaccompanied Housing Improvement Fund from amounts appropriated for construction of military unaccompanied housing in military construction accounts. The amounts so transferred shall be merged with and be available for the same purposes and for the same period of time as amounts appropriated directly to the Fund.
 
-**(e)** Repealed. Pub. L. 115–91, div. A, title X, § 1051(a)(25), Dec. 12, 2017, 131 Stat. 1562.]
-
-**(f) Expiration.—** The authority of the Secretary of the Navy to enter into a contract under the pilot programs shall expire September 30, 2009.
+**(e) Expiration.—** The authority of the Secretary concerned to enter into a contract under this section shall expire September 30, 2029.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Pub. L. 119–21, § 20001(c)(1), substituted “Temporary authority for acquisition or construction of privatized military unaccompanied housing” for “Pilot projects for acquisition or construction of military unaccompanied housing” in section catchline.
+
+Subsec. (a). Pub. L. 119–21, § 20001(c)(2), (4), substituted “In General” for “Pilot Projects Authorized” in heading, “Secretary concerned” for “Secretary of the Navy”, and “use the authority under this subchapter to enter into contracts with appropriate private sector entities” for “carry out not more than three pilot projects under the authority of this section or another provision of this subchapter to use the private sector”.
+
+Subsec. (b). Pub. L. 119–21, § 20001(c)(2), (3), substituted “Secretary concerned” for “Secretary of the Navy” and “pursuant to this section” for “under the pilot projects”.
+
+Subsec. (c)(1). Pub. L. 119–21, § 20001(c)(3), (5), substituted “privatized housing units” for “privatized housing” and “pursuant to this section” for “under the pilot projects”.
+
+Subsec. (d)(1). Pub. L. 119–21, § 20001(c)(2), (3), substituted “Secretary concerned” for “Secretary of the Navy” and “pursuant to this section” for “under the pilot projects”.
+
+Subsec. (e). Pub. L. 119–21, § 20001(c)(7), substituted “under this section” for “under the pilot programs” and “September 30, 2029” for “September 30, 2009”.
+
+Pub. L. 119–21, § 20001(c)(6), redesignated subsec. (f) as (e). Former subsec. (e) had been struck out by Pub. L. 115–91. See 2017 Amendment note below.
+
+Subsec. (f). Pub. L. 119–21, § 20001(c)(6), redesignated subsec. (f) as (e).
+
+Pub. L. 119–21, § 20001(c)(2), substituted “Secretary of the Navy” for “Secretary concerned”.
+
 2022—Subsec. (c)(1). Pub. L. 117–263 substituted “section 403(o)” for “section 403(n)”.
 
 2017—Subsec. (d)(2). Pub. L. 115–91, § 2801(d)(1), inserted “in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480)” after “Congress”.
@@ -4436,7 +5015,7 @@ Amendment by Pub. L. 112–239 effective on the later of Oct. 1, 2013, or the da
 
 (4) A report identifying each family housing unit acquired or constructed under this subchapter that is used, or intended to be used, as quarters for a general officer or flag officer and for which the total operation, maintenance, and repair costs for the unit exceeded $50,000. For each housing unit so identified, the report shall also include the total of such operation, maintenance, and repair costs.
 
-**(c) Annual Report on Privatization Projects.—** The Secretary of Defense shall submit to the congressional defense committees a semi-annual report containing an evaluation of the status of oversight and accountability measures under [section 2885 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2885) for military housing privatization projects. To the extent each Secretary concerned has the right to attain the information described in this subsection, each report shall include, at a minimum, the following:
+**(c) Semi-annual Report on Privatization Projects.—** The Secretary of Defense shall submit to the congressional defense committees a semi-annual report containing an evaluation of the status of oversight and accountability measures under [section 2885 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2885) for military housing privatization projects. To the extent each Secretary concerned has the right to attain the information described in this subsection, each report shall include, at a minimum, the following:
 
 (1) An assessment of the backlog of maintenance and repair at each military housing privatization project where a significant backlog exists, including an estimation of the cost of eliminating the maintenance and repair backlog.
 
@@ -4474,9 +5053,31 @@ Amendment by Pub. L. 112–239 effective on the later of Oct. 1, 2013, or the da
 
   (D) A certification as to whether military housing under the jurisdiction of the Secretary concerned complies with requirements relating to lead-based paint, lead-based paint activities, and lead-based paint hazards, as described in section 408 of the Toxic Substances Control Act ([15 U.S.C. 2688](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2688&num=0&edition=prelim)).
 
+(15) An explanation of—
+
+  (A) the housing data used by each Secretary concerned; and
+
+  (B) the housing data each Secretary concerned requests from companies responsible for managing privatization projects.
+
+(16) An assessment of how each Secretary concerned uses such housing data to inform the on-base housing decisions for the military department under the jurisdiction of the Secretary.
+
+(17) An explanation of—
+
+  (A) the limitations of any tenant satisfaction data collected by the Secretary concerned (including limitations with respect to the availability of such data);
+
+  (B) the process of the Secretary concerned for determining tenant satisfaction; and
+
+  (C) reasons for missing tenant satisfaction data, if any.
+
+(18) To the maximum extent practicable, a breakdown of the information described in paragraphs (1) through (17), disaggregated by—
+
+  (A) military installation; and
+
+  (B) military housing privatization project.
+
 **(d) Annual Briefings.—** Not later than February 1 of each year, each Secretary concerned shall provide to the Committees on Armed Services of the Senate and House of Representatives a briefing on military housing privatization projects under the jurisdiction of the Secretary. Such briefing shall include, for the 12-month period preceding the date of the briefing, each of the following:
 
-(1) The information described in paragraphs (1) through (14) of subsection (c) with respect to all military housing privatization projects under the jurisdiction of the Secretary.
+(1) The information described in paragraphs (1) through (18) of subsection (c) of subsection (c) with respect to all military housing privatization projects under the jurisdiction of the Secretary.
 
 (2) A review of any such project that is expected to require the restructuring of a loan, including any public or private loan.
 
@@ -4487,6 +5088,12 @@ Amendment by Pub. L. 112–239 effective on the later of Oct. 1, 2013, or the da
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 119–60, § 2823(a)(1)(B), substituted “Semi-annual” for “Annual” in heading.
+
+Subsec. (c)(15) to (18). Pub. L. 119–60, § 2823(a)(1)(A), added pars. (15) to (18).
+
+Subsec. (d)(1). Pub. L. 119–60, § 2823(a)(2), substituted “paragraphs (1) through (18) of subsection (c)” for “paragraphs (1) through (14) of subsection (c)”.
+
 2022—Subsec. (d). Pub. L. 117–263 added subsec. (d).
 
 2021—Subsec. (a)(1). Pub. L. 116–283, § 2803(c)(1)(A), substituted “The Secretary concerned” for “The Secretary of Defense” in introductory provisions.
@@ -4535,9 +5142,6 @@ Subsec. (b)(3) to (5). Pub. L. 108–136, § 2807(b)(2), added pars. (3) to (5) 
 
 #### Effective Date of 2011 Amendment
 Pub. L. 111–383, div. A, title X, § 1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section 1075(h)(6) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
-
-#### Termination of Reporting Requirements
-For termination, effective Dec. 31, 2021, of provisions in subsecs. (b) and (c) of this section requiring submittal of reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 #### Final Report
 Pub. L. 104–106, div. B, title XXVIII, § 2801(b), Feb. 10, 1996, 110 Stat. 551, provided that, not later than Mar. 1, 2000, the Secretary of Defense was to submit to the congressional defense committees a report on the use by the Secretary of Defense and the Secretaries of the military departments of the authorities provided by subchapter IV of chapter 169 of this title.
@@ -4810,13 +5414,29 @@ Pub. L. 116–92, div. B, title XXX, § 3057, Dec. 20, 2019, 133 Stat. 1945, pro
 
   (B) confirmed by the housing management office of the installation as making the unit uninhabitable or unable to be remediated safely while the tenant occupies the housing unit.
 
-**(f) Maintenance Work Order System.—** A landlord providing a housing unit shall ensure that the maintenance work order system of the landlord (hardware and software) is up to date, including—
+**(f) Maintenance Work Order System.—**
 
-(1) by providing a reliable mechanism through which a tenant may submit work order requests through an Internet portal and mobile application, which shall incorporate the ability to upload photos, communicate with maintenance personnel, and rate individual service calls;
+(1) A landlord providing a housing unit shall ensure that the maintenance work order system of the landlord (hardware and software) is up to date, including—
 
-(2) by allowing real-time access to such system by officials of the Department at the installation, major subordinate command, and service-wide levels; and
+  (A) by providing a reliable mechanism through which a tenant may submit work order requests through an Internet portal and mobile application, which shall incorporate the ability to upload photos, communicate with maintenance personnel, and rate individual service calls;
 
-(3) by allowing the work order or maintenance ticket to be closed only once the tenant and the head of the housing management office of the installation sign off.
+  (B) by allowing real-time access to such system by officials of the Department at the installation, major subordinate command, and service-wide levels; and
+
+  (C) except as provided in paragraph (2), by allowing the work order or maintenance ticket to be closed only after the landlord makes not fewer than three documented attempts to notify the resident of work completion through means that include—
+
+    (i) the resident Internet portal for the housing unit;
+
+    (ii) text messaging;
+
+    (iii) email; and
+
+    (iv) telephone.
+
+(2) If a resident does not respond to a landlord after three attempts of the landlord to notify the resident of work completion pursuant to paragraph (1)(C), the landlord may close the work order or maintenance ticket only if—
+
+  (A) the landlord submits to the head of the applicable housing management office notice that the landlord intends to close the work order or maintenance ticket; and
+
+  (B) the head of the applicable housing management office does not object, in writing, to the closure.
 
 **(g) Applicability of Disability Laws.—** For purposes of this subchapter and subchapter IV of this chapter, housing units shall be considered as military family housing for purposes of application of Department of Defense policy implementing section 804 of the Fair Housing Act ([42 U.S.C. 3604](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3604&num=0&edition=prelim)) and title III of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12181](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12181&num=0&edition=prelim) et seq.).
 
@@ -4833,6 +5453,12 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (g), is Pub.
 A prior section 2891, added Pub. L. 100–456, div. A, title III, § 342(a)(1), Sept. 29, 1988, 102 Stat. 1959; amended Pub. L. 102–484, div. A, title III, § 372, Oct. 23, 1992, 106 Stat. 2384, required Secretary of Defense to submit to Congress for each of fiscal years 1992, 1993, and 1994, a report regarding security and control of Department of Defense supplies, prior to repeal by Pub. L. 104–106, div. A, title X, § 1061(b)(1), Feb. 10, 1996, 110 Stat. 442.
 
 #### Amendments
+2025—Subsec. (f). Pub. L. 119–60, § 2824(1), (2), inserted par. (1) designation before “A landlord providing” and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively.
+
+Subsec. (f)(1)(C). Pub. L. 119–60, § 2824(3), added subpar. (C) and struck out former subpar. (C), as so redesignated, which read as follows: “by allowing the work order or maintenance ticket to be closed only once the tenant and the head of the housing management office of the installation sign off.”
+
+Subsec. (f)(2). Pub. L. 119–60, § 2824(4), added par. (2).
+
 2021—Subsec. (e)(1). Pub. L. 116–283, § 2811(c)(1)(A), inserted “unit” after “different housing” in introductory provisions.
 
 Subsec. (e)(1)(B). Pub. L. 116–283, § 2811(c)(1)(B), inserted “the” before “tenant”.
@@ -5031,6 +5657,18 @@ Pub. L. 116–92, div. B, title XXX, § 3014(e), Dec. 20, 2019, 133 Stat. 1926, 
 
   (F) The amount of deferred fees or other fees relating to such housing units.
 
+  (G) Information with respect to each insurance policy maintained by the landlord for such housing units, including the—
+
+    (i) scope of coverage;
+
+    (ii) deductible;
+
+    (iii) policy limit; and
+
+    (iv) total premium amount.
+
+  (H) The total amount of any payments made by the landlord to tenants of such housing units pursuant to a dispute resolution process.
+
 (3) In this subsection:
 
   (A) The term “base management fees” means the monthly management fees collected for services associated with accepting and processing rent payments, ensuring tenant rent payments, property inspections, maintenance management, and emergency maintenance calls.
@@ -5084,6 +5722,8 @@ Pub. L. 116–92, div. B, title XXX, § 3014(e), Dec. 20, 2019, 133 Stat. 1926, 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a)(2)(G), (H). Pub. L. 119–60 added subpars. (G) and (H).
+
 2021—Pub. L. 116–283, § 2814(d)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Financial transparency”.
 
 Subsec. (b). Pub. L. 116–283, § 2814(a)(1), inserted “Performance Metrics and” before “Use of Incentive Fees” in heading.
@@ -5275,19 +5915,19 @@ Pub. L. 116–92, div. B, title XXX, § 3022(d), Dec. 20, 2019, 133 Stat. 1934, 
 
 <a id="section-2894a"></a>
 ## § 2894a. Complaint database
-**(a) Database Required.—** The Secretary of Defense shall establish a database of complaints made regarding housing units.
+**(a) Database Required.—** The Secretary of Defense shall establish a database of complaints made by a tenant regarding covered dwelling units.
 
 **(b) Public Availability.—** The database shall be available to the public.
 
-**(c) Inclusion of Tenant Complaints.—** The Secretary of Defense shall permit a tenant of a housing unit to file a complaint regarding the housing unit for inclusion in the database.
+**(c) Inclusion of Tenant Complaints.—** The Secretary of Defense shall permit a tenant of a covered dwelling unit to file a complaint regarding the covered dwelling unit for inclusion in the database.
 
 **(d) Inclusion of Certain Information.—**
 
 (1) Information accessible in the database regarding a complaint shall include the following:
 
-  (A) The name of the installation for which the housing unit is provided.
+  (A) The name of the installation for which the covered dwelling unit is provided.
 
-  (B) The name of the landlord responsible for the housing unit.
+  (B) The name of the landlord responsible for the covered dwelling unit.
 
   (C) A description of the nature of the complaint.
 
@@ -5298,3 +5938,30 @@ Pub. L. 116–92, div. B, title XXX, § 3022(d), Dec. 20, 2019, 133 Stat. 1934, 
 (1) The Secretary of Defense shall include in any contract with a landlord responsible for a housing unit a requirement that the landlord respond in a timely manner to any complaints included in the database that relate to the housing unit.
 
 (2) The Secretary shall include landlord responses in the database.
+
+**(f) Definitions.—** In this section:
+
+(1) The term “covered armed force” means the Army, Navy, Marine Corps, Air Force, or Space Force.
+
+(2) The term “covered dwelling unit” means a unit of accompanied family housing, unaccompanied housing, or barracks—
+
+  (A) that is acquired or constructed pursuant to subchapter IV of chapter 169 of this title;
+
+  (B) in which a member of a covered armed force resides; and
+
+  (C) that such member does not own.
+
+(3) The term “tenant” means any of the following:
+
+  (A) A member of a covered armed force who resides in a covered dwelling unit.
+
+  (B) A dependent of a member described in subparagraph (A) who resides in a covered dwelling unit.
+
+### Statutory Notes
+
+#### Amendments
+2024—Subsec. (a). Pub. L. 118–159, § 2825(a)(1), substituted “by a tenant regarding covered dwelling units” for “regarding housing units”.
+
+Subsecs. (c), (d). Pub. L. 118–159, § 2825(a)(2), substituted “covered dwelling unit” for “housing unit” in two places.
+
+Subsec. (f). Pub. L. 118–159, § 2825(a)(3), added subsec. (f).

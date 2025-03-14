@@ -756,10 +756,19 @@ Section was formerly classified to [section 15362 of Title 42](https://uscode.ho
 
 **(d) Transition** Until such time as the Commission provides for the testing, certification, decertification, and recertification of voting system hardware and software by accredited laboratories under this section, the accreditation of laboratories and the procedure for the testing, certification, decertification, and recertification of voting system hardware and software used as of October 29, 2002, shall remain in effect.
 
+**(e) Required penetration testing**
+
+(1) **In general** — Not later than 180 days after December 18, 2025, the Commission shall provide for the conduct of penetration testing as part of the testing, certification, decertification, and recertification of voting system hardware and software by the Commission based on accredited laboratories under this section.
+
+(2) **Accreditation** — The Commission shall develop a program for the acceptance of the results of penetration testing on election systems. The penetration testing required by this subsection shall be required for Commission certification. The Commission shall vote on the selection of any entity identified. The requirements for such selection shall be based on consideration of an entity’s competence to conduct penetration testing under this subsection. The Commission may consult with the National Institute of Standards and Technology or any other appropriate Federal agency on lab selection criteria and other aspects of this program.
+
 ### Statutory Notes
 
 #### Codification
 Section was formerly classified to [section 15371 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15371&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2025—Subsec. (e). Pub. L. 119–60 added subsec. (e).
 
 
 <a id="section-20981"></a>

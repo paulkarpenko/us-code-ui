@@ -64,6 +64,24 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 (2) **Exception.—** — Paragraph (1) shall not apply to a prime contract with a contractor that maintains a purchasing system approved by the contracting officer for the contract.
 
+**(d) Limitation on Certain Options.—**
+
+(1) **In general.—** — Except as provided by paragraph (2), a covered contract shall limit the number of low-rate production lots for any production quantities procured using fixed-priced options under such covered contract to not more than one.
+
+(2) **Waiver.—**
+
+  (A) *In general.—* — The service acquisition executive of the military department concerned or, in the case of program that is a joint program, the Secretary of Defense may waive the limit required under paragraph (1) with respect to the number of low-rate production lots for a production quantity under a covered contract if such service acquisition executive or the Secretary of Defense, as applicable, determines that such waiver is in the best interest of the Department of Defense.
+
+  (B) *Delegation limit.—* — Neither a service acquisition executive nor the Secretary of Defense may delegate the authority under subparagraph (A) to waive the limit required under paragraph (1) below the level of a service acquisition executive.
+
+(3) **Definitions.—** — In this subsection:
+
+  (A) The term “covered contract” means a cost reimbursement contract for the development of a major system.
+
+  (B) The term “low-rate initial production” has the same meaning as in [section 4231 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4231).
+
+  (C) The term “major system” has the meaning given such term in [section 3041 of this title](./chapter-201-definitions.md#section-3041).
+
 ### Statutory Notes
 
 #### Codification
@@ -74,6 +92,8 @@ The text of subsec. (d) of [section 2306 of this title](https://uscode.house.gov
 The text of subsec. (e) of [section 2306 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306&num=0&edition=prelim), which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 116–283, § 1817(e), (f)(3), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 98–369, div. B, title VII, § 2724, July 18, 1984, 98 Stat. 1193; Pub. L. 102–25, title VII, § 701(d)(3), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title IV, 4401(c), Oct. 13, 1994, 108 Stat. 3348; Pub. L. 108–136, div. A, title VIII, § 842, Nov. 24, 2003, 117 Stat. 1552.
 
 #### Amendments
+2024—Subsec. (d). Pub. L. 118–159 added subsec. (d).
+
 2021—Subsec. (a). Pub. L. 116–283, § 1817(c), (f)(1), transferred first sentence of subsec. (a) of [section 3321 of this title](./chapter-242-specific-types-of-contracts.md#section-3321) to this section, designated it as subsec. (a), and inserted heading.
 
 Subsec. (b). Pub. L. 116–283, § 1817(e), (f)(2), redesignated subsec. (d) of [section 2306 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306&num=0&edition=prelim) as subsec. (b) of this section and inserted heading.
@@ -82,6 +102,9 @@ Subsec. (c). Pub. L. 116–283, § 1817(e), (f)(3), redesignated subsec. (e) of 
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Conforming Regulations
+Pub. L. 118–159, div. A, title VIII, § 802(b), Dec. 23, 2024, 138 Stat. 1965, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to implement subsection (d) of [section 3322 of title 10](./chapter-242-specific-types-of-contracts.md#section-3322), United States Code, as added by subsection (a) of this section.”
 
 
 <a id="section-3323"></a>

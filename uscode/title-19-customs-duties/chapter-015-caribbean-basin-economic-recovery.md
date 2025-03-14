@@ -631,7 +631,7 @@ Functions of President under subsec. (e)(2)(A) of this section, related to publi
 
   (A) Any action taken under section 203 of the Trade Act of 1974 [[19 U.S.C. 2253](./chapter-012-trade-act-of-1974.md#section-2253)] that is in effect when duty-free treatment pursuant to section 2701 1 of this title is proclaimed shall remain in effect until modified or terminated.
 
-  (B) If any article is subject to any such action at the time duty-free treatment is proclaimed pursuant to section 2701 1 of this title, the President may reduce or terminate the application of such action to the importation of such article from beneficiary countries prior to the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of section 203 of the Trade Act of 1974 [[19 U.S.C. 2253](./chapter-012-trade-act-of-1974.md#section-2253)].
+  (B) If any article is subject to any such action at the time duty-free treatment is proclaimed pursuant to [section 2701 of this title](./chapter-015-caribbean-basin-economic-recovery.md#section-2701), the President may reduce or terminate the application of such action to the importation of such article from beneficiary countries prior to the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of section 203 of the Trade Act of 1974 [[19 U.S.C. 2253](./chapter-012-trade-act-of-1974.md#section-2253)].
 
 **(f) Petitions to International Trade Commission**
 

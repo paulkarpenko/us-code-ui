@@ -923,7 +923,7 @@ Section was enacted as part of the Water Resources Development Act of 1974, and 
 
   (A) *In general* — At the request of a governmental agency or non-Federal interest, the Secretary may provide technical assistance to such agency or non-Federal interest in managing water resources.
 
-  (B) *Types of assistance* — Technical assistance under this paragraph may include provision and integration of hydrologic, economic, and environmental data and analyses.
+  (B) *Types of assistance* — Technical assistance under this paragraph may include provision and integration of hydrologic, economic, and environmental data and analyses and title research for abandoned structures.
 
 (3) **Institution of higher education** — Notwithstanding [section 4141 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4141&num=0&edition=prelim), in carrying out this subsection, the Secretary may work with an institution of higher education, as determined appropriate by the Secretary.
 
@@ -964,6 +964,8 @@ Section 160 of the Water Resources Development Act of 2020, referred to in subse
 Section was enacted as part of the Water Resources Development Act of 1974, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 #### Amendments
+2025—Subsec. (a)(2)(B). Pub. L. 118–272 inserted “and title research for abandoned structures” before period at end.
+
 2022—Subsec. (a)(1). Pub. L. 117–263, § 8119(a)(1)(A), inserted “local government,” after “State or group of States,” and after “such State, interest,”.
 
 Subsec. (a)(3). Pub. L. 117–263, § 8119(a)(1)(B), substituted “[section 4141 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4141&num=0&edition=prelim)” for “[section 236 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section236&num=0&edition=prelim)”.
@@ -1283,7 +1285,7 @@ Section was enacted as part of the Flood Control Act of 1968, and not as part of
 
 **(b) Definition of non-Federal interest** The term “non-Federal interest” means—
 
-(1) a legally constituted public body (including an Indian tribe and a tribal organization (as those terms are defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim))); or
+(1) a legally constituted public body (including an Indian tribe and a tribal organization (as those terms are defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim))) and an inter-tribal consortium (as defined in [section 3202 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3202&num=0&edition=prelim)); or
 
 (2) a nonprofit entity with the consent of the affected local government,
 that has full authority and capability to perform the terms of its agreement and to pay damages, if necessary, in the event of failure to perform.
@@ -1319,12 +1321,14 @@ that has full authority and capability to perform the terms of its agreement and
 ### Statutory Notes
 
 #### References in Text
-The Water Supply Act of 1958, as amended, referred to in subsec. (h), is Pub. L. 85–500, title III, § 301, July 3, 1958, 72 Stat. 319, as amended, which is classified to [section 390b of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section390b&num=0&edition=prelim), Public Lands.
+The Water Supply Act of 1958, as amended, referred to in subsec. (h), is Pub. L. 85–500, title III, § 301, July 3, 1958, 72 Stat. 319, which is classified to [section 390b of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section390b&num=0&edition=prelim), Public Lands.
 
 #### Codification
 Section was enacted as part of the Flood Control Act of 1970, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 #### Amendments
+2025—Subsec. (b)(1). Pub. L. 118–272 inserted “and an inter-tribal consortium (as defined in [section 3202 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3202&num=0&edition=prelim))” after “[section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)))”.
+
 2018—Subsec. (b)(1). Pub. L. 115–270 substituted “(including an Indian tribe and a tribal organization (as those terms are defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim))); or” for “(including a federally recognized Indian tribe and, as defined in [section 1602 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim), a Native village, Regional Corporation, and Village Corporation); or”.
 
 Subsec. (b)(1). Pub. L. 114–322 inserted “and, as defined in [section 1602 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim), a Native village, Regional Corporation, and Village Corporation” after “Indian tribe”.

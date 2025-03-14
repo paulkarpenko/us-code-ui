@@ -227,7 +227,7 @@ In this subchapter, the following definitions apply:
 Section 3 of the Child Abuse Prevention and Treatment Act, referred to in par. (1), is section 3 of Pub. L. 93–247, which is set out as a note under [section 5101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5101&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
-2018—Pub. L. 115–282 renumbered [section 551 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section551&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–282 renumbered [section 551 of this title](./chapter-005-functions-and-powers.md#section-551) as this section.
 
 
 <a id="section-2922"></a>
@@ -278,7 +278,7 @@ Subsec. (b)(2)(D). Pub. L. 117–263, § 11401(a), added subpar. (D).
 
 2021—Subsec. (b)(4). Pub. L. 116–283 added par. (4).
 
-2018—Pub. L. 115–282, § 117(b), renumbered [section 552 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section552&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–282, § 117(b), renumbered [section 552 of this title](./chapter-005-functions-and-powers.md#section-552) as this section.
 
 Subsec. (b)(2)(B). Pub. L. 115–282, § 123(b)(2), substituted “section 2925(b)” for “section 555(b)”.
 

@@ -228,9 +228,30 @@ Pub. L. 112–81, div. A, title VI, § 632, Dec. 31, 2011, 125 Stat. 1465, provi
 
 (3) The total reimbursement for transportation for the member’s dependents may not exceed the cost of one Government-procured commercial round-trip travel.
 
+**(j) Travel for Inactive-duty Training and Muster Duty.—**
+
+(1) If a member of the uniformed services travels more than 50 miles from the member’s permanent residence (as established under paragraph (2)) for training described in paragraph (9) of subsection (b) or duty described in paragraph (10) of that subsection, the member shall be provided, in the form of actual expenses, in-kind, or a combination thereof—
+
+  (A) actual and necessary expenses of travel and transportation for, or in connection with, such travel; and
+
+  (B) meals, incidentals, and expenses related to such travel, to the same extent specified in regulations prescribed under [section 464 of this title](./chapter-008-travel-and-transportation-allowances.md#section-464) for a member on official travel.
+
+(2) For purposes of paragraph (1), the permanent residence of a member—
+
+  (A) shall be established not later than 30 days after the date on which the permanent duty assignment of the member begins; and
+
+  (B) may not be re-established until after the member receives subsequent orders for a permanent change of assignment.
+
+(3) In the case of a member whose permanent residence changes after the date described in subparagraph (A) of paragraph (2) and before the member receives orders described in subparagraph (B) of such paragraph, the Secretary concerned may provide the member expenses described in paragraph (1) or such other reimbursement as the Secretary determines appropriate if the member travels more than 50 miles from the new permanent residence of the member for training described in paragraph (9) of subsection (b) or duty described in paragraph (10) of such subsection.
+
 ### Statutory Notes
 
+#### Applicability of Amendment
+Amendment of section by Pub. L. 118–159 applicable to travel on or after Jan. 1, 2027. See 2024 Amendment note below.
+
 #### Amendments
+2024—Subsec. (j). Pub. L. 118–159 added subsec. (j).
+
 2022—Subsec. (b)(18), (21). Pub. L. 117–263, § 621(1), redesignated par. (18), relating to presence of family members at the funeral and memorial services of members, as (21).
 
 Subsec. (b)(22), (23). Pub. L. 117–263, § 621(2), added pars. (22) and (23).
@@ -251,6 +272,9 @@ Subsec. (i). Pub. L. 117–81, § 603(d)(1)(B), added subsec. (i).
 
 2019—Subsec. (c)(3), (4). Pub. L. 116–92 added par. (3) and redesignated former par. (3) as (4).
 
+#### Effective Date of 2024 Amendment
+Pub. L. 118–159, div. A, title VI, § 623(b), Dec. 23, 2024, 138 Stat. 1934, provided that: “The amendment made by subsection (a) [amending this section] shall apply to travel on or after January 1, 2027.”
+
 
 <a id="section-453"></a>
 ## § 453. Allowable travel and transportation: specific authorities
@@ -262,11 +286,11 @@ Subsec. (i). Pub. L. 117–81, § 603(d)(1)(B), added subsec. (i).
 
 (1) A member of a uniformed service may be allowed moving expenses and transportation allowances for self and dependents associated with the movement of personal property and household goods, including such expenses when associated with a self-move.
 
-(2) The authority in paragraph (1) includes the movement and temporary and non-temporary storage of personal property, household goods, and privately owned vehicles (but not to exceed one privately owned vehicle per member household) in connection with the temporary or permanent move between authorized locations.
+(2) The authority in paragraph (1) includes the movement and temporary and non-temporary storage of personal property, household goods, and privately owned vehicles in connection with the temporary or permanent move between authorized locations.
 
 (3) For movement of household goods, the administering Secretaries shall prescribe weight allowances in regulations under [section 464 of this title](./chapter-008-travel-and-transportation-allowances.md#section-464). The prescribed weight allowances may not exceed 18,000 pounds (including household goods in temporary storage, but excluding packing and crating), except that the administering Secretary may, on a case-by-case basis, authorize additional weight allowances as necessary.
 
-(4) The administering Secretary may prescribe the terms, rates, and conditions that authorize a member of the uniformed services to ship or store a privately owned vehicle.
+(4) The administering Secretary may prescribe the terms, rates, and conditions that authorize a member of the uniformed services to ship or store privately owned vehicles.
 
 (5) No carrier, port agent, warehouseman, freight forwarder, or other person involved in the transportation of property may have any lien on, or hold, impound, or otherwise interfere with, the movement of baggage and household goods being transported under this section.
 
@@ -314,7 +338,7 @@ Subsec. (i). Pub. L. 117–81, § 603(d)(1)(B), added subsec. (i).
 
 (5) In this subsection, the term “qualified business costs” means costs, including moving services for equipment, equipment removal, new equipment purchases, information technology expenses, and inspection fees, incurred by the spouse of a member if—
 
-  (A) the spouse owned a business during the member’s previous duty assignment and the costs result from a the member’s relocation described in paragraph (1); and
+  (A) the spouse owned a business during the member’s previous duty assignment and the costs result from a the 11 So in original. member’s relocation described in paragraph (1); and
 
   (B) the costs were incurred or paid to move such business to a new location in connection with such relocation.
 
@@ -357,7 +381,11 @@ Subsec. (i). Pub. L. 117–81, § 603(d)(1)(B), added subsec. (i).
 ### Statutory Notes
 
 #### Amendments
-2023—Subsec. (g). Pub. L. 118–31, § 635(1), substituted “Reimbursement of Qualifying Spouse Relicensing Costs and Business Costs” for Reimbursement of Qualifying Spouse Relicensing Costs or Business Costs Incident to a Member’s Permanent Change of Station or Assignment in heading.
+2024—Subsec. (c)(2). Pub. L. 118–159, § 624(1), struck out “(but not to exceed one privately owned vehicle per member household)” after “privately owned vehicles”.
+
+Subsec. (c)(4). Pub. L. 118–159, § 624(2), substituted “privately owned vehicles” for “a privately owned vehicle”.
+
+2023—Subsec. (g). Pub. L. 118–31, § 635(1), substituted “Reimbursement of Qualifying Spouse Relicensing Costs and Business Costs” for “Reimbursement of Qualifying Spouse Relicensing Costs or Business Costs Incident to a Member’s Permanent Change of Station or Assignment” in heading.
 
 Subsec. (g)(1). Pub. L. 118–31, § 635(2)(A), substituted “and qualified business costs” for “or qualified business costs” in introductory provisions.
 
@@ -375,7 +403,7 @@ Subsec. (g)(5)(A). Pub. L. 118–31, § 635(5)(A), substituted “the member’s
 
 Subsec. (g)(5)(B). Pub. L. 118–31, § 635(5)(B), substituted “relocation” for “reassignment”.
 
-2022—Subsec. (g). Pub. L. 117–263, § 622(a)(1), inserted “Relicensing Costs” after “Relicensing Costs” in heading.
+2022—Subsec. (g). Pub. L. 117–263, § 622(a)(1), inserted “or Business Costs” after “Relicensing Costs” in heading.
 
 Subsec. (g)(1). Pub. L. 117–263, § 622(a)(2), inserted “or qualified business costs” after “qualified relicensing costs” in introductory provisions.
 
@@ -545,6 +573,11 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 This subchapter and subchapter I shall be administered under terms, rates, conditions, and regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries for members of the uniformed services. Such regulations shall be uniform for the Department of Defense and shall apply as uniformly as practicable to the uniformed services under the jurisdiction of the other administering Secretaries.
 
+### Statutory Notes
+
+#### Travel and Transportation Allowances: Prohibition of Requirement of Zero-Emission Vehicle
+Pub. L. 118–159, div. A, title VI, § 626, Dec. 23, 2024, 138 Stat. 1935, provided that: “(a) In General.—The Joint Travel Regulations for the Uniformed Services may not require that travel or transportation be in a zero-emission vehicle in order to be eligible a travel or transportation allowance. “(b) Rule of Construction.—This section shall not be construed to prohibit the payment of such an allowance in the case of a member of the uniformed services who uses a zero-emission vehicle for travel or transportation that—“(1) the member owns; or “(2) is provided to such member by a rental company.”
+
 
 <a id="section-471-to-474b"></a>
 ## § 471 to 474b. Repealed. Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767]
@@ -576,7 +609,7 @@ Dec. 21, 1982, Pub. L. 97–377, title I, § 101(c) [title VII, § 767], 96 Stat
 Dec. 29, 1981, Pub. L. 97–114, title VII, § 771, 95 Stat. 1590.
 
 #### Effective Date of Repeal
-Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767, provided that the repeal of this subchapter is effective December 31, 2021.
+Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767, provided that the repeal of this subchapter is effective Dec. 31, 2021.
 
 
 <a id="section-475"></a>

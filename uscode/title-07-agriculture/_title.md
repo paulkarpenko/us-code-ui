@@ -2,7 +2,7 @@
 title: 7
 heading: AGRICULTURE
 positive_law: false
-sections: 2924
+sections: 2926
 chapters: 130
 ---
 # Title 7. AGRICULTURE

@@ -389,9 +389,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(d) Budget.—** The Chief of Navy Reserve is the official within the executive part of the Department of the Navy who, subject to the authority, direction, and control of the Secretary of the Navy and the Chief of Naval Operations, is responsible for preparation, justification, and execution of the personnel, operation and maintenance, and construction budgets for the Navy Reserve. As such, the Chief of Navy Reserve is the director and functional manager of appropriations made for the Navy Reserve in those areas.
 
+**(e) Annual Report.—** The Chief of Navy Reserve shall submit to the Secretary of Defense, through the Secretary of the Navy, an annual report on the state of the Navy Reserve and the ability of the Navy Reserve to meet its missions. The report shall be prepared in conjunction with the Chief of Naval Operations and may be submitted in classified and unclassified versions.
+
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (e). Pub. L. 118–159 added subsec. (e).
+
 2018—Pub. L. 115–232, § 807(a)(2), renumbered [section 5143 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5143&num=0&edition=prelim) as this section.
 
 Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 8001(1)” for “section 5001(1)”.
@@ -469,7 +473,7 @@ Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 8084 was renumbered [section 9084 of this title](./chapter-908-the-space-force.md#section-9084).
+A prior section 8084 was successively renumbered section 9084, 9068, and 9083 of this title and subsequently repealed.
 
 #### Amendments
 2019—Subsec. (b)(1). Pub. L. 116–92 substituted “general officers of the Marine Corps Reserve” for “general officers of the Marine Corps (as defined in section 8001(2))”.
@@ -538,6 +542,8 @@ Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special
 
 (2) the ability of judge advocates of the Navy assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
 
+**(f)** If the Judge Advocate General is removed from office before the end of the term of the Judge Advocate General as specified in subsection (b), the Secretary of Defense shall, not later than five days after the removal takes effect, submit to the Committees on Armed Services of the Senate and the House of Representatives notice that the Judge Advocate General is being removed and a statement of the reason for the removal.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -555,6 +561,8 @@ In subsection (c), clauses (1) and (4) are substituted for the words “and perf
 Subsection (c)(2) is substituted for the reference, in [5 U.S.C. 428](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section428&num=0&edition=prelim), to courts-martial and courts of inquiry, since the Uniform Code of Military Justice has superseded prior law as to the duties of the Judge Advocates General relating to these courts.
 
 #### Amendments
+2025—Subsec. (f). Pub. L. 119–60 added subsec. (f).
+
 2018—Pub. L. 115–232 renumbered [section 5148 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5148&num=0&edition=prelim) as this section.
 
 2016—Subsec. (b). Pub. L. 114–328 struck out last sentence which read as follows: “The Judge Advocate General, while so serving, has the grade of vice admiral or lieutenant general, as appropriate.”
@@ -712,19 +720,31 @@ Functions of President under this section delegated to Secretary of Defense, see
 
 (3) the Judge Advocate General’s Corps;
 
-(4) the Chaplain Corps; and
+(4) the Chaplain Corps;
 
-(5) such other staff corps as may be established by the Secretary of the Navy under subsection (b).
+(5) the Supply Corps;
+
+(6) the Civil Engineer Corps;
+
+(7) the Nurse Corps;
+
+(8) the Medical Service Corps; and
+
+(9) such other staff corps as may be established by the Secretary of the Navy under subsection (b).
 
 **(b)**
 
-(1) The Secretary of the Navy may establish staff corps of the Navy in addition to the Medical Corps, the Dental Corps, the Judge Advocate General’s Corps, and the Chaplain Corps. The Secretary may designate commissioned officers in, and may assign members to, any such staff corps.
+(1) The Secretary of the Navy may establish staff corps of the Navy in addition to the staff corps specified in subsection (a). The Secretary may designate commissioned officers in, and may assign members to, any such staff corps.
 
 (2) The Secretary of the Navy may provide for the appointment of the chief of any staff corps established under this subsection.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a)(5) to (9). Pub. L. 118–159, § 923(a), added pars. (5) to (8) and redesignated former par. (5) as (9).
+
+Subsec. (b)(1). Pub. L. 118–159, § 923(b), substituted “staff corps specified in subsection (a)” for “Medical Corps, the Dental Corps, the Judge Advocate General’s Corps, and the Chaplain Corps”.
+
 2018—Pub. L. 115–232 renumbered [section 5150 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5150&num=0&edition=prelim) as this section.
 
 2016—Subsec. (b)(2). Pub. L. 114–328, § 502(hh)(1), substituted “The Secretary” for “Subject to subsection (c), the Secretary”.

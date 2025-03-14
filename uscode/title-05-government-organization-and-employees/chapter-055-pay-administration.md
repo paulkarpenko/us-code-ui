@@ -2,7 +2,7 @@
 title: 5
 chapter: '55'
 heading: PAY ADMINISTRATION
-section_count: 73
+section_count: 74
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5&num=0&edition=prelim
 ---
@@ -2190,7 +2190,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 
 <a id="section-5544"></a>
-## § 5544. Wage-board overtime and Sunday rates; computation
+## § 5544. Wage-board overtime, Sunday rates, and other premium pay
 **(a)** An employee whose pay is fixed and adjusted from time to time in accordance with prevailing rates under section 5343 or 5349 of this title, or by a wage board or similar administrative authority serving the same purpose, is entitled to overtime pay for overtime work in excess of 8 hours a day or 40 hours a week. However, an employee subject to this subsection who regularly is required to remain at or within the confines of his post of duty in excess of 8 hours a day in a standby or on-call status is entitled to overtime pay only for hours of duty, exclusive of eating and sleeping time, in excess of 40 a week. The overtime hourly rate of pay is computed as follows:
 
 (1) If the basic rate of pay of the employee is fixed on a basis other than an annual or monthly basis, multiply the basic hourly rate of pay by not less than one and one-half.
@@ -2203,6 +2203,16 @@ An employee subject to this subsection whose regular work schedule includes an 8
 **(b)** An employee under the Office of the Architect of the Capitol who is paid on a daily or hourly basis and who is not subject to chapter 51 and subchapter III of chapter 53 of this title is entitled to overtime pay for overtime work in accordance with subsection (a) of this section. The overtime hourly rate of pay is computed in accordance with subsection (a)(1) of this section.
 
 **(c)** The provisions of this section, including the last two sentences of subsection (a) and the provisions of section 5543(b), shall apply to a prevailing rate employee described in section 5342(a)(2)(B).
+
+**(d)** A prevailing rate employee described in section 5342(a)(2)(A) shall receive incident response premium pay under the same terms and conditions that apply to a covered employee under section 5545c if that employee—
+
+(1) is employed by the Forest Service or the Department of the Interior; and
+
+(2)
+
+  (A) is a wildland firefighter, as defined in section 5332a(a); or
+
+  (B) is certified by the applicable agency to perform wildland fire incident-related duties during the period the employee is deployed to respond to a qualifying incident (as defined in section 5545c(a)).
 
 ### Statutory Notes
 
@@ -2231,7 +2241,14 @@ The words “a part of which is on Sunday” are coextensive with and substitute
 #### References in Text
 Section 7 of the Fair Labor Standards Act of 1938, referred to in subsec. (a), is classified to [section 207 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section207&num=0&edition=prelim), Labor.
 
+#### Codification
+Amendment by Pub. L. 119–4 is based on section 457(b)(1) of of H.R. 8998, from the 118th Congress (Department of the Interior, Environment, and Related Congress, Agencies Appropriations Act, 2025), as passed by the House of Representatives on July 24, 2024, which was enacted into law by section 1807 of div. A of Pub. L. 119–4.
+
 #### Amendments
+2025—Pub. L. 119–4 amended section catchline generally, substituting “Wage-board overtime, Sunday rates, and other premium pay” for “Wage-board overtime and Sunday rates; computation”.
+
+Subsec. (d). Pub. L. 119–4 added subsec. (d).
+
 2008—Subsec. (a). Pub. L. 110–181, in third sentence of concluding provisions, substituted “administratively (including travel by the employee to such event and the return of the employee from such event to the employee’s official duty station).” for “administratively.”
 
 1998—Subsec. (a). Pub. L. 105–277, which directed the amendment of subsec. (a) by inserting after the fourth sentence “For employees serving outside the United States in areas where Sunday is a routine workday and another day of the week is officially recognized as the day of rest and worship, the Secretary of State may designate the officially recognized day of rest and worship as the day with respect to which the preceding sentence shall apply instead of Sunday.”, was executed by making the insertion after the first sentence of the concluding provisions, to reflect the probable intent of Congress.
@@ -2249,6 +2266,9 @@ Subsec. (c). Pub. L. 102–378, § 2(42)(C), added subsec. (c).
 1972—Subsec. (a). Pub. L. 92–392 substituted “pay” for “basic pay” and provided for determination of pay under section 5343 or 5349 of this title.
 
 1967—Subsec. (a). Pub. L. 90–206 provided that time spent in a travel status away from the official duty station could not qualify as hours of work unless the travel involved the performance of work while traveling, was incident to travel involving the performance of work while traveling, carried out under arduous conditions, or resulting from an event which could not be scheduled or controlled administratively.
+
+#### Effective Date of 2025 Amendment
+Section 457(d) of H.R. 8998, from the 118th Congress, as passed by the House of Representatives on July 24, 2024, which was enacted into law by Pub. L. 119–4, div. A, title VIII, § 1807, Mar. 15, 2025, 139 Stat. 30, provided that: “The amendments made by this section [enacting [section 5545c of this title](./chapter-055-pay-administration.md#section-5545c) and amending this section and [section 5547 of this title](./chapter-055-pay-administration.md#section-5547)] shall take effect on the first day of the first applicable pay period beginning on or after either October 1, 2024 or the date of enactment of this Act [Mar. 15, 2025], whichever is later.”
 
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–378 effective as of first day of first applicable pay period beginning on or after Oct. 2, 1992, see section 9(b)(9) of Pub. L. 102–378, set out as a note under [section 6303 of this title](./chapter-063-leave.md#section-6303).
@@ -2603,6 +2623,113 @@ Pub. L. 106–31, title III, § 3032, May 21, 1999, 113 Stat. 104, provided that
 Pub. L. 105–277, div. A, § 101(h) [title VI, § 628(g)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, provided that: “Under regulations prescribed by the Office of Personnel Management, the regular pay (over the established work scheduling cycle) of a firefighter subject to [section 5545b of title 5](./chapter-055-pay-administration.md#section-5545b), United States Code, as added by this section, shall not be reduced as a result of the implementation of this section.”
 
 
+<a id="section-5545c"></a>
+## § 5545c. Incident response premium pay for employees engaged in wildland firefighting
+**(a) Definitions.—** In this section—
+
+(1) the term “appropriate committees of Congress” means—
+
+  (A) the Committee on Appropriations of the House of Representatives;
+
+  (B) the Committee on Oversight and Accountability of the House of Representatives;
+
+  (C) the Committee on Agriculture of the House of Representatives;
+
+  (D) the Committee on Natural Resources of the House of Representatives;
+
+  (E) the Committee on Appropriations of the Senate;
+
+  (F) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+  (G) the Committee on Energy and Natural Resources of the Senate; and
+
+  (H) the Committee on Agriculture, Nutrition, and Forestry of the Senate;
+
+(2) the term “covered employee” means an employee of the Forest Service or the Department of the Interior who is—
+
+  (A) a wildland firefighter, as defined in section 5332a(a); or
+
+  (B) certified by the applicable agency to perform wildland fire incident-related duties during the period that employee is deployed to respond to a qualifying incident;
+
+(3) the term “incident response premium pay” means pay to which a covered employee is entitled under subsection (c);
+
+(4) the term “prescribed fire incident” means a wildland fire originating from a planned ignition in accordance with applicable laws, policies, and regulations to meet specific objectives;
+
+(5) the term “qualifying incident”—
+
+  (A) means—
+
+    (i) a wildfire incident, a prescribed fire incident, or a severity incident; or
+
+    (ii) an incident that the Secretary of Agriculture or the Secretary of the Interior determines is similar in nature to an incident described in clause (i); and
+
+  (B) does not include an initial response incident that is contained within 36 hours; and
+
+(6) the term “severity incident” means an incident in which a covered employee is pre-positioned in an area in which conditions indicate there is a high risk of wildfires.
+
+**(b) Eligibility.—** A covered employee is eligible for incident response premium pay under this section if—
+
+(1) the covered employee is deployed to respond to a qualifying incident; and
+
+(2) the deployment described in paragraph (1) is—
+
+  (A) outside of the official duty station of the covered employee; or
+
+  (B) within the official duty station of the covered employee and the covered employee is assigned to an incident-adjacent fire camp or other designated field location.
+
+**(c) Entitlement to Incident Response Premium Pay.—**
+
+(1) **In general.—** — A covered employee who satisfies the conditions under subsection (b) is entitled to premium pay for the period in which the covered employee is deployed to respond to the applicable qualifying incident.
+
+(2) **Computation.—**
+
+  (A) *Formula.—* — Subject to subparagraphs (B) and (C), premium pay under paragraph (1) shall be paid to a covered employee at a daily rate of 450 percent of the hourly rate of basic pay of the covered employee for each day that the covered employee satisfies the requirements under subsection (b), rounded to the nearest whole cent.
+
+  (B) *Limitation.—* — Premium pay under this subsection may not be paid—
+
+    (i) with respect to a covered employee for whom the annual rate of basic pay is greater than that for step 10 of GS–10, at a daily rate that exceeds the daily rate established under subparagraph (A) for step 10 of GS–10; or
+
+    (ii) to a covered employee in a total amount that exceeds $9,000 in any calendar year.
+
+  (C) *Adjustments.—*
+
+    (i) *Assessment.—* — The Secretary of Agriculture and the Secretary of the Interior shall assess the difference between the average total amount of compensation that was paid to covered employees, by grade, in fiscal years 2023 and 2024.
+
+    (ii) *Report.—* — Not later than 180 days after the date that is 1 year after the effective date of this section, the Secretary of Agriculture and the Secretary of the Interior shall jointly publish a report on the results of the assessment conducted under clause (i).
+
+    (iii) *Administrative actions.—* — After publishing the report required under clause (ii), the Secretary of Agriculture and the Secretary of the Interior, in consultation with the Director of the Office of Personnel Management, may, in the sole and exclusive discretion of the Secretaries acting jointly, administratively adjust the amount of premium pay paid under this subsection (or take other administrative action) to ensure that the average annual amount of total compensation paid to covered employees, by grade, is more consistent with such amount that was paid to those employees in fiscal year 2023.
+
+    (iv) *Congressional notification.—* — Not later than 3 days after an adjustment made, or other administrative action taken, under clause (iii) becomes final, the Secretary of Agriculture and the Secretary of the Interior shall jointly submit to the appropriate committees of Congress a notification regarding that adjustment or other administrative action, as applicable.
+
+**(d) Treatment of Incident Response Premium Pay.—** Incident response premium pay under this section—
+
+(1) is not considered part of the basic pay of a covered employee for any purpose;
+
+(2) may not be considered in determining a covered employee’s lump-sum payment for accumulated and accrued annual leave under section 5551 or section 5552;
+
+(3) may not be used in determining pay under section 8114 (relating to compensation for work injuries);
+
+(4) may not be considered in determining pay for hours of paid leave or other paid time off during which the premium pay is not payable; and
+
+(5) shall be disregarded in determining the minimum wage and overtime pay to which a covered employee is entitled under the Fair Labor Standards Act of 1938 ([29 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) et seq.).
+
+### Statutory Notes
+
+#### References in Text
+For the effective date of this section, referred to in subsec. (c)(2)(C)(ii), see Effective Date note below.
+
+The Fair Labor Standards Act of 1938, referred to in subsec. (d)(5), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section is based on section 457(a) of H.R. 8998, from the 118th Congress (Department of the Interior, Environment, and Related Congress, Agencies Appropriations Act, 2025), as passed by the House of Representatives on July 24, 2024, which was enacted into law by section 1807 of div. A of Pub. L. 119–4.
+
+#### Change of Name
+Committee on Oversight and Accountability of the House of Representatives changed to the Committee on Oversight and Government Reform of the House of Representatives by House Resolution No. 5, One Hundred Nineteenth Congress, Jan. 3, 2025.
+
+#### Effective Date
+Section effective the first day of the first applicable pay period beginning on or after Mar. 15, 2025, see section 457(d) of H.R. 8998 from the 118th Congress, as passed by the House of Representatives on July 24, 2024, set out as an Effective Date of 2025 Amendment note under [section 5544 of this title](./chapter-055-pay-administration.md#section-5544).
+
+
 <a id="section-5546"></a>
 ## § 5546. Pay for Sunday and holiday work
 **(a)** An employee who performs work during a regularly scheduled 8-hour period of service which is not overtime work as defined by [section 5542(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5542/a&num=0&edition=prelim) a part of which is performed on Sunday is entitled to pay for the entire period of service at the rate of his basic pay, plus premium pay at a rate equal to 25 percent of his rate of basic pay. For employees serving outside the United States in areas where Sunday is a routine workday and another day of the week is officially recognized as the day of rest and worship, the Secretary of State may designate the officially recognized day of rest and worship as the day with respect to which the preceding sentence shall apply instead of Sunday.
@@ -2742,7 +2869,7 @@ Pub. L. 97–276, § 151(h)(1), Oct. 2, 1982, 96 Stat. 1202, provided that: “(
 
 <a id="section-5547"></a>
 ## § 5547. Limitation on premium pay
-**(a)** An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, 5546(a) and (b), and 5550 only to the extent that the payment does not cause the aggregate of basic pay and such premium pay for any pay period for such employee to exceed the greater of—
+**(a)** An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, 5545c, 5546(a) and (b), and 5550 only to the extent that the payment does not cause the aggregate of basic pay and such premium pay for any pay period for such employee to exceed the greater of—
 
 (1) the maximum rate of basic pay payable for GS–15 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law); or
 
@@ -2792,7 +2919,12 @@ GS–15, referred to in subsecs. (a)(1) and (b)(2)(A), (3)(A), is contained in t
 
 Level V of the Executive Schedule, referred to in subsecs. (a)(2) and (b)(2)(B), (3)(B), is set out in [section 5316 of this title](./chapter-053-pay-rates-and-systems.md#section-5316).
 
+#### Codification
+Amendment by Pub. L. 119–4 is based on section 457(b)(2) of of H.R. 8998, from the 118th Congress (Department of the Interior, Environment, and Related Congress, Agencies Appropriations Act, 2025), as passed by the House of Representatives on July 24, 2024, which was enacted into law by section 1807 of div. A of Pub. L. 119–4.
+
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–4 inserted “5545c,” after “5545a,” in introductory provisions.
+
 2014—Subsec. (a). Pub. L. 113–277, § 2(g)(1)(A), struck out “and” before “5546(a) and (b)” and inserted “, and 5550” after “5546(a) and (b)”.
 
 Subsec. (e). Pub. L. 113–277, § 2(g)(1)(B), added subsec. (e).
@@ -2829,6 +2961,9 @@ Subsec. (c). Pub. L. 101–509, § 529 [title IV, § 410(b)], added subsec. (c).
 
 1982—Pub. L. 97–276 inserted provision directing that first sentence of this section not apply to any employee of Federal Aviation Administration who is paid premium pay under [section 5546a of this title](./chapter-055-pay-administration.md#section-5546a).
 
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–4 effective the first day of the first applicable pay period beginning on or after Mar. 15, 2025, see section 457(d) of H.R. 8998 from the 118th Congress, as passed by the House of Representatives on July 24, 2024, set out as a note under [section 5544 of this title](./chapter-055-pay-administration.md#section-5544).
+
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–277 effective on the first day of the first pay period beginning on or after Jan. 1, 2016, subject to certain exceptions, see section 2(i) of Pub. L. 113–277, set out as a note under [section 5542 of this title](./chapter-055-pay-administration.md#section-5542).
 
@@ -2854,13 +2989,19 @@ Amendment by Pub. L. 97–276 effective at 5 o’clock ante meridian eastern day
 Pub. L. 100–523, § 1, Oct. 24, 1988, 102 Stat. 2605, provided: “That this Act [amending this section] may be cited as the ‘Forest Wildfire Emergency Pay Equity Act of 1988’.”
 
 #### Premium Pay Exemption for APHIS Employees Engaged in Services in Response to an Animal Disease Outbreak
-Pub. L. 118–42, div. B, title VII, § 767, Mar. 9, 2024, 138 Stat. 115, provided that: “If services performed by APHIS employees are determined by the Administrator of the Animal and Plant Health Inspection Service to be in response to an animal disease outbreak, any premium pay that is funded, either directly or through reimbursement, shall be exempted from the aggregate of basic pay and premium pay calculated under [section 5547 of title 5](./chapter-055-pay-administration.md#section-5547), United States Code, and any other provision of law limiting the aggregate amount of premium pay payable on a biweekly or calendar year basis: Provided, That this section shall take effect as if enacted on January 1, 2023.”
+Pub. L. 119–37, div. B, title VII, § 755, Nov. 12, 2025, 139 Stat. 553, provided that: “If services performed by APHIS employees are determined by the Administrator of the Animal and Plant Health Inspection Service to be in response to an animal disease or plant health emergency outbreak, any premium pay that is funded, either directly or through reimbursement, shall be exempted from the aggregate of basic pay and premium pay calculated under section 5547(b)(1) and (2) of title 5, United States Code, and any other provision of law limiting the aggregate amount of premium pay payable on a biweekly or calendar year basis.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 118–42, div. B, title VII, § 767, Mar. 9, 2024, 138 Stat. 115.
 
 #### Overtime Pay Exception for Protective Services
-Pub. L. 118–31, div. F, title LXII, § 6232, Dec. 22, 2023, 137 Stat. 983, provided that: “(a) Covered Employee Defined.—In this section, the term ‘covered employee’ means any individual employed by, and conducting protective services on behalf of, the Diplomatic Security Service for an individual. “(b) Exception to the Limitation on Premium Pay for Protective Services.—Notwithstanding the restrictions contained in [section 5547 of title 5](./chapter-055-pay-administration.md#section-5547), United States Code, any covered employee may receive premium pay for overtime officially ordered or approved and performed while conducting protective security functions in excess of the annual equivalent of the limitation on the rate of pay contained in section 5547(a) of such title, except that such premium pay shall not be payable to an employee to the extent that such aggregate amount would exceed the rate of basic pay payable for a position at level II of the Executive Schedule under section 5313 of such title. “(c) Treatment of Additional Pay.—If the application of subsection (b) results in the payment of additional premium pay to a covered employee of a type that is normally creditable as basic pay for retirement or any other purpose, that additional pay shall not—“(1) be considered to be basic pay of the covered employee for any purpose; or “(2) be used in computing a lump-sum payment to the covered employee for accumulated and accrued annual leave under section 5551 or [section 5552 of title 5](./chapter-055-pay-administration.md#section-5552), United States Code. “(d) Aggregate Limit.—With respect to the application of [section 5307 of title 5](./chapter-053-pay-rates-and-systems.md#section-5307), United States Code, the payment of any additional premium pay to a covered employee as a result of subsection (b) shall not be counted as part of the aggregate compensation of the covered employee. “(e) Report.—“(1) In general.—Not later than 180 days after the date of the enactment of this division [Dec. 22, 2023], the Secretary [of State] shall submit to the appropriate committees of Congress a report describing the steps the Department [of State] is taking to address the increased protective service demands placed upon individuals by the Diplomatic Security Service. “(2) Elements.—The report required under paragraph (1) shall include the following elements:“(A) An analysis of the current operational demands and staffing levels. “(B) Recommended strategies for reducing overtime requirements, including—“(i) hiring additional personnel; “(ii) solutions such that sufficient resources are available throughout each year without the need for waivers of premium pay limitations; “(iii) redistribution of workload; and “(iv) other improvements in operational efficiency. “(3) Appropriate committees of congress defined.—In this subsection, the term ‘appropriate committees of Congress’ means—“(A) the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives]; “(B) the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate; and “(C) the Committee on Oversight and Accountability and the Committee on Appropriations of the House of Representatives. “(f) Effective Date.—This section shall take effect as if enacted on Jan[uary] 1, 2023. “(g) Sunset.—This section shall terminate on December 31, 2025.”
+Pub. L. 118–31, div. F, title LXII, § 6232, Dec. 22, 2023, 137 Stat. 983, as amended by Pub. L. 119–60, div. E, title V, § 5508, Dec. 18, 2025, 139 Stat. 1602, provided that: “(a) Covered Employee Defined.—In this section, the term ‘covered employee’ means any individual employed by, and conducting protective services on behalf of, the Diplomatic Security Service for an individual. “(b) Exception to the Limitation on Premium Pay for Protective Services.—Notwithstanding the restrictions contained in [section 5547 of title 5](./chapter-055-pay-administration.md#section-5547), United States Code, any covered employee may receive premium pay for overtime officially ordered or approved and performed while conducting protective security functions in excess of the annual equivalent of the limitation on the rate of pay contained in section 5547(a) of such title, except that such premium pay shall not be payable to an employee to the extent that such aggregate amount would exceed the rate of basic pay payable for a position at level II of the Executive Schedule under section 5313 of such title. “(c) Treatment of Additional Pay.—If the application of subsection (b) results in the payment of additional premium pay to a covered employee of a type that is normally creditable as basic pay for retirement or any other purpose, that additional pay shall not—“(1) be considered to be basic pay of the covered employee for any purpose; or “(2) be used in computing a lump-sum payment to the covered employee for accumulated and accrued annual leave under section 5551 or [section 5552 of title 5](./chapter-055-pay-administration.md#section-5552), United States Code. “(d) Aggregate Limit.—With respect to the application of [section 5307 of title 5](./chapter-053-pay-rates-and-systems.md#section-5307), United States Code, the payment of any additional premium pay to a covered employee as a result of subsection (b) shall not be counted as part of the aggregate compensation of the covered employee. “(e) Report.—“(1) In general.—Not later than 180 days after the date of the enactment of this division [Dec. 22, 2023], the Secretary [of State] shall submit to the appropriate committees of Congress a report describing the steps the Department [of State] is taking to address the increased protective service demands placed upon individuals by the Diplomatic Security Service. “(2) Elements.—The report required under paragraph (1) shall include the following elements:“(A) An analysis of the current operational demands and staffing levels. “(B) Recommended strategies for reducing overtime requirements, including—“(i) hiring additional personnel; “(ii) solutions such that sufficient resources are available throughout each year without the need for waivers of premium pay limitations; “(iii) redistribution of workload; and “(iv) other improvements in operational efficiency. “(3) Appropriate committees of congress defined.—In this subsection, the term ‘appropriate committees of Congress’ means—“(A) the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives]; “(B) the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate; and “(C) the Committee on Oversight and Accountability and the Committee on Appropriations of the House of Representatives. “(f) Effective Date.—This section shall take effect as if enacted on Jan[uary] 1, 2023. “(g) Sunset.—This section shall terminate on December 31, 2027.”
 
 #### Premium Pay Waiver for Certain Employees Engaged in Emergency Wildland Fire Suppression Activities
 Pub. L. 117–43, div. B, title VII, § 1701, Sept. 30, 2021, 135 Stat. 367, as amended by Pub. L. 117–103, div. HH, title VI, § 601, Mar. 15, 2022, 136 Stat. 1116; Pub. L. 117–328, div. G, title IV, § 440, Dec. 29, 2022, 136 Stat. 4832; Pub. L. 118–42, div. E, title IV, § 438, Mar. 9, 2024, 138 Stat. 295, provided that: “(a)(1) If services performed by the designated employees under paragraph (2) of this subsection at the Department of the Interior or the Department of Agriculture during 2021 or 2022 or 2023 or 2024 are determined by the Secretary of the Interior or the Secretary of Agriculture, as applicable, to be primarily related to emergency wildland fire suppression activities, any premium pay for such services shall be disregarded in calculating the aggregate of such employee’s basic pay and premium pay for purposes of a limitation under [section 5547(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5547/a&num=0&edition=prelim), United States Code, or under any other provision of law, whether such employee’s pay is paid on a biweekly or calendar year basis. Any Services [sic] during a given calendar year that generate payments payable in the subsequent calendar year shall be disregarded in applying this subsection[.] “(2) The premium pay waiver under paragraph (1) of this subsection shall apply to individuals serving as wildland firefighters and as fire management response officials, including regional fire directors, deputy regional fire directors, agency officials who directly oversee fire operations, and fire management officers, and individuals serving on incident management teams (IMTs), at the National Interagency Fire Center (NIFC), at Geographic Area Coordinating Centers (GACCs), and at Operations centers. “(3) The Departments of the Interior and Agriculture shall provide a report to Congress detailing the number of positions, including by occupation, grade, and the aggregate pay by type of pay for each individual who receives pay authorized under subsection (a)(1). “(b) Any overtime pay for services described in subsection (a) that is payable under an authority outside of title 5, United States Code, shall be disregarded in calculating any annual limit on the amount of overtime pay payable in 2021 or 2022 or 2023 or 2024. “(c) Any pay that is disregarded under either subsection (a) or (b) shall be disregarded in calculating such employee’s aggregate pay for purposes of applying the limitation in [section 5307 of title 5](./chapter-053-pay-rates-and-systems.md#section-5307), United States Code, during 2021 or 2022 or 2023 or 2024. “(d)(1) Pay that is disregarded under subsection (a) or (b) shall not cause the aggregate of the employee’s basic pay and premium pay for the applicable calendar year to exceed the rate of basic pay payable for a position at level II of the Executive Schedule under [section 5313 of title 5](./chapter-053-pay-rates-and-systems.md#section-5313), United States Code, as in effect at the end of such calendar year. “(2) For purposes of applying this subsection to an employee who would otherwise be subject to the premium pay limits established under [section 5547 of title 5](./chapter-055-pay-administration.md#section-5547), United States Code, ‘premium pay’ means the premium pay paid under the provisions of law cited in section 5547(a). “(3) For purposes of applying this subsection to an employee under a premium pay limit established under an authority other than [section 5547 of title 5](./chapter-055-pay-administration.md#section-5547), United States Code, the agency responsible for administering such limit shall determine what payments are considered premium pay. “(4) For the purpose of applying this subsection, ‘basic pay’ includes any applicable locality-based comparability payment under [section 5304 of title 5](./chapter-053-pay-rates-and-systems.md#section-5304), United States Code, any applicable special rate supplement under section 5305 of such title, or any equivalent payment under a similar provision of law. “(e) This section shall take effect as if enacted on January 1, 2021. “(f) If application of this section results in the payment of additional premium pay to a covered employee of a type that is normally creditable as basic pay for retirement or any other purpose, that additional pay shall not—“(1) be considered to be basic pay of the covered employee for any purpose; or “(2) be used in computing a lump-sum payment to the covered employee for accumulated and accrued annual leave under section 5551 or [section 5552 of title 5](./chapter-055-pay-administration.md#section-5552), United States Code, or other similar provision of law. “(g) Not later than 45 days after the date of enactment of this Act [Sept. 30, 2021], the Secretary of the Interior and Secretary of Agriculture shall jointly provide to the Committees on Appropriations of the House of Representatives and the Senate, the Senate Committee on Agriculture[,] Nutrition[,] and Forestry, the House of Representatives Committee on Agriculture, the Senate Committee on Energy and Natural Resources, the House of Representatives Committee on Natural Resources, Senate Committee on Homeland Security and Governmental Affairs, and the House of Representatives Committee on Oversight and Reform [now Committee on Oversight and Accountability], a framework to modernize the wildland firefighting workforce beginning in fiscal year 2022.”
+
+[Pub. L. 119–37, div. A, § 151, Nov. 12, 2025, 139 Stat. 505, provided that, during the period covered by div. A of Pub. L. 119–37 (see section 106 of Pub. L. 119–37, 139 Stat. 496), section 1701 of Pub. L. 117–43, set out above, would be applied by substituting “calendar years 2021 through 2026” for “2021 or 2022 or 2023 of 2024” each place it appeared.]
 
 #### Premium Pay Authority for Services Related to Preparation, Prevention, or Response to Coronavirus
 Pub. L. 116–260, div. M, title III, § 303, Dec. 27, 2020, 134 Stat. 1922, provided that: “(a) If services performed by an employee during 2020 and 2021 are determined by the head of the agency to be primarily related to preparation, prevention, or response to coronavirus, any premium pay for such services shall be disregarded in calculating the aggregate of such employee’s basic pay and premium pay for purposes of a limitation under [section 5547(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5547/a&num=0&edition=prelim), United States Code, or under any other provision of law, whether such employees pay is paid on a biweekly or calendar year basis. “(b) Any overtime pay for such services shall be disregarded in calculating any annual limit on the amount of overtime pay payable in a calendar or fiscal year. “(c) With regard to such services, any pay that is disregarded under either subsection (a) or (b) shall be disregarded in calculating such employee’s aggregate pay for purposes of the limitation in section 5307 of such title 5. “(d)(1) Pay that is disregarded under subsection (a) or (b) shall not cause the aggregate of the employee’s basic pay and premium pay for the applicable calendar year to exceed the rate of basic pay payable for a position at level II of the Executive Schedule under [section 5313 of title 5](./chapter-053-pay-rates-and-systems.md#section-5313), United States Code, as in effect at the end of such calendar year. “(2) For purposes of applying this subsection to an employee who would otherwise be subject to the premium pay limits established under [section 5547 of title 5](./chapter-055-pay-administration.md#section-5547), United States Code, ‘premium pay’ means the premium pay paid under the provisions of law cited in section 5547(a). “(3) For purposes of applying this subsection to an employee under a premium pay limit established under an authority other than [section 5547 of title 5](./chapter-055-pay-administration.md#section-5547), United States Code, the agency responsible for administering such limit shall determine what payments are considered premium pay. “(e) This section shall take effect as if enacted on February 2, 2020. “(f) If application of this section results in the payment of additional premium pay to a covered employee of a type that is normally creditable as basic pay for retirement or any other purpose, that additional pay shall not—“(1) be considered to be basic pay of the covered employee for any purpose; or “(2) be used in computing a lump-sum payment to the covered employee for accumulated and accrued annual leave under section 5551 or [section 5552 of title 5](./chapter-055-pay-administration.md#section-5552), United States Code.”

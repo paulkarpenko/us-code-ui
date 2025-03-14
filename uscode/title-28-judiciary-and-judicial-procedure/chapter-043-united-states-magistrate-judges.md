@@ -32,7 +32,7 @@ source: >-
 
 (2) the reinstatement of the absent magistrate judge in regular service in office as a magistrate judge,
 
-(3) the failure of the absent magistrate judge to make timely application under subsection (j) 1 of this section for reinstatement in regular service in office as a magistrate judge after discharge or release from military service,
+(3) the failure of the absent magistrate judge to make timely application under subsection (j) 2 of this section for reinstatement in regular service in office as a magistrate judge after discharge or release from military service,
 
 (4) the death or resignation of the absent magistrate judge, or
 

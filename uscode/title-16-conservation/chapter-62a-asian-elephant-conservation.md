@@ -123,9 +123,17 @@ Division A, section 101(e), title I of Public Law 105–277, referred to in par.
 
 **(h) Limitation on use for captive breeding** Amounts provided as a grant under this chapter may not be used for captive breeding of Asian elephants other than for release in the wild.
 
+**(i) Multiyear grants**
+
+(1) **Authorization** — The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for Asian elephants and the habitat of Asian elephants.
+
+(2) **Effect** — Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
+
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (i). Pub. L. 118–159 added subsec. (i).
+
 2007—Subsec. (c)(2)(C). Pub. L. 110–133 substituted “and the Administrator” for “, the Administrator, and each of those countries”.
 
 
@@ -169,13 +177,15 @@ A prior section 7 of Pub. L. 105–96 was renumbered section 8 and is classified
 
 <a id="section-4266"></a>
 ## § 4266. Authorization of appropriations
-**(a) In general** There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2019 through 2023 to carry out this chapter, which may remain available until expended.
+**(a) In general** There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2025 through 2029 to carry out this chapter, which may remain available until expended.
 
 **(b) Administrative expenses** Of amounts available each fiscal year to carry out this chapter, the Secretary may expend not more than 3 percent or $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159 substituted “2025 through 2029” for “2019 through 2023”.
+
 2019—Subsec. (a). Pub. L. 116–9 substituted “2019 through 2023” for “2007 through 2012”.
 
 2007—Subsec. (a). Pub. L. 110–133, § 2(c), substituted “2007 through 2012” for “2001, 2002, 2003, 2004, 2005, 2006, and 2007”.

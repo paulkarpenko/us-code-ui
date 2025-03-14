@@ -2,7 +2,7 @@
 title: 18
 chapter: '1'
 heading: GENERAL PROVISIONS
-section_count: 26
+section_count: 27
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -15,6 +15,9 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 #### Effective Date of Repeal
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+#### Short Title of 2026 Amendment
+Pub. L. 119–73, § 1, Jan. 23, 2026, 139 Stat. 2003, provided that: “This Act [enacting sections 28 and 3771A of this title, amending [section 7102 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim), Foreign Relations and Intercourse, and enacting provisions set out as notes under [section 28 of this title](./chapter-001-general-provisions.md#section-28) and [section 10110 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10110&num=0&edition=prelim), Crime Control and Law Enforcement] may be cited as the ‘Trafficking Survivors Relief Act’.”
 
 #### Short Title of 2024 Amendment
 Pub. L. 118–78, § 1, July 30, 2024, 138 Stat. 1512, provided that: “This Act [enacting [section 1352 of this title](./chapter-063-mail-fraud-and-other-fraud-offenses.md#section-1352) and amending [section 201 of this title](./chapter-011-bribery-graft-and-conflicts-of-interest.md#section-201)] may be cited as the ‘Foreign Extortion Prevention Technical Corrections Act’.”
@@ -771,3 +774,25 @@ As used in this title, the term “seaport” means all piers, wharves, docks, a
 ## § 27. Mortgage lending business defined
 
 In this title, the term “mortgage lending business” means an organization which finances or refinances any debt secured by an interest in real estate, including private mortgage companies and any subsidiaries of such organizations, and whose activities affect interstate or foreign commerce.
+
+
+<a id="section-28"></a>
+## § 28. Human trafficking defense
+**(a) Definitions.—** In this section—
+
+(1) the term “covered Federal offense” means a level A offense or level B offense, as those terms are defined in section 3771A; and
+
+(2) the term “victim of trafficking” has the meaning given the term in section 103 of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7102](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim)).
+
+**(b) Duress.—** In a prosecution for a covered Federal offense, a defendant may establish duress by demonstrating that the defendant was a victim of trafficking at the time at which the defendant committed the offense.
+
+**(c) Record or Proceeding Under Seal.—** In any proceeding in which a defense under subsection (b) is raised, any record or part of the proceeding related to the defense shall, on motion, be placed under seal until such time as a conviction is entered for the offense.
+
+**(d) Post-Conviction Relief.—** A failure to assert, or failed assertion of, a defense under subsection (b) by an individual who is convicted of a covered Federal offense may not preclude the individual from asserting as a mitigating factor, at sentencing or in a proceeding for any post-conviction relief, that at the time of the commission of the offense, the defendant was a victim of trafficking and committed the offense under duress.
+
+**(e) Federal Aid.—** A failure to assert, or failed assertion of, a defense under subsection (b) by an individual who is convicted of a covered Federal offense may not be used for the purpose of disqualifying the individual from participating in any federally funded program that aids victims of trafficking.
+
+### Statutory Notes
+
+#### Rule of Construction
+Pub. L. 119–73, § 8, Jan. 23, 2026, 139 Stat. 2010, provided that: “Nothing in this Act [see Short Title of 2026 Amendment note set out under [section 1 of this title](./chapter-001-general-provisions.md#section-1)], or the amendments made by this Act, may be construed to conflict with any of the crime victims’ rights described in [section 3771 of title 18](./chapter-237-crime-victims-rights.md#section-3771), United States Code.”

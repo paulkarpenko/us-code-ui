@@ -2,7 +2,7 @@
 title: 10
 chapter: '933'
 heading: MISCELLANEOUS RIGHTS AND BENEFITS
-section_count: 3
+section_count: 4
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -83,3 +83,24 @@ Only officers of the Air Force in the following categories may be rated as flyin
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
+<a id="section-9254"></a>
+## § 9254. Authority to designate certain separated members of the Air Force as honorary separated members of the Space Force
+**(a) Authority.—** The Secretary of the Air Force may prescribe regulations that authorize an eligible individual to be designated as an honorary separated member of the Space Force. An eligible individual so designated may be referred to as a “Legacy Guardian”.
+
+**(b) Elements.—** Regulations prescribed under this section may include the following elements:
+
+(1) Eligibility criteria, including applicable dates of service and constructive service credit, for designation under this section.
+
+(2) An application process through which an eligible individual, or a survivor of a deceased eligible individual, may apply for such designation of such eligible individual.
+
+(3) A certificate, approved device, or other insignia of such designation.
+
+**(c) Rule of Construction.—** Designation of an eligible individual under this section shall not be construed to entitle such eligible individual to any benefit in addition to those established by this section or pursuant to regulations prescribed under this section.
+
+**(d) Eligible Individual Defined.—** In this section, the term “eligible individual” means an individual—
+
+(1) whom the Secretary of the Air Force determines served in support of space operations as a member of the Air Force; and
+
+(2) who separates (or previously separated) from the armed forces as a member of the Air Force.

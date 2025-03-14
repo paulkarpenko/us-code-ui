@@ -76,6 +76,8 @@ Leave accumulated while in missing status shall be accounted for separately. It 
 
     (ii) The regulations prescribed under clause (i) shall require that any leave authorized to be taken after the one-year period described in subparagraph (A) shall be taken within a reasonable period of time, as determined by the Secretary of Defense, after cessation of the circumstances warranting the extended deadline.
 
+    (iii) The regulations prescribed under clause (i) shall authorize a member described in such clause to take leave described under subparagraph (A) during the two-year period beginning after an event described in clause (i) or (ii) of such subparagraph with the approval of the first general officer or flag officer in the chain of command of such member.
+
 (2) Paragraph (1) applies to the following members:
 
   (A) A member on active duty.
@@ -120,7 +122,7 @@ Leave accumulated while in missing status shall be accounted for separately. It 
 
 (2) in the interest of national security, as determined by the Secretary of Defense.
 
-**(k)** A member of the armed forces who gives birth while on active duty may be required to meet body composition standards or pass a physical fitness test during the period of 12 months beginning on the date of such birth only with the approval of a health care provider employed at a military medical treatment facility and—
+**(k)** A member of the armed forces who, while on active duty, gives birth, loses a pregnancy, or has a stillbirth, may be required to meet body composition standards or pass a physical fitness test during the period of 12 months beginning on the date of such birth, loss of pregnancy, or stillbirth only with the approval of a health care provider employed at a military medical treatment facility and—
 
 (1) at the election of such member; or
 
@@ -200,6 +202,10 @@ In subsections (b) and (c), the word “accrued” is omitted as covered by the 
 In subsection (e), the words “before or after August 9, 1946” and section 31a(a) (words after semicolon in 9th sentence) of existing title 37 are omitted as executed.
 
 #### Amendments
+2025—Subsec. (h)(1)(B)(iii). Pub. L. 119–60 added cl. (iii).
+
+2024—Subsec. (k). Pub. L. 118–159, in introductory provisions, substituted “, while on active duty, gives birth, loses a pregnancy, or has a stillbirth,” for “gives birth while on active duty” and “such birth, loss of pregnancy, or stillbirth” for “such birth”.
+
 2023—Subsec. (h)(2)(D). Pub. L. 118–31, § 1722(d)(1)(A)(i), added subpar. (D).
 
 Subsec. (h)(5)(B), (6). Pub. L. 118–31, § 1722(d)(1)(A)(ii), inserted “, or of the Space Force,” after “member of a reserve component”.
@@ -394,6 +400,8 @@ Amendment by Pub. L. 89–151 effective only in the case of members who die on o
 Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a note preceding [section 101 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section101&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
 
 #### Regulations
+Pub. L. 119–60, div. A, title VI, § 631(b), Dec. 18, 2025, 139 Stat. 911, provided that: “Not later than 180 days after the date of the enactment of this section [Dec. 18, 2025], the Secretary of Defense shall— “(1) prescribe regulations under subparagraph (B) of [section 701(h)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701/h/1&num=0&edition=prelim), United States Code, to implement the amendment made by subsection (a) [amending this section]; and “(2) submit to the Committees on Armed Forces of the Senate and House of Representatives a report regarding the implementation of this section.”
+
 Pub. L. 117–81, div. A, title VI, § 621(c), Dec. 27, 2021, 135 Stat. 1771, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall prescribe regulations implementing the amendments made by subsection (a) [amending this section].”
 
 #### Transition Rule
@@ -429,11 +437,13 @@ For savings provision extending period for which certain accrued leave under for
 
 (3) Return of an academy cadet or midshipman to a pay status at the Academy concerned from involuntary leave status under paragraph (1) does not restore any entitlement of the cadet or midshipman to pay for the period of the involuntary leave.
 
-**(c) Inapplicable Leave Provisions.—** Sections 701, 703, and 704 of this title and subsection (a) do not apply to academy cadets or midshipmen or cadets or midshipmen serving elsewhere in the armed forces.
+**(c) Convalescent Leave.—** An academy cadet or midshipman diagnosed with a medical condition is allowed convalescent leave under [section 701(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701/m&num=0&edition=prelim).
 
-**(d) Regulations.—** The Secretary concerned, or his designated representative, may prescribe regulations relating to leave for cadets and midshipmen.
+**(d) Inapplicable Leave Provisions.—** Except as provided by subsection (c), sections 701, 703, and 704 of this title and subsection (a) do not apply to academy cadets or midshipmen or cadets or midshipmen serving elsewhere in the armed forces.
 
-**(e) Definition.—** In this section, the term “academy cadet or midshipman” means—
+**(e) Regulations.—** The Secretary concerned, or his designated representative, may prescribe regulations relating to leave for cadets and midshipmen.
+
+**(f) Definition.—** In this section, the term “academy cadet or midshipman” means—
 
 (1) a cadet of the United States Military Academy;
 
@@ -458,6 +468,12 @@ In subsection (a), the words “outside the United States or in Alaska or Hawaii
 In subsections (a) and (b), the words “, or his designated representative,” are substituted for the last 8 words of section 32(f) of existing title 37.
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 119–60, § 632(2), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 119–60, § 632(1), (3), redesignated subsec. (c) as (d) and substituted “Except as provided by subsection (c), sections 701” for “Sections 701”. Former subsec. (d) redesignated (e).
+
+Subsecs. (e), (f). Pub. L. 119–60, § 632(1), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
+
 2000—Subsec. (b)(2). Pub. L. 106–398 substituted “section 203(c)” for “section 230(c)”.
 
 1998—Subsec. (a). Pub. L. 105–261, § 562(c)(1), inserted heading.
@@ -882,7 +898,11 @@ Pub. L. 98–525, title VII, § 707(b), Oct. 19, 1984, 98 Stat. 2572, provided t
 
 <a id="section-710"></a>
 ## § 710. Career flexibility to enhance retention of members
-**(a) Programs Authorized.—** Each Secretary of a military department may carry out programs under which members of the regular components or of the Space Force and members on Active Guard and Reserve duty of the armed forces under the jurisdiction of such Secretary may be inactivated from active service in order to meet personal or professional needs and returned to active service at the end of such period of inactivation from active service.
+**(a) Programs Authorized.—**
+
+(1) Each Secretary of a military department may carry out programs under which members of the regular components or of the Space Force and members on Active Guard and Reserve duty of the armed forces under the jurisdiction of such Secretary may be inactivated from active service in order to meet personal or professional needs and returned to active service at the end of such period of inactivation from active service.
+
+(2) Notwithstanding subsection (b)(1), if the Secretary of a military department carries out a program under paragraph (1), such Secretary shall, pursuant to this section, inactivate a member who completes a detail under [section 2004c of this title](./chapter-101-training-generally.md#section-2004c) upon the completion of such detail for such period of time as the Secretary determines appropriate so such member may perform religious ministry that meets professional requirements for appointment as a chaplain in the military department concerned.
 
 **(b) Period of Inactivation From Active Service; Effect of Inactivation.—**
 
@@ -985,6 +1005,8 @@ Pub. L. 98–525, title VII, § 707(b), Oct. 19, 1984, 98 Stat. 2572, provided t
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 designated existing provisions as par. (1) and added par. (2).
+
 2023—Subsec. (a). Pub. L. 118–31, § 1722(d)(3)(A), inserted “or of the Space Force” after “regular components”.
 
 Subsec. (b)(2). Pub. L. 118–31, § 1722(d)(3)(B), which directed amendment of par. (2) by inserting “, or a Space Force officer in a space force active status not on active duty under [section 20105(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105/b&num=0&edition=prelim),” after “officer”, was executed by making the insertion after “officer” the first place appearing, to reflect the probable intent of Congress.
@@ -1004,8 +1026,8 @@ Subsec. (c)(3). Pub. L. 117–81 substituted “one month” for “two months�
 2019—Subsec. (h)(3) to (5). Pub. L. 116–92 added pars. (3) to (5).
 
 
-<a id="section-711"></a>
-## § 711. Parental leave for members of certain reserve components of the armed forces
+<a id="section-710a"></a>
+## § 710a. Parental leave for members of certain reserve components of the armed forces
 **(a)**
 
 (1) Under regulations prescribed by the Secretary of Defense, a member of a reserve component of the armed forces described in subsection (b) is allowed parental leave for a duration of up to 12 inactive-duty training periods, under [section 206 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206&num=0&edition=prelim), during the one-year period beginning after the following events:
@@ -1016,7 +1038,7 @@ Subsec. (c)(3). Pub. L. 117–81 substituted “one month” for “two months�
 
 (2)
 
-  (A) The Secretary concerned, under uniform regulations to be prescribed by the Secretary of Defense, may authorize leave described under subparagraph (A) 22 So in original. Probably should be “paragraph (1)”. to be taken after the one-year period described in subparagraph (A) 2 in the case of a member described in subsection (b) who, except for this subparagraph, would lose unused parental leave at the end of the one-year period described in subparagraph (A) 2 as a result of—
+  (A) The Secretary concerned, under uniform regulations to be prescribed by the Secretary of Defense, may authorize leave described under paragraph (1) to be taken after the one-year period described in paragraph (1) in the case of a member described in subsection (b) who, except for this subparagraph, would lose unused parental leave at the end of the one-year period described in paragraph (1) as a result of—
 
     (i) operational requirements;
 
@@ -1024,15 +1046,33 @@ Subsec. (c)(3). Pub. L. 117–81 substituted “one month” for “two months�
 
     (iii) other circumstances that the Secretary determines reasonable and appropriate.
 
-  (B) The regulations prescribed under clause (i) 33 So in original. Probably should be “subparagraph (A)”. shall require that any leave authorized to be taken after the one-year period described in subparagraph (A) 2 shall be taken within a reasonable period of time, as determined by the Secretary of Defense, after cessation of the circumstances warranting the extended deadline.; 44 So in original.
+  (B) The regulations prescribed under subparagraph (A) shall require that any leave authorized to be taken after the one-year period described in paragraph (1) shall be taken within a reasonable period of time, as determined by the Secretary of Defense, after cessation of the circumstances warranting the extended deadline.
 
-**(b)** A member described in this subsection is a member of the Army, Navy, Marine Corps, Air Force, or Space Force who is a member of—
+**(b)** A member described in this subsection is a member of—
 
 (1) the selected reserve who is entitled to compensation under [section 206 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206&num=0&edition=prelim); or
 
 (2) the individual ready reserve who is entitled to compensation under [section 206 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206&num=0&edition=prelim) when attending or participating in a sufficient number of periods of inactive-duty training during a year to count the year as a qualifying year of creditable service toward eligibility for retired pay.
 
 ### Statutory Notes
+
+#### Amendments
+2025—Pub. L. 119–60, § 1701(a)(10), made amendment identical to that made by Pub. L. 118–159, § 603(b)(2). See 2024 Amendment note below.
+
+Subsec. (a)(2)(A). Pub. L. 119–60, § 1701(a)(11)(A), made amendment identical to that made by Pub. L. 118–159, § 603(b)(1)(A). See 2024 Amendment note below.
+
+Subsec. (a)(2)(B). Pub. L. 119–60, § 1701(a)(11)(B), made amendments identical to that made by Pub. L. 118–159, § 603(b)(1)(A), (B). See 2024 Amendment note below.
+
+2024—Pub. L. 118–159, § 603(b)(2), renumbered [section 711 of this title](./chapter-041-special-appointments-assignments-details-and-duties.md#section-711) relating to parental leave for members of certain reserve components of the armed forces as this section.
+
+Subsec. (a)(2). Pub. L. 118–159, § 603(b)(1)(A), substituted “paragraph (1)” for “subparagraph (A)” wherever appearing.
+
+Subsec. (a)(2)(B). Pub. L. 118–159, § 603(b)(1)(B), substituted “subparagraph (A)” for “clause (i)” and a period for “.;” at end.
+
+Subsec. (b). Pub. L. 118–159, § 603(a), struck out “is a member of the Army, Navy, Marine Corps, Air Force, or Space Force who” after “described in this subsection” in introductory provisions.
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–159, div. A, title VI, § 603(c), Dec. 23, 2024, 138 Stat. 1931, provided that:“The amendments made by this section [amending and renumbering this section] shall take effect on October 1, 2025.”
 
 #### Effective Date
 Pub. L. 118–31, div. A, title VI, § 601(e), Dec. 22, 2023, 137 Stat. 289, provided that: “This section [enacting this section and amending [section 12732 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12732), [section 206 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, and provisions set out as a note under [section 12732 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12732)] and the amendments made by this section shall take effect on October 1, 2024, and apply with respect to periods of parental leave that commence on or after such date.”

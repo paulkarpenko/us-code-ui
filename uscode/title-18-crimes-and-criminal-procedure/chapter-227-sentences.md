@@ -41,6 +41,10 @@ Pub. L. 98–473, title II, § 235, Oct. 12, 1984, 98 Stat. 2031, as amended by 
 
 [Pub. L. 104–232, § 3(b)(2), Oct. 2, 1996, 110 Stat. 3056, provided that: “Effective on the date the plan [alternative plan by Attorney General for transfer of United States Parole Commission’s functions to another entity within Department of Justice pursuant to section 3 of Pub. L. 104–232, set out as a note under [section 4201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4201&num=0&edition=prelim)] takes effect, paragraphs (3) and (4) of section 235(b) of the Sentencing Reform Act of 1984 [Pub. L. 98–473, set out above] (98 Stat. 2032) are repealed.” ]
 
+[Pub. L. 119–37, div. A, § 123, Nov. 12, 2025, 139 Stat. 501, provided that: “Any expiration date established by section 235(b) of the Sentencing Reform Act of 1984 ([18 U.S.C. 3551](./chapter-227-sentences.md#section-3551) note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, shall not apply from October 1, 2025, through the date specified in section 106(3) of this Act [Jan. 30, 2026].” ]
+
+[Pub. L. 119–4, div. A, title I, § 1115, Mar. 15, 2025, 139 Stat. 15, provided that: “During the period covered by this Act [see section 1106 of div. A of Pub. L. 119–4, 139 Stat. 12, which is not classified to the Code], section 235(b) of the Sentencing Reform Act of 1984 ([18 U.S.C. 3551](./chapter-227-sentences.md#section-3551) note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, shall be applied by substituting ‘37’ for ‘36’ each place it appears.” ]
+
 [Pub. L. 118–83, div. A, § 121, Sept. 26, 2024, 138 Stat. 1528, provided that: “During the period covered by this Act [see section 106 of div. A of Pub. L. 118–83, 138 Stat. 1526, which is not classified to the Code], section 235(b) of the Sentencing Reform Act of 1984 ([18 U.S.C. 3551](./chapter-227-sentences.md#section-3551) note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, shall be applied by substituting ‘37’ for ‘36’ each place it appears.” ]
 
 [Pub. L. 118–42, div. G, title III, § 302(b), Mar. 9, 2024, 138 Stat. 451, provided that: “For purposes of section 235(b) of the Sentencing Reform Act of 1984 ([18 U.S.C. 3551](./chapter-227-sentences.md#section-3551) note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘36 years and 129 days’ or ‘36-year and 129-day period’ shall be deemed a reference to ‘36 years and 335 days’ or ‘36-year and 335-day period’, respectively.” ]
@@ -498,13 +502,13 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
   (A) the term “Federal sex offense” means an offense under section 1591 (relating to sex trafficking of children), 2241 (relating to aggravated sexual abuse), 2242 (relating to sexual abuse), 2244(a)(1) (relating to abusive sexual contact), 2245 (relating to sexual abuse resulting in death), 2251 (relating to sexual exploitation of children), 2251A (relating to selling or buying of children), 2422(b) (relating to coercion and enticement of a minor into prostitution), or 2423(a) (relating to transportation of minors);
 
-  (B) the term “State sex offense” means an offense under State law that is punishable by more than one year in prison and consists of conduct that would be a Federal sex offense if, to the extent or in the manner specified in the applicable provision of this title—
+  (B) the term “State or Military sex offense” means an offense under State law or the Uniform Code of Military Justice that is punishable by more than one year in prison and consists of conduct that would be a Federal sex offense if, to the extent or in the manner specified in the applicable provision of this title—
 
     (i) the offense involved interstate or foreign commerce, or the use of the mails; or
 
     (ii) the conduct occurred in any commonwealth, territory, or possession of the United States, within the special maritime and territorial jurisdiction of the United States, in a Federal prison, on any land or building owned by, leased to, or otherwise used by or under the control of the Government of the United States, or in the Indian country (as defined in section 1151);
 
-  (C) the term “prior sex conviction” means a conviction for which the sentence was imposed before the conduct occurred constituting the subsequent Federal sex offense, and which was for a Federal sex offense or a State sex offense;
+  (C) the term “prior sex conviction” means a conviction for which the sentence was imposed before the conduct occurred constituting the subsequent Federal sex offense, and which was for a Federal sex offense or a State or Military sex offense;
 
   (D) the term “minor” means an individual who has not attained the age of 17 years; and
 
@@ -539,6 +543,10 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (e)(2)(B). Pub. L. 118–159, § 569(6)(A), substituted “State or Military sex offense” for “State sex offense” and inserted “or the Uniform Code of Military Justice” after “State law” in introductory provisions.
+
+Subsec. (e)(2)(C). Pub. L. 118–159, § 569(6)(B), inserted “or Military” after “State”.
+
 2006—Subsec. (e)(2)(A). Pub. L. 109–248, § 206(c), inserted “1591 (relating to sex trafficking of children),” after “under section”.
 
 Subsecs. (f), (g). Pub. L. 109–248, § 202, added subsec. (f) and redesignated former subsec. (f) as (g).

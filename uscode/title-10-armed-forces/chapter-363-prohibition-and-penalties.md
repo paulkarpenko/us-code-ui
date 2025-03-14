@@ -2,7 +2,7 @@
 title: 10
 chapter: '363'
 heading: PROHIBITION AND PENALTIES
-section_count: 12
+section_count: 14
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -508,17 +508,25 @@ Pub. L. 117–263, div. A, title VIII, § 855(d), Dec. 23, 2022, 136 Stat. 2723,
 
 <a id="section-4662"></a>
 ## § 4662. Prohibition on the transfer of certain data on employees of the Department of Defense to third parties
-**(a) In General.—** Each contract entered into by the Department of Defense on or after the date of the enactment of this section shall include a provision prohibiting the contractor and each subcontractor under such contract from selling, licensing, or otherwise transferring covered individually identifiable Department employee data to any individual or entity other than the Federal Government, except to the extent required to perform such contract or a subcontract under such contract and that would be permissible pursuant to statute or guidance from the Director of the Office of Management and Budget.
+**(a) In General.—** Each contract entered into by the Department of Defense on or after the date of the enactment of this section shall include a provision prohibiting the contractor and each subcontractor under such contract from selling, licensing, or otherwise transferring covered individually identifiable Department employee data to any individual or entity other than the Federal Government, except to the extent required to perform such contract or a subcontract under such contract. This provision does not apply in circumstances where the transfer of such data would otherwise be authorized by law.
 
-**(b) Waiver.—** The Secretary of Defense may waive the requirements of subsection (a) with respect to a sale, licensing, or other transfer of covered individually identifiable Department employee data if the Secretary determines that such waiver is appropriate.
+**(b) Waiver.—** The Secretary of Defense may waive the requirements of subsection (a) with respect to the sale, licensing, or other transfer of covered individually identifiable Department employee data if the Secretary determines that such waiver—
 
-**(c) Definitions.—** In this section:
+(1) appropriately considers the privacy risks to the employee of the Department of Defense to which such data relates; and
 
-(1) The term “covered individually identifiable Department employee data” means individually identifiable Department employee data obtained by—
+(2) is necessary in the interest of national security.
 
-  (A) a contractor pursuant to the performance of a contract described in subsection (a) by such contractor; or
+**(c) Report.—** Not later than January 15, 2026, and annually thereafter for four years, the Under Secretary of Defense for Acquisition and Sustainment, shall submit to the congressional defense committees a report on the use of the waiver authority under subsection (b) for the fiscal year preceding the date of submission of the report. The report shall include, for each use of the waiver—
 
-  (B) a subcontractor pursuant to the performance of a subcontract under such a contract by such subcontractor.
+(1) the specific justification for providing the waiver;
+
+(2) an identification of the contractor or subcontractor that is the subject of the waiver request; and
+
+(3) an identification of the purpose of the sale, licensing, or transfer of covered individually identifiable Department employee data that is the subject of the waiver request.
+
+**(d) Definitions.—** In this section:
+
+(1) The term “covered individually identifiable Department employee data” means individually identifiable Department employee data obtained by a contractor or subcontractor described in subsection (a).
 
 (2) The term “individually identifiable Department employee data” means information related to an employee of the Department of Defense, including a member of the Armed Forces, that—
 
@@ -530,3 +538,98 @@ Pub. L. 117–263, div. A, title VIII, § 855(d), Dec. 23, 2022, 136 Stat. 2723,
 
 #### References in Text
 The date of the enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
+
+#### Amendments
+2024—Subsec. (a). Pub. L. 118–159, § 836(1), struck out “and that would be permissible pursuant to statute or guidance from the Director of the Office of Management and Budget” after “or a subcontract under such contract” and inserted at end “This provision does not apply in circumstances where the transfer of such data would otherwise be authorized by law.”
+
+Subsec. (b). Pub. L. 118–159, § 836(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of Defense may waive the requirements of subsection (a) with respect to a sale, licensing, or other transfer of covered individually identifiable Department employee data if the Secretary determines that such waiver is appropriate.”
+
+Subsecs. (c), (d). Pub. L. 118–159, § 836(3), (5), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+Subsec. (d)(1). Pub. L. 118–159, § 836(4), amended par. (1) generally. Prior to amendment, par. (1) defined covered individually identifiable Department employee data.
+
+
+<a id="section-4663"></a>
+## § 4663. Prohibition on contracting with covered entities that contract with lobbyists for Chinese military companies
+**(a) Prohibition on Entering Into Contracts With Covered Entities.—** Except as provided in subsection (c), the Secretary of Defense may not enter into a contract with an entity, a parent company of such entity, or a subsidiary of such entity if such entity is a party to a contract with a covered lobbyist.
+
+**(b) Exception.—** The prohibition in subsection (a) shall not apply with respect to an entity that made reasonable inquires regarding the lobbying activities of another entity and determined such entity was not a covered lobbyist.
+
+**(c) Waiver.—** Upon notification to Congress, the Secretary of Defense may waive the requirements of this section.
+
+**(d) Definitions.—** In this section:
+
+(1) The term “covered lobbyist” means an entity that engages in lobbying activities for any entity determined to be a Chinese military company listed in accordance with section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ([10 U.S.C. 113](./chapter-002-department-of-defense.md#section-113) note).
+
+(2) The term “lobbying activities” has the meaning given in section 1045(c) of the National Defense Authorization Act for Fiscal Year 2018 ([10 U.S.C. 971](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-971) note prec.).
+
+### Statutory Notes
+
+#### References in Text
+Section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (d)(1), is section 1260H of Pub. L. 116–283, which is set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
+
+Section 1045(c) of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (d)(2), is section 1045(c) of Pub. L. 115–91, which is set out in a note preceding [section 971 of this title](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-971).
+
+#### Amendments
+2025—Subsec. (a). Pub. L. 119–60 inserted “if such entity” before “is a party”.
+
+#### Effective Date
+Pub. L. 118–159, div. A, title VIII, § 851(b), Dec. 23, 2024, 138 Stat. 1995, provided that: “This section [enacting this section] and the amendments made by this section shall take effect on June 30, 2026.”
+
+
+<a id="section-4664"></a>
+## § 4664. Requirements relating to long-term concessions agreements with certain retailers
+**(a) Prohibition on Contracting With Certain Retailers.—** Except as provided by subsections (b) and (c), the Secretary of Defense may not renew, extend, or enter into a long-term concessions agreement with a retailer that is controlled by a covered nation to permit such retailer to operate or conduct business through a physical location on a covered military installation.
+
+**(b) Waiver.—**
+
+(1) The Secretary may waive the requirements of subsection (a) with respect to a long-term concessions agreement with a retailer if the Secretary determines that—
+
+  (A) the goods or services to be provided by the retailer under such long-term concessions agreement are vital for the welfare and morale of members of the Armed Forces and no reasonable alternatives exist; and
+
+  (B) the Secretary has implemented adequate measures to mitigate any potential national security risks of the retailer.
+
+(2) Not later than 30 days after each use of the waiver authority under paragraph (1), the Secretary shall provide to the Committees on Armed Services of the House of Representatives and Senate a justification for such waiver and a description of any risk mitigation strategies described in paragraph (1)(B).
+
+**(c) Exceptions.—** Subsection (a) does not apply with respect to a long-term concessions agreement with a retailer if—
+
+(1) such retailer has received a determination from the Committee on Foreign Investment in the United States (in this section referred to as the “Committee”) that there are no unresolved national security concerns with respect to the retailer in connection to a matter submitted to the Committee and which the Committee concluded all action pursuant to section 721 of the Defense Production Act of 1950 ([50 U.S.C. 4565](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565&num=0&edition=prelim)); or
+
+(2) such retailer is organized under the laws of the United States or any jurisdiction of the United States and is operated by citizens of the United States and the products offered for sale by such retailer on the covered military installation under such long-term concessions agreement are not produced in a covered nation.
+
+**(d) Definitions.—** In this section:
+
+(1) The term “controlled by a covered nation” means, with respect to a retailer—
+
+  (A) that the retailer is organized under the laws of a covered nation or any jurisdiction within a covered nation;
+
+  (B) that the government of a covered nation—
+
+    (i) owns 50 percent or more of the shares of the retailer; or
+
+    (ii) otherwise owns the controlling interest in such retailer; or
+
+  (C) that the retailer is subject to the direct control of the government of a covered nation.
+
+(2) The term “covered military installation” means a military installation (as defined in [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801)) located in the United States.
+
+(3) The term “covered nation” has the meaning given in [section 4872 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4872).
+
+(4) The term “long-term concessions agreement” means a contract, subcontract, or other agreement, including a lease agreement or licensing agreement, to operate a business through a physical location on a covered military installation entered into by—
+
+  (A) the Secretary of Defense or a Secretary of a military department and a person; or
+
+  (B) a person and a nonappropriated fund instrumentality.
+
+(5) The term “retailer” means a person that operates or seeks to operate a business providing goods or services on a covered military installation under a contract, subcontract, or other agreement, including a lease agreement or licensing agreement, with—
+
+  (A) a nonappropriated fund instrumentality;
+
+  (B) the Secretary of Defense; or
+
+  (C) a Secretary of a military department.
+
+### Statutory Notes
+
+#### Requirements Relating to Long-Term Concessions Agreements With Certain Retailers
+Pub. L. 119–60, div. A, title VIII, § 841(a), Dec. 18, 2025, 139 Stat. 971, provided that: “(a) Assessment of Established Agreements.—“(1) In general.—Not later than 180 days after the date of the enactment of this section [Dec. 18, 2025], the Secretary of Defense shall review each long-term concessions agreement to identify any such agreements with a retailer that is controlled by a covered nation that permit such retailer to operate or conduct business through a physical location on a covered military installation. “(2) Termination of certain concessions agreements.—“(A) In general.—Not later than 30 days after making the determinations described in subparagraph (B) with respect to a long-term concessions agreement with a retailer, the Secretary of Defense shall terminate such long-term concessions agreement unless the Secretary waives this paragraph with respect to such retailer in accordance with [section 4664(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4664/b&num=0&edition=prelim), United States Code, as added by this section. “(B) Determinations described.—The determinations described in this subparagraph are, with respect to a long-term concessions agreement—“(i) a determination that the retailer that is a party to such long-term concessions agreement is controlled by a covered nation based on an assessment required by paragraph (1); and “(ii) a determination that an exception under [section 4664(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4664/c&num=0&edition=prelim), United States Code, as added by this section, would not apply with respect to such long-term concessions agreement with such retailer if such retailer entered into such long-term concessions agreement on or after the date of the enactment of this section. “(3) Briefing.—Upon completing the review required by paragraph (1), the Secretary of Defense shall provide the Committees on Armed Services of the House of Representatives and Senate a briefing on the findings of such review and a summary of the actions taken to implement the requirements of [section 4664 of title 10](./chapter-363-prohibition-and-penalties.md#section-4664), United States Code, as added by this section. “(4) Controlled by a covered nation; covered military installation; long-term concessions agreement; retailer defined.—The terms ‘controlled by a covered nation’, ‘covered military installation’, ‘long-term concessions agreement’, and ‘retailer’ have the meanings given such terms, respectively, in [section 4664 of title 10](./chapter-363-prohibition-and-penalties.md#section-4664), United States Code, as added by this section.”

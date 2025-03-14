@@ -173,7 +173,7 @@ Pub. L. 110–161, div. K, title I, § 117, Dec. 26, 2007, 121 Stat. 2382, provi
 ### Statutory Notes
 
 #### Amendments
-2024—Subsec. (b). Pub. L. 118–63, § 370(1), substituted “Department of Labor and Federal Aviation Administration Complaint Procedure” for “Department of Labor Complaint Procedure” in heading. Text quoted in directory language of amendment was editorially conformed to the style of the heading.
+2024—Subsec. (b). Pub. L. 118–63, § 370(1), substituted “Department of Labor and Federal Aviation Administration Complaint Procedure” for “Department of Labor Complaint Procedure” in heading. Text quoted in directory language of amendment was editorially conformed to the heading style used in this section.
 
 Subsec. (b)(5). Pub. L. 118–63, § 370(2), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “Whenever any person has failed to comply with an order issued under paragraph (3), the Secretary of Labor may file a civil action in the United States district court for the district in which the violation was found to occur to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, but not limited to, injunctive relief and compensatory damages.”
 

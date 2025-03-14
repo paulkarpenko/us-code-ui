@@ -1146,11 +1146,29 @@ Section, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 917; Pub. L. 104–
 
   (A) shall include a discussion and accounting of Amtrak’s success in meeting the goal described in section 24902(a);
 
-  (B) may include recommendations for legislation, including the amount of financial assistance needed for operations and capital improvements, the method of computing the assistance, and the sources of the assistance; and
+  (B) may include recommendations for legislation, including the amount of financial assistance needed for operations and capital improvements, the method of computing the assistance, and the sources of the assistance;
 
-  (C) shall incorporate the category described in section 24319(c)(2)(C).
+  (C) shall incorporate the category described in section 24319(c)(2)(C);
+
+  (D) shall include an action plan for bringing Amtrak-served stations that are not in compliance with the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.) into compliance with such Act, as required by the settlement agreement entered into in 2020 between Amtrak and the Department of Justice;
+
+  (E) shall include a status report on—
+
+    (i) Amtrak-served stations for which Amtrak is solely responsible for compliance with such Act based on a station assessment carried out by Amtrak, including a timeline for any required compliance with such Act, as required by the settlement agreement;
+
+    (ii) Amtrak-served stations for which Amtrak has a shared responsibility for compliance with such Act based on a station assessment carried out by Amtrak or by the party responsible for such compliance, including a timeline for any required compliance with such Act for the portions of the station for which Amtrak is the responsible party consistent with the terms of the settlement agreement, identifying who is responsible for compliance (and the status of the compliance of each responsible party with such Act) for such portions and the timeline for compliance in cases in which Amtrak is not the responsible party; and
+
+    (iii) the status of compliance with such Act for all Amtrak-served stations for which Amtrak is not the responsible party, nor is responsible for a portion of the station, and identify the entity or entities that have responsibility for compliance with such Act, based on a station assessment carried out by Amtrak or the party responsible under such Act.
 
 (2) Amtrak may submit reports to the President and Congress at other times Amtrak considers desirable.
+
+(3) Amtrak may meet the requirements described in clauses (ii) and (iii) of paragraph (1)(E) by demonstrating that Amtrak took reasonable measures to obtain cooperation from responsible entities.
+
+(4) Amtrak shall submit the action plan and status report required under subparagraphs (D) and (E) of paragraph (1)—
+
+  (A) annually while the settlement agreement referred to in paragraph (1)(D) is in effect; and
+
+  (B) every 5 years beginning on the first day the settlement is no longer in effect.
 
 **(c) Secretary’s Report on Effectiveness of This Part.—** The Secretary of Transportation shall prepare a report on the effectiveness of this part in meeting the requirements for a balanced transportation system in the United States. The report may include recommendations for legislation. The Secretary shall include this report as part of the annual report the Secretary submits under [section 308(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section308/a&num=0&edition=prelim).
 
@@ -1193,7 +1211,14 @@ In subsection (f), the words “if required” are substituted for “To the ext
 
 In subsection (g), the word “giving” is substituted for “The report to the Congress shall contain such” to eliminate unnecessary words. The words “as the Comptroller General may deem”, “as he may deem advisable”, “program, expenditure or other”, “observed in the course of the audit”, and “or made” are omitted as surplus.
 
+#### References in Text
+The Americans with Disabilities Act of 1990 and such Act, referred to in subsec. (b)(1)(D), (E), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+
 #### Amendments
+2024—Subsec. (b)(1)(D), (E). Pub. L. 118–205, § 2(1), added subpars. (D) and (E).
+
+Subsec. (b)(3), (4). Pub. L. 118–205, § 2(2), added pars. (3) and (4).
+
 2021—Subsec. (a)(1)(I). Pub. L. 117–58, § 22204(a), added subpar. (I).
 
 Subsec. (b)(1)(A). Pub. L. 117–58, § 22206(c)(1)(A), substituted “the goal described in section 24902(a);” for “the goal of [section 24902(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section24902/b&num=0&edition=prelim); and”.

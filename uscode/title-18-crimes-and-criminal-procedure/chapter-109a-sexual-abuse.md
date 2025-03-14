@@ -25,7 +25,7 @@ source: >-
   (B) engages in a sexual act with that other person;
 or attempts to do so, shall be fined under this title, imprisoned for any term of years or life, or both.
 
-**(c) With Children.—** Whoever crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in a sexual act with another person who has not attained the age of 12 years, or knowingly engages in a sexual act under the circumstances described in subsections (a) and (b) with another person who has attained the age of 12 years but has not attained the age of 16 years (and is at least 4 years younger than the person so engaging), or attempts to do so, shall be fined under this title and imprisoned for not less than 30 years or for life. If the defendant has previously been convicted of another Federal offense under this subsection, or of a State offense that would have been an offense under either such provision had the offense occurred in a Federal prison, unless the death penalty is imposed, the defendant shall be sentenced to life in prison.
+**(c) With Children.—** Whoever crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in a sexual act with another person who has not attained the age of 12 years, or knowingly engages in a sexual act under the circumstances described in subsections (a) and (b) with another person who has attained the age of 12 years but has not attained the age of 16 years (and is at least 4 years younger than the person so engaging), or attempts to do so, shall be fined under this title and imprisoned for not less than 30 years or for life. If the defendant has previously been convicted of another Federal offense under this subsection, or of a State offense or an offense under the Uniform Code of Military Justice that would have been an offense under any such provision had the offense occurred in a Federal prison, unless the death penalty is imposed, the defendant shall be sentenced to life in prison.
 
 **(d) State of Mind Proof Requirement.—** In a prosecution under subsection (c) of this section, the Government need not prove that the defendant knew that the other person engaging in the sexual act had not attained the age of 12 years.
 
@@ -35,6 +35,8 @@ or attempts to do so, shall be fined under this title, imprisoned for any term o
 Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2241.
 
 #### Amendments
+2024—Subsec. (c). Pub. L. 118–159 inserted “or an offense under the Uniform Code of Military Justice” after “State offense” and substituted “any such provision” for “either such provision” in second sentence.
+
 2007—Subsecs. (a) to (c). Pub. L. 110–161 substituted “the head of any Federal department or agency” for “the Attorney General”.
 
 2006—Subsecs. (a), (b). Pub. L. 109–248, § 207(2), inserted comma after “Attorney General” in introductory provisions.

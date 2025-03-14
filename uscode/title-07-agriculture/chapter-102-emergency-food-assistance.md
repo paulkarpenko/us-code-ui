@@ -90,7 +90,7 @@ shall be made available by the Secretary, without charge or credit for such comm
 
 **(e) Report to Congress** Effective April 1, 1986, the Secretary shall submit semiannually to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the types and amounts of commodities made available for distribution under this chapter.
 
-**(f) Relation to other programs** Notwithstanding any other provision of law, the programs authorized by [section 713a–14 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section713a–14&num=0&edition=prelim) 11 See References in Text note below. and section 1163 of the Food Security Act of 1985 shall not be operated in a manner that will, in any way, reduce the quantities of dairy products that traditionally are made available to carry out this chapter or any other domestic feeding program.
+**(f) Relation to other programs** Notwithstanding any other provision of law, the programs authorized by [section 713a–14 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section713a–14&num=0&edition=prelim) 22 See References in Text note below. and section 1163 of the Food Security Act of 1985 shall not be operated in a manner that will, in any way, reduce the quantities of dairy products that traditionally are made available to carry out this chapter or any other domestic feeding program.
 
 **(g) Donations to emergency feeding organizations**
 
@@ -288,7 +288,7 @@ Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that this s
 
 (4) **Cooperative agreements** — The Secretary may encourage a State agency that carries out a project using Federal funds received under paragraph (2) to enter into cooperative agreements with State agencies of other States under [section 7505(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7505/d&num=0&edition=prelim) to maximize the use of commodities donated under the project.
 
-(5) **Funding** — Out of funds not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this subsection $4,000,000 for each of fiscal years 2019 through 2024, to remain available until the end of the subsequent fiscal year.
+(5) **Funding** — Out of funds not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this subsection $4,000,000 for each of fiscal years 2019 through 2031, to remain available until the end of the subsequent fiscal year.
 
 **(e) Food waste** The Secretary shall issue guidance outlining best practices to minimize the food waste of the commodities donated under subsection (a).
 
@@ -311,6 +311,8 @@ Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that this s
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (d)(5). Pub. L. 119–21 substituted “2031” for “2024”.
+
 2023—Subsec. (d)(5). Pub. L. 118–22 substituted “2024” for “2023”.
 
 2018—Subsecs. (d), (e). Pub. L. 115–334, § 4018(b), (c), added subsecs. (d) and (e).

@@ -2,7 +2,7 @@
 title: 33
 heading: NAVIGATION AND NAVIGABLE WATERS
 positive_law: false
-sections: 1553
+sections: 1569
 chapters: 57
 ---
 # Title 33. NAVIGATION AND NAVIGABLE WATERS

@@ -261,7 +261,7 @@ Pub. L. 95–216, title III, § 317(b)(4), Dec. 20, 1977, 91 Stat. 1540, provide
 
 (15) in the case of a member of an Indian tribe, the special rules of section 7873 (relating to income derived by Indians from exercise of fishing rights) shall apply;
 
-(16) the deduction provided by section 199 1 shall not be allowed; and
+(16) the deduction provided by section 199 11 See References in Text note below. shall not be allowed; and
 
 (17) notwithstanding the preceding provisions of this subsection, each spouse’s share of income or loss from a qualified joint venture shall be taken into account as provided in section 761(f) in determining net earnings from self-employment of such spouse.
 If the taxable year of a partner is different from that of the partnership, the distributive share which he is required to include in computing his net earnings from self-employment shall be based on the ordinary income or loss of the partnership for any taxable year of the partnership ending within or with his taxable year. In the case of any trade or business which is carried on by an individual or by a partnership and in which, if such trade or business were carried on exclusively by employees, the major portion of the services would constitute agricultural labor as defined in section 3121(g)—

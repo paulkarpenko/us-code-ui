@@ -418,6 +418,14 @@ In subsection (b)(2), the words “for the use of” and “performance of” ar
 
 (2) The Secretary may not transfer more than 10,000 surplus caliber .45 M1911/M1911A1 pistols to the corporation during any year and may only transfer such pistols as long as pistols described in paragraph (1) remain available for transfer.
 
+(3) The Secretary may conduct a one-time transfer to the corporation, in accordance with the procedure prescribed in this subchapter, of pump action shotguns, including any shotguns that are surplus to the requirements of the Center of Military History and the Army Museum Enterprise, that—
+
+  (A) on the date of the enactment of this paragraph are under the control of the Secretary; and
+
+  (B) are surplus to the requirements of the Department of the Army at the time of the submission of the report required in subsection (k).
+
+(4) The Secretary may not transfer pursuant to paragraph (3) any shotgun that is a modular ancillary addition to a service rifle, or meets the definition of a “short-barreled shotgun” as that term is defined in [section 921(a)(6) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section921/a/6&num=0&edition=prelim), United States Code.
+
 **(i) Authorized Navy Transfers.—**
 
 (1) Notwithstanding subsections (a) and (b), the Secretary of the Navy may transfer to the corporation, in accordance with the procedures prescribed in this subchapter, M–1 Garand and caliber .22 rimfire rifles held within the inventories of the United States Navy and the United States Marine Corps and stored at Defense Distribution Depot, Anniston, Alabama, or Naval Surface Warfare Center, Crane, Indiana, as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018.
@@ -427,6 +435,38 @@ In subsection (b)(2), the words “for the use of” and “performance of” ar
   (A) shall be used as awards for competitors in marksmanship competitions held by the United States Marine Corps or the United States Navy and may not be resold; and
 
   (B) shall be rendered inoperable prior to award and transfer to marksmanship competitors.
+
+(3) The Secretary of the Navy may conduct a one-time transfer to the corporation, in accordance with the procedure prescribed in this subchapter, of surplus pump action shotguns that—
+
+  (A) on the date of the enactment of this paragraph are under the control of the Secretary; and
+
+  (B) are surplus to the requirements of the Department of the Navy at the time of the submission of the report required in subsection (k).
+
+(4) The Secretary may not transfer pursuant to paragraph (3) any shotgun that is a modular ancillary addition to a service rifle or meets the definition of a ‘short-barreled shotgun’ as that term is defined in [section 921(a)(6) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section921/a/6&num=0&edition=prelim), United States Code.
+
+**(j) Authorized Air Force Transfers.—**
+
+(1) The Secretary of the Air Force may conduct a one-time transfer to the corporation, in accordance with the procedures prescribed in this subchapter, of pump action shotguns that—
+
+  (A) on the date of the enactment of this paragraph are under the control of the Secretary; and
+
+  (B) are surplus to the requirements of the Department of the Air Force at the time of the submission of the report required in subsection (k).
+
+(2) The Secretary may not transfer pursuant to paragraph (1) any shotgun that is a modular ancillary addition to a service rifle or meets the definition of a “short-barreled shotgun” as that term is defined in [section 921(a)(6) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section921/a/6&num=0&edition=prelim), United States Code.
+
+**(k) Report Required.—**
+
+(1) The Secretary concerned authorized to transfer shotguns under subsection (h), (i), or (j) shall submit to the Committees on Armed Services of the Senate and House of Representatives a report that includes the following elements:
+
+  (A) The total number of surplus shotguns, including the make and model of each such shotgun, that meet the criteria for transfer to the corporation under such subsection.
+
+  (B) The total number of surplus shotguns, including the make and mode of each such shotgun, that the Secretary concerned intends to transfer to the corporation under such subsection.
+
+(2) In this subsection, the term “Secretary concerned” has the meaning given such term in [section 101(a)(9) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/9&num=0&edition=prelim), United States Code.
+
+**(l) Limitation on Transfer of Surplus Shotguns.—** A Secretary may not transfer surplus shotguns described in subsections (h), (i), or (j), until the date that is 60 days after the date of the submittal of the report required under subsection (k).
+
+**(m) Briefing Required.—** The Secretary of the Army shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the results of the investigation by the Bureau of Alcohol, Tobacco, Firearms, and Explosives and the United States Army Criminal Investigation Division regarding unaccounted for pistols at the corporation. The briefing shall be provided after the investigation has concluded.
 
 ### Statutory Notes
 
@@ -460,7 +500,15 @@ The date of the enactment of this subsection, referred to in subsec. (h)(1), is 
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (i), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
 
+The date of the enactment of this paragraph, referred to in subsecs. (h)(3)(A), (i)(3)(A), and (j)(1)(A), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
+
 #### Amendments
+2025—Subsec. (h)(3), (4). Pub. L. 119–60, § 1062(a)(1), added pars. (3) and (4).
+
+Subsec. (i)(3), (4). Pub. L. 119–60, § 1062(a)(2), added pars. (3) and (4).
+
+Subsecs. (j) to (m). Pub. L. 119–60, § 1062(a)(3), added subsecs. (j) to (m).
+
 2017—Subsec. (i). Pub. L. 115–91 added subsec. (i).
 
 2015—Subsec. (h). Pub. L. 114–92 added subsec. (h).
@@ -612,11 +660,11 @@ In subsection (b) the words “shall ensure” are substituted for “shall be r
 
 <a id="section-40732"></a>
 ## § 40732. Sale of firearms and supplies
-**(a) Affiliated Organizations.—** The corporation may sell, at fair market value, surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, and caliber .45 M1911/M1911A1 surplus pistols, air rifles, caliber .22 and .30 ammunition, repair parts, and other supplies to organizations affiliated with the corporation that provide training in the use of firearms.
+**(a) Affiliated Organizations.—** The corporation may sell, at fair market value, surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, caliber .45 M1911/M1911A1 surplus pistols, and surplus pump action shotguns (except any shotgun that is a modular ancillary addition to a service rifle, or meets the definition of a “short-barreled shotgun” as that term is defined in [section 921(a)(6) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section921/a/6&num=0&edition=prelim), United States Code), air rifles, caliber .22 and .30 ammunition, repair parts, and other supplies to organizations affiliated with the corporation that provide training in the use of firearms.
 
 **(b) Gun Club Members.—**
 
-(1) The corporation may sell, at fair market value, surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, and caliber .45 M1911/M1911A1 surplus pistols, ammunition, repair parts and other supplies necessary for target practice to a citizen of the United States who is legally of age and who is a member of a gun club affiliated with the corporation.
+(1) The corporation may sell, at fair market value, surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, caliber .45 M1911/M1911A1 surplus pistols, and surplus pump action shotguns (except any shotgun that is a modular ancillary addition to a service rifle, or meets the definition of a “short-barreled shotgun” as that term is defined in [section 921(a)(6) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section921/a/6&num=0&edition=prelim), United States Code), ammunition, repair parts and other supplies necessary for target practice to a citizen of the United States who is legally of age and who is a member of a gun club affiliated with the corporation.
 
 (2) Except as provided in [section 40733 of this title](./chapter-407-corporation-for-the-promotion-of-rifle-practice-and-firearms-safety.md#section-40733), sales under this subsection are subject to applicable United States, State, and local law. In addition to any other requirement, the corporation shall establish procedures to obtain a criminal records check of the individual with United States Government and State law enforcement agencies.
 
@@ -654,6 +702,8 @@ In subsection (c)(1), the word “sell” is substituted for “offer for sale�
 In subsection (c)(2), the words “any item” are substituted for “rifles, ammunition, or any other item available for sale to individuals under the Civilian Marksmanship Program” to eliminate unnecessary words.
 
 #### Amendments
+2025—Subsecs. (a), (b)(1). Pub. L. 119–60 substituted “, caliber .45 M1911/M1911A1 surplus pistols, and surplus pump action shotguns (except any shotgun that is a modular ancillary addition to a service rifle, or meets the definition of a ‘short-barreled shotgun’ as that term is defined in [section 921(a)(6) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section921/a/6&num=0&edition=prelim), United States Code),” for “, and caliber .45 M1911/M1911A1 surplus pistols,”.
+
 2016—Subsec. (c)(1). Pub. L. 114–328, § 1096(b)(2), substituted “No person acquiring a firearm under this chapter may” for “The corporation may not”.
 
 Subsec. (d). Pub. L. 114–328, § 1096(b)(1), added subsec. (d).

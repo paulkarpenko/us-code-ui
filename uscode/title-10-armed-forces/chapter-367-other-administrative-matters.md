@@ -278,6 +278,9 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 #### Regulations
 Pub. L. 106–65, div. A, title IX, § 933(b)(1), Oct. 5, 1999, 113 Stat. 730, provided that: “Regulations under [section 2784 of title 10](./chapter-165-accountability-and-responsibility.md#section-2784), United States Code [now [10 U.S.C. 4754](./chapter-367-other-administrative-matters.md#section-4754)], as added by subsection (a), shall be prescribed not later than 180 days after the date of the enactment of this Act [Oct. 5, 1999].”
 
+#### Compliance With Travel Charge Card Deactivation Requirements
+Pub. L. 119–60, div. A, title V, § 593(a), Dec. 18, 2025, 139 Stat. 900, provided that: “(a) Policy Compliance.—Not later than 60 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall ensure that Department of Defense policies and procedures are consistent with section 2(h)(1)(H) of the Travel and Transportation Reform Act of 1998 (Public Law 105–264; [5 U.S.C. 5701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701&num=0&edition=prelim) note) and related implementing guidance, regarding the prompt deactivation and closure of government-issued travel charge card accounts upon the separation, retirement, or termination of military or civilian personnel.”
+
 #### Crediting of Refunds
 Pub. L. 110–116, div. A, title VIII, § 8067, Nov. 13, 2007, 121 Stat. 1329, provided that: “Beginning in the current fiscal year and hereafter, refunds attributable to the use of the Government travel card, refunds attributable to the use of the Government Purchase Card and refunds attributable to official Government travel arranged by Government Contracted Travel Management Centers may be credited to operation and maintenance, and research, development, test and evaluation accounts of the Department of Defense which are current when the refunds are received.”
 

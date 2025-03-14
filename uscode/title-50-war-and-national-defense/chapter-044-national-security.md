@@ -2,7 +2,7 @@
 title: 50
 chapter: '44'
 heading: NATIONAL SECURITY
-section_count: 150
+section_count: 157
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -196,7 +196,7 @@ Pub. L. 117–103, div. X, title VIII, § 823(b), Mar. 15, 2022, 136 Stat. 1022,
 
 <a id="section-3006"></a>
 ## § 3006. Annual report on reporting requirements
-**(a) Annual report required** Not later than March 1 of each fiscal year, the Director of National Intelligence shall submit to the congressional intelligence committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives a report detailing all congressionally mandated reporting requirements applicable to Office 11 So in original. Probably should be preceded by “the”. of the Director of National Intelligence for the upcoming fiscal year.
+**(a) Annual report required** Not later than March 1 of each fiscal year, the Director of National Intelligence shall submit to the congressional intelligence committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives a report detailing all congressionally mandated reporting requirements applicable to the Office of the Director of National Intelligence for the upcoming fiscal year.
 
 **(b) Contents** Each report submitted pursuant to subsection (a) shall include, for the fiscal year covered by the report and for each congressionally mandated reporting requirement detailed in the report:
 
@@ -209,6 +209,11 @@ Pub. L. 117–103, div. X, title VIII, § 823(b), Mar. 15, 2022, 136 Stat. 1022,
 (4) Whether the Director recommends repealing or modifying the requirement.
 
 **(c) Form** Each report submitted pursuant to subsection (a) may be submitted in classified form.
+
+### Statutory Notes
+
+#### Amendments
+2024—Subsec. (a). Pub. L. 118–159 inserted “the” before “Office of the Director”.
 
 
 <a id="section-3021"></a>
@@ -231,6 +236,9 @@ Pub. L. 108–458, title I, § 1081, Dec. 17, 2004, 118 Stat. 3696, provided tha
 Pub. L. 108–458, title I, subtitle H, Dec. 17, 2004, 118 Stat. 3697, as amended by Pub. L. 109–13, div. A, title I, § 1009, May 11, 2005, 119 Stat. 244; Pub. L. 117–263, div. F, title LXIV, § 6403, Dec. 23, 2022, 136 Stat. 3525, provided that: “SEC. 1091. TRANSFER OF COMMUNITY MANAGEMENT STAFF.“(a) Transfer.—There shall be transferred to the Office of the Director of National Intelligence such staff of the Community Management Staff as of the date of the enactment of this Act [Dec. 17, 2004] as the Director of National Intelligence determines to be appropriate, including all functions and activities discharged by the Community Management Staff as of that date. “(b) Administration.—The Director of National Intelligence shall administer the Community Management Staff after the date of the enactment of this Act [Dec. 17, 2004] as a component of the Office of the Director of National Intelligence under section 103 of the National Security Act of 1947 [[50 U.S.C. 3025](./chapter-044-national-security.md#section-3025)], as amended by section 1011(a) of this Act. “SEC. 1092. TRANSFER OF TERRORIST THREAT INTEGRATION CENTER.“(a) Transfer.—There shall be transferred to the National Counterterrorism Center the Terrorist Threat Integration Center (TTIC) or its successor entity, including all functions and activities discharged by the Terrorist Threat Integration Center or its successor entity as of the date of the enactment of this Act [Dec. 17, 2004]. “(b) Administration.—The Director of the National Counterterrorism Center shall administer the Terrorist Threat Integration Center after the date of the enactment of this Act [Dec. 17, 2004] as a component of the Directorate of Intelligence of the National Counterterrorism Center under section 119(i) of the National Security Act of 1947 [[50 U.S.C. 3056(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3056/i&num=0&edition=prelim)], as added by section 1021(a) [1021] of this Act. “SEC. 1093. TERMINATION OF POSITIONS OF ASSISTANT DIRECTORS OF CENTRAL INTELLIGENCE.“(a) Termination.—The positions referred to in subsection (b) are hereby abolished. “(b) Covered Positions.—The positions referred to in this subsection are as follows:“(1) The Assistant Director of Central Intelligence for Collection. “(2) The Assistant Director of Central Intelligence for Analysis and Production. “(3) The Assistant Director of Central Intelligence for Administration. “SEC. 1094. IMPLEMENTATION PLAN.“The President shall transmit to Congress a plan for the implementation of this title [see Tables for classification] and the amendments made by this title. The plan shall address, at a minimum, the following:“(1) The transfer of personnel, assets, and obligations to the Director of National Intelligence pursuant to this title. “(2) Any consolidation, reorganization, or streamlining of activities transferred to the Director of National Intelligence pursuant to this title. “(3) The establishment of offices within the Office of the Director of National Intelligence to implement the duties and responsibilities of the Director of National Intelligence as described in this title. “(4) Specification of any proposed disposition of property, facilities, contracts, records, and other assets and obligations to be transferred to the Director of National Intelligence. “(5) Recommendations for additional legislative or administrative action as the President considers appropriate. “SEC. 1095. DIRECTOR OF NATIONAL INTELLIGENCE REPORT ON IMPLEMENTATION OF INTELLIGENCE COMMUNITY REFORM.“(a) Report.—Not later than one year after the effective date of this Act [probably means the effective date of title I of Pub. L. 108–458, see below], the Director of National Intelligence shall submit to the congressional intelligence committees a report on the progress made in the implementation of this title [see Tables for classification], including the amendments made by this title. The report shall include a comprehensive description of the progress made, and may include such recommendations for additional legislative or administrative action as the Director considers appropriate. “(b) Congressional Intelligence Committees Defined.—In this section, the term ‘congressional intelligence committees’ means—“(1) the Select Committee on Intelligence of the Senate; and “(2) the Permanent Select Committee on Intelligence of the House of Representatives. “SEC. 1096. TRANSITIONAL AUTHORITIES.“(a) In General.—(1) Upon the request of the Director of National Intelligence, the head of any executive agency may, on a reimbursable basis, provide services or detail personnel to the Director of National Intelligence. Any records of the Office of the Director of National Intelligence that are maintained by the agency as a service for the Office of the Director of National Intelligence under [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim), United States Code, (popularly known as the ‘Economy Act’) may be treated as the records of the agency when dispositioned as required by law, and any disclosure of such records between the two agencies shall not be subject to any otherwise applicable legal consent requirements or disclosure accounting requirements. “(2) The records of the Office of the Director of National Intelligence may not be dispositioned pursuant to paragraph (1) without the authorization of the Director of National Intelligence. “(b) Transfer of Personnel.—In addition to any other authorities available under law for such purposes, in the fiscal years 2005 and 2006, the Director of National Intelligence—“(1) is authorized within the Office of the Director of National Intelligence the total of 500 new personnel positions; and “(2) with the approval of the Director of the Office of Management and Budget, may detail not more than 150 personnel funded within the National Intelligence Program to the Office of the Director of National Intelligence for a period of not more than 2 years. “SEC. 1097. EFFECTIVE DATES.“(a) In General.—Except as otherwise expressly provided in this Act [see Tables for classification], this title [see Tables for classification] and the amendments made by this title shall take effect not later than six months after the date of the enactment of this Act [Dec. 17, 2004] [For determination by the President that certain sections of title I of Pub. L. 108–458 take effect earlier than six months after the date of enactment, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note below.]. “(b) Specific Effective Dates.—(1)(A) Not later than 60 days after the date of the appointment of the first Director of National Intelligence, the Director of National Intelligence shall first appoint individuals to positions within the Office of the Director of National Intelligence. “(B) Subparagraph (A) shall not apply with respect to the Principal Deputy Director of National Intelligence. “(2) Not later than 180 days after the effective date of this Act [probably means the effective date of title I of Pub. L. 108–458, see above], the President shall transmit to Congress the implementation plan required by section 1094. “(3) Not later than one year after the date of the enactment of this Act [Dec. 17, 2004], the Director of National Intelligence shall prescribe regulations, policies, procedures, standards, and guidelines required under section 102A of the National Security Act of 1947 [[50 U.S.C. 3024](./chapter-044-national-security.md#section-3024)], as amended by section 1011(a) of this Act.”
 
 [Functions of President under section 1094 of Pub. L. 108–458, set out in a note above, assigned to the Director of National Intelligence by section 3 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.]
+
+#### Short Title of 2025 Amendment
+Pub. L. 119–60, div. F, title LXIV, § 6401, Dec. 18, 2025, 139 Stat. 1615, provided that: “This title [see Tables for classification] may be cited as the ‘Intelligence Community Efficiency and Effectiveness Act of 2025’.”
 
 #### Short Title of 2018 Amendment
 Pub. L. 115–173, § 1, May 22, 2018, 132 Stat. 1291, provided that: “This Act [enacting provisions set out as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161)] may be cited as the ‘Securely Expediting Clearances Through Reporting Transparency Act of 2018’ or the ‘SECRET Act of 2018’.”
@@ -1718,6 +1726,10 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see [section 2651a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2651a&num=0&edition=prelim), Foreign Relations and Intercourse, and section 161(d) of Pub. L. 103–236, set out as a note under [section 2651a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2651a&num=0&edition=prelim).
 
 #### Definitions Applicable to Specific Acts
+Pub. L. 119–60, div. F, § 6002, Dec. 18, 2025, 139 Stat. 1608, provided that: “In this division [see Tables for classification]: “(1) Congressional intelligence committees.—The term ‘congressional intelligence committees’ has the meaning given such term in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](./chapter-044-national-security.md#section-3003)). “(2) Intelligence community.—The term ‘intelligence community’ has the meaning given such term in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](./chapter-044-national-security.md#section-3003)).”
+
+Pub. L. 118–159, div. F, § 6002, Dec. 23, 2024, 138 Stat. 2469, provided that: “In this division [see Tables for classification]: “(1) Congressional intelligence committees.—The term ‘congressional intelligence committees’ has the meaning given such term in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](./chapter-044-national-security.md#section-3003)). “(2) Intelligence community.—The term ‘intelligence community’ has the meaning given such term in such section.”
+
 Pub. L. 118–31, div. G, § 7002, Dec. 22, 2023, 137 Stat. 1021, provided that: “In this division [see Tables for classification]: “(1) Congressional intelligence committees.—The term ‘congressional intelligence committees’ has the meaning given such term in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](./chapter-044-national-security.md#section-3003)). “(2) Intelligence community.—The term ‘intelligence community’ has the meaning given such term in such section 3.”
 
 Pub. L. 117–263, div. F, § 6002, Dec. 23, 2022, 136 Stat. 3496, provided that: “In this division [see Tables for classification]: “(1) Congressional intelligence committees.—The term ‘congressional intelligence committees’ has the meaning given such term in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](./chapter-044-national-security.md#section-3003)). “(2) Intelligence community.—The term ‘intelligence community’ has the meaning given such term in such section.”
@@ -2430,7 +2442,7 @@ Sec. 2. Policy. It shall be the policy of the executive branch to:
 
 (f) pursue and support additional efforts to prevent the operational success of transnational criminal organizations and subsidiary organizations within and beyond the United States, to include prosecution of ancillary criminal offenses, such as immigration fraud and visa fraud, and the seizure of the implements of such organizations and forfeiture of the proceeds of their criminal activity.
 
-Sec. 3. [Revoked by Ex. Ord. No. 14060, § 3(a)(i), Dec. 15, 2021, 86 F.R. 71794, set out below.]
+Sec. 3. [Revoked by Ex. Ord. No. 14060, § 3(a)(i), Dec. 15, 2021, 86 F.R. 71794, formerly set out below.]
 
 Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -2442,88 +2454,8 @@ Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impa
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-#### Ex. Ord. No. 14060. Establishing the United States Council on Transnational Organized Crime
-Ex. Ord. No. 14060, Dec. 15, 2021, 86 F.R. 71793, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby order as follows:
-
-Section 1. Purpose. Transnational organized crime (TOC) poses a direct and escalating threat to public health, public safety, and national security. Transnational criminal organizations engage in a broad range of criminal activities, including drug and weapons trafficking, migrant smuggling, human trafficking, cybercrime, intellectual property theft, money laundering, wildlife and timber trafficking, illegal fishing, and illegal mining.
-
-These networks continue to expand in size and influence in the United States and abroad. Transnational criminal organizations contribute directly to tens of thousands of drug-overdose deaths in the United States each year and adversely affect American communities and economic prosperity. They also threaten United States national security by degrading the security and stability of allied and partner nations, undermining the rule of law, fostering corruption, acting as proxies for hostile state activities, directly or indirectly funding insurgent and terrorist groups, depleting natural resources, harming human health and the environment, contributing to climate change through illegal deforestation and logging, and exploiting and endangering vulnerable populations. In some regions, transnational criminal organizations wield state-like capabilities, disregarding sovereign borders, compromising the integrity of democratic institutions and threatening the legitimacy of fragile governments, and securing their power through intimidation, corruption, and violence. For these reasons, it is in the national interest of the United States to counter TOC. Addressing TOC requires a coordinated Federal framework accompanied by a cohesive whole-of-government effort executed in collaboration with State, local, Tribal, territorial, and civil society partners in the United States and in close coordination with foreign partners, international and regional organizations, and international and local civil society groups abroad.
-
-Sec. 2. Policy. Executive departments and agencies (agencies) shall take actions within their respective authorities, including, as appropriate, through the provision of technical and financial assistance, to enhance efforts to counter TOC. It is the policy of the United States to:
-
-(a) employ authorized intelligence and operational capabilities in an integrated manner to target, disrupt, and degrade transnational criminal organizations that pose the greatest threat to national security;
-
-(b) collaborate with private entities and international, multilateral, and bilateral organizations to combat TOC, while also strengthening cooperation with and advancing efforts to build capacity in partner nations to reduce transnational criminal activity;
-
-(c) improve information sharing between law enforcement entities and the Intelligence Community to enhance strategic analysis of, and efforts to combat, transnational criminal organizations and their activities, while also preserving our ability to speedily bring TOC actors to justice;
-
-(d) expand tools and capabilities to combat illicit finance, which underpins all TOC activities; and
-
-(e) develop and deploy new technologies to identify and disrupt existing and newly emerging TOC threats.
-
-Sec. 3. Establishments. (a) There shall be established a United States Council on Transnational Organized Crime (USCTOC), which shall report to the President through the Assistant to the President for National Security Affairs. The USCTOC shall monitor the production and implementation of coordinated strategic plans for whole-of-government counter-TOC efforts in support of and in alignment with policy priorities established by the President through the National Security Council.
-
-(i) The USCTOC shall replace the Threat Mitigation Working Group, previously directed to lead whole-of-government efforts on TOC under Executive Order 13773 of February 9, 2017 (Enforcing Federal Law With Respect to Transnational Criminal Organizations and Preventing International Trafficking) [set out above]. Accordingly, section 3 of Executive Order 13773 is hereby revoked.
-
-(ii) The USCTOC shall consist of the following members or their designees:
-
-(A) the Secretary of State;
-
-(B) the Secretary of the Treasury;
-
-(C) the Secretary of Defense;
-
-(D) the Attorney General;
-
-(E) the Secretary of Homeland Security; and
-
-(F) the Director of National Intelligence.
-
-(iii) The USCTOC may request other agencies to contribute to the USCTOC’s efforts as necessary, including by detail or assignment of personnel consistent with subsection (b)(v) of this section.
-
-(iv) The USCTOC shall meet not later than 60 days from the date of this order [Dec. 15, 2021] and periodically thereafter.
-
-(b) There shall be established a USCTOC Strategic Division (Division), an interagency working group housed at the Department of Justice, comprising personnel from agencies designated in subsection (a)(ii) of this section.
-
-(i) The Division shall produce coordinated strategic plans for whole-of-government counter-TOC efforts in support of and in alignment with policy priorities established by the President through the National Security Council. These strategic plans shall be informed by intelligence assessments, be developed in coordination with agencies, and include recommendations for actions by agencies. The Division shall submit its completed strategic plans to the USCTOC.
-
-(ii) The Division shall be chaired by a senior official from the Department of Justice or the Department of Homeland Security. The Chairperson shall serve a 2 year term. The Attorney General and the Secretary of Homeland Security, or their designees, shall alternate every 2 years selecting the Chairperson.
-
-(iii) The Division shall be established for administrative purposes within the Department of Justice, and the Department of Justice shall, to the extent permitted by law and subject to the availability of appropriations, provide administrative support and funding for the Division.
-
-(iv) Agencies designated in subsection (a)(ii) of this section are hereby directed, consistent with their authorities, budget priorities, and mission constraints, and to the extent permitted by law and consistent with the need to protect intelligence and law enforcement sources, methods, operations, and investigations, to provide to the Division:
-
-(A) details or assignments of personnel, who shall be qualified subject-matter experts and strategic planners, and who shall serve on full-time assignments of not less than 1 year;
-
-(B) relevant information, research, intelligence, and analysis; and
-
-(C) such other resources and assistance as the Division may request for the purpose of carrying out the responsibilities outlined in this section.
-
-(v) To the extent permitted by law, agencies designated in subsection (a)(ii) of this section are encouraged to detail or assign their employees to the Division on a non-reimbursable basis.
-
-(vi) The Division, within 120 days of the date of this order, shall submit to the USCTOC a report describing a process that the USCTOC can implement on an ongoing basis and as necessary to identify and prioritize the most significant TOC threats in alignment with policy priorities established by the President through the National Security Council.
-
-Sec. 4. Report. The Director of National Intelligence, within 120 days of the date of this order and annually thereafter, shall submit a report to the President through the Assistant to the President for National Security Affairs assessing the Intelligence Community’s posture with respect to TOC-related collection efforts, including recommendations on resource allocation and prioritization.
-
-Sec. 5. Definitions. For the purposes of this order:
-
-(a) the term “Intelligence Community” has the meaning ascribed to it under [50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim); and
-
-(b) the term “transnational criminal organizations” refers to groups, networks, and associated individuals who operate transnationally for the purpose of obtaining power, influence, or monetary or commercial gain, wholly or in part by illegal means, while advancing their activities through a pattern of crime, corruption, or violence, and while protecting their illegal activities through a transnational organizational structure and the exploitation of public corruption or transnational logistics, financial, or communication mechanisms.
-
-Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.
+#### Executive Order No. 14060
+Ex. Ord. No. 14060, Dec. 15, 2021, 86 F.R. 71793, establishing the United States Council on Transnational Organized Crime, was revoked by Ex. Ord. No. 14148, § 2(ss), Jan. 20, 2025, 90 F.R. 8239.
 
 #### Steps for Increased Legal and Policy Transparency Concerning the United States Use of Military Force and Related National Security Operations
 Memorandum of President of the United States, Dec. 5, 2016, 81 F.R. 94213, provided:
@@ -2790,11 +2722,7 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 
 (6) Apportionment and allotment of funds under this subsection shall be subject to chapter 13 and [section 1517 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1517&num=0&edition=prelim) and the Congressional Budget and Impoundment Control Act of 1974 ([2 U.S.C. 621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) et seq.).
 
-(7)
-
-  (A) The Director of National Intelligence shall provide a semi-annual report, beginning April 1, 2005, and ending April 1, 2007, to the President and the Congress regarding implementation of this section.
-
-  (B) The Director of National Intelligence shall report to the President and the Congress not later than 15 days after learning of any instance in which a departmental comptroller acts in a manner inconsistent with the law (including permanent statutes, authorization Acts, and appropriations Acts), or the direction of the Director of National Intelligence, in carrying out the National Intelligence Program.
+(7) The Director of National Intelligence shall report to the President and the Congress not later than 15 days after learning of any instance in which a departmental comptroller acts in a manner inconsistent with the law (including permanent statutes, authorization Acts, and appropriations Acts), or the direction of the Director of National Intelligence, in carrying out the National Intelligence Program.
 
 **(d) Role of Director of National Intelligence in transfer and reprogramming of funds**
 
@@ -2844,73 +2772,7 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 
 (7) Any transfer or reprogramming of funds under this subsection shall be carried out in accordance with existing procedures applicable to reprogramming notifications for the appropriate congressional committees. Any proposed transfer or reprogramming for which notice is given to the appropriate congressional committees shall be accompanied by a report explaining the nature of the proposed transfer or reprogramming and how it satisfies the requirements of this subsection. In addition, the congressional intelligence committees shall be promptly notified of any transfer or reprogramming of funds made pursuant to this subsection in any case in which the transfer or reprogramming would not have otherwise required reprogramming notification under procedures in effect as of December 17, 2004.
 
-**(e) Transfer of personnel**
-
-(1)
-
-  (A) In addition to any other authorities available under law for such purposes, in the first twelve months after establishment of a new national intelligence center, the Director of National Intelligence, with the approval of the Director of the Office of Management and Budget and in consultation with the congressional committees of jurisdiction referred to in subparagraph (B), may transfer not more than 100 personnel authorized for elements of the intelligence community to such center.
-
-  (B) The Director of National Intelligence shall promptly provide notice of any transfer of personnel made pursuant to this paragraph to—
-
-    (i) the congressional intelligence committees;
-
-    (ii) the Committees on Appropriations of the Senate and the House of Representatives;
-
-    (iii) in the case of the transfer of personnel to or from the Department of Defense, the Committees on Armed Services of the Senate and the House of Representatives; and
-
-    (iv) in the case of the transfer of personnel to or from the Department of Justice, to the Committees on the Judiciary of the Senate and the House of Representatives.
-
-  (C) The Director shall include in any notice under subparagraph (B) an explanation of the nature of the transfer and how it satisfies the requirements of this subsection.
-
-(2)
-
-  (A) The Director of National Intelligence, with the approval of the Director of the Office of Management and Budget and in accordance with procedures to be developed by the Director of National Intelligence and the heads of the departments and agencies concerned, may transfer personnel authorized for an element of the intelligence community to another such element for a period of not more than 2 years.
-
-  (B) A transfer of personnel may be made under this paragraph only if—
-
-    (i) the personnel are being transferred to an activity that is a higher priority intelligence activity; and
-
-    (ii) the transfer supports an emergent need, improves program effectiveness, or increases efficiency.
-
-  (C) The Director of National Intelligence shall promptly provide notice of any transfer of personnel made pursuant to this paragraph to—
-
-    (i) the congressional intelligence committees;
-
-    (ii) in the case of the transfer of personnel to or from the Department of Defense, the Committees on Armed Services of the Senate and the House of Representatives; and
-
-    (iii) in the case of the transfer of personnel to or from the Department of Justice, to the Committees on the Judiciary of the Senate and the House of Representatives.
-
-  (D) The Director shall include in any notice under subparagraph (C) an explanation of the nature of the transfer and how it satisfies the requirements of this paragraph.
-
-(3)
-
-  (A) In addition to the number of full-time equivalent positions authorized for the Office of the Director of National Intelligence for a fiscal year, there is authorized for such Office for each fiscal year an additional 100 full-time equivalent positions that may be used only for the purposes described in subparagraph (B).
-
-  (B) Except as provided in subparagraph (C), the Director of National Intelligence may use a full-time equivalent position authorized under subparagraph (A) only for the purpose of providing a temporary transfer of personnel made in accordance with paragraph (2) to an element of the intelligence community to enable such element to increase the total number of personnel authorized for such element, on a temporary basis—
-
-    (i) during a period in which a permanent employee of such element is absent to participate in critical language training; or
-
-    (ii) to accept a permanent employee of another element of the intelligence community to provide language-capable services.
-
-  (C) Paragraph (2)(B) shall not apply with respect to a transfer of personnel made under subparagraph (B).
-
-  (D) For each of the fiscal years 2010, 2011, and 2012, the Director of National Intelligence shall submit to the congressional intelligence committees an annual report on the use of authorities under this paragraph. Each such report shall include a description of—
-
-    (i) the number of transfers of personnel made by the Director pursuant to subparagraph (B), disaggregated by each element of the intelligence community;
-
-    (ii) the critical language needs that were fulfilled or partially fulfilled through the use of such transfers; and
-
-    (iii) the cost to carry out subparagraph (B).
-
-(4) It is the sense of Congress that—
-
-  (A) the nature of the national security threats facing the United States will continue to challenge the intelligence community to respond rapidly and flexibly to bring analytic resources to bear against emerging and unforeseen requirements;
-
-  (B) both the Office of the Director of National Intelligence and any analytic centers determined to be necessary should be fully and properly supported with appropriate levels of personnel resources and that the President’s yearly budget requests adequately support those needs; and
-
-  (C) the President should utilize all legal and administrative discretion to ensure that the Director of National Intelligence and all other elements of the intelligence community have the necessary resources and procedures to respond promptly and effectively to emerging and unforeseen national security challenges.
-
-**(f) Tasking and other authorities**
+**(e) Tasking and other authorities**
 
 (1)
 
@@ -2934,7 +2796,7 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 
     (iii) to the direct dissemination of information to State government and local government officials and private sector entities pursuant to sections 121 and 482 of title 6.
 
-(2) The Director of National Intelligence shall oversee the National Counterterrorism Center, the National Counterproliferation Center, and the National Counterintelligence and Security Center and may establish such other national intelligence centers as the Director determines necessary.
+(2) The Director of National Intelligence shall oversee the National Counterterrorism Center, the National Counterproliferation Center, and the National Counterintelligence and Security Center.
 
 (3)
 
@@ -2972,7 +2834,7 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 
     (ii) If the head of such element does not implement a recommendation made by the Director under clause (i), the head of such element shall submit to the congressional intelligence committees a notice of the determination not to implement the recommendation, including the reasons for the determination.
 
-  (D) The requirements of this paragraph shall not be construed to limit any authority of the Director of National Intelligence under subsection (m) or with respect to supervision of the Central Intelligence Agency.
+  (D) The requirements of this paragraph shall not be construed to limit any authority of the Director of National Intelligence under subsection (l) or with respect to supervision of the Central Intelligence Agency.
 
 (8) The Director of National Intelligence shall—
 
@@ -2986,17 +2848,17 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 
   (E) identify gaps, shortfalls, resources needs, and recommendations for adjustments in allocations and additional resources and other remedies to strengthen counterintelligence, security, and insider threat detection programs;
 
-  (F) pursuant to final damage assessments facilitated by the National Counterintelligence and Security Center that have been undertaken as a result of an unauthorized disclosure, determine whether the heads of the elements of the intelligence community implement recommended mitigation, and notify the congressional intelligence committees of such determinations and notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in cases involving elements of the intelligence community withing 11 So in original. Probably should be “within”. the Department of Defense; and
+  (F) pursuant to final damage assessments facilitated by the National Counterintelligence and Security Center that have been undertaken as a result of an unauthorized disclosure, determine whether the heads of the elements of the intelligence community implement recommended mitigation, and notify the congressional intelligence committees of such determinations and notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in cases involving elements of the intelligence community within the Department of Defense; and
 
   (G) study the data collected during the course of background investigations and adjudications for security clearances granted to individuals who subsequently commit unauthorized disclosures, and issue findings regarding the quality of such data as a predictor for insider threat activity, delineated by the severity of the unauthorized disclosure.
 
 (9) The Director of National Intelligence shall ensure there is established a policy for minimum insider threat standards for the intelligence community and ensure compliance by the elements of the intelligence community with that policy.
 
-(10) The Director of National Intelligence shall perform such other intelligence-related functions as the President may direct.
+(10) The Director of National Intelligence shall perform such other intelligence-related functions as the President may direct, and upon receiving any such direction, the Director shall notify the congressional intelligence committees immediately in writing with a description of such other intelligence-related functions directed by the President.
 
 (11) Nothing in this subchapter shall be construed as affecting the role of the Department of Justice or the Attorney General under the Foreign Intelligence Surveillance Act of 1978 [[50 U.S.C. 1801](./chapter-036-foreign-intelligence-surveillance.md#section-1801) et seq.].
 
-**(g) Intelligence information sharing**
+**(f) Intelligence information sharing**
 
 (1) The Director of National Intelligence shall have principal authority to ensure maximum availability of and access to intelligence information within the intelligence community consistent with national security requirements. The Director of National Intelligence shall—
 
@@ -3024,7 +2886,7 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 
 (4) The Director of National Intelligence shall, in a timely manner, report to Congress any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively ensure maximum availability of access to intelligence information within the intelligence community consistent with the protection of the national security of the United States.
 
-**(h) Analysis** To ensure the most accurate analysis of intelligence is derived from all sources to support national security needs, the Director of National Intelligence shall—
+**(g) Analysis** To ensure the most accurate analysis of intelligence is derived from all sources to support national security needs, the Director of National Intelligence shall—
 
 (1) implement policies and procedures—
 
@@ -3040,7 +2902,7 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 
 (4) ensure that sufficient relationships are established between intelligence collectors and analysts to facilitate greater understanding of the needs of analysts.
 
-**(i) Protection of intelligence sources and methods**
+**(h) Protection of intelligence sources and methods**
 
 (1) The Director of National Intelligence shall protect, and shall establish and enforce policies to protect, intelligence sources and methods from unauthorized disclosure.
 
@@ -3060,7 +2922,7 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 
   (B) Nothing in this paragraph shall be construed to alter any congressional leadership’s or congressional committee’s jurisdiction or access to information from any element of the intelligence community under the rules of either chamber of Congress.
 
-**(j) Uniform procedures for classified information** The Director of National Intelligence, subject to the direction of the President, shall—
+**(i) Uniform procedures for classified information** The Director of National Intelligence, subject to the direction of the President, shall—
 
 (1) establish uniform standards and procedures for the grant of access to sensitive compartmented information to any officer or employee of any agency or department of the United States and to employees of contractors of those agencies or departments;
 
@@ -3074,9 +2936,9 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 
 (6) develop procedures to require information sharing between elements of the intelligence community concerning potentially derogatory security information regarding an employee or officer of an element of the intelligence community, a contractor to an element of the intelligence community, or an individual employee of such a contractor that may impact the eligibility of such employee or officer of an element of the intelligence community, such contractor, or such individual employee of such a contractor for a security clearance.
 
-**(k) Coordination with foreign governments** Under the direction of the President and in a manner consistent with [section 3927 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3927&num=0&edition=prelim), the Director of National Intelligence shall oversee the coordination of the relationships between elements of the intelligence community and the intelligence or security services of foreign governments or international organizations on all matters involving intelligence related to the national security or involving intelligence acquired through clandestine means.
+**(j) Coordination with foreign governments** Under the direction of the President and in a manner consistent with [section 3927 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3927&num=0&edition=prelim), the Director of National Intelligence shall oversee the coordination of the relationships between elements of the intelligence community and the intelligence or security services of foreign governments or international organizations on all matters involving intelligence related to the national security or involving intelligence acquired through clandestine means.
 
-**(l) Enhanced personnel management**
+**(k) Enhanced personnel management**
 
 (1)
 
@@ -3128,13 +2990,13 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 
   (D) Assignment to the Office of the Director of National Intelligence of commissioned officers of the Armed Forces shall be considered a joint-duty assignment for purposes of the joint officer management policies prescribed by chapter 38 of title 10 and other provisions of that title.
 
-**(m) Additional authority with respect to personnel**
+**(l) Additional authority with respect to personnel**
 
-(1) In addition to the authorities under subsection (f)(3), the Director of National Intelligence may exercise with respect to the personnel of the Office of the Director of National Intelligence any authority of the Director of the Central Intelligence Agency with respect to the personnel of the Central Intelligence Agency under the Central Intelligence Agency Act of 1949 [[50 U.S.C. 3501](./chapter-046-central-intelligence-agency.md#section-3501) et seq.], and other applicable provisions of law, as of December 17, 2004, to the same extent, and subject to the same conditions and limitations, that the Director of the Central Intelligence Agency may exercise such authority with respect to personnel of the Central Intelligence Agency, including with respect to the notification requirement under section 8(c) of such Act ([50 U.S.C. 3510(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3510/c&num=0&edition=prelim)).
+(1) In addition to the authorities under subsection (f)(3),11 See References in Text note below. the Director of National Intelligence may exercise with respect to the personnel of the Office of the Director of National Intelligence any authority of the Director of the Central Intelligence Agency with respect to the personnel of the Central Intelligence Agency under the Central Intelligence Agency Act of 1949 [[50 U.S.C. 3501](./chapter-046-central-intelligence-agency.md#section-3501) et seq.], and other applicable provisions of law, as of December 17, 2004, to the same extent, and subject to the same conditions and limitations, that the Director of the Central Intelligence Agency may exercise such authority with respect to personnel of the Central Intelligence Agency, including with respect to the notification requirement under section 8(c) of such Act ([50 U.S.C. 3510(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3510/c&num=0&edition=prelim)).
 
 (2) Employees and applicants for employment of the Office of the Director of National Intelligence shall have the same rights and protections under the Office of the Director of National Intelligence as employees of the Central Intelligence Agency have under the Central Intelligence Agency Act of 1949 [[50 U.S.C. 3501](./chapter-046-central-intelligence-agency.md#section-3501) et seq.], and other applicable provisions of law, as of December 17, 2004.
 
-**(n) Acquisition and other authorities**
+**(m) Acquisition and other authorities**
 
 (1) In carrying out the responsibilities and authorities under this section, the Director of National Intelligence may exercise the acquisition and appropriations authorities referred to in the Central Intelligence Agency Act of 1949 [[50 U.S.C. 3501](./chapter-046-central-intelligence-agency.md#section-3501) et seq.] other than the authorities referred to in section 8(b) of that Act [[50 U.S.C. 3510(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3510/b&num=0&edition=prelim)].
 
@@ -3200,7 +3062,7 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 
   (I) Nothing in this paragraph may be construed to alter or otherwise limit the authority of the Central Intelligence Agency to independently exercise an authority under section 3 or 8(a) of the Central Intelligence Agency Act of 1949 [[50 U.S.C. 3503](./chapter-046-central-intelligence-agency.md#section-3503), 3510(a)].
 
-(5) Any authority provided to the Director of National Intelligence or the head of an element of the intelligence community pursuant to this subsection to make an expenditure referred to in subsection (a) of section 8 of the Central Intelligence Agency Act of 1949 ([50 U.S.C. 3510](./chapter-046-central-intelligence-agency.md#section-3510)) is subject to the notification requirement under subsection (c) of such section. If the Director of National Intelligence is required to make a notification for a specific expenditure pursuant to both this paragraph and paragraph (4)(G), the Director may make a single notification.
+(5) Any authority provided to the Director of National Intelligence or the head of an element of the intelligence community pursuant to this subsection to make an expenditure referred to in subsection (a) of section 8 of the Central Intelligence Agency Act of 1949 ([50 U.S.C. 3510](./chapter-046-central-intelligence-agency.md#section-3510)) is subject to the notification requirement under subsection (c) of such section, including the guidance issued under paragraph (2) of such subsection (c). If the Director of National Intelligence is required to make a notification for a specific expenditure pursuant to both this paragraph and paragraph (4)(G), the Director may make a single notification.
 
 (6) **Other transaction authority.—**
 
@@ -3278,9 +3140,9 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 
       (II) *Other elements.—* — Each report required by clause (i) may describe such transactions which have been awarded follow-on production contracts either pursuant to the authority provided by this paragraph or another acquisition authority available to the intelligence community.
 
-**(o) Consideration of views of elements of intelligence community** In carrying out the duties and responsibilities under this section, the Director of National Intelligence shall take into account the views of a head of a department containing an element of the intelligence community and of the Director of the Central Intelligence Agency.
+**(n) Consideration of views of elements of intelligence community** In carrying out the duties and responsibilities under this section, the Director of National Intelligence shall take into account the views of a head of a department containing an element of the intelligence community and of the Director of the Central Intelligence Agency.
 
-**(p) Certain Responsibilities of Director of National Intelligence Relating to National Intelligence Program**
+**(o) Certain Responsibilities of Director of National Intelligence Relating to National Intelligence Program**
 
 (1) Subject to the direction of the President, the Director of National Intelligence shall, after consultation with the Secretary of Defense, ensure that the National Intelligence Program budgets for the elements of the intelligence community that are within the Department of Defense are adequate to satisfy the national intelligence needs of the Department of Defense, including the needs of the Chairman of the Joint Chiefs of Staff and the commanders of the unified and specified commands, and wherever such elements are performing Government-wide functions, the needs of other Federal departments and agencies.
 
@@ -3288,7 +3150,7 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 
 (3) Not later than March 1 of each year, the President, acting through the Director of National Intelligence, shall submit to the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives a copy of the most recently updated National Intelligence Priorities Framework of the Office of the Director of National Intelligence (or any such successor mechanism).
 
-**(q) Acquisitions of major systems**
+**(p) Acquisitions of major systems**
 
 (1) For each intelligence program within the National Intelligence Program for the acquisition of a major system, the Director of National Intelligence shall—
 
@@ -3316,9 +3178,9 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 
   (B) The term “major system” has the meaning given such term in [section 109 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section109&num=0&edition=prelim).
 
-**(r) Performance of common services** The Director of National Intelligence shall, in consultation with the heads of departments and agencies of the United States Government containing elements within the intelligence community and with the Director of the Central Intelligence Agency, coordinate the performance by the elements of the intelligence community within the National Intelligence Program of such services as are of common concern to the intelligence community, which services the Director of National Intelligence determines can be more efficiently accomplished in a consolidated manner.
+**(q) Performance of common services** The Director of National Intelligence shall, in consultation with the heads of departments and agencies of the United States Government containing elements within the intelligence community and with the Director of the Central Intelligence Agency, coordinate the performance by the elements of the intelligence community within the National Intelligence Program of such services as are of common concern to the intelligence community, which services the Director of National Intelligence determines can be more efficiently accomplished in a consolidated manner.
 
-**(s) Pay authority for critical positions**
+**(r) Pay authority for critical positions**
 
 (1) Notwithstanding any pay limitation established under any other provision of law applicable to employees in elements of the intelligence community, the Director of National Intelligence may, in coordination with the Director of the Office of Personnel Management and the Director of the Office of Management and Budget, grant authority to the head of a department or agency to fix the rate of basic pay for one or more positions within the intelligence community at a rate in excess of any applicable limitation, subject to the provisions of this subsection. The exercise of authority so granted is at the discretion of the head of the department or agency employing the individual in a position covered by such authority, subject to the provisions of this subsection and any conditions established by the Director of National Intelligence when granting such authority.
 
@@ -3340,15 +3202,15 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 
   (B) The head of a department or agency to which the Director of National Intelligence grants authority under this subsection shall notify the congressional intelligence committees and the Director of the exercise of such authority not later than 30 days after the date on which such head exercises such authority.
 
-**(t) Award of rank to members of the Senior National Intelligence Service**
+**(s) Award of rank to members of the Senior National Intelligence Service**
 
 (1) The President, based on the recommendation of the Director of National Intelligence, may award a rank to a member of the Senior National Intelligence Service or other intelligence community senior civilian officer not already covered by such a rank award program in the same manner in which a career appointee of an agency may be awarded a rank under [section 4507 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section4507&num=0&edition=prelim).
 
-(2) The President may establish procedures to award a rank under paragraph (1) to a member of the Senior National Intelligence Service or a senior civilian officer of the intelligence community whose identity as such a member or officer is classified information (as defined in section 3126(1) 11 See References in Text note below. of this title).
+(2) The President may establish procedures to award a rank under paragraph (1) to a member of the Senior National Intelligence Service or a senior civilian officer of the intelligence community whose identity as such a member or officer is classified information (as defined in section 3126(1) 1 of this title).
 
-**(u) Conflict of interest regulations** The Director of National Intelligence, in consultation with the Director of the Office of Government Ethics, shall issue regulations prohibiting an officer or employee of an element of the intelligence community from engaging in outside employment if such employment creates a conflict of interest or appearance thereof.
+**(t) Conflict of interest regulations** The Director of National Intelligence, in consultation with the Director of the Office of Government Ethics, shall issue regulations prohibiting an officer or employee of an element of the intelligence community from engaging in outside employment if such employment creates a conflict of interest or appearance thereof.
 
-**(v) Authority to establish positions in excepted service**
+**(u) Authority to establish positions in excepted service**
 
 (1) The Director of National Intelligence, with the concurrence of the head of the covered department concerned and in consultation with the Director of the Office of Personnel Management, may—
 
@@ -3362,9 +3224,9 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 
 (4) In this subsection, the term “covered department” means the Department of Energy, the Department of Homeland Security, the Department of State, or the Department of the Treasury.
 
-**(w) Nuclear Proliferation Assessment Statements intelligence community addendum** The Director of National Intelligence, in consultation with the heads of the appropriate elements of the intelligence community and the Secretary of State, shall provide to the President, the congressional intelligence committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate an addendum to each Nuclear Proliferation Assessment Statement accompanying a civilian nuclear cooperation agreement, containing a comprehensive analysis of the country’s export control system with respect to nuclear-related matters, including interactions with other countries of proliferation concern and the actual or suspected nuclear, dual-use, or missile-related transfers to such countries.
+**(v) Nuclear Proliferation Assessment Statements intelligence community addendum** The Director of National Intelligence, in consultation with the heads of the appropriate elements of the intelligence community and the Secretary of State, shall provide to the President, the congressional intelligence committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate an addendum to each Nuclear Proliferation Assessment Statement accompanying a civilian nuclear cooperation agreement, containing a comprehensive analysis of the country’s export control system with respect to nuclear-related matters, including interactions with other countries of proliferation concern and the actual or suspected nuclear, dual-use, or missile-related transfers to such countries.
 
-**(x) Requirements for intelligence community contractors** The Director of National Intelligence, in consultation with the heads of the elements of the intelligence community, shall—
+**(w) Requirements for intelligence community contractors** The Director of National Intelligence, in consultation with the heads of the elements of the intelligence community, shall—
 
 (1) ensure that—
 
@@ -3374,9 +3236,9 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 
 (2) conduct periodic assessments of each security plan required under paragraph (1)(A) to ensure such security plan complies with the requirements of such paragraph; and
 
-(3) ensure that the insider threat detection capabilities and insider threat policies of the intelligence community, including the policy under subsection (f)(8), apply to facilities of contractors with access to a classified network.
+(3) ensure that the insider threat detection capabilities and insider threat policies of the intelligence community, including the policy under subsection (e)(8), apply to facilities of contractors with access to a classified network.
 
-**(y) Fundraising**
+**(x) Fundraising**
 
 (1) The Director of National Intelligence may engage in fundraising in an official capacity for the benefit of nonprofit organizations that—
 
@@ -3390,35 +3252,45 @@ Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 126
 
 (4) The Director, in consultation with the Director of the Office of Government Ethics, shall issue regulations to carry out the authority provided in this subsection. Such regulations shall ensure that such authority is exercised in a manner that is consistent with all relevant ethical constraints and principles, including the avoidance of any prohibited conflict of interest or appearance of impropriety.
 
-**(z) Analyses and impact statements regarding proposed investment into the United States**
+**(y) Analyses and impact statements regarding proposed investment into the United States**
 
 (1) Not later than 20 days after the completion of a review or an investigation of any proposed investment into the United States for which the Director has prepared analytic materials, the Director shall submit to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representative copies of such analytic materials, including any supplements or amendments to such analysis made by the Director.
 
 (2) Not later than 60 days after the completion of consideration by the United States Government of any investment described in paragraph (1), the Director shall determine whether such investment will have an operational impact on the intelligence community, and, if so, shall submit a report on such impact to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives. Each such report shall—
 
-  (A) describe the operational impact of the investment on the intelligence community; and
+  (A) describe the operational impact of the investment on the intelligence community, including with respect to counterintelligence; and
 
   (B) describe any actions that have been or will be taken to mitigate such impact.
+
+(3) **Definitions.—** — In this subsection:
+
+  (A) The term “a review or an investigation of any proposed investment into the United States for which the Director has prepared analytic materials” includes a review, investigation, assessment, or analysis conducted by the Director pursuant to section 7 or 10(g) of Executive Order 13913 (85 Fed. Reg. 19643; relating to Establishing the Committee for the Assessment of Foreign Participation in the United States Telecommunications Services Sector), or successor order.
+
+  (B) The term “investment” includes any activity reviewed, investigated, assessed, or analyzed by the Director pursuant to section 7 or 10(g) of Executive Order 13913, or successor order.
 
 ### Statutory Notes
 
 #### References in Text
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (c)(6), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim), The Congress, and Tables.
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (f)(6), (11), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801) and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e)(6), (11), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801) and Tables.
 
-Executive Order No. 13526, referred to in subsec. (g)(1)(G), is set out as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161).
+Executive Order No. 13526, referred to in subsec. (f)(1)(G), is set out as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161).
 
-The Goldwater-Nichols Department of Defense Reorganization Act of 1986, referred to in subsec. (l)(3)(C), is Pub. L. 99–433, Oct. 1, 1986, 100 Stat. 992. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 111 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim), Armed Forces, and Tables.
+The Goldwater-Nichols Department of Defense Reorganization Act of 1986, referred to in subsec. (k)(3)(C), is Pub. L. 99–433, Oct. 1, 1986, 100 Stat. 992. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 111 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim), Armed Forces, and Tables.
 
-The Central Intelligence Agency Act of 1949, referred to in subsecs. (m) and (n)(1), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of this title prior to editorial reclassification in this title and is now classified generally to chapter 46 (§ 3501 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+Subsection (f)(3), referred to in subsec. (l), was redesignated as subsec. (e)(3) of this section by Pub. L. 119–60, div. F, title LXIV, § 6402(c)(1)(A), Dec. 18, 2025, 139 Stat. 1615.
 
-[Section 3126(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3126/1&num=0&edition=prelim), referred to in subsec. (t)(2), was in the original “section 606(1)”, meaning section 606(1) of act July 26, 1947, which was translated as reading “section 605(1)”, to reflect the probable intent of Congress and the renumbering of section 606 as 605 by section 310(a)(4)(B) of Pub. L. 112–277.
+The Central Intelligence Agency Act of 1949, referred to in subsecs. (l) and (m)(1), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of this title prior to editorial reclassification in this title and is now classified generally to chapter 46 (§ 3501 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+
+[Section 3126(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3126/1&num=0&edition=prelim), referred to in subsec. (s)(2), was in the original “section 606(1)”, meaning section 606(1) of act July 26, 1947, which was translated as reading “section 605(1)”, to reflect the probable intent of Congress and the renumbering of section 606 as 605 by section 310(a)(4)(B) of Pub. L. 112–277.
+
+Executive Order 13913, referred to in subsec. (y)(3), is Ex. Ord. No. 13913, Apr. 4, 2020, 85 F.R. 19643, which is set out as a note under [section 154 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section154&num=0&edition=prelim), Telecommunications.
 
 #### Codification
 Section was formerly classified to [section 403–1 of this title](./chapter-015-national-security.md#section-403-1) prior to editorial reclassification and renumbering as this section.
 
-In subsec. (q)(4)(B), “[section 109 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section109&num=0&edition=prelim)” substituted for “section 4(9) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 403(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/9&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (p)(4)(B), “[section 109 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section109&num=0&edition=prelim)” substituted for “section 4(9) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 403(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/9&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 A prior section 102A of act July 26, 1947, ch. 343, title I, as added Pub. L. 104–293, title VIII, § 805(b), Oct. 11, 1996, 110 Stat. 3479, provided there is a Central Intelligence Agency and described its function prior to repeal by Pub. L. 108–458, title I, §§ 1011(a), 1097(a), Dec. 17, 2004, 118 Stat. 3643, 3698, effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided. See [section 3035 of this title](./chapter-044-national-security.md#section-3035).
@@ -3426,9 +3298,37 @@ A prior section 102A of act July 26, 1947, ch. 343, title I, as added Pub. L. 10
 Another prior section 102a of act July 26, 1947, ch. 343, title I, as added Pub. L. 98–215, title IV, § 403, Dec. 9, 1983, 97 Stat. 1477, related to appointment of Director of the Intelligence Community Staff prior to repeal by Pub. L. 102–496, title VII, § 705(a)(1), Oct. 24, 1992, 106 Stat. 3190.
 
 #### Amendments
+2025—Subsec. (c)(7). Pub. L. 119–60, § 6402(a), struck out subpar. (B) designation and subpar. (A) which read as follows: “The Director of National Intelligence shall provide a semi-annual report, beginning April 1, 2005, and ending April 1, 2007, to the President and the Congress regarding implementation of this section.”
+
+Subsec. (e). Pub. L. 119–60, § 6402(b)(1), (c)(1)(A), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to transfer of personnel.
+
+Subsec. (e)(7)(D). Pub. L. 119–60, § 6402(c)(1)(B), substituted “under subsection (l)” for “under subsection (m)”.
+
+Subsec. (f). Pub. L. 119–60, § 6402(c)(1)(A), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Subsec. (f)(2). Pub. L. 119–60, § 6402(b)(2), struck out “and may establish such other national intelligence centers as the Director determines necessary” before period at end.
+
+Subsecs. (g) to (m). Pub. L. 119–60, § 6402(c)(1)(A), redesignated subsecs. (h) to (n) as (g) to (m), respectively. Former subsec. (g) redesignated (f).
+
+Subsec. (m)(5). Pub. L. 119–60, § 6501(b), substituted “of such section, including the guidance issued under paragraph (2) of such subsection (c)” for “of such section”.
+
+Subsecs. (n) to (w). Pub. L. 119–60, § 6402(c)(1)(A), redesignated subsecs. (o) to (x) as (n) to (w), respectively. Former subsec. (n) redesignated (m).
+
+Subsec. (w)(3). Pub. L. 119–60, § 6402(c)(1)(C), substituted “under subsection (e)(8)” for “under subsection (f)(8)”.
+
+Subsecs. (x) to (z). Pub. L. 119–60, § 6402(c)(1)(A), redesignated subsecs. (y) and (z) as (x) and (y), respectively. Former subsec. (x) redesignated (w).
+
+2024—Subsec. (f)(8)(F). Pub. L. 118–159, § 6902(a)(1), substituted “within” for “withing”.
+
+Subsec. (f)(10). Pub. L. 118–159, § 6308, inserted “, and upon receiving any such direction, the Director shall notify the congressional intelligence committees immediately in writing with a description of such other intelligence-related functions directed by the President” before period at end.
+
+Subsec. (z)(2)(A). Pub. L. 118–159, § 6437(1), inserted “, including with respect to counterintelligence” after “the intelligence community”.
+
+Subsec. (z)(3). Pub. L. 118–159, § 6437(2), added par. (3).
+
 2023—Subsec. (f)(3)(A). Pub. L. 118–31, § 7307(a)(1), substituted “binding personnel policies” for “personnel policies” in introductory provisions.
 
-Subsec. (f)(3)(A)(i). Pub. L. 118–31, § 7307(a)(2), amended cl. (i) generally. Prior to amendment. cl. (i) read as follows: “encourage and facilitate assignments and details of personnel to national intelligence centers, and between elements of the intelligence community;”.
+Subsec. (f)(3)(A)(i). Pub. L. 118–31, § 7307(a)(2), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “encourage and facilitate assignments and details of personnel to national intelligence centers, and between elements of the intelligence community;”.
 
 Subsec. (f)(3)(A)(v). Pub. L. 118–31, § 7307(a)(3), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “make service in more than one element of the intelligence community a condition of promotion to such positions within the intelligence community as the Director shall specify; and”.
 
@@ -3531,7 +3431,7 @@ Subsec. (n)(4). Pub. L. 111–259, § 326, added par. (4).
 Subsecs. (s) to (u). Pub. L. 111–259, §§ 303, 304, 307, added subsecs. (s) to (u).
 
 #### Effective Date of 2015 Amendment
-Pub. L. 114–113, div. M, title I, § 105(b), Dec. 18, 2015, 129 Stat. 2912, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to an appointment under section 102A(v) of the National Security Act of 1947 ([50 U.S.C. 3024(v)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/v&num=0&edition=prelim)) made on or after the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2012 (Public Law 112–87) [Jan. 3, 2012] and to any proceeding pending on or filed after the date of the enactment of this section [Dec. 18, 2015] that relates to such an appointment.”
+Pub. L. 114–113, div. M, title I, § 105(b), Dec. 18, 2015, 129 Stat. 2912, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to an appointment under section 102A(v) [now 102A(u)] of the National Security Act of 1947 ([50 U.S.C. 3024(v)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/v&num=0&edition=prelim) [now [50 U.S.C. 3024(u)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/u&num=0&edition=prelim)]) made on or after the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2012 (Public Law 112–87) [Jan. 3, 2012] and to any proceeding pending on or filed after the date of the enactment of this section [Dec. 18, 2015] that relates to such an appointment.”
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–126, title V, § 502(b), July 7, 2014, 128 Stat. 1412, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to contracts entered into or renewed after the date of the enactment of this Act [July 7, 2014].”
@@ -3540,6 +3440,11 @@ Pub. L. 113–126, title V, § 502(b), July 7, 2014, 128 Stat. 1412, provided th
 For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
+
+#### Enhancing Intelligence Community Technology Adoption Metrics
+Pub. L. 119–60, div. F, title LXVI, § 6621, Dec. 18, 2025, 139 Stat. 1641, provided that: “(a) Metric Development and Implementation.—Not later than 270 days after the date of the enactment of this Act [Dec. 18, 2025], the Director of National Intelligence, the Director of the Central Intelligence Agency, the Director of the National Security Agency, the Director of the National Geospatial-Intelligence Agency, the Director of the National Reconnaissance Office, and the Director of the Defense Intelligence Agency shall each develop and implement a process (which may be different from the processes of the other elements) that makes use of a single set of metrics to assess, on an agency-wide, aggregate basis, the success of the agency’s efforts regarding the adoption, integration, and operational impact of the most relevant emerging technologies within the respective agencies of those Directors. “(b) Briefing.—Not later than one year after the date of enactment of this Act, the head of each agency described in subsection (a) shall provide to the congressional intelligence committees and the Committees on Appropriations of the Senate and the House of Representatives a briefing on the implementation of this section, including—“(1) the metrics established under subsection (a); “(2) the success of the element toward meeting such metrics; and “(3) any recommendations of the head of such agency for legislative or regulatory reforms to improve technology adoption. “(c) Definitions.—In this section, the term ‘emerging technology’ has the meaning given such term in section 6701 of the Intelligence Authorization Act for Fiscal Year 2023 (division F of Public Law 117–263; [50 U.S.C. 3024](./chapter-044-national-security.md#section-3024) note) [set out below].”
+
+[For definitions of “intelligence community” and “congressional intelligence committees” as used in section 6621 of Pub. L. 119–60, set out above, see section 6002 of Pub. L. 119–60, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
 #### Policy and Performance Framework for Mobility of Intelligence Community Workforce
 Pub. L. 118–31, div. G, title III, § 7302, Dec. 22, 2023, 137 Stat. 1025, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Director of National Intelligence shall, in coordination with the Secretary of Defense and the Director of the Office of Personnel Management as the Director of National Intelligence considers appropriate, develop and implement a policy and performance framework to ensure the timely and effective mobility of employees and contractors of the Federal Government who are transferring employment between elements of the intelligence community. “(b) Elements.—The policy and performance framework required by subsection (a) shall include processes with respect to the following:“(1) Human resources. “(2) Medical reviews. “(3) Determinations of suitability or eligibility for access to classified information in accordance with Executive Order 13467 ([50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note; relating to reforming processes related to suitability for Government employment, fitness for contractor employees, and eligibility for access to classified national security information).”
@@ -3557,7 +3462,7 @@ Pub. L. 117–263, div. F, title LXVI, § 6601, Dec. 23, 2022, 136 Stat. 3556, p
 [For definitions of “intelligence community” and “congressional intelligence committees” as used in section 6601 of Pub. L. 117–263, set out above, see section 6002 of Pub. L. 117–263, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
 #### Implementation Plan and Advisability Study for Offices of Commercial Integration
-Pub. L. 117–263, div. F, title LXVII, § 6712, Dec. 23, 2022, 136 Stat. 3565, as amended by Pub. L. 118–31, div. G, title V, § 7513(b), Dec. 22, 2023, 137 Stat. 1096, provided that: “(a) Plan and Study.—“(1) Submission.—Not later than 1 year after the date of the enactment of this Act [Dec. 23, 2022], the Director of National Intelligence, in coordination with the heads of the elements of the intelligence community, shall submit to the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives—“(A) a plan for the establishment of a centralized office or offices within each appropriate element of the intelligence community, to be known as the ‘Office of Commercial Integration’, for the purpose of—“(i) assisting persons desiring to submit an offer for a contract with the intelligence community; and “(ii) assisting with the procurement of commercial products and commercial services; and “(B) the findings of a study conducted by the Director into the advisability of implementing such plan, including an assessment of—“(i) whether there should be a single Office of Commercial Integration for the intelligence community or whether each element of the intelligence community shall establish such an Office; “(ii) the costs and benefits of the implementation of such plan; and “(iii) whether there is within any element of the intelligence community an existing office or program similar to the proposed Office of Commercial Integration. “(2) Elements.—The materials submitted under paragraph (1) shall include the following:“(A) A recommendation by the Director, based on the findings of the study under paragraph (1)(B), on—“(i) how the plan under paragraph (1)(A) compares to specific alternative actions of the intelligence community that could be taken to assist persons desiring to submit an offer for a contract with the intelligence community and assist with the procurement of commercial products and commercial services; and “(ii) whether to implement such plan. “(B) A proposal for the designation of a senior official of the Office of the Director of National Intelligence who would be responsible for the coordination across the intelligence community or across the Offices of Commercial Integration, depending on the findings of the study under paragraph (1)(B). “(C) Draft guidelines that would require the coordination and sharing of best practices and other information across the intelligence community. “(D) A timeline of the steps that would be necessary to establish each Office of Commercial Integration by the date that is not later than 2 years after the date of the enactment of this Act. “(E) An assessment of the personnel requirements, and any other resource requirements, that would be necessary to establish the Office or Offices of Commercial Integration by such date, including—“(i) the amount of personnel necessary for the establishment of the Office or Offices of Commercial Integration; and “(ii) the necessary qualifications of any such personnel. “(F) Policies regarding the types of assistance that, if an Office or Offices of Commercial Integration were to be established, could be provided to contractors by the Director of such Office, taking into account the role of such assistance as an incentive for emerging technology companies to enter into contracts with the heads of the elements of the intelligence community. “(G) Eligibility criteria for determining the types of offerors or contractors that would be eligible to receive assistance provided by each Office of Commercial Integration. “(H) Policies regarding outreach efforts that would be required to be conducted by the Office or Offices of Commercial Integration with respect to eligible contractors. “(I) Policies regarding how the intelligence community would coordinate with the Director of the Federal Bureau of Investigation to provide proactive counterintelligence risk analysis and assistance to entities in the private sector. “(J) Draft guidelines that would require the Office or Offices of Commercial Integration to appoint and assign personnel with expertise in a range of disciplines necessary for the accelerated integration of commercial technologies into the intelligence community (as determined by the Office or Offices of Commercial Integration), including expertise in the following:“(i) Authorizations to operate. “(ii) Contracting. “(iii) Facility clearances. “(iv) Security clearances. “(K) Such other intelligence community-wide policies as the Director of National Intelligence may prescribe relating to the improvement of commercial integration (and the coordination of such improvements) by and among the elements of the intelligence community. “(b) Public Website on Commercial Integration.—“(1) Establishment.—Not later than 1 year after the date of the date of enactment of this Act [Dec. 23, 2022], the Director of National Intelligence, in coordination with the head of the relevant elements of the intelligence community (as determined by the Director) and the designated element leads under section 6702(c) [[50 U.S.C. 3334m(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3334m/c&num=0&edition=prelim)], shall establish a publicly accessible website that includes relevant information necessary for offerors or contractors to conduct business with each element of the intelligence community. “(2) Inclusion of certain information.—If there is established an Office or Offices of Commercial Integration in accordance with subsection (a), the website under paragraph (1) shall include—“(A) information, as appropriate, on the elements under subsection (a)(2) relating to that Office; and “(B) contact information for the relevant senior officers of the Office or Offices.”
+Pub. L. 117–263, div. F, title LXVII, § 6712, Dec. 23, 2022, 136 Stat. 3565, as amended by Pub. L. 118–31, div. G, title V, § 7513(b), Dec. 22, 2023, 137 Stat. 1096, provided that: “(a) Plan and Study.—“(1) Submission.—Not later than 1 year after the date of the enactment of this Act [Dec. 23, 2022], the Director of National Intelligence, in coordination with the heads of the elements of the intelligence community, shall submit to the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives—“(A) a plan for the establishment of a centralized office or offices within each appropriate element of the intelligence community, to be known as the ‘Office of Commercial Integration’, for the purpose of—“(i) assisting persons desiring to submit an offer for a contract with the intelligence community; and “(ii) assisting with the procurement of commercial products and commercial services; and “(B) the findings of a study conducted by the Director into the advisability of implementing such plan, including an assessment of—“(i) whether there should be a single Office of Commercial Integration for the intelligence community or whether each element of the intelligence community shall establish such an Office; “(ii) the costs and benefits of the implementation of such plan; and “(iii) whether there is within any element of the intelligence community an existing office or program similar to the proposed Office of Commercial Integration. “(2) Elements.—The materials submitted under paragraph (1) shall include the following:“(A) A recommendation by the Director, based on the findings of the study under paragraph (1)(B), on—“(i) how the plan under paragraph (1)(A) compares to specific alternative actions of the intelligence community that could be taken to assist persons desiring to submit an offer for a contract with the intelligence community and assist with the procurement of commercial products and commercial services; and “(ii) whether to implement such plan. “(B) A proposal for the designation of a senior official of the Office of the Director of National Intelligence who would be responsible for the coordination across the intelligence community or across the Offices of Commercial Integration, depending on the findings of the study under paragraph (1)(B). “(C) Draft guidelines that would require the coordination and sharing of best practices and other information across the intelligence community. “(D) A timeline of the steps that would be necessary to establish each Office of Commercial Integration by the date that is not later than 2 years after the date of the enactment of this Act. “(E) An assessment of the personnel requirements, and any other resource requirements, that would be necessary to establish the Office or Offices of Commercial Integration by such date, including—“(i) the amount of personnel necessary for the establishment of the Office or Offices of Commercial Integration; and “(ii) the necessary qualifications of any such personnel. “(F) Policies regarding the types of assistance that, if an Office or Offices of Commercial Integration were to be established, could be provided to contractors by the Director of such Office, taking into account the role of such assistance as an incentive for emerging technology companies to enter into contracts with the heads of the elements of the intelligence community. “(G) Eligibility criteria for determining the types of offerors or contractors that would be eligible to receive assistance provided by each Office of Commercial Integration. “(H) Policies regarding outreach efforts that would be required to be conducted by the Office or Offices of Commercial Integration with respect to eligible contractors. “(I) Policies regarding how the intelligence community would coordinate with the Director of the Federal Bureau of Investigation to provide proactive counterintelligence risk analysis and assistance to entities in the private sector. “(J) Draft guidelines that would require the Office or Offices of Commercial Integration to appoint and assign personnel with expertise in a range of disciplines necessary for the accelerated integration of commercial technologies into the intelligence community (as determined by the Office or Offices of Commercial Integration), including expertise in the following:“(i) Authorizations to operate. “(ii) Contracting. “(iii) Facility clearances. “(iv) Security clearances. “(K) Such other intelligence community-wide policies as the Director of National Intelligence may prescribe relating to the improvement of commercial integration (and the coordination of such improvements) by and among the elements of the intelligence community. “(b) Public Website on Commercial Integration.—“(1) Establishment.—Not later than 1 year after the date of the date of enactment of this Act [Dec. 23, 2022], the Director of National Intelligence, in coordination with the head of the relevant elements of the intelligence community (as determined by the Director) and the designated element leads under section 6702(c) [now 6702(e)] [[50 U.S.C. 3334m(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3334m/e&num=0&edition=prelim)], shall establish a publicly accessible website that includes relevant information necessary for offerors or contractors to conduct business with each element of the intelligence community. “(2) Inclusion of certain information.—If there is established an Office or Offices of Commercial Integration in accordance with subsection (a), the website under paragraph (1) shall include—“(A) information, as appropriate, on the elements under subsection (a)(2) relating to that Office; and “(B) contact information for the relevant senior officers of the Office or Offices.”
 
 [For definitions of “intelligence community” and “congressional intelligence committees” as used in section 6712 of Pub. L. 117–263, set out above, see section 6002 of Pub. L. 117–263, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
@@ -3590,7 +3495,7 @@ Pub. L. 117–263, div. F, title LXVII, § 6717, Dec. 23, 2022, 136 Stat. 3576, 
 [For definitions of “artificial intelligence”, “emerging technology”, and “covered product” as used in section 6717 of Pub. L. 117–263, set out above, see section 6701 of Pub. L. 117–263, set out below.]
 
 #### Emerging Technology Education and Training
-Pub. L. 117–263, div. F, title LXVII, § 6732, Dec. 23, 2022, 136 Stat. 3583, as amended by Pub. L. 118–31, div. G, title IX, § 7901(b)(2), Dec. 22, 2023, 137 Stat. 1106, provided that: “(a) Training Curriculum.—“(1) Requirement.—No later than 270 days after the date of the enactment of this Act [Dec. 23, 2022], the Director of National Intelligence and the Secretary of Defense, in consultation with the President of the Defense Acquisition University and the heads of the elements of the intelligence community that the Director and Secretary determine appropriate, shall jointly establish a training curriculum for members of the acquisition workforce in the Department of Defense (as defined in [section 101 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), United States Code) and the acquisition officials within the intelligence community focused on improving the understanding and awareness of contracting authorities and procedures for the acquisition of emerging technologies. “(2) Provision of training.—The Director shall ensure that the training curriculum under paragraph (1) is made available to each element of the intelligence community not later than 60 days after the completion of the curriculum. “(3) Report.—Not later than January 1, 2024, the Director and Secretary shall jointly submit to the congressional intelligence committees, the Committee on Armed Services and the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Committee on Armed Services and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives a report containing an update on the status of the curriculum under paragraph (1). “(b) Agreements Officers.—Not later than October 1, 2024, the Director of National Intelligence shall ensure that at least 75 percent of the contracting staff within the intelligence community whose primary responsibilities include the acquisition of emerging technologies shall have received the appropriate training to become warranted as agreements officers who are given authority to execute and administer the transactions authorized by paragraph (6) of section 102A(n) of the National Security Act of 1947 ([50 U.S.C. 3024(n)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/n&num=0&edition=prelim)), as added by section 6711. The training shall include—“(1) the appropriate courses offered by the Defense Acquisition University; “(2) the training curriculum established under subsection (a); and “(3) best practices for monitoring, identifying, and procuring emerging technologies with potential benefit to the intelligence community, including commercial services and products. “(c) Establishment of Emerging Technology Training Activities.—“(1) Requirement.—Not later than January 1, 2024, the Director of National Intelligence, in coordination with the heads of the elements of the intelligence community that the Director determines relevant, shall establish and implement training activities designed for appropriate mid-career and senior managers across the intelligence community to train the managers on how to identify, acquire, implement, and manage emerging technologies as such technologies may be applied to the intelligence community. “(2) Certification.—Not later than 2 years after the date on which the Director establishes the training activities under paragraph (1), each head of an element of the intelligence community shall certify to the Director whether the managers of the element described in paragraph (1) have successfully completed the education activities. “(3) Briefing.—Not later than January 1, 2024, the Director of National Intelligence shall provide to the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives a briefing regarding the training activities established under paragraph (1), including—“(A) an overview of—“(i) the managers described in paragraph (1) who participated in the training activities; and “(ii) what technologies were included in the training activities; and “(B) an identification of other incentives, activities, resources, or programs the Director determines may be necessary to ensure the managers are generally trained in the most emerging technologies and able to retain and incorporate such technologies across the intelligence community.”
+Pub. L. 117–263, div. F, title LXVII, § 6732, Dec. 23, 2022, 136 Stat. 3583, as amended by Pub. L. 118–31, div. G, title IX, § 7901(b)(2), Dec. 22, 2023, 137 Stat. 1106, provided that: “(a) Training Curriculum.—“(1) Requirement.—No later than 270 days after the date of the enactment of this Act [Dec. 23, 2022], the Director of National Intelligence and the Secretary of Defense, in consultation with the President of the Defense Acquisition University and the heads of the elements of the intelligence community that the Director and Secretary determine appropriate, shall jointly establish a training curriculum for members of the acquisition workforce in the Department of Defense (as defined in [section 101 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), United States Code) and the acquisition officials within the intelligence community focused on improving the understanding and awareness of contracting authorities and procedures for the acquisition of emerging technologies. “(2) Provision of training.—The Director shall ensure that the training curriculum under paragraph (1) is made available to each element of the intelligence community not later than 60 days after the completion of the curriculum. “(3) Report.—Not later than January 1, 2024, the Director and Secretary shall jointly submit to the congressional intelligence committees, the Committee on Armed Services and the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Committee on Armed Services and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives a report containing an update on the status of the curriculum under paragraph (1). “(b) Agreements Officers.—Not later than October 1, 2024, the Director of National Intelligence shall ensure that at least 75 percent of the contracting staff within the intelligence community whose primary responsibilities include the acquisition of emerging technologies shall have received the appropriate training to become warranted as agreements officers who are given authority to execute and administer the transactions authorized by paragraph (6) of section 102A(n) [now 102A(m)] of the National Security Act of 1947 ([50 U.S.C. 3024(n)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/n&num=0&edition=prelim) [now [50 U.S.C. 3024(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/m&num=0&edition=prelim)]), as added by section 6711. The training shall include—“(1) the appropriate courses offered by the Defense Acquisition University; “(2) the training curriculum established under subsection (a); and “(3) best practices for monitoring, identifying, and procuring emerging technologies with potential benefit to the intelligence community, including commercial services and products. “(c) Establishment of Emerging Technology Training Activities.—“(1) Requirement.—Not later than January 1, 2024, the Director of National Intelligence, in coordination with the heads of the elements of the intelligence community that the Director determines relevant, shall establish and implement training activities designed for appropriate mid-career and senior managers across the intelligence community to train the managers on how to identify, acquire, implement, and manage emerging technologies as such technologies may be applied to the intelligence community. “(2) Certification.—Not later than 2 years after the date on which the Director establishes the training activities under paragraph (1), each head of an element of the intelligence community shall certify to the Director whether the managers of the element described in paragraph (1) have successfully completed the education activities. “(3) Briefing.—Not later than January 1, 2024, the Director of National Intelligence shall provide to the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives a briefing regarding the training activities established under paragraph (1), including—“(A) an overview of—“(i) the managers described in paragraph (1) who participated in the training activities; and “(ii) what technologies were included in the training activities; and “(B) an identification of other incentives, activities, resources, or programs the Director determines may be necessary to ensure the managers are generally trained in the most emerging technologies and able to retain and incorporate such technologies across the intelligence community.”
 
 [For definitions of “intelligence community” and “congressional intelligence committees” as used in section 6732 of Pub. L. 117–263, set out above, see section 6002 of Pub. L. 117–263, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
@@ -3625,14 +3530,15 @@ Pub. L. 116–92, div. E, title LXIII, § 6314, Dec. 20, 2019, 133 Stat. 2194, p
 [For definition of “intelligence community” as used in section 6314 of Pub. L. 116–92, set out above, see section 5003 of Pub. L. 116–92, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
 #### Reports and Briefings on National Security Effects of Global Water Insecurity and Emerging Infectious Disease and Pandemics
-Pub. L. 116–92, div. E, title LXVII, § 6722, Dec. 20, 2019, 133 Stat. 2232, as amended by Pub. L. 116–260, div. W, title VI, § 622, Dec. 27, 2020, 134 Stat. 2404, provided that: “(a) Global Water Insecurity.—“(1) Report.—“(A) In general.—Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Director of National Intelligence shall submit to the congressional intelligence committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate a report on the implications of water insecurity on the national security interests of the United States, including consideration of social, economic, agricultural, and environmental factors. “(B) Assessment scope and focus.—The report submitted under subparagraph (A) shall include an assessment of water insecurity described in such subsection with a global scope, but focus on areas of the world—“(i) of strategic, economic, or humanitarian interest to the United States— “(I) that are, as of the date of the report, at the greatest risk of instability, conflict, human insecurity, or mass displacement; or “(II) where challenges relating to water insecurity are likely to emerge and become significant during the 5-year or the 20-year period beginning on the date of the report; and “(ii) where challenges relating to water insecurity are likely to imperil the national security interests of the United States or allies of the United States. “(C) Consultation.—In researching the report required by subparagraph (A), the Director shall consult with—“(i) such stakeholders within the intelligence community, the Department of Defense, and the Department of State as the Director considers appropriate; and “(ii) such additional Federal agencies and persons in the private sector as the Director considers appropriate. “(D) Form.—The report submitted under subparagraph (A) shall be submitted in unclassified form, but may include a classified annex. “(2) Quinquennial briefings.—Beginning on the date that is 5 years after the date on which the Director submits the report under paragraph (1), and every 5 years thereafter, the Director shall provide to the committees specified in such paragraph a briefing that updates the matters contained in the report. “(b) Emerging Infectious Disease and Pandemics.—“(1) Report.—“(A) In general.—Not later than 120 days after the date of the enactment of this Act [Dec. 20, 2019], the Director of National Intelligence shall submit to the appropriate congressional committees a report on the anticipated geopolitical effects of emerging infectious disease (including deliberate, accidental, and naturally occurring infectious disease threats) and pandemics, and their implications on the national security of the United States. “(B) Contents.—The report under subparagraph (A) shall include an assessment of—“(i) the economic, social, political, and security risks, costs, and impacts of emerging infectious diseases on the United States and the international political and economic system; “(ii) the economic, social, political, and security risks, costs, and impacts of a major transnational pandemic on the United States and the international political and economic system; and “(iii) contributing trends and factors to the matters assessed under clauses (i) and (ii). “(C) Examination of response capacity.—In examining the risks, costs, and impacts of emerging infectious disease and a possible transnational pandemic under subparagraph (B), the Director of National Intelligence shall also examine in the report under subparagraph (A) the response capacity within affected countries and the international system. In considering response capacity, the Director shall include—“(i) the ability of affected nations to effectively detect and manage emerging infectious diseases and a possible transnational pandemic; “(ii) the role and capacity of international organizations and nongovernmental organizations to respond to emerging infectious disease and a possible pandemic, and their ability to coordinate with affected and donor nations; and “(iii) the effectiveness of current international frameworks, agreements, and health systems to respond to emerging infectious diseases and a possible transnational pandemic. “(2) Annual briefings.—Not later than January 31, 2021, and annually thereafter, the Director shall provide to the congressional intelligence committees a briefing that updates the matters contained in the report required under paragraph (1). “(3) Form.—The report under paragraph (1) and the briefings under paragraph (2) may be classified. “(4) Appropriate congressional committees defined.—In this subsection, the term ‘appropriate congressional committees’ means—“(A) the congressional intelligence committees; “(B) the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Energy and Commerce, and the Committee on Appropriations of the House of Representatives; and “(C) the Committee on Foreign Relations, the Committee on Armed Services, the Committee on Health, Education, Labor, and Pensions, and the Committee on Appropriations of the Senate.”
-
-[Pub. L. 116–260, § 622(a)(2), which directed substitution of “not later than January 31, 2021, and annually thereafter” for “beginning on the date that is 5 years after the date on which the Director submits the report under paragraph (1), and every 5 years thereafter” was executed by substituting “Not later than January 31, 2021, and annually thereafter” for “Beginning on the date that is 5 years after the date on which the Director submits the report under paragraph (1), and every 5 years thereafter” to reflect the probable intent of Congress.]
-
-[For definitions of “congressional intelligence committees” and “intelligence community” as used in section 6722 of Pub. L. 116–92, set out above, see section 5003 of Pub. L. 116–92, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
+Pub. L. 116–92, div. E, title LXVII, § 6722, Dec. 20, 2019, 133 Stat. 2232, as amended by Pub. L. 116–260, div. W, title VI, § 622, Dec. 27, 2020, 134 Stat. 2404, which required the Director of National Intelligence to submit to the congressional intelligence committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate a report on the implications of water insecurity on the national security interests of the United States and a briefing with updates every 5 years and to submit to the appropriate congressional committees a report on the anticipated geopolitical effects of emerging infectious disease and pandemics and their implications on the national security of the United States and annual briefings with updates, was repealed by Pub. L. 119–60, div. F, title LXVIII, § 6801(b)(5), Dec. 18, 2025, 139 Stat. 1653.
 
 #### Limitation on Activities of Employees of an Office of Inspector General
 Pub. L. 115–31, div. N, title III, § 309(a), May 5, 2017, 131 Stat. 814, provided that: “(1) Limitations.—Not later than 180 days after the date of the enactment of this Act [May 5, 2017], the Director of National Intelligence shall develop and implement a uniform policy for each covered office of an inspector general to better ensure the independence of each such office. Such policy shall include—“(A) provisions to prevent any conflict of interest related to a matter any employee of a covered office of an inspector general personally and substantially participated in during previous employment; “(B) standards to ensure personnel of a covered office of an inspector general are free both in fact and in appearance from personal, external, and organizational impairments to independence; “(C) provisions to permit the head of each covered office of an inspector general to waive the application of the policy with respect to an individual if such head—“(i) prepares a written and signed justification for such waiver that sets out, in detail, the need for such waiver, provided that waivers shall not be issued for in fact impairments to independence; and “(ii) submits to the congressional intelligence committees [Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives] each such justification; and “(D) any other protections the Director determines appropriate. “(2) Covered office of an inspector general defined.—The term ‘covered office of an inspector general’ means—“(A) the Office of the Inspector General of the Intelligence Community; and “(B) the office of an inspector general for—“(i) the Office of the Director of National Intelligence; “(ii) the Central Intelligence Agency; “(iii) the National Security Agency; “(iv) the Defense Intelligence Agency; “(v) the National Geospatial-Intelligence Agency; and “(vi) the National Reconnaissance Office. “(3) Briefing to the congressional intelligence committees.—Prior to the date that the policy required by paragraph (1) takes effect, the Director of National Intelligence shall provide the congressional intelligence committees a briefing on such policy.”
+
+#### Personnel Information Notification Policy by the Director of National Intelligence
+Pub. L. 114–113, div. M, title III, § 308, Dec. 18, 2015, 129 Stat. 2917, provided that: “(a) Directive Required.—The Director of National Intelligence shall issue a directive containing a written policy for the timely notification to the congressional intelligence committees of the identities of individuals occupying senior level positions within the intelligence community. “(b) Senior Level Position.—In identifying positions that are senior level positions in the intelligence community for purposes of the directive required under subsection (a), the Director of National Intelligence shall consider whether a position—“(1) constitutes the head of an entity or a significant component within an agency; “(2) is involved in the management or oversight of matters of significant import to the leadership of an entity of the intelligence community; “(3) provides significant responsibility on behalf of the intelligence community; “(4) requires the management of a significant number of personnel or funds; “(5) requires responsibility management or oversight of sensitive intelligence activities; and “(6) is held by an individual designated as a senior intelligence management official as such term is defined in section 368(a)(6) of the Intelligence Authorization Act for Fiscal Year 2010 (Public Law 111–259; [50 U.S.C. 404i–1](./chapter-015-national-security.md#section-404i-1) [now [50 U.S.C. 3051](./chapter-044-national-security.md#section-3051)] note). “(c) Notification.—The Director shall ensure that each notification under the directive issued under subsection (a) includes each of the following:“(1) The name of the individual occupying the position. “(2) Any previous senior level position held by the individual, if applicable, or the position held by the individual immediately prior to the appointment. “(3) The position to be occupied by the individual. “(4) Any other information the Director determines appropriate. “(d) Relationship to Other Laws.—The directive issued under subsection (a) and any amendment to such directive shall be consistent with the provisions of the National Security Act of 1947 ([50 U.S.C. 401](./chapter-015-national-security.md#section-401) [now [50 U.S.C. 3001](./chapter-044-national-security.md#section-3001)] et seq.). “(e) Submission.—Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2015], the Director shall submit to the congressional intelligence committees the directive issued under subsection (a).”
+
+[For definitions of “congressional intelligence committees” and “intelligence community” as used in section 308 of div. M of Pub. L. 114–113, set out above, see section 2 of div. M of Pub. L. 114–113, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
 #### Designation of Lead Intelligence Officer for Tunnels
 Pub. L. 114–113, div. M, title III, § 309, Dec. 18, 2015, 129 Stat. 2918, provided that: “(a) In General.—The Director of National Intelligence shall designate an official to manage the collection and analysis of intelligence regarding the tactical use of tunnels by state and nonstate actors. “(b) Annual Report.—Not later than the date that is 10 months after the date of the enactment of this Act [Dec. 18, 2015], and biennially thereafter until the date that is 4 years after the date of the enactment of this Act, the Director of National Intelligence shall submit to the congressional intelligence committees [Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives] and the congressional defense committees (as such term is defined in [section 101(a)(16) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/16&num=0&edition=prelim), United States Code) a report describing—“(1) trends in the use of tunnels by foreign state and nonstate actors; and “(2) collaboration efforts between the United States and partner countries to address the use of tunnels by adversaries.”
@@ -3739,25 +3645,27 @@ Barack Obama.
 
 (4) The National Intelligence Council.
 
-(5) The General Counsel.
+(5) The National Intelligence Management Council.
 
-(6) The Civil Liberties Protection Officer.
+(6) The General Counsel.
 
-(7) The Director of Science and Technology.
+(7) The Civil Liberties Protection Officer.
 
-(8) The Director of the National Counterintelligence and Security Center.
+(8) The Director of Science and Technology.
 
-(9) The Chief Information Officer of the Intelligence Community.
+(9) The Director of the National Counterintelligence and Security Center.
 
-(10) The Inspector General of the Intelligence Community.
+(10) The Chief Information Officer of the Intelligence Community.
 
-(11) The Director of the National Counterterrorism Center.
+(11) The Inspector General of the Intelligence Community.
 
-(12) The Director of the National Counter Proliferation Center.11 See Change of Name note below.
+(12) The Director of the National Counterterrorism Center.
 
-(13) The Chief Financial Officer of the Intelligence Community.
+(13) The Director of the National Counter Proliferation Center.11 See Change of Name note below.
 
-(14) Such other offices and officials as may be established by law or the Director may establish or designate in the Office, including national intelligence centers.
+(14) The Chief Financial Officer of the Intelligence Community.
+
+(15) Such other offices and officials as may be established by law or the Director may establish or designate in the Office.
 
 **(d) Staff**
 
@@ -3775,6 +3683,15 @@ Barack Obama.
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)
+Pub. L. 119–60, div. F, title LXIV, § 6404(c)(1), (g), Dec. 18, 2025, 139 Stat. 1617, 1618, provided that, effective 180 days after Dec. 18, 2025, subsection (c) of this section is amended as follows:
+
+(1) by striking paragraph (13); and
+
+(2) by redesignating paragraphs (14) and (15) as paragraphs (13) and (14), respectively.
+
+See 2025 Amendment notes below.
+
 #### References in Text
 This Act, referred to in subsec. (b), probably means Pub. L. 108–458, Dec. 17, 2004, 118 Stat. 3638, known as the Intelligence Reform and Terrorism Prevention Act of 2004. For complete classification of this Act to the Code, see Tables.
 
@@ -3791,6 +3708,14 @@ A prior section 103 of act July 26, 1947, ch. 343, title I, as added Pub. L. 102
 Another prior section 103 of act July 26, 1947, was renumbered section 107 and is classified to former [section 3042 of this title](./chapter-044-national-security.md#section-3042).
 
 #### Amendments
+2025—Subsec. (c)(13), (14). Pub. L. 119–60, § 6404(c)(1), redesignated par. (14) as (13), and struck out former par. (13) which read as follows: “The Director of the National Counter Proliferation Center.”
+
+Subsec. (c)(15). Pub. L. 119–60, § 6404(c)(1), redesignated par. (15) as (14).
+
+Pub. L. 119–60, § 6402(c)(2)(A)(i), struck out “, including national intelligence centers” before period at end.
+
+2024—Subsec. (c)(5) to (15). Pub. L. 118–159 added par. (5) and redesignated former pars. (5) to (14) as (6) to (15), respectively.
+
 2017—Subsec. (c)(8). Pub. L. 115–31 amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The National Counterintelligence Executive (including the Office of the National Counterintelligence Executive).”
 
 2012—Subsecs. (e), (f). Pub. L. 112–87 added subsec. (e) and redesignated former subsec. (e) as (f).
@@ -3804,10 +3729,16 @@ Subsec. (e). Pub. L. 111–259, § 403, amended subsec. (e) generally. Prior to 
 #### Change of Name
 Reference to the National Counter Proliferation Center deemed to be a reference to the National Counterproliferation and Biosecurity Center, see section 401(e) of div. X of Pub. L. 117–103, set out as a References note under [section 3057 of this title](./chapter-044-national-security.md#section-3057).
 
+#### Effective Date of 2025 Amendment
+Pub. L. 119–60, div. F, title LXIV, § 6404(g), Dec. 18, 2025, 139 Stat. 1618, provided that: “The amendments made by this section [amending this section and [section 3057 of this title](./chapter-044-national-security.md#section-3057)] shall take effect 180 days after the date of the enactment of this Act [Dec. 18, 2025].”
+
 #### Effective Date
 For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
+
+#### Mission Manager for the People’s Republic of China
+Pub. L. 119–60, div. F, title LXVII, § 6707, Dec. 18, 2025, 139 Stat. 1648, provided that: “(a) Establishment of Position.—“(1) In general.—There shall be a mission manager for all intelligence collection matters relating to the People’s Republic of China. The mission manager shall be designated or appointed by the Director of National Intelligence. “(2) Rule of construction.—Notwithstanding any other provision of law, the mission manager designated or appointed under paragraph (1) may be an individual serving in a position within the Office of the Director of National Intelligence. “(b) Applicability.—The first mission manager under subsection (a) shall be designated or appointed not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025]. “(c) Termination.—This section shall terminate on December 31, 2030.”
 
 #### Required Staffing Document for Office of Director of National Intelligence
 Pub. L. 118–31, div. G, title III, § 7307(b), Dec. 22, 2023, 137 Stat. 1027, provided that: “(1) Requirement.—Not later than 120 days after the date of the enactment of this Act [Dec. 22, 2023], the Director of National Intelligence shall establish, and thereafter shall update as necessary, a single document setting forth each position within the Office of the Director of National Intelligence, including any directorate, center, or office within such Office. “(2) Elements.—The document under paragraph (1) shall include, with respect to each position set forth in the document, the following:“(A) A description of the position. “(B) The directorate, center, office, or other component of the Office of the Director of National Intelligence within which the position is. “(C) The element of the intelligence community designated to fill the position, if applicable. “(D) The requisite type and level of skills for the position, including any special skills or certifications required. “(E) The requisite security clearance level for the position. “(F) The pay grade for the position. “(G) Any special pay or incentive pay payable for the position. “(3) Integrated representation.—In establishing and filling the positions specified in paragraph (1), the Director of National Intelligence shall take such steps as may be necessary to ensure the integrated representation of officers and employees from the other elements of the intelligence community with respect to such positions.”
@@ -3820,7 +3751,7 @@ Pub. L. 118–31, div. G, title IV, § 7401, Dec. 22, 2023, 137 Stat. 1068, prov
 [For definitions of “intelligence community” and “congressional intelligence committees” as used in section 7401 of Pub. L. 118–31, set out above, see section 7002 of Pub. L. 118–31, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
 #### Intelligence Community Coordinator for Russian Atrocities Accountability
-Pub. L. 117–263, div. F, title LXV, § 6512, Dec. 23, 2022, 136 Stat. 3543, provided that: “(a) Definitions.—In this section:“(1) Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means—“(A) the congressional intelligence committees; “(B) the Subcommittee on Defense of the Committee on Appropriations of the Senate; and “(C) the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives. “(2) Atrocity.—The term ‘atrocity’ means a war crime, crime against humanity, or genocide. “(3) Commit.—The term ‘commit’, with respect to an atrocity, includes the planning, committing, aiding, and abetting of such atrocity. “(4) Foreign person.—The term ‘foreign person’ means a person that is not a United States person. “(5) Russian atrocity.—The term ‘Russian atrocity’ means an atrocity that is committed by an individual who is—“(A) a member of the armed forces, or the security or other defense services, of the Russian Federation; “(B) an employee of any other element of the Russian Government; or “(C) an agent or contractor of an individual specified in subparagraph (A) or (B). “(6) United states person.—The term ‘United States person’ has the meaning given that term in section 105A(c) of the National Security Act of 1947 ([50 U.S.C. 3039](./chapter-044-national-security.md#section-3039)). “(b) Intelligence Community Coordinator for Russian Atrocities Accountability.—“(1) Designation.—Not later than 30 days after the date of the enactment of this Act [Dec. 23, 2022], the Director of National Intelligence shall designate a senior official of the Office of the Director of National Intelligence to serve as the intelligence community coordinator for Russian atrocities accountability (in this section referred to as the ‘Coordinator’). “(2) Duties.—The Coordinator shall oversee the efforts of the intelligence community relating to the following:“(A) Identifying, and (as appropriate) disseminating within the United States Government, intelligence relating to the identification, location, or activities of foreign persons suspected of playing a role in committing Russian atrocities in Ukraine. “(B) Identifying analytic and other intelligence needs and priorities of the intelligence community with respect to the commitment of such Russian atrocities. “(C) Addressing any gaps in intelligence collection relating to the commitment of such Russian atrocities and developing recommendations to address any gaps so identified, including by recommending the modification of the priorities of the intelligence community with respect to intelligence collection. “(D) Collaborating with appropriate counterparts across the intelligence community to ensure appropriate coordination on, and integration of the analysis of, the commitment of such Russian atrocities. “(E) Identifying intelligence and other information that may be relevant to preserve evidence of potential war crimes by Russia, consistent with the public commitments of the United States to support investigations into the conduct of Russia. “(F) Ensuring the Atrocities Early Warning Task Force and other relevant departments and agencies of the United States Government receive appropriate support from the intelligence community with respect to the collection, analysis, preservation, and, as appropriate, dissemination, of intelligence related to Russian atrocities in Ukraine. “(3) Plan required.—Not later than 30 days after the date of enactment of this Act, the Director of National Intelligence shall submit to the appropriate committees of Congress—“(A) the name of the official designated as the Coordinator pursuant to paragraph (1); and “(B) the strategy of the intelligence community for the collection of intelligence related to Russian atrocities in Ukraine, including a detailed description of how the Coordinator shall support, and assist in facilitating the implementation of, such strategy. “(4) Annual report to congress.—“(A) Reports required.—Not later than May 1, 2023, and annually thereafter until May 1, 2026, the Director of National Intelligence shall submit to the appropriate committees of Congress a report detailing, for the year covered by the report—“(i) the analytical findings and activities of the intelligence community with respect to Russian atrocities in Ukraine; and “(ii) the recipients of information shared pursuant to this section for the purpose of ensuring accountability for such Russian atrocities, and the date of any such sharing. “(B) Form.—Each report submitted under subparagraph (A) may be submitted in classified form, consistent with the protection of intelligence sources and methods. “(C) Supplement.—The Director of National Intelligence may supplement an existing reporting requirement with the information required under subparagraph (A) on an annual basis to satisfy that requirement with prior notification of intent to do so to the appropriate committees of Congress. “(c) Sunset.—This section shall cease to have effect on the date that is 4 years after the date of the enactment of this Act [Dec. 23, 2022].”
+Pub. L. 117–263, div. F, title LXV, § 6512, Dec. 23, 2022, 136 Stat. 3543, as amended by Pub. L. 119–60, div. F, title LXVII, § 6713, Dec. 18, 2025, 139 Stat. 1649, provided that: “(a) Definitions.—In this section:“(1) Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means—“(A) the congressional intelligence committees; “(B) the Subcommittee on Defense of the Committee on Appropriations of the Senate; and “(C) the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives. “(2) Atrocity.—The term ‘atrocity’ means a war crime, crime against humanity, or genocide. “(3) Commit.—The term ‘commit’, with respect to an atrocity, includes the planning, committing, aiding, and abetting of such atrocity. “(4) Foreign person.—The term ‘foreign person’ means a person that is not a United States person. “(5) Russian atrocity.—The term ‘Russian atrocity’ means an atrocity that is committed by an individual who is—“(A) a member of the armed forces, or the security or other defense services, of the Russian Federation; “(B) an employee of any other element of the Russian Government; or “(C) an agent or contractor of an individual specified in subparagraph (A) or (B). “(6) United states person.—The term ‘United States person’ has the meaning given that term in section 105A(c) of the National Security Act of 1947 ([50 U.S.C. 3039](./chapter-044-national-security.md#section-3039)). “(b) Intelligence Community Coordinator for Russian Atrocities Accountability.—“(1) Designation.—Not later than 30 days after the date of the enactment of this Act [Dec. 23, 2022], the Director of National Intelligence shall designate a senior official of the Office of the Director of National Intelligence to serve as the intelligence community coordinator for Russian atrocities accountability (in this section referred to as the ‘Coordinator’). “(2) Duties.—The Coordinator shall oversee the efforts of the intelligence community relating to the following:“(A) Identifying, and (as appropriate) disseminating within the United States Government, intelligence relating to the identification, location, or activities of foreign persons suspected of playing a role in committing Russian atrocities in Ukraine, including with respect to the forcible transfer and deportation of Ukrainian children. “(B) Identifying analytic and other intelligence needs and priorities of the intelligence community with respect to the commitment of such Russian atrocities. “(C) Addressing any gaps in intelligence collection relating to the commitment of such Russian atrocities and developing recommendations to address any gaps so identified, including by recommending the modification of the priorities of the intelligence community with respect to intelligence collection. “(D) Collaborating with appropriate counterparts across the intelligence community to ensure appropriate coordination on, and integration of the analysis of, the commitment of such Russian atrocities. “(E) Identifying intelligence and other information that may be relevant to preserve evidence of potential war crimes by Russia, consistent with the public commitments of the United States to support investigations into the conduct of Russia. “(F) Ensuring the Atrocities Early Warning Task Force and other relevant departments and agencies of the United States Government receive appropriate support from the intelligence community with respect to the collection, analysis, preservation, and, as appropriate, dissemination, of intelligence related to Russian atrocities in Ukraine. “(3) Plan required.—Not later than 30 days after the date of enactment of this Act, the Director of National Intelligence shall submit to the appropriate committees of Congress—“(A) the name of the official designated as the Coordinator pursuant to paragraph (1); and “(B) the strategy of the intelligence community for the collection of intelligence related to Russian atrocities in Ukraine, including a detailed description of how the Coordinator shall support, and assist in facilitating the implementation of, such strategy. “(4) Annual report to congress.—“(A) Reports required.—Not later than May 1, 2023, and annually thereafter until May 1, 2028, the Director of National Intelligence shall submit to the appropriate committees of Congress a report detailing, for the year covered by the report—“(i) the analytical findings and activities of the intelligence community with respect to Russian atrocities in Ukraine; and “(ii) the recipients of information shared pursuant to this section for the purpose of ensuring accountability for such Russian atrocities, and the date of any such sharing. “(B) Form.—Each report submitted under subparagraph (A) may be submitted in classified form, consistent with the protection of intelligence sources and methods. “(C) Supplement.—The Director of National Intelligence may supplement an existing reporting requirement with the information required under subparagraph (A) on an annual basis to satisfy that requirement with prior notification of intent to do so to the appropriate committees of Congress. “(c) Sunset.—This section shall cease to have effect on December 31, 2028. The Director and Coordinator shall carry out this section before such date regardless of any ceasefire or cessation of armed hostilities by Russia in Ukraine occurring before such date.”
 
 [For definitions of “intelligence community” and “congressional intelligence committees” as used in section 6512 of Pub. L. 117–263, set out above, see section 6002 of Pub. L. 117–263, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
@@ -4074,8 +4005,8 @@ For Determination by President that section take effect on Apr. 21, 2005, see Me
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
 
-<a id="section-3035"></a>
-## § 3035. Chief Information Officer
+<a id="section-3034d"></a>
+## § 3034d. Chief Information Officer
 **(a) Chief Information Officer** To assist the Director of National Intelligence in carrying out the responsibilities of the Director under this chapter and other applicable provisions of law, there shall be within the Office of the Director of National Intelligence a Chief Information Officer of the Intelligence Community who shall be appointed by the Director. The Chief Information Officer shall report directly to the Director of National Intelligence.
 
 **(b) Duties and responsibilities** Subject to the direction of the Director of National Intelligence, the Chief Information Officer of the Intelligence Community shall—
@@ -4115,8 +4046,8 @@ Subsecs. (b) to (d). Pub. L. 111–259, § 404(2)–(4), redesignated subsecs. (
 Pub. L. 108–487, title III, § 303(b), Dec. 23, 2004, 118 Stat. 3944, provided that: “The amendments made by this section [enacting this section] shall take effect on the effective date of the National Security Intelligence Reform Act of 2004 [see section 1097 of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transfer, Termination, and Transition Provisions note under [section 3001 of this title](./chapter-044-national-security.md#section-3001)], as provided in section 801 of this Act [set out in an Effective Date of 2004 Amendments note under [section 2656f of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f&num=0&edition=prelim), Foreign Relations and Intercourse].”
 
 
-<a id="section-3036"></a>
-## § 3036. Inspector General of the Intelligence Community
+<a id="section-3035"></a>
+## § 3035. Inspector General of the Intelligence Community
 **(a) Office of Inspector General of the Intelligence Community** There is within the Office of the Director of National Intelligence an Office of the Inspector General of the Intelligence Community.
 
 **(b) Purpose** The purpose of the Office of the Inspector General of the Intelligence Community is—
@@ -4275,11 +4206,31 @@ Pub. L. 108–487, title III, § 303(b), Dec. 23, 2004, 118 Stat. 3944, provided
 
   (E) The Director, or on the recommendation of the Director, another appropriate official of the intelligence community, shall take appropriate administrative actions against an employee, or an employee of a contractor, of an element of the intelligence community that fails to cooperate with the Inspector General. Such administrative action may include loss of employment or the termination of an existing contractual relationship.
 
-(3) The Inspector General is authorized to receive and investigate, pursuant to subsection (h), complaints or information from any person concerning the existence of an activity within the authorities and responsibilities of the Director of National Intelligence constituting a violation of laws, rules, or regulations, or mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to the public health and safety. Once such complaint or information has been received from an employee of the intelligence community—
+(3)
 
-  (A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken, and this provision shall qualify as a withholding statute pursuant to subsection (b)(3) of [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) (commonly known as the “Freedom of Information Act”); and
+  (A) The Inspector General is authorized to receive and investigate, pursuant to subsection (h), complaints or information from any person concerning the existence of an activity within the authorities and responsibilities of the Director of National Intelligence constituting a violation of laws, rules, or regulations, or mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to the public health and safety. Once such complaint or information has been received from an employee of the intelligence community—
 
-  (B) no action constituting a reprisal, or threat of reprisal, for making such complaint or disclosing such information to the Inspector General may be taken by any employee in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
+    (i) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken, and this provision shall qualify as a withholding statute pursuant to subsection (b)(3) of [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) (commonly known as the “Freedom of Information Act”); and
+
+    (ii) no action constituting a reprisal, or threat of reprisal, for making such complaint or disclosing such information to the Inspector General may be taken by any employee in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
+
+  (B)
+
+    (i) An individual may disclose classified information to the Inspector General in accordance with the applicable security standards and procedures established under section 3024 or 3162a of this title, chapter 12 of the Atomic Energy Act of 1954 ([42 U.S.C. 2161](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2161&num=0&edition=prelim) et seq.), Executive Order 13526 ([50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note; relating to Classified National Security Information), or any applicable provision of law.
+
+    (ii) A disclosure under clause (i) of classified information made by an individual without appropriate clearance or authority to access such classified information at the time of the disclosure, but that is otherwise made in accordance with applicable security standards and procedures, shall be treated as an authorized disclosure that does not violate a covered provision.
+
+    (iii) Nothing in clause (ii) may be construed to limit or modify the obligation of an individual to appropriately store, handle, or disseminate classified information in accordance with applicable security guidance and procedures, including with respect to the removal or retention of classified information.
+
+    (iv) In this subparagraph, the term “covered provision” means—
+
+      (I) any otherwise applicable nondisclosure agreement;
+
+      (II) any otherwise applicable regulation or order issued under the authority of chapter 18 of the Atomic Energy Act of 1954 ([42 U.S.C. 2271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2271&num=0&edition=prelim) et seq.) or Executive Order 13526;
+
+      (III) [section 798 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section798&num=0&edition=prelim); or
+
+      (IV) any other provision of law with respect to the unauthorized disclosure of national security information.
 
 (4) The Inspector General shall have the authority to administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of the duties of the Inspector General, which oath, affirmation, or affidavit when administered or taken by or before an employee of the Office of the Inspector General of the Intelligence Community designated by the Inspector General shall have the same force and effect as if administered or taken by, or before, an officer having a seal.
 
@@ -4406,9 +4357,21 @@ Pub. L. 108–487, title III, § 303(b), Dec. 23, 2004, 118 Stat. 3944, provided
 
 (5)
 
-  (A) An employee of an element of the intelligence community, an employee assigned or detailed to an element of the intelligence community, or an employee of a contractor to the intelligence community who intends to report to Congress a complaint or information with respect to an urgent concern may report such complaint or information to the Inspector General.
+  (A)
 
-  (B) Not later than the end of the 14-calendar-day period beginning on the date of receipt from an employee of a complaint or information under subparagraph (A), the Inspector General shall determine whether the complaint or information appears credible. Upon making such a determination, the Inspector General shall transmit to the Director a notice of that determination, together with the complaint or information.
+    (i) An employee of an element of the intelligence community, an employee assigned or detailed to an element of the intelligence community, or an employee of a contractor to the intelligence community who intends to report to Congress a complaint or information with respect to an urgent concern may report such complaint or information in writing to the Inspector General.
+
+    (ii) The Inspector General shall—
+
+      (I) provide reasonable support necessary to ensure that an employee can report a complaint or information under this subparagraph in writing; and
+
+      (II) if such submission is not feasible, create a written record of the employee’s verbal complaint or information and treat such written record as a written submission.
+
+  (B)
+
+    (i) In accordance with clause (ii), the Inspector General shall determine whether a complaint or information reported under subparagraph (A) appears credible. Upon making such a determination, the Inspector General shall transmit to the Director a notice of that determination, together with the complaint or information.
+
+    (ii) The Inspector General shall make the determination under clause (i) with respect to a complaint or information under subparagraph (A) by not later than the end of the 14-calendar-day period beginning on the date on which the employee who reported the complaint or information confirms to the Inspector General the intent of the employee to report to Congress that complaint or information.
 
   (C) Upon receipt of a transmittal from the Inspector General under subparagraph (B), the Director shall, within 7 calendar days of such receipt, forward such transmittal to the congressional intelligence committees, together with any comments the Director considers appropriate.
 
@@ -4448,7 +4411,9 @@ Pub. L. 108–487, title III, § 303(b), Dec. 23, 2004, 118 Stat. 3944, provided
 
   (I) An individual who has submitted a complaint or information to the Inspector General under this section may notify any member of either of the congressional intelligence committees, or a staff member of either of such committees, of the fact that such individual has made a submission to the Inspector General, and of the date on which such submission was made.
 
-(6) In accordance with [section 535 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section535&num=0&edition=prelim), the Inspector General shall expeditiously report to the Attorney General any information, allegation, or complaint received by the Inspector General relating to violations of Federal criminal law that involves 22 So in original. Probably should be “involve”. a program or operation of an element of the intelligence community, or in the relationships between the elements of the intelligence community, consistent with such guidelines as may be issued by the Attorney General pursuant to subsection (b)(2) of such section. A copy of each such report shall be furnished to the Director.
+  (J) In this paragraph, the term “employee” includes a former employee, if the complaint or information reported under subparagraph (A) arises from or relates to the period during which the former employee was an employee.
+
+(6) In accordance with [section 535 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section535&num=0&edition=prelim), the Inspector General shall expeditiously report to the Attorney General any information, allegation, or complaint received by the Inspector General relating to violations of Federal criminal law that involve a program or operation of an element of the intelligence community, or in the relationships between the elements of the intelligence community, consistent with such guidelines as may be issued by the Attorney General pursuant to subsection (b)(2) of such section. A copy of each such report shall be furnished to the Director.
 
 **(l) Construction of duties regarding elements of Intelligence Community** Except as resolved pursuant to subsection (h), the performance by the Inspector General of the Intelligence Community of any duty, responsibility, or function regarding an element of the intelligence community shall not be construed to modify or affect the duties and responsibilities of any other inspector general having duties and responsibilities relating to such element.
 
@@ -4499,12 +4464,26 @@ Section 3 of the Inspector General Act of 1978, referred to in subsec. (c)(6)(A)
 
 GS–15 of the General Schedule, referred to in subsec. (c)(6)(B)(iii)(II), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
+The Atomic Energy Act of 1954, referred to in subsec. (g)(3)(B)(i), (iv)(II), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919. Chapters 12 and 18 of the Act are classified generally to subchapters XI (§ 2161 et seq.) and XVII (§ 2271 et seq.), respectively, of division A of chapter 23 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
+
+Executive Order 13526, referred to in subsec. (g)(3)(B)(i), (iv)(II), is Ex. Ord. No. 13526, Dec. 29, 2009, 75 F.R. 707, 1013, which is set out as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161).
+
 #### Codification
 Pub. L. 117–263, § 5202(a)(3), which directed amendment of the Inspector General Act of 1978 by amending section 103H(c) of the National Security Act, was executed to subsec. (c) of this section, which is section 103H of the National Security Act of 1947, to reflect the probable intent of Congress. Pub. L. 117–263, § 5203(b), which also directed amendment of section 103H(c) of the National Security Act, was similarly executed to subsec. (c) of this section as if it had directed amendment of section 103H(c) of the National Security Act of 1947, to reflect the probable intent of Congress.
 
 Section was formerly classified to [section 403–3h of this title](./chapter-015-national-security.md#section-403-3h) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2024—Subsec. (g)(3). Pub. L. 118–159, § 6702(a), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+
+Subsec. (k)(5)(A). Pub. L. 118–159, § 6701(a)(1), designated existing provisions as cl. (i), inserted “in writing” before “to the Inspector General”, and added cl. (ii).
+
+Subsec. (k)(5)(B). Pub. L. 118–159, § 6701(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “Not later than the end of the 14-calendar-day period beginning on the date of receipt from an employee of a complaint or information under subparagraph (A), the Inspector General shall determine whether the complaint or information appears credible. Upon making such a determination, the Inspector General shall transmit to the Director a notice of that determination, together with the complaint or information.”
+
+Subsec. (k)(5)(J). Pub. L. 118–159, § 6701(a)(3), added subpar. (J).
+
+Subsec. (k)(6). Pub. L. 118–159, § 6902(a)(2), substituted “involve” for “involves”.
+
 2022—Subsec. (c)(4). Pub. L. 117–263, § 5202(a)(3)(A), designated existing provisions as subpar. (A), substituted “substantive rationale, including detailed and case-specific reasons,” for “reasons”, and added subpar. (B). See Codification note above.
 
 Subsec. (c)(5). Pub. L. 117–263, § 5202(a)(3)(B), added par. (5). See Codification note above.
@@ -4548,8 +4527,8 @@ Pub. L. 116–92, div. E, title LIII, § 5334, Dec. 20, 2019, 133 Stat. 2141, as
 Pub. L. 116–92, div. E, title LIII, § 5331, Dec. 20, 2019, 133 Stat. 2137, provided that: “In this subtitle [subtitle C (§§ 5331—5335) of title LIII of div. E of Pub. L. 116–92, enacting [section 3236 of this title](./chapter-044-national-security.md#section-3236) and provisions set out as a note above]: “(1) Whistleblower.—The term ‘whistleblower’ means a person who makes a whistleblower disclosure. “(2) Whistleblower disclosure.—The term ‘whistleblower disclosure’ means a disclosure that is protected under section 1104 of the National Security Act of 1947 ([50 U.S.C. 3234](./chapter-044-national-security.md#section-3234)) or section 3001(j)(1) of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 3341(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3341/j&num=0&edition=prelim)).”
 
 
-<a id="section-3037"></a>
-## § 3037. Chief Financial Officer of the Intelligence Community
+<a id="section-3036"></a>
+## § 3036. Chief Financial Officer of the Intelligence Community
 **(a) Chief Financial Officer of the Intelligence Community** To assist the Director of National Intelligence in carrying out the responsibilities of the Director under this chapter and other applicable provisions of law, there is within the Office of the Director of National Intelligence a Chief Financial Officer of the Intelligence Community who shall be appointed by the Director. The Chief Financial Officer shall report directly to the Director of National Intelligence.
 
 **(b) Duties and responsibilities** Subject to the direction of the Director of National Intelligence, the Chief Financial Officer of the Intelligence Community shall—
@@ -4598,8 +4577,8 @@ Section was formerly classified to [section 403–3i of this title](./chapter-01
 2019—Subsec. (a). Pub. L. 116–92 inserted at end “The Chief Financial Officer shall report directly to the Director of National Intelligence.”
 
 
-<a id="section-3038"></a>
-## § 3038. Functional Managers for the intelligence community
+<a id="section-3037"></a>
+## § 3037. Functional Managers for the intelligence community
 **(a) Functional Managers authorized** The Director of National Intelligence may establish within the intelligence community one or more positions of manager of an intelligence function. Any position so established may be known as the “Functional Manager” of the intelligence function concerned.
 
 **(b) Personnel** The Director shall designate individuals to serve as manager of intelligence functions established under subsection (a) from among officers and employees of elements of the intelligence community.
@@ -4611,8 +4590,8 @@ Section was formerly classified to [section 403–3i of this title](./chapter-01
 (2) To carry out such other responsibilities with respect to the intelligence function as the Director may specify for purposes of this section.
 
 
-<a id="section-3039"></a>
-## § 3039. Intelligence Community Chief Data Officer
+<a id="section-3038"></a>
+## § 3038. Intelligence Community Chief Data Officer
 **(a) Intelligence Community Chief Data Officer** There is an Intelligence Community Chief Data Officer within the Office of the Director of National Intelligence who shall be appointed by the Director of National Intelligence.
 
 **(b) Requirement relating to appointment** An individual appointed as the Intelligence Community Chief Data Officer shall have a professional background and experience appropriate for the duties of the Intelligence Community Chief Data Officer. In making such appointment, the Director of National Intelligence may give preference to an individual with experience outside of the United States Government.
@@ -4636,8 +4615,8 @@ Section was formerly classified to [section 403–3i of this title](./chapter-01
 Pub. L. 118–31, div. G, title III, § 7310(b)(2), Dec. 22, 2023, 137 Stat. 1028, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 22, 2023], consistent with section 103K(c) of the National Security Act of 1947 ([50 U.S.C. 3034b(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3034b/c&num=0&edition=prelim)), as amended by paragraph (1), the Director of National Intelligence shall complete such internal reorganization of the Office of the Director of National Intelligence as the Director determines necessary to ensure that the duties of the Intelligence Community Chief Data Officer appointed under such section do not include any other duty that does not relate to an issue involving data.”
 
 
-<a id="section-3040"></a>
-## § 3040. Intelligence Community Innovation Unit
+<a id="section-3039"></a>
+## § 3039. Intelligence Community Innovation Unit
 **(a) Definitions** In this section:
 
 (1) **Emerging technology** — the term “emerging technology” has the meaning given that term in section 6701 of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117–263; [50 U.S.C. 3024](./chapter-044-national-security.md#section-3024) note).
@@ -4652,7 +4631,7 @@ Pub. L. 118–31, div. G, title III, § 7310(b)(2), Dec. 22, 2023, 137 Stat. 102
 
   (A) benefit heads of the elements of the intelligence community in identifying commercial emerging technologies and associated capabilities to address critical mission needs of elements of the intelligence community;
 
-  (B) provide to the heads of the elements of the intelligence community seeking to field commercial emerging technologies technical expertise with respect to such technologies.
+  (B) provide to the heads of the elements of the intelligence community seeking to field commercial emerging technologies technical expertise with respect to such technologies.11 So in original. The period probably should be a semicolon.
 
   (C) facilitate the transition of potential prototypes and solutions to critical mission needs of the intelligence community from research and prototype projects to production; and
 
@@ -4711,6 +4690,61 @@ Pub. L. 118–31, div. G, title III, § 7310(b)(2), Dec. 22, 2023, 137 Stat. 102
 (2) **No additional authority** — The Unit established pursuant to subsection (c) will be limited to the existing authorities possessed by the Director of National Intelligence.
 
 **(k) Sunset** The authorities and requirements of this section shall terminate on the date that is 5 years after the date of the establishment of the Unit.
+
+
+<a id="section-3040"></a>
+## § 3040. National Intelligence Management Council
+**(a) Establishment** There is within the Office of the Director of National Intelligence a National Intelligence Management Council.
+
+**(b) Composition**
+
+(1) The National Intelligence Management Council shall be composed of senior officials within the intelligence community and substantive experts from the public or private sector, who shall be appointed by, report to, and serve at the pleasure of, the Director of National Intelligence.
+
+(2) The Director shall prescribe appropriate security requirements for personnel appointed from the private sector as a condition of service on the National Intelligence Management Council, or as contractors of the Council or employees of such contractors, to ensure the protection of intelligence sources and methods while avoiding, wherever possible, unduly intrusive requirements which the Director considers to be unnecessary for this purpose.
+
+**(c) Duties and responsibilities** Members of the National Intelligence Management Council shall work with each other and with other elements of the intelligence community to ensure proper coordination and to minimize duplication of effort, in addition to the following duties and responsibilities:
+
+(1) Provide integrated mission input to support the processes and activities of the intelligence community, including with respect to intelligence planning, programming, budgeting, and evaluation processes.
+
+(2) Identify and pursue opportunities to integrate or coordinate collection and counterintelligence efforts.
+
+(3) In concert with the responsibilities of the National Intelligence Council, ensure the integration and coordination of analytic and collection efforts.
+
+(4) Develop and coordinate intelligence strategies in support of budget planning and programming activities.
+
+(5) Advise the Director of National Intelligence on the development of the National Intelligence Priorities Framework of the Office of the Director of National Intelligence (or any successor mechanism established for the prioritization of programs and activities).
+
+(6) In concert with the responsibilities of the National Intelligence Council, support the role of the Director of National Intelligence as principal advisor to the President on intelligence matters.
+
+(7) Inform the elements of the intelligence community of the activities and decisions related to missions assigned to the National Intelligence Management Council.
+
+(8) Maintain awareness, across various functions and disciplines, of the mission-related activities and budget planning of the intelligence community.
+
+(9) Evaluate, with respect to assigned mission objectives, requirements, and unmet requirements, the implementation of the budget of each element of the intelligence community.
+
+(10) Provide oversight on behalf of, and make recommendations to, the Director of National Intelligence on the extent to which the activities, program recommendations, and budget proposals made by elements of the intelligence community sufficiently address mission objectives, intelligence gaps, and unmet requirements.
+
+**(d) Mission management of members** Members of the National Intelligence Management Council, under the direction of the Director of National Intelligence, shall serve as mission managers to ensure integration among the elements of the intelligence community and across intelligence functions, disciplines, and activities for the purpose of achieving unity of effort and effect, including through the following responsibilities:
+
+(1) Planning and programming efforts.
+
+(2) Budget and program execution oversight.
+
+(3) Engagement with elements of the intelligence community and with policymakers in other agencies.
+
+(4) Workforce competencies and training activities.
+
+(5) Development of capability requirements.
+
+(6) Development of governance fora, policies, and procedures.
+
+**(e) Staff; availability**
+
+(1) **Staff** — The Director of National Intelligence shall make available to the National Intelligence Management Council such staff as may be necessary to assist the National Intelligence Management Council in carrying out the responsibilities described in this section.
+
+(2) **Availability** — Under the direction of the Director of National Intelligence, the National Intelligence Management Council shall make reasonable efforts to advise and consult with officers and employees of other departments or agencies, or components thereof, of the United States Government not otherwise associated with the intelligence community.
+
+**(f) Support from elements of the intelligence community** The heads of the elements of the intelligence community shall provide appropriate support to the National Intelligence Management Council, including with respect to intelligence activities, as required by the Director of National Intelligence.
 
 
 <a id="section-3040a"></a>
@@ -5113,7 +5147,7 @@ Pub. L. 116–92, § 6742(b)(2)(B), realigned margin.
 
 Subsec. (b)(2)(E). Pub. L. 108–177 added subpar. (E).
 
-2001—Subsec. (b)(2)(C), (D). Pub. L. 107–108 added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “The Director of the Office of Nonproliferation and National Security of the Department of Energy.”.
+2001—Subsec. (b)(2)(C), (D). Pub. L. 107–108 added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “The Director of the Office of Nonproliferation and National Security of the Department of Energy.”
 
 1996—Pub. L. 104–293 amended section generally, substituting provisions relating to appointment of individuals responsible for intelligence-related activities for provisions relating to administrative provisions pertaining to defense elements within the intelligence community.
 
@@ -5147,9 +5181,11 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
   (A) *Number and appointment*
 
-    (i) *In general* — The Board shall be composed of five members appointed by the Director, in consultation with the Director of National Intelligence and the Secretary of Defense, from among individuals with demonstrated academic, government, business, or other expertise relevant to the mission and functions of the National Reconnaissance Office.
+    (i) *In general* — The Board shall be composed of up to 8 members appointed by the Director, in consultation with the Director of National Intelligence and the Secretary of Defense, from among individuals with demonstrated academic, government, business, or other expertise relevant to the mission and functions of the National Reconnaissance Office, and who do not present any actual or potential conflict of interest.
 
-    (ii) *Notification* — Not later than 30 days after the date on which the Director appoints a member to the Board, the Director shall notify the congressional intelligence committees and the congressional defense committees (as defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim)) of such appointment.
+    (ii) *Membership structure* — The Director shall ensure that no more than 2 concurrently serving members of the Board qualify for membership on the Board based predominantly on a single qualification set forth under clause (i).
+
+    (iii) *Notification* — Not later than 30 days after the date on which the Director appoints a member to the Board, the Director shall notify the congressional intelligence committees and the congressional defense committees (as defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim)) of such appointment.
 
   (B) *Terms* — Each member shall be appointed for a term of 2 years. Except as provided by subparagraph (C), a member may not serve more than three terms.
 
@@ -5163,20 +5199,36 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 (4) **Meetings** — The Board shall meet not less than quarterly, but may meet more frequently at the call of the Director.
 
-(5) **Reports** — Not later than March 31 of each year, the Board shall submit to the Director and to the congressional intelligence committees a report on the activities and significant findings of the Board during the preceding year.
+(5) **Charter** — The Director shall establish a charter for the Board that includes the following:
 
-(6) **Nonapplicability of certain requirements** — The Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply to the Board.
+  (A) Mandatory processes for identifying potential conflicts of interest, including the submission of initial and periodic financial disclosures by Board members.
 
-(7) **Termination** — The Board shall terminate on September 30, 2024.
+  (B) The vetting of potential conflicts of interest by the designated agency ethics official, except that no individual waiver may be granted for a conflict of interest identified with respect to the Chair of the Board.
+
+  (C) The establishment of a process and associated protections for any whistleblower alleging a violation of applicable conflict of interest law, Federal contracting law, or other provision of law.
+
+(6) **Reports** — Not later than March 31 of each year, the Board shall submit to the Director and to the congressional intelligence committees a report on the activities and significant findings of the Board during the preceding year.
+
+(7) **Nonapplicability of certain requirements** — The Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply to the Board.
+
+(8) **Termination** — The Board shall terminate on August 31, 2027.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsec. (c), was in the original “this Act”, meaning act July 26, 1947, ch. 343, 61 Stat. 495, known as the National Security Act of 1947, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(6), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
+The Federal Advisory Committee Act, referred to in subsec. (d)(7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 #### Amendments
+2024—Subsec. (d)(3)(A)(i). Pub. L. 118–159, § 6304(1)(A), substituted “up to 8 members appointed by the Director” for “five members appointed by the Director” and inserted “, and who do not present any actual or potential conflict of interest” before period at end.
+
+Subsec. (d)(3)(A)(ii), (iii). Pub. L. 118–159, § 6304(1)(B), (C), added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+Subsec. (d)(5) to (7). Pub. L. 118–159, § 6304(2), (3), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
+
+Subsec. (d)(8). Pub. L. 118–159, § 6304(2), (4), redesignated par. (7) as (8) and substituted “August 31, 2027” for “September 30, 2024”.
+
 2022—Subsec. (d)(3)(A)(i). Pub. L. 117–263, § 6431(1), inserted “, in consultation with the Director of National Intelligence and the Secretary of Defense,” after “Director”.
 
 Subsec. (d)(7). Pub. L. 117–263, § 6431(2), substituted “September 30, 2024” for “the date that is 3 years after the date of the first meeting of the Board”.
@@ -5355,8 +5407,8 @@ Pub. L. 113–126, title III, § 307(b), July 7, 2014, 128 Stat. 1397, provided 
 [For definition of “intelligence community” as used in section 307(b) of Pub. L. 113–126, set out above, see section 2 of Pub. L. 113–126, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
 
-<a id="section-3050"></a>
-## § 3050. National mission of National Geospatial-Intelligence Agency
+<a id="section-3049b"></a>
+## § 3049b. National mission of National Geospatial-Intelligence Agency
 **(a) In general** In addition to the Department of Defense missions set forth in [section 442 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section442&num=0&edition=prelim), the National Geospatial-Intelligence Agency shall support the geospatial intelligence requirements of the Department of State and other departments and agencies of the United States outside the Department of Defense.
 
 **(b) Requirements and priorities** The Director of National Intelligence shall establish requirements and priorities governing the collection of national intelligence by the National Geospatial-Intelligence Agency under subsection (a).
@@ -5391,14 +5443,13 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 Pub. L. 116–260, div. W, title VI, § 612, Dec. 27, 2020, 134 Stat. 2395, provided that: “(a) Research Partnership.—“(1) Requirement.—Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2020], the Director of the National Geospatial-Intelligence Agency shall seek to enter into a partnership with an academic or non-profit research institution to—“(A) carry out joint unclassified geospatial intelligence analyses of the activities of the People’s Republic of China that pose risks to the national security interests of the United States; and “(B) make available on a publicly available internet website unclassified geospatial intelligence products relating to such analyses. “(2) Elements.—The Director shall ensure that the activities of China analyzed under paragraph (1)(A) include the following:“(A) Any notable developments relating to the global activities of the People’s Liberation Army Ground Force, the People’s Liberation Army Navy, the People’s Liberation Army Air Force, the People’s Liberation Army Rocket Force, the People’s Liberation Army Strategic Support Force, and the Chinese People’s Armed Police Force Coast Guard Corps. “(B) Infrastructure projects associated with the ‘One Belt, One Road’ Initiative. “(C) Maritime land reclamation activities conducted by China in the South China Sea, the Indian Ocean region, and the broader maritime commons. “(D) Matters relevant to global public health and climate security, including—“(i) indications and warnings of disease outbreaks with pandemic potential; “(ii) the activities of China likely contributing to climate change; and “(iii) any environmental degradation directly resulting from the practices of China. “(3) Consortium.—In carrying out paragraph (1), the Director may enter into a partnership with—“(A) one research institution; or “(B) a consortium of research institutions if the Director determines that the inclusion of multiple institutions will result in more effective research conducted pursuant to this section or improve the outcomes of such research. “(4) Duration.—The Director shall carry out a partnership under this section for a period that is not less than 10 years following the date of the enactment of this Act. “(5) Improvements to partnership.—The Director may modify the partnership under paragraph (1) or select a new research institution with which to enter into such a partnership if—“(A) the Director consults with the congressional intelligence committees with respect to the proposed modified or new partnership; “(B) the modified or new partnership is carried out in accordance with this section; and “(C) the Director determines that the modified or new partnership will result in more effective research conducted pursuant to this section or improve the outcomes of such research. “(b) Open-Source Data.—“(1) Identification and publication.—During the life of the partnership under subsection (a), the Director shall regularly—“(A) identify raw, unclassified geospatial data that could improve the research conducted under the partnership if the data was made publicly available; and “(B) make such data publicly available. “(2) Consultation.—The Director shall carry out paragraph (1) in consultation with the research institution or consortium of research institutions involved with the partnership under subsection (a). “(c) Briefings.—Not later than 270 days after the date of the enactment of this Act, and annually thereafter during the life of the partnership under subsection (a), the Director shall provide to the appropriate congressional committees a briefing on the partnership. Each such briefing shall include the following:“(1) The outcomes of research conducted under the partnership. “(2) Identification of the actions that have been taken to increase the quantity and quality of unclassified geospatial analysis products made publicly available under the partnership, including the quantity and types of raw data the partnership has made publicly available. “(3) Identification of actual and projected costs to carry out the partnership. “(d) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the congressional intelligence committees [Select Committee on Intelligence and Committee on Appropriations of the Senate and Permanent Select Committee on Intelligence and Committee on Appropriations of the House of Representatives]; “(2) Committee on Foreign Relations and the Subcommittee on Defense of the Committee on Appropriations of the Senate; and “(3) Committee on Foreign Affairs and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives.”
 
 
-<a id="section-3051"></a>
-## § 3051. Repealed. Pub. L. 108–458, title I, § 1075, Dec. 17, 2004, 118 Stat. 3694
+<a id="section-3050"></a>
+## § 3050. Repealed. Pub. L. 108–458, title I, § 1075, Dec. 17, 2004, 118 Stat. 3694
 
 ### Statutory Notes
 
 Section, act July 26, 1947, ch. 343, title I, § 111, formerly § 121, as added Pub. L. 104–201, div. A, title XI, § 1114(c), Sept. 23, 1996, 110 Stat. 2685; renumbered § 111, Pub. L. 105–107, title III, § 303(b), Nov. 20, 1997, 111 Stat. 2252, related to collection tasking authority of Director of Central Intelligence.
 
-#### Codification
 Section was formerly classified to [section 404f of this title](./chapter-015-national-security.md#section-404f) and repealed prior to editorial reclassification and renumbering as this section.
 
 #### Effective Date of Repeal
@@ -5407,8 +5458,8 @@ For Determination by President that repeal take effect on Apr. 21, 2005, see Mem
 Repeal effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
 
-<a id="section-3052"></a>
-## § 3052. Restrictions on intelligence sharing with United Nations
+<a id="section-3051"></a>
+## § 3051. Restrictions on intelligence sharing with United Nations
 **(a) Provision of intelligence information to United Nations**
 
 (1) No United States intelligence information may be provided to the United Nations or any organization affiliated with the United Nations, or to any officials or employees thereof, unless the President certifies to the appropriate committees of Congress that the Director of National Intelligence, in consultation with the Secretary of State and the Secretary of Defense, has established and implemented procedures, and has worked with the United Nations to ensure implementation of procedures, for protecting from unauthorized disclosure United States intelligence sources and methods connected to such information.
@@ -5419,7 +5470,7 @@ Repeal effective not later than six months after Dec. 17, 2004, except as otherw
 
 **(c) Relationship to existing law** Nothing in this section shall be construed to—
 
-(1) impair or otherwise affect the authority of the Director of National Intelligence to protect intelligence sources and methods from unauthorized disclosure pursuant to [section 3024(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/i&num=0&edition=prelim); or
+(1) impair or otherwise affect the authority of the Director of National Intelligence to protect intelligence sources and methods from unauthorized disclosure pursuant to [section 3024(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/h&num=0&edition=prelim); or
 
 (2) supersede or otherwise affect the provisions of subchapter III of this chapter.
 
@@ -5431,6 +5482,8 @@ Repeal effective not later than six months after Dec. 17, 2004, except as otherw
 Section was formerly classified to [section 404g of this title](./chapter-015-national-security.md#section-404g) prior to editorial reclassification and renumbering as this section, and to [section 404d–1 of this title](./chapter-015-national-security.md#section-404d-1) prior to renumbering by Pub. L. 105–107. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
+2025—Subsec. (c)(1). Pub. L. 119–60 substituted “section 3024(h)” for “section 3024(i)”.
+
 2019—Subsec. (c)(1). Pub. L. 116–92 substituted “section 3024(i)” for “section 3025(c)(7)”.
 
 2010—Subsecs. (b) to (e). Pub. L. 111–259 redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows:
@@ -5466,8 +5519,8 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 Amendment by section 361(b) of Pub. L. 108–177 effective Dec. 31, 2003, see section 361(n) of Pub. L. 108–177, set out as a note under [section 1611 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1611&num=0&edition=prelim), Armed Forces.
 
 
-<a id="section-3053"></a>
-## § 3053. Detail of intelligence community personnel—Intelligence Community Assignment Program
+<a id="section-3052"></a>
+## § 3052. Detail of intelligence community personnel—Intelligence Community Assignment Program
 **(a) Detail**
 
 (1) Notwithstanding any other provision of law, the head of a department with an element in the intelligence community or the head of an intelligence community agency or element may detail any employee within that department, agency, or element to serve in any position in the Intelligence Community Assignment Program on a reimbursable or a nonreimbursable basis.
@@ -5520,8 +5573,8 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 Pub. L. 105–107, title III, § 303(d), Nov. 20, 1997, 111 Stat. 2252, provided that: “The amendment made by subsection (a) [enacting this section] shall apply to an employee on detail on or after January 1, 1997.”
 
 
-<a id="section-3054"></a>
-## § 3054. Non-reimbursable detail of other personnel
+<a id="section-3053"></a>
+## § 3053. Non-reimbursable detail of other personnel
 
 An officer or employee of the United States or member of the Armed Forces may be detailed to the staff of an element of the intelligence community funded through the National Intelligence Program from another element of the intelligence community or from another element of the United States Government on a non-reimbursable basis, as jointly agreed to by the heads of the receiving and detailing elements, for a period not to exceed three years. This section does not limit any other source of authority for reimbursable or non-reimbursable details. A non-reimbursable detail made under this section shall not be considered an augmentation of the appropriations of the receiving element of the intelligence community.
 
@@ -5536,8 +5589,8 @@ Section was formerly classified to [section 404h–1 of this title](./chapter-01
 2011—Pub. L. 112–18 amended section generally. Prior to amendment, text read as follows: “Except as provided in [section 402c(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section402c/g/2&num=0&edition=prelim) and [section 404h of this title](./chapter-015-national-security.md#section-404h), and notwithstanding any other provision of law, an officer or employee of the United States or member of the Armed Forces may be detailed to the staff of an element of the intelligence community funded through the National Intelligence Program from another element of the intelligence community or from another element of the United States Government on a reimbursable or nonreimbursable basis, as jointly agreed to by the head of the receiving element and the head of the detailing element, for a period not to exceed 2 years.”
 
 
-<a id="section-3055"></a>
-## § 3055. Special pay authority for science, technology, engineering, or mathematics positions and positions requiring banking or financial services expertise
+<a id="section-3054"></a>
+## § 3054. Special pay authority for science, technology, engineering, or mathematics positions and positions requiring banking or financial services expertise
 **(a) Special rates of pay for positions requiring expertise in science, technology, engineering, or mathematics or in banking or financial services**
 
 (1) **In general** — Notwithstanding part III of title 5, the head of each element of the intelligence community may, for one or more categories of positions in such element that require expertise in science, technology, engineering, or mathematics or in banking or financial services (including expertise relating to critical financial infrastructure operations, capital markets, banking compliance programs, or international investments)—
@@ -5629,6 +5682,15 @@ Subsec. (g). Pub. L. 116–92, § 6303(2), redesignated subsec. (f) as (g).
 Subsec. (g)(1). Pub. L. 116–92, § 6303(6)(A), substituted “Not later than 90 days after the date of the enactment of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018 and 2019” for “Not later than 90 days after May 5, 2017”.
 
 Subsec. (g)(2)(A). Pub. L. 116–92, § 6303(6)(B), inserted “or (b)” after “subsection (a)”.
+
+
+<a id="section-3055"></a>
+## § 3055. Enabling intelligence community integration
+**(a) Provision of goods or services** Subject to and in accordance with any guidance and requirements developed by the Director of National Intelligence, the head of an element of the intelligence community may provide goods or services to another element of the intelligence community without reimbursement or transfer of funds for hoteling initiatives for intelligence community employees and affiliates defined in any such guidance and requirements issued by the Director of National Intelligence.
+
+**(b) Approval** Prior to the provision of goods or services pursuant to subsection (a), the head of the element of the intelligence community providing such goods or services and the head of the element of the intelligence community receiving such goods or services shall approve such provision.
+
+**(c) Hoteling defined** In this section, the term “hoteling” means an alternative work arrangement in which employees of one element of the intelligence community are authorized flexible work arrangements to work part of the time at one or more alternative worksite locations, as appropriately authorized.
 
 
 <a id="section-3056"></a>
@@ -5761,7 +5823,6 @@ Pub. L. 105–272, title III, § 307(c), Oct. 20, 1998, 112 Stat. 2402, provided
 
 Section, act July 26, 1947, ch. 343, title I, § 114A, as added Pub. L. 107–306, title VIII, § 823(a), Nov. 27, 2002, 116 Stat. 2427; amended Pub. L. 108–136, div. A, title IX, § 921(g), Nov. 24, 2003, 117 Stat. 1570; Pub. L. 108–458, title I, § 1071(a)(4), Dec. 17, 2004, 118 Stat. 3690, related to annual report on improvement of financial statements for auditing purposes.
 
-#### Codification
 Section was formerly classified to [section 404i–1 of this title](./chapter-015-national-security.md#section-404i-1) and repealed prior to editorial reclassification and renumbering as this section.
 
 #### Correcting Long-Standing Material Weaknesses
@@ -5888,6 +5949,9 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 ### Statutory Notes
 
+#### Repeal of Section
+For repeal of section by section 6801(a)(1)(A) of Pub. L. 119–60, see Effective Date of Repeal note below.
+
 #### Codification
 Section was formerly classified to [section 404m of this title](./chapter-015-national-security.md#section-404m) prior to editorial reclassification and renumbering as this section.
 
@@ -5901,6 +5965,9 @@ Subsec. (a). Pub. L. 111–259, § 347(d)(2)(A), (B), in heading, substituted �
 Subsec. (a)(2) to (4). Pub. L. 111–259, § 347(d)(2)(C), (D), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “the total number of applications for asset seizure and designations of individuals or entities suspected of having engaged in financial support of terrorist activities that were granted, modified, or denied;”.
 
 Subsec. (d)(1), (2). Pub. L. 111–259, § 347(d)(3), inserted “the Committee on Armed Services,” after “the Committee on Appropriations,”.
+
+#### Effective Date of Repeal
+Pub. L. 119–60, div. F, title LXVIII, § 6801(a)(1)(C), Dec. 18, 2025, 139 Stat. 1652, provided that: “The amendments made by subparagraphs (A) and (B) [amending [section 3106 of this title](./chapter-044-national-security.md#section-3106) and repealing this section] shall take effect on December 31, 2026.”
 
 
 <a id="section-3062"></a>
@@ -6003,8 +6070,8 @@ Pub. L. 108–458, title VII, § 7201(b), Dec. 17, 2004, 118 Stat. 3809, directe
 Ex. Ord. No. 13354, Aug. 27, 2004, 69 F.R. 53589, which established a National Counterterrorism Center, was revoked by Ex. Ord. No. 12333, § 3.6, Dec. 4, 1981, 46 F.R. 59954, as amended by Ex. Ord. No. 13470, § 4(j), July 30, 2008, 73 F.R. 45341, set out as a note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
 
-<a id="section-3071"></a>
-## § 3071. National Counterproliferation and Biosecurity Center
+<a id="section-3063"></a>
+## § 3063. National Counterproliferation and Biosecurity Center
 **(a) Establishment**
 
 (1) The President shall establish a National Counterproliferation and Biosecurity Center, taking into account all appropriate government tools to—
@@ -6017,37 +6084,41 @@ Ex. Ord. No. 13354, Aug. 27, 2004, 69 F.R. 53589, which established a National C
 
 (3) The National Counterproliferation and Biosecurity Center shall be located within the Office of the Director of National Intelligence.
 
-(4) The Director of the National Counterproliferation and Biosecurity Center shall serve as the principal coordinator for the intelligence community, and as the principal advisor to the Director of National Intelligence, with respect to biosecurity and foreign biological threats.
+(4) The Director of the National Counterproliferation and Biosecurity Center shall serve as the principal coordinator for the intelligence community, and as the principal advisor to the Director of National Intelligence, with respect to counterproliferation, biosecurity, and foreign biological threats.
 
 **(b) Missions and objectives**
 
 (1) **Counterproliferation** — In establishing the National Counterproliferation and Biosecurity Center, the President shall address the following missions and objectives to prevent and halt the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies:
 
-  (A) Establishing a primary organization within the United States Government for analyzing and integrating all intelligence possessed or acquired by the United States pertaining to proliferation.
+  (A) Establishing a primary organization within the United States Government for integrating all intelligence possessed or acquired by the United States pertaining to proliferation.
 
   (B) Ensuring that appropriate agencies have full access to and receive all-source intelligence support needed to execute their counterproliferation plans or activities, and perform independent, alternative analyses.
 
-  (C) Establishing a central repository on known and suspected proliferation activities, including the goals, strategies, capabilities, networks, and any individuals, groups, or entities engaged in proliferation.
+  (C) Coordinating the establishment of a central repository on known and suspected proliferation activities, including the goals, strategies, capabilities, networks, and any individuals, groups, or entities engaged in proliferation.
 
-  (D) Disseminating proliferation information, including proliferation threats and analyses, to the President, to the appropriate departments and agencies, and to the appropriate committees of Congress.
+  (D) Overseeing the dissemination of proliferation information, including proliferation threats and analyses, to the President, to the appropriate departments and agencies, and to the appropriate committees of Congress.
 
-  (E) Conducting net assessments and warnings about the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies.
+  (E) Conducting and coordinating net assessments and warnings about the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies.
 
   (F) Coordinating counterproliferation plans and activities of the various departments and agencies of the United States Government to prevent and halt the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies.
 
-  (G) Conducting strategic operational counterproliferation planning for the United States Government to prevent and halt the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies.
+  (G) Coordinating and advancing strategic operational counterproliferation planning for the United States Government to prevent and halt the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies.
 
 (2) **Biosecurity** — In establishing the National Counterproliferation and Biosecurity Center, the President shall address the following missions and objectives to ensure that the Center serves as the lead for the intelligence community for the integration, mission management, and coordination of intelligence activities pertaining to biosecurity and foreign biological threats, regardless of origin:
 
   (A) Ensuring that the elements of the intelligence community provide timely and effective warnings to the President and the Director of National Intelligence regarding emerging foreign biological threats, including diseases with pandemic potential.
 
-  (B) Overseeing and coordinating the collection and analysis of intelligence on biosecurity and foreign biological threats in support of the intelligence needs of the Federal departments and agencies responsible for public health, including by conveying collection priorities to elements of the intelligence community.
+  (B) Overseeing and coordinating the collection of intelligence on biosecurity and foreign biological threats in support of the intelligence needs of the Federal departments and agencies responsible for public health, including by conveying collection priorities to elements of the intelligence community.
 
-  (C) Coordinating intelligence support to the Federal departments and agencies responsible for public health, including by ensuring that intelligence pertaining to biosecurity and foreign biological threats is disseminated among appropriately cleared personnel of such departments and agencies.
+  (C) Overseeing and coordinating the analysis of intelligence on biosecurity and foreign biological threats in support of the intelligence needs of Federal departments and agencies responsible for public health, including by providing analytic priorities to elements of the intelligence community and by coordinating net assessments.
 
-  (D) Coordinating with the Federal departments and agencies responsible for public health to encourage information sharing with the intelligence community.
+  (D) Coordinating intelligence support to the Federal departments and agencies responsible for public health on matters relating to biosecurity and foreign biological threats, including by ensuring that intelligence pertaining to biosecurity and foreign biological threats is disseminated among appropriately cleared personnel of such departments and agencies.
 
-  (E) Identifying gaps in the capabilities of the intelligence community regarding biosecurity and countering foreign biological threats and providing to the Director of National Intelligence recommended solutions for such gaps, including by encouraging research and development of new capabilities to counter foreign biological threats.
+  (E) Coordinating with the Federal departments and agencies responsible for public health to encourage information sharing with the intelligence community.
+
+  (F) Identifying gaps in the capabilities of the intelligence community regarding biosecurity and countering foreign biological threats and providing to the Director of National Intelligence recommended solutions for such gaps, including by encouraging research and development of new capabilities and authorities to counter foreign biological threats.
+
+  (G) Enhancing coordination between elements of the intelligence community and private sector entities on information relevant to biosecurity, biotechnology, and foreign biological threats, and coordinating such information with relevant Federal departments and agencies, as applicable.
 
 **(c) National security waiver** The President may waive the requirements of this section, and any parts thereof, if the President determines that such requirements do not materially improve the ability of the United States Government to prevent and halt the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies. Such waiver shall be made in writing to Congress and shall include a description of how the missions and objectives in subsection (b) are being met.
 
@@ -6061,6 +6132,41 @@ Ex. Ord. No. 13354, Aug. 27, 2004, 69 F.R. 53589, which established a National C
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 119–60, div. F, title LXIV, § 6404(c)(2), (d), (g), Dec. 18, 2025, 139 Stat. 1618, provided that, effective 180 days after Dec. 18, 2025, section is amended as follows:
+
+(1) in the heading, by striking “National Counterproliferation and Biosecurity Center” and inserting “Counterproliferation and Biosecurity”;
+
+(2) in subsection (a)—
+
+(A) in the heading, by striking “Establishment” and inserting “Organization”;
+
+(B) in paragraph (1)—
+
+(i) by striking “The President shall establish a National Counterproliferation and Biosecurity Center, taking into account all appropriate government tools to” and inserting “The Director of National Intelligence shall”; and
+
+(ii) in subparagraph (A), by inserting “support efforts to” before “prevent and halt”;
+
+(C) by striking paragraph (2) and inserting the following:
+
+“(2) The Director of National Intelligence shall appoint an appropriate official within the Office of the Director of National Intelligence to oversee the efforts and activities undertaken pursuant to this section.”; and
+
+(D) by striking paragraphs (3) and (4); and
+
+(3) in subsection (b)—
+
+(A) in paragraph (1)—
+
+(i) by striking “establishing the National Counterproliferation and Biosecurity Center, the President” and inserting “carrying out this section, the Director”; and
+
+(ii) in subparagraph (A), by striking “Establishing a primary organization within the United States Government for integrating” and inserting “Integrating”; and
+
+(B) in paragraph (2), by striking “In establishing the National Counterproliferation and Biosecurity Center, the President shall address the following missions and objectives to ensure that the Center serves as the lead for the intelligence community for” and inserting “In carrying out this section, the Director shall address the following missions and objectives to ensure”; and
+
+(4) by striking subsections (c), (d), and (e).
+
+See 2025 Amendment notes below.
+
 #### References in Text
 This chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning act July 26, 1947, ch. 343, 61 Stat. 495, known as the National Security Act of 1947, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
@@ -6070,6 +6176,56 @@ The Executive Order in February 2004 establishing the President’s Commission o
 Section was formerly classified to section 404o–1 of this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2025—Pub. L. 119–60, § 6404(c)(2)(A), substituted “Counterproliferation and Biosecurity” for “National Counterproliferation and Biosecurity Center” in section catchline.
+
+Subsec. (a). Pub. L. 119–60, § 6404(c)(2)(B)(i), substituted “Organization” for “Establishment” in heading.
+
+Subsec. (a)(1). Pub. L. 119–60, § 6404(c)(2)(B)(ii)(I), substituted “The Director of National Intelligence shall” for “The President shall establish a National Counterproliferation and Biosecurity Center, taking into account all appropriate government tools to” in introductory provisions.
+
+Subsec. (a)(1)(A). Pub. L. 119–60, § 6404(c)(2)(B)(ii)(II), inserted “support efforts to” before “prevent and halt”.
+
+Subsec. (a)(2). Pub. L. 119–60, § 6404(c)(2)(B)(iii), added par. (2) and struck out former par. (2) which read as follows: “The head of the National Counterproliferation and Biosecurity Center shall be the Director of the National Counterproliferation and Biosecurity Center, who shall be appointed by the Director of National Intelligence.”
+
+Subsec. (a)(3), (4). Pub. L. 119–60, § 6404(c)(2)(B)(iv), struck out pars. (3) and (4) which read as follows:
+
+“(3) The National Counterproliferation and Biosecurity Center shall be located within the Office of the Director of National Intelligence.
+
+“(4) The Director of the National Counterproliferation and Biosecurity Center shall serve as the principal coordinator for the intelligence community, and as the principal advisor to the Director of National Intelligence, with respect to counterproliferation, biosecurity, and foreign biological threats.”
+
+Subsec. (b)(1). Pub. L. 119–60, § 6404(c)(2)(C)(i)(I), substituted “carrying out this section, the Director” for “establishing the National Counterproliferation and Biosecurity Center, the President” in introductory provisions.
+
+Subsec. (b)(1)(A). Pub. L. 119–60, § 6404(c)(2)(C)(i)(II), substituted “Integrating” for “Establishing a primary organization within the United States Government for integrating”.
+
+Subsec. (b)(2). Pub. L. 119–60, § 6404(c)(2)(C)(ii), substituted “In carrying out this section, the Director shall address the following missions and objectives to ensure” for “In establishing the National Counterproliferation and Biosecurity Center, the President shall address the following missions and objectives to ensure that the Center serves as the lead for the intelligence community for” in introductory provisions.
+
+Subsecs. (c) to (e). Pub. L. 119–60, § 6404(d), struck out subsecs. (c) to (e) which related to national security waiver, report to Congress, and sense of Congress, respectively.
+
+2024—Subsec. (a)(4). Pub. L. 118–159, § 6502(1), substituted “counterproliferation, biosecurity, and” for “biosecurity and”.
+
+Subsec. (b)(1)(A). Pub. L. 118–159, § 6502(2)(A)(i), struck out “analyzing and” before “integrating all intelligence”.
+
+Subsec. (b)(1)(C). Pub. L. 118–159, § 6502(2)(A)(ii), substituted “Coordinating the establishment of” for “Establishing”.
+
+Subsec. (b)(1)(D). Pub. L. 118–159, § 6502(2)(A)(iii), substituted “Overseeing the dissemination of” for “Disseminating”.
+
+Subsec. (b)(1)(E). Pub. L. 118–159, § 6502(2)(A)(iv), inserted “and coordinating” after “Conducting”.
+
+Subsec. (b)(1)(G). Pub. L. 118–159, § 6502(2)(A)(v), substituted “Coordinating and advancing” for “Conducting”.
+
+Subsec. (b)(2)(B). Pub. L. 118–159, § 6502(2)(B)(i), struck out “and analysis” after “coordinating the collection”.
+
+Subsec. (b)(2)(C). Pub. L. 118–159, § 6502(2)(B)(iii), added subpar. (C). Former subpar. (C) redesignated (D).
+
+Subsec. (b)(2)(D). Pub. L. 118–159, § 6502(2)(B)(ii), (iv), redesignated subpar. (C) as (D) and inserted “on matters relating to biosecurity and foreign biological threats” after “public health”. Former subpar. (D) redesignated (E).
+
+Subsec. (b)(2)(E). Pub. L. 118–159, § 6502(2)(B)(ii), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F).
+
+Subsec. (b)(2)(F). Pub. L. 118–159, § 6502(2)(B)(v), which directed insertion of “and authorities” after “capabilities”, was executed by making the insertion after “capabilities” the second place appearing, to reflect the probable intent of Congress.
+
+Pub. L. 118–159, § 6502(2)(B)(ii), redesignated subpar. (E) as (F).
+
+Subsec. (b)(2)(G). Pub. L. 118–159, § 6502(2)(B)(vi), added subpar. (G).
+
 2022—Pub. L. 117–103, § 401(a), (d), substituted “Counterproliferation and Biosecurity” for “Counter Proliferation” in section catchline and “National Counterproliferation and Biosecurity Center” for “National Counter Proliferation Center” and “counterproliferation” for “counter proliferation” wherever appearing in text.
 
 Subsec. (a)(1). Pub. L. 117–103, § 401(b)(1), inserted dash after “government tools to” and subpar. (A) designation before “prevent” and added subpar. (B).
@@ -6080,10 +6236,19 @@ Subsec. (b). Pub. L. 117–103, § 401(c), designated introductory provisions as
 
 2010—Subsec. (a). Pub. L. 111–259 designated existing provisions as par. (1), substituted “The” for “Not later than 18 months after December 17, 2004, the”, and added pars. (2) and (3).
 
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–60 effective 180 days after Dec. 18, 2025, see section 6404(g) of Pub. L. 119–60, set out as a note under [section 3025 of this title](./chapter-044-national-security.md#section-3025).
+
 #### Effective Date
 For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
+
+#### Termination of the National Counterproliferation and Biosecurity Center; Director
+Pub. L. 119–60, div. F, title LXIV, § 6404(a), Dec. 18, 2025, 139 Stat. 1617, provided that: “(1) Termination of center.—Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Director of National Intelligence shall terminate the National Counterproliferation and Biosecurity Center, including such missions, objectives, staff, and resources of the Center, as is consistent with the provisions of this section [amending this section and [section 3025 of this title](./chapter-044-national-security.md#section-3025) and enacting provisions set out as notes under this section and [section 3025 of this title](./chapter-044-national-security.md#section-3025)] and the amendments made by this section. “(2) Termination of director of the center.—Not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence shall terminate the position of the Director of the National Counterproliferation and Biosecurity Center, as is consistent with the provisions of this section.”
+
+#### References in Law
+Pub. L. 119–60, div. F, title LXIV, § 6404(h), Dec. 18, 2025, 139 Stat. 1618, provided that: “On and after the date that is 180 days after the date of enactment of this Act [Dec. 18, 2025], any reference to the National Counterproliferation and Biosecurity Center in law shall be treated as a reference to the Office of the Director of National Intelligence, and any reference to the Director of the National Counterproliferation and Biosecurity Center in law shall be treated as a reference to the Director of National Intelligence.”
 
 #### Reference to National Counter Proliferation Center
 Pub. L. 117–103, div. X, title IV, § 401(e), Mar. 15, 2022, 136 Stat. 975, provided that: “Any reference in any law, regulation, guidance, instruction, or other document of the United States Government to the National Counter Proliferation Center shall be deemed to refer to the National Counterproliferation and Biosecurity Center.”
@@ -6092,8 +6257,8 @@ Pub. L. 117–103, div. X, title IV, § 401(e), Mar. 15, 2022, 136 Stat. 975, pr
 Reporting functions of President under this section assigned to the Director of National Intelligence by section 3 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 
-<a id="section-3072"></a>
-## § 3072. National Intelligence Centers
+<a id="section-3071"></a>
+## § 3071. National Intelligence Centers
 **(a) Authority to establish** The Director of National Intelligence may establish one or more national intelligence centers to address intelligence priorities, including, but not limited to, regional issues.
 
 **(b) Resources of directors of centers**
@@ -6133,8 +6298,8 @@ For Determination by President that section take effect on Apr. 21, 2005, see Me
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
 
-<a id="section-3072a"></a>
-## § 3072a. Foreign Malign Influence Center
+<a id="section-3072"></a>
+## § 3072. Foreign Malign Influence Center
 **(a) Establishment** There is within the Office of the Director of National Intelligence a Foreign Malign Influence Center (in this section referred to as the “Center”).
 
 **(b) Functions and composition** The Center shall—
@@ -6216,8 +6381,8 @@ Subsecs. (e), (f). Pub. L. 117–263, § 6307(b), added subsec. (e) and redesign
 Pub. L. 117–263, div. F, title LXIII, § 6307(a)(4), Dec. 23, 2022, 136 Stat. 3505, provided that: “Any reference in law, regulation, map, document, paper, or other record of the United States to the ‘Foreign Malign Influence Response Center’ shall be deemed to be a reference to the Foreign Malign Influence Center.”
 
 
-<a id="section-3073"></a>
-## § 3073. Climate Security Advisory Council
+<a id="section-3072a"></a>
+## § 3072a. Climate Security Advisory Council
 **(a) Establishment** The Director of National Intelligence shall establish a Climate Security Advisory Council for the purpose of—
 
 (1) assisting intelligence analysts of various elements of the intelligence community with respect to analysis of climate security and its impact on the areas of focus of such analysts;
@@ -6353,8 +6518,8 @@ Subsecs. (d), (e). Pub. L. 116–260, § 618, added subsec. (d) and redesignated
 Pub. L. 116–92, div. E, title LIII, § 5321(c), Dec. 20, 2019, 133 Stat. 2129, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 20, 2019], the Director of National Intelligence shall appoint the members of the Council under section 120 of the National Security Act of 1947 [[50 U.S.C. 3060](./chapter-044-national-security.md#section-3060)], as added by subsection (a).”
 
 
-<a id="section-3073a"></a>
-## § 3073a. Counterintelligence and national security protections for intelligence community grant funding
+<a id="section-3073"></a>
+## § 3073. Counterintelligence and national security protections for intelligence community grant funding
 **(a) Disclosure as condition for receipt of grant** The head of an element of the intelligence community may not award a grant to a person or entity unless the person or entity has certified to the head of the element that the person or entity has disclosed to the head of the element any material financial or material in-kind support that the person or entity knows, or should have known, derives from the People’s Republic of China, the Russian Federation, the Islamic Republic of Iran, the Democratic People’s Republic of Korea, or the Republic of Cuba, during the 5-year period ending on the date of the person or entity’s application for the grant.
 
 **(b) Process for review of grant applicants prior to award**
@@ -6377,15 +6542,10 @@ Pub. L. 116–92, div. E, title LIII, § 5321(c), Dec. 20, 2019, 133 Stat. 2129,
 
       (II) other counterintelligence threats.
 
-**(c) Annual report required** Not later than 1 year after December 23, 2022, and not less frequently than once each year thereafter, the Director of National Intelligence shall submit to the congressional intelligence committees an annual report identifying the following for the 1-year period covered by the report:
-
-(1) The number of applications for grants received by each element of the intelligence community.
-
-(2) The number of such applications that were reviewed using the process established under subsection (b)(2), disaggregated by element of the intelligence community.
-
-(3) The number of such applications that were denied and the number of grants that were revoked, pursuant to the process established under subsection (b)(2), disaggregated by element of the intelligence community.
-
 ### Statutory Notes
+
+#### Amendments
+2025—Subsec. (c). Pub. L. 119–60 struck out subsec. (c) which required the Director of National Intelligence to submit an annual report to congressional intelligence committees.
 
 #### Effective Date
 Pub. L. 117–263, div. F, title LXIII, § 6302(b), Dec. 23, 2022, 136 Stat. 3502, provided that: “Subsections (a) and (b) of section 121 of such Act [act July 26, 1947, [50 U.S.C. 3061](./chapter-044-national-security.md#section-3061)], as added by subsection (a), shall apply only with respect to grants awarded by an element of the intelligence community after the date of the enactment of this Act [Dec. 23, 2022].”
@@ -6393,41 +6553,50 @@ Pub. L. 117–263, div. F, title LXIII, § 6302(b), Dec. 23, 2022, 136 Stat. 350
 [For definition of “intelligence community” as used in section 6302(b) of Pub. L. 117–263, set out above, see section 6002 of Pub. L. 117–263, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
 
-<a id="section-3074"></a>
-## § 3074. Office of Engagement
-**(a) Establishment** There is within the Office of the Director of National Intelligence an Office of Engagement (in this section referred to as the “Office”).
-
-**(b) Head; staff**
-
-(1) **Head** — The Director of National Intelligence shall appoint as head of the Office an individual with requisite experience in matters relating to the duties of the Office, as determined by the Director of National Intelligence. Such head of the Office shall report directly to the Director of National Intelligence.
-
-(2) **Staff** — To assist the head of the Office in fulfilling the duties of the Office, the head shall employ full-time equivalent staff in such number, and with such requisite expertise in matters relating to such duties, as may be determined by the head.
-
-**(c) Duties** The duties of the Office shall be as follows:
-
-(1) To ensure coordination across the elements of the intelligence community efforts regarding outreach, relationship development, and associated knowledge and relationship management, with covered entities, consistent with the protection of intelligence sources and methods.
-
-(2) To assist in sharing best practices regarding such efforts among the elements of the intelligence community.
-
-(3) To establish and implement metrics to assess the effectiveness of such efforts.
-
-**(d) Covered entity defined** In this section, the term “covered entity” means an entity that is not an entity of the United States Government, including private sector companies, institutions of higher education, trade associations, think tanks, laboratories, international organizations, and foreign partners and allies.
+<a id="section-3073a"></a>
+## § 3073a. Repealed. Pub. L. 119–60, div. F, title LXIV, § 6405(b), Dec. 18, 2025, 139 Stat. 1619
 
 ### Statutory Notes
 
-#### Rule of Construction
-Pub. L. 118–31, div. G, title V, § 7503(e), Dec. 22, 2023, 137 Stat. 1083, provided that: “Nothing in this section [enacting this section and provisions set out as notes under this section], or an amendment made by this section, shall be construed as restricting or preempting engagement or outreach activities of elements of the intelligence community.”
+Section, act July 26, 1947, ch. 343, title I, § 122, as added Pub. L. 118–31, div. G, title V, § 7503(a), Dec. 22, 2023, 137 Stat. 1082, established the Office of Engagement within the Office of the Director of National Intelligence.
 
-[For definition of “intelligence community” as used in section 7503(e) of Pub. L. 118–31, set out above, see section 7002 of Pub. L. 118–31, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
+#### Effective Date of Repeal
+Pub. L. 119–60, div. F, title LXIV, § 6405(c), Dec. 18, 2025, 139 Stat. 1619, provided that: “The amendment made by this subsection [probably should be “section”, repealing this section] shall take effect on the date that is 90 days after the date of the enactment of this Act [Dec. 18, 2025].”
 
-#### Deadline
-Pub. L. 118–31, div. G, title V, § 7503(b), Dec. 22, 2023, 137 Stat. 1083, provided that: “To the extent and in such amounts as specifically provided in advance in appropriations Acts for the purposes detailed in section 122 of the National Security Act of 1947 [[50 U.S.C. 3062](./chapter-044-national-security.md#section-3062)], as added by subsection (a), the Director of National Intelligence shall establish the Office of Engagement by not later than 1 year after the date of the enactment of this Act [Dec. 22, 2023].”
+#### Termination of Office of Engagement
+Pub. L. 119–60, div. F, title LXIV, § 6405(a), Dec. 18, 2025, 139 Stat. 1619, provided that: “The Director of National Intelligence shall take such actions as may be necessary to terminate and wind down the operations of the Office of Engagement before the date specified in subsection (c) [see Effective Date of Repeal note above].”
 
-#### Transfer
-Pub. L. 118–31, div. G, title V, § 7503(c), Dec. 22, 2023, 137 Stat. 1083, provided that: “The Director shall transfer to the Office of Engagement all functions within the Office of the Director of National Intelligence that, on the day before the date of the enactment of this Act [Dec. 22, 2023], performed duties set forth in section 122 of the National Security Act of 1947 [[50 U.S.C. 3062](./chapter-044-national-security.md#section-3062)], as added by subsection (a).”
 
-#### Definitions
-Pub. L. 118–31, div. G, title V, § 7503(f), Dec. 22, 2023, 137 Stat. 1083, provided that: “In this section [enacting this section and provisions set out as notes under this section], the term ‘Office of Engagement’ means the Office of Engagement established under section 122 of the National Security Act of 1947 [[50 U.S.C. 3062](./chapter-044-national-security.md#section-3062)], as added by subsection (a).”
+<a id="section-3074"></a>
+## § 3074. Designation of senior officials for biotechnology
+**(a) Designation** The head of each element of the intelligence community specified in subsection (b) shall designate a senior official of such element to serve as the official responsible for coordinating the activities of such element relating to biotechnology, as those activities are determined and directed by the head of such element.
+
+**(b) Specified elements** The elements of the intelligence community specified in this subsection are the following:
+
+(1) The Office of the Director of National Intelligence.
+
+(2) The Central Intelligence Agency.
+
+(3) The National Security Agency.
+
+(4) The Defense Intelligence Agency.
+
+(5) The intelligence elements of the Federal Bureau of Investigation.
+
+(6) The Office of Intelligence and Counterintelligence of the Department of Energy.
+
+**(c) Notice to Congress** Not later than 15 days after designating a senior official under this section, the head of the element of the intelligence community designating such official shall submit notice of the designation to—
+
+(1) the congressional intelligence committees and the Committees on Appropriations of the Senate and the House of Representatives; and
+
+(2) in the case of a designation relating to the Federal Bureau of Investigation, the Committees on the Judiciary of the Senate and the House of Representatives.
+
+### Statutory Notes
+
+#### Initial Designation
+Pub. L. 119–60, div. F, title LXVI, § 6611(b), Dec. 18, 2025, 139 Stat. 1637, provided that: “The head of each element of the intelligence community required to designate a senior official of such element under section 123 of the National Security Act of 1947 [[50 U.S.C. 3063](./chapter-044-national-security.md#section-3063)], as added by subsection (a) of this section, shall designate such senior official not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025].”
+
+[For definition of “intelligence community” as used in section 6611(b) of Pub. L. 119–60, set out above, see section 6002 of Pub. L. 119–60, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
 
 <a id="section-3075"></a>
@@ -6638,51 +6807,37 @@ National Security Council transferred to Executive Office of President by Reorg.
 
 (1) **Covered post-service position**
 
-  (A) *Permanent restriction* — Except as provided by paragraph (2)(A)(i), an employee of an element of the intelligence community who occupies a covered intelligence position may not occupy a covered post-service position for a designated prohibited foreign country following the date on which the employee ceases to occupy a covered intelligence position.
+  (A) *Permanent restriction* — Except as provided by paragraph (2)(A), an employee of an element of the intelligence community who occupies a covered intelligence position may not occupy a covered post-service position for a designated prohibited foreign country following the date on which the employee ceases to occupy a covered intelligence position.
 
-  (B) *Temporary restriction* — Except as provided by paragraph (2)(A)(ii), an employee of an element of the intelligence community who occupies a covered intelligence position may not occupy a covered post-service position during the 30-month period following the date on which the employee ceases to occupy a covered intelligence position.
+  (B) *Temporary restriction* — Except as provided by paragraph (2)(A), an employee of an element of the intelligence community who occupies a covered intelligence position may not occupy a covered post-service position during the 30-month period following the date on which the employee ceases to occupy a covered intelligence position.
 
 (2) **Waiver**
 
-  (A) *Authority to grant temporary waiver*
+  (A) *Authority to grant waivers* — The applicable head of an intelligence community element may waive a restriction in paragraph (1) with respect to an employee or former employee who is subject to that restriction only after—
 
-    (i) *Waivers of permanent restriction* — On a case-by-case basis, the Director of National Intelligence may temporarily waive the restriction in paragraph (1)(A) with respect to an employee or former employee who is subject to that restriction only after—
+    (i) the employee or former employee submits to the applicable head of the intelligence community element a written application for such waiver in such form and manner as the applicable head of the intelligence community element determines appropriate; and
 
-      (I) the employee or former employee submits to the Director a written application for such waiver in such form and manner as the Director determines appropriate;
+    (ii) the applicable head of the element of the intelligence community determines that granting such waiver will not harm the national security interests of the United States.
 
-      (II) the Director determines that not granting such waiver would result in a grave detrimental impact to current or future intelligence operations of the United States; and
+  (B) *Period of waiver* — A waiver issued under subparagraph (A) shall apply for a period not exceeding 5 years. The applicable head of the intelligence community element may renew such a waiver.
 
-      (III) the Director provides the congressional intelligence committees with a detailed justification stating why not granting such waiver would result in a grave detrimental impact to current or future intelligence operations of the United States.
-
-    (ii) *Waivers of temporary restriction* — On a case-by-case basis, the Director may temporarily waive the restriction in paragraph (1)(B) with respect to an employee or former employee who is subject to that restriction only after—
-
-      (I) the employee or former employee submits to the Director a written application for such waiver in such form and manner as the Director determines appropriate; and
-
-      (II) the Director determines that such waiver is necessary to advance the national security interests of the United States.
-
-  (B) *Period of waiver* — A waiver issued under subparagraph (A) shall apply for a period not exceeding 5 years. The Director may renew such a waiver.
-
-  (C) *Revocation* — The Director may revoke a waiver issued under subparagraph (A) to an employee or former employee, effective on the date that is 60 days after the date on which the Director provides the employee or former employee written notice of such revocation.
+  (C) *Revocation* — The applicable head of the intelligence community element may revoke a waiver issued under subparagraph (A) to an employee or former employee, effective on the date that is 60 days after the date on which the applicable head of the intelligence community element provides the employee or former employee written notice of such revocation.
 
   (D) *Tolling* — The 30-month restriction in paragraph (1)(B) shall be tolled for an employee or former employee during the period beginning on the date on which a waiver is issued under subparagraph (A) and ending on the date on which the waiver expires or on the effective date of a revocation under subparagraph (C), as the case may be.
 
-  (E) *Notification* — Not later than 30 days after the date on which the Director issues a waiver under subparagraph (A) or a revocation of a waiver under subparagraph (C), the Director shall submit to the congressional intelligence committees written notification of the waiver or revocation, as the case may be. Such notification shall include the following:
+  (E) *Reporting to Congress* — On a quarterly basis, the head of each element of the intelligence community shall submit to the congressional intelligence committees and the congressional defense committees for Department of Defense elements of the intelligence community, a written notification of each waiver or revocation that shall include the following:
 
     (i) With respect to a waiver issued to an employee or former employee—
 
-      (I) the details of the application, including the covered intelligence position held or formerly held by the employee or former employee;
+      (I) the covered intelligence position held or formerly held by the employee or former employee; and
 
-      (II) the nature of the activities of the employee or former employee after ceasing to occupy a covered intelligence position;
-
-      (III) a description of the national security interests that will be advanced by reason of issuing such waiver; and
-
-      (IV) the specific reasons why the Director determines that issuing such waiver will advance such interests.
+      (II) a brief description of the covered post-service employment, including the employer and the recipient of the representation, advice, or services.
 
     (ii) With respect to a revocation of a waiver issued to an employee or former employee—
 
       (I) the details of the waiver, including any renewals of such waiver, and the dates of such waiver and renewals; and
 
-      (II) the specific reasons why the Director determined that such revocation is warranted.
+      (II) the specific reasons why the applicable head of the intelligence community element determined that such revocation is warranted.
 
 **(b) Covered post-service employment reporting**
 
@@ -6713,6 +6868,8 @@ National Security Council transferred to Executive Office of President by Reorg.
   (A) when the head of the element determines that such person may become subject to such covered intelligence position restrictions; and
 
   (B) when the person occupies a covered intelligence position.
+
+(4) **Written advisory opinions** — Upon request from a current employee who occupies a covered intelligence position or a former employee who previously occupied a covered intelligence position, the applicable head of the element of the intelligence community concerned may provide a written advisory opinion to such current or former employee regarding whether a proposed employment, representation, or provision of advice or services constitutes covered post-service employment as defined in subsection (g).
 
 **(e) Annual reports**
 
@@ -6762,7 +6919,7 @@ National Security Council transferred to Executive Office of President by Reorg.
 
 (1) **Covered intelligence position** — The term “covered intelligence position” means a position within an element of the intelligence community that, based on the level of access of a person occupying such position to information regarding sensitive intelligence sources or methods or other exceptionally sensitive matters, the head of such element determines should be subject to the requirements of this section.
 
-(2) **Covered post-service employment** — The term “covered post-service employment” means direct or indirect employment by, representation of, or any provision of advice or services relating to national security, intelligence, the military, or internal security to, the government of a foreign country or any company, entity, or other person whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized, in whole or in major part, by any government of a foreign country.
+(2) **Covered post-service employment** — The term “covered post-service employment” means direct or indirect employment by, representation of, or any provision of advice or services to the government of a foreign country or any company, entity, or other person whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized, in whole or in major part, by any government of a foreign country if such employment, representation, or provision of advice or services relates to national security, intelligence, the military, or internal security.
 
 (3) **Covered post-service position** — The term “covered post-service position” means a position of employment described in paragraph (2).
 
@@ -6796,6 +6953,22 @@ National Security Council transferred to Executive Office of President by Reorg.
 A prior section 304 of act July 26, 1947, ch. 343, title III, 61 Stat. 508, was classified to section 171k of former Title 5, Executive Departments and Government Officers and Employees, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632.
 
 #### Amendments
+2024—Subsec. (a)(1)(A). Pub. L. 118–159, § 6615(d)(1), substituted “paragraph (2)(A)” for “paragraph (2)(A)(i)”.
+
+Subsec. (a)(1)(B). Pub. L. 118–159, § 6615(d)(2), substituted “paragraph (2)(A)” for “paragraph (2)(A)(ii)”.
+
+Subsec. (a)(2)(A). Pub. L. 118–159, § 6615(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to authority to grant a temporary waiver of requirements for certain employment activities by former intelligence officers and employees.
+
+Subsec. (a)(2)(B). Pub. L. 118–159, § 6615(a)(2), substituted “applicable head of the intelligence community element” for “Director”.
+
+Subsec. (a)(2)(C). Pub. L. 118–159, § 6615(a)(3), substituted “applicable head of the intelligence community element” for “Director” in two places.
+
+Subsec. (a)(2)(E). Pub. L. 118–159, § 6615(a)(4), amended subpar. (E) generally. Prior to amendment, subpar. (E) related to notification to congressional intelligence committees of issuance of a waiver or a revocation of a waiver.
+
+Subsec. (d)(4). Pub. L. 118–159, § 6615(b), added par. (4).
+
+Subsec. (g)(2). Pub. L. 118–159, § 6615(c), substituted “to the government of a foreign country or any company, entity, or other person whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized, in whole or in major part, by any government of a foreign country if such employment, representation, or provision of advice or services relates to national security, intelligence, the military, or internal security” for “relating to national security, intelligence, the military, or internal security to, the government of a foreign country or any company, entity, or other person whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized, in whole or in major part, by any government of a foreign country”.
+
 2023—Subsec. (d)(1). Pub. L. 118–31, § 7304(1), which directed insertion of “the restrictions under subsection (a) and” before “the report requirements”, was executed by making the insertion before “the reporting requirements” to reflect the probable intent of Congress.
 
 Subsec. (d)(2). Pub. L. 118–31, § 7304(2), substituted “occupies” for “ceases to occupy”.
@@ -6926,9 +7099,14 @@ Section was formerly classified to [section 412 of this title](./chapter-015-nat
 
 The head of each element of the intelligence community shall—
 
-(1) implement the policy established in accordance with [section 3024(f)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/f/8&num=0&edition=prelim); and
+(1) implement the policy established in accordance with [section 3024(e)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/e/8&num=0&edition=prelim); and
 
 (2) concurrent with the submission to Congress of budget justification materials in support of the budget of the President for a fiscal year that is submitted to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), submit to Congress a certification as to whether the element is in compliance with such policy.
+
+### Statutory Notes
+
+#### Amendments
+2025—Par. (1). Pub. L. 119–60 substituted “with section 3024(e)(8)” for “with section 3024(f)(8)”.
 
 
 <a id="section-3096"></a>
@@ -6991,9 +7169,23 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
   (B) Documentation with respect to how the controlled access programs have achieved outcomes consistent with requirements documented by the Director and, as applicable, the Secretary of Defense.
 
-**(b) Limitation on establishment** A head of an element of the intelligence community may not establish a controlled access program, or a compartment or subcompartment therein, until the head notifies the appropriate congressional committees and congressional leadership of such controlled access program, compartment, or subcompartment, as the case may be.
+**(b) Limitations**
 
-**(c) Annual reports**
+(1) **Establishment** — A head of an element of the intelligence community may not establish a controlled access program, or a compartment or subcompartment therein, until the head notifies the appropriate congressional committees and congressional leadership of such controlled access program, compartment, or subcompartment, as the case may be.
+
+(2) **Transfers**
+
+  (A) *Limitation* — Except as provided in subparagraph (B), a head of an element of the intelligence community may not transfer a capability from a controlled access program, including from a compartment or subcompartment therein to a compartment or subcompartment of another controlled access program, to a special access program (as defined in [section 3348(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348/g&num=0&edition=prelim)), or to anything else outside the controlled access program, until the head submits to the appropriate congressional committees and congressional leadership notice of the intent of the head to make such transfer.
+
+  (B) *Exception* — The head of an element of the intelligence community may make a transfer described in subparagraph (A) without prior congressional notification if the head determines that doing so—
+
+    (i) is required to mitigate an urgent counterintelligence issue; or
+
+    (ii) is necessary to maintain access in the event of an organizational restructuring.
+
+**(c) Limitation on spending** Funds authorized to be appropriated for the National Intelligence Program may not be obligated or expended for any controlled access program, or a compartment or subcompartment therein, until the head of the element of the intelligence community responsible for the establishment of such program, compartment, or subcompartment, submits the notification required by subsection (b).
+
+**(d) Annual reports**
 
 (1) **Requirement** — On an annual basis, the head of each element of the intelligence community shall submit to the appropriate congressional committees and congressional leadership a report on controlled access programs administered by the head.
 
@@ -7015,7 +7207,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
       (III) a statement of protection requirements for each controlled access program.
 
-**(d) Definitions** In this section:
+**(e) Definitions** In this section:
 
 (1) **Appropriate congressional committees** — The term “appropriate congressional committees” means—
 
@@ -7040,7 +7232,15 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 ### Statutory Notes
 
 #### References in Text
-Intelligence Community Directive 906, referred to in subsec. (d)(3), is located at https://www.dni.gov/files/documents/ICD/ICD906.pdf.
+Intelligence Community Directive 906, referred to in subsec. (e)(3), is located at https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf.
+
+#### Amendments
+2024—Subsec. (b). Pub. L. 118–159, § 6603, substituted “Limitations” for “Limitation on establishment” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added par. (2).
+
+Subsecs. (c) to (e). Pub. L. 118–159, § 6602(a), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–159, div. F, title LXVI, § 6602(b), Dec. 23, 2024, 138 Stat. 2502, provided that: “Subsection (c) of such section [meaning [50 U.S.C. 3091a](./chapter-044-national-security.md#section-3091a)] shall apply with respect to controlled access programs (as defined in such section), and compartments and subcompartments therein, that are established on or after the date of the enactment of this Act [Dec. 23, 2024].”
 
 
 <a id="section-3098"></a>
@@ -7391,7 +7591,7 @@ For Determination by President that amendment by Pub. L. 108–458 take effect o
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
 #### Inclusion of Counternarcotics as Special Topic in Certain Budget Justification Materials
-Pub. L. 118–31, div. G, title III, § 7320, Dec. 22, 2023, 137 Stat. 1036, provided that: “(a) Inclusion of Counternarcotics as Special Topic.—For the purposes of the congressional budget justification book for the National Intelligence Program (as such term is defined in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](./chapter-044-national-security.md#section-3003))) for each of fiscal years 2025 through 2027, and for any subsequent fiscal year as the Director of National Intelligence determines appropriate, information with respect to the aggregate amount of funding requested for counternarcotics required to be included as part of the budget justification materials submitted to Congress under section 506(a)(3) of such Act [[50 U.S.C. 3096(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3096/a/3&num=0&edition=prelim)] shall be included as a provision relating to a special topic in such congressional budget justification book. “(b) Contents.—With respect to a fiscal year, the special topic provision included in the congressional budget justification book pursuant to subsection (a) regarding the aggregate amount of funding requested for counternarcotics shall include—“(1) a summary of the main activities and investments that such requested funding would support; “(2) a breakdown of such requested funding by program, budget category, intelligence discipline, and any other appropriate classification; “(3) a comparison of aggregate requested funding and aggregate enacted funding for counternarcotics for the current fiscal year and the previous fiscal year; “(4) the number of full-time equivalent civilian and military personnel assigned to the counternarcotics mission of the intelligence community; and “(5) such other information as the Director of National Intelligence determines appropriate.”
+Pub. L. 118–31, div. G, title III, § 7320, Dec. 22, 2023, 137 Stat. 1036, as amended by Pub. L. 119–60, div. F, title LXVIII, § 6804(b)(3), Dec. 18, 2025, 139 Stat. 1657, provided that: “(a) Inclusion of Counternarcotics as Special Topic.—For the purposes of the congressional budget justification book for the National Intelligence Program (as such term is defined in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](./chapter-044-national-security.md#section-3003))) for each of fiscal years 2025 through 2026, and for any subsequent fiscal year as the Director of National Intelligence determines appropriate, information with respect to the aggregate amount of funding requested for counternarcotics required to be included as part of the budget justification materials submitted to Congress under section 506(a)(3) of such Act [[50 U.S.C. 3096(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3096/a/3&num=0&edition=prelim)] shall be included as a provision relating to a special topic in such congressional budget justification book. “(b) Contents.—With respect to a fiscal year, the special topic provision included in the congressional budget justification book pursuant to subsection (a) regarding the aggregate amount of funding requested for counternarcotics shall include—“(1) a summary of the main activities and investments that such requested funding would support; “(2) a breakdown of such requested funding by program, budget category, intelligence discipline, and any other appropriate classification; “(3) a comparison of aggregate requested funding and aggregate enacted funding for counternarcotics for the current fiscal year and the previous fiscal year; “(4) the number of full-time equivalent civilian and military personnel assigned to the counternarcotics mission of the intelligence community; and “(5) such other information as the Director of National Intelligence determines appropriate.”
 
 [For definition of “intelligence community” as used in section 7320 of Pub. L. 118–31, set out above, see section 7002 of Pub. L. 118–31, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
@@ -7502,64 +7702,13 @@ Pub. L. 108–177, title III, § 312(d), Dec. 13, 2003, 117 Stat. 2609, provided
 
 
 <a id="section-3104"></a>
-## § 3104. Annual personnel level assessments for the intelligence community
-**(a) Requirement to provide** The Director of National Intelligence shall, in consultation with the head of each element of the intelligence community, prepare an annual personnel level assessment for such element that assesses the personnel levels for such element for the fiscal year following the fiscal year in which the assessment is submitted.
-
-**(b) Schedule** Each assessment required by subsection (a) shall be submitted to the congressional intelligence committees each year at the time that the President submits to Congress the budget for a fiscal year pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim).
-
-**(c) Contents** Each assessment required by subsection (a) submitted during a fiscal year shall contain the following information for the element of the intelligence community concerned:
-
-(1) The budget submission for personnel costs for the upcoming fiscal year.
-
-(2) The dollar and percentage increase or decrease of such costs as compared to the personnel costs of the current fiscal year.
-
-(3) The dollar and percentage increase or decrease of such costs as compared to the personnel costs during the prior 5 fiscal years.
-
-(4) The number of full-time equivalent positions that is the basis for which personnel funds are requested for the upcoming fiscal year.
-
-(5) The numerical and percentage increase or decrease of the number referred to in paragraph (4) as compared to the number of full-time equivalent positions of the current fiscal year.
-
-(6) The numerical and percentage increase or decrease of the number referred to in paragraph (4) as compared to the number of full-time equivalent positions during the prior 5 fiscal years.
-
-(7) The best estimate of the number and costs of core contract personnel to be funded by the element for the upcoming fiscal year.
-
-(8) The numerical and percentage increase or decrease of such costs of core contract personnel as compared to the best estimate of the costs of core contract personnel of the current fiscal year.
-
-(9) The numerical and percentage increase or decrease of such number and such costs of core contract personnel as compared to the number and cost of core contract personnel during the prior 5 fiscal years.
-
-(10) A justification for the requested personnel and core contract personnel levels.
-
-(11) The best estimate of the number of intelligence collectors and analysts employed by each element of the intelligence community.
-
-(12) The best estimate of the number of intelligence collectors and analysts contracted by each element of the intelligence community and a description of the functions performed by such contractors.
-
-(13) A statement by the Director of National Intelligence that, based on current and projected funding, the element concerned will have sufficient—
-
-  (A) internal infrastructure to support the requested personnel and core contract personnel levels;
-
-  (B) training resources to support the requested personnel levels; and
-
-  (C) funding to support the administrative and operational activities of the requested personnel levels.
+## § 3104. Repealed. Pub. L. 119–60, div. F, title LXVIII, § 6801(a)(3), Dec. 18, 2025, 139 Stat. 1652
 
 ### Statutory Notes
 
-#### Codification
+Section, act July 26, 1947, ch. 343, title V, § 506B, as added Pub. L. 111–259, title III, § 305(a), Oct. 7, 2010, 124 Stat. 2659; amended Pub. L. 113–293, title III, § 327, Dec. 19, 2014, 128 Stat. 4006, required the Director of National Intelligence, in consultation with the head of each element of the intelligence community, to prepare annual personnel level assessments for the intelligence community.
+
 Section was formerly classified to [section 415a–4 of this title](./chapter-015-national-security.md#section-415a-4) prior to editorial reclassification and renumbering as this section.
-
-#### Amendments
-2014—Subsec. (c)(11). Pub. L. 113–293, § 327(1), struck out “or contracted” after “employed”.
-
-Subsec. (c)(12), (13). Pub. L. 113–293, § 327(2), (3), added par. (12) and redesignated former par. (12) as (13).
-
-#### Personnel Information Notification Policy by the Director of National Intelligence
-Pub. L. 114–113, div. M, title III, § 308, Dec. 18, 2015, 129 Stat. 2917, provided that: “(a) Directive Required.—The Director of National Intelligence shall issue a directive containing a written policy for the timely notification to the congressional intelligence committees of the identities of individuals occupying senior level positions within the intelligence community. “(b) Senior Level Position.—In identifying positions that are senior level positions in the intelligence community for purposes of the directive required under subsection (a), the Director of National Intelligence shall consider whether a position—“(1) constitutes the head of an entity or a significant component within an agency; “(2) is involved in the management or oversight of matters of significant import to the leadership of an entity of the intelligence community; “(3) provides significant responsibility on behalf of the intelligence community; “(4) requires the management of a significant number of personnel or funds; “(5) requires responsibility management or oversight of sensitive intelligence activities; and “(6) is held by an individual designated as a senior intelligence management official as such term is defined in section 368(a)(6) of the Intelligence Authorization Act for Fiscal Year 2010 (Public Law 111–259; [50 U.S.C. 404i–1](./chapter-015-national-security.md#section-404i-1) [now [50 U.S.C. 3051](./chapter-044-national-security.md#section-3051)] note). “(c) Notification.—The Director shall ensure that each notification under the directive issued under subsection (a) includes each of the following:“(1) The name of the individual occupying the position. “(2) Any previous senior level position held by the individual, if applicable, or the position held by the individual immediately prior to the appointment. “(3) The position to be occupied by the individual. “(4) Any other information the Director determines appropriate. “(d) Relationship to Other Laws.—The directive issued under subsection (a) and any amendment to such directive shall be consistent with the provisions of the National Security Act of 1947 ([50 U.S.C. 401](./chapter-015-national-security.md#section-401) [now [50 U.S.C. 3001](./chapter-044-national-security.md#section-3001)] et seq.). “(e) Submission.—Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2015], the Director shall submit to the congressional intelligence committees the directive issued under subsection (a).”
-
-[For definitions of “congressional intelligence committees” and “intelligence community” as used in section 308 of div. M of Pub. L. 114–113, set out above, see section 2 of div. M of Pub. L. 114–113, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
-
-#### Implementation
-Pub. L. 111–259, title III, § 305(b), Oct. 7, 2010, 124 Stat. 2661, provided that: “The first assessment required to be submitted under section 506B(b) of the National Security Act of 1947 [[50 U.S.C. 3098(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3098/b&num=0&edition=prelim)], as added by subsection (a), shall be submitted to the congressional intelligence committees at the time that the President submits to Congress the budget for fiscal year 2012 pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code.”
-
-[For definition of “congressional intelligence committees” as used in section 305(b) of Pub. L. 111–259, set out above, see section 2 of Pub. L. 111–259, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
 
 <a id="section-3105"></a>
@@ -8276,16 +8425,19 @@ Pub. L. 112–87, title III, § 307(a)(2), Jan. 3, 2012, 125 Stat. 1883, provide
 
 (2) **Classified intelligence budget justification materials** — The term “classified intelligence budget justification materials” means, with respect to a fiscal year, the materials submitted to Congress by the Director of National Intelligence in support of the budget for that fiscal year that are classified or otherwise protected from public disclosure.
 
-**(b) Timely submission** Not later than 5 days after the date on which the President submits to Congress the budget for each fiscal year pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Director of National Intelligence shall submit to the congressional intelligence committees the classified intelligence budget justification materials for the element for that budget.
+**(b) Timely submission** Not later than 5 days after the date on which the President submits to Congress the budget for each fiscal year pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Director of National Intelligence shall submit to the congressional intelligence committees and the Committees on Appropriations of the Senate and the House of Representatives the classified intelligence budget justification materials for the element for that budget.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 3105a, act July 26, 1947, ch. 343, title V, § 506J, as added Pub. L. 113–126, title III, § 306(a), July 7, 2014, 128 Stat. 1395, required annual assessments of intelligence community performance by function, prior to repeal by Pub. L. 116–92, div. E, title LVII, § 5701(c), Dec. 20, 2019, 133 Stat. 2160.
 
+#### Amendments
+2025—Subsec. (b). Pub. L. 119–60 inserted “and the Committees on Appropriations of the Senate and the House of Representatives” after “congressional intelligence committees”.
 
-<a id="section-3112"></a>
-## § 3112. Dates for submittal of various annual and semiannual reports to the congressional intelligence committees
+
+<a id="section-3111a"></a>
+## § 3111a. Dates for submittal of various annual and semiannual reports to the congressional intelligence committees
 **(a) Annual reports** The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1):
 
 (1) The annual report of the Inspectors General of the intelligence community on proposed resources and activities of their offices required by [section 416(h) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section416/h&num=0&edition=prelim).
@@ -8337,6 +8489,15 @@ A prior section 3105a, act July 26, 1947, ch. 343, title V, § 506J, as added Pu
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)
+Pub. L. 119–60, div. F, title LXVIII, § 6801(a)(1)(B), (C), Dec. 18, 2025, 139 Stat. 1652, provided that, effective on Dec. 31, 2026, subsection (a) of this section is amended as follows:
+
+(1) by striking paragraph (5); and
+
+(2) by redesignating paragraph (6) as paragraph (5).
+
+See 2025 Amendment note below.
+
 #### References in Text
 The David L. Boren National Security Education Act of 1991, referred to in subsec. (a)(3), is title VIII of Pub. L. 102–183, Dec. 4, 1991, 105 Stat. 1271, which is classified generally to chapter 37 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see [section 1901(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1901/a&num=0&edition=prelim) and Tables.
 
@@ -8348,6 +8509,8 @@ The Classified Information Procedures Act, referred to in subsec. (b)(1), is Pub
 Section was formerly classified to [section 415b of this title](./chapter-015-national-security.md#section-415b) prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
+2025—Subsec. (a)(5), (6). Pub. L. 119–60 redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “The annual report on financial intelligence on terrorist assets required by [section 3055 of this title](./chapter-044-national-security.md#section-3055).”
+
 2022—Subsec. (a)(1). Pub. L. 117–286 substituted “[section 416(h) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section416/h&num=0&edition=prelim).” for “section 8H(g) of the Inspector General Act of 1978.”
 
 Pub. L. 117–263 substituted “Inspectors General” for “Inspectors Generals”.
@@ -8452,6 +8615,9 @@ Subsec. (b). Pub. L. 108–177, § 361(l)(2), redesignated pars. (2), (3), (5), 
 
 “(4) The semiannual reports on the acquisition of technology relating to weapons of mass destruction and advanced conventional munitions required by [section 2366(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2366/b&num=0&edition=prelim).”
 
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–60 effective Dec. 31, 2026, see section 6801(a)(1)(C) of Pub. L. 119–60, set out as an Effective Date of Repeal note under [section 3055 of this title](./chapter-044-national-security.md#section-3055).
+
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–177 effective Dec. 31, 2003, see section 361(n) of Pub. L. 108–177, set out as a note under [section 1611 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1611&num=0&edition=prelim), Armed Forces.
 
@@ -8470,8 +8636,8 @@ Pub. L. 107–108, title V, § 505, Dec. 28, 2001, 115 Stat. 1406.
 Pub. L. 107–306, title VIII, § 801, Nov. 27, 2002, 116 Stat. 2418, provided that certain overdue reports that the Director of Central Intelligence has sole or primary responsibility to present to Congress must be submitted to Congress no later than 180 days after Nov. 27, 2002, or amounts available to the Director to carry out the functions and duties of the Director’s Office would be reduced by ⅓.
 
 
-<a id="section-3113"></a>
-## § 3113. Certification of compliance with oversight requirements
+<a id="section-3112"></a>
+## § 3112. Certification of compliance with oversight requirements
 
 The head of each element of the intelligence community shall annually submit to the congressional intelligence committees—
 
@@ -8503,8 +8669,8 @@ Pub. L. 111–259, title III, § 332(b), Oct. 7, 2010, 124 Stat. 2687, provided 
 [For definition of “intelligence community” as used in section 332(b) of Pub. L. 111–259, set out above, see section 2 of Pub. L. 111–259, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
 
-<a id="section-3114"></a>
-## § 3114. Auditability of certain elements of the intelligence community
+<a id="section-3113"></a>
+## § 3113. Auditability of certain elements of the intelligence community
 **(a) Requirement for annual audits** The head of each covered entity shall ensure that there is a full financial audit of such covered entity each year beginning with fiscal year 2014. Such audits may be conducted by an internal or external independent accounting or auditing organization.
 
 **(b) Requirement for unqualified opinion** Beginning as early as practicable, but in no event later than the audit required under subsection (a) for fiscal year 2016, the head of each covered entity shall take all reasonable steps necessary to ensure that each audit required under subsection (a) contains an unqualified opinion on the financial statements of such covered entity for the fiscal year covered by such audit.
@@ -8514,8 +8680,8 @@ Pub. L. 111–259, title III, § 332(b), Oct. 7, 2010, 124 Stat. 2687, provided 
 **(d) Covered entity defined** In this section, the term “covered entity” means the Office of the Director of National Intelligence, the Central Intelligence Agency, the Defense Intelligence Agency, the National Security Agency, the National Reconnaissance Office, and the National Geospatial-Intelligence Agency.
 
 
-<a id="section-3115"></a>
-## § 3115. Significant interpretations of law concerning intelligence activities
+<a id="section-3114"></a>
+## § 3114. Significant interpretations of law concerning intelligence activities
 **(a) Notification** Except as provided in subsection (c) and to the extent consistent with due regard for the protection from unauthorized disclosure of classified information relating to sensitive intelligence sources and methods or other exceptionally sensitive matters, the General Counsel of each element of the intelligence community shall notify the congressional intelligence committees, in writing, of any significant legal interpretation of the United States Constitution or Federal law affecting intelligence activities conducted by such element by not later than 30 days after the date of the commencement of any intelligence activity pursuant to such interpretation.
 
 **(b) Content** Each notification under subsection (a) shall provide a summary of the significant legal interpretation and the intelligence activity or activities conducted pursuant to such interpretation.
@@ -8529,8 +8695,8 @@ Pub. L. 111–259, title III, § 332(b), Oct. 7, 2010, 124 Stat. 2687, provided 
 **(d) Limited access for covert action** If the President determines that it is essential to limit access to a covert action finding under [section 3093(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093/c/2&num=0&edition=prelim), the President may limit access to information concerning such finding that is subject to notification under this section to those members of Congress who have been granted access to the relevant finding under [section 3093(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093/c/2&num=0&edition=prelim).
 
 
-<a id="section-3121"></a>
-## § 3121. Annual report on violations of law or executive order
+<a id="section-3115"></a>
+## § 3115. Annual report on violations of law or executive order
 **(a) Annual reports required** The Director of National Intelligence shall annually submit to the congressional intelligence committees a report on violations of law or executive order relating to intelligence activities by personnel of an element of the intelligence community that were identified during the previous calendar year.
 
 **(b) Elements** Each report submitted under subsection (a) shall, consistent with the need to preserve ongoing criminal investigations, include a description of, and any action taken in response to, any violation of law or executive order (including Executive Order No. 12333 ([50 U.S.C. 3001](./chapter-044-national-security.md#section-3001) note)) relating to intelligence activities committed by personnel of an element of the intelligence community in the course of the employment of such personnel that, during the previous calendar year, was—
@@ -8555,8 +8721,8 @@ Pub. L. 113–293, title III, § 323(c), Dec. 19, 2014, 128 Stat. 4004, provided
 [For definitions of terms used in section 323(c) of Pub. L. 113–293, set out above, see section 2 of Pub. L. 113–293, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
 
-<a id="section-3122"></a>
-## § 3122. Briefings and notifications on counterintelligence activities of the Federal Bureau of Investigation
+<a id="section-3116"></a>
+## § 3116. Briefings and notifications on counterintelligence activities of the Federal Bureau of Investigation
 **(a) Quarterly briefings** In addition to, and without any derogation of, the requirement under [section 3091 of this title](./chapter-044-national-security.md#section-3091) to keep the congressional intelligence committees fully and currently informed of the intelligence and counterintelligence activities of the United States, not less frequently than once each quarter, or more frequently if requested by the congressional intelligence committees, the Director of the Federal Bureau of Investigation shall provide to the congressional intelligence committees a briefing on the counterintelligence activities of the Federal Bureau of Investigation. Such briefings shall include, at a minimum, an overview and update of—
 
 (1) the counterintelligence posture of the Bureau;
@@ -8578,8 +8744,35 @@ Pub. L. 113–293, title III, § 323(c), Dec. 19, 2014, 128 Stat. 4004, provided
   (B) any updates to such guidelines by not later than 15 days after making such update.
 
 
-<a id="section-3123"></a>
-## § 3123. Annual reports on the domestic activities of the intelligence community
+<a id="section-3117"></a>
+## § 3117. Annual report on Federal Bureau of Investigation case data
+**(a) Annual report** Not later than 30 days after December 18, 2025, and annually thereafter, the Director of the Federal Bureau of Investigation shall submit to the congressional intelligence committees, the Committee on the Judiciary of the Senate, and the Committee on the Judiciary of the House of Representatives a report containing data on cases of the Federal Bureau of Investigation for the fiscal year preceding the fiscal year in which the report is submitted.
+
+**(b) Elements** Each report required by subsection (a) shall include, for the fiscal year covered by the report, the number of active cases, the number of unique cases, and the number of cases opened, for each of the following:
+
+(1) Russia counterintelligence cases.
+
+(2) China counterintelligence cases.
+
+(3) Espionage or leak cases.
+
+(4) All other counterintelligence cases, disaggregated by country affiliation.
+
+(5) Cartel and other transnational criminal organization counterterrorism cases.
+
+(6) All other international counterterrorism cases, disaggregated by country affiliation.
+
+(7) Russia cyber national security cases.
+
+(8) China cyber national security cases.
+
+(9) All other cyber national security cases, disaggregated by country affiliation.
+
+**(c) Form** Each report required by subsection (a) shall be submitted in unclassified form, but may include a classified annex.
+
+
+<a id="section-3121"></a>
+## § 3121. Annual reports on the domestic activities of the intelligence community
 **(a) Reports** Not later than January 31 of each year, the Director of National Intelligence shall submit to the congressional intelligence committees a report—
 
 (1) identifying all domestic activities undertaken by each element of the intelligence community during the prior fiscal year; and
@@ -8596,8 +8789,8 @@ Pub. L. 117–103, div. X, title V, § 505(c), (d), Mar. 15, 2022, 136 Stat. 989
 [For definition of “congressional intelligence committees” as used in section 505(d) of div. X of Pub. L. 117–103, set out above, see section 2 of div. X of Pub. L. 117–103, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
 
-<a id="section-3124"></a>
-## § 3124. Unfunded priorities of the intelligence community: annual report
+<a id="section-3122"></a>
+## § 3122. Unfunded priorities of the intelligence community: annual report
 **(a) Annual report** Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the head of each element of the intelligence community shall prepare and submit to the Director of National Intelligence, the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives a report on the unfunded priorities of the programs under the jurisdiction of such head.
 
 **(b) Elements**
@@ -8638,8 +8831,8 @@ Pub. L. 117–103, div. X, title V, § 505(c), (d), Mar. 15, 2022, 136 Stat. 989
 2023—Subsec. (a). Pub. L. 118–31 inserted “prepare and” after “each element of the intelligence community shall”.
 
 
-<a id="section-3125"></a>
-## § 3125. Submission of covered documents and classified annexes
+<a id="section-3123"></a>
+## § 3123. Submission of covered documents and classified annexes
 **(a) Covered document defined** In this section, the term “covered document” means any executive order, memorandum, or policy directive issued by the President, including national security Presidential memoranda and Presidential policy directives, or such successor memoranda and directives.
 
 **(b) Requirement** Not later than 7 days after the date on which the President issues or amends a covered document, the President, acting through the Director of National Intelligence, shall submit to the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives the covered document and any classified annex accompanying that document if such covered document or annex contains a direction to, establishes a requirement for, or includes a restriction on any element of the intelligence community.
@@ -8652,10 +8845,62 @@ Pub. L. 117–263, div. F, title LXIII, § 6316(b), Dec. 23, 2022, 136 Stat. 351
 [For definition of “congressional intelligence committees” as used in section 6316(b) of Pub. L. 117–263, set out above, see section 6002 of Pub. L. 117–263, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
 
-<a id="section-3126"></a>
-## § 3126. Submission of legislative proposals
+<a id="section-3124"></a>
+## § 3124. Submission of legislative proposals
 
 Not later than 45 days after the date on which the President submits to Congress the budget for each fiscal year pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Director of National Intelligence shall submit to the congressional intelligence committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives any legislative provisions that are proposed by the Director to be enacted as part of the annual intelligence authorization bill for that fiscal year.
+
+
+<a id="section-3125"></a>
+## § 3125. Notice of impact of diplomatic and consular post closings on intelligence community
+**(a) Notice to Director of National Intelligence and Secretary of Defense** The Secretary of State shall provide notice to the Director of National Intelligence and the Secretary of Defense of any covered closure of a diplomatic or consular post. To the maximum extent practicable, the notice shall be provided at least 30 days before the date on which the covered closure occurs.
+
+**(b) Notice to congressional committees** The Director of National Intelligence, in consultation with the heads of the other appropriate elements of the intelligence community as determined by the Director, shall submit to the appropriate congressional committees a notice describing the impact of the closure on the intelligence community. The notice shall be submitted within 30 days after the date on which the Director receives the notice under subsection (a) and, to the maximum extent practicable, shall be submitted before the date on which the covered closure occurs. Such notice shall include a description of whether, and the extent to which, the Director and the heads of the other appropriate elements of the intelligence community were consulted in the decision-making process with respect to such closure and registered any concerns with or objections to such closure.
+
+**(c) Definitions** In this section:
+
+(1) **Appropriate congressional committees** — The term “appropriate congressional committees” means—
+
+  (A) the congressional intelligence committees;
+
+  (B) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives;
+
+  (C) the Committees on Armed Services of the Senate and the House of Representatives; and
+
+  (D) the Committees on Appropriations of the Senate and the House of Representatives.
+
+(2) **Covered closure of a diplomatic or consular post defined** — The term “covered closure of a diplomatic or consular post” means the closure of a United States diplomatic or consular post abroad that is anticipated to last for 60 days or more.
+
+
+<a id="section-3126"></a>
+## § 3126. Notice of counterintelligence assessments and investigations of Federal candidates or officeholders
+**(a) Notice**
+
+(1) **Notice required** — Except as provided in paragraph (3), the Director of the Federal Bureau of Investigation shall notify the chairmen and ranking minority members of the appropriate congressional committees, the Speaker and minority leader of the House of Representatives, and the majority and minority leaders of the Senate of each counterintelligence assessment or investigation of an individual who is—
+
+  (A) a candidate for Federal office; or
+
+  (B) a holder of Federal office.
+
+(2) **Contents** — The notice required under paragraph (1) shall include—
+
+  (A) a summary of the relevant facts associated with the counterintelligence assessment or investigation; and
+
+  (B) the identity of such individual.
+
+(3) **Exception** — The Director may refrain from providing a notice under paragraph (1) to an individual who is otherwise a recipient of notices under such paragraph if that individual is a target of the counterintelligence assessment or investigation covered by the notice.
+
+**(b) Timing** The Director shall provide each notice under subsection (a) not later than 15 days after the date of the commencement of the counterintelligence assessment or investigation that is the subject of such notice. With respect to counterintelligence assessments or investigations that commenced before December 18, 2025 and are ongoing as of December 18, 2025, the Director shall provide each notice under subsection (a) not later than 15 days after December 18, 2025.
+
+**(c) Definitions** In this section:
+
+(1) The term “appropriate congressional committees” means—
+
+  (A) the congressional intelligence committees; and
+
+  (B) the Committees on the Judiciary of the House of Representatives and the Senate.
+
+(2) The terms “candidate” and “Federal office” have the meanings given those terms in [section 30101 of title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim).
 
 
 <a id="section-3141"></a>
@@ -8717,7 +8962,6 @@ Section was formerly classified to [section 422 of this title](./chapter-015-nat
 
 Section, act July 26, 1947, ch. 343, title VI, § 603, as added Pub. L. 97–200, § 2(a), June 23, 1982, 96 Stat. 123; amended Pub. L. 107–306, title III, § 353(b)(1)(B), title VIII, § 811(b)(1)(E), Nov. 27, 2002, 116 Stat. 2402, 2422; Pub. L. 108–458, title I, § 1071(a)(1)(CC), Dec. 17, 2004, 118 Stat. 3689; Pub. L. 111–259, title III, § 363(b), Oct. 7, 2010, 124 Stat. 2702, required an annual report by the President to Congress on measures to protect identities of covert agents, with an exemption from disclosure.
 
-#### Codification
 Section was formerly classified to [section 423 of this title](./chapter-015-national-security.md#section-423) and repealed prior to editorial reclassification and renumbering as this section.
 
 
@@ -9415,6 +9659,16 @@ Pub. L. 106–120, title III, § 305(c), Dec. 3, 1999, 113 Stat. 1612, provided 
 #### Effective Date
 Pub. L. 103–359, title VIII, § 802(c), Oct. 14, 1994, 108 Stat. 3438, provided that: “The amendments made by subsections (a) and (b) [enacting this subchapter] shall take effect 180 days after the date of enactment of this Act [Oct. 14, 1994].”
 
+#### Plan on Enhanced Intelligence Sharing Relating to Foreign Adversary Biotechnological Threats
+Pub. L. 119–60, div. F, title LXVI, § 6612, Dec. 18, 2025, 139 Stat. 1637, provided that: “(a) Plan.—Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], the Director of National Intelligence, in consultation with such other heads of elements of the intelligence community as the Director considers appropriate, shall—“(1) develop and commence carrying out a plan, consistent with Executive Order 13526 [set out below] and with adequate protections for sources and methods, for streamlining the declassification or downgrading and sharing of intelligence information relating to biotechnological developments and threats in order to counter efforts by foreign adversaries to weaponize biotechnologies and biological weapons, including threats relating to military, industrial, agricultural, and health applications of biotechnology; and “(2) submit to the appropriate congressional committees such plan. “(b) Recipients.—The plan under subsection (a) shall include mechanisms for sharing the intelligence information described in such subsection—“(1) with allies and partners of the United States; “(2) with private sector partners of the United States; and “(3) across the Federal Government. “(c) Reports.—Not later than 1 year after the date of the enactment of this Act, and annually thereafter for 2 years, the Director shall submit to the appropriate congressional committees a report on the progress made by the intelligence community with respect to sharing intelligence information relating to biotechnological developments and threats with recipients specified in subsection (b). “(d) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means the following:“(1) The congressional intelligence committees. “(2) The Committees on Armed Services of the Senate and the House of Representatives. “(3) The Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives.”
+
+[For definitions of “intelligence community” and “congressional intelligence committees” as used in section 6612 of Pub. L. 119–60, set out above, see section 6002 of Pub. L. 119–60, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
+
+#### Declassification of Intelligence and Additional Transparency Measures Relating to the COVID–19 Pandemic
+Pub. L. 119–60, div. F, title LXVIII, § 6803, Dec. 18, 2025, 139 Stat. 1654, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Director of National Intelligence shall, jointly with the head of each element of the intelligence community— “(1) perform a declassification review of intelligence relating to the origins of Coronavirus Disease 2019 (COVID–19), including—“(A) research conducted at the Wuhan Institute of Virology or any other medical or scientific research center within the People’s Republic of China; “(B) information relating to Gain of Function research and the intention of this research; “(C) information relating to sources of funding or direction for research on coronaviruses, including both sources within the People’s Republic of China and foreign sources; and “(D) the possibility of zoonotic origins of COVID–19; “(2) perform a declassification review of intelligence relating to efforts by government officials of entities of the People’s Republic of China—“(A) to disrupt or obstruct information sharing or investigations into the origins of the coronavirus disease 2019 (COVID–19) pandemic; “(B) to disrupt the sharing of medically significant information relating to the transmissibility and potential harm of SARS–CoV–2 to humans, including—“(i) efforts to limit the sharing of information with the United States Government; “(ii) efforts to limit the sharing of information with the governments of allies and partners of the United States; and “(iii) efforts to limit the sharing of information with the United Nations and World Health Organization; “(C) to obstruct or otherwise limit the sharing of information between national, provincial, and city governments within the People’s Republic of China and between subnational entities within the People’s Republic of China and external researchers; “(D) to deny the sharing of information with the United States, allies and partners of the United States, or multilateral organizations, including the United Nations and the World Health Organization; “(E) to pressure or lobby foreign governments, journalists, medical researchers, officials of the United States Government, or officials of multilateral organizations (including the United Nations and the World Health Organization) with respect to the source, scientific origins, transmissibility, or other attributes of the SARS–CoV–2 virus or the COVID–19 pandemic; “(F) to disrupt government or private-sector efforts to conduct research and development of medical interventions or countermeasures for the COVID–19 pandemic, including vaccines; and “(G) to promote alternative narratives regarding the origins of COVID–19 as well as the domestic Chinese and international response to the COVID–19 pandemic; “(3) release publicly the intelligence products described in paragraphs (1) and (2) including such redactions as the Director, with the concurrence of the head of the originating intelligence community element, determines necessary to protect sources and methods and information concerning United States persons; and “(4) submit to the congressional intelligence committees an unredacted version of the declassified intelligence products described in paragraph (3).”
+
+[For definitions of “intelligence community” and “congressional intelligence committees” as used in section 6803 of Pub. L. 119–60, set out above, see section 6002 of Pub. L. 119–60, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
+
 #### Intelligence Community-Wide Policy on Prepublication Review
 Pub. L. 118–31, div. G, title III, § 7322, Dec. 22, 2023, 137 Stat. 1038, provided that: “Not later than 30 days after the date of the enactment of this Act [Dec. 22, 2023], the Director of National Intelligence shall issue, and submit to the congressional intelligence committees, the Committee on the Judiciary, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate, and the Committee on the Judiciary, the Committee on Oversight and Accountability, and the Committee on Appropriations of the House of Representatives, an intelligence community-wide policy regarding prepublication review.”
 
@@ -9454,13 +9708,13 @@ Pub. L. 106–567, title VII, Dec. 27, 2000, 114 Stat. 2856, as amended by Pub. 
 Pub. L. 106–65, div. A, title X, § 1041(c), (d), Oct. 5, 1999, 113 Stat. 758, provided that: “(c) Certification Required With Respect To Automatic Declassification of Records.—No records of the Department of Defense that have not been reviewed for declassification shall be subject to automatic declassification unless the Secretary of Defense certifies to Congress that such declassification would not harm the national security. “(d) Report on Automatic Declassification of Department of Defense Records.—Not later than February 1, 2001, the Secretary of Defense shall submit to the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate a report on the efforts of the Department of Defense relating to the declassification of classified records under the control of the Department of Defense. Such report shall include the following:“(1) An assessment of whether the Department will be able to review all relevant records for declassification before any date established for automatic declassification. “(2) An estimate of the cost of reviewing records to meet any requirement to review all relevant records for declassification by a date established for automatic declassification. “(3) An estimate of the number of records, if any, that the Department will be unable to review for declassification before any such date and the affect [sic] on national security of the automatic declassification of those records. “(4) An estimate of the length of time by which any such date would need to be extended to avoid the automatic declassification of records that have not yet been reviewed as of such date.”
 
 #### Supplement to Plan for Declassification of Restricted Data and Formerly Restricted Data
-Pub. L. 106–65, div. C, title XXXI, § 3149, Oct. 5, 1999, 113 Stat. 938, which was formerly set out as a note under this section, was renumbered section 4523 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, § 3141(h)(13)(A)–(C), Nov. 24, 2003, 117 Stat. 1775, and is classified to [section 2673 of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2673).
+Pub. L. 106–65, div. C, title XXXI, § 3149, Oct. 5, 1999, 113 Stat. 938, which was formerly set out as a note under this section, was renumbered section 4523 of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, § 3141(h)(13)(A)–(C), Nov. 24, 2003, 117 Stat. 1775, and classified to [section 2673 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2673&num=0&edition=prelim), and was repealed and restated as [section 6233 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6233&num=0&edition=prelim), Armed Forces, by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1411, 1458.
 
 #### Identification in Budget Materials of Amounts for Declassification Activities and Limitation on Expenditures for Such Activities
-Pub. L. 106–65, div. C, title XXXI, § 3173, Oct. 5, 1999, 113 Stat. 949, which was formerly set out as a note under this section, was renumbered section 4525 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, § 3141(h)(15)(A)–(C), Nov. 24, 2003, 117 Stat. 1775, and is classified to [section 2675 of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2675).
+Pub. L. 106–65, div. C, title XXXI, § 3173, Oct. 5, 1999, 113 Stat. 949, which was formerly set out as a note under this section, was renumbered section 4525 of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, § 3141(h)(15)(A)–(C), Nov. 24, 2003, 117 Stat. 1775, and classified to [section 2675 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2675&num=0&edition=prelim), and was repealed and restated as [section 6235 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6235&num=0&edition=prelim), Armed Forces, by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1411, 1458.
 
 #### Protection Against Inadvertent Release of Restricted Data and Formerly Restricted Data
-Pub. L. 105–261, div. C, title XXXI, § 3161, Oct. 17, 1998, 112 Stat. 2259, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [div. C, title XXXI, § 3193(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–480, which was formerly set out as a note under this section, was renumbered section 4522 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, § 3141(h)(12)(A)–(C), Nov. 24, 2003, 117 Stat. 1774, and is classified to [section 2672 of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2672).
+Pub. L. 105–261, div. C, title XXXI, § 3161, Oct. 17, 1998, 112 Stat. 2259, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [div. C, title XXXI, § 3193(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–480, which was formerly set out as a note under this section, was renumbered section 4522 of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, § 3141(h)(12)(A)–(C), Nov. 24, 2003, 117 Stat. 1774, and classified to [section 2672 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2672&num=0&edition=prelim), and was repealed and restated as [section 6232 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6232&num=0&edition=prelim), Armed Forces, by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1409, 1458.
 
 #### Voluntary Service Program
 Pub. L. 104–93, title IV, § 402, Jan. 6, 1996, 109 Stat. 969, authorized the Director of Central Intelligence to establish and maintain a program from fiscal years 1996 through 2001 to utilize the services contributed by not more than 50 annuitants who served without compensation as volunteers in aid of the review for declassification or downgrading of classified information by the Central Intelligence Agency under applicable Executive orders governing the classification and declassification of national security information and Pub. L. 102–526 ([44 U.S.C. 2107](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section2107&num=0&edition=prelim) note).
@@ -11806,17 +12060,25 @@ Section effective 180 days after Oct. 14, 1994, see section 802(c) of Pub. L. 10
 
 (2) have the authority to grant exceptions to, or waivers of, national security investigative requirements, including issuing implementing or clarifying guidance, as necessary;
 
-(3) have the authority to assign, in whole or in part, to the head of any Federal agency (solely or jointly) any of the duties of the Security Executive Agent described in subsection (b) or the authorities described in paragraphs (1) and (2), provided that the exercise of such assigned duties or authorities is subject to the oversight of the Security Executive Agent, including such terms and conditions (including approval by the Security Executive Agent) as the Security Executive Agent determines appropriate; and
+(3) have the authority to assign, in whole or in part, to the head of any Federal agency (solely or jointly) any of the duties of the Security Executive Agent described in subsection (b) or the authorities described in paragraphs (1) and (2), provided that the exercise of such assigned duties or authorities is subject to the oversight of the Security Executive Agent, including such terms and conditions (including approval by the Security Executive Agent) as the Security Executive Agent determines appropriate;
 
-(4) define and set standards for continuous vetting for continued access to classified information and for eligibility to hold a sensitive position.
+(4) define and set standards for continuous vetting for continued access to classified information and for eligibility to hold a sensitive position; and
+
+(5) issue guidelines and instructions to the heads of Federal agencies to ensure that any individual who was appointed by the President to a position in an element of the intelligence community but is no longer employed by the Federal Government shall maintain a security clearance only in accordance with Executive Order 12968 ([50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note; relating to access to classified information), or successor order.
 
 ### Statutory Notes
 
 #### References in Text
-Executive Order No. 12968, referred to in subsec. (b)(5), is Ex. Ord. No. 12968, Aug. 2, 1995, 60 F.R. 40245, which is set out as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161).
+Executive Order No. 12968, referred to in subsecs. (b)(5) and (c)(5), is Ex. Ord. No. 12968, Aug. 2, 1995, 60 F.R. 40245, which is set out as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161).
 
 #### Prior Provisions
 A prior section 803 of act July 26, 1947, ch. 343, was renumbered section 804 and is classified to [section 3163 of this title](./chapter-044-national-security.md#section-3163).
+
+#### Amendments
+2024—Subsec. (c)(5). Pub. L. 118–159 added par. (5).
+
+#### Submittal of Guidelines and Instructions to Congress Required
+Pub. L. 118–159, div. F, title LXVI, § 6601(b), Dec. 23, 2024, 138 Stat. 2501, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Director of National Intelligence, or such other officer of the United States acting as the Security Executive Agent pursuant to subsection (a) of section 803 of the National Security Act of 1947 ([50 U.S.C. 3162a](./chapter-044-national-security.md#section-3162a)), shall submit to the congressional intelligence committees [Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives] and the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the guidelines and instructions required by subsection (c)(5) of such section, as added by subsection (a) of this section.”
 
 #### Timeliness in the Administration of Polygraphs
 Pub. L. 117–263, div. F, title LXVI, § 6604, Dec. 23, 2022, 136 Stat. 3558, provided that: “(a) Standards Required.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Director of National Intelligence shall, in the Director’s capacity as the Security Executive Agent pursuant to section 803(a) of the National Security Act of 1947 ([50 U.S.C. 3162a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3162a/a&num=0&edition=prelim)), issue standards for timeliness for Federal agencies to administer polygraphs conducted for the purpose of—“(A) adjudicating decisions regarding eligibility for access to classified information (as defined in the procedures established pursuant to section 801(a) of the National Security Act of 1947 ([50 U.S.C. 3161(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3161/a&num=0&edition=prelim))); and “(B) granting reciprocity pursuant to Security Executive Agent Directive 2, or successor directive. “(2) Publication.—The Director shall publish the standards issued under paragraph (1) in the Federal Register or such other venue as the Director considers appropriate. “(b) Report Required.—Not later than 180 days after the date of the enactment of this Act, the Director shall submit to Congress a report on how Federal agencies will comply with the standards issued under subsection (a). Such plan shall specify the resources required by Federal agencies to comply with such standards and the timeline for doing so.”
@@ -11952,7 +12214,6 @@ Section was formerly classified to [section 441c of this title](./chapter-015-na
 
 Section, act July 26, 1947, ch. 343, title IX, § 905, as added Pub. L. 104–93, title III, § 303(a), Jan. 6, 1996, 109 Stat. 965; amended Pub. L. 104–293, title III, § 304, Oct. 11, 1996, 110 Stat. 3464; Pub. L. 105–107, title III, § 304, Nov. 20, 1997, 111 Stat. 2252; Pub. L. 105–272, title III, § 303, Oct. 20, 1998, 112 Stat. 2400, provided that this subchapter would cease to be effective on Jan. 6, 2000.
 
-#### Codification
 Section was formerly classified to [section 441d of this title](./chapter-015-national-security.md#section-441d) and repealed prior to editorial reclassification and renumbering as this section.
 
 
@@ -12031,7 +12292,6 @@ Section effective not later than six months after Dec. 17, 2004, except as other
 
 Section, act July 26, 1947, ch. 343, title X, § 1003, as added Pub. L. 108–458, title I, § 1043, Dec. 17, 2004, 118 Stat. 3679; amended Pub. L. 111–259, title VIII, § 804(8), Oct. 7, 2010, 124 Stat. 2747, related to Intelligence Community Scholarship Program.
 
-#### Codification
 Section was formerly classified to [section 441g–2 of this title](./chapter-015-national-security.md#section-441g-2) and repealed prior to editorial reclassification and renumbering as this section.
 
 #### Savings Provision
@@ -12285,8 +12545,8 @@ The head of a department or agency containing an element of the intelligence com
 Section was formerly classified to section 441o of this title prior to editorial reclassification and renumbering as this section.
 
 
-<a id="section-3231"></a>
-## § 3231. Intelligence officer training program
+<a id="section-3227d"></a>
+## § 3227d. Intelligence officer training program
 **(a) Programs**
 
 (1) The Director of National Intelligence may carry out grant programs in accordance with subsections (b) and (c) to enhance the recruitment and retention of an ethnically and culturally diverse intelligence community workforce with capabilities critical to the national security interests of the United States.
@@ -12381,8 +12641,8 @@ Subsec. (g)(2) to (4). Pub. L. 112–18, § 304(4), added pars. (2) and (4) and 
 Pub. L. 108–177, title III, § 319, Dec. 13, 2003, 117 Stat. 2614, as amended by Pub. L. 108–458, title I, § 1071(g)(3)(A)(iv), (B), Dec. 17, 2004, 118 Stat. 3692; Pub. L. 111–259, title III, § 313(b)(1)(A), (3), Oct. 7, 2010, 124 Stat. 2666, provided that: “Congress makes the following findings: “(1) It is the recommendation of the Joint Inquiry of the Senate Select Committee on Intelligence and the House Permanent Select Committee on Intelligence into Intelligence Community Activities Before and After the Terrorist Attacks of September 11, 2001, that the Intelligence Community should enhance recruitment of a more ethnically and culturally diverse workforce and devise a strategy to capitalize upon the unique cultural and linguistic capabilities of first generation Americans. “(2) The Intelligence Community could greatly benefit from an increased number of employees who are proficient in foreign languages and knowledgeable of world cultures, especially in foreign languages that are critical to the national security interests of the United States. Particular emphasis should be given to the recruitment of United States citizens whose linguistic capabilities are acutely required for the improvement of the overall intelligence collection and analysis effort of the United States Government. “(3) The Intelligence Community has a significantly lower percentage of women and minorities than the total workforce of the Federal government and the total civilian labor force. “(4) Women and minorities continue to be under-represented in senior grade levels, and in core mission areas, of the intelligence community.”
 
 
-<a id="section-3232"></a>
-## § 3232. Authorization of support by Director of National Intelligence for certain workforce activities
+<a id="section-3231"></a>
+## § 3231. Authorization of support by Director of National Intelligence for certain workforce activities
 **(a) Authorization** The Director may, with or without reimbursement, obligate or expend amounts authorized to be appropriated or otherwise made available for the Office of the Director of National Intelligence for covered workforce activities for the purpose of supporting a covered workforce activity of an element of the intelligence community.
 
 **(b) Notification** Not later than 30 days after the date on which the Director exercises the authority in subsection (a), the Director shall submit to the congressional intelligence committees and the Committees on Appropriations of the House of Representatives and the Senate written notification of such exercise.
@@ -12394,8 +12654,8 @@ Pub. L. 108–177, title III, § 319, Dec. 13, 2003, 117 Stat. 2614, as amended 
 (2) diversity, equality, inclusion, or accessibility, with respect to such workforce.
 
 
-<a id="section-3232a"></a>
-## § 3232a. Transfer date
+<a id="section-3232"></a>
+## § 3232. Transfer date
 
 In this part, the term “transfer date” means the date on which the National Intelligence University is transferred from the Defense Intelligence Agency to the Director of National Intelligence under [section 3334a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3334a/a&num=0&edition=prelim).
 
@@ -12405,8 +12665,8 @@ In this part, the term “transfer date” means the date on which the National 
 The transfer date, referred to in text, is June 20, 2021.
 
 
-<a id="section-3233"></a>
-## § 3233. Degree-granting authority
+<a id="section-3232a"></a>
+## § 3232a. Degree-granting authority
 **(a) In general** Beginning on the transfer date, under regulations prescribed by the Director of National Intelligence, the President of the National Intelligence University may, upon the recommendation of the faculty of the University, confer appropriate degrees upon graduates who meet the degree requirements.
 
 **(b) Limitation** A degree may not be conferred under this section unless—
@@ -12421,28 +12681,16 @@ The transfer date, referred to in text, is June 20, 2021.
 2023—Subsec. (c). Pub. L. 118–31 struck out subsec. (c) which related to congressional notification requirements.
 
 
-<a id="section-3234"></a>
-## § 3234. Reporting
-**(a) In general** Not less frequently than once each year, the Director of National Intelligence shall submit to the congressional intelligence committees a plan for employing professors, instructors, and lecturers at the National Intelligence University.
-
-**(b) Elements** Each plan submitted under subsection (a) shall include the following:
-
-(1) The total number of proposed personnel to be employed at the National Intelligence University.
-
-(2) The total annual compensation to be provided the personnel described in paragraph (1).
-
-(3) Such other matters as the Director considers appropriate.
-
-**(c) Form of submittal** Each plan submitted by the Director to the congressional intelligence committees under subsection (a) shall be submitted as part of another annual submission from the Director to the congressional intelligence committees.
+<a id="section-3233"></a>
+## § 3233. Repealed. Pub. L. 119–60, div. F, title LXVIII, § 6801(a)(4)(A), Dec. 18, 2025, 139 Stat. 1652
 
 ### Statutory Notes
 
-#### Plan Regarding Personnel at National Intelligence University
-Pub. L. 116–260, div. W, title III, § 305(b), Dec. 27, 2020, 134 Stat. 2367, provided that: “(1) Initial submission.—Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2020], the Director of National Intelligence shall submit to the congressional intelligence committees [Select Committee on Intelligence and Committee on Appropriations of the Senate and Permanent Select Committee on Intelligence and Committee on Appropriations of the House of Representatives] the first submission required by section 1033(a) of the National Security Act of 1947 [[50 U.S.C. 3227b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3227b/a&num=0&edition=prelim)], as added by subsection (a). “(2) Certain requirement not applicable.—Subsection (c) of section 1033 of the National Security Act of 1947 [[50 U.S.C. 3227b(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3227b/c&num=0&edition=prelim)], as added by subsection (a), shall not apply to the submittal under paragraph (1) of this subsection.”
+Section, act July 26, 1947, ch. 343, title X, § 1033, as added Pub. L. 116–260, div. W, title III, § 305(a), Dec. 27, 2020, 134 Stat. 2366, required the Director of National Intelligence to submit to the congressional intelligence committees a plan for employing professors, instructors, and lecturers at the National Intelligence University.
 
 
-<a id="section-3235"></a>
-## § 3235. Continued applicability of the Federal Advisory Committee Act to the Board of Visitors
+<a id="section-3234"></a>
+## § 3234. Continued applicability of the Federal Advisory Committee Act to the Board of Visitors
 
 The Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall continue to apply to the Board of Visitors of the National Intelligence University on and after the transfer date.
 
@@ -12450,6 +12698,33 @@ The Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text not
 
 #### References in Text
 The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
+
+#### Prior Provisions
+A prior section 1033 of act July 26, 1947, was classified to [section 3227b of this title](./chapter-044-national-security.md#section-3227b), prior to repeal by Pub. L. 119–60.
+
+
+<a id="section-3235"></a>
+## § 3235. National Intelligence University acceptance of grants
+**(a) Authority** The Director of National Intelligence may authorize the President of the National Intelligence University to accept qualifying research grants.
+
+**(b) Qualifying grants** A qualifying research grant under this section is a grant that is awarded on a competitive basis by an entity referred to in subsection (c) for a research project with a scientific, literary, or educational purpose.
+
+**(c) Entities from which grants may be accepted** A qualifying research grant may be accepted under this section only from a Federal agency or from a corporation, fund, foundation, educational institution, or similar entity that is organized and operated primarily for scientific, literary, or educational purposes.
+
+**(d) Administration of grant funds**
+
+(1) **Establishment of account** — The Director shall establish an account for administering funds received as qualifying research grants under this section.
+
+(2) **Use of funds** — The President of the University shall use the funds in the account established pursuant to paragraph (1) in accordance with applicable provisions of the regulations and the terms and conditions of the grants received.
+
+**(e) Related expenses** Subject to such limitations as may be provided in appropriations Acts, appropriations available for the National Intelligence University may be used to pay expenses incurred by the University in applying for, and otherwise pursuing, the award of qualifying research grants.
+
+**(f) Regulations** The Director of National Intelligence shall prescribe regulations for the administration of this section.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 1034 of act July 26, 1947, was renumbered section 1033 and is classified to [section 3227c of this title](./chapter-044-national-security.md#section-3227c).
 
 
 <a id="section-3235a"></a>
@@ -12530,7 +12805,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 **(b) Annual assessments of counterintelligence threats**
 
-(1) **Requirement** — Not later than 90 days after December 23, 2022, and annually thereafter, the Director of National Intelligence, in coordination with the Director of the Central Intelligence Agency, the Director of the National Security Agency, and the Director of the Federal Bureau of Investigation, shall submit to the appropriate congressional committees a report with an accompanying classified annex containing an assessment of the counterintelligence threats and other risks to the national security of the United States posed by the proliferation of foreign commercial spyware. The assessment shall incorporate all credible data, including open-source information.
+(1) **Requirement** — Not later than 90 days after December 23, 2022, and annually thereafter for seven years, the Director of National Intelligence, in coordination with the Director of the Central Intelligence Agency, the Director of the National Security Agency, and the Director of the Federal Bureau of Investigation, shall submit to the appropriate congressional committees a report with an accompanying classified annex containing an assessment of the counterintelligence threats and other risks to the national security of the United States posed by the proliferation of foreign commercial spyware. The assessment shall incorporate all credible data, including open-source information.
 
 (2) **Elements** — Each report under paragraph (1) shall include the following, if known:
 
@@ -12572,7 +12847,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
     (i) the assessment of the intelligence community of the counterintelligence threats or other risks to the United States posed by foreign commercial spyware;
 
-    (ii) the assessment of the intelligence community of whether the foreign commercial spyware has been used to target United States Government personnel.11 So in original. The period probably should be a semicolon.
+    (ii) the assessment of the intelligence community of whether the foreign commercial spyware has been used to target United States Government personnel;
 
     (iii) whether the original owner or developer retains any of the physical property or intellectual property associated with the foreign commercial spyware;
 
@@ -12635,6 +12910,10 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b)(1). Pub. L. 119–60 inserted “for seven years” after “annually thereafter”.
+
+2024—Subsec. (c)(1)(B)(ii). Pub. L. 118–159 substituted semicolon for period at end.
+
 2023—Subsec. (b)(3). Pub. L. 118–31, § 7901(a)(4)(A), substituted “paragraph (1)” for “subsection (2)”.
 
 Subsec. (c)(4)(C)(iv). Pub. L. 118–31, § 7901(a)(4)(B), substituted “waiver” for “wavier”.
@@ -12872,7 +13151,7 @@ Section was formerly classified to [section 442b of this title](./chapter-015-na
 
 **(b) Agency employees** Any employee of a covered intelligence community element or an agency who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take, or threaten to take or fail to take, a personnel action with respect to any employee of a covered intelligence community element as a reprisal for—
 
-(1) any lawful disclosure of information by the employee to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose), the Inspector General of the Intelligence Community, a supervisor in the employee’s direct chain of command, or a supervisor of the employing agency with responsibility for the subject matter of the disclosure, up to and including the head of the employing agency (or an employee designated by the head of that agency for such purpose), the appropriate inspector general of the employing agency, a congressional intelligence committee, or a member of a congressional intelligence committee, which the employee reasonably believes evidences—
+(1) any lawful disclosure of information by the employee to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose), the Inspector General of the Intelligence Community, a supervisor in the employee’s direct chain of command, or a supervisor of the employing agency with responsibility for the subject matter of the disclosure, up to and including the head of the employing agency (or an employee designated by the head of that agency for such purpose), the appropriate inspector general of the employing agency or covered intelligence community element, a congressional intelligence committee, or a member of a congressional intelligence committee, which the employee reasonably believes evidences—
 
   (A) a violation of any Federal law, rule, or regulation; or
 
@@ -12880,7 +13159,7 @@ Section was formerly classified to [section 442b of this title](./chapter-015-na
 
 (2) any lawful disclosure that complies with—
 
-  (A) subsections (a)(1), (d), and (g) of section 8H of the Inspector General Act of 1978 (5 U.S.C. App.); 11 See References in Text note below.
+  (A) subsections (b)(1), (e), and (h) of [section 416 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section416&num=0&edition=prelim);
 
   (B) subparagraphs (A), (D), and (H) of [section 3517(d)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3517/d/5&num=0&edition=prelim); or
 
@@ -12898,15 +13177,15 @@ Section was formerly classified to [section 442b of this title](./chapter-015-na
 
 (1) Any employee of an agency or of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of a covered intelligence community element who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take, or threaten to take or fail to take, a personnel action with respect to any contractor employee as a reprisal for—
 
-  (A) any lawful disclosure of information by the contractor employee to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose), the Inspector General of the Intelligence Community, a supervisor in the contractor employee’s direct chain of command, or a supervisor of the employing or contracting agency or employing contractor with responsibility for the subject matter of the disclosure, up to and including the head of the employing or contracting agency (or an employee designated by the head of that agency for that purpose) or employing contractor, the appropriate inspector general of the employing or contracting agency, a congressional intelligence committee, or a member of a congressional intelligence committee, which the contractor employee reasonably believes evidences—
+  (A) any lawful disclosure of information by the contractor employee to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose), the Inspector General of the Intelligence Community, a supervisor in the contractor employee’s direct chain of command, or a supervisor of the employing or contracting agency or employing contractor with responsibility for the subject matter of the disclosure, up to and including the head of the employing or contracting agency (or an employee designated by the head of that agency for that purpose) or employing contractor, the appropriate inspector general of the employing or contracting agency or covered intelligence community element, a congressional intelligence committee, or a member of a congressional intelligence committee, which the contractor employee reasonably believes evidences—
 
     (i) a violation of any Federal law, rule, or regulation (including with respect to evidence of another employee or contractor employee accessing or sharing classified information without authorization); or
 
-    (ii) mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.22 So in original. The period probably should be a semicolon.
+    (ii) mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
 
   (B) any lawful disclosure that complies with—
 
-    (i) subsections (a)(1), (d), and (g) of section 8H of the Inspector General Act of 1978 (5 U.S.C. App.); 1
+    (i) subsections (b)(1), (e), and (h) of [section 416 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section416&num=0&edition=prelim);
 
     (ii) subparagraphs (A), (D), and (H) of [section 3517(d)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3517/d/5&num=0&edition=prelim); or
 
@@ -12952,10 +13231,17 @@ Section was formerly classified to [section 442b of this title](./chapter-015-na
 
 ### Statutory Notes
 
-#### References in Text
-Section 8H of the Inspector General Act of 1978, referred to in subsecs. (b)(2)(A) and (c)(1)(B)(i), is section 8H of Pub. L. 95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as [section 416 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section416&num=0&edition=prelim) by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4242, 4361. Subsecs. (a)(1), (d), and (g) of section 8H were enacted as subsecs. (b)(1), (e), and (h) of [section 416 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section416&num=0&edition=prelim).
-
 #### Amendments
+2024—Subsec. (b)(1). Pub. L. 118–159, § 6703(1), inserted “or covered intelligence community element” after “the appropriate inspector general of the employing agency” in introductory provisions.
+
+Subsec. (b)(2)(A). Pub. L. 118–159, § 6902(a)(4)(A), substituted “subsections (b)(1), (e), and (h) of [section 416 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section416&num=0&edition=prelim)” for “subsections (a)(1), (d), and (g) of section 8H of the Inspector General Act of 1978 (5 U.S.C. App.)”.
+
+Subsec. (c)(1)(A). Pub. L. 118–159, § 6703(2), inserted “or covered intelligence community element” after “the appropriate inspector general of the employing or contracting agency” in introductory provisions.
+
+Subsec. (c)(1)(A)(ii). Pub. L. 118–159, § 6902(a)(4)(B)(i), substituted semicolon for period at end.
+
+Subsec. (c)(1)(B)(i). Pub. L. 118–159, § 6902(a)(4)(B)(ii), substituted “subsections (b)(1), (e), and (h) of [section 416 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section416&num=0&edition=prelim)” for “subsections (a)(1), (d), and (g) of section 8H of the Inspector General Act of 1978 (5 U.S.C. App.)”.
+
 2022—Subsec. (b). Pub. L. 117–103, § 501(f)(1), substituted “(1) any lawful disclosure” for “a lawful disclosure”, inserted dash after “for”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added pars. (2) and (3).
 
 Pub. L. 117–103, § 501(a)(1)(A), (e)(1)(A), in introductory provisions, substituted “Any employee of a covered intelligence community element or an agency” for “Any employee of an agency” and inserted “, or threaten to take or fail to take,” after “take or fail to take” and “a supervisor in the employee’s direct chain of command, or a supervisor of the employing agency with responsibility for the subject matter of the disclosure, up to and including” before “the head of the employing agency”.
@@ -12989,7 +13275,7 @@ Subsecs. (c) to (e). Pub. L. 115–118, § 110(a)(2), (3), added subsec. (c) and
 Subsec. (e)(1). Pub. L. 115–118, § 110(a)(5), inserted “contractor employee,” after “any employee,”.
 
 #### Policies and Procedures; Nonapplicability to Certain Terminations
-Pub. L. 113–126, title VI, § 604, July 7, 2014, 128 Stat. 1421, provided that: “(a) Covered Intelligence Community Element Defined.—In this section, the term ‘covered intelligence community element’—“(1) means—“(A) the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, the Office of the Director of National Intelligence, and the National Reconnaissance Office; and “(B) any executive agency or unit thereof determined by the President under [section 2302(a)(2)(C)(ii) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/a/2/C/ii&num=0&edition=prelim), United States Code, to have as its principal function the conduct of foreign intelligence or counterintelligence activities; and “(2) does not include the Federal Bureau of Investigation. “(b) Regulations.—In consultation with the Secretary of Defense, the Director of National Intelligence shall develop policies and procedures to ensure that a personnel action shall not be taken against an employee of a covered intelligence community element as a reprisal for any disclosure of information described in [section] 1104 of the National Security Act of 1947 [[50 U.S.C. 3234](./chapter-044-national-security.md#section-3234)], as added by section 601 of this Act. “(c) Report on the Status of Implementation of Regulations.—Not later than 2 years after the date of the enactment of this Act [July 7, 2014], the Director of National Intelligence shall submit a report on the status of the implementation of the regulations promulgated under subsection (b) to the congressional intelligence committees. “(d) Nonapplicability to Certain Terminations.—Section 1104 of the National Security Act of 1947, as added by section 601 of this Act, and section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 3341](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3341)), as amended by section 602 of this Act, shall not apply if—“(1) the affected employee is concurrently terminated under—“(A) [section 1609 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1609&num=0&edition=prelim), United States Code; “(B) the authority of the Director of National Intelligence under section 102A(m) of the National Security Act of 1947 ([50 U.S.C. 3024(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/m&num=0&edition=prelim)), if the Director determines that the termination is in the interest of the United States; “(C) the authority of the Director of the Central Intelligence Agency under section 104A(e) of the National Security Act of 1947 ([50 U.S.C. 3036(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3036/e&num=0&edition=prelim)), if the Director determines that the termination is in the interest of the United States; or “(D) [section 7532 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7532&num=0&edition=prelim), United States Code, if the head of the agency determines that the termination is in the interest of the United States; and “(2) not later than 30 days after such termination, the head of the agency that employed the affected employee notifies the congressional intelligence committees of the termination.”
+Pub. L. 113–126, title VI, § 604, July 7, 2014, 128 Stat. 1421, as amended by Pub. L. 119–60, div. F, title LXIV, § 6402(c)(2)(H), Dec. 18, 2025, 139 Stat. 1616, provided that: “(a) Covered Intelligence Community Element Defined.—In this section, the term ‘covered intelligence community element’—“(1) means—“(A) the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, the Office of the Director of National Intelligence, and the National Reconnaissance Office; and “(B) any executive agency or unit thereof determined by the President under [section 2302(a)(2)(C)(ii) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/a/2/C/ii&num=0&edition=prelim), United States Code, to have as its principal function the conduct of foreign intelligence or counterintelligence activities; and “(2) does not include the Federal Bureau of Investigation. “(b) Regulations.—In consultation with the Secretary of Defense, the Director of National Intelligence shall develop policies and procedures to ensure that a personnel action shall not be taken against an employee of a covered intelligence community element as a reprisal for any disclosure of information described in [section] 1104 of the National Security Act of 1947 [[50 U.S.C. 3234](./chapter-044-national-security.md#section-3234)], as added by section 601 of this Act. “(c) Report on the Status of Implementation of Regulations.—Not later than 2 years after the date of the enactment of this Act [July 7, 2014], the Director of National Intelligence shall submit a report on the status of the implementation of the regulations promulgated under subsection (b) to the congressional intelligence committees. “(d) Nonapplicability to Certain Terminations.—Section 1104 of the National Security Act of 1947, as added by section 601 of this Act, and section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 3341](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3341)), as amended by section 602 of this Act, shall not apply if—“(1) the affected employee is concurrently terminated under—“(A) [section 1609 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1609&num=0&edition=prelim), United States Code; “(B) the authority of the Director of National Intelligence under section 102A(l) of the National Security Act of 1947 ([50 U.S.C. 3024(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/m&num=0&edition=prelim) [now [50 U.S.C. 3024](./chapter-044-national-security.md#section-3024)(l)]), if the Director determines that the termination is in the interest of the United States; “(C) the authority of the Director of the Central Intelligence Agency under section 104A(e) of the National Security Act of 1947 ([50 U.S.C. 3036(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3036/e&num=0&edition=prelim)), if the Director determines that the termination is in the interest of the United States; or “(D) [section 7532 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7532&num=0&edition=prelim), United States Code, if the head of the agency determines that the termination is in the interest of the United States; and “(2) not later than 30 days after such termination, the head of the agency that employed the affected employee notifies the congressional intelligence committees of the termination.”
 
 [For definition of “congressional intelligence committees” as used in section 604 of Pub. L. 113–126, set out above, see section 2 of Pub. L. 113–126, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
@@ -13177,7 +13463,7 @@ Pub. L. 113–126, title VI, § 604, July 7, 2014, 128 Stat. 1421, provided that
 
 <a id="section-3242"></a>
 ## § 3242. Annual reports on influence operations and campaigns in the United States by the Chinese Communist Party
-**(a) Requirement** On an annual basis, consistent with the protection of intelligence sources and methods, the Director of the National Counterintelligence and Security Center shall submit to the congressional intelligence committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate a report on the influence operations and campaigns in the United States conducted by the Chinese Communist Party.
+**(a) Requirement** On an annual basis, consistent with the protection of intelligence sources and methods, the Director of the National Counterintelligence and Security Center, in coordination with the Director of the Federal Bureau of Investigation, the Director of the Central Intelligence Agency, the Director of the National Security Agency, and any other relevant head of an element of the intelligence community, shall submit to the congressional intelligence committees, the Committee on the Judiciary of the Senate, the Committee on the Judiciary of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate a report on the influence operations and campaigns in the United States conducted by the Chinese Communist Party.
 
 **(b) Contents** Each report under subsection (a) shall include the following:
 
@@ -13199,15 +13485,23 @@ Pub. L. 113–126, title VI, § 604, July 7, 2014, 128 Stat. 1421, provided that
 
 (9) A listing of all known Chinese talent recruitment programs operating in the United States as of the date of the report.
 
-(10) With respect to reports submitted after the first report, an assessment of the change in goals, tactics, techniques, and procedures of the influence operations and campaigns conducted by the Chinese Communist Party.
+(10) A listing of provincial, municipal, or other law enforcement institutions, including police departments, in the People’s Republic of China associated with establishing or maintaining a Chinese police presence in the United States.
 
-**(c) Coordination** In carrying out subsection (a), the Director shall coordinate with the Director of the Federal Bureau of Investigation, the Director of the Central Intelligence Agency, the Director of the National Security Agency, and any other relevant head of an element of the intelligence community.
+(11) A listing of colleges and universities in the People’s Republic of China that conduct military research or host dedicated military initiatives or laboratories.
 
-**(d) Form** Each report submitted under subsection (a) shall be submitted in unclassified form, but may include a classified annex.
+(12) With respect to reports submitted after the first report, an assessment of the change in goals, tactics, techniques, and procedures of the influence operations and campaigns conducted by the Chinese Communist Party.
+
+**(c) Form** Each report submitted under subsection (a) shall be submitted in unclassified form, but may include a classified annex.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 6701(1), inserted “, in coordination with the Director of the Federal Bureau of Investigation, the Director of the Central Intelligence Agency, the Director of the National Security Agency, and any other relevant head of an element of the intelligence community,” after “Director of the National Counterintelligence and Security Center” and “the Committee on the Judiciary of the Senate, the Committee on the Judiciary of the House of Representatives,” after “congressional intelligence committees,”.
+
+Subsec. (b)(10) to (12). Pub. L. 119–60, § 6701(2), added pars. (10) and (11) and redesignated former par. (10) as (12).
+
+Subsecs. (c), (d). Pub. L. 119–60, § 6701(3), (4), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “In carrying out subsection (a), the Director shall coordinate with the Director of the Federal Bureau of Investigation, the Director of the Central Intelligence Agency, the Director of the National Security Agency, and any other relevant head of an element of the intelligence community.”
+
 2022—Subsec. (b)(9), (10). Pub. L. 117–103 added par. (9) and redesignated former par. (9) as (10).
 
 2020—Pub. L. 116–260, § 605(d)(1)(A), substituted “Chinese Communist Party” for “Communist Party of China” in section catchline.

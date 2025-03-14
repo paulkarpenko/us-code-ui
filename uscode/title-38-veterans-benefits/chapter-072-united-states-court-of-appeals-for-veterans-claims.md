@@ -152,13 +152,24 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **(i) Additional Temporary Expansion of Court.—**
 
-(1) Subject to paragraph (2), effective as of December 31, 2009, the authorized number of judges of the Court specified in subsection (a) is increased by two.
+(1)
 
-(2) Effective as of January 1, 2026, an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).
+  (A) Subject to paragraph (2), effective during the period beginning on December 31, 2009, and ending on the date of the enactment of the Veterans Benefits Improvement Act of 2024, the authorized number of judges of the Court specified in subsection (a) is increased by two.
+
+  (B) Subject to paragraph (2), effective as of the date of the enactment of the Veterans Benefits Improvement Act of 2024, the authorized number of judges of the Court specified in subsection (a) is increased by three.
+
+(2) Effective as of January 1, 2028, an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of the Veterans Benefits Improvement Act of 2024, referred to in subsec. (i)(1), is the date of enactment of Pub. L. 118–196, which was approved Dec. 23, 2024.
+
 #### Amendments
+2024—Subsec. (i)(1). Pub. L. 118–196, § 7(1), designated existing provisions as subpar. (A), substituted “Subject to paragraph (2), effective during the period beginning on December 31, 2009, and ending on the date of the enactment of the Veterans Benefits Improvement Act of 2024” for “Subject to paragraph (2), effective as of December 31, 2009”, and added subpar. (B).
+
+Subsec. (i)(2). Pub. L. 118–196, § 7(2), substituted “January 1, 2028” for “January 1, 2026”.
+
 2020—Subsec. (i)(2). Pub. L. 116–159 substituted “January 1, 2026” for “January 1, 2021”.
 
 2016—Subsec. (d)(1)(B), (C). Pub. L. 114–315, § 204(a)(1), added subpar. (B) and redesignated former subpar. (B) as (C).

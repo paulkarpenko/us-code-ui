@@ -109,7 +109,8 @@ Sections 14701 through 14703 of this title shall apply in continuation or retent
 
 <a id="section-15109"></a>
 ## § 15109. Other administrative authorities
-**(a) 11 So in original. There is no subsec. (b). In General.—** The following provisions of this title shall apply to officers in competitive categories of officers designated for purposes of this chapter:
+
+The following provisions of this title shall apply to officers in competitive categories of officers designated for purposes of this chapter:
 
 (1) Section 14518, relating to continuation of officers to complete disciplinary action.
 
@@ -119,8 +120,18 @@ Sections 14701 through 14703 of this title shall apply in continuation or retent
 
 (4) Section 14705, relating to the selective early retirement of reserve general and flag officers of the Navy and Marine Corps.
 
+### Statutory Notes
+
+#### Amendments
+2024—Pub. L. 118–159, which directed striking out “(a) In general.—”, was executed by striking out “(a) In General.—” before “The following provisions” in introductory provisions, to reflect the probable intent of Congress.
+
 
 <a id="section-15110"></a>
 ## § 15110. Regulations
 
-The Secretary of Defense shall prescribe regulations regarding the administration of this chapter. The elements of such regulations shall include mechanisms to clarify the manner in which provisions of other chapters of this part of the title 11 So in original. Probably should be “this part of this subtitle”. shall be used in the administration of this chapter in accordance with the provisions of this chapter.
+The Secretary of Defense shall prescribe regulations regarding the administration of this chapter. The elements of such regulations shall include mechanisms to clarify the manner in which provisions of other chapters of this part of this subtitle shall be used in the administration of this chapter in accordance with the provisions of this chapter.
+
+### Statutory Notes
+
+#### Amendments
+2024—Pub. L. 118–159 substituted “this subtitle” for “the title”.

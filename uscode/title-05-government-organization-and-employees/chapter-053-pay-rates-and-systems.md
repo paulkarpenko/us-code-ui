@@ -2,7 +2,7 @@
 title: 5
 chapter: '53'
 heading: PAY RATES AND SYSTEMS
-section_count: 65
+section_count: 66
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5&num=0&edition=prelim
 ---
@@ -276,7 +276,7 @@ Pub. L. 101–509, title V, § 529 [title I, § 101(e)], Nov. 5, 1990, 104 Stat.
 #### Federal Employee Pay Adjustments—Vice President and Executive Schedule Positions
 CY 2024—Pub. L. 118–47, div. B, title VII, § 747, Mar. 23, 2024, 138 Stat. 585, provided that: “(a) Notwithstanding any official rate adjusted under [section 104 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim), United States Code, the rate payable to the Vice President during calendar year 2024 shall be the rate payable to the Vice President on December 31, 2023, by operation of section 747 of division E of Public Law 117–328 [see table below]. “(b) Notwithstanding any official rate adjusted under [section 5318 of title 5](./chapter-053-pay-rates-and-systems.md#section-5318), United States Code, or any other provision of law, the payable rate during calendar year 2024 for an employee serving in an Executive Schedule position, or in a position for which the rate of pay is fixed by statute at an Executive Schedule rate, shall be the rate payable for the applicable Executive Schedule level on December 31, 2023, by operation of section 747 of division E of Public Law 117–328. Such an employee may not receive a rate increase during calendar year 2024, except as provided in subsection (i). “(c) Notwithstanding section 401 of the Foreign Service Act of 1980 (Public Law 96–465) [[22 U.S.C. 3961](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3961&num=0&edition=prelim)] or any other provision of law, a chief of mission or ambassador at large is subject to subsection (b) in the same manner as other employees who are paid at an Executive Schedule rate. “(d)(1) This subsection applies to—“(A) a noncareer appointee in the Senior Executive Service paid a rate of basic pay at or above the official rate for level IV of the Executive Schedule; or “(B) a limited term appointee or limited emergency appointee in the Senior Executive Service serving under a political appointment and paid a rate of basic pay at or above the official rate for level IV of the Executive Schedule. “(2) Notwithstanding sections 5382 and 5383 of title 5, United States Code, an employee described in paragraph (1) may not receive a pay rate increase during calendar year 2024, except as provided in subsection (i). “(e) Notwithstanding any other provision of law, any employee paid a rate of basic pay (including any locality based payments under [section 5304 of title 5](./chapter-053-pay-rates-and-systems.md#section-5304), United States Code, or similar authority) at or above the official rate for level IV of the Executive Schedule who serves under a political appointment may not receive a pay rate increase during calendar year 2024, except as provided in subsection (i). This subsection does not apply to employees in the General Schedule pay system or the Foreign Service pay system, to employees appointed under [section 3161 of title 5](./chapter-031-authority-for-employment.md#section-3161), United States Code, or to employees in another pay system whose position would be classified at GS–15 or below if chapter 51 of title 5, United States Code, applied to them. “(f) Nothing in subsections (b) through (e) shall prevent employees who do not serve under a political appointment from receiving pay increases as otherwise provided under applicable law. “(g) This section does not apply to an individual who makes an election to retain Senior Executive Service basic pay under [section 3392(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3392/c&num=0&edition=prelim), United States Code, for such time as that election is in effect. “(h) This section does not apply to an individual who makes an election to retain Senior Foreign Service pay entitlements under section 302(b) of the Foreign Service Act of 1980 (Public Law 96–465) [[22 U.S.C. 3942(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3942/b&num=0&edition=prelim)] for such time as that election is in effect. “(i) Notwithstanding subsections (b) through (e), an employee in a covered position may receive a pay rate increase upon an authorized movement to a different covered position only if that new position has higher-level duties and a pre-established level or range of pay higher than the level or range for the position held immediately before the movement. Any such increase must be based on the rates of pay and applicable limitations on payable rates of pay in effect on December 31, 2023, by operation of section 747 of division E of Public Law 117–328. “(j) Notwithstanding any other provision of law, for an individual who is newly appointed to a covered position during the period of time subject to this section, the initial pay rate shall be based on the rates of pay and applicable limitations on payable rates of pay in effect on December 31, 2023, by operation of section 747 of division E of Public Law 117–328 [see table below]. “(k) If an employee affected by this section is subject to a biweekly pay period that begins in calendar year 2024 but ends in calendar year 2025, the bar on the employee’s receipt of pay rate increases shall apply through the end of that pay period. “(l) For the purpose of this section, the term ‘covered position’ means a position occupied by an employee whose pay is restricted under this section. “(m) This section takes effect on the first day of the first applicable pay period beginning on or after January 1, 2024.”
 
-[For provisions temporarily applying section 747 of div. B of Pub. L. 118–47, set out above, by making certain substitutions in text, see Pub. L. 118–83, div. A, § 164, as added by Pub. L. 118–158, div. A, § 101(3), Dec. 21, 2024, 138 Stat. 1725.]
+[Pub. L. 119–4, div. A, title VI, § 1605, Mar. 15, 2025, 139 Stat. 27, provided that: “Notwithstanding [section] 1101 [of Pub. L. 119–4, 139 Stat. 10], section 747 of title VII of division B of Public Law 118–47 [set out above] shall be applied through the date specified in section 1106 of this Act [Sept. 30, 2025] by— [“(1) substituting ‘2024’ for ‘2023’ each place it appears; [“(2) substituting ‘2025’ for ‘2024’ each place it appears; [“(3) substituting ‘2026’ for ‘2025’; and [“(4) substituting ‘section 747 of division B of Public Law 118–47, as in effect on September 30, 2024’ for ‘section 747 of division E of Public Law 117–328’ each place it appears.” ]
 
 Additional adjustments were made in the following prior acts:
 
@@ -1145,6 +1145,9 @@ Level I of the Executive Schedule applies to the following positions for which t
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### References in Text
+Chapter 11 of title 2, referred to in text, probably means section 225 of Pub. L. 90–206, which is classified generally to chapter 11 (§ 351 et seq.) of Title 2, The Congress. For complete classification of section 225 to the Code, see Tables.
+
 #### Codification
 Paragraph designation for the position added by Pub. L. 96–88 has been omitted in view of the deletion of all paragraph designations in this section by Pub. L. 96–54.
 
@@ -1261,6 +1264,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### 1967 Act
 The deletion of paragraph (6) of [5 U.S.C. 5313](./chapter-053-pay-rates-and-systems.md#section-5313) reflects the abolition of the position of “Administrator of the Housing and Home Finance Agency” by the act of September 9, 1965, Public Law 89–174, sections 5(a), 9(c), 79 Stat. 669, 671.
+
+#### References in Text
+Chapter 11 of title 2, referred to in text, probably means section 225 of Pub. L. 90–206, which is classified generally to chapter 11 (§ 351 et seq.) of Title 2, The Congress. For complete classification of section 225 to the Code, see Tables.
 
 #### Amendments
 2021—Pub. L. 116–283, § 9001(b)(1), inserted item relating to Director, Cybersecurity and Infrastructure Security Agency.
@@ -1520,6 +1526,8 @@ The deletion of paragraph (41) of [5 U.S.C. 5314](./chapter-053-pay-rates-and-sy
 In paragraph (49), the words “In lieu of receiving compensation at the rate prescribed by [section 785(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section785/c&num=0&edition=prelim)” are omitted since the provisions of [20 U.S.C. 785(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section785/c&num=0&edition=prelim) relating to compensation are repealed by this bill; also see table II. The wording further reflects the first sentence of [20 U.S.C. 954(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section954/d&num=0&edition=prelim), and conforms to [5 U.S.C. 5314](./chapter-053-pay-rates-and-systems.md#section-5314) which applies to positions rather than individuals.
 
 #### References in Text
+Chapter 11 of title 2, referred to in text, probably means section 225 of Pub. L. 90–206, which is classified generally to chapter 11 (§ 351 et seq.) of Title 2, The Congress. For complete classification of section 225 to the Code, see Tables.
+
 The position of Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics, referred to in text, was established by former [section 133a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section133a&num=0&edition=prelim), added Pub. L. 99–500, § 101(c) [title X, § 902(a)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–131, and Pub. L. 99–591, § 101(c) [title X, § 902(a)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–131; Pub. L. 99–661, div. A, title IX, formerly title IV, § 902(a)(1), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 103–160, div. A, title IX, § 904(c), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, § 1070(a)(2), Oct. 5, 1994, 108 Stat. 2855; Pub. L. 104–106, div. A, title IX, § 903(c)(1), Feb. 10, 1996, 110 Stat. 401; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, § 911(c), Oct. 5, 1999, 113 Stat. 718; Pub. L. 107–107, div. A, title X, § 1048(b)(1), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 111–84, div. A, title IX, § 906(c)(1)(A), (2)(A), Oct. 28, 2009, 123 Stat. 2427, which was repealed by Pub. L. 111–383, div. A, title IX, § 901(b)(1), (p), Jan. 7, 2011, 124 Stat. 4317, 4327, effective Jan. 1, 2011.
 
 #### Codification
@@ -2066,6 +2074,9 @@ The deletion of paragraphs (25)–(28) of [5 U.S.C. 5315](./chapter-053-pay-rate
 
 The redesignation of paragraphs (78) and (79), added by Public Law 89–734, and of paragraph (78), added by Public Law 89–779, as paragraphs “(84)”, “(85)”, and “(86)”, respectively, reflects the addition of paragraphs (78)–(83) by section 10(d)(4) of Public Law 89–670.
 
+#### References in Text
+Chapter 11 of title 2, referred to in text, probably means section 225 of Pub. L. 90–206, which is classified generally to chapter 11 (§ 351 et seq.) of Title 2, The Congress. For complete classification of section 225 to the Code, see Tables.
+
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
@@ -2074,6 +2085,8 @@ The paragraph designation for the positions added or amended by Pub. L. 96–88 
 Amendment by Pub. L. 94–237 to formerly designated par. (95) of this section has been editorially made to formerly designated par. (96) of this section relating to the Deputy Director, Office of Drug Abuse Policy, in view of redesignation of par. (95) as (96) by Pub. L. 94–183 as the probable intent of Congress.
 
 #### Amendments
+2025—Pub. L. 119–60 substituted “Assistant Secretaries of Defense (20).” for “Assistant Secretaries of Defense (19).”
+
 2022—Pub. L. 117–263, § 5304(b)(1)(B), struck out item relating to Special Counsel of the Merit Systems Protection Board.
 
 Pub. L. 117–263, § 901(b)(2), substituted “Assistant Secretaries of Defense (19).” for “Assistant Secretaries of Defense (14).”
@@ -2609,7 +2622,7 @@ Pub. L. 102–359, § 2(b)(3), Aug. 26, 1992, 106 Stat. 962, provided that: “T
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
 
 #### Effective Date of 1991 Amendment
-Pub. L. 102–138, title I, § 122(d)(2), Oct. 28, 1991, 105 Stat. 659, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 1991.”
+Pub. L. 102–138, title I, § 122(d)(2), Oct. 28, 1991, 105 Stat. 659, which provided that the amendment to this section made by section 122(d)(1) of Pub. L. 102–138 would take effect on Oct. 1, 1991, was repealed by Pub. L. 119–60, div. E, title I, § 5153(b), Dec. 18, 2025, 139 Stat. 1580.
 
 #### Effective Date of 1990 Amendments
 Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 [title IV, § 403(a)] of Pub. L. 101–512, set out as a note under [section 951 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section951&num=0&edition=prelim), Education.
@@ -2800,6 +2813,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 The deletion of paragraphs (22), (38), and (83) of [5 U.S.C. 5316](./chapter-053-pay-rates-and-systems.md#section-5316) reflects (1) the termination, effective June 30, 1965, of the position of “Area Redevelopment Administrator, Department of Commerce” pursuant to Public Law 87–27 (sec. 29, 75 Stat. 63; [42 U.S.C. 2525](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2525&num=0&edition=prelim)); (2) the abolition of the position of “Chief, Weather Bureau, Department of Commerce” by 1965 Reorganization Plan No. 2 (sec. 2(a), 79 Stat. 1318); and (3) the abolition of the position of “General Counsel of the Housing and Home Finance Agency” by Public Law 89–174 (sec. 5(a), 9(c), 79 Stat. 669, 671).
 
 The redesignation of paragraphs (117) and (118) as paragraphs “(118)” and “(119)”, respectively, eliminates duplicate paragraph numbering effected by section 10(d)(5) of Public Law 89–670 and section 1(2) of Public Law 89–734.
+
+#### References in Text
+Chapter 11 of title 2, referred to in text, probably means section 225 of Pub. L. 90–206, which is classified generally to chapter 11 (§ 351 et seq.) of Title 2, The Congress. For complete classification of section 225 to the Code, see Tables.
 
 #### Codification
 The paragraph designations for the positions added by Pub. L. 96–88 have been omitted in view of the deletion of all paragraph designations in this section by Pub. L. 96–54.
@@ -3478,8 +3494,8 @@ Pub. L. 90–206, title II, §§ 211(b)–(d), 220(a)(2), Dec. 16, 1967, 81 Stat
 #### Retroactive Compensation Under 1967 Pay Increases
 Pub. L. 90–206, title II, § 218, Dec. 16, 1967, 81 Stat. 638, provided for retroactive pay under title II of Pub. L. 90–206 only in the case of an individual in the service of the United States, including service in the Armed Forces, or the municipal government of the District of Columbia on Dec. 16, 1967, subject to certain restrictions.
 
-#### Ex. Ord. No. 14113. Adjustments of Certain Rates of Pay
-Ex. Ord. No. 14113, Dec. 21, 2023, 88 F.R. 89259, provided:
+#### Ex. Ord. No. 14132. Adjustments of Certain Rates of Pay
+Ex. Ord. No. 14132, Dec. 23, 2024, 89 F.R. 106963, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -3511,107 +3527,108 @@ Sec. 5. Locality-Based Comparability Payments.
 
 Sec. 6. Administrative Law Judges. Pursuant to [section 5372 of title 5](./chapter-053-pay-rates-and-systems.md#section-5372), United States Code, the rates of basic pay for administrative law judges are set forth on Schedule 10 attached hereto and made a part hereof.
 
-Sec. 7. Effective Dates. Schedule 8 is effective January 1, 2024. The other schedules contained herein are effective on the first day of the first applicable pay period beginning on or after January 1, 2024.
+Sec. 7. Effective Dates. Schedule 8 is effective January 1, 2025. The other schedules contained herein are effective on the first day of the first applicable pay period beginning on or after January 1, 2025.
 
-Sec. 8. Prior Order Superseded. Executive Order 14090 of December 23, 2022, is superseded as of the effective dates specified in section 7 of this order.
+Sec. 8. Prior Order Superseded. Executive Order 14113 of December 21, 2023 (Adjustments of Certain Rates of Pay), is superseded as of the effective dates specified in section 7 of this order.
 
 J.R. Biden, Jr.
 
 | Schedule 1 |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | General Schedule |  |  |  |  |  |  |  |  |  |  |
-| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2024) |  |  |  |  |  |  |  |  |  |  |
+| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2025) |  |  |  |  |  |  |  |  |  |  |
 |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| GS–1 | $21,986 | $22,724 | $23,454 | $24,183 | $24,912 | $25,339 | $26,063 | $26,792 | $26,821 | $27,502 |
-| GS–2 | 24,722 | 25,310 | 26,129 | 26,821 | 27,124 | 27,922 | 28,720 | 29,518 | 30,316 | 31,114 |
-| GS–3 | 26,975 | 27,874 | 28,773 | 29,672 | 30,571 | 31,470 | 32,369 | 33,268 | 34,167 | 35,066 |
-| GS–4 | 30,280 | 31,289 | 32,298 | 33,307 | 34,316 | 35,325 | 36,334 | 37,343 | 38,352 | 39,361 |
-| GS–5 | 33,878 | 35,007 | 36,136 | 37,265 | 38,394 | 39,523 | 40,652 | 41,781 | 42,910 | 44,039 |
-| GS–6 | 37,765 | 39,024 | 40,283 | 41,542 | 42,801 | 44,060 | 45,319 | 46,578 | 47,837 | 49,096 |
-| GS–7 | 41,966 | 43,365 | 44,764 | 46,163 | 47,562 | 48,961 | 50,360 | 51,759 | 53,158 | 54,557 |
-| GS–8 | 46,475 | 48,024 | 49,573 | 51,122 | 52,671 | 54,220 | 55,769 | 57,318 | 58,867 | 60,416 |
-| GS–9 | 51,332 | 53,043 | 54,754 | 56,465 | 58,176 | 59,887 | 61,598 | 63,309 | 65,020 | 66,731 |
-| GS–10 | 56,528 | 58,412 | 60,296 | 62,180 | 64,064 | 65,948 | 67,832 | 69,716 | 71,600 | 73,484 |
-| GS–11 | 62,107 | 64,177 | 66,247 | 68,317 | 70,387 | 72,457 | 74,527 | 76,597 | 78,667 | 80,737 |
-| GS–12 | 74,441 | 76,922 | 79,403 | 81,884 | 84,365 | 86,846 | 89,327 | 91,808 | 94,289 | 96,770 |
-| GS–13 | 88,520 | 91,471 | 94,422 | 97,373 | 100,324 | 103,275 | 106,226 | 109,177 | 112,128 | 115,079 |
-| GS–14 | 104,604 | 108,091 | 111,578 | 115,065 | 118,552 | 122,039 | 125,526 | 129,013 | 132,500 | 135,987 |
-| GS–15 | 123,041 | 127,142 | 131,243 | 135,344 | 139,445 | 143,546 | 147,647 | 151,748 | 155,849 | 159,950 |
+| GS–1 | $22,360 | $23,110 | $23,853 | $24,594 | $25,336 | $25,770 | $26,506 | $27,247 | $27,277 | $27,970 |
+| GS–2 | 25,142 | 25,740 | 26,573 | 27,277 | 27,583 | 28,394 | 29,205 | 30,016 | 30,827 | 31,638 |
+| GS–3 | 27,434 | 28,348 | 29,262 | 30,176 | 31,090 | 32,004 | 32,918 | 33,832 | 34,746 | 35,660 |
+| GS–4 | 30,795 | 31,822 | 32,849 | 33,876 | 34,903 | 35,930 | 36,957 | 37,984 | 39,011 | 40,038 |
+| GS–5 | 34,454 | 35,602 | 36,750 | 37,898 | 39,046 | 40,194 | 41,342 | 42,490 | 43,638 | 44,786 |
+| GS–6 | 38,407 | 39,687 | 40,967 | 42,247 | 43,527 | 44,807 | 46,087 | 47,367 | 48,647 | 49,927 |
+| GS–7 | 42,679 | 44,102 | 45,525 | 46,948 | 48,371 | 49,794 | 51,217 | 52,640 | 54,063 | 55,486 |
+| GS–8 | 47,265 | 48,841 | 50,417 | 51,993 | 53,569 | 55,145 | 56,721 | 58,297 | 59,873 | 61,449 |
+| GS–9 | 52,205 | 53,945 | 55,685 | 57,425 | 59,165 | 60,905 | 62,645 | 64,385 | 66,125 | 67,865 |
+| GS–10 | 57,489 | 59,405 | 61,321 | 63,237 | 65,153 | 67,069 | 68,985 | 70,901 | 72,817 | 74,733 |
+| GS–11 | 63,163 | 65,268 | 67,373 | 69,478 | 71,583 | 73,688 | 75,793 | 77,898 | 80,003 | 82,108 |
+| GS–12 | 75,706 | 78,230 | 80,754 | 83,278 | 85,802 | 88,326 | 90,850 | 93,374 | 95,898 | 98,422 |
+| GS–13 | 90,025 | 93,026 | 96,027 | 99,028 | 102,029 | 105,030 | 108,031 | 111,032 | 114,033 | 117,034 |
+| GS–14 | 106,382 | 109,928 | 113,474 | 117,020 | 120,566 | 124,112 | 127,658 | 131,204 | 134,750 | 138,296 |
+| GS–15 | 125,133 | 129,304 | 133,475 | 137,646 | 141,817 | 145,988 | 150,159 | 154,330 | 158,501 | 162,672 |
 
 | Schedule 2 |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Foreign Service Schedule |  |  |  |  |  |  |  |  |  |
-| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2024) |  |  |  |  |  |  |  |  |  |
+| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2025) |  |  |  |  |  |  |  |  |  |
 | Step | Class 1 | Class 2 | Class 3 | Class 4 | Class 5 | Class 6 | Class 7 | Class 8 | Class 9 |
-| 1 | $123,041 | $99,700 | $80,787 | $65,461 | $53,043 | $47,419 | $42,391 | $37,896 | $33,878 |
-| 2 | 126,732 | 102,691 | 83,211 | 67,425 | 54,634 | 48,842 | 43,663 | 39,033 | 34,894 |
-| 3 | 130,534 | 105,772 | 85,707 | 69,448 | 56,273 | 50,307 | 44,973 | 40,204 | 35,941 |
-| 4 | 134,450 | 108,945 | 88,278 | 71,531 | 57,962 | 51,816 | 46,322 | 41,410 | 37,019 |
-| 5 | 138,484 | 112,213 | 90,926 | 73,677 | 59,700 | 53,371 | 47,711 | 42,652 | 38,130 |
-| 6 | 142,638 | 115,580 | 93,654 | 75,887 | 61,491 | 54,972 | 49,143 | 43,932 | 39,274 |
-| 7 | 146,917 | 119,047 | 96,464 | 78,164 | 63,336 | 56,621 | 50,617 | 45,250 | 40,452 |
-| 8 | 151,325 | 122,618 | 99,358 | 80,509 | 65,236 | 58,319 | 52,136 | 46,607 | 41,666 |
-| 9 | 155,865 | 126,297 | 102,339 | 82,924 | 67,193 | 60,069 | 53,700 | 48,006 | 42,916 |
-| 10 | 159,950 | 130,086 | 105,409 | 85,412 | 69,209 | 61,871 | 55,311 | 49,446 | 44,203 |
-| 11 | 159,950 | 133,988 | 108,571 | 87,974 | 71,285 | 63,727 | 56,970 | 50,929 | 45,529 |
-| 12 | 159,950 | 138,008 | 111,828 | 90,613 | 73,424 | 65,639 | 58,679 | 52,457 | 46,895 |
-| 13 | 159,950 | 142,148 | 115,183 | 93,332 | 75,627 | 67,608 | 60,439 | 54,031 | 48,302 |
-| 14 | 159,950 | 146,413 | 118,638 | 96,132 | 77,895 | 69,636 | 62,253 | 55,652 | 49,751 |
+| 1 | $125,133 | $101,395 | $82,160 | $66,574 | $53,945 | $48,225 | $43,112 | $38,541 | $34,454 |
+| 2 | 128,887 | 104,437 | 84,625 | 68,571 | 55,563 | 49,672 | 44,405 | 39,697 | 35,488 |
+| 3 | 132,754 | 107,570 | 87,164 | 70,628 | 57,230 | 51,162 | 45,738 | 40,888 | 36,552 |
+| 4 | 136,736 | 110,797 | 89,778 | 72,747 | 58,947 | 52,697 | 47,110 | 42,115 | 37,649 |
+| 5 | 140,838 | 114,121 | 92,472 | 74,930 | 60,716 | 54,278 | 48,523 | 43,378 | 38,778 |
+| 6 | 145,063 | 117,545 | 95,246 | 77,178 | 62,537 | 55,906 | 49,979 | 44,680 | 39,942 |
+| 7 | 149,415 | 121,071 | 98,103 | 79,493 | 64,413 | 57,583 | 51,478 | 46,020 | 41,140 |
+| 8 | 153,898 | 124,703 | 101,046 | 81,878 | 66,346 | 59,311 | 53,022 | 47,401 | 42,374 |
+| 9 | 158,515 | 128,444 | 104,078 | 84,334 | 68,336 | 61,090 | 54,613 | 48,823 | 43,645 |
+| 10 | 162,672 | 132,297 | 107,200 | 86,864 | 70,386 | 62,923 | 56,251 | 50,287 | 44,955 |
+| 11 | 162,672 | 136,266 | 110,416 | 89,470 | 72,498 | 64,810 | 57,939 | 51,796 | 46,303 |
+| 12 | 162,672 | 140,354 | 113,729 | 92,154 | 74,672 | 66,755 | 59,677 | 53,350 | 47,692 |
+| 13 | 162,672 | 144,565 | 117,141 | 94,919 | 76,913 | 68,757 | 61,467 | 54,950 | 49,123 |
+| 14 | 162,672 | 148,902 | 120,655 | 97,766 | 79,220 | 70,820 | 63,311 | 56,599 | 50,597 |
 
 | Schedule 3 |  |  |
 | --- | --- | --- |
 | Veterans Health Administration Schedules, Department of Veterans Affairs |  |  |
-| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2024) |  |  |
+| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2025) |  |  |
 | 1 Pursuant to [38 U.S.C. 7404(a)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7404/a/2/A&num=0&edition=prelim) and (e), this schedule does not apply to the Director of Nursing Service or any incumbents who are physicians, podiatrists, or dentists. Pursuant to [38 U.S.C. 7404(a)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7404/a/2/B&num=0&edition=prelim), this schedule also does not apply to the basic pay of any incumbents who are registered nurses or physician assistants if that basic pay is determined by the Secretary under subchapter IV of chapter 74 of title 38, United States Code. |  |  |
 | 2 Pursuant to [38 U.S.C. 7404(a)(3)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7404/a/3/B&num=0&edition=prelim), for positions that are covered by a certified performance appraisal system, the maximum rate of basic pay may not exceed the rate of basic pay payable for level II of the Executive Schedule. For positions that are not covered by a certified performance appraisal system, the maximum rate of basic pay may not exceed the rate of basic pay payable for level III of the Executive Schedule. |  |  |
 | 3 Pursuant to [38 U.S.C. 7431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7431&num=0&edition=prelim), Veterans Health Administration physicians, podiatrists, and dentists paid under the Physician, Podiatrist, and Dentist Base and Longevity Pay schedule may also be paid market pay and performance pay. |  |  |
 | 4 Pursuant to section 301(a) of Public Law 102–40 [[38 U.S.C. 7451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7451&num=0&edition=prelim) note], these positions are paid according to the Nurse Schedule in [38 U.S.C. 4107(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4107/b&num=0&edition=prelim), as in effect on August 14, 1990, with subsequent adjustments. |  |  |
 | Schedule for the Office of the Under Secretary for Health ([38 U.S.C. 7306](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7306&num=0&edition=prelim)) and Directors of Medical Centers and Veterans Integrated Service Networks ([38 U.S.C. 7401(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/4&num=0&edition=prelim)) 1 |  |  |
 |  | Minimum | Maximum |
-|  | $147,649 | $221,900 2 |
+|  | $150,160 | $225,700 2 |
 | Physician, Podiatrist, and Dentist Base and Longevity Pay Schedule 3 |  |  |
-| Physician Grade | $121,020 | $177,496 |
-| Dentist Grade | 121,020 | 177,496 |
-| Podiatrist Grade | 121,020 | 177,496 |
+| Physician Grade | $123,077 | $180,519 |
+| Dentist Grade | 123,077 | 180,519 |
+| Podiatrist Grade | 123,077 | 180,519 |
 | Chiropractor and Optometrist Schedule |  |  |
-| Chief Grade | $123,041 | $159,950 |
-| Senior Grade | 104,604 | 135,987 |
-| Intermediate Grade | 88,520 | 115,079 |
-| Full Grade | 74,441 | 96,770 |
-| Associate Grade | 62,107 | 80,737 |
+| Chief Grade | $125,133 | $162,672 |
+| Senior Grade | 106,382 | 138,296 |
+| Intermediate Grade | 90,025 | 117,034 |
+| Full Grade | 75,706 | 98,422 |
+| Associate Grade | 63,163 | 82,108 |
 | Expanded-Function Dental Auxiliary Schedule 4 |  |  |
-| Director Grade | $123,041 | $159,950 |
-| Assistant Director Grade | 104,604 | 135,987 |
-| Chief Grade | 88,520 | 115,079 |
-| Senior Grade | 74,441 | 96,770 |
-| Intermediate Grade | 62,107 | 80,737 |
-| Full Grade | 51,332 | 66,731 |
-| Associate Grade | 44,173 | 57,421 |
-| Junior Grade | 37,765 | 49,096 |
+| Director Grade | $125,133 | $162,672 |
+| Assistant Director Grade | 106,382 | 138,296 |
+| Chief Grade | 90,025 | 117,034 |
+| Senior Grade | 75,706 | 98,422 |
+| Intermediate Grade | 63,163 | 82,108 |
+| Full Grade | 52,205 | 67,865 |
+| Associate Grade | 44,924 | 58,397 |
+| Junior Grade | 38,407 | 49,927 |
 
 | Schedule 4 |  |  |
 | --- | --- | --- |
 | Senior Executive Service |  |  |
-| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2024) |  |  |
+| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2025) |  |  |
 |  | Minimum | Maximum |
-| Agencies with a Certified SES Performance Appraisal System | $147,649 | $221,900 |
-| Agencies without a Certified SES Performance Appraisal System | $147,649 | $204,000 |
+| Agencies with a Certified SES Performance Appraisal System | $150,160 | $225,700 |
+| Agencies without a Certified SES Performance Appraisal System | $150,160 | $207,500 |
 
 | Schedule 5 |  |
 | --- | --- |
 | Executive Schedule |  |
-| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2024) |  |
-| Level I | $246,400 |
-| Level II | 221,900 |
-| Level III | 204,000 |
-| Level IV | 191,900 |
-| Level V | 180,000 |
+| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2025) |  |
+| Level I | $250,600 |
+| Level II | 225,700 |
+| Level III | 207,500 |
+| Level IV | 195,200 |
+| Level V | 183,100 |
 
 | Schedule 6 |  |
 | --- | --- |
-| Vice President and Members of Congress |  |
-| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2024) |  |
-| Vice President | $284,600 |
+| Vice President and Members of Congress 1 |  |
+| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2025) |  |
+| 1 This pay schedule assumes that Congress will continue to impose a freeze on the salaries of Members of Congress as it has since 2009, and so this schedule would be subject to further revisions if Congress proceeds differently. |  |
+| Vice President | $289,400 |
 | Senators | 174,000 |
 | Members of the House of Representatives | 174,000 |
 | Delegates to the House of Representatives | 174,000 |
@@ -3624,185 +3641,188 @@ J.R. Biden, Jr.
 | Schedule 7 |  |
 | --- | --- |
 | Judicial Salaries |  |
-| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2024) |  |
-| Chief Justice of the United States | $312,200 |
-| Associate Justices of the Supreme Court | 298,500 |
-| Circuit Judges | 257,900 |
-| District Judges | 243,300 |
-| Judges of the Court of International Trade | 243,300 |
+| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2025) |  |
+| Chief Justice of the United States | $317,500 |
+| Associate Justices of the Supreme Court | 303,600 |
+| Circuit Judges | 262,300 |
+| District Judges | 247,400 |
+| Judges of the Court of International Trade | 247,400 |
 
 | Schedule 8 |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pay of the Uniformed Services |  |  |  |  |  |  |  |  |  |  |  |
-| (Effective January 1, 2024) |  |  |  |  |  |  |  |  |  |  |  |
+| (Effective January 1, 2025) |  |  |  |  |  |  |  |  |  |  |  |
 | part i—monthly basic pay |  |  |  |  |  |  |  |  |  |  |  |
 | Years of Service (computed under [37 U.S.C. 205](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section205&num=0&edition=prelim)) |  |  |  |  |  |  |  |  |  |  |  |
 | Commissioned Officers |  |  |  |  |  |  |  |  |  |  |  |
 | Pay Grade | 2 or less | Over 2 | Over 3 | Over 4 | Over 6 | Over 8 | Over 10 | Over 12 | Over 14 | Over 16 | Over 18 |
-| 1 Basic pay is limited to the rate of basic pay for level II of the Executive Schedule in effect during calendar year 2024, which is $18,491.70 per month for officers at pay grades O–7 through O–10. This includes officers serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Chief of Space Operations, Commandant of the Coast Guard, Chief of the National Guard Bureau, or commander of a unified or specified combatant command (as defined in [10 U.S.C. 161(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section161/c&num=0&edition=prelim)). |  |  |  |  |  |  |  |  |  |  |  |
-| 2 Basic pay is limited to the rate of basic pay for level V of the Executive Schedule in effect during calendar year 2024, which is $15,000.00 per month, for officers at pay grades O–6 and below. |  |  |  |  |  |  |  |  |  |  |  |
+| 1 Basic pay is limited to the rate of basic pay for level II of the Executive Schedule in effect during calendar year 2025, which is $18,808.20 per month for officers at pay grades O–7 through O–10. This includes officers serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Chief of Space Operations, Commandant of the Coast Guard, Chief of the National Guard Bureau, or commander of a unified or specified combatant command (as defined in [10 U.S.C. 161(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section161/c&num=0&edition=prelim)). |  |  |  |  |  |  |  |  |  |  |  |
+| 2 Basic pay is limited to the rate of basic pay for level V of the Executive Schedule in effect during calendar year 2025, which is $15,258.30 per month, for officers at pay grades O–6 and below. |  |  |  |  |  |  |  |  |  |  |  |
 | 3 Does not apply to commissioned officers who have been credited with over 4 years of active duty service as an enlisted member or warrant officer. |  |  |  |  |  |  |  |  |  |  |  |
 | O–10 1 | ................. | ................. | ................. | ................. | ................. | ................. | ................. | ................. | ................. | ................. | ................. |
 | O–9 1 | ................. | ................. | ................. | ................. | ................. | ................. | ................. | ................. | ................. | ................. | ................. |
-| O–8 | $12,803.70 | $13,223.70 | $13,501.80 | $13,579.20 | $13,926.90 | $14,506.50 | $14,641.80 | $15,192.60 | $15,351.30 | $15,825.90 | $16,512.90 |
-| O–7 | 10,638.90 | 11,133.00 | 11,361.90 | 11,544.00 | 11,872.80 | 12,198.30 | 12,574.20 | 12,948.90 | 13,325.40 | 14,506.50 | 15,504.30 |
-| O–6 2 | 8,067.90 | 8,863.20 | 9,444.90 | 9,444.90 | 9,481.20 | 9,887.40 | 9,941.40 | 9,941.40 | 10,506.30 | 11,505.00 | 12,091.20 |
-| O–5 | 6,725.70 | 7,576.50 | 8,100.90 | 8,199.60 | 8,527.20 | 8,722.50 | 9,153.00 | 9,469.80 | 9,878.10 | 10,501.80 | 10,799.10 |
-| O–4 | 5,803.20 | 6,717.30 | 7,166.40 | 7,265.40 | 7,681.50 | 8,127.90 | 8,684.10 | 9,116.10 | 9,416.70 | 9,589.50 | 9,689.10 |
-| O–3 3 | 5,102.10 | 5,783.70 | 6,241.80 | 6,806.10 | 7,132.80 | 7,490.70 | 7,721.70 | 8,102.10 | 8,301.00 | 8,301.00 | 8,301.00 |
-| O–2 3 | 4,408.50 | 5,020.80 | 5,782.80 | 5,978.10 | 6,100.80 | 6,100.80 | 6,100.80 | 6,100.80 | 6,100.80 | 6,100.80 | 6,100.80 |
-| O–1 3 | 3,826.20 | 3,982.80 | 4,814.70 | 4,814.70 | 4,814.70 | 4,814.70 | 4,814.70 | 4,814.70 | 4,814.70 | 4,814.70 | 4,814.70 |
+| O–8 | $13,380.00 | $13,818.90 | $14,109.30 | $14,190.30 | $14,553.60 | $15,159.30 | $15,300.60 | $15,876.30 | $16,042.20 | $16,538.10 | $17,256.00 |
+| O–7 | 11,117.70 | 11,634.00 | 11,873.10 | 12,063.60 | 12,407.10 | 12,747.30 | 13,140.00 | 13,531.50 | 13,925.10 | 15,159.30 | 16,202.10 |
+| O–6 2 | 8,430.90 | 9,261.90 | 9,870.00 | 9,870.00 | 9,907.80 | 10,332.30 | 10,388.70 | 10,388.70 | 10,979.10 | 12,022.80 | 12,635.40 |
+| O–5 | 7,028.40 | 7,917.30 | 8,465.40 | 8,568.60 | 8,910.90 | 9,114.90 | 9,564.90 | 9,895.80 | 10,322.70 | 10,974.30 | 11,285.10 |
+| O–4 | 6,064.20 | 7,019.70 | 7,488.90 | 7,592.40 | 8,027.10 | 8,493.60 | 9,075.00 | 9,526.20 | 9,840.60 | 10,020.90 | 10,125.00 |
+| O–3 3 | 5,331.60 | 6,044.10 | 6,522.60 | 7,112.40 | 7,453.80 | 7,827.90 | 8,069.10 | 8,466.60 | 8,674.50 | 8,674.50 | 8,674.50 |
+| O–2 3 | 4,606.80 | 5,246.70 | 6,042.90 | 6,247.20 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 |
+| O–1 3 | 3,998.40 | 4,161.90 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 |
 |  | Over 20 | Over 22 | Over 24 | Over 26 | Over 28 | Over 30 | Over 32 | Over 34 | Over 36 | Over 38 | Over 40 |
-| O–10 1 | 1 $18,491.70 | 1 $18,491.70 | 1 $18,491.70 | 1 $18,491.70 | 1 $18,491.70 | 1 $18,491.70 | 1 $18,491.70 | 1 $18,491.70 | 1 $18,491.70 | 1 $18,491.70 | 1 $18,491.70 |
-| O–9 | 18,096.00 | 18,357.30 | 1 18,491.70 | 1 18,491.70 | 1 18,491.70 | 1 18,491.70 | 1 18,491.70 | 1 18,491.70 | 1 18,491.70 | 1 18,491.70 | 1 18,491.70 |
-| O–8 | 17,145.60 | 17,568.60 | 17,568.60 | 17,568.60 | 17,568.60 | 18,008.40 | 18,008.40 | 18,458.10 | 18,458.10 | 18,458.10 | 18,458.10 |
-| O–7 | 15,504.30 | 15,504.30 | 15,504.30 | 15,584.10 | 15,584.10 | 15,895.80 | 15,895.80 | 15,895.80 | 15,895.80 | 15,895.80 | 15,895.80 |
-| O–6 2 | 12,677.10 | 13,010.70 | 13,348.50 | 14,002.80 | 14,002.80 | 14,282.40 | 14,282.40 | 14,282.40 | 14,282.40 | 14,282.40 | 14,282.40 |
-| O–5 | 11,093.10 | 11,426.70 | 11,426.70 | 11,426.70 | 11,426.70 | 11,426.70 | 11,426.70 | 11,426.70 | 11,426.70 | 11,426.70 | 11,426.70 |
-| O–4 | 9,689.10 | 9,689.10 | 9,689.10 | 9,689.10 | 9,689.10 | 9,689.10 | 9,689.10 | 9,689.10 | 9,689.10 | 9,689.10 | 9,689.10 |
-| O–3 3 | 8,301.00 | 8,301.00 | 8,301.00 | 8,301.00 | 8,301.00 | 8,301.00 | 8,301.00 | 8,301.00 | 8,301.00 | 8,301.00 | 8,301.00 |
-| O–2 3 | 6,100.80 | 6,100.80 | 6,100.80 | 6,100.80 | 6,100.80 | 6,100.80 | 6,100.80 | 6,100.80 | 6,100.80 | 6,100.80 | 6,100.80 |
-| O–1 3 | 4,814.70 | 4,814.70 | 4,814.70 | 4,814.70 | 4,814.70 | 4,814.70 | 4,814.70 | 4,814.70 | 4,814.70 | 4,814.70 | 4,814.70 |
+| O–10 1 | 1 $18,808.20 | 1 $18,808.20 | 1 $18,808.20 | 1 $18,808.20 | 1 $18,808.20 | 1 $18,808.20 | 1 $18,808.20 | 1 $18,808.20 | 1 $18,808.20 | 1 $18,808.20 | 1 $18,808.20 |
+| O–9 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 |
+| O–8 | 17,917.20 | 18,359.10 | 18,359.10 | 18,359.10 | 18,359.10 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 |
+| O–7 | 16,202.10 | 16,202.10 | 16,202.10 | 16,285.50 | 16,285.50 | 16,611.00 | 16,611.00 | 16,611.00 | 16,611.00 | 16,611.00 | 16,611.00 |
+| O–6 2 | 13,247.70 | 13,596.30 | 13,949.10 | 14,632.80 | 14,632.80 | 14,925.00 | 14,925.00 | 14,925.00 | 14,925.00 | 14,925.00 | 14,925.00 |
+| O–5 | 11,592.30 | 11,940.90 | 11,940.90 | 11,940.90 | 11,940.90 | 11,940.90 | 11,940.90 | 11,940.90 | 11,940.90 | 11,940.90 | 11,940.90 |
+| O–4 | 10,125.00 | 10,125.00 | 10,125.00 | 10,125.00 | 10,125.00 | 10,125.00 | 10,125.00 | 10,125.00 | 10,125.00 | 10,125.00 | 10,125.00 |
+| O–3 3 | 8,674.50 | 8,674.50 | 8,674.50 | 8,674.50 | 8,674.50 | 8,674.50 | 8,674.50 | 8,674.50 | 8,674.50 | 8,674.50 | 8,674.50 |
+| O–2 3 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 |
+| O–1 3 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 |
 
 | Commissioned Officers With Over 4 Years Active Duty Service as an Enlisted Member or Warrant Officer 4 |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pay Grade | 2 or less | Over 2 | Over 3 | Over 4 | Over 6 | Over 8 | Over 10 | Over 12 | Over 14 | Over 16 | Over 18 |
 | 4 Reservists with at least 1,460 points as an enlisted member, a warrant officer, or a warrant officer and an enlisted member, which are creditable toward reserve retirement, also qualify for these rates. |  |  |  |  |  |  |  |  |  |  |  |
-| O–3E | .............. | .............. | .............. | $6,806.10 | $7,132.80 | $7,490.70 | $7,721.70 | $8,102.10 | $8,423.40 | $8,607.90 | $8,859.00 |
-| O–2E | .............. | .............. | .............. | 5,978.10 | 6,100.80 | 6,294.90 | 6,622.80 | 6,876.60 | 7,065.00 | 7,065.00 | 7,065.00 |
-| O–1E | .............. | .............. | .............. | 4,814.70 | 5,141.10 | 5,331.30 | 5,525.70 | 5,716.50 | 5,978.10 | 5,978.10 | 5,978.10 |
+| O–3E | .............. | .............. | .............. | $7,112.40 | $7,453.80 | $7,827.90 | $8,069.10 | $8,466.60 | $8,802.60 | $8,995.20 | $9,257.70 |
+| O–2E | .............. | .............. | .............. | 6,247.20 | 6,375.30 | 6,578.10 | 6,920.70 | 7,185.90 | 7,383.00 | 7,383.00 | 7,383.00 |
+| O–1E | .............. | .............. | .............. | 5,031.30 | 5,372.40 | 5,571.30 | 5,774.40 | 5,973.60 | 6,247.20 | 6,247.20 | 6,247.20 |
 |  | Over 20 | Over 22 | Over 24 | Over 26 | Over 28 | Over 30 | Over 32 | Over 34 | Over 36 | Over 38 | Over 40 |
-| O–3E | $8,859.00 | $8,859.00 | $8,859.00 | $8,859.00 | $8,859.00 | $8,859.00 | $8,859.00 | $8,859.00 | $8,859.00 | $8,859.00 | $8,859.00 |
-| O–2E | 7,065.00 | 7,065.00 | 7,065.00 | 7,065.00 | 7,065.00 | 7,065.00 | 7,065.00 | 7,065.00 | 7,065.00 | 7,065.00 | 7,065.00 |
-| O–1E | 5,978.10 | 5,978.10 | 5,978.10 | 5,978.10 | 5,978.10 | 5,978.10 | 5,978.10 | 5,978.10 | 5,978.10 | 5,978.10 | 5,978.10 |
+| O–3E | $9,257.70 | $9,257.70 | $9,257.70 | $9,257.70 | $9,257.70 | $9,257.70 | $9,257.70 | $9,257.70 | $9,257.70 | $9,257.70 | $9,257.70 |
+| O–2E | 7,383.00 | 7,383.00 | 7,383.00 | 7,383.00 | 7,383.00 | 7,383.00 | 7,383.00 | 7,383.00 | 7,383.00 | 7,383.00 | 7,383.00 |
+| O–1E | 6,247.20 | 6,247.20 | 6,247.20 | 6,247.20 | 6,247.20 | 6,247.20 | 6,247.20 | 6,247.20 | 6,247.20 | 6,247.20 | 6,247.20 |
 
 | Warrant Officers |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pay Grade | 2 or less | Over 2 | Over 3 | Over 4 | Over 6 | Over 8 | Over 10 | Over 12 | Over 14 | Over 16 | Over 18 |
 | W–5 | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. |
-| W–4 | $5,273.10 | $5,671.50 | $5,834.40 | $5,994.60 | $6,270.60 | $6,543.60 | $6,820.20 | $7,235.40 | $7,599.90 | $7,946.70 | $8,231.10 |
-| W–3 | 4,815.60 | 5,015.70 | 5,222.10 | 5,289.00 | 5,504.40 | 5,928.90 | 6,370.80 | 6,579.00 | 6,819.90 | 7,067.40 | 7,513.80 |
-| W–2 | 4,260.90 | 4,663.80 | 4,787.70 | 4,873.20 | 5,149.20 | 5,578.50 | 5,791.80 | 6,001.20 | 6,257.40 | 6,457.80 | 6,639.00 |
-| W–1 | 3,739.80 | 4,143.00 | 4,250.70 | 4,479.60 | 4,749.90 | 5,148.30 | 5,334.30 | 5,595.30 | 5,850.90 | 6,052.20 | 6,237.60 |
+| W–4 | $5,510.40 | $5,926.80 | $6,096.90 | $6,264.30 | $6,552.90 | $6,838.20 | $7,127.10 | $7,560.90 | $7,941.90 | $8,304.30 | $8,601.60 |
+| W–3 | 5,032.20 | 5,241.30 | 5,457.00 | 5,526.90 | 5,752.20 | 6,195.60 | 6,657.60 | 6,875.10 | 7,126.80 | 7,385.40 | 7,851.90 |
+| W–2 | 4,452.60 | 4,873.80 | 5,003.10 | 5,092.50 | 5,380.80 | 5,829.60 | 6,052.50 | 6,271.20 | 6,539.10 | 6,748.50 | 6,937.80 |
+| W–1 | 3,908.10 | 4,329.30 | 4,442.10 | 4,681.20 | 4,963.50 | 5,379.90 | 5,574.30 | 5,847.00 | 6,114.30 | 6,324.60 | 6,518.40 |
 |  | Over 20 | Over 22 | Over 24 | Over 26 | Over 28 | Over 30 | Over 32 | Over 34 | Over 36 | Over 38 | Over 40 |
-| W–5 | $9,375.60 | $9,851.10 | $10,205.70 | $10,597.20 | $10,597.20 | $11,128.20 | $11,128.20 | $11,683.50 | $11,683.50 | $12,269.10 | $12,269.10 |
-| W–4 | 8,508.30 | 8,914.50 | 9,248.70 | 9,629.70 | 9,629.70 | 9,821.70 | 9,821.70 | 9,821.70 | 9,821.70 | 9,821.70 | 9,821.70 |
-| W–3 | 7,814.70 | 7,994.70 | 8,186.10 | 8,447.10 | 8,447.10 | 8,447.10 | 8,447.10 | 8,447.10 | 8,447.10 | 8,447.10 | 8,447.10 |
-| W–2 | 6,856.20 | 6,998.70 | 7,111.80 | 7,111.80 | 7,111.80 | 7,111.80 | 7,111.80 | 7,111.80 | 7,111.80 | 7,111.80 | 7,111.80 |
-| W–1 | 6,462.90 | 6,462.90 | 6,462.90 | 6,462.90 | 6,462.90 | 6,462.90 | 6,462.90 | 6,462.90 | 6,462.90 | 6,462.90 | 6,462.90 |
+| W–5 | $9,797.40 | $10,294.50 | $10,665.00 | $11,074.20 | $11,074.20 | $11,628.90 | $11,628.90 | $12,209.40 | $12,209.40 | $12,821.10 | $12,821.10 |
+| W–4 | 8,891.10 | 9,315.60 | 9,664.80 | 10,062.90 | 10,062.90 | 10,263.60 | 10,263.60 | 10,263.60 | 10,263.60 | 10,263.60 | 10,263.60 |
+| W–3 | 8,166.30 | 8,354.40 | 8,554.50 | 8,827.20 | 8,827.20 | 8,827.20 | 8,827.20 | 8,827.20 | 8,827.20 | 8,827.20 | 8,827.20 |
+| W–2 | 7,164.60 | 7,313.70 | 7,431.90 | 7,431.90 | 7,431.90 | 7,431.90 | 7,431.90 | 7,431.90 | 7,431.90 | 7,431.90 | 7,431.90 |
+| W–1 | 6,753.60 | 6,753.60 | 6,753.60 | 6,753.60 | 6,753.60 | 6,753.60 | 6,753.60 | 6,753.60 | 6,753.60 | 6,753.60 | 6,753.60 |
 
-| Enlisted Members |  |  |  |  |  |  |  |  |  |  |  |
+| Enlisted Members 1 |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pay Grade | 2 or less | Over 2 | Over 3 | Over 4 | Over 6 | Over 8 | Over 10 | Over 12 | Over 14 | Over 16 | Over 18 |
-| 1 For noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, Chief Master Sergeant of the Space Force, Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or Senior Enlisted Advisor to the Chief of the National Guard Bureau, basic pay for this grade is $10,294.80 per month, regardless of cumulative years of service under [37 U.S.C. 205](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section205&num=0&edition=prelim). |  |  |  |  |  |  |  |  |  |  |  |
-| 2 Applies to personnel who have served 4 months or more on active duty. |  |  |  |  |  |  |  |  |  |  |  |
-| 3 Applies to personnel who have served less than 4 months on active duty. |  |  |  |  |  |  |  |  |  |  |  |
-| E–9 1 | .............. | .............. | .............. | .............. | .............. | .............. | $6,370.50 | $6,514.80 | $6,696.60 | $6,910.50 | $7,127.10 |
-| E–8 | .............. | .............. | .............. | .............. | .............. | $5,214.90 | 5,445.60 | 5,588.40 | 5,759.40 | 5,944.50 | 6,279.30 |
-| E–7 | $3,624.90 | $3,956.40 | $4,108.20 | $4,308.30 | $4,465.50 | 4,734.60 | 4,886.40 | 5,155.20 | 5,379.30 | 5,532.30 | 5,694.90 |
-| E–6 | 3,135.60 | 3,450.60 | 3,603.00 | 3,750.90 | 3,904.80 | 4,252.50 | 4,387.80 | 4,649.70 | 4,729.80 | 4,788.00 | 4,856.40 |
-| E–5 | 2,872.20 | 3,065.70 | 3,214.20 | 3,365.70 | 3,601.80 | 3,848.70 | 4,052.10 | 4,076.40 | 4,076.40 | 4,076.40 | 4,076.40 |
-| E–4 | 2,633.70 | 2,768.40 | 2,918.40 | 3,066.30 | 3,197.40 | 3,197.40 | 3,197.40 | 3,197.40 | 3,197.40 | 3,197.40 | 3,197.40 |
-| E–3 | 2,377.50 | 2,526.90 | 2,680.20 | 2,680.20 | 2,680.20 | 2,680.20 | 2,680.20 | 2,680.20 | 2,680.20 | 2,680.20 | 2,680.20 |
-| E–2 | 2,261.10 | 2,261.10 | 2,261.10 | 2,261.10 | 2,261.10 | 2,261.10 | 2,261.10 | 2,261.10 | 2,261.10 | 2,261.10 | 2,261.10 |
-| E–1 2 | 2,017.20 | 2,017.20 | 2,017.20 | 2,017.20 | 2,017.20 | 2,017.20 | 2,017.20 | 2,017.20 | 2,017.20 | 2,017.20 | 2,017.20 |
-| E–1 3 | 1,865.10 | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. |
+| 1 This schedule is subject to possible future revision in light of an anticipated statutory enactment. [Editorial note: See section 601 of Pub. L. 118–159, set out as a note under [37 U.S.C. 203](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203&num=0&edition=prelim).] |  |  |  |  |  |  |  |  |  |  |  |
+| 2 For noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, Chief Master Sergeant of the Space Force, Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or Senior Enlisted Advisor to the Chief of the National Guard Bureau, basic pay for this grade is $10,758.00 per month, regardless of cumulative years of service under [37 U.S.C. 205](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section205&num=0&edition=prelim). |  |  |  |  |  |  |  |  |  |  |  |
+| 3 Applies to personnel who have served 4 months or more on active duty. |  |  |  |  |  |  |  |  |  |  |  |
+| 4 Applies to personnel who have served less than 4 months on active duty. |  |  |  |  |  |  |  |  |  |  |  |
+| E–9 2 | .............. | .............. | .............. | .............. | .............. | .............. | $6,657.30 | $6,807.90 | $6,997.80 | $7,221.60 | $7,447.80 |
+| E–8 | .............. | .............. | .............. | .............. | .............. | $5,449.50 | 5,690.70 | 5,839.80 | 6,018.60 | 6,212.10 | 6,561.90 |
+| E–7 | $3,788.10 | $4,134.30 | $4,293.00 | $4,502.10 | $4,666.50 | 4,947.60 | 5,106.30 | 5,387.10 | 5,621.40 | 5,781.30 | 5,951.10 |
+| E–6 | 3,276.60 | 3,606.00 | 3,765.00 | 3,919.80 | 4,080.60 | 4,443.90 | 4,585.20 | 4,858.80 | 4,942.50 | 5,003.40 | 5,074.80 |
+| E–5 | 3,001.50 | 3,203.70 | 3,358.80 | 3,517.20 | 3,763.80 | 4,021.80 | 4,234.50 | 4,259.70 | 4,259.70 | 4,259.70 | 4,259.70 |
+| E–4 | 2,752.20 | 2,892.90 | 3,049.80 | 3,204.30 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 |
+| E–3 | 2,484.60 | 2,640.60 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 |
+| E–2 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 |
+| E–1 3 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 |
+| E–1 4 | 1,949.10 | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. |
 |  | Over 20 | Over 22 | Over 24 | Over 26 | Over 28 | Over 30 | Over 32 | Over 34 | Over 36 | Over 38 | Over 40 |
-| E–9 1 | $7,472.10 | $7,765.20 | $8,072.70 | $8,544.00 | $8,544.00 | $8,970.30 | $8,970.30 | $9,419.40 | $9,419.40 | $9,891.30 | $9,891.30 |
-| E–8 | 6,449.10 | 6,737.40 | 6,897.30 | 7,291.20 | 7,291.20 | 7,437.30 | 7,437.30 | 7,437.30 | 7,437.30 | 7,437.30 | 7,437.30 |
-| E–7 | 5,757.90 | 5,969.70 | 6,083.10 | 6,515.70 | 6,515.70 | 6,515.70 | 6,515.70 | 6,515.70 | 6,515.70 | 6,515.70 | 6,515.70 |
-| E–6 | 4,856.40 | 4,856.40 | 4,856.40 | 4,856.40 | 4,856.40 | 4,856.40 | 4,856.40 | 4,856.40 | 4,856.40 | 4,856.40 | 4,856.40 |
-| E–5 | 4,076.40 | 4,076.40 | 4,076.40 | 4,076.40 | 4,076.40 | 4,076.40 | 4,076.40 | 4,076.40 | 4,076.40 | 4,076.40 | 4,076.40 |
-| E–4 | 3,197.40 | 3,197.40 | 3,197.40 | 3,197.40 | 3,197.40 | 3,197.40 | 3,197.40 | 3,197.40 | 3,197.40 | 3,197.40 | 3,197.40 |
-| E–3 | 2,680.20 | 2,680.20 | 2,680.20 | 2,680.20 | 2,680.20 | 2,680.20 | 2,680.20 | 2,680.20 | 2,680.20 | 2,680.20 | 2,680.20 |
-| E–2 | 2,261.10 | 2,261.10 | 2,261.10 | 2,261.10 | 2,261.10 | 2,261.10 | 2,261.10 | 2,261.10 | 2,261.10 | 2,261.10 | 2,261.10 |
-| E–1 2 | 2,017.20 | 2,017.20 | 2,017.20 | 2,017.20 | 2,017.20 | 2,017.20 | 2,017.20 | 2,017.20 | 2,017.20 | 2,017.20 | 2,017.20 |
-| E–1 3 | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. |
+| E–9 2 | $7,808.40 | $8,114.70 | $8,436.00 | $8,928.60 | $8,928.60 | $9,374.10 | $9,374.10 | $9,843.30 | $9,843.30 | $10,336.50 | $10,336.50 |
+| E–8 | 6,739.20 | 7,040.70 | 7,207.80 | 7,619.40 | 7,619.40 | 7,772.10 | 7,772.10 | 7,772.10 | 7,772.10 | 7,772.10 | 7,772.10 |
+| E–7 | 6,017.10 | 6,238.20 | 6,356.70 | 6,808.80 | 6,808.80 | 6,808.80 | 6,808.80 | 6,808.80 | 6,808.80 | 6,808.80 | 6,808.80 |
+| E–6 | 5,074.80 | 5,074.80 | 5,074.80 | 5,074.80 | 5,074.80 | 5,074.80 | 5,074.80 | 5,074.80 | 5,074.80 | 5,074.80 | 5,074.80 |
+| E–5 | 4,259.70 | 4,259.70 | 4,259.70 | 4,259.70 | 4,259.70 | 4,259.70 | 4,259.70 | 4,259.70 | 4,259.70 | 4,259.70 | 4,259.70 |
+| E–4 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 |
+| E–3 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 |
+| E–2 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 |
+| E–1 3 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 |
+| E–1 4 | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. |
 
 part ii—rate of monthly cadet or midshipman pay
 
-The rate of monthly cadet or midshipman pay authorized by [37 U.S.C. 203(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203/c&num=0&edition=prelim) is $1,339.50.
+The rate of monthly cadet or midshipman pay authorized by [37 U.S.C. 203(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203/c&num=0&edition=prelim) is $1,399.80.
 
 | Schedule 9 |  |
 | --- | --- |
 | Locality-Based Comparability Payments |  |
-| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2024) |  |
+| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2025) |  |
 | Locality Pay Area 1 | Rate |
 | 1 Locality Pay Areas are defined in 5 CFR 531.603. |  |
-| Alaska | 31.96% |
-| Albany-Schenectady, NY–MA | 20.25% |
-| Albuquerque-Santa Fe-Las Vegas, NM | 18.05% |
-| Atlanta-Athens-Clarke County-Sandy Springs, GA–AL | 23.45% |
-| Austin-Round Rock-Georgetown, TX | 19.99% |
-| Birmingham-Hoover-Talladega, AL | 17.91% |
-| Boston-Worcester-Providence, MA–RI–NH–CT–ME–VT | 31.97% |
-| Buffalo-Cheektowaga-Olean, NY | 21.99% |
-| Burlington-South Burlington-Barre, VT | 18.97% |
-| Charlotte-Concord, NC–SC | 19.26% |
-| Chicago-Naperville, IL–IN–WI | 30.41% |
-| Cincinnati-Wilmington-Maysville, OH–KY–IN | 21.69% |
-| Cleveland-Akron-Canton, OH–PA | 22.01% |
-| Colorado Springs, CO | 19.73% |
-| Columbus-Marion-Zanesville, OH | 21.80% |
-| Corpus Christi-Kingsville-Alice, TX | 17.40% |
-| Dallas-Fort Worth, TX–OK | 26.91% |
-| Davenport-Moline, IA–IL | 18.66% |
-| Dayton-Springfield-Kettering, OH | 21.14% |
-| Denver-Aurora, CO | 29.88% |
-| Des Moines-Ames-West Des Moines, IA | 17.68% |
-| Detroit-Warren-Ann Arbor, MI | 28.82% |
-| Fresno-Madera-Hanford, CA | 17.15% |
-| Harrisburg-Lebanon, PA | 19.10% |
-| Hartford-East Hartford, CT–MA | 31.62% |
-| Hawaii | 21.79% |
-| Houston-The Woodlands, TX | 34.72% |
-| Huntsville-Decatur, AL–TN | 21.48% |
-| Indianapolis-Carmel-Muncie, IN | 17.89% |
-| Kansas City-Overland Park-Kansas City, MO–KS | 18.65% |
-| Laredo, TX | 21.33% |
-| Las Vegas-Henderson, NV–AZ | 19.23% |
-| Los Angeles-Long Beach, CA | 35.84% |
-| Miami-Port St. Lucie-Fort Lauderdale, FL | 24.42% |
-| Milwaukee-Racine-Waukesha, WI | 22.15% |
-| Minneapolis-St. Paul, MN–WI | 27.15% |
-| New York-Newark, NY–NJ–CT–PA | 37.24% |
-| Omaha-Council Bluffs-Fremont, NE–IA | 17.94% |
-| Palm Bay-Melbourne-Titusville, FL | 17.60% |
-| Philadelphia-Reading-Camden, PA–NJ–DE–MD | 28.55% |
-| Phoenix-Mesa, AZ | 22.02% |
-| Pittsburgh-New Castle-Weirton, PA–OH–WV | 20.78% |
-| Portland-Vancouver-Salem, OR–WA | 25.66% |
-| Raleigh-Durham-Cary, NC | 21.90% |
-| Reno-Fernley, NV | 17.11% |
-| Richmond, VA | 21.91% |
-| Rochester-Batavia-Seneca Falls, NY | 17.35% |
-| Sacramento-Roseville, CA–NV | 29.16% |
-| San Antonio-New Braunfels-Pearsall, TX | 18.49% |
-| San Diego-Chula Vista-Carlsbad, CA | 33.05% |
-| San Jose-San Francisco-Oakland, CA | 45.41% |
-| Seattle-Tacoma, WA | 30.81% |
-| Spokane-Spokane Valley-Coeur d’Alene, WA–ID | 17.18% |
-| St. Louis-St. Charles-Farmington, MO–IL | 19.63% |
-| Tucson-Nogales, AZ | 18.92% |
-| Virginia Beach-Norfolk, VA–NC | 18.46% |
-| Washington-Baltimore-Arlington, DC–MD–VA–WV–PA | 33.26% |
-| Rest of U.S. | 16.82% |
+| Alaska | 32.36% |
+| Albany-Schenectady, NY–MA | 20.77% |
+| Albuquerque-Santa Fe-Las Vegas, NM | 18.33% |
+| Atlanta-Athens-Clarke County-Sandy Springs, GA–AL | 23.79% |
+| Austin-Round Rock-Georgetown, TX | 20.35% |
+| Birmingham-Hoover-Talladega, AL | 18.24% |
+| Boston-Worcester-Providence, MA–RI–NH–CT–ME–VT | 32.58% |
+| Buffalo-Cheektowaga-Olean, NY | 22.41% |
+| Burlington-South Burlington-Barre, VT | 19.45% |
+| Charlotte-Concord, NC–SC | 19.67% |
+| Chicago-Naperville, IL–IN–WI | 30.86% |
+| Cincinnati-Wilmington-Maysville, OH–KY–IN | 21.93% |
+| Cleveland-Akron-Canton, OH–PA | 22.23% |
+| Colorado Springs, CO | 20.15% |
+| Columbus-Marion-Zanesville, OH | 22.15% |
+| Corpus Christi-Kingsville-Alice, TX | 17.63% |
+| Dallas-Fort Worth, TX–OK | 27.26% |
+| Davenport-Moline, IA–IL | 18.93% |
+| Dayton-Springfield-Kettering, OH | 21.42% |
+| Denver-Aurora, CO | 30.52% |
+| Des Moines-Ames-West Des Moines, IA | 18.01% |
+| Detroit-Warren-Ann Arbor, MI | 29.12% |
+| Fresno-Madera-Hanford, CA | 17.65% |
+| Harrisburg-Lebanon, PA | 19.43% |
+| Hartford-East Hartford, CT–MA | 32.08% |
+| Hawaii | 22.21% |
+| Houston-The Woodlands, TX | 35.00% |
+| Huntsville-Decatur, AL–TN | 21.91% |
+| Indianapolis-Carmel-Muncie, IN | 18.15% |
+| Kansas City-Overland Park-Kansas City, MO–KS | 18.97% |
+| Laredo, TX | 21.59% |
+| Las Vegas-Henderson, NV–AZ | 19.57% |
+| Los Angeles-Long Beach, CA | 36.47% |
+| Miami-Port St. Lucie-Fort Lauderdale, FL | 24.67% |
+| Milwaukee-Racine-Waukesha, WI | 22.42% |
+| Minneapolis-St. Paul, MN–WI | 27.62% |
+| New York-Newark, NY–NJ–CT–PA | 37.95% |
+| Omaha-Council Bluffs-Fremont, NE–IA | 18.23% |
+| Palm Bay-Melbourne-Titusville, FL | 17.93% |
+| Philadelphia-Reading-Camden, PA–NJ–DE–MD | 28.99% |
+| Phoenix-Mesa, AZ | 22.45% |
+| Pittsburgh-New Castle-Weirton, PA–OH–WV | 21.03% |
+| Portland-Vancouver-Salem, OR–WA | 26.13% |
+| Raleigh-Durham-Cary, NC | 22.24% |
+| Reno-Fernley, NV | 17.52% |
+| Richmond, VA | 22.28% |
+| Rochester-Batavia-Seneca Falls, NY | 17.88% |
+| Sacramento-Roseville, CA–NV | 29.76% |
+| San Antonio-New Braunfels-Pearsall, TX | 18.78% |
+| San Diego-Chula Vista-Carlsbad, CA | 33.72% |
+| San Jose-San Francisco-Oakland, CA | 46.34% |
+| Seattle-Tacoma, WA | 31.57% |
+| Spokane-Spokane Valley-Coeur d’Alene, WA–ID | 17.67% |
+| St. Louis-St. Charles-Farmington, MO–IL | 20.03% |
+| Tucson-Nogales, AZ | 19.28% |
+| Virginia Beach-Norfolk, VA–NC | 18.80% |
+| Washington-Baltimore-Arlington, DC–MD–VA–WV–PA | 33.94% |
+| Rest of U.S. | 17.06% |
 
 | Schedule 10 |  |
 | --- | --- |
 | Administrative Law Judges |  |
-| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2024) |  |
+| (Effective on the first day of the first applicable pay period beginning on or after January 1, 2025) |  |
 | 1 Pursuant to [5 U.S.C. 5372(b)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5372/b/1/C&num=0&edition=prelim), the rate of basic pay for AL–1 may not exceed the rate for level IV of the Executive Schedule. |  |
-| AL–3/A | $128,200 |
-| AL–3/B | 138,000 |
-| AL–3/C | 147,900 |
-| AL–3/D | 157,900 |
-| AL–3/E | 167,900 |
-| AL–3/F | 177,600 |
-| AL–2 | 187,300 |
-| AL–1 1 | 191,900 |
+| AL–3/A | $130,400 |
+| AL–3/B | 140,300 |
+| AL–3/C | 150,400 |
+| AL–3/D | 160,600 |
+| AL–3/E | 170,800 |
+| AL–3/F | 180,600 |
+| AL–2 | 190,500 |
+| AL–1 1 | 195,200 |
 
 #### Prior adjustments of certain rates of pay were contained in the following:
+Ex. Ord. No. 14113, Dec. 21, 2023, 88 F.R. 89259, effective Jan. 1, 2024, superseded by Ex. Ord. No. 14132.
+
 Ex. Ord. No. 14090, Dec. 23, 2022, 87 F.R. 79985, effective Jan. 1, 2023, superseded by Ex. Ord. No. 14113.
 
 Ex. Ord. No. 14061, Dec. 22, 2021, 86 F.R. 73601, effective Jan. 1, 2022, superseded by Ex. Ord. No. 14090.
@@ -3964,6 +3984,85 @@ This memorandum shall be carried out to the extent permitted by law and consiste
 The Director of the Office of Personnel Management shall issue any necessary guidance on implementing this memorandum, and is also hereby authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.
+
+
+<a id="section-5332a"></a>
+## § 5332a. Special base rates of pay for wildland firefighters
+**(a) Definitions.—** In this section—
+
+(1) the term “firefighter” means an employee who—
+
+  (A) is a firefighter within the meaning of section 8331(21) or section 8401(14);
+
+  (B) in the case of an employee who holds a supervisory or administrative position and is subject to subchapter III of chapter 83, but who does not qualify to be considered a firefighter within the meaning of section 8331(21), would otherwise qualify if the employee had transferred directly to that position after serving as a firefighter within the meaning of that section;
+
+  (C) in the case of an employee who holds a supervisory or administrative position and is subject to chapter 84, but who does not qualify to be considered a firefighter within the meaning of section 8401(14), would otherwise qualify if the employee had transferred directly to that position after performing duties described in section 8401(14)(A) for at least 3 years; or
+
+  (D) in the case of an employee who is not subject to subchapter III of chapter 83 or chapter 84, holds a position that the Office of Personnel Management determines would satisfy subparagraph (A), (B), or (C) if the employee were subject to subchapter III of chapter 83 or chapter 84;
+
+(2) the term “General Schedule base rate” means an annual rate of basic pay established under section 5332 before any additions, such as a locality-based comparability payment under section 5304 or 5304a or a special rate supplement under section 5305;
+
+(3) the term “special base rate” means an annual rate of basic pay payable to a wildland firefighter, before any additions or reductions, that replaces the General Schedule base rate otherwise applicable to the wildland firefighter and that is administered in the same manner as a General Schedule base rate; and
+
+(4) the term “wildland firefighter” means a firefighter—
+
+  (A) who is employed by the Forest Service or the Department of the Interior; and
+
+  (B) the duties of the position of whom primarily relate to fires occurring in forests, range lands, or other wildlands, as opposed to structural fires.
+
+**(b) Special Base Rates of Pay.—**
+
+(1) **Entitlement to special rate.—** — Notwithstanding section 5332, a wildland firefighter is entitled to a special base rate at grades 1 through 15, which shall—
+
+  (A) replace the otherwise applicable General Schedule base rate for the wildland firefighter;
+
+  (B) be basic pay for all purposes, including the purpose of computing a locality-based comparability payment under section 5304 or 5304a; and
+
+  (C) be computed as described in paragraph (2) and adjusted at the time of adjustments in the General Schedule.
+
+(2) **Computation.—**
+
+  (A) *In general.—* — The special base rate for a wildland firefighter shall be derived by increasing the otherwise applicable General Schedule base rate for the wildland firefighter by the following applicable percentage for the grade of the wildland firefighter and rounding the result to the nearest whole dollar:
+
+    (i) For GS–1, 42 percent.
+
+    (ii) For GS–2, 39 percent.
+
+    (iii) For GS–3, 36 percent.
+
+    (iv) For GS–4, 33 percent.
+
+    (v) For GS–5, 30 percent.
+
+    (vi) For GS–6, 27 percent.
+
+    (vii) For GS–7, 24 percent.
+
+    (viii) For GS–8, 21 percent.
+
+    (ix) For GS–9, 18 percent.
+
+    (x) For GS–10, 15 percent.
+
+    (xi) For GS–11, 12 percent.
+
+    (xii) For GS–12, 9 percent.
+
+    (xiii) For GS–13, 6 percent.
+
+    (xiv) For GS–14, 3 percent.
+
+    (xv) For GS–15, 1.5 percent.
+
+  (B) *Hourly, daily, weekly, or biweekly rates.—* — When the special base rate with respect to a wildland firefighter is expressed as an hourly, daily, weekly, or biweekly rate, the special base rate shall be computed from the appropriate annual rate of basic pay derived under subparagraph (A) in accordance with the rules under section 5504(b).
+
+### Statutory Notes
+
+#### Codification
+Section is based on section 456(a) of H.R. 8998, from the 118th Congress (Department of the Interior, Environment, and Related Congress, Agencies Appropriations Act, 2025), as passed by the House of Representatives on July 24, 2024, which was enacted into law by section 1807 of div. A of Pub. L. 119–4.
+
+#### Effective Date
+Section 456(d) of H.R. 8998, from the 118th Congress, as passed by the House of Representatives on July 24, 2024, which was enacted into law by Pub. L. 119–4, div. A, title VIII, § 1807, Mar. 15, 2025, 139 Stat. 30, provided that: “The amendments made by this section [enacting this section, amending [section 5343 of this title](./chapter-053-pay-rates-and-systems.md#section-5343), and enacting provisions set out as a note under [section 6592 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6592&num=0&edition=prelim), Conservation] shall take effect on the first day of the first applicable pay period beginning on or after either October 1, 2024 or the date of enactment of this Act [Mar. 15, 2025], whichever is later.”
 
 
 <a id="section-5333"></a>
@@ -4577,10 +4676,21 @@ Virgin Islands Corporation established to have succession until June 30, 1969, u
 (2) amounting to 10 percent of that scheduled rate for regularly scheduled nonovertime work a majority of the hours of which occur between 11 p.m. and 8 a.m.
 A night differential under this subsection is a part of basic pay.
 
+**(g)**
+
+(1) For a prevailing rate employee described in section 5342(a)(2)(A) who is a wildland firefighter, as defined in section 5332a(a), the Secretary of Agriculture or the Secretary of the Interior (as applicable) shall increase the wage rates of that employee by an amount (determined at the sole and exclusive discretion of the applicable Secretary after consultation with the other Secretary) that is generally consistent with the percentage increases given to wildland firefighters in the General Schedule under section 5332a.
+
+(2) An increased wage rate under paragraph (1) shall be basic pay for the same purposes as the wage rate otherwise established under this section.
+
+(3) An increase under this subsection may not cause the wage rate of an employee to increase to a rate that would produce an annualized rate in excess of the annual rate for level IV of the Executive Schedule.
+
 ### Statutory Notes
 
 #### References in Text
 The Occupational Safety and Health Act of 1970, referred to in subsec. (c)(4), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
+
+#### Codification
+Amendment by Pub. L. 119–4 is based on section 456(c) of H.R. 8998, from the 118th Congress (Department of the Interior, Environment, and Related Congress, Agencies Appropriations Act, 2025), as passed by the House of Representatives on July 24, 2024, which was enacted into law by section 1807 of div. A of Pub. L. 119–4.
 
 #### Prior Provisions
 A prior section 5343, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471, related to effective date of pay increases and is covered by [section 5344(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5344/a&num=0&edition=prelim).
@@ -4588,6 +4698,8 @@ A prior section 5343, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471, related to 
 Provisions similar to those comprising part of first sentence of subsec. (c) and subsec. (d) of this section were contained in Pub. L. 90–560, § 4, Oct. 12, 1968, 82 Stat. 997 (formerly classified to [section 5341(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5341/c&num=0&edition=prelim)) prior to the general amendment of this subchapter by section 1(a) of Pub. L. 92–392.
 
 #### Amendments
+2025—Subsec. (g). Pub. L. 119–4 added subsec. (g).
+
 2003—Subsec. (c)(4). Pub. L. 108–136 inserted before semicolon at end “, and for any hardship or hazard related to asbestos, such differentials shall be determined by applying occupational safety and health standards consistent with the permissible exposure limit promulgated by the Secretary of Labor under the Occupational Safety and Health Act of 1970”.
 
 2001—Subsec. (d)(2). Pub. L. 107–107 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “When the lead agency determines that there is a number of comparable positions in private industry insufficient to establish the wage schedules and rates, such agency shall—
@@ -4607,6 +4719,9 @@ Provisions similar to those comprising part of first sentence of subsec. (c) and
 1979—Subsec. (a)(5). Pub. L. 96–70 substituted “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone”.
 
 1978—Subsecs. (a) to (c), (e)(3). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–4 effective the first day of the first applicable pay period beginning on or after Mar. 15, 2025, see section 456(d) of H.R. 8998 from the 118th Congress, as passed by the House of Representatives on July 24, 2024, set out as an Effective Date note under [section 5332a of this title](./chapter-053-pay-rates-and-systems.md#section-5332a).
 
 #### Effective Date of 2003 Amendment
 Pub. L. 108–136, div. A, title XI, § 1122(c), Nov. 24, 2003, 117 Stat. 1637, provided that: “Subject to any vested constitutional property rights, any administrative or judicial determination after the date of the enactment of this Act [Nov. 24, 2003] concerning backpay for a differential established under sections 5343(c)(4) or 5545(d) of such title [this title] shall be based on occupational safety and health standards described in the amendments made by subsections (a) and (b) [amending this section and [section 5545 of this title](./chapter-055-pay-administration.md#section-5545)].”
@@ -4883,13 +4998,19 @@ Section effective on first day of first applicable pay period beginning on or af
 
 <a id="section-5348"></a>
 ## § 5348. Crews of vessels
-**(a)** Except as provided by subsection (b) of this section, the pay of officers and members of crews of vessels excepted from chapter 51 of this title by [section 5102(c)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5102/c/8&num=0&edition=prelim) shall be fixed and adjusted from time to time as nearly as is consistent with the public interest in accordance with prevailing rates and practices in the maritime industry.
+**(a)** Except as provided by subsection (c), the pay of officers and members of crews of vessels excepted from chapter 51 of this title by [section 5102(c)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5102/c/8&num=0&edition=prelim) shall be fixed and adjusted from time to time as nearly as is consistent with the public interest in accordance with prevailing rates and practices in the maritime industry, not to exceed the rate of pay for the Vice President under [section 104 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim).
 
-**(b)** Vessel employees in an area where inadequate maritime industry practice exists and vessel employees of the Corps of Engineers shall have their pay fixed and adjusted under the provisions of this subchapter other than this section, as appropriate.
+**(b)** The aggregate pay limitation prescribed under section 5307 shall not apply to an employee whose pay is fixed under subsection (a).
+
+**(c)** Vessel employees in an area where inadequate maritime industry practice exists and vessel employees of the Corps of Engineers shall have their pay fixed and adjusted under the provisions of this subchapter other than this section, as appropriate.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 1104(1), substituted “subsection (c)” for “subsection (b) of this section” and inserted “, not to exceed the rate of pay for the Vice President under [section 104 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim)” before period at end.
+
+Subsecs. (b), (c). Pub. L. 119–60, § 1104(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
+
 1996—Subsec. (a). Pub. L. 104–201, § 3548(a)(3)(C)(iii), substituted “subsection (b)” for “subsections (b) and (c)”.
 
 Subsecs. (b), (c). Pub. L. 104–201, § 3548(a)(3)(C)(i), (ii), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Vessel employees of the Panama Canal Commission may be paid in accordance with the wage practices of the maritime industry.”

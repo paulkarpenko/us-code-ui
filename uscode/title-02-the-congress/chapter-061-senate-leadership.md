@@ -2,7 +2,7 @@
 title: 2
 chapter: '61'
 heading: SENATE LEADERSHIP
-section_count: 28
+section_count: 29
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -516,9 +516,7 @@ Section was formerly classified to [section 61g–6b of this title](./chapter-00
 Section is from the Legislative Branch Appropriations Act, 2008, which is div. H of the Consolidated Appropriations Act, 2008.
 
 #### Senate Democratic Leadership Offices Funding and Authorities
-Pub. L. 116–260, div. I, title I, § 104, Dec. 27, 2020, 134 Stat. 1631, as amended by Pub. L. 117–328, div. I, title I, § 103(a), Dec. 29, 2022, 136 Stat. 4917, provided that: “(a) In this section—“(1) the term ‘applicable conference’ means the majority or minority conference of the Senate, as applicable, that represents the Democratic party; “(2) the term ‘covered Congress’ means the 118th Congress; “(3) the term ‘covered period’ means the period beginning on the date on which the Secretary of the applicable conference submits the letter described in subsection (b) and ending on January 7, 2025; and “(4) the term ‘designated officer of the applicable conference’ means the member of the leadership of the applicable conference to whom the duties and authorities of the Secretary of the applicable conference are assigned under subsection (b). “(b) The Secretary of the applicable conference may, by submission of a letter to the Disbursing Office of the Senate on or after January 3, 2023, at the direction of the Chair of the applicable conference, assign to a member of the leadership of the applicable conference the following duties and authorities for the duration of the covered Congress:“(1) The authority over any amounts made available for the Office of the Secretary of the applicable conference. “(2) The duties and authorities of the Secretary of the applicable conference under section 3 of title I of division H of the Consolidated Appropriations Act, 2008 ([2 U.S.C. 6154](./chapter-061-senate-leadership.md#section-6154)), section 102 of chapter VIII of title I of the Supplemental Appropriations Act, 1979 ([2 U.S.C. 6156](./chapter-061-senate-leadership.md#section-6156)), or any other provision of law. “(c) For purposes of any individual employed by the office of the designated officer of the applicable conference during the covered period—“(1) any reference to the Office of the Secretary of the applicable conference in the last sentence of section 506(e) of the Supplemental Appropriations Act, 1973 ([2 U.S.C. 6314(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section6314/e&num=0&edition=prelim)) shall be deemed to refer to the office of the designated officer of the applicable conference; “(2) any reference to the Office of the Secretary of the applicable conference under subsection (b) of the first section of S. Res. 458 (98th Congress) shall be deemed to refer to the office of the designated officer of the applicable conference; and “(3) any reference to the Secretary of the applicable conference under [section 207(e)(9)(M) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207/e/9/M&num=0&edition=prelim), United States Code, shall be deemed to refer to the designated officer of the applicable conference. “(d) For purposes of any individual employed by the office of the designated officer of the applicable conference during the covered period and with respect to any practice that occurs during the covered period, any reference to the Office of the Secretary of the applicable conference under section 220(e)(2)(C) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1351(e)(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1351/e/2/C&num=0&edition=prelim)) shall be deemed to be a reference to the office of the designated officer of the applicable conference. “(e) Nothing in this section shall be construed to have any effect on the continuation of any procedure or action initiated under the Congressional Accountability Act of 1995 ([2 U.S.C. 1301](./chapter-024-congressional-accountability.md#section-1301) et seq.) or [section 207 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207&num=0&edition=prelim), United States Code.”
-
-[Pub. L. 117–328, div. I, title I, § 103(b), Dec. 29, 2022, 136 Stat. 4918, provided that: “The amendments made by subsection (a) [amending section 104 of Pub. L. 116–260, set out above] shall take effect on January 3, 2023.” ]
+Pub. L. 116–260, div. I, title I, § 104, Dec. 27, 2020, 134 Stat. 1631, as amended by Pub. L. 117–328, div. I, title I, § 103(a), Dec. 29, 2022, 136 Stat. 4917; Pub. L. 119–37, div. C, title I, § 102, Nov. 12, 2025, 139 Stat. 566, which provided for Senate Democratic leadership offices funding and authorities and was formerly set out as a note under this section, was transferred to [section 6161 of this title](./chapter-061-senate-leadership.md#section-6161).
 
 
 <a id="section-6155"></a>
@@ -657,3 +655,66 @@ Section is from the Congressional Operations Appropriations Act, 2001, which is 
 
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–7 applicable to fiscal year 2003 and each fiscal year thereafter, see section 1(f) of Pub. L. 108–7, set out as a note under [section 6102 of this title](./chapter-061-senate-leadership.md#section-6102).
+
+
+<a id="section-6161"></a>
+## § 6161. Senate Democratic Leadership Offices Funding and Authorities
+**(a)** In this section—
+
+(1) the term “applicable conference” means the majority or minority conference of the Senate, as applicable, that represents the Democratic party;
+
+(2) the term “covered Congress” means the 118th and any subsequent Congress;
+
+(3) the term “covered period” means the period beginning on the date on which the Secretary of the applicable conference submits the letter described in subsection (b); and
+
+(4) the term “designated officer of the applicable conference” means the member of the leadership of the applicable conference to whom the duties and authorities of the Secretary of the applicable conference are assigned under subsection (b).
+
+**(b)** The Secretary of the applicable conference may, by submission of a letter to the Disbursing Office of the Senate, at the direction of the Chair of the applicable conference, assign to a member of the leadership of the applicable conference the following duties and authorities for the duration of the covered Congress:
+
+(1) The authority over any amounts made available for the Office of the Secretary of the applicable conference.
+
+(2) The duties and authorities of the Secretary of the applicable conference under [section 6154 of this title](./chapter-061-senate-leadership.md#section-6154), [section 6156 of this title](./chapter-061-senate-leadership.md#section-6156), or any other provision of law.
+
+**(c)** For purposes of any individual employed by the office of the designated officer of the applicable conference during the covered period—
+
+(1) any reference to the Office of the Secretary of the applicable conference in the last sentence of [section 6314(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section6314/e&num=0&edition=prelim) shall be deemed to refer to the office of the designated officer of the applicable conference;
+
+(2) any reference to the Office of the Secretary of the applicable conference under subsection (b) of the first section of S. Res. 458 (98th Congress) shall be deemed to refer to the office of the designated officer of the applicable conference; and
+
+(3) any reference to the Secretary of the applicable conference under [section 207(e)(9)(M) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207/e/9/M&num=0&edition=prelim) shall be deemed to refer to the designated officer of the applicable conference.
+
+**(d)** For purposes of any individual employed by the office of the designated officer of the applicable conference during the covered period and with respect to any practice that occurs during the covered period, any reference to the Office of the Secretary of the applicable conference under section 220(e)(2)(C) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1351(e)(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1351/e/2/C&num=0&edition=prelim)) shall be deemed to be a reference to the office of the designated officer of the applicable conference.
+
+**(e)** Nothing in this section shall be construed to have any effect on the continuation of any procedure or action initiated under the Congressional Accountability Act of 1995 ([2 U.S.C. 1301](./chapter-024-congressional-accountability.md#section-1301) et seq.) or [section 207 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207&num=0&edition=prelim), United States Code.
+
+### Statutory Notes
+
+#### References in Text
+The Congressional Accountability Act of 1995, referred to in subsec. (e), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to chapter 24 (§ 1301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
+
+#### Codification
+Section was formerly set out as a note under [section 6154 of this title](./chapter-061-senate-leadership.md#section-6154).
+
+#### Amendments
+2025—Subsec. (a)(2). Pub. L. 119–37, § 102(1), inserted “and any subsequent” after “the 118th”.
+
+Subsec. (a)(3). Pub. L. 119–37, § 102(2), struck out “and ending on January 7, 2025” after “described in subsection (b)”.
+
+Subsec. (b). Pub. L. 119–37, § 102(3), struck out “on or after January 3, 2023” after “Disbursing Office of the Senate” in introductory provisions.
+
+2022—Subsec. (a)(2). Pub. L. 117–328, § 103(a)(2)(A), substituted “means the 118th Congress;” for “means the 117th Congress; and”.
+
+Subsec. (a)(3). Pub. L. 117–328, § 103(a)(2)(B), substituted “and ending on January 7, 2025; and” for “and ending on January 3, 2023.”
+
+Subsec. (a)(4). Pub. L. 117–328, § 103(a)(2)(C), added par. (4).
+
+Subsec. (b). Pub. L. 117–328, 103(a)(3), substituted “January 3, 2023, at the direction of the Chair of the applicable conference, assign to a member of the leadership of the applicable conference” for “January 3, 2021, assign to the Assistant Leader of the applicable conference” in introductory provisions.
+
+Subsec. (c). Pub. L. 117–328, 103(a)(1), substituted “office of the designated officer” for “Office of the Assistant Leader” wherever appearing.
+
+Subsec. (c)(3). Pub. L. 117–328, 103(a)(4), substituted “designated officer” for “Assistant Leader”.
+
+Subsec. (d). Pub. L. 117–328, 103(a)(1), substituted “office of the designated officer” for “Office of the Assistant Leader” in two places.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. I, title I, § 103(b), Dec. 29, 2022, 136 Stat. 4918, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 3, 2023.”

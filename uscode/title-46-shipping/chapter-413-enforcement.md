@@ -28,7 +28,7 @@ In subsection (a), the words “If the complaint is filed within 3 years after t
 
 <a id="section-41302"></a>
 ## § 41302. Investigations
-**(a) In General.—** The Federal Maritime Commission, on complaint or its own motion, may investigate any conduct 11 So in original. Probably should be followed by a comma. agreement, fee, or charge that the Commission believes may be in violation of this part. The Commission may by order disapprove, cancel, or modify any agreement that operates in violation of this part.
+**(a) In General.—** The Federal Maritime Commission, on complaint or its own motion, may investigate any conduct, agreement, fee, or charge that the Commission believes may be in violation of this part. The Commission may by order disapprove, cancel, or modify any agreement that operates in violation of this part.
 
 **(b) Effectiveness of Agreement, Fee, or Charge During Investigation.—** Unless an injunction is issued under section 41306 or 41307 of this title, an agreement, fee, or charge under investigation by the Commission remains in effect until the Commission issues its order.
 
@@ -50,6 +50,8 @@ In subsection (a), the words “If the complaint is filed within 3 years after t
 | 41302(e) | 46 App.:1710(f). |  |
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159 substituted “conduct, agreement” for “conduct agreement”.
+
 2022—Subsec. (a). Pub. L. 117–146, § 11(a)(1), substituted “agreement, fee, or charge” for “or agreement”.
 
 Subsec. (b). Pub. L. 117–146, § 11(a)(2)(B), inserted “, fee, or charge” after “agreement”.
@@ -108,7 +110,7 @@ In subsection (a), the words “upon sworn complaint or on its own motion” are
 
 **(b) Basic Amount.—** If the complaint was filed within the period specified in [section 41301(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41301/a&num=0&edition=prelim), the Federal Maritime Commission shall direct the payment of reparations to the complainant for actual injury caused by a violation of this part.
 
-**(c) Additional Amounts.—** On a showing that the injury was caused by an activity prohibited by section subsection 11 So in original. (b) or (c) of section 41102, paragraph (3) or (6) of section 41104(a), or paragraph (1) or (3) of section 41105, the Commission may order the payment of additional amounts, but the total recovery of a complainant may not exceed twice the amount of the actual injury.
+**(c) Additional Amounts.—** On a showing that the injury was caused by an activity prohibited by subsection (b) or (c) of section 41102, paragraph (3) or (6) of section 41104(a), or paragraph (1) or (3) of section 41105, the Commission may order the payment of additional amounts, but the total recovery of a complainant may not exceed twice the amount of the actual injury.
 
 **(d) Difference Between Rates.—** If the injury was caused by an activity prohibited by subparagraph (A) or (B) of section 41104(a)(4), the amount of the injury shall be the difference between the rate paid by the injured shipper and the most favorable rate paid by another shipper.
 
@@ -124,6 +126,8 @@ In subsection (a), the words “upon sworn complaint or on its own motion” are
 In subsection (b), the words “within the period specified in [section 41301(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41301/a&num=0&edition=prelim)” are substituted for “within 3 years after the cause of action accrued” because the time limit is restated in section 41301(a) instead of in this section. The words “upon petition of the complainant” are omitted as unnecessary. The words “after notice and hearing” are omitted as unnecessary because of section 41304(a) of the revised title.
 
 #### Amendments
+2024—Subsec. (c). Pub. L. 118–159 substituted “subsection” for “section subsection”.
+
 2022—Subsec. (c). Pub. L. 117–146, § 15(c)(1), substituted “paragraph (3) or (6) of section 41104(a), or paragraph (1) or (3) of section 41105” for “41104(3) or (6), or 41105(1) or (3) of this title”.
 
 Pub. L. 117–146, § 12, substituted “subsection (b) or (c) of section 41102” for “41102(b)”.

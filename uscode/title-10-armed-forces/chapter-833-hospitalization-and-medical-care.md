@@ -31,7 +31,7 @@ In subsection (c) the words “each retired enlisted member of the naval service
 A prior section 8281 was renumbered [section 9151 of this title](./chapter-915-appointments-in-the-regular-air-force-and-in-the-space-force.md#section-9151).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6201&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6201 of this title](./chapter-604-defense-environmental-cleanup-matters.md#section-6201) as this section.
 
 1980—Subsec. (b). Pub. L. 96–513 substituted “section 4812 of the Revised Statutes ([24 U.S.C. 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title24-section16&num=0&edition=prelim))” for “[section 16 of title 24](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title24-section16&num=0&edition=prelim)”.
 
@@ -59,7 +59,7 @@ A member of the naval service who becomes insane may be placed in the hospital f
 The words “that * * * will provide the most beneficial treatment” are substituted for the words “best calculated to promise a restoration of reason” for clarity. The second sentence of [34 U.S.C. 595](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section595&num=0&edition=prelim) is omitted as superseded. It provided a method by which the Secretary of the Navy, in his discretion, could compensate other agencies for expenses involved in hospitalizing insane naval patients. Other provisions of law, principally [24 U.S.C. 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title24-section31&num=0&edition=prelim), [31 U.S.C. 686](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section686&num=0&edition=prelim), and [37 U.S.C. 284](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section284&num=0&edition=prelim), and regulations, principally Executive Order 10122, of April 14, 1950, establish the method currently used.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6202 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6202&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6202 of this title](./chapter-604-defense-environmental-cleanup-matters.md#section-6202) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -88,7 +88,7 @@ Section 8284, act Aug. 10, 1956, ch. 1041, 70A Stat. 507, provided that appointm
 Section 8285, acts Aug. 10, 1956, ch. 1041, 70A Stat. 507; Aug. 21, 1957, Pub. L. 85–155, title III, § 301(4), 71 Stat. 386; Sept. 2, 1958, Pub. L. 85–861, § 1(167), 72 Stat. 1516, prescribed eligibility requirements for original appointment in a commissioned grade in Regular Air Force, except designation as a medical or dental officer and except a graduating cadet. See [section 532 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-532).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6203 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6203&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6203 of this title](./chapter-604-defense-environmental-cleanup-matters.md#section-6203) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

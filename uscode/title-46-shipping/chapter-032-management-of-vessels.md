@@ -55,7 +55,7 @@ For International Conventions for the Safety of Life at Sea to which the United 
 
 (1)
 
-  (A) is transporting more than 12 passengers described in [section 2101(29)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/29/A&num=0&edition=prelim); or
+  (A) is transporting more than 12 passengers described in [section 2101(31)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/31/A&num=0&edition=prelim); or
 
   (B) is of at least 500 gross tons as measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) and is a tanker, freight vessel, bulk freight vessel, high speed freight vessel, or self-propelled mobile offshore drilling unit; and
 
@@ -95,6 +95,8 @@ For International Conventions for the Safety of Life at Sea to which the United 
 The date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, referred to in subsec. (b)(2), is the date of enactment of div. G of Pub. L. 116–283, which was approved Jan. 1, 2021.
 
 #### Amendments
+2025—Subsec. (a)(1)(A). Pub. L. 119–60 substituted “section 2101(31)(A)” for “section 2101(29)(A)”.
+
 2021—Subsec. (b). Pub. L. 116–283 designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1) and realigned margins, and added par. (2).
 
 2018—Subsec. (a)(1)(A). Pub. L. 115–232 substituted “section 2101(29)(A)” for “section 2101(21)(A)”.

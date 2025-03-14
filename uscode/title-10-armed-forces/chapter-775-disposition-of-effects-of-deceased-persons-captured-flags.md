@@ -2,7 +2,7 @@
 title: 10
 chapter: '775'
 heading: DISPOSITION OF EFFECTS OF DECEASED PERSONS; CAPTURED FLAGS
-section_count: 2
+section_count: 3
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -123,3 +123,32 @@ The words “from time to time”, “collected”, and “at the seat of govern
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
+<a id="section-7715"></a>
+## § 7715. Army museum system
+**(a) In General.—** The Secretary of the Army shall support a system of official Army museums within the United States Army Center of Military History. Such system shall include the National Museum of the United States Army and may contain other museums honoring individual installations, units, and branches, as designated by the Secretary of the Army, that meet criteria established under subsection (b).
+
+**(b) Criteria for Designation.—** The Secretary of the Army shall establish criteria for designating museums of subsection (a) for inclusion in the Army museum system. Such criteria shall include—
+
+(1) historical significance to Army operations, technology, or personnel;
+
+(2) public accessibility and educational outreach programs; and
+
+(3) alignment with the mission of the Army to preserve its heritage.
+
+**(c) Criteria for Closure.—** The Secretary of the Army shall establish criteria for closing museums within the Army museum system. No museum within such system may be closed until—
+
+(1) the Secretary of the Army submits to the Committees on Armed Services of the House of Representatives and the Senate notice that includes—
+
+  (A) a plan for the preservation, storage, or alternate display of historical collections contained in the museum;
+
+  (B) how any issues relating to museum personnel will be resolved;
+
+  (C) an identification of any efforts to maintain museum operations through public-private partnerships; and
+
+  (D) an analysis of the cost to transport, consolidate, and preserve the historical collections contained in the museum; and
+
+(2) a period of 90 days has elapsed after the date on which such notice is received by such committees.
+
+**(d) Funding and Support.—** Consistent with applicable law, the Secretary may enter into partnerships, including with nonprofit organizations, to enhance the financial sustainability and public engagement of the museums in the Army museum system.

@@ -2,202 +2,211 @@
 title: 50
 chapter: '55'
 heading: DEFENSE PRODUCTION
-section_count: 33
+section_count: 43
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
 <a id="section-4501"></a>
-## § 4501. Defense Production Act Committee
-**(a) Committee established** There is established the Defense Production Act Committee (in this section referred to as the “Committee”), which shall coordinate and plan for on 11 So in original. The word “on” probably should not appear. the effective use of the priorities and allocations authorities under this chapter by the departments, agencies, and independent establishments of the Federal Government to which the President has delegated authority under this chapter.
+## § 4501. Exemption from disclosure
+**(a) In general** Except as provided in subsection (b), any information or documentary material filed with the Secretary or the Secretary’s designee pursuant to this subchapter shall be exempt from disclosure under [section 552(b)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/3&num=0&edition=prelim), and no such information or documentary material may be made public.
 
-**(b) Membership**
+**(b) Exceptions** Subsection (a) shall not prohibit the disclosure of the following, subject to appropriate confidentiality and classification requirements:
 
-(1) **In general.—** — The members of the Committee shall be—
+(1) Information relevant to any administrative or judicial action or proceeding.
 
-  (A) the head of each Federal agency to which the President has delegated authority under this chapter; and
+(2) Information to Congress or any duly authorized committee or subcommittee of Congress.
 
-  (B) the Chairperson of the Council of Economic Advisors.
+(3) Information important to the national security analysis or actions of the Secretary to any domestic governmental entity, or to any foreign governmental entity of a United States ally or partner, under the exclusive direction and authorization of the Secretary, only to the extent necessary for national security purposes, and subject to appropriate confidentiality and classification requirements.
 
-(2) The Chairperson of the Committee shall be the head of the agency to which the President has delegated primary responsibility for government-wide coordination of the authorities in this chapter.
+(4) Identity of a covered foreign person in the public database described in [section 4585 of this title](./chapter-055-defense-production.md#section-4585).
 
-**(c) Coordination of Committee activities** The Chairperson shall appoint one person to coordinate all of the activities of the Committee, and such person shall—
+(5) Information that the parties have consented to be disclosed to third parties.
 
-(1) be a full-time employee of the Federal Government;
-
-(2) report to the Chairperson; and
-
-(3) carry out such activities relating to the Committee as the Chairperson may determine appropriate.
-
-**(d) Report** The Committee shall issue a report each year by March 31 to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report signed by the Chairperson that contains—
-
-(1) a description of the contingency planning by each department, agency, or independent establishment of the Federal Government to which the President has delegated authority under this chapter for events that might require the use of the priorities and allocations authorities;
-
-(2) recommendations for the effective use of the priorities and allocations authorities in this chapter in a manner consistent with the statement of policy under [section 4502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4502/b&num=0&edition=prelim);
-
-(3) recommendations for legislation actions, as appropriate, to support the effective use of the priorities and allocations authorities in this chapter;
-
-(4) recommendations for improving information sharing between departments, agencies, and independent establishments of the Federal Government relating to the use of the priorities and allocations authorities in this chapter;
-
-(5) up-to-date copies of the rules described under [section 4511(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4511/d/1&num=0&edition=prelim); and
-
-(6) short attestations signed by each member of the Committee stating their concurrence in the report.
-
-**(e) Chapter 10 of title 5** The provisions of chapter 10 of title 5 shall not apply to the Committee.
-
-### Statutory Notes
-
-#### Termination of Section
-For termination of section, see [section 4564(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4564/a&num=0&edition=prelim).
-
-#### References in Text
-This chapter, referred to in subsecs. (a), (b), and (d), was in the original “this Act”, meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 4501 of this title](./chapter-055-defense-production.md#section-4501) and Tables.
-
-#### Codification
-Section was formerly classified to section 2171 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
-
-#### Amendments
-2022—Subsec. (e). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)” in text.
-
-2014—Subsec. (a). Pub. L. 113–172, § 2(1), substituted “coordinate and plan for” for “advise the President” and “the priorities and allocations authorities” for “the authority”.
-
-Subsec. (b)(2). Pub. L. 113–172, § 2(2), amended par. (2) generally. Prior to amendment, text read as follows: “The President shall designate 1 member of the Committee as the Chairperson of the Committee.”
-
-Subsec. (c). Pub. L. 113–172, § 2(3), amended subsec. (c) generally. Prior to amendment, text read as follows:
-
-“(1) In general.—The President shall appoint an Executive Director of the Defense Production Act Committee (in this section referred to as the ‘Executive Director’), who shall—
-
-“(A) be responsible to the Chairperson of the Committee; and
-
-“(B) carry out such activities relating to the Committee as the Chairperson may determine.
-
-“(2) Appointment.—The appointment by the President shall not be subject to the advice and consent of the Senate.
-
-“(3) Compensation.—For pay periods beginning on or after the date on which each Chairperson is appointed, funds for the pay of the Executive Director shall be paid from appropriations to the salaries and expenses account of the department or agency of the Chairperson of the Committee. The Executive Director shall be compensated at a rate of pay equivalent to that of a Deputy Assistant Secretary (or a comparable position) of the Federal agency of the Chairperson of the Committee.”
-
-Subsec. (d). Pub. L. 113–172, § 2(4)(A), (B), in introductory provisions, substituted “The Committee shall issue a report each year by March 31” for “Not later than the end of the first quarter of each calendar year, the Committee shall submit” and “the Chairperson” for “each member of the Committee”.
-
-Subsec. (d)(1). Pub. L. 113–172, § 2(4)(C), substituted “a description of the contingency planning by” for “a review of the authority under this chapter of” and inserted before semicolon at end “for events that might require the use of the priorities and allocations authorities”.
-
-Subsec. (d)(2). Pub. L. 113–172, § 2(4)(D), substituted “priorities and allocations authorities in this chapter” for “authority described in paragraph (1)”.
-
-Subsec. (d)(3). Pub. L. 113–172, § 2(4)(E), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “recommendations for legislation, regulations, executive orders, or other action by the Federal Government necessary to improve the use of the authority described in paragraph (1); and”.
-
-Subsec. (d)(4). Pub. L. 113–172, § 2(4)(F), substituted “the use of the priorities and allocations authorities in this chapter;” for “all aspects of the authority described in paragraph (1).”
-
-Subsec. (d)(5), (6). Pub. L. 113–172, § 2(4)(G), added pars. (5) and (6).
-
-2009—Pub. L. 111–67 amended section generally. Prior to amendment, section related to defense industrial base information system with regard to its establishment, sources of information, strategic plan for developing comprehensive system, capabilities, and required report on subcontractor and supplier base.
-
-#### Effective Date
-Section deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as an Effective Date of 1992 Amendment note under [section 4502 of this title](./chapter-055-defense-production.md#section-4502).
-
-#### Designating the Chairperson of the Defense Production Act Committee
-Memorandum of President of the United States, May 19, 2010, 75 F.R. 32087, provided:
-
-Memorandum for the Secretary of Defense [and] the Secretary of Homeland Security
-
-Pursuant to the authority vested in me by section 722(b)(2) of the Defense Production Act of 1950, as amended (section 11 of Public Law 111–67; 50 App. U.S.C. 2171) [now [50 U.S.C. 4567(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4567/b/2&num=0&edition=prelim)] (the “Act”), I hereby designate the Secretary of Homeland Security and the Secretary of Defense as rotating Chairpersons of the Defense Production Act Committee (the “Committee”). The Chair shall rotate annually on April 1 of each year, with the Secretary of Homeland Security hereby designated to serve as Chairperson of the Committee for the remainder of this first term. The Secretary of Homeland Security and the Secretary of Defense are directed to formalize responsibilities for funding and administratively supporting the Committee through interagency agreement.
-
-Furthermore, the Chairperson shall invite to each meeting of the Committee all Members of the Committee as defined in section 722(b) of the Act [[50 U.S.C. 4567(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4567/b&num=0&edition=prelim)], and shall ensure that the reporting requirements of section 722(d) of the Act [[50 U.S.C. 4567(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4567/d&num=0&edition=prelim)] are fulfilled.
-
-The Secretary of Homeland Security is hereby authorized and directed to publish this memorandum in the Federal Register.
-
-Barack Obama.
+(6) Information gathered by the Secretary or the Secretary’s designee where the disclosure is determined to be in the national security interest, which may include publication of anonymized data.
 
 
 <a id="section-4502"></a>
-## § 4502. Annual report on impact of offsets
-**(a) Report required**
+## § 4502. Definitions
 
-(1) **In general** — The President shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, a detailed annual report on the impact of offsets on the defense preparedness, industrial competitiveness, employment, and trade of the United States.
+In this subchapter:
 
-(2) **Duties of the Secretary of Commerce** — The Secretary of Commerce (hereafter in this subsection referred to as the “Secretary”) shall—
+(1) **Appropriate congressional committees** — Except as provided in [section 4584(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4584/d&num=0&edition=prelim), the term “appropriate congressional committees” means—
 
-  (A) prepare the report required by paragraph (1);
+  (A) the Committee on Financial Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives; and
 
-  (B) consult with the Secretary of Defense, the Secretary of the Treasury, the Secretary of State, and the United States Trade Representative in connection with the preparation of such report; and
+  (B) the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate.
 
-  (C) function as the President’s Executive Agent for carrying out this section.
+(2) **Country of concern** — The term “country of concern” means—
 
-**(b) Interagency studies and related data**
+  (A) the People’s Republic of China, including the Hong Kong and Macau Special Administrative Regions;
 
-(1) **Purpose of report** — Each report required under subsection (a) shall identify the cumulative effects of offset agreements on—
+  (B) the Republic of Cuba;
 
-  (A) the full range of domestic defense productive capability (with special attention paid to the firms serving as lower-tier subcontractors or suppliers); and
+  (C) the Islamic Republic of Iran;
 
-  (B) the domestic defense technology base as a consequence of the technology transfers associated with such offset agreements.
+  (D) the Democratic People’s Republic of Korea;
 
-(2) **Use of data** — Data developed or compiled by any agency while conducting any interagency study or other independent study or analysis shall be made available to the Secretary to facilitate the execution of the Secretary’s responsibilities with respect to trade offset and countertrade policy development.
+  (E) the Russian Federation; and
 
-**(c) Notice of offset agreements**
+  (F) the Bolivarian Republic of Venezuela under the regime of Nicolas Maduro Moros.
 
-(1) **In general** — If a United States firm enters into a contract for the sale of a weapon system or defense-related item to a foreign country or foreign firm and such contract is subject to an offset agreement exceeding $5,000,000 in value, such firm shall furnish to the official designated in the regulations promulgated pursuant to paragraph (2) information concerning such sale.
+(3) **Covered foreign person** — Subject to regulations prescribed in accordance with this subchapter, the term “covered foreign person” means a foreign person that—
 
-(2) **Regulations** — The information to be furnished under paragraph (1) shall be prescribed in regulations promulgated by the Secretary. Such regulations shall provide protection from public disclosure for such information, unless public disclosure is subsequently specifically authorized by the firm furnishing the information.
+  (A) is incorporated in, has a principal place of business in, or is organized under the laws of a country of concern;
 
-**(d) Contents of report**
+  (B) is a member of the Central Committee of the Chinese Communist Party or is a member of the political leadership of a country of concern;
 
-(1) **In general** — Each report under subsection (a) shall include—
+  (C) is subject to the direction or control of a country of concern, as defined by regulation, an entity described in subparagraph (A) or (B), or the state or the government of a country of concern (including any political subdivision, agency, or instrumentality thereof); or
 
-  (A) a net assessment of the elements of the industrial base and technology base covered by the report;
+  (D) is owned in the aggregate, directly or indirectly, 50 percent or more by a country of concern, an entity described in subparagraph (A) or (B), or the state or the government of a country of concern (including any political subdivision, agency, or instrumentality thereof).
 
-  (B) recommendations for appropriate remedial action under the authority of this chapter, or other law or regulations;
+(4) **Covered national security transaction**
 
-  (C) a summary of the findings and recommendations of any interagency studies conducted during the reporting period under subsection (b);
+  (A) *In general* — Subject to such regulations as may be issued in accordance with this subchapter, the term “covered national security transaction” means a United States person’s direct or indirect—
 
-  (D) a summary of offset arrangements concluded during the reporting period for which information has been furnished pursuant to subsection (c); and
+    (i) acquisition of an equity interest or contingent equity interest in a covered foreign person that the United States person knows at the time of the acquisition is a covered foreign person;
 
-  (E) a summary and analysis of any bilateral and multilateral negotiations relating to the use of offsets completed during the reporting period.
+    (ii) provision of a loan or similar debt financing arrangement to a covered foreign person that the United States person knows at the time of the provision is a covered foreign person, where such debt financing affords or will afford the United States person an interest in profits of the covered foreign person, the right to appoint members of the board of directors (or equivalent) of the covered foreign person, or other comparable financial or governance rights characteristic of an equity investment but not typical of a loan;
 
-(2) **Alternative findings or recommendations** — Each report required under this section shall include any alternative findings or recommendations offered by any departmental Secretary, agency head, or the United States Trade Representative to the Secretary.
+    (iii) entrance by such United States person into a joint venture, wherever located, that is formed with a person of a country of concern, and that the subject United States person knows at the time of entrance into the joint venture that the joint venture will engage, or plans to engage, in a prohibited technology or notifiable technology;
 
-**(e) Utilization of annual report in negotiations** The findings and recommendations of the reports required by subsection (a), and any interagency reports and analyses shall be considered by representatives of the United States during bilateral and multilateral negotiations to minimize the adverse effects of offsets.
+    (iv) conversion of a contingent equity interest (or interest equivalent to a contingent equity interest) or conversion of debt to an equity interest in a covered foreign person;
 
-### Statutory Notes
+    (v) acquisition, leasing, or other development of operations, land, property, or other assets in a country of concern that the United States person knows at the time of such acquisition, leasing, or other development will result in, or that the United States person plans to result in—
 
-#### Termination of Section
-For termination of section, see [section 4564(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4564/a&num=0&edition=prelim).
+      (I) the establishment of a covered foreign person; or
 
-#### References in Text
-This chapter, referred to in subsec. (d)(1)(B), was in the original “this Act”, meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 4501 of this title](./chapter-055-defense-production.md#section-4501) and Tables.
+      (II) the engagement of a person of a country of concern in a prohibited technology or notifiable technology;
 
-#### Codification
-Section was formerly classified to section 2172 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
+    (vi) knowingly directing prohibited transactions or notifiable transactions by foreign persons that the United States person has knowledge at the time of the transaction would constitute an activity described in clause (i), (ii), (iii), (iv), or (v), if engaged in by a United States person;
 
-#### Report on Impact of Offsets on Domestic Contractors and Lower Tier Subcontractors
-Pub. L. 108–195, § 7(a), Dec. 19, 2003, 117 Stat. 2894, as amended by Pub. L. 111–67, § 12(b)(3), Sept. 30, 2009, 123 Stat. 2022, provided that: “(1) In general.—As part of the annual report required under section 723(a) of the Defense Production Act of 1950 [[50 U.S.C. 4568(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4568/a&num=0&edition=prelim)], the Secretary of Commerce (in this section referred to as the ‘Secretary’) shall—“(A) detail the number of foreign contracts involving domestic contractors that use offsets, industrial participation agreements, or similar arrangements during the preceding 5-year period; “(B) calculate the aggregate, median, and mean values of the contracts and the offsets, industrial participation agreements, and similar arrangements during the preceding 5-year period; and “(C) describe the impact of international or foreign sales of United States defense products and related offsets, industrial participation agreements, and similar arrangements on domestic prime contractors and, to the extent practicable, the first 3 tiers of domestic contractors and subcontractors during the preceding 5-year period in terms of domestic employment, including any job losses, on an annual basis. “(2) Use of internal documents.—To the extent that the Department of Commerce is already in possession of relevant data, the Department shall use internal documents or existing departmental records to carry out paragraph (1). “(3) Information from non-federal entities.—“(A) Existing information.—In carrying out paragraph (1), the Secretary shall only require a non-Federal entity to provide information that is available through the existing data collection and reporting systems of that non-Federal entity. “(B) Format.—The Secretary may require a non-Federal entity to provide information to the Secretary in the same form that is already provided to a foreign government in fulfilling an offset arrangement, industrial participation agreement, or similar arrangement.”
+    (vii) acquisition of a limited partner or equivalent interest in a venture capital fund, private equity fund, fund of funds, or other pooled investment fund (in each case where the fund is not a United States person) that the United States person has knowledge at the time of the acquisition likely will invest in a person of a country of concern that is in one of the notifiable technology or prohibited technology sectors, and such fund undertakes a transaction that would be a covered national security transaction if undertaken by a United States person; or
 
-[Pub. L. 111–67, § 12(b)(3), which directed amendment of section 7(a) of the “Defense Production Act Amendments of 2003 (50 U.S.C. App. 2099 note)” by striking “section 309(a) of the Defense Production Act of 1950 (50 U.S.C. App. 2099(a))” and inserting “section 723(a) of the Defense Production Act of 1950”, was executed to section 7(a) of Pub. L. 108–195, the Defense Production Act Reauthorization of 2003, set out above, to reflect the probable intent of Congress.]
+    (viii) any other transaction identified by the Secretary, in consultation with the appropriate congressional committees and subject to public notice and comment in accordance with subchapter II of chapter 5 and chapter 7 of title 5, and not subject to the requirements of [section 4559 of this title](./chapter-055-defense-production.md#section-4559), that is contributing to the military, intelligence, surveillance, or cyber-enabled capabilities of a country of concern.
 
-#### Defense Offsets Disclosure
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, subtitle D], Nov. 29, 1999, 113 Stat. 1536, 1501A–500, provided that: “SEC. 1241. SHORT TITLE.“This subtitle may be cited as the ‘Defense Offsets Disclosure Act of 1999’. “SEC. 1242. FINDINGS AND DECLARATION OF POLICY.“(a) Findings.—Congress makes the following findings:“(1) A fair business environment is necessary to advance international trade, economic stability, and development worldwide, is beneficial for American workers and businesses, and is in the United States national interest. “(2) In some cases, mandated offset requirements can cause economic distortions in international defense trade and undermine fairness and competitiveness, and may cause particular harm to small- and medium-sized businesses. “(3) The use of offsets may lead to increasing dependence on foreign suppliers for the production of United States weapons systems. “(4) The offset demands required by some purchasing countries, including some close allies of the United States, equal or exceed the value of the base contract they are intended to offset, mitigating much of the potential economic benefit of the exports. “(5) Offset demands often unduly distort the prices of defense contracts. “(6) In some cases, United States contractors are required to provide indirect offsets which can negatively impact nondefense industrial sectors. “(7) Unilateral efforts by the United States to prohibit offsets may be impractical in the current era of globalization and would severely hinder the competitiveness of the United States defense industry in the global market. “(8) The development of global standards to manage and restrict demands for offsets would enhance United States efforts to mitigate the negative impact of offsets. “(b) Declaration of Policy.—It is the policy of the United States to monitor the use of offsets in international defense trade, to promote fairness in such trade, and to ensure that foreign participation in the production of United States weapons systems does not harm the economy of the United States. “SEC. 1243. DEFINITIONS.“In this subtitle:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Foreign Relations of the Senate; and “(B) the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives. “(2) G–8.—The term ‘G–8’ means the group consisting of France, Germany, Japan, the United Kingdom, the United States, Canada, Italy, and Russia established to facilitate economic cooperation among the eight major economic powers. “(3) Offset.—The term ‘offset’ means the entire range of industrial and commercial benefits provided to foreign governments as an inducement or condition to purchase military goods or services, including benefits such as coproduction, licensed production, subcontracting, technology transfer, in-country procurement, marketing and financial assistance, and joint ventures. “(4) Transatlantic economic partnership.—The term ‘Transatlantic Economic Partnership’ means the joint commitment made by the United States and the European Union to reinforce their close relationship through an initiative involving the intensification and extension of multilateral and bilateral cooperation and common actions in the areas of trade and investment. “(5) Wassenaar arrangement.—The term ‘Wassenaar Arrangement’ means the multilateral export control regime in which the United States participates that seeks to promote transparency and responsibility with regard to transfers of conventional armaments and sensitive dual-use items. “(6) World trade organization.—The term ‘World Trade Organization’ means the organization established pursuant to the WTO Agreement. “(7) WTO agreement.—The term ‘WTO Agreement’ means the Agreement Establishing the World Trade Organization entered into on April 15, 1994. “SEC. 1244. SENSE OF CONGRESS.“It is the sense of Congress that—“(1) the executive branch should pursue efforts to address trade fairness by establishing reasonable, business-friendly standards for the use of offsets in international business transactions between the United States and its trading partners and competitors; “(2) the Secretary of Defense, the Secretary of State, the Secretary of Commerce, and the United States Trade Representative, or their designees, should raise with other industrialized nations at every suitable venue the need for transparency and reasonable standards to govern the role of offsets in international defense trade; “(3) the United States Government should enter into discussions regarding the establishment of multilateral standards for the use of offsets in international defense trade through the appropriate multilateral fora, including such organizations as the Transatlantic Economic Partnership, the Wassenaar Arrangement, the G–8, and the World Trade Organization; and “(4) the United States Government, in entering into the discussions described in paragraph (3), should take into account the distortions produced by the provision of other benefits and subsidies, such as export financing, by various countries to support defense trade. “SEC. 1245. REPORTING OF OFFSET AGREEMENTS. “[Amended [section 2776 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2776&num=0&edition=prelim).] “SEC. 1246. EXPANDED PROHIBITION ON INCENTIVE PAYMENTS. “[Amended [section 2779a of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2779a&num=0&edition=prelim).] “SEC. 1247. ESTABLISHMENT OF REVIEW COMMISSION.“(a) In General.—There is established a National Commission on the Use of Offsets in Defense Trade (in this section referred to as the ‘Commission’) to address all aspects of the use of offsets in international defense trade. “(b) Commission Membership.—Not later than 120 days after the date of enactment of this Act [Nov. 29, 1999], the President, with the concurrence of the Majority and Minority Leaders of the Senate and the Speaker and Minority Leader of the House of Representatives, shall appoint 11 individuals to serve as members of the Commission. Commission membership shall include—“(1) representatives from the private sector, including—“(A) one each from—“(i) a labor organization, “(ii) a United States defense manufacturing company dependent on foreign sales, “(iii) a United States company dependent on foreign sales that is not a defense manufacturer, and “(iv) a United States company that specializes in international investment, and “(B) two members from academia with widely recognized expertise in international economics; and “(2) five members from the executive branch, including a member from—“(A) the Office of Management and Budget, “(B) the Department of Commerce, “(C) the Department of Defense, “(D) the Department of State, and “(E) the Department of Labor. The member designated from the Office of Management and Budget shall serve as Chairperson of the Commission. The President shall ensure that the Commission is nonpartisan and that the full range of perspectives on the subject of offsets in the defense industry is adequately represented. “(c) Duties.—The Commission shall be responsible for reviewing and reporting on—“(1) the full range of current practices by foreign governments in requiring offsets in purchasing agreements and the extent and nature of offsets offered by United States and foreign defense industry contractors; “(2) the impact of the use of offsets on defense subcontractors and nondefense industrial sectors affected by indirect offsets; and “(3) the role of offsets, both direct and indirect, on domestic industry stability, United States trade competitiveness and national security. “(d) Commission Report.—Not later than 12 months after the Commission is established, the Commission shall submit a report to the appropriate congressional committees. In addition to the items described under subsection (c), the report shall include—“(1) an analysis of—“(A) the collateral impact of offsets on industry sectors that may be different than those of the contractor providing the offsets, including estimates of contracts and jobs lost as well as an assessment of damage to industrial sectors; “(B) the role of offsets with respect to competitiveness of the United States defense industry in international trade and the potential damage to the ability of United States contractors to compete if offsets were prohibited or limited; and “(C) the impact on United States national security, and upon United States nonproliferation objectives, of the use of coproduction, subcontracting, and technology transfer with foreign governments or companies that results from fulfilling offset requirements, with particular emphasis on the question of dependency upon foreign nations for the supply of critical components or technology; “(2) proposals for unilateral, bilateral, or multilateral measures aimed at reducing any detrimental effects of offsets; and “(3) an identification of the appropriate executive branch agencies to be responsible for monitoring the use of offsets in international defense trade. “(e) Period of Appointment; Vacancies.—Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment. “(f) Initial Meeting.—Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold its first meeting. “(g) Meetings.—The Commission shall meet at the call of the Chairman. “(h) Commission Personnel Matters.—“(1) Compensation of members.—Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), United States Code, for each day (including travel time) during which such member is engaged in the performance of the duties of the Commission. All members of the Commission who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States. “(2) Travel expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission. “(3) Staff.—“(A) In general.—The Chairman of the Commission may, without regard to the civil service laws and regulations, appoint and terminate an executive director and such other additional personnel as may be necessary to enable the Commission to perform its duties. The employment of an executive director shall be subject to confirmation by the Commission. “(B) Compensation.—The Chairman of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title. “(4) Detail of government employees.—Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege. “(5) Procurement of temporary and intermittent services.—The Chairman of the Commission may procure temporary and intermittent services under [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim), United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title. “(i) Termination.—The Commission shall terminate 30 days after the transmission of the report from the President as mandated in section 1248(b). “SEC. 1248. MULTILATERAL STRATEGY TO ADDRESS OFFSETS.“(a) In General.—The President shall initiate a review to determine the feasibility of establishing, and the most effective means of negotiating, a multilateral treaty on standards for the use of offsets in international defense trade, with a goal of limiting all offset transactions that are considered injurious to the economy of the United States. “(b) Report Required.—Not later than 90 days after the date on which the Commission submits the report required under section 1247(d), the President shall submit to the appropriate congressional committees a report containing the President’s determination pursuant to subsection (a), and, if the President determines a multilateral treaty is feasible or desirable, a strategy for United States negotiation of such a treaty. One year after the date the report is submitted under the preceding sentence, and annually thereafter for 5 years, the President shall submit to the appropriate congressional committees a report detailing the progress toward reaching such a treaty. “(c) Required Information.—The report required by subsection (b) shall include—“(1) a description of the United States efforts to pursue multilateral negotiations on standards for the use of offsets in international defense trade; “(2) an evaluation of existing multilateral fora as appropriate venues for establishing such negotiations; “(3) a description on a country-by-country basis of any United States efforts to engage in negotiations to establish bilateral treaties or agreements with respect to the use of offsets in international defense trade; and “(4) an evaluation on a country-by-country basis of any foreign government efforts to address the use of offsets in international defense trade. “(d) Comptroller General Review.—The Comptroller General of the United States shall monitor and periodically report to Congress on the progress in reaching a multilateral treaty.”
+  (B) *Exceptions and clarifications* — Subject to regulations prescribed in accordance with this subchapter, the term “covered national security transaction” does not include—
 
-#### Declaration of Offset Policy
-Pub. L. 102–558, title I, § 123, Oct. 28, 1992, 106 Stat. 4206, as amended by Pub. L. 108–195, § 7(c), Dec. 19, 2003, 117 Stat. 2895; Pub. L. 111–67, § 12(b)(1), Sept. 30, 2009, 123 Stat. 2022, provided that: “(a) In General.—Recognizing that certain offsets for military exports are economically inefficient and market distorting, and mindful of the need to minimize the adverse effects of offsets in military exports while ensuring that the ability of United States firms to compete for military export sales is not undermined, it is the policy of the Congress that—“(1) no agency of the United States Government shall encourage, enter directly into, or commit United States firms to any offset arrangement in connection with the sale of defense goods or services to foreign governments; “(2) United States Government funds shall not be used to finance offsets in security assistance transactions, except in accordance with policies and procedures that were in existence on March 1, 1992; “(3) nothing in this section shall prevent agencies of the United States Government from fulfilling obligations incurred through international agreements entered into before March 1, 1992; and “(4) the decision whether to engage in offsets, and the responsibility for negotiating and implementing offset arrangements, reside with the companies involved. “(b) Presidential Approval of Exceptions.—It is the policy of the Congress that the President may approve an exception to the policy stated in subsection (a) after receiving the recommendation of the National Security Council. “(c) Negotiations.—“(1) Interagency team.—“(A) In general.—It is the policy of Congress that the President shall designate a chairman of an interagency team comprised of the Secretary of Commerce, Secretary of Defense, United States Trade Representative, Secretary of Labor, and Secretary of State to consult with foreign nations on limiting the adverse effects of offsets in defense procurement without damaging the economy or the defense industrial base of the United States or United States defense production or defense preparedness. “(B) Meetings.—The President shall direct the interagency team to meet on a quarterly basis. “(C) Reports.—The President shall direct the interagency team to submit to Congress an annual report, to be included as part of the report required under section 723(a) of the Defense Production Act of 1950 [[50 U.S.C. 4568(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4568/a&num=0&edition=prelim)], that describes the results of the consultations of the interagency team under subparagraph (A) and the meetings of the interagency team under subparagraph (B). “(2) Recommendations for modifications.—The interagency team shall submit to the President any recommendations for modifications of any existing or proposed memorandum of understanding between officials acting on behalf of the United States and one or more foreign countries (or any instrumentality of a foreign country) relating to—“(A) research, development, or production of defense equipment; or “(B) the reciprocal procurement of defense items.”
+    (i) any transaction the value of which the Secretary determines is de minimis;
 
-#### Delegation of Functions
-For directive to Secretary of Commerce to prepare and submit annual report required by this section, see section 702 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16658, set out as a note under [section 4553 of this title](./chapter-055-defense-production.md#section-4553).
+    (ii) any category of transactions that the Secretary determines is in the national interest of the United States;
 
-#### Ex. Ord. No. 13177. National Commission on the Use of Offsets in Defense Trade and President’s Council on the Use of Offsets in Commercial Trade
-Ex. Ord. No. 13177, Dec. 4, 2000, 65 F.R. 76558, as amended by Ex. Ord. No. 13316, § 3(f), Sept. 17, 2003, 68 F.R. 55256, provided:
+    (iii) an investment—
 
-By the authority vested in the President by the Constitution and the laws of the United States of America, including Public Law 106–113 [see Tables for classification] and the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.], and in order to implement section 1247 of Public Law 106–113 (113 Stat. 1501A–502) [set out in a note above] and to create a parallel “President’s Council on the Use of Offsets in Commercial Trade,” it is hereby ordered as follows:
+      (I) in a security (as defined in [section 78c(a) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a&num=0&edition=prelim)) that is traded on an exchange or the over-the-counter market in any jurisdiction;
 
-Section 1. Membership. Pursuant to Public Law 106–113, the “National Commission on the Use of Offsets in Defense Trade” (Commission) comprises 11 members appointed by the President with the concurrence of the Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives. The Commission membership includes: (a) representatives from the private sector, including one each from (i) a labor organization, (ii) a United States defense manufacturing company dependent on foreign sales, (iii) a United States company dependent on foreign sales that is not a defense manufacturer, and (iv) a United States company that specializes in international investment; (b) two members from academia with widely recognized expertise in international economics; and (c) five members from the executive branch, including a member from the: (i) Office of Management and Budget, (ii) Department of Commerce, (iii) Department of Defense, (iv) Department of State, and (v) Department of Labor. The member from the Office of Management and Budget will serve as Chairperson of the Commission and will appoint, and fix the compensation of, the Executive Director of the Commission.
+      (II) in a security issued by an investment company (as defined in [section 80a–3 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3&num=0&edition=prelim)) that is registered with the Securities and Exchange Commission, or, if the Secretary chooses to include it as an exception from a covered national security transaction, in a security issued by a non-United States investment company that is registered with a foreign regulator with comparable oversight standards and regulatory jurisdiction to the Securities and Exchange Commission as determined by the Secretary of Treasury;
 
-Sec. 2. Duties. The Commission will be responsible for reviewing and reporting on: (a) current practices by foreign governments in requiring offsets in purchasing agreements and the extent and nature of offsets offered by United States and foreign defense industry contractors; (b) the impact of the use of offsets on defense subcontractors and nondefense industrial sectors affected by indirect offsets; and (c) the role of offsets, both direct and indirect, on domestic industry stability, United States trade competitiveness, and national security.
+      (III) made as a limited partner or equivalent in a venture capital fund, private equity fund, fund of funds, or other pooled investment fund (other than as described in subclause (II)) where—
 
-Sec. 3. Commission Report. Not later than 12 months after the Commission is established, it will report to the appropriate congressional committees. In addition to the items described in section 2 of this order, the report will include: (a) an analysis of (i) the collateral impact of offsets on industry sectors that may be different than those of the contractor paying offsets, including estimates of contracts and jobs lost as well as an assessment of damage to industrial sectors; (ii) the role of offsets with respect to competitiveness of the United States defense industry in international trade and the potential damage to the ability of United States contractors to compete if offsets were prohibited or limited; and (iii) the impact on United States national security, and upon United States nonproliferation objectives, of the use of co-production, subcontracting, and technology transfer with foreign governments or companies, that results from fulfilling offset requirements, with particular emphasis on the question of dependency upon foreign nations for the supply of critical components or technology; (b) proposals for unilateral, bilateral, or multilateral measures aimed at reducing any detrimental effects of offsets; and (c) an identification of the appropriate executive branch agencies to be responsible for monitoring the use of offsets in international defense trade.
+        (aa) the limited partner or equivalent’s committed capital is not more than a de minimis amount, as determined by the Secretary, aggregated across any investment and co-investment vehicles of the fund; or
 
-Sec. 4. Administration, Compensation, and Termination. (a) The Department of Defense will provide administrative support and funding for the Commission and Federal Government employees may be detailed to the Commission without reimbursement.
+        (bb) the limited partner or equivalent has secured a binding contractual assurance that its capital in the fund will not be used to engage in a transaction that would be a covered national security transaction if engaged in by a United States person; or
 
-(b) Members of the Commission who are not officers or employees of the Federal Government will be compensated at a rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), United States Code, for each day (including travel time) during which such member is engaged in performance of the duties of the Commission. Members of the Commission who are officers or employees of the Federal Government will serve without compensation in addition to that received for their services as officers or employees of the Federal Government.
+      (IV) in a derivative of a security described under subclause (I), (II), or (III);
 
-(c) Members of the Commission will be allowed travel expenses, including per diem in lieu of subsistence, under subchapter 1 of chapter 57 of title 5, United States Code, while on business in the performance of services for the Commission.
+    (iv) any ancillary transaction undertaken by a financial institution (as defined in [section 5312 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5312&num=0&edition=prelim));
 
-(d) The Commission will terminate 30 days after transmitting the report required in section 1248(b) of Public Law 106–113 (113 Stat. 1501A–505) [set out in a note above].
+    (v) the acquisition by a United States person of the equity or other interest owned or held by a covered foreign person in an entity or assets located outside of a country of concern in which the United States person is acquiring the totality of the interest in the entity held by the covered foreign person;
 
-[Secs. 5 to 8. Revoked effective Sept. 30, 2003, by Ex. Ord. No. 13316, § 3(f), Sept. 17, 2003, 68 F.R. 55256.]
+    (vi) an intracompany transfer of funds, as defined in regulations prescribed in accordance with this subchapter, from a United States parent company to a subsidiary located in a country of concern or a transaction that, but for this clause, would be a covered national security transaction between a United States person and its controlled foreign person that supports operations that are not covered national security transactions or that maintains covered national security transactions that the controlled foreign person was engaged in prior to the effective date of the regulations implementing this subchapter;
+
+    (vii) a transaction secondary to a covered national security transaction, including—
+
+      (I) contractual arrangements (not including contractual arrangements for technology transfer or technical knowledge transfer) or the procurement of material inputs for any covered national security transaction (such as raw materials);
+
+      (II) bank lending;
+
+      (III) the processing, clearing, or sending of payments by a bank;
+
+      (IV) underwriting services including, but not limited to, the temporary acquisition of an equity interest for the sole purpose of facilitating underwriting services;
+
+      (V) debt rating services;
+
+      (VI) prime brokerage;
+
+      (VII) global custody;
+
+      (VIII) equity research or analysis; or
+
+      (IX) other similar services;
+
+    (viii) any ordinary or administrative business transaction as may be defined in such regulations; or
+
+    (ix) any transaction completed before December 18, 2025.
+
+  (C) *Ancillary transaction defined* — In this paragraph, the term “ancillary transaction” means, subject to regulations prescribed by the Secretary—
+
+    (i) the processing, settling, clearing, or sending of payments and cash transactions;
+
+    (ii) underwriting services, including the temporary acquisition of an equity interest for the sole purpose of facilitating underwriting services;
+
+    (iii) credit rating services; and
+
+    (iv) other services ordinarily incident to and part of the provision of financial services, such as opening deposit accounts, direct custody services, foreign exchange services, remittances services, and safe deposit services.
+
+(5) **Foreign person** — The term “foreign person” has the meaning given that term in regulations prescribed in accordance with this subchapter.
+
+(6) **Knowledge; know** — The terms “knowledge” or “know” mean—
+
+  (A) actual knowledge that a fact or circumstance exists or is substantially certain to occur;
+
+  (B) an awareness of a high probability of a fact or circumstance’s existence or future occurrence; or
+
+  (C) reason to know of a fact or circumstance’s existence.
+
+(7) **Notifiable technology**
+
+  (A) *In general* — Subject to the regulations prescribed in accordance with this subchapter, the term “notifiable technology” means a technology within the following areas not already captured by the technical thresholds specified by any regulations issued in accordance with [section 4581 of this title](./chapter-055-defense-production.md#section-4581):
+
+    (i) Semiconductor technology and microelectronics.
+
+    (ii) Artificial intelligence systems.
+
+    (iii) Quantum information technologies.
+
+    (iv) High-performance computing and supercomputing.
+
+    (v) Hypersonic systems.
+
+  (B) *Updates* — The Secretary, in consultation with the appropriate congressional committees and subject to notice and comment in accordance with subchapter II of chapter 5 and chapter 7 of title 5, and not subject to the requirements of [section 4559 of this title](./chapter-055-defense-production.md#section-4559), may prescribe regulations in accordance with this subchapter to—
+
+    (i) define the technical parameters of technologies described in subparagraph (A), as reasonably needed for national security purposes; or
+
+    (ii) to add and define categories to the list in subparagraph (A) that enable the military, intelligence, surveillance, or cyber-enabled capabilities of a country of concern.
+
+(8) **Party** — The term “party”, with respect to a covered national security transaction, has the meaning given that term in regulations prescribed in accordance with this subchapter.
+
+(9) **Person** — The term “person” includes an individual, corporation, partnership, association, or any other organized group of persons, or legal successor or representative thereof, or any State or local government or agency thereof.
+
+(10) **Prohibited technology**
+
+  (A) *In general* — Subject to the regulations prescribed in accordance with this subchapter, the term “prohibited technology” means a technology within the following areas, as specified by the regulations:
+
+    (i) Advanced semiconductor technology and microelectronics.
+
+    (ii) Artificial intelligence systems.
+
+    (iii) Quantum information technologies.
+
+    (iv) High-performance computing and supercomputing.
+
+    (v) Hypersonic systems.
+
+  (B) *Updates* — The Secretary, in consultation with the appropriate congressional committees and subject to notice and comment in accordance with subchapter II of chapter 5 and chapter 7 of title 5, and not subject to the requirements of [section 4559 of this title](./chapter-055-defense-production.md#section-4559), may prescribe regulations in accordance with this subchapter to—
+
+    (i) define the technical parameters of technologies described in subparagraph (A), as reasonably needed for national security purposes; or
+
+    (ii) to add and define categories to the list in subparagraph (A) that enable the military, intelligence, surveillance, or cyber-enabled capabilities of a country of concern.
+
+(11) **Secretary** — Except as otherwise provided, the term “Secretary” means the Secretary of the Treasury.
+
+(12) **United States person** — The term “United States person” means—
+
+  (A) any United States citizen or an alien lawfully admitted for permanent residence to the United States;
+
+  (B) an entity organized under the laws of the United States or of any jurisdiction within the United States (including any foreign branch of such an entity); or
+
+  (C) any person in the United States.
 
 
 <a id="section-4511"></a>
@@ -577,25 +586,7 @@ Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impa
 Donald J. Trump.
 
 #### Delegating Authority Under the Defense Production Act To Ensure an Adequate Supply of Infant Formula
-Determination of President of the United States, No. 2022–13, May 18, 2022, 87 F.R. 31357, provided:
-
-Memorandum for the Secretary of Health and Human Services
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 101 of the Defense Production Act of 1950, as amended (the “Act”) ([50 U.S.C. 4511](./chapter-055-defense-production.md#section-4511)), it is hereby ordered as follows:
-
-Section 1. Policy and Findings. On February 17, 2022, the largest infant formula manufacturer in the country—Abbott Nutrition—initiated a voluntary recall of several lines of powdered infant formula made at its Sturgis, Michigan facility, following concerns about bacterial contamination at the facility after four infants fell ill. This incident has combined with supply chain stress associated with effects of the coronavirus 2019 (COVID–19) pandemic to cause an acute disruption in the supply of infant formula in the United States.
-
-Adequate supply of infant formula is critical to the health and safety of the millions of children who depend on the formula for essential nutrition. The Federal Government has worked in the last several months to address the shortfall in infant formula, but additional measures are needed to ensure an adequate supply of infant formula in the United States and thereby protect the health and well-being of our Nation’s children.
-
-This disruption threatens the continued functioning of the national infant formula supply chain, undermining critical infrastructure that is essential to the national defense, including to national public health or safety. As the Abbott Nutrition recall shows, closure of a single formula-producing facility can severely disrupt the supply of formula nationwide. Accordingly, I hereby determine, pursuant to section 101 of the Act, that the ingredients necessary to manufacture infant formula meet the criteria specified in section 101(b) of the Act ([50 U.S.C. 4511(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4511/b&num=0&edition=prelim)).
-
-Sec. 2. Ensuring the Continued Supply of Formula. (a) Notwithstanding Executive Order 13603 of March 16, 2012 (National Defense Resources Preparedness) [[50 U.S.C. 4553](./chapter-055-defense-production.md#section-4553) note], the authority of the President conferred by section 101 of the Act to require performance of contracts or orders (other than contracts of employment) to promote the national defense over performance of any other contracts or orders, to allocate materials, services, and facilities as deemed necessary or appropriate to promote the national defense, and to implement the Act in subchapter III [[50 U.S.C. 4551](./chapter-055-defense-production.md#section-4551) et seq.] of chapter 55 of title 50, United States Code ([50 U.S.C. 4554](./chapter-055-defense-production.md#section-4554), 4555, 4556, 4559, 4560), is delegated to the Secretary of Health and Human Services with respect to all health resources, including the ingredients necessary to manufacture infant formula.
-
-(b) The Secretary of Health and Human Services may use the authority under section 101 of the Act to determine, in consultation with the Secretary of Agriculture and the heads of other executive departments and agencies as appropriate, the proper nationwide priorities and allocation of all ingredients necessary to manufacture infant forumla [sic], including controlling the distribution of such materials (including applicable services) in the civilian market, for responding to the shortage of infant formula within the United States.
-
-You are authorized and directed to publish this determination in the Federal Register.
-
-J.R. Biden, Jr.
+Determination of President of the United States, No. 2022–13, May 18, 2022, 87 F.R. 31357, which related to delegating authority under the Defense Production Act to ensure an adequate supply of infant formula, was revoked by Ex. Ord. 14236, § 2(f), Mar. 14, 2025, 90 F.R. 13037.
 
 
 <a id="section-4514"></a>
@@ -622,40 +613,8 @@ Authorities of President under this section with respect to health and medical r
 
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim), Commerce and Trade.
 
-#### Ex. Ord. No. 13910. Preventing Hoarding of Health and Medical Resources To Respond to the Spread of COVID–19
-Ex. Ord. No. 13910, Mar. 23, 2020, 85 F.R. 17001, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Defense Production Act of 1950, as amended ([50 U.S.C. 4501](./chapter-055-defense-production.md#section-4501) et seq.) (the “Act”), and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
-
-Section 1. Policy. In Proclamation 9994 of March 13, 2020 (Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak) [[50 U.S.C. 1621](./chapter-034-national-emergencies.md#section-1621) note], I declared a national emergency recognizing the threat that the novel (new) coronavirus known as SARS–CoV–2 poses to our Nation’s healthcare systems. In recognizing the public health risk, I noted that on March 11, 2020, the World Health Organization announced that the outbreak of COVID–19 (the disease caused by SARS–CoV–2) can be characterized as a pandemic. I also noted that while the Federal Government, along with State and local governments, have taken preventive and proactive measures to slow the spread of the virus and to treat those affected, the spread of COVID–19 within our Nation’s communities threatens to strain our Nation’s healthcare systems. To further deal with this threat, on March 18, 2020, I issued Executive Order 13909 (Prioritizing and Allocating Health and Medical Resources to Respond to the Spread of COVID–19) [[50 U.S.C. 4511](./chapter-055-defense-production.md#section-4511) note], in which I delegated to the Secretary of Health and Human Services (Secretary) the prioritization and allocation authority under section 101 of the Act [[50 U.S.C. 4511](./chapter-055-defense-production.md#section-4511)] with respect to health and medical resources needed to respond to the spread of COVID–19.
-
-To ensure that our Nation’s healthcare systems are able to surge capacity and capability to respond to the spread of COVID–19, it is the policy of the United States that health and medical resources needed to respond to the spread of COVID–19, such as personal protective equipment and sanitizing and disinfecting products, are not hoarded. Accordingly, I am delegating to the Secretary my authority under section 102 of the Act ([50 U.S.C. 4512](./chapter-055-defense-production.md#section-4512)) to prevent hoarding of health and medical resources necessary to respond to the spread of COVID–19 within the United States. I am also delegating to the Secretary my authority under the Act to implement any restrictions on hoarding, including my authority under section 705 of the Act ([50 U.S.C. 4555](./chapter-055-defense-production.md#section-4555)) to gather information, such as information about how supplies of such resources are distributed throughout the Nation.
-
-Sec. 2. Delegation of Authority to Prevent Hoarding.
-
-(a) The Secretary is delegated the following:
-
-(i) the authority of the President conferred by section 102 of the Act to prevent hoarding of health and medical resources necessary to respond to the spread of COVID–19 within the United States, including the authority to prescribe conditions with respect to the accumulation of such resources, and to designate any material as a scarce material, or as a material the supply of which would be threatened by persons accumulating the material either in excess of reasonable demands of business, personal, or home consumption, or for the purpose of resale at prices in excess of prevailing market prices; and
-
-(ii) the authority of the President to implement the Act contained in subchapter III [[50 U.S.C. 4551](./chapter-055-defense-production.md#section-4551) et seq.] of chapter 55 of title 50, United States Code ([50 U.S.C. 4554](./chapter-055-defense-production.md#section-4554), 4555, 4556, and 4560).
-
-(b) In exercising the authority delegated under this section, the Secretary shall consult the Administrator of the Federal Emergency Management Agency.
-
-(c) The Secretary shall adopt and revise appropriate rules and regulations as may be necessary to implement this order.
-
-Sec. 3. Secretarial Duty Concerning Notices of Withdrawal of Designation. The Secretary shall periodically consider whether the designations made pursuant to section 2 of this order remain necessary. Upon finding that the need for such designation of material is no longer necessary, the Secretary shall promptly publish a notice of withdrawal of the designation in the Federal Register, and in such other manner as the Secretary deems appropriate.
-
-Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Donald J. Trump.
+#### Executive Order No. 13910
+Ex. Ord. No. 13910, Mar. 23, 2020, 85 F.R. 17001, which delegated authority of President under this section to prevent hoarding of health and medical resources necessary to respond to the spread of COVID–19 within the United States to the Secretary of Health and Human Services, was revoked by Ex. Ord. No. 14122, § 2, Apr. 12, 2024, 89 F.R. 27355, set out in a note under [section 300hh–3 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–3&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-4515"></a>
@@ -932,11 +891,13 @@ A prior section 301 of act Sept. 8, 1950, ch. 932, title III, 64 Stat. 800; June
 Pub. L. 116–136, div. B, title III, Mar. 27, 2020, 134 Stat. 520, provided in part: “That for the two-year period beginning with the date of enactment of this Act [Mar. 27, 2020], the requirements described in Section [sic] 301(a)(3)(A) and 302(c)(1) of Public Law 81–774 [[50 U.S.C. 4531(a)(3)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4531/a/3/A&num=0&edition=prelim), 4532(c)(1)], shall be waived”.
 
 #### Limitation on Cancellation of Designation of Secretary of the Air Force as Department of Defense Executive Agent
-Pub. L. 115–232, div. A, title XVII, § 1792, Aug. 13, 2018, 132 Stat. 2238, provided that: “(a) Limitation on Cancellation of Designation.—The Secretary of Defense may not implement the decision, issued on July 1, 2017, to cancel the designation, under Department of Defense Directive 4400.01E, entitled ‘Defense Production Act Programs’ and dated October 12, 2001, of the Secretary of the Air Force as the Department of Defense Executive Agent for the program carried out under title III of the Defense Production Act of 1950 ([50 U.S.C. 4531](./chapter-055-defense-production.md#section-4531) et seq.) until the date specified in subsection (c). “(b) Designation.—The Secretary of the Air Force shall continue to serve as the sole and exclusive Department of Defense Executive Agent for the program described in subsection (a) until the date specified in subsection (c). “(c) Date Specified.—The date specified in this subsection is the date of the enactment of a joint resolution or an Act approving the implementation of the decision described in subsection (a).”
+Pub. L. 115–232, div. A, title XVII, § 1792, Aug. 13, 2018, 132 Stat. 2238, which provided the Secretary of Defense could not implement the decision, issued on July 1, 2017, to cancel the designation, under Department of Defense Directive 4400.01E, entitled “Defense Production Act Programs” and dated October 12, 2001, of the Secretary of the Air Force as the Department of Defense Executive Agent for the program carried out under title III of the Defense Production Act of 1950 ([50 U.S.C. 4531](./chapter-055-defense-production.md#section-4531) et seq.) until the date of the enactment of a joint resolution or an Act approving the implementation of such decision, was repealed by Pub. L. 119–60, div. A, title VIII, § 862, Dec. 18, 2025, 139 Stat. 989.
 
-Pub. L. 115–91, div. A, title II, § 226, Dec. 12, 2017, 131 Stat. 1335, as amended by Pub. L. 117–263, div. A, title II, § 214, Dec. 23, 2022, 136 Stat. 2471, provided that: “(a) Limitation on Cancellation of Designation.—The Secretary of Defense may not implement the decision, issued on July 1, 2017, to cancel the designation, under Department of Defense Directive 4400.1E, entitled ‘Defense Production Act Programs’ and dated October 12, 2001, of the currently assigned Department of Defense Executive Agent for the program carried out under title III of the Defense Production Act of 1950 ([50 U.S.C. 4531](./chapter-055-defense-production.md#section-4531) et seq.) until the Secretary has—“(1) completed the review and assessment required by subsection (b)(1); and “(2) carried out the briefing required by subsection (c). “(b) Review and Assessment Required.—“(1) In general.—The Secretary of Defense, in consultation with the Secretary of the Air Force, shall conduct a review and assessment of the program described in subsection (a). “(2) Elements.—The review and assessment required by paragraph (1) shall include the following:“(A) Assessment of the current management structure for the program, including analysis of the mechanisms for accountability, as well as cost and management controls currently in place. “(B) Analysis of alternatives for proposals to modify that management structure to increase accountability, cost and management controls. Such analysis of alternatives should consider the relative merits of centralization and decentralization, roles of other military departments in program management and contracting, as well as the different roles the Office of the Secretary of Defense might play in management, oversight and execution. “(C) Recommendations for improving the assessment and selection of projects in order to—“(i) ensure that projects selected are appropriate for use of funds appropriated to carry out title III of the Defense Production Act of 1950; “(ii) ensure that sufficient vetting and management controls are in place to ensure a reasonable degree of confidence that project ideas or the companies being supported will be viable; and “(iii) increase overall successful execution for selected projects. “(D) Such other matters as the Secretary considers appropriate. “(c) Briefing Required.—The Secretary shall brief the appropriate Committees of Congress on the findings of the Secretary with respect to the review and assessment conducted under subsection (b). “(d) Notification Required.—In the event the Secretary of Defense decides to cancel the designation, under Department of Defense Directive 4400.1E, entitled ‘Defense Production Act Programs’ and dated October 12, 2001, of the currently assigned Department of Defense Executive Agent for the program described in subsection (a), the Secretary shall submit to the appropriate committees of Congress a written notification of such decision at least 60 days before the decision goes into effect. “(e) Designation of Other Executive Agents.—Notwithstanding the requirements of this section or section 1792 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 [Pub. L. 115–232] ([50 U.S.C. 4531](./chapter-055-defense-production.md#section-4531) note), the Secretary of Defense may designate one or more Executive Agents within the Department of Defense (other than the Executive Agent described in subsection (a)) to implement Defense Production Act transactions entered into under the authority of sections 4021, 4022, and 4023 of title 10, United States Code. “(f) Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means the—“(1) the [sic] Committee on Armed Services and the Committee on Banking, Housing, and Urban Affairs of the Senate; and “(2) the [sic] Committee on Armed Services and the Committee on Financial Services of the House of Representatives.”
+Pub. L. 115–91, div. A, title II, § 226, Dec. 12, 2017, 131 Stat. 1335, as amended by Pub. L. 117–263, div. A, title II, § 214, Dec. 23, 2022, 136 Stat. 2471, which provided the Secretary of Defense could not implement the decision, issued on July 1, 2017, to cancel the designation, under Department of Defense Directive 4400.1E, entitled “Defense Production Act Programs” and dated October 12, 2001, of the currently assigned Department of Defense Executive Agent for the program carried out under title III of the Defense Production Act of 1950 ([50 U.S.C. 4531](./chapter-055-defense-production.md#section-4531) et seq.) until the Secretary had completed required review and assessment and carried out required briefing, was repealed by Pub. L. 119–60, div. A, title VIII, § 862, Dec. 18, 2025, 139 Stat. 989.
 
 #### Delegation of Functions
+Authority of President under this section with respect to addressing the national energy emergency declared under Ex. Ord. No. 14156, Jan. 20, 2025, 90 F.R. 8433, set out as a note under [section 1621 of this title](./chapter-034-national-emergencies.md#section-1621), delegated to the Chief Executive Officer of the United States International Development Finance Corporation, see section 6(d) of Ex. Ord. No. 14241, Mar. 20, 2025, 90 F.R. 13673, set out as a note under [section 1601 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1601&num=0&edition=prelim), Mineral Lands and Mining.
+
 Authority of President under this section with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and the Secretary of Homeland Security, see section 2 of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511).
 
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, eff. June 25, 1974, 39 F.R. 23185, set out as a note under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim), Commerce and Trade.
@@ -1009,6 +970,8 @@ Pub. L. 116–136, div. A, title IV, § 4017, Mar. 27, 2020, 134 Stat. 482, prov
 Requirement described in subsec. (c)(1) of this section waived for the two-year period beginning with Mar. 27, 2020, see provision of title III of div. B of Pub. L. 116–136, set out as a note under [section 4531 of this title](./chapter-055-defense-production.md#section-4531).
 
 #### Delegation of Functions
+Authority of President under this section with respect to addressing the national energy emergency declared under Ex. Ord. No. 14156, Jan. 20, 2025, 90 F.R. 8433, set out as a note under [section 1621 of this title](./chapter-034-national-emergencies.md#section-1621), delegated to the Chief Executive Officer of the United States International Development Finance Corporation, see section 6(d) of Ex. Ord. No. 14241, Mar. 20, 2025, 90 F.R. 13673, set out as a note under [section 1601 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1601&num=0&edition=prelim), Mineral Lands and Mining.
+
 Authority of President under this section with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and the Secretary of Homeland Security, see section 2 of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511).
 
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim), Commerce and Trade.
@@ -1185,6 +1148,10 @@ Pub. L. 108–195, § 3, Dec. 19, 2003, 117 Stat. 2892, provided that: “(a) In
 Pub. L. 107–314, div. A, title VIII, § 829, Dec. 2, 2002, 116 Stat. 2618, provided that: “Notwithstanding the limitation in [former] section 303(a)(6)(C) of the Defense Production Act of 1950 ([former] 50 U.S.C. App. 2093(a)(6)(C)), action or actions may be taken under section 303 of that Act to correct the industrial resource shortfall for radiation-hardened electronics, if such actions do not cause the aggregate outstanding amount of all such actions to exceed $106,000,000.”
 
 #### Delegation of Functions
+Authority of President under this section with respect to addressing the national energy emergency declared under Ex. Ord. No. 14156, Jan. 20, 2025, 90 F.R. 8433, set out as a note under [section 1621 of this title](./chapter-034-national-emergencies.md#section-1621), delegated to Secretary of Defense, see section 6(b) of Ex. Ord. No. 14241, Mar. 20, 2025, 90 F.R. 13673, set out as a note under [section 1601 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1601&num=0&edition=prelim), Mineral Lands and Mining.
+
+Authority of President under this section with respect to addressing the national energy emergency declared under Ex. Ord. No. 14156, Jan. 20, 2025, 90 F.R. 8433, set out as a note under [section 1621 of this title](./chapter-034-national-emergencies.md#section-1621), delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 6(d) of Ex. Ord. No. 14241, Mar. 20, 2025, 90 F.R. 13673, set out as a note under [section 1601 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1601&num=0&edition=prelim), Mineral Lands and Mining.
+
 Authority of President under this section delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under [section 4532 of this title](./chapter-055-defense-production.md#section-4532).
 
 Authority of President under this section with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and the Secretary of Homeland Security, see section 2 of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511).
@@ -1813,9 +1780,11 @@ Authority of President to implement the Defense Production Act of 1950 (this cha
 
 (1) with respect to hoarding of health and medical resources necessary to respond to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services, see section 2(a)(ii) of Ex. Ord. 13910, Mar. 23, 2020, 85 F.R. 17001, set out as a note under [section 4512 of this title](./chapter-055-defense-production.md#section-4512);
 
-(2) with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and Secretary of Homeland Security, see section 2(a) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511); and
+(2) with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and Secretary of Homeland Security, see section 2(a) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511);
 
-(3) in addition to the delegation of authority in Ex. Ord. No. 13911, delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under [section 4532 of this title](./chapter-055-defense-production.md#section-4532).
+(3) in addition to the delegation of authority in Ex. Ord. No. 13911, delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under [section 4532 of this title](./chapter-055-defense-production.md#section-4532); and
+
+(4) with respect to addressing the national energy emergency declared under Ex. Ord. No. 14156, Jan. 20, 2025, 90 F.R. 8433, set out as a note under [section 1621 of this title](./chapter-034-national-emergencies.md#section-1621), delegated to the Chief Executive Officer of the United States International Development Finance Corporation, see section 6(d) of Ex. Ord. No. 14241, Mar. 20, 2025, 90 F.R. 13673, set out as a note under [section 1601 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1601&num=0&edition=prelim), Mineral Lands and Mining.
 
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, eff. June 25, 1974, 39 F.R. 23185, set out as a note under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim), Commerce and Trade.
 
@@ -1875,9 +1844,11 @@ Authority of President to implement the Defense Production Act of 1950 (this cha
 
 (1) with respect to hoarding of health and medical resources necessary to respond to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services, see section 2(a)(ii) of Ex. Ord. 13910, Mar. 23, 2020, 85 F.R. 17001, set out as a note under [section 4512 of this title](./chapter-055-defense-production.md#section-4512);
 
-(2) with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and Secretary of Homeland Security, see section 2(a) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511); and
+(2) with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and Secretary of Homeland Security, see section 2(a) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511);
 
-(3) in addition to the delegation of authority in Ex. Ord. No. 13911, delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under [section 4532 of this title](./chapter-055-defense-production.md#section-4532).
+(3) in addition to the delegation of authority in Ex. Ord. No. 13911, delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under [section 4532 of this title](./chapter-055-defense-production.md#section-4532); and
+
+(4) with respect to addressing the national energy emergency declared under Ex. Ord. No. 14156, Jan. 20, 2025, 90 F.R. 8433, set out as a note under [section 1621 of this title](./chapter-034-national-emergencies.md#section-1621), delegated to the Chief Executive Officer of the United States International Development Finance Corporation, see section 6(d) of Ex. Ord. No. 14241, Mar. 20, 2025, 90 F.R. 13673, set out as a note under [section 1601 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1601&num=0&edition=prelim), Mineral Lands and Mining.
 
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim), Commerce and Trade.
 
@@ -1904,9 +1875,11 @@ Authority of President to implement the Defense Production Act of 1950 (this cha
 
 (1) with respect to hoarding of health and medical resources necessary to respond to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services, see section 2(a)(ii) of Ex. Ord. 13910, Mar. 23, 2020, 85 F.R. 17001, set out as a note under [section 4512 of this title](./chapter-055-defense-production.md#section-4512);
 
-(2) with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and Secretary of Homeland Security, see section 2(a) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511); and
+(2) with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and Secretary of Homeland Security, see section 2(a) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511);
 
-(3) in addition to the delegation of authority in Ex. Ord. No. 13911, delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under [section 4532 of this title](./chapter-055-defense-production.md#section-4532).
+(3) in addition to the delegation of authority in Ex. Ord. No. 13911, delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under [section 4532 of this title](./chapter-055-defense-production.md#section-4532); and
+
+(4) with respect to addressing the national energy emergency declared under Ex. Ord. No. 14156, Jan. 20, 2025, 90 F.R. 8433, set out as a note under [section 1621 of this title](./chapter-034-national-emergencies.md#section-1621), delegated to the Chief Executive Officer of the United States International Development Finance Corporation, see section 6(d) of Ex. Ord. No. 14241, Mar. 20, 2025, 90 F.R. 13673, set out as a note under [section 1601 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1601&num=0&edition=prelim), Mineral Lands and Mining.
 
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim), Commerce and Trade.
 
@@ -2376,9 +2349,11 @@ Authority of President to implement the Defense Production Act of 1950 (this cha
 
 (1) with respect to hoarding of health and medical resources necessary to respond to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services, see section 2(a)(ii) of Ex. Ord. 13910, Mar. 23, 2020, 85 F.R. 17001, set out as a note under [section 4512 of this title](./chapter-055-defense-production.md#section-4512);
 
-(2) with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and Secretary of Homeland Security, see section 2(a) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511); and
+(2) with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and Secretary of Homeland Security, see section 2(a) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511);
 
-(3) in addition to the delegation of authority in Ex. Ord. No. 13911, delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under [section 4532 of this title](./chapter-055-defense-production.md#section-4532).
+(3) in addition to the delegation of authority in Ex. Ord. No. 13911, delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under [section 4532 of this title](./chapter-055-defense-production.md#section-4532); and
+
+(4) with respect to addressing the national energy emergency declared under Ex. Ord. No. 14156, Jan. 20, 2025, 90 F.R. 8433, set out as a note under [section 1621 of this title](./chapter-034-national-emergencies.md#section-1621), delegated to the Chief Executive Officer of the United States International Development Finance Corporation, see section 6(d) of Ex. Ord. No. 14241, Mar. 20, 2025, 90 F.R. 13673, set out as a note under [section 1601 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1601&num=0&edition=prelim), Mineral Lands and Mining.
 
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim), Commerce and Trade.
 
@@ -2513,9 +2488,9 @@ This chapter and the chapter, referred to in text, were in the original “this 
 Section was formerly classified to section 2164 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 
-<a id="section-4566"></a>
-## § 4566. Termination of chapter
-**(a) Termination** Subchapter I (except [section 4514 of this title](./chapter-055-defense-production.md#section-4514)), subchapter II, and subchapter III (except sections 4557, 4558, and 4565 of this title) shall terminate on September 30, 2025, except that all authority extended under subchapter II shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriations Acts.
+<a id="section-4565a"></a>
+## § 4565a. Termination of chapter
+**(a) Termination** Subchapter I (except [section 4514 of this title](./chapter-055-defense-production.md#section-4514)), subchapter II, and subchapter III (except sections 4557, 4558, and 4565 of this title) shall terminate on September 30, 2026, except that all authority extended under subchapter II shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
 **(b) Continuation of agencies** Notwithstanding subsection (a), any agency created under a provision of law that is terminated under subsection (a) may continue in existence, for purposes of liquidation, for a period not to exceed 6 months, beginning on the date of termination of the provision authorizing the creation of such agency under subsection (a).
 
@@ -2536,6 +2511,8 @@ The Agricultural Marketing Agreement Act of 1937, referred to in subsec. (d), is
 Section was formerly classified to section 2166 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 substituted “September 30, 2026” for “September 30, 2025”.
+
 2018—Subsec. (a). Pub. L. 115–232 substituted “September 30, 2025” for “September 30, 2019”.
 
 2014—Subsec. (a). Pub. L. 113–172 substituted “2019” for “2014” and struck out “on or after the date of enactment of the Defense Production Act Reauthorization of 2009” before “shall be effective”.
@@ -2678,8 +2655,8 @@ Amendment by Pub. L. 94–152 effective at close of Nov. 30, 1975, see section 9
 Amendment by act Aug. 9, 1955, effective as of close of July 31, 1955, see section 11 of act Aug. 9, 1955, set out as a note under [section 4502 of this title](./chapter-055-defense-production.md#section-4502).
 
 
-<a id="section-4567"></a>
-## § 4567. Authority to review certain mergers, acquisitions, and takeovers
+<a id="section-4566"></a>
+## § 4566. Authority to review certain mergers, acquisitions, and takeovers
 **(a) Definitions** In this section:
 
 (1) **Clarification** — The term “national security” shall be construed so as to include those issues relating to “homeland security”, including its application to critical infrastructure.
@@ -2743,6 +2720,22 @@ Amendment by act Aug. 9, 1955, effective as of close of July 31, 1955, see secti
       (II) real estate in “urbanized areas”, as defined by the Census Bureau in the most recent census, except as otherwise prescribed by the Committee in regulations in consultation with the Secretary of Defense.
 
     (ii) *Definition of close proximity* — With respect to a real estate purchase, lease, or concession described in subparagraph (B)(ii)(II)(bb)(AA), the Committee shall prescribe regulations to ensure that the term “close proximity” refers only to a distance or distances within which the purchase, lease, or concession of real estate could pose a national security risk in connection with a United States military installation or another facility or property of the United States Government described in that subparagraph.
+
+    (iii) *List of sites*
+
+      (I) *In general* — For purposes of subparagraph (B)(ii)(II)(bb), the Committee may prescribe, through regulations, a list of military installations or other facilities or properties of the United States Government that are sensitive for reasons relating to national security. Such list may include certain facilities or properties of the intelligence community and National Laboratories (as defined in [section 15801 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801&num=0&edition=prelim)).
+
+      (II) *Periodic review of list* — Not later than one year after December 18, 2025, and periodically thereafter, each member of the Committee shall—
+
+        (aa) review the installations, facilities, and properties, if any, included by that member on the list developed under subclause (I); and
+
+        (bb) submit to the chairperson a report on that review, after approval of the report by the Assistant Secretary or equivalent official designated for the agency under subsection (k)(4)(A)(i), which shall include—
+
+          (AA) any recommended updates or revisions to the list regarding installations, facilities, and properties administered by the member of the Committee;
+
+          (BB) any recommendations with respect to what distance, including close proximity or extended range, should apply for purposes of real estate described in subparagraph (B)(ii)(II)(bb); and
+
+          (CC) a detailed justification and risk assessment underlying any recommendations made under subitem (BB).
 
   (D) *Other investments*
 
@@ -3440,6 +3433,8 @@ Amendment by act Aug. 9, 1955, effective as of close of July 31, 1955, see secti
 
   (K) A list of the waivers granted by the Committee under subsection (b)(1)(C)(v)(IV)(bb)(CC).
 
+  (L) Information on whether the most recent list of sites identified under subsection (a)(4)(C)(iii) reflects consideration of any recommended updates and revisions submitted under subclause (II) of that subsection. Upon request from the Committee on Financial Services of the House of Representatives or the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee shall provide to that committee a classified briefing regarding that list.
+
 (3) **Contents of report relating to critical technologies** — In order to assist Congress in its oversight responsibilities with respect to this section, the President and such agencies as the President shall designate shall include in the annual report submitted under paragraph (1)—
 
   (A) an evaluation of whether there is credible evidence of a coordinated strategy by 1 or more countries or companies to acquire United States companies involved in research, development, or production of critical technologies for which the United States is a leading producer;
@@ -3615,6 +3610,10 @@ Executive Order 11858, referred to in subsec. (k)(1), is set out as a note under
 Section was formerly classified to section 2170 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2025—Subsec. (a)(4)(C)(iii). Pub. L. 119–60, § 8102(a), added cl. (iii).
+
+Subsec. (m)(2)(L). Pub. L. 119–60, § 8102(b), added subpar. (L).
+
 2021—Subsec. (b)(3)(A). Pub. L. 116–283, § 9721(a)(1), inserted “or assessment” after “review” in heading and substituted “this subsection that concludes action under this section, or upon the Committee making a notification under paragraph (1)(C)(v)(III)(aa)(DD)” for “ subsection (b) that concludes action under this section” in text.
 
 Subsec. (b)(3)(C)(i)(III). Pub. L. 116–283, § 9721(a)(2), added subcl. (III).
@@ -3705,7 +3704,7 @@ Subsec. (l)(3). Pub. L. 115–232, § 1718(2), redesignated par. (1) as (3). For
 
 Subsec. (l)(3)(A). Pub. L. 115–232, § 1718(4)(A), substituted “Agreements and conditions” for “In general” in subpar. heading, designated existing provisions as cl. (i), inserted cl. heading, substituted “risk” for “threat”, and added cls. (ii) and (iii).
 
-Subsec. (l)(3)(B) to (D). Pub. L. 115–232, § 1718(4)(B), added subpars. (B) to (D) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “Any agreement entered into or condition imposed under subparagraph (A) shall be based on a risk-based analysis, conducted by the Committee, of the threat to national security of the covered transaction.”.
+Subsec. (l)(3)(B) to (D). Pub. L. 115–232, § 1718(4)(B), added subpars. (B) to (D) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “Any agreement entered into or condition imposed under subparagraph (A) shall be based on a risk-based analysis, conducted by the Committee, of the threat to national security of the covered transaction.”
 
 Subsec. (l)(4). Pub. L. 115–232, § 1718(5), added par. (4).
 
@@ -4050,6 +4049,50 @@ This interim directive shall be published in the Federal Register.
 Ronald Reagan.
 
 
+<a id="section-4567"></a>
+## § 4567. Enhanced intelligence community support to secure United States biological data
+**(a) In general** The Director of National Intelligence, in consultation with such other heads of elements of the intelligence community as the Director considers appropriate, shall provide support to and consult with the Federal Bureau of Investigation, the Committee on Foreign Investment in the United States, and other Federal agencies as appropriate when reviewing transactions relating to the acquisition of covered entities by foreign entities of concern, including attempts by the Government of the People’s Republic of China—
+
+(1) to leverage and acquire biological data in the United States; and
+
+(2) to leverage and acquire biological data outside the United States, including by providing economic support to the military, industrial, agricultural, or health care infrastructure of foreign countries.
+
+**(b) Briefing** Not later than 90 days after December 18, 2025, the Director of National Intelligence shall brief the appropriate congressional committees on—
+
+(1) a formal process for ensuring intelligence community support to Federal agencies relating to adversary acquisition of biological data, in compliance with Executive Order 14117 ([50 U.S.C. 1701](./chapter-035-international-emergency-economic-powers.md#section-1701) note; relating to preventing access to Americans’ bulk sensitive personal data and United States Government-related data by countries of concern), or any successor order; and
+
+(2) any additional resources or authorities needed to provide intelligence community support under subsection (b)(1).
+
+**(c) Definitions** In this section:
+
+(1) **Appropriate congressional committees** — The term “appropriate congressional committees” means—
+
+  (A) the congressional intelligence committees;
+
+  (B) the congressional defense committees (as such term is defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim));
+
+  (C) the Committee on Foreign Relations, the Committee on the Judiciary, and the Committee on Banking, Housing, and Urban Affairs of the Senate; and
+
+  (D) the Committee on Foreign Affairs, the Committee on the Judiciary, and the Committee on Financial Services of the House of Representatives.
+
+(2) **Biological data** — The term “biological data” means multiomic information and other relevant information, including associated descriptors, derived from the structure, function, or process of a biological system, that is either measured, collected, or aggregated for analysis, including information from humans, animals, plants, or microbes.
+
+(3) **Covered entity** — The term “covered entity” means a private entity involved in biological data (including biological data equipment, technologies, sequencing, or synthesis), including a biobank or other private entity that holds large amounts of biological data.
+
+(4) **Foreign entity of concern** — The term “foreign entity of concern” has the meaning given that term in [section 19221(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section19221/a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+Executive Order 14117, referred to in subsec. (b)(1), is Ex. Ord. No. 14117, Feb. 28, 2024, 89 F.R. 15421, which is listed in a table under [section 1701 of this title](./chapter-035-international-emergency-economic-powers.md#section-1701).
+
+#### Codification
+Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 2026 and also as part of National Defense Authorization Act for Fiscal Year 2026, and not as part of the Defense Production Act of 1950 which comprises this chapter.
+
+#### Definitions
+For definitions of “intelligence community” and “congressional intelligence committees” as used in this section, see section 6002 of Pub. L. 119–60, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
+
+
 <a id="section-4568"></a>
 ## § 4568. Prohibition on purchase of United States defense contractors by entities controlled by foreign governments
 **(a) In general** No entity controlled by a foreign government may merge with, acquire, or take over a company engaged in interstate commerce in the United States that—
@@ -4095,3 +4138,426 @@ Ronald Reagan.
 Section was formerly classified to section 2170a of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1993, and not as part of the Defense Production Act of 1950 which comprises this chapter.
+
+
+<a id="section-4581"></a>
+## § 4581. Defense Production Act Committee
+**(a) Committee established** There is established the Defense Production Act Committee (in this section referred to as the “Committee”), which shall coordinate and plan for on 11 So in original. The word “on” probably should not appear. the effective use of the priorities and allocations authorities under this chapter by the departments, agencies, and independent establishments of the Federal Government to which the President has delegated authority under this chapter.
+
+**(b) Membership**
+
+(1) **In general.—** — The members of the Committee shall be—
+
+  (A) the head of each Federal agency to which the President has delegated authority under this chapter; and
+
+  (B) the Chairperson of the Council of Economic Advisors.
+
+(2) The Chairperson of the Committee shall be the head of the agency to which the President has delegated primary responsibility for government-wide coordination of the authorities in this chapter.
+
+**(c) Coordination of Committee activities** The Chairperson shall appoint one person to coordinate all of the activities of the Committee, and such person shall—
+
+(1) be a full-time employee of the Federal Government;
+
+(2) report to the Chairperson; and
+
+(3) carry out such activities relating to the Committee as the Chairperson may determine appropriate.
+
+**(d) Report** The Committee shall issue a report each year by March 31 to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report signed by the Chairperson that contains—
+
+(1) a description of the contingency planning by each department, agency, or independent establishment of the Federal Government to which the President has delegated authority under this chapter for events that might require the use of the priorities and allocations authorities;
+
+(2) recommendations for the effective use of the priorities and allocations authorities in this chapter in a manner consistent with the statement of policy under [section 4502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4502/b&num=0&edition=prelim);
+
+(3) recommendations for legislation actions, as appropriate, to support the effective use of the priorities and allocations authorities in this chapter;
+
+(4) recommendations for improving information sharing between departments, agencies, and independent establishments of the Federal Government relating to the use of the priorities and allocations authorities in this chapter;
+
+(5) up-to-date copies of the rules described under [section 4511(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4511/d/1&num=0&edition=prelim); and
+
+(6) short attestations signed by each member of the Committee stating their concurrence in the report.
+
+**(e) Chapter 10 of title 5** The provisions of chapter 10 of title 5 shall not apply to the Committee.
+
+### Statutory Notes
+
+#### Termination of Section
+For termination of section, see [section 4564(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4564/a&num=0&edition=prelim).
+
+#### References in Text
+This chapter, referred to in subsecs. (a), (b), and (d), was in the original “this Act”, meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 4501 of this title](./chapter-055-defense-production.md#section-4501) and Tables.
+
+#### Codification
+Section was formerly classified to section 2171 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2022—Subsec. (e). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
+2014—Subsec. (a). Pub. L. 113–172, § 2(1), substituted “coordinate and plan for” for “advise the President” and “the priorities and allocations authorities” for “the authority”.
+
+Subsec. (b)(2). Pub. L. 113–172, § 2(2), amended par. (2) generally. Prior to amendment, text read as follows: “The President shall designate 1 member of the Committee as the Chairperson of the Committee.”
+
+Subsec. (c). Pub. L. 113–172, § 2(3), amended subsec. (c) generally. Prior to amendment, text read as follows:
+
+“(1) In general.—The President shall appoint an Executive Director of the Defense Production Act Committee (in this section referred to as the ‘Executive Director’), who shall—
+
+“(A) be responsible to the Chairperson of the Committee; and
+
+“(B) carry out such activities relating to the Committee as the Chairperson may determine.
+
+“(2) Appointment.—The appointment by the President shall not be subject to the advice and consent of the Senate.
+
+“(3) Compensation.—For pay periods beginning on or after the date on which each Chairperson is appointed, funds for the pay of the Executive Director shall be paid from appropriations to the salaries and expenses account of the department or agency of the Chairperson of the Committee. The Executive Director shall be compensated at a rate of pay equivalent to that of a Deputy Assistant Secretary (or a comparable position) of the Federal agency of the Chairperson of the Committee.”
+
+Subsec. (d). Pub. L. 113–172, § 2(4)(A), (B), in introductory provisions, substituted “The Committee shall issue a report each year by March 31” for “Not later than the end of the first quarter of each calendar year, the Committee shall submit” and “the Chairperson” for “each member of the Committee”.
+
+Subsec. (d)(1). Pub. L. 113–172, § 2(4)(C), substituted “a description of the contingency planning by” for “a review of the authority under this chapter of” and inserted before semicolon at end “for events that might require the use of the priorities and allocations authorities”.
+
+Subsec. (d)(2). Pub. L. 113–172, § 2(4)(D), substituted “priorities and allocations authorities in this chapter” for “authority described in paragraph (1)”.
+
+Subsec. (d)(3). Pub. L. 113–172, § 2(4)(E), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “recommendations for legislation, regulations, executive orders, or other action by the Federal Government necessary to improve the use of the authority described in paragraph (1); and”.
+
+Subsec. (d)(4). Pub. L. 113–172, § 2(4)(F), substituted “the use of the priorities and allocations authorities in this chapter;” for “all aspects of the authority described in paragraph (1).”
+
+Subsec. (d)(5), (6). Pub. L. 113–172, § 2(4)(G), added pars. (5) and (6).
+
+2009—Pub. L. 111–67 amended section generally. Prior to amendment, section related to defense industrial base information system with regard to its establishment, sources of information, strategic plan for developing comprehensive system, capabilities, and required report on subcontractor and supplier base.
+
+#### Effective Date
+Section deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as an Effective Date of 1992 Amendment note under [section 4502 of this title](./chapter-055-defense-production.md#section-4502).
+
+#### Designating the Chairperson of the Defense Production Act Committee
+Memorandum of President of the United States, May 19, 2010, 75 F.R. 32087, provided:
+
+Memorandum for the Secretary of Defense [and] the Secretary of Homeland Security
+
+Pursuant to the authority vested in me by section 722(b)(2) of the Defense Production Act of 1950, as amended (section 11 of Public Law 111–67; 50 App. U.S.C. 2171) [now [50 U.S.C. 4567(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4567/b/2&num=0&edition=prelim)] (the “Act”), I hereby designate the Secretary of Homeland Security and the Secretary of Defense as rotating Chairpersons of the Defense Production Act Committee (the “Committee”). The Chair shall rotate annually on April 1 of each year, with the Secretary of Homeland Security hereby designated to serve as Chairperson of the Committee for the remainder of this first term. The Secretary of Homeland Security and the Secretary of Defense are directed to formalize responsibilities for funding and administratively supporting the Committee through interagency agreement.
+
+Furthermore, the Chairperson shall invite to each meeting of the Committee all Members of the Committee as defined in section 722(b) of the Act [[50 U.S.C. 4567(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4567/b&num=0&edition=prelim)], and shall ensure that the reporting requirements of section 722(d) of the Act [[50 U.S.C. 4567(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4567/d&num=0&edition=prelim)] are fulfilled.
+
+The Secretary of Homeland Security is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
+
+
+<a id="section-4582"></a>
+## § 4582. Annual report on impact of offsets
+**(a) Report required**
+
+(1) **In general** — The President shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, a detailed annual report on the impact of offsets on the defense preparedness, industrial competitiveness, employment, and trade of the United States.
+
+(2) **Duties of the Secretary of Commerce** — The Secretary of Commerce (hereafter in this subsection referred to as the “Secretary”) shall—
+
+  (A) prepare the report required by paragraph (1);
+
+  (B) consult with the Secretary of Defense, the Secretary of the Treasury, the Secretary of State, and the United States Trade Representative in connection with the preparation of such report; and
+
+  (C) function as the President’s Executive Agent for carrying out this section.
+
+**(b) Interagency studies and related data**
+
+(1) **Purpose of report** — Each report required under subsection (a) shall identify the cumulative effects of offset agreements on—
+
+  (A) the full range of domestic defense productive capability (with special attention paid to the firms serving as lower-tier subcontractors or suppliers); and
+
+  (B) the domestic defense technology base as a consequence of the technology transfers associated with such offset agreements.
+
+(2) **Use of data** — Data developed or compiled by any agency while conducting any interagency study or other independent study or analysis shall be made available to the Secretary to facilitate the execution of the Secretary’s responsibilities with respect to trade offset and countertrade policy development.
+
+**(c) Notice of offset agreements**
+
+(1) **In general** — If a United States firm enters into a contract for the sale of a weapon system or defense-related item to a foreign country or foreign firm and such contract is subject to an offset agreement exceeding $5,000,000 in value, such firm shall furnish to the official designated in the regulations promulgated pursuant to paragraph (2) information concerning such sale.
+
+(2) **Regulations** — The information to be furnished under paragraph (1) shall be prescribed in regulations promulgated by the Secretary. Such regulations shall provide protection from public disclosure for such information, unless public disclosure is subsequently specifically authorized by the firm furnishing the information.
+
+**(d) Contents of report**
+
+(1) **In general** — Each report under subsection (a) shall include—
+
+  (A) a net assessment of the elements of the industrial base and technology base covered by the report;
+
+  (B) recommendations for appropriate remedial action under the authority of this chapter, or other law or regulations;
+
+  (C) a summary of the findings and recommendations of any interagency studies conducted during the reporting period under subsection (b);
+
+  (D) a summary of offset arrangements concluded during the reporting period for which information has been furnished pursuant to subsection (c); and
+
+  (E) a summary and analysis of any bilateral and multilateral negotiations relating to the use of offsets completed during the reporting period.
+
+(2) **Alternative findings or recommendations** — Each report required under this section shall include any alternative findings or recommendations offered by any departmental Secretary, agency head, or the United States Trade Representative to the Secretary.
+
+**(e) Utilization of annual report in negotiations** The findings and recommendations of the reports required by subsection (a), and any interagency reports and analyses shall be considered by representatives of the United States during bilateral and multilateral negotiations to minimize the adverse effects of offsets.
+
+### Statutory Notes
+
+#### Termination of Section
+For termination of section, see [section 4564(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4564/a&num=0&edition=prelim).
+
+#### References in Text
+This chapter, referred to in subsec. (d)(1)(B), was in the original “this Act”, meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 4501 of this title](./chapter-055-defense-production.md#section-4501) and Tables.
+
+#### Codification
+Section was formerly classified to section 2172 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
+
+#### Report on Impact of Offsets on Domestic Contractors and Lower Tier Subcontractors
+Pub. L. 108–195, § 7(a), Dec. 19, 2003, 117 Stat. 2894, as amended by Pub. L. 111–67, § 12(b)(3), Sept. 30, 2009, 123 Stat. 2022, provided that: “(1) In general.—As part of the annual report required under section 723(a) of the Defense Production Act of 1950 [[50 U.S.C. 4568(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4568/a&num=0&edition=prelim)], the Secretary of Commerce (in this section referred to as the ‘Secretary’) shall—“(A) detail the number of foreign contracts involving domestic contractors that use offsets, industrial participation agreements, or similar arrangements during the preceding 5-year period; “(B) calculate the aggregate, median, and mean values of the contracts and the offsets, industrial participation agreements, and similar arrangements during the preceding 5-year period; and “(C) describe the impact of international or foreign sales of United States defense products and related offsets, industrial participation agreements, and similar arrangements on domestic prime contractors and, to the extent practicable, the first 3 tiers of domestic contractors and subcontractors during the preceding 5-year period in terms of domestic employment, including any job losses, on an annual basis. “(2) Use of internal documents.—To the extent that the Department of Commerce is already in possession of relevant data, the Department shall use internal documents or existing departmental records to carry out paragraph (1). “(3) Information from non-federal entities.—“(A) Existing information.—In carrying out paragraph (1), the Secretary shall only require a non-Federal entity to provide information that is available through the existing data collection and reporting systems of that non-Federal entity. “(B) Format.—The Secretary may require a non-Federal entity to provide information to the Secretary in the same form that is already provided to a foreign government in fulfilling an offset arrangement, industrial participation agreement, or similar arrangement.”
+
+[Pub. L. 111–67, § 12(b)(3), which directed amendment of section 7(a) of the “Defense Production Act Amendments of 2003 (50 U.S.C. App. 2099 note)” by striking “section 309(a) of the Defense Production Act of 1950 (50 U.S.C. App. 2099(a))” and inserting “section 723(a) of the Defense Production Act of 1950”, was executed to section 7(a) of Pub. L. 108–195, the Defense Production Act Reauthorization of 2003, set out above, to reflect the probable intent of Congress.]
+
+#### Defense Offsets Disclosure
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, subtitle D], Nov. 29, 1999, 113 Stat. 1536, 1501A–500, provided that: “SEC. 1241. SHORT TITLE.“This subtitle may be cited as the ‘Defense Offsets Disclosure Act of 1999’. “SEC. 1242. FINDINGS AND DECLARATION OF POLICY.“(a) Findings.—Congress makes the following findings:“(1) A fair business environment is necessary to advance international trade, economic stability, and development worldwide, is beneficial for American workers and businesses, and is in the United States national interest. “(2) In some cases, mandated offset requirements can cause economic distortions in international defense trade and undermine fairness and competitiveness, and may cause particular harm to small- and medium-sized businesses. “(3) The use of offsets may lead to increasing dependence on foreign suppliers for the production of United States weapons systems. “(4) The offset demands required by some purchasing countries, including some close allies of the United States, equal or exceed the value of the base contract they are intended to offset, mitigating much of the potential economic benefit of the exports. “(5) Offset demands often unduly distort the prices of defense contracts. “(6) In some cases, United States contractors are required to provide indirect offsets which can negatively impact nondefense industrial sectors. “(7) Unilateral efforts by the United States to prohibit offsets may be impractical in the current era of globalization and would severely hinder the competitiveness of the United States defense industry in the global market. “(8) The development of global standards to manage and restrict demands for offsets would enhance United States efforts to mitigate the negative impact of offsets. “(b) Declaration of Policy.—It is the policy of the United States to monitor the use of offsets in international defense trade, to promote fairness in such trade, and to ensure that foreign participation in the production of United States weapons systems does not harm the economy of the United States. “SEC. 1243. DEFINITIONS.“In this subtitle:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Foreign Relations of the Senate; and “(B) the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives. “(2) G–8.—The term ‘G–8’ means the group consisting of France, Germany, Japan, the United Kingdom, the United States, Canada, Italy, and Russia established to facilitate economic cooperation among the eight major economic powers. “(3) Offset.—The term ‘offset’ means the entire range of industrial and commercial benefits provided to foreign governments as an inducement or condition to purchase military goods or services, including benefits such as coproduction, licensed production, subcontracting, technology transfer, in-country procurement, marketing and financial assistance, and joint ventures. “(4) Transatlantic economic partnership.—The term ‘Transatlantic Economic Partnership’ means the joint commitment made by the United States and the European Union to reinforce their close relationship through an initiative involving the intensification and extension of multilateral and bilateral cooperation and common actions in the areas of trade and investment. “(5) Wassenaar arrangement.—The term ‘Wassenaar Arrangement’ means the multilateral export control regime in which the United States participates that seeks to promote transparency and responsibility with regard to transfers of conventional armaments and sensitive dual-use items. “(6) World trade organization.—The term ‘World Trade Organization’ means the organization established pursuant to the WTO Agreement. “(7) WTO agreement.—The term ‘WTO Agreement’ means the Agreement Establishing the World Trade Organization entered into on April 15, 1994. “SEC. 1244. SENSE OF CONGRESS.“It is the sense of Congress that—“(1) the executive branch should pursue efforts to address trade fairness by establishing reasonable, business-friendly standards for the use of offsets in international business transactions between the United States and its trading partners and competitors; “(2) the Secretary of Defense, the Secretary of State, the Secretary of Commerce, and the United States Trade Representative, or their designees, should raise with other industrialized nations at every suitable venue the need for transparency and reasonable standards to govern the role of offsets in international defense trade; “(3) the United States Government should enter into discussions regarding the establishment of multilateral standards for the use of offsets in international defense trade through the appropriate multilateral fora, including such organizations as the Transatlantic Economic Partnership, the Wassenaar Arrangement, the G–8, and the World Trade Organization; and “(4) the United States Government, in entering into the discussions described in paragraph (3), should take into account the distortions produced by the provision of other benefits and subsidies, such as export financing, by various countries to support defense trade. “SEC. 1245. REPORTING OF OFFSET AGREEMENTS. “[Amended [section 2776 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2776&num=0&edition=prelim).] “SEC. 1246. EXPANDED PROHIBITION ON INCENTIVE PAYMENTS. “[Amended [section 2779a of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2779a&num=0&edition=prelim).] “SEC. 1247. ESTABLISHMENT OF REVIEW COMMISSION.“(a) In General.—There is established a National Commission on the Use of Offsets in Defense Trade (in this section referred to as the ‘Commission’) to address all aspects of the use of offsets in international defense trade. “(b) Commission Membership.—Not later than 120 days after the date of enactment of this Act [Nov. 29, 1999], the President, with the concurrence of the Majority and Minority Leaders of the Senate and the Speaker and Minority Leader of the House of Representatives, shall appoint 11 individuals to serve as members of the Commission. Commission membership shall include—“(1) representatives from the private sector, including—“(A) one each from—“(i) a labor organization, “(ii) a United States defense manufacturing company dependent on foreign sales, “(iii) a United States company dependent on foreign sales that is not a defense manufacturer, and “(iv) a United States company that specializes in international investment, and “(B) two members from academia with widely recognized expertise in international economics; and “(2) five members from the executive branch, including a member from—“(A) the Office of Management and Budget, “(B) the Department of Commerce, “(C) the Department of Defense, “(D) the Department of State, and “(E) the Department of Labor. The member designated from the Office of Management and Budget shall serve as Chairperson of the Commission. The President shall ensure that the Commission is nonpartisan and that the full range of perspectives on the subject of offsets in the defense industry is adequately represented. “(c) Duties.—The Commission shall be responsible for reviewing and reporting on—“(1) the full range of current practices by foreign governments in requiring offsets in purchasing agreements and the extent and nature of offsets offered by United States and foreign defense industry contractors; “(2) the impact of the use of offsets on defense subcontractors and nondefense industrial sectors affected by indirect offsets; and “(3) the role of offsets, both direct and indirect, on domestic industry stability, United States trade competitiveness and national security. “(d) Commission Report.—Not later than 12 months after the Commission is established, the Commission shall submit a report to the appropriate congressional committees. In addition to the items described under subsection (c), the report shall include—“(1) an analysis of—“(A) the collateral impact of offsets on industry sectors that may be different than those of the contractor providing the offsets, including estimates of contracts and jobs lost as well as an assessment of damage to industrial sectors; “(B) the role of offsets with respect to competitiveness of the United States defense industry in international trade and the potential damage to the ability of United States contractors to compete if offsets were prohibited or limited; and “(C) the impact on United States national security, and upon United States nonproliferation objectives, of the use of coproduction, subcontracting, and technology transfer with foreign governments or companies that results from fulfilling offset requirements, with particular emphasis on the question of dependency upon foreign nations for the supply of critical components or technology; “(2) proposals for unilateral, bilateral, or multilateral measures aimed at reducing any detrimental effects of offsets; and “(3) an identification of the appropriate executive branch agencies to be responsible for monitoring the use of offsets in international defense trade. “(e) Period of Appointment; Vacancies.—Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment. “(f) Initial Meeting.—Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold its first meeting. “(g) Meetings.—The Commission shall meet at the call of the Chairman. “(h) Commission Personnel Matters.—“(1) Compensation of members.—Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), United States Code, for each day (including travel time) during which such member is engaged in the performance of the duties of the Commission. All members of the Commission who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States. “(2) Travel expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission. “(3) Staff.—“(A) In general.—The Chairman of the Commission may, without regard to the civil service laws and regulations, appoint and terminate an executive director and such other additional personnel as may be necessary to enable the Commission to perform its duties. The employment of an executive director shall be subject to confirmation by the Commission. “(B) Compensation.—The Chairman of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title. “(4) Detail of government employees.—Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege. “(5) Procurement of temporary and intermittent services.—The Chairman of the Commission may procure temporary and intermittent services under [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim), United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title. “(i) Termination.—The Commission shall terminate 30 days after the transmission of the report from the President as mandated in section 1248(b). “SEC. 1248. MULTILATERAL STRATEGY TO ADDRESS OFFSETS.“(a) In General.—The President shall initiate a review to determine the feasibility of establishing, and the most effective means of negotiating, a multilateral treaty on standards for the use of offsets in international defense trade, with a goal of limiting all offset transactions that are considered injurious to the economy of the United States. “(b) Report Required.—Not later than 90 days after the date on which the Commission submits the report required under section 1247(d), the President shall submit to the appropriate congressional committees a report containing the President’s determination pursuant to subsection (a), and, if the President determines a multilateral treaty is feasible or desirable, a strategy for United States negotiation of such a treaty. One year after the date the report is submitted under the preceding sentence, and annually thereafter for 5 years, the President shall submit to the appropriate congressional committees a report detailing the progress toward reaching such a treaty. “(c) Required Information.—The report required by subsection (b) shall include—“(1) a description of the United States efforts to pursue multilateral negotiations on standards for the use of offsets in international defense trade; “(2) an evaluation of existing multilateral fora as appropriate venues for establishing such negotiations; “(3) a description on a country-by-country basis of any United States efforts to engage in negotiations to establish bilateral treaties or agreements with respect to the use of offsets in international defense trade; and “(4) an evaluation on a country-by-country basis of any foreign government efforts to address the use of offsets in international defense trade. “(d) Comptroller General Review.—The Comptroller General of the United States shall monitor and periodically report to Congress on the progress in reaching a multilateral treaty.”
+
+#### Declaration of Offset Policy
+Pub. L. 102–558, title I, § 123, Oct. 28, 1992, 106 Stat. 4206, as amended by Pub. L. 108–195, § 7(c), Dec. 19, 2003, 117 Stat. 2895; Pub. L. 111–67, § 12(b)(1), Sept. 30, 2009, 123 Stat. 2022, provided that: “(a) In General.—Recognizing that certain offsets for military exports are economically inefficient and market distorting, and mindful of the need to minimize the adverse effects of offsets in military exports while ensuring that the ability of United States firms to compete for military export sales is not undermined, it is the policy of the Congress that—“(1) no agency of the United States Government shall encourage, enter directly into, or commit United States firms to any offset arrangement in connection with the sale of defense goods or services to foreign governments; “(2) United States Government funds shall not be used to finance offsets in security assistance transactions, except in accordance with policies and procedures that were in existence on March 1, 1992; “(3) nothing in this section shall prevent agencies of the United States Government from fulfilling obligations incurred through international agreements entered into before March 1, 1992; and “(4) the decision whether to engage in offsets, and the responsibility for negotiating and implementing offset arrangements, reside with the companies involved. “(b) Presidential Approval of Exceptions.—It is the policy of the Congress that the President may approve an exception to the policy stated in subsection (a) after receiving the recommendation of the National Security Council. “(c) Negotiations.—“(1) Interagency team.—“(A) In general.—It is the policy of Congress that the President shall designate a chairman of an interagency team comprised of the Secretary of Commerce, Secretary of Defense, United States Trade Representative, Secretary of Labor, and Secretary of State to consult with foreign nations on limiting the adverse effects of offsets in defense procurement without damaging the economy or the defense industrial base of the United States or United States defense production or defense preparedness. “(B) Meetings.—The President shall direct the interagency team to meet on a quarterly basis. “(C) Reports.—The President shall direct the interagency team to submit to Congress an annual report, to be included as part of the report required under section 723(a) of the Defense Production Act of 1950 [[50 U.S.C. 4568(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4568/a&num=0&edition=prelim)], that describes the results of the consultations of the interagency team under subparagraph (A) and the meetings of the interagency team under subparagraph (B). “(2) Recommendations for modifications.—The interagency team shall submit to the President any recommendations for modifications of any existing or proposed memorandum of understanding between officials acting on behalf of the United States and one or more foreign countries (or any instrumentality of a foreign country) relating to—“(A) research, development, or production of defense equipment; or “(B) the reciprocal procurement of defense items.”
+
+#### Delegation of Functions
+For directive to Secretary of Commerce to prepare and submit annual report required by this section, see section 702 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16658, set out as a note under [section 4553 of this title](./chapter-055-defense-production.md#section-4553).
+
+#### Ex. Ord. No. 13177. National Commission on the Use of Offsets in Defense Trade and President’s Council on the Use of Offsets in Commercial Trade
+Ex. Ord. No. 13177, Dec. 4, 2000, 65 F.R. 76558, as amended by Ex. Ord. No. 13316, § 3(f), Sept. 17, 2003, 68 F.R. 55256, provided:
+
+By the authority vested in the President by the Constitution and the laws of the United States of America, including Public Law 106–113 [see Tables for classification] and the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.], and in order to implement section 1247 of Public Law 106–113 (113 Stat. 1501A–502) [set out in a note above] and to create a parallel “President’s Council on the Use of Offsets in Commercial Trade,” it is hereby ordered as follows:
+
+Section 1. Membership. Pursuant to Public Law 106–113, the “National Commission on the Use of Offsets in Defense Trade” (Commission) comprises 11 members appointed by the President with the concurrence of the Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives. The Commission membership includes: (a) representatives from the private sector, including one each from (i) a labor organization, (ii) a United States defense manufacturing company dependent on foreign sales, (iii) a United States company dependent on foreign sales that is not a defense manufacturer, and (iv) a United States company that specializes in international investment; (b) two members from academia with widely recognized expertise in international economics; and (c) five members from the executive branch, including a member from the: (i) Office of Management and Budget, (ii) Department of Commerce, (iii) Department of Defense, (iv) Department of State, and (v) Department of Labor. The member from the Office of Management and Budget will serve as Chairperson of the Commission and will appoint, and fix the compensation of, the Executive Director of the Commission.
+
+Sec. 2. Duties. The Commission will be responsible for reviewing and reporting on: (a) current practices by foreign governments in requiring offsets in purchasing agreements and the extent and nature of offsets offered by United States and foreign defense industry contractors; (b) the impact of the use of offsets on defense subcontractors and nondefense industrial sectors affected by indirect offsets; and (c) the role of offsets, both direct and indirect, on domestic industry stability, United States trade competitiveness, and national security.
+
+Sec. 3. Commission Report. Not later than 12 months after the Commission is established, it will report to the appropriate congressional committees. In addition to the items described in section 2 of this order, the report will include: (a) an analysis of (i) the collateral impact of offsets on industry sectors that may be different than those of the contractor paying offsets, including estimates of contracts and jobs lost as well as an assessment of damage to industrial sectors; (ii) the role of offsets with respect to competitiveness of the United States defense industry in international trade and the potential damage to the ability of United States contractors to compete if offsets were prohibited or limited; and (iii) the impact on United States national security, and upon United States nonproliferation objectives, of the use of co-production, subcontracting, and technology transfer with foreign governments or companies, that results from fulfilling offset requirements, with particular emphasis on the question of dependency upon foreign nations for the supply of critical components or technology; (b) proposals for unilateral, bilateral, or multilateral measures aimed at reducing any detrimental effects of offsets; and (c) an identification of the appropriate executive branch agencies to be responsible for monitoring the use of offsets in international defense trade.
+
+Sec. 4. Administration, Compensation, and Termination. (a) The Department of Defense will provide administrative support and funding for the Commission and Federal Government employees may be detailed to the Commission without reimbursement.
+
+(b) Members of the Commission who are not officers or employees of the Federal Government will be compensated at a rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), United States Code, for each day (including travel time) during which such member is engaged in performance of the duties of the Commission. Members of the Commission who are officers or employees of the Federal Government will serve without compensation in addition to that received for their services as officers or employees of the Federal Government.
+
+(c) Members of the Commission will be allowed travel expenses, including per diem in lieu of subsistence, under subchapter 1 of chapter 57 of title 5, United States Code, while on business in the performance of services for the Commission.
+
+(d) The Commission will terminate 30 days after transmitting the report required in section 1248(b) of Public Law 106–113 (113 Stat. 1501A–505) [set out in a note above].
+
+[Secs. 5 to 8. Revoked effective Sept. 30, 2003, by Ex. Ord. No. 13316, § 3(f), Sept. 17, 2003, 68 F.R. 55256.]
+
+
+<a id="section-4583"></a>
+## § 4583. Prohibition on investments
+**(a) In general** The Secretary may prohibit, in accordance with regulations issued under subsection (e), a United States person, including its controlled foreign entities, from knowingly engaging in a covered national security transaction in any prohibited technology.
+
+**(b) Evasion** Any action that evades or avoids, has the purpose of evading or avoiding, causes a violation of, or attempts to violate the prohibition set forth in subsection (a) is prohibited.
+
+**(c) Exemptions**
+
+(1) **National interest exemption** — Subject to subsection (d), the Secretary is authorized to exempt from the prohibition set forth in subsection (a) any activity determined by the President, in consultation with the Secretary, or delegated to the Secretary, in coordination with the Secretary of Commerce, the Secretary of State, and, as appropriate, the heads of other relevant Federal departments and agencies, to be in the national interest of the United States.
+
+(2) **Intelligence exemption** — Regulations issued under subsection (e) shall not apply to any authorized intelligence activities of the United States.
+
+**(d) Congressional notification** The Secretary shall—
+
+(1) notify the appropriate congressional committees not later than five business days after issuing an exemption under subsection (c); and
+
+(2) include in such notification an identification of the national interest justifying the use of the exemption, subject to appropriate confidentiality and classification requirements.
+
+**(e) Regulations**
+
+(1) **In general** — The Secretary, in consultation with the Secretary of Commerce, the Secretary of State and, as appropriate, the heads of other relevant Federal departments and agencies, may issue or update existing regulations to carry out this section subject to public notice and comment in accordance with subchapter II of chapter 5 and chapter 7 of title 5, and not subject to the requirements of [section 4559 of this title](./chapter-055-defense-production.md#section-4559). The regulations issued pursuant to this paragraph shall, as necessary, amend, terminate, supersede, revoke, or streamline existing requirements in part 850 of title 31, Code of Federal Regulations (the Outbound Investment Rule) and shall provide a reasonable timeframe for compliance.
+
+(2) **Non-binding feedback**
+
+  (A) *In general* — The regulations issued under paragraph (1) shall include a process under which a person can request to receive non-binding feedback on a confidential basis, or as anonymized guidance to the public, as to whether a transaction would constitute a covered national security transaction in a prohibited technology.
+
+  (B) *Authority to limit frivolous feedback requests* — In establishing the process required by subparagraph (A), the Secretary may prescribe limitations on requests for feedback identified as frivolous for purposes of this subsection.
+
+(3) **Notice; opportunity to cure**
+
+  (A) *In general* — The regulations issued under paragraph (1) shall account for whether a United States person has self-identified and self-disclosed a violation of the prohibition set forth in subsection (a) in determining the legal consequences of that violation.
+
+  (B) *Self-disclosure letters* — The regulations issued under paragraph (1) shall dictate the form and content of a letter of self-disclosure, which shall include relevant facts about the violation, why the United States person believes its activity to have violated the prohibition set forth in subsection (a), and a proposal for mitigation of the harm of such action.
+
+(4) **Low-burden regulations** — In issuing regulations under paragraph (1), the Secretary should balance the priority of protecting the national security interest of the United States while, to the extent practicable—
+
+  (A) minimizing the cost and complexity of compliance for affected parties, including the duplication of reporting requirements under current regulations;
+
+  (B) adopting the least burdensome alternative that achieves regulatory objectives; and
+
+  (C) prioritizing transparency and stakeholder involvement in the process of issuing the rules.
+
+(5) **Burden of proof** — In accordance with [section 556(d) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section556/d&num=0&edition=prelim), in an enforcement action for a violation of the prohibition set forth in subsection (a), the burden of proof shall be upon the Secretary.
+
+### Statutory Notes
+
+#### Comprehensive Outbound Investment National Security
+Pub. L. 119–60, div. H, title LXXXV, Dec. 18, 2025, 139 Stat. 1920, provided that: “Subtitle A—General Matters“SEC. 8501. SECRETARY DEFINED.“Except as otherwise provided, in this title [enacting this subchapter and this note], the term ‘Secretary’ means the Secretary of the Treasury. “SEC. 8502. SEVERABILITY.“If any provision of this title or any amendment made by this title, or the application thereof, is held invalid, the validity of the remainder of this title or any amendment made by this title and the application of such provision to other persons and circumstances shall not be affected thereby. “SEC. 8503. AUTHORIZATION OF APPROPRIATIONS.“(a) In General.—There is authorized to be appropriated $150,000,000 to the Department of the Treasury, out of which amounts may be transferred to the Department of Commerce to jointly conduct outreach to industry and persons affected by this title or any amendment made by this title, and to administer the provisions of this title or any amendment made by this title, for each of the first two fiscal years beginning on or after the date of the enactment of this title [Dec. 18, 2025], to carry out this title or any amendment made by this title. “(b) Hiring Authority.—“(1) By the president.—The President may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, United States Code, not more than 15 individuals directly to positions in the competitive service (as defined in section 2102 of that title) to carry out this title or any amendment made by this title. “(2) By agencies.—The Secretary and the Secretary of Commerce may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, United States Code, individuals directly to positions in the competitive service (as defined in section 2102 of that title) of the Department of the Treasury and the Department of Commerce, respectively, to carry out this title or any amendment made by this title. “SEC. 8504. SENSE OF CONGRESS.“It is the sense of Congress that—“(1) due to the fact that there are countless known and unknown entities in countries of concern, to include the People’s Republic of China (PRC), developing dual-use strategic technologies that benefit a foreign adversary’s military modernization efforts, surveillance states, and human rights abuses, restricting certain United States outbound investments into these technologies in countries of concern is necessary to prevent harm to United States national security and foreign policy interests; and “(2) the President should therefore exercise the authorities granted in this title or any amendment made by this title to prevent countries of concern from exploiting United States capital to undermine United States national security and foreign policy interests. “SEC. 8505. TERMINATION.“This title and any amendment made by this title shall cease to have any force or effect on the date that is seven years after the date of the enactment of this Act [Dec. 18, 2025]. “Subtitle B—Imposition of Sanctions“SEC. 8511. IMPOSITION OF SANCTIONS.“(a) In General.—The President may impose the sanctions described in subsection (b) with respect to any foreign person determined to be a covered foreign person. “(b) Sanctions Described.—The President may exercise all of the powers granted to the President under the International Emergency Economic Powers Act ([50 U.S.C. 1701](./chapter-035-international-emergency-economic-powers.md#section-1701) et seq.) to the extent necessary to prohibit any United States person from investing in or purchasing significant amounts of equity or debt instruments of a foreign person that is determined to be a covered foreign person pursuant to subsection (a). “(c) Penalties.—The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act ([50 U.S.C. 1705](./chapter-035-international-emergency-economic-powers.md#section-1705)) shall apply to any person who violates, attempts to violate, conspires to violate, or causes a violation of any prohibition of this section, or an order or regulation prescribed under this section, to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of such Act ([50 U.S.C. 1705(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1705/a&num=0&edition=prelim)). “(d) Exception for Intelligence and Law Enforcement Activities.—Sanctions under this section shall not apply with respect to—“(1) any activity subject to the reporting requirements under title V of the National Security Act of 1947 ([50 U.S.C. 3091](./chapter-044-national-security.md#section-3091) et seq.); or “(2) any authorized intelligence activities of the United States. “(e) Exception for United States Government Activities.—Nothing in this section shall prohibit transactions for the conduct of the official business of the Federal Government by employees, grantees, or contractors thereof. “(f) Report to Congress.—“(1) In general.—Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], and annually thereafter for seven years, the President shall submit to the appropriate congressional committees a report that states whether any foreign person on the Non-SDN Chinese Military-Industrial Complex Companies List is a covered foreign person. “(2) Form.—The report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex. “(g) Administrative Provisions.—The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act ([50 U.S.C. 1702](./chapter-035-international-emergency-economic-powers.md#section-1702) and 1704) to carry out this section. “(h) Rule of Construction.—Nothing in this section may be construed to limit the authority of the President to designate foreign persons for the imposition of sanctions pursuant to any other provision of Federal law, including the International Emergency Economic Powers Act ([50 U.S.C. 1701](./chapter-035-international-emergency-economic-powers.md#section-1701) et seq.). “SEC. 8512. DEFINITIONS.“In this subtitle:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Financial Services and the Committee on Foreign Affairs of the House of Representatives; and “(B) the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate. “(2) Country of concern.—The term ‘country of concern’ means the People’s Republic of China, including the Hong Kong and Macau Special Administrative Regions. “(3) Covered foreign person.—The term ‘covered foreign person’ means a foreign person—“(A) that is incorporated in, has a principal place of business in, or is organized under the laws of a country of concern; “(B) that is a member of the Central Committee of the Chinese Communist Party or member of the political leadership of a country of concern; “(C) that is the state or the government of a country of concern, as well as any political subdivision, agency, or instrumentality thereof; “(D) that is subject to the direction or control of any entity described in subparagraphs (A) through (C); or “(E) that is owned in the aggregate, directly or indirectly, 50 percent or more by an entity or a group of entities described in subparagraphs (A) through (C); and “(F) that knowingly engaged in significant operations in the defense and related materiel sector or the surveillance technology sector of the economy of a country of concern. “(4) Foreign person.—The term ‘foreign person’ means a person that is not a United States person. “(5) Knowingly.—The term ‘knowingly’, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result. “(6) Non-SDN chinese military-industrial complex companies list.—The term ‘Non-SDN Chinese Military-Industrial Complex Companies List’ means the list maintained by the Office of Foreign Assets Control of the Department of the Treasury under Executive Order 13959, as amended by Executive Order 14032 ([50 U.S.C. 1701](./chapter-035-international-emergency-economic-powers.md#section-1701) note; relating to addressing the threat from securities investments that finance certain companies of the People’s Republic of China), or any successor order. “(7) Person.—The term ‘person’ means an individual or entity. “(8) United states person.—The term ‘United States person’ means—“(A) any United States citizen or an alien lawfully admitted for permanent residence to the United States; “(B) an entity organized under the laws of the United States or of any jurisdiction within the United States (including any foreign branch of such an entity); or “(C) any person in the United States. “SEC. 8513. EXCEPTION RELATING TO IMPORTATION OF GOODS.“(a) In General.—The authorities and requirements to impose sanctions authorized under this title shall not include the authority or requirement to impose sanctions on the importation of goods. “(b) Good Defined.—In this section, the term ‘good’ means any article, natural or manmade substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data. “Subtitle C—Prohibition and Notification on Investments Relating to Covered National Security Transactions“SEC. 8521. PROHIBITION AND NOTIFICATION ON INVESTMENTS RELATING TO COVERED NATIONAL SECURITY TRANSACTIONS. “[Enacted this subchapter.] “Subtitle D—Securities and Related Matters“SEC. 8531. REQUIREMENTS RELATING TO THE NON-SDN CHINESE MILITARY-INDUSTRIAL COMPLEX COMPANIES LIST.“(a) Report.—“(1) In general.—Not later than two years after the date of the enactment of this Act [Dec. 18, 2025], and biennially thereafter for six years, the President shall submit to the appropriate congressional committees a report that states whether any of the following foreign persons qualifies for inclusion on the Non-SDN Chinese Military-Industrial Complex Companies List:“(A) Any PRC person listed on the Military End-User List (Supplement No. 7 to part 744 of the Export Administration Regulations). “(B) Any PRC person listed pursuant to section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 [Pub. L. 116–283] ([10 U.S.C. 113](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113&num=0&edition=prelim) note). “(C) Any PRC person listed on the Department of Commerce’s Entity List (Supplement No. 4 to part 744 of the Export Administration Regulations). “(D) Any PRC person listed on the Federal Communications Commission’s Covered List pursuant to the Secure and Trusted Communications Networks Act of 2019 ([47 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section1601&num=0&edition=prelim) [et seq.]). “(E) Any PRC person listed on the Uyghur Forced Labor Prevention Act Entity List pursuant to the Uyghur Forced Labor Prevention Act (P.L. 117–78) [[22 U.S.C. 6901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6901&num=0&edition=prelim) note]. “(2) Process required.—To prepare the reports required by paragraph (1), the President shall establish a process under which the Federal agencies responsible for administering the lists described in subparagraphs (A), (B), and (C) of paragraph (1) shall share with each other all relevant information that led to the identification of the entities described in such lists. “(3) Risk-based prioritization framework.—In making the initial determinations under paragraph (1), the Secretary may establish a risk-based prioritization framework factoring in prioritization of entity review submitted to the Secretary by the Federal agencies administering the lists described in subparagraphs (A), (B), and (C) of paragraph (1). “(4) Annual reports to the appropriate congressional committees.—The report under paragraph (1) may summarize findings concerning entities previously reviewed pursuant to this section that do not necessitate additional review by the Secretary. “(5) Matters to be included.—The Secretary shall include in the report required by paragraph (1) an overview of the criteria required for listing on the Non-SDN Chinese Military-Industrial Complex Companies List. The heads of the Federal agencies administering the lists described in subparagraphs (A), (B), and (C) of paragraph (1) shall provide to the Secretary for use in the report an overview of the criteria for entity identification or listing on each respective list. “(b) Definitions.—In this section:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Financial Services and the Committee on Foreign Affairs of the House of Representatives; and “(B) the Committee on Banking, Housing, and Urban Affairs of the Senate. “(2) Country of concern.—The term ‘country of concern’—“(A) means the People’s Republic of China; and “(B) includes the Hong Kong Special Administrative Region and the Macau Special Administrative Region. “(3) Non-SDN chinese military-industrial complex companies list.—The term ‘Non-SDN Chinese Military-Industrial Complex Companies List’ means the list maintained by the Office of Foreign Assets Control of the Department of the Treasury under Executive Order 13959, as amended by Executive Order 14032 ([50 U.S.C. 1701](./chapter-035-international-emergency-economic-powers.md#section-1701) note; relating to addressing the threat from securities investments that finance certain companies of the People’s Republic of China), and any successor order. “(4) PRC person.—The term ‘PRC person’ means a foreign person that—“(A) is incorporated in a principal place of business in, or is organized under the laws of, a country of concern; “(B) is a member of the Central Committee of the Chinese Communist Party; “(C) is the state or the government of a country of concern, as well as any political subdivision, agency, or instrumentality thereof; or “(D) is owned in the aggregate, directly or indirectly, 50 percent or more by an entity or a group of entities described in subparagraph (A), (B), or (C).”
+
+
+<a id="section-4584"></a>
+## § 4584. Notification on investments
+**(a) Mandatory notification** Not later than 450 days after December 18, 2025, the Secretary shall issue regulations prescribed in accordance with subsection (b), to require a United States person that itself or whose controlled foreign entity knowingly engages in a covered national security transaction in a prohibited technology (unless the Secretary has exercised the authority provided by [section 4581(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4581/a&num=0&edition=prelim) to prohibit knowingly engaging in such covered national security transaction) or a notifiable technology to submit to the Secretary a written notification of the transaction not later than 30 days after the completion date of the transaction.
+
+**(b) Regulations**
+
+(1) **In general** — Not later than 450 days after December 18, 2025, the Secretary, in consultation with the Secretary of Commerce, the Secretary of State, and, as appropriate, the heads of other relevant Federal departments and agencies, shall issue regulations to carry out this section subject to public notice and comment in accordance with subchapter II of chapter 5 and chapter 7 of title 5, and not subject to the requirements of [section 4559 of this title](./chapter-055-defense-production.md#section-4559). The regulations issued pursuant to this paragraph shall as necessary, amend, terminate, supersede, revoke, or streamline existing requirements in part 850 of title 31, Code of Federal Regulations (the Outbound Investment Rule) and shall provide a reasonable timeframe for compliance.
+
+(2) **Low-burden regulations** — In issuing regulations under paragraph (1), the Secretary should balance the priority of protecting the national security interest of the United States while, to the extent practicable—
+
+  (A) minimizing the cost and complexity of compliance for affected parties, including the duplication of reporting requirements under current regulation;
+
+  (B) adopting the least burdensome alternative that achieves regulatory objectives; and
+
+  (C) prioritizing transparency and stakeholder involvement in the process of issuing the rules.
+
+(3) **Burden of proof** — In accordance with [section 556(d) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section556/d&num=0&edition=prelim), in an enforcement action for a violation of the prohibition set forth in subsection (a), the burden of proof shall be upon the Secretary.
+
+(4) **Completeness of notification**
+
+  (A) *In general* — The Secretary shall, upon receipt of a notification under subsection (a), promptly inspect the notification for completeness.
+
+  (B) *Incomplete notifications* — If a notification submitted under subsection (a) is incomplete, the Secretary shall promptly inform the United States person that submits the notification that the notification is not complete and provide an explanation of relevant material respects in which the notification is not complete.
+
+(5) **Identification of non-notified activity** — The Secretary shall establish a process to identify covered national security transactions in a prohibited technology or a notifiable technology for which—
+
+  (A) a notification is not submitted to the Secretary under subsection (a); and
+
+  (B) information is reasonably available.
+
+**(c) Inapplicability** If the Secretary prohibits a covered national security transaction in a prohibited technology under [section 4581 of this title](./chapter-055-defense-production.md#section-4581), the requirements of this section shall not apply with respect to the covered national security transaction.
+
+
+<a id="section-4585"></a>
+## § 4585. Report
+**(a) In general** Not later than 18 months after December 18, 2025, and not less frequently than annually thereafter, the Secretary, in consultation with the Secretary of Commerce and, as appropriate, the heads of other relevant Federal departments and agencies, shall submit to the appropriate congressional committees a report, subject to appropriate confidentiality and classification requirements, that—
+
+(1) lists all enforcement actions taken subject to the existing regulations and regulations issued under section 11 So in original. Probably should be “sections”. 4581(e) and 4582(b) of this title during the year preceding submission of the report, which includes, with respect to each such action, a description of—
+
+  (A) the prohibited technology or notifiable technology;
+
+  (B) the covered national security transaction;
+
+  (C) the covered foreign person; and
+
+  (D) the relevant United States person;
+
+(2) provides an assessment of the definition of the term “prohibited technology” under existing regulations or regulations issued under section 4581(e) or 4582(b) of this title by—
+
+  (A) identifying additional technologies that the Secretary, in consultation with the Secretary of Commerce and, as applicable, the Secretary of Defense, the Secretary of State, the Secretary of Energy, the Director of National Intelligence, and the heads of any other relevant Federal agencies, determined under existing regulations or regulations issued pursuant to 4581(e) 22 So in original. Probably should be preceded by “section”. of this title may pose an acute threat to the national security of the United States if developed or acquired by a country of concern;
+
+  (B) explaining why each technology identified in subparagraph (A) may pose an acute threat to the national security of the United States if developed or acquired by a country of concern; and
+
+  (C) describing any removal of technologies from the category of prohibited technology under existing regulations or regulations issued under [section 4581(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4581/e&num=0&edition=prelim) during the reporting period to the extent that the technologies no longer pose an acute threat to the national security of the United States if developed or acquired by a country of concern;
+
+(3) lists all notifications submitted under existing regulations or regulations issued section 33 So in original. Probably should be preceded by “under”. 4582 of this title during the year preceding submission of the report and includes, with respect to each such notification—
+
+  (A) basic information on each party to the covered national security transaction with respect to which the notification was submitted; and
+
+  (B) the nature of the covered national security transaction that was the subject of the notification, including the elements of the covered national security transaction that necessitated a notification;
+
+(4) includes a summary of those notifications, disaggregated by prohibited technology, by notifiable technology, by covered national security transaction, and by country of concern;
+
+(5) provides additional context and information regarding trends in the prohibited technology, notifiable technology, the types of covered national security transaction, and the countries involved in those notifications; and
+
+(6) assesses the overall impact of those notifications, including recommendations for—
+
+  (A) expanding existing Federal programs to support the production or supply of prohibited technologies or notifiable technologies in the United States, including the potential of existing authorities to address any related national security concerns;
+
+  (B) investments needed to enhance prohibited technologies or notifiable technologies and reduce United States dependence on countries of concern regarding those technologies; and
+
+  (C) the continuation, expansion, or modification of the implementation and administration of this subchapter.
+
+**(b) Consideration of certain information** In preparing the report pursuant to subsection (a), the Secretary—
+
+(1) shall consider information provided jointly by the chairperson and ranking member of any of the appropriate congressional committees;
+
+(2) may consider credible information obtained by other countries and nongovernmental organizations that monitor the military, surveillance, intelligence, or technology capabilities of a country of concern; and
+
+(3) may consider any other information that the Secretary deems relevant.
+
+**(c) Form of report** Each report required by this section shall be submitted in unclassified form, but may include a classified annex.
+
+**(d) Testimony required** Not later than one year after December 18, 2025, and annually thereafter for five years, the Secretary and the Secretary of Commerce, or their designee, shall each provide to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committees on Foreign Affairs and Financial Services of the House of Representatives testimony with respect to the national security threats relating to investments by United States persons in countries of concern and broader international capital flows.
+
+**(e) Requests by appropriate congressional committees**
+
+(1) **In general** — After receiving a request that meets the requirements of paragraph (2) with respect to whether a technology should be included in the amendments as described in subsection (a)(2), the Secretary shall, in preparing the report pursuant to subsection (a)—
+
+  (A) determine if that technology may pose an acute threat to the national security of the United States if developed or acquired by a country of concern; and
+
+  (B) include in the report pursuant to subsection (a) an explanation with respect to that determination that includes—
+
+    (i) a statement of whether or not the technology, as determined by the Secretary, may pose an acute threat to the national security of the United States if developed or acquired by a country of concern; and
+
+    (ii) if the Secretary determines that—
+
+      (I) the technology may pose an acute threat to the national security of the United States if developed or acquired by a country of concern, an explanation for such determination and a recommendation whether that technology should be named a prohibited technology or a notifiable technology; and
+
+      (II) the technology would not pose an acute threat to the national security of the United States if developed or acquired by a country of concern, an explanation for such determination.
+
+(2) **Requirements** — A request under paragraph (1) with respect to whether a technology may pose an acute threat to the national security of the United States if developed or acquired by a country of concern shall be submitted to the Secretary in writing jointly by the chairperson and ranking member of 1 or more of the appropriate congressional committees.
+
+
+<a id="section-4586"></a>
+## § 4586. Multilateral engagement and coordination
+**(a) Authorities** The Secretary, in coordination with the Secretary of State, the Secretary of Commerce, and the heads of other relevant Federal agencies, should—
+
+(1) conduct bilateral and multilateral engagement with the governments of countries that are allies and partners of the United States to promote and increase coordination of protocols and procedures to facilitate the effective implementation of and appropriate compliance with the prohibitions and notification requirement pursuant to this subchapter;
+
+(2) upon adoption of protocols and procedures described in paragraph (1), work with those governments to establish mechanisms for sharing information, including trends, with respect to such activities; and
+
+(3) work with and encourage the governments of countries that are allies and partners of the United States to develop similar mechanisms of their own, for the exclusive purpose of preventing the development of prohibited technologies by a country of concern.
+
+**(b) Strategy for multilateral engagement and coordination** Not later than 180 days after the date of the regulations implementing enactment of this subchapter, the Secretary, in coordination with the Secretary of State, the Secretary of Commerce, and the heads of other relevant Federal agencies, should—
+
+(1) develop a strategy to work with the governments of countries that are allies and partners of the United States to develop mechanisms that are comparable to the prohibitions and notification requirements pursuant to this subchapter, for the exclusive purpose of preventing the development of prohibited technologies by a country of concern; and
+
+(2) assess opportunities to provide technical assistance to those countries with respect to the development of those mechanisms.
+
+**(c) Report** Not later than one year after the date of the regulations implementing enactment of this subchapter, and annually thereafter for four years, the Secretary shall submit to the appropriate congressional committees a report, subject to the appropriate confidentiality and classification requirements, that includes—
+
+(1) a discussion of any strategy developed pursuant to subsection (b)(1), including key tools and objectives for the development of comparable mechanisms by the governments of allies and partners of the United States;
+
+(2) a list of partner and allied countries to target for cooperation in developing their own prohibitions;
+
+(3) the status of the strategy’s implementation and outcomes; and
+
+(4) a description of impediments to the establishment of comparable mechanisms by governments of allies and partners of the United States.
+
+**(d) Appropriate congressional committees defined** In this section, the term “appropriate congressional committees” means—
+
+(1) the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate; and
+
+(2) the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives.
+
+
+<a id="section-4587"></a>
+## § 4587. Public database of covered foreign persons
+**(a) In general** The Secretary, in consultation with the Secretary of Commerce, may establish a publicly accessible, non-exhaustive database that identifies covered foreign persons that are either engaged in a prohibited technology or a notifiable technology pursuant to this subchapter.
+
+**(b) Modification process** The Secretary, in consultation with the Secretary of Commerce, is authorized to establish a mechanism for a covered foreign person to petition for their removal from or inclusion in the publicly accessible, non-exhaustive database described in (a).11 So in original. Probably should be preceded by “subsection”.
+
+**(c) Confidentiality of evidence** The Secretary shall establish a mechanism for the public, including Congress, stakeholders, investors, and nongovernmental organizations, to submit evidence on a confidential basis regarding whether a foreign person is a covered foreign person in a prohibited technology or notifiable technology and should be included in the database described in subsection (a), if any.
+
+**(d) Rule of construction** The database described in subsection (a), if any, shall not be considered to be an exhaustive or comprehensive list of covered foreign persons for the purposes of this subchapter.
+
+
+<a id="section-4588"></a>
+## § 4588. Rule of construction
+
+Nothing in this subchapter may be construed to negate the authority of the President under any authority, process, regulation, investigation, enforcement measure, or review provided by or established under any other provision of Federal law, including the International Emergency Economic Powers Act ([50 U.S.C. 1701](./chapter-035-international-emergency-economic-powers.md#section-1701) et seq.), or any other authority of the President or the Congress under the Constitution of the United States.
+
+### Statutory Notes
+
+#### References in Text
+The International Emergency Economic Powers Act, referred to in text, is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title](./chapter-035-international-emergency-economic-powers.md#section-1701) and Tables.
+
+
+<a id="section-4589"></a>
+## § 4589. Penalties
+**(a) In general** The regulations issued under section 4581 or 4582 of this title shall provide for the imposition of civil penalties described in subsection (b).
+
+**(b) Penalties described**
+
+(1) **Unlawful acts** — It shall be unlawful for a person to violate, attempt to violate, conspire to violate, or cause a violation of any order, regulation, notification requirement, or prohibition issued under this subchapter.
+
+(2) **Civil penalty** — The Secretary may impose civil penalties on any person who commits an unlawful act described in paragraph (1) in amounts equivalent to amounts provided for under section 206(b) of the International Emergency Economic Powers Act ([50 U.S.C. 1705(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1705/b&num=0&edition=prelim)) for violations under that Act.
+
+(3) **Divestment** — The Secretary may compel the divestment of a covered national security transaction in a prohibited technology determined to be in violation of [section 4581(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4581/a&num=0&edition=prelim) or regulations issued thereunder.
+
+(4) **Relief** — The President may direct the Attorney General of the United States to seek appropriate relief, including divestment relief for violations of the prohibition set forth in subsection 11 So in original. Probably should be “section”. 4581(a) of this title, in the district courts of the United States, in order to implement and enforce this subchapter.
+
+### Statutory Notes
+
+#### References in Text
+The International Emergency Economic Powers Act, referred to in subsec. (b)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title](./chapter-035-international-emergency-economic-powers.md#section-1701) and Tables.

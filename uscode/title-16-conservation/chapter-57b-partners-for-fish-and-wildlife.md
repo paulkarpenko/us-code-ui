@@ -33,6 +33,9 @@ source: >-
 #### References in Text
 Executive Order No. 13352, referred to in subsec. (a)(6), is Ex. Ord. No. 13352, Aug. 26, 2004, 69 F.R. 52989, which is set out as a note under [section 4332 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332&num=0&edition=prelim), The Public Health and Welfare.
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–159, div. E, title LIII, § 5301, Dec. 23, 2024, 138 Stat. 2445, provided that: “This subtitle [subtitle A (§§ 5301–5308) of title LIII of div. E of Pub. L. 118–159, amending sections 3774, 4211, 4245, 4264, 4266, 5304, 5306, 6303, 6305, 6603, and 6606 of this title and enacting provisions set out as a note under [section 4201 of this title](./chapter-062-african-elephant-conservation.md#section-4201)] may be cited as the ‘Wildlife Innovation and Longevity Driver reauthorization Act’ or the ‘WILD Act’.”
+
 #### Short Title
 Pub. L. 109–294, § 1, Oct. 3, 2006, 120 Stat. 1351, provided that: “This Act [enacting this chapter] may be cited as the ‘Partners for Fish and Wildlife Act’.”
 
@@ -128,9 +131,11 @@ The Secretary shall carry out the Partners for Fish and Wildlife Program within 
 <a id="section-3774"></a>
 ## § 3774. Authorization of appropriations
 
-There is authorized to be appropriated to carry out this chapter not more than $75,000,000 for each of fiscal years 2019 through 2023.
+There is authorized to be appropriated to carry out this chapter not more than $75,000,000 for each of fiscal years 2025 through 2029.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Pub. L. 118–159 substituted “2025 through 2029” for “2019 through 2023”.
+
 2019—Pub. L. 116–9 substituted “2019 through 2023” for “2006 through 2011”.

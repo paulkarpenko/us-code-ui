@@ -49,13 +49,19 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (1) Within the time periods specified in paragraph (3), the Secretary concerned shall (except as provided in paragraph (4)) provide for individual preseparation counseling of each member of the armed forces whose discharge (regardless of character of discharge) or release from active duty is anticipated as of a specific date. A notation of the provision of such counseling with respect to each matter specified in subsection (b), signed by the member, shall be placed in the service record of each member receiving such counseling.
 
-(2) In carrying out this section, the Secretary concerned shall use the services available under [section 1144 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1144).
+(2)
+
+  (A) In carrying out this section, the Secretary concerned shall use the services available under [section 1144 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1144).
+
+  (B) Preseparation counseling may be provided in person to the extent practicable. If the Secretary concerned determines that it is infeasible for a member to attend such counseling in person, such member may receive such counseling remotely, with online access to modules and reading materials.
 
 (3)
 
   (A) In the case of an anticipated retirement, preseparation counseling shall commence as soon as possible during the 24-month period preceding the anticipated retirement date. In the case of a separation other than a retirement, preseparation counseling shall commence not later than 365 days before the anticipated date. Except as provided in subparagraph (B), in no event shall preseparation counseling commence later than 365 days before the date of retirement or other separation.
 
   (B) In the event that a retirement or other separation is unanticipated until there are 365 or fewer days before the anticipated retirement or separation date, or in the event a member of a reserve component is being demobilized under circumstances in which (as determined by the Secretary concerned) operational requirements make the 365-day requirement under subparagraph (A) unfeasible, preseparation counseling shall begin as soon as possible within the remaining period of service.
+
+  (C) The Secretary of Defense may implement a system to track how many, and what percentage of, members begin to receive preseparation counseling within time periods specified in this paragraph.
 
 (4)
 
@@ -68,6 +74,14 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
     (i) the member performed full-time training duty or annual training duty; and
 
     (ii) the member attended, while in the active military service, a school designated as a service school by law or by the Secretary concerned.
+
+  (D) The Secretary concerned may waive the requirement for preseparation counseling under paragraph (1) in the case of a member of the reserve components if—
+
+    (i) the member requests such a waiver;
+
+    (ii) the member received preseparation counseling during the period of three years preceding the date of such request; and
+
+    (iii) matters covered by such counseling, specified in subsection (b), have not changed since the member last received such counseling.
 
 **(b) Matters To Be Covered By Counseling.—** Counseling under this section shall include the following:
 
@@ -93,7 +107,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (8) Counseling (for the member and dependents) on the effect of career change on individuals and their families and the availability to the member and dependents of suicide prevention resources following separation from the armed forces.
 
-(9) Financial planning assistance, including information on budgeting, saving, credit, loans, and taxes.
+(9)
+
+  (A) Financial planning assistance, including information on budgeting, saving, credit, loans and debt management,,11 So in original. and taxes.
+
+  (B) Individualized assistance regarding matters described in subparagraph (A).
 
 (10) The creation of a transition plan for the member to attempt to achieve the educational, training, employment, and financial objectives of the member and, if the member has a spouse, the spouse of the member.
 
@@ -117,7 +135,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(c) Counseling Pathways.—**
 
-(1) Each Secretary concerned, in consultation with the Secretaries of Labor and Veterans Affairs, shall establish at least three pathways for members of the military department concerned receiving individualized counseling under this section. The Secretaries shall design the pathways to address the needs of members, based on the following factors:
+(1) Each Secretary concerned, in consultation with the Secretaries of Labor and Veterans Affairs, shall establish at least three pathways for members of the military department concerned (including one pathway for members of the reserve components) receiving individualized counseling under this section. The Secretaries shall design the pathways to address the needs of members, based on the following factors:
 
   (A) Rank.
 
@@ -157,7 +175,15 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
     (iii) enrollment in a program of vocational training.
 
-  (M) Other factors the Secretary of Defense and the Secretary of Homeland Security, in consultation with the Secretaries of Labor and Veterans Affairs, determine appropriate.
+  (M) Child care requirements of the member (including whether a dependent of the member is enrolled in the Exceptional Family Member Program).
+
+  (N) The employment status of other adults in the household of the member.
+
+  (O) The location of the duty station of the member (including whether the member was separated from family while on duty).
+
+  (P) The effects of operating tempo and personnel tempo on the member and the household of the member.
+
+  (R) 22 So in original. There is no subpar. (Q). Other factors the Secretary of Defense and the Secretary of Homeland Security, in consultation with the Secretaries of Labor and Veterans Affairs, determine appropriate.
 
 (2) Each member described in subsection (a) shall meet in person or by video conference with a counselor before beginning counseling under this section to—
 
@@ -188,6 +214,18 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a)(2). Pub. L. 119–60, § 571(a), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (a)(3)(C). Pub. L. 119–60, § 571(b), added subpar. (C).
+
+Subsec. (a)(4)(D). Pub. L. 119–60, § 571(c), added subpar. (D).
+
+Subsec. (b)(9). Pub. L. 119–60, § 571(d), which directed amendment of par. (9) of subsec. (a), by designating existing provisions as subpar. (A), inserting “and debt management,” after “loans”, and adding subpar. (B), was executed to par. (9) of subsec. (b), to reflect the probable intent of Congress.
+
+Subsec. (c)(1)(M) to (P), (R). Pub. L. 119–60, § 572, added subpars. (M) to (P) and redesignated former subpar. (M) as (R).
+
+2024—Subsec. (c)(1). Pub. L. 118–159 inserted “(including one pathway for members of the reserve components)” after “military department concerned” in introductory provisions.
+
 2023—Subsec. (c)(1)(E). Pub. L. 118–31, § 571(1), substituted “Potential or confirmed disability” for “Disability”.
 
 Subsec. (c)(1)(F). Pub. L. 118–31, § 571(2), substituted “Potential or confirmed character” for “Character”.
@@ -288,7 +326,7 @@ Pub. L. 117–81, div. A, title V, § 523(b), Dec. 27, 2021, 135 Stat. 1687, pro
 Pub. L. 116–92, div. A, title V, § 570C, Dec. 20, 2019, 133 Stat. 1399, provided that: “Not later than September 30, 2020, the Secretary of Defense shall modify the preseparation counseling checklist for active component, active guard reserve, active reserve, full time support, and reserve program administrator service members (DD Form 2648) to include a specific block wherein a member of the Armed Forces may indicate that the member would like to receive information regarding the immigration status of that member and expedited naturalization.”
 
 #### Connections of Members Retiring or Separating From the Armed Forces With Community-Based Organizations and Related Entities
-Pub. L. 116–92, div. A, title V, § 570F, Dec. 20, 2019, 133 Stat. 1401, provided that: “(a) In General.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly seek to enter into memoranda of understanding or other agreements with State veterans agencies under which information from Department of Defense Form DD–2648 on individuals undergoing retirement, discharge, or release from the Armed Forces is transmitted to one or more State veterans agencies, as elected by such individuals, to provide or connect veterans to benefits or services as follows:“(1) Assistance in preparation of resumes. “(2) Training for employment interviews. “(3) Employment recruitment training. “(4) Other services leading directly to a successful transition from military life to civilian life. “(5) Healthcare, including care for mental health. “(6) Transportation or transportation-related services. “(7) Housing. “(8) Such other benefits or services as the Secretaries jointly consider appropriate for purposes of this section. “(b) Information Transmitted.—The information transmitted on individuals as described in subsection (a) shall be such information on Form DD–2648 as the Secretaries jointly consider appropriate to facilitate community-based organizations and related entities in providing or connecting such individuals to benefits and services as described in subsection (a). “(c) Modification of Form DD–2648.—The Secretary of Defense shall make such modifications to Form DD–2648 as the Secretary considers appropriate to allow an individual filling out the form to indicate an email address at which the individual may be contacted to receive or be connected to benefits or services described in subsection (a). “(d) Voluntary Participation.—Information on an individual may be transmitted to and through a State veterans agency as described in subsection (a) only with the consent of the individual. In giving such consent, an individual shall specify the following:“(1) The State veterans agency or agencies elected by the individual to transmit such information as described in subsection (a). “(2) The benefits and services for which contact information shall be so transmitted. “(3) Such other information on the individual as the individual considers appropriate in connection with the transmittal.”
+Pub. L. 116–92, div. A, title V, § 570F, Dec. 20, 2019, 133 Stat. 1401, as amended by Pub. L. 119–60, div. A, title V, § 573, Dec. 18, 2025, 139 Stat. 887, provided that: “(a) In General.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly seek to enter into memoranda of understanding or other agreements with State veterans agencies under which information from Department of Defense Form DD–2648 on individuals undergoing retirement, discharge, or release from the Armed Forces is transmitted to one or more State veterans agencies, as elected by such individuals, to provide or connect veterans to benefits or services as follows:“(1) Assistance in preparation of resumes. “(2) Training for employment interviews. “(3) Employment recruitment training. “(4) Other services leading directly to a successful transition from military life to civilian life. “(5) Healthcare, including care for mental health. “(6) Transportation or transportation-related services. “(7) Housing. “(8) Such other benefits or services as the Secretaries jointly consider appropriate for purposes of this section. “(b) Information Transmitted.—The information transmitted on individuals as described in subsection (a) shall be such information on Form DD–2648 as the Secretaries jointly consider appropriate to facilitate community-based organizations and related entities in providing or connecting such individuals to benefits and services as described in subsection (a). “(c) Modification of Form DD–2648.—The Secretary of Defense shall make such modifications to Form DD–2648 as the Secretary considers appropriate to allow an individual filling out the form to indicate—“(1) an email address at which the individual may be contacted to receive or be connected to benefits or services described in subsection (a); and “(2) if the individual would like to opt-out of the transmittal of the individual’s information to and through a State veterans agency as described in subsection (a). “(d) Opt-out of Information Sharing.—Information on an individual shall be transmitted to and through a State veterans agency as described in subsection (a) unless the individual indicates pursuant to subsection (c)(2) that the individual would like to opt out of such transmittal. “(e) Storage and Transfer of Information.—“(1) In general.—The Secretary of Defense shall seek to enter into memoranda of understanding or other agreements with the State veterans agencies described in subsection (a) to create or modify a Department system to store and transfer information under this section to information systems of such State veterans agencies. “(2) Compliance.—The Secretary shall ensure that any agreement entered into under paragraph (1) is in compliance with—“(A) applicable provisions of law relating to privacy and personally identifiable information; and “(B) applicable policies relating to cybersecurity of Department information systems and State information systems. “(f) Limitation on Use of Information.—Information transferred under this section may only be used by a State for the purpose of providing or connecting veterans to benefits or services as described in subsection (a).”
 
 #### Deadline for Counseling Pathways
 Pub. L. 115–232, div. A, title V, § 552(a)(2), Aug. 13, 2018, 132 Stat. 1770, provided that: “Each Secretary concerned shall carry out subsection (c) of such section [[10 U.S.C. 1142(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1142/c&num=0&edition=prelim)], as amended by paragraph (1), not later than 1 year after the date of the enactment of this Act [Aug. 13, 2018].”
@@ -342,7 +380,7 @@ Pub. L. 103–337, div. A, title V, § 543(h), Oct. 5, 1994, 108 Stat. 2772, pro
 
 (1)
 
-  (a) 11 So in original. Probably should be “(A)”. The Secretary concerned may carry out one or more programs to provide eligible members of the armed forces under the jurisdiction of the Secretary with job training and employment skills training, including apprenticeship programs, to help prepare such members for employment in the civilian sector. Such a program shall be known as “Skillbridge”.
+  (A) The Secretary concerned may carry out one or more programs to provide eligible members of the armed forces under the jurisdiction of the Secretary with job training and employment skills training, including apprenticeship programs, to help prepare such members for employment in the civilian sector. Such a program shall be known as “Skillbridge”.
 
   (B) The Secretary of a military department shall carry out one or more programs under this subsection.
 
@@ -371,6 +409,8 @@ Pub. L. 103–337, div. A, title V, § 543(h), Oct. 5, 1994, 108 Stat. 2772, pro
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (e)(1). Pub. L. 119–60 substituted “(A)” for “(a)”.
+
 2023—Subsec. (e)(1). Pub. L. 118–31, § 572(a)(1), designated existing provisions as subpar. “(a)” and added subpar. (B).
 
 Subsec. (e)(3) to (6). Pub. L. 118–31, § 572(a)(2), (3), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
@@ -421,6 +461,9 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 #### Regulations
 Pub. L. 117–263, div. A, title V, § 561(b), Dec. 23, 2022, 136 Stat. 2598, provided that: “To carry out Skillbridge, the Secretary of Defense shall, not later than September 30, 2023— “(1) update Department of Defense Instruction 1322.29, titled ‘Job Training, Employment Skills Training, Apprenticeships, and Internships (JTEST-AI) for Eligible Service Members’; and “(2) develop a funding plan for Skillbridge that includes funding lines across the future-years defense program under [section 221 of title 10](./chapter-009-defense-budget-matters.md#section-221), United States Code.”
+
+#### Military Training and Competency Records
+Pub. L. 118–159, div. A, title V, § 574, Dec. 23, 2024, 138 Stat. 1909, provided that: “(a) Competency Records.—“(1) In general.—The Secretary of a military department shall provide, to each member of a covered Armed Force under the jurisdiction of such Secretary, a document that outlines the training and qualifications acquired by the member while serving in such covered Armed Force. Such document shall be known as a ‘competency record’. “(2) Format and contents.—The Secretary of Defense shall develop a standardized format for competency records, which shall include, at a minimum, the following information:“(A) Relevant personal details about the member. “(B) Description of training courses, certifications, and qualifications obtained. “(C) Date and duration of each completed training. “(D) Authorized signatures and other necessary authentication. “(3) Availability.—A competency record shall be provided to a member upon the separation or retirement of such member from a covered Armed Force. “(b) Implementation.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall establish the necessary regulations, procedures, and timelines for the implementation of this section. “(c) Report.—Not later than two years after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation and usefulness of competency records and any recommendations of the Secretary for improving competency records. The report shall include feedback and recommendations from States and other employers regarding the usability and accuracy of the information in the competency records. “(d) Covered Armed Force Defined.—In this section, the term ‘covered Armed Force’ means the Army, Navy, Marine Corps, Air Force, or Space Force.”
 
 #### Authority To Expand Eligibility for the United States Military Apprenticeship Program
 Pub. L. 115–91, div. A, title V, § 546, Dec. 12, 2017, 131 Stat. 1397, provided that: “(a) Expansion Authorized.—The Secretary of Defense may expand eligibility for the United Services Military Apprenticeship Program to include any member of the uniformed services. “(b) Definition.—In this section, the term ‘uniformed services’ has the meaning given such term in [section 101(a)(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/5&num=0&edition=prelim), United States Code.”
@@ -630,6 +673,9 @@ Amendment by section 221(a) of Pub. L. 112–56 effective on the date that is 1 
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
+
+#### Pilot Program for Military Spouses
+Pub. L. 119–60, div. A, title V, § 571(f), Dec. 18, 2025, 139 Stat. 885, provided that: “(1) Authority.—Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense may establish a pilot program for spouses of members of the covered Armed Forces who are eligible to receive preseparation counseling under TAP. “(2) Voluntary basis.—Participation in such a pilot program shall be on a voluntary basis. “(3) Curriculum.—The Secretary of Defense, in coordination with the Secretary of Veterans Affairs and the Secretary of Labor, shall establish a curriculum based on TAP for such a pilot program. The Secretary of Defense shall notify the Committees on Armed Services of the Senate and House of Representatives and the Committees on Veterans’ Affairs of the Senate and House of Representatives of such establishment[.] “(4) Counseling.—Counseling under such a pilot program shall—“(A) be tailored to the military spouse and family; “(B) be offered at least once per calendar quarter at each location selected under paragraph (5); “(C) be scheduled and delivered in a manner that maximizes accessibility for military spouses, including through flexible or alternative scheduling options; and “(D) include at least one hour regarding benefits and assistance available to military families and veterans from each department under the jurisdiction of the Secretaries specified in paragraph (3). “(5) Locations.—The Secretary of Defense shall carry out such a pilot program at not more than five military installations. At least one such location shall be located outside the continental United States. “(6) Report.—During the term of pilot program, the Secretary of Defense shall submit to the Committees on Armed Services and on Veterans’ Affairs of the Senate and House of Representatives an annual report regarding the pilot program. Such report shall include elements the Secretary determines appropriate, including the recommendation of the Secretary whether the pilot program should be made permanent or expanded. “(7) Termination.—Such a pilot program shall terminate three years after the Secretary of Defense establishes the pilot program. “(8) Definitions.—In this subsection:“(A) The term ‘covered Armed Force’ means the Army, Navy, Marine Corps, Air Force, or Space Force. “(B) The term ‘TAP’ means the Transition Assistance Program under sections 1142 and 1144 of title 10, United States Code.”
 
 #### Command Matters in Connection With Transition Assistance Programs
 Pub. L. 116–92, div. A, title V, § 568, Dec. 20, 2019, 133 Stat. 1397, provided that: “The training provided a commander of a military installation in connection with the commencement of assignment to the installation shall include a module on the covered transition assistance programs available for members of the Armed Forces assigned to the installation.”
@@ -1379,13 +1425,11 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
   (C)
 
-    (i) The total number of stipends that may be paid under subparagraph (A) in any fiscal year may not exceed 5,000.
+    (i) The total number of stipends that may be paid under subparagraph (A) in any fiscal year may not exceed 3,000.
 
     (ii) The total number of bonuses that may be paid under subparagraph (B) in any fiscal year may not exceed 3,000.
 
-    (iii) A participant may not receive a stipend under subparagraph (A) if the participant is eligible for benefits under chapter 33 of title 38.
-
-    (iv) The combination of a stipend under subparagraph (A) and a bonus under subparagraph (B) for any one participant may not exceed $10,000.
+    (iii) The combination of a stipend under subparagraph (A) and a bonus under subparagraph (B) for any one participant may not exceed $10,000.
 
 (4) **Treatment of stipend and bonus.—** — A stipend or bonus paid under this subsection to a participant shall be taken into account in determining the eligibility of the participant for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.).
 
@@ -1437,7 +1481,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(j) Limitation on Total Fiscal-year Obligations.—** The total amount obligated by the Secretary under the Program for any fiscal year may not exceed $15,000,000.
 
-**(k) Sunset.—** The Program shall terminate on July 1, 2027, with respect to the selection of new participants for the program. Participants in the Program as of that date may complete their program, and remain eligible for benefits under this section.
+**(k) Sunset.—** The Program shall terminate on July 1, 2029, with respect to the selection of new participants for the program. Participants in the Program as of that date may complete their program, and remain eligible for benefits under this section.
 
 ### Statutory Notes
 
@@ -1453,6 +1497,12 @@ The Social Security Act, referred to in subsec. (a)(3)(A), is act Aug. 14, 1935,
 The Higher Education Act of 1965, referred to in subsec. (e)(4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2024—Subsec. (e)(3)(C)(i). Pub. L. 118–159, § 572(1)(A), substituted “3,000” for “5,000”.
+
+Subsec. (e)(3)(C)(iii), (iv). Pub. L. 118–159, § 572(1)(B), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “A participant may not receive a stipend under subparagraph (A) if the participant is eligible for benefits under chapter 33 of title 38.”
+
+Subsec. (k). Pub. L. 118–159, § 572(2), substituted “2029” for “2027”.
+
 2023—Subsec. (a)(2)(C). Pub. L. 118–31, § 573(1)(A), added subpar. (C).
 
 Subsec. (a)(3)(D). Pub. L. 118–31, § 573(1)(B), added subpar. (D).

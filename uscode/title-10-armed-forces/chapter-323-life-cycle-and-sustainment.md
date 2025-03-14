@@ -61,53 +61,37 @@ Pub. L. 108–375, div. A, title VIII, § 805(b), Oct. 28, 2004, 118 Stat. 2009,
 
 <a id="section-4323"></a>
 ## § 4323. Sustainment reviews
-**(a) In General.—** The Secretary of each military department shall conduct a sustainment review of each covered system not later than five years after declaration of initial operational capability of a major defense acquisition program, and every five years thereafter throughout the life cycle of the covered system, to assess the product support strategy, performance, and operation and support costs of the covered system. The results of the sustainment review shall be documented in a memorandum by the relevant decision authority. The Secretary concerned shall make the memorandum and supporting documentation for each sustainment review available to the Under Secretary of Defense for Acquisition and Sustainment within 30 days after the review is completed.
+**(a) Review Required.—** The Secretary of Defense shall require each Secretary of a military department, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, to conduct an assessment of the actual performance of each major weapon system against the operational readiness requirements and materiel readiness objectives (established under [section 118(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section118/c&num=0&edition=prelim)). Each Secretary of a military department shall use such assessment to—
 
-**(b) Elements.—** At a minimum, the review required under subsection (a) shall assess execution of the life cycle sustainment plan of the covered system and include the following elements:
+(1) identify any factors contributing to the failure of a major weapon system to meet such requirements and objectives;
 
-(1) An independent cost estimate for the remainder of the life cycle of the program.
+(2) develop and implement a corrective action plan to address such factors in an expeditious manner; and
 
-(2) A comparison of actual costs to the amount of funds budgeted and appropriated in the previous five years, and if funding shortfalls exist, an explanation of the implications on equipment availability.
+(3) inform the submission of materials to Congress required by [section 118(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section118/c/2&num=0&edition=prelim) and the development of the future-years defense program required by [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221).
 
-(3) A comparison between the assumed and achieved system reliabilities.
+**(b) Submission to Congress.—** Not later than five days after the date on which the budget of the President is submitted to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), each Secretary of a military department, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, shall submit to the congressional defense committees a report that includes the following:
 
-(4) An analysis of the most cost-effective source of repairs and maintenance.
+(1) Findings from a review of the effectiveness of the life-cycle sustainment plan required under [section 4324 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4324) for a major weapon system.
 
-(5) An evaluation of the cost of consumables and depot-level repairables.
+(2) A description of how such assessments informed the submission of materials to Congress required by [section 118(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section118/c/2&num=0&edition=prelim) and the development of the future-years defense program required by [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221).
 
-(6) An evaluation of the costs of information technology, networks, computer hardware, and software maintenance and upgrades.
+(3) For a covered system which has been declared to meet initial operational capability, and that for two consecutive calendar years has failed to meet established materiel readiness objectives for materiel availability or operational availability (as such terms are defined, respectively, in [section 118 of this title](./chapter-002-department-of-defense.md#section-118)), such report shall include—
 
-(7) As applicable, an assessment of the actual fuel efficiencies compared to the projected fuel efficiencies as demonstrated in tests or operations.
+  (A) an identification of factors contributing to such failure;
 
-(8) As applicable, a comparison of actual manpower requirements to previous estimates.
+  (B) a mitigation plan to address supply, maintenance, or other issues contributing to such failure; and
 
-(9) An analysis of whether accurate and complete data are being reported in the cost systems of the military department concerned, and if deficiencies exist, a plan to update the data and ensure accurate and complete data are submitted in the future.
+  (C) a description of any corrective action plan required by subsection (a)(2) and an update on progress made in implementing such a plan.
 
-(10) As applicable, information regarding any decision to restructure the life cycle sustainment plan for a covered system or any other action that will lead to critical operating and support cost growth.
+(4) A summary of actions taken by the Secretary to ensure that each covered system of the military department under the jurisdiction of the Secretary meets the applicable operational readiness requirements and materiel readiness objectives in the most cost-effective manner practicable.
 
-**(c) Coordination.—** The review required under subsection (a) shall be conducted in coordination with the requirements of sections 4324 and 4325 of this title.
-
-**(d) Submission to Congress.—**
-
-(1) Not later than September 30 of each fiscal year, the Secretary of each military department shall annually submit to the congressional defense committees the sustainment reviews required by this section for such fiscal year.
-
-(2) Each submission under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
-
-(3) For a covered system with critical operating and support cost growth, such submission shall include a remediation plan to reduce operating and support costs or a certification by the Secretary concerned that such critical operating and support cost growth is necessary to meet national security requirements.
-
-**(e) Definitions.—** In this section:
-
-(1) **Covered system.—** — The term “covered system” shall have the meaning given in [section 4324 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4324).
-
-(2) **Critical operating and support cost growth.—** — The term “critical operating and support cost growth” means operating and support cost growth—
-
-  (A) of at least 25 percent more than the estimate documented in the most recent independent cost estimate for the covered system; or
-
-  (B) of at least 50 percent more than the estimate documented in the original Baseline Estimate (as defined in [section 4214(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4214/d&num=0&edition=prelim)) for the covered system.
+**(c) Covered System Defined.—** In this section, the term “covered system” has the meaning given in [section 4324 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4324).
 
 ### Statutory Notes
 
 #### Amendments
+2025—Pub. L. 119–60 amended section generally. Prior to amendment, section required a sustainment review of each covered system not later than five years after declaration of initial operational capability of a major defense acquisition program, and every five years thereafter throughout the life cycle of the covered system.
+
 2021—Pub. L. 116–283, § 1848(c), renumbered [section 2441 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2441) as this section.
 
 Subsec. (a). Pub. L. 116–283, § 802(c)(1), in first sentence, substituted “covered system” for “major weapon system”, “, and every five years thereafter throughout the life cycle of the covered system,” for “and throughout the life cycle of the weapon system”, and “costs of the covered system” for “costs of the weapon system” and struck out second sentence which read as follows: “For any review after the first one, the Secretary concerned shall use availability and reliability thresholds and cost estimates as the basis for the circumstances that prompt such a review.”
@@ -136,100 +120,133 @@ Amendment by sections 1848(c) and 1883(b)(2) of Pub. L. 116–283 effective Jan.
 
 <a id="section-4324"></a>
 ## § 4324. Life-cycle management and product support
-**(a) Guidance on Life-Cycle Management.—** The Secretary of Defense shall issue and maintain comprehensive guidance on life-cycle management and the development and implementation of product support strategies for covered systems. The guidance issued pursuant to this subsection shall—
+**(a) In General.—** The Secretary of Defense shall ensure that each covered system is supported by a performance-based life-cycle sustainment plan—
 
-(1) maximize competition and make the best possible use of available Department of Defense and industry resources at the system, subsystem, and component levels; and
+(1) that is approved by the service acquisition executive responsible for such covered system; and
 
-(2) maximize value to the Department of Defense by providing the best possible product support outcomes at the lowest operations and support cost.
+(2) that meets applicable operational readiness requirements and materiel readiness objectives (established under [section 118(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section118/c&num=0&edition=prelim)) in the most cost-effective manner practicable.
 
-**(b) Life Cycle Sustainment Plan.—**
+**(b) Life-cycle Sustainment Plan.—**
 
-(1) **In general.—** — Before granting Milestone B approval (or the equivalent), the milestone decision authority shall ensure that each covered system has an approved life cycle sustainment plan for which the milestone decision authority has received views from appropriate materiel, logistics, or fleet representatives. The life cycle sustainment plan shall include—
+(1) A product support manager shall develop, update, and implement a life-cycle sustainment plan for each covered system for which the product support manager is responsible. Such plan shall include the following:
 
-  (A) a comprehensive product support strategy;
+  (A) A comprehensive product support strategy that addresses each Integrated Product Support Element in a manner—
 
-  (B) performance goals, including key performance parameters for sustainment, key system attributes of the covered system, and other appropriate metrics;
+    (i) to best achieve operational readiness requirements and materiel readiness objectives throughout the planned life cycle of such system; and
 
-  (C) an approved life-cycle cost estimate for the covered system;
+    (ii) that allows evaluation and selection of product support integrators and product support providers appropriate to execute the product support strategy.
 
-  (D) affordability constraints and key cost factors that could affect the operating and support costs of the covered system;
+  (B) A life-cycle cost estimate for the covered system that—
 
-  (E) sustainment risks and proposed mitigation plans for such risks;
+    (i) is based on the product support strategy described in subparagraph (A); and
 
-  (F) engineering and design considerations that support cost-effective sustainment of the covered system;
+    (ii) if the covered system is a major defense acquisition program or major subprogram, is developed in accordance with the requirements to support a Milestone A approval, Milestone B approval, or Milestone C approval.
 
-  (G) an intellectual property management plan for product support, including requirements for technical data, software, and modular open system approaches (as defined in [section 4401 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4401));
+  (C) Recommended engineering and design considerations that support cost-effective sustainment of the covered system and best value solutions in life cycle planning and management.
 
-  (H) an estimate of the number of personnel needed to operate and maintain the covered system, including military personnel, Federal employees, contractors, and host nation support personnel (as applicable);
+  (D) An intellectual property management plan for product support developed in accordance with [section 3774 of this title](./chapter-275-proprietary-contractor-data-and-rights-in-technical-data.md#section-3774), including requirements for technical data, software, and modular open system approaches (as defined in [section 4401 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4401)).
 
-  (I) a description of opportunities for foreign military sales; and
+  (E) A strategy to maximize use of public and private sector capabilities including public-private partnerships, when appropriate.
 
-  (J) major maintenance and overhaul requirements that will be required during the life cycle of the covered system.
+  (F) After consideration of the views received by the milestone decision authority from appropriate materiel, logistics, or fleet representatives, a plan to transition the covered system from production to initial fielding that addresses specific products or services required for successful initial fielding of the covered system, including—
 
-(2) **Subsequent phases.—** — Before granting Milestone C approval (or the equivalent) for the covered system, the milestone decision authority shall ensure that the life cycle sustainment plan required by paragraph (1) for such covered system has been updated to include views received by the milestone decision authority from appropriate materiel, logistics, or fleet representatives.
+    (i) a description of the necessary tooling or other unique support equipment, requirements for initial spare parts and components, technical handbooks and maintenance manuals, maintenance training, and facilities;
 
-**(c) Product Support Managers.—**
+    (ii) an identification of the funding required to provide such products and services for any initial fielding location of the covered system; and
 
-(1) **Requirement.—** — The Secretary of Defense shall require that each covered system be supported by a product support manager in accordance with this subsection.
+    (iii) an assessment of the required number of training simulators, including the initial operational capability and overall fielding of such simulators.
 
-(2) **Responsibilities.—** — A product support manager for a covered system shall—
+(2) In developing each life-cycle sustainment plan required by this section, the product support manager shall—
 
-  (A) develop, update, and implement a life cycle sustainment plan described in subsection (b);
+  (A) consider affordability constraints and key cost factors that could affect operating and support costs during the life cycle of the covered system;
 
-  (B) ensure the life cycle sustainment plan is informed by appropriate predictive analysis and modeling tools that can improve material availability and reliability, increase operational availability rates, and reduce operation and sustainment costs;
+  (B) consider sustainment risks or challenges to sustaining the covered system in operational environments, including contested logistics environments (as defined in [section 2926 of this title](./chapter-173-energy-security.md#section-2926));
 
-  (C) conduct appropriate cost analyses to validate the product support strategy and life cycle sustainment plan, including cost-benefit analyses as outlined in Office of Management and Budget Circular A–94;
+  (C) seek to comply with—
 
-  (D) ensure achievement of desired product support outcomes through development and implementation of appropriate product support arrangements;
+    (i) requirements to maintain a core logistics capability under [section 2464 of this title](./chapter-146-contracting-for-performance-of-civilian-commercial-or-industrial-type-functions.md#section-2464); and
 
-  (E) adjust performance requirements and resource allocations across product support integrators and product support providers as necessary to optimize implementation of the product support strategy;
+    (ii) limitations on the performance of depot-level maintenance of materiel under [section 2466 of this title](./chapter-146-contracting-for-performance-of-civilian-commercial-or-industrial-type-functions.md#section-2466);
 
-  (F) periodically review product support arrangements between the product support integrators and product support providers to ensure the arrangements are consistent with the overall product support strategy;
+  (D) seek to integrate commercial best practices, use commercial standards, and use advanced technologies to enhance the product support of each covered system; and
 
-  (G) prior to each change in the product support strategy or every five years, whichever occurs first, revalidate any business-case analysis performed in support of the product support strategy;
+  (E) seek to maintain a robust, resilient, and innovative defense industrial base to support requirements throughout the life cycle of the covered system.
 
-  (H) ensure that the product support strategy maximizes small business participation at the appropriate tiers; and
+**(d) 11 So in original. No subsec. (c) has been enacted. Definitions.—** In this chapter:
 
-  (I) ensure that product support arrangements for the covered system describe how such arrangements will ensure efficient procurement, management, and allocation of Government-owned parts inventories in order to prevent unnecessary procurements of such parts.
+(1) The terms “milestone decision authority” and “Milestone A approval” have the meanings given, respectively, in [section 4251 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4251).
 
-**(d) Definitions.—** In this section:
+(2) The term “Milestone B approval” and “Milestone C approval” has the meaning given in [section 4172 of this title](./chapter-307-test-and-evaluation.md#section-4172).
 
-(1) **Product support.—** — The term “product support” means the package of support functions required to field and maintain the readiness and operational capability of covered systems, subsystems, and components, including all functions related to covered system readiness.
+(3) The term “covered system” means—
 
-(2) **Product support arrangement.—** — The term “product support arrangement” means a contract, task order, or any type of other contractual arrangement, or any type of agreement or non-contractual arrangement within the Federal Government, for the performance of sustainment or logistics support required for covered systems, subsystems, or components. The term includes arrangements for any of the following:
+  (A) a major defense acquisition program as defined in [section 4201 of this title](./chapter-321-general-matters.md#section-4201);
 
-  (A) Performance-based logistics.
+  (B) a major subprogram as described in [section 4203 of this title](./chapter-321-general-matters.md#section-4203); or
 
-  (B) Sustainment support.
+  (C) an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under [section 3602 of this title](./chapter-253-rapid-acquisition-procedures.md#section-3602) that is estimated by the Secretary of Defense to require an eventual total expenditure described in [section 4201(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4201/a/2&num=0&edition=prelim).
 
-  (C) Contractor logistics support.
+(4) The term “critical readiness items of supply” means—
 
-  (D) Life-cycle product support.
+  (A) parts and systems designated as Mission Impaired Capability Awaiting Parts, Not Mission Capable Supply, or Casualty Report Category 3 or 4 status (as defined by the Secretary of Defense or a Secretary of a military department); or
 
-  (E) Weapon systems product support.
+  (B) parts or systems designated by the Secretary of Defense as negatively impacting the materiel readiness objectives of a covered system.
 
-(3) **Product support integrator.—** — The term “product support integrator” means an entity within the Federal Government or outside the Federal Government charged with integrating all sources of product support, both private and public, defined within the scope of a product support arrangement.
+(5) The term “Integrated Product Support Elements” means, with respect to a covered system—
 
-(4) **Product support provider.—** — The term “product support provider” means an entity that provides product support functions. The term includes an entity within the Department of Defense, an entity within the private sector, or a partnership between such entities.
+  (A) product support management;
 
-(5) **Covered system.—** — The term “covered system” means—
+  (B) design interface;
 
-  (A) a major defense acquisition program as defined in [section 4201 of this title](./chapter-321-general-matters.md#section-4201); or
+  (C) sustaining engineering;
 
-  (B) an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; [10 U.S.C. 2302](./chapter-chapter-137-chapter-chapter-137.md#section-2302) note) 11 See References in Text note below. that is estimated by the Secretary of Defense to require an eventual total expenditure described in section 4201(a)(2).
+  (D) maintenance planning and management;
 
-(6) **Milestone b approval.—** — The term “Milestone B approval” has the meaning given that term in [section 4172(e)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4172/e/7&num=0&edition=prelim).
+  (E) supply support;
 
-(7) **Milestone c approval.—** — The term “Milestone C approval” has the meaning given that term in [section 4172(e)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4172/e/8&num=0&edition=prelim).
+  (F) support equipment;
 
-(8) **Milestone decision authority.—** — The term “milestone decision authority” has the meaning given in [section 4211(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4211/e/3&num=0&edition=prelim).
+  (G) technical data;
+
+  (H) training and training support;
+
+  (I) information technology systems continuous support;
+
+  (J) facilities and infrastructure;
+
+  (K) packaging, handling, storage, and transportation; and
+
+  (L) manpower and personnel.
+
+(6) The term “product support” means the package of support functions required to field and sustain the readiness and operational capability of covered systems (including subsystems and components of such covered systems).
+
+(7) The term “product support arrangement”—
+
+  (A) means a contract, task order, or another contractual arrangement, or any type of agreement or non-contractual arrangement entered into by the Federal Government, for the performance of sustainment or logistics support required for covered systems (including subsystems and components of such covered systems); and
+
+  (B) includes arrangements for any of the following:
+
+    (i) Performance-based logistics.
+
+    (ii) Sustainment support.
+
+    (iii) Contractor logistics support.
+
+    (iv) Life-cycle product support.
+
+(8) The term “product support integrator” means an entity responsible for integrating private and public sources of product support within the scope of a product support arrangement.
+
+(9) The term “product support provider” means an entity that provides product support functions.
 
 ### Statutory Notes
 
-#### References in Text
-Section 804 of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (d)(5)(B), is section 804 of Pub. L. 114–92, which is set out as a note preceding [section 3201 of this title](./chapter-221-planning-and-solicitation-generally.md#section-3201).
-
 #### Amendments
+2025—Pub. L. 119–60, § 1803(c), amended section generally. Prior to amendment, section related to guidance on life-cycle management, life cycle sustainment plans, and product support managers for covered systems.
+
+Subsec. (d)(8). Pub. L. 119–60, § 1805(b)(1), which directed the insertion of “the term ‘decision authority’ ” after “meaning given”, could not be executed following the general amendment of the section by Pub. L. 119–60, § 1803(c). See above.
+
+2024—Subsec. (d)(5)(B). Pub. L. 118–159 substituted “[section 3602 of this title](./chapter-253-rapid-acquisition-procedures.md#section-3602)” for “section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; [10 U.S.C. 2302](./chapter-chapter-137-chapter-chapter-137.md#section-2302) note)”.
+
 2022—Subsec. (b). Pub. L. 117–263, § 806(a), designated existing provisions as par. (1) and inserted heading; inserted “for which the milestone decision authority has received views from appropriate materiel, logistics, or fleet representatives” after “approved life cycle sustainment plan”; designated former pars. (1) to (8) as subpars. (A) to (G) and (J), respectively, of par. (1); amended subpar. (G) generally, prior to which text read “a technical data and intellectual property management plan for product support; and”; added subpars. (H) and (I) of par. (1); and added par. (2). Amendment adding par. (2) “at the end of” par. (1) was executed by adding par. (2) after par. (1) to reflect the probable intent of Congress.
 
 Subsec. (d)(7), (8). Pub. L. 117–263, § 806(b), added par. (7) and redesignated former par. (7) as (8).
@@ -291,11 +308,11 @@ Provisions similar to those in this section were contained in section 805 of Pub
 
 **(b) Elements.—** The guidance required by subsection (a) shall, at a minimum—
 
-(1) be issued in conjunction with the comprehensive guidance on life-cycle management and the development and implementation of product support strategies for major weapon systems required by [section 4324 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4324);
+(1) be issued in accordance with the requirements of [section 118 of this title](./chapter-002-department-of-defense.md#section-118) and in conjunction with the comprehensive guidance on life-cycle management and the development and implementation of product support strategies for major weapon systems required by [section 4324 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4324);
 
 (2) require the military departments to retain each estimate of operating and support costs that is developed at any time during the life cycle of a major weapon system, together with supporting documentation used to develop the estimate;
 
-(3) require the military departments to update estimates of operating and support costs periodically throughout the life cycle of a major weapon system, to determine whether preliminary information and assumptions remain relevant and accurate, and identify and record reasons for variances;
+(3) require each Secretary of a military department to update estimates of operating and support costs periodically throughout the life cycle of a major weapon system, and make necessary adjustments to the life-cycle sustainment plan required by [section 4324 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4324) to ensure such major weapon system meets applicable operational readiness requirements and materiel readiness objectives (established in accordance with [section 118(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section118/c&num=0&edition=prelim)) in the most cost-effective manner practicable;
 
 (4) establish policies and procedures for the collection, organization, maintenance, and availability of standardized data on operating and support costs for major weapon systems in accordance with [section 2222 of this title](./chapter-131-planning-and-coordination.md#section-2222);
 
@@ -311,35 +328,37 @@ Provisions similar to those in this section were contained in section 805 of Pub
 
 (8) require the military departments to conduct an independent logistics assessment of each major weapon system prior to key acquisition decision points (including milestone decisions) to identify features that are likely to drive future operating and support costs, changes to system design that could reduce such costs, and effective strategies for managing such costs;
 
-(9) include—
+(9) prior to the Milestone B approval (or equivalent approval) for a major weapon system, require the Secretary concerned to ensure the completion of an intellectual property management plan for product support required under [section 4324(b)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4324/b/1/D&num=0&edition=prelim); and
 
-  (A) reliability metrics for major weapon systems; and
+(10) require each Secretary of a military department to create and retain an independent cost estimate for the remainder of the life cycle of the covered weapon system every five years.
 
-  (B) requirements on the use of metrics under subparagraph (A) as triggers—
-
-    (i) to conduct further investigation and analysis into drivers of those metrics; and
-
-    (ii) to develop strategies for improving reliability, availability, and maintainability of such systems at an affordable cost; and
-
-(10) require the military departments to conduct periodic reviews of operating and support costs of major weapon systems after such systems achieve initial operational capability to identify and address factors resulting in growth in operating and support costs and adapt support strategies to reduce such costs.
-
-**(c) Retention of Data on Operating and Support Costs.—**
-
-(1) **In general.—** — The Director of Cost Assessment and Program Evaluation shall be responsible for developing and maintaining a database on operating and support estimates, supporting documentation, and actual operating and support costs for major weapon systems.
-
-(2) **Support.—** — The Secretary of Defense shall ensure that the Director, in carrying out such responsibility—
-
-  (A) promptly receives the results of all cost estimates and cost analyses conducted by the military departments with regard to operating and support costs of major weapon systems;
-
-  (B) has timely access to any records and data of the military departments (including classified and proprietary information) that the Director considers necessary to carry out such responsibility; and
-
-  (C) with the concurrence of the Under Secretary of Defense for Acquisition and Sustainment, may direct the military departments to collect and retain information necessary to support the database.
-
-**(d) Major Weapon System Defined.—** In this section, the term “major weapon system” has the meaning given that term in [section 3455(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3455/f&num=0&edition=prelim).
+**(c) Major Weapon System Defined.—** In this section, the term “major weapon system” has the meaning given that term in [section 101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b)(1). Pub. L. 119–60, § 1803(e)(1)(A), inserted “in accordance with the requirements of [section 118 of this title](./chapter-002-department-of-defense.md#section-118) and” after “be issued”.
+
+Subsec. (b)(3). Pub. L. 119–60, § 1803(e)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “require the military departments to update estimates of operating and support costs periodically throughout the life cycle of a major weapon system, to determine whether preliminary information and assumptions remain relevant and accurate, and identify and record reasons for variances;”.
+
+Subsec. (b)(9). Pub. L. 119–60, § 1803(e)(1)(C), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “include—
+
+“(A) reliability metrics for major weapon systems; and
+
+“(B) requirements on the use of metrics under subparagraph (A) as triggers—
+
+“(i) to conduct further investigation and analysis into drivers of those metrics; and
+
+“(ii) to develop strategies for improving reliability, availability, and maintainability of such systems at an affordable cost; and”.
+
+Subsec. (b)(10). Pub. L. 119–60, § 1803(e)(1)(D), amended par. (10) generally. Prior to amendment, par. (10) read as follows: “require the military departments to conduct periodic reviews of operating and support costs of major weapon systems after such systems achieve initial operational capability to identify and address factors resulting in growth in operating and support costs and adapt support strategies to reduce such costs.”
+
+Subsec. (c). Pub. L. 119–60, § 1803(e)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to retention of data on operating and support costs.
+
+Subsec. (d). Pub. L. 119–60, § 1803(e)(3), redesignated subsec. (d) as (c).
+
+Pub. L. 119–60, § 811(c)(2)(C), substituted “section 101(a)” for “section 3455(f)”.
+
 2021—Pub. L. 116–283, § 1848(d)(3)(B), amended section catchline generally. Prior to amendment, section catchline read as follows: “Assessment, management, and control of operating and support costs for major weapon systems”.
 
 Pub. L. 116–283, § 1848(d)(1), renumbered [section 2337a of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2337a) as this section.
@@ -353,10 +372,11 @@ Subsec. (d). Pub. L. 116–283, § 1848(d)(3)(A)(ii), substituted “section 345
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
-#### Pilot Program on Time-Certain Development in Acquisition of Major Weapon Systems
-Pub. L. 109–364, div. A, title VIII, § 812, Oct. 17, 2006, 120 Stat. 2317, as amended by Pub. L. 110–417, [div. A], title VIII, § 813(d)(3), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–84, div. A, title X, § 1073(c)(5), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 116–283, div. A, title XVIII, § 1806(e)(2)(D), Jan. 1, 2021, 134 Stat. 4155, provided that: “(a) Pilot Program Authorized.—The Secretary of Defense may carry out a pilot program on the use of time-certain development in the acquisition of major weapon systems. “(b) Purpose of Pilot Program.—The purpose of the pilot program authorized by subsection (a) is to assess the feasibility and advisability of utilizing time-certain development in the acquisition of major weapon systems in order to deliver new capabilities to the warfighter more rapidly through—“(1) disciplined decision-making; “(2) emphasis on technological maturity; and “(3) appropriate trade-offs between—“(A) cost and system performance; and “(B) program schedule. “(c) Inclusion of Systems in Pilot Program.—“(1) In general.—The Secretary of Defense may include a major weapon system in the pilot program only if—“(A) the major weapon system meets the criteria under paragraph (2) in accordance with that paragraph; and “(B) the Milestone Decision Authority nominates such program to the Secretary of Defense for inclusion in the program. “(2) Criteria.—For purposes of paragraph (1) a major weapon system meets the criteria under this paragraph only if the Milestone Decision Authority determines, in consultation with the service acquisition executive for the military department carrying out the acquisition program for the system and one or more combatant commanders responsible for fielding the system, that—“(A) the certification requirements of [section 2366b of title 10](./chapter-chapter-139-chapter-chapter-139.md#section-2366b), United States Code [now [10 U.S.C. 4252](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4252)] (as amended by section 805 of this Act), have been met, and no waivers have been granted from such requirements; “(B) a preliminary design has been reviewed using systems engineering, and the system, as so designed, will meet battlefield needs identified by the relevant combatant commanders after appropriate requirements analysis; “(C) a representative model or prototype of the system, or key subsystems, has been demonstrated in a relevant environment, such as a well-simulated operational environment; “(D) an independent cost estimate has been conducted and used as the basis for funding requirements for the acquisition program for the system; “(E) the budget of the military department responsible for carrying out the acquisition program for the system provides the funding necessary to execute the product development and production plan consistent with the requirements identified pursuant to subparagraph (D); “(F) an appropriately qualified program manager has entered into a performance agreement with the Milestone Decision Authority that establishes expected parameters for the cost, schedule, and performance of the acquisition program for the system, consistent with a business case for such acquisition program; “(G) the service acquisition executive and the program manager have developed a strategy to ensure stability in program management until, at a minimum, the delivery of the initial operational capability under the acquisition program for the system has occurred; “(H) the service acquisition executive, the relevant combatant commanders, and the program manager have agreed that no additional requirements that would be inconsistent with the agreed-upon program schedule will be added during the development phase of the acquisition program for the system; and “(I) a planned initial operational capability will be delivered to the relevant combatant commanders within a defined period of time as prescribed in regulations by the Secretary of Defense. “(3) Timing of decision.—The decision whether to include a major weapon system in the pilot program shall be made at the time of milestone approval for the acquisition program for the system. “(d) Limitation on Number of Weapons Systems in Pilot Program.—The number of major weapon systems included in the pilot program at any time may not exceed six major weapon systems. “(e) Limitation on Cost of Weapons Systems in Pilot Program.—The Secretary of Defense may include a major weapon system in the pilot program only if, at the time a major weapon system is proposed for inclusion, the total cost for system design and development of the weapon system, as set forth in the cost estimate referred to in subsection (c)(2)(D), does not exceed $1,000,000,000 during the period covered by the current future-years defense program. “(f) Special Funding Authority.—“(1) Authority for reserve account.—Notwithstanding any other provision of law, the Secretary of Defense may establish a special reserve account utilizing funds made available for the major weapon systems included in the pilot program. “(2) Elements.—The special reserve account may include—“(A) funds made available for any major weapon system included in the pilot program to cover termination liability; “(B) funds made available for any major weapon system included in the pilot program for award fees that may be earned by contractors; and “(C) funds appropriated to the special reserve account. “(3) Availability of funds.—Funds in the special reserve account may be used, in accordance with guidance issued by the Secretary for purposes of this section, for the following purposes:“(A) To cover termination liability for any major weapon system included in the pilot program. “(B) To pay award fees that are earned by any contractor for a major weapon system included in the pilot program. “(C) To address unforeseen contingencies that could prevent a major weapon system included in the pilot program from meeting critical schedule or performance requirements. “(4) Reports on use of funds.—Not later than 30 days after the use of funds in the special reserve account for the purpose specified in paragraph (3)(C), the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the use of funds in the account for such purpose. The report shall set forth the purposes for which the funds were used and the reasons for the use of the funds for such purposes. “(5) Relationship to appropriations.—Nothing in this subsection may be construed as extending any period of time for which appropriated funds are made available. “(g) Administration of Pilot Program.—The Secretary of Defense shall prescribe policies and procedures on the administration of the pilot program. Such policies and procedures shall—“(1) provide for the use of program status reports based on earned value data to track progress on a major weapon system under the pilot program against baseline estimates applicable to such system at each systems engineering technical review point; and “(2) grant authority, to the maximum extent practicable, to the program manager for the acquisition program for a major weapon system to make key program decisions and trade-offs, subject to management reviews only if cost or schedule deviations exceed the baselines for such acquisition program by 10 percent or more. “(h) Removal of Weapons Systems From Pilot Program.—The Secretary of Defense shall remove a major weapon system from the pilot program if—“(1) the weapon system receives Milestone C approval; or “(2) the Secretary determines that the weapon system is no longer in substantial compliance with the criteria in subsection (c)(2) or is otherwise no longer appropriate for inclusion in the pilot program. “(i) Expiration of Authority To Include Additional Systems in Pilot Program.—“(1) Expiration.—A major weapon system may not be included in the pilot program after September 30, 2012. “(2) Retention of systems.—A major weapon system included in the pilot program before the date specified in paragraph (1) in accordance with the requirements of this section may remain in the pilot program after that date. “(j) Annual Report.—“(1) In general.—Not later than one year after including the first major weapon system in the pilot program, and annually thereafter, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the pilot program, and the major weapon systems included in the pilot program, during the one-year period ending on the date of such report. “(2) Elements.—Each report under this subsection shall include—“(A) a description of progress under the pilot program, and on each major weapon system included in the pilot program, during the period covered by such report; “(B) a description of the use of all funds in the special reserve account established under subsection (f); and “(C) such other matters as the Secretary considers appropriate. “(k) Major Weapon System Defined.—In this section, the term ‘major weapon system’ means a weapon system that is treatable as a major system under [section 3041 of title 10](./chapter-201-definitions.md#section-3041), United States Code.”
+#### Retention of Data on Operating and Support Costs
+Pub. L. 119–60, div. A, title XVIII, § 1803(f), Dec. 18, 2025, 139 Stat. 1233, provided that: “(1) In general.—The Director of Cost Assessment and Program Evaluation shall develop and maintain a database on operating and support estimates, supporting documentation, and actual operating and support costs for major weapon systems (as defined in [section 101 of title 10](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101), United States Code, as added by section 811 of this Act). “(2) Support.—The Secretary of Defense shall ensure that the Director, in carrying out the requirements of paragraph (1)—“(A) promptly receives the results of all cost estimates and cost analyses conducted by each Secretary of a military department with regard to operating and support costs of major weapon systems acquired pursuant to a major defense acquisition program (as defined in [section 4201 of title 10](./chapter-321-general-matters.md#section-4201), United States Code); and “(B) has timely access to any records and data of military departments (including classified and proprietary information) that the Director considers necessary to carry out such requirements. “(3) Coordination.—The Secretary of Defense may direct each Secretary of a military department, with concurrence of the Under Secretary of Defense for Acquisition and Sustainment, to collect and retain information necessary to support the database required in (1).”
 
-[Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(5) to section 813(d)(3) of Pub. L. 110–417 (which amended section 812 of Pub. L. 109–364, set out above) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.]
+#### Pilot Program on Time-Certain Development in Acquisition of Major Weapon Systems
+Pub. L. 109–364, div. A, title VIII, § 812, Oct. 17, 2006, 120 Stat. 2317, as amended by Pub. L. 110–417, [div. A], title VIII, § 813(d)(3), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–84, div. A, title X, § 1073(c)(5), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 116–283, div. A, title XVIII, § 1806(e)(2)(D), Jan. 1, 2021, 134 Stat. 4155, which authorized a pilot program on the use of time-certain development in the acquisition of major weapon systems in order to deliver new capabilities to warfighters more rapidly, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(16)(A), Dec. 18, 2025, 139 Stat. 949.
 
 
 <a id="section-4328"></a>

@@ -206,7 +206,9 @@ Amendment by sections 426(a) and 427 of Pub. L. 98–353 effective with respect 
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (b)(1), (2), dollar amount “16,750” was adjusted to “18,600”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Jan. 30, 2025, 90 F.R. 8941, effective Apr. 1, 2025, in subsec. (b)(1), (2), dollar amount “18,600” was adjusted to “21,050”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (b)(1), (2), dollar amount “16,750” was adjusted to “18,600”.
 
 By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b)(1), (2), dollar amount “15,775” was adjusted to “16,750”.
 
@@ -1973,6 +1975,19 @@ If recorded in compliance with applicable State laws governing notices of intere
 
 ### Statutory Notes
 
+#### Amendment of Subsections (a) and (d)
+Pub. L. 119–27, §§ 11(c), 20, July 18, 2025, 139 Stat. 457, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, this section is amended as follows:
+
+(1) in subsection (a), in paragraph (7), by striking “and”; in paragraph (8), by striking the period and inserting “; and”; and by adding at the end the following:
+
+“(9) the redemption of payment stablecoins issued by the permitted payment stablecoin issuer, from payment stablecoin reserves required to be maintained under section 4 of the GENIUS Act.”; and
+
+(2) in subsection (d), in paragraph (3)(B)(ii), by striking “or” at the end; in paragraph (4)(B), by striking the period at the end and inserting “; or”; and by inserting after paragraph (4) the following:
+
+“(5) with respect to the redemption of payment stablecoins held by a person, if the court finds, subject to the motion and attestation of the permitted payment stablecoin issuer, which shall be filed on the petition date or as soon as practicable thereafter, there are payment stablecoin reserves available for distribution on a ratable basis to similarly situated payment stablecoin holders, provided that the court shall use best efforts to enter a final order to begin distributions under this paragraph not later than 14 days after the date of the required hearing.”
+
+See 2025 Amendment notes below.
+
 #### legislative statements
 Section 362(a)(1) of the House amendment adopts the provision contained in the Senate amendment enjoining the commencement or continuation of a judicial, administrative, or other proceeding to recover a claim against the debtor that arose before the commencement of the case. The provision is beneficial and interacts with section 362(a)(6), which also covers assessment, to prevent harassment of the debtor with respect to pre-petition claims.
 
@@ -2024,6 +2039,10 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(19), is classified
 Section 408(b)(1) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(19)(A), is classified to [section 1108(b)(1) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1108/b/1&num=0&edition=prelim), Labor.
 
 #### Amendments
+2025—Subsec. (a)(9). Pub. L. 119–27, § 11(c)(1), added par. (9).
+
+Subsec. (d)(5). Pub. L. 119–27, § 11(c)(2), added par. (5).
+
 2020—Subsec. (b)(29). Pub. L. 116–189 added par. (29).
 
 2010—Subsec. (a)(8). Pub. L. 111–327, § 2(a)(12)(A), substituted “tax liability of a debtor that is a corporation” for “corporate debtor’s tax liability”.
@@ -2211,6 +2230,9 @@ Subsec. (h). Pub. L. 98–353, § 304, added subsec. (h).
 Subsec. (b). Pub. L. 97–222, § 3(b), inserted “, or of an application under section 5(a)(3) of the Securities Investor Protection Act of 1970 ([15 U.S.C. 78eee(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78eee/a/3&num=0&edition=prelim)),” after “this title” in provisions preceding par. (1).
 
 Subsec. (b)(6). Pub. L. 97–222, § 3(c), substituted provisions that the filing of a bankruptcy petition would not operate as a stay, under subsec. (a) of this section, of the setoff by a commodity broker, forward contract merchant, stockbroker, or securities clearing agency of any mutual debt and claim under or in connection with commodity, forward, or securities contracts that constitutes the setoff of a claim against the debtor for a margin or settlement payment arising out of commodity, forward, or securities contracts against cash, securities, or other property held by any of the above agents to margin, guarantee, or secure commodity, forward, or securities contracts, for provisions that such filing would not operate as a stay under subsection (a)(7) of this section, of the setoff of any mutual debt and claim that are commodity futures contracts, forward commodity contracts, leverage transactions, options, warrants, rights to purchase or sell commodity futures contracts or securities, or options to purchase or sell commodities or securities.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as an Effective Date note under [section 5901 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim), Banks and Banking.
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–390 not applicable to any cases commenced under this title or to appointments made under any Federal or State law, before Dec. 12, 2006, see section 7 of Pub. L. 109–390, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).

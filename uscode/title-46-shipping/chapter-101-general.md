@@ -71,7 +71,7 @@ Section 10103 requires that masters who engage or discharge seamen submit to the
 ## § 10104. Requirement to report sexual offenses
 **(a) Mandatory Reporting by Responsible Entity of a Vessel.—**
 
-(1) **In general.—** — The responsible entity of a vessel shall report to the Commandant any complaint or incident of harassment, sexual harassment, or sexual assault in violation of employer policy or law, of which such entity is made aware.
+(1) **In general.—** — The responsible entity of a vessel shall report to the Commandant any complaint or incident of sexual harassment or sexual assault in violation of employer policy or law or harassment, of which such entity is made aware.
 
 (2) **Penalty.—** — A responsible entity of a vessel who knowingly fails to report in compliance with paragraph (1) is liable to the United States Government for a civil penalty of not more than $50,000.
 
@@ -139,12 +139,61 @@ Section 10103 requires that masters who engage or discharge seamen submit to the
 
 (2) the employer of a seafarer on such a vessel.
 
+**(h) Harassment Defined.—** In this section, the term “harassment” means—
+
+(1)
+
+  (A) unwelcome remarks about an individual’s race, color, religion, sex, national origin, age, disability, genetic information, or other physical or physiological attribute, or other unwelcome verbal or physical conduct towards an individual based on 1 or more of those categories, as prohibited by any Federal law, including—
+
+    (i) title VII of the Civil Rights Act of 1964 ([42 U.S.C. 2000e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e&num=0&edition=prelim) et seq.);
+
+    (ii) the Age Discrimination in Employment Act of 1967 ([29 U.S.C. 621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section621&num=0&edition=prelim) et seq.);
+
+    (iii) the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.); and
+
+    (iv) title II of the Genetic Information Nondisclosure Act 11 See References in Text note below. ([42 U.S.C. 2000ff](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000ff&num=0&edition=prelim) et seq.); and
+
+  (B)
+
+    (i) submission to such remarks or conduct is made either explicitly or implicitly a term or condition of employment, pay, career, benefits, or entitlements of an individual; or
+
+    (ii) submission to or rejection of such remarks or conduct by an individual is used as the basis for decisions affecting that individual’s job, pay, career, benefits, or entitlements; or
+
+    (iii) such remarks or conduct have the purpose or effect of unreasonably interfering with an individual’s work performance; and
+
+  (C) such remarks or conduct are so severe or pervasive that a reasonable person would perceive, and the alleged harassed individual does perceive, the environment as hostile or offensive.
+
+**(i) Response to Incidents.—** Nothing in this section shall be construed to impede the ability of the responsible entity of the vessel to take immediate personnel action in response to an incident described in subsection (a)(1) to preserve the safety and security of individuals on the vessel.
+
+**(j) Education and Outreach.—** Not later than 1 year after the date of the enactment of this Act, the Coast Guard, after consultation with the Equal Employment Opportunity Commission (referred to in this subsection as the “Commission”), shall—
+
+(1) develop and disseminate informational guidance to seafarers, vessel owners and operators, employers of seafarers, and other relevant stakeholders, which shall—
+
+  (A) describe, in general terms—
+
+    (i) the purpose, functions, and powers of the Commission;
+
+    (ii) the role of the Commission in addressing employment discrimination complaints; and
+
+  (B) identify the publicly available websites and contact information for the Commission; and
+
+(2) make available trainings or other presentations to inform seafarers of employment and anti-discrimination rights under the laws administered by the Coast Guard and the Commission.
+
 ### Statutory Notes
+
+#### References in Text
+Title II of the Genetic Information Nondisclosure Act, referred to in subsec. (h)(1)(A)(iv), probably means title II of the Genetic Information Nondiscrimination Act of 2008, Pub. L. 110–233, May 21, 2008, 122 Stat. 905, which is classified to chapter 21F (§ 2000ff et seq.) of Title 42, The Public Health and Welfare.
+
+The date of the enactment of this Act, referred to in subsec. (j), probably means the date of enactment of Pub. L. 119–60, which enacted subsec. (j) of this section and was approved Dec. 18, 2025.
 
 #### Prior Provisions
 A prior section 10104, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 561, related to regulations, prior to repeal by Pub. L. 101–225, § 214(a)(1).
 
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–60, § 7315(1), substituted “sexual harassment or sexual assault in violation of employer policy or law or harassment” for “harassment, sexual harassment, or sexual assault in violation of employer policy or law”.
+
+Subsecs. (h) to (j). Pub. L. 119–60, § 7315(2), added subsecs. (h) to (j).
+
 2022—Pub. L. 117–263 added subsecs. (a) to (g) and struck out former subsecs. (a) and (b) which read as follows:
 
 “(a) A master or other individual in charge of a documented vessel shall report to the Secretary a complaint of a sexual offense prohibited under chapter 109A of title 18, United States Code.

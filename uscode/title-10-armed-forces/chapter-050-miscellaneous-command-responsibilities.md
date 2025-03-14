@@ -2,7 +2,7 @@
 title: 10
 chapter: '50'
 heading: MISCELLANEOUS COMMAND RESPONSIBILITIES
-section_count: 5
+section_count: 7
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -229,15 +229,13 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 574(d)], Oct. 30, 2000, 114 Stat.
 
   (B) upon arrival at the first duty station of the member;
 
-  (C) upon arrival at each subsequent duty station, in the case of a member in pay grade E–4 or below or in pay grade O–3 or below;
+  (C) upon arrival at each subsequent duty station, in the case of a member in pay grade E–6 or below or in pay grade O–3 or below;
 
-  (D) on the date of promotion of the member, in the case of a member in pay grade E–5 or below or in pay grade O–4 or below;
+  (D) when the member vests in the Thrift Savings Plan (TSP) under [section 8432(g)(2)(C) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432/g/2/C&num=0&edition=prelim);
 
-  (E) when the member vests in the Thrift Savings Plan (TSP) under [section 8432(g)(2)(C) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432/g/2/C&num=0&edition=prelim);
+  (E) when the member becomes entitled to receive continuation pay under [section 356 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section356&num=0&edition=prelim), at which time the training shall include, at a minimum, information on options available to the member regarding the use of continuation pay;
 
-  (F) when the member becomes entitled to receive continuation pay under [section 356 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section356&num=0&edition=prelim), at which time the training shall include, at a minimum, information on options available to the member regarding the use of continuation pay;
-
-  (G) at each major life event during the service of the member, such as—
+  (F) at each major life event during the service of the member, such as—
 
     (i) marriage;
 
@@ -247,11 +245,11 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 574(d)], Oct. 30, 2000, 114 Stat.
 
     (iv) disabling sickness or condition;
 
-  (H) during leadership training;
+  (G) during leadership training;
 
-  (I) during pre-deployment training and during post-deployment training;
+  (H) during pre-deployment training and during post-deployment training;
 
-  (J) at transition points in the service of the member, such as—
+  (I) at transition points in the service of the member, such as—
 
     (i) transition from a regular component to a reserve component;
 
@@ -259,7 +257,7 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 574(d)], Oct. 30, 2000, 114 Stat.
 
     (iii) retirement; and
 
-  (K) as a component of periodically recurring required training that is provided to the member at a military installation.
+  (J) as a component of periodically recurring required training that is provided to the member at a military installation.
 
 (3) The training provided at a military installation under paragraph (2)(J) shall include information on any financial services marketing practices that are particularly prevalent at that military installation and in the vicinity.
 
@@ -301,7 +299,13 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 574(d)], Oct. 30, 2000, 114 Stat.
 
 **(c) Life Insurance.—** In counseling a member of the armed forces, or spouse of a member of the armed forces, under this section regarding life insurance offered by a private sector source, a financial services counselor under subsection (b)(2)(A)(i), or another individual providing counseling on financial services under subsection (b)(2), shall furnish the member or spouse, as the case may be, with information on the availability of Servicemembers’ Group Life Insurance under subchapter III of chapter 19 of title 38, including information on the amounts of coverage available and the procedures for electing coverage and the amount of coverage.
 
-**(d) Financial Literacy and Preparedness Survey.—**
+**(d) Provision of Retirement Information.—** In each training under subsection (a) and in each meeting to provide counseling under subsection (b), a member of the armed forces shall be provided with—
+
+(1) all forms relating to retirement that are relevant to the member, including with respect to the Thrift Savings Plan; and
+
+(2) information with respect to how to find additional information.
+
+**(e) Financial Literacy and Preparedness Survey.—**
 
 (1) The Director of the Defense Manpower Data Center shall annually include in the status of forces survey a survey of the status of the financial literacy and preparedness of members of the armed forces.
 
@@ -311,7 +315,7 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 574(d)], Oct. 30, 2000, 114 Stat.
 
   (B) shall be submitted to the Committees on Armed Services of the Senate and the House of Representatives.
 
-**(e) Financial Services Defined.—** In this section, the term “financial services” includes the following:
+**(f) Financial Services Defined.—** In this section, the term “financial services” includes the following:
 
 (1) Life insurance, casualty insurance, and other insurance.
 
@@ -324,6 +328,14 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 574(d)], Oct. 30, 2000, 114 Stat.
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a)(2)(C). Pub. L. 118–159, § 541(a)(1), substituted “grade E–6” for “grade E–4”.
+
+Subsec. (a)(2)(D). Pub. L. 118–159, § 541(a)(2), (3), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: “on the date of promotion of the member, in the case of a member in pay grade E–5 or below or in pay grade O–4 or below;”.
+
+Subsec. (a)(2)(E) to (J). Pub. L. 118–159, § 541(a)(3), redesignated subpars. (F) to (K) as (E) to (J), respectively. Former subpar. (E) redesignated (D).
+
+Subsecs. (d) to (f). Pub. L. 118–159, § 541(b), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
 2023—Subsec. (b)(2)(A)(i). Pub. L. 118–31, § 524(a)(1)(A), struck out “and” after “installation;”.
 
 Subsec. (b)(2)(A)(ii). Pub. L. 118–31, § 524(a)(1)(B)(i), (ii), in introductory provisions, substituted “shall” for “may” and “installation—” for “installation by any means elected by the Secretary from among the following:”.
@@ -457,3 +469,61 @@ Pub. L. 117–263, div. A, title III, § 382(b), Dec. 23, 2022, 136 Stat. 2543, 
 
 #### Deadline for Guidance
 Pub. L. 117–263, div. A, title III, § 382(d), Dec. 23, 2022, 136 Stat. 2543, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Under Secretary of Defense (Comptroller) shall issue the guidance on the annual reporting requirement under [section 995 of title 10](./chapter-050-miscellaneous-command-responsibilities.md#section-995), United States Code, as added by subsection (a).”
+
+
+<a id="section-996"></a>
+## § 996. Individual Longitudinal Exposure Record
+**(a) Establishment.—** The Secretary of Defense shall maintain a data system that is a central web portal for exposure-related data that compiles, collates, presents, and provides available occupational and environmental exposure information to support the needs of the Department of Defense and the Department of Veterans Affairs. Such data system shall be referred to as the “Individual Longitudinal Exposure Record”.
+
+**(b) Elements.—** The Individual Longitudinal Exposure Record includes the following elements:
+
+(1) Service records of members of the armed forces.
+
+(2) All data available to the Secretary regarding how, where, and when members of the armed forces have been exposed to various occupational or environmental hazards.
+
+(3) Medical records of members relating to exposures described in paragraph (2), including diagnoses, treatment plans, and laboratory data.
+
+**(c) Service Records.—** If a member is a member described in paragraph (2) of subsection (b), the Secretary shall include the data described in such paragraph in the service record of such member.
+
+**(d) Data Sharing.—** The Secretary shall provide access to information in the Individual Longitudinal Exposure Record to the following:
+
+(1) The Secretary of Veterans Affairs.
+
+(2) The Director of the Defense Health Agency, for use by health care providers, epidemiologists, and researchers of the Department of Defense.
+
+(3) The Under Secretary for Health of the Department of Veterans Affairs, for use by health care providers, epidemiologists, and researchers of such department.
+
+(4) The Under Secretary for Benefits of the Department of Veterans Affairs, for use by personnel of such department regarding compensation and benefits for service-connected disabilities or death.
+
+**(e) Annual Briefing.—**
+
+(1) The Secretary of Defense shall submit, to the committees specified in paragraph (2), an annual briefing regarding the Individual Longitudinal Exposure Record, including an explanation of how the Secretary intends to include in the Individual Longitudinal Exposure Record data described in subsection (b)(2) in cases where part or all of such data is classified.
+
+(2) The committees specified in this paragraph are the following:
+
+  (A) The Committee on Armed Services of the Senate.
+
+  (B) The Committee on Armed Services of House of Representatives.
+
+  (C) The Committee on Veterans’ Affairs of the Senate.
+
+  (D) The Committee on Veterans’ Affairs of the House of Representatives.
+
+
+<a id="section-997"></a>
+## § 997. Establishment of women’s initiative teams
+**(a) Establishment.—** The Secretary concerned shall establish a women’s initiative team in each of the Army, Navy, Air Force, Marine Corps, and Space Force to identify and address barriers, if any, to the service, recruitment, retention, and advancement of women in those armed forces.
+
+**(b) Duties.—** Each women’s initiative team established under subsection (a) shall—
+
+(1) identify and address issues, if any, that hinder service by women in the armed force in which such team is established;
+
+(2) support the recruitment and retention of women in such armed force;
+
+(3) recommend policy changes that support the needs of women members of such armed force; and
+
+(4) foster a sense of community.
+
+**(c) Composition.—** Each women’s initiative team established under subsection (a) shall be composed of members of the armed force in which such team is established of a variety of ranks, backgrounds, and occupational specialities.
+
+**(d) Collaboration.—** A women’s initiative team established under subsection (a) shall work collaboratively with the leadership of the armed force in which such team is established and other stakeholders to carry out the duties described in subsection (b).

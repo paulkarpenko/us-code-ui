@@ -670,6 +670,13 @@ In this title the following definitions shall apply:
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 119–27, §§ 11(b), 20, July 18, 2025, 139 Stat. 457, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, this section is amended by adding after paragraph (40B) the following:
+
+(40C) The terms “payment stablecoin” and “permitted payment stablecoin issuer” have the meanings given those terms in section 2 of the GENIUS Act.
+
+See 2025 Amendment note below.
+
 #### legislative statements
 Section 101(2) defines “affiliate.” The House amendment contains a provision that is a compromise between the definition in the House-passed version of H.R. 8200 and the Senate amendment in the nature of a substitute to H.R. 8200. Subparagraphs (A) and (B) are derived from the Senate amendment and subparagraph (D) is taken from the House bill, while subparagraph (C) represents a compromise, taking the House position with respect to a person whose business is operated under a lease or an operating agreement by the debtor and with respect to a person substantially all of whose property is operated under an operating agreement by the debtor and with respect to a person substantially all of whose property is operated under an operating agreement by the debtor and the Senate position on leased property. Thus, the definition of “affiliate” excludes persons substantially all of whose property is operated under a lease agreement by a debtor, such as a small company which owns equipment all of which is leased to a larger nonrelated company.
 
@@ -815,6 +822,8 @@ The Commodity Exchange Act, referred to in par. (53B)(B), is act Sept. 21, 1922,
 Pub. L. 116–52, effective Aug. 23, 2019, and Pub. L. 116–92, effective Dec. 20, 2019, made similar amendments, striking out subpar. (B) of par. (10A) and enacting almost identical subpars. (B). The text of par. (10A)(B) is based on the text enacted by Pub. L. 116–52.
 
 #### Amendments
+2025—Par. (40C). Pub. L. 119–27 added par. (40C).
+
 2022—Par. (51D)(B)(i). Pub. L. 117–151, § 2(a)(1), inserted “under this title” after “affiliated debtors”.
 
 Par. (51D)(B)(iii). Pub. L. 117–151, § 2(a)(2), substituted “a corporation described in clause (ii).” for “an issuer (as defined in section 3 of the Securities Exchange Act of 1934 ([15 U.S.C. 78c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim))).”
@@ -1301,6 +1310,9 @@ Pars. (37) to (39). Pub. L. 97–222, § 1(a)(1), redesignated pars. (36) to (38
 
 Pars. (40), (41). Pub. L. 97–222, § 1(a)(1), (d), redesignated former par. (39) as (40) and restructured its provisions by dividing the former introductory provisions into subpars. (A) and (B) and by redesignating former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (B). Former par. (40) redesignated (41).
 
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as an Effective Date note under [section 5901 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim), Banks and Banking.
+
 #### Effective Date of 2022 Amendment; Retroactive Application
 Pub. L. 117–151, § 2(h)(2), June 21, 2022, 136 Stat. 1299, provided that: “The amendments made by subsections (a), (d), (e), and (f) [amending this section and sections 1182, 1183, and 1191 of this title, respectively] shall apply with respect to any case that— “(A) is commenced under title 11, United States Code, on or after March 27, 2020; and “(B) with respect to a case that was commenced on or after March 27, 2020 and before the date of enactment of this Act [June 21, 2022], is pending on the date of enactment of this Act.”
 
@@ -1428,7 +1440,9 @@ Pub. L. 109–8, title XII, § 1226, Apr. 20, 2005, 119 Stat. 199, provided that
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in par. (3), dollar amount “204,425” was adjusted to “226,850”; in par. (18), dollar amount “10,000,000” was adjusted to “11,097,350” each time it appeared; in par. (19A), dollar amount “2,044,225” was adjusted to “2,268,550” each time it appeared; and, in par. (51D), dollar amount “2,725,625” was adjusted to “3,024,725” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Jan. 30, 2025, 90 F.R. 8941, effective Apr. 1, 2025, in par. (3), dollar amount “226,850” was adjusted to “256,800”; in par. (18), dollar amount “11,097,350” was adjusted to “12,562,250” each time it appeared; in par. (19A), dollar amount “2,268,550” was adjusted to “2,568,000” each time it appeared; and, in par. (51D), dollar amount “3,024,725” was adjusted to “3,424,000” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in par. (3), dollar amount “204,425” was adjusted to “226,850”; in par. (18), dollar amount “10,000,000” was adjusted to “11,097,350” each time it appeared; in par. (19A), dollar amount “2,044,225” was adjusted to “2,268,550” each time it appeared; and, in par. (51D), dollar amount “2,725,625” was adjusted to “3,024,725” each time it appeared.
 
 By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in par. (3), dollar amount “192,450” was adjusted to “204,425”; in par. (18), dollar amount “4,153,150” was adjusted to “4,411,400” each time it appeared; in par. (19A), dollar amount “1,924,550” was adjusted to “2,044,225” each time it appeared; and, in par. (51D), dollar amount “2,566,050” was adjusted to “2,725,625” each time it appeared.
 
@@ -1662,62 +1676,62 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendm
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Adjustment of Dollar Amounts
-By notice dated Jan. 31, 2022, 87 F.R. 6625, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in subsec. (a) of this section, effective Apr. 1, 2022, as follows:
+By notice dated Jan. 30, 2025, 90 F.R. 8941, and corrected at 90 F.R. 10643, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in subsec. (a) of this section, effective Apr. 1, 2025, as follows:
 
-| 28 U.S.C. | Dollar amount to be adjusted | New (adjusted) dollar amount 1 |
+| Affected sections of Titles 11 and 28 U.S.C. | Dollar amount to be adjusted | New (adjusted) dollar amount 1 |
 | --- | --- | --- |
-| Section 1409(b)—a trustee may commence a proceeding arising in or related to a case to recover |  |  |
-| (1)—money judgment of or property worth less than | $1,375 | $1,525. |
-| (2)—a consumer debt less than | $20,450 | $22,700. |
-| (3)—a non-consumer debt against a non-insider less than | $25,000 | $27,750. |
-
-| 11 U.S.C. | Dollar amount to be adjusted | New (adjusted) dollar amount 1 |
-| --- | --- | --- |
-| 1 The New (Adjusted) Dollar Amounts reflect a 10.97347880254584 percent increase, rounded to the nearest $25. |  |  |
-| Section 101(3)—definition of assisted person | $204,425 | $226,850. |
-| Section 101(18)—definition of family farmer | $10,000,000 (each time it appears) | $11,097,350 (each time it appears). |
-| Section 101(19A)—definition of family fisherman | $2,044,225 (each time it appears) | $2,268,550 (each time it appears). |
-| Section 101(51D)—definition of small business debtor | $2,725,625 (each time it appears) | $3,024,725 (each time it appears). |
-| Section 109(e)—debt limits for individual filing bankruptcy under chapter 13 | $419,275 (each time it appears) $1,257,850 (each time it appears) | $465,275 (each time it appears) $1,395,875 (each time it appears). |
-| Section 303(b)—minimum aggregate claims needed for the commencement of an involuntary chapter 7 or 11 petition | $16,750 (each time it appears) | $18,600 (each time it appears). |
-| Section 507(a)—priority expenses and claims: |  |  |
-| (1)—in paragraph (4) | $13,650 | $15,150. |
-| (2)—in paragraph (5)(B)(i) | $13,650 | $15,150. |
-| (3)—in paragraph (6)(B) | $6,725 | $7,475. |
-| (4)—in paragraph (7) | $3,025 | $3,350. |
-| Section 522(d)—value of property exemptions allowed to the debtor: |  |  |
-| (1)—in paragraph (1) | $25,150 | $27,900. |
-| (2)—in paragraph (2) | $4,000 | $4,450. |
-| (3)—in paragraph (3) | $625 $13,400 | $700 $14,875. |
-| (4)—in paragraph (4) | $1,700 | $1,875. |
-| (5)—in paragraph (5) | $1,325 $12,575 | $1,475 $13,950. |
-| (6)—in paragraph (6) | $2,525 | $2,800. |
-| (7)—in paragraph (8) | $13,400 | $14,875. |
-| (8)—in paragraph (11)(D) | $25,150 | $27,900. |
-| Section 522(f)(3)—exception to lien avoidance under certain state laws | $6,825 | $7,575. |
-| Section 522(f)(4)—items excluded from definition of household goods for lien avoidance purposes | $725 (each time it appears) | $800 (each time it appears). |
-| Section 522(n)—maximum aggregate value of assets in individual retirement accounts exempted | $1,362,800 | $1,512,350. |
-| Section 522(p)—state homestead exemption, limit for interest acquired 1215 days before filing | $170,350 | $189,050. |
-| Section 522(q)—state homestead exemption, limit under particular circumstances | $170,350 | $189,050. |
-| Section 523(a)(2)(C)—exceptions to discharge—presumption of nondischargeability: |  |  |
-| (1)—in paragraph (i)(I)—consumer debts for luxury goods or services incurred < 90 days before filing owed to a single creditor in the aggregate | $725 | $800. |
-| (2)—in paragraph (i)(II)—certain cash advances obtained < 70 days before filing, in the aggregate | $1,000 | $1,100. |
-| Section 541(b)—certain property of the estate exclusion limits | $6,825 (each time it appears) | $7,575 (each time it appears). |
-| Section 547(c)(9)—minimum preference avoidance value in cases with primarily non-consumer debts | $6,825 | $7,575. |
-| Section 707(b)—dismissal of a chapter 7 case or conversion to chapter 11 or 13 (means test): |  |  |
-| (1)—in paragraph (2)(A)(i)(I) | $8,175 | $9,075. |
-| (2)—in paragraph (2)(A)(i)(II) | $13,650 | $15,150. |
-| (3)—in paragraph (2)(A)(ii)(IV) | $2,050 | $2,275. |
-| (4)—in paragraph (2)(B)(iv)(I) | $8,175 | $9,075. |
-| (5)—in paragraph (2)(B)(iv)(II) | $13,650 | $15,150. |
-| (6)—in paragraph (5)(B) | $1,375 | $1,525. |
-| (7)—in paragraph (6)(C) | $750 | $825. |
-| (8)—in paragraph (7)(A)(iii) | $750 | $825. |
-| Section 1322(d)—length of chapter 13 plan, current monthly income, 4+ household | $750 (each time it appears) | $825 (each time it appears). |
-| Section 1325(b)—confirmation of chapter 13 plan, current monthly income, 4+ household | $750 (each time it appears) | $825 (each time it appears). |
-| Section 1326(b)(3)—payments to former chapter 7 trustee | $25 | $25. |
+| 1 The New (Adjusted) Dollar Amounts reflect a 13.2004 percent increase, rounded to the nearest $25. |  |  |
+| 2 There is no dollar amount currently set forth in [11 U.S.C. 1182(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1182/1&num=0&edition=prelim). Most recently, the Bankruptcy Threshold Adjustment and Technical Corrections Act (BTATCA) (Pub. L. 117–151, 136 Stat. 1298) added a dollar amount to that section, but the BTATCA provision that included the dollar amount sunset on June 21, 2024. |  |  |
+| 11 U.S.C.: |  |  |
+| Section 101(3) | $226,850 | $256,800. |
+| Section 101(18) | $11,097,350 (each time it appears) | $12,562,250 (each time it appears). |
+| Section 101(19A) | $2,268,550 (each time it appears) | $2,568,000 (each time it appears). |
+| Section 101(51D) | $3,024,725 (each time it appears) | $3,424,000 (each time it appears). |
+| Section 109(e) | $465,275 (each time it appears) $1,395,875 (each time it appears) | $526,700 (each time it appears). $1,580,125 (each time it appears). |
+| Section 303(b) | $18,600 (each time it appears) | $21,050 (each time it appears). |
+| Section 507(a) |  |  |
+| paragraph (4) | $15,150 | $17,150. |
+| paragraph (5)(B)(i) | $15,150 | $17,150. |
+| paragraph (6) | $7,475 | $8,450. |
+| paragraph (7) | $3,350 | $3,800. |
+| Section 522(d) |  |  |
+| paragraph (1) | $27,900 | $31,575. |
+| paragraph (2) | $4,450 | $5,025. |
+| paragraph (3) | $700 $14,875 | $800. $16,850. |
+| paragraph (4) | $1,875 | $2,125. |
+| paragraph (5) | $1,475 $13,950 | $1,675. $15,800. |
+| paragraph (6) | $2,800 | $3,175. |
+| paragraph (8) | $14,875 | $16,850. |
+| paragraph (11)(D) | $27,900 | $31,575. |
+| Section 522(f)(3) | $7,575 | $8,575. |
+| Section 522(f)(4) | $800 (each time it appears) | $900 (each time it appears). |
+| Section 522(n) | $1,512,350 | $1,711,975. |
+| Section 522(p) | $189,050 | $214,000. |
+| Section 522(q) | $189,050 | $214,000. |
+| Section 523(a)(2)(C) |  |  |
+| paragraph (i)(I) | $800 | $900. |
+| (2)—in paragraph (i)(II) | $1,100 | $1,250. |
+| Section 541(b) | $7,575 (each time it appears) | $8,575 (each time it appears). |
+| Section 547(c)(9) | $7,575 | $8,575. |
+| Section 707(b) |  |  |
+| paragraph (2)(A)(i)(I) | $9,075 | $10,275. |
+| paragraph (2)(A)(i)(II) | $15,150 | $17,150. |
+| paragraph (2)(A)(ii)(IV) | $2,275 | $2,575. |
+| paragraph (2)(B)(iv)(I) | $9,075 | $10,275. |
+| paragraph (2)(B)(iv)(II) | $15,150 | $17,150. |
+| paragraph (5)(B) | $1,525 | $1,725. |
+| paragraph (6)(C) | $825 | $925. |
+| paragraph (7)(A)(iii) | $825 | $925. |
+| Section 1182(1) | \(2)\ |  |
+| Section 1322(d) | $825 (each time it appears) | $925 (each time it appears). |
+| Section 1325(b) | $825 (each time it appears) | $925 (each time it appears). |
+| Section 1326(b)(3) | $25 | $25. |
+| 28 U.S.C.: |  |  |
+| Section 1409(b) | $1,525 $22,700 $27,750 | $1,725 $25,700 $31,425. |
 
 Similar notices by the Judicial Conference of the United States adjusting the dollar amounts in provisions specified in subsec. (a) of this section were contained in the following:
+
+Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022.
 
 Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019.
 
@@ -2007,7 +2021,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(d)** Only a railroad, a person that may be a debtor under chapter 7 of this title (except a stockbroker or a commodity broker), and an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 1 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor under chapter 11 of this title.
 
-**(e)** Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated debts of less than $2,750,000 or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated debts that aggregate less than $2,750,000 may be a debtor under chapter 13 of this title.
+**(e)** Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 22 See Adjustment of Dollar Amounts notes below. and noncontingent, liquidated, secured debts of less than $750,000,2 or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 2 and noncontingent, liquidated, secured debts of less than $750,000 2 may be a debtor under chapter 13 of this title.
 
 **(f)** Only a family farmer or family fisherman with regular annual income may be a debtor under chapter 12 of this title.
 
@@ -2042,9 +2056,6 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 (4) The requirements of paragraph (1) shall not apply with respect to a debtor whom the court determines, after notice and hearing, is unable to complete those requirements because of incapacity, disability, or active military duty in a military combat zone. For the purposes of this paragraph, incapacity means that the debtor is impaired by reason of mental illness or mental deficiency so that he is incapable of realizing and making rational decisions with respect to his financial responsibilities; and “disability” means that the debtor is so physically impaired as to be unable, after reasonable effort, to participate in an in person, telephone, or Internet briefing required under paragraph (1).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (e)
-Pub. L. 117–151, § 2(i)(1)(A), June 21, 2022, 136 Stat. 1300, provided that, effective 2 years after June 21, 2022, subsection (e) of this section is amended to read as such subsection read on the day before June 21, 2022. See 2022 Amendment note below.
 
 #### legislative statements
 Section 109(b) of the House amendment adopts a provision contained in H.R. 8200 as passed by the House. Railroad liquidations will occur under chapter 11, not chapter 7.
@@ -2160,9 +2171,11 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 Pub. L. 117–151, § 2(i)(2), June 21, 2022, 136 Stat. 1300, provided that: “For purposes of applying subsection (e) of [section 109 of title 11](./chapter-001-general-provisions.md#section-109), United States Code, as amended by paragraph (1)(A), the amounts specified in such subsection shall be the amounts that were in effect on the day before the date of enactment of this Act [June 21, 2022].”
 
 #### Adjustment of Dollar Amounts
-The dollar amounts specified in this section, prior to the amendment made by Pub. L. 117–151, § 2(c), were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (e), dollar amounts “419,275” and “1,257,850” were adjusted to “465,275” and “1,395,875”, respectively, each time they appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Jan. 30, 2025, 90 F.R. 8941, effective Apr. 1, 2025, in subsec. (e), dollar amounts “465,275” and “1,395,875” were adjusted to “526,700” and “1,580,125”, respectively, each time they appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (e), dollar amounts “419,275” and “1,257,850” were adjusted to “465,275” and “1,395,875”, respectively, each time they appeared.
 
 By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (e), dollar amounts “394,725” and “1,184,200” were adjusted to “419,275” and “1,257,850”, respectively, each time they appeared.
 

@@ -2,7 +2,7 @@
 title: 10
 chapter: '37'
 heading: GENERAL SERVICE REQUIREMENTS
-section_count: 7
+section_count: 8
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -214,56 +214,14 @@ Pub. L. 111–321, Dec. 22, 2010, 124 Stat. 3515, repealed former [section 654 o
 
 
 <a id="section-656"></a>
-## § 656. Diversity in military leadership: plan; mentoring and career counseling program
-**(a) Plan.—** The Secretary of Defense (and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Department of the Navy) shall develop and implement a plan to accurately measure the efforts of the Department of Defense and the Coast Guard to achieve a dynamic, sustainable level of members of the armed forces (including reserve components) that, among both commissioned officers and senior enlisted personnel of each armed force, will reflect the diverse population of the United States eligible to serve in the armed forces, including gender specific, racial, and ethnic populations. Any metric established pursuant to this subsection may not be used in a manner that undermines the merit-based processes of the Department of Defense and the Coast Guard, including such processes for accession, retention, and promotion. Such metrics may not be combined with the identification of specific quotas based upon diversity characteristics. The Secretary concerned shall continue to account for diversified language and cultural skills among the total force of the armed forces.
-
-**(b) Mentoring and Career Counseling Program.—**
-
-(1) **Program required as part of plan.—** — With the goal of having the diversity of the population of officers serving in each branch, specialty, community, and grade of each armed force reflect the diversity of the population in such armed force as a whole, the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall include in the plan required by subsection (a) a mentoring and career counseling program for officers.
-
-(2) **Elements.—** — The program required by this subsection shall include the following:
-
-  (A) The option for any officer to participate in the program.
-
-  (B) For each officer who elects to participate in the program, the following:
-
-    (i) One or more opportunities for mentoring and career counseling before selection of the officer’s branch, specialty, or community.
-
-    (ii) Ongoing opportunities for mentoring and career counseling following selection of the officer’s branch, specialty, or community, and continuing through the officer’s military career.
-
-  (C) Mentoring and counseling during opportunities under subparagraph (B) consisting of the following:
-
-    (i) Information on officer retention and promotion rates in each grade, branch, specialty, and community of the armed force concerned, including the rate at which officers in each branch, specialty, or community of such armed force are promoted to a grade above O–6.
-
-    (ii) Information on career and service pathways, including service in the reserve components.
-
-    (iii) Such other information as may be required to optimize the ability of an officer to make informed career decisions through the officer’s military career.
-
-**(c) Metrics to Measure Progress in Developing and Implementing Plan and Mentoring and Career Counseling Program.—** In developing and implementing the plan under subsection (a) and the mentoring and career counseling program under subsection (b), the Secretary of Defense and the Secretary of Homeland Security shall develop a standard set of metrics and collection procedures that are uniform across the armed forces. The metrics required by this subsection shall be designed—
-
-(1) to accurately capture the inclusion and capability aspects of the armed forces’ broader diversity plans, including race, ethnic, and gender specific groups, as potential factors of force readiness that would supplement continued accounting by the Department of Defense and the Coast Guard of diversified language and cultural skills among the total force as part of the assessment of current and future national security needs; and
-
-(2) to be verifiable and systematically linked to strategic plans that will drive improvements.
-
-**(d) Definition of Diversity.—** In developing and implementing the plan under subsection (a), the Secretary of Defense and the Secretary of Homeland Security shall develop a uniform definition of diversity.
-
-**(e) Consultation.—** Not less than annually, the Secretary of Defense and the Secretary of Homeland Security shall meet with the Secretaries of the military departments, the Joint Chiefs of Staff, the Commandant of the Coast Guard, and senior enlisted members of the armed forces to discuss the progress being made toward developing and implementing the plan established under subsection (a).
-
-**(f) Cooperation With States.—** The Secretary of Defense shall coordinate with the National Guard Bureau and States in tracking the progress of the National Guard toward developing and implementing the plan established under subsection (a).
+## § 656. Repealed. Pub. L. 119–60, div. A, title IX, § 901(c), Dec. 18, 2025, 139 Stat. 1007]
 
 ### Statutory Notes
 
-#### Amendments
-2021—Pub. L. 116–283, § 571(a)(3)(A), amended section catchline generally, substituting “Diversity in military leadership: plan; mentoring and career counseling program” for “Diversity in military leadership: plan”.
-
-Subsec. (b). Pub. L. 116–283, § 571(a)(1)(B), added subsec. (b). Former subsec. (b) redesignated (c).
-
-Subsec. (c). Pub. L. 116–283, § 571(a)(1)(A), (2), redesignated subsec. (b) as (c) and inserted “and Mentoring and Career Counseling Program” after “Developing and Implementing Plan” in heading and “and the mentoring and career counseling program under subsection (b)” after “the plan under subsection (a)” in text. Former subsec. (c) redesignated (d).
-
-Subsecs. (d) to (f). Pub. L. 116–283, § 571(a)(1)(A), redesignated subsecs. (c) to (e) as (d) to (f), respectively.
+Section, added Pub. L. 112–239, div. A, title V, § 519(a)(1), Jan. 2, 2013, 126 Stat. 1720; amended Pub. L. 116–283, div. A, title V, § 571(a)(1)–(3)(A), Jan. 1, 2021, 134 Stat. 3642, 3643, related to diversity in military leadership.
 
 #### Strategic Plan for Diversity and Inclusion
-Pub. L. 116–92, div. A, title V, § 529, Dec. 20, 2019, 133 Stat. 1358, provided that: “(a) Plan Required.—The Secretary of Defense shall design and implement a five-year strategic plan for diversity and inclusion in the Department of Defense. “(b) Elements.—The strategic plan under this section—“(1) shall incorporate existing efforts to promote diversity and inclusion within the Department; and “(2) may not conflict with the objectives of the 2018 National Military Strategy. “(c) Deadline.—The Secretary shall implement the strategic plan under this section not later than one year after the date of the enactment of this Act [Dec. 20, 2019].”
+Pub. L. 116–92, div. A, title V, § 529, Dec. 20, 2019, 133 Stat. 1358, required Secretary of Defense to design and implement five-year strategic plan for diversity and inclusion in Department of Defense, with implementation to begin not later than one year after Dec. 20, 2019.
 
 
 <a id="section-657"></a>
@@ -279,3 +237,30 @@ Pub. L. 116–92, div. A, title V, § 529, Dec. 20, 2019, 133 Stat. 1358, provid
 (3) Incest.
 
 (4) An attempt to commit an offense specified in paragraph (1) through (3), as punishable under applicable Federal or State law.
+
+
+<a id="section-658"></a>
+## § 658. Medical accession standards for members of the armed forces
+**(a) Establishment of Standards.—**
+
+(1) The Secretary of Defense shall prescribe uniform medical accession standards for the appointment, enlistment, or induction of individuals into the armed forces.
+
+(2) The Secretary of Defense shall make readily available and understandable to applicants for military service the medical accession standards established under paragraph (1), including an explanation of the process for a review or waiver of a medical disqualification under subsection (b).
+
+**(b) Process for Review or Waiver of Medical Disqualifications.—**
+
+(1) The Secretary of Defense shall establish a process for the review of medical disqualifications of persons seeking to become a member of the armed forces and for granting waivers of those medical disqualifications. Determinations shall be based on all available information regarding the medical condition and the operational needs of the military service concerned.
+
+(2) The waiver process shall include criteria permitting waivers when such action is in the interests of national security, defined as a compelling governmental interest in accessing an individual whose service would directly support the Department’s warfighting capabilities.
+
+**(c) Reports.—**
+
+(1) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives an annual report identifying—
+
+  (A) the number of persons disqualified from service as a member of the armed forces during the preceding calendar year due to medical history;
+
+  (B) the number and type of approvals granted under subsection (b) during the preceding calendar year; and
+
+  (C) any revisions to the medical accession standards established under subsection (a) or the waiver process established under subsection (b) since the preceding report.
+
+(2) In any fiscal year in which the accession of a person into the Coast Guard is approved under the process established under subsection (b), the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report identifying the information required under paragraph (1)(B) with respect to such member.

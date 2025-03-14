@@ -229,7 +229,7 @@ Section is from the Rivers and Harbors Appropriation Act for the year 1922.
 
 (3) For purposes of carrying out paragraph (1)(A)(i) of this subsection, there is authorized to be appropriated to the Secretary $75,000,000 for fiscal year 1999 and each fiscal year thereafter.
 
-(4) For purposes of carrying out paragraph (1)(A)(ii) of this subsection, there is authorized to be appropriated to the Secretary $15,000,000 for fiscal year 1999 and each fiscal year thereafter.
+(4) For purposes of carrying out paragraph (1)(A)(ii) of this subsection, there is authorized to be appropriated to the Secretary $15,000,000 for each of fiscal years 1999 through 2024, and $25,000,000 for fiscal year 2025 and each fiscal year thereafter.
 
 (5) **Authorization of appropriations.—** — There is authorized to be appropriated to carry out paragraph (1)(B) $350,000 for each of fiscal years 1999 through 2009.
 
@@ -286,6 +286,8 @@ This Act, referred to in subsec. (f)(1), is Pub. L. 99–662, Nov. 17, 1986, 100
 Subsec. (c)(2) of this section amended section 101 of Pub. L. 95–502, which is set out as a note under [section 1962b–3 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962b–3&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2025—Subsec. (e)(4). Pub. L. 118–272 substituted “each of fiscal years 1999 through 2024, and $25,000,000 for fiscal year 2025 and each fiscal year thereafter” for “fiscal year 1999 and each fiscal year thereafter”.
+
 2022—Subsec. (e)(3). Pub. L. 117–263 substituted “$75,000,000” for “$40,000,000”.
 
 2020—Subsec. (e)(3). Pub. L. 116–260, § 307(1), substituted “$40,000,000” for “$22,750,000”.

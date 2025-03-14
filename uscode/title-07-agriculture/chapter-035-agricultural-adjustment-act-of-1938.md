@@ -677,7 +677,7 @@ Pub. L. 91–524, title VI, § 606, Nov. 30, 1970, 84 Stat. 1378, as amended by 
 
 **(b) Limitations on commodity and conservation programs**
 
-(1) **Limitation** — Notwithstanding any other provision of law, subject to paragraph (3), a person or legal entity shall not be eligible to receive any benefit described in paragraph (2) during a crop, fiscal, or program year, as appropriate, if the average adjusted gross income of the person or legal entity exceeds $900,000.
+(1) **Limitation** — Notwithstanding any other provision of law, subject to paragraphs (3) and (4), a person or legal entity shall not be eligible to receive any benefit described in paragraph (2) during a crop, fiscal, or program year, as appropriate, if the average adjusted gross income of the person or legal entity exceeds $900,000.
 
 (2) **Covered benefits** — Paragraph (1) applies with respect to the following:
 
@@ -693,6 +693,22 @@ Pub. L. 91–524, title VI, § 606, Nov. 30, 1970, 84 Stat. 1378, as amended by 
 
 (3) **Waiver** — The Secretary may waive the limitation established by paragraph (1) with respect to a payment pursuant to a covered benefit described in paragraph (2)(C), on a case-by-case basis, if the Secretary determines that environmentally sensitive land of special significance would be protected as a result of such waiver.
 
+(4) **Exception for certain operations**
+
+  (A) *Definitions* — In this paragraph:
+
+    (i) *Excepted payment or benefit* — The term “excepted payment or benefit” means—
+
+      (I) a payment or benefit under subtitle E of title I of the Agricultural Act of 2014 ([7 U.S.C. 9081](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9081) et seq.);
+
+      (II) a payment or benefit under [section 7333 of this title](./chapter-100-agricultural-market-transition.md#section-7333); and
+
+      (III) a payment or benefit described in paragraph (2)(C) received on or after October 1, 2024.
+
+    (ii) *Farming, ranching, or silviculture activities* — The term “farming, ranching, or silviculture activities” includes agri-tourism, direct-to-consumer marketing of agricultural products, the sale of agricultural equipment owned by the person or legal entity, and other agriculture-related activities, as determined by the Secretary.
+
+  (B) *Exception* — In the case of an excepted payment or benefit, the limitation established by paragraph (1) shall not apply to a person or legal entity during a crop, fiscal, or program year, as appropriate, if greater than or equal to 75 percent of the average gross income of the person or legal entity derives from farming, ranching, or silviculture activities.
+
 **(c) Enforcement**
 
 (1) **In general** — To comply with subsection (b), at least once every 3 years a person or legal entity shall provide to the Secretary—
@@ -705,12 +721,12 @@ Pub. L. 91–524, title VI, § 606, Nov. 30, 1970, 84 Stat. 1378, as amended by 
 
 (3) **Audit** — The Secretary shall establish statistically valid procedures under which the Secretary shall conduct targeted audits of such persons or legal entities as the Secretary determines are most likely to exceed the limitations under subsection (b).
 
-**(d) Commensurate reduction** In the case of a payment or benefit described in subsection (b)(2) made in a crop, program, or fiscal year, as appropriate, to an entity, general partnership, or joint venture, the amount of the payment or benefit shall be reduced by an amount that is commensurate with the direct and indirect ownership interest in the entity, general partnership, or joint venture of each person who has an average adjusted gross income in excess of the applicable limitation specified in subsection (b).
+**(d) Commensurate reduction** In the case of a payment or benefit described in subsection (b)(2) made in a crop, program, or fiscal year, as appropriate, to an entity, the amount of the payment or benefit shall be reduced by an amount that is commensurate with the direct and indirect ownership interest in the entity of each person who has an average adjusted gross income in excess of the applicable limitation specified in subsection (b).
 
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Act of 2014, referred to in subsec. (b)(2)(A) to (C), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Subtitles A, B, and E of title I of the Act are classified principally to subchapter I (§ 9011 et seq.) and generally to subchapters II (§ 9031 et seq.) and IV (§ 9081), respectively, of chapter 115 of this title. Title II of the Act enacted, amended, and repealed numerous sections and provisions set out as notes in Title 16, Conservation, and Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001) and Tables.
+The Agricultural Act of 2014, referred to in subsec. (b)(2)(A) to (C), (4)(A)(i)(I), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Subtitles A, B, and E of title I of the Act are classified principally to subchapter I (§ 9011 et seq.) and generally to subchapters II (§ 9031 et seq.) and IV (§ 9081), respectively, of chapter 115 of this title. Title II of the Act enacted, amended, and repealed numerous sections and provisions set out as notes in Title 16, Conservation, and Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001) and Tables.
 
 The Agriculture Improvement Act of 2018, referred to in subsec. (b)(2)(C), is Pub. L. 115–334, Dec. 20, 2018, 132 Stat. 4490. Title II of the Act enacted, amended, and repealed numerous sections and provisions set out as notes in this title, Title 16, Conservation, Title 33, Navigation and Navigable Waters, and Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001) and Tables.
 
@@ -729,6 +745,12 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 A prior section 1001D of Pub. L. 99–198 was renumbered section 1001E and is classified to [section 1308–4 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1308-4).
 
 #### Amendments
+2025—Subsec. (b)(1). Pub. L. 119–21, § 10308(1), substituted “paragraphs (3) and (4)” for “paragraph (3)”.
+
+Subsec. (b)(4). Pub. L. 119–21, § 10308(2), added par. (4).
+
+Subsec. (d). Pub. L. 119–21, § 10306(e), struck out “, general partnership, or joint venture” after “entity” in two places.
+
 2018—Subsec. (b)(1). Pub. L. 115–334, § 1704(b), inserted “subject to paragraph (3),” after “provision of law,”.
 
 Subsec. (b)(2)(C). Pub. L. 115–334, § 1704(a)(1), inserted “title II of the Agriculture Improvement Act of 2018,” after “under”.
@@ -848,13 +870,23 @@ Pub. L. 95–156, Nov. 8, 1977, 91 Stat. 1264, provided: “That, notwithstandin
 
 (4) **Person** — The term “person” means a natural person, and does not include a legal entity.
 
-(5) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
+(5) **Qualified pass-through entity** — The term “qualified pass-through entity” means—
 
-**(b) Limitation on payments for covered commodities (other than peanuts)** The total amount of payments received, directly or indirectly, by a person or legal entity (except a joint venture or general partnership) for any crop year under sections 1116 and 1117 of the Agricultural Act of 2014 ([7 U.S.C. 9016](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9016), 9017) (other than for peanuts) may not exceed $125,000.
+  (A) a partnership (within the meaning of subchapter K of chapter 1 of the Internal Revenue Code of 1986 [[26 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section701&num=0&edition=prelim) et seq.]);
 
-**(c) Limitation on payments for peanuts** The total amount of payments received, directly or indirectly, by a person or legal entity (except a joint venture or general partnership) for any crop year under sections 1116 and 1117 of the Agricultural Act of 2014 ([7 U.S.C. 9016](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9016), 9017) for peanuts may not exceed $125,000.
+  (B) an S corporation (as defined in section 1361 of that Code);
 
-**(d) Limitation on applicability** Nothing in this section authorizes any limitation on any benefit associated with the forfeiture of a commodity pledged as collateral for a loan made available under subtitle B of title I of the Agricultural Act of 2014 [[7 U.S.C. 9031](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9031) et seq.] or title I of the Agricultural Act of 2014 [[7 U.S.C. 9001](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001) et seq.].
+  (C) a limited liability company that does not affirmatively elect to be treated as a corporation; and
+
+  (D) a joint venture or general partnership.
+
+(6) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
+
+**(b) Limitation on payments for covered commodities (other than peanuts)** Subject to subsection (i), the total amount of payments received, directly or indirectly, by a person or legal entity (except a qualified pass-through entity) for any crop year under sections 1116 and 1117 of the Agricultural Act of 2014 ([7 U.S.C. 9016](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9016), 9017) (other than for peanuts) may not exceed $155,000.
+
+**(c) Limitation on payments for peanuts** Subject to subsection (i), the total amount of payments received, directly or indirectly, by a person or legal entity (except a qualified pass-through entity) for any crop year under sections 1116 and 1117 of the Agricultural Act of 2014 ([7 U.S.C. 9016](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9016), 9017) for peanuts may not exceed $155,000.
+
+**(d) Limitation on applicability** Nothing in this section authorizes any limitation on any benefit associated with the forfeiture of a commodity pledged as collateral for a loan made available under title I of the Agricultural Act of 2014 [[7 U.S.C. 9001](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001) et seq.].
 
 **(e) Attribution of payments**
 
@@ -870,7 +902,7 @@ Pub. L. 95–156, Nov. 8, 1977, 91 Stat. 1264, provided: “That, notwithstandin
 
     (i) *Payment limits* — Except as provided in clause (ii), payments made to a legal entity shall not exceed the amounts specified in subsections (b) and (c).
 
-    (ii) *Exception for joint ventures and general partnerships* — Payments made to a joint venture or a general partnership shall not exceed, for each payment specified in subsections (b) and (c), the amount determined by multiplying the maximum payment amount specified in subsections (b) and (c) by the number of persons and legal entities (other than joint ventures and general partnerships) that comprise the ownership of the joint venture or general partnership.
+    (ii) *Exception for qualified pass-through entities* — Payments made to a qualified pass-through entity shall not exceed, for each payment specified in subsections (b) and (c), the amount determined by multiplying the maximum payment amount specified in subsections (b) and (c) by the number of persons and legal entities (other than qualified pass-through entities) that comprise the ownership of the qualified pass-through entity.
 
     (iii) *Reduction* — Payments made to a legal entity shall be reduced proportionately by an amount that represents the direct or indirect ownership in the legal entity by any person or legal entity that has otherwise exceeded the applicable maximum payment limitation.
 
@@ -972,10 +1004,14 @@ Pub. L. 95–156, Nov. 8, 1977, 91 Stat. 1264, provided: “That, notwithstandin
 
 **(h) Time limits; reliance** Regulations of the Secretary shall establish time limits for the various steps involved with notice, hearing, decision, and the appeals procedure in order to ensure expeditious handling and settlement of payment limitation disputes. Notwithstanding any other provision of law, actions taken by an individual or other entity in good faith on action or advice of an authorized representative of the Secretary may be accepted as meeting the requirement under this section or [section 1308–1 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1308-1), to the extent the Secretary deems it desirable in order to provide fair and equitable treatment.
 
+**(i) Adjustment** For the 2025 crop year and each crop year thereafter, the Secretary shall annually adjust the amounts described in subsections (b) and (c) for inflation based on the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Act of 2014, referred to in subsecs. (d) and (f)(5)(A), (6)(A), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Title I of the Act is classified principally to chapter 115 (§ 9001 et seq.) of this title. Subtitle B of title I of the Act is classified generally to subchapter II (§ 9031 et seq.) of chapter 115 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001) and Tables.
+The Internal Revenue Code of 1986, referred to in subsec. (a)(5)(A), (B), is classified generally to Title 26, Internal Revenue Code.
+
+The Agricultural Act of 2014, referred to in subsecs. (d) and (f)(5)(A), (6)(A), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Title I of the Act is classified principally to chapter 115 (§ 9001 et seq.) of this title. For complete classification of this Act to the Code, see short title note set out under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001) and Tables.
 
 Pars. (1) and (2) of [section 1308–3a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1308–3a/b&num=0&edition=prelim), referred to in subsec. (e)(1), were repealed, and new pars. (1) and (2) were enacted, by Pub. L. 113–79, title I, § 1605(a)(2), Feb. 7, 2014, 128 Stat. 707.
 
@@ -996,6 +1032,22 @@ A prior section 1308, Pub. L. 97–98, title XI, § 1101, Dec. 22, 1981, 95 Stat
 Another prior section 1308, Pub. L. 95–113, title I, § 101, Sept. 29, 1977, 91 Stat. 917; Pub. L. 96–213, § 5, Mar. 18, 1980, 94 Stat. 120, related to programs for 1978 through 1981 crops.
 
 #### Amendments
+2025—Subsec. (a)(5), (6). Pub. L. 119–21, § 10306(a)(1), added par. (5) and redesignated former par. (5) as (6).
+
+Subsec. (b). Pub. L. 119–21, § 10307(1), substituted “Subject to subsection (i), the total amount” for “The total amount” and “$155,000” for “$125,000”.
+
+Pub. L. 119–21, § 10306(a)(2), substituted “except a qualified pass-through entity” for “except a joint venture or general partnership”.
+
+Subsec. (c). Pub. L. 119–21, § 10307(2), substituted “Subject to subsection (i), the total amount” for “The total amount” and “$155,000” for “$125,000”.
+
+Pub. L. 119–21, § 10306(a)(2), substituted “except a qualified pass-through entity” for “except a joint venture or general partnership”.
+
+Subsec. (d). Pub. L. 119–21, § 10306(a)(3), struck out “subtitle B of title I of the Agricultural Act of 2014 or” after “made available under”.
+
+Subsec. (e)(3)(B)(ii). Pub. L. 119–21, § 10306(b), substituted “qualified pass-through entities” for “joint ventures and general partnerships” in heading and text and substituted “a qualified pass-through entity” for “a joint venture or a general partnership” and “the qualified pass-through entity” for “the joint venture or general partnership”.
+
+Subsec. (i). Pub. L. 119–21, § 10307(3), added subsec. (i).
+
 2018—Subsec. (a)(1). Pub. L. 115–334, § 1703(a)(1)(A), substituted “section 1111 of the Agricultural Act of 2014 ([7 U.S.C. 9011](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9011))” for “section 1001 of the Food, Conservation, and Energy Act of 2008”.
 
 Subsec. (a)(2). Pub. L. 115–334, § 1703(a)(1)(B), inserted “first cousin, niece, nephew,” after “sibling,”.
@@ -1165,7 +1217,7 @@ Pub. L. 99–198 (last sentence), as added by Pub. L. 99–500, § 101(a) [title
 
 (2) **Classes actively engaged** — Except as provided in subsections (c) and (d)—
 
-  (A) a person (including a person participating in a farming operation as a partner in a general partnership, a participant in a joint venture, a grantor of a revocable trust, or a participant in a similar entity, as determined by the Secretary) shall be considered to be actively engaged in farming with respect to a farming operation if—
+  (A) a person (including a person participating in a farming operation as a partner in a qualified pass-through entity, a grantor of a revocable trust, or a participant in a similar entity, as determined by the Secretary) shall be considered to be actively engaged in farming with respect to a farming operation if—
 
     (i) the person makes a significant contribution (based on the total value of the farming operation) to the farming operation of—
 
@@ -1177,7 +1229,7 @@ Pub. L. 99–198 (last sentence), as added by Pub. L. 99–500, § 101(a) [title
 
     (iii) the contributions of the person are at risk;
 
-  (B) a legal entity that is a corporation, joint stock company, association, limited partnership, charitable organization, or other similar entity determined by the Secretary (including any such legal entity participating in the farming operation as a partner in a general partnership, a participant in a joint venture, a grantor of a revocable trust, or as a participant in a similar legal entity as determined by the Secretary) shall be considered as actively engaged in farming with respect to a farming operation if—
+  (B) a legal entity that is a corporation, joint stock company, association, limited partnership, charitable organization, or other similar entity determined by the Secretary (including any such legal entity participating in the farming operation as a partner in a qualified pass-through entity, a grantor of a revocable trust, or as a participant in a similar legal entity as determined by the Secretary) shall be considered as actively engaged in farming with respect to a farming operation if—
 
     (i) the legal entity separately makes a significant contribution (based on the total value of the farming operation) of capital, equipment, or land;
 
@@ -1185,7 +1237,7 @@ Pub. L. 99–198 (last sentence), as added by Pub. L. 99–500, § 101(a) [title
 
     (iii) the standards provided in clauses (ii) and (iii) of subparagraph (A), as applied to the legal entity, are met by the legal entity;
 
-  (C) if a legal entity that is a general partnership, joint venture, or similar entity, as determined by the Secretary, separately makes a significant contribution (based on the total value of the farming operation involved) of capital, equipment, or land, and the standards provided in clauses (ii) and (iii) of subparagraph (A), as applied to the legal entity, are met by the legal entity, the partners or members making a significant contribution of personal labor or active personal management shall be considered to be actively engaged in farming with respect to the farming operation involved; and
+  (C) if a legal entity that is a qualified pass-through entity or a similar entity, as determined by the Secretary, separately makes a significant contribution (based on the total value of the farming operation involved) of capital, equipment, or land, and the standards provided in clauses (ii) and (iii) of subparagraph (A), as applied to the legal entity, are met by the legal entity, the partners or members making a significant contribution of personal labor or active personal management shall be considered to be actively engaged in farming with respect to the farming operation involved; and
 
   (D) in making determinations under this subsection regarding equipment and personal labor, the Secretary shall take into consideration the equipment and personal labor normally and customarily provided by farm operators in the area involved to produce program crops.
 
@@ -1229,6 +1281,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
 
 #### Amendments
+2025—Subsec. (b)(2)(A), (B). Pub. L. 119–21, § 10306(c)(1), substituted “a qualified pass-through entity” for “a general partnership, a participant in a joint venture” in introductory provisions.
+
+Subsec. (b)(2)(C). Pub. L. 119–21, § 10306(c)(2), substituted “a qualified pass-through entity or a similar entity” for “a general partnership, joint venture, or similar entity”.
+
 2008—Pub. L. 110–246, § 1603(c)(1), substituted “Notification of interests” for “Prevention of creation of entities to qualify as separate persons” in section catchline.
 
 Subsec. (a). Pub. L. 110–246, § 1603(c)(2), added subsec. (a) and struck out former subsec. (a) which related to prevention of use of multiple legal entities to avoid effective application of payment limitations under [section 1308 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1308).
@@ -1288,7 +1344,7 @@ Pub. L. 113–79, title I, § 1604, Feb. 7, 2014, 128 Stat. 706, provided that: 
 
 (2) **Cash rent tenant** — Payments otherwise payable to a person or legal entity shall be denied in a pro rata manner if the person or legal entity is a cash rent tenant on a farm owned or under the control of a person or legal entity with respect to which a determination has been made under subsection (a) or (b).
 
-**(d) Joint and several liability** Any legal entity (including partnerships and joint ventures) and any member of any legal entity determined to have knowingly participated in a scheme or device to evade, or that has the purpose of evading, sections 1308, 1308–1, or 1308–3 of this title shall be jointly and severally liable for any amounts that are payable to the Secretary as the result of the scheme or device (including amounts necessary to recover those amounts).
+**(d) Joint and several liability** Any legal entity (including qualified pass-through entities) and any member of any legal entity determined to have knowingly participated in a scheme or device to evade, or that has the purpose of evading, sections 1308, 1308–1, or 1308–3 of this title shall be jointly and severally liable for any amounts that are payable to the Secretary as the result of the scheme or device (including amounts necessary to recover those amounts).
 
 **(e) Release** The Secretary may partially or fully release from liability any person or legal entity who cooperates with the Secretary in enforcing sections 1308, 1308–1, and 1308–3 of this title, and this section.
 
@@ -1300,6 +1356,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
 
 #### Amendments
+2025—Subsec. (d). Pub. L. 119–21 substituted “qualified pass-through entities” for “partnerships and joint ventures”.
+
 2008—Pub. L. 110–246, § 1603(e), amended section generally. Prior to amendment, text read as follows: “If the Secretary of Agriculture determines that any person has adopted a scheme or device to evade, or that has the purpose of evading, section 1308, 1308–1, or 1308–3 of this title, such person shall be ineligible to receive farm program payments (as described in subsections (b), (c), and (d) of [section 1308 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1308) as being subject to limitation) applicable to the crop year for which such scheme or device was adopted and the succeeding crop year.”
 
 2002—Pub. L. 107–171 substituted “as described in subsections (b), (c), and (d) of [section 1308 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1308)” for “as described in paragraphs (1) and (2) of [section 1308 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1308)”.
@@ -3412,7 +3470,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ## § 1359ee. Flexible marketing allotments for sugar
 **(a) Sugar estimates**
 
-(1) **In general** — Not later than August 1 before the beginning of each of the 2008 through 2023 crop years for sugarcane and sugar beets, the Secretary shall estimate—
+(1) **In general** — Not later than August 1 before the beginning of each of the 2008 through 2031 crop years for sugarcane and sugar beets, the Secretary shall estimate—
 
   (A) the quantity of sugar that will be subject to human consumption in the United States during the crop year;
 
@@ -3477,6 +3535,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 1359bb, act Feb. 16, 1938, ch. 30, title III, § 359b, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3480; amended Pub. L. 102–237, title I, § 111(d), Dec. 13, 1991, 105 Stat. 1831; Pub. L. 103–66, title I, § 1107(b), Aug. 10, 1993, 107 Stat. 324, related to marketing allotments for sugar and crystalline fructose, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–21 substituted “2031” for “2023” in introductory provisions.
+
 2018—Subsec. (a)(1). Pub. L. 115–334 substituted “2023” for “2018” in introductory provisions.
 
 2014—Subsec. (a)(1). Pub. L. 113–79 substituted “2018” for “2012”.
@@ -3551,7 +3611,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (B) *Limitation* — In carrying out subparagraph (A), the Secretary may not reduce the overall allotment quantity to a quantity of less than 85 percent of the estimated quantity of sugar for domestic human consumption for the crop year.
 
-(2) **Allocation to processors** — In the case of any increase or decrease in an allotment, each allocation to a processor of the allotment under [section 1359dd of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1359dd), and each proportionate share established with respect to the allotment under [section 1359ff(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1359ff/c&num=0&edition=prelim), shall be increased or decreased by the same percentage that the allotment is increased or decreased.
+(2) **Allocation to processors**
+
+  (A) *In general* — Except as provided in subparagraph (B), in the case of any increase or decrease in an allotment, each allocation to a processor of the allotment under [section 1359dd of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1359dd), and each proportionate share established with respect to the allotment under [section 1359ff(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1359ff/c&num=0&edition=prelim), shall be increased or decreased by the same percentage that the allotment is increased or decreased.
+
+  (B) *Exception* — If the Secretary makes an upward adjustment under paragraph (1)(A), in adjusting allocations among beet sugar processors, the Secretary shall give priority to beet sugar processors with available sugar.
 
 (3) **Carry-over of reductions** — Whenever a marketing allotment for a crop year is required to be reduced during the crop year under this subsection, if, at the time of the reduction, the quantity of sugar marketed exceeds the processor’s reduced allocation, the allocation of an allotment next established for the processor shall be reduced by the quantity of the excess sugar marketed.
 
@@ -3564,6 +3628,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 1359cc, act Feb. 16, 1938, ch. 30, title III, § 359c, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3481; amended Pub. L. 102–237, title I, § 111(e), Dec. 13, 1991, 105 Stat. 1832, related to establishment of marketing allotments, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 #### Amendments
+2025—Subsec. (g)(2). Pub. L. 119–21 designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), in the case” for “In the case”, and added subpar. (B).
+
 2008—Subsec. (b). Pub. L. 110–246, § 1403(c)(1), added subsec. (b) and struck out former subsec. (b) which related to: in par. (1), establishment of the overall allotment quantity by deducting from the sum of the estimated sugar consumption and reasonable carryover stocks for the crop year 1,532,000 short tons, raw value, and carry-in stocks of sugar, including sugar in Commodity Credit Corporation inventory; and in par. (2), adjustment of overall allotment quantity to avoid the forfeiture of sugar to the Commodity Credit Corporation.
 
 Subsec. (d)(2). Pub. L. 110–246, § 1403(c)(2), inserted “or in-process beet sugar” before period at end.
@@ -3757,13 +3823,21 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (D) if after the reassignments and sales, the deficit cannot be completely eliminated, the Secretary shall reassign the remainder to imports of raw cane sugar.
 
-(2) **Beet sugar** — If the Secretary determines that a sugar beet processor who has been allocated a share of the beet sugar allotment will be unable to market that allocation—
+(2) **Beet sugar**
 
-  (A) the Secretary first shall reassign the estimated quantity of the deficit to the allotments for other sugar beet processors, depending on the capacity of each other processor to fill the portion of the deficit to be assigned to it and taking into account the interests of producers served by the processors;
+  (A) *In general* — If the Secretary determines that a sugar beet processor who has been allocated a share of the beet sugar allotment will be unable to market that allocation—
 
-  (B) if after the reassignments the deficit cannot be completely eliminated, the Secretary shall reassign the estimated quantity of the deficit to the Commodity Credit Corporation and shall sell such quantity of sugar from inventories of the Corporation unless the Secretary determines that such sales would have a significant effect on the price of sugar; and
+    (i) the Secretary first shall reassign the estimated quantity of the deficit to the allotments for other sugar beet processors, depending on the capacity of each other processor to fill the portion of the deficit to be assigned to it and taking into account the interests of producers served by the processors;
 
-  (C) if after the reassignments and sales, the deficit cannot be completely eliminated, the Secretary shall reassign the remainder to imports of raw cane sugar.
+    (ii) if after the reassignments the deficit cannot be completely eliminated, the Secretary shall reassign the estimated quantity of the deficit to the Commodity Credit Corporation and shall sell such quantity of sugar from inventories of the Corporation unless the Secretary determines that such sales would have a significant effect on the price of sugar; and
+
+    (iii) if after the reassignments and sales, the deficit cannot be completely eliminated, the Secretary shall reassign the remainder to imports of raw cane sugar.
+
+  (B) *Timing* — In carrying out subparagraph (A), the Secretary shall—
+
+    (i) make an initial determination based on the World Agricultural Supply and Demand Estimates approved by the World Agricultural Outlook Board for January that shall be applicable to the crop year for which allotments are required; and
+
+    (ii) provide for an initial reassignment under subparagraph (A)(i) not later than 30 days after the date on which the World Agricultural Supply and Demand Estimates described in clause (i) is released.
 
 (3) **Corresponding increase** — The allocation of each processor receiving a reassigned quantity of an allotment under this subsection for a crop year shall be increased to reflect the reassignment.
 
@@ -3776,6 +3850,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 1359ee, act Feb. 16, 1938, ch. 30, title III, § 359e, as added Pub. L. 101–624, title IX, § 902, Nov. 28, 1990, 104 Stat. 3484; amended Pub. L. 102–237, title I, § 111(g), Dec. 13, 1991, 105 Stat. 1833, related to reassignment of sugar deficits, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 #### Amendments
+2025—Subsec. (b)(2). Pub. L. 119–21 designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
+
 2008—Subsec. (b)(1)(D), (2)(C). Pub. L. 110–246, § 1403(e), inserted “of raw cane sugar” after “imports”.
 
 #### Effective Date of 2008 Amendment
@@ -4019,7 +4095,7 @@ A prior section 1359jj, act Feb. 16, 1938, ch. 30, title III, § 359j, as added 
 
 **(b) Adjustment**
 
-(1) **Before April 1** — Before April 1 of each fiscal year, if there is an emergency shortage of sugar in the United States market that is caused by a war, flood, hurricane, or other natural disaster, or other similar event as determined by the Secretary—
+(1) **Before April 1** — Before April 1 of each fiscal year, for the sole purpose of responding directly to an emergency shortage of sugar in the United States market that is caused by a war, flood, hurricane, or other natural disaster, or other similar event as determined by the Secretary—
 
   (A) the Secretary shall take action to increase the supply of sugar in accordance with sections 1359cc(b)(2) and 1359ee(b) of this title, including an increase in the tariff-rate quota for raw cane sugar to accommodate the reassignment to imports; and
 
@@ -4031,7 +4107,76 @@ A prior section 1359jj, act Feb. 16, 1938, ch. 30, title III, § 359j, as added 
 
   (B) if there is still a shortage of sugar in the United States market, and marketing of domestic sugar has been maximized, the Secretary may increase the tariff-rate quota for raw cane sugar if the further increase will not threaten to result in the forfeiture of sugar pledged as collateral for a loan under [section 7272 of this title](./chapter-100-agricultural-market-transition.md#section-7272).
 
+**(c) Reallocation**
+
+(1) **Initial reallocation** — Subject to paragraph (3), following the establishment of the tariff-rate quotas under subsection (a) for a quota year, the Secretary shall—
+
+  (A) determine which countries do not intend to fulfill their allocation for the quota year; and
+
+  (B) reallocate any forecasted shortfall in the fulfillment of the tariff-rate quotas as soon as practicable.
+
+(2) **Subsequent reallocation** — Subject to paragraph (3), not later than March 1 of a quota year, the Secretary shall reallocate any additional forecasted shortfall in the fulfillment of the tariff-rate quotas for raw cane sugar established under subsection (a)(1) for that quota year.
+
+(3) **Cessation of effectiveness** — Paragraphs (1) and (2) shall cease to be in effect if—
+
+  (A) the Agreement Suspending the Countervailing Duty Investigation on Sugar from Mexico, signed December 19, 2014, is terminated; and
+
+  (B) no countervailing duty order under subtitle A of title VII of the Tariff Act of 1930 ([19 U.S.C. 1671](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671&num=0&edition=prelim) et seq.) is in effect with respect to sugar from Mexico.
+
+**(d) Refined sugar**
+
+(1) **Definition of domestic sugar industry** — In this subsection, the term “domestic sugar industry” means domestic—
+
+  (A) sugar beet producers and processors;
+
+  (B) producers and processors of sugar cane; and
+
+  (C) refiners of raw cane sugar.
+
+(2) **Study required**
+
+  (A) *In general* — Not later than 180 days after July 4, 2025, the Secretary shall conduct a study on whether the establishment of additional terms and conditions with respect to refined sugar imports is necessary and appropriate.
+
+  (B) *Elements* — In conducting the study under subparagraph (A), the Secretary shall examine the following:
+
+    (i) The need for—
+
+      (I) defining “refined sugar” as having a minimum polarization of 99.8 degrees or higher;
+
+      (II) establishing a standard for color- or reflectance-based units for refined sugar such as those utilized by the International Commission of Uniform Methods of Sugar Analysis;
+
+      (III) prescribing specifications for packaging type for refined sugar;
+
+      (IV) prescribing specifications for transportation modes for refined sugar;
+
+      (V) requiring evidence that sugar imported as refined sugar will not undergo further refining in the United States;
+
+      (VI) prescribing appropriate terms and conditions to avoid unlawful sugar imports; and
+
+      (VII) establishing other definitions, terms and conditions, or other requirements.
+
+    (ii) The potential impact of modifications described in each of subclauses (I) through (VII) of clause (i) on the domestic sugar industry.
+
+    (iii) Whether, based on the needs described in clause (i) and the impact described in clause (ii), the establishment of additional terms and conditions is appropriate.
+
+  (C) *Consultation* — In conducting the study under subparagraph (A), the Secretary shall consult with representatives of the domestic sugar industry and users of refined sugar.
+
+  (D) *Report* — Not later than 1 year after July 4, 2025, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the findings of the study conducted under subparagraph (A).
+
+(3) **Establishment of additional terms and conditions permitted**
+
+  (A) *In general* — Based on the findings in the report submitted under paragraph (2)(D), and after providing notice to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Secretary may issue regulations in accordance with subparagraph (B) to establish additional terms and conditions with respect to refined sugar imports that are necessary and appropriate.
+
+  (B) *Promulgation of regulations* — The Secretary may issue regulations under subparagraph (A) if the regulations—
+
+    (i) do not have an adverse impact on the domestic sugar industry; and
+
+    (ii) are consistent with the requirements of this part, [section 7272 of this title](./chapter-100-agricultural-market-transition.md#section-7272), and obligations under international trade agreements that have been approved by Congress.
+
 ### Statutory Notes
+
+#### References in Text
+The Tariff Act of 1930, referred to in subsec. (c)(3)(B), is act June 17, 1930, ch. 497, 46 Stat. 590. Subtitle A of title VII of the Act is classified generally to part I (§ 1671 et seq.) of subtitle IV of chapter 4 of Title 19, Customs Duties. For complete classification of this Act to the Code, see [section 1654 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1654&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -4039,13 +4184,18 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 A prior section 1359kk, act Feb. 16, 1938, ch. 30, title III, § 359k, as added Pub. L. 107–171, title I, § 1403, May 13, 2002, 116 Stat. 204, related to reallocation of sugar quota import shortfalls in 2002 through 2007 calendar years, prior to repeal by Pub. L. 110–234, title I, § 1403(i), May 22, 2008, 122 Stat. 988; Pub. L. 110–246, § 4, title I, § 1403(i), June 18, 2008, 122 Stat. 1664, 1716, effective May 22, 2008.
 
+#### Amendments
+2025—Subsec. (b)(1). Pub. L. 119–21, § 10312(e), substituted “for the sole purpose of responding directly to an” for “if there is an” in introductory provisions.
+
+Subsecs. (c), (d). Pub. L. 119–21, § 10312(d), added subsecs. (c) and (d).
+
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-1363"></a>
 ## § 1363. Period of effectiveness
-**(a) In general** This subpart shall be effective only for the 2008 through 2023 crop years for sugar.
+**(a) In general** This subpart shall be effective only for the 2008 through 2031 crop years for sugar.
 
 **(b) Transition** The Secretary shall administer flexible marketing allotments for sugar for the 2007 crop year for sugar on the terms and conditions provided in this subpart as in effect on the day before the date of enactment of this section.
 
@@ -4060,6 +4210,8 @@ Provisions of law applicable to sugarcane or sugar beets for the 2023 crop year 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–21 substituted “2031” for “2023”.
+
 2018—Subsec. (a). Pub. L. 115–334 substituted “2023” for “2018”.
 
 2014—Subsec. (a). Pub. L. 113–79 substituted “2018” for “2012”.
@@ -4450,7 +4602,7 @@ Pub. L. 91–524, title VI, § 601(1), Nov. 30, 1970, 84 Stat. 1371, as amended 
 
 **(b) Circumstances precluding application of provisions** The provisions of this section shall not be applicable if (1) there is any marketing quota penalty due with respect to the marketing of the commodity from the farm acquired by the Federal, State, or other agency or by the owner of the farm; (2) any of the commodity produced on such farm has not been accounted for as required by the Secretary; or (3) the allotment next established for the farm acquired by the Federal, State, or other agency would have been reduced because of false or improper identification of the commodity produced on or marketed from such farm or due to a false acreage report.
 
-**(c) Time of displacement determining application of provisions** This section shall not be applicable, in the case of and 11 So in original. The word “and” probably should not appear. cotton, to any farm from which the owner was displaced prior to 1950, in the case of wheat and corn, to any farm from which the owner was displaced prior to 1954, and in the case of rice, to any farm from which the owner was displaced prior to 1955. In any case where the cropland acquired for nonfarming purposes from an owner by an agency having the right of eminent domain represents less than 15 per centum of the total cropland on the farm, the allotment attributable to that portion of the farm so acquired shall be transferred to that portion of the farm not so acquired.
+**(c) Time of displacement determining application of provisions** This section shall not be applicable, in the case of and 22 So in original. The word “and” probably should not appear. cotton, to any farm from which the owner was displaced prior to 1950, in the case of wheat and corn, to any farm from which the owner was displaced prior to 1954, and in the case of rice, to any farm from which the owner was displaced prior to 1955. In any case where the cropland acquired for nonfarming purposes from an owner by an agency having the right of eminent domain represents less than 15 per centum of the total cropland on the farm, the allotment attributable to that portion of the farm so acquired shall be transferred to that portion of the farm not so acquired.
 
 ### Statutory Notes
 

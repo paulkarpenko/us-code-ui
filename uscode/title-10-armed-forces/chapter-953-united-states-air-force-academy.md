@@ -400,7 +400,7 @@ Section effective with respect to nominations for appointment to the first class
 (9) Three cadets from American Samoa, nominated by the Delegate in Congress from American Samoa.
 
 (10) Three cadets from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
-Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 15 persons 11 See Applicability of Amendment note below. for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter. When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.
+Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 15 persons for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and up to 14 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter. When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.
 
 **(b)** In addition, there may be appointed each year at the Academy cadets as follows:
 
@@ -503,15 +503,14 @@ In subsection (g), the words “(National Guard of the United States, the Air Na
 
 In subsection (h), the words “or shall hereafter be” are omitted as surplusage.
 
-#### Applicability of Amendment
-Amendment of section by section 561(c) of Pub. L. 118–31 applicable to nominations of candidates and appointments to the Service Academies for classes entering such Service Academies beginning with the 2025-2026 academic year. See 2023 Amendment note below.
-
 #### Prior Provisions
 A prior section 9442 was renumbered [section 9492 of this title](./chapter-959-civil-air-patrol.md#section-9492).
 
 Another prior section 9442, added Pub. L. 98–525, title XV, § 1533(b)(1), Oct. 19, 1984, 98 Stat. 2632, related to assistance of Civil Air Patrol by other agencies, prior to the general amendment of former chapter 909 (now 959) of this title by Pub. L. 106–398.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 substituted “up to 14 ranked or unranked alternates” for “9 ranked or unranked alternates” in concluding provisions.
+
 2023—Subsec. (a). Pub. L. 118–31, § 561(c)(1), substituted “15 persons” for “10 persons” in concluding provisions.
 
 Subsec. (a)(8). Pub. L. 118–31, § 562(c), substituted “Five” for “Four”.
@@ -808,7 +807,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 
 <a id="section-9448"></a>
-## § 9448. Cadets: agreement to serve as officer
+## § 9448. Cadets: service obligation
 **(a)** Each cadet shall sign an agreement with respect to the cadet’s length of service in the armed forces. The agreement shall provide that the cadet agrees to the following:
 
 (1) That the cadet will complete the course of instruction at the Academy.
@@ -831,13 +830,21 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(b)**
 
-(1) The Secretary of the Air Force may transfer to the Air Force Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a cadet who breaches an agreement under subsection (a). The period of time for which a cadet is ordered to active duty under this paragraph may be determined without regard to [section 651(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section651/a&num=0&edition=prelim).
+(1) Subject to paragraph (4), the Secretary of the Air Force may transfer to the Air Force Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a cadet who breaches an agreement under subsection (a). The period of time for which a cadet is ordered to active duty under this paragraph may be determined without regard to [section 651(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section651/a&num=0&edition=prelim).
 
 (2) A cadet who is transferred to the Air Force Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
 
 (3) For the purposes of paragraph (1), a cadet shall be considered to have breached an agreement under subsection (a) if the cadet is separated from the Academy under circumstances which the Secretary determines constitute a breach by the cadet of the cadet’s agreement to complete the course of instruction at the Academy and accept an appointment as a commissioned officer upon graduation from the Academy.
 
-(4) A cadet who violates paragraph (5) of subsection (a) is not eligible for the alternative obligation under paragraph (1).
+(4) Each academic year, the Secretary of the Air Force may transfer not more than five cadets, who obtain employment in violation of paragraph (5) of subsection (a), to the Selected Reserve of the Air Force. Each cadet so transferred shall—
+
+  (A) serve as a commissioned officer—
+
+    (i) in an appropriate grade or rating, determined by the Secretary of the Air Force; and
+
+    (ii) for a period, determined by the Secretary of the Air Force, not longer than 10 years; and
+
+  (B) while so serving, participate in efforts to recruit and retain members of the armed forces.
 
 **(c)** The Secretary of the Air Force shall prescribe regulations to carry out this section. Those regulations shall include—
 
@@ -845,7 +852,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (2) that a cadet who obtains employment as a professional athlete—
 
-  (A) in violation of paragraph (5) of subsection (a) has breached an agreement under such subsection; and
+  (A) in violation of paragraph (5) of subsection (a) has breached an agreement under such subsection unless such cadet receives a transfer under paragraph (4) of subsection (b); and
 
   (B) at least two years after the cadet graduates from the Academy has not breached an agreement under subsection (a);
 
@@ -861,7 +868,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (2) In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
 
-**(f)** A cadet or former cadet who does not fulfill each term of the agreement as specified under subsection (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
+**(f)** A cadet or former cadet who does not fulfill each term of the agreement as specified under subsection (a), or an alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
 ### Statutory Notes
 
@@ -876,6 +883,18 @@ The word “agreement” is substituted for the word “articles”. The words �
 A prior section 9448 was renumbered [section 9498 of this title](./chapter-959-civil-air-patrol.md#section-9498).
 
 #### Amendments
+2025—Subsec. (b)(4). Pub. L. 119–60 substituted “five cadets” for “three cadets” in introductory provisions.
+
+2024—Pub. L. 118–159, § 557(c)(1), substituted “service obligation” for “agreement to serve as officer” in section catchline.
+
+Subsec. (b)(1). Pub. L. 118–159, § 557(c)(2)(A), substituted “Subject to paragraph (4), the Secretary of the Air Force” for “The Secretary of the Air Force”.
+
+Subsec. (b)(4). Pub. L. 118–159, § 557(c)(2)(B), added par. (4) and struck out former par. (4) which read as follows: “A cadet who violates paragraph (5) of subsection (a) is not eligible for the alternative obligation under paragraph (1).”
+
+Subsec. (c)(2)(A). Pub. L. 118–159, § 557(c)(3), inserted “unless such cadet receives a transfer under paragraph (4) of subsection (b)” after “under such subsection”.
+
+Subsec. (f). Pub. L. 118–159, § 557(c)(4), substituted “an alternative obligation” for “the alternative obligation”.
+
 2023—Subsec. (a)(2)(A). Pub. L. 118–31, § 1721(c)(3)(A), struck out “Regular” before “Space Force”.
 
 Subsec. (a)(3). Pub. L. 118–31, § 1721(c)(3)(B)(i), inserted “, or to terminate the officer’s order to sustained duty in the Space Force” after “resign as a regular officer” in introductory provisions.
@@ -1179,17 +1198,25 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 <a id="section-9455"></a>
 ## § 9455. Board of Visitors
-**(a)** A Board of Visitors to the Academy is constituted annually. The Board consists of the following members:
+**(a)** A Board of Visitors to the Academy is constituted annually of—
 
-(1) Six persons designated by the President.
+(1) the chair of the Committee on Armed Services of the Senate, or the designee of such chair;
 
-(2) The chairman of the Committee on Armed Services of the House of Representatives, or his designee.
+(2) the ranking member of the Committee on Armed Services of the Senate, or the designee of the ranking member;
 
-(3) Four persons designated by the Speaker of the House of Representatives, three of whom shall be members of the House of Representatives and the fourth of whom may not be a member of the House of Representatives.
+(3) two other members of the Senate designated by the Majority Leader of the Senate, one of whom is a member of the Committee on Appropriations of the Senate;
 
-(4) The chairman of the Committee on Armed Services of the Senate, or his designee.
+(4) two other members of the Senate designated by the Minority Leader of the Senate, one of whom is a member of the Committee on Appropriations of the Senate;
 
-(5) Three other members of the Senate designated by the Vice President or the President pro tempore of the Senate, two of whom are members of the Committee on Appropriations of the Senate.
+(5) the chair of the Committee on Armed Services of the House of Representatives, or the designee of such chair;
+
+(6) the ranking member of the Committee on Armed Services of the House of Representatives, or the designee of the ranking member;
+
+(7) two other members of the House of Representatives designated by the Speaker of the House of Representatives, one of whom is a member of the Committee on Appropriations of the House of Representatives;
+
+(8) two other members of the House of Representatives designated by the Minority Leader of the House of Representatives; and
+
+(9) six persons designated by the President.
 
 **(b)**
 
@@ -1263,6 +1290,12 @@ In subsection (g), the words “as it may deem necessary or advisable to effectu
 In subsection (h), the words “called for consultation by the Board in connection with the business of the Board” are omitted as surplusage.
 
 #### Amendments
+2025—Subsec. (a)(8). Pub. L. 119–60 substituted “two other members” for “one other member”.
+
+2024—Subsec. (a). Pub. L. 118–159, § 558(c)(1), added subsec. (a) and struck out former subsec. (a) which set out 5 categories of members of the Board of Visitors to the Academy, as constituted annually.
+
+Subsec. (f). Pub. L. 118–159, § 558(c)(2), which directed insertion of “and the Committees on Armed Services of the Senate and House of Representatives” after “the President” both places it appeared, could not be executed because “the President” no longer appeared in subsec. (f) after the general amendment of this section by Pub. L. 108–375, § 543.
+
 2021—Subsec. (b)(1). Pub. L. 117–81, § 554(c), substituted “is designated by the President” for “is designated”.
 
 Subsec. (i). Pub. L. 117–81, § 555(c), added subsec. (i).

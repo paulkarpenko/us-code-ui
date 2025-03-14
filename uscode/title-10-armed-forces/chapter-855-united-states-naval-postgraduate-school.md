@@ -2,7 +2,7 @@
 title: 10
 chapter: '855'
 heading: UNITED STATES NAVAL POSTGRADUATE SCHOOL
-section_count: 10
+section_count: 11
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -336,6 +336,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
+#### Pilot Program To Provide Graduate Education Opportunities for Enlisted Members of the Army and Navy
+Pub. L. 118–159, div. A, title V, § 559D, Dec. 23, 2024, 138 Stat. 1900, provided that: “(a) Authority.—The Secretary of the Navy and the Secretary of the Army may jointly conduct a pilot program (referred to in this section as the ‘Program’) under which certain enlisted personnel of the covered Armed Forces may enroll in a master’s degree program at the Naval Postgraduate School. “(b) Program Requirements.—The Secretaries concerned may carry out the Program—“(1) in accordance with this section; “(2) in accordance with such regulations as may be prescribed by the Secretary of Defense for purposes of the Program; and “(3) in a manner consistent with the Graduate Education Program–Enlisted pilot program of the Marine Corps. “(c) Eligibility of Participants.—The Secretaries concerned shall establish criteria for determining the eligibility of enlisted members of the covered Armed Forces for participation in the Program. “(d) Selection of Participants.—Selection of a member for the Program shall be based on consideration of—“(1) the eligibility criteria established under subsection (c); “(2) professional performance; “(3) promotion potential; “(4) retention potential; “(5) academic background, capabilities, and accomplishments; “(6) the needs of the Navy and Army; and “(7) input from the component within each covered Armed Force with primary responsibility for determining the duty assignments of enlisted members. “(e) Post-participation Service.—Subject to such terms, conditions, and exceptions as the Secretaries concerned may establish, an enlisted member who receives a master’s degree under the Program shall serve for a period of not less than two years in a duty assignment that is relevant to the degree obtained by the member under the Program. “(f) Framework for Filling Billets.—In conjunction with selecting enlisted members for participation in the Program as described in subsection (d), the Secretaries concerned shall establish a framework for assigning enlisted personnel who are not participating in the Program—“(1) to fill the billets of the members participating in the Program while such members are completing a course of study at the Naval Postgraduate School; and “(2) to fill the billets of members who received a master’s degree under the Program while such members are engaged in post-participation service as described in subsection (e). “(g) Identification of Degree Programs.—The Secretaries concerned shall coordinate with the President of the Naval Postgraduate School to identify specific master’s degree programs offered by the School in which Program participants may enroll. In identifying such programs, the Secretaries shall consider—“(1) the needs of the Navy and Army; “(2) the capacity of the Naval Postgraduate School; and “(3) the extent to which enrollment in a specific program is expected to have a positive effect on the career trajectories of participants. “(h) Information Dissemination.—The Secretaries concerned shall take such actions as are necessary to notify and inform enlisted members about the Program. “(i) Report.—Before the expiration of the six-year period described in subsection (j), the Secretaries concerned, in coordination with the Secretary of Defense, shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report that includes—“(1) an assessment of whether and to what extent the Program has met the needs of the covered Armed Forces and had positive effects on participating enlisted members, including with respect to—“(A) career trajectory, including potential pay increases; “(B) retention; “(C) recruitment; “(D) job performance; “(E) merit-based promotions and merit-based promotion reorder; and “(F) compatibility with the objectives outlined in the 2022 National Defense Strategy to modernize the Armed Services, spur innovation, and outpace and outthink adversaries of the United States; “(2) the recommendations of the Secretaries regarding whether the Program should be extended or made permanent; “(3) an assessment of the funding and capabilities that may be needed to make the Program permanent; and “(4) any other matters the Secretaries determine to be relevant. “(j) Sunset.—The Program shall terminate six years after the date on which the Program commences under this section. “(k) Definitions.—In this section:“(1) The term ‘covered Armed Force’ means the Army or Navy. “(2) The term ‘Secretary concerned’ means—“(A) the Secretary of the Army, with respect to matters concerning the Army; and “(B) the Secretary of the Navy, with respect to matters concerning the Navy.”
+
 
 <a id="section-8546"></a>
 ## § 8546. Officers of foreign countries: admission
@@ -544,3 +547,59 @@ A prior section 8580, Aug. 10, 1956, ch. 1041, 70A Stat. 531, provided that Secr
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
+<a id="section-8551"></a>
+## § 8551. Development and operation of the Naval Innovation Center at the Naval Postgraduate School
+**(a) Authority to Support the Naval Innovation Center.—**
+
+(1) The Secretary of the Navy may enter into a contract or other agreement with one or more eligible nonprofit organizations for the design, construction, and maintenance of a multipurpose facility—
+
+  (A) to be known as the “Naval Innovation Center” (in this section referred to as the “NIC”); and
+
+  (B) to be located at the United States Naval Postgraduate School.
+
+(2) The NIC shall be used—
+
+  (A) to convene interested persons to develop and accelerate the adoption of new and innovative technologies and practices for the benefit of the Department of Defense; and
+
+  (B) to support such education, training, research, and associated activities, as determined by the Secretary, in support of the Naval Postgraduate School and the Department of Defense.
+
+**(b) Funds.—** Under the contract or other agreement described in subsection (a), the Secretary may—
+
+(1) accept funds from a partner organization for any phase of development of the NIC; and
+
+(2) accept funds, personal property, or services from a covered entity that is not a partner organization for maintenance of the NIC.
+
+**(c) Authority to Accept Gifts.—**
+
+(1) The Secretary of the Navy may accept, hold, administer, and spend any gift, device, or bequest of real property, personal property, services, or money on the condition that the gift, device, or bequest be used for the benefit, or in connection with, the establishment, operation, or maintenance of the NIC. [Section 2601 of this title](./chapter-155-acceptance-of-gifts-and-services.md#section-2601) (other than subsections (b), (c), and (e) of such section) shall apply to gifts accepted under this subsection.
+
+(2) The Secretary may display at the NIC recognition for an individual or entity that contributes money to a partner organization or for a corporate partner that contributes money directly to the Navy for the benefit of the NIC, whether or not the contribution is subject to the condition that the recognition be provided. The Secretary shall prescribe regulations governing the circumstances under which contributor recognition may be provided, appropriate forms of recognition, and suitable display standards.
+
+(3) The Secretary may authorize the sale of donated property received under paragraph (1). A sale under this paragraph need not be conducted in accordance with disposal requirements that would otherwise apply, so long as the sale is conducted at arms-length and includes an auditable transaction record.
+
+(4) Any money received under paragraph (1) and any proceeds from the sale of property under paragraph (3) shall be deposited into a fund established in the Treasury to support the NIC.
+
+**(d) Additional Terms and Conditions.—** The Secretary of the Navy may require such additional terms and conditions in connection with a contract or other agreement described in subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
+
+**(e) Definitions.—** In this section:
+
+(1) The term “covered entity” means—
+
+  (A) an entity incorporated or operating under the laws of any State; or
+
+  (B) a nonprofit organization.
+
+(2) The term “eligible nonprofit organization” means an organization that—
+
+  (A) is described in section 501(c)(3) of the Internal Revenue Code of 1986 and that is exempt from taxation under section 501(a) of such Code; and
+
+  (B) has as its primary purpose the support and operation of the Naval Postgraduate School.
+
+(3) The term “partner organization” means an eligible nonprofit organization with which the Secretary of the Navy enters into a contract or other agreement under subsection (a).
+
+### Statutory Notes
+
+#### References in Text
+Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (e)(2)(A), is classified to [section 501 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501&num=0&edition=prelim), Internal Revenue Code.

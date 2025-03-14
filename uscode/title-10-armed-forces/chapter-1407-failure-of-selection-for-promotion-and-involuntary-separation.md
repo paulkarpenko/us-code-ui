@@ -185,7 +185,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 (4) The recommendation for promotion of a person may be sustained under this section only if the special selection review board determines that the person—
 
-  (A) ranks on an order of merit created by the special selection review board as better qualified for promotion than the sample officer highest on the order of merit list who was considered by and not recommended for promotion by the promotion board concerned; and
+  (A) ranks in the upper half of an order of merit created by the special selection review board or ranks on an order of merit created by the special selection review board as better qualified for promotion than the sample officer highest on the order of merit list who was considered by and not recommended for promotion by the promotion board concerned; and
 
   (B) is comparable in qualification for promotion to those sample officers who were recommended for promotion by that promotion board.
 
@@ -216,6 +216,8 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (d)(4)(A). Pub. L. 118–159 inserted “ranks in the upper half of an order of merit created by the special selection review board or” before “ranks on an order of merit created by the special selection review board as better qualified”.
+
 2023—Subsec. (a)(2)(B). Pub. L. 118–31 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “shall not be forwarded to the Secretary of Defense, the President, or the Senate, as applicable, or included on a promotion list under [section 14308(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14308/a&num=0&edition=prelim).”
 
 
@@ -258,15 +260,21 @@ Pub. L. 103–337, div. A, title XVI, § 1689, Oct. 5, 1994, 108 Stat. 3025, pro
 
 <a id="section-14504"></a>
 ## § 14504. Effect of failure of selection for promotion: reserve first lieutenants of the Army, Air Force, and Marine Corps and reserve lieutenants (junior grade) of the Navy
-**(a) General Rule.—** A first lieutenant on the reserve active-status list of the Army, Air Force, or Marine Corps or a lieutenant (junior grade) on the reserve active-status list of the Navy who has failed of selection for promotion to the next higher grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher grade shall be separated in accordance with [section 14513 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14513) not later than the first day of the seventh month after the month in which the President approves the report of the board which considered the officer for the second time.
+**(a) General Rule.—** A first lieutenant on the reserve active-status list of the Army, Air Force, or Marine Corps or a lieutenant (junior grade) on the reserve active-status list of the Navy who has failed of selection for promotion to the next higher grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher grade shall be separated in accordance with [section 14513 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14513) not later than the first day of the seventh month after the month in which the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public.
 
-**(b) Exceptions.—** Subsection (a) does not apply (1) in the case of an officer retained as provided by regulation of the Secretary of the military department concerned in order to meet planned mobilization needs for a period not in excess of 24 months beginning with the date on which the President approves the report of the selection board which resulted in the second failure, or (2) as provided in section 12646 or 12686 of this title.
+**(b) Exceptions.—** Subsection (a) does not apply (1) in the case of an officer retained as provided by regulation of the Secretary of the military department concerned in order to meet planned mobilization needs for a period not in excess of 24 months beginning with the date on which the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public, or (2) as provided in section 12646 or 12686 of this title.
 
 **(c) Officers in Grade of First Lieutenant or Lieutenant (Junior Grade) Found Not Fully Qualified for Promotion.—** For the purposes of this chapter, an officer of the Army, Air Force, or Marine Corps on a reserve active-status list who holds the grade of first lieutenant, and an officer of the Navy on a reserve active-status list who holds the grade of lieutenant (junior grade), shall be treated as having failed of selection for promotion if the Secretary of the military department concerned determines that the officer would be eligible for consideration for promotion to the next higher grade by a selection board convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim) if such a board were convened but is not fully qualified for promotion when recommending for promotion under [section 14308(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14308/b/4&num=0&edition=prelim) all fully qualified officers of the officer’s armed force in such grade who would be eligible for such consideration.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–60 substituted “the Secretary” for “the the Secretary”.
+
+2024—Subsec. (a). Pub. L. 118–159, § 505(b)(4)(A), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “the President approves the report of the board which considered the officer for the second time”.
+
+Subsec. (b). Pub. L. 118–159, § 505(b)(4)(B), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “President approves the report of the selection board which resulted in the second failure”.
+
 2001—Subsec. (c). Pub. L. 107–107 added subsec. (c).
 
 #### Effective Date
@@ -276,9 +284,14 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 <a id="section-14505"></a>
 ## § 14505. Effect of failure of selection for promotion: reserve captains of the Army, Air Force, and Marine Corps and reserve lieutenants of the Navy
 
-Unless retained as provided in section 12646 or 12686 of this title, a captain on the reserve active-status list of the Army, Air Force, or Marine Corps or a lieutenant on the reserve active-status list of the Navy who has failed of selection for promotion to the next higher grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher grade and who has not been selected for continuation on the reserve active-status list under [section 14701 of this title](./chapter-1409-continuation-of-officers-on-the-reserve-active-status-list-and-selective-early-removal.md#section-14701), shall be separated in accordance with [section 14513 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14513) not later than the first day of the seventh month after the month in which the President approves the report of the board which considered the officer for the second time.
+Unless retained as provided in section 12646 or 12686 of this title, a captain on the reserve active-status list of the Army, Air Force, or Marine Corps or a lieutenant on the reserve active-status list of the Navy who has failed of selection for promotion to the next higher grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher grade and who has not been selected for continuation on the reserve active-status list under section 14701 or 14701a of this title, shall be separated in accordance with [section 14513 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14513) not later than the first day of the seventh month after the month in which the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public.
 
 ### Statutory Notes
+
+#### Amendments
+2024—Pub. L. 118–159, § 513(c)(2), inserted “or 14701a” after “14701”.
+
+Pub. L. 118–159, § 505(b)(5), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “the President approves the report of the board which considered the officer for the second time”.
 
 #### Effective Date
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
@@ -287,11 +300,15 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 <a id="section-14506"></a>
 ## § 14506. Effect of failure of selection for promotion: reserve majors of the Army, Air Force, and Marine Corps and reserve lieutenant commanders of the Navy
 
-Unless retained as provided in section 12646, 12686, 14701, or 14702 of this title, each reserve officer of the Army, Navy, Air Force, or Marine Corps who holds the grade of major or lieutenant commander who has failed of selection to the next higher grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher grade shall, if not earlier removed from the reserve active-status list, be removed from that list in accordance with [section 14513 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14513) on the later of (1) the first day of the month after the month in which the officer completes 20 years of commissioned service, or (2) the first day of the seventh month after the month in which the President approves the report of the board which considered the officer for the second time.
+Unless retained as provided in section 12646, 12686, 14701, 14701a, or 14702 of this title, each reserve officer of the Army, Navy, Air Force, or Marine Corps who holds the grade of major or lieutenant commander who has failed of selection to the next higher grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher grade shall, if not earlier removed from the reserve active-status list, be removed from that list in accordance with [section 14513 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14513) on the later of (1) the first day of the month after the month in which the officer completes 20 years of commissioned service, or (2) the first day of the seventh month after the month in which the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Pub. L. 118–159, § 513(c)(3), inserted “14701a,” after “14701,”.
+
+Pub. L. 118–159, § 505(b)(6), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “the President approves the report of the board which considered the officer for the second time”.
+
 1999—Pub. L. 106–65 inserted “the later of (1)” after “in accordance with [section 14513 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14513) on” and “, or (2) the first day of the seventh month after the month in which the President approves the report of the board which considered the officer for the second time” before the period at end.
 
 1996—Pub. L. 104–106 inserted comma after “Force” in section catchline.
@@ -308,9 +325,9 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 <a id="section-14507"></a>
 ## § 14507. Removal from the reserve active-status list for years of service: reserve lieutenant colonels and colonels of the Army, Air Force, and Marine Corps and reserve commanders and captains of the Navy
-**(a) Lieutenant Colonels and Commanders.—** Unless continued on the reserve active-status list under section 14701 or 14702 of this title or retained as provided in section 12646 or 12686 of this title, each reserve officer of the Army, Navy, Air Force, or Marine Corps who holds the grade of lieutenant colonel or commander and who is not on a list of officers recommended for promotion to the next higher grade shall (if not earlier removed from the reserve active-status list) be removed from that list under [section 14514 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14514) on the first day of the month after the month in which the officer completes 28 years of commissioned service.
+**(a) Lieutenant Colonels and Commanders.—** Unless continued on the reserve active-status list under section 14701, 14701a, or 14702 of this title or retained as provided in section 12646 or 12686 of this title, each reserve officer of the Army, Navy, Air Force, or Marine Corps who holds the grade of lieutenant colonel or commander and who is not on a list of officers recommended for promotion to the next higher grade shall (if not earlier removed from the reserve active-status list) be removed from that list under [section 14514 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14514) on the first day of the month after the month in which the officer completes 28 years of commissioned service.
 
-**(b) Colonels and Navy Captains.—** Unless continued on the reserve active-status list under section 14701 or 14702 of this title or retained as provided in section 12646 or 12686 of this title, each reserve officer of the Army, Air Force, or Marine Corps who holds the grade of colonel, and each reserve officer of the Navy who holds the grade of captain, and who is not on a list of officers recommended for promotion to the next higher grade shall (if not earlier removed from the reserve active-status list) be removed from that list under [section 14514 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14514) on the first day of the month after the month in which the officer completes 30 years of commissioned service. This subsection does not apply to the adjutant general or assistant adjutants general of a State.
+**(b) Colonels and Navy Captains.—** Unless continued on the reserve active-status list under section 14701, 14701a, or 14702 of this title or retained as provided in section 12646 or 12686 of this title, each reserve officer of the Army, Air Force, or Marine Corps who holds the grade of colonel, and each reserve officer of the Navy who holds the grade of captain, and who is not on a list of officers recommended for promotion to the next higher grade shall (if not earlier removed from the reserve active-status list) be removed from that list under [section 14514 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14514) on the first day of the month after the month in which the officer completes 30 years of commissioned service. This subsection does not apply to the adjutant general or assistant adjutants general of a State.
 
 **(c) Temporary Authority To Retain Certain Officers Designated as Judge Advocates.—**
 
@@ -325,6 +342,8 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 ### Statutory Notes
 
 #### Amendments
+2024—Subsecs. (a), (b). Pub. L. 118–159 inserted “, 14701a,” after “14701”.
+
 1996—Subsec. (c). Pub. L. 104–201 added subsec. (c).
 
 #### Effective Date of 1996 Amendment

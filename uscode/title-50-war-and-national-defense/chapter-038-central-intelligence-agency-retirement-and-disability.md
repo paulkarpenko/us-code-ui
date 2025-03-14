@@ -255,7 +255,7 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 
 **(b) Administration of system** The Director shall administer the system in accordance with regulations prescribed under this subchapter and with the principles established by this subchapter.
 
-**(c) Finality of decisions of DCI** In the interests of the security of the foreign intelligence activities of the United States and in order further to implement [section 3024(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/i&num=0&edition=prelim) that the Director of National Intelligence shall be responsible for protecting intelligence sources and methods from unauthorized disclosure, and notwithstanding the provisions of chapter 7 of title 5 or any other provision of law (except [section 2155(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2155/b&num=0&edition=prelim)), any determination by the Director authorized by this chapter shall be final and conclusive and shall not be subject to review by any court.
+**(c) Finality of decisions of DCI** In the interests of the security of the foreign intelligence activities of the United States and in order further to implement [section 3024(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/h&num=0&edition=prelim) that the Director of National Intelligence shall be responsible for protecting intelligence sources and methods from unauthorized disclosure, and notwithstanding the provisions of chapter 7 of title 5 or any other provision of law (except [section 2155(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2155/b&num=0&edition=prelim)), any determination by the Director authorized by this chapter shall be final and conclusive and shall not be subject to review by any court.
 
 ### Statutory Notes
 
@@ -266,6 +266,8 @@ The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, re
 A prior section 201 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1043; Pub. L. 98–618, title III, § 302, Nov. 8, 1984, 98 Stat. 3300; Pub. L. 99–335, title V, § 501(1), June 6, 1986, 100 Stat. 622, related to rules and regulations and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 119–60 substituted “section 3024(h)” for “section 3024(i)”.
+
 2004—Subsec. (c). Pub. L. 108–458 substituted “[section 403–1(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–1/i&num=0&edition=prelim) that the Director of National Intelligence” for “paragraph (6) of [section 403–3(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–3/c&num=0&edition=prelim) that the Director of Central Intelligence”.
 
 1998—Subsec. (c). Pub. L. 105–272 substituted “paragraph (6) of [section 403–3(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–3/c&num=0&edition=prelim)” for “[section 403–3(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–3/c/5&num=0&edition=prelim)”.
@@ -2048,9 +2050,6 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 (5) **Opt out** — An affected employee may file an election to have any creditable service performed by the affected employee treated in accordance with chapter 84 of title 5 without regard to paragraph (2).
 
 ### Statutory Notes
-
-#### Applicability of Amendment
-For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
 
 #### Prior Provisions
 A prior section 302 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 506, June 6, 1986, 100 Stat. 625, related to special rules relating to employees designated under criteria of former section 203 of Pub. L. 88–643 and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.

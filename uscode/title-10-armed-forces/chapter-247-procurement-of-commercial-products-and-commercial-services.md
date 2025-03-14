@@ -2,7 +2,7 @@
 title: 10
 chapter: '247'
 heading: PROCUREMENT OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES
-section_count: 7
+section_count: 8
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -55,42 +55,43 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 (3) No contract for the procurement of a commercially available off-the-shelf item entered into by the head of an agency shall be subject to any law properly listed in the Federal Acquisition Regulation pursuant to [section 1907 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1907&num=0&edition=prelim).
 
-**(b) Applicability of Defense-unique Statutes to Contracts for Commercial Products and Commercial Services.—**
-
-(1) The Defense Federal Acquisition Regulation Supplement shall include a list of defense-unique provisions of law and of contract clause requirements based on government-wide acquisition regulations, policies, or executive orders not expressly authorized in law that are inapplicable to contracts for the procurement of commercial products and commercial services. A provision of law or contract clause requirement properly included on the list pursuant to paragraph (2) does not apply to purchases of commercial products and commercial services by the Department of Defense. This section does not render a provision of law or contract clause requirement not included on the list inapplicable to contracts for the procurement of commercial products and commercial services.
-
-(2) A provision of law or contract clause requirement described in subsection (e) that is enacted after October 13, 1994, shall be included on the list of inapplicable provisions of law and contract clause requirements required by paragraph (1) unless the Under Secretary of Defense for Acquisition and Sustainment makes a written determination that it would not be in the best interest of the Department of Defense to exempt contracts for the procurement of commercial products and commercial services from the applicability of the provision or contract clause requirement.
+**(b) Applicability of Defense-unique Statutes to Contracts for Commercial Products and Commercial Services.—** The Department of Defense Supplement to the Federal Acquisition Regulation shall include a list of defense-unique contract clause requirements based on laws, executive orders, or acquisition policies that may be applied to contracts for the procurement of commercial products and commercial services entered into by the Department of Defense.
 
 **(c) Applicability of Defense-unique Statutes to Subcontracts for Commercial Products and Commercial Services.—**
 
-(1) The Defense Federal Acquisition Regulation Supplement shall include a list of provisions of law and of contract clause requirements based on government-wide acquisition regulations, policies, or executive orders not expressly authorized in law that are inapplicable to subcontracts under a Department of Defense contract or subcontract for the procurement of commercial products and commercial services. A provision of law or contract clause requirement properly included on the list pursuant to paragraph (2) does not apply to those subcontracts. This section does not render a provision of law or contract clause requirement not included on the list inapplicable to subcontracts under a contract for the procurement of commercial products and commercial services.
+(1) The Department of Defense Supplement to the Federal Acquisition Regulation shall include a list of defense-unique contract clause requirements based on laws, executive orders, or acquisition policies that may be applied to subcontracts for the procurement of commercial products and commercial services.
 
-(2) A provision of law or contract clause requirement described in subsection (e) shall be included on the list of inapplicable provisions of law and contract clause requirements required by paragraph (1) unless the Under Secretary of Defense for Acquisition and Sustainment makes a written determination that it would not be in the best interest of the Department of Defense to exempt subcontracts under a contract for the procurement of commercial products and commercial services from the applicability of the provision or contract clause requirement.
+(2) In this subsection, the term “subcontract”—
 
-(3) In this subsection, the term “subcontract” includes a transfer of commercial products and commercial services between divisions, subsidiaries, or affiliates of a contractor or subcontractor. The term does not include agreements entered into by a contractor for the supply of commodities that are intended for use in the performance of multiple contracts with the Department of Defense and other parties and are not identifiable to any particular contract.
+  (A) includes a transfer of commercial products and commercial services between divisions, subsidiaries, or affiliates of a contractor or subcontractor; and
 
-(4) This subsection does not authorize the waiver of the applicability of any provision of law or contract clause requirement with respect to any first-tier subcontract under a contract with a prime contractor reselling or distributing commercial products and commercial services of another contractor without adding value.
+  (B) does not include any agreement entered into by a contractor or subcontractor for the supply of products or services that are intended for use in the performance of multiple contracts with the Department of Defense or with other parties, and that are not identifiable to any particular contract.
 
-**(d) Applicability of Defense-unique Statutes to Contracts for Commercially Available, Off-the-shelf Items.—**
+(3) This subsection does not authorize the waiver of the applicability of any provision of law or contract clause requirement with respect to any first-tier subcontract under a contract with a prime contractor reselling or distributing commercial products and commercial services of another contractor without adding value.
 
-(1) The Defense Federal Acquisition Regulation Supplement shall include a list of provisions of law and of contract clause requirements based on government-wide acquisition regulations, policies, or executive orders not expressly authorized in law that are inapplicable to contracts for the procurement of commercially available off-the-shelf items. A provision of law or contract clause requirement properly included on the list pursuant to paragraph (2) does not apply to Department of Defense contracts for the procurement of commercially available off-the-shelf items. This section does not render a provision of law or contract clause requirement not included on the list inapplicable to contracts for the procurement of commercially available off-the-shelf items.
+**(d) Applicability of Defense-unique Statutes to Contracts or Subcontracts for Commercially Available, Off-the-shelf Items.—** The Department of Defense Supplement to the Federal Acquisition Regulation shall include a list of defense-unique contract clause requirements based on laws, executive orders, or acquisition policies that are applicable to contracts or subcontracts for the procurement of commercially available off-the-shelf items entered into by the Department of Defense.
 
-(2) A provision of law or contract clause requirement described in subsection (e) shall be included on the list of inapplicable provisions of law and contract clause requirements required by paragraph (1) unless the Under Secretary of Defense for Acquisition and Sustainment makes a written determination that it would not be in the best interest of the Department of Defense to exempt contracts for the procurement of commercially available off-the-shelf items from the applicability of the provision or contract clause requirement.
+**(e) Applicable Requirements.—** The Secretary of Defense shall ensure that the lists required by subsections (b) and (c)(1) shall include any contract clause to implement the requirements of—
 
-**(e) Covered Provision of Law or Contract Clause Requirement.—** A provision of law or contract clause requirement referred to in subsections (b)(2), (c)(2), and (d)(2) is a provision of law or contract clause requirement that the Under Secretary of Defense for Acquisition and Sustainment determines sets forth policies, procedures, requirements, or restrictions for the procurement of property or services by the Federal Government, except for a provision of law or contract clause requirement that—
+(1) chapter 385 of this title;
 
-(1) provides for criminal or civil penalties;
+(2) section 5949 of the National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; [41 U.S.C. 4713](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4713&num=0&edition=prelim) note);
 
-(2) requires that certain articles be bought from American sources pursuant to [section 4862 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4862), or requires that strategic materials critical to national security be bought from American sources pursuant to [section 4863 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4863); or
+(3) section 805 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31); or
 
-(3) specifically refers to this section and provides that, notwithstanding this section, it shall be applicable to contracts for the procurement of commercial products and commercial services.
+(4) a statute that specifically refers to this section and provides that, notwithstanding this section, such statute shall be applicable to contracts for the procurement of commercial products and commercial services.
 
 ### Statutory Notes
+
+#### References in Text
+Section 805 of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsec. (e)(3), is section 805 of Pub. L. 118–31, which is set out as a note preceding [section 4651 of this title](./chapter-363-prohibition-and-penalties.md#section-4651).
 
 #### Prior Provisions
 A prior section 3452, added Pub. L. 85–861, § 1(81)(E), Sept. 2, 1958, 72 Stat. 1480, provided that, notwithstanding any other provision of law, an officer of Medical Corps or Dental Corps may be promoted to temporary grade of captain at any time after first anniversary of date upon which he graduated from a medical, osteopathic, or dental school, prior to repeal by Pub. L. 96–513, title II, § 207, title VII, § 701, Dec. 12, 1980, 94 Stat. 2884, 2955, effective Sept. 15, 1981.
 
 #### Amendments
+2025—Subsecs. (b) to (e). Pub. L. 119–60 added subsecs. (b) to (e) and struck out former subsecs. (b) to (e) which related to applicability of defense-unique statutes to contracts for commercial products and commercial services, applicability of defense-unique statutes to subcontracts for commercial products and commercial services, applicability of defense-unique statutes to contracts for commercially available, off-the-shelf items, and covered provision of law or contract clause requirement, respectively.
+
 2021—Pub. L. 116–283, § 1821(a)(2), renumbered [section 2375 of this title](./chapter-chapter-140-chapter-chapter-140.md#section-2375) as this section.
 
 Subsec. (e)(2). Pub. L. 116–283, §§ 1821(b)(2), 1870(c)(6)(A), made identical amendments, substituting “section 4862” for “section 2533a” and “section 4863” for “section 2533b”. Section 1870(c)(6)(A) amended former section 2375 while section 1821(b)(2) amended this section. See Amendment note above.
@@ -155,19 +156,21 @@ Pub. L. 103–355, title VIII, § 8304, Oct. 13, 1994, 108 Stat. 3398, as amende
 
 (3) offerors of commercial services, commercial products, and nondevelopmental items other than commercial products are provided an opportunity to compete in any procurement to fill such requirements.
 
-**(b) Implementation.—** The head of an agency shall ensure that procurement officials in that agency, to the maximum extent practicable—
+**(b) Implementation.—** The head of an agency shall ensure that acquisition officials in such agency and prime contractors and subcontractors (at any tier) performing contracts with such agency (including those performing consulting, research, and advisory services to acquisition officials of such agency) to the maximum extent practicable—
 
 (1) acquire commercial services, commercial products, or nondevelopmental items other than commercial products to meet the needs of the agency;
 
-(2) require prime contractors and subcontractors at all levels under the agency contracts to incorporate commercial services, commercial products, or nondevelopmental items other than commercial products as components of items supplied to the agency;
+(2) require such prime contractors and subcontractors to incorporate commercial services, commercial products, or nondevelopmental items other than commercial products as components of items supplied to the agency;
 
 (3) modify requirements in appropriate cases to ensure that the requirements can be met by commercial services or commercial products or, to the extent that commercial products suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial products;
 
 (4) state specifications in terms that enable and encourage bidders and offerors to supply commercial services or commercial products or, to the extent that commercial products suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial products in response to the agency solicitations;
 
-(5) revise the agency’s procurement policies, practices, and procedures not required by law to reduce any impediments in those policies, practices, and procedures to the acquisition of commercial products and commercial services; and
+(5) revise the agency’s procurement policies, practices, and procedures not required by law to reduce any impediments in those policies, practices, and procedures to the acquisition of commercial products and commercial services;
 
-(6) require training of appropriate personnel in the acquisition of commercial products and commercial services.
+(6) require training of appropriate personnel in the acquisition of commercial products and commercial services; and
+
+(7) establish criteria in performance evaluations for appropriate personnel to reward risk-informed decisions that maximize the acquisition of commercial products, commercial services, or nondevelopmental items other than commercial products.
 
 **(c) Preliminary Market Research.—**
 
@@ -193,13 +196,19 @@ Pub. L. 103–355, title VIII, § 8304, Oct. 13, 1994, 108 Stat. 3398, as amende
 
 (5) The head of an agency shall take appropriate steps to ensure that any prime contractor of a contract (or task order or delivery order) in an amount in excess of $5,000,000 for the procurement of products other than commercial products or services other than commercial services engages in such market research as may be necessary to carry out the requirements of subsection (b)(2) before making purchases for or on behalf of the Department of Defense.
 
-**(d) Market Research for Price Analysis.—** The Secretary of Defense shall ensure that procurement officials in the Department of Defense conduct or obtain market research to support the determination of the reasonableness of price for commercial products or commercial services contained in any bid or offer submitted in response to an agency solicitation. To the extent necessary to support such market research, the procurement official for the solicitation—
+**(d) Non-commercial Determination Required.—**
 
-(1) in the case of products or services acquired under [section 3455 of this title](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3455), shall use information submitted under subsection (d) of that section; and
+(1) The head of an agency shall establish a process for determinations regarding the non-availability of commercial products or commercial services, including that—
 
-(2) in the case of other products or services, may require the offeror to submit relevant information.
+  (A) a product or service that is not a commercial product or commercial service may not be procured until the head of the agency determines that the market research conducted in accordance with subsection (c)(2) resulted in a determination that no commercial product, commercial service, or nondevelopmental item exists that is suitable to meet the needs of the agency; and
 
-**(e) Market Research Training Required.—** The Secretary of Defense shall provide mandatory training for members of the armed forces and employees of the Department of Defense responsible for the conduct of market research required under subsections (c) and (d). Such mandatory training shall, at a minimum—
+  (B) prior to acquiring a product or service that is not a commercial product or commercial service, the relevant program manager shall submit a written memorandum confirming the results of the determination in subparagraph (A), which shall be signed by the portfolio acquisition executive; and
+
+(2) ensure the determination in paragraph (1)(A) does not inhibit the ability of a contracting officer to determine whether a product, component of a product, or service is a commercial product or commercial service (as applicable).
+
+**(e) Market Research for Price Analysis.—** The Secretary of Defense shall ensure that procurement officials in the Department of Defense conduct or obtain market research to support the determination of the reasonableness of price for commercial products or commercial services contained in any bid or offer submitted in response to an agency solicitation. To the extent necessary to support such market research, the procurement official for the solicitation may require the offeror to submit relevant information.
+
+**(f) Market Research Training Required.—** The Secretary of Defense shall provide mandatory training for members of the armed forces and employees of the Department of Defense responsible for the conduct of market research required under subsections (c) and (d). Such mandatory training shall, at a minimum—
 
 (1) provide comprehensive information on the subject of market research and the function of market research in the acquisition of commercial products and commercial services;
 
@@ -210,6 +219,26 @@ Pub. L. 103–355, title VIII, § 8304, Oct. 13, 1994, 108 Stat. 3398, as amende
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–60, § 1822(a)(1)(A), in introductory provisions, substituted “acquisition officials in such agency and prime contractors and subcontractors (at any tier) performing contracts with such agency (including those performing consulting, research, and advisory services to acquisition officials of such agency)” for “procurement officials in that agency,”.
+
+Subsec. (b)(2). Pub. L. 119–60, § 1822(a)(1)(B), substituted “such prime contractors and subcontractors” for “prime contractors and subcontractors at all levels under the agency contracts”.
+
+Subsec. (d). Pub. L. 119–60, § 1822(a)(3), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Pub. L. 119–60, § 811(d)(1), substituted “the procurement official for the solicitation may require the offeror to submit relevant information.” for “the procurement official for the solicitation—
+
+“(1) in the case of products or services acquired under [section 3455 of this title](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3455), shall use information submitted under subsection (d) of that section; and
+
+“(2) in the case of other products or services, may require the offeror to submit relevant information.”
+
+Subsec. (e). Pub. L. 119–60, § 1822(a)(4), which directed substitution of “for the solicitation” for “for the solicitation” through “in the case of other products or services,”, could not be executed in view of the prior amendment by Pub. L. 119–60, § 811(d)(1). See note above.
+
+Pub. L. 119–60, § 1822(a)(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 119–60, § 1822(a)(2), redesignated subsec. (e) as (f).
+
+2024—Subsec. (b)(7). Pub. L. 118–159 added par. (7).
+
 2021—Pub. L. 116–283, § 1821(a)(2), renumbered [section 2377 of this title](./chapter-chapter-140-chapter-chapter-140.md#section-2377) as this section.
 
 Subsec. (d)(1). Pub. L. 116–283, § 1821(b)(3), substituted “section 3455” for “section 2379”.
@@ -256,8 +285,11 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
-#### Increase in Air Force and Navy Use of Used Commercial Dual-Use Parts in Certain Aircraft and Engines
-Pub. L. 117–263, div. A, title I, § 161, Dec. 23, 2022, 136 Stat. 2461, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of the Air Force, with respect to the Air Force, and the Secretary of the Navy, with respect to the Navy, shall develop and implement processes and procedures for—“(1) the acquisition of used, overhauled, reconditioned, and remanufactured commercial dual-use parts; and “(2) the use of such commercial dual-use parts in all—“(A) commercial derivative aircraft and engines; and “(B) aircraft used by the Air Force or Navy that are based on the design of commercial products. “(b) Procurement of Parts.—The processes and procedures implemented under subsection (a) shall provide that commercial dual-use parts shall be acquired—“(1) pursuant to competitive procedures (as defined in [section 3012 of title 10](./chapter-201-definitions.md#section-3012), United States Code); and “(2) only from suppliers that provide parts that possess an Authorized Release Certificate Federal Aviation Administration Form 8130-3 Airworthy Approval Tag from a certified repair station pursuant to part 145 of title 14, Code of Federal Regulations. “(c) Definitions.—In this section:“(1) Commercial derivative.—The term ‘commercial derivative’ means an item procured by the Department of Defense that is or was produced using the same or similar production facilities, a common supply chain, and the same or similar production processes that are used for the production of the item as predominantly used by the general public or by nongovernmental entities for purposes other than governmental purposes. “(2) Commercial dual-use part.—The term ‘commercial dual-use part’ means a product that is—“(A) a commercial product; “(B) dual-use; “(C) described in subsection (b)(2); and “(D) not a life-limited part. “(3) Commercial product.—The term ‘commercial product’ has the meaning given such term in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim), United States Code. “(4) Dual-use.—The term ‘dual-use’ has the meaning given such term in [section 4801 of title 10](./chapter-381-defense-industrial-base-generally.md#section-4801), United States Code.”
+#### Bridging Operational Objectives and Support for Transition Program
+Pub. L. 119–60, div. A, title XVIII, § 1833, Dec. 18, 2025, 139 Stat. 1253, provided that: “(a) Establishment.—The Director of the Defense Innovation Unit shall establish a program to be known as the ‘Bridging Operational Objectives and Support for Transition program’ (in this section referred to as the ‘BOOST program’) to accelerate the adoption or integration of commercial technologies into programs of record or fielded capabilities of the Department of Defense. “(b) Program Execution.—Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall issue guidance to—“(1) allow portfolio acquisition executives, program managers, or product support managers to request from the Director assistance in identifying, adopting, or integrating commercial technologies; and “(2) require the Director to—“(A) review commercial technologies in response to each request and identify viable commercial technologies to address the issue presented by such request; “(B) upon request, execute coordinated development, experimentation, or integration of identified commercial technologies to enable adoption or integration of commercial technologies into programs of record or fielded capabilities; and “(C) establish criteria to allow the Director to terminate assistance provided in response to a request. “(c) Support to Other Programs.—The Director shall ensure the BOOST program works in coordination with other authorities, programs, and activities of the Department of Defense responsible for adoption or integration of commercial technologies into programs of record or fielded capabilities, including—“(1) the Defense Research and Development Rapid Innovation Program established under [section 4061(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4061/a&num=0&edition=prelim), United States Code; “(2) the Small Business Innovation Research Program and the Small Business Technology Transfer Program established under section 9 of the Small Business Act ([15 U.S.C. 639](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section639&num=0&edition=prelim) [[15 U.S.C. 638](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638&num=0&edition=prelim)]); and “(3) urgent acquisition of items established under [section 3601 of title 10](./chapter-253-rapid-acquisition-procedures.md#section-3601), United States Code. “(d) Funding.—Subject to the availability of appropriations, amounts authorized to be appropriated the [sic] Director of the Defense Innovation Unit may be used to carry out the BOOST program. “(e) Report.—Not later than two years after the date of the enactment of this Act, the Secretary of Defense, in coordination with the Under Secretary of Defense for Acquisition and Sustainment and the Director, shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report assessing BOOST program effectiveness in accelerating the adoption or integration of commercial technologies into programs of record or fielded capabilities of the Department of Defense, including—“(1) a summary of persons assisted and integrated commercial technologies; “(2) recommendations of the Secretary to improve the BOOST program; and “(3) a recommendation whether to continue or terminate the BOOST program. “(f) Sunset.—The BOOST program established under this section, and the authorities and requirements under this section, shall expire on December 31, 2030. “(g) Definitions.—In this section:“(1) The term ‘portfolio acquisition executive’ has the meaning given in [section 1732 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1732), United States Code, as added by section 1802 of this Act. “(2) The term ‘program manager’ has the meaning given in [section 1737 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1737), United States Code. “(3) The term ‘product support manager’ has the meaning given in [section 1733 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1733), United States Code, as added by section 1803 of this Act.”
+
+#### Increase in Air Force and Navy Use of Commercial Dual-Use Parts in Certain Aircraft and Engines
+Pub. L. 117–263, div. A, title I, § 161, Dec. 23, 2022, 136 Stat. 2461, as amended by Pub. L. 118–159, div. A, title I, § 161, Dec. 23, 2024, 138 Stat. 1815, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of the Air Force, with respect to the Air Force, and the Secretary of the Navy, with respect to the Navy, shall develop and implement processes and procedures for—“(1) the acquisition of new, used, overhauled, reconditioned, and remanufactured commercial dual-use parts; and “(2) the use of such commercial dual-use parts in all—“(A) commercial derivative aircraft and engines; and “(B) aircraft used by the Air Force or Navy that are based on the design of commercial products. “(b) Procurement of Parts.—The processes and procedures implemented under subsection (a) shall provide that commercial dual-use parts shall be acquired—“(1) pursuant to competitive procedures (as defined in [section 3012 of title 10](./chapter-201-definitions.md#section-3012), United States Code); and “(2) only from suppliers that provide parts that possess an Authorized Release Certificate Federal Aviation Administration Form 8130-3 Airworthy Approval Tag from a certified repair station pursuant to part 145 of title 14, Code of Federal Regulations, or from a certified production approval holder pursuant to part 21 of title 14, Code of Federal Regulations. “(c) Definitions.—In this section:“(1) Commercial derivative.—The term ‘commercial derivative’ means an item procured by the Department of Defense that is or was produced using the same or similar production facilities, a common supply chain, and the same or similar production processes that are used for the production of the item as predominantly used by the general public or by nongovernmental entities for purposes other than governmental purposes. “(2) Commercial dual-use part.—The term ‘commercial dual-use part’ means a product that is—“(A) a commercial product; “(B) dual-use; “(C) described in subsection (b)(2); and “(D) not a life-limited part. “(3) Commercial product.—The term ‘commercial product’ has the meaning given such term in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim), United States Code. “(4) Dual-use.—The term ‘dual-use’ has the meaning given such term in [section 4801 of title 10](./chapter-381-defense-industrial-base-generally.md#section-4801), United States Code.”
 
 #### Use of Commercial Items in Distributed Common Ground Systems
 Pub. L. 115–91, div. A, title XVI, § 1698, Dec. 12, 2017, 131 Stat. 1794, provided that: “(a) In General.—The procurement process for each covered Distributed Common Ground System shall be carried out in accordance with [section 2377 of title 10](./chapter-chapter-140-chapter-chapter-140.md#section-2377), United States Code [now [10 U.S.C. 3453](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3453)]. “(b) Certification.—Not later than 30 days after the date of the enactment of this Act [Dec. 12, 2017], the service acquisition executive responsible for each covered Distributed Common Ground System shall certify to the appropriate congressional committees that the procurement process for increments of the system procured after the date of the enactment of this Act will be carried out in accordance with [section 2377 of title 10](./chapter-chapter-140-chapter-chapter-140.md#section-2377), United States Code [now [10 U.S.C. 3453](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3453)]. “(c) Definitions.—In this section:“(1) The term ‘appropriate congressional committees’ means—“(A) the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; and “(B) the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives. “(2) The term ‘covered Distributed Common Ground System’ includes the following:“(A) The Distributed Common Ground System of the Army. “(B) The Distributed Common Ground System of the Navy. “(C) The Distributed Common Ground System of the Marine Corps. “(D) The Distributed Common Ground System of the Air Force. “(E) The Distributed Common Ground System of the Special Operations Forces.”
@@ -269,7 +301,7 @@ Pub. L. 114–328, div. A, title VIII, § 849(d), Dec. 23, 2016, 130 Stat. 2294,
 Pub. L. 114–328, div. A, title VIII, § 876, Dec. 23, 2016, 130 Stat. 2311, as amended by Pub. L. 116–92, div. A, title IX, § 902(59), Dec. 20, 2019, 133 Stat. 1550, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall revise the guidance issued pursuant to section 855 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; [10 U.S.C. 2377](./chapter-chapter-140-chapter-chapter-140.md#section-2377) note) to provide that— “(1) the head of an agency may not enter into a contract in excess of $10,000,000 for facilities-related services, knowledge-based services (except engineering services), construction services, medical services, or transportation services that are not commercial services unless the service acquisition executive of the military department concerned, the head of the Defense Agency concerned, the commander of the combatant command concerned, or the Under Secretary of Defense for Acquisition and Sustainment (as applicable) determines in writing that no commercial services are suitable to meet the agency’s needs as provided in [section 2377(c)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2377/c/2&num=0&edition=prelim), United States Code [now [10 U.S.C. 3453(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3453/c/2&num=0&edition=prelim)]; and “(2) the head of an agency may not enter into a contract in an amount above the simplified acquisition threshold and below $10,000,000 for facilities-related services, knowledge-based services (except engineering services), construction services, medical services, or transportation services that are not commercial services unless the contracting officer determines in writing that no commercial services are suitable to meet the agency’s needs as provided in section 2377(c)(2) of such title [now [10 U.S.C. 3453(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3453/c/2&num=0&edition=prelim)].”
 
 #### Incorporation Into Management Certification Training Mandate
-Pub. L. 114–92, div. A, title VIII, § 844(b), Nov. 25, 2015, 129 Stat. 915, provided that: “The Chairman of the Joint Chiefs of Staff shall ensure that the requirements of [section 2377(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2377/d&num=0&edition=prelim), United States Code [now [10 U.S.C. 3453(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3453/e&num=0&edition=prelim)], as added by subsection (a), are incorporated into the requirements management certification training mandate of the Joint Capabilities Integration Development System.”
+Pub. L. 114–92, div. A, title VIII, § 844(b), Nov. 25, 2015, 129 Stat. 915, which required the Chairman of the Joint Chiefs of Staff to ensure that the requirements of former [10 U.S.C. 3453(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3453/e&num=0&edition=prelim) (now [10 U.S.C. 3453(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3453/f&num=0&edition=prelim)) were incorporated into the requirements management certification training mandate of the Joint Capabilities Integration Development System, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(8)(C), Dec. 18, 2025, 139 Stat. 948.
 
 #### Market Research and Preference for Commercial Items
 Pub. L. 114–92, div. A, title VIII, § 855, Nov. 25, 2015, 129 Stat. 919, as amended by Pub. L. 116–92, div. A, title IX, § 902(60), Dec. 20, 2019, 133 Stat. 1550, provided that: “(a) Guidance Required.—Not later than 90 days after the date of the enactment of this Act [Nov. 25, 2015], the Under Secretary of Defense for Acquisition and Sustainment shall issue guidance to ensure that acquisition officials of the Department of Defense fully comply with the requirements of [section 2377 of title 10](./chapter-chapter-140-chapter-chapter-140.md#section-2377), United States Code [now [10 U.S.C. 3453](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3453)], regarding market research and commercial items. The guidance issued pursuant to this subsection shall, at a minimum—“(1) provide that the head of an agency may not enter into a contract in excess of the simplified acquisition threshold for information technology products or services that are not commercial items unless the head of the agency determines in writing that no commercial items are suitable to meet the agency’s needs as provided in subsection (c)(2) of such section; and “(2) ensure that market research conducted in accordance with subsection (c) of such section is used, where appropriate, to inform price reasonableness determinations. “(b) Review Required.—Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Chairman and the Vice Chairman of the Joint Chiefs of Staff, in consultation with the Under Secretary of Defense for Acquisition and Sustainment, shall review Chairman of the Joint Chiefs of Staff Instruction 3170.01, the Manual for the Operation of the Joint Capabilities Integration and Development System, and other documents governing the requirements development process and revise these documents as necessary to ensure that the Department of Defense fully complies with the requirement in [section 2377(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2377/c&num=0&edition=prelim), United States Code [now [10 U.S.C. 3453(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3453/c&num=0&edition=prelim)], and section 10.001 of the Federal Acquisition Regulation for Federal agencies to conduct appropriate market research before developing new requirements. “(c) Market Research Defined.—For the purposes of this section, the term ‘market research’ means a review of existing systems, subsystems, capabilities, and technologies that are available or could be made available to meet the needs of the Department of Defense in whole or in part. The review may include any of the techniques for conducting market research provided in section 10.002(b)(2) of the Federal Acquisition Regulation and shall include, at a minimum, contacting knowledgeable individuals in Government and industry regarding existing market capabilities.”
@@ -282,215 +314,11 @@ Pub. L. 110–181, div. A, title VIII, § 826(b), Jan. 28, 2008, 122 Stat. 228, 
 
 
 <a id="section-3455"></a>
-## § 3455. Procurement of a major weapon system as a commercial product: requirement for prior determination by Secretary of Defense and notification to Congress
-**(a) Requirement for Determination and Notification.—** A major weapon system of the Department of Defense may be treated as a commercial product, or purchased under procedures established for the procurement of commercial products, only if—
-
-(1) the Secretary of Defense determines that—
-
-  (A) the major weapon system is a commercial product; and
-
-  (B) such treatment is necessary to meet national security objectives; and
-
-(2) the congressional defense committees are notified at least 30 days before such treatment or purchase occurs.
-
-**(b) Treatment of Subsystems as Commercial Products.—**
-
-(1) A subsystem of a major weapon system (other than a commercially available off-the-shelf item as defined in [section 104 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section104&num=0&edition=prelim)) shall be treated as a commercial product and purchased under procedures established for the procurement of commercial products if either—
-
-  (A) the subsystem is intended for a major weapon system that is being purchased, or has been purchased, under procedures established for the procurement of commercial products in accordance with the requirements of subsection (a); or
-
-  (B) the contracting officer determines in writing that the subsystem is a commercial product.
-
-(2)
-
-  (A) For a subsystem proposed as commercial (as defined in [section 103(1) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103/1&num=0&edition=prelim)) and that has not been previously determined commercial in accordance with [section 3703(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3703/d&num=0&edition=prelim), the offeror shall—
-
-    (i) identify the comparable commercial product the offeror sells to the general public or nongovernmental entities that serves as the basis for the “of a type” assertion;
-
-    (ii) submit to the contracting officer a comparison necessary to serve as the basis of the “of a type” assertion of the physical characteristics and functionality between the subsystem and the comparable commercial product identified under clause (i); and
-
-    (iii) provide to the contracting officer the National Stock Number for both the comparable commercial product identified under clause (i), if one is assigned, and the subsystem, if one is assigned.
-
-  (B) If the offeror does not sell a comparable commercial product to the general public or nongovernmental entities for purposes other than governmental purposes that can serve as the basis for an “of a type” assertion with respect to the subsystem—
-
-    (i) the offeror shall—
-
-      (I) notify the contracting officer in writing that it does not so sell such a comparable commercial product; and
-
-      (II) provide to the contracting officer a comparison necessary to serve as the basis of the “of a type” assertion of the physical characteristics and functionality between the subsystem and the most comparable commercial product in the commercial marketplace, to the extent reasonably known by the offeror; and
-
-    (ii) subparagraph (A) shall not apply with respect to the offeror for such subsystem.
-
-**(c) Treatment of Components and Spare Parts as Commercial Products.—**
-
-(1) A component or spare part for a major weapon system (other than a commercially available off-the-shelf item as defined in [section 104 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section104&num=0&edition=prelim)) may be treated as a commercial product for the purposes of chapter 271 of this title if either—
-
-  (A) the component or spare part is intended for—
-
-    (i) a major weapon system that is being purchased, or has been purchased, under procedures established for the procurement of commercial products in accordance with the requirements of subsection (a); or
-
-    (ii) a subsystem of a major weapon system that is being purchased, or has been purchased, under procedures established for the procurement of commercial products in accordance with the requirements of subsection (b); or
-
-  (B) the contracting officer determines in writing that the component or spare part is a commercial product.
-
-(2)
-
-  (A) For a component or spare part proposed as commercial (as defined in [section 103(1) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103/1&num=0&edition=prelim)) and that has not previously been determined commercial in accordance with [section 3703(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3703/d&num=0&edition=prelim), the offeror shall—
-
-    (i) identify the comparable commercial product the offeror sells to the general public or nongovernmental entities that serves as the basis for the “of a type” assertion;
-
-    (ii) submit to the contracting officer a comparison necessary to serve as the basis of the “of a type” assertion of the physical characteristics and functionality between the component or spare part and the comparable commercial product identified under clause (i); and
-
-    (iii) provide to the contracting officer the National Stock Number for both the comparable commercial product identified under clause (i), if one is assigned, and the component or spare part, if one is assigned.
-
-  (B) If the offeror does not sell a comparable commercial product to the general public or nongovernmental entities for purposes other than governmental purposes that can serve as the basis for an “of a type” assertion with respect to the component or spare part—
-
-    (i) the offeror shall—
-
-      (I) notify the contracting officer in writing that it does not so sell such a comparable commercial product; and
-
-      (II) provide to the contracting officer a comparison necessary to serve as the basis of the “of a type” assertion of the physical characteristics and functionality between the component or spare part and the most comparable commercial product in the commercial marketplace, to the extent reasonably known by the offeror; and
-
-    (ii) subparagraph (A) shall not apply with respect to the offeror for such component or spare part.
-
-**(d) Information Submitted for Procurements That Are Not Covered by the Exceptions in Section 3703(a)(1) of This Title.—**
-
-(1) To the extent necessary to determine the reasonableness of the price for items acquired under this section, the offeror shall, in accordance with paragraph (4), submit to the contracting officer or provide the contracting officer access to—
-
-  (A) a representative sample, as determined by the contracting officer, of the prices paid for the same or similar commercial products under comparable terms and conditions by both Government and commercial customers, and the terms and conditions of such sales;
-
-  (B) if the contracting officer determines that the offeror does not have access to and cannot provide sufficient information described in subparagraph (A) to determine the reasonableness of price, a representative sample, as determined by the contracting officer, of the prices paid for the same or similar commercial products sold under different terms and conditions, and the terms and conditions of such sales; and
-
-  (C) only if the contracting officer determines that the information submitted pursuant to subparagraphs (A) and (B) is not sufficient to determine the reasonableness of price because either the comparable commercial products provided by the offeror are not a valid basis for a price analysis or the contracting officer determines the proposed price is not reasonable after evaluating sales data, and the contracting officer receives the approval described in paragraph (5), other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.
-
-(2) An offeror may submit information or analysis relating to the value of a commercial product to aid in the determination of the reasonableness of the price of such item. A contracting officer may consider such information or analysis in addition to the information submitted pursuant to paragraphs (1)(A) and (1)(B).
-
-(3) An offeror may not be required to submit information described in paragraph (1)(C) with regard to a commercially available off-the-shelf item and may be required to submit such information with regard to any other item that was developed exclusively at private expense only after the head of the contracting activity determines in writing that the information submitted pursuant to paragraphs (1)(A) and (1)(B) is not sufficient to determine the reasonableness of price.
-
-(4)
-
-  (A) An offeror may redact data information submitted or made available under subparagraph (A) or (B) of paragraph (1) with respect to sales of an item acquired under this section only to the extent necessary to remove information individually identifying government customers, commercial customers purchasing such item for governmental purposes, and commercial customers purchasing such item for commercial, mixed, or unknown purposes.
-
-  (B) Before an offeror may exercise the authority under subparagraph (A) with respect to a customer, the offeror shall certify in writing to the contracting officer whether the customer is a government customer, a commercial customer purchasing the item for governmental purpose, or a commercial customer purchasing the item for a commercial, mixed, or unknown purpose.
-
-(5) A contracting officer may not require an offeror to submit or make available information under paragraph (1)(C) without approval from a level above the contracting officer.
-
-(6) Nothing in this subsection shall relieve an offeror of other obligations under any other law or regulation to disclose and support the actual rationale of the offeror for the price proposed by the offeror to the Government for any good or service.
-
-**(e) Delegation.—** The authority of the Secretary of Defense to make a determination under subsection (a) may be delegated only to the Deputy Secretary of Defense, without further redelegation.
-
-**(f) Major Weapon System Defined.—** In this section, the term “major weapon system” means a weapon system acquired pursuant to a major defense acquisition program (as that term is defined in section 2430 11 See References in Text note below. of this title).
-
-**(g) Applicability.—**
-
-(1) **In general.—** — Subsections (b) and (c) shall apply only with respect to subsystems described in subsection (b) and components or spare parts described in subsection (c), respectively, that the Department of Defense acquires through—
-
-  (A) a prime contract;
-
-  (B) a modification to a prime contract; or
-
-  (C) a subcontract described in paragraph (2).
-
-(2) **Subcontract described.—** — A subcontract described in this paragraph is a subcontract through which the Department of Defense acquires a subsystem or component or spare part proposed as commercial (as defined in [section 103(1) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103/1&num=0&edition=prelim)) under this section and that has not previously been determined commercial in accordance with section 3703(d).
+## § 3455. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(5), Dec. 18, 2025, 139 Stat. 948]
 
 ### Statutory Notes
 
-#### References in Text
-[Section 2430 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2430), referred to in subsec. (f), was transferred to sections 4201, 4202, and 4204 of this title by Pub. L. 116–283, div. A, title XVIII, § 1846(c)(1), (d)(1), (f)(1), Jan. 1, 2021, 134 Stat. 4248–4250. [Section 4201 of this title](./chapter-321-general-matters.md#section-4201) defines “major defense acquisition program”.
-
-#### Amendments
-2022—Subsec. (b). Pub. L. 117–263, § 803(a), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
-
-Subsec. (c)(2). Pub. L. 117–263, § 803(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “This subsection shall apply only to components and spare parts that are acquired by the Department of Defense through a prime contract or a modification to a prime contract (or through a subcontract under a prime contract or modification to a prime contract on which the prime contractor adds no, or negligible, value).”
-
-Subsec. (d). Pub. L. 117–263, § 803(c)(1), inserted “for Procurements That Are Not Covered by the Exceptions in Section 3703(a)(1) of This Title” after “Submitted” in heading.
-
-Subsec. (d)(1). Pub. L. 117–263, § 803(c)(2)(A), in introductory provisions, substituted “the offeror shall, in accordance with paragraph (4), submit to the contracting officer or provide the contracting officer access to—” for “the contracting officer shall require the offeror to submit—”.
-
-Subsec. (d)(1)(A). Pub. L. 117–263, § 803(c)(2)(B), inserted “a representative sample, as determined by the contracting officer, of the” before “prices paid” and “, and the terms and conditions of such sales” before semicolon at end.
-
-Subsec. (d)(1)(B). Pub. L. 117–263, § 803(c)(2)(C), substituted “a representative sample, as determined by the contracting officer, of the prices paid for the same or similar commercial products sold under different terms and conditions, and the terms and conditions of such sales; and” for “information on—
-
-“(i) prices for the same or similar items sold under different terms and conditions;
-
-“(ii) prices for similar levels of work or effort on related products or services;
-
-“(iii) prices for alternative solutions or approaches; and
-
-“(iv) other relevant information that can serve as the basis for a price assessment; and”.
-
-Subsec. (d)(1)(C). Pub. L. 117–263, § 803(c)(2)(D), inserted “only” before “if the contracting officer” and “because either the comparable commercial products provided by the offeror are not a valid basis for a price analysis or the contracting officer determines the proposed price is not reasonable after evaluating sales data, and the contracting officer receives the approval described in paragraph (5)” after “reasonableness of price”.
-
-Subsec. (d)(4) to (6). Pub. L. 117–263, § 803(c)(3), added pars. (4) to (6).
-
-Subsec. (g). Pub. L. 117–263, § 803(d), added subsec. (g).
-
-2021—Pub. L. 116–283, § 1821(a)(2), renumbered [section 2379 of this title](./chapter-chapter-140-chapter-chapter-140.md#section-2379) as this section.
-
-Subsec. (c)(1). Pub. L. 116–283, § 1831(j)(4), which directed amendment of this section by substituting “sections 3701–3708” for “section 2306a” and could not be executed, was repealed by Pub. L. 117–81, § 1701(b)(10)(I)(ii).
-
-Pub. L. 116–283, § 1821(b)(4), substituted “chapter 271” for “section 2306a” in introductory provisions.
-
-Subsec. (f). Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2430”, which was redesignated as multiple sections.
-
-2018—Pub. L. 115–232, § 836(d)(8)(D), substituted “Procurement of a major weapon system as a commercial product: requirement for prior determination by Secretary of Defense and notification to Congress” for “Requirement for determination by Secretary of Defense and notification to Congress before procurement of major weapon systems as commercial items” in section catchline.
-
-Pub. L. 115–232, § 836(d)(4)(C), substituted “commercial product” for “commercial item” and “commercial products” for “commercial items” wherever appearing.
-
-Subsec. (a)(1)(A). Pub. L. 115–232, § 836(d)(4)(B), struck out “, as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)” before “; and”.
-
-Subsec. (b). Pub. L. 115–232, § 836(d)(4)(A), substituted “Commercial Products” for “Commercial Items” in heading.
-
-Subsec. (b)(2). Pub. L. 115–232, § 836(d)(4)(B), struck out “, as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)” before period.
-
-Subsec. (c). Pub. L. 115–232, § 836(d)(4)(A), substituted “Commercial Products” for “Commercial Items” in heading.
-
-Subsec. (c)(1)(B). Pub. L. 115–232, § 836(d)(4)(B), struck out “, as defined in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)” before period.
-
-2016—Subsec. (d)(2), (3). Pub. L. 114–328 added par. (2) and redesignated former par. (2) as (3).
-
-2015—Subsec. (a). Pub. L. 114–92, § 852(a), inserted “and” at end of par. (1)(B), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such system; and”.
-
-Subsec. (b). Pub. L. 114–92, § 852(b)(1), substituted “if either” for “only if” in introductory provisions.
-
-Subsec. (b)(2). Pub. L. 114–92, § 852(b)(2), substituted “writing that” for “writing that—”, struck out subpar. (A) designation before “the subsystem is a”, substituted “title 41.” for “title 41; and”, and struck out subpar. (B) which read as follows: “the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such subsystem.”
-
-Subsec. (c)(1). Pub. L. 114–92, § 852(c)(1), substituted “title if either” for “title only if” in introductory provisions.
-
-Subsec. (c)(1)(B). Pub. L. 114–92, § 852(c)(2), substituted “writing that” for “writing that—”, struck out cl. (i) designation before “the component or”, substituted “title 41.” for “title 41; and”, and struck out cl. (ii) which read as follows: “the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such component or spare part.”
-
-Subsec. (d). Pub. L. 114–92, § 852(d), amended subsec. (d) generally. Prior to amendment, text read as follows: “To the extent necessary to make a determination under subsection (a)(2), (b)(2), or (c)(1)(B), the contracting officer may request the offeror to submit—
-
-“(1) prices paid for the same or similar commercial items under comparable terms and conditions by both government and commercial customers; and
-
-“(2) if the contracting officer determines that the information described in paragraph (1) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.”
-
-2014—Subsec. (a)(1)(A). Pub. L. 113–291, § 1071(a)(7)(A), substituted “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)” for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim))”.
-
-Subsec. (b). Pub. L. 113–291, § 1071(a)(7)(B), substituted “[section 104 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section104&num=0&edition=prelim)” for “section 35(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section431/c&num=0&edition=prelim))” in introductory provisions.
-
-Subsec. (b)(2)(A). Pub. L. 113–291, § 1071(a)(7)(A), substituted “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)” for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim))”.
-
-Subsec. (c)(1). Pub. L. 113–291, § 1071(a)(7)(B), substituted “[section 104 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section104&num=0&edition=prelim)” for “section 35(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section431/c&num=0&edition=prelim))” in introductory provisions.
-
-Subsec. (c)(1)(B)(i). Pub. L. 113–291, § 1071(a)(7)(A), substituted “[section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim)” for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/12&num=0&edition=prelim))”.
-
-2008—Subsec. (a)(2), (3). Pub. L. 110–181, § 815(a)(1)(A), added par. (2) and redesignated former par. (2) as (3).
-
-Subsec. (b). Pub. L. 110–181, § 815(a)(1)(B), added subsec. (b) and struck out former subsec. (b). Former text read as follows: “A subsystem or component of a major weapon system shall be treated as a commercial item and purchased under procedures established for the procurement of commercial items if such subsystem or component otherwise meets the requirements (other than requirements under subsection (a)) for treatment as a commercial item.”
-
-Subsecs. (c) to (f). Pub. L. 110–181, § 815(a)(1)(C), (D), added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
-
-#### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
-
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
-
-#### Effective Date of 2018 Amendment
-Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
-
-#### Effective Date
-Pub. L. 109–163, div. A, title VIII, § 803(b), Jan. 6, 2006, 119 Stat. 3371, provided that: “The amendments made by subsection (a) [enacting this section] shall take effect on the date of the enactment of this Act [Jan. 6, 2006], and shall apply to contracts entered into on or after such date.”
+Section, added Pub. L. 109–163, div. A, title VIII, § 803(a)(1), Jan. 6, 2006, 119 Stat. 3370, § 2379; amended Pub. L. 110–181, div. A, title VIII, § 815(a)(1), Jan. 28, 2008, 122 Stat. 222; Pub. L. 113–291, div. A, title X, § 1071(a)(7), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, § 852(a)–(d), Nov. 25, 2015, 129 Stat. 917, 918; Pub. L. 114–328, div. A, title VIII, § 872, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–232, div. A, title VIII, § 836(d)(4), (8)(D), Aug. 13, 2018, 132 Stat. 1868, 1869; renumbered § 3455 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1821(a)(2), (b)(4), 1831(j)(4), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4195, 4217, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(b)(10)(i)(ii), Dec. 27, 2021, 135 Stat. 2134; Pub. L. 117–263, div. A, title VIII, § 803, Dec. 23, 2022, 136 Stat. 2693, related to requirement for prior determination by Secretary of Defense and notification to Congress for the procurement of a major weapon system as a commercial product.
 
 
 <a id="section-3456"></a>
@@ -499,7 +327,7 @@ Pub. L. 109–163, div. A, title VIII, § 803(b), Jan. 6, 2006, 119 Stat. 3371, 
 
 (1) establish and maintain a centralized capability with necessary expertise and resources to provide assistance to the military departments and Defense Agencies in making commercial product and commercial service determinations, conducting market research, and performing analysis of price reasonableness for the purposes of procurements by the Department of Defense; and
 
-(2) provide to officials of the Department of Defense access to previous Department of Defense commercial product and commercial service determinations, market research, and analysis used to determine the reasonableness of price for the purposes of procurements by the Department of Defense.
+(2) assist each Secretary of a military department and each head of a Defense Agency with performing market research in accordance with the requirements of [section 3453 of this title](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3453) relating to market research and the determination regarding the non-availability of commercial products or commercial services, and other analysis, used to determine the reasonableness of price for the purposes of procurements by the Department of Defense.
 
 **(b) Determinations Regarding the Commercial Nature of Products or Services.—**
 
@@ -509,11 +337,15 @@ Pub. L. 109–163, div. A, title VIII, § 803(b), Jan. 6, 2006, 119 Stat. 3371, 
 
   (B) consider the views of appropriate public and private sector entities.
 
-(2) **Memorandum.—** — Within 30 days after a contract award, the contracting officer shall, consistent with the policies and regulations of the Department, submit a written memorandum summarizing the determination referred to in paragraph (1), including a detailed justification why the product or service was determined to be commercial or noncommercial. Upon the request of the contractor or subcontractor offering the product or service for which such determination is summarized in such memorandum, the contracting officer shall provide to such contractor or subcontractor a copy of such memorandum.
+(2) **Memorandum.—** — Within 30 days after a contract award, the contracting officer shall, consistent with the policies and regulations of the Department, submit a written memorandum summarizing the determination referred to in paragraph (1), including a detailed justification why the product or service was determined to be commercial or noncommercial. The contracting officer shall consider the results in the memorandum of the program manager required under [section 3453(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3453/d/1/B&num=0&edition=prelim) when developing the memorandum required under this paragraph. Upon the request of the contractor or subcontractor offering the product or service for which such determination is summarized in such memorandum, the contracting officer shall provide to such contractor or subcontractor a copy of such memorandum.
 
 **(c) Items Previously Acquired Using Commercial Acquisition Procedures.—**
 
-(1) **Determinations.—** — A contract for a product or service acquired using commercial acquisition procedures under part 12 of the Federal Acquisition Regulation shall serve as a prior commercial product or service determination with respect to such product or service for purposes of this chapter unless the senior procurement executive of the military department or the Department of Defense as designated for purposes of [section 1702(c) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1702/c&num=0&edition=prelim) determines in writing that it is no longer appropriate to acquire the product or service using commercial acquisition procedures.
+(1) **Determinations.—** — A contract or subcontract for a product (including a product without a part number or a product with a prior part number that has the same functionality as the product had with the prior part number) or service acquired using commercial acquisition procedures under part 12 of the Federal Acquisition Regulation shall serve as a prior commercial product or commercial service determination with respect to such product or service for purposes of this chapter, including when subject to minor modifications, unless—
+
+  (A) the prior determination was not issued or approved by a contracting officer of the Department of Defense; or
+
+  (B) the senior procurement executive of the military department or the Department of Defense as designated for purposes of [section 1702(c) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1702/c&num=0&edition=prelim) determines in writing that it is no longer appropriate to acquire the product or service using commercial acquisition procedures.
 
 (2) **Limitation.—**
 
@@ -528,6 +360,12 @@ Pub. L. 109–163, div. A, title VIII, § 803(b), Jan. 6, 2006, 119 Stat. 3371, 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a)(2). Pub. L. 119–60, § 1822(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “provide to officials of the Department of Defense access to previous Department of Defense commercial product and commercial service determinations, market research, and analysis used to determine the reasonableness of price for the purposes of procurements by the Department of Defense.”
+
+Subsec. (b)(2). Pub. L. 119–60, § 1822(b)(2), inserted “The contracting officer shall consider the results in the memorandum of the program manager required under [section 3453(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3453/d/1/B&num=0&edition=prelim) when developing the memorandum required under this paragraph.” after “commercial or noncommercial.”
+
+2024—Subsec. (c)(1). Pub. L. 118–159 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “A contract for a product or service acquired using commercial acquisition procedures under part 12 of the Federal Acquisition Regulation shall serve as a prior commercial product or service determination with respect to such product or service for purposes of this chapter unless the senior procurement executive of the military department or the Department of Defense as designated for purposes of [section 1702(c) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1702/c&num=0&edition=prelim) determines in writing that it is no longer appropriate to acquire the product or service using commercial acquisition procedures.”
+
 2023—Subsec. (b)(2). Pub. L. 118–31 substituted “why the product or service was determined to be commercial or noncommercial” for “for such determination” and inserted at end “Upon the request of the contractor or subcontractor offering the product or service for which such determination is summarized in such memorandum, the contracting officer shall provide to such contractor or subcontractor a copy of such memorandum.”
 
 2021—Pub. L. 116–283, § 1821(a)(2), renumbered [section 2380 of this title](./chapter-chapter-140-chapter-chapter-140.md#section-2380) as this section.
@@ -640,41 +478,55 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 <a id="section-3458"></a>
 ## § 3458. Authority to acquire innovative commercial products and commercial services using general solicitation competitive procedures
-**(a) Authority.—** The Secretary of Defense and the Secretaries of the military departments may acquire innovative commercial products and commercial services through a competitive selection of proposals resulting from a general solicitation and the peer review of such proposals.
+**(a) Authority.—** The Secretary of Defense and each Secretary of a military department may acquire commercial products, commercial services, or nondevelopmental items through a competitive selection of proposals resulting from a general solicitation and a peer review, technical review, or operational review (as appropriate) of such proposals.
 
 **(b) Treatment as Competitive Procedures.—** Use of general solicitation competitive procedures under subsection (a) shall be considered to be use of competitive procedures for purposes of chapter 221 of this title.
 
-**(c) Limitations.—**
+**(c) Follow-on Production Agreements.—** With respect to a product, service, or item acquired through the competitive procedures described under subsection (a), the Secretary of Defense or each Secretary of a military department may enter into—
 
-(1) The Secretary may not enter into a contract or agreement in excess of $100,000,000 using the authority under subsection (a) without a written determination from the Under Secretary of Defense for Acquisition and Sustainment or the relevant service acquisition executive of the efficacy of the effort to meet mission needs of the Department of Defense or the relevant military department.
+(1) a follow-on production contract (including a sole source contract), subject to the approval requirements of [section 3204(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3204/e&num=0&edition=prelim); or
 
-(2) Contracts or agreements entered into using the authority under subsection (a) shall be fixed-price, including fixed-price incentive contracts.
+(2) a follow-on production contract or transaction, as defined in [section 4022 of this title](./chapter-301-research-and-engineering-generally.md#section-4022).
 
-(3) Notwithstanding [section 3451(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3451/1&num=0&edition=prelim), products and services acquired using the authority under subsection (a) shall be treated as commercial products and commercial services.
+**(d) Limitations.—**
 
-**(d) Congressional Notification Required.—**
+(1) Contracts or agreements entered into using the authority under subsection (a) shall be fixed-price, including fixed-price incentive contracts.
+
+(2) Notwithstanding [section 3451(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3451/1&num=0&edition=prelim), products and services acquired using the authority under subsection (a) shall be treated as commercial products and commercial services.
+
+**(e) Congressional Notification Required.—**
 
 (1) Not later than 45 days after the award of a contract for an amount exceeding $100,000,000 using the authority in subsection (a), the Secretary shall notify the congressional defense committees of such award.
 
 (2) Notice of an award under paragraph (1) shall include the following:
 
-  (A) Description of the innovative commercial product or commercial service acquired.
+  (A) Description of the commercial product, commercial service, or nondevelopmental item acquired.
 
-  (B) Description of the requirement, capability gap, or potential technological advancement with respect to which the innovative commercial product or commercial service acquired provides a solution or a potential new capability.
+  (B) Description of the requirement, capability gap, or potential technological advancement with respect to which the commercial product, commercial service, or nondevelopmental item acquired provides a solution or a potential new capability.
 
   (C) Amount of the contract awarded.
 
   (D) Identification of the contractor awarded the contract.
 
-**(e) Innovative Defined.—** In this section, the term “innovative” means—
-
-(1) any technology, process, or method, including research and development, that is new as of the date of submission of a proposal; or
-
-(2) any application that is new as of the date of submission of a proposal of a technology, process, or method existing as of such date.
-
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 1823(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense and the Secretaries of the military departments may acquire innovative commercial products and commercial services through a competitive selection of proposals resulting from a general solicitation and the peer review of such proposals.”
+
+Subsec. (c). Pub. L. 119–60, § 1823(4), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 119–60, § 1823(5), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “The Secretary may not enter into a contract or agreement in excess of $100,000,000 using the authority under subsection (a) without a written determination from the Under Secretary of Defense for Acquisition and Sustainment or the relevant service acquisition executive of the efficacy of the effort to meet mission needs of the Department of Defense or the relevant military department.”
+
+Pub. L. 119–60, § 1823(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 119–60, § 1823(2), (3), redesignated subsec. (d) as (e) and struck out former subsec. (e). Text of former subsec. (e) read as follows: “In this section, the term ‘innovative’ means—
+
+“(1) any technology, process, or method, including research and development, that is new as of the date of submission of a proposal; or
+
+“(2) any application that is new as of the date of submission of a proposal of a technology, process, or method existing as of such date.”
+
+Subsec. (e)(2)(A), (B). Pub. L. 119–60, § 1823(6), substituted “commercial product, commercial service, or nondevelopmental item” for “innovative commercial product or commercial service”.
+
 2022—Subsec. (c)(2). Pub. L. 117–263 substituted “fixed-price incentive contracts” for “fixed-price incentive fee contracts”.
 
 2021—Pub. L. 117–81, § 803(b)(1), renumbered [section 2380c of this title](./chapter-chapter-140-chapter-chapter-140.md#section-2380c) as this section.
@@ -687,10 +539,21 @@ Subsec. (c)(3). Pub. L. 117–81, § 803(b)(3)(B), substituted “section 3451(1
 Pub. L. 117–81, div. A, title VIII, § 803(b)(4), Dec. 27, 2021, 135 Stat. 1816, provided that: “The transfer, redesignation, and amendments made by this subsection [amending this section and repealing provisions set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302)] shall take [sic] as if included in title XVIII of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283).”
 
 #### Focused Commercial Solutions Openings Opportunities
-Pub. L. 118–31, div. A, title VIII, § 813, Dec. 22, 2023, 137 Stat. 325, provided that: “(a) Requirement.—During each fiscal year beginning after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense, in coordination with the service acquisition executives of each military department, shall exercise the authority under [section 3458 of title 10](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3458), United States Code, not less than four times to acquire goods or services addressing the mission needs of a geographic combatant command. “(b) Execution.—With respect to acquisition carried out under [section 3458 of title 10](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3458), United States Code, pursuant to subsection (a), the Secretary of Defense shall—“(1) assign the responsibility for carrying out such acquisition to a program executive officer and a head of a science and technology reinvention laboratory from the same military department, who shall co-lead such acquisition; and “(2) ensure that the program executive officer and the head of a science and technology reinvention laboratory assigned as co-leads under paragraph (1) have similar existing requirements and funding for transitioning technologies to acquisition programs within the area of focus for such acquisition. “(c) Sunset.—Subsection (a) shall expire on September 30, 2027. “(d) Definitions.—In this section:“(1) The terms ‘military department’ and ‘services acquisition executive’ have the meanings given such terms in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim), United States Code. “(2) The term ‘program executive officer’ has the meaning given such term in [section 1737(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1737/a&num=0&edition=prelim), United States Code. “(3) The term ‘science and technology reinvention laboratory’ means a science and technology reinvention laboratory designated under [section 4121(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4121/b&num=0&edition=prelim), United States Code.”
+Pub. L. 118–31, div. A, title VIII, § 813, Dec. 22, 2023, 137 Stat. 325, as amended by Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(A), Dec. 18, 2025, 139 Stat. 1227, provided that: “(a) Requirement.—During each fiscal year beginning after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense, in coordination with the service acquisition executives of each military department, shall exercise the authority under [section 3458 of title 10](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3458), United States Code, not less than four times to acquire goods or services addressing the mission needs of a geographic combatant command. “(b) Execution.—With respect to acquisition carried out under [section 3458 of title 10](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3458), United States Code, pursuant to subsection (a), the Secretary of Defense shall—“(1) assign the responsibility for carrying out such acquisition to a portfolio acquisition executive and a head of a science and technology reinvention laboratory from the same military department, who shall co-lead such acquisition; and “(2) ensure that the portfolio acquisition executive and the head of a science and technology reinvention laboratory assigned as co-leads under paragraph (1) have similar existing requirements and funding for transitioning technologies to acquisition programs within the area of focus for such acquisition. “(c) Sunset.—Subsection (a) shall expire on September 30, 2027. “(d) Definitions.—In this section:“(1) The terms ‘military department’ and ‘services acquisition executive’ have the meanings given such terms in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim), United States Code. “(2) The term ‘portfolio acquisition executive’ has the meaning given such term in [section 1737(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1737/a&num=0&edition=prelim), United States Code. “(3) The term ‘science and technology reinvention laboratory’ means a science and technology reinvention laboratory designated under [section 4121(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4121/b&num=0&edition=prelim), United States Code.”
 
 #### Data Collection
 Pub. L. 117–81, div. A, title VIII, § 803(a)(3), Dec. 27, 2021, 135 Stat. 1815, provided that: “(A) In general.—The Secretary of Defense and each Secretary of a military department shall collect and analyze data on the use of the authority under [section 2380c of title 10](./chapter-chapter-140-chapter-chapter-140.md#section-2380c), United States Code [now [10 U.S.C. 3458](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3458)], as added by paragraph (1), for the purposes of—“(i) developing and sharing best practices for achieving the objectives of the authority; “(ii) gathering information on the implementation of the authority and related policy issues; and “(iii) informing the congressional defense committees on the use of the authority. “(B) Plan required.—The authority under section 2380c [now 3458] of title 10, United States Code, as added by paragraph (1), may not be exercised by the Secretary of Defense or any Secretary of a military department during the period beginning on October 1, 2022, and ending on the date on which the Secretary of Defense submits to the congressional defense committees a completed plan for carrying out the data collection required under paragraph (1). “(C) Congressional defense committees; military department defined.—In this paragraph, the terms ‘congressional defense committees’ and ‘military department’ have the meanings given such terms in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim), United States Code.”
 
 #### References; Savings Provision; Rule of Construction
 Pub. L. 117–81, div. A, title VIII, § 803(b)(5), Dec. 27, 2021, 135 Stat. 1816, provided that: “Sections 1883 through 1885 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [set out as notes preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001)] shall apply with respect to the transfers, redesignations, and amendments made under this subsection [amending this section and repealing provisions set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302)] as if such transfers, redesignations, and amendments were made under title XVIII of such Act.”
+
+
+<a id="section-3459"></a>
+## § 3459. Limitation on required flowdown of contract clauses to subcontractors providing commercial products or commercial services
+**(a) In General.—** The Secretary of Defense may not require that a clause be included in a subcontract for the acquisition of commercial products or commercial services other than a clause that is on the lists required by [section 3452 of this title](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3452) or unless otherwise applicable pursuant to subsection (e) of such section.
+
+**(b) Applicability to Other Supply Agreements.—** The Secretary of Defense may not require the application of any contract clauses to other supply agreements unless otherwise applicable pursuant to subsection (e) of [section 3452 of this title](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3452).
+
+**(c) Definitions.—** In this section, the terms “other supply agreement” and “subcontract” have the meanings given such terms, respectively, in [section 3452(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3452/c/2&num=0&edition=prelim).
+
+**(d) Applicability.—** Subsection (a) shall apply only with respect to subcontracts entered into after the earliest date on which the lists required by [section 3452 of this title](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3452) are published in the Defense Federal Acquisition Regulation Supplement.

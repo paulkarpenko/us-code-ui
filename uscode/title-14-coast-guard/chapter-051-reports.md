@@ -2,7 +2,7 @@
 title: 14
 chapter: '51'
 heading: REPORTS
-section_count: 15
+section_count: 16
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -32,6 +32,9 @@ Subsec. (b)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 4901” 
 Subsec. (b)(1). Pub. L. 114–120, § 101(d)(1)(C)(i), substituted “described in section 2703” for “described in section 661”.
 
 Subsec. (b)(2). Pub. L. 114–120, § 101(d)(1)(C)(ii), substituted “described in section 2701” for “described in section 662”.
+
+#### Oversight of Funds
+Pub. L. 119–60, div. G, title LXXI, § 7116, Dec. 18, 2025, 139 Stat. 1669, provided that: “Not later than 90 days after the date of enactment of this Act [Dec. 18, 2025], and annually thereafter, the Commandant [of the Coast Guard] shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a detailed expenditure plan, including projected project timelines for each acquisition and procurement appropriated under [section 1181 of title 14](./chapter-011-acquisitions.md#section-1181), United States Code, and a list of project locations to be funded under such section.”
 
 
 <a id="section-5102"></a>
@@ -194,9 +197,9 @@ Pub. L. 99–640, § 15, Nov. 10, 1986, 100 Stat. 3552, provided that: “The Se
 
 <a id="section-5103"></a>
 ## § 5103. Major acquisitions
-**(a) In General.—** In conjunction with the transmittal by the President to Congress of the budget of the United States for fiscal year 2014 and biennially thereafter, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of all major acquisition programs.
+**(a) In General.—** In conjunction with the transmittal by the President to Congress of the budget of the United States for fiscal year 2014 and biennially thereafter, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of all Level 1 acquisitions or Level 2 acquisitions.
 
-**(b) Information To Be Included.—** Each report under subsection (a) shall include for each major acquisition program—
+**(b) Information To Be Included.—** Each report under subsection (a) shall include for each Level 1 acquisition or Level 2 acquisition—
 
 (1) a statement of the Coast Guard’s mission needs and performance goals relating to such program, including a justification for any change to those needs and goals subsequent to a report previously submitted under this section;
 
@@ -256,7 +259,11 @@ Pub. L. 99–640, § 15, Nov. 10, 1986, 100 Stat. 3552, provided that: “The Se
 
   (D) acquire, construct, or renovate shoreside infrastructure.
 
-**(f) Major Acquisition Program Defined.—** In this section, the term “major acquisition program” means an ongoing acquisition undertaken by the Coast Guard with a life-cycle cost estimate greater than or equal to $300,000,000.
+**(f) Definitions.—** In this section:
+
+(1) **Level 1 acquisition.—** — The term “Level 1 acquisition” has the meaning given such term in section 1171.
+
+(2) **Level 2 acquisition.—** — The term “Level 2 acquisition” has the meaning given such term in section 1171.
 
 ### Statutory Notes
 
@@ -264,6 +271,12 @@ Pub. L. 99–640, § 15, Nov. 10, 1986, 100 Stat. 3552, provided that: “The Se
 Section 1102(c), referred to in subsec. (c)(2), was, prior to amendment of this section by Pub. L. 115–282, a reference to [section 562(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section562/c&num=0&edition=prelim), which was redesignated as section 562(b) by Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(B), Dec. 23, 2016, 130 Stat. 2333. [Section 562 of this title](./chapter-005-functions-and-powers.md#section-562) was renumbered [section 1102 of this title](./chapter-011-acquisitions.md#section-1102) by Pub. L. 115–282, title I, § 108(b)(2), Dec. 4, 2018, 132 Stat. 4208.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 7112(a)(1), substituted “Level 1 acquisitions or Level 2 acquisitions” for “major acquisition programs”.
+
+Subsec. (b). Pub. L. 119–60, § 7112(a)(2), substituted “Level 1 acquisition or Level 2 acquisition” for “major acquisition program” in introductory provisions.
+
+Subsec. (f). Pub. L. 119–60, § 7112(a)(3), amended subsec. (f) generally. Prior to amendment, text read as follows: “In this section, the term ‘major acquisition program’ means an ongoing acquisition undertaken by the Coast Guard with a life-cycle cost estimate greater than or equal to $300,000,000.”
+
 2021—Subsec. (e)(3)(B) to (D). Pub. L. 116–283 added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
 2018—Pub. L. 115–282, § 122(b), renumbered [section 2903 of this title](./chapter-029-coast-guard-family-support-child-care-and-housing.md#section-2903) as this section.
@@ -385,24 +398,66 @@ Not later than the date on which the President submits to Congress a budget purs
 
 
 <a id="section-5107"></a>
-## § 5107. Major acquisition program risk assessment
-**(a) In General.—** Not later than October 15 of each year, the Commandant of the Coast Guard shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a briefing regarding a current assessment of the risks associated with all current major acquisition programs, as that term is defined in section 5103(f).
+## § 5107. Quarterly acquisition reports and major acquisition program risk assessment
+**(a) In General.—** Not later than 45 days after the end of each fiscal quarter, the Commandant shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a briefing on all Level 1 and Level 2 acquisition programs, as such terms are defined in section 1171.
 
-**(b) Elements.—** Each assessment under this subsection shall include, for each current major acquisition program, discussion of the following:
+**(b) Additional Briefing.—** Not later than 1 week before taking procurement actions that will significantly impact the costs or timelines of a Level 1 or Level 2 acquisition program, the Commandant shall brief the committees described in subsection (a).
 
-(1) The top five current risks to such program.
+**(c) Elements.—** Each briefing required under subsection (a) or (b) shall include, for each program—
 
-(2) Any failure of such program to demonstrate a key performance parameter or threshold during operational test and evaluation conducted during the previous fiscal year.
+(1) a description of the purpose of the program, including the capabilities being acquired;
 
-(3) Whether there has been any decision in such fiscal year to order full-rate production before all key performance parameters or thresholds are met.
+(2) the total number of units, as appropriate, to be acquired annually until procurement is complete under the current acquisition program baseline;
 
-(4) Whether there has been any breach of major acquisition program cost (as defined by the Major Systems Acquisition Manual) in such fiscal year.
+(3) the Acquisition Review Board status, including—
 
-(5) Whether there has been any breach of major acquisition program schedule (as so defined) during such fiscal year.
+  (A) the current acquisition phase by increment, as applicable;
+
+  (B) the date of the most recent review; and
+
+  (C) whether the program has been paused or is in breach status;
+
+(4) a comparison between the initial Department-approved acquisition program baseline cost, schedule, and performance thresholds and objectives and the current such thresholds and objectives of the program, if applicable;
+
+(5) the lifecycle cost estimate, adjusted for comparison to the Future Coast Guard Program, including—
+
+  (A) the confidence level for the estimate;
+
+  (B) the fiscal years included in the estimate;
+
+  (C) a breakout of the estimate for the prior five years, the current year, and the budget year;
+
+  (D) a breakout of the estimate by appropriation account or other funding source; and
+
+  (E) a description of and rationale for any changes to the estimate as compared to the previous quarter or to the previously approved baseline, as applicable;
+
+(6) a summary of the findings of any independent verification and validation of the items to be acquired or an explanation for why no such verification and validation has been performed;
+
+(7) a table displaying the obligation of all program funds by prior fiscal year, the estimated obligation of funds for the current fiscal year, and an estimate for the planned carryover of funds into the subsequent fiscal year;
+
+(8) a listing of prime contractors and major subcontractors; and
+
+(9) narrative descriptions of risks to cost, schedule, or performance that could result in a program breach if not successfully mitigated, including—
+
+  (A) the current risks to such program;
+
+  (B) any failure of such program to demonstrate a key performance parameter or threshold during operational test and evaluation conducted during the previous fiscal year;
+
+  (C) whether there has been any decision in such fiscal year to order full-rate production before all key performance parameters or thresholds are met;
+
+  (D) whether there has been any breach of major acquisition program cost (as such term is defined in the manual of the Coast Guard titled “Major Systems Acquisition Manual” (COMDTINST M5000.10C)) in such fiscal year; and
+
+  (E) whether there has been any breach of major acquisition program schedule (as such term is defined in the manual of the Coast Guard titled “Major Systems Acquisition Manual” (COMDTINST M5000.10C)) during such fiscal year.
+
+**(d) Memorandum Deadline.—** Not later than 5 business days after the date on which the Secretary approves an Acquisition Decision Memorandum for programs described in this section, the Commandant shall submit such memorandum to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Pub. L. 119–60, § 7113(a), amended section generally. Prior to amendmemnt, section related to major acquisition program risk assessment.
+
+Subsec. (a). Pub. L. 119–60, § 7112(b), substituted “section 1171” for “section 5103(f)”.
+
 2021—Subsec. (a). Pub. L. 116–283, § 8240(e)(1), substituted “October 15” for “April 15 and October 15”.
 
 Subsec. (b)(2). Pub. L. 116–283, § 8240(e)(2)(A), substituted “the previous fiscal year” for “the 2 fiscal-year quarters preceding such assessment”.
@@ -570,6 +625,9 @@ Pub. L. 111–281, title II, § 217, Oct. 15, 2010, 124 Stat. 2917, formerly set
 
 Subsec. (b)(5). Pub. L. 116–283, § 8501(a)(7)(B)(ii), added par. (5).
 
+#### Coast Guard Implementation of Independent Review Commission Recommendations on Addressing Sexual Assault and Sexual Harassment in the Military
+Pub. L. 119–60, div. G, title LXXV, § 7502, Dec. 18, 2025, 139 Stat. 1789, provided that: “(a) In General.—Not later than 180 days after the date of enactment of this Act [Dec. 18, 2025], the Commandant [of the Coast Guard] shall review the report of the Independent Review Commission titled ‘Hard Truths and the Duty to Change: Recommendations from the Independent Review Commission on Sexual Assault in the Military’ referred to in the memorandum of the Department of Defense titled ‘Memorandum for Senior Pentagon Leadership Commanders of the Combatant Commands Defense Agency and DoD Field Activity Directors’, dated September 22, 2021, (relating to commencing Department of Defense actions and implementation of the recommendations of the Independent Review Commission to address sexual assault and sexual harassment in the military). “(b) Strategy and Action Plan.—On completion of the review required under subsection (a), and not later than 1 year after the date of enactment of this Act, the Commandant [of the Coast Guard] shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a written and detailed strategy and a written and detailed action plan that—“(1)(A) identifies any recommendation set forth in the report by the Independent Review Commission described in subsection (a) that addresses a matter that is not within the jurisdiction of the Coast Guard, does not apply to the Coast Guard, or otherwise would not be beneficial to members of the Coast Guard, as determined by the Commandant [of the Coast Guard]; and “(B) includes a brief rationale for such determination; and “(2) with respect to each recommendation set forth in such report that is not identified under paragraph (1), includes—“(A)(i) a detailed action plan for implementation of the recommendation; “(ii) a description of changes the Commandant [of the Coast Guard] will make to associated Coast Guard policies so as to enable the implementation of the recommendation; “(iii) an estimated timeline for implementation of the recommendation; “(iv) the estimated cost of the implementation; “(v) legislative proposals for such implementation, as appropriate; and “(vi) any other information the Commandant [of the Coast Guard] considers appropriate; or “(B) in the case of such a recommendation that the Commandant [of the Coast Guard] is unable to implement, an explanation of the reason the recommendation cannot be implemented. “(c) Briefing.—Not later than 90 days after the date of enactment of this Act, and every 180 days thereafter through 2028, the Commandant [of the Coast Guard] shall provide the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives with a briefing on the status of the implementation of this section and any modification to the strategy and plan submitted under subsection (b).”
+
 
 <a id="section-5113"></a>
 ## § 5113. Officers not on active duty promotion list
@@ -635,3 +693,23 @@ The date of enactment of this section, referred to in text, is the date of enact
 (1) the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate; and
 
 (2) the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives.
+
+
+<a id="section-5116"></a>
+## § 5116. Status of overdue reports
+**(a) In General.—** Not later than 60 days after the date of enactment of this section, and not later than March 1 of each year thereafter, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the status of reports or briefings required under this chapter that have not been delivered to Congress.
+
+**(b) Contents.—** The report required under section (a) shall contain the following:
+
+(1) The status of each required report or briefing that has not been delivered to Congress, including the date the report or briefing is due, and if applicable, the number of days the Coast Guard has exceeded the required completion date.
+
+(2) A detailed written plan and timeline for the next steps to be taken to complete such outstanding reports or briefings.
+
+(3) The name, position, and agency of each Federal official responsible for writing, reviewing, editing, and approving the report, as well as the responsibility of such official in regard to the report, and how long that report has been under the responsibility with such Federal official after being received from the previous Federal official responsible.
+
+(4) The name of the flag officer responsible for the completion of each report or briefing.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.

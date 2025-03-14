@@ -420,15 +420,23 @@ George Bush.
 
 **(b) Special rules regarding pensions, etc.** In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a disaster, fire, or action described in subsection (a), the Secretary may specify a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this title. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
 
-**(c) Special rules for overpayments** The rules of section 7508(b) shall apply for purposes of this section.
+**(c) Special rule for State-declared disasters**
 
-**(d) Mandatory 60-day extension**
+(1) **In general** — The Secretary (after consultation with the Administrator of the Federal Emergency Management Agency) may, upon the written request of the Governor of a State (or the Mayor, in the case of the District of Columbia), apply the rules of subsections (a) and (b) to a qualified State declared disaster in the same manner as a disaster, fire, or action otherwise described in subsection (a).
+
+(2) **Qualified State declared disaster** — For purposes of this section, the term “qualified State declared disaster” means, with respect to any State, any natural catastrophe (including any hurricane, tornado, storm, high water, winddriven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, or drought), or, regardless of cause, any fire, flood, or explosion, in any part of the State, which in the determination of the Governor of such State (or the Mayor, in the case of the District of Columbia) causes damage of sufficient severity and magnitude to warrant the application of the rules of this section.
+
+(3) **State** — For purposes of this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+**(d) Special rules for overpayments** The rules of section 7508(b) shall apply for purposes of this section.
+
+**(e) Mandatory 120-day extension**
 
 (1) **In general** — In the case of any qualified taxpayer, the period—
 
   (A) beginning on the earliest incident date specified in the declaration to which the disaster area referred to in paragraph (2) relates, and
 
-  (B) ending on the date which is 60 days after the later of such earliest incident date described in subparagraph (A) or the date such declaration was issued,
+  (B) ending on the date which is 120 days after the later of such earliest incident date described in subparagraph (A) or the date such declaration was issued,
   shall be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such qualified taxpayer, whether any of the acts described in subparagraphs (A) through (F) of section 7508(a)(1) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date determined under subparagraph (B)).
 
 (2) **Qualified taxpayer** — For purposes of this subsection, the term “qualified taxpayer” means—
@@ -459,16 +467,30 @@ George Bush.
 
 (5) **Coordination with periods specified by the Secretary** — Any period described in paragraph (1) with respect to any person (including by reason of the application of paragraph (4)) shall be in addition to (or concurrent with, as the case may be) any period specified under subsection (a) or (b) with respect to such person.
 
-(6) **Multiple declarations** — For purposes of paragraph (1), in the case of multiple declarations relating to a disaster area which are issued within a 60-day period, a separate period shall be determined under such paragraph with respect to each such declaration.
+(6) **Multiple declarations** — For purposes of paragraph (1), in the case of multiple declarations relating to a disaster area which are issued within a 120-day period, a separate period shall be determined under such paragraph with respect to each such declaration.
 
-**(e) Significant fire** For purposes of this section, the term “significant fire” means any fire with respect to which assistance is provided under section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+**(f) 11 So in original. There are two subsecs. (f). Significant fire** For purposes of this section, the term “significant fire” means any fire with respect to which assistance is provided under section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+
+**(f) 1 Application to limitation on credit or refund** For purposes of section 6511(b)(2)(A), any period disregarded under this section with respect to the time prescribed for filing any return of tax shall be treated as an extension of time for filing such return.
 
 ### Statutory Notes
 
 #### References in Text
-Section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (e), is classified to [section 5187 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5187&num=0&edition=prelim), The Public Health and Welfare.
+Section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (f), is classified to [section 5187 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5187&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2025—Subsecs. (c), (d), Pub. L. 119–29, § 2(a), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 119–29, § 2(a), (b)(3), redesignated subsec. (d) as (e) and substituted “120-day” for “60-day” in heading. Former subsec. (e) redesignated (f).
+
+Subsec. (e)(1)(B). Pub. L. 119–29, § 2(b)(1), substituted “120 days” for “60 days”.
+
+Subsec. (e)(6). Pub. L. 119–29, § 2(b)(2), substituted “120-day” for “60-day”.
+
+Subsec. (f). Pub. L. 119–64 added subsec. (f), relating to application to limitation on credit or refund.
+
+Pub. L. 119–29, § 2(a), redesignated subsec. (e) as (f), defining “significant fire”.
+
 2021—Pub. L. 117–58, § 80504(b)(1), substituted “Federally declared disaster, significant fire,” for “Presidentially declared disaster” in section catchline.
 
 Subsec. (a). Pub. L. 117–58, § 80504(a)(1), which directed insertion of “, a significant fire,” after “federally declared disaster (as defined in section 165(i)(5)(A))”, was executed by making the insertion after “federally declared disaster (as defined by section 165(i)(5)(A))” in introductory provisions, to reflect the probable intent of Congress.
@@ -496,6 +518,11 @@ Subsec. (e). Pub. L. 117–58, § 80504(a)(3), added subsec. (e).
 2002—Pub. L. 107–134 amended section catchline and text generally, substituting present provisions for provisions which had: in subsec. (a), authorized Secretary to postpone certain tax-related deadlines by reason of presidentially declared disaster, and in subsec. (b), provided that subsec. (a) would not apply for the purpose of determining interest on any overpayment or underpayment.
 
 2001—Subsec. (a). Pub. L. 107–16 substituted “120 days” for “90 days” in introductory provisions.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–64, § 2(a)(2), Dec. 26, 2025, 139 Stat. 1984, provided that: “The amendment made by this subsection [amending this section] shall apply to claims filed after the date of the enactment of this Act [Dec. 26, 2025].”
+
+Pub. L. 119–29, § 2(c), July 24, 2025, 139 Stat. 472, provided that: “The amendments made by this section [amending this section] shall apply to declarations made after the date of the enactment of this Act [July 24, 2025].”
 
 #### Effective Date of 2021 Amendment
 Pub. L. 117–58, div. H, title V, § 80501(b), Nov. 15, 2021, 135 Stat. 1335, provided that: “The amendment made by this section [amending this section] shall apply to federally declared disasters declared after the date of enactment of this Act [Nov. 15, 2021].”

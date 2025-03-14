@@ -1342,7 +1342,7 @@ Section effective on the earlier of 18 months after May 20, 2009, or 3 months af
 ### Statutory Notes
 
 #### References in Text
-The McKinney-Vento Homeless Assistance Act, referred to in subsecs. (a)(1), (2), and (c)(1), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title IV of the Act is classified generally to part B (§ 11371 et seq.) of this subchapter. Subtitle C of title IV of the Act is classified generally to part C (§ 11381 et seq.) of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of this title](./chapter-119-homeless-assistance.md#section-11301) and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsecs. (a)(1), (2) and (c)(1), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title IV of the Act is classified generally to part B (§ 11371 et seq.) of this subchapter. Subtitle C of title IV of the Act is classified generally to part C (§ 11381 et seq.) of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of this title](./chapter-119-homeless-assistance.md#section-11301) and Tables.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
@@ -2776,7 +2776,7 @@ For provisions relating to definition of “local government” as used in this 
 ### Statutory Notes
 
 #### References in Text
-The Housing Act of 1949, referred to in subsecs. (a) and (c)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
+The Housing Act of 1949, referred to in subsecs. (a) and (c)(2), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
 
 
 <a id="section-11411"></a>
@@ -3638,7 +3638,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 ### Statutory Notes
 
 #### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 11433, Pub. L. 100–77, title VII, § 723, as added Pub. L. 103–382, title III, § 323, Oct. 20, 1994, 108 Stat. 3962, related to local educational agency grants for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 107–110.

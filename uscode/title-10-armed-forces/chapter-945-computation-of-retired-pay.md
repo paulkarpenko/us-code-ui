@@ -16,7 +16,7 @@ source: >-
 
   (B) the retired pay multiplier prescribed in [section 1409 of this title](./chapter-071-computation-of-retired-pay.md#section-1409) for the number of years credited to the member under [section 1405 of this title](./chapter-071-computation-of-retired-pay.md#section-1405).
 
-(2) **Additional 10 percent for certain enlisted members credited with extraordinary heroism.—** — If a member who is retired under [section 9314 of this title](./chapter-941-retirement-for-length-of-service.md#section-9314) has been credited by the Secretary of the Air Force with extraordinary heroism in the line of duty, the member’s retired pay shall be increased by 10 percent of the amount determined under paragraph (1) (but to not more than 75 percent of the retired pay base upon which the computation of such retired pay is based). The Secretary’s determination as to extraordinary heroism is conclusive for all purposes.
+(2) **Additional 10 percent for certain enlisted members credited with extraordinary heroism.—** — If a member who is retired under [section 9314 of this title](./chapter-941-retirement-for-length-of-service.md#section-9314) has been credited by the Secretary of the Air Force with extraordinary heroism in the line of duty, the member’s retired pay shall be increased by 10 percent of the amount determined under paragraph (1) (but to not more than 75 percent of the retired pay base upon which the computation of such retired pay is based (except in the case of a member who served during the Vietnam era, as that term is defined in [section 12731 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12731))). The Secretary’s determination as to extraordinary heroism is conclusive for all purposes.
 
 **(b) General Rules.—**
 
@@ -65,6 +65,10 @@ The change corrects a cross-reference error.
 A prior section 9361 was renumbered [section 9461 of this title](./chapter-953-united-states-air-force-academy.md#section-9461).
 
 #### Amendments
+2025—Subsec. (a)(2). Pub. L. 119–60 substituted “Vietnam era” for “Vietnam Era”.
+
+2024—Subsec. (a)(2). Pub. L. 118–159 inserted “(except in the case of a member who served during the Vietnam Era, as that term is defined in [section 12731 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12731))” after “is based”.
+
 2018—Pub. L. 115–232, § 806(b)(15), renumbered [section 8991 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8991&num=0&edition=prelim) as this section.
 
 Subsec. (a)(2). Pub. L. 115–232, § 809(a), substituted “section 9314” for “section 8914”.

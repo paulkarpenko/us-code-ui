@@ -827,7 +827,7 @@ Section 1. The functions of the President of submitting certain recurring report
 
 1. Report on Foreign Economic Collection and Industrial Espionage, consistent with section 809(b) of Public Law 103–359 ([former] 50 U.S.C. App. 2170[b](b)); and
 
-2. Reports on Commerce With, and Assistance to, Cuba from Other Foreign Countries, consistent with section 108(a) of Public Law 104–114 ([22 U.S.C. 6038(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6038/a&num=0&edition=prelim)).
+2. Reports on Commerce With, and Assistance to, Cuba from Other Foreign Countries, consistent with section 108(a) of Public Law 104–114 ([former] [22 U.S.C. 6038(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6038/a&num=0&edition=prelim)).
 
 (f) The Director of National Drug Control Policy shall submit the Report on Support for Plan Colombia, consistent with section 3204(e) of Public Law 106–246 [114 Stat. 576].
 

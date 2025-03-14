@@ -585,7 +585,19 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 ## § 3107. Individualized vocational rehabilitation plan
 **(a)** The Secretary shall formulate an individualized written plan of vocational rehabilitation for a veteran described in [section 3106(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3106/b&num=0&edition=prelim). Such plan shall be developed with such veteran and shall include, but not be limited to (1) a statement of long-range rehabilitation goals for such veteran and intermediate rehabilitation objectives related to achieving such goals, (2) a statement of the specific services (which shall include counseling in all cases) and assistance to be provided under this chapter, (3) the projected date for the initiation and the anticipated duration of each such service, and (4) objective criteria and an evaluation procedure and schedule for determining whether such objectives and goals are being achieved.
 
-**(b)** The Secretary shall review at least annually the plan formulated under subsection (a) of this section for a veteran and shall afford such veteran the opportunity to participate in each such review. On the basis of such review, the Secretary shall (1) redevelop such plan with such veteran if the Secretary determines, under regulations which the Secretary shall prescribe, that redevelopment of such plan is appropriate, or (2) disapprove redevelopment of such plan if the Secretary determines, under such regulations, that redevelopment of such plan is not appropriate.
+**(b)**
+
+(1) The Secretary shall review at least annually the plan formulated under subsection (a) of this section for a veteran and shall afford such veteran the opportunity to participate in each such review.
+
+(2) On the basis of such review, the Secretary shall—
+
+  (A) redevelop such plan with such veteran if the Secretary determines the achievement of the long-range rehabilitation goals for such veteran is—
+
+    (i) no longer feasible due to changes in the employment handicap of the veteran; and
+
+    (ii) likelier under a different plan formulated under subsection (a); or
+
+  (B) disapprove redevelopment of such plan if the Secretary determines such redevelopment is not appropriate.
 
 **(c)**
 
@@ -601,6 +613,8 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 Prior section 3107 was renumbered [section 5307 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5307).
 
 #### Amendments
+2026—Subsec. (b). Pub. L. 119–72 designated existing provisions as par. (1), struck out at end “On the basis of such review, the Secretary shall (1) redevelop such plan with such veteran if the Secretary determines, under regulations which the Secretary shall prescribe, that redevelopment of such plan is appropriate, or (2) disapprove redevelopment of such plan if the Secretary determines, under such regulations, that redevelopment of such plan is not appropriate.”, and added par. (2).
+
 1996—Subsec. (c)(2). Pub. L. 104–275 substituted “3106(f)” for “3106(e)”.
 
 1991—Pub. L. 102–83, § 5(a), renumbered [section 1507 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1507) as this section.

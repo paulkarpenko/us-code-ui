@@ -456,10 +456,10 @@ For delegation of functions of President under this section to the Secretary of 
 
 
 <a id="section-9412"></a>
-## § 9412. Report and annual briefing on Iranian expenditures supporting foreign military and terrorist activities
-**(a) Report**
+## § 9412. Report on Iranian expenditures supporting foreign military and terrorist activities
+**(a) 11 So in original. There is no subsec. (b). Report**
 
-(1) **Report required** — Not later than 90 days after December 20, 2019, the Director of National Intelligence shall submit to the congressional intelligence committees a report, and not less frequently than once each year thereafter provide a briefing to Congress, describing Iranian expenditures in the previous calendar year on military and terrorist activities outside the country, including each of the following:
+(1) **Report required** — Not later than 90 days after December 20, 2019, the Director of National Intelligence shall submit to the congressional intelligence committees a report describing Iranian expenditures in the previous calendar year on military and terrorist activities outside the country, including each of the following:
 
   (A) The amount spent in such calendar year on activities by the Islamic Revolutionary Guard Corps, including activities providing support for—
 
@@ -477,12 +477,20 @@ For delegation of functions of President under this section to the Secretary of 
 
 (2) **Form** — The report required under subsection (a) 11 So in original. Probably should be “paragraph (1)”. shall be submitted in unclassified form, but may include a classified annex.
 
-**(b) Annual briefing** Following the submission of the report under subsection (a), the Director shall annually provide a briefing to the congressional intelligence committees on the information described in such subsection.
-
 ### Statutory Notes
 
 #### Codification
 Section was enacted as part of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018, 2019, and 2020, and also as part of the National Defense Authorization Act for Fiscal Year 2020, and not as part of the Countering Iran’s Destabilizing Activities Act of 2017 which comprises this chapter.
+
+#### Amendments
+2025—Pub. L. 119–60, § 6801(b)(4)(A), struck out “and annual briefing” before “on Iranian expenditures” in section catchline.
+
+Subsec. (b). Pub. L. 119–60, § 6801(b)(4)(B), struck out subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “Following the submission of the report under subsection (a), the Director shall annually provide a briefing to the congressional intelligence committees on the information described in such subsection.”
+
+2024—Subsec. (a)(1). Pub. L. 118–159 struck out “, and not less frequently than once each year thereafter provide a briefing to Congress,” after “a report” in introductory provisions.
+
+#### Continued Congressional Oversight of Iranian Expenditures Supporting Foreign Military and Terrorist Activities
+Pub. L. 118–159, div. F, title LXIV, § 6436, Dec. 23, 2024, 138 Stat. 2492, provided that: “(a) Definition of Appropriate Committees of Congress.—In this section, the term ‘appropriate committees of Congress’ means—“(1) the congressional intelligence committees [Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives]; “(2) the Committee on Foreign Relations, the Committee on the Judiciary, and the Committee on Appropriations of the Senate; and “(3) the Committee on Foreign Affairs, the Committee on the Judiciary, and the Committee on Appropriations of the House of Representatives. “(b) Update Required.—Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2024], the Director of National Intelligence shall submit to the appropriate committees of Congress an update to the report submitted under section 6705 of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018, 2019, and 2020 ([22 U.S.C. 9412](./chapter-101-countering-irans-destabilizing-activities.md#section-9412)) to reflect current occurrences, circumstances, and expenditures. “(c) Form.—The update submitted pursuant to subsection (b) shall be submitted in unclassified form, but may include a classified annex.”
 
 #### Definitions
 “Congressional intelligence committees” means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives, see section 5003 of Pub. L. 116–92, set out as a note under [section 3003 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim), War and National Defense.

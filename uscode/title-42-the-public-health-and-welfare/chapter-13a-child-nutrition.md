@@ -61,7 +61,7 @@ Pub. L. 89–642, § 1, Oct. 11, 1966, 80 Stat. 885, provided: “That this Act 
 ### Statutory Notes
 
 #### References in Text
-The Richard B. Russell National School Lunch Act, referred to in subsecs. (a)(1), (2), (5), (b), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751) and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsecs. (a)(1), (2), (5) and (b), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751) and Tables.
 
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
@@ -505,15 +505,17 @@ The Secretary shall certify to the Secretary of the Treasury from time to time t
 
       (I) to ensure program compliance and integrity; and
 
-      (II) to demonstrate competence in the training provided under clause (i).
+      (II) to demonstrate competence in the training provided under clauses (i) and (iii).
 
     (iii) *Training modules* — In addition to the topics described in clause (i), a training program carried out under this subparagraph shall include training modules on—
 
       (I) nutrition;
 
-      (II) health and food safety standards and methodologies; and
+      (II) food allergies, including information on the best practices to prevent, recognize, and respond to food-related allergic reactions;
 
-      (III) any other appropriate topics, as determined by the Secretary.
+      (III) health and food safety standards and methodologies; and
+
+      (IV) any other appropriate topics, as determined by the Secretary.
 
 (3) **Funding**
 
@@ -588,6 +590,10 @@ The Child Nutrition and WIC Reauthorization Act of 2004, referred to in subsec. 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2026—Subsec. (g)(2)(B)(ii)(II). Pub. L. 119–69, § 3(b), substituted “clauses (i) and (iii)” for “clause (i)”.
+
+Subsec. (g)(2)(B)(iii)(II) to (IV). Pub. L. 119–69, § 3(a), added subcl. (II) and redesignated former subcls. (II) and (III) as (III) and (IV), respectively.
+
 2010—Subsec. (a)(1). Pub. L. 111–296, § 441(b)(1), substituted “Each fiscal year” for “Except as provided in subparagraph (B), each fiscal year” in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “In the case of each of fiscal years 2005 through 2007, the Secretary shall make available to each State for administrative costs not less than the initial allocation made to the State under this subsection for fiscal year 2004.”
 
 Subsec. (g). Pub. L. 111–296, § 306, added subsec. (g) and struck out former subsec. (g) which required each State to provide, at least annually, training in administrative practices, with emphasis on the requirements established by the Child Nutrition and WIC Reauthorization Act of 2004, and set out the Federal role and procedures for required participation.
@@ -848,7 +854,7 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 **(b) Inclusion of assistance in determining income or resources** The value of assistance to children under this chapter shall not be considered to be income or resources for any purpose under any Federal or State laws including, but not limited to, laws relating to taxation, welfare, and public assistance programs. Expenditures of funds from State and local sources for the maintenance of food programs for children shall not be diminished as a result of funds received under this chapter.
 
-**(c) Federal law not applicable** [Section 1693r of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1693r&num=0&edition=prelim) shall not apply to electronic benefit transfer systems established under this chapter or the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.).
+**(c) Federal law not applicable** Section 1693o–2 of title 15 shall not apply to electronic benefit transfer systems established under this chapter or the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.).
 
 ### Statutory Notes
 
@@ -883,7 +889,7 @@ Authority for the conduct and supervision of Federal programs to assist schools 
 ### Statutory Notes
 
 #### References in Text
-The Richard B. Russell National School Lunch Act, referred to in text, is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751) and Tables.
+The Richard B. Russell National School Lunch Act, referred to in text, is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751) and Tables.
 
 #### Amendments
 1999—Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.

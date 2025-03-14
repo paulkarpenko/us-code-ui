@@ -36,15 +36,13 @@ source: >-
 
   (A) in advance of—
 
-    (i) any decision to grant milestone approval pursuant to section 4251 or 4252 of this title;
+    (i) any decision to grant milestone approval pursuant to [section 4252 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4252);
 
     (ii) any decision to enter into low-rate initial production or full-rate production;
 
-    (iii) any certification under [section 4376 of this title](./chapter-325-cost-growth-unit-cost-reports-nunn-mccurdy.md#section-4376);
+    (iii) any certification under [section 4376 of this title](./chapter-325-cost-growth-unit-cost-reports-nunn-mccurdy.md#section-4376); and
 
-    (iv) any report under section 2445c(f) 11 See References in Text note below. of this title; and
-
-    (v) any decision to enter into a contract in connection with a military construction project of a value greater than $500,000,000; and
+    (iv) any decision to enter into a contract in connection with a military construction project of a value greater than $500,000,000; and
 
   (B) at any other time considered appropriate by the Director, upon the request of the Under Secretary of Defense for Acquisition and Sustainment, or upon the request of the milestone decision authority;
 
@@ -56,9 +54,6 @@ source: >-
 
 ### Statutory Notes
 
-#### References in Text
-[Section 2445c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445c&num=0&edition=prelim), referred to in subsec. (b)(6)(A)(iv), was repealed by Pub. L. 114–328, div. A, title VIII, § 846(1), Dec. 23, 2016, 130 Stat. 2292.
-
 #### Codification
 The text of subsec. (a) of [section 2334 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2334&num=0&edition=prelim), which was transferred to this section, redesignated as subsecs. (a) and (b), and amended by Pub. L. 116–283, § 1812(b)(1), (2), was based on Pub. L. 111–23, title I, § 101(b)(1), May 22, 2009, 123 Stat. 1706; Pub. L. 113–66, div. A, title VIII, § 812(c)(1), Dec. 26, 2013, 127 Stat. 808; Pub. L. 114–92, div. A, title VIII, § 824(b), Nov. 25, 2015, 129 Stat. 907; Pub. L. 114–328, div. A, title VIII, §§ 842(a)(1), (2), (b)(1), (2), 846(3), Dec. 23, 2016, 130 Stat. 2288, 2289, 2292; Pub. L. 115–91, div. A, title X, § 1081(a)(31), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title IX, § 902(53), Dec. 20, 2019, 133 Stat. 1549.
 
@@ -68,6 +63,10 @@ The text of subsec. (h) of [section 2334 of this title](https://uscode.house.gov
 A prior section 3221, act Aug. 10, 1956, ch. 1041, 70A Stat. 176, related to authorized strength of Army Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See [section 12001 of this title](./chapter-1201-authorized-strengths-and-distribution-in-grade.md#section-12001).
 
 #### Amendments
+2024—Subsec. (b)(6)(A)(i). Pub. L. 118–159, § 806(b)(2), struck out “4251 or” before “4252 of this title”.
+
+Subsec. (b)(6)(A)(iv), (v). Pub. L. 118–159, § 1701(a)(35), redesignated cl. (v) as (iv) and struck out former cl. (iv) which read as follows: “any report under [section 2445c(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445c/f&num=0&edition=prelim); and”.
+
 2022—Subsec. (b)(6)(A)(v). Pub. L. 117–263 added cl. (v).
 
 2021—Subsec. (a). Pub. L. 116–283, § 1812(b)(1), transferred subsec. (a) of [section 2334 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2334&num=0&edition=prelim) to this section.
@@ -102,11 +101,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 <a id="section-3222"></a>
 ## § 3222. Independent cost estimate required before approval
-**(a) Requirement.—** A milestone decision authority may not approve entering a milestone phase of a major defense acquisition program or major subprogram unless an independent cost estimate has been conducted or approved by the Director of Cost Assessment and Program Evaluation and considered by the milestone decision authority that—
-
-(1) for the technology maturation and risk reduction phase, includes the identification and sensitivity analysis of key cost drivers that may affect life-cycle costs of the program or subprogram; and
-
-(2) for the engineering and manufacturing development phase, or production and deployment phase, includes a cost estimate of the full life-cycle cost of the program or subprogram.
+**(a) Requirement.—** A milestone decision authority may not approve entering the engineering and manufacturing development phase, or production and deployment phase, of a major defense acquisition program or major subprogram unless an independent cost estimate has been conducted or approved by the Director of Cost Assessment and Program Evaluation and considered by the milestone decision authority that includes a cost estimate of the full life-cycle cost of the program or subprogram.
 
 **(b) Regulations.—** The regulations governing the content and submission of independent cost estimates required by [section 3221 of this title](./chapter-222-independent-cost-estimation-and-cost-analysis.md#section-3221) shall require that the independent cost estimate of the full life-cycle cost of a program or subprogram include—
 
@@ -123,6 +118,10 @@ The text of subsec. (b) of [section 2334 of this title](https://uscode.house.gov
 A prior section 3222, act Aug. 10, 1956, ch. 1041, 70A Stat. 176; Pub. L. 96–513, title V, § 502(7), Dec. 12, 1980, 94 Stat. 2909, related to authorized strength of Army Reserve, exclusive of members on active duty, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See [section 12002(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12002/a&num=0&edition=prelim).
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159, § 806(b)(3)(B), which directed substitution of “authority that includes a cost estimate” for “authority that—” in introductory provisions, par. (1), and “(2) for the for the engineering and manufacturing development phase, or production and deployment phase, includes a cost estimate”, was executed by making the substitution for “authority that—” in introductory provisions, par. (1), and “(2) for the engineering and manufacturing development phase, or production and deployment phase, includes a cost estimate”, to reflect the probable intent of Congress.
+
+Pub. L. 118–159, § 806(b)(3)(A), substituted “the engineering and manufacturing development phase, or production and deployment phase,” for “a milestone phase” in introductory provisions.
+
 2021—Subsec. (a). Pub. L. 116–283, § 1812(c)(1), (2)(A), (D), redesignated subsec. (b) of [section 2334 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2334&num=0&edition=prelim) as subsec. (a) of this section, substituted “Requirement” for “Independent Cost Estimate Required Before Approval” in heading, struck out par. (1) designation before “A milestone”, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
 Subsec. (b). Pub. L. 116–283, § 1812(c)(2)(B)–(D), redesignated subsec. (a)(2) as (b), inserted heading, substituted “[section 3221 of this title](./chapter-222-independent-cost-estimation-and-cost-analysis.md#section-3221)” for “subsection (a)” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
@@ -203,12 +202,9 @@ The Director of Cost Assessment and Program Evaluation, and the Secretary of the
 
   (A) in any decision documentation approving a cost estimate within the baseline description or any other cost estimate for use at any event specified in [section 3221(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3221/b/6&num=0&edition=prelim); and
 
-  (B) in the next Selected Acquisition Report pursuant to [section 4351 of this title](./chapter-324-selected-acquisition-reports.md#section-4351) in the case of a major defense acquisition program or major subprogram, or the next quarterly report pursuant to section 2445c 11 See References in Text note below. of this title in the case of a major automated information system program.
+  (B) in the next Selected Acquisition Report pursuant to [section 4351 of this title](./chapter-324-selected-acquisition-reports.md#section-4351) in the case of a major defense acquisition program or major subprogram.
 
 ### Statutory Notes
-
-#### References in Text
-[Section 2445c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445c&num=0&edition=prelim), referred to in par. (3)(B), was repealed by Pub. L. 114–328, div. A, title VIII, § 846(1), Dec. 23, 2016, 130 Stat. 2292.
 
 #### Codification
 The text of subsec. (e) of [section 2334 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2334&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1812(f), was based on Pub. L. 111–23, title I, § 101(b)(1), May 22, 2009, 123 Stat. 1706; Pub. L. 111–383, div. A, title VIII, § 811(1), Jan. 7, 2011, 124 Stat. 4263; Pub. L. 114–328, div. A, title VIII, § 842(a)(3), (6), (b)(5), Dec. 23, 2016, 130 Stat. 2288–2290.
@@ -217,6 +213,8 @@ The text of subsec. (e) of [section 2334 of this title](https://uscode.house.gov
 A prior section 3225, act Aug. 10, 1956, ch. 1041, 70A Stat. 177; Pub. L. 96–513, title V, § 502(7), Dec. 12, 1980, 94 Stat. 2909; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to authorized strength of Army National Guard and Army National Guard of United States, exclusive of members on active duty, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See [section 12002 of this title](./chapter-1201-authorized-strengths-and-distribution-in-grade.md#section-12002).
 
 #### Amendments
+2024—Par. (3)(B). Pub. L. 118–159 struck out “, or the next quarterly report pursuant to [section 2445c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445c&num=0&edition=prelim) in the case of a major automated information system program” before period at end.
+
 2021—Pub. L. 116–283, § 1812(f)(1), (2)(A), transferred subsec. (e) of [section 2334 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2334&num=0&edition=prelim) to this section and struck out subsec. (e) designation and heading “Discussion of Risk in Cost Estimates” at beginning.
 
 Par. (3)(A). Pub. L. 116–283, § 1812(f)(2)(B), substituted “[section 3221(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3221/b/6&num=0&edition=prelim)” for “subsection (a)(6)”.
@@ -242,17 +240,13 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 (1) Funds that are made available for a major defense acquisition program or major subprogram in accordance with a cost estimate conducted pursuant to [section 3221(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3221/b/6&num=0&edition=prelim), but are excess to a cost analysis or target developed pursuant to subsection (b), shall remain available for obligation in accordance with the terms of applicable authorization and appropriations Acts.
 
-(2) Funds described in paragraph (1)—
+(2) Funds described in paragraph (1) may be used—
 
-  (A) may be used—
+  (A) to cover any increased program costs identified by a revised cost analysis or target developed pursuant to subsection (b);
 
-    (i) to cover any increased program costs identified by a revised cost analysis or target developed pursuant to subsection (b);
+  (B) to acquire additional end items in accordance with [section 3069 of this title](./chapter-203-general-matters.md#section-3069); or
 
-    (ii) to acquire additional end items in accordance with the requirements of [section 3069 of this title](./chapter-203-general-matters.md#section-3069); or
-
-    (iii) to cover the cost of risk reduction and process improvements; and
-
-  (B) may be reprogrammed, in accordance with established procedures, only if determined to be excess to program needs on the basis of a cost estimate developed with the concurrence of the Director of Cost Assessment and Program Evaluation.
+  (C) to cover the cost of risk reduction and process improvements.
 
 ### Statutory Notes
 
@@ -260,6 +254,18 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 The text of subsec. (f) of [section 2334 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2334&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1812(g), was based on Pub. L. 111–383, div. A, title VIII, § 811(3), Jan. 7, 2011, 124 Stat. 4263; Pub. L. 112–81, div. A, title VIII, § 833, Dec. 31, 2011, 125 Stat. 1506; Pub. L. 114–328, div. A, title VIII, § 842(a)(3), (b)(3), (6), Dec. 23, 2016, 130 Stat. 2288–2290; Pub. L. 116–92, div. A, title IX, § 902(53), Dec. 20, 2019, 133 Stat. 1549.
 
 #### Amendments
+2025—Subsec. (d)(2). Pub. L. 119–60 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Funds described in paragraph (1)—
+
+“(A) may be used—
+
+“(i) to cover any increased program costs identified by a revised cost analysis or target developed pursuant to subsection (b);
+
+“(ii) to acquire additional end items in accordance with the requirements of [section 3069 of this title](./chapter-203-general-matters.md#section-3069); or
+
+“(iii) to cover the cost of risk reduction and process improvements; and
+
+“(B) may be reprogrammed, in accordance with established procedures, only if determined to be excess to program needs on the basis of a cost estimate developed with the concurrence of the Director of Cost Assessment and Program Evaluation.”
+
 2021—Subsec. (a). Pub. L. 116–283, § 1812(g)(1), (2)(A), (B), redesignated subsec. (f) of [section 2334 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2334&num=0&edition=prelim) as subsec. (a) of this section, substituted “Cost Estimates Developed for Specified Purposes Not to Be Used for Contract Negotiations or Obligation of Funds” for “Estimates for Program Baseline and Analyses and Targets for Contract Negotiation Purposes” in heading, struck out par. (1) designation before “The policies,”, and substituted “[section 3221 of this title](./chapter-222-independent-cost-estimation-and-cost-analysis.md#section-3221)” for “subsection (a)” and “subsection (b)(6) of such section” for “subsection (a)(6)”. Pars. (2), (3), (4), and (5) of subsec. (a) redesignated subsecs. (b), (c), (d)(1), and (d)(2), respectively.
 
 Subsec. (b). Pub. L. 116–283, § 1812(g)(2)(C), redesignated subsec. (a)(2) as (b) and inserted heading.
@@ -280,7 +286,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 ## § 3227. Guidelines and collection method for acquisition of cost data
 **(a) Director of Cape to Develop Guidelines and Collection Method.—** The Director of Cost Assessment and Program Evaluation shall, in consultation with the Under Secretary of Defense for Acquisition and Sustainment, develop policies, procedures, guidance, and a collection method to ensure that quality acquisition cost data are collected to facilitate cost estimation and comparison across acquisition programs.
 
-**(b) Applicability to Acquisition Programs in Amount Greater Than Specified Threshold.—** The program manager and contracting officer for each acquisition program in an amount greater than $100,000,000, in consultation with the cost estimating component of the relevant military department or Defense Agency, shall ensure that cost data are collected in accordance with the requirements of subsection (a).
+**(b) Applicability to Acquisition Programs in Amount Greater Than Specified Threshold.—** The program manager and contracting officer for each acquisition program in an amount greater than an amount described in [section 3041(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3041/c/1&num=0&edition=prelim), in consultation with the cost estimating component of the relevant military department or Defense Agency, shall ensure that cost data are collected in accordance with the requirements of subsection (a).
 
 **(c) Limitation on Waiver Authority.—** The requirement under subsection (a) may be waived only by the Director of Cost Assessment and Program Evaluation.
 
@@ -293,6 +299,8 @@ The text of subsec. (g) of [section 2334 of this title](https://uscode.house.gov
 A prior section 3230, added Pub. L. 85–861, § 1(69)(B), Sept. 2, 1958, 72 Stat. 1464, provided that members of Army who are detailed for duty with agencies of United States outside Department of Defense on a reimbursable basis not be counted in computing strengths under any law, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
 
 #### Amendments
+2024—Subsec. (b). Pub. L. 118–159 substituted “an amount described in [section 3041(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3041/c/1&num=0&edition=prelim)” for “$100,000,000”.
+
 2021—Subsec. (a). Pub. L. 116–283, § 1812(h)(1), (2)(A), redesignated subsec. (g) of [section 2334 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2334&num=0&edition=prelim) as subsec. (a) of this section, substituted “Director of Cape to Develop Guidelines and Collection Method” for “Guidelines and Collection of Cost Data” in heading, and struck out par. (1) designation before “The Director”. Amendment striking heading was executed to reflect the probable intent of Congress notwithstanding error in formatting of text. Pars. (2) and (3) of subsec. (a) redesignated subsecs. (b) and (c), respectively.
 
 Subsec. (b). Pub. L. 116–283, § 1812(h)(2)(B), redesignated subsec. (a)(2) as (b), inserted heading, and substituted “subsection (a)” for “paragraph (1)”.

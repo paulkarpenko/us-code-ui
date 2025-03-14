@@ -2,7 +2,7 @@
 title: 51
 heading: NATIONAL AND COMMERCIAL SPACE PROGRAMS
 positive_law: true
-sections: 247
+sections: 249
 chapters: 35
 ---
 # Title 51. NATIONAL AND COMMERCIAL SPACE PROGRAMS

@@ -88,6 +88,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 #### Prior Provisions
 A prior section 2 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
+#### Short Title of 2025 Amendment
+Pub. L. 119–58, § 1, Dec. 18, 2025, 139 Stat. 714, provided that: “This Act [amending sections 7111 to 7113, 7125, 7126, 7128, and 7144 of this title] may be cited as the ‘Secure Rural Schools Reauthorization Act of 2025’.”
+
 #### Short Title
 Pub. L. 106–393, § 1, as added by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893, provided that: “This Act [enacting this chapter, amending [section 191 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section191&num=0&edition=prelim), Mineral Lands and Mining, and [section 6903 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6903&num=0&edition=prelim), Money and Finance, enacting provisions set out as notes under sections 181 and 191 of Title 30, and repealing provisions set out as notes under [section 500 of this title](./chapter-002-national-forests.md#section-500) and former [section 1181f of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1181f&num=0&edition=prelim), Public Lands] may be cited as the ‘Secure Rural Schools and Community Self-Determination Act of 2000’.”
 
@@ -235,13 +238,13 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 <a id="section-7113"></a>
 ## § 7113. Secure payments for States containing Federal land
-**(a) State payment** For each of fiscal years 2008 through 2015 and 2017 through 2023, the Secretary of Agriculture shall calculate for each eligible State an amount equal to the sum of the products obtained by multiplying—
+**(a) State payment** For each of fiscal years 2008 through 2015 and 2017 through 2026, the Secretary of Agriculture shall calculate for each eligible State an amount equal to the sum of the products obtained by multiplying—
 
 (1) the adjusted share for each eligible county within the eligible State; by
 
 (2) the full funding amount for the fiscal year.
 
-**(b) County payment** For each of fiscal years 2008 through 2015 and 2017 through 2023, the Secretary of the Interior shall calculate for each eligible county that received a 50-percent payment during the eligibility period an amount equal to the product obtained by multiplying—
+**(b) County payment** For each of fiscal years 2008 through 2015 and 2017 through 2026, the Secretary of the Interior shall calculate for each eligible county that received a 50-percent payment during the eligibility period an amount equal to the product obtained by multiplying—
 
 (1) the 50-percent adjusted share for the eligible county; by
 
@@ -261,12 +264,24 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 (3) **Prompt payment** — Not later than 45 days after March 23, 2018, the Secretary of the Treasury shall make all payments under this subchapter for fiscal year 2017.
 
+**(e) Special rule for fiscal year 2024 and 2025 payments**
+
+(1) **State payment** — If an eligible county in a State that will receive a share of the State payment for fiscal year 2024 or 2025 has already received, or will receive, a share of the 25-percent payment for that fiscal year distributed to the State before December 18, 2025, the amount of the State payment shall be reduced by the amount of the share of the eligible county of the 25-percent payment.
+
+(2) **County payment** — If an eligible county that will receive a county payment for fiscal year 2024 or 2025 has already received a 50-percent payment for that fiscal year, the amount of the county payment shall be reduced by the amount of the 50-percent payment.
+
+(3) **Prompt payment** — Not later than 45 days after December 18, 2025, the Secretary of the Treasury shall make all payments under this subchapter for each of fiscal years 2024 and 2025.
+
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 101 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2025—Subsecs. (a), (b). Pub. L. 119–58, § 2(a)(1)(A), substituted “2026” for “2023” in introductory provisions.
+
+Subsec. (e). Pub. L. 119–58, § 2(a)(1)(B), added subsec. (e).
+
 2021—Subsecs. (a), (b). Pub. L. 117–58 substituted “2015 and 2017 through 2023” for “2015, 2017, 2018, 2019, and 2020” in introductory provisions.
 
 2019—Subsecs. (a), (b). Pub. L. 116–94 substituted “2018, 2019, and 2020” for “and 2018” in introductory provisions.
@@ -315,11 +330,15 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
   (D) *Payments for each of fiscal years 2017 through 2020* — The election otherwise required by subparagraph (A) shall not apply for each of fiscal years 2017 through 2020.11 See County Elections for Fiscal Year 2021 Under the Secure Rural Schools and Community Self-Determination Act of 2000 note below.
 
+  (E) *Payments for each of fiscal years 2024 and 2025* — The election otherwise required by subparagraph (A) shall not apply for each of fiscal years 2024 and 2025.
+
 (2) **Duration of election**
 
   (A) *In general* — A county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, shall be effective for 2 fiscal years. If such two-fiscal year period included fiscal year 2013, the county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, also shall be effective for fiscal years 2014 and 2015 and for each of fiscal years 2017 through 2020.
 
   (B) *Full funding amount* — If a county elects to receive a share of the State payment or the county payment in 2013, the election shall be effective for all subsequent fiscal years through fiscal year 2015 and for each of fiscal years 2017 through 2020.
+
+  (C) *Fiscal years 2024 and 2025* — The election described in paragraph (1)(A) applicable to a county in fiscal year 2023 shall be effective for each of fiscal years 2024 and 2025.
 
 (3) **Source of payment amounts** — The payment to an eligible State or eligible county under this section for a fiscal year shall be derived from—
 
@@ -367,6 +386,8 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
   (F) *Payments for each of fiscal years 2017 through 2020* — The election made by an eligible county under subparagraph (B), (C), or (D) for fiscal year 2013, or deemed to be made by the county under paragraph (3)(B) for that fiscal year, shall be effective for each of fiscal years 2017 through 2020.1
 
+  (G) *Payments for each of fiscal years 2024 and 2025* — The election made by an eligible county under subparagraph (B), (C), or (D) for fiscal year 2023, or deemed to be made by the county under paragraph (3)(B) for that fiscal year, shall be effective for each of fiscal years 2024 and 2025.
+
 (2) **Distribution of funds**
 
   (A) *In general* — Funds reserved by an eligible county under subparagraph (B)(i) or (C)(i) of paragraph (1) for carrying out projects under subchapter II shall be deposited in a special account in the Treasury of the United States.
@@ -391,6 +412,8 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
   (D) *Payments for each of fiscal years 2017 through 2020* — This paragraph does not apply for each of fiscal years 2017 through 2020.1
 
+  (E) *Payments for each of fiscal years 2024 and 2025* — This paragraph does not apply for each of fiscal years 2024 and 2025.
+
 **(e) Time for payment** The payments required under this section for a fiscal year shall be made as soon as practicable after the end of that fiscal year.
 
 **(f) Treatment as supplemental funding**
@@ -412,6 +435,14 @@ Act of March 1, 1911, referred to in subsec. (f)(2), is act Mar. 1, 1911, ch. 18
 A prior section 102 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2025—Subsec. (b)(1)(E). Pub. L. 119–58, § 2(b)(1)(A), added subpar. (E).
+
+Subsec. (b)(2)(C). Pub. L. 119–58, § 2(b)(1)(B), added subpar. (C).
+
+Subsec. (d)(1)(G). Pub. L. 119–58, § 2(b)(2)(A), added subpar. (G).
+
+Subsec. (d)(3)(E). Pub. L. 119–58, § 2(b)(2)(B), added subpar. (E).
+
 2019—Subsec. (b)(1)(D). Pub. L. 116–94, § 301(a)(2)(A)(i), substituted “for each of fiscal years 2017 through 2020” for “for fiscal years 2017 and 2018” in heading and text.
 
 Subsec. (b)(2). Pub. L. 116–94, § 301(a)(2)(A)(ii), substituted “for each of fiscal years 2017 through 2020” for “for fiscal years 2017 and 2018” in subpars. (A) and (B).
@@ -512,7 +543,7 @@ Pub. L. 117–102, § 1, Mar. 15, 2022, 136 Stat. 48, provided that: “Sections
 
 (1) Payments to the State of California under subsection (b).
 
-(2) The shares of the eligible counties of the State payment for California under [section 7112 of this title](./chapter-090-secure-rural-schools-and-community-self-determination.md#section-7112) for each of fiscal years 2011 through 2015 and for each of fiscal years 2017 through 2023.
+(2) The shares of the eligible counties of the State payment for California under [section 7112 of this title](./chapter-090-secure-rural-schools-and-community-self-determination.md#section-7112) for each of fiscal years 2011 through 2015 and for each of fiscal years 2017 through 2026.
 
 **(e) Treatment of payments** For purposes of this chapter, any payment made under subsection (b) shall be considered to be a payment made under [section 7112(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7112/a&num=0&edition=prelim).
 
@@ -527,6 +558,8 @@ This chapter, referred to in subsec. (e), was in the original “this Act”, me
 A prior section 103 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2025—Subsec. (d)(2). Pub. L. 119–58 substituted “2026” for “2023”.
+
 2021—Subsec. (d)(2). Pub. L. 117–58 substituted “2023” for “2020”.
 
 2019—Subsec. (d)(2). Pub. L. 116–94 substituted “through 2015 and for each of fiscal years 2017 through 2020” for “through and for fiscal years 2017 and 2018”.
@@ -770,7 +803,7 @@ A prior section 204 of Pub. L. 106–393 was set out in a note under [section 50
 
 (1) **Appointment and term**
 
-  (A) *In general* — The Secretary concerned,1 shall appoint the members of resource advisory committees for a term of 4 years beginning on the date of appointment.
+  (A) *In general* — The Secretary concerned shall appoint the members of resource advisory committees for a term of 4 years beginning on the date of appointment.
 
   (B) *Reappointment* — The Secretary concerned may reappoint members to subsequent 4-year terms.
 
@@ -830,7 +863,7 @@ A prior section 204 of Pub. L. 106–393 was set out in a note under [section 50
 
 (3) **Balanced representation** — In appointing committee members from the 3 categories in paragraph (2), the Secretary concerned shall provide for balanced and broad representation from within each category.
 
-(4) **Geographic distribution** — The members of a resource advisory committee shall reside within the State in which the committee has jurisdiction and, to extent 22 So in original. Probably should be preceded by “the”. practicable, the Secretary concerned shall ensure local representation in each category in paragraph (2).
+(4) **Geographic distribution** — The members of a resource advisory committee shall reside within the State in which the committee has jurisdiction and, to the extent practicable, the Secretary concerned shall ensure local representation in each category in paragraph (2).
 
 (5) **Chairperson** — A majority on each resource advisory committee shall select the chairperson of the committee.
 
@@ -844,7 +877,7 @@ A prior section 204 of Pub. L. 106–393 was set out in a note under [section 50
 
     (ii) the membership requirements under subparagraphs (A), (B), and (C) of paragraph (2) to 3 in each category described in that paragraph, except that where a vacancy exists on a resource advisory committee, the Secretary concerned may not reject a qualified applicant from any category.
 
-  (C) *Termination of authority* — The authority provided under this paragraph terminates on October 1, 2023.
+  (C) *Termination of authority* — The authority provided under this paragraph terminates on October 1, 2026.
 
 **(e) Approval procedures**
 
@@ -910,30 +943,37 @@ A prior section 204 of Pub. L. 106–393 was set out in a note under [section 50
 
   (E) *Savings clause* — Nothing in this paragraph relieves the Secretary concerned from any requirement relating to an appointment to a resource advisory committee, including any requirement with respect to civil rights or advertising a vacancy.
 
-(5) **Termination of effectiveness** — The authority provided under this subsection terminates on October 1, 2023.
-
-(6) **Report to Congress** — Not later 180 days after the date described in paragraph (5), the Secretary concerned shall submit to Congress a report that includes—
-
-  (A) with respect to appointments made under the regional pilot program compared to appointments made under the national pilot program, a description of the extent to which—
-
-    (i) appointments were faster or slower; and
-
-    (ii) the requirements described in paragraph (3)(C)(i) differ; and
-
-  (B) a recommendation with respect to whether Congress should terminate, continue, modify, or expand the pilot programs.
+(5) **Termination of effectiveness** — The authority provided under this subsection terminates on October 1, 2026.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsecs. (a)(4)(B) and (b)(3), was in the original “this Act”, meaning Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607, known as the Secure Rural Schools and Community Self-Determination Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-090-secure-rural-schools-and-community-self-determination.md#section-7101) and Tables.
 
-#### Codification
-October 3, 2008, referred to in subsec. (c)(3), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 110–343, which enacted this section, to reflect the probable intent of Congress.
-
 #### Prior Provisions
 A prior section 205 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+Subsec. (c)(1)(A). Pub. L. 119–58, § 4(a)(1)(A), struck out comma after “concerned”.
+
+Subsec. (c)(3). Pub. L. 119–58, § 4(a)(1)(B), substituted “October 3, 2008” for “the date of the enactment of this Act”, which had been translated as “October 3, 2008” to reflect the probable intent of Congress, thus requiring no change in text.
+
+Subsec. (d)(4). Pub. L. 119–58, § 4(a)(2), substituted “to the extent” for “to extent”.
+
+Subsec. (d)(6)(C). Pub. L. 119–58, § 2(c)(1), substituted “2026” for “2023”.
+
+Subsec. (g)(5). Pub. L. 119–58, § 3(1), substituted “2026” for “2023”.
+
+Subsec. (g)(6). Pub. L. 119–58, § 3(2), struck out par. (6). Text read as follows: “Not later 180 days after the date described in paragraph (5), the Secretary concerned shall submit to Congress a report that includes—
+
+“(A) with respect to appointments made under the regional pilot program compared to appointments made under the national pilot program, a description of the extent to which—
+
+“(i) appointments were faster or slower; and
+
+“(ii) the requirements described in paragraph (3)(C)(i) differ; and
+
+“(B) a recommendation with respect to whether Congress should terminate, continue, modify, or expand the pilot programs.”
+
 2021—Subsec. (a)(4)(A), (B). Pub. L. 117–58, § 41202(d)(1), substituted “December 20, 2023” for “December 20, 2021” wherever appearing.
 
 Subsec. (g). Pub. L. 117–58, § 41202(c), added subsec. (g) and struck out former subsec. (g) which related to the regional appointment pilot program.
@@ -982,7 +1022,7 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
   (B) in the case of a multiyear project, the amount specified in the agreement to be paid using project funds, or other funds described in [section 7123(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7123/a/2&num=0&edition=prelim) for the first fiscal year.
 
-(2) **Condition on project commencement** — The unit of National Forest System land or Bureau of Land Management District concerned,11 So in original. The comma probably should not appear. shall not commence a project until the project funds, or other funds described in [section 7123(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7123/a/2&num=0&edition=prelim) required to be transferred under paragraph (1) for the project, have been made available by the Secretary concerned.
+(2) **Condition on project commencement** — The unit of National Forest System land or Bureau of Land Management District concerned shall not commence a project until the project funds, or other funds described in [section 7123(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7123/a/2&num=0&edition=prelim) required to be transferred under paragraph (1) for the project, have been made available by the Secretary concerned.
 
 (3) **Subsequent transfers for multiyear projects**
 
@@ -994,6 +1034,9 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 #### Prior Provisions
 A prior section 206 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
+
+#### Amendments
+2025—Subsec. (b)(2). Pub. L. 119–58 struck out comma after “District concerned”.
 
 
 <a id="section-7141"></a>
@@ -1030,9 +1073,9 @@ A prior section 207 of Pub. L. 106–393 was set out in a note under [section 50
 
 <a id="section-7142"></a>
 ## § 7142. Termination of authority
-**(a) In general** The authority to initiate projects under this subchapter shall terminate on September 30, 2025.
+**(a) In general** The authority to initiate projects under this subchapter shall terminate on September 30, 2028.
 
-**(b) Deposits in Treasury** Any project funds not obligated by September 30, 2026, shall be deposited in the Treasury of the United States.
+**(b) Deposits in Treasury** Any project funds not obligated by September 30, 2029, shall be deposited in the Treasury of the United States.
 
 ### Statutory Notes
 
@@ -1040,6 +1083,10 @@ A prior section 207 of Pub. L. 106–393 was set out in a note under [section 50
 A prior section 208 of Pub. L. 106–393 was set out in a note under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to repeal by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–58, § 2(c)(2)(A), substituted “2028” for “2025”.
+
+Subsec. (b). Pub. L. 119–58, § 2(c)(2)(B), substituted “2029” for “2026”.
+
 2021—Subsec. (a). Pub. L. 117–58, § 41202(d)(2)(A), substituted “2025” for “2022”.
 
 Subsec. (b). Pub. L. 117–58, § 41202(d)(2)(B), substituted “2026” for “2023”.
@@ -1170,13 +1217,17 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 <a id="section-7152"></a>
 ## § 7152. Termination of authority
-**(a) In general** The authority to initiate projects under this subchapter terminates on September 30, 2025.
+**(a) In general** The authority to initiate projects under this subchapter terminates on September 30, 2028.
 
-**(b) Availability** Any county funds not obligated by September 30, 2026, shall be returned to the Treasury of the United States.
+**(b) Availability** Any county funds not obligated by September 30, 2029, shall be returned to the Treasury of the United States.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–58, § 2(d)(1), substituted “2028” for “2025”.
+
+Subsec. (b). Pub. L. 119–58, § 2(d)(2), substituted “2029” for “2026”.
+
 2021—Subsec. (a). Pub. L. 117–58, § 41202(f)(1), substituted “2025” for “2022”.
 
 Subsec. (b). Pub. L. 117–58, § 41202(f)(2), substituted “2026” for “2023”.

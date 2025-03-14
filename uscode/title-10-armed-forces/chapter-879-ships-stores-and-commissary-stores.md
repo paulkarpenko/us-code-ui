@@ -69,7 +69,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 <a id="section-8803"></a>
 ## § 8803. Sales: veterans under treatment
 
-A person who has been separated honorably or under honorable conditions from the Army, the Navy, the Air Force, the Marine Corps, or the Space Force and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, from the Navy and the Marine Corps at prices charged members of the naval service.
+A person who has been separated honorably or under honorable conditions from the Army, the Navy, the Air Force, the Marine Corps, the Space Force, or the Coast Guard and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, from the Navy and the Marine Corps at prices charged members of the naval service.
 
 ### Statutory Notes
 
@@ -81,6 +81,8 @@ A person who has been separated honorably or under honorable conditions from the
 The word “separated” is substituted for the word “discharged”. The words “under honorable conditions” are added since this provision is interpreted as benefiting personnel discharged under honorable conditions. The words “Air Force” are supplied under the authority of § 305(a) of the National Security Act of 1947, as amended ([5 U.S.C. 171](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section171&num=0&edition=prelim)l). The words “Veterans’ Administration” are added under the authority of the Act of August 9, 1921, ch. 57, 42 Stat. 148, which transferred care of veterans to the Veterans’ Bureau, the Act of June 7, 1924, ch. 320, 43 Stat. 610, which transferred all hospitals under the jurisdiction of the Public Health Service to the Veterans’ Bureau, and the Act of July 3, 1930, ch. 863, § 1, 46 Stat. 1016, under which the President by Executive Order No. 5398, July 21, 1930, transferred the Veterans’ Bureau to the Veterans’ Administration. The words “while undergoing such care and treatment” are omitted as surplusage.
 
 #### Amendments
+2024—Pub. L. 118–159 substituted “, the Space Force, or the Coast Guard” for “, or the Space Force”.
+
 2021—Pub. L. 116–283 substituted “the Marine Corps, or the Space Force” for “or the Marine Corps”.
 
 2018—Pub. L. 115–232 renumbered [section 7603 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7603&num=0&edition=prelim) as this section.

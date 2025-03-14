@@ -116,8 +116,8 @@ In subsection (b), the words “The Secretary concerned may” are substituted f
 
 
 <a id="section-714"></a>
-## § 714. Senior leaders of the Department of Defense and other specified persons: authority to provide protection within the United States
-**(a) Protection for Department Leadership.—** The Secretary of Defense, under regulations prescribed by the Secretary and in accordance with guidelines approved by the Secretary and the Attorney General, may authorize qualified members of the armed forces and qualified civilian employees of the Department of Defense to provide physical protection and personal security within the United States to the following persons who, by nature of their positions, require continuous security and protection:
+## § 714. Senior leaders of the Department of Defense and other specified persons: authority to provide protection
+**(a) Protection for Department Leadership.—** The Secretary of Defense, under regulations prescribed by the Secretary and in accordance with guidelines approved by the Secretary and the Attorney General, may authorize qualified members of the armed forces and qualified civilian employees of the Department of Defense to provide physical protection and personal security to the following persons who, by nature of their positions, require continuous security and protection:
 
 (1) Secretary of Defense.
 
@@ -133,11 +133,17 @@ In subsection (b), the words “The Secretary concerned may” are substituted f
 
 (7) Commanders of combatant commands.
 
-**(b) 11 See Temporary Extension of Authority To Provide Security for Former Department of Defense Officials note below. Protection for Additional Personnel.—**
+**(b) Protection for Former or Retired Department Leadership.—** The Secretary of Defense, under regulations prescribed by the Secretary and in accordance with guidelines approved by the Secretary and the Attorney General, may authorize qualified members of the armed forces and qualified civilian employees of the Department of Defense to provide physical protection and personal security to a former or retired official who—
 
-(1) **Authority to provide.—** — The Secretary of Defense, under regulations prescribed by the Secretary and in accordance with guidelines approved by the Secretary and the Attorney General, may authorize qualified members of the armed forces and qualified civilian employees of the Department of Defense to provide physical protection and personal security within the United States to individuals other than individuals described in paragraphs (1) through (7) of subsection (a) if the Secretary determines that such protection and security are necessary because—
+(1) previously served in a position identified in paragraphs (1) through (7) 11 So in original. Probably should be followed by “of subsection (a)”.; and
 
-  (A) there is an 22 So in original. Probably should be “a”. serious and credible threat to the safety of the individual for whom protection is to be provided; or
+(2) faces serious and credible threats arising from duties performed while employed by the Department of Defense.
+
+**(c) Protection for Additional Personnel.—**
+
+(1) **Authority to provide.—** — The Secretary of Defense, under regulations prescribed by the Secretary and in accordance with guidelines approved by the Secretary and the Attorney General, may authorize qualified members of the armed forces and qualified civilian employees of the Department of Defense to provide physical protection and personal security to individuals other than individuals described in subsection (a) or (b) if the Secretary determines that such protection and security are necessary because—
+
+  (A) there is a serious and credible threat to the safety of the individual for whom protection is to be provided; or
 
   (B) compelling operational considerations make such protection essential to the conduct of official Department of Defense business.
 
@@ -153,27 +159,61 @@ In subsection (b), the words “The Secretary concerned may” are substituted f
 
   (E) An individual who has been designated by the President, and who has received the advice and consent of the Senate, to serve as Secretary of Defense, but who has not yet been appointed as Secretary of Defense.
 
-(3) **Limitation on delegation.—** — The authority of the Secretary of Defense to authorize the provision of physical protection and personal security under this subsection may be delegated only to the Deputy Secretary of Defense.
+(3) **Limitation on delegation.—** — The authority of the Secretary of Defense to authorize the provision of physical protection and personal security under this subsection may be delegated only to the Deputy Secretary of Defense or the Under Secretary of Defense for Intelligence and Security.
 
-(4) **Requirement for written determination.—** — A determination of the Secretary of Defense to provide physical protection and personal security under this subsection shall be in writing, shall be based on a threat assessment by an appropriate law enforcement, security, or intelligence organization, and shall include the name and title of the officer, employee, or other individual affected, the reason for such determination, the duration of the authorized protection and security for such officer, employee, or individual, and the nature of the arrangements for the protection and security.
+(4) **Temporary protection.—** — The Secretary of Defense may temporarily provide physical protection and personal security under this subsection to an individual—
 
-(5) **Duration of protection.—** — The Secretary of Defense shall require periodic reviews, not less than once every six months, of the duration of protection provided to individuals under this subsection.
+  (A) pending the determination of the Secretary under paragraph (4) regarding such individual; and
 
-(6) **Submission to congress.—**
+  (B) for a period not to exceed 30 days.
 
-  (A) *In general.—* — Except as provided in subparagraph (D), the Secretary of Defense shall submit to the congressional defense committees each determination made under paragraph (4) to provide protection and security to an individual, together with the justification for such determination, not later than 15 days after the date on which the determination is made.
+**(d) Requirement for Written Determination.—** A determination of the Secretary of Defense whether to provide physical protection and personal security under subsection (b) or (c), or reimbursement under subsection (h), shall be in writing, shall be based on a threat assessment by an appropriate law enforcement, security, or intelligence organization, and shall include the name and title of the officer, employee, or other individual affected, the reason for such determination, the duration of any authorized protection and security for such officer, employee, or individual, and the nature of any arrangements for such protection and security.
 
-  (B) *Form of report.—* — A report submitted under subparagraph (A) may be made in classified form.
+**(e) Duration of Protection.—** The Secretary of Defense shall require periodic reviews, not less than once every six months, of the duration of protection provided to individuals under subsection (b) or (c).
 
-  (C) *Regulations and guidelines.—* — The Secretary of Defense shall submit to the congressional defense committees the regulations and guidelines prescribed pursuant to paragraph (1) not less than 20 days before the date on which such regulations take effect.
+**(f) Submissions to Congress.—**
 
-  (D) *Exceptions.—* — Subparagraph (A) does not apply to determinations made with respect to the following individuals:
+(1) **In general.—** — Except as provided in paragraph (4), the Secretary of Defense shall submit to the congressional defense committee determinations made pursuant to this section as follows:
 
-    (i) An individual described in paragraph (2)(C) who is otherwise sponsored by the Secretary of Defense, the Deputy Secretary of Defense, the Chairman of the Joint Chiefs of Staff, or the Vice Chairman of the Joint Chiefs of Staff.
+  (A) An initial determination made under subsection (d), not later than 15 days after the date on which the determination is made, including the justification for such determination and a current threat assessment by an appropriate law enforcement, security, or intelligence organization.
 
-    (ii) An individual described in paragraph (2)(E).
+  (B) A determination to deny the renewal of physical protection and security under subsection (b) or (c), or reimbursement under subsection (j), not later than 15 days after the date on which the determination is made, including—
 
-**(c) Definitions.—** In this section, the terms “qualified members of the armed forces” and “qualified civilian employees of the Department of Defense” refer collectively to members or employees who are assigned to investigative, law enforcement, or security duties of any of the following:
+    (i) the justification for such determination;
+
+    (ii) a current threat assessment by an appropriate law enforcement, security, or intelligence organization; and
+
+    (iii) a certification that threats to the individual arising from duties performed while employed by the Department of Defense can be sufficiently mitigated without physical protection and security or reimbursement.
+
+  (C) A determination to terminate physical protection and security under subsection (b) or (c), or reimbursement under subsection (j), during a previously authorized period of protection, not later than 48 hours after the date on which the determination is made, including—
+
+    (i) the justification for such determination;
+
+    (ii) a current threat assessment by an appropriate law enforcement, security, or intelligence organization; and
+
+    (iii) a certification that threats to the individual arising from duties performed while employed by the Department of Defense can be sufficiently mitigated without protection and security or reimbursement.
+
+  (D) A determination to deny a request for reimbursement of an individual described in subsection (b), not later than 15 days after the date on which the determination is made, including—
+
+    (i) the justification for such determination;
+
+    (ii) a current threat assessment by an appropriate law enforcement, security, or intelligence organization; and
+
+    (iii) a certification that threats to the individual arising from duties performed while employed by the Department of Defense can be sufficiently mitigated without reimbursement.
+
+(2) **Form of report.—** — A report submitted under paragraph (1) may be made in classified form.
+
+(3) **Regulations and guidelines.—** — The Secretary of Defense shall submit to the congressional defense committees the regulations and guidelines prescribed pursuant to subsections (b) and (c)(1), and a description of any changes to such guidelines, not less than 20 days before the date on which such regulations take effect.
+
+(4) **Exceptions.—** — Paragraph (1) does not apply to determinations made with respect to the following individuals:
+
+  (A) An individual described in subsection (c)(2)(C) who is otherwise sponsored by the Secretary of Defense, the Deputy Secretary of Defense, the Chairman of the Joint Chiefs of Staff, or the Vice Chairman of the Joint Chiefs of Staff.
+
+  (B) An individual described in subsection (c)(2)(E).
+
+**(g) Notification to Certain Protected Personnel.—** The Secretary of Defense shall provide written notification to any individual receiving physical protection and personal security under subsection (a) or (b), or reimbursement under subsection (j), at least 90 days prior to terminating or denying the renewal of protection and security protection or reimbursement, as the case may be, for such individual.
+
+**(h) Definitions.—** In this section, the terms “qualified members of the armed forces” and “qualified civilian employees of the Department of Defense” refer collectively to members or employees who are assigned to investigative, law enforcement, or security duties of any of the following:
 
 (1) The Army Criminal Investigation Command.
 
@@ -185,7 +225,7 @@ In subsection (b), the words “The Secretary concerned may” are substituted f
 
 (5) The Pentagon Force Protection Agency.
 
-**(d) Construction.—**
+**(i) Construction.—**
 
 (1) **No additional law enforcement or arrest authority.—** — Other than the authority to provide protection and security under this section, nothing in this section may be construed to bestow any additional law enforcement or arrest authority upon the qualified members of the armed forces and qualified civilian employees of the Department of Defense.
 
@@ -193,7 +233,7 @@ In subsection (b), the words “The Secretary concerned may” are substituted f
 
 (3) **Authorities of other departments.—** — Nothing in this section may be construed to preclude or limit, in any way, the express or implied powers of the Secretary of Defense or other Department of Defense officials, or the duties and authorities of the Secretary of State, the Director of the United States Secret Service, the Director of the United States Marshals Service, or any other Federal law enforcement agency.
 
-**(e) Reimbursement.—** The Secretary of Defense may reimburse a former or retired official who faces serious and credible threats arising from duties performed while employed by the Department for security services and equipment procured at the personal expense of the official, not to exceed an aggregate of $15,000,000 in any fiscal year for all former and retired officials authorized by the Secretary of Defense for such reimbursement.
+**(j) Reimbursement.—** The Secretary of Defense may reimburse a former or retired official who faces serious and credible threats arising from duties performed while employed by the Department for security services and equipment procured at the personal expense of the official, not to exceed an aggregate of $15,000,000 in any fiscal year for all former and retired officials authorized by the Secretary of Defense for such reimbursement.
 
 ### Statutory Notes
 
@@ -206,6 +246,38 @@ A prior section 714, added Pub. L. 105–85, div. A, title V, § 597(a), Nov. 18
 Another prior section 714, act Aug. 10, 1956, ch. 1041, 70A Stat. 33, related to reports to Congress on length of tours of duty outside the United States by members of the Army and Air Force, prior to repeal by Pub. L. 86–533, § 1(5)(A), June 29, 1960, 74 Stat. 246.
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–60, § 1042(3), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 119–60, § 1042(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (h).
+
+Subsec. (c)(1). Pub. L. 119–60, § 1042(4)(A), substituted “subsection (a) or (b)” for “paragraphs (1) through (7) of subsection (a)”.
+
+Subsec. (c)(4), (5). Pub. L. 119–60, § 1042(4)(B), redesignated par. (7) as (4) and struck out former pars. (4) and (5) which related to requirement for written determination and duration of protection, respectively.
+
+Subsec. (c)(6). Pub. L. 119–60, § 1042(4)(B), struck out par. (6) which related to submission to Congress of certain determinations and regulations and guidelines.
+
+Subsec. (c)(6)(A). Pub. L. 119–60, § 1701(a)(12), which directed amendment of subsec. (b)(6)(A) by inserting “a” before “determination” in the second sentence, could not be executed because of the intervening amendment by Pub. L. 119–60, § 1042(2), (4)(B), redesignating subsec. (b) as (c) and striking par. (6). See above.
+
+Subsec. (c)(7). Pub. L. 119–60, § 1042(4)(B), redesignated par. (7) as (4).
+
+Subsecs. (d) to (g). Pub. L. 119–60, § 1042(5), added subsecs. (d) to (g). Former subsecs. (d) and (e) redesignated (i) and (j).
+
+Subsecs. (h) to (j). Pub. L. 119–60, § 1042(1), redesignated subsecs. (c) to (e) as (h) to (j), respectively.
+
+2024—Pub. L. 118–159, § 522(a)(1), which directed striking out “within the united states” in section catchline, was executed by striking out “within the United States” after “provide protection” to reflect the probable intent of Congress and the style used in the catchline of this section.
+
+Subsecs. (a), (b)(1). Pub. L. 118–159, § 522(a)(2), (3), struck out “within the United States” after “personal security” in introductory provisions.
+
+Subsec. (b)(1)(A). Pub. L. 118–159, § 1701(a)(16), substituted “a serious” for “an serious”.
+
+Subsec. (b)(3). Pub. L. 118–159, § 522(b), inserted “or the Under Secretary of Defense for Intelligence and Security” after “only to the Deputy Secretary of Defense”.
+
+Subsec. (b)(4). Pub. L. 118–159, § 522(c), inserted “whether” before “to provide”, and substituted “any authorized” for “the authorized” and “any arrangements for such” for “the arrangements for the”.
+
+Subsec. (b)(6)(A). Pub. L. 118–159, § 522(d), substituted “an initial determination made under paragraph (4), or a determination to deny the renewal of protection and security” for “each determination made under paragraph (4) to provide protection and security to an individual” and inserted at end “In the case of determination to continue protection and security, the Secretary shall make such submission not less than twice each year.”
+
+Subsec. (b)(7). Pub. L. 118–159, § 522(e), added par. (7).
+
 2023—Subsec. (b)(1)(A). Pub. L. 118–31, § 529A(a)(1), substituted “serious and credible threat” for “imminent and credible threat”.
 
 Subsec. (b)(2)(B). Pub. L. 118–31, § 529A(a)(2), struck out “for a period of up to two years beginning on the date on which the official separates from the Department” before period at end.
@@ -237,7 +309,7 @@ Subsec. (d)(1). Pub. L. 114–328, § 952(c)(4)(A), substituted “armed forces�
 Subsec. (d)(2). Pub. L. 114–328, § 952(c)(4)(C), struck out “, United States Code” after “title 18”.
 
 #### Temporary Extension of Authority To Provide Security for Former Department of Defense Officials
-Pub. L. 117–263, div. A, title XI, § 1105, Dec. 23, 2022, 136 Stat. 2817, provided that: “During the period beginning on the date of enactment of this Act [Dec. 23, 2022] and ending on January 1, 2024, subsection (b) of [section 714 of title 10](./chapter-041-special-appointments-assignments-details-and-duties.md#section-714), United States Code, shall be applied— “(1) in paragraph (1)(A), by substituting ‘a serious and credible threat’ for ‘an imminent and credible threat’; “(2) in paragraph (2)(B), by substituting ‘three years’ for ‘two years’; and “(3) in paragraph (6)(A), by substituting—“(A) ‘congressional leadership and the congressional defense committees’ for ‘the congressional defense committees’; and “(B) by substituting ‘the justification for such determination, scope of the protection, and the anticipated cost and duration of such protection’ for ‘the justification for such determination’.”
+Pub. L. 117–263, div. A, title XI, § 1105, Dec. 23, 2022, 136 Stat. 2817, provided authority to provide security for former Department of Defense Officials from Dec. 23, 2022, to Jan. 1, 2024.
 
 
 <a id="section-715"></a>
@@ -428,15 +500,28 @@ Section, added Pub. L. 109–364, div. A, title V, § 507(a)(1)(A), Oct. 17, 200
 
 
 <a id="section-723"></a>
-## § 723. Support of Federal authorities in response to civil disturbances: requirement for use of members of the Armed Forces and Federal law enforcement personnel
-**(a) Requirement.—** Whenever a member of the armed forces (including the National Guard) or Federal law enforcement personnel provide support to Federal authorities to respond to a civil disturbance, each individual employed in the capacity of providing such support shall visibly display—
+## § 723. Support of civil authorities: requirement for use of members of the Armed Forces and Federal law enforcement personnel
+**(a) Response to Civil Disturbances.—** Whenever a member of the armed forces (including the National Guard) or Federal law enforcement personnel provide support to Federal authorities to respond to a civil disturbance, each individual employed in the capacity of providing such support shall visibly display—
 
 (1) the individual’s name or other individual identifier that is unique to that individual; and
 
 (2) the name of the armed force, Federal entity, or other organization by which such individual is employed.
 
-**(b) Exception.—** The requirement under subsection (a) shall not apply to individuals referred to in such subsection who—
+**(b) Support to Civilian Law Enforcement Agencies by Members of the Armed Forces.—** Whenever a member of the armed forces (including the National Guard) provides support to civilian law enforcement agencies, each such member providing such support shall visibly display the name of the armed force in which such member operates.
+
+**(c) Exception.—** The requirements under subsections (a) and (b) shall not apply to individuals referred to in any such subsection who—
 
 (1) do not wear a uniform or other distinguishing clothing or equipment in the regular performance of their official duties; or
 
 (2) are engaged in undercover operations in the regular performance of their official duties.
+
+### Statutory Notes
+
+#### Amendments
+2025—Pub. L. 119–60, § 1043(b)(1), substituted “civil authorities” for “Federal authorities in response to civil disturbances” in section catchline.
+
+Subsec. (a). Pub. L. 119–60, § 1043(a)(1), substituted “Response to Civil Disturbances” for “Requirement” in heading.
+
+Subsec. (b). Pub. L. 119–60, § 1043(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 119–60, § 1043(a)(2), (4), redesignated subsec. (b) as (c) and, in introductory provisions, substituted “requirements under subsections (a) and (b)” for “requirement under subsection (a)” and “any such subsection” for “such subsection”.

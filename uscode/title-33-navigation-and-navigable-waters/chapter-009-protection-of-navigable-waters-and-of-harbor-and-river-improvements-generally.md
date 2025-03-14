@@ -272,7 +272,21 @@ Functions, powers, and duties of Secretary of the Army and other offices and off
 
 (3) **Contributed funds** — The Secretary may accept and expend funds received from non-Federal public or private entities to evaluate under this section an alteration or permanent occupation or use of a work built by the United States.
 
-**(c) Timely review**
+**(c) Review process**
+
+(1) **Consistency** — The Secretary shall establish clear, concise, and specific guidance to be used within the Corps of Engineers and by non-Federal entities developing applications for permission standardizing the review process across Districts.
+
+(2) **Preapplication meeting** — At the request of a non-Federal entity that is planning on submitting an application for permission pursuant to subsection (a), the Secretary shall meet with the non-Federal entity to—
+
+  (A) provide clear, concise, and specific design standards that the non-Federal entity must use in the development of the application;
+
+  (B) recommend, based on coordination with the non-Federal entity, the appropriate number of design packages for submission for the proposed action, and the stage of development at which such packages should be submitted; and
+
+  (C) identify potential concerns or conflicts with such proposed actions.
+
+(3) **Contributed funds** — The Secretary may use funds accepted from a non-Federal entity under subsection (b)(3) for purposes of conducting a meeting described in paragraph (2).
+
+**(d) Timely review**
 
 (1) **Complete application** — On or before the date that is 30 days after the date on which the Secretary receives an application for permission to take action affecting public projects pursuant to subsection (a), the Secretary shall inform the applicant whether the application is complete and, if it is not, what items are needed for the application to be complete.
 
@@ -284,7 +298,7 @@ Functions, powers, and duties of Secretary of the Army and other offices and off
 
 (3) **Notification to Congress** — In any case in which a schedule provided under paragraph (2)(B) extends beyond 120 days from the date of receipt of a complete application, the Secretary shall provide to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an explanation justifying the extended timeframe for review.
 
-**(d) Work Defined** For the purposes of this section, the term “work” shall not include unimproved real estate owned or operated by the Secretary as part of a water resources development project if the Secretary determines that modification of such real estate would not affect the function and usefulness of the project.
+**(e) Work Defined** For the purposes of this section, the term “work” shall not include unimproved real estate owned or operated by the Secretary as part of a water resources development project if the Secretary determines that modification of such real estate would not affect the function and usefulness of the project.
 
 ### Statutory Notes
 
@@ -300,6 +314,8 @@ Section superseded act Sept. 19, 1890, ch. 907, § 9, 26 Stat. 426, which prohib
 Act Aug. 14, 1876, ch. 267, § 3, 19 Stat. 139, penalizing persons injuring any pier breakwater, or other work of the United States for the improvement of rivers or harbors or navigation, was probably omitted from the Code as superseded by this section.
 
 #### Amendments
+2025—Subsecs. (c) to (e). Pub. L. 118–272 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
 2018—Subsec. (d). Pub. L. 115–270 added subsec. (d).
 
 2016—Pub. L. 114–322 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
@@ -481,10 +497,50 @@ All offices of collector of customs, comptroller of customs, surveyor of customs
 
 
 <a id="section-414"></a>
-## § 414. Removal by Secretary of the Army of sunken water craft generally; liability of owner, lessee, or operator
-**(a)** Whenever the navigation of any river, lake, harbor, sound, bay, canal, or other navigable waters of the United States shall be obstructed or endangered by any sunken vessel, boat, water craft, raft, or other similar obstruction, and such obstruction has existed for a longer period than thirty days, or whenever the abandonment of such obstruction can be legally established in a less space of time, the sunken vessel, boat, water craft, raft, or other obstruction shall be subject to be broken up, removed, sold, or otherwise disposed of by the Secretary of the Army at his discretion, without liability for any damage to the owners of the same: Provided, That in his discretion, the Secretary of the Army may cause reasonable notice of such obstruction of not less than thirty days, unless the legal abandonment of the obstruction can be established in a less time, to be given by publication, addressed “To whom it may concern,” in a newspaper published nearest to the locality of the obstruction, requiring the removal thereof: And provided also, That the Secretary of the Army may, in his discretion, at or after the time of giving such notice, cause sealed proposals to be solicited by public advertisement, giving reasonable notice of not less than ten days, for the removal of such obstruction as soon as possible after the expiration of the above specified thirty days’ notice, in case it has not in the meantime been so removed, these proposals and contracts, at his discretion, to be conditioned that such vessel, boat, water craft, raft, or other obstruction, and all cargo and property contained therein, shall become the property of the contractor, and the contract shall be awarded to the bidder making the proposition most advantageous to the United States: Provided, That such bidder shall give satisfactory security to execute the work: Provided further, That any money received from the sale of any such wreck, or from any contractor for the removal of wrecks, under this paragraph shall be covered into the Treasury of the United States.
+## § 414. Vessel removal by Corps of Engineers
+**(a) Removal of obstructive vessels**
 
-**(b)** The owner, lessee, or operator of such vessel, boat, watercraft, raft, or other obstruction as described in this section shall be liable to the United States for the cost of removal or destruction and disposal as described which exceeds the costs recovered under subsection (a). Any amount recovered from the owner, lessee, or operator of such vessel pursuant to this subsection to recover costs in excess of the proceeds from the sale or disposition of such vessel shall be deposited in the general fund of the Treasury of the United States.
+(1) **In general** — Whenever the navigation of any river, lake, harbor, sound, bay, canal, or other navigable waters of the United States shall be obstructed or endangered by any sunken vessel, boat, water craft, raft, or other similar obstruction, and such obstruction has existed for a longer period than thirty days, or whenever the abandonment of such obstruction can be legally established in a less space of time, the sunken vessel, boat, water craft, raft, or other obstruction shall be subject to be broken up, removed, sold, or otherwise disposed of by the Secretary of the Army at his discretion, without liability for any damage to the owners of the same: Provided, That in his discretion, the Secretary of the Army may cause reasonable notice of such obstruction of not less than thirty days, unless the legal abandonment of the obstruction can be established in a less time, to be given by publication, addressed “To whom it may concern,” in a newspaper published nearest to the locality of the obstruction, requiring the removal thereof: And provided also, That the Secretary of the Army may, in his discretion, at or after the time of giving such notice, cause sealed proposals to be solicited by public advertisement, giving reasonable notice of not less than ten days, for the removal of such obstruction as soon as possible after the expiration of the above specified thirty days’ notice, in case it has not in the meantime been so removed, these proposals and contracts, at his discretion, to be conditioned that such vessel, boat, water craft, raft, or other obstruction, and all cargo and property contained therein, shall become the property of the contractor, and the contract shall be awarded to the bidder making the proposition most advantageous to the United States: Provided, That such bidder shall give satisfactory security to execute the work: Provided further, That any money received from the sale of any such wreck, or from any contractor for the removal of wrecks, under this paragraph shall be covered into the Treasury of the United States.
+
+(2) **Liability of owner, lessee, or operator** — The owner, lessee, or operator of such vessel, boat, watercraft, raft, or other obstruction as described in this subsection shall be liable to the United States for the cost of removal or destruction and disposal as described which exceeds the costs recovered under paragraph (1). Any amount recovered from the owner, lessee, or operator of such vessel pursuant to this subsection to recover costs in excess of the proceeds from the sale or disposition of such vessel shall be deposited in the general fund of the Treasury of the United States.
+
+**(b) Removal of abandoned vessel**
+
+(1) **In general** — The Secretary is authorized to remove from the navigable waters of the United States a covered vessel that does not obstruct the navigation of such waters, if—
+
+  (A) such removal is determined to be in the public interest by the Secretary, in consultation with any State in which the vessel is located or any Indian Tribe with jurisdiction over the area in which the vessel is located, as applicable; and
+
+  (B) in the case of a vessel that is not under the control of the United States by reason of seizure or forfeiture, the Commandant of the Coast Guard determines that the vessel is abandoned.
+
+(2) **Interagency agreements** — In removing a covered vessel under this subsection, the Secretary—
+
+  (A) is authorized to enter into an interagency agreement with the head of any Federal department, agency, or instrumentality that has control of such vessel; and
+
+  (B) is authorized to accept funds from such department, agency, or instrumentality for the removal of such vessel.
+
+(3) **Liability** — The owner of a covered vessel shall be liable to the United States for the costs of removal, destruction, and disposal of such vessel under this subsection.
+
+(4) **Covered vessel defined**
+
+  (A) *In general* — In this subsection, the term “covered vessel” means a vessel—
+
+    (i) determined to be abandoned by the Commandant of the Coast Guard; or
+
+    (ii) under the control of the United States by reason of seizure or forfeiture pursuant to any law.
+
+  (B) *Exclusion* — The term “covered vessel” does not include—
+
+    (i) any vessel for which the Secretary has removal authority under subsection (a) or [section 415 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-415);
+
+    (ii) an abandoned barge for which the Commandant of the Coast Guard has the authority to remove under chapter 47 of title 46; and
+
+    (iii) a vessel—
+
+      (I) for which the owner is not identified, unless determined to be abandoned by the Commandant of the Coast Guard; or
+
+      (II) for which the owner has not agreed to pay the costs of removal, destruction, or disposal.
+
+(5) **Authorization of appropriations** — There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2025 through 2029.
 
 ### Statutory Notes
 
@@ -497,6 +553,8 @@ Section superseded act June 14, 1880, ch. 211, § 4, 21 Stat. 197, and act Aug. 
 Section also superseded act Sept. 19, 1890, ch. 907, § 8, 26 Stat. 454, which authorized the Secretary of War to remove wrecks remaining for more than two months.
 
 #### Amendments
+2025—Pub. L. 118–272 inserted section catchline and subsec. (a) heading, designated existing provisions of subsec. (a) as par. (1) of subsec. (a), redesignated subsec. (b) as par. (2) of subsec. (a), inserted par. (1) and (2) headings, substituted “described in this subsection” for “described in this section” and “under paragraph (1)” for “under subsection (a)” in par. (2), and added subsec. (b).
+
 1986—Pub. L. 99–662 designated existing provision as subsec. (a) and added subsec. (b).
 
 #### Change of Name
@@ -548,12 +606,15 @@ For transfer of certain functions insofar as they pertain to Air Force, and to e
 <a id="section-416"></a>
 ## § 416. Appropriations for removal of sunken water craft
 
-Such sum of money as may be necessary to execute sections 414 and 415 of this title is hereby appropriated out of any money in the Treasury not otherwise appropriated, to be paid out on the requisition of the Secretary of the Army.
+Such sum of money as may be necessary to execute sections 414(a) and 415 of this title is hereby appropriated out of any money in the Treasury not otherwise appropriated, to be paid out on the requisition of the Secretary of the Army.
 
 ### Statutory Notes
 
 #### Codification
 Section is from part of section 20(a) of act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”. See Codification and Amendment notes set out under [section 415 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-415).
+
+#### Amendments
+2025—Pub. L. 118–272 substituted “414(a)” for “414”.
 
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
@@ -1072,13 +1133,13 @@ Functions, powers, and duties of Secretary of the Army and other offices and off
 
 **(c) Authorization of appropriations**
 
-(1) **In general** — Subject to paragraph (2), the Secretary may expend, from any appropriations made available to the Secretary for the purpose of carrying out civil works, not more than $37,500,000 during any fiscal year to pay the Federal share of the costs of construction of small shore and beach restoration and protection projects or small projects under this section.
+(1) **In general** — Subject to paragraph (2), the Secretary may expend, from any appropriations made available to the Secretary for the purpose of carrying out civil works, not more than $62,500,000 during any fiscal year to pay the Federal share of the costs of construction of small shore and beach restoration and protection projects or small projects under this section.
 
 (2) **Limitation** — The total amount expended for a project under this section shall—
 
   (A) be sufficient to pay the cost of Federal participation in the project (including periodic nourishment as provided for under [section 426e of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-426e)), as determined by the Secretary; and
 
-  (B) be not more than $10,000,000.
+  (B) be not more than $15,000,000.
 
 ### Statutory Notes
 
@@ -1086,6 +1147,10 @@ Functions, powers, and duties of Secretary of the Army and other offices and off
 The Shoreline Erosion Control Demonstration Act of 1974, referred to in subsec. (b)(2)(C)(viii), is Pub. L. 93–251, title I, § 54, Mar. 7, 1974, 88 Stat. 26, formerly set out as a note under [section 1962d–5 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2025—Subsec. (c)(1). Pub. L. 118–272, § 1107(c)(1), substituted “$62,500,000” for “$37,500,000”.
+
+Subsec. (c)(2)(B). Pub. L. 118–272, § 1107(c)(2), substituted “$15,000,000” for “$10,000,000”.
+
 2018—Subsec. (c)(1). Pub. L. 115–270 substituted “$37,500,000” for “$30,000,000”.
 
 2016—Subsec. (c)(2)(B). Pub. L. 114–322 substituted “$10,000,000” for “$5,000,000”.
@@ -1171,7 +1236,7 @@ In sections 426e and 426f to 426h–1 of this title, the following definitions a
 
 **(b) Cost sharing** The costs of implementing measures, including a study, shall be cost-shared in the same proportion as the cost-sharing provisions applicable to construction of the project causing the shore damage.
 
-**(c) Requirement for specific authorization** No such project shall be initiated without specific authorization by Congress if the Federal first cost exceeds $12,500,000.
+**(c) Requirement for specific authorization** No such project shall be initiated without specific authorization by Congress if the Federal first cost exceeds $15,000,000.
 
 **(d) Coordination** The Secretary shall—
 
@@ -1184,6 +1249,8 @@ In sections 426e and 426f to 426h–1 of this title, the following definitions a
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 118–272 substituted “$15,000,000” for “$12,500,000”.
+
 2018—Subsec. (c). Pub. L. 115–270 substituted “$12,500,000” for “$10,000,000”.
 
 2016—Subsec. (b). Pub. L. 114–322, § 1169(1), substituted “measures, including a study, shall be cost-shared in the same proportion as the cost-sharing provisions applicable to construction of the project” for “measures under this section shall be cost-shared in the same proportion as the cost-sharing provisions applicable to the project”.
@@ -1919,7 +1986,9 @@ In this subchapter, the following definitions apply:
 
 (15) **State dam safety program** — The term “State dam safety program” means a State dam safety program approved and assisted under [section 467f(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section467f/e&num=0&edition=prelim).
 
-(16) **United States** — The term “United States”, when used in a geographical sense, means all of the States.
+(16) **Underserved community** — The term “underserved community” means a community with a population of less than 50,000 that has a median household income of less than 80 percent of the statewide median household income.
+
+(17) **United States** — The term “United States”, when used in a geographical sense, means all of the States.
 
 ### Statutory Notes
 
@@ -1929,6 +1998,8 @@ A prior section 467, Pub. L. 92–367, § 1, Aug. 8, 1972, 86 Stat. 506; Pub. L.
 A prior section 2 of Pub. L. 92–367 was renumbered section 3 by section 215(c)(3) of Pub. L. 104–303 and is classified to [section 467a of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467a).
 
 #### Amendments
+2025—Pars. (16), (17). Pub. L. 118–272 added par. (16) and redesignated former par. (16) as (17).
+
 2020—Par. (4)(A)(iii). Pub. L. 116–260, § 132(a)(1)(A)(i), added cl. (iii) and struck out former cl. (iii) which read as follows: “has an emergency action plan approved by the relevant State dam safety agency; and”.
 
 Par. (4)(A)(iv), (v). Pub. L. 116–260, § 132(a)(1)(A)(ii), added cls. (iv) and (v) and struck out former cl. (iv) which read as follows: “the State in which the dam is located determines—
@@ -2047,9 +2118,34 @@ A prior section 5 of Pub. L. 92–367 was classified to [section 467d of this ti
 
 
 <a id="section-467d"></a>
-## § 467d. National dam inventory
+## § 467d. National inventory of dams and low-head dams
+**(a) In general** The Secretary of the Army shall maintain and update information on the inventory of dams and low-head dams in the United States.
 
-The Secretary of the Army shall maintain and update information on the inventory of dams in the United States. Such inventory of dams shall include any available information assessing each dam based on inspections completed by either a Federal agency or a State dam safety agency.
+**(b) Dams** The inventory maintained under subsection (a) shall include any available information assessing each dam based on inspections completed by a Federal agency, a State dam safety agency, or a Tribal government.
+
+**(c) Low-head dams** The inventory maintained under subsection (a) shall include—
+
+(1) the location, ownership, description, current use, condition, height, and length of each low-head dam;
+
+(2) any information on public safety conditions at each low-head dam; and
+
+(3) any other relevant information concerning low-head dams.
+
+**(d) Data** In carrying out this section, the Secretary shall—
+
+(1) coordinate with Federal and State agencies, Tribal governments, and other relevant entities; and
+
+(2) use data provided to the Secretary by those agencies and entities.
+
+**(e) Public availability** The Secretary shall make the inventory maintained under subsection (a) publicly available (including on a publicly available website), including—
+
+(1) public safety information on the dangers of low-head dams; and
+
+(2) a directory of financial and technical assistance resources available to reduce safety hazards and fish passage barriers at low-head dams.
+
+**(f) Clarification** Nothing in this section provides authority to the Secretary to carry out an activity, with respect to a low-head dam, that is not explicitly authorized under this section.
+
+**(g) Low-head dam defined** In this section, the term “low-head dam” means a river-wide artificial barrier that generally spans a stream channel, blocking the waterway and creating a backup of water behind the barrier, with a drop off over the wall of not less than 6 inches and not more than 25 feet.
 
 ### Statutory Notes
 
@@ -2059,6 +2155,8 @@ A prior section 467d, Pub. L. 92–367, § 5, Aug. 8, 1972, 86 Stat. 507, direct
 A prior section 6 of Pub. L. 92–367 was classified to [section 467e of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467e) prior to repeal by Pub. L. 104–303.
 
 #### Amendments
+2025—Pub. L. 118–272 amended section generally. Prior to amendment, text of section read as follows: “The Secretary of the Army shall maintain and update information on the inventory of dams in the United States. Such inventory of dams shall include any available information assessing each dam based on inspections completed by either a Federal agency or a State dam safety agency.”
+
 2006—Pub. L. 109–460 amended section generally. Prior to amendment, section read as follows: “The Secretary of the Army, acting through the Chief of Engineers, may maintain and periodically publish updated information on the inventory of dams in the United States.”
 
 
@@ -2412,7 +2510,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
   (B) *Grant agreement* — The Administrator shall enter into a grant agreement with the State to establish the terms of the grant and the projects for which the grant is awarded, including the amount of the grant.
 
-  (C) *Grant assurance* — As part of a grant agreement under subparagraph (B), the Administrator shall require that each eligible subrecipient to which the State awards a grant under this section provides an assurance, with respect to the dam to be rehabilitated by the eligible subrecipient, that the dam owner will carry out a plan for maintenance of the dam during the expected life of the dam.
+  (C) *Grant assurance* — As part of a grant agreement under subparagraph (B), the Administrator shall require that each eligible subrecipient to which the State awards a grant under this section provides an assurance from the dam owner, with respect to the dam to be rehabilitated, that the dam owner will carry out a plan for maintenance of the dam during the expected life of the dam.
 
   (D) *Limitation* — A State may not award a grant to an eligible subrecipient under this section that exceeds, for any 1 dam, the lesser of—
 
@@ -2434,7 +2532,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
     (ii) complies with the Disaster Mitigation Act of 2000 (Public Law 106–390; 114 Stat. 1552);
 
-  (C) commit to provide operation and maintenance of the project for the expected life of the dam following completion of rehabilitation;
+  (C) for a project not including removal, obtain a commitment from the dam owner to provide operation and maintenance of the project for the expected life of the dam following completion of rehabilitation;
 
   (D) comply with such minimum eligibility requirements as the Administrator may establish to ensure that each owner and operator of a dam under a participating State dam safety program and that receives assistance under this section—
 
@@ -2448,25 +2546,35 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
 **(e) Floodplain management plans**
 
-(1) **In general** — As a condition of receipt of assistance under this section, an eligible subrecipient shall demonstrate that a floodplain management plan to reduce the impacts of future flood events in the area protected by the project—
+(1) **In general** — As a condition of receipt of assistance under this section, an eligible subrecipient shall demonstrate that a floodplain management plan to reduce the impacts of future flood events from a controlled or uncontrolled release from the dam or management of water levels in the area impacted by the dam—
 
-  (A) is in place; or
+  (A) for a removal—
 
-  (B) will be—
+    (i) is in place; and
 
-    (i) developed not later than 2 years after the date of execution of a project agreement for assistance under this section; and
+    (ii) identifies areas that would be impacted by the removal of the dam and includes a communication and outreach plan for the project and the impact of the project on the affected communities; or
 
-    (ii) implemented not later than 2 years after the date of completion of construction of the project.
+  (B) for a project not including removal—
 
-(2) **Inclusions** — A plan under paragraph (1) shall address—
+    (i) is in place; or
 
-  (A) potential measures, practices, and policies to reduce loss of life, injuries, damage to property and facilities, public expenditures, and other adverse impacts of flooding in the area protected by the project;
+    (ii) will be—
+
+      (I) developed not later than 2 years after the date of execution of a project agreement for assistance under this section; and
+
+      (II) implemented not later than 2 years after the date of completion of construction of the project.
+
+(2) **Requirement** — In the case of a plan for a removal, the Administrator may not impose any additional requirements or conditions other than the requirements in paragraph (1)(A).
+
+(3) **Inclusions** — A plan under paragraph (1)(B) shall address—
+
+  (A) potential measures, practices, and policies to reduce loss of life, injuries, damage to property and facilities, public expenditures, and other adverse impacts of flooding in the area protected or impacted by the dam;
 
   (B) plans for flood fighting and evacuation; and
 
   (C) public education and awareness of flood risks.
 
-(3) **Plan criteria and technical support** — The Administrator, in consultation with the Board, shall provide criteria, and may provide technical support, for the development and implementation of floodplain management plans prepared under this subsection.
+(4) **Plan criteria and technical support** — The Administrator, in consultation with the Board, shall provide criteria, and may provide technical support, for the development and implementation of floodplain management plans prepared under this subsection.
 
 **(f) Priority system** The Administrator, in consultation with the Board, shall develop a risk-based priority system for use in identifying eligible high hazard potential dams for which grants may be made under this section.
 
@@ -2474,9 +2582,11 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
 (1) **Cost sharing**
 
-  (A) *In general* — Any assistance provided under this section for a project shall be subject to a non-Federal cost-sharing requirement of not less than 35 percent.
+  (A) *In general* — Except as provided in subparagraph (C), any assistance provided under this section for a project shall be subject to a non-Federal cost-sharing requirement of not less than 35 percent.
 
   (B) *In-kind contributions* — The non-Federal share under subparagraph (A) may be provided in the form of in-kind contributions.
+
+  (C) *Underserved communities* — Subparagraph (A) shall not apply to a project carried out by or for the benefit of an underserved community.
 
 (2) **Allocation of funds** — The total amount of funds made available to carry out this section for each fiscal year shall be distributed as follows:
 
@@ -2526,6 +2636,16 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 The Disaster Mitigation Act of 2000, referred to in subsec. (d)(2)(B)(ii), is Pub. L. 106–390, Oct. 30, 2000, 114 Stat. 1552. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
 #### Amendments
+2025—Subsec. (c)(2)(C). Pub. L. 118–272, § 1132(c)(1), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “As part of a grant agreement under subparagraph (B), the Administrator shall require that each eligible subrecipient to which the State awards a grant under this section provides an assurance, with respect to the dam to be rehabilitated by the eligible subrecipient, that the dam owner will carry out a plan for maintenance of the dam during the expected life of the dam.”
+
+Subsec. (d)(2)(C). Pub. L. 118–272, § 1132(c)(2), substituted “for a project not including removal, obtain a commitment from the dam owner” for “commit”.
+
+Subsec. (e). Pub. L. 118–272, § 1132(c)(3), added subsec. (e) and struck out former subsec. (e) which related to floodplain management plans to reduce impacts of future flood events in areas protected by projects.
+
+Subsec. (g)(1)(A). Pub. L. 118–272, § 1132(c)(4)(A), substituted “Except as provided in subparagraph (C), any” for “Any”.
+
+Subsec. (g)(1)(C). Pub. L. 118–272, § 1132(c)(4)(B), added subpar. (C).
+
 2020—Subsec. (a). Pub. L. 116–260, § 132(b)(1), substituted “to States with dam safety programs” for “to non-Federal sponsors”.
 
 Subsec. (b). Pub. L. 116–260, § 132(b)(2), substituted “to a State may be used by the State to award grants to eligible subrecipients for” for “a project may be used for” in introductory provisions.
@@ -2564,7 +2684,7 @@ Subsec. (i)(1). Pub. L. 116–260, § 132(b)(6), substituted “an eligible subr
 Pub. L. 114–322, title IV, § 5006(c), Dec. 16, 2016, 130 Stat. 1896, provided that: “(1) Proposed rulemaking.—Not later than 90 days after the date of enactment of this Act [Dec. 16, 2016], the Administrator of the Federal Emergency Management Agency shall issue a notice of proposed rulemaking regarding applications for grants of assistance under the amendments made by subsection (b) to the National Dam Safety Program Act ([33 U.S.C. 467](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467) et seq.) [enacting this section]. “(2) Final rule.—Not later than 180 days after the date of enactment of this Act, the Administrator of the Federal Emergency Management Agency shall promulgate a final rule regarding the amendments described in paragraph (1).”
 
 #### Rehabilitation of Corps of Engineers Constructed Dams
-Pub. L. 114–322, title I, § 1177, Dec. 16, 2016, 130 Stat. 1674, as amended by Pub. L. 115–270, title I, § 1132, Oct. 23, 2018, 132 Stat. 3781; Pub. L. 116–260, div. AA, title III, § 305, Dec. 27, 2020, 134 Stat. 2703; Pub. L. 117–263, div. H, title LXXXI, § 8370, Dec. 23, 2022, 136 Stat. 3806, provided that: “(a) In General.—If the Secretary [of the Army] determines that the project is feasible, the Secretary may carry out a project for the rehabilitation of a dam described in subsection (b). “(b) Eligible Dams.—A dam eligible for assistance under this section is a dam—“(1) that has been constructed, in whole or in part, by the Corps of Engineers for flood control purposes; “(2) for which construction was completed before 1940; “(3) that is classified as ‘high hazard potential’ by the State dam safety agency of the State in which the dam is located; and “(4) that is operated by a non-Federal entity. “(c) Cost Sharing.—Non-Federal interests shall provide 35 percent of the cost of construction of any project carried out under this section, including provision of all land, easements, rights-of-way, and necessary relocations. “(d) Agreements.—Construction of a project under this section shall be initiated only after a non-Federal interest has entered into a binding agreement with the Secretary [of the Army]—“(1) to pay the non-Federal share of the costs of construction under subsection (c); and “(2) to pay 100 percent of any operation, maintenance, and replacement and rehabilitation costs with respect to the project in accordance with regulations prescribed by the Secretary. “(e) Cost Limitation.—The Secretary shall not expend more than $60,000,000 for a project at any single dam under this section. “(f) Funding.—There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2017 through 2026. “(g) Special Rule.—Notwithstanding subsection (c), the non-Federal share of the cost of the project for rehabilitation of Waterbury Dam, Washington County, Vermont, under this section, including the cost of any required study, shall be the same share assigned to the non-Federal interest for the cost of initial construction of the Waterbury Dam.”
+Pub. L. 114–322, title I, § 1177, Dec. 16, 2016, 130 Stat. 1674, as amended by Pub. L. 115–270, title I, § 1132, Oct. 23, 2018, 132 Stat. 3781; Pub. L. 116–260, div. AA, title III, § 305, Dec. 27, 2020, 134 Stat. 2703; Pub. L. 117–263, div. H, title LXXXI, § 8370, Dec. 23, 2022, 136 Stat. 3806; Pub. L. 118–272, div. A, title III, § 1367, Jan. 4, 2025, 138 Stat. 3164, provided that: “(a) In General.—If the Secretary [of the Army] determines that the project is feasible, the Secretary may carry out a project for the rehabilitation of a dam described in subsection (b). “(b) Eligible Dams.—A dam eligible for assistance under this section is a dam—“(1) that has been constructed, in whole or in part, by the Corps of Engineers for flood control purposes; “(2) for which construction was completed before 1940; “(3) that is classified as ‘high hazard potential’ by the State dam safety agency of the State in which the dam is located; and “(4) that is operated by a non-Federal entity. “(c) Cost Sharing.—The non-Federal share of the cost of a project for rehabilitation of a dam under this section, including the cost of any required study, shall be the same share assigned to the non-Federal interest for the cost of initial construction of that dam, including provision of all land, easements, rights-of-way, and necessary relocations. “(d) Agreements.—Construction of a project under this section shall be initiated only after a non-Federal interest has entered into a binding agreement with the Secretary [of the Army]—“(1) to pay the non-Federal share of the costs of construction under subsection (c); and “(2) to pay 100 percent of any operation, maintenance, and replacement and rehabilitation costs with respect to the project in accordance with regulations prescribed by the Secretary. “(e) Cost Limitation.—“(1) In general.—Except as provided in paragraph (2), the Secretary shall not expend more than $60,000,000 for a project at any single dam under this section. “(2) Exception.—For a project under this section for which the Federal share of the costs is expected to exceed $60,000,000, the Secretary may expend more than such amount only if—“(A) the Secretary submits to Congress the determination made under subsection (a) with respect to the project; and “(B) construction of the project substantially in accordance with the plans, and subject to the conditions described in such determination, is specifically authorized by Congress. “(f) Funding.—There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2026 through 2030.”
 
 
 <a id="section-467g"></a>
@@ -2678,7 +2798,7 @@ Another prior section 13 of Pub. L. 92–367 was classified to section 467l of t
 ## § 467j. Authorization of appropriations
 **(a) National dam safety program**
 
-(1) **Annual amounts** — There are authorized to be appropriated to FEMA to carry out sections 467e, 467f, and 467h of this title (in addition to any amounts made available for similar purposes included in any other Act and amounts made available under subsections (b) through (e)), $9,200,000 for each of fiscal years 2019 through 2023, to remain available until expended.
+(1) **Annual amounts** — There are authorized to be appropriated to FEMA to carry out sections 467e, 467f, and 467h of this title (in addition to any amounts made available for similar purposes included in any other Act and amounts made available under subsections (b) through (e)), $9,200,000 for each of fiscal years 2019 through 2028, to remain available until expended.
 
 (2) **Allocation**
 
@@ -2688,27 +2808,23 @@ Another prior section 13 of Pub. L. 92–367 was classified to section 467l of t
 
     (ii) Two-thirds among States that qualify for assistance under [section 467f(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section467f/e&num=0&edition=prelim), to each such State in proportion to—
 
-      (I) the number of dams in the State that are listed as State-regulated dams on the inventory of dams maintained under [section 467d of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467d); as compared to
+      (I) the number of dams in the State that are listed as State-regulated dams on the inventory of dams and low-head dams maintained under [section 467d of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467d); as compared to
 
-      (II) the number of dams in all States that are listed as State-regulated dams on the inventory of dams maintained under [section 467d of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467d).
+      (II) the number of dams in all States that are listed as State-regulated dams on the inventory of dams and low-head dams maintained under [section 467d of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467d).
 
-  (B) *Maximum amount of allocation*
-
-    (i) *In general* — The amount of funds allocated to a State under this paragraph may not exceed 50 percent of the reasonable cost of implementing the State dam safety program.
-
-    (ii) *Fiscal year 2015 and subsequent fiscal years* — For fiscal year 2015 and each subsequent fiscal year, the amount of funds allocated to a State under this paragraph may not exceed the amount of funds committed by the State to implement dam safety activities.
+  (B) *Maximum amount of allocation* — The amount of funds allocated to a State under this paragraph for a fiscal year may not exceed the amount that is equal to 4 times the amount of funds committed by the State to implement dam safety activities for that fiscal year.
 
   (C) *Determination* — The Administrator and the Board shall determine the amount allocated to States.
 
-**(b) National dam inventory** There is authorized to be appropriated to carry out [section 467d of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467d) $500,000 for each of fiscal years 2019 through 2023.
+**(b) National inventory of dams and low-head dams** There is authorized to be appropriated to carry out [section 467d of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467d) $500,000 for each of fiscal years 2019 through 2028.
 
-**(c) Public awareness** There is authorized to be appropriated to carry out [section 467g–2 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g-2) $1,000,000 for each of fiscal years 2019 through 2023.
+**(c) Public awareness** There is authorized to be appropriated to carry out [section 467g–2 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g-2) $1,000,000 for each of fiscal years 2019 through 2028.
 
-**(d) Research** There is authorized to be appropriated to carry out [section 467g of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g) $1,450,000 for each of fiscal years 2019 through 2023, to remain until expended.
+**(d) Research** There is authorized to be appropriated to carry out [section 467g of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g) $1,450,000 for each of fiscal years 2019 through 2028, to remain until expended.
 
-**(e) Dam safety training** There is authorized to be appropriated to carry out [section 467g–1 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g-1) $750,000 for each of fiscal years 2019 through 2023.
+**(e) Dam safety training** There is authorized to be appropriated to carry out [section 467g–1 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g-1) $750,000 for each of fiscal years 2019 through 2028.
 
-**(f) Staff** There is authorized to be appropriated to FEMA for the employment of such additional staff personnel as are necessary to carry out sections 467f through 467g–1 of this title $1,000,000 for each of fiscal years 2019 through 2023.
+**(f) Staff** There is authorized to be appropriated to FEMA for the employment of such additional staff personnel as are necessary to carry out sections 467f through 467g–1 of this title $1,000,000 for each of fiscal years 2019 through 2028.
 
 **(g) Limitation on use of amounts** Amounts made available under this subchapter may not be used to construct or repair any Federal or non-Federal dam.
 
@@ -2720,6 +2836,26 @@ A prior section 467j, Pub. L. 92–367, § 11, as added Pub. L. 99–662, title 
 A prior section 14 of Pub. L. 92–367 was classified to [section 467m of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section467m&num=0&edition=prelim) prior to repeal by Pub. L. 104–303.
 
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 118–272, § 1132(d)(1)(A), substituted “2028” for “2023”.
+
+Subsec. (a)(2)(A)(ii)(I), (II). Pub. L. 118–272, § 1132(d)(1)(B)(i), inserted “and low-head dams” after “inventory of dams”.
+
+Subsec. (a)(2)(B). Pub. L. 118–272, § 1132(d)(1)(B)(ii), amended subpar. (B) generally. Prior to amendment, text read as follows:
+
+“(i) In general.—The amount of funds allocated to a State under this paragraph may not exceed 50 percent of the reasonable cost of implementing the State dam safety program.
+
+“(ii) Fiscal year 2015 and subsequent fiscal years.—For fiscal year 2015 and each subsequent fiscal year, the amount of funds allocated to a State under this paragraph may not exceed the amount of funds committed by the State to implement dam safety activities.”
+
+Subsec. (b). Pub. L. 118–272, § 1132(d)(2), substituted “National inventory of dams and low-head dams” for “National dam inventory” in heading and “2028” for “2023” in text.
+
+Subsec. (c). Pub. L. 118–272, § 1132(d)(3), substituted “2028” for “2023”.
+
+Subsec. (d). Pub. L. 118–272, § 1132(d)(4), substituted “2028” for “2023”.
+
+Subsec. (e). Pub. L. 118–272, § 1132(d)(5), substituted “2028” for “2023”.
+
+Subsec. (f). Pub. L. 118–272, § 1132(d)(6), substituted “2028” for “2023”.
+
 2018—Pub. L. 115–270 substituted “2019 through 2023” for “2015 through 2019” wherever appearing.
 
 2014—Subsec. (a)(1). Pub. L. 113–121, § 3001(f), made technical amendment to reference in original act which appears in text as reference to [section 467h of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467h).
@@ -2814,41 +2950,8 @@ Secretary means the Secretary of the Army, see [section 2201 of this title](./ch
 
 
 <a id="section-467o"></a>
-## § 467o. National low-head dam inventory
-**(a) Definitions** In this section:
+## § 467o. Repealed. Pub. L. 118–272, div. A, title I, § 1132(e), Jan. 4, 2025, 138 Stat. 3024
 
-(1) **Inventory** — The term “inventory” means the national low-head dam inventory developed under subsection (b)(1)(A).
+### Statutory Notes
 
-(2) **Low-head dam** — The term “low-head dam” means a river-wide artificial barrier that generally spans a stream channel, blocking the waterway and creating a backup of water behind the barrier, with a drop off over the wall of not less than 6 inches and not more than 25 feet.
-
-**(b) National low-head dam inventory**
-
-(1) **In general** — Not later than 18 months after December 23, 2022, the Secretary of the Army, in consultation with the heads of appropriate Federal and State agencies, shall—
-
-  (A) develop an inventory of low-head dams in the United States that includes—
-
-    (i) the location, ownership, description, current use, condition, height, and length of each low-head dam;
-
-    (ii) any information on public safety conditions at each low-head dam;
-
-    (iii) public safety information on the dangers of low-head dams;
-
-    (iv) a directory of financial and technical assistance resources available to reduce safety hazards and fish passage barriers at low-head dams; and
-
-    (v) any other relevant information concerning low-head dams; and
-
-  (B) submit the inventory to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
-
-(2) **Data** — In carrying out this subsection, the Secretary shall—
-
-  (A) coordinate with Federal and State agencies and other relevant entities; and
-
-  (B) use data provided to the Secretary by those agencies and entities.
-
-(3) **Public availability** — The Secretary shall make the inventory publicly available, including on a publicly available website.
-
-(4) **Updates** — The Secretary, in consultation with the heads of appropriate Federal and State agencies, shall maintain and periodically publish updates to the inventory.
-
-**(c) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $30,000,000.
-
-**(d) Clarification** Nothing in this section provides authority to the Secretary to carry out an activity, with respect to a low-head dam, that is not explicitly authorized under this section.
+Section, Pub. L. 92–367, § 15, as added Pub. L. 117–263, div. H, title LXXXI, § 8122, Dec. 23, 2022, 136 Stat. 3713, related to national low-head dam inventory. See [section 467d of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467d).

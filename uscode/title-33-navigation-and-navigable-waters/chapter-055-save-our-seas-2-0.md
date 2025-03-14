@@ -2,7 +2,7 @@
 title: 33
 chapter: '55'
 heading: SAVE OUR SEAS 2.0
-section_count: 25
+section_count: 11
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
@@ -90,8 +90,8 @@ source: >-
 The Federal Water Pollution Control Act, referred to in subsec. (e)(3), is act June 30, 1948, ch. 758. Title VI of the Act, as added by Pub. L. 100–4, title II, § 212(a), Feb. 4, 1987, 101 Stat. 22, is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
 
 
-<a id="section-4211"></a>
-## § 4211. Definitions
+<a id="section-4211-to-4219"></a>
+## § 4211 to 4219. Definitions
 
 In this chapter:
 
@@ -109,7 +109,7 @@ In this chapter:
 
 (4) **Interagency Marine Debris Coordinating Committee** — The term “Interagency Marine Debris Coordinating Committee” means the Interagency Marine Debris Coordinating Committee established under [section 1954 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1954).
 
-(5) **Marine debris** — The term “marine debris” has the meaning given that term in [section 1956 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1956).
+(5) **Marine debris** — The term “marine debris” has the meaning given that term in section 1981 11 See References in Text note below. of this title.
 
 (6) **Marine debris event** — The term “marine debris event” means an event or related events that affects or may imminently affect the United States involving—
 
@@ -119,27 +119,9 @@ In this chapter:
 
   (C) marine debris caused by an intentional or grossly negligent act or acts that causes substantial economic or environmental harm.
 
-(7) **Non-Federal funds** — The term “non-Federal funds” means funds provided by—
+(7) **Nonprofit organization** — The term “nonprofit organization” means an organization that is described in [section 501(c) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c&num=0&edition=prelim) and exempt from tax under section 501(a) of such title.
 
-  (A) a State;
-
-  (B) an Indian Tribe;
-
-  (C) a territory of the United States;
-
-  (D) one or more units of local governments or Tribal organizations (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim));
-
-  (E) a foreign government;
-
-  (F) a private for-profit entity;
-
-  (G) a nonprofit organization; or
-
-  (H) a private individual.
-
-(8) **Nonprofit organization** — The term “nonprofit organization” means an organization that is described in [section 501(c) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c&num=0&edition=prelim) and exempt from tax under section 501(a) of such title.
-
-(9) **Post-consumer materials management** — The term “post-consumer materials management” means the systems, operation, supervision, and long-term management of processes and equipment used for post-use material (including packaging, goods, products, and other materials), including—
+(8) **Post-consumer materials management** — The term “post-consumer materials management” means the systems, operation, supervision, and long-term management of processes and equipment used for post-use material (including packaging, goods, products, and other materials), including—
 
   (A) collection;
 
@@ -149,7 +131,7 @@ In this chapter:
 
   (D) systems and processes related to post-use materials that can be recovered, reused, recycled, repaired, or refurbished.
 
-(10) **State** — The term “State” means—
+(9) **State** — The term “State” means—
 
   (A) a State;
 
@@ -161,403 +143,38 @@ In this chapter:
 
   (E) any political subdivision of an entity described in subparagraphs (A) through (D).
 
-(11) **Under Secretary** — The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.
+(10) **Under Secretary** — The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1072, known as the Save Our Seas 2.0 Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+[Section 1981 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1981), referred to in par. (5), was in the original “section 7 of the Marine Debris Act”, and was translated as reading “section 131” of that Act to reflect the probable intent of Congress and the renumbering of section 7 as 131 by Pub. L. 119–65, § 4(b)(1), Dec. 26, 2025, 139 Stat. 1989.
+
+#### Amendments
+2025—Pars. (7) to (11). Pub. L. 119–65 transferred par. (7) of this section to [section 1981(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1981/8&num=0&edition=prelim) and redesignated former pars. (8) to (11) as (7) to (10), respectively.
+
 #### Short Title
-Pub. L. 116–224, § 1(a), Dec. 18, 2020, 134 Stat. 1072, provided that: “This Act [enacting this chapter and [section 1959 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1959) and amending sections 1951 and 1958 of this title] may be cited as the ‘Save Our Seas 2.0 Act’.”
+Pub. L. 116–224, § 1(a), Dec. 18, 2020, 134 Stat. 1072, provided that: “This Act [enacting this chapter and [section 1959 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1959&num=0&edition=prelim) and amending sections 1951 and 1958 of this title] may be cited as the ‘Save Our Seas 2.0 Act’.”
 
 
-<a id="section-4212"></a>
-## § 4212. Establishment and purposes of Foundation
-**(a) Establishment** There is established the Marine Debris Foundation (in this subchapter referred to as the “Foundation”). The Foundation is a charitable and nonprofit organization and is not an agency or establishment of the United States.
-
-**(b) Purposes** The purposes of the Foundation are—
-
-(1) to encourage, accept, and administer private gifts of property for the benefit of, or in connection with, the activities and services of the National Oceanic and Atmospheric Administration under the Marine Debris Program established under [section 1952 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1952), and other relevant programs and agencies;
-
-(2) to undertake and conduct such other activities as will augment efforts of the National Oceanic and Atmospheric Administration to assess, prevent, reduce, and remove marine debris and address the adverse impacts of marine debris on the economy of the United States, the marine environment, and navigation safety;
-
-(3) to participate with, and otherwise assist, State, local, and Tribal governments, foreign governments, entities, and individuals in undertaking and conducting activities to assess, prevent, reduce, and remove marine debris and address the adverse impacts of marine debris and its root causes on the economy of the United States, the marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries), and navigation safety;
-
-(4) subject to an agreement with the Secretary of Commerce, administer the Genius Prize for Save Our Seas Innovation as described in title II; 11 See References in Text note below. and
-
-(5) to support other Federal actions to reduce marine debris.
+<a id="section-4231-to-4237"></a>
+## § 4231 to 4237. Transferred
 
 ### Statutory Notes
 
-#### References in Text
-This subchapter, referred to in subsec. (a), was in the original “this title”, meaning title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which is classified principally to this subchapter. For complete classification of title I to the Code, see Tables.
-
-Title II, referred to in subsec. (b)(4), means title II of Pub. L. 116–224, which is classified generally to subchapter II of this chapter, but probably should have been a reference to subtitle C of title I of Pub. L. 116–224, which is classified generally to part B of this subchapter and relates to the Genius Prize for Save Our Seas Innovations.
-
-
-<a id="section-4213"></a>
-## § 4213. Board of Directors of the Foundation
-**(a) Establishment and membership**
-
-(1) **In general** — The Foundation shall have a governing Board of Directors (in this subchapter referred to as the “Board”), which shall consist of the Under Secretary and 12 additional Directors appointed in accordance with subsection (b) from among individuals who are United States citizens.
-
-(2) **Representation of diverse points of view** — To the maximum extent practicable, the membership of the Board shall represent diverse points of view relating to the assessment, prevention, reduction, and removal of marine debris.
-
-(3) **Not Federal employees** — Appointment as a Director of the Foundation shall not constitute employment by, or the holding of an office of, the United States for the purpose of any Federal law.
-
-**(b) Appointment and terms**
-
-(1) **Appointment** — Subject to paragraph (2), after consulting with the EPA Administrator, the Director of the United States Fish and Wildlife Service, the Assistant Secretary of State for the Bureau of Oceans and International Environmental and Scientific Affairs, and the Administrator of the United States Agency for International Development, and considering the recommendations submitted by the Board, the Under Secretary shall appoint 12 Directors who meet the criteria established by subsection (a), of whom—
-
-  (A) at least 4 shall be educated or experienced in the assessment, prevention, reduction, or removal of marine debris, which may include an individual with expertise in post-consumer materials management or a circular economy;
-
-  (B) at least 2 shall be educated or experienced in the assessment, prevention, reduction, or removal of marine debris outside the United States;
-
-  (C) at least 2 shall be educated or experienced in ocean and coastal resource conservation science or policy; and
-
-  (D) at least 2 shall be educated or experienced in international trade or foreign policy.
-
-(2) **Terms**
-
-  (A) *In general* — Any Director appointed after the initial appointments are made under subparagraph (B) (other than the Under Secretary), shall be appointed for a term of 6 years.
-
-  (B) *Initial appointments to new member positions* — Of the Directors appointed by the Under Secretary under paragraph (1), the Under Secretary shall appoint, not later than 180 days after December 18, 2020—
-
-    (i) 4 Directors for a term of 6 years;
-
-    (ii) 4 Directors for a term of 4 years; and
-
-    (iii) 4 Directors for a term of 2 years.
-
-(3) **Vacancies**
-
-  (A) *In general* — The Under Secretary shall fill a vacancy on the Board.
-
-  (B) *Term of appointments to fill unexpired terms* — An individual appointed to fill a vacancy that occurs before the expiration of the term of a Director shall be appointed for the remainder of the term.
-
-(4) **Reappointment** — An individual shall not serve more than 2 consecutive terms as a Director, excluding any term of less than 6 years.
-
-(5) **Consultation before removal** — The Under Secretary may remove a Director from the Board only after consultation with the Assistant Secretary of State for the Bureau of Oceans and International Environmental and Scientific Affairs, the Director of the United States Fish and Wildlife Service, and the EPA Administrator.
-
-**(c) Chairman** The Chairman shall be elected by the Board from its members for a 2-year term.
-
-**(d) Quorum** A majority of the current membership of the Board shall constitute a quorum for the transaction of business.
-
-**(e) Meetings** The Board shall meet at the call of the Chairman at least once a year. If a Director misses 3 consecutive regularly scheduled meetings, that individual may be removed from the Board and that vacancy filled in accordance with subsection (b).
-
-**(f) Reimbursement of expenses** Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Foundation.
-
-**(g) General powers**
-
-(1) **In general** — The Board may complete the organization of the Foundation by—
-
-  (A) appointing officers and employees;
-
-  (B) adopting a constitution and bylaws consistent with the purposes of the Foundation and the provisions of this subchapter; and
-
-  (C) undertaking of other such acts as may be necessary to carry out the provisions of this subchapter.
-
-(2) **Limitations on appointment** — The following limitations apply with respect to the appointment of officers and employees of the Foundation:
-
-  (A) Officers and employees may not be appointed until the Foundation has sufficient funds to pay them for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
-
-  (B) The first officer or employee appointed by the Board shall be the Secretary of the Board who—
-
-    (i) shall serve, at the direction of the Board, as its chief operating officer; and
-
-    (ii) shall be knowledgeable and experienced in matters relating to the assessment, prevention, reduction, and removal of marine debris.
-
-### Statutory Notes
-
-#### References in Text
-This subchapter, referred to in subsecs. (a)(1) and (g)(1)(B), (C), was in the original “this title”, meaning title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which is classified principally to this subchapter. For complete classification of title I to the Code, see Tables.
-
-
-<a id="section-4214"></a>
-## § 4214. Rights and obligations of the Foundation
-**(a) In general** The Foundation—
-
-(1) shall have perpetual succession;
-
-(2) may conduct business throughout the several States, territories, and possessions of the United States and abroad; and
-
-(3) shall at all times maintain a designated agent authorized to accept service of process for the Foundation.
-
-**(b) Service of process** The serving of notice to, or service of process upon, the agent required under subsection (a)(3), or mailed to the business address of such agent, shall be deemed as service upon or notice to the Foundation.
-
-**(c) Powers**
-
-(1) **In general** — To carry out its purposes under [section 4211 of this title](./chapter-055-save-our-seas-2-0.md#section-4211), the Foundation shall have, in addition to the powers otherwise given it under this subchapter, the usual powers of a corporation acting as a trustee in the District of Columbia, including the power—
-
-  (A) to accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein;
-
-  (B) to acquire by purchase or exchange any real or personal property or interest therein;
-
-  (C) to invest any funds provided to the Foundation by the Federal Government in obligations of the United States or in obligations or securities that are guaranteed or insured by the United States;
-
-  (D) to deposit any funds provided to the Foundation by the Federal Government into accounts that are insured by an agency or instrumentality of the United States;
-
-  (E) to make use of any interest or investment income that accrues as a consequence of actions taken under subparagraph (C) or (D) to carry out the purposes of the Foundation;
-
-  (F) to use Federal funds to make payments under cooperative agreements to provide substantial long-term benefits for the assessment, prevention, reduction, and removal of marine debris;
-
-  (G) unless otherwise required by the instrument of transfer, to sell, donate, lease, invest, reinvest, retain or otherwise dispose of any property or income therefrom;
-
-  (H) to borrow money and issue bonds, debentures, or other debt instruments;
-
-  (I) to sue and be sued, and complain and defend itself in any court of competent jurisdiction, except that the Directors of the Foundation shall not be personally liable, except for gross negligence;
-
-  (J) to enter into contracts or other arrangements with, or provide financial assistance to, public agencies and private organizations and persons and to make such payments as may be necessary to carry out its functions; and
-
-  (K) to do any and all acts necessary and proper to carry out the purposes of the Foundation.
-
-(2) **Non-Federal contributions to the fund** — A gift, devise, or bequest may be accepted by the Foundation without regard to whether the gift, devise, or bequest is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest in the gift, devise, or bequest is for the benefit of the Foundation.
-
-**(d) Notice to Members of Congress** The Foundation may not make a grant of Federal funds in an amount greater than $100,000 unless, by not later than 15 days before the grant is made, the Foundation provides notice of the grant to the Member of Congress for the congressional district in which the project to be funded with the grant will be carried out.
-
-**(e) Coordination of international efforts** Any efforts of the Foundation carried out in a foreign country, and any grants provided to an individual or entity in a foreign country, shall be made only with the concurrence of the Secretary of State, in consultation, as appropriate, with the Administrator of the United States Agency for International Development.
-
-**(f) Consultation With NOAA** The Foundation shall consult with the Under Secretary during the planning of any restoration or remediation action using funds resulting from judgments or settlements relating to the damage to trust resources of the National Oceanic and Atmospheric Administration.
-
-### Statutory Notes
-
-#### References in Text
-This subchapter, referred to in subsec. (c)(1), was in the original “this title”, meaning title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which is classified principally to this subchapter. For complete classification of title I to the Code, see Tables.
-
-
-<a id="section-4215"></a>
-## § 4215. Administrative services and support
-**(a) Provision of services** The Under Secretary may provide personnel, facilities, and other administrative services to the Foundation, including reimbursement of expenses, not to exceed the current Federal Government per diem rates, for a period of up to 5 years beginning on December 18, 2020.
-
-**(b) Reimbursement** The Under Secretary shall require reimbursement from the Foundation for any administrative service provided under subsection (a). The Under Secretary shall deposit any reimbursement received under this subsection into the Treasury to the credit of the appropriations then current and chargeable for the cost of providing such services.
-
-
-<a id="section-4216"></a>
-## § 4216. Volunteer status
-
-The Secretary of Commerce may accept, without regard to the civil service classification laws, rules, or regulations, the services of the Foundation, the Board, and the officers and employees of the Board, without compensation from the Department of Commerce, as volunteers in the performance of the functions authorized in this subchapter.
-
-### Statutory Notes
-
-#### References in Text
-This subchapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which is classified principally to this subchapter. For complete classification of title I to the Code, see Tables.
-
-
-<a id="section-4217"></a>
-## § 4217. Report requirements; petition of Attorney General for equitable relief
-**(a) Report** The Foundation shall, as soon as practicable after the end of each fiscal year, transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources, the Committee on Transportation and Infrastructure, and the Committee on Energy and Commerce of the House of Representatives a report—
-
-(1) describing the proceedings and activities of the Foundation during that fiscal year, including a full and complete statement of its receipts, expenditures, and investments; and
-
-(2) including a detailed statement of the recipient, amount, and purpose of each grant made by the Foundation in the fiscal year.
-
-**(b) Relief with respect to certain Foundation acts or failure to act** If the Foundation—
-
-(1) engages in, or threatens to engage in, any act, practice, or policy that is inconsistent with its purposes set forth in [section 4211(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section4211/b&num=0&edition=prelim); or
-
-(2) refuses, fails, or neglects to discharge its obligations under this subchapter, or threatens to do so,
-the Attorney General may petition in the United States District Court for the District of Columbia for such equitable relief as may be necessary or appropriate.
-
-### Statutory Notes
-
-#### References in Text
-This subchapter, referred to in subsec. (b)(2), was in the original “this title”, meaning title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which is classified principally to this subchapter. For complete classification of title I to the Code, see Tables.
-
-
-<a id="section-4218"></a>
-## § 4218. United States release from liability
-
-The United States shall not be liable for any debts, defaults, acts, or omissions of the Foundation nor shall the full faith and credit of the United States extend to any obligation of the Foundation.
-
-
-<a id="section-4219"></a>
-## § 4219. Authorization of appropriations
-**(a) Authorization of appropriations**
-
-(1) **In general** — There are authorized to be appropriated to the Department of Commerce to carry out this subchapter $10,000,000 for each of fiscal years 2021 through 2024.
-
-(2) **Use of appropriated funds** — Subject to paragraph (3), amounts made available under paragraph (1) shall be provided to the Foundation to match contributions (whether in currency, services, or property) made to the Foundation, or to a recipient of a grant provided by the Foundation, by private persons and State and local government agencies.
-
-(3) **Prohibition on use for administrative expenses**
-
-  (A) *In general* — Except as provided in subparagraph (B), no Federal funds made available under paragraph (1) may be used by the Foundation for administrative expenses of the Foundation, including for salaries, travel and transportation expenses, and other overhead expenses.
-
-  (B) *Exception* — The Secretary may allow the use of Federal funds made available under paragraph (1) to pay for salaries during the 18-month period beginning on December 18, 2020.
-
-**(b) Additional authorization**
-
-(1) **In general** — In addition to the amounts made available under subsection (a), the Foundation may accept Federal funds from a Federal agency under any other Federal law for use by the Foundation to further the assessment, prevention, reduction, and removal of marine debris in accordance with the requirements of this subchapter.
-
-(2) **Use of funds accepted from Federal agencies** — Federal funds provided to the Foundation under paragraph (1) shall be used by the Foundation for matching, in whole or in part, contributions (whether in currency, services, or property) made to the Foundation by private persons and State and local government agencies.
-
-**(c) Prohibition on use of grant amounts for litigation and lobbying expenses** Amounts provided as a grant by the Foundation shall not be used for—
-
-(1) any expense related to litigation consistent with Federal-wide cost principles; or
-
-(2) any activity the purpose of which is to influence legislation pending before Congress consistent with Federal-wide cost principles.
-
-### Statutory Notes
-
-#### References in Text
-This subchapter, referred to in subsecs. (a)(1) and (b)(1), was in the original “this title”, meaning title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which is classified principally to this subchapter. For complete classification of title I to the Code, see Tables.
-
-
-<a id="section-4231"></a>
-## § 4231. Termination of authority
-
-The authority of the Foundation under this part shall terminate on the date that is 10 years after the establishment of the Foundation, unless the Foundation is reauthorized by an Act of Congress.
-
-
-<a id="section-4232"></a>
-## § 4232. Definitions
-
-In this part:
-
-(1) **Prize competition** — The term “prize competition” means the competition for the award of the Genius Prize for Save Our Seas Innovations established under [section 4232 of this title](./chapter-055-save-our-seas-2-0.md#section-4232).
-
-(2) **Secretary** — The term “Secretary” means the Secretary of Commerce.
-
-
-<a id="section-4233"></a>
-## § 4233. Genius Prize for Save Our Seas Innovations
-**(a) In general**
-
-(1) **In general** — Not later than 1 year after December 18, 2020, the Secretary shall establish under [section 3719 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3719&num=0&edition=prelim) a prize competition—
-
-  (A) to encourage technological innovation with the potential to reduce plastic waste, and associated and potential pollution, and thereby prevent marine debris; and
-
-  (B) to award 1 or more prizes biennially for projects that advance human understanding and innovation in removing and preventing plastic waste, in one of the categories described in paragraph (2).
-
-(2) **Categories for projects** — The categories for projects are:
-
-  (A) Advancements in materials used in packaging and other products that, if such products enter the coastal or ocean environment, will fully degrade without harming the environment, wildlife, or human health.
-
-  (B) Innovations in production and packaging design that reduce the use of raw materials, increase recycled content, encourage reusability and recyclability, and promote a circular economy.
-
-  (C) Improvements in marine debris detection, monitoring, and cleanup technologies and processes.
-
-  (D) Improvements or improved strategies to increase solid waste collection, processing, sorting, recycling, or reuse.
-
-  (E) New designs or strategies to reduce overall packaging needs and promote reuse.
-
-**(b) Designation** The prize competition established under subsection (a) shall be known as the “Genius Prize for Save Our Seas Innovations”.
-
-**(c) Prioritization** In selecting awards for the prize competition, priority shall be given to projects that—
-
-(1) have a strategy, submitted with the application or proposal, to move the new technology, process, design, material, or other product supported by the prize to market-scale deployment;
-
-(2) support the concept of a circular economy; and
-
-(3) promote development of materials that—
-
-  (A) can fully degrade in the ocean without harming the environment, wildlife, or human health; and
-
-  (B) are to be used in fishing gear or other maritime products that have an increased likelihood of entering the coastal or ocean environment as unintentional waste.
-
-
-<a id="section-4234"></a>
-## § 4234. Agreement with the Marine Debris Foundation
-**(a) In general** The Secretary may offer to enter into an agreement, which may include a grant or cooperative agreement, under which the Marine Debris Foundation established under title I 11 See References in Text note below. may administer the prize competition.
-
-**(b) Requirements** An agreement entered into under subsection (a) shall comply with the following requirements:
-
-(1) **Duties** — The Marine Debris Foundation shall—
-
-  (A) advertise the prize competition;
-
-  (B) solicit prize competition participants;
-
-  (C) administer funds relating to the prize competition;
-
-  (D) receive Federal and non-Federal funds—
-
-    (i) to administer the prize competition; and
-
-    (ii) to award a cash prize;
-
-  (E) carry out activities to generate contributions of non-Federal funds to offset, in whole or in part—
-
-    (i) the administrative costs of the prize competition; and
-
-    (ii) the costs of a cash prize;
-
-  (F) in the design and award of the prize, consult, as appropriate with experts from—
-
-    (i) Federal agencies with jurisdiction over the prevention of marine debris or the promotion of innovative materials;
-
-    (ii) State agencies with jurisdiction over the prevention of marine debris or the promotion of innovative materials;
-
-    (iii) State, regional, or local conservation or post-consumer materials management organizations, the mission of which relates to the prevention of marine debris or the promotion of innovative materials;
-
-    (iv) conservation groups, technology companies, research institutions, scientists (including those with expertise in marine environments) institutions of higher education, industry, or individual stakeholders with an interest in the prevention of marine debris or the promotion of innovative materials;
-
-    (v) experts in the area of standards development regarding the degradation, breakdown, or recycling of polymers; and
-
-    (vi) other relevant experts of the Board’s choosing;
-
-  (G) in consultation with, and subject to final approval by, the Secretary, develop criteria for the selection of prize competition winners;
-
-  (H) provide advice and consultation to the Secretary on the selection of judges under [section 4234 of this title](./chapter-055-save-our-seas-2-0.md#section-4234) based on criteria developed in consultation with, and subject to the final approval of, the Secretary;
-
-  (I) announce 1 or more annual winners of the prize competition;
-
-  (J) subject to paragraph (2), award 1 or more cash prizes biennially of not less than $100,000; and
-
-  (K) protect against unauthorized use or disclosure by the Marine Debris Foundation of any trade secret or confidential business information of a prize competition participant.
-
-(2) **Additional cash prizes** — The Marine Debris Foundation may award more than 1 cash prize in a year—
-
-  (A) if the initial cash prize referred to in paragraph (1)(J) and any additional cash prizes are awarded using only non-Federal funds; and
-
-  (B) consisting of an amount determined by the Under Secretary after the Secretary is notified by the Marine Debris Foundation that non-Federal funds are available for an additional cash prize.
-
-(3) **Solicitation of funds** — The Marine Debris Foundation—
-
-  (A) may request and accept Federal funds and non-Federal funds for a cash prize or administration of the prize competition;
-
-  (B) may accept a contribution for a cash prize in exchange for the right to name the prize; and
-
-  (C) shall not give special consideration to any Federal agency or non-Federal entity in exchange for a donation for a cash prize awarded under this section.
-
-### Statutory Notes
-
-#### References in Text
-Title I, referred to in subsec. (a), means title I of Pub. L. 116–224, which is classified principally to this subchapter, but probably should have been a reference to subtitle B of title I of Pub. L. 116–224, which is classified generally to part A of this subchapter and relates to the Marine Debris Foundation.
-
-
-<a id="section-4235"></a>
-## § 4235. Judges
-**(a) Appointment** The Secretary shall appoint not fewer than 3 judges who shall, except as provided in subsection (b), select the 1 or more annual winners of the prize competition.
-
-**(b) Determination by the Secretary** The judges appointed under subsection (a) shall not select any annual winner of the prize competition if the Secretary makes a determination that, in any fiscal year, none of the technological advancements entered into the prize competition merits an award.
-
-
-<a id="section-4236"></a>
-## § 4236. Report to Congress
-
-Not later than 60 days after the date on which a cash prize is awarded under this subchapter, the Secretary shall post on a publicly available website a report on the prize competition that includes—
-
-(1) if the Secretary has entered into an agreement under [section 4233 of this title](./chapter-055-save-our-seas-2-0.md#section-4233), a statement by the Marine Debris Foundation that describes the activities carried out by the Marine Debris Foundation relating to the duties described in [section 4233 of this title](./chapter-055-save-our-seas-2-0.md#section-4233); and
-
-(2) a statement by 1 or more of the judges appointed under [section 4234 of this title](./chapter-055-save-our-seas-2-0.md#section-4234) that explains the basis on which the winner of the cash prize was selected.
-
-### Statutory Notes
-
-#### References in Text
-This subchapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which is classified principally to this subchapter. For complete classification of title I to the Code, see Tables.
-
-
-<a id="section-4237"></a>
-## § 4237. Authorization of appropriations
-
-Of the amounts authorized under [section 4218(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section4218/a&num=0&edition=prelim), the Secretary of Commerce shall use up to $1,000,000 to carry out this part.
+#### Codification
+Sections 111 to 119 of Pub. L. 116–224, formerly classified to sections 4211 to 4219, respectively, of this title, were renumbered sections 111 to 119 of Pub. L. 109–449 by Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987, and transferred to sections 1961 to 1969, respectively, of this title.
 
 
 <a id="section-4251"></a>
-## § 4251. Termination of authority
+## § 4251. Transferred
 
-The prize program will terminate after 5 prize competition cycles have been completed.
+### Statutory Notes
+
+#### Codification
+Sections 121 to 127 of Pub. L. 116–224, formerly classified to sections 4231 to 4237, respectively, of this title, were renumbered sections 121 to 127 of Pub. L. 109–449 by Pub. L. 119–65, § 4(a), Dec. 26, 2025, 139 Stat. 1989, and transferred to sections 1971 to 1977, respectively, of this title.
 
 
 <a id="section-4261"></a>

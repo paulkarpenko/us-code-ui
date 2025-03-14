@@ -2,7 +2,7 @@
 title: 2
 chapter: '55'
 heading: HOUSE OF REPRESENTATIVES OFFICERS AND ADMINISTRATION
-section_count: 51
+section_count: 52
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -1170,6 +1170,13 @@ Aug. 1, 1953, ch. 304, title I, 67 Stat. 325.
 
 #### Change of Name
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+
+<a id="section-5607"></a>
+## § 5607. Member security: funding for improvements
+**(a)** The Sergeant at Arms of the House of Representatives may use funds made available for providing security for the residences of Members of the House to make essential security improvements if the improvements are included in a category established and updated as necessary by the Sergeant at Arms and approved and regulated by the Committee on House Administration.
+
+**(b)** This section shall apply with respect to funds made available for fiscal year 2026 and each succeeding fiscal year.
 
 
 <a id="section-5621"></a>

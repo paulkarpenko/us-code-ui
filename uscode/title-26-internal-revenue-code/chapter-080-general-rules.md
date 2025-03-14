@@ -1479,7 +1479,7 @@ The date of the enactment of the Taxpayer First Act, referred to in par. (1)(C),
 ### Statutory Notes
 
 #### References in Text
-The date of enactment of this title, referred to in subsecs. (a)(1)(A), (5), (6)(A) to (C), (7), (b)(2), (3), is Aug. 16, 1954.
+The date of enactment of this title, referred to in subsecs. (a)(1)(A), (5), (6)(A) to (C), (7) and (b)(2), (3), is Aug. 16, 1954.
 
 Various provisions of the Internal Revenue Code of 1939, referred to in text and described below, have corresponding provisions appearing in the Internal Revenue Code of 1986 [formerly I.R.C. 1954]. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1). See, also, subsec. (e) of this section for provision that references in the 1986 Code to a provision in the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
@@ -1493,7 +1493,7 @@ Section 3801 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)
 
 Chapter 7 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(B), (4), was comprised of sections 1250 to 1254 of former Title 26, Internal Revenue Code.
 
-The Internal Revenue Code of 1939, referred to in subsecs. (a)(1)(C), (4), (6)(A) to (C), (C)(iii), (D), (7), (b)(1) to (3), (e), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1939, referred to in subsecs. (a)(1)(C), (4), (6)(A) to (C), (C)(iii), (D), (7), (b)(1) to (3), and (e), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code.
 
 Sections 13(b)(3), 26(b)(2)(C), 26(h)(1)(C), 26(i)(3), 108(k), 207(a)(1)(C), 207(a)(3)(C), and the last sentence of section 362(b)(3), referred to in subsec. (a)(1)(D)(i), were classified to former sections 13(b)(3), 26(b)(2)(C), (h)(1)(C), (i)(3), 108(k), 207(a)(1)(C), (3)(C), and 362(b)(3) of former Title 26, Internal Revenue Code. Sections 13(b)(3), 26(b)(2)(C), (h)(1)(C), (i)(3), 108(k), 207(a)(1)(C), (3)(C), and 362(b)(3) were repealed by subsec. (a)(1)(d)(i) of this section.
 
@@ -1566,7 +1566,7 @@ The Internal Revenue Code of 1939, referred to in subsec. (b), is act Feb. 10, 1
 
 Chapters 1 and 2 of the Internal Revenue Code of 1939, referred to in subsec. (c), are chapters 1 and 2 of former Title 26, Internal Revenue Code. For history of such chapters, see References in Text note set out under [section 7851 of this title](./chapter-080-general-rules.md#section-7851).
 
-The Privacy Act of 1974, referred to in subsec. (e), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, as amended, which enacted [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees, and enacted notes set out under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim) and Tables.
+The Privacy Act of 1974, referred to in subsec. (e), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees, and enacted notes set out under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1988—Subsec. (d). Pub. L. 100–647 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No provision of this title shall apply in any case where its application would be contrary to any treaty obligation of the United States in effect on the date of enactment of this title.”

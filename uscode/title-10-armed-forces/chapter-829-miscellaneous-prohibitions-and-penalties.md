@@ -42,7 +42,7 @@ Section 8259, acts Aug. 10, 1956, ch. 1041, 70A Stat. 505; Sept. 29, 1988, Pub. 
 Section 8260, act Aug. 10, 1956, ch. 1041, 70A Stat. 505, provided that enlisted members of Air National Guard of United States are transferred to Air Force Reserve upon withdrawal as members of Air National Guard. See [section 12106 of this title](./chapter-1203-enlisted-members.md#section-12106).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6113 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6113&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6113 of this title](./chapter-602-nuclear-weapons-stockpile-matters.md#section-6113) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

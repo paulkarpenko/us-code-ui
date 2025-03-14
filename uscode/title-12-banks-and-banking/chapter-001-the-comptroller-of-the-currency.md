@@ -18,6 +18,15 @@ source: >-
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)
+Pub. L. 119–27, §§ 4(b)(2), 20, July 18, 2025, 139 Stat. 434, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, subsection (b) of this section is amended by adding at the end the following:
+
+(3) Regulation of Federal qualified payment stablecoin issuers
+
+The Comptroller of the Currency shall, in coordination with other relevant regulators and consistent with [section 5913 of this title](./chapter-056-regulation-of-payment-stablecoins.md#section-5913), issue such regulations and orders as necessary to ensure financial stability and implement [section 5903(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5903/a&num=0&edition=prelim).
+
+See 2025 Amendment note below.
+
 #### References in Text
 The Enhancing Financial Institution Safety and Soundness Act of 2010, referred to in subsec. (b)(2), is Pub. L. 111–203, title III, July 21, 2010, 124 Stat. 1520. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
 
@@ -27,11 +36,16 @@ R.S. § 324 derived from act June 3, 1864, ch. 106, § 1, 13 Stat. 99, which was
 Section is comprised of R.S. § 324, as amended by the eighth paragraph of act Dec. 23, 1913, § 10.
 
 #### Amendments
+2025—Subsec. (b)(3). Pub. L. 119–27 added par. (3).
+
 2010—Pub. L. 111–203 amended section generally. Prior to amendment, section read as follows: “There shall be in the Department of the Treasury a bureau charged with the execution of all laws passed by Congress relating to the issue and regulation of national currency secured by United States bonds and, under the general supervision of the Board of Governors of the Federal Reserve System, of all Federal Reserve notes, except for the cancellation and destruction, and accounting with respect to such cancellation and destruction, of Federal Reserve notes unfit for circulation, the chief officer of which bureau shall be called the Comptroller of the Currency and shall perform his duties under the general directions of the Secretary of the Treasury. The Comptroller of the Currency shall have the same authority over matters within the jurisdiction of the Comptroller as the Director of the Office of Thrift Supervision has over matters within the Director’s jurisdiction under [section 1462a(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1462a/b/3&num=0&edition=prelim). The Secretary of the Treasury may not delay or prevent the issuance of any rule or the promulgation of any regulation by the Comptroller of the Currency.”
 
 1994—Pub. L. 103–325 inserted at end “The Comptroller of the Currency shall have the same authority over matters within the jurisdiction of the Comptroller as the Director of the Office of Thrift Supervision has over matters within the Director’s jurisdiction under [section 1462a(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1462a/b/3&num=0&edition=prelim). The Secretary of the Treasury may not delay or prevent the issuance of any rule or the promulgation of any regulation by the Comptroller of the Currency.”
 
 1966—Pub. L. 89–427 inserted exception relating to cancellation and destruction, and accounting with respect to the cancellation and destruction, of Federal Reserve notes unfit for circulation.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as an Effective Date note under [section 5901 of this title](./chapter-056-regulation-of-payment-stablecoins.md#section-5901).
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–203, title III, § 314(d), July 21, 2010, 124 Stat. 1524, provided that: “This section [enacting [section 4b of this title](./chapter-001-the-comptroller-of-the-currency.md#section-4b) and amending this section and [section 11 of this title](./chapter-001-the-comptroller-of-the-currency.md#section-11)], and the amendments made by this section, shall take effect on the transfer date.”

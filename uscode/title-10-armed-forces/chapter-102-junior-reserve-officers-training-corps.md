@@ -10,7 +10,7 @@ source: >-
 ## § 2031. Junior Reserve Officers’ Training Corps
 **(a)**
 
-(1) The Secretary of each military department shall establish and maintain a Junior Reserve Officers’ Training Corps, organized into units, at public and private secondary educational institutions which apply for a unit and meet the standards and criteria prescribed pursuant to this section. The Secretary of Defense shall promulgate regulations prescribing the standards and criteria to be followed by the military departments in selecting the institutions at which units are to be established and maintained.
+(1) The Secretary of each military department shall establish and maintain a Junior Reserve Officers’ Training Corps, organized into units, at public and private secondary educational institutions, including Job Corps centers as defined in section 147 of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3197](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3197&num=0&edition=prelim)), which apply for a unit and meet the standards and criteria prescribed pursuant to this section. The Secretary of Defense shall promulgate regulations prescribing the standards and criteria to be followed by the military departments in selecting the institutions at which units are to be established and maintained.
 
 (2) It is a purpose of the Junior Reserve Officers’ Training Corps to instill in students in United States secondary educational institutions the values of citizenship, service to the United States (including an introduction to service opportunities in military, national, and public service), and personal responsibility and a sense of accomplishment.
 
@@ -18,15 +18,27 @@ source: >-
 
 (1) No unit may be established or maintained at an institution unless—
 
-  (A) the number of physically fit students in such unit who are in a grade above the 7th grade and physically co-located with the 9th grade participating unit and are citizens or nationals of the United States, or aliens lawfully admitted to the United States for permanent residence, is not less than (i) 10 percent of the number of students enrolled in the institution who are in a grade above the 7th grade and physically co-located with the 9th grade participating unit, or (ii) 100, whichever is less;
+  (A) the number of physically fit students in such unit who are in a grade above the 7th grade and physically co-located with the 9th grade participating unit and are citizens or nationals of the United States, or aliens lawfully admitted to the United States for permanent residence, is—
+
+    (i) in the case of an educational institution with fewer than 1,000 enrolled students, the lesser of—
+
+      (I) 10 percent of the number of such students who are in a grade above the 7th grade and physically co-located with the 9th grade participating unit; and
+
+      (II) 50; or
+
+    (ii) in the case of an educational institution with 1,000 or more enrolled students—
+
+      (I) 50; or
+
+      (II) a number, determined by the Secretary of the military department concerned, that is higher than 50 and not more than 100;
 
   (B) the institution has adequate facilities for classroom instruction, storage of arms and other equipment which may be furnished in support of the unit, and adequate drill areas at or in the immediate vicinity of the institution, as determined by the Secretary of the military department concerned;
 
-  (C) the institution provides a course of military instruction of not less than three academic years’ duration and which may include instruction or activities in the fields of science, technology, engineering, and mathematics, as prescribed by the Secretary of the military department concerned;
+  (C) the institution provides a course of military instruction of not less than three academic years’ duration and which may include instruction or activities in the fields of science, technology, engineering, and mathematics, as prescribed by the Secretary of the military department concerned, or is a Job Corps center as defined in section 147 of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3197](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3197&num=0&edition=prelim));
 
   (D) the institution agrees to limit membership in the unit to students who maintain acceptable standards of academic achievement and conduct, as prescribed by the Secretary of the military department concerned; and
 
-  (E) the unit meets such other requirements as the Secretary of the military department concerned prescribes in the memorandum of understanding required under paragraph (2)..11 So in original.
+  (E) the unit meets such other requirements as the Secretary of the military department concerned prescribes in the memorandum of understanding required under paragraph (2).
 
 (2) The Secretary of Defense shall prescribe in regulations a memorandum of understanding to be signed by the Secretary of the military department concerned and each institution operating a unit under this section. The memorandum shall be standardized to the extent practicable and include the following elements:
 
@@ -50,15 +62,17 @@ source: >-
 
     (v) has developed processes to ensure that each student enrolled in a unit under this section has done so voluntarily; and
 
-    (vi) agrees to provide the data necessary to compile the report required under subsection (i).
+    (vi) agrees to provide the data necessary to compile the report under subsection (j).
 
 **(c)** The Secretary of the military department concerned shall, to support the Junior Reserve Officers’ Training Corps program—
 
 (1) detail officers and noncommissioned officers of an armed force under his jurisdiction to institutions having units of the Corps as administrators and instructors;
 
-(2) provide necessary text materials, equipment, and uniforms and, to the extent considered appropriate by the Secretary concerned, such additional resources (including transportation and billeting) as may be available to support activities of the program; and
+(2) provide necessary text materials, equipment, and uniforms and, to the extent considered appropriate by the Secretary concerned, such additional resources (including transportation and billeting) as may be available to support activities of the program;
 
-(3) establish minimum acceptable standards for performance and achievement for qualified units.
+(3) establish minimum acceptable standards for performance and achievement for qualified units; and
+
+(4) maintain a prioritized waiting list that includes all secondary educational institutions that have made a request for a unit under this section and have not yet been approved by the Secretary concerned, and prescribe regulations describing the factors to be considered in assigning priority, including the length of time an institution has been waiting for a unit.
 
 **(d)**
 
@@ -83,6 +97,8 @@ source: >-
   (C) Payments by the Secretary concerned under this subsection shall be made from funds appropriated for that purpose.
 
   (D) The Secretary concerned may require successful applicants to transfer to the Individual Ready Reserve.
+
+(3) The Secretary concerned may not require an officer or noncommissioned officer described in paragraph (1)(B) to have completed more than 8 years of service as a member of the armed forces as a condition for approval by the Secretary to serve as an administrator or instructor in the program.
 
 **(e)**
 
@@ -126,7 +142,7 @@ source: >-
 
 **(i)**
 
-(1) 22 So in original. Two subsecs. (i) have been enacted. The Secretary of Defense shall establish and support not fewer than 3,400, and not more than 4,000, units of the Junior Reserve Officers’ Training Corps.
+(1) The Secretary of Defense shall establish and support not fewer than 3,400, and not more than 4,000, units of the Junior Reserve Officers’ Training Corps.
 
 (2) The requirement under paragraph (1) shall not apply—
 
@@ -134,9 +150,9 @@ source: >-
 
   (B) during a time of national emergency when the Secretaries of the military departments determine that funding must be allocated elsewhere.
 
-**(i)**
+**(j)**
 
-(1) 2 Not later than March 31, 2024, and annually thereafter through March 31, 2029, the Secretary of Defense shall submit to Committees on Armed Services of the Senate and the House of Representatives a report on allegations of sexual misconduct, sexual harassment, and sex discrimination in Junior Reserve Officers’ Training Corps programs during the preceding year.
+(1) Not later than March 31, 2024, and annually thereafter through March 31, 2029, the Secretary of Defense shall submit to Committees on Armed Services of the Senate and the House of Representatives a report on allegations of sexual misconduct, sexual harassment, and sex discrimination in Junior Reserve Officers’ Training Corps programs during the preceding year.
 
 (2) Each report required under paragraph (1) shall set forth the following:
 
@@ -170,14 +186,39 @@ source: >-
 
 ### Statutory Notes
 
+#### Amendment of Subsection (i)
+Pub. L. 119–60, div. A, title V, § 542(a), (b), Dec. 18, 2025, 139 Stat. 873, provided that, effective on Oct. 1, 2027, subsection (i) of this section is amended by striking “support not fewer than 3,400, and not more than 4,000, units” and inserting “support not fewer than 3,600, and not more than 4,200, units”. See 2025 Amendment note below.
+
 #### References in Text
-The Education Amendments of 1972, referred to in subsecs. (b)(2)(E)(i) and (i)(2)(A), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) and Tables.
+The Education Amendments of 1972, referred to in subsecs. (b)(2)(E)(i) and (j)(2)(A), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (b)(2)(E)(i), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
 Section 1260H(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (g)(4), is section 1260H(a) of Pub. L. 116–283, which is set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
 
 #### Amendments
+2025—Subsec. (d)(3). Pub. L. 119–60, § 541, added par. (3).
+
+Subsec. (i). Pub. L. 119–60, § 542(c), repealed Pub. L. 118–159, § 545(a). See 2024 Amendment note below.
+
+Pub. L. 119–60, § 542(a), substituted “support not fewer than 3,600, and not more than 4,200, units” for “support not fewer than 3,400, and not more than 4,000, units”.
+
+2024—Subsec. (a)(1). Pub. L. 118–159, § 542(1), inserted “, including Job Corps centers as defined in section 147 of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3197](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3197&num=0&edition=prelim)),” after “secondary educational institutions”.
+
+Subsec. (b)(1)(A). Pub. L. 118–159, § 543, substituted “is—” for “is not less than (i) 10 percent of the number of students enrolled in the institution who are in a grade above the 7th grade and physically co-located with the 9th grade participating unit, or (ii) 100, whichever is less;” and added cls. (i) and (ii).
+
+Subsec. (b)(1)(C). Pub. L. 118–159, § 542(2), inserted “, or is a Job Corps center as defined in section 147 of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3197](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3197&num=0&edition=prelim))” after “military department concerned”.
+
+Subsec. (b)(1)(E). Pub. L. 118–159, § 1701(a)(25)(A)(i), struck out second period at end.
+
+Subsec. (b)(2)(E)(vi). Pub. L. 118–159, § 1701(a)(25)(A)(ii), which directed substitution of “report under subsection (j)” for “report under subsection (i)”, was executed by making the substitution for “report required under subsection (i)”, to reflect the probable intent of Congress.
+
+Subsec. (c)(4). Pub. L. 118–159, § 544, added par. (4).
+
+Subsec. (i). Pub. L. 118–159, § 545(a), which directed the substitution of “support not fewer than 3,500, and not more than 4,100, units” for “support not fewer than 3,400, and not more than 4,000, units”, was repealed by Pub. L. 119–60, § 542(c).
+
+Subsec. (j). Pub. L. 118–159, § 1701(a)(25)(B), redesignated second subsec. (i), relating to Junior Reserve Officers’ Training Corps programs, as (j).
+
 2023—Subsec. (a)(1). Pub. L. 118–31, § 551(1)(B), which directed substitution of “maintained.” for “ ‘maintained, and shall provide’ and all that follows through the period at the end”, was executed by making the substitution for “maintained and shall provide for the fair and equitable distribution of such units throughout the Nation, except that more than one such unit may be established and maintained at any military institute.”, to reflect the probable intent of Congress.
 
 Pub. L. 118–31, § 551(1)(A), substituted “The Secretary of Defense shall promulgate” for “The President shall promulgate”.
@@ -242,6 +283,12 @@ Subsec. (b)(5). Pub. L. 98–525, § 422(2)–(4), added par. (5).
 
 1966—Subsec. (d). Pub. L. 89–718 capitalized first letter of first word in cls. (1) and (2).
 
+#### Effective Date of 2025 Amendment
+Pub. L. 119–60, div. A, title V, § 542(b), Dec. 18, 2025, 139 Stat. 873, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2027.”
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–159, div. A, title V, § 545(b), Dec. 23, 2024, 138 Stat. 1893, which provided that the amendment made by subsection (a) (amending this section) shall take effect on Oct. 1, 2026, was repealed by Pub. L. 119–60, div. A, title V, § 542(c), Dec. 18, 2025, 139 Stat. 873.
+
 #### Effective Date of 2019 Amendment
 Pub. L. 116–92, div. A, title V, § 512(b), Dec. 20, 2019, 133 Stat. 1348, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 180 days after the date of the enactment of this Act [Dec. 20, 2019].”
 
@@ -256,6 +303,9 @@ Pub. L. 88–647, title I, § 102, Oct. 13, 1964, 78 Stat. 1064, directed that r
 
 #### Savings Clause
 Pub. L. 88–647, title IV, § 402, Oct. 13, 1964, 78 Stat. 1074, provided that: “If a part of this Act [see Short Title note above] is invalid, all valid parts that are severable from the invalid part remains in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications.”
+
+#### Temporary Authority To Provide Bonuses to Junior Reserve Officers’ Training Corps Instructors
+Pub. L. 119–60, div. A, title V, § 546, Dec. 18, 2025, 139 Stat. 874, provided that: “(a) In General.—The Secretary concerned may pay to a member or former member of the Armed Forces under the jurisdiction of the Secretary a one-time bonus of not more than $10,000 if the member or former member—“(1) agrees to be an instructor for the Junior Reserve Officers’ Training Corps under [section 2031(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2031/d&num=0&edition=prelim), United States Code, in a position the Secretary concerned determines is difficult to fill; and “(2) serves as such an instructor for not less than one academic year. “(b) Briefing Required.—Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], and annually thereafter until the termination date described in subsection (c), the Secretary of Defense shall brief the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] on—“(1) the use of the authority provided by subsection (a); and “(2) the effectiveness of bonuses provided under subsection (a) on increasing the number of instructors for the Junior Reserve Officers’ Training Corps. “(c) Termination.—The authority provided by subsection (a) terminates on the date that is five years after the date of the enactment of this Act. “(d) Secretary Concerned Defined.—In this section, the term ‘Secretary concerned’ has the meaning given that term in [section 101 of title 10](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101), United States Code.”
 
 #### Treatment of Current Administrators and Instructors
 Pub. L. 118–31, div. A, title V, § 553(b), Dec. 22, 2023, 137 Stat. 271, provided that: “An administrator or instructor employed under [section 2031 of title 10](./chapter-102-junior-reserve-officers-training-corps.md#section-2031), United States Code, on the date of enactment of this section [Dec. 22, 2023] shall not be subject to a reduction in total compensation as a result of such enactment.”

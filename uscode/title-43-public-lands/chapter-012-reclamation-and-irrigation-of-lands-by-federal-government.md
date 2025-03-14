@@ -938,7 +938,11 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 (1) **Contributed funds for corps projects** — The Secretary may may receive and expend funds contributed by a non-Federal interest for the review and approval of a proposal submitted under subsection (a).
 
-(2) **Contributed funds for other Federal reservoir projects** — The Secretary is authorized to receive and expend funds from a non-Federal interest to formulate, review, or revise operational documents, pursuant to a proposal submitted in accordance subsection (a), for any reservoir for which the Secretary is authorized to prescribe regulations for the use of storage allocated for flood control or navigation pursuant to [section 709 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section709&num=0&edition=prelim).
+(2) **Contributed funds for other Federal reservoir projects**
+
+  (A) *In general* — The Secretary is authorized to receive and expend funds from a non-Federal interest or a Federal agency that owns a Federal reservoir project described in subparagraph (B) to formulate, review, or revise operational documents pursuant to a proposal submitted in accordance with subsection (a) for such a Federal reservoir project.
+
+  (B) *Federal reservoir projects described* — A Federal reservoir project referred to in subparagraph (A) is a reservoir for which the Secretary is authorized to prescribe regulations for the use of storage allocated for flood control or navigation pursuant to [section 709 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section709&num=0&edition=prelim).
 
 **(j) Assistance** On request by a non-Federal interest, the Secretary may provide technical assistance in the development or implementation of a proposal under subsection (a), including assistance in obtaining necessary permits for construction, if the non-Federal interest contracts with the Secretary to pay all costs of providing the technical assistance.
 
@@ -957,6 +961,8 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (i)(2). Pub. L. 118–272 added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary is authorized to receive and expend funds from a non-Federal interest to formulate, review, or revise operational documents, pursuant to a proposal submitted in accordance subsection (a), for any reservoir for which the Secretary is authorized to prescribe regulations for the use of storage allocated for flood control or navigation pursuant to [section 709 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section709&num=0&edition=prelim).”
+
 2020—Subsec. (i). Pub. L. 116–260 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 #### “Secretary” Defined
@@ -3332,7 +3338,7 @@ The planning and construction of projects undertaken pursuant to this subchapter
 ### Statutory Notes
 
 #### References in Text
-The Fish and Wildlife Coordination Act ([48 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section401&num=0&edition=prelim)), as amended, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see [section 661(a) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661&num=0&edition=prelim), and Tables.
+The Fish and Wildlife Coordination Act (48 Stat. 401), as amended, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see [section 661(a) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661&num=0&edition=prelim), and Tables.
 
 #### Amendments
 1986—Pub. L. 99–546 inserted provisions which related to transfer of funds for conduct of investigations to Fish and Wildlife Service or to National Marine Fisheries Service.

@@ -2,7 +2,7 @@
 title: 33
 chapter: '43'
 heading: NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION COMMISSIONED OFFICER CORPS
-section_count: 51
+section_count: 52
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
@@ -161,7 +161,12 @@ Provisions similar to those in this section were contained in [section 853a of t
 
   (A) not physically qualified for appointment; and
 
-  (B) determined to be unqualified for service in the commissioned officer corps of the Administration because of a physical or medical condition that was not the result of the officer’s own misconduct or grossly negligent conduct.
+  (B) determined to be unqualified for service in the commissioned officer corps of the Administration because of a physical or medical condition that was not the result of the officer’s own willful misconduct.
+
+### Statutory Notes
+
+#### Amendments
+2025—Subsec. (c)(2)(B). Pub. L. 119–60 substituted “willful misconduct” for “misconduct or grossly negligent conduct”.
 
 
 <a id="section-3007"></a>
@@ -178,94 +183,61 @@ Provisions similar to those in this section were contained in [section 853a of t
 
 
 <a id="section-3008"></a>
-## § 3008. Aviation accession training programs
+## § 3008. Cooperative aviation centers
 **(a) Definitions** In this section:
 
 (1) **Administrator** — The term “Administrator” means the Under Secretary of Commerce for Oceans and Atmosphere and the Administrator of the National Oceanic and Atmospheric Administration.
 
-(2) **Member of the program** — The term “member of the program” means a student who is enrolled in the program.
+(2) **Cooperative Aviation Center** — The term “Cooperative Aviation Center” means a Cooperative Aviation Center designated under subsection (b)(1).
 
-(3) **Program** — The term “program” means an aviation accession training program of the commissioned officer corps of the Administration established pursuant to subsection (b).
+**(b) Cooperative Aviation Centers**
 
-**(b) Aviation accession training programs**
+(1) **Designation required** — The Administrator shall designate one or more Cooperative Aviation Centers for the commissioned officer corps of the Administration at institutions described in paragraph (3).
 
-(1) **Establishment authorized** — The Administrator, under regulations prescribed by the Secretary, shall establish and maintain one or more aviation accession training programs for the commissioned officer corps of the Administration at institutions described in paragraph (2).
+(2) **Purpose** — The purpose of Cooperative Aviation Centers is to facilitate the development and recruitment of aviators for the commissioned officer corps of the Administration.
 
-(2) **Institutions described** — An institution described in this paragraph is an educational institution—
+(3) **Institutions described** — An institution described in this paragraph is an educational institution that—
 
-  (A) that requests to enter into an agreement with the Administrator providing for the establishment of the program at the institution;
+  (A) applies to enter into an agreement with the Administrator providing for the establishment of the program at the institution;
 
-  (B) that has, as a part of its curriculum, a four-year baccalaureate program of professional flight and piloting instruction that is accredited by the Aviation Accreditation Board International;
+  (B) has, as a part of its curriculum, a four-year baccalaureate program of professional flight and piloting instruction that is accredited by the Aviation Accreditation Board International; and
 
-  (C) that is located in a geographic area that—
+  (C) is located in a geographic area that experiences a wide variation in climate-related activity, including frequent high winds, convective activity (including tornadoes), periods of low visibility, heat, and snow and ice episodes, to provide opportunities for pilots to demonstrate skill in all weather conditions compatible with future encounters during their service in the commissioned officer corps of the Administration.
 
-    (i) experiences a wide variation in climate-related activity, including frequent high winds, convective activity (including tornadoes), periods of low visibility, heat, and snow and ice episodes, to provide opportunities for pilots to demonstrate skill in all weather conditions compatible with future encounters during their service in the commissioned officer corps of the Administration; and
+**(c) Cooperative Aviation Centers Advisor**
 
-    (ii) has a climate that can accommodate both primary and advanced flight training activity at least 75 percent of the year; and
+(1) **Assignment** — The Administrator shall assign an officer or employee of the commissioned officer corps of the Administration to serve as the Cooperative Aviation Centers Advisor.
 
-  (D) at which the Administrator determines that—
+(2) **Duties** — The Cooperative Aviation Centers Advisor shall—
 
-    (i) there will be at least one student enrolled in the program; and
+  (A) coordinate all engagement of the Administration with Cooperative Aviation Centers, including assistance with curriculum development; and
 
-    (ii) the provisions of this section are otherwise satisfied.
+  (B) serve as the chief aviation recruiting officer for the commissioned officer corps of the Administration.
 
-(3) **Limitations in connection with particular institutions** — The program may not be established or maintained at an institution unless—
+### Statutory Notes
 
-  (A) the senior commissioned officer or employee of the commissioned officer corps of the Administration who is assigned as an advisor to the program at that institution is given the academic rank of adjunct professor; and
+#### Amendments
+2025—Pub. L. 119–60, § 8403(a)(1), substituted “Cooperative aviation centers” for “Aviation accession training programs” in section catchline.
 
-  (B) the institution fulfills the terms of its agreement with the Administrator.
+Subsec. (a)(2), (3). Pub. L. 119–60, § 8403(a)(2), added par. (2) and struck out former pars. (2) and (3), which defined, respectively, “member of the program” and “program”.
 
-(4) **Membership in connection with status as student** — At institutions at which the program is established, the membership of students in the program shall be elective, as provided by State law or the authorities of the institution concerned.
+Subsec. (b). Pub. L. 119–60, § 8403(a)(3)(A), substituted “Cooperative aviation centers” for “Aviation accession training programs” in heading.
 
-**(c) Membership**
+Subsec. (b)(1) to (3). Pub. L. 119–60, § 8403(a)(3)(B)–(D), added pars. (1) and (2), struck out former par. (1), which authorized aviation accession training programs, redesignated par. (2) as (3), and struck out former par. (3), which placed limitations on particular institutions.
 
-(1) **Eligibility** — To be eligible for membership in the program, an individual must—
+Subsec. (b)(3)(A). Pub. L. 119–60, § 8403(a)(3)(E)(ii), substituted “applies” for “that requests”.
 
-  (A) be a student at an institution at which the program is established;
+Subsec. (b)(3)(B). Pub. L. 119–60, § 8403(a)(3)(E)(iii), substituted “has” for “that has” and “; and” for semicolon.
 
-  (B) be a citizen of the United States;
+Subsec. (b)(3)(C). Pub. L. 119–60, § 8403(a)(3)(E)(iv), substituted “is located” for “that is located” and struck out “that—” after “geographic area” in introductory provisions; in cl. (i), struck out cl. (i) designation and substituted “that experiences” for “experiences” and a period for “; and”; and struck out cl. (ii), which read as follows: “has a climate that can accommodate both primary and advanced flight training activity at least 75 percent of the year; and”.
 
-  (C) contract in writing, with the consent of a parent or guardian if a minor, with the Administrator, to—
+Subsec. (b)(3)(D). Pub. L. 119–60, § 8403(a)(3)(E)(v), struck out subpar. (D) which read as follows: “at which the Administrator determines that—
 
-    (i) accept an appointment, if offered, as a commissioned officer in the commissioned officer corps of the Administration; and
+“(i) there will be at least one student enrolled in the program; and
 
-    (ii) serve in the commissioned officer corps of the Administration for not fewer than four years;
+“(ii) the provisions of this section are otherwise satisfied.”
 
-  (D) enroll in—
-
-    (i) a four-year baccalaureate program of professional flight and piloting instruction; and
-
-    (ii) other training or education, including basic officer training, which is prescribed by the Administrator as meeting the preliminary requirement for admission to the commissioned officer corps of the Administration; and
-
-  (E) execute a certificate or take an oath relating to morality and conduct in such form as the Administrator prescribes.
-
-(2) **Completion of program** — A member of the program may be appointed as a regular officer in the commissioned officer corps of the Administration if the member meets all requirements for appointment as such an officer.
-
-**(d) Financial assistance for qualified members**
-
-(1) **Expenses of course of instruction**
-
-  (A) *In general* — In the case of a member of the program who meets such qualifications as the Administrator establishes for purposes of this subsection, the Administrator may pay the expenses of the member in connection with pursuit of a course of professional flight and piloting instruction under the program, including tuition, fees, educational materials such as books, training, certifications, travel, and laboratory expenses.
-
-  (B) *Assistance after fourth academic year* — In the case of a member of the program described in subparagraph (A) who is enrolled in a course described in that subparagraph that has been approved by the Administrator and requires more than four academic years for completion, including elective requirements of the program, assistance under this subsection may also be provided during a fifth academic year or during a combination of a part of a fifth academic year and summer sessions.
-
-(2) **Room and board** — In the case of a member eligible to receive assistance under paragraph (1), the Administrator may, in lieu of payment of all or part of such assistance, pay the room and board expenses of the member, and other educational expenses, of the educational institution concerned.
-
-(3) **Failure to complete program or accept commission** — A member of the program who receives assistance under this subsection and who does not complete the course of instruction, or who completes the course but declines to accept a commission in the commissioned officer corps of the Administration when offered, shall be subject to the repayment provisions of subsection (e).
-
-**(e) Repayment of unearned portion of financial assistance when conditions of payment not met**
-
-(1) **In general** — A member of the program who receives or benefits from assistance under subsection (d), and whose receipt of or benefit from such assistance is subject to the condition that the member fully satisfy the requirements of subsection (c), shall repay to the United States an amount equal to the assistance received or benefitted from if the member fails to fully satisfy such requirements and may not receive or benefit from any unpaid amounts of such assistance after the member fails to satisfy such requirements, unless the Administrator determines that the imposition of the repayment requirement and the termination of payment of unpaid amounts of such assistance with regard to the member would be—
-
-  (A) contrary to a personnel policy or management objective;
-
-  (B) against equity and good conscience; or
-
-  (C) contrary to the best interests of the United States.
-
-(2) **Regulations** — The Administrator may establish, by regulations, procedures for determining the amount of the repayment required under this subsection and the circumstances under which an exception to repayment may be granted. The Administrator may specify in the regulations the conditions under which financial assistance to be paid to a member of the program will not be made if the member no longer satisfies the requirements in subsection (c) or qualifications in subsection (d) for such assistance.
-
-(3) **Obligation as debt to United States** — An obligation to repay the United States under this subsection is, for all purposes, a debt owed to the United States.
+Subsecs. (c) to (e). Pub. L. 119–60, § 8403(a)(4), added subsec. (c) and struck out former subsecs. (c) to (e), which related, respectively, to program membership, financial assistance for qualified members, and repayment of unearned portion of financial assistance when conditions of payment are not met.
 
 
 <a id="section-3009"></a>
@@ -416,7 +388,7 @@ Provisions similar to those in this section were contained in [section 853r of t
 <a id="section-3023"></a>
 ## § 3023. Separation of ensigns found not fully qualified
 
-If an officer in the permanent grade of ensign is at any time found not fully qualified, the officer’s commission shall be revoked and the officer shall be separated from the commissioned service.
+If an officer in the grade of ensign is at any time found not fully qualified, the officer shall be separated from the commissioned service.
 
 ### Statutory Notes
 
@@ -424,6 +396,8 @@ If an officer in the permanent grade of ensign is at any time found not fully qu
 Provisions similar to those in this section were contained in [section 853e of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section853e&num=0&edition=prelim) prior to repeal by Pub. L. 107–372.
 
 #### Amendments
+2025—Pub. L. 119–60 struck out “permanent” before “grade of ensign” and “the officer’s commission shall be revoked and” before “the officer shall be separated”.
+
 2022—Pub. L. 117–263 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) relating, respectively, to promotion of ensigns to grade of lieutenant (junior grade) and separation of ensigns found not fully qualified.
 
 #### Delegation of Functions
@@ -455,8 +429,9 @@ Provisions similar to those in this section were contained in [section 853f of t
 
 <a id="section-3026"></a>
 ## § 3026. Appointments and promotions to permanent grades
+**(a) In general** Appointments in and promotions to all permanent grades, other than a grade described in subsection (b), shall be made by the President.
 
-Appointments in and promotions to all permanent grades shall be made by the President.
+**(b) Flag Officers** Appointments in and promotions to the grade of rear admiral (upper half) or above shall be made by the President, by and with the advice and consent of the Senate.
 
 ### Statutory Notes
 
@@ -464,6 +439,8 @@ Appointments in and promotions to all permanent grades shall be made by the Pres
 Provisions similar to those in this section were contained in [section 853i(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section853i/a&num=0&edition=prelim) prior to repeal by Pub. L. 107–372.
 
 #### Amendments
+2025—Pub. L. 119–60 designated existing provisions as subsec. (a) and inserted heading, inserted “, other than a grade described in subsection (b),” after “all permanent grades” and added subsec. (b).
+
 2012—Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
 
 #### Effective Date of 2012 Amendment
@@ -487,7 +464,7 @@ Provisions similar to those in this section were contained in [section 854 of th
 
 **(b) Assignment of officers to designated positions** The Secretary may assign officers to positions designated under subsection (a).
 
-**(c) Director of NOAA Corps and Office of Marine and Aviation Operations** The President shall designate one position as responsible for oversight of the vessel and aircraft fleets and for the administration of the commissioned officer corps. The President shall fill that position by appointing, by and with the advice and consent of the Senate, an officer on the lineal list serving in or above the grade of rear admiral (lower half). For the specific purpose of administering the commissioned officer corps, that position shall carry the title of Director of the National Oceanic and Atmospheric Administration Commissioned Officer Corps. For the specific purpose of administering the vessel and aircraft fleets, that position shall carry the title of Director of the Office of Marine and Aviation Operations.
+**(c) Director of NOAA Commissioned Officer Corps and Assistant Administrator for Marine and Aviation Operations** The President shall designate one position as responsible for oversight of the vessel and aircraft fleets and for the administration of the commissioned officer corps. The President shall fill that position by appointing, by and with the advice and consent of the Senate, an officer on the lineal list who has served, on the date of such appointment, in the grade of captain or above for not less than one year. For the specific purpose of administering the commissioned officer corps, that position shall carry the title of Director of the National Oceanic and Atmospheric Administration Commissioned Officer Corps. For the specific purpose of administering the vessel and aircraft fleets, that position shall carry the title of Assistant Administrator of the National Oceanic and Atmospheric Administration for Marine and Aviation Operations.
 
 **(d) Grade**
 
@@ -511,6 +488,8 @@ Provisions similar to those in this section were contained in [section 854 of th
 Provisions similar to those in this section were contained in [section 853u of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section853u&num=0&edition=prelim) prior to repeal by Pub. L. 107–372.
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 119–60 substituted “Commissioned Officer Corps and Assistant Administrator for” for “Corps and Office of” in heading, “who has served, on the date of such appointment, in the grade of captain or above for not less than one year” for “serving in or above the grade of rear admiral (lower half)” in second sentence, and “Assistant Administrator of the National Oceanic and Atmospheric Administration for” for “Director of the Office of” in fourth sentence.
+
 2020—Subsec. (c). Pub. L. 116–259, § 303(1), substituted “The President shall designate one position” for “The Secretary shall designate one position under this section” in first sentence, and “The President shall fill that position by appointing, by and with the advice and consent of the Senate,” for “That position shall be filled by” in second sentence.
 
 Subsec. (d)(2). Pub. L. 116–259, § 303(2), inserted “or immediately beginning a period of terminal leave” after “for which a higher grade is designated”.
@@ -765,7 +744,15 @@ The Secretary may take such measures as the Secretary determines necessary in or
 
 **(b) Computations** In any fiscal year, the total number of officers selected for retirement or separation under subsection (a) plus the number of officers retired for age may not exceed the whole number nearest 4 percent of the total number of officers authorized to be on the active list, except as otherwise provided by law.
 
-**(c) Effective date of retirements and separations** A retirement or separation under subsection (a) shall take effect on the first day of the sixth month beginning after the date on which the Secretary approves the retirement or separation, except that if the officer concerned requests an earlier retirement or separation date, the date shall be as determined by the Secretary.
+**(c) Effective date of retirements and separations**
+
+(1) **In general** — Subject to paragraph (2), a retirement or separation under subsection (a) shall take effect on such date as is determined by the Secretary.
+
+(2) **Determination of date** — The effective date determined under paragraph (1) for a retirement or separation under subsection (a) shall be—
+
+  (A) except as provided by subparagraph (B), not earlier than 60 days after the date on which the Secretary approves the retirement or separation; or
+
+  (B) if the officer concerned requests an earlier effective date, such earlier date as is determined by the Secretary.
 
 **(d) Deferment of retirement or separation for medical reasons**
 
@@ -781,6 +768,8 @@ The Secretary may take such measures as the Secretary determines necessary in or
 Provisions similar to those in this section were contained in [section 853g of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section853g&num=0&edition=prelim) prior to repeal by Pub. L. 107–372.
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 119–60 amended subsec. (c) generally. Prior to amendment, text read as follows: “A retirement or separation under subsection (a) shall take effect on the first day of the sixth month beginning after the date on which the Secretary approves the retirement or separation, except that if the officer concerned requests an earlier retirement or separation date, the date shall be as determined by the Secretary.”
+
 2022—Subsec. (a)(1). Pub. L. 117–263 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “an officer in the permanent grade of captain or commander may be transferred to the retired list; and”.
 
 2020—Subsec. (d). Pub. L. 116–259 added subsec. (d).
@@ -1352,22 +1341,34 @@ The Higher Education Act of 1965, referred to in subsecs. (c) and (e)(2)(B), is 
 **(c) Professional mariner defined** In this section, the term “professional mariner” means an individual employed on a vessel of the Administration who has the necessary expertise to serve in the engineering, deck, steward, electronic technician, or survey department.
 
 
+<a id="section-3079c"></a>
+## § 3079c. Eligibility of former officers to compete for certain positions
+**(a) In general** An individual who was separated from the commissioned officer corps of the Administration under honorable conditions after not fewer than 3 years of active service may not be denied the opportunity to compete for a vacant position with respect to which the agency in which the position is located will accept applications from individuals outside the workforce of that agency under merit promotion procedures.
+
+**(b) Type of appointment** If selected for a position pursuant to subsection (a), an individual described in that subsection shall receive a career or career-conditional appointment, as appropriate.
+
+**(c) Announcements** The area of consideration for a merit promotion announcement with respect to a position that includes consideration of individuals within the Federal service for that position shall—
+
+(1) indicate that individuals described in subsection (a) are eligible to apply for the position; and
+
+(2) be publicized in accordance with [section 3327 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3327&num=0&edition=prelim).
+
+**(d) Rule of construction** Nothing in this section may be construed to confer an entitlement to veterans’ preference that is not otherwise required by any statute or regulation relating to veterans’ preference.
+
+**(e) Regulations** The Director of the Office of Personnel Management shall prescribe regulations necessary for the administration of this section.
+
+**(f) Reporting requirement** Not later than 3 years after December 18, 2025, the Administrator shall submit to the Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and the Committee on Natural Resources, the Committee on Science, Space, and Technology, and the Committee on Oversight and Government Reform of the House of Representatives a report which includes the following:
+
+(1) A description of how the Administrator has utilized the authority granted under this section, including the number and locations of individuals hired utilizing the authority granted under this section.
+
+(2) An overview of the impact to Federal employment for former members of the commissioned officer corps of the Administration as a result of the authority granted under this section.
+
+**(g) Sunset** This section shall be repealed on the date that is 5 years after December 18, 2025.
+
+
 <a id="section-3079-1"></a>
-## § 3079–1. Limitation on educational assistance
-**(a) In general** Each fiscal year, beginning with the fiscal year in which this Act is enacted, the Secretary of Commerce shall ensure that the total amount expended by the Secretary under [section 3077 of this title](./chapter-043-national-oceanic-and-atmospheric-administration-commissioned-officer-corps.md#section-3077) (as added by section 201(a)), [section 3078 of this title](./chapter-043-national-oceanic-and-atmospheric-administration-commissioned-officer-corps.md#section-3078) (as added by section 202(a)), and [section 3079 of this title](./chapter-043-national-oceanic-and-atmospheric-administration-commissioned-officer-corps.md#section-3079) (as added by section 203(a)) does not exceed the amount by which—
-
-(1) the total amount the Secretary would pay in that fiscal year to officer candidates under [section 203(f)(1) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203/f/1&num=0&edition=prelim) (as added by section 305(d)), if such section entitled officer candidates to pay at monthly rates equal to the basic pay of a commissioned officer in the pay grade O–1 with less than 2 years of service, exceeds
-
-(2) the total amount the Secretary actually pays in that fiscal year to officer candidates under section 203(f)(1) of such title.
-
-**(b) Officer candidate defined** In this section, the term “officer candidate” has the meaning given the term in paragraph (4) of [section 3002(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3002/b&num=0&edition=prelim), as added by section 305(c).
+## § 3079–1. Repealed. Pub. L. 119–60, div. H, title LXXXIV, § 8408(a), Dec. 18, 2025, 139 Stat. 1913
 
 ### Statutory Notes
 
-#### References in Text
-The fiscal year in which this Act is enacted, referred to in subsec. (a), means the fiscal year in which Pub. L. 116–259, which added this section, was enacted. Pub. L. 116–259 was approved Dec. 23, 2020.
-
-Sections 201(a), 202(a), 203(a), and 305 (c) and (d), referred to in text, mean those respective sections of Pub. L. 116–259.
-
-#### Codification
-Section was enacted as part of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Amendments Act of 2020, and not as part of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 which comprises this chapter.
+Section, (Pub. L. 116–259, title II, § 204, Dec. 23, 2020, 134 Stat. 1165, limited financial educational assistance to candidates under sections 3077, 3078, and 3079 of this title.

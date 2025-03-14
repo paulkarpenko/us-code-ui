@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-2200g"></a>
 ## § 2200g. Establishment
-**(a) In General.—** The Secretary of Defense, acting through the Under Secretary for 11 So in original. Probably should be “of”. Defense for Acquisition and Sustainment, shall establish and maintain a Defense Civilian Training Corps program, organized into one or more units, at any accredited civilian educational institution authorized to grant baccalaureate degrees.
+**(a) In General.—** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall establish and maintain a Defense Civilian Training Corps program, organized into one or more units, at any accredited civilian educational institution authorized to grant baccalaureate degrees.
 
 **(b) Purpose.—** The purpose of the Defense Civilian Training Corps is to target critical skills gaps necessary to achieve the objectives of the national defense strategies required by [section 113(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim) and the national security strategies required by section 108 of the National Security Act of 1947 ([50 U.S.C. 3043](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3043&num=0&edition=prelim)) by preparing students selected for the Defense Civilian Training Corps for Department of Defense careers relating to acquisition, digital technologies, critical technologies, science, engineering, finance, and other civilian occupations determined by the Secretary of Defense.
 
@@ -17,6 +17,8 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159 substituted “Under Secretary of Defense” for “Under Secretary for Defense”.
+
 2023—Subsec. (a). Pub. L. 118–31 inserted heading.
 
 2022—Pub. L. 117–263 designated existing provisions as subsec. (a), substituted “The Secretary of Defense, acting through the Under Secretary for Defense for Acquisition and Sustainment, shall establish and maintain” for “For the purposes of preparing selected students for public service in Department of Defense occupations relating to acquisition, science, engineering, or other civilian occupations determined by the Secretary of Defense, and to target critical skill gaps in the Department of Defense, the Secretary of Defense shall establish and maintain”, and added subsecs. (b) and (c).
@@ -29,8 +31,7 @@ Pub. L. 116–92, div. A, title VIII, § 860(b), Dec. 20, 2019, 133 Stat. 1514, 
 
 <a id="section-2200h"></a>
 ## § 2200h. Program elements
-
-In establishing the program, the Secretary of Defense shall determine the following:
+**(a) In General.—** In establishing the program, the Secretary of Defense shall determine the following:
 
 (1) A methodology to identify and target critical skills gaps in Department of Defense occupations relating to acquisition, science, engineering, or other civilian occupations determined by the Secretary of Defense.
 
@@ -46,13 +47,43 @@ In establishing the program, the Secretary of Defense shall determine the follow
 
 (7) Criteria required for a member of the program to be released from a term of service.
 
-(8) The method by which a successful graduate of the program may gain immediate employment in the Department of Defense.
+(8) The method by which a successful graduate of the program may gain immediate employment in the Department of Defense, in accordance with subsection (b).
 
 (9) Resources required for implementation of the program.
+
+**(b) Hiring Authority.—**
+
+(1) **Members.—** — The head of an element of the Department of Defense that partners with an institution participating in the program may, without regard to the provisions of subchapter I of chapter 33 of title 5, appoint a member of the program to a position in such element for a term of one year.
+
+(2) **Graduates.—**
+
+  (A) *In general.—* — The head of an element described in paragraph (1) may—
+
+    (i) renew the appointment 1 a successful graduate of the program serving a one-year term under such paragraph until such graduate is appointed to a permanent position in such element, except that the appointment may not be renewed for more than a total of four one-year terms; and
+
+    (ii) without regard to the provisions of subchapter I of chapter 33 of title 5, appoint a graduate holding a position under an appointment renewed under clause (i) to a vacant position in the civil service (as such term is defined in [section 2101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2101&num=0&edition=prelim), United States Code) in the Department.
+
+  (B) *Level.—* — The position of a graduate in a term or permanent position described in subparagraph (A) shall be classified at the level of GS–9 under the General Schedule under subchapter III of chapter 53 of title 5, or an equivalent level for which the participant is qualified, without regard to any minimum time-in-grade or time-based experience requirements.
+
+  (C) *Limit.—* — The authority under this section may not be used for more than 60 graduates of the program in any calendar year.
+
+(3) **Compensation.—**
+
+  (A) *In general.—* — The basic pay of an individual appointed under this subsection shall be paid from amounts available in the Department of Defense Acquisition Workforce Development Account established under [section 1705 of this title](./chapter-087-defense-acquisition-workforce.md#section-1705).
+
+  (B) *Limitation.—* — Payment under subparagraph (A) may be made only during the term of the appointment of such an individual and may not exceed a total of four years of payments for any one individual, including renewals under paragraph (1) or (2).
+
+  (C) *Relation to other authority.—* — Nothing in this paragraph shall be construed to affect the authority of the Secretary of Defense to pay compensation from other available appropriations.
+
+(4) **Sunset.—** — The authority under this subsection shall terminate on December 31, 2029.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 823(a)(1), (2), inserted “, in accordance with subsection (b)” before period at end of par. (8), designated existing provisions as subsec. (a), and inserted heading.
+
+Subsec. (b). Pub. L. 119–60, § 823(a)(3), added subsec. (b).
+
 2021—Pub. L. 116–283 substituted “§” for “SEC.” in section designation.
 
 

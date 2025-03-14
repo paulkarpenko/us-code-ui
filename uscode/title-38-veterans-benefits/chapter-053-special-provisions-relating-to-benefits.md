@@ -2,7 +2,7 @@
 title: 38
 chapter: '53'
 heading: SPECIAL PROVISIONS RELATING TO BENEFITS
-section_count: 28
+section_count: 29
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -124,7 +124,7 @@ Pub. L. 95–202, title III, § 305(c), Nov. 23, 1977, 91 Stat. 1444, provided t
 ## § 5302. Waiver of recovery of claims by the United States
 **(a)**
 
-(1) There shall be no recovery of payments or overpayments (or any interest thereon) of any benefits under any of the laws administered by the Secretary whenever the Secretary determines that recovery would be against equity and good conscience, if an application for relief is made within 180 days from the date of notification of the indebtedness by the Secretary to the payee, or within such longer period as the Secretary determines is reasonable in a case in which the payee demonstrates to the satisfaction of the Secretary that such notification was not actually received by such payee within a reasonable period after such date. The Secretary shall include in the notification to the payee a statement of the right of the payee to submit an application for a waiver under this subsection and a description of the procedures for submitting the application.
+(1) There shall be no recovery of payments or overpayments (or any interest thereon) of any benefits under any of the laws administered by the Secretary whenever the Secretary determines that recovery would be against equity and good conscience, if an application for relief is made within one year from the date of notification of the indebtedness by the Secretary to the payee, or within such longer period as the Secretary determines is reasonable in a case in which the payee demonstrates to the satisfaction of the Secretary that such notification was not actually received by such payee within a reasonable period after such date. The Secretary shall include in the notification to the payee a statement of the right of the payee to submit an application for a waiver under this subsection and a description of the procedures for submitting the application.
 
 (2) The Secretary may not seek to recover an indebtedness described in paragraph (1) if the Secretary determines that the cost to the Department to recover such indebtedness, as determined when the debt is established, would exceed the amount of the indebtedness.
 
@@ -137,11 +137,6 @@ Pub. L. 95–202, title III, § 305(c), Nov. 23, 1977, 91 Stat. 1444, provided t
 **(e)** Where the recovery of a payment or overpayment made from the National Service Life Insurance Fund or United States Government Life Insurance Fund is waived under this section, the fund from which the payment was made shall be reimbursed from the National Service Life Insurance appropriation or the military and naval insurance appropriation, as applicable.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(1)
-Pub. L. 117–328, div. U, title II, § 254, Dec. 29, 2022, 136 Stat. 5464, provided that effective on the date that is two years after Dec. 29, 2022, subsection (a) of this section is amended by striking “180 days” and inserting “one year”.
-
-See 2022 Amendment note below.
 
 #### Amendments
 2022—Subsec. (a). Pub. L. 117–328, § 255(c), designated existing provisions as par. (1) and added par. (2).
@@ -1256,3 +1251,28 @@ The Secretary shall prescribe regulations that establish the minimum amount of a
 
 #### Deadline
 Pub. L. 116–315, title II, § 2007(c), Jan. 5, 2021, 134 Stat. 4977, provided that: “The Secretary of Veterans Affairs shall prescribe regulations under section 5320 of such title [title 38], as added by subsection (a), not later than 180 days after the date of the enactment of this Act [Jan. 5, 2021].”
+
+
+<a id="section-5321"></a>
+## § 5321. Benefits helpline
+**(a) Establishment.—** The Secretary shall maintain a toll-free telephone helpline that a covered individual may call in order to—
+
+(1) obtain information about any service or benefit provided under the laws administered by the Secretary; or
+
+(2) be directed to an appropriate office of the Department regarding such a service or benefit.
+
+**(b) Contract for Direction of Calls Authorized.—** The Secretary may enter into a contract with a third party to direct calls made to the helpline to an appropriate office under subsection (a)(2).
+
+**(c) Live Individual Required.—** The Secretary shall ensure that a covered individual who calls the helpline has the option to speak with a live individual.
+
+**(d) Definitions.—** In this section:
+
+(1) The term “covered individual” means—
+
+  (A) a veteran;
+
+  (B) an individual acting on behalf of a veteran; or
+
+  (C) an individual other than a veteran who is eligible to receive a benefit or service under a law administered by the Secretary.
+
+(2) The term “veteran” has the meaning given such term in [section 2002(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2002/b&num=0&edition=prelim).

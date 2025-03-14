@@ -53,9 +53,11 @@ As used in this chapter—
 
   (C) section 202 of the Housing Act of 1959 [[12 U.S.C. 1701q](./chapter-013-national-housing.md#section-1701q)], as it existed immediately before its amendment by section 801 of the Cranston-Gonzalez National Affordable Housing Act;
 
-  (D) section 202 of the Housing Act of 1959 [[12 U.S.C. 1701q](./chapter-013-national-housing.md#section-1701q)], as amended by section 801 of the Cranston-Gonzalez National Affordable Housing Act; and
+  (D) section 202 of the Housing Act of 1959 [[12 U.S.C. 1701q](./chapter-013-national-housing.md#section-1701q)], as amended by section 801 of the Cranston-Gonzalez National Affordable Housing Act;
 
-  (E) section 811 of the Cranston-Gonzalez National Affordable Housing Act [[42 U.S.C. 8013](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8013&num=0&edition=prelim)].
+  (E) section 811 of the Cranston-Gonzalez National Affordable Housing Act [[42 U.S.C. 8013](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8013&num=0&edition=prelim)]; and
+
+  (F) section 514 or 515 of the Housing Act of 1949 ([42 U.S.C. 1484](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1484&num=0&edition=prelim), 1485).
 
 (3) “mortgage agreement” means the note or debt instrument and the mortgage instrument, deed of trust instrument, trust deed, or instrument or instruments creating the mortgage, including any instrument incorporated by reference therein (including any applicable regulatory agreement), and any instrument or agreement amending or modifying any of the foregoing;
 
@@ -83,6 +85,8 @@ Section 312 of the Housing Act of 1964, referred to in par. (2)(B), is section 3
 Section 801 of the Cranston-Gonzalez National Affordable Housing Act, referred to in par. (2)(C), (D), is section 801 of Pub. L. 101–625.
 
 #### Amendments
+2025—Par. (2)(F). Pub. L. 119–37 added subpar. (F).
+
 2024—Par. (10). Pub. L. 118–42, which directed the insertion of “and the Secretary of Agriculture” after “Secretary of Housing Urban Development”, was executed by making the insertion after “Secretary of Housing and Urban Development”, to reflect the probable intent of Congress.
 
 1992—Par. (2). Pub. L. 102–550 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘multifamily mortgage’ means a mortgage held by the Secretary pursuant to title II of the National Housing Act or section 312 of the House Act of 1964 covering any property, except a property on which there is located a one- to four-family residence;”.

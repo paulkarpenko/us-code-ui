@@ -125,13 +125,13 @@ Subsec. (f). Pub. L. 110–407 added subsec. (f).
 
 <a id="section-70503"></a>
 ## § 70503. Prohibited acts
-**(a) Prohibitions.—** While on board a covered vessel, an individual may not knowingly or intentionally—
+**(a) Prohibitions.—** An individual may not knowingly or intentionally—
 
-(1) manufacture or distribute, or possess with intent to manufacture or distribute, a controlled substance;
+(1) manufacture or distribute, possess with intent to manufacture or distribute, or place or cause to be placed with intent to manufacture or distribute a controlled substance on board a covered vessel;
 
-(2) destroy (including jettisoning any item or scuttling, burning, or hastily cleaning a vessel), or attempt or conspire to destroy, property that is subject to forfeiture under section 511(a) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 881(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section881/a&num=0&edition=prelim)); or
+(2) destroy (including jettisoning any item or scuttling, burning, or hastily cleaning a vessel), or attempt or conspire to destroy, property that is subject to forfeiture under section 511(a) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 881(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section881/a&num=0&edition=prelim)) on board a covered vessel; or
 
-(3) conceal, or attempt or conspire to conceal, more than $100,000 in currency or other monetary instruments on the person of such individual or in any conveyance, article of luggage, merchandise, or other container, or compartment of or aboard the covered vessel if that vessel is outfitted for smuggling.
+(3) conceal, or attempt or conspire to conceal, more than $100,000 in currency or other monetary instruments on the person of such individual while on board a covered vessel or in any conveyance, article of luggage, merchandise, or other container, or compartment of or aboard the covered vessel if that vessel is outfitted for smuggling.
 
 **(b) Extension Beyond Territorial Jurisdiction.—** Subsection (a) applies even though the act is committed outside the territorial jurisdiction of the United States.
 
@@ -168,6 +168,14 @@ In subsection (a), before paragraph (1), the words “may not” are substituted
 In subsection (b), the words “applies to” are substituted for “is intended to reach” for clarity and to eliminate unnecessary words.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 7324(1), substituted “An” for “While on board a covered vessel, an” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 119–60, § 7324(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “manufacture or distribute, or possess with intent to manufacture or distribute, a controlled substance;”.
+
+Subsec. (a)(2). Pub. L. 119–60, § 7324(3), inserted “on board a covered vessel” after “([21 U.S.C. 881(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section881/a&num=0&edition=prelim))”.
+
+Subsec. (a)(3). Pub. L. 119–60, § 7324(4), inserted “while on board a covered vessel” after “such individual”.
+
 2016—Pub. L. 114–120, § 314(e)(1), substituted “Prohibited acts” for “Manufacture, distribution, or possession of controlled substances on vessels” in section catchline.
 
 Subsec. (a). Pub. L. 114–120, § 314(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “An individual may not knowingly or intentionally manufacture or distribute, or possess with intent to manufacture or distribute, a controlled substance on board—

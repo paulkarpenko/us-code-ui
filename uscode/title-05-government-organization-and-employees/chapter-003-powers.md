@@ -2,7 +2,7 @@
 title: 5
 chapter: '3'
 heading: POWERS
-section_count: 11
+section_count: 15
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5&num=0&edition=prelim
 ---
@@ -25,6 +25,9 @@ The words “or military department” are inserted to preserve the application 
 This section was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (former [5 U.S.C. 171–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section171–1&num=0&edition=prelim)), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Working Dog Health and Welfare
+Pub. L. 118–195, Dec. 23, 2024, 138 Stat. 2669, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Working Dog Health and Welfare Act of 2023’. “SEC. 2. IMPLEMENTATION OF WORKING DOG RECOMMENDATIONS.“(a) Definitions.—In this section:“(1) Agency.—The term ‘agency’ has the meaning given the term in [section 551 of title 5](./chapter-005-administrative-procedure.md#section-551), United States Code. “(2) Working dog.—The term ‘working dog’ means a dog that has received specialized training in order to perform a particular productive function. “(3) Working dog program.—The term ‘working dog program’ means a program, the operations of which include the employment of working dogs. “(4) Working dog recommendations.—The term ‘working dog recommendations’ means the recommendations included in the report of the Government Accountability Office entitled ‘Working Dogs: Federal Agencies Need to Better Address Health and Welfare’, as published in October 2022. “(b) Implementation.—“(1) In general.—Not later than 180 days after the date of enactment of this Act [Dec. 23, 2024], the head of each agency that manages a working dog program shall implement the working dog recommendations. “(2) Contractors.—Not later than 180 days after the date of enactment of this Act, a contractor that manages a working dog program on behalf of an agency shall implement the working dog recommendations. “(3) Report.—Not later than 60 days after the date on which the head of an agency or a contractor that manages a working dog program on behalf of an agency implements the working dog recommendations under this subsection, the head of the agency shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives a report on the explicit steps the agency or contractor has taken to complete the implementation. “(c) Foreign Partners.—Not later than 180 days after the date of enactment of this Act [Dec. 23, 2024], the Secretary of State shall take appropriate steps to ensure that donations of working dogs provided to foreign partners by the Department of State are executed and monitored according to the working dog recommendations. “(d) New Working Dog Programs.—With respect to an agency that establishes a working dog program, or enters into a contract for the establishment of a working dog program, after the date of enactment of this Act, the head of the agency shall ensure that the working dog program implements the working dog recommendations. “(e) No Additional Funds.—No additional funds are authorized to be appropriated for the purpose of carrying out this Act.”
 
 #### Federal Cybersecurity Workforce Assessment
 Pub. L. 114–113, div. N, title III, Dec. 18, 2015, 129 Stat. 2975, as amended by Pub. L. 116–283, div. H, title XCIV, § 9401(g)(4)(A), Jan. 1, 2021, 134 Stat. 4809, provided that: “SEC. 301. SHORT TITLE.“This title may be cited as the ‘Federal Cybersecurity Workforce Assessment Act of 2015’. “SEC. 302. DEFINITIONS.“In this title:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Armed Services of the Senate; “(B) the Committee on Homeland Security and Governmental Affairs of the Senate; “(C) the Select Committee on Intelligence of the Senate; “(D) the Committee on Commerce, Science, and Transportation of the Senate; “(E) the Committee on Armed Services of the House of Representatives; “(F) the Committee on Homeland Security of the House of Representatives; “(G) the Committee on Oversight and Government Reform [now Committee on Oversight and Accountability] of the House of Representatives; and “(H) the Permanent Select Committee on Intelligence of the House of Representatives. “(2) Director.—The term ‘Director’ means the Director of the Office of Personnel Management. “(3) National initiative for cybersecurity education.—The term ‘National Initiative for Cybersecurity Education’ means the initiative under the national cybersecurity awareness and education program, as authorized under section 303 of the Cybersecurity Enhancement Act of 2014 (Public Law 113–274) [[15 U.S.C. 7443](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7443&num=0&edition=prelim)]. “(4) Work roles.—The term ‘work roles’ means a specialized set of tasks and functions requiring specific knowledge, skills, and abilities. “SEC. 303. NATIONAL CYBERSECURITY WORKFORCE MEASUREMENT INITIATIVE.“(a) In General.—The head of each Federal agency shall—“(1) identify all positions within the agency that require the performance of cybersecurity or other cyber-related functions; and “(2) assign the corresponding employment code under the National Initiative for Cybersecurity Education in accordance with subsection (b). “(b) Employment Codes.—“(1) Procedures.—“(A) Coding structure.—Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2015], the Director, in coordination with the National Institute of Standards and Technology, shall develop a coding structure under the National Initiative for Cybersecurity Education. “(B) Identification of civilian cyber personnel.—Not later than 9 months after the date of enactment of this Act, the Director, in coordination with the Secretary of Homeland Security, the Director of the National Institute of Standards and Technology, and the Director of National Intelligence, shall establish procedures to implement the National Initiative for Cybersecurity Education coding structure to identify all Federal civilian positions that require the performance of information technology, cybersecurity, or other cyber-related functions. “(C) Identification of noncivilian cyber personnel.—Not later than 18 months after the date of enactment of this Act, the Secretary of Defense shall establish procedures to implement the National Initiative for Cybersecurity Education’s coding structure to identify all Federal noncivilian positions that require the performance of information technology, cybersecurity, or other cyber-related functions. “(D) Baseline assessment of existing cybersecurity workforce.—Not later than 3 months after the date on which the procedures are developed under subparagraphs (B) and (C), respectively, the head of each Federal agency shall submit to the appropriate congressional committees of jurisdiction a report that identifies—“(i) the percentage of personnel with information technology, cybersecurity, or other cyber-related job functions who currently hold the appropriate industry-recognized certifications as identified under the National Initiative for Cybersecurity Education; “(ii) the level of preparedness of other civilian and noncivilian cyber personnel without existing credentials to take certification exams; and “(iii) a strategy for mitigating any gaps identified in clause (i) or (ii) with the appropriate training and certification for existing personnel. “(E) Procedures for assigning codes.—Not later than 3 months after the date on which the procedures are developed under subparagraphs (B) and (C), respectively, the head of each Federal agency shall establish procedures—“(i) to identify all encumbered and vacant positions with information technology, cybersecurity, or other cyber-related functions (as defined in the National Initiative for Cybersecurity Education’s coding structure); and “(ii) to assign the appropriate employment code to each such position, using agreed standards and definitions. “(2) Code assignments.—Not later than 1 year after the date after the procedures are established under paragraph (1)(E), the head of each Federal agency shall complete assignment of the appropriate employment code to each position within the agency with information technology, cybersecurity, or other cyber-related functions. “(c) Progress Report.—Not later than 180 days after the date of enactment of this Act, the Director shall submit a progress report on the implementation of this section to the appropriate congressional committees. “SEC. 304. IDENTIFICATION OF CYBER-RELATED WORK ROLES OF CRITICAL NEED.“(a) In General.—Beginning not later than 1 year after the date on which the employment codes are assigned to employees pursuant to section 303(b)(2), and annually thereafter through 2022, the head of each Federal agency, in consultation with the Director, the Director of the National Institute of Standards and Technology, and the Secretary of Homeland Security, shall—“(1) identify information technology, cybersecurity, or other cyber-related work roles of critical need in the agency’s workforce; and “(2) submit a report to the Director that—“(A) describes the information technology, cybersecurity, or other cyber-related roles identified under paragraph (1); and “(B) substantiates the critical need designations. “(b) Guidance.—The Director shall provide Federal agencies with timely guidance for identifying information technology, cybersecurity, or other cyber-related roles of critical need, including—“(1) current information technology, cybersecurity, and other cyber-related roles with acute skill shortages; and “(2) information technology, cybersecurity, or other cyber-related roles with emerging skill shortages. “(c) Cybersecurity Needs Report.—Not later than 2 years after the date of the enactment of this Act [Dec. 18, 2015], the Director, in consultation with the Secretary of Homeland Security, shall—“(1) identify critical needs for information technology, cybersecurity, or other cyber-related workforce across all Federal agencies; and “(2) submit a progress report on the implementation of this section to the appropriate congressional committees. “SEC. 305. GOVERNMENT ACCOUNTABILITY OFFICE STATUS REPORTS.“The Comptroller General of the United States shall—“(1) analyze and monitor the implementation of sections 303 and 304; and “(2) not later than 3 years after the date of the enactment of this Act [Dec. 18, 2015], submit a report to the appropriate congressional committees that describes the status of such implementation.”
@@ -193,6 +196,287 @@ Virgin Islands Corporation established to have succession until June 30, 1969, u
 #### Delegation of Functions
 Functions of President under subsec. (b) of this section delegated to Director of Office of Management and Budget, see Ex. Ord. No. 12152, Aug. 14, 1979, 44 F.R. 48143, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
+#### Ex. Ord. No. 14158. Establishing and Implementing the President’s “Department of Government Efficiency”
+Ex. Ord. No. 14158, Jan. 20, 2025, 90 F.R. 8441, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:
+
+Section 1. Purpose. This Executive Order establishes the Department of Government Efficiency to implement the President’s DOGE Agenda, by modernizing Federal technology and software to maximize governmental efficiency and productivity.
+
+Sec. 2. Definitions. As used in this order:
+
+(a) “Agency” has the meaning given to it in [section 551 of title 5](./chapter-005-administrative-procedure.md#section-551), United States Code, except that such term does not include the Executive Office of the President or any components thereof.
+
+(b) “Agency Head” means the highest-ranking official of an agency, such as the Secretary, Administrator, Chairman, or Director, unless otherwise specified in this order.
+
+Sec. 3. DOGE Structure. (a) Reorganization and Renaming of the United States Digital Service. The United States Digital Service is hereby publicly renamed as the United States DOGE Service (USDS) and shall be established in the Executive Office of the President.
+
+(b) Establishment of a Temporary Organization. There shall be a USDS Administrator established in the Executive Office of the President who shall report to the White House Chief of Staff. There is further established within USDS, in accordance with [section 3161 of title 5](./chapter-031-authority-for-employment.md#section-3161), United States Code, a temporary organization known as “the U.S. DOGE Service Temporary Organization”. The U.S. DOGE Service Temporary Organization shall be headed by the USDS Administrator and shall be dedicated to advancing the President’s 18-month DOGE agenda. The U.S. DOGE Service Temporary Organization shall terminate on July 4, 2026. The termination of the U.S. DOGE Service Temporary Organization shall not be interpreted to imply the termination, attenuation, or amendment of any other authority or provision of this order.
+
+(c) DOGE Teams. In consultation with USDS, each Agency Head shall establish within their respective Agencies a DOGE Team of at least four employees, which may include Special Government Employees, hired or assigned within thirty days of the date of this Order [Jan. 20, 2025]. Agency Heads shall select the DOGE Team members in consultation with the USDS Administrator. Each DOGE Team will typically include one DOGE Team Lead, one engineer, one human resources specialist, and one attorney. Agency Heads shall ensure that DOGE Team Leads coordinate their work with USDS and advise their respective Agency Heads on implementing the President’s DOGE Agenda.
+
+Sec. 4. Modernizing Federal Technology and Software to Maximize Efficiency and Productivity. (a) The USDS Administrator shall commence a Software Modernization Initiative to improve the quality and efficiency of government-wide software, network infrastructure, and information technology (IT) systems. Among other things, the USDS Administrator shall work with Agency Heads to promote inter-operability between agency networks and systems, ensure data integrity, and facilitate responsible data collection and synchronization.
+
+(b) Agency Heads shall take all necessary steps, in coordination with the USDS Administrator and to the maximum extent consistent with law, to ensure USDS has full and prompt access to all unclassified agency records, software systems, and IT systems. USDS shall adhere to rigorous data protection standards.
+
+(c) This Executive Order displaces all prior executive orders and regulations, insofar as they are subject to direct presidential amendment, that might serve as a barrier to providing USDS access to agency records and systems as described above.
+
+Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
+#### Ex. Ord. No. 14210. Implementing the President’s “Department of Government Efficiency” Workforce Optimization Initiative
+Ex. Ord. No. 14210, Feb. 11, 2025, 90 F.R. 9669, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:
+
+Section 1. Purpose. To restore accountability to the American public, this order commences a critical transformation of the Federal bureaucracy. By eliminating waste, bloat, and insularity, my Administration will empower American families, workers, taxpayers, and our system of Government itself.
+
+Sec. 2. Definitions. (a) “Agency” has the meaning given to it in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), United States Code, except that such term does not include the Executive Office of the President or any components thereof.
+
+(b) “Agency Head” means the highest-ranking official of an agency, such as the Secretary, Administrator, Chairman, or Director, unless otherwise specified in this order.
+
+(c) “DOGE Team Lead” means the leader of the Department of Government Efficiency (DOGE) Team at each agency, as defined in Executive Order 14158 of January 20, 2025 (Establishing and Implementing the President’s “Department of Government Efficiency”) [set out above].
+
+(d) “Employee” has the meaning given to it by [section 2105 of title 5](./chapter-021-definitions.md#section-2105), United States Code, and includes individuals who serve in the executive branch and who qualify as employees under that section for any purpose.
+
+(e) “Immigration enforcement” means the investigation, enforcement, or assisting in the investigation or enforcement of Federal immigration law, including with respect to Federal immigration law that penalizes a person’s presence in, entry, or reentry to, or employment in, the United States, but does not include assisting individuals in applying for immigration benefits or efforts to prevent enforcement of immigration law or to prevent deportation or removal from the United States.
+
+(f) “Law enforcement” means:
+
+(i) engagement in or supervision of the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law; or
+
+(ii) the protection of Federal, State, local, or foreign government officials against threats to personal safety.
+
+(g) “Temporary employee” has the meaning given to it in 5 C.F.R. part 316.
+
+(h) “Reemployed annuitant” has the meaning given to it in 5 C.F.R. part 837.
+
+Sec. 3. Reforming the Federal Workforce to Maximize Efficiency and Productivity. (a) Hiring Ratio. Pursuant to the Presidential Memorandum of January 20, 2025 (Hiring Freeze) [90 F.R. 8247], the Director of the Office of Management and Budget shall submit a plan to reduce the size of the Federal Government’s workforce through efficiency improvements and attrition (Plan). The Plan shall require that each agency hire no more than one employee for every four employees that depart, consistent with the plan and any applicable exemptions and details provided for in the Plan. This order does not affect the standing freeze on hiring as applied to the Internal Revenue Service. This ratio shall not apply to functions related to public safety, immigration enforcement, or law enforcement. Agency Heads shall also adhere to the Federal Hiring Plan that will be promulgated pursuant to Executive Order 14170 of January 20, 2025 (Reforming the Federal Hiring Process and Restoring Merit to Government Service) [90 F.R. 8621].
+
+(b) Hiring Approval. Each Agency Head shall develop a data-driven plan, in consultation with its DOGE Team Lead, to ensure new career appointment hires are in highest-need areas.
+
+(i) This hiring plan shall include that new career appointment hiring decisions shall be made in consultation with the agency’s DOGE Team Lead, consistent with applicable law.
+
+(ii) The agency shall not fill any vacancies for career appointments that the DOGE Team Lead assesses should not be filled, unless the Agency Head determines the positions should be filled.
+
+(iii) Each DOGE Team Lead shall provide the United States DOGE Service (USDS) Administrator with a monthly hiring report for the agency.
+
+(c) Reductions in Force. Agency Heads shall promptly undertake preparations to initiate large-scale reductions in force (RIFs), consistent with applicable law, and to separate from Federal service temporary employees and reemployed annuitants working in areas that will likely be subject to the RIFs. All offices that perform functions not mandated by statute or other law shall be prioritized in the RIFs, including all agency diversity, equity, and inclusion initiatives; all agency initiatives, components, or operations that my Administration suspends or closes; and all components and employees performing functions not mandated by statute or other law who are not typically designated as essential during a lapse in appropriations as provided in the Agency Contingency Plans on the Office of Management and Budget website. This subsection shall not apply to functions related to public safety, immigration enforcement, or law enforcement.
+
+(d) Rulemaking. Within 30 days of the date of this order [Feb. 11, 2025], the Director of the Office of Personnel Management (OPM) shall initiate a rulemaking that proposes to revise 5 C.F.R. 731.202(b) to include additional suitability criteria, including:
+
+(i) failure to comply with generally applicable legal obligations, including timely filing of tax returns;
+
+(ii) failure to comply with any provision that would preclude regular Federal service, including citizenship requirements;
+
+(iii) refusal to certify compliance with any applicable nondisclosure obligations, consistent with [5 U.S.C. 2302(b)(13)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/b/13&num=0&edition=prelim), and failure to adhere to those compliance obligations in the course of Federal employment; and
+
+(iv) theft or misuse of Government resources and equipment, or negligent loss of material Government resources and equipment.
+
+(e) Developing Agency Reorganization Plans. Within 30 days of the date of this order, Agency Heads shall submit to the Director of the Office of Management and Budget a report that identifies any statutes that establish the agency, or subcomponents of the agency, as statutorily required entities. The report shall discuss whether the agency or any of its subcomponents should be eliminated or consolidated.
+
+(f) Within 240 days of the date of this order, the USDS Administrator shall submit a report to the President regarding implementation of this order, including a recommendation as to whether any of its provisions should be extended, modified, or terminated.
+
+Sec. 4. Exclusions. (a) This order does not apply to military personnel.
+
+(b) Agency Heads may exempt from this order any position they deem necessary to meet national security, homeland security, or public safety responsibilities.
+
+(c) The Director of OPM may grant exemptions from this order where those exemptions are otherwise necessary and shall assist in promoting workforce reduction.
+
+Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
+#### Ex. Ord. No. 14217. Commencing the Reduction of the Federal Bureaucracy
+Ex. Ord. No. 14217, Feb. 19, 2025, 90 F.R. 10577, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:
+
+Section 1. Purpose. It is the policy of my Administration to dramatically reduce the size of the Federal Government, while increasing its accountability to the American people. This order commences a reduction in the elements of the Federal bureaucracy that the President has determined are unnecessary. Reducing the size of the Federal Government will minimize Government waste and abuse, reduce inflation, and promote American freedom and innovation.
+
+Sec. 2. Reducing the Scope of the Federal Bureaucracy. (a) The non-statutory components and functions of the following governmental entities shall be eliminated to the maximum extent consistent with applicable law, and such entities shall reduce the performance of their statutory functions and associated personnel to the minimum presence and function required by law:
+
+(i) the Presidio Trust;
+
+(ii) the Inter-American Foundation;
+
+(iii) the United States African Development Foundation; and
+
+(iv) the United States Institute of Peace.
+
+(b) Within 14 days of the date of this order [Feb. 19, 2025], the head of each unnecessary governmental entity listed in subsection (a) of this section shall submit a report to the Director of the Office of Management and Budget (OMB Director) confirming compliance with this order and stating whether the governmental entity, or any components or functions thereof, are statutorily required and to what extent.
+
+(c) In reviewing budget requests submitted by the governmental entities listed in subsection (a) of this section, the OMB Director or the head of any executive department or agency charged with reviewing grant requests by such entities shall, to the extent consistent with applicable law and except insofar as necessary to effectuate an expected termination, reject funding requests for such governmental entities to the extent they are inconsistent with this order.
+
+(d) The Presidential Memorandum of November 13, 1961 (Need for Greater Coordination of Regional and Field Activities of the Government), is hereby revoked. The Director of the Office of Personnel Management (OPM Director) is directed to initiate the process to withdraw the regulations at title 5, part 960, Code of Federal Regulations, thereby eliminating the Federal Executive Boards.
+
+(e) The OPM Director is directed to initiate the process to withdraw the regulations at title 5, part 362, subpart D, Code of Federal Regulations, and to take any other steps necessary to promptly terminate the Presidential Management Fellows Program. On the effective date of the final regulations promulgated by the OPM Director, Executive Order 13318 of November 21, 2003 [[5 U.S.C. 3301](./chapter-033-examination-selection-and-placement.md#section-3301) note], is revoked and Executive Order 13562 of December 27, 2010 [[5 U.S.C. 3301](./chapter-033-examination-selection-and-placement.md#section-3301) note], is amended by:
+
+(i) striking from section 2 the words “along with the Presidential Management Fellows Program, as modified herein,”;
+
+(ii) striking section 5;
+
+(iii) striking from section 6(b) the words “or PMF Programs” and inserting in their place “program”;
+
+(iv) striking from section 7(b)(iii) the words “the competitive service of Interns, Recent Graduates, or PMFs (or a Government-wide combined conversion cap applicable to all three categories together)” and inserting in their place “the competitive service of Interns or Recent Graduates (or a Government-wide combined conversion cap applicable to both categories together)”; and
+
+(v) redesignating sections 6, 7, 8, and 9 as sections 5, 6, 7, and 8 respectively.
+
+(f) Within 14 days of the date of this order, the following heads of executive departments and agencies (agencies) shall take the following actions with respect to the following Federal Advisory Committees within their respective agencies:
+
+(i) the Administrator of the United States Agency for International Development shall terminate the Advisory Committee on Voluntary Foreign Aid;
+
+(ii) the Director of the Bureau of Consumer Financial Protection shall terminate the Academic Research Council and the Credit Union Advisory Council;
+
+(iii) the Board of Directors of the Federal Deposit Insurance Corporation shall terminate the Community Bank Advisory Council;
+
+(iv) the Secretary of Health and Human Services shall terminate the Secretary’s Advisory Committee on Long COVID; and
+
+(v) the Administrator of the Centers for Medicare and Medicaid Services shall terminate the Health Equity Advisory Committee.
+
+(g) Within 30 days of the date of this order, the Assistant to the President for National Security Affairs, the Assistant to the President for Economic Policy, and the Assistant to the President for Domestic Policy shall identify and submit to the President additional unnecessary governmental entities and Federal Advisory Committees that should be terminated on grounds that they are unnecessary.
+
+Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
+#### Ex. Ord. No. 14222. Implementing the President’s “Department of Government Efficiency” Cost Efficiency Initiative
+Ex. Ord. No. 14222, Feb. 26, 2025, 90 F.R. 11095, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:
+
+Section 1. Purpose. This order commences a transformation in Federal spending on contracts, grants, and loans to ensure Government spending is transparent and Government employees are accountable to the American public.
+
+Sec. 2. Definitions. As used in this order:
+
+(a) “Administrator” means the Administrator of the United States DOGE Service, as defined in Executive Order 14158 of January 20, 2025 (Establishing and Implementing the President’s “Department of Government Efficiency”) [set out above].
+
+(b) “Agency” has the meaning given to that term in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), United States Code, except that such term does not include the Executive Office of the President or any components thereof.
+
+(c) “Agency Head” means the highest-ranking official of an agency, such as the Secretary, Administrator, Chairman, or Director. Agency Heads may select designees within their agencies to carry out the responsibilities specified in this order.
+
+(d) “Covered contracts and grants” means discretionary spending through Federal contracts, grants, loans, and related instruments, but excludes direct assistance to individuals; expenditures related to immigration enforcement, law enforcement, the military, public safety, and the intelligence community; and other critical, acute, or emergency spending, as determined by the relevant Agency Head. Notification shall be made to the agency’s DOGE Team Lead.
+
+(e) “DOGE Team Lead” means the leader of the DOGE Team at each agency, as defined in Executive Order 14158.
+
+Sec. 3. Cutting Costs to Save Taxpayers Money. (a) Contract and Grant Justification. Each Agency Head shall, with assistance as requested from the agency’s DOGE Team Lead, build a centralized technological system within the agency to seamlessly record every payment issued by the agency pursuant to each of the agency’s covered contracts and grants, along with a brief, written justification for each payment submitted by the agency employee who approved the payment. This system shall include a mechanism for the Agency Head to pause and rapidly review any payment for which the approving employee has not submitted a brief, written justification within the technological system.
+
+(i) Once the system described in subsection (a) of this section is in place, the Agency Head shall issue guidance, in consultation with the agency’s DOGE Team Lead, to require that the relevant agency employee promptly submit a brief, written justification prior to that employee’s approval of a payment under covered contracts and grants, subject to any exceptions the Agency Head deems appropriate.
+
+(ii) To the maximum extent permitted by law, and to the maximum extent deemed practicable by the Agency Head, the payment justifications described in subsection (a)(i) of this section shall be posted publicly.
+
+(b) Review of Covered Contracts and Grants. Each Agency Head, in consultation with the agency’s DOGE Team Lead, shall review all existing covered contracts and grants and, where appropriate and consistent with applicable law, terminate or modify (including through renegotiation) such covered contracts and grants to reduce overall Federal spending or reallocate spending to promote efficiency and advance the policies of my Administration. This process shall commence immediately and shall prioritize the review of funds disbursed under covered contracts and grants to educational institutions and foreign entities for waste, fraud, and abuse. Each Agency Head shall complete this review within 30 days of the date of this order [Feb. 26, 2025].
+
+(c) Contract and Grant Process Review. Each Agency Head, in consultation with the agency’s DOGE Team Lead, shall conduct a comprehensive review of each agency’s contracting policies, procedures, and personnel. Each Agency Head shall complete this process within 30 days of the date of this order and shall not issue or approve new contracting officer warrants during the review period, unless the Agency Head determines such approval is necessary.
+
+(d) Covered Contract and Grant Approval.
+
+(i) Following the review specified in subsection (c) of this section, and prior to entering into new contracts, each Agency Head shall, in consultation with the agency’s DOGE Team Lead, issue guidance on signing new contracts or modifying existing contracts to promote Government efficiency and the policies of my Administration. The Agency Head may approve new contracts prior to the issuance of such guidance on a case-by-case basis.
+
+(ii) Each DOGE Team Lead shall provide the Administrator with a monthly informational report on contracting activities. As soon as an agency’s contract and grant justification process described in subsection (a) of this section is established, this report shall include all payment justifications provided pursuant to that process, to the extent consistent with law.
+
+(e) Non-Essential Travel Justification. Each Agency Head shall, with assistance from the agency’s DOGE Team Lead, build a technological system within each agency that centrally records approval for federally funded travel for conferences and other non-essential purposes. Once an agency’s system is in place, the Agency Head shall prohibit agency employees from engaging in federally funded travel for conferences or other non-essential purposes unless the travel-approving official has submitted a brief, written justification for the federally funded travel within such system. Each DOGE Team Lead shall, to the extent consistent with law, provide the Administrator with a monthly informational report listing each agency’s justifications for non-essential travel. Such justifications shall be posted publicly unless prohibited by law or unless the Agency Head grants an exemption from this requirement.
+
+(f) Credit Card Freeze. To the maximum extent permitted by law, all credit cards held by agency employees shall be treated as frozen for 30 days from the date of this order, except for any credit cards held by employees engaged in, or charges related to employees utilizing such credit cards for, disaster relief or natural disaster response benefits or operations or other critical services as determined by the Agency Head, and subject to such additional individualized or categorical exceptions as the Agency Head, in consultation with the agency’s DOGE Team Lead, deems appropriate.
+
+(g) Real Property Disposition. Agencies shall take the following actions:
+
+(i) Real Property Report. Within 7 days of the date of this order, each Agency Head shall confirm to the Administrator of General Services or his designee that the Agency Head has submitted updates to the Federal Real Property Profile Management System to ensure the system reflects a complete and accurate inventory of real property subject to the agency’s administration.
+
+(ii) Real Property Leases. Within 30 days of the date of this order, each Agency Head shall promptly identify all termination rights the Agency Head may have under existing leases of Government-owned real property and, in consultation with agency’s DOGE Team Lead and the Administrator of General Services or his designee, determine whether to exercise such rights.
+
+(iii) Real Property Disposition. Within 60 days of the date of this order, the Administrator of General Services shall submit a plan to the Director of the Office of Management and Budget (OMB) for the disposition of Government-owned real property which has been deemed by the agency as no longer needed.
+
+Sec. 4. General Exclusions. This order does not apply to:
+
+(a) Law enforcement officers, as defined in [5 U.S.C. 5541(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5541/3&num=0&edition=prelim) and 5 CFR 550.103, or covered contracts and grants directly related to the enforcement of Federal criminal or immigration law;
+
+(b) U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement in the Department of Homeland Security;
+
+(c) the Uniformed Services, as defined in 20 CFR 404.1330;
+
+(d) any other covered grant or contract, agency component, or real property that the relevant Agency Head exempts in writing from all or part of this order, in consultation with the agency’s DOGE Team Lead and the Director of OMB; or
+
+(e) classified information or classified information systems.
+
+Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
+#### Ex. Ord. No. 14238. Continuing the Reduction of the Federal Bureaucracy
+Ex. Ord. No. 14238, Mar. 14, 2025, 90 F.R. 13043, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:
+
+Section 1. Purpose. This order continues the reduction in the elements of the Federal bureaucracy that the President has determined are unnecessary.
+
+Sec. 2. Reducing the Scope of the Federal Bureaucracy.
+
+(a) Except as provided in subsection (b) of this section, the non-statutory components and functions of the following governmental entities shall be eliminated to the maximum extent consistent with applicable law, and such entities shall reduce the performance of their statutory functions and associated personnel to the minimum presence and function required by law:
+
+(i) the Federal Mediation and Conciliation Service;
+
+(ii) the United States Agency for Global Media;
+
+(iii) the Woodrow Wilson International Center for Scholars in the Smithsonian Institution;
+
+(iv) the Institute of Museum and Library Services;
+
+(v) the United States Interagency Council on Homelessness;
+
+(vi) the Community Development Financial Institutions Fund; and
+
+(vii) the Minority Business Development Agency.
+
+(b) Within 7 days of the date of this order [Mar. 14, 2025], the head of each governmental entity listed in subsection (a) of this section shall submit a report to the Director of the Office of Management and Budget confirming full compliance with this order and explaining which components or functions of the governmental entity, if any, are statutorily required and to what extent.
+
+(c) In reviewing budget requests submitted by the governmental entities listed in subsection (a) of this section, the Director of the Office of Management and Budget or the head of any executive department or agency charged with reviewing grant requests by such entities shall, to the extent consistent with applicable law and except insofar as necessary to effectuate an expected termination, reject funding requests for such governmental entities to the extent they are inconsistent with this order.
+
+Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
 
 <a id="section-306"></a>
 ## § 306. Agency strategic plans
@@ -216,9 +500,9 @@ Functions of President under subsec. (b) of this section delegated to Director o
 
 (7) an identification of those key factors external to the agency and beyond its control that could significantly affect the achievement of the general goals and objectives;
 
-(8) a description of the program evaluations used in establishing or revising general goals and objectives, with a schedule for future program evaluations to be conducted, and citations to relevant provisions of the plans required under section 312; and
+(8) a description of the program evaluations used in establishing or revising general goals and objectives, with a schedule for future program evaluations to be conducted, and citations to relevant provisions of the plans required under section 312, as applicable; and
 
-(9) an assessment of the coverage, quality, methods, effectiveness, and independence of the statistics, evaluation, research, and analysis efforts of the agency, including—
+(9) with respect to the head of an agency required to develop a plan described in subsection (a) or (b) of section 312, an assessment of the coverage, quality, methods, effectiveness, and independence of the statistics, evaluation, research, and analysis efforts of the agency, including—
 
   (A) a list of the activities and operations of the agency that are currently being evaluated and analyzed;
 
@@ -248,6 +532,10 @@ Functions of President under subsec. (b) of this section delegated to Director o
 A prior section 306, added Pub. L. 103–62, § 3, Aug. 3, 1993, 107 Stat. 286; amended Pub. L. 106–65, div. A, title IX, § 902, Oct. 5, 1999, 113 Stat. 717; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241, related to strategic plans, prior to repeal by Pub. L. 111–352, § 2, Jan. 4, 2011, 124 Stat. 3866.
 
 #### Amendments
+2024—Subsec. (a)(8). Pub. L. 118–190, § 7(a)(1), inserted “, as applicable” after “section 312”.
+
+Subsec. (a)(9). Pub. L. 118–190, § 7(a)(2), inserted “with respect to the head of an agency required to develop a plan described in subsection (a) or (b) of section 312,” before “an assessment” in introductory provisions.
+
 2019—Subsec. (a)(7). Pub. L. 115–435, § 101(c)(1), substituted semicolon for “; and” at end.
 
 Subsec. (a)(8). Pub. L. 115–435, § 101(c)(2), inserted “, and citations to relevant provisions of the plans required under section 312; and” after “to be conducted” and struck out period at end.
@@ -428,3 +716,90 @@ Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115�
 
 #### Effective Date
 Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as an Effective Date of 2019 Amendment note under [section 306 of this title](./chapter-003-powers.md#section-306).
+
+
+<a id="section-321"></a>
+## § 321. Definitions
+
+In this subchapter:
+
+(1) **Agency.—** — The term “agency” has the meaning given that term in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim).
+
+(2) **Director.—** — The term “Director” means the Director of the Office of Management and Budget.
+
+(3) **Government service delivery.—** — The term “Government service delivery” means any action by an agency related to providing a benefit or service to an individual, business, or organization (such as a grantee or State, local, or Tribal entity), including any such action of a contractor or nonprofit organization acting on behalf of the agency or administering a federally-funded program.
+
+(4) **Government service delivery channel.—** — The term “Government service delivery channel” means the format or medium of an interaction or transaction with the Federal Government, including in-person, through the mail, through a digital service, by telephone, through a contact center, on a website, through outreach and communication, and through collaboration with a third party, or through other ways in which an individual or entity significantly interacts with the Federal Government.
+
+(5) **High impact service provider.—** — The term “high impact service provider” means an agency program identified by the Director due to the scale and impact of the public-facing services of the program.
+
+
+<a id="section-322"></a>
+## § 322. Federal Government service delivery
+**(a) 11 So in original. No subsec. (b) has been enacted. Federal Government Service Delivery Lead.—** The Director shall designate or appoint a senior official as the Federal Government Service Delivery Lead within the Office of Management and Budget whose responsibility is to coordinate governmentwide efforts to improve Government service delivery by agencies. The individual shall have the following duties and authorities:
+
+(1) Facilitate and coordinate governmentwide efforts to improve Government service delivery provided by agencies, particularly with respect to high impact service providers.
+
+(2) Carry out the duties and powers prescribed by the Director.
+
+(3) Serve as the lead, governmentwide official responsible for supporting Government service delivery.
+
+(4) Advise the Director concerning the improvement of Government service delivery provided by agencies.
+
+(5) In consultation with each lead agency service delivery official and any other agency stakeholder as appropriate, develop and oversee the implementation of governmentwide Government service delivery standards, policies, and guidelines for services and programs provided by agencies, including standards, policies, and guidelines to—
+
+  (A) understand the needs of an individual, business, or organization interacting with an agency;
+
+  (B) solicit and consider voluntary feedback on the Government service delivery by the agency;
+
+  (C) assess Government service delivery processes;
+
+  (D) consider the factors of ease, efficiency, transparency, accessibility, fairness, burden (as defined in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim)), and duration, including wait and processing times, with respect to Government service delivery; and
+
+  (E) encourage the adoption of commercial products and services in accordance with [section 3307 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3307&num=0&edition=prelim).
+
+(6) Collect and report qualitative and quantitative information or data on Government service delivery through existing reporting mechanisms.
+
+(7) Evaluate the quality of Government service delivery, including through the establishment of performance metrics developed using the standards, policies, and guidelines developed pursuant to paragraph (5) and the information or data collected and reported pursuant to paragraph (6).
+
+(8) Engage with stakeholders to identify leading practices in service design and delivery that would improve Government service delivery across and within agencies.
+
+(9) Ensure agency service delivery initiatives, including those related to the 21st Century Integrated Digital Experience Act ([15 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3501&num=0&edition=prelim) note; Public Law 115–336), are identified in agency congressional budget justifications.
+
+(10) Coordinate with Office of Management and Budget stakeholders and other agency stakeholders on Government service delivery.
+
+(11) In collaboration with relevant agency officials as appropriate, and in coordination with relevant Office of Management and Budget stakeholders, ensure that websites of agencies, including those associated with high impact service providers, are consistent with the objectives of this subchapter, the 21st Century Integrated Digital Experience Act, and any other applicable law.
+
+
+<a id="section-323"></a>
+## § 323. Lead agency officials for Government service delivery
+**(a) Responsibility for Government Service Delivery.—** The head of each agency shall be responsible for the Government service delivery of the agency which shall, at a minimum, include improving and enhancing Government services to better achieve the mission of the agency and build and maintain trust, transparency, and accountability.
+
+**(b) Lead Agency Service Delivery Officials.—** Not later than one year after the date of the enactment of this subchapter, the head of each agency shall designate or appoint a senior official of the agency (who may be the deputy head of the agency) to implement this subchapter who shall have the following duties and authorities:
+
+(1) Report directly to the head or deputy head of the agency.
+
+(2) Possess sufficient operational authority to effectuate implementation of Government service delivery improvements within the agency, particularly with respect to high impact service providers.
+
+(3) Coordinate and execute, as appropriate, under the direction of the head of the agency, and in collaboration with relevant agency officials as appropriate, efforts to improve and enhance the Government service delivery and Government service delivery channels of the agency.
+
+(4) At the direction of the Federal Government Service Delivery Lead, submit an implementation plan for improving agency Government service delivery.
+
+(5) Coordinate the collection and reporting of the data and information required pursuant to section 322 and use such data and information to improve Government service delivery.
+
+(6) Facilitate collaboration among and between offices, and components within the agency and with other agencies as appropriate, in coordination with the Federal Government Service Delivery Lead, to improve and enhance Government service delivery.
+
+(7) Assist with the implementation by the agency of the 21st Century Integrated Digital Experience Act ([15 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3501&num=0&edition=prelim) note; Public Law 115–336).
+
+(8) Assist in the incorporation of the Government service delivery requirements established under this subchapter in agency plans (such as strategic plans or annual performance plans).
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this subchapter, referred to in subsec. (b), is the date of enactment of Pub. L. 118–231, which was approved Jan. 4, 2025.
+
+
+<a id="section-324"></a>
+## § 324. Rule of construction
+
+Nothing in this subchapter may be construed to diminish or reduce the authority of agency Chief Information Officers for information resources management provided in [section 11315 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11315&num=0&edition=prelim) or those authorities to manage information resources to accomplish agency missions as established in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim).

@@ -34,7 +34,7 @@ source: >-
 
 **(e) Certain Reserve Officers of the Air Force.—** A reserve officer of the Air Force who (1) is in the Air National Guard of the United States and holds the grade of lieutenant colonel, colonel, or brigadier general, or (2) is in the Air Force Reserve and holds the grade of colonel or brigadier general, is not eligible for consideration for promotion by a mandatory promotion board convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim).
 
-**(f) Nonconsideration of Officers Scheduled for Removal From Reserve Active-Status List.—** The Secretary of the military department concerned may, by regulation, provide for the exclusion from consideration for promotion by a promotion board of any officer otherwise eligible to be considered by the board who has an established date for removal from the reserve active-status list that is not more than 90 days after the date on which the selection board for which the officer would otherwise be eligible is to be convened.
+**(f) Nonconsideration of Officers Scheduled for Removal From Reserve Active-status List.—** The Secretary of the military department concerned may, by regulation, preclude from consideration by a selection board by which an officer would otherwise be eligible to be considered, an officer who has an established separation date that is within 90 days after the date the board is convened or an approved retirement date.
 
 **(g) Brigadier Generals.—**
 
@@ -66,7 +66,7 @@ source: >-
 
 (2) The Secretary concerned may only approve a request under paragraph (1) if—
 
-  (A) the basis for the request is to allow an officer to complete a broadening assignment, advanced education, another assignment of significant value to the Department, or a career progression requirement delayed by the assignment or education;
+  (A) the basis for the request is to allow an officer to complete a broadening assignment, advanced education, another assignment of significant value to the Department, training, or a career progression requirement delayed by the assignment, education, or training;
 
   (B) the Secretary determines the exclusion from consideration is in the best interest of the military department concerned; and
 
@@ -77,6 +77,10 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (f). Pub. L. 118–159, § 503(c), amended subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary of the military department concerned may, by regulation, provide for the exclusion from consideration for promotion by a promotion board of any officer otherwise eligible to be considered by the board who has an established date for removal from the reserve active-status list that is not more than 90 days after the date on which the selection board for which the officer would otherwise be eligible is to be convened.”
+
+Subsec. (j)(2)(A). Pub. L. 118–159, § 505(a)(2), inserted “training,” after “Department,” and substituted “assignment, education, or training” for “assignment or education”.
+
 2018—Subsec. (c). Pub. L. 115–232, § 505(b)(1)(A), substituted “Certain Officers Not” for “Previously Selected Officers Not Eligible” in heading.
 
 Subsec. (c)(6). Pub. L. 115–232, § 505(b)(1)(B), added par. (6).
@@ -597,15 +601,19 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 <a id="section-14314"></a>
 ## § 14314. Army and Air Force commissioned officers: generals ceasing to occupy positions commensurate with grade; State adjutants general
-**(a) General Officers.—** Within 30 days after a reserve officer of the Army or the Air Force on the reserve active-status list in a general officer grade ceases to occupy a position commensurate with that grade (or commensurate with a higher grade), the Secretary concerned shall transfer or discharge the officer in accordance with whichever of the following the officer elects:
+**(a) General Officers.—**
 
-(1) Transfer the officer in grade to the Retired Reserve, if the officer is qualified and applies for the transfer.
+(1) Except as provided in paragraph (2), within 30 days after a reserve officer of the Army or the Air Force on the reserve active-status list in a general officer grade ceases to occupy a position commensurate with that grade (or commensurate with a higher grade), the Secretary concerned shall transfer or discharge the officer in accordance with whichever of the following the officer elects:
 
-(2) Transfer the officer in grade to the inactive status list of the Standby Reserve, if the officer is qualified.
+  (A) Transfer the officer in grade to the Retired Reserve, if the officer is qualified and applies for the transfer.
 
-(3) Discharge the officer from the officer’s reserve appointment and, if the officer is qualified and applies therefor, appoint the officer in the reserve grade held by the officer as a reserve officer before the officer’s appointment in a general officer grade.
+  (B) Transfer the officer in grade to the inactive status list of the Standby Reserve, if the officer is qualified.
 
-(4) Discharge the officer from the officer’s reserve appointment.
+  (C) Discharge the officer from the officer’s reserve appointment and, if the officer is qualified and applies therefor, appoint the officer in the reserve grade held by the officer as a reserve officer before the officer’s appointment in a general officer grade.
+
+  (D) Discharge the officer from the officer’s reserve appointment.
+
+(2) For any general officer covered by paragraph (1) who is released from a joint duty assignment or other non-joint active-duty assignment, the Secretary concerned shall complete the transfer or discharge required by paragraph (1) not later than 60 days after the officer’s release.
 
 **(b) Adjutants General.—** If a reserve officer who is federally recognized in the Army National Guard or the Air National Guard solely because of the officer’s appointment as adjutant general or assistant adjutant general of a State ceases to occupy that position, the Secretary concerned, not later than 30 days after the date on which the officer ceases to occupy that position, shall—
 
@@ -619,7 +627,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
   (C) be discharged from the officer’s reserve appointment.
 
-**(c) Credit for Service in Grade.—** An officer who is appointed under subsection (a)(3) or (b)(2)(B) shall be credited with an amount of service in the grade in which appointed that is equal to the amount of prior service in an active status in that grade and in any higher grade.
+**(c) Credit for Service in Grade.—** An officer who is appointed under subsection (a)(1)(C) or (b)(2)(B) shall be credited with an amount of service in the grade in which appointed that is equal to the amount of prior service in an active status in that grade and in any higher grade.
 
 ### Statutory Notes
 
@@ -627,6 +635,10 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 Provisions similar to those in this section were contained in sections 3375, 8375, and 8381 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (c)(1).
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159, § 512(1), designated introductory provisions as par. (1) and substituted “Except as provided in paragraph (2), within” for “Within”, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
+
+Subsec. (c). Pub. L. 118–159, § 512(2), substituted “subsection (a)(1)(C)” for “subsection (a)(3)”.
+
 1996—Subsec. (b)(2)(B). Pub. L. 104–201 struck out “of the Air Force” after “reserve officer”.
 
 #### Effective Date

@@ -461,6 +461,13 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 119–27, §§ 11(f), 20, July 18, 2025, 139 Stat. 458, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, this section is amended by adding at the end the following:
+
+(c) The Comptroller of the Currency or State payment stablecoin regulator (as defined in section 2 of the GENIUS Act) shall raise, and shall appear and be heard on, any issue, including the protection of customers, in a case under this chapter in which the debtor is a permitted payment stablecoin issuer.
+
+See 2025 Amendment note below.
+
 #### legislative statements
 Section 1109 of the House amendment represents a compromise between comparable provisions in the House bill and Senate amendment. As previously discussed the section gives the Securities and Exchange Commission the right to appear and be heard and to raise any issue in a case under chapter 11; however, the Securities and Exchange Commission is not a party in interest and the Commission may not appeal from any judgment, order, or decree entered in the case. Under section 1109(b) a party in interest, including the debtor, the trustee, creditors committee, equity securities holders committee, a creditor, an equity security holder, or an indentured trustee, may raise and may appear and be heard on any issue in a case under chapter 11. Section 1109(c) of the Senate amendment has been moved to subchapter IV pertaining to Railroad Reorganizations.
 
@@ -471,6 +478,12 @@ Subsection (b) provides that the Securities and Exchange Commission may appear b
 
 #### house report no. 95–595
 Section 1109 authorizes the Securities and Exchange Commission and any indenture trustee to intervene in the case at any time on any issue. They may raise an issue or may appear and be heard on an issue that is raised by someone else. The section, following current law, denies the right of appeal to the Securities and Exchange Commission. It does not, however, prevent the Commission from joining or participating in an appeal taken by a true party in interest. The Commission is merely prevented from initiating the appeal in any capacity.
+
+#### Amendments
+2025—Subsec. (c). Pub. L. 119–27 added subsec. (c).
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as an Effective Date note under [section 5901 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim), Banks and Banking.
 
 
 <a id="section-1110"></a>
@@ -2737,28 +2750,11 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 
 In this subchapter:
 
-(1) **Debtor.—** — The term “debtor”—
-
-  (A) subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning single asset real estate) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $7,500,000 (excluding debts owed to 1 or more affiliates or insiders) not less than 50 percent of which arose from the commercial or business activities of the debtor; and
-
-  (B) does not include—
-
-    (i) any member of a group of affiliated debtors under this title that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $7,500,000 (excluding debt owed to 1 or more affiliates or insiders);
-
-    (ii) any debtor that is a corporation subject to the reporting requirements under section 13 or 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m&num=0&edition=prelim), 78o(d)); or
-
-    (iii) any debtor that is an affiliate of a corporation described in clause (ii).
+(1) **Debtor.—** — The term “debtor” means a small business debtor.
 
 (2) **Debtor in possession.—** — The term “debtor in possession” means the debtor, unless removed as debtor in possession under [section 1185(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1185/a&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Amendment of Paragraph (1)
-Pub. L. 117–151, § 2(i)(1)(B), June 21, 2022, 136 Stat. 1300, provided that, effective 2 years after June 21, 2022, paragraph (1) of this section is amended to read as follows:
-
-(1) Debtor.—The term “debtor” means a small business debtor.
-
-See 2022 Amendment note below.
 
 #### Amendments
 2022—Par. (1). Pub. L. 117–151, § 2(i)(1)(B), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) and (B) defining “debtor”.

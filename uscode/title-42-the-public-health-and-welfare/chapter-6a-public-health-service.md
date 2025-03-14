@@ -2,7 +2,7 @@
 title: 42
 chapter: 6A
 heading: PUBLIC HEALTH SERVICE
-section_count: 1514
+section_count: 1519
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -139,7 +139,18 @@ Pub. L. 86–624, § 47(f), July 12, 1960, 74 Stat. 423, provided that: “The a
 #### Effective Date of 1959 Amendment
 Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 47(d) of Pub. L. 86–70.
 
+#### Short Title of 2025 Amendment
+Pub. L. 119–44, § 1(a), Dec. 1, 2025, 139 Stat. 669, provided that: “This Act [see Tables for classification] may be cited as the ‘SUPPORT for Patients and Communities Reauthorization Act of 2025’.”
+
+Pub. L. 118–228, § 1, Jan. 4, 2025, 138 Stat. 2822, provided that: “This Act [amending sections 282 and 282a of this title] may be cited as the ‘Gabriella Miller Kids First Research Act 2.0’.”
+
 #### Short Title of 2024 Amendment
+Pub. L. 118–180, § 1, Dec. 23, 2024, 138 Stat. 2614, provided that: “This Act [amending sections 280i to 280i–4 and 284g of this title and enacting provisions set out as a note under [section 280i of this title](./chapter-6a-public-health-service.md#section-280i)] may be cited as the ‘Autism Collaboration, Accountability, Research, Education, and Support Act of 2024’ or the ‘Autism CARES Act of 2024’.”
+
+Pub. L. 118–178, § 1, Dec. 23, 2024, 138 Stat. 2612, provided that: “This Act [amending [section 300w–9 of this title](./chapter-6a-public-health-service.md#section-300w-9)] may be cited as the ‘Emergency Medical Services for Children Reauthorization Act of 2024’.”
+
+Pub. L. 118–176, § 1, Dec. 23, 2024, 138 Stat. 2605, provided that: “This Act [enacting sections 244a to 244d of this title] may be cited as the ‘Cardiomyopathy Health Education, Awareness, and Research, and AED Training in the Schools Act of 2024’ or the ‘HEARTS Act of 2024’.”
+
 Pub. L. 118–158, div. C, § 3001(a), Dec. 21, 2024, 138 Stat. 1761, provided that: “This division [amending sections 247d, 247d–7e, 247d–7f, 254b–2, 254c–2, 254c–3, 256h, 300hh–10b to 300hh–10d, 300hh–11, 701, 710, 713, 1395f, 1395m, 1395w–4, 1395w–102, 1395cc–7, 1395ww, 1395aaa, 1395iii, and 1396r–4 of this title and [section 3014 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3014&num=0&edition=prelim), Crimes and Criminal Procedure, enacting provisions set out as notes under sections 1395m and 1395ww of this title, and amending provisions set out as notes under sections 1395b–3 and 1395ww of this title] may be cited as the ‘Health Extensions and Other Matters Act, 2025’.”
 
 Pub. L. 118–147, § 1, Dec. 12, 2024, 138 Stat. 1674, provided that: “This Act [amending [section 280e–5 of this title](./chapter-6a-public-health-service.md#section-280e-5)] may be cited as the ‘Firefighter Cancer Registry Reauthorization Act of 2023’.”
@@ -150,7 +161,7 @@ Pub. L. 118–107, § 1, Nov. 21, 2024, 138 Stat. 1594, provided that: “This A
 
 Pub. L. 118–86, § 1, Sept. 26, 2024, 138 Stat. 1549, provided that: “This Act [amending sections 300d–71 to 300d–73 of this title] may be cited as the ‘Poison Control Centers Reauthorization Act of 2024’.”
 
-Pub. L. 118–84, § 1, Sept. 26, 2024, 138 Stat. 1544, provided that: “This Act [amending [section 254c–15 of this title](./chapter-6a-public-health-service.md#section-254c-15) and renumbering [section 254c–15 of this title](./chapter-6a-public-health-service.md#section-254c-15) as section 290ee–10] may be cited as the ‘Supporting and Improving Rural EMS Needs Reauthorization Act’ or the ‘SIREN Reauthorization Act’.”
+Pub. L. 118–84, § 1, Sept. 26, 2024, 138 Stat. 1544, provided that: “This Act [transferring [section 254c–15 of this title](./chapter-6a-public-health-service.md#section-254c-15) to [section 290ee–10 of this title](./chapter-6a-public-health-service.md#section-290ee-10) and amending [section 254c–15 of this title](./chapter-6a-public-health-service.md#section-254c-15)] may be cited as the ‘Supporting and Improving Rural EMS Needs Reauthorization Act’ or the ‘SIREN Reauthorization Act’.”
 
 Pub. L. 118–66, § 1, July 2, 2024, 138 Stat. 1443, provided that: “This Act [enacting part W of subchapter II of this chapter] may be cited as the ‘Dr. Emmanuel Bilirakis and Honorable Jennifer Wexton National Plan to End Parkinson’s Act’.”
 
@@ -502,7 +513,7 @@ Pub. L. 105–392, § 1(a), Nov. 13, 1998, 112 Stat. 3524, provided that: “Thi
 
 Pub. L. 105–392, title I, § 121, Nov. 13, 1998, 112 Stat. 3562, provided that: “This subtitle [subtitle B (§§ 121–124) of title I of Pub. L. 105–392, enacting sections 296, 296a to 296f, 296j, 296m, 296p, 297q, and 297t of this title, transferring [section 298b–2 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section298b–2&num=0&edition=prelim) to [section 296g of this title](./chapter-6a-public-health-service.md#section-296g), repealing sections 296k to 296m, 296r, 297, 297–1, 297c, 298, 298a, 298b, 298b–1, 298b–3 to 298b–5, and 298b–7 of this title, and enacting provisions set out as notes under [section 296 of this title](./chapter-6a-public-health-service.md#section-296)] may be cited as the ‘Nursing Education and Practice Improvement Act of 1998’.”
 
-Pub. L. 105–392, title IV, § 419(a), Nov. 13, 1998, 112 Stat. 3591, provided that: “This section [enacting sections 280f to 280f–3 of this title and provisions set out as a note under [section 280f of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280f&num=0&edition=prelim)] may be cited as the ‘Fetal Alcohol Syndrome and Fetal Alcohol Effect Prevention and Services Act’.”
+Pub. L. 105–392, title IV, § 419(a), Nov. 13, 1998, 112 Stat. 3591, provided that: “This section [enacting sections 280f to 280f–3 of this title and provisions set out as a note under [section 280f of this title](./chapter-6a-public-health-service.md#section-280f)] may be cited as the ‘Fetal Alcohol Syndrome and Fetal Alcohol Effect Prevention and Services Act’.”
 
 Pub. L. 105–340, § 1, Oct. 31, 1998, 112 Stat. 3191, provided that: “This Act [enacting sections 285b–7a and 300u–9 of this title and amending sections 242k, 280e–4, 283a, 284e, 285a–8, 285e–10, 287d, 300k, 300n–4a, 300n–5, and 300u–5 of this title] may be cited as the ‘Women’s Health Research and Prevention Amendments of 1998’.”
 
@@ -643,7 +654,7 @@ Pub. L. 99–649, § 1, Nov. 10, 1986, 100 Stat. 3633, provided: “That this Ac
 
 Pub. L. 99–570, title IV, § 4001(a), Oct. 27, 1986, 100 Stat. 3207–103, provided that: “This subtitle [subtitle A (§§ 4001–4022) of title IV of Pub. L. 99–570, enacting sections 290aa–3a, 290aa–6 to 290aa–10, and 300y to 300y–2 of this title, amending sections 218, 241, 290aa to 290aa–3, 290aa–4, 290aa–5, 290bb–1, 290bb–2, 290cc, and 290cc–2 of this title and sections 331 and 350a of Title 21, Food and Drugs, and enacting provisions set out as notes under sections 290aa–3, 290aa–3a, and 290bb of this title] may be cited as the ‘Alcohol and Drug Abuse Amendments of 1986’.”
 
-Pub. L. 99–339, § 1, June 19, 1986, 100 Stat. 642, provided that: “This Act [enacting sections 300g–6, 300h–5 to 300h–7, 300i–1, and 300j–11 of this title, amending sections 300f, 300g–1 to 300g–5, 300h to 300h–2, 300h–4, 300h–6, 300h–7, 300i, 300j to 300j–4, 300j–7, and 6979a of this title and sections 1261 and 1263 of Title 15, Commerce and Trade, transferring section 6939b to 6979a of this title, and enacting provisions set out as notes under sections 300g–6 and 300j–1 of this title and [section 1261 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1261&num=0&edition=prelim)] may be cited as the ‘Safe Drinking Water Act Amendments of 1986’.”
+Pub. L. 99–339, § 1, June 19, 1986, 100 Stat. 642, provided that: “This Act [enacting sections 300g–6, 300h–5 to 300h–7, 300i–1, and 300j–11 of this title, amending sections 300f, 300g–1 to 300g–5, 300h to 300h–2, 300h–4, 300h–6, 300h–7, 300i, 300j to 300j–4, 300j–7, and 6979a of this title and sections 1261 and 1263 of Title 15, Commerce and Trade, transferring [section 6939b of this title](./chapter-082-solid-waste-disposal.md#section-6939b) to 6979a of this title, and enacting provisions set out as notes under sections 300g–6 and 300j–1 of this title and [section 1261 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1261&num=0&edition=prelim)] may be cited as the ‘Safe Drinking Water Act Amendments of 1986’.”
 
 Pub. L. 99–280, § 1(a), Apr. 24, 1986, 100 Stat. 399, provided that: “This Act [amending sections 254b and 254c of this title and repealing sections 300y to 300y–11 of this title] may be cited as the ‘Health Services Amendments Act of 1986’.”
 
@@ -654,7 +665,7 @@ Pub. L. 99–129, § 1, Oct. 22, 1985, 99 Stat. 523, provided: “That this Act 
 
 Pub. L. 99–117, § 1(a), Oct. 7, 1985, 99 Stat. 491, provided that: “this Act [amending sections 207, 210, 213a, 242c, 242n, 243, 246, 247b, 247e, 253, 290aa–3, 300x–4, 300x–5, and 300x–9 of this title and [section 1333 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1333&num=0&edition=prelim), Commerce and Trade, repealing sections 247, 254a–1, 299 to 299j, 300d–4, 300d–6, and 300aa–4 of this title, and enacting provisions set out as notes under sections 210, 241, and 242n of this title] may be cited as the ‘Health Services Amendments of 1985’.”
 
-Pub. L. 99–92, § 1, Aug. 16, 1985, 99 Stat. 393, provided: “That this Act [enacting [section 297i of this title](./chapter-6a-public-health-service.md#section-297i), transferring section 296c to [section 298b–5 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section298b–5&num=0&edition=prelim), amending sections 296k to 296m, 297, 297–1, 297a, 297b, 297d, 297e, 298, 298b, and 298b–5 of this title, sections 1332, 1333, 1336, and 1341 of Title 15, Commerce and Trade, and [section 6103 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6103&num=0&edition=prelim), Internal Revenue Code, repealing sections 296 to 296b, 296d to 296f, 296j, 297h, and 297j of this title, and enacting provisions set out as notes under sections 296k and 298b–5 of this title and [section 1333 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1333&num=0&edition=prelim)] may be cited as the ‘Nurse Education Amendments of 1985’.”
+Pub. L. 99–92, § 1, Aug. 16, 1985, 99 Stat. 393, provided: “That this Act [enacting [section 297i of this title](./chapter-6a-public-health-service.md#section-297i), transferring [section 296c of this title](./chapter-6a-public-health-service.md#section-296c) to [section 298b–5 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section298b–5&num=0&edition=prelim), amending sections 296k to 296m, 297, 297–1, 297a, 297b, 297d, 297e, 298, 298b, and 298b–5 of this title, sections 1332, 1333, 1336, and 1341 of Title 15, Commerce and Trade, and [section 6103 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6103&num=0&edition=prelim), Internal Revenue Code, repealing sections 296 to 296b, 296d to 296f, 296j, 297h, and 297j of this title, and enacting provisions set out as notes under sections 296k and 298b–5 of this title and [section 1333 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1333&num=0&edition=prelim)] may be cited as the ‘Nurse Education Amendments of 1985’.”
 
 #### Short Title of 1984 Amendments
 Pub. L. 98–555, § 1(a), Oct. 30, 1984, 98 Stat. 2854, provided that: “this Act [enacting sections 300w–9 and 300w–10 of this title and amending sections 247b, 247c, 255, 300, 300w, 300w–4, and 300w–5 of this title] may be cited as the ‘Preventive Health Amendments of 1984’.”
@@ -920,6 +931,115 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Executive Order No. 13507
 Ex. Ord. No. 13507, Apr. 8, 2009, 74 F.R. 17071, which established the White House Office of Health Reform, was revoked by Ex. Ord. No. 13569, § 6, Apr. 5, 2011, 76 F.R. 19891, set out as a note preceding [section 101 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section101&num=0&edition=prelim), The President.
+
+#### Ex. Ord. No. 14212. Establishing the President’s Make America Healthy Again Commission
+Ex. Ord. No. 14212, Feb. 13, 2025, 90 F.R. 9833, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:
+
+Section 1. Purpose. American life expectancy significantly lags behind other developed countries, with pre-COVID-19 United States life expectancy averaging 78.8 years and comparable countries averaging 82.6 years. This equates to 1.25 billion fewer life years for the United States population. Six in 10 Americans have at least one chronic disease, and four in 10 have two or more chronic diseases. An estimated one in five United States adults lives with a mental illness.
+
+These realities become even more painful when contrasted with nations around the globe. Across 204 countries and territories, the United States had the highest age-standardized incidence rate of cancer in 2021, nearly double the next-highest rate. Further, from 1990–2021, the United States experienced an 88 percent increase in cancer, the largest percentage increase of any country evaluated. In 2021, asthma was more than twice as common in the United States than most of Europe, Asia, or Africa. Autism spectrum disorders had the highest prevalence in high-income countries, including the United States, in 2021. Similarly, autoimmune diseases such as inflammatory bowel disease, psoriasis, and multiple sclerosis are more commonly diagnosed in high-income areas such as Europe and North America. Overall, the global comparison data demonstrates that the health of Americans is on an alarming trajectory that requires immediate action.
+
+This concern applies urgently to America’s children. In 2022, an estimated 30 million children (40.7 percent) had at least one health condition, such as allergies, asthma, or an autoimmune disease. Autism spectrum disorder now affects 1 in 36 children in the United States—a staggering increase from rates of 1 to 4 out of 10,000 children identified with the condition during the 1980s. Eighteen percent of late adolescents and young adults have fatty liver disease, close to 30 percent of adolescents are prediabetic, and more than 40 percent of adolescents are overweight or obese.
+
+These health burdens have continued to increase alongside the increased prescription of medication. For example, in the case of Attention Deficit Disorder/Attention Deficit Hyperactivity Disorder, over 3.4 million children are now on medication for the disorder—up from 3.2 million children in 2019–2020—and the number of children being diagnosed with the condition continues to rise.
+
+This poses a dire threat to the American people and our way of life. Seventy-seven percent of young adults do not qualify for the military based in large part on their health scores. Ninety percent of the Nation’s $4.5 trillion in annual healthcare expenditures is for people with chronic and mental health conditions. In short, Americans of all ages are becoming sicker, beset by illnesses that our medical system is not addressing effectively. These trends harm us, our economy, and our security.
+
+To fully address the growing health crisis in America, we must re-direct our national focus, in the public and private sectors, toward understanding and drastically lowering chronic disease rates and ending childhood chronic disease. This includes fresh thinking on nutrition, physical activity, healthy lifestyles, over-reliance on medication and treatments, the effects of new technological habits, environmental impacts, and food and drug quality and safety. We must restore the integrity of the scientific process by protecting expert recommendations from inappropriate influence and increasing transparency regarding existing data. We must ensure our healthcare system promotes health rather than just managing disease.
+
+Sec. 2. Policy. It shall be the policy of the Federal Government to aggressively combat the critical health challenges facing our citizens, including the rising rates of mental health disorders, obesity, diabetes, and other chronic diseases. To do so, executive departments and agencies (agencies) that address health or healthcare must focus on reversing chronic disease. Under this policy:
+
+(a) all federally funded health research should empower Americans through transparency and open-source data, and should avoid or eliminate conflicts of interest that skew outcomes and perpetuate distrust;
+
+(b) the National Institutes of Health and other health-related research funded by the Federal Government should prioritize gold-standard research on the root causes of why Americans are getting sick;
+
+(c) agencies shall work with farmers to ensure that United States food is the healthiest, most abundant, and most affordable in the world; and
+
+(d) agencies shall ensure the availability of expanded treatment options and the flexibility for health insurance coverage to provide benefits that support beneficial lifestyle changes and disease prevention.
+
+Sec. 3. Establishment and Composition of the President’s Make America Healthy Again Commission. (a) There is hereby established the President’s Make America Healthy Again Commission (Commission), chaired by the Secretary of Health and Human Services (Chair), with the Assistant to the President for Domestic Policy serving as Executive Director (Executive Director).
+
+(b) In addition to the Chair and the Executive Director, the Commission shall include the following officials, or their designees:
+
+(i) the Secretary of Agriculture;
+
+(ii) the Secretary of Housing and Urban Development;
+
+(iii) the Secretary of Education;
+
+(iv) the Secretary of Veterans Affairs;
+
+(v) the Administrator of the Environmental Protection Agency;
+
+(vi) the Director of the Office of Management and Budget;
+
+(vii) the Assistant to the President and Deputy Chief of Staff for Policy;
+
+(viii) the Director of the National Economic Council;
+
+(ix) the Chairman of the Council of Economic Advisers;
+
+(x) the Director of the Office of Science and Technology Policy;
+
+(xi) the Commissioner of Food and Drugs;
+
+(xii) the Director for the Centers for Disease Control and Prevention;
+
+(xiii) the Director of the National Institutes of Health; and
+
+(xiv) other members of my Administration invited to participate, at the discretion of the Chair and the Executive Director.
+
+Sec. 4. Fighting Childhood Chronic Disease. The initial mission of the Commission shall be to advise and assist the President on how best to exercise his authority to address the childhood chronic disease crisis. Therefore, the Commission shall:
+
+(a) study the scope of the childhood chronic disease crisis and any potential contributing causes, including the American diet, absorption of toxic material, medical treatments, lifestyle, environmental factors, Government policies, food production techniques, electromagnetic radiation, and corporate influence or cronyism;
+
+(b) advise and assist the President on informing the American people regarding the childhood chronic disease crisis, using transparent and clear facts; and
+
+(c) provide to the President Government-wide recommendations on policy and strategy related to addressing the identified contributing causes of and ending the childhood chronic disease crisis.
+
+Sec. 5. Initial Assessment and Strategy from the Make America Healthy Again Commission. (a) Make our Children Healthy Again Assessment. Within 100 days of the date of this order [Feb. 13, 2025], the Commission shall submit to the President, through the Chair and the Executive Director, the Make Our Children Healthy Again Assessment, which shall:
+
+(i) identify and describe childhood chronic disease in America compared to other countries;
+
+(ii) assess the threat that potential over-utilization of medication, certain food ingredients, certain chemicals, and certain other exposures pose to children with respect to chronic inflammation or other established mechanisms of disease, using rigorous and transparent data, including international comparisons;
+
+(iii) assess the prevalence of and threat posed by the prescription of selective serotonin reuptake inhibitors, antipsychotics, mood stabilizers, stimulants, and weight-loss drugs;
+
+(iv) identify and report on best practices for preventing childhood health issues, including through proper nutrition and the promotion of healthy lifestyles;
+
+(v) evaluate the effectiveness of existing educational programs with regard to nutrition, physical activity, and mental health for children;
+
+(vi) identify and evaluate existing Federal programs and funding intended to prevent and treat childhood health issues for their scope and effectiveness;
+
+(vii) ensure transparency of all current data and unpublished analyses related to the childhood chronic disease crisis, consistent with applicable law;
+
+(viii) evaluate the effectiveness of current Federal Government childhood health data and metrics, including those from the Federal Interagency Forum on Child and Family Statistics and the National Survey of Children’s Health;
+
+(ix) restore the integrity of science, including by eliminating undue industry influence, releasing findings and underlying data to the maximum extent permitted under applicable law, and increasing methodological rigor; and
+
+(x) establish a framework for transparency and ethics review in industry-funded projects.
+
+(b) Make our Children Healthy Again Strategy. Within 180 days of the date of this order, the Commission shall submit to the President, through the Chair and the Executive Director, a Make Our Children Healthy Again Strategy (Strategy), based on the findings from the Make Our Children Healthy Again Assessment described in subsection (a) of this section. The Strategy shall address appropriately restructuring the Federal Government’s response to the childhood chronic disease crisis, including by ending Federal practices that exacerbate the health crisis or unsuccessfully attempt to address it, and by adding powerful new solutions that will end childhood chronic disease.
+
+(c) The Chair may hold public hearings, meetings, roundtables, and similar events, as appropriate, and may receive expert input from leaders in public health and Government accountability.
+
+Sec. 6. Additional Reports. (a) Following the submission to the President of the Strategy, and any final strategy reports thereafter, the Chair and the Executive Director shall recommend to the President updates to the Commission’s mission, including desired reports.
+
+(b) The Commission shall not reconvene, following submission of the Strategy, until an updated mission is submitted to the President through the Executive Director.
+
+Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-203"></a>
@@ -1487,7 +1607,7 @@ Section, act July 1, 1944, ch. 373, title II, § 207, 58 Stat. 685, related to e
 
   (B) does not come within clause (A)(i) and (ii) but was on active duty in the Ready Reserve Corps continuously for not less than one year immediately prior to his appointment to the Regular Corps and has not served on active duty continuously for a period, occurring after June 30, 1960, of more than three and one-half years prior to applying for such appointment.
 
-(3) No person shall be appointed pursuant to this subsection unless he meets standards established in accordance with regulat1ions of the President.
+(3) No person shall be appointed pursuant to this subsection unless he meets standards established in accordance with regulations of the President.
 
 **(c) Issuance of commissions** Commissions evidencing the appointment by the President of officers of the Regular Corps or Ready Reserve Corps shall be issued by the Secretary under the seal of the Department of Health and Human Services.
 
@@ -2336,11 +2456,11 @@ George Bush.
 ## § 214. Rights, benefits, privileges, and immunities for commissioned officers or beneficiaries; exercise of authority by Secretary or designee
 **(a)** Commissioned officers of the Service or their surviving beneficiaries are entitled to all the rights, benefits, privileges, and immunities now or hereafter provided for commissioned officers of the Army or their surviving beneficiaries under the following provisions of title 10:
 
-(1) Section 1036, Escorts for dependents of members: transportation and travel allowances.
+(1) Section 1036,11 See References in Text note below. Escorts for dependents of members: transportation and travel allowances.
 
 (2) Chapter 61, Retirement or Separation for Physical Disability, except that sections 1201, 1202, and 1203 do not apply to commissioned officers of the Public Health Service who have been ordered to active duty for training for a period of more than 30 days.
 
-(3) Chapter 69, Retired Grade, except sections 1370,11 See References in Text note below. 1374,1 1375 and 1376(a).1
+(3) Chapter 69, Retired Grade, except sections 1370,1 1374,1 1375 and 1376(a).1
 
 (4) Chapter 71, Computation of Retired Pay, except formula No. 3 of section 1401.1
 
@@ -2354,7 +2474,7 @@ George Bush.
 
 (9) Section 2603, Acceptance of fellowships, scholarships, or grants.
 
-(10) Section 2634, Motor vehicles: for members on permanent change of station.
+(10) Section 2634,1 Motor vehicles: for members on permanent change of station.
 
 (11) Section 1035, Deposits of Savings.
 
@@ -2389,11 +2509,15 @@ George Bush.
 ### Statutory Notes
 
 #### References in Text
+[Section 1036 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1036&num=0&edition=prelim), referred to in subsec. (a)(1), was repealed by Pub. L. 113–66, div. A, title VI, § 621(a)(2)(A), Dec. 26, 2013, 127 Stat. 783.
+
 [Section 1370 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1370&num=0&edition=prelim), referred to in subsec. (a)(3), was repealed and new sections 1370 and 1370a of Title 10, Armed Forces, were enacted by Pub. L. 116–283, div. A, title V, § 508(a)(1), Jan. 1, 2021, 134 Stat. 3580. For provisions stating that in determining retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to [section 1370 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1370&num=0&edition=prelim) in such determination with respect to such officers is deemed to be a reference to [section 1370a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1370a&num=0&edition=prelim), see section 508(c) of Pub. L. 116–283, set out as a note under [section 1370 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1370&num=0&edition=prelim).
 
 Sections 1374 and 1376(a) of title 10, referred to in subsec. (a)(3), were repealed by Pub. L. 103–337, div. A, title XVI, § 1662(k)(2), (3)(A)(i), Oct. 5, 1994, 108 Stat. 3006. See sections 12771 to 12774 of Title 10, Armed Forces.
 
 Formula No. 3 of [section 1401 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401&num=0&edition=prelim), referred to in subsec. (a)(4), was struck from the table set forth in [section 1401(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401/a&num=0&edition=prelim) by Pub. L. 103–337, div. A, title XVI, § 1662(j)(2), Oct. 5, 1994, 108 Stat. 3004.
+
+[Section 2634 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2634&num=0&edition=prelim), referred to in subsec. (a)(10), was repealed by Pub. L. 113–66, div. A, title VI, § 621(g)(1), Dec. 26, 2013, 127 Stat. 784.
 
 #### Codification
 Section was formerly classified to [section 316 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section316&num=0&edition=prelim) prior to the general revision and enactment of Title 37, Pay and Allowances of the Uniformed Services, by Pub. L. 87–649, § 1, Sept. 7, 1962, 76 Stat. 451.
@@ -4633,7 +4757,7 @@ Pub. L. 106–129, § 7, Dec. 6, 1999, 113 Stat. 1676, provided that: “The Sec
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(2)(A)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(2)(A)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 
 <a id="section-239a"></a>
@@ -5199,7 +5323,7 @@ Pub. L. 117–215, title I, § 106, Dec. 2, 2022, 136 Stat. 2264, provided that:
 [For definition of “marijuana” as used in section 106 of Pub. L. 117–215, set out above, see section 2(a) of Pub. L. 117–215, set out as a note under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim), Food and Drugs.]
 
 #### Director of Advanced Research Projects for Health
-Pub. L. 117–328, div. H, title II, Dec. 29, 2022, 136 Stat. 4878, provided in part: “That the President shall appoint in the Department of Health and Human Services a director of advanced research projects for health (Director): Provided further, That funds may be used to make or rescind appointments of scientific, medical, and professional personnel without regard to any provision in title 5 governing appointments under the civil service laws: Provided further, That funds may be used to fix the compensation of such personnel at a rate to be determined by the Director, up to the amount of annual compensation (excluding expenses) specified in [section 102 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim), United States Code: Provided further, That the Director may use funds made available under this heading to make awards in the form of grants, contracts, cooperative agreements, and cash prizes, and enter into other transactions (as defined in section 319L(a)(3) of the PHS [Public Health Service] Act [[42 U.S.C. 247d–7e(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–7e/a/3&num=0&edition=prelim)): Provided further, That activities supported with funds provided under this heading shall not be subject to the requirements of sections [sic] 406(a)(3)(A)(ii) or 492 of the PHS [Public Health Service] Act [[42 U.S.C. 284a(a)(3)(A)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section284a/a/3/A/ii&num=0&edition=prelim), 289a]: Provided further, That the Secretary [of Health and Human Services] may transfer the Advanced Research Projects Agency for Health, including the functions, personnel, missions, activities, authorities, and funds, within 30 days of enactment of this Act [Dec. 29, 2022] to any agency or office of the Department of Health and Human Services, including the National Institutes of Health: Provided further, That the Committees on Appropriations of the House of Representatives and the Senate shall be notified at least 15 days in advance of any transfer pursuant to the preceding proviso.”
+Pub. L. 117–328, div. H, title II, Dec. 29, 2022, 136 Stat. 4878, provided in part: “That the President shall appoint in the Department of Health and Human Services a director of advanced research projects for health (Director): Provided further, That funds may be used to make or rescind appointments of scientific, medical, and professional personnel without regard to any provision in title 5 governing appointments under the civil service laws: Provided further, That funds may be used to fix the compensation of such personnel at a rate to be determined by the Director, up to the amount of annual compensation (excluding expenses) specified in [section 102 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim), United States Code: Provided further, That the Director may use funds made available under this heading to make awards in the form of grants, contracts, cooperative agreements, and cash prizes, and enter into other transactions (as defined in section 319L(a)(3) of the PHS [Public Health Service] Act [[42 U.S.C. 247d–7e(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–7e/a/3&num=0&edition=prelim)]): Provided further, That activities supported with funds provided under this heading shall not be subject to the requirements of sections [sic] 406(a)(3)(A)(ii) or 492 of the PHS [Public Health Service] Act [[42 U.S.C. 284a(a)(3)(A)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section284a/a/3/A/ii&num=0&edition=prelim), 289a]: Provided further, That the Secretary [of Health and Human Services] may transfer the Advanced Research Projects Agency for Health, including the functions, personnel, missions, activities, authorities, and funds, within 30 days of enactment of this Act [Dec. 29, 2022] to any agency or office of the Department of Health and Human Services, including the National Institutes of Health: Provided further, That the Committees on Appropriations of the House of Representatives and the Senate shall be notified at least 15 days in advance of any transfer pursuant to the preceding proviso.”
 
 [For transfer of all functions, personnel, missions, activities, authorities, and funds of the Advanced Research Projects Agency for Health to the Advanced Research Projects Agency–Health within the National Institutes of Health, see [section 290c of this title](./chapter-6a-public-health-service.md#section-290c).]
 
@@ -5557,9 +5681,6 @@ Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, e
 (3) **Guidelines** — The Director, in consultation with the Secretary, shall establish guidelines regarding the use of the authority under paragraph (1). Such guidelines shall include auditing requirements.
 
 ### Statutory Notes
-
-#### Delayed Effective Date
-For delayed effective date of first sentence of subection (a) of this section, see Effective Date note below.
 
 #### References in Text
 [Section 9604(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9604/i&num=0&edition=prelim), referred to in subsec. (a), was in the original “section 104(i) of the Comprehensive Environmental Response, Compensation, and Liability Act”, and was translated as reading “section 104(i) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980”, meaning section 104(i) of Pub. L. 96–510, to reflect the probable intent of Congress.
@@ -6490,12 +6611,15 @@ A prior section 310A of act July 1, 1944, was renumbered section 226 and transfe
 
 **(d) Data from tribal areas** The Director may, in cooperation with Indian Tribes (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)) and pursuant to a written request from an Indian Tribe, provide technical assistance to such Indian Tribe to collect and report data on adverse childhood experiences through the Behavioral Risk Factor Surveillance System, the Youth Risk Behavior Surveillance System, or another relevant public health survey or questionnaire.
 
-**(e) Authorization of appropriations** To carry out this section, there is authorized to be appropriated $2,000,000 for each of fiscal years 2019 through 2023.
+**(e) Authorization of appropriations** To carry out this section, there is authorized to be appropriated $9,000,000 for each of fiscal years 2026 through 2030.
 
 ### Statutory Notes
 
 #### Codification
 Section was enacted as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Amendments
+2025—Subsec. (e). Pub. L. 119–44 substituted “$9,000,000 for each of fiscal years 2026 through 2030” for “$2,000,000 for each of fiscal years 2019 through 2023”.
 
 
 <a id="section-242u"></a>
@@ -6753,11 +6877,180 @@ Pub. L. 107–188, title I, § 159(b), June 12, 2002, 116 Stat. 634, provided th
 
 
 <a id="section-244a"></a>
-## § 244a. Repealed. Pub. L. 93–353, title I, § 102(a), July 23, 1974, 88 Stat. 362
+## § 244a. Materials and resources to increase education and awareness of cardiomyopathy among school administrators, educators, and families
+**(a) Materials and resources** Not later than 18 months after December 23, 2024, the Secretary, in consultation with the Director of the Centers for Disease Control and Prevention, shall develop public education materials and resources to be disseminated to school administrators, educators, school health professionals, coaches, families, guardians, caregivers, and other appropriate individuals. The materials and resources shall include—
+
+(1) information on the signs, symptoms, and risk factors associated with high-risk cardiac conditions and genetic heart rhythm abnormalities that may cause sudden cardiac arrest in children, adolescents, and young adults, including—
+
+  (A) cardiomyopathy;
+
+  (B) long QT syndrome, Brugada syndrome, catecholaminergic polymorphic ventricular tachycardia, short QT syndrome, and Wolff-Parkinson-White syndrome; and
+
+  (C) other high-risk cardiac conditions, as determined by the Secretary;
+
+(2) guidelines regarding the placement of automated external defibrillators in schools, early childhood education programs, and child care centers;
+
+(3) training information on automated external defibrillators and cardiopulmonary resuscitation; and
+
+(4) recommendations for how schools, early childhood education programs, and child care centers can develop and implement a cardiac emergency response plan.
+
+**(b) Dissemination of materials and resources** Not later than 30 months after December 23, 2024, the Secretary shall disseminate the materials and resources developed under subsection (a) in accordance with the following:
+
+(1) **Distribution by State educational agencies** — The Secretary shall make available such materials and resources to State educational agencies to distribute—
+
+  (A) to school administrators, educators, school health professionals, coaches, families, guardians, caregivers, and other appropriate individuals, the information developed under subsection (a)(1);
+
+  (B) to parents, guardians, or other caregivers, the cardiomyopathy risk assessment developed pursuant to [section 244b(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section244b/b/1&num=0&edition=prelim); and
+
+  (C) to school administrators, educators, school health professionals, and coaches—
+
+    (i) the guidelines described in subsection (a)(2);
+
+    (ii) the training information described in subsection (a)(3); and
+
+    (iii) the recommendations described in subsection (a)(4).
+
+(2) **Dissemination to health departments and professionals** — The Secretary shall make available the materials and resources developed under subsection (a) to State and local health departments, pediatricians, hospitals, and other health professionals, such as nurses and first responders.
+
+(3) **Posting on website**
+
+  (A) *CDC*
+
+    (i) *In general* — The Secretary, through the Director, shall post the materials and resources developed under subsection (a) on the public Internet website of the Centers for Disease Control and Prevention.
+
+    (ii) *Additional information* — The Director is encouraged to maintain on such public Internet website such additional information regarding cardiomyopathy as deemed appropriate by the Director.
+
+  (B) *State educational agencies* — State educational agencies are encouraged to create public Internet webpages dedicated to cardiomyopathy and post the materials and resources developed under subsection (a) on such webpages.
+
+**(c) Definitions** In this section:
+
+(1) The term “cardiomyopathy” means a heart disease that affects the heart’s muscle (myocardium)—
+
+  (A) the symptoms of which may vary from case to case, including—
+
+    (i) cases in which no symptoms are present (asymptomatic); and
+
+    (ii) cases in which there are symptoms of a progressive condition that may result from an impaired ability of the heart to pump blood, such as fatigue, irregular heartbeats (arrhythmia), heart failure, and, potentially, sudden cardiac death; and
+
+  (B) the recognized types of which include dilated, hypertrophic, restrictive, arrhythmogenic right ventricular dysplasia, and left ventricular non-compaction.
+
+(2) The term “Director” means the Director of the Centers for Disease Control and Prevention.
+
+(3) The terms “early childhood education program”, “elementary school”, and “secondary school” have the meanings given to those terms in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
+(4) The term “school administrator” means a principal, director, manager, or other supervisor or leader within an elementary school, secondary school, State-based early childhood education program, or child care center.
+
+(5) The term “school health professional” means a health professional serving at an elementary school, secondary school, State-based early childhood education program, or child care center.
 
 ### Statutory Notes
 
-Section, act July 1, 1944, ch. 373, title III, § 312a, as added Aug. 31, 1954, ch. 1158, § 2, 68 Stat. 1025, related to birth and death statistics, annual collection, and compensation for transcription. See [section 242k(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section242k/h&num=0&edition=prelim).
+#### Prior Provisions
+A prior section 244a, act July 1, 1944, ch. 373, title III, § 312a, as added Aug. 31, 1954, ch. 1158, § 2, 68 Stat. 1025, related to birth and death statistics, annual collection, and compensation for transcription, prior to repeal by Pub. L. 93–353, title I, § 102(a), July 23, 1974, 88 Stat. 362. See [section 242k(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section242k/h/1&num=0&edition=prelim).
+
+
+<a id="section-244b"></a>
+## § 244b. Activities relating to cardiomyopathy
+**(a) Report on CDC national cardiomyopathy activities**
+
+(1) **In general** — Not later than 18 months after December 23, 2024, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to Congress a report on findings generated from existing activities conducted by the Centers for Disease Control and Prevention to improve the understanding of the prevalence and epidemiology of cardiomyopathy across the lifespan, from birth to adulthood, with particular interest in the following:
+
+  (A) The natural history of individuals with cardiomyopathy, in both the pediatric and adult population.
+
+  (B) Estimates of cardiomyopathy-related emergency department visits and hospitalizations, in both the pediatric and adult population.
+
+(2) **Public access** — Subject to paragraph (3), the report submitted under this subsection shall be made available to the public.
+
+(3) **Privacy protections** — The Secretary shall ensure that this subsection is carried out in a manner that complies with all applicable privacy laws under Federal and State law.
+
+**(b) Improving risk assessments for individuals with cardiomyopathy**
+
+(1) **In general** — The Secretary shall develop and make publicly available a cardiomyopathy risk assessment for health care providers and individuals. Such risk assessment shall, at a minimum, include the following:
+
+  (A) Background information on the prevalence, incidence, and health impact of cardiomyopathy, including all forms of cardiomyopathy and their effects on pediatric, adolescent, and adult individuals.
+
+  (B) A worksheet with variables and conditions for an individual or health care provider to use in assessing whether an individual is at risk for cardiomyopathy.
+
+  (C) A worksheet with variables and stages of progression for an individual or health care provider to use in assessing whether and to what extent cardiomyopathy has progressed in an individual.
+
+  (D) Guidelines on cardiomyopathy screenings for individuals who are at risk for, or have a family history of, cardiomyopathy.
+
+(2) **Stakeholder input** — In carrying out paragraph (1), the Director of the Centers for Disease Control and Prevention shall seek input from external stakeholders including—
+
+  (A) representatives from national patient advocacy organizations expert in all forms of cardiomyopathy;
+
+  (B) representatives from medical professional societies that specialize in the care of adults and pediatrics with cardiomyopathy; and
+
+  (C) representatives from other relevant Federal agencies.
+
+**(c) Definition** In this section, the term “cardiomyopathy” has the meaning given to such term in [section 244a of this title](./chapter-6a-public-health-service.md#section-244a).
+
+
+<a id="section-244c"></a>
+## § 244c. Cardiomyopathy research
+**(a) In general** The Secretary, in consultation with the Director of the National Institutes of Health, may expand and coordinate research and related activities of the National Institutes of Health with respect to cardiomyopathy, which may include research with respect to—
+
+(1) causation of cardiomyopathy, including genetic causes and molecular biomarkers;
+
+(2) long-term health outcomes in individuals with cardiomyopathy, including infants, children, teenagers, adults, and elderly individuals; and
+
+(3) studies using longitudinal data and retrospective analysis to identify effective treatments and outcomes for individuals with cardiomyopathy.
+
+**(b) Nonduplication** The Secretary shall ensure that any research and activities related to cardiomyopathy under this section do not unnecessarily duplicate activities, programs, or efforts of other agencies and offices within the Department of Health and Human Services.
+
+**(c) NIH report** Not later than 18 months after December 23, 2024, the Secretary, in consultation with the Director of the National Institutes of Health, shall submit to Congress a report—
+
+(1) outlining the ongoing research efforts of the National Institutes of Health regarding cardiomyopathy; and
+
+(2) identifying—
+
+  (A) a research agenda regarding adult forms of cardiomyopathy;
+
+  (B) plans for researching cardiomyopathy affecting the pediatric population; and
+
+  (C) the areas of greatest need for such research.
+
+**(d) Cardiomyopathy defined** In this section, the term “cardiomyopathy” has the meaning given to such term in [section 244a of this title](./chapter-6a-public-health-service.md#section-244a).
+
+
+<a id="section-244d"></a>
+## § 244d. Promoting student access to AEDs and CPR
+**(a) In general** The Secretary may award grants to eligible entities to develop and implement a comprehensive program to promote student access to automated external defibrillators (in this section referred to as “AEDs”) and cardiopulmonary resuscitation (in this section referred to as “CPR”) in public elementary schools and secondary schools.
+
+**(b) Use of funds** An eligible entity receiving a grant under subsection (a) may use funds received through such grant to carry out any of the following activities:
+
+(1) Developing and providing comprehensive materials to establish AED and CPR programs in public elementary schools and secondary schools.
+
+(2) Providing support for CPR and AED training programs in such schools for students, staff, and related sports volunteers.
+
+(3) Providing support for developing a cardiac emergency response plan within such schools.
+
+(4) Purchasing AEDs that have been approved under [section 360e of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360e&num=0&edition=prelim), cleared under section 360(k) of such title, or classified under section 360c(f)(2) of such title.
+
+(5) Purchasing necessary AED batteries and performing necessary AED maintenance (such as by replacing AED pads) in accordance with the labeling of the AED involved.
+
+(6) Replacing old and outdated AED and CPR equipment, machinery, and educational materials.
+
+**(c) Eligibility; application** To be eligible for a grant under subsection (a), an entity shall—
+
+(1) be a local educational agency (including a public charter school operating as a local educational agency under State law), in consultation with a qualified health care entity; and
+
+(2) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may reasonably require.
+
+**(d) Definitions** In this section:
+
+(1) **ESEA terms** — The terms “elementary school”, “local educational agency”, and “secondary school” have the meanings given such terms in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
+(2) **Qualified health care entity** — The term “qualified health care entity” means a health care entity that—
+
+  (A) is—
+
+    (i) a public entity; or
+
+    (ii) an organization that is described in [section 501(c) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c&num=0&edition=prelim) and exempt from taxation under section 501(a) of such title;
+
+  (B) demonstrates an ability to develop, train, and implement a comprehensive program to promote student access to defibrillation in public elementary and secondary schools; and
+
+  (C) is qualified in providing technical assistance in AED and CPR training.
 
 
 <a id="section-244-1"></a>
@@ -7903,18 +8196,20 @@ Subsec. (f). Pub. L. 115–344, § 2(4), (6), redesignated subsec. (d) as (f) an
 
 (4) coordinate with the National Coordinator for Health Information Technology, as appropriate, to assist States and Tribes in implementing systems that use standards recognized by such National Coordinator, as such recognized standards are available, in order to facilitate interoperability between such systems and health information technology systems, including certified health information technology.
 
-**(d) Authorization of appropriations** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2019 through 2023.
+**(d) Authorization of appropriations** For the purpose of carrying out this section, there are authorized to be appropriated such $4,250,000 for each of fiscal years 2026 through 2030.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (d). Pub. L. 119–44 substituted “$4,250,000 for each of fiscal years 2026 through 2030” for “such sums as may be necessary for each of the fiscal years 2019 through 2023”.
+
 2018—Subsec. (a)(1). Pub. L. 115–271, § 7064(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to collect, analyze, and make available data on prenatal smoking, alcohol and illegal drug use, including data on the implications of such activities and on the incidence and prevalence of such activities and their implications;”.
 
 Subsec. (a)(2). Pub. L. 115–271, § 7064(1)(B), substituted “prevention and long-term outcomes associated with” for “prevention of” and “other substance abuse and misuse” for “illegal drug use”.
 
 Subsec. (a)(3). Pub. L. 115–271, § 7064(1)(C), substituted “, treatment, and cessation programs;” for “and cessation programs; and”.
 
-Subsec. (a)(4). Pub. L. 115–271, § 7064(1)(D), substituted “other substance abuse and misuse; and” for “illegal drug use.”.
+Subsec. (a)(4). Pub. L. 115–271, § 7064(1)(D), substituted “other substance abuse and misuse; and” for “illegal drug use.”
 
 Subsec. (a)(5). Pub. L. 115–271, § 7064(1)(E), added par. (5).
 
@@ -8133,11 +8428,13 @@ Section was enacted as part of the Children’s Health Act of 2000, and not as p
 
 **(c) Definition** In this section, the term “Indian tribe” has the meaning given that term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
-**(d) Authorization of appropriations** For the purpose of carrying out this section, there are authorized to be appropriated $40,000,000 for each of the fiscal years 2019 through 2023.
+**(d) Authorization of appropriations** For the purpose of carrying out this section, there are authorized to be appropriated $40,000,000 for each of the fiscal years 2026 through 2030.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (d). Pub. L. 119–44 substituted “fiscal years 2026 through 2030” for “fiscal years 2019 through 2023”.
+
 2018—Pub. L. 115–271 amended section generally. Prior to amendment, section related to surveillance and education regarding hepatitis C virus.
 
 #### Study and Demonstration Projects Regarding Cases of Hepatitis C Among Certain Emergency Response Employees
@@ -9882,7 +10179,7 @@ the Secretary may take such action as may be appropriate to respond to the publi
 
   (B) the term “State” includes, in addition to the entities listed in the definition of such term in [section 201 of this title](./chapter-6a-public-health-service.md#section-201), the Freely Associated States.
 
-(8) **Sunset** — This subsection shall terminate on March 31, 2025.
+(8) **Sunset** — This subsection shall terminate on January 30, 2026.
 
 **(f) Determination with respect to Paperwork Reduction Act waiver during a public health emergency**
 
@@ -9972,6 +10269,10 @@ A prior section 247d, act July 1, 1944, ch. 373, title III, § 319, as added Pub
 Another prior section 247d, act July 1, 1944, ch. 373, title III, § 319, formerly § 310, as added Sept. 25, 1962, Pub. L. 87–692, 76 Stat. 592, and amended and renumbered, which related to migrant health centers, was renumbered section 329 of act July 1, 1944, by Pub. L. 95–626, title I, § 102(a), Nov. 10, 1978, 92 Stat. 3551, and transferred to [section 254b of this title](./chapter-6a-public-health-service.md#section-254b), prior to being omitted in the general amendment of subpart I (§ 254b et seq.) of part D of this subchapter by Pub. L. 104–299, § 2.
 
 #### Amendments
+2025—Subsec. (e)(8). Pub. L. 119–37 substituted “January 30, 2026” for “September 30, 2025”.
+
+Pub. L. 119–4 substituted “September 30, 2025” for “March 31, 2025”.
+
 2024—Subsec. (e)(8). Pub. L. 118–158 substituted “March 31, 2025” for “December 31, 2024”.
 
 Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
@@ -10031,440 +10332,32 @@ Pub. L. 116–136, div. A, title III, § 3226, Mar. 27, 2020, 134 Stat. 383, pro
 #### Reporting by Laboratories of Results of Tests To Detect SARS–CoV–2 or To Diagnose COVID–19
 Pub. L. 116–136, div. B, title VIII, § 18115(a)–(c), Mar. 27, 2020, 134 Stat. 574, provided that: “(a) In General.—Every laboratory that performs or analyzes a test that is intended to detect SARS–CoV–2 or to diagnose a possible case of COVID–19 shall report the results from each such test, to the Secretary of Health and Human Services in such form and manner, and at such timing and frequency, as the Secretary may prescribe until the end of the Secretary’s Public Health Emergency declaration with respect to COVID–19 or any extension of such declaration. “(b) Laboratories Covered.—The Secretary may prescribe which laboratories must submit reports pursuant to this section. “(c) Implementation.—The Secretary may make prescriptions under this section by regulation, including by interim final rule, or by guidance, and may issue such regulations or guidance without regard to the procedures otherwise required by [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code.”
 
-#### Ex. Ord. No. 13987. Organizing and Mobilizing the United States Government To Provide a Unified and Effective Response To Combat COVID–19 and To Provide United States Leadership on Global Health and Security
-Ex. Ord. No. 13987, Jan. 20, 2021, 86 F.R. 7019, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. Purpose. The Federal Government must act swiftly and aggressively to combat coronavirus disease 2019 (COVID–19). To that end, this order creates the position of Coordinator of the COVID–19 Response and Counselor to the President and takes other steps to organize the White House and activities of the Federal Government to combat COVID–19 and prepare for future biological and pandemic threats.
-
-Sec. 2. Organizing the White House to Combat COVID–19. (a) In order to effectively, fully, and immediately respond to COVID–19, there is established within the Executive Office of the President the position of Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator) and the position of Deputy Coordinator of the COVID–19 Response. The COVID–19 Response Coordinator shall report directly to the President; advise and assist the President and executive departments and agencies (agencies) in responding to the COVID–19 pandemic; coordinate all elements of the COVID–19 response; and perform such duties as the President may otherwise direct. These duties shall include:
-
-(i) coordinating a Government-wide effort to reduce disparities in the response, care, and treatment of COVID–19, including racial and ethnic disparities;
-
-(ii) coordinating the Federal Government’s efforts to produce, supply, and distribute personal protective equipment, vaccines, tests, and other supplies for the Nation’s COVID–19 response, including through the use of the Defense Production Act, as amended ([50 U.S.C. 4501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4501&num=0&edition=prelim) et seq.);
-
-(iii) coordinating the Federal Government’s efforts to expand COVID–19 testing and the use of testing as an effective public health response;
-
-(iv) coordinating the Federal Government’s efforts to support the timely, safe, and effective delivery of COVID–19 vaccines to the United States population;
-
-(v) coordinating the Federal Government’s efforts to support the safe reopening and operation of schools, child care providers, and Head Start programs, and to help ensure the continuity of educational and other services for young children and elementary and secondary students during the COVID–19 pandemic; and
-
-(vi) coordinating, as appropriate, with State, local, Tribal, and territorial authorities.
-
-(b) The COVID–19 Response Coordinator shall have the authority to convene principals from relevant agencies, in consultation with the Assistant to the President for Domestic Policy (APDP) on matters involving the domestic COVID–19 response, and in consultation with the Assistant to the President for National Security Affairs (APNSA) on matters involving the global COVID–19 response. The COVID–19 Response Coordinator shall also coordinate any corresponding deputies and interagency processes.
-
-(c) The COVID–19 Response Coordinator may act through designees in performing these or any other duties.
-
-Sec. 3. United States Leadership on Global Health and Security and the Global COVID–19 Response.
-
-(a) Preparing to Respond to Biological Threats and Pandemics. To identify, monitor, prepare for, and, if necessary, respond to emerging biological and pandemic threats:
-
-(i) The APNSA shall convene the National Security Council (NSC) Principals Committee as necessary to coordinate the Federal Government’s efforts to address such threats and to advise the President on the global response to and recovery from COVID–19, including matters regarding: the intersection of the COVID–19 response and other national security equities; global health security; engaging with and strengthening the World Health Organization; public health, access to healthcare, and the secondary impacts of COVID–19; and emerging biological risks and threats, whether naturally occurring, deliberate, or accidental.
-
-(ii) Within 180 days of the date of this order [Jan. 20, 2021], the APNSA shall, in coordination with relevant agencies, the COVID–19 Response Coordinator, and the APDP, complete a review of and recommend actions to the President concerning emerging domestic and global biological risks and national biopreparedness policies. The review and recommended actions shall incorporate lessons from the COVID–19 pandemic and, among other things, address: the readiness of the pandemic supply chain, healthcare workforce, and hospitals; the development of a framework of pandemic readiness with specific triggers for when agencies should take action in response to large-scale biological events; pandemic border readiness; the development and distribution of medical countermeasures; epidemic forecasting and modeling; public health data modernization; bio-related intelligence; bioeconomic investments; biotechnology risks; the development of a framework for coordinating with and distributing responsibilities as between the Federal Government and State, local, Tribal, and territorial authorities; and State, local, Tribal, and territorial preparedness for biological events.
-
-(b) NSC Directorate on Global Health Security and Biodefense. There shall be an NSC Directorate on Global Health Security and Biodefense, which shall be headed by a Senior Director for Global Health Security and Biodefense. The Senior Director shall be responsible for monitoring current and emerging biological threats, and shall report concurrently to the APNSA and to the COVID–19 Response Coordinator on matters relating to COVID–19. The Senior Director shall oversee the Global Health Security Agenda Interagency Review Council, which was established pursuant to Executive Order 13747 of November 4, 2016 (Advancing the Global Health Security Agenda To Achieve a World Safe and Secure From Infectious Disease Threats) [[50 U.S.C. 3021](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim) note], and is hereby reconvened as described in that order.
-
-(c) Responsibility for National Biodefense Preparedness. Notwithstanding any statements in the National Security Presidential Memorandum–14 of September 18, 2018 (Support for National Biodefense), the APNSA shall be responsible for coordinating the Nation’s biodefense preparedness efforts, and, as stated in sections 1 and 2 of this order, the COVID–19 Response Coordinator shall be responsible for coordinating the Federal Government’s response to the COVID–19 pandemic.
-
-Sec. 4. Prompt Resolution of Issues Related to the United States COVID–19 Response. The heads of agencies shall, as soon as practicable, bring any procedural, departmental, legal, or funding obstacle to the COVID–19 response to the attention of the COVID–19 Response Coordinator. The COVID–19 Response Coordinator shall, in coordination with relevant agencies, the APDP, and the APNSA, as appropriate, immediately bring to the President’s attention any issues that require Presidential guidance or decision-making.
-
-Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.
-
-[Positions of COVID–19 Response Coordinator and Deputy Coordinator of the COVID–19 Response, as established by section 2 of Ex. Ord. No. 13987, set out above, terminated, and responsibilities and duties transferred to Director of the Office of Pandemic Preparedness and Response Policy, by Ex. Ord. No. 14122, § 3, Apr. 12, 2024, 89 F.R. 27355, set out in a note under [section 300hh–3 of this title](./chapter-6a-public-health-service.md#section-300hh-3).]
+#### Executive Order No. 13987
+Ex. Ord. No. 13987, Jan. 20, 2021, 86 F.R. 7019, organizing and mobilizing the United States government to provide a unified and effective response to combat COVID–19 and to provide United States leadership on global health and security, was revoked by Ex. Ord. No. 14148, § 2(c), Jan. 20, 2025, 90 F.R. 8237, and Ex. Ord. No. 14155, § 2(b), Jan. 20, 2025, 90 F.R. 8361. Positions of COVID–19 Response Coordinator and Deputy Coordinator of the COVID–19 Response, as established by section 2 of Ex. Ord. No. 13987 terminated, and responsibilities and duties transferred to Director of the Office of Pandemic Preparedness and Response Policy, by Ex. Ord. No. 14122, § 3, Apr. 12, 2024, 89 F.R. 27355, set out in a note under [section 300hh–3 of this title](./chapter-6a-public-health-service.md#section-300hh-3).
 
 #### Executive Order No. 13991
 Ex. Ord. No. 13991, Jan. 20, 2021, 86 F.R. 7045, which required compliance with CDC guidelines with respect to wearing masks, maintaining physical distance, and other public health measures by Federal employees and contractors and all persons in Federal buildings or on Federal lands, and HHS promotion of public health best practices identified by the CDC, was revoked by Ex. Ord. No. 14122, § 2, Apr. 12, 2024, 89 F.R. 27355, set out in a note under [section 300hh–3 of this title](./chapter-6a-public-health-service.md#section-300hh-3).
 
-#### Ex. Ord. No. 13994. Ensuring a Data-Driven Response to COVID–19 and Future High-Consequence Public Health Threats
-Ex. Ord. No. 13994, Jan. 21, 2021, 86 F.R. 7189, provided:
+#### Executive Order No. 13994
+Ex. Ord. No. 13994, Jan. 21, 2021, 86 F.R. 7189, which related to ensuring a data-driven response to COVID–19 and future high-consequence public health threats, was revoked by Ex. Ord. No. 14236, § 2(a), Mar. 14, 2025, 90 F.R. 13037.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+#### Executive Order No. 13995
+Ex. Ord. No. 13995, Jan. 21, 2021, 86 F.R. 7193, which related to ensuring an equitable pandemic response and recovery, was revoked by Ex. Ord. No. 14148, § 2(i), Jan. 20, 2025, 90 F.R. 8237.
 
-Section 1. Policy. It is the policy of my Administration to respond to the coronavirus disease 2019 (COVID–19) pandemic through effective approaches guided by the best available science and data, including by building back a better public health infrastructure. This stronger public health infrastructure must help the Nation effectively prevent, detect, and respond to future biological threats, both domestically and internationally.
+#### Executive Order No. 13996
+Ex. Ord. No. 13996, Jan. 21, 2021, 86 F.R. 7197, establishing the COVID–19Pandemic Testing Board and ensuring a sustainable public health workforce for COVID–19 and other biological threats, was revoked by Ex. Ord. No. 14148 § 2(j), Jan. 20, 2025, 90 F.R. 8237.
 
-Consistent with this policy, the heads of all executive departments and agencies (agencies) shall facilitate the gathering, sharing, and publication of COVID–19-related data, in coordination with the Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator), to the extent permitted by law, and with appropriate protections for confidentiality, privacy, law enforcement, and national security. These efforts shall assist Federal, State, local, Tribal, and territorial authorities in developing and implementing policies to facilitate informed community decision-making, to further public understanding of the pandemic and the response, and to deter the spread of misinformation and disinformation.
-
-Sec. 2. Enhancing Data Collection and Collaboration Capabilities for High-Consequence Public Health Threats, Such as the COVID–19 Pandemic. (a) The Secretary of Defense, the Attorney General, the Secretary of Commerce, the Secretary of Labor, the Secretary of Health and Human Services (HHS), the Secretary of Education, the Director of the Office of Management and Budget (OMB), the Director of National Intelligence, the Director of the Office of Science and Technology Policy (OSTP), and the Director of the National Science Foundation shall each promptly designate a senior official to serve as their agency’s lead to work on COVID–19- and pandemic-related data issues. This official, in consultation with the COVID–19 Response Coordinator, shall take steps to make data relevant to high-consequence public health threats, such as the COVID–19 pandemic, publicly available and accessible.
-
-(b) The COVID–19 Response Coordinator shall, as necessary, convene appropriate representatives from relevant agencies to coordinate the agencies’ collection, provision, and analysis of data, including key equity indicators, regarding the COVID–19 response, as well as their sharing of such data with State, local, Tribal, and territorial authorities.
-
-(c) The Director of OMB, in consultation with the Director of OSTP, the United States Chief Technology Officer, and the COVID–19 Response Coordinator, shall promptly review the Federal Government’s existing approaches to open data, and shall issue supplemental guidance, as appropriate and consistent with applicable law, concerning how to de-identify COVID–19-related data; how to make data open to the public in human- and machine-readable formats as rapidly as possible; and any other topic the Director of OMB concludes would appropriately advance the policy of this order. Any guidance shall include appropriate protections for the information described in section 5 of this order.
-
-(d) The Director of the Office of Personnel Management, in consultation with the Director of OMB, shall promptly:
-
-(i) review the ability of agencies to hire personnel expeditiously into roles related to information technology and the collection, provision, analysis, or other use of data to address high-consequence public health threats, such as the COVID–19 pandemic; and
-
-(ii) take action, as appropriate and consistent with applicable law, to support agencies in such efforts.
-
-Sec. 3. Public Health Data Systems. The Secretary of HHS, in consultation with the COVID–19 Response Coordinator and the heads of relevant agencies, shall promptly:
-
-(a) review the effectiveness, interoperability, and connectivity of public health data systems supporting the detection of and response to high-consequence public health threats, such as the COVID–19 pandemic;
-
-(b) review the collection of morbidity and mortality data by State, local, Tribal, and territorial governments during high-consequence public health threats, such as the COVID–19 pandemic; and
-
-(c) issue a report summarizing the findings of the reviews detailed in subsections (a) and (b) of this section and any recommendations for addressing areas for improvement identified in the reviews.
-
-Sec. 4. Advancing Innovation in Public Health Data and Analytics. The Director of OSTP, in coordination with the National Science and Technology Council, as appropriate, shall develop a plan for advancing innovation in public health data and analytics in the United States.
-
-Sec. 5. Privileged Information. Nothing in this order shall compel or authorize the disclosure of privileged information, law-enforcement information, national-security information, personal information, or information the disclosure of which is prohibited by law.
-
-Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.
-
-[Position of COVID–19 Response Coordinator terminated, and responsibilities and duties of COVID–19 Response Coordinator specified in Ex. Ord. No. 13994, set out above, transferred to Director of the Office of Pandemic Preparedness and Response Policy, by Ex. Ord. No. 14122, § 3, Apr. 12, 2024, 89 F.R. 27355, set out in a note under [section 300hh–3 of this title](./chapter-6a-public-health-service.md#section-300hh-3).]
-
-#### Ex. Ord. No. 13995. Ensuring an Equitable Pandemic Response and Recovery
-Ex. Ord. No. 13995, Jan. 21, 2021, 86 F.R. 7193, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to address the disproportionate and severe impact of coronavirus disease 2019 (COVID–19) on communities of color and other underserved populations, it is hereby ordered as follows:
-
-Section 1. Purpose. The COVID–19 pandemic has exposed and exacerbated severe and pervasive health and social inequities in America. For instance, people of color experience systemic and structural racism in many facets of our society and are more likely to become sick and die from COVID–19. The lack of complete data, disaggregated by race and ethnicity, on COVID–19 infection, hospitalization, and mortality rates, as well as underlying health and social vulnerabilities, has further hampered efforts to ensure an equitable pandemic response. Other communities, often obscured in the data, are also disproportionately affected by COVID–19, including sexual and gender minority groups, those living with disabilities, and those living at the margins of our economy. Observed inequities in rural and Tribal communities, territories, and other geographically isolated communities require a place-based approach to data collection and the response. Despite increased State and local efforts to address these inequities, COVID–19’s disparate impact on communities of color and other underserved populations remains unrelenting.
-
-Addressing this devastating toll is both a moral imperative and pragmatic policy. It is impossible to change the course of the pandemic without tackling it in the hardest-hit communities. In order to identify and eliminate health and social inequities resulting in disproportionately higher rates of exposure, illness, and death, I am directing a Government-wide effort to address health equity. The Federal Government must take swift action to prevent and remedy differences in COVID–19 care and outcomes within communities of color and other underserved populations.
-
-Sec. 2. COVID–19 Health Equity Task Force. There is established within the Department of Health and Human Services (HHS) a COVID–19 Health Equity Task Force (Task Force).
-
-(a) Membership. The Task Force shall consist of the Secretary of HHS; an individual designated by the Secretary of HHS to Chair the Task Force (COVID–19 Health Equity Task Force Chair); the heads of such other executive departments, agencies, or offices (agencies) as the Chair may invite; and up to 20 members from sectors outside of the Federal Government appointed by the President.
-
-(i) Federal members may designate, to perform the Task Force functions of the member, a senior-level official who is a part of the member’s agency and a full-time officer or employee of the Federal Government.
-
-(ii) Nonfederal members shall include individuals with expertise and lived experience relevant to groups suffering disproportionate rates of illness and death in the United States; individuals with expertise and lived experience relevant to equity in public health, health care, education, housing, and community-based services; and any other individuals with expertise the President deems relevant. Appointments shall be made without regard to political affiliation and shall reflect a diverse set of perspectives.
-
-(iii) Members of the Task Force shall serve without compensation for their work on the Task Force, but members shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7).
-
-(iv) At the direction of the Chair, the Task Force may establish subgroups consisting exclusively of Task Force members or their designees under this section, as appropriate.
-
-(b) Mission and Work.
-
-(i) Consistent with applicable law and as soon as practicable, the Task Force shall provide specific recommendations to the President, through the Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator), for mitigating the health inequities caused or exacerbated by the COVID–19 pandemic and for preventing such inequities in the future. The recommendations shall include:
-
-(A) recommendations for how agencies and State, local, Tribal, and territorial officials can best allocate COVID–19 resources, in light of disproportionately high rates of COVID–19 infection, hospitalization, and mortality in certain communities and disparities in COVID–19 outcomes by race, ethnicity, and other factors, to the extent permitted by law;
-
-(B) recommendations for agencies with responsibility for disbursing COVID–19 relief funding regarding how to disburse funds in a manner that advances equity; and
-
-(C) recommendations for agencies regarding effective, culturally aligned communication, messaging, and outreach to communities of color and other underserved populations.
-
-(ii) The Task Force shall submit a final report to the COVID–19 Response Coordinator addressing any ongoing health inequities faced by COVID–19 survivors that may merit a public health response, describing the factors that contributed to disparities in COVID–19 outcomes, and recommending actions to combat such disparities in future pandemic responses.
-
-(c) Data Collection. To address the data shortfalls identified in section 1 of this order, and consistent with applicable law, the Task Force shall:
-
-(i) collaborate with the heads of relevant agencies, consistent with the Executive Order entitled “Ensuring a Data-Driven Response to COVID–19 and Future High-Consequence Public Health Threats,” [Ex. Ord. No. 13994, set out above] to develop recommendations for expediting data collection for communities of color and other underserved populations and identifying data sources, proxies, or indices that would enable development of short-term targets for pandemic-related actions for such communities and populations;
-
-(ii) develop, in collaboration with the heads of relevant agencies, a set of longer-term recommendations to address these data shortfalls and other foundational data challenges, including those relating to data intersectionality, that must be tackled in order to better prepare and respond to future pandemics; and
-
-(iii) submit the recommendations described in this subsection to the President, through the COVID–19 Response Coordinator.
-
-(d) External Engagement. Consistent with the objectives set out in this order and with applicable law, the Task Force may seek the views of health professionals; policy experts; State, local, Tribal, and territorial health officials; faith-based leaders; businesses; health providers; community organizations; those with lived experience with homelessness, incarceration, discrimination, and other relevant issues; and other stakeholders.
-
-(e) Administration. Insofar as the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.], may apply to the Task Force, any functions of the President under the Act, except for those in section 6 of the Act, shall be performed by the Secretary of HHS in accordance with the guidelines that have been issued by the Administrator of General Services. HHS shall provide funding and administrative support for the Task Force to the extent permitted by law and within existing appropriations. The Chair shall convene regular meetings of the Task Force, determine its agenda, and direct its work. The Chair shall designate an Executive Director of the Task Force, who shall coordinate the work of the Task Force and head any staff assigned to the Task Force.
-
-(f) Termination. Unless extended by the President, the Task Force shall terminate within 30 days of accomplishing the objectives set forth in this order, including the delivery of the report and recommendations specified in this section, or 2 years from the date of this order [Jan. 21, 2021], whichever comes first.
-
-Sec. 3. Ensuring an Equitable Pandemic Response. To address the inequities identified in section 1 of this order, it is hereby directed that:
-
-(a) The Secretary of Agriculture, the Secretary of Labor, the Secretary of HHS, the Secretary of Housing and Urban Development, the Secretary of Education, the Administrator of the Environmental Protection Agency, and the heads of all other agencies with authorities or responsibilities relating to the pandemic response and recovery shall, as appropriate and consistent with applicable law:
-
-(i) consult with the Task Force to strengthen equity data collection, reporting, and use related to COVID–19;
-
-(ii) assess pandemic response plans and policies to determine whether personal protective equipment, tests, vaccines, therapeutics, and other resources have been or will be allocated equitably, including by considering:
-
-(A) the disproportionately high rates of COVID–19 infection, hospitalization, and mortality in certain communities; and
-
-(B) any barriers that have restricted access to preventive measures, treatment, and other health services for high-risk populations;
-
-(iii) based on the assessments described in subsection (a)(ii) of this section, modify pandemic response plans and policies to advance equity, with consideration to:
-
-(A) the effect of proposed policy changes on the distribution of resources to, and access to health care by, communities of color and other underserved populations;
-
-(B) the effect of proposed policy changes on agencies’ ability to collect, analyze, and report data necessary to monitor and evaluate the impact of pandemic response plans and policies on communities of color and other underserved populations; and
-
-(C) policy priorities expressed by communities that have suffered disproportionate rates of illness and death as a result of the pandemic;
-
-(iv) strengthen enforcement of anti-discrimination requirements pertaining to the availability of, and access to, COVID–19 care and treatment; and
-
-(v) partner with States, localities, Tribes, and territories to explore mechanisms to provide greater assistance to individuals and families experiencing disproportionate economic or health effects from COVID–19, such as by expanding access to food, housing, child care, or income support.
-
-(b) The Secretary of HHS shall:
-
-(i) provide recommendations to State, local, Tribal, and territorial leaders on how to facilitate the placement of contact tracers and other workers in communities that have been hardest hit by the pandemic, recruit such workers from those communities, and connect such workers to existing health workforce training programs and other career advancement programs; and
-
-(ii) conduct an outreach campaign to promote vaccine trust and uptake among communities of color and other underserved populations with higher levels of vaccine mistrust due to discriminatory medical treatment and research, and engage with leaders within those communities.
-
-Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.
-
-#### Ex. Ord. No. 13996. Establishing the COVID–19 Pandemic Testing Board and Ensuring a Sustainable Public Health Workforce for COVID–19 and Other Biological Threats
-Ex. Ord. No. 13996, Jan. 21, 2021, 86 F.R. 7197, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
-
-Section 1. Policy. It is the policy of my Administration to control coronavirus disease 2019 (COVID–19) by using a Government-wide, unified approach that includes: establishing a national COVID–19 testing and public health workforce strategy; working to expand the supply of tests; working to bring test manufacturing to the United States, where possible; working to enhance laboratory testing capacity; working to expand the public health workforce; supporting screening testing for schools and priority populations; and ensuring a clarity of messaging about the use of tests and insurance coverage.
-
-Sec. 2. COVID–19 Pandemic Testing Board.
-
-(a) Establishment and Membership. There is established a COVID–19 Pandemic Testing Board (Testing Board), chaired by the Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator) or his designee. The Testing Board shall include representatives from executive departments and agencies (agencies) that are designated by the President. The heads of agencies so designated shall designate officials from their respective agencies to represent them on the Testing Board.
-
-(b) Mission and Functions. To support the implementation and oversight of the policy laid out in section 1 of this order, the Testing Board shall:
-
-(i) coordinate Federal Government efforts to promote COVID–19 diagnostic, screening, and surveillance testing;
-
-(ii) make recommendations to the President with respect to prioritizing the Federal Government’s assistance to State, local, Tribal, and territorial authorities, in order to expand testing and reduce disparities in access to testing;
-
-(iii) identify barriers to access and use of testing in, and coordinate Federal Government efforts to increase testing for:
-
-(A) priority populations, including healthcare workers and other essential workers;
-
-(B) communities with major shortages in testing availability and use;
-
-(C) at-risk settings, including long-term care facilities, correctional facilities, immigration custodial settings, detention facilities, schools, child care settings, and food processing and manufacturing facilities; and
-
-(D) high-risk groups, including people experiencing homelessness, migrants, and seasonal workers;
-
-(iv) identify methods to expand State, local, Tribal, and territorial capacity to conduct testing, contact tracing, and isolation and quarantine, in order for schools, businesses, and travel to be conducted safely;
-
-(v) provide guidance on how to enhance the clarity, consistency, and transparency of Federal Government communication with the public about the goals and purposes of testing;
-
-(vi) identify options for the Federal Government to maximize testing capacity of commercial labs and academic labs; and
-
-(vii) propose short- and long-term reforms for the Federal Government to: increase State, local, Tribal, and territorial capacity to conduct testing; expand genomic sequencing; and improve the effectiveness and speed of the Federal Government’s response to future pandemics and other biological emergencies.
-
-(d) The Chair of the Testing Board shall coordinate with the Secretary of Health and Human Services (HHS) and the heads of other relevant agencies or their designees, as necessary, to ensure that the Testing Board’s work is coordinated with the Public Health Emergency Countermeasures Enterprise within HHS.
-
-Sec. 3. Actions to Address the Cost of COVID–19 Testing. (a) The Secretary of the Treasury, the Secretary of HHS, and the Secretary of Labor, in coordination with the COVID–19 Response Coordinator, shall promptly, and as appropriate and consistent with applicable law:
-
-(i) facilitate the provision of COVID–19 testing free of charge to those who lack comprehensive health insurance; and
-
-(ii) clarify group health plans’ and health insurance issuers’ obligations to provide coverage for COVID–19 testing.
-
-(b) The Secretary of HHS, the Secretary of Education, and the Secretary of Homeland Security, through the Administrator of the Federal Emergency Management Agency (FEMA), in coordination with the COVID–19 Response Coordinator, shall promptly, and as appropriate and consistent with applicable law:
-
-(i) provide support for surveillance tests for settings such as schools; and
-
-(ii) expand equitable access to COVID–19 testing.
-
-Sec. 4. Establishing a Public Health Workforce Program. (a) The Secretary of HHS and the Secretary of Labor shall promptly consult with State, local, Tribal, and territorial leaders to understand the challenges they face in pandemic response efforts, including challenges recruiting and training sufficient personnel to ensure adequate and equitable community-based testing, and testing in schools and high-risk settings.
-
-(b) The Secretary of HHS shall, as appropriate and consistent with applicable law, as soon as practicable:
-
-(i) provide technical support to State, local, Tribal, and territorial public health agencies with respect to testing and contact-tracing efforts; and
-
-(ii) assist such authorities in the training of public health workers. This may include technical assistance to non-Federal public health workforces in connection with testing, contact tracing, and mass vaccinations, as well as other urgent public health workforce needs, such as combating opioid use.
-
-(c) The Secretary of HHS shall submit to the President, through the COVID–19 Response Coordinator, the Assistant to the President for Domestic Policy (APDP), and the Assistant to the President for National Security Affairs (APNSA), a plan detailing:
-
-(i) how the Secretary of HHS would deploy personnel in response to future high-consequence public health threats; and
-
-(ii) five-year targets and budget requirements for achieving a sustainable public health workforce, as well as options for expanding HHS capacity, such as by expanding the U.S. Public Health Service Commissioned Corps and Epidemic Intelligence Service, so that the Department can better respond to future pandemics and other biological threats.
-
-(d) The Secretary of HHS, the Secretary of Homeland Security, the Secretary of Labor, the Secretary of Education, and the Chief Executive Officer of the Corporation for National and Community Service, in coordination with the COVID–19 Response Coordinator, the APDP, and the APNSA, shall submit a plan to the President for establishing a national contact tracing and COVID–19 public health workforce program, to be known as the U.S. Public Health Job Corps, which shall be modeled on or developed as a component of the FEMA Corps program. Such plan shall include means by which the U.S. Public Health Job Corps can be part of the National Civilian Community Corps program, as well as recommendations about whether it would be appropriate for the U.S. Public Health Job Corps to immediately assign personnel from any of the agencies involved in the creation of the plan, including existing AmeriCorps members, to join or aid the U.S. Public Health Job Corps. The U.S. Public Health Job Corps will:
-
-(i) conduct and train individuals in contact tracing related to the COVID–19 pandemic;
-
-(ii) assist in outreach for vaccination efforts, including by administering vaccination clinics;
-
-(iii) assist with training programs for State, local, Tribal, and territorial governments to provide testing, including in schools; and
-
-(iv) provide other necessary services to Americans affected by the COVID–19 pandemic.
-
-Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.
-
-[Position of COVID–19 Response Coordinator terminated, and responsibilities and duties of COVID–19 Response Coordinator specified in Ex. Ord. No. 13996, set out above, transferred to Director of the Office of Pandemic Preparedness and Response Policy, by Ex. Ord. No. 14122, § 3, Apr. 12, 2024, 89 F.R. 27355, set out in a note under [section 300hh–3 of this title](./chapter-6a-public-health-service.md#section-300hh-3).]
-
-#### Ex. Ord. No. 13997. Improving and Expanding Access to Care and Treatments for COVID–19
-Ex. Ord. No. 13997, Jan. 21, 2021, 86 F.R. 7201, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. Policy. It is the policy of my Administration to improve the capacity of the Nation’s healthcare systems to address coronavirus disease 2019 (COVID–19), to accelerate the development of novel therapies to treat COVID–19, and to improve all Americans’ access to quality and affordable healthcare.
-
-Sec. 2. Accelerating the Development of Novel Therapies. To enhance the Nation’s ability to quickly develop the most promising COVID–19 interventions, the Secretary of Health and Human Services (HHS), in consultation with the Director of the National Institutes of Health, shall:
-
-(a) develop a plan for supporting a range of studies, including large-scale randomized trials, for identifying optimal clinical management strategies, and for supporting the most promising treatments for COVID–19 and future high-consequence public health threats, that can be easily manufactured, distributed, and administered, both domestically and internationally;
-
-(b) develop a plan, in consultation with non-governmental partners, as appropriate, to support research:
-
-(i) in rural hospitals and other rural locations; and
-
-(ii) that studies the emerging evidence concerning the long-term impact of COVID–19 on patient health; and
-
-(c) consider steps to ensure that clinical trials include populations that have been historically underrepresented in such trials.
-
-Sec. 3. Improving the Capacity of the Nation’s Healthcare Systems to Address COVID–19. To bolster the capacity of the Nation’s healthcare systems to support healthcare workers and patients:
-
-(a) The Secretary of Defense, the Secretary of HHS, the Secretary of Veterans Affairs, and the heads of other relevant executive departments and agencies (agencies), in coordination with the Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator), shall promptly, as appropriate and consistent with applicable law, provide targeted surge assistance to critical care and long-term care facilities, including nursing homes and skilled nursing facilities, assisted living facilities, intermediate care facilities for individuals with disabilities, and residential treatment centers, in their efforts to combat the spread of COVID–19.
-
-(b) The COVID–19 Response Coordinator, in coordination with the Secretary of Defense, the Secretary of HHS, the Secretary of Veterans Affairs, and the heads of other relevant agencies, shall review the needs of Federal facilities providing care to COVID–19 patients and develop recommendations for further actions such facilities can take to support active military personnel, veterans, and Tribal nations during this crisis.
-
-(c) The Secretary of HHS shall promptly:
-
-(i) issue recommendations on how States and healthcare providers can increase the capacity of their healthcare workforces to address the COVID–19 pandemic; and
-
-(ii) through the Administrator of the Health Resources and Services Administration and the Administrator of the Substance Abuse and Mental Health Services Administration, take appropriate actions, as consistent with applicable law, to expand access to programs and services designed to meet the long-term health needs of patients recovering from COVID–19, including through technical assistance and support to community health centers.
-
-Sec. 4. Improving Access to Quality and Affordable Healthcare. (a) To facilitate the equitable and effective distribution of therapeutics and bolster clinical care capacity where needed to support patient care, the Secretary of Defense, the Secretary of HHS, and the Secretary of Veterans Affairs, in coordination with the COVID–19 Response Coordinator, shall establish targets for the production, allocation, and distribution of COVID–19 treatments. To meet those targets, the Secretary of Defense, the Secretary of HHS, and the Secretary of Veterans Affairs shall consider prioritizing, including through grants for research and development, investments in therapeutics that can be readily administered and scaled.
-
-(b) To facilitate the utilization of existing COVID–19 treatments, the Secretary of HHS shall identify barriers to maximizing the effective and equitable use of existing COVID–19 treatments and shall, as appropriate and consistent with applicable law, provide support to State, local, Tribal, and territorial authorities aimed at overcoming those barriers.
-
-(c) To address the affordability of treatments and clinical care, the Secretary of HHS shall, promptly and as appropriate and consistent with applicable law:
-
-(i) evaluate the COVID–19 Uninsured Program, operated by the Health Resources and Services Administration within HHS, and take any available steps to promote access to treatments and clinical care for those without adequate coverage, to support safety-net providers in delivering such treatments and clinical care, and to make the Program easy to use and accessible for patients and providers, with information about the Program widely disseminated; and
-
-(ii) evaluate Medicare, Medicaid, group health plans, and health insurance issuers, and take any available steps to promote insurance coverage for safe and effective COVID–19 treatments and clinical care.
-
-Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.
+#### Executive Order No. 13997
+Ex. Ord. No. 13997, Jan. 21, 2021, 86 F.R. 7201, improving and expanding access to care and treatments for COVID–119, was revoked by Ex. Ord. No. 14148, § 2(k), Jan. 20, 2025, 90 F.R. 8237.
 
 #### Executive Order No. 13998
 Ex. Ord. No. 13998, Jan. 21, 2021, 86 F.R. 7205, which related to promoting COVID–19 safety in domestic and international travel, was revoked by Ex. Ord. No. 14122, § 2, Apr. 12, 2024, 89 F.R. 27355, set out in a note under [section 300hh–3 of this title](./chapter-6a-public-health-service.md#section-300hh-3).
 
-#### Ex. Ord. No. 13999. Protecting Worker Health and Safety
-Ex. Ord. No. 13999, Jan. 21, 2021, 86 F.R. 7211, provided:
+#### Executive Order No. 13999
+Ex. Ord. No. 13999, Jan. 21, 2021, 86 F.R. 7211, ensuring the health and safety of workers during the COVID–19 pandemic, was revoked by Ex. Ord. No. 14148, § 2(l), Jan. 20, 2025, 90 F.R. 8238.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. Policy. Ensuring the health and safety of workers is a national priority and a moral imperative. Healthcare workers and other essential workers, many of whom are people of color and immigrants, have put their lives on the line during the coronavirus disease 2019 (COVID–19) pandemic. It is the policy of my Administration to protect the health and safety of workers from COVID–19.
-
-The Federal Government must take swift action to reduce the risk that workers may contract COVID–19 in the workplace. That will require issuing science-based guidance to help keep workers safe from COVID–19 exposure, including with respect to mask-wearing; partnering with State and local governments to better protect public employees; enforcing worker health and safety requirements; and pushing for additional resources to help employers protect employees.
-
-Sec. 2. Protecting Workers from COVID–19 Under the Occupational Safety and Health Act. The Secretary of Labor, acting through the Assistant Secretary of Labor for Occupational Safety and Health, in furtherance of the policy described in section 1 of this order and consistent with applicable law, shall:
-
-(a) issue, within 2 weeks of the date of this order [Jan. 21, 2021] and in conjunction or consultation with the heads of any other appropriate executive departments and agencies (agencies), revised guidance to employers on workplace safety during the COVID–19 pandemic;
-
-(b) consider whether any emergency temporary standards on COVID–19, including with respect to masks in the workplace, are necessary, and if such standards are determined to be necessary, issue them by March 15, 2021;
-
-(c) review the enforcement efforts of the Occupational Safety and Health Administration (OSHA) related to COVID–19 and identify any short-, medium-, and long-term changes that could be made to better protect workers and ensure equity in enforcement;
-
-(d) launch a national program to focus OSHA enforcement efforts related to COVID–19 on violations that put the largest number of workers at serious risk or are contrary to anti-retaliation principles; and
-
-(e) coordinate with the Department of Labor’s Office of Public Affairs and Office of Public Engagement and all regional OSHA offices to conduct, consistent with applicable law, a multilingual outreach campaign to inform workers and their representatives of their rights under applicable law. This campaign shall include engagement with labor unions, community organizations, and industries, and place a special emphasis on communities hit hardest by the pandemic.
-
-Sec. 3. Protecting Other Categories of Workers from COVID–19. (a) The Secretary of Labor, acting through the Assistant Secretary of Labor for Occupational Safety and Health and consistent with applicable law, shall:
-
-(i) coordinate with States that have occupational safety and health plans approved under section 18 of the Occupational Safety and Health Act (Act) ([29 U.S.C. 667](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section667&num=0&edition=prelim)) to seek to ensure that workers covered by such plans are adequately protected from COVID–19, consistent with any revised guidance or emergency temporary standards issued by OSHA; and
-
-(ii) in States that do not have such plans, consult with State and local government entities with responsibility for public employee safety and health and with public employee unions to bolster protection from COVID–19 for public sector workers.
-
-(b) The Secretary of Agriculture, the Secretary of Labor, the Secretary of Health and Human Services, the Secretary of Transportation, and the Secretary of Energy, in consultation with the heads of any other appropriate agencies, shall, consistent with applicable law, explore mechanisms to protect workers not protected under the Act [[29 U.S.C. 651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) et seq.] so that they remain healthy and safe on the job during the COVID–19 pandemic.
-
-(c) The Secretary of Labor, acting through the Assistant Secretary of Labor for Mine Safety and Health, shall consider whether any emergency temporary standards on COVID–19 applicable to coal and metal or non-metal mines are necessary, and if such standards are determined to be necessary and consistent with applicable law, issue them as soon as practicable.
-
-Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.
-
-#### Ex. Ord. No. 14000. Supporting the Reopening and Continuing Operation of Schools and Early Childhood Education Providers
-Ex. Ord. No. 14000, Jan. 21, 2021, 86 F.R. 7215, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, to ensure that students receive a high-quality education during the coronavirus disease 2019 (COVID–19) pandemic, and to support the safe reopening and continued operation of schools, child care providers, Head Start programs, and institutions of higher education, it is hereby ordered as follows:
-
-Section 1. Policy. Every student in America deserves a high-quality education in a safe environment. This promise, which was already out of reach for too many, has been further threatened by the COVID–19 pandemic. School and higher education administrators, educators, faculty, child care providers, custodians and other staff, and families have gone above and beyond to support children’s and students’ learning and meet their needs during this crisis. Students and teachers alike have found new ways to teach and learn. Many child care providers continue to provide care and learning opportunities to children in homes and centers across the country. However, leadership and support from the Federal Government is needed. Two principles should guide the Federal Government’s response to the COVID–19 crisis with respect to schools, child care providers, Head Start programs, and higher education institutions. First, the health and safety of children, students, educators, families, and communities is paramount. Second, every student in the United States should have the opportunity to receive a high-quality education, during and beyond the pandemic.
-
-Accordingly, it is the policy of my Administration to provide support to help create the conditions for safe, in-person learning as quickly as possible; ensure high-quality instruction and the delivery of essential services often received by students and young children at school, institutions of higher education, child care providers, and Head Start programs; mitigate learning loss caused by the pandemic; and address educational disparities and inequities that the pandemic has created and exacerbated.
-
-Sec. 2. Agency Roles and Responsibilities. The following assignments of responsibility shall be exercised in furtherance of the policy described in section 1 of this order:
-
-(a) The Secretary of Education shall, consistent with applicable law:
-
-(i) provide, in consultation with the Secretary of Health and Human Services, evidence-based guidance to assist States and elementary and secondary schools in deciding whether and how to reopen, and how to remain open, for in-person learning; and in safely conducting in-person learning, including by implementing mitigation measures such as cleaning, masking, proper ventilation, and testing;
-
-(ii) provide, in consultation with the Secretary of Health and Human Services, evidence-based guidance to institutions of higher education on safely reopening for in-person learning, which shall take into account considerations such as the institution’s setting, resources, and the population it serves;
-
-(iii) provide advice to State, local, Tribal, and territorial educational authorities, institutions of higher education, local education agencies, and elementary and secondary schools regarding distance and online learning, blended learning, and in-person learning; and the promotion of mental health, social-emotional well-being, and communication with parents and families;
-
-(iv) develop a Safer Schools and Campuses Best Practices Clearinghouse to enable schools and institutions of higher education to share lessons learned and best practices for operating safely during the pandemic;
-
-(v) provide technical assistance to schools and institutions of higher education so that they can ensure high-quality learning during the pandemic;
-
-(vi) direct the Department of Education’s Assistant Secretary for Civil Rights to deliver a report as soon as practicable on the disparate impacts of COVID–19 on students in elementary, secondary, and higher education, including those attending historically black colleges and universities, Tribal colleges and universities, Hispanic-serving institutions, and other minority-serving institutions;
-
-(vii) coordinate with the Director of the Institute of Education Sciences to facilitate, consistent with applicable law, the collection of data necessary to fully understand the impact of the COVID–19 pandemic on students and educators, including data on the status of in-person learning. These data shall be disaggregated by student demographics, including race, ethnicity, disability, English-language-learner status, and free or reduced lunch status or other appropriate indicators of family income; and
-
-(viii) consult with those who have been struggling for months with the enormous challenges the COVID–19 pandemic poses for education, including students; educators; unions; families; State, local, Tribal, and territorial officials; and members of civil rights and disability rights organizations, in carrying out the directives in this order.
-
-(b) The Secretary of Health and Human Services shall, consistent with applicable law:
-
-(i) facilitate the collection of data needed to inform the safe reopening and continued operation of elementary and secondary schools, child care providers, and Head Start programs, and ensure that such data are readily available to State, local, Tribal, and territorial leaders and the public, consistent with privacy interests, and that such data are disaggregated by race, ethnicity, and other factors as appropriate;
-
-(ii) ensure, in coordination with the Coordinator of the COVID–19 Response and Counselor to the President (COVID–19 Response Coordinator) and other relevant agencies, that COVID–19-related supplies the Secretary administers, including testing materials, are equitably allocated to elementary and secondary schools, child care providers, and Head Start programs to support in-person care and learning;
-
-(iii) to the maximum extent possible, support the development and operation of contact tracing programs at the State, local, Tribal, and territorial level, by providing guidance and technical support to ensure that contact tracing is available to facilitate the reopening and safe operation of elementary and secondary schools, child care providers, Head Start programs, and institutions of higher education;
-
-(iv) provide guidance needed for child care providers and Head Start programs for safely reopening and operating, including procedures for mitigation measures such as cleaning, masking, proper ventilation, and testing, as well as guidance related to meeting the needs of children, families, and staff who have been affected by the COVID–19 pandemic, including trauma-informed care, behavioral and mental health support, and family support, as appropriate; and
-
-(v) provide technical assistance to States, localities, Tribes, and territories to support the accelerated distribution of Federal COVID–19 relief funds to child care providers, and identify strategies to help child care providers safely remain open during the pandemic and beyond while the sector experiences widespread financial disruption due to increased costs and less revenue.
-
-(c) The Secretary of Education and the Secretary of Health and Human Services shall submit a report to the Assistant to the President for Domestic Policy and the COVID–19 Response Coordinator identifying strategies to address the impact of COVID–19 on educational outcomes, especially along racial and socioeconomic lines, and shall share those strategies with State, local, Tribal, and territorial officials. In developing these strategies, the Secretaries shall, as appropriate and consistent with applicable law, consult with such officials, as well as with education experts; educators; unions; civil rights advocates; Tribal education experts; public health experts; child development experts; early educators, including child care providers; Head Start staff; school technology practitioners; foundations; families; students; community advocates; and others.
-
-(d) The Federal Communications Commission is encouraged, consistent with applicable law, to increase connectivity options for students lacking reliable home broadband, so that they can continue to learn if their schools are operating remotely.
-
-Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.
+#### Executive Order No. 14000
+Ex. Ord. No. 14000, Jan. 21, 2021, 86 F.R. 7215, supporting the reopening and continuing operation of schools and early childhood education providers, was revoked by Ex. Ord. No. 14148, § 2(m), Jan. 20, 2025, 90 F.R. 8238.
 
 #### Addressing the Long-Term Effects of COVID–19
 Memorandum of President of the United States, Apr. 5, 2022, 87 F.R. 20995, provided:
@@ -13070,7 +12963,7 @@ Pub. L. 117–328, div. FF, title II, § 2404(a), Dec. 29, 2022, 136 Stat. 5785,
 Pub. L. 117–328, div. FF, title II, § 2411, Dec. 29, 2022, 136 Stat. 5793, provided that: “(a) Program.—“(1) In general.—The Secretary, in consultation with the Assistant Secretary for Preparedness and Response and Commissioner of Food and Drugs, may award contracts to increase the domestic manufacturing capacity of certain antibiotic drugs with identified supply chain vulnerabilities, or the active pharmaceutical ingredient or key starting material of such antibiotic drugs. “(2) Eligible entities.—To be eligible to receive an award under this subsection, an entity shall—“(A) be a manufacturer that is in compliance with, or demonstrates capability to comply with, the relevant requirements of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.); and “(B) prepare and submit to the Secretary an application at such time, and in such manner, and containing such information as the Secretary may require, including—“(i) a description of proposed activities to be supported by an award under this subsection to increase manufacturing capacity for such antibiotic drug or drugs; “(ii) the antibiotic drug or drugs, or related active pharmaceutical ingredients or key starting materials for such drug or drugs, that such entity intends to manufacture with any increased manufacturing capacity supported by an award under this subsection; “(iii) any additional products such increased manufacturing capacity could be used to manufacture; “(iv) a description of the current supply chain for such antibiotic drugs, including any existing and applicable manufacturing facilities, known vulnerabilities in the supply chain, known or potential supply limitations, such as foreign export restrictions, or subsidies from foreign governments, as applicable; “(v) a description of how such entity may use advanced or flexible manufacturing in carrying out the terms of an award under this subsection; and “(vi) a strategic plan regarding the maintenance, operation, and sustainment of such increased manufacturing capacity following the expiration of a contract under this subsection. “(3) Use of funds.—A recipient of an award under this subsection shall use such funds to build, expand, upgrade, modify, or recommission a facility located in the United States, which may include the purchase or upgrade of equipment, as applicable, to support increased manufacturing capacity of certain antibiotic drugs for which supply chain vulnerabilities exist, or the active pharmaceutical ingredient or key starting material of such antibiotic drugs. “(4) Reports.—An entity in receipt of an award under this subsection shall submit to the Secretary such reports as the Secretary may require related to increasing domestic manufacturing capacity of antibiotic drugs pursuant to a contract under this subsection, including actions taken to implement the strategic plan required under paragraph (2)(B)(vi). “(5) Contract terms.—The following shall apply to a contract to support increased domestic manufacturing capacity under this subsection:“(A) Milestone-based payments.—The Secretary may provide payment, including advance payment or partial payment for significant milestones, if the Secretary makes a determination that such payment is necessary and appropriate. “(B) Repayment.—The contract shall provide that such payment is required to be repaid if there is a failure to perform by the manufacturer under the contract; if the specified milestones are reached, an advance or partial payment shall not be required to be repaid. “(C) Contract duration.—“(i) In general.—Each contract shall be for a period not to exceed 5 years. “(ii) Non-renewability.—A contract shall not be renewable. “(iii) Notifications of extensions and terminations.—If the Secretary decides to terminate a contract prior to its expiration, the Secretary shall notify the manufacturer within 90 days of such determination. “(D) Additional terms.—The Secretary, in any contract under this subsection—“(i) may specify— “(I) the amount of funding that will be dedicated by the Secretary for supporting increased manufacturing capacity under such contract; and “(II) the amount of manufacturing capacity that such eligible entity must meet; and “(ii) shall provide a clear statement of defined Federal Government purpose limited to uses related to increasing domestic manufacturing capacity for antibiotic drugs to address identified supply chain vulnerabilities and challenges to establishing and maintaining domestic manufacturing capacity. “(E) Sustainment.—Each contract shall provide for the eligible entity to update the strategic plan required under paragraph (2)(B)(vi) throughout the duration of such contract, as required by the Secretary. “(b) Report.—Not later than 2 years after the date of enactment of this Act [Dec. 29, 2022] and every year thereafter until the termination or expiration of all such contracts, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on any activities supported under subsection (a), including—“(1) the antibiotic drugs for which the Secretary prioritized awards under subsection (a), including a description of how the Secretary consulted with stakeholders to inform such prioritization; “(2) information regarding each contract awarded pursuant to subsection (a), including—“(A) the recipient of each such contract, including any recipients of a subaward; “(B) the milestone and performance requirements pursuant to each such contract; “(C) the duration of each such contract; “(D) the amount of funding provided by the Secretary pursuant to each such contract, including any advanced or partial payments; “(E) the antibiotic drugs supported through each such contract, including a description of the medical necessity of each such antibiotic drug and any supply chain vulnerabilities, limitations, and related characteristics identified pursuant to subsection (a)(2)(B)(iv) for each such antibiotic drug; and “(F) the amount of increased manufacturing capacity for such antibiotic drug that each such contract supports; and “(3) a description of how such contracts address supply chain vulnerabilities, including increasing manufacturing capacity of antibiotic drugs in the United States; and “(4) a description of the strategic plan submitted pursuant to subsection (a)(2)(B)(vi) by each recipient of an award under subsection (a). “(c) Rule of Construction.—Nothing in this section shall be construed—“(1) to limit, directly or indirectly, or otherwise impact the private distribution, purchase, or sale of antibiotic drugs or active pharmaceutical ingredients or key starting materials; or “(2) to authorize the Secretary to disclose any information that is a trade secret, or other privileged or confidential information subject to [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim), United States Code, or [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim), United States Code. “(d) Definitions.—For purposes of this section:“(1) Active pharmaceutical ingredient.—The term ‘active pharmaceutical ingredient’ has the meaning given such term in section 744A of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j–41&num=0&edition=prelim)). “(2) Antibiotic drug.—The term ‘antibiotic drug’ means an antibacterial or antifungal drug approved by the Food and Drug Administration under section 505(j) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim)) that is of significant priority to providing health care and is medically necessary to have available at all times in an amount adequate to serve patient needs. “(3) Key starting material.—The term ‘key starting material’ means any component of a drug that the Secretary determines to be necessary to the safety and effectiveness of the drug. “(4) Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Services. “(e) Sunset.—The authority to enter into new contracts under this section shall cease to be effective 3 years after the date of enactment of this Act [Dec. 29, 2022], and, beginning on the date that is 8 years after the date of enactment of this Act, this section shall have no force or effect.”
 
 #### First Responder Anthrax Preparedness
-Pub. L. 114–268, Dec. 14, 2016, 130 Stat. 1387, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘First Responder Anthrax Preparedness Act’. “SEC. 2. VOLUNTARY PRE-EVENT ANTHRAX VACCINATION PILOT PROGRAM FOR EMERGENCY RESPONSE PROVIDERS.“(a) Pilot Program.—“(1) Establishment.—The Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, shall carry out a pilot program to provide eligible anthrax vaccines from the Strategic National Stockpile under section 319F–2(a) of the Public Health Service Act ([42 U.S.C. 247d–6b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6b/a&num=0&edition=prelim)) that will be nearing the end of their labeled dates of use at the time such vaccines are made available to States for administration to emergency response providers who would be at high risk of exposure to anthrax if such an attack should occur and who voluntarily consent to such administration. “(2) Determination.—The Secretary of Health and Human Services shall determine whether an anthrax vaccine is eligible to be provided to the Secretary of Homeland Security for the pilot program described in paragraph (1) based on—“(A) a determination that the vaccine is not otherwise allotted for other purposes; “(B) a determination that the provision of the vaccine will not reduce, or otherwise adversely affect, the capability to meet projected requirements for this product during a public health emergency, including a significant reduction of available quantities of vaccine in the Strategic National Stockpile; and “(C) such other considerations as determined appropriate by the Secretary of Health and Human Services. “(3) Preliminary requirements.—Before implementing the pilot program required under this subsection, the Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, shall—“(A) establish a communication platform for the pilot program; “(B) develop and deliver education and training for the pilot program; “(C) conduct economic analysis of the pilot program, including a preliminary estimate of total costs and expected benefits; “(D) create a logistical platform for the anthrax vaccine request process under the pilot program; “(E) establish goals and desired outcomes for the pilot program; and “(F) establish a mechanism to reimburse the Secretary of Health and Human Services for—“(i) the costs of shipment and transportation of such vaccines provided to the Secretary of Homeland Security from the Strategic National Stockpile under such pilot program, including staff time directly supporting such shipment and transportation; and “(ii) the amount, if any, by which the warehousing costs of the Strategic National Stockpile are increased in order to operate such pilot program. “(4) Location.—“(A) In general.—In carrying out the pilot program required under this subsection, the Secretary of Homeland Security shall select not fewer than 2 nor more than 5 States for voluntary participation in the pilot program. “(B) Requirement.—Each State that participates in the pilot program under this subsection shall ensure that such participation is consistent with the All-Hazards Public Health Emergency Preparedness and Response Plan of the State developed under section 319C–1 of the Public Health Service Act ([42 U.S.C. 247d–3a](./chapter-6a-public-health-service.md#section-247d-3a)). “(5) Guidance for selection.—To ensure that participation in the pilot program under this subsection strategically increases State and local response readiness in the event of an anthrax release, the Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, shall provide guidance to participating States and units of local government on identifying emergency response providers who are at high risk of exposure to anthrax. “(6) Distribution of information.—The Secretary of Homeland Security shall require that each State that participates in the pilot program under this subsection submit a written certification to the Secretary of Homeland Security stating that each emergency response provider within the State that participates in the pilot program is provided with disclosures and educational materials designated by the Secretary of Health and Human Services, which may include—“(A) materials regarding the associated benefits and risks of any vaccine provided under the pilot program, and of exposure to anthrax; “(B) additional material consistent with the Centers for Disease Control and Prevention’s clinical guidance; and “(C) notice that the Federal Government is not obligated to continue providing anthrax vaccine after the date on which the pilot program ends. “(7) Memorandum of understanding.—Before implementing the pilot program under this subsection, the Secretary of Homeland Security shall enter into a memorandum of understanding with the Secretary of Health and Human Services to—“(A) define the roles and responsibilities of each Department for the pilot program; and “(B) establish other performance metrics and policies for the pilot program, as appropriate. “(8) Report.—“(A) In general.—Notwithstanding subsection (c), not later than 1 year after the date on which the initial vaccines are administered under this section, and annually thereafter until 1 year after the completion of the pilot program under this section, the Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, shall submit to the Committee on Homeland Security and the Committee on Energy and Commerce of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the progress and results of the pilot program, including—“(i) a detailed tabulation of the costs to administer the program, including— “(I) total costs for management and administration; “(II) total costs to ship vaccines; “(III) total number of full-time equivalents allocated to the program; and “(IV) total costs to the Strategic National Stockpile; “(ii) the number and percentage of eligible emergency response providers, as determined by each pilot location, that volunteer to participate; “(iii) the degree to which participants complete the vaccine regimen; “(iv) the total number of doses of vaccine administered; and “(v) recommendations to improve initial and recurrent participation in the pilot program. “(B) Final report.—The final report required under subparagraph (A) shall—“(i) consider whether the pilot program required under this subsection should continue after the date described in subsection (c); and “(ii) include— “(I) an analysis of the costs and benefits of continuing the program to provide anthrax vaccines to emergency response providers; “(II) an explanation of the economic, health, and other risks and benefits of administering vaccines through the pilot program rather than post-event treatment; and “(III) in the case of a recommendation under clause (i) to continue the pilot program after the date described in subsection (c), a plan under which the pilot program could be continued. “(b) Deadline for Implementation.—Not later than 1 year after the date of enactment of this Act [Dec. 14, 2016], the Secretary of Homeland Security shall begin implementing the pilot program under this section. “(c) Sunset.—The authority to carry out the pilot program under this section shall expire on the date that is 5 years after the date of enactment of this Act [Dec. 14, 2016].”
+Pub. L. 114–268, Dec. 14, 2016, 130 Stat. 1387, known as the First Responder Anthrax Preparedness Act, which required the Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, to carry out a pilot program to provide from the Strategic National Stockpile eligible anthrax vaccines nearing end of their labeled dates of use to consenting emergency response providers at high risk of exposure to anthrax if an attack should occur, expired on the date that is 5 years after Dec. 14, 2016.
 
 #### Stockpile Functions Transferred
 Pub. L. 108–276, § 3(c)(1), (2), July 21, 2004, 118 Stat. 853, provided that: “(1) In general.—Except as provided in paragraph (2), there shall be transferred to the Secretary of Health and Human Services the functions, personnel, assets, unexpended balances, and liabilities of the Strategic National Stockpile, including the functions of the Secretary of Homeland Security relating thereto. “(2) Exceptions.—“(A) Functions.—The transfer of functions pursuant to paragraph (1) shall not include such functions as are explicitly assigned to the Secretary of Homeland Security by this Act [see Short Title of 2004 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201)] (including the amendments made by this Act). “(B) Assets and unexpended balances.—The transfer of assets and unexpended balances pursuant to paragraph (1) shall not include the funds appropriated under the heading ‘biodefense countermeasures’ in the Department of Homeland Security Appropriations Act, 2004 (Public Law 108–90 [117 Stat. 1148]).”
@@ -13689,7 +13582,7 @@ The Public Readiness and Emergency Preparedness Act, referred to in subsec. (h),
 
 “(i) approved by the National Institute for Occupational Safety and Health under part 84 of title 42, Code of Federal Regulations (or successor regulations);
 
-“(ii) subject to the emergency use authorization issued by the Secretary on March 2, 2020, or subsequent emergency use authorizations, pursuant to section 564 of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 360bbb–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360bbb–3&num=0&edition=prelim)] (authorizing emergency use of personal respiratory protective devices during the COVID–19 outbreak); and
+“(ii) subject to the emergency use authorization issued by the Secretary on March 2, 2020, or subsequent emergency use authorizations, pursuant to section 564 of the Federal Food, Drug, and Cosmetic Act (authorizing emergency use of personal respiratory protective devices during the COVID–19 outbreak); and
 
 “(iii) used during the period beginning on January 27, 2020, and ending on October 1, 2024, in response to the public health emergency declared on January 31, 2020, pursuant to [section 247d of this title](./chapter-6a-public-health-service.md#section-247d) as a result of confirmed cases of 2019 Novel Coronavirus (2019-nCoV).”
 
@@ -14156,7 +14049,7 @@ Subsecs. (d) to (k). Pub. L. 109–417, § 303(b)(1), (4), (5), added subsecs. (
 
   (C) *Reporting* — One year after June 24, 2019, and annually thereafter, the Secretary shall report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives on the number of instances in which the Secretary has used the authority under this subsection to withhold information from disclosure, as well as the nature of any request under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) that was denied using such authority.
 
-  (D) *Sunset* — This paragraph shall cease to have force or effect after March 31, 2025.
+  (D) *Sunset* — This paragraph shall cease to have force or effect after January 30, 2026.
 
 (2) **Review** — Notwithstanding [section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), a working group of BARDA under this section and the National Biodefense Science Board under [section 247d–7g of this title](./chapter-6a-public-health-service.md#section-247d-7g) shall each terminate on the date that is 5 years after the date on which each such group or Board, as applicable, was established. Such 5-year period may be extended by the Secretary for one or more additional 5-year periods if the Secretary determines that any such extension is appropriate.
 
@@ -14191,6 +14084,10 @@ In subsec. (c)(5)(C), “[section 6101 of title 41](https://uscode.house.gov/vie
 In subsec. (c)(5)(F), “[section 3304(a)(3) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304/a/3&num=0&edition=prelim)” substituted for “section 303(c)(3) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section253/c/3&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2025—Subsec. (e)(1)(D). Pub. L. 119–37 substituted “January 30, 2026” for “September 30, 2025”.
+
+Pub. L. 119–4 substituted “September 30, 2025” for “March 31, 2025”.
+
 2024—Subsec. (e)(1)(D). Pub. L. 118–158 substituted “March 31, 2025” for “December 31, 2024”.
 
 Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
@@ -14477,7 +14374,7 @@ Donald J. Trump.
 
 (8) **Report** — Not later than one year after the date of enactment of this Act 11 See References in Text note below. and biannually thereafter, the Attorney General and the Chairman shall report to Congress on the use of the exemption from the antitrust laws provided by this subsection.
 
-**(b) Sunset** The applicability of this section shall expire after March 31, 2025.
+**(b) Sunset** The applicability of this section shall expire after January 30, 2026.
 
 **(c) Definitions** In this section:
 
@@ -14531,6 +14428,10 @@ Section was formerly set out as a note under [section 247d–6a of this title](.
 A prior section 247d–7f, act July 1, 1944, ch. 373, title III, § 319M, as added Pub. L. 109–417, title IV, § 402, Dec. 19, 2006, 120 Stat. 2872; amended Pub. L. 113–5, title IV, § 404, Mar. 13, 2013, 127 Stat. 197, which related to National Biodefense Science Board and working groups, was transferred to [section 247d–7g of this title](./chapter-6a-public-health-service.md#section-247d-7g).
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–37 substituted “January 30, 2026” for “September 30, 2025”.
+
+Pub. L. 119–4 substituted “September 30, 2025” for “March 31, 2025”.
+
 2024—Subsec. (b). Pub. L. 118–158 substituted “March 31, 2025” for “December 31, 2024”.
 
 Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
@@ -16265,9 +16166,13 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
   (G) $4,000,000,000 for each of fiscal years 2019 through 2023;
 
-  (H) $526,027,397 for the period beginning on October 1, 2023, and ending on November 17, 2023, $690,410,959 for the period beginning on November 18, 2023, and ending on January 19, 2024, $536,986,301 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $3,592,328,767 for the period beginning on October 1, 2023,11 So in original. and ending on December 31, 2024; and
+  (H) $526,027,397 for the period beginning on October 1, 2023, and ending on November 17, 2023, $690,410,959 for the period beginning on November 18, 2023, and ending on January 19, 2024, $536,986,301 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $3,592,328,767 for the period beginning on October 1, 2023,11 So in original. and ending on December 31, 2024;
 
-  (I) $1,050,410,959 for the period beginning on January 1, 2025, and ending on March 31, 2025.
+  (I) $1,050,410,959 for the period beginning on January 1, 2025, and ending on March 31, 2025;
+
+  (J) $2,135,835,616 for the period beginning on April 1, 2025, and ending on September 30, 2025; and
+
+  (K) $1,423,890,411 for the period beginning on October 1, 2025, and ending on January 30, 2026; and
 
 (2) to be transferred to the Secretary of Health and Human Services to provide enhanced funding for the National Health Service Corps—
 
@@ -16287,9 +16192,13 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
   (H) $310,000,000 for each of fiscal years 2021 through 2023;
 
-  (I) $40,767,123 for the period beginning on October 1, 2023, and ending on November 17, 2023, $53,506,849 for the period beginning on November 18, 2023, and ending on January 19, 2024, $41,616,438 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $297,013,699 for the period beginning on October 1, 2023,1 and ending on December 31, 2024; and
+  (I) $40,767,123 for the period beginning on October 1, 2023, and ending on November 17, 2023, $53,506,849 for the period beginning on November 18, 2023, and ending on January 19, 2024, $41,616,438 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $297,013,699 for the period beginning on October 1, 2023,1 and ending on December 31, 2024;
 
-  (J) $85,068,493 for the period beginning on January 1, 2025, and ending on March 31, 2025.
+  (J) $85,068,493 for the period beginning on January 1, 2025, and ending on March 31, 2025;
+
+  (K) $172,972,603 for the period beginning on April 1, 2025, and ending on September 30, 2025; and
+
+  (L) $115,315,068 for the period beginning on October 1, 2025, and ending on January 30, 2026.
 
 **(c) Construction** There is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, $1,500,000,000 to be available for fiscal years 2011 through 2015 to be used by the Secretary of Health and Human Services for the construction and renovation of community health centers.
 
@@ -16303,15 +16212,21 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
-2024—Subsec. (b)(1)(E). Pub. L. 118–158, § 3101(a)(1), struck out “and” at end.
+2025—Subsec. (b)(1)(J). Pub. L. 119–4, § 2101(a), added subpar. (J).
 
-Subsec. (b)(1)(F). Pub. L. 118–158, § 3101(a)(2), substituted semicolon for “, $4,000,000,000 for each of fiscal years 2019 through 2023, $526,027,397 for the period beginning on October 1, 2023, and ending on November 17, 2023, $690,410,959 for the period beginning on November 18, 2023, and ending on January 19, 2024, $536,986,301 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $3,592,328,767 for the period beginning on October 1, 2023, and ending on December 31, 2024; and”.
+Subsec. (b)(1)(K). Pub. L. 119–37, § 6101(a), added subpar. (K).
+
+Subsec. (b)(2)(K). Pub. L. 119–4, § 2101(b), added subpar. (K).
+
+Subsec. (b)(2)(L). Pub. L. 119–37, § 6101(b), added subpar. (L).
+
+2024—Subsec. (b)(1)(F). Pub. L. 118–158, § 3101(a)(2), substituted semicolon for “, $4,000,000,000 for each of fiscal years 2019 through 2023, $526,027,397 for the period beginning on October 1, 2023, and ending on November 17, 2023, $690,410,959 for the period beginning on November 18, 2023, and ending on January 19, 2024, $536,986,301 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $3,592,328,767 for the period beginning on October 1, 2023, and ending on December 31, 2024; and”.
 
 Pub. L. 118–42, § 101(a), substituted “$536,986,301 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $3,592,328,767 for the period beginning on October 1, 2023, and ending on December 31, 2024” for “and $536,986,301 for the period beginning on January 20, 2024, and ending on March 8, 2024”.
 
 Pub. L. 118–35, § 101(b), substituted “$690,410,959 for the period beginning on November 18, 2023, and ending on January 19, 2024, and $536,986,301 for the period beginning on January 20, 2024, and ending on March 8, 2024” for “and $690,410,959 for the period beginning on November 18, 2023, and ending on January 19, 2024”.
 
-Subsec. (b)(1)(G) to (I). Pub. L. 118–158, § 3101(a)(3), added subpars. (G) to (I).
+Subsec. (b)(1)(G) to (I). Pub. L. 118–158, § 3101(a)(1), (3), added subpars. (G) to (I).
 
 Subsec. (b)(2)(I). Pub. L. 118–42, § 101(b), substituted “$41,616,438 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $297,013,699 for the period beginning on October 1, 2023, and ending on December 31, 2024” for “and $41,616,438 for the period beginning on January 20, 2024, and ending on March 8, 2024”.
 
@@ -17372,13 +17287,21 @@ Pub. L. 111–148, title V, § 5208(a), Mar. 23, 2010, 124 Stat. 612, provided t
 
   (D) $150,000,000 for each of fiscal years 2018 through 2023, to remain available until expended;
 
-  (E) $19,726,027 for the period beginning on October 1, 2023, and ending on November 17, 2023, $25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024, $20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $130,000,000 for the period beginning on March 9, 2024, and ending on December 31, 2024, to remain available until expended; and
+  (E) $19,726,027 for the period beginning on October 1, 2023, and ending on November 17, 2023, $25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024, $20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $130,000,000 for the period beginning on March 9, 2024, and ending on December 31, 2024, to remain available until expended;
 
-  (F) $39,261,745 for the period beginning on January 1, 2025, and ending on March 31, 2025, to remain available until expended.
+  (F) $39,261,745 for the period beginning on January 1, 2025, and ending on March 31, 2025, to remain available until expended;
+
+  (G) $79,832,215 for the period beginning on April 1, 2025, and ending on September 30, 2025, to remain available until expended; and
+
+  (H) $53,145,205 for the period beginning on October 1, 2025, and ending on January 30, 2026, to remain available until expended.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b)(2)(G). Pub. L. 119–4 added subpar. (G).
+
+Subsec. (b)(2)(H). Pub. L. 119–37 added subpar. (H).
+
 2024—Subsec. (b)(2)(E). Pub. L. 118–42 substituted “$20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $130,000,000 for the period beginning on March 9, 2024, and ending on December 31, 2024” for “and $20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024”.
 
 Pub. L. 118–35 substituted “$25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024, and $20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024” for “and $25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024”.
@@ -17592,9 +17515,13 @@ Pub. L. 117–103, div. P, title I, § 134(b)(2), Mar. 15, 2022, 136 Stat. 797, 
 
   (D) $150,000,000 for each of fiscal years 2018 through 2023, to remain available until expended;
 
-  (E) $19,726,027 for the period beginning on October 1, 2023, and ending on November 17, 2023, $25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024, $20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $130,000,000 for the period beginning on March 9, 2024, and ending on December 31, 2024, to remain available until expended; and
+  (E) $19,726,027 for the period beginning on October 1, 2023, and ending on November 17, 2023, $25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024, $20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $130,000,000 for the period beginning on March 9, 2024, and ending on December 31, 2024, to remain available until expended;
 
-  (F) $39,261,745 for the period beginning on January 1, 2025, and ending on March 31, 2025, to remain available until expended.
+  (F) $39,261,745 for the period beginning on January 1, 2025, and ending on March 31, 2025, to remain available until expended;
+
+  (G) $79,832,215 for the period beginning on April 1, 2025, and ending on September 30, 2025, to remain available until expended; and
+
+  (H) $53,145,205 for the period beginning on October 1, 2025, and ending on January 30, 2026, to remain available until expended.
 
 ### Statutory Notes
 
@@ -17604,6 +17531,10 @@ The Indian Self-Determination Act, referred to in subsec. (b)(2), is title I of 
 The Indian Health Care Improvement Act, referred to in subsec. (b)(3), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Act is classified generally to subchapter IV (§ 1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2025—Subsec. (c)(2)(G). Pub. L. 119–4 added subpar. (G).
+
+Subsec. (c)(2)(H). Pub. L. 119–37 added subpar. (H).
+
 2024—Subsec. (c)(2)(E). Pub. L. 118–42 substituted “$20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $130,000,000 for the period beginning on March 9, 2024, and ending on December 31, 2024” for “and $20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024”.
 
 Pub. L. 118–35 substituted “$25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024, and $20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024” for “and $25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024”.
@@ -21439,7 +21370,7 @@ Subsec. (f)(2)(D). Pub. L. 109–307, § 2(a)(4)(B)–(D), added subpar. (D).
 
 Subsec. (d)(2)(A). Pub. L. 108–490, § 1(a)(2), inserted “ratio of the” after “hospitals and the” and “to beds (but excluding beds or bassinets assigned to healthy newborn infants)” before semicolon.
 
-2000—Subsec. (a). Pub. L. 106–310, § 2001(a), substituted “2000 through 2005” for “2000 and 2001” and inserted at end “The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.”.
+2000—Subsec. (a). Pub. L. 106–310, § 2001(a), substituted “2000 through 2005” for “2000 and 2001” and inserted at end “The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.”
 
 Subsec. (c)(2)(F). Pub. L. 106–310, § 2001(b), substituted “Federal fiscal year for which payments are made” for “hospital’s cost reporting period that begins during fiscal year 2000”.
 
@@ -21685,9 +21616,13 @@ Subsec. (f). Pub. L. 115–302, § 3(2), substituted “$13,903,000 for each of 
 
   (C) $126,500,000 for each of fiscal years 2018 through 2023;
 
-  (D) $16,635,616 for the period beginning on October 1, 2023, and ending on November 17, 2023, $21,834,247 for the period beginning on November 18, 2023, and ending on January 19, 2024, $16,982,192 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $164,136,986 for the period beginning on October 1, 2023,33 So in original. and ending on December 31, 2024; and
+  (D) $16,635,616 for the period beginning on October 1, 2023, and ending on November 17, 2023, $21,834,247 for the period beginning on November 18, 2023, and ending on January 19, 2024, $16,982,192 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $164,136,986 for the period beginning on October 1, 2023,33 So in original. and ending on December 31, 2024;
 
-  (E) $43,150,685 for the period beginning on January 1, 2025, and ending on March 31, 2025.
+  (E) $43,150,685 for the period beginning on January 1, 2025, and ending on March 31, 2025;
+
+  (F) $87,739,726 for the period beginning on April 1, 2025, and ending on September 30, 2025; and
+
+  (G) $58,493,151 for the period beginning on October 1, 2025, and ending on January 30, 2026.
 
 (2) **Administrative expenses** — Of the amount made available to carry out this section for any fiscal year, the Secretary may not use more than 5 percent of such amount for the expenses of administering this section.
 
@@ -21760,6 +21695,10 @@ Section 4410 of the Balanced Budget Act of 1997, referred to in subsec. (c)(2)(A
 Another section 340H of act July 1, 1944, was renumbered section 340I and is classified to [section 256i of this title](./chapter-6a-public-health-service.md#section-256i).
 
 #### Amendments
+2025—Subsec. (g)(1)(F). Pub. L. 119–4 added subpar. (F).
+
+Subsec. (g)(1)(G). Pub. L. 119–37 added subpar. (G).
+
 2024—Subsec. (b)(2)(C). Pub. L. 118–42, § 101(c)(2), added subpar. (C).
 
 Subsec. (g)(1). Pub. L. 118–158, § 3101(c)(2), substituted “, not to exceed—” and subpars. (A) to (E) for period at end.
@@ -25704,15 +25643,15 @@ Subsec. (b)(3). Pub. L. 102–531, § 301(3), added par. (3).
 
   (B) Promoting community or health system interventions.
 
-  (C) Evaluating interventions to prevent controlled substance overdoses.
+  (C) Evaluating interventions to prevent controlled substance overdoses and associated risks.
 
-  (D) Implementing projects to advance an innovative prevention approach with respect to new and emerging public health crises and opportunities to address such crises, such as enhancing public education and awareness on the risks associated with opioids.
+  (D) Implementing projects to advance an innovative prevention approach with respect to new and emerging public health crises and opportunities to address such crises, such as enhancing public education and awareness on the risks associated with substances causing overdose.
 
-(3) **Additional grants** — The Director may award grants to States, localities, and Indian Tribes—
+(3) **Additional grants** — The Director may award grants to States, localities, and Indian Tribes for the following purposes:
 
-  (A) to carry out innovative projects for grantees to rapidly respond to controlled substance misuse, abuse, and overdoses, including changes in patterns of controlled substance use; and
+  (A) To carry out innovative projects for grantees to detect, identify, and rapidly respond to controlled substance misuse, abuse, and overdoses, and associated risk factors, including changes in patterns of such controlled substance use. Such projects may include the use of innovative, evidence-based strategies for detecting such patterns, such as wastewater surveillance, if proven to support actionable prevention strategies, in a manner consistent with applicable Federal and State privacy laws.
 
-  (B) for any other evidence-based activity for preventing controlled substance misuse, abuse, and overdoses as the Director determines appropriate.
+  (B) For any other evidence-based activity for preventing controlled substance misuse, abuse, and overdoses as the Director determines appropriate.
 
 (4) **Research** — The Director, in coordination with the Assistant Secretary for Mental Health and Substance Use and the National Mental Health and Substance Use Policy Laboratory established under [section 290aa–0 of this title](./chapter-6a-public-health-service.md#section-290aa-0), as appropriate and applicable, may conduct studies and evaluations to address substance use disorders, including preventing substance use disorders or other related topics the Director determines appropriate.
 
@@ -25732,15 +25671,15 @@ Subsec. (b)(3). Pub. L. 102–531, § 301(3), added par. (3).
 
   (A) Improving the timeliness of reporting data to the public, including data on fatal and nonfatal overdoses of controlled substances.
 
-  (B) Enhancing the comprehensiveness of controlled substance overdose data by collecting information on such overdoses from appropriate sources such as toxicology reports, autopsy reports, death scene investigations, and emergency departments.
+  (B) Enhancing the comprehensiveness of controlled substance overdose data by collecting information on such overdoses, and associated risk factors, from appropriate sources such as toxicology reports, autopsy reports, death scene investigations, and emergency departments.
 
-  (C) Modernizing the system for coding causes of death related to controlled substance overdoses to use an electronic-based system.
+  (C) Modernizing the system for monitoring and identifying causes of death related to controlled substance overdoses to use an electronic-based system.
 
   (D) Using data to help identify risk factors associated with controlled substance overdoses.
 
-  (E) Supporting entities involved in providing information on controlled substance overdoses, such as coroners, medical examiners, and public health laboratories to improve accurate testing and standardized reporting of causes and contributing factors to controlled substances overdoses and analysis of various opioid analogues to controlled substance overdoses.
+  (E) Supporting entities involved in providing information on controlled substance overdoses, such as coroners, medical examiners, and public health laboratories, to improve accurate testing and standardized reporting of causes and contributing factors to controlled substances overdoses and analysis of various opioid analogues and other emerging substances related to controlled substance overdoses.
 
-  (F) Working to enable and encourage the access, exchange, and use of information regarding controlled substance overdoses among data sources and entities.
+  (F) Working to enable and encourage the access, exchange, and use of information regarding controlled substance overdoses and associated risk factors among data sources and entities.
 
 **(c) Priority** In awarding grants to States under subsections (a) and (b), the Director of the Centers for Disease Control and Prevention may give priority to jurisdictions with a disproportionately high rate of drug overdoses or drug overdose deaths, as applicable.
 
@@ -25750,7 +25689,7 @@ Subsec. (b)(3). Pub. L. 102–531, § 301(3), added par. (3).
 
 (2) **Indian tribe** — The term “Indian tribe” has the meaning given that term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
-**(e) Authorization of appropriations** For purposes of carrying out this section, [section 280g–3 of this title](./chapter-6a-public-health-service.md#section-280g-3), and [section 290bb–25g of this title](./chapter-6a-public-health-service.md#section-290bb-25g), there is authorized to be appropriated $496,000,000 for each of fiscal years 2019 through 2023.
+**(e) Authorization of appropriations** For purposes of carrying out this section, [section 280g–3 of this title](./chapter-6a-public-health-service.md#section-280g-3), and [section 290bb–25g of this title](./chapter-6a-public-health-service.md#section-290bb-25g), there is authorized to be appropriated $505,579,000 for each of fiscal years 2026 through 2030.
 
 ### Statutory Notes
 
@@ -25760,6 +25699,26 @@ A prior section 280b–1, act July 1, 1944, ch. 373, title III, § 392, as added
 Another prior section 280b–1, act July 1, 1944, ch. 373, title III, § 391, as added Oct. 22, 1965, Pub. L. 89–291, § 2, 79 Stat. 1059; amended Mar. 13, 1970, Pub. L. 91–212, § 10(b)(3), 84 Stat. 66; July 23, 1974, Pub. L. 93–353, title II, § 202(b), 88 Stat. 372, defined “sciences related to health”, “National Medical Libraries Assistance Advisory Board”, “Board”, and “medical library”, prior to repeal by Pub. L. 99–158, § 3(b), Nov. 20, 1985, 99 Stat. 879.
 
 #### Amendments
+2025—Subsec. (a)(2)(C). Pub. L. 119–44, § 103(a)(1)(A), inserted “and associated risks” before period at end.
+
+Subsec. (a)(2)(D). Pub. L. 119–44, § 103(a)(1)(B), substituted “substances causing overdose” for “opioids”.
+
+Subsec. (a)(3). Pub. L. 119–44, § 103(b)(1), substituted “and Indian Tribes for the following purposes:” for “and Indian Tribes—” in introductory provisions.
+
+Subsec. (a)(3)(A). Pub. L. 119–44, § 103(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “to carry out innovative projects for grantees to rapidly respond to controlled substance misuse, abuse, and overdoses, including changes in patterns of controlled substance use; and”.
+
+Subsec. (a)(3)(B). Pub. L. 119–44, § 103(b)(3), substituted “For any” for “for any”.
+
+Subsec. (b)(2)(B). Pub. L. 119–44, § 103(a)(2)(A), inserted “, and associated risk factors,” after “such overdoses”.
+
+Subsec. (b)(2)(C). Pub. L. 119–44, § 103(a)(2)(B), substituted “monitoring and identifying” for “coding”.
+
+Subsec. (b)(2)(E). Pub. L. 119–44, § 103(a)(2)(C), inserted a comma after “public health laboratories” and “and other emerging substances related” after “analogues”.
+
+Subsec. (b)(2)(F). Pub. L. 119–44, § 103(a)(2)(D), inserted “and associated risk factors” after “overdoses”.
+
+Subsec. (e). Pub. L. 119–44, § 103(c), substituted “$505,579,000 for each of fiscal years 2026 through 2030” for “$496,000,000 for each of fiscal years 2019 through 2023”.
+
 2022—Subsecs. (a)(1)(B), (C), (b)(1)(B), (C). Pub. L. 117–328, § 1271(b)(2), substituted “Indian Tribes” for “Indian tribes”.
 
 Subsecs. (c) to (e). Pub. L. 117–328, § 1271(b)(1), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
@@ -27119,7 +27078,7 @@ The Technology Transfer Act, referred to in subsec. (h)(4)(A), may mean the Fede
 Section was formerly classified to [section 280d–11 of this title](./chapter-6a-public-health-service.md#section-280d-11) prior to renumbering by Pub. L. 106–310.
 
 #### Prior Provisions
-A prior section 399G of act July 1, 1944, was renumbered section 399H and was classified to [section 280f of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280f&num=0&edition=prelim), prior to being omitted from the Code.
+A prior section 399G of act July 1, 1944, was renumbered section 399H and was classified to [section 280f of this title](./chapter-6a-public-health-service.md#section-280f), prior to being omitted from the Code.
 
 #### Amendments
 2022—Subsec. (h)(4)(A). Pub. L. 117–286 substituted “chapter 131 of title 5,” for “the Ethics in Government Act,”.
@@ -27332,24 +27291,108 @@ Section was enacted as part of the Firefighter Cancer Registry Act of 2018, and 
 2024—Subsec. (h). Pub. L. 118–147 substituted “$5,500,000 for each of fiscal years 2024 through 2028” for “$2,500,000 for each of the fiscal years 2018 through 2022”.
 
 
-<a id="section-280f-to-280f-3"></a>
-## § 280f to 280f–3. Omitted
+<a id="section-280f"></a>
+## § 280f. Fetal alcohol spectrum disorders prevention, intervention, and services delivery program
+**(a) In general** The Secretary shall establish or continue activities to support a comprehensive fetal alcohol spectrum disorders (referred to in this section as “FASD”) education, prevention, identification, intervention, and services delivery program, which may include—
+
+(1) an education and public awareness program to support, conduct, and evaluate the effectiveness of—
+
+  (A) educational programs targeting health professions schools, social and other supportive services, educators and counselors and other service providers in all phases of childhood development, and other relevant service providers, concerning the prevention, identification, and provision of services for infants, children, adolescents, and adults with FASD;
+
+  (B) strategies to educate school-age children, including pregnant and high-risk youth, concerning FASD;
+
+  (C) public and community awareness programs concerning FASD; and
+
+  (D) strategies to coordinate information and services across affected community agencies, including agencies providing social services such as foster care, adoption, and social work, agencies providing health services, and agencies involved in education, vocational training, and civil and criminal justice;
+
+(2) supporting and conducting research on FASD, as appropriate, including to—
+
+  (A) develop appropriate medical diagnostic methods for identifying FASD; and
+
+  (B) develop effective culturally and linguistically appropriate evidence-based or evidence-informed interventions and appropriate supports for preventing prenatal alcohol exposure, which may co-occur with exposure to other substances;
+
+(3) building State and Tribal capacity for the identification, treatment, and support of individuals with FASD and their families, which may include—
+
+  (A) utilizing and adapting existing Federal, State, or Tribal programs to include FASD identification and FASD-informed support;
+
+  (B) developing and expanding screening and diagnostic capacity for FASD;
+
+  (C) developing, implementing, and evaluating targeted FASD-informed intervention programs for FASD;
+
+  (D) providing training with respect to FASD for professionals across relevant sectors; and
+
+  (E) disseminating information about FASD and support services to affected individuals and their families; and
+
+(4) an applied research program concerning intervention and prevention to support and conduct service demonstration projects, clinical studies and other research models providing advocacy, educational and vocational training, counseling, medical and mental health, and other supportive services, as well as models that integrate and coordinate such services, that are aimed at the unique challenges facing individuals with fetal alcohol spectrum disorder or fetal alcohol effect and their families.
+
+**(b) Grants and technical assistance**
+
+(1) **In general** — The Secretary may award grants, cooperative agreements and contracts and provide technical assistance to eligible entities to carry out subsection (a).
+
+(2) **Eligible entities** — To be eligible to receive a grant, or enter into a cooperative agreement or contract, under this section, an entity shall—
+
+  (A) be a State, Indian Tribe or Tribal organization, local government, scientific or academic institution, or nonprofit organization; and
+
+  (B) prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a description of the activities that the entity intends to carry out using amounts received under this section.
+
+(3) **Additional application contents** — The Secretary may require that an eligible entity include in the application submitted under paragraph (2)(B)—
+
+  (A) a designation of an individual to serve as a FASD State or Tribal coordinator of activities such eligible entity proposes to carry out through a grant, cooperative agreement, or contract under this section; and
+
+  (B) a description of an advisory committee the entity will establish to provide guidance for the entity on developing and implementing a statewide or Tribal strategic plan to prevent FASD and provide for the identification, treatment, and support of individuals with FASD and their families.
+
+**(c) Definition of FASD-informed** For purposes of this section, the term “FASD-informed”, with respect to support or an intervention program, means that such support or intervention program uses culturally and linguistically informed evidence-based or practice-based interventions and appropriate resources to support an improved quality of life for an individual with FASD and the family of such individual.
 
 ### Statutory Notes
 
-#### Codification
-Sections 280f to 280f–3, which provided for the establishment of a Fetal Alcohol Syndrome prevention and services program, were omitted pursuant to section 280f–3 which provided that this part would no longer apply on the date that was 7 years after the date on which all members of the National Task Force on Fetal Alcohol Syndrome and Fetal Alcohol Effect established under section 280f(d)(1) were appointed, which occurred May 17, 2000.
+#### Prior Provisions
+A prior section 280f, act July 1, 1944, ch. 373, title III, § 399H, formerly § 399G, as added Pub. L. 105–392, title IV, § 419(d), Nov. 13, 1998, 112 Stat. 3593; renumbered § 399H and amended Pub. L. 106–310, div. A, title V, § 502(4)(A), (B), Oct. 17, 2000, 114 Stat. 1115, required the Secretary of Health and Human Services to establish a comprehensive Fetal Alcohol Syndrome and Fetal Alcohol Effect prevention, intervention and services delivery program and to establish the National Task Force on Fetal Alcohol Syndrome and Fetal Alcohol Effect, prior to the general amendment of this part by Pub. L. 119–44.
 
-Section 280f, act July 1, 1944, ch. 373, title III, § 399H, formerly § 399G, as added Pub. L. 105–392, title IV, § 419(d), Nov. 13, 1998, 112 Stat. 3593; renumbered § 399H and amended Pub. L. 106–310, div. A, title V, § 502(4)(A), (B), Oct. 17, 2000, 114 Stat. 1115, required the Secretary of Health and Human Services to establish a comprehensive Fetal Alcohol Syndrome and Fetal Alcohol Effect prevention, intervention and services delivery program and to establish the National Task Force on Fetal Alcohol Syndrome and Fetal Alcohol Effect.
+#### Report
+Pub. L. 119–44, title I, § 104(b), Dec. 1, 2025, 139 Stat. 673, provided that: “Not later than 4 years after the date of enactment of this Act [Dec. 1, 2025], and every year thereafter, the Secretary of Health and Human Services shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report containing— “(1) a review of the activities carried out pursuant to sections 399H and 399I of the Public Health Service Act [[42 U.S.C. 280f](./chapter-6a-public-health-service.md#section-280f), 280f–1], as amended, to advance public education and awareness of fetal alcohol spectrum disorders (referred to in this section as ‘FASD’); “(2) a description of—“(A) the activities carried out pursuant to such sections 399H and 399I [[42 U.S.C. 280f](./chapter-6a-public-health-service.md#section-280f), 280f–1] to identify, prevent, and treat FASD; and “(B) methods used to evaluate the outcomes of such activities; and “(3) an assessment of activities carried out pursuant to such sections 399H and 399I [[42 U.S.C. 280f](./chapter-6a-public-health-service.md#section-280f), 280f–1] to support individuals with FASD.”
 
-Section 280f–1, act July 1, 1944, ch. 373, title III, § 399I, formerly § 399H, as added Pub. L. 105–392, title IV, § 419(d), Nov. 13, 1998, 112 Stat. 3594; renumbered § 399I, Pub. L. 106–310, div. A, title V, § 502(4)(A), Oct. 17, 2000, 114 Stat. 1115, provided eligibility criteria for receiving a grant or entering into a cooperative agreement or contract under this part.
 
-Section 280f–2, act July 1, 1944, ch. 373, title III, § 399J, formerly § 399I, as added Pub. L. 105–392, title IV, § 419(d), Nov. 13, 1998, 112 Stat. 3595; renumbered § 399J and amended Pub. L. 106–310, div. A, title V, § 502(4)(A), (C), Oct. 17, 2000, 114 Stat. 1115, authorized appropriations to carry out this part.
+<a id="section-280f-1"></a>
+## § 280f–1. Strengthening capacity and education for fetal alcohol spectrum disorders
+**(a) In general** The Secretary shall award grants, contracts, or cooperative agreements, as the Secretary determines appropriate, to public or nonprofit private entities with demonstrated expertise in the field of fetal alcohol spectrum disorders (referred to in this section as “FASD”). Such awards shall be for the purposes of building local, Tribal, State, and nationwide capacities to prevent the occurrence of FASD by carrying out the programs described in subsection (b).
 
-Section 280f–3, act July 1, 1944, ch. 373, title III, § 399K, formerly § 399J, as added Pub. L. 105–392, title IV, § 419(d), Nov. 13, 1998, 112 Stat. 3595; renumbered § 399K and amended Pub. L. 106–310, div. A, title V, § 502(4)(A), (D), Oct. 17, 2000, 114 Stat. 1115, provided for the expiration of this part 7 years after the date on which all members of the National Task Force had been appointed.
+**(b) Programs** An entity receiving an award under subsection (a) may use such award for the following purposes:
 
-#### Congressional Findings and Purpose
-Pub. L. 105–392, title IV, § 419(b), (c), Nov. 13, 1998, 112 Stat. 3591, 3592, as amended by Pub. L. 111–256, § 2(g), Oct. 5, 2010, 124 Stat. 2644, provided findings and purpose related to prevention of Fetal Alcohol Syndrome and Fetal Alcohol Effect.
+(1) Developing and supporting public education and outreach activities to raise public awareness of the risks associated with alcohol consumption during pregnancy.
+
+(2) Acting as a clearinghouse for evidence-based resources on FASD prevention, identification, and culturally and linguistically appropriate best practices to help inform systems of care for individuals with FASD across their lifespan.
+
+(3) Increasing awareness and understanding of efficacious, evidence-based screening tools and culturally and linguistically appropriate evidence-based intervention services and best practices, which may include improving the capacity for State, Tribal, and local affiliates.
+
+(4) Providing technical assistance to recipients of grants, cooperative agreements, or contracts under [section 280f of this title](./chapter-6a-public-health-service.md#section-280f), as appropriate.
+
+**(c) Application** To be eligible for a grant, contract, or cooperative agreement under this section, an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+**(d) Subcontracting** A public or private nonprofit entity may carry out the following activities required under this section through contracts or cooperative agreements with other public and private nonprofit entities with demonstrated expertise in FASD:
+
+(1) Resource development and dissemination.
+
+(2) Intervention services.
+
+(3) Training and technical assistance.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 280f–1, act July 1, 1944, ch. 373, title III, § 399I, formerly § 399H, as added Pub. L. 105–392, title IV, § 419(d), Nov. 13, 1998, 112 Stat. 3594; renumbered § 399I, Pub. L. 106–310, div. A, title V, § 502(4)(A), Oct. 17, 2000, 114 Stat. 1115, provided eligibility criteria for receiving a grant or entering into a cooperative agreement or contract under this part, prior to the general amendment of this part by Pub. L. 119–44.
+
+
+<a id="section-280f-2"></a>
+## § 280f–2. Authorization of appropriations
+
+There are authorized to be appropriated to carry out this part $12,500,000 for each of fiscal years 2026 through 2030.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 280f–2, act July 1, 1944, ch. 373, title III, § 399J, formerly § 399I, as added Pub. L. 105–392, title IV, § 419(d), Nov. 13, 1998, 112 Stat. 3595; renumbered § 399J and amended Pub. L. 106–310, div. A, title V, § 502(4)(A), (C), Oct. 17, 2000, 114 Stat. 1115, authorized appropriations to carry out this part, prior to the general amendment of this part by Pub. L. 119–44.
+
+A prior section 280f–3, act July 1, 1944, ch. 373, title III, § 399K, formerly § 399J, as added Pub. L. 105–392, title IV, § 419(d), Nov. 13, 1998, 112 Stat. 3595; renumbered § 399K and amended Pub. L. 106–310, div. A, title V, § 502(4)(A), (D), Oct. 17, 2000, 114 Stat. 1115, provided for the expiration of this part 7 years after the date on which all members of the National Task Force had been appointed, prior to the general amendment of this part by Pub. L. 119–44.
 
 
 <a id="section-280g"></a>
@@ -28570,6 +28613,8 @@ Pub. L. 114–182, title I, § 21(a), June 22, 2016, 130 Stat. 510, provided tha
 
 (4) **No Federal private cause of action** — Nothing in this section shall be construed to create a Federal private cause of action.
 
+(5) **Promoting State choice** — Nothing in this section shall be construed to authorize the Secretary to require States to use a specific vendor or a specific interoperability connection other than to align with nationally recognized, consensus-based open standards, such as in accordance with sections 300jj–11 and 300jj–14 of this title.
+
 **(i) Progress report** Not later than 3 years after October 24, 2018, the Secretary shall—
 
 (1) complete a study that—
@@ -28637,6 +28682,8 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 Another section 399O of act July 1, 1944, was renumbered section 399P and is classified to [section 280g–4 of this title](./chapter-6a-public-health-service.md#section-280g-4).
 
 #### Amendments
+2025—Subsec. (h)(5). Pub. L. 119–44 added par. (5).
+
 2018—Pub. L. 115–271 amended section generally. Prior to amendment, section related to grants for State controlled substance monitoring programs.
 
 2016—Subsec. (a)(1). Pub. L. 114–198, § 109(b)(1)(A), inserted “, in consultation with the Administrator of the Substance Abuse and Mental Health Services Administration and Director of the Centers for Disease Control and Prevention,” after “the Secretary” in introductory provisions.
@@ -28917,7 +28964,7 @@ Subsec. (b)(2)(C)(ii). Pub. L. 117–103, § 501(5), inserted “programs that p
 
 Subsec. (b)(2)(C)(iii). Pub. L. 117–103, § 501(6)(A), inserted “and exposure to violence across generations” after “abuse”.
 
-Subsec. (b)(2)(C)(iv). Pub. L. 117–103, § 501(7), inserted “mental health,” after “dental,” and substituted “exams and certifications;” for “exams.”.
+Subsec. (b)(2)(C)(iv). Pub. L. 117–103, § 501(7), inserted “mental health,” after “dental,” and substituted “exams and certifications;” for “exams.”
 
 Subsec. (b)(2)(C)(v) to (vii). Pub. L. 117–103, § 501(6)(B), (8), added cls. (v) to (vii).
 
@@ -30138,11 +30185,11 @@ Section was enacted as part of the Substance Use–Disorder Prevention that Prom
 
 (2) **Data standards** — In submitting epidemiological data to the Secretary pursuant to paragraph (1), an eligible entity shall report data according to guidelines prescribed by the Director of the Centers for Disease Control and Prevention, after consultation with relevant State, local, and Tribal public health officials, private sector developmental disability researchers, and advocates for individuals with autism spectrum disorder and other developmental disabilities.
 
-(3) **Eligibility** — To be eligible to receive an award under paragraph (1), an entity shall be a public or nonprofit private entity (including a health department of a State or a political subdivision of a State, a university, any other educational institution, an Indian tribe, or a tribal organization), and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+(3) **Eligibility** — To be eligible to receive an award under paragraph (1), an entity shall be a public or nonprofit private entity (including a health department of a State or a political subdivision of a State, a university, any other educational institution, an Indian Tribe, or a Tribal organization), and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 **(b) Centers of excellence in autism spectrum disorder epidemiology**
 
-(1) **In general** — The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall, subject to the availability of appropriations, award grants or cooperative agreements for the establishment or support of regional centers of excellence in autism spectrum disorder and other developmental disabilities epidemiology for the purpose of collecting and analyzing information on the number, incidence, correlates, and causes of autism spectrum disorder and other developmental disabilities for children and adults.
+(1) **In general** — The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall, subject to the availability of appropriations, award grants or cooperative agreements for the establishment or support of regional centers of excellence in autism spectrum disorder and other developmental disabilities epidemiology for the purpose of collecting and analyzing information on the number, incidence, correlates, and causes of autism spectrum disorder and other developmental disabilities for children and adults across the lifespan.
 
 (2) **Requirements** — To be eligible to receive a grant or cooperative agreement under paragraph (1), an entity shall submit to the Secretary an application containing such agreements and information as the Secretary may require, including an agreement that the center to be established or supported under the grant or cooperative agreement shall operate in accordance with the following:
 
@@ -30156,18 +30203,26 @@ Section was enacted as part of the Substance Use–Disorder Prevention that Prom
 
 **(d) Definitions** In this part:
 
-(1) **Indian tribe; tribal organization** — The terms “Indian tribe” and “tribal organization” have the meanings given such terms in [section 1603 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603&num=0&edition=prelim).
+(1) **Indian Tribe; Tribal organization** — The terms “Indian Tribe” and “Tribal organization” have the meanings given such terms in [section 1603 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603&num=0&edition=prelim).
 
 (2) **Other developmental disabilities** — The term “other developmental disabilities” has the meaning given the term “developmental disability” in [section 15002(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15002/8&num=0&edition=prelim).
 
 (3) **State** — The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and the Trust Territory of the Pacific Islands.
 
-**(e) Sunset** This section shall not apply after December 20, 2024.
+**(e) Sunset** This section shall not apply after September 30, 2029.
 
 ### Statutory Notes
 
 #### Amendments
-2024—Subsec. (e). Pub. L. 118–83 substituted “December 20, 2024” for “September 30, 2024”.
+2024—Subsec. (a)(3). Pub. L. 118–180, § 3(a)(1), substituted “an Indian Tribe, or a Tribal organization” for “an Indian tribe, or a tribal organization”.
+
+Subsec. (b)(1). Pub. L. 118–180, § 3(a)(2), inserted “across the lifespan” before period at end.
+
+Subsec. (d)(1). Pub. L. 118–180, § 3(a)(3), substituted “Tribe; tribal” for “tribe; tribal” in heading of original Act which appears in heading as “Tribe; Tribal” and substituted “Tribe” for “tribe” and “Tribal” for “tribal” in text.
+
+Subsec. (e). Pub. L. 118–180, § 3(a)(4), substituted “September 30, 2029” for “December 20, 2024”.
+
+Pub. L. 118–83 substituted “December 20, 2024” for “September 30, 2024”.
 
 2019—Subsec. (a)(1). Pub. L. 116–60, § 3(a)(1), substituted “adults with autism spectrum disorder” for “adults on autism spectrum disorder”.
 
@@ -30191,6 +30246,9 @@ Subsec. (e). Pub. L. 113–157, § 3(4), substituted “2019” for “2014”.
 
 2011—Subsec. (e). Pub. L. 112–32 substituted “2014” for “2011”.
 
+#### Technical Assistance To Improve Access to Communication Tools
+Pub. L. 118–180, § 4, Dec. 23, 2024, 138 Stat. 2619, provided that: “(a) In General.—The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) may, at the request of a State, Indian Tribe, Tribal organization, locality, or territory, provide training and technical assistance to such jurisdiction on the manner in which Federal funding administered by the Secretary may be used to provide individuals with autism spectrum disorder and other developmental disabilities with access to evidence-based services, tools, and technologies that support communication needs. “(b) Annual Report.—The Secretary shall annually prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report summarizing any technical assistance provided by the Secretary in the preceding fiscal year under subsection (a) and any advancements in the development or evaluation of such evidence-based services, tools, and technologies.”
+
 #### National Autism Spectrum Disorder Initiative
 Pub. L. 113–157, § 2, Aug. 8, 2014, 128 Stat. 1831, provided that: “(a) In General.—The Secretary of Health and Human Services shall designate an existing official within the Department of Health and Human Services to oversee, in consultation with the Secretaries of Defense and Education, national autism spectrum disorder research, services, and support activities. “(b) Duties.—The official designated under subsection (a) shall—“(1) implement autism spectrum disorder activities, taking into account the strategic plan developed by the Interagency Autism Coordinating Committee under section 399CC(b) of the Public Health Service Act ([42 U.S.C. 280i–2(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280i–2/b&num=0&edition=prelim)); and “(2) ensure that autism spectrum disorder activities of the Department of Health and Human Services and of other Federal departments and agencies are not unnecessarily duplicative.”
 
@@ -30208,23 +30266,23 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(b) In general** The Secretary shall, subject to the availability of appropriations, establish and evaluate activities to—
 
-(1) provide culturally competent information and education on autism spectrum disorder and other developmental disabilities to increase public awareness of developmental milestones;
+(1) provide culturally and linguistically appropriate information and education on autism spectrum disorder and other developmental disabilities to increase public awareness of developmental milestones;
 
-(2) promote research into the development and validation of reliable screening tools for individuals with autism spectrum disorder and other developmental disabilities and disseminate information regarding those screening tools;
+(2) promote research, which may include research that takes a community-based approach, into the development and validation of reliable screening and diagnostic tools for individuals with autism spectrum disorder and other developmental disabilities and disseminate information regarding those screening and diagnostic tools;
 
-(3) promote early screening of individuals at higher risk for autism spectrum disorder and other developmental disabilities as early as practicable, given evidence-based screening techniques and interventions;
+(3) promote early screening of individuals at increased likelihood for autism spectrum disorder and other developmental disabilities as early as practicable, given evidence-based screening techniques and interventions;
 
-(4) promote evidence-based screening techniques and interventions for individuals with autism spectrum disorder and other developmental disabilities across their lifespan;
+(4) promote evidence-based screening techniques and interventions for individuals with autism spectrum disorder and other developmental disabilities across their lifespan, which may give consideration to the perspectives of parents and guardians;
 
 (5) increase the number of individuals who are able to confirm or rule out a diagnosis of autism spectrum disorder and other developmental disabilities;
 
 (6) increase the number of individuals able to provide evidence-based interventions for individuals diagnosed with autism spectrum disorder or other developmental disabilities; and
 
-(7) promote the use of evidence-based interventions for individuals at higher risk for autism spectrum disorder and other developmental disabilities as early as practicable.
+(7) promote the use of evidence-based interventions for individuals at increased likelihood for autism spectrum disorder and other developmental disabilities as early as practicable.
 
 **(c) Information and education**
 
-(1) **In general** — In carrying out subsection (b)(1), the Secretary, in collaboration with the Secretary of Education and the Secretary of Agriculture, shall, subject to the availability of appropriations, provide culturally competent information regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, and evidence-based interventions to meet the needs of individuals with autism spectrum disorder and other developmental disabilities across their lifespan and the needs of their families through—
+(1) **In general** — In carrying out subsection (b)(1), the Secretary, in collaboration with the Secretary of Education and the Secretary of Agriculture, shall, subject to the availability of appropriations, provide culturally and linguistically appropriate information regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, and evidence-based interventions to meet the needs of individuals with autism spectrum disorder and other developmental disabilities across their lifespan and the needs of their families through—
 
   (A) Federal programs, including—
 
@@ -30258,7 +30316,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
     (i) to designate a public agency as a lead agency to coordinate the activities provided for under paragraph (1) in the State at the State level; and
 
-    (ii) acting through such lead agency, to make available to individuals and their family members, guardians, advocates, or authorized representatives; providers; and other appropriate individuals in the State, comprehensive culturally competent information about State and local resources regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, available services and supports (which may include respite care for caregivers of individuals with autism spectrum disorder or other developmental disabilities), and evidence-based interventions.
+    (ii) acting through such lead agency, to make available to individuals and their family members, guardians, advocates, or authorized representatives; providers; and other appropriate individuals in the State, comprehensive culturally and linguistically appropriate information about State and local resources regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, available services and supports (which may include respite care for caregivers of individuals with autism spectrum disorder or other developmental disabilities), and evidence-based interventions.
 
   (B) *Requirements of agency* — In designating the lead agency under subparagraph (A)(i), the Governor shall—
 
@@ -30296,9 +30354,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(e) Diagnosis**
 
-(1) **Training** — The Secretary, in coordination with activities conducted under title V of the Social Security Act [[42 U.S.C. 701](./chapter-007-social-security.md#section-701) et seq.], shall, subject to the availability of appropriations, expand existing interdisciplinary training opportunities or opportunities to increase the number of sites able to diagnose or rule out individuals with autism spectrum disorder or other developmental disabilities across their lifespan and ensure that—
+(1) **Training** — The Secretary, in coordination with activities conducted under title V of the Social Security Act [[42 U.S.C. 701](./chapter-007-social-security.md#section-701) et seq.], shall, subject to the availability of appropriations, expand, and strengthen the capacity of, existing interdisciplinary training opportunities or opportunities to increase the number of sites able to diagnose or rule out individuals with autism spectrum disorder or other developmental disabilities across their lifespan and ensure that—
 
-  (A) competitive grants or cooperative agreements are awarded to public or nonprofit agencies, including institutions of higher education, to expand existing or develop new maternal and child health interdisciplinary leadership education in neurodevelopmental and related disabilities programs (similar to the programs developed under section 501(a)(2) of the Social Security Act [[42 U.S.C. 701(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section701/a/2&num=0&edition=prelim)]) in States that do not have such a program;
+  (A) competitive grants or cooperative agreements are awarded to public or nonprofit agencies, including institutions of higher education, to expand and strengthen the capacity of existing, or, in States that do not have such a program, develop new, maternal and child health interdisciplinary leadership education in neurodevelopmental and related disabilities programs (similar to the programs developed under section 501(a)(2) of the Social Security Act [[42 U.S.C. 701(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section701/a/2&num=0&edition=prelim)]);
 
   (B) trainees under such training programs—
 
@@ -30310,9 +30368,15 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
     (iv) demonstrate a capacity to evaluate, diagnose or rule out, develop, and provide evidence-based interventions to individuals with autism spectrum disorder and other developmental disabilities across their lifespan; and
 
-    (v) demonstrate an ability to use a family-centered approach, which may include collaborating with research centers or networks to provide training for providers of respite care (as defined in [section 300ii of this title](./chapter-6a-public-health-service.md#section-300ii)); and
+    (v) demonstrate an ability to use a family-centered approach, which may include collaborating with research centers or networks to provide training for providers of respite care (as defined in [section 300ii of this title](./chapter-6a-public-health-service.md#section-300ii)) or other providers, as applicable; and
 
-  (C) program sites provide culturally competent services.
+  (C) program sites—
+
+    (i) provide culturally and linguistically appropriate services;
+
+    (ii) take a multidisciplinary approach and have experience working with underserved populations; and
+
+    (iii) identify opportunities to partner with community-based organizations to expand the capacity of communities to serve individuals with autism spectrum disorder or other developmental disabilities.
 
 (2) **Developmental-behavioral pediatrician training programs**
 
@@ -30324,13 +30388,21 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
     (ii) an urban or rural area designated by the Secretary as an area with a shortage of personal health services (as described in [section 254b(b)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b/b/3/A&num=0&edition=prelim)).
 
+  (C) *Report* — Not later than 2 years after December 23, 2024, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report that examines the need for, and feasibility of, expanding the developmental-behavioral pediatrician training programs described in subparagraph (A).
+
 (3) **Technical assistance** — The Secretary may award one or more grants under this section to provide technical assistance to the network of interdisciplinary training programs.
 
 (4) **Best practices** — The Secretary shall promote research into additional valid and reliable tools for shortening the time required to confirm or rule out a diagnosis of autism spectrum disorder or other developmental disabilities and detecting individuals with autism spectrum disorder or other developmental disabilities at an earlier age.
 
-**(f) Intervention** The Secretary shall promote research, through grants or contracts, which may include grants or contracts to research centers or networks, to determine the evidence-based practices for interventions to improve the physical and behavioral health of individuals with autism spectrum disorder or other developmental disabilities across the lifespan of such individuals, develop guidelines for those interventions, and disseminate information related to such research and guidelines.
+**(f) Intervention** The Secretary shall promote research through grants or contracts, which may include grants or contracts to research centers or networks, to—
 
-**(g) Sunset** This section shall not apply after December 20, 2024.
+(1) develop and evaluate evidence-based practices and interventions to improve outcomes for individuals with autism spectrum disorder or other developmental disabilities by addressing physical and behavioral health and communication needs of such individuals across the lifespan;
+
+(2) develop guidelines for such evidence-based practices and interventions; and
+
+(3) disseminate information related to such evidence-based practices and interventions and guidelines.
+
+**(g) Sunset** This section shall not apply after September 30, 2029.
 
 ### Statutory Notes
 
@@ -30346,7 +30418,37 @@ The Rehabilitation Act of 1973, referred to in subsec. (c)(1)(A)(x), is Pub. L. 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (d)(2)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§ 15001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15001) and Tables.
 
 #### Amendments
-2024—Subsec. (g). Pub. L. 118–83 substituted “December 20, 2024” for “September 30, 2024”.
+2024—Subsec. (b)(1). Pub. L. 118–180, § 3(b)(1), substituted “culturally and linguistically appropriate information” for “culturally competent information”.
+
+Subsec. (b)(2). Pub. L. 118–180, § 3(b)(2), substituted “promote research, which may include research that takes a community-based approach,” for “promote research” and, in two places, “screening and diagnostic tools” for “screening tools”.
+
+Subsec. (b)(3). Pub. L. 118–180, § 3(b)(3), substituted “at increased likelihood” for “at higher risk”.
+
+Subsec. (b)(4). Pub. L. 118–180, § 3(b)(4), inserted “, which may give consideration to the perspectives of parents and guardians” before semicolon at end.
+
+Subsec. (b)(7). Pub. L. 118–180, § 3(b)(5), substituted “at increased likelihood” for “at higher risk”.
+
+Subsec. (c)(1). Pub. L. 118–180, § 3(b)(6), substituted “culturally and linguistically appropriate information” for “culturally competent information” in introductory provisions.
+
+Subsec. (c)(2)(A)(ii). Pub. L. 118–180, § 3(b)(7), substituted “culturally and linguistically appropriate information” for “culturally competent information”.
+
+Subsec. (e)(1). Pub. L. 118–180, § 3(b)(9)(A), inserted “, and strengthen the capacity of,” after “expand” in introductory provisions.
+
+Pub. L. 118–180, § 3(b)(8), which directed the amendment of subsec. (e)(1) “to read as follows” but was not followed by any text, was not given effect, to reflect the probable intent of Congress.
+
+Subsec. (e)(1)(A). Pub. L. 118–180, § 3(b)(9)(B), substituted “expand and strengthen the capacity of existing, or, in States that do not have such a program, develop new,” for “expand existing or develop new” and struck out “in States that do not have such a program” before semicolon at end.
+
+Subsec. (e)(1)(B)(v). Pub. L. 118–180, § 3(b)(9)(C), inserted “or other providers, as applicable” before “; and”.
+
+Subsec. (e)(1)(C). Pub. L. 118–180, § 3(b)(9)(D), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “program sites provide culturally competent services.”
+
+Subsec. (e)(2)(C). Pub. L. 118–180, § 3(b)(10), added subpar. (C).
+
+Subsec. (f). Pub. L. 118–180, § 3(b)(11), amended subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary shall promote research, through grants or contracts, which may include grants or contracts to research centers or networks, to determine the evidence-based practices for interventions to improve the physical and behavioral health of individuals with autism spectrum disorder or other developmental disabilities across the lifespan of such individuals, develop guidelines for those interventions, and disseminate information related to such research and guidelines.”
+
+Subsec. (g). Pub. L. 118–180, § 3(b)(12), substituted “September 30, 2029” for “December 20, 2024”.
+
+Pub. L. 118–83 substituted “December 20, 2024” for “September 30, 2024”.
 
 2019—Subsec. (a)(1). Pub. L. 116–60, § 3(b)(1), substituted “individuals with autism spectrum disorder and other developmental disabilities” for “individuals with autism spectrum disorder or other developmental disabilities” and “individuals with autism spectrum disorder and other developmental disabilities across their lifespan;” for “children with autism spectrum disorder and other developmental disabilities;”.
 
@@ -30389,27 +30491,27 @@ Subsec. (g). Pub. L. 113–157, § 4(5), substituted “2019” for “2014”.
 ## § 280i–2. Interagency Autism Coordinating Committee
 **(a) Establishment** The Secretary shall establish a committee, to be known as the “Interagency Autism Coordinating Committee” (in this section referred to as the “Committee”), to coordinate all efforts within the Department of Health and Human Services concerning autism spectrum disorder.
 
-**(b) Responsibilities** In carrying out its duties under this section, the Committee shall—
+**(b) Responsibilities** In carrying out its duties under this section, the Committee shall, on a regular basis—
 
 (1) monitor autism spectrum disorder research, and to the extent practicable services and support activities, across all relevant Federal departments and agencies, including coordination of Federal activities with respect to autism spectrum disorder;
 
-(2) develop a summary of advances in autism spectrum disorder research related to causes, prevention, treatment, early screening, diagnosis or rule out, interventions, including school and community-based interventions, and access to services and supports for individuals with autism spectrum disorder across the lifespan of such individuals;
+(2) summarize of 11 So in original. The word “of” probably should not appear. advances in autism spectrum disorder research related to causes, prevention, treatment, early screening, diagnosis or rule out, interventions, including school and community-based interventions, and access to services and supports for individuals with autism spectrum disorder across the lifespan of such individuals;
 
-(3) make recommendations to the Secretary regarding any appropriate changes to such activities, including with 11 So in original. Probably should be preceded by “recommendations”. respect to the strategic plan developed under paragraph (5);
+(3) make recommendations to the Secretary regarding any appropriate changes to such activities, including with 22 So in original. Probably should be preceded by “recommendations”. respect to the strategic plan developed under paragraph (5);
 
 (4) make recommendations to the Secretary regarding public participation in decisions relating to autism spectrum disorder, and the process by which public feedback can be better integrated into such decisions;
 
-(5) develop a strategic plan for the conduct of, and support for, autism spectrum disorder research, including as practicable for services and supports, for individuals with an autism spectrum disorder across the lifespan of such individuals and the families of such individuals, which shall include—
+(5) develop a strategic plan for the conduct of, and support for, autism spectrum disorder research, as described in [section 284g(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section284g/a/1&num=0&edition=prelim), which shall include—
 
   (A) proposed budgetary requirements; and
 
   (B) recommendations to ensure that autism spectrum disorder research, and services and support activities to the extent practicable, of the Department of Health and Human Services and of other Federal departments and agencies are not unnecessarily duplicative; and
 
-(6) submit to Congress and the President—
+(6) submit to the Congress and the President—
 
   (A) an annual update on the summary of advances described in paragraph (2); and
 
-  (B) an annual update to the strategic plan described in paragraph (5), including any progress made in achieving the goals outlined in such strategic plan.
+  (B) a biennial update on the strategic plan described in paragraph (5), including progress made in achieving the goals outlined in such strategic plan and any specific measures taken pursuant to such strategic plan.
 
 **(c) Membership**
 
@@ -30423,7 +30525,7 @@ Subsec. (g). Pub. L. 113–157, § 4(5), substituted “2019” for “2014”.
 
   (D) representatives of other Federal Governmental agencies that serve individuals with autism spectrum disorder such as the Department of Education, the Department of Labor, the Department of Justice, the Department of Veterans Affairs, the Department of Housing and Urban Development, and the Department of Defense.
 
-(2) **Non-Federal members** — Not more than ½, but not fewer than ⅓, of the total membership of the Committee,22 So in original. The comma probably should not appear. shall be composed of non-Federal public members to be appointed by the Secretary, of which—
+(2) **Non-Federal members** — Not more than ½, but not fewer than ⅓, of the total membership of the Committee,33 So in original. The comma probably should not appear. shall be composed of non-Federal public members to be appointed by the Secretary, of which—
 
   (A) at least three such members shall be individuals with a diagnosis of autism spectrum disorder;
 
@@ -30447,12 +30549,20 @@ Subsec. (g). Pub. L. 113–157, § 4(5), substituted “2019” for “2014”.
 
 **(e) Subcommittees; establishment and membership** In carrying out its functions, the Committee may establish subcommittees and convene workshops and conferences. Such subcommittees shall be composed of Committee members and may hold such meetings as are necessary to enable the subcommittees to carry out their duties.
 
-**(f) Sunset** This section shall not apply after December 20, 2024, and the Committee shall be terminated on such date.
+**(f) Sunset** This section shall not apply after September 30, 2029, and the Committee shall be terminated on such date.
 
 ### Statutory Notes
 
 #### Amendments
-2024—Subsec. (f). Pub. L. 118–83 substituted “December 20, 2024” for “September 30, 2024”.
+2024—Subsec. (b). Pub. L. 118–180, § 3(c)(1)(A), inserted “, on a regular basis” after “shall” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 118–180, § 3(c)(1)(B), substituted “summarize” for “develop a summary”.
+
+Subsec. (b)(5), (6). Pub. L. 118–180, § 3(c)(1)(C), added pars. (5) and (6) and struck out former pars (5) and (6) which related, respectively, to development of a strategic plan and annual updates to Congress and the President.
+
+Subsec. (f). Pub. L. 118–180, § 3(c)(2), substituted “September 30, 2029” for “December 20, 2024”.
+
+Pub. L. 118–83 substituted “December 20, 2024” for “September 30, 2024”.
 
 2019—Subsec. (b)(2). Pub. L. 116–60, § 3(c)(1)(A), inserted “across the lifespan of such individuals” before semicolon at end.
 
@@ -30511,19 +30621,19 @@ Subsec. (f). Pub. L. 113–157, § 5(4), substituted “2019” for “2014”.
 ## § 280i–3. Reports to Congress
 **(a) Progress report**
 
-(1) **In general** — Not later than 4 years after September 30, 2019, the Secretary, in coordination with the Secretary of Education and the Secretary of Defense, shall prepare and submit to the Health, Education, Labor, and Pensions Committee of the Senate and the Energy and Commerce Committee of the House of Representatives, and make publicly available, including through posting on the Internet Web site of the Department of Health and Human Services, a progress report on activities related to autism spectrum disorder and other developmental disabilities.
+(1) **In general** — Not later than 4 years after September 30, 2024, the Secretary, in consultation with other relevant Federal departments and agencies, shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, and make publicly available, including through posting on the website of the Department of Health and Human Services, a progress report on activities related to autism spectrum disorder and other developmental disabilities. Such report shall include activities and research related to the entire population of individuals with autism spectrum disorder, including those individuals with co-occurring conditions and the full range of needs for supports and services, including such supports and services to ensure the safety, and promote the well-being, of such individuals.
 
 (2) **Contents** — The report submitted under subsection (a) shall contain—
 
-  (A) a description of the progress made in implementing the provisions of the Autism CARES Act of 2019;
+  (A) a description of the progress made in implementing the provisions of the Autism CARES Act of 2024;
 
-  (B) a description of the amounts expended on the implementation of the amendments made by the Autism CARES Act of 2019;
+  (B) a description of the amounts expended on the implementation of the amendments made by the Autism CARES Act of 2024;
 
   (C) information on the incidence and prevalence of autism spectrum disorder, including available information on the prevalence of autism spectrum disorder among children and adults, and identification of any changes over time with respect to the incidence and prevalence of autism spectrum disorder;
 
-  (D) information on the average age of diagnosis for children with autism spectrum disorder and other disabilities, including how that age may have changed over the 4-year period beginning on September 30, 2019, and, as appropriate, how this age varies across population subgroups;
+  (D) information on the average age of diagnosis for children with autism spectrum disorder and other disabilities, including how that age may have changed over the 4-year period beginning on December 23, 2024, and, as appropriate, how this age varies across population subgroups;
 
-  (E) information on the average age for intervention for individuals diagnosed with autism spectrum disorder and other developmental disabilities, including how that age may have changed over the 4-year period beginning on September 30, 2019, and, as appropriate, how this age varies across population subgroups;
+  (E) information on the average age for intervention for individuals diagnosed with autism spectrum disorder and other developmental disabilities, including how that age may have changed over the 4-year period beginning on December 23, 2024, and, as appropriate, how this age varies across population subgroups;
 
   (F) information on the average time between initial screening and then diagnosis or rule out for individuals with autism spectrum disorder or other developmental disabilities, as well as information on the average time between diagnosis and evidence-based intervention for individuals with autism spectrum disorder or other developmental disabilities and, as appropriate, on how such average time varies across population subgroups;
 
@@ -30535,54 +30645,40 @@ Subsec. (f). Pub. L. 113–157, § 5(4), substituted “2019” for “2014”.
 
   (J) information on how States use home- and community-based services and other supports to ensure that individuals with autism spectrum disorder and other developmental disabilities are living, working, and participating in their community.
 
-**(b) Report on the health and well-being of individuals with autism spectrum disorder across their lifespan**
+**(b) Report on the mental health needs of individuals with autism spectrum disorder across their lifespan**
 
-(1) **In general** — Not later than 2 years after September 30, 2019, the Secretary shall prepare and submit, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report concerning the health and well-being of individuals with autism spectrum disorder.
+(1) **In general** — Not later than 2 years after December 23, 2024, the Secretary shall prepare and submit, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report concerning the mental health needs of individuals with autism spectrum disorder.
 
 (2) **Contents** — The report submitted under paragraph (1) shall contain—
 
-  (A) demographic factors associated with the health and well-being of individuals with autism spectrum disorder;
+  (A) an overview of policies and programs relevant to the mental health of individuals with autism spectrum disorder across their lifespan, including an identification of existing Federal laws, regulations, policies, research, and programs; and
 
-  (B) an overview of policies and programs relevant to the health and well-being of individuals with autism spectrum disorder, including an identification of existing Federal laws, regulations, policies, research, and programs;
+  (B) recommendations to improve mental health outcomes and address related disparities in mental health care for individuals with autism spectrum disorder, including prevention, care coordination, and community-based services.
 
-  (C) recommendations on establishing best practices guidelines to ensure interdisciplinary coordination between all relevant service providers receiving Federal funding;
-
-  (D) comprehensive approaches to improving health outcomes and well-being for individuals with autism spectrum disorder, including—
-
-    (i) community-based behavioral supports and interventions;
-
-    (ii) nutrition, recreational, and social activities; and
-
-    (iii) personal safety services related to public safety agencies or the criminal justice system for such individuals; and
-
-  (E) recommendations that seek to improve health outcomes for such individuals, including across their lifespan, by addressing—
-
-    (i) screening and diagnosis of children and adults;
-
-    (ii) behavioral and other therapeutic approaches;
-
-    (iii) primary and preventative care;
-
-    (iv) communication challenges;
-
-    (v) aggression, self-injury, elopement, and other behavioral issues;
-
-    (vi) emergency room visits and acute care hospitalization;
-
-    (vii) treatment for co-occurring physical and mental health conditions;
-
-    (viii) premature mortality;
-
-    (ix) medical practitioner training; and
-
-    (x) caregiver mental health.
+**(c) Update on young adults and youth transitioning to adulthood** Not later than 2 years after December 23, 2024, the Secretary, in coordination with other relevant Federal departments and agencies, as appropriate, shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate an update to the report required pursuant to subsection (b) of this section, as added by section 6 of the Autism Cares Act of 2014 (Public Law 113–157), and in effect before September 30, 2019, concerning young adults with autism spectrum disorder and the challenges related to the transition from existing school-based services to those services available during adulthood.
 
 ### Statutory Notes
 
 #### References in Text
-The Autism CARES Act of 2019, referred to in subsec. (a)(2)(A), (B), is Pub. L. 116–60, Sept. 30, 2019, 133 Stat. 1110, also known as the Autism Collaboration, Accountability, Research, Education, and Support Act of 2019, which amended this part and [section 284g of this title](./chapter-6a-public-health-service.md#section-284g) and enacted provisions set out as a note under [section 201 of this title](./chapter-6a-public-health-service.md#section-201). For complete classification of this Act to the Code, see Short Title of 2019 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Autism CARES Act of 2024, referred to in subsec. (a)(2)(A), (B), is Pub. L. 118–180, Dec. 23, 2024, 138 Stat. 2614, also known as the Autism Collaboration, Accountability, Research, Education, and Support Act of 2024, which amended this part and [section 284g of this title](./chapter-6a-public-health-service.md#section-284g) and enacted provisions set out as notes under sections 201 and 280i of this title. For complete classification of this Act to the Code, see Short Title of 2024 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Amendments
+2024—Subsec. (a)(1). Pub. L. 118–180, § 3(d)(2), amended par. (1) generally. Prior to amendment, text read as follows: “Not later than 4 years after September 30, 2019, the Secretary, in coordination with the Secretary of Education and the Secretary of Defense, shall prepare and submit to the Health, Education, Labor, and Pensions Committee of the Senate and the Energy and Commerce Committee of the House of Representatives, and make publicly available, including through posting on the Internet Web site of the Department of Health and Human Services, a progress report on activities related to autism spectrum disorder and other developmental disabilities.”
+
+Subsec. (a)(2)(A), (B). Pub. L. 118–180, § 3(d)(1), substituted “Autism CARES Act of 2024” for “Autism CARES Act of 2019”.
+
+Subsec. (a)(2)(D), (E). Pub. L. 118–180, § 3(d)(1), substituted “December 23, 2024” for “September 30, 2019”.
+
+Subsec. (b). Pub. L. 118–180, § 3(d)(3)(A), substituted “mental health needs” for “health and well-being” in heading.
+
+Subsec. (b)(1). Pub. L. 118–180, § 3(d)(3)(B), substituted “mental health needs” for “health and well-being”.
+
+Pub. L. 118–180, § 3(d)(1), substituted “December 23, 2024” for “September 30, 2019”.
+
+Subsec. (b)(2). Pub. L. 118–180, § 3(d)(3)(C), amended par. (2) generally. Prior to amendment, par. (2) related to the content of reports submitted under par. (1).
+
+Subsec. (c). Pub. L. 118–180, § 3(d)(4), added subsec. (c).
+
 2019—Subsec. (a)(1). Pub. L. 116–60, § 3(d)(1)(A), substituted “September 30, 2019” for “August 8, 2014”.
 
 Subsec. (a)(2)(A), (B). Pub. L. 116–60, § 3(d)(1)(B)(i), substituted “Autism CARES Act of 2019” for “Autism CARES Act of 2014”.
@@ -30632,15 +30728,21 @@ Subsec. (b)(4), (5). Pub. L. 112–32, § 2(4)(B), substituted “the 6-year per
 
 <a id="section-280i-4"></a>
 ## § 280i–4. Authorization of appropriations
-**(a) Developmental disabilities surveillance and research program** To carry out [section 280i of this title](./chapter-6a-public-health-service.md#section-280i), there is authorized to be appropriated $23,100,000 for each of fiscal years 2020 through 2024.
+**(a) Developmental disabilities surveillance and research program** To carry out [section 280i of this title](./chapter-6a-public-health-service.md#section-280i), there is authorized to be appropriated 28,100,000 for each of fiscal years 2025 through 2029.
 
-**(b) Autism education, early detection, and intervention** To carry out [section 280i–1 of this title](./chapter-6a-public-health-service.md#section-280i-1), there is authorized to be appropriated $50,599,000 for each of fiscal years 2020 through 2024.
+**(b) Autism education, early detection, and intervention** To carry out [section 280i–1 of this title](./chapter-6a-public-health-service.md#section-280i-1), there is authorized to be appropriated $56,344,000 for each of fiscal years 2025 through 2029.
 
-**(c) Interagency Autism Coordinating Committee; certain other programs** To carry out sections 280i–2 and 284g of this title, there are authorized to be appropriated $296,000,000 for each of fiscal years 2020 through 2024.
+**(c) Interagency Autism Coordinating Committee; certain other programs** To carry out sections 280i–2 and 284g of this title, there is authorized to be appropriated $306,000,000 for each of fiscal years 2025 through 2029.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–180, § 3(e)(1), substituted “$28,100,000 for each of fiscal years 2025 through 2029” for “$23,100,000 for each of fiscal years 2020 through 2024”.
+
+Subsec. (b). Pub. L. 118–180, § 3(e)(2), substituted “$56,344,000 for each of fiscal years 2025 through 2029” for “$50,599,000 for each of fiscal years 2020 through 2024”.
+
+Subsec. (c). Pub. L. 118–180, § 3(e)(3), substituted “there is authorized to be appropriated $306,000,000 for each of fiscal years 2025 through 2029” for “there are authorized to be appropriated $296,000,000 for each of fiscal years 2020 through 2024”.
+
 2019—Subsec. (a). Pub. L. 116–60, § 3(e)(1), substituted “$23,100,000 for each of fiscal years 2020 through 2024” for “$22,000,000 for each of fiscal years 2015 through 2019”.
 
 Subsec. (b). Pub. L. 116–60, § 3(e)(2), substituted “$50,599,000 for each of fiscal years 2020 through 2024” for “$48,000,000 for each of fiscal years 2015 through 2019”.
@@ -31556,7 +31658,7 @@ Pub. L. 99–158, § 9, Nov. 20, 1985, 99 Stat. 882, directed Director of the Na
 
     (i) may, with respect to funds reserved under [section 282a(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282a/c/1&num=0&edition=prelim) for the Common Fund, allocate such funds to the national research institutes and national centers for conducting and supporting research that is identified under subparagraph (A); and
 
-    (ii) shall, with respect to funds appropriated to the Common Fund pursuant to [section 282a(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282a/a/2&num=0&edition=prelim), allocate such funds to the national research institutes and national centers for making grants for pediatric research that is identified under subparagraph (A); and
+    (ii) shall, with respect to funds appropriated to the Division of Program Coordination, Planning, and Strategic Initiatives pursuant to [section 282a(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282a/a/2&num=0&edition=prelim), allocate such funds to the national research institutes and national centers for making grants for pediatric research that is identified under subparagraph (A) and shall prioritize, as appropriate, such pediatric research that does not duplicate existing research activities of the National Institutes of Health; and
 
   (C) may assign additional functions to the Division in support of responsibilities identified in subparagraph (A), as determined appropriate by the Director;
 
@@ -32251,6 +32353,10 @@ The National Literacy Act of 1991, referred to in subsec. (e)(5), is Pub. L. 102
 In subsec. (b)(14)(B), “[section 8141 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section8141&num=0&edition=prelim)” substituted for “the Act of March 3, 1877 ([40 U.S.C. 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section34&num=0&edition=prelim))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+2025—Subsec. (b)(7)(B)(ii). Pub. L. 118–228, § 3(b), inserted “and shall prioritize, as appropriate, such pediatric research that does not duplicate existing research activities of the National Institutes of Health” before “; and”.
+
+Pub. L. 118–228, § 2(3), substituted “the Division of Program Coordination, Planning, and Strategic Initiatives” for “the Common Fund”.
+
 2022—Subsec. (b). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act” in concluding provisions.
 
 Subsec. (b)(26). Pub. L. 117–328, § 2302, added par. (26).
@@ -32433,7 +32539,7 @@ Pub. L. 103–43, title XX, § 2002, June 10, 1993, 107 Stat. 208, directed Secr
 
   (F) $36,472,442,775 for fiscal year 2020.
 
-(2) **Funding for 10-year pediatric research initiative through Common Fund** — For the purpose of carrying out [section 282(b)(7)(B)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282/b/7/B/ii&num=0&edition=prelim), there is authorized to be appropriated to the Common Fund, out of the 10-Year Pediatric Research Initiative Fund described in [section 9008 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9008&num=0&edition=prelim), and in addition to amounts otherwise made available under paragraph (1) of this subsection and reserved under subsection (c)(1)(B)(i) of this section, $12,600,000 for each of fiscal years 2014 through 2023.
+(2) **Funding for pediatric research initiative** — For the purpose of carrying out [section 282(b)(7)(B)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282/b/7/B/ii&num=0&edition=prelim), there is authorized to be appropriated to the Division of Program Coordination, Planning, and Strategic Initiatives, out of the Pediatric Research Initiative Fund described in [section 9008 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9008&num=0&edition=prelim), and in addition to amounts otherwise made available under paragraph (1) of this subsection, $12,600,000 for each of fiscal years 2024 through 2028.
 
 **(b) Office of the Director** Of the amount authorized to be appropriated under subsection (a) for a fiscal year, there are authorized to be appropriated for programs and activities under this subchapter carried out through the Office of the Director of NIH such sums as may be necessary for each of the fiscal years 2007 through 2009.
 
@@ -32441,7 +32547,7 @@ Pub. L. 103–43, title XX, § 2002, June 10, 1993, 107 Stat. 208, directed Secr
 
 (1) **Common Fund**
 
-  (A) *Account* — For the purpose of allocations under [section 282(b)(7)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282/b/7/B&num=0&edition=prelim) (relating to research identified by the Division of Program Coordination, Planning, and Strategic Initiatives), there is established an account to be known as the Common Fund.
+  (A) *Account* — For the purpose of allocations under [section 282(b)(7)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282/b/7/B/i&num=0&edition=prelim) (relating to research identified by the Division of Program Coordination, Planning, and Strategic Initiatives), there is established an account to be known as the Common Fund.
 
   (B) *Reservation*
 
@@ -32469,7 +32575,7 @@ Pub. L. 103–43, title XX, § 2002, June 10, 1993, 107 Stat. 208, directed Secr
 
   (B) *Reporting* — Not later than 2 years after December 13, 2016, the head of each national research institute or national center shall submit to the Director of the National Institutes of Health a report, to be included in the triennial report under [section 283 of this title](./chapter-6a-public-health-service.md#section-283), on the amount made available by the institute or center for conducting or supporting research that involves collaboration between the institute or center and 1 or more other national research institutes or national centers.
 
-  (C) *Determination* — For purposes of determining the amount or percentage of funds to be reported under subparagraph (B), any amounts made available to an institute or center under [section 282(b)(7)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282/b/7/B&num=0&edition=prelim) shall be included.
+  (C) *Determination* — For purposes of determining the amount or percentage of funds to be reported under subparagraph (B), any amounts made available to an institute or center under [section 282(b)(7)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282/b/7/B/i&num=0&edition=prelim) shall be included.
 
   (D) *Verification of amounts* — Upon receipt of each report submitted under subparagraph (B), the Director of NIH shall review and, in cases of discrepancy, verify the accuracy of the amounts specified in the report.
 
@@ -32482,6 +32588,10 @@ Pub. L. 103–43, title XX, § 2002, June 10, 1993, 107 Stat. 208, directed Secr
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a)(2). Pub. L. 118–228, § 2(1), struck out “10-year” before “pediatric” and “through Common Fund” after “initiative” in heading, and in text substituted “to the Division of Program Coordination, Planning, and Strategic Initiatives” for “to the Common Fund” and “2024 through 2028” for “2014 through 2023”, and struck out “10-Year” before “Pediatric Research Initiative Fund” and “and reserved under subsection (c)(1)(B)(i) of this section” after “paragraph (1) of this subsection”.
+
+Subsec. (c)(1)(A), (2)(C). Pub. L. 118–228, § 2(2), substituted “section 282(b)(7)(B)(i)” for “section 282(b)(7)(B)”.
+
 2016—Subsec. (a)(1)(D) to (F). Pub. L. 114–255, § 2001, added subpars. (D) to (F).
 
 Subsec. (c)(1)(C). Pub. L. 114–255, § 2031(b), substituted “As part of the National Institutes of Health Strategic Plan required under [section 282(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282/m&num=0&edition=prelim),” for “Not later than June 1, 2007, and every 2 years thereafter,”.
@@ -33755,7 +33865,7 @@ Chapter 10 of title 5 shall not apply to the duration of a peer review group app
 
 2021—Subsec. (b)(1). Pub. L. 117–81 substituted “section 3861” for “section 2354” in concluding provisions.
 
-2016—Subsec. (a). Pub. L. 114–255, § 2033(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Director of the National Cancer Institute shall be appointed by the President and the Directors of the other national research institutes shall be appointed by the Secretary. Each Director of a national research institute shall report directly to the Director of NIH.”.
+2016—Subsec. (a). Pub. L. 114–255, § 2033(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Director of the National Cancer Institute shall be appointed by the President and the Directors of the other national research institutes shall be appointed by the Secretary. Each Director of a national research institute shall report directly to the Director of NIH.”
 
 Subsec. (b)(1)(C) to (M). Pub. L. 114–255, § 2036(c), added par. (C) and redesignated former pars. (C) to (L) as (D) to (M), respectively.
 
@@ -34077,7 +34187,21 @@ Pub. L. 105–78, title VI, § 603(b), Nov. 13, 1997, 111 Stat. 1519, provided t
 ## § 284g. Expansion, intensification, and coordination of activities of National Institutes of Health with respect to research on autism spectrum disorder
 **(a) In general**
 
-(1) **Expansion of activities** — The Director of NIH (in this section referred to as the “Director”) shall, subject to the availability of appropriations, expand, intensify, and coordinate the activities of the National Institutes of Health with respect to research on autism spectrum disorder, including basic and clinical research in fields including pathology, developmental neurobiology, genetics, epigenetics, pharmacology, nutrition, immunology, neuroimmunology, neurobehavioral development, endocrinology, gastroenterology, toxicology, and interventions to maximize outcomes for individuals with autism spectrum disorder. Such research shall investigate the causes (including possible environmental causes), diagnosis or ruling out, early and ongoing detection, prevention, services across the lifespan, supports, intervention, and treatment of autism spectrum disorder, including dissemination and implementation of clinical care, supports, interventions, and treatments.
+(1) **Expansion of activities** — The Director of NIH (in this section referred to as the “Director”), in consultation with relevant Federal departments and agencies, as appropriate, shall—
+
+  (A) subject to the availability of appropriations, expand, intensify, and coordinate the activities of the National Institutes of Health with respect to research on autism spectrum disorder, including basic and clinical research—
+
+    (i) in fields, such as pathology, developmental neurobiology, genetics, epigenetics, pharmacology, nutrition, immunology, neuroimmunology, neurobehavioral development, endocrinology, gastroenterology, toxicology, psychiatry, psychology, developmental behavioral pediatrics, audiology, and gerontology; and
+
+    (ii) on interventions to maximize outcomes for individuals with autism spectrum disorder; and
+
+  (B) ensure that research referred to in subparagraph (A)—
+
+    (i) investigates the causes (including possible environmental causes), diagnosis or ruling out, early and ongoing detection, prevention, services and supports across the lifespan, intervention, and treatment of autism spectrum disorder and co-occurring conditions, including dissemination and implementation of clinical care, supports, interventions, and treatments;
+
+    (ii) examines supports for caregivers; and
+
+    (iii) reflects the entire population of individuals with autism spectrum disorder, including those individuals with co-occurring conditions and the full range of needs for supports and services, including such supports and services to ensure the safety, and promote the well-being, of such individuals.
 
 (2) **Consolidation** — The Director may consolidate program activities under this section if such consolidation would improve program efficiencies and outcomes.
 
@@ -34087,7 +34211,7 @@ Pub. L. 105–78, title VI, § 603(b), Nov. 13, 1997, 111 Stat. 1519, provided t
 
 (1) **In general** — The Director shall under subsection (a)(1) make awards of grants and contracts to public or nonprofit private entities to pay all or part of the cost of planning, establishing, improving, and providing basic operating support for centers of excellence regarding research on autism spectrum disorder.
 
-(2) **Research** — Each center under paragraph (1) shall conduct basic and clinical research into autism spectrum disorder. Such research should include investigations into the causes, diagnosis, early and ongoing detection, prevention, and treatment of autism spectrum disorder across the lifespan. The centers, as a group, shall conduct research including the fields of developmental neurobiology, genetics, genomics, psychopharmacology, developmental psychology, behavioral psychology, and clinical psychology.
+(2) **Research** — Each center under paragraph (1) shall conduct basic and clinical research into autism spectrum disorder. Such research should include investigations into the causes, diagnosis, early and ongoing detection, prevention, and treatment of autism spectrum disorder across the lifespan. The centers, as a group, shall conduct research in fields such as developmental neurobiology, genetics, genomics, psychopharmacology, developmental psychology, behavioral psychology, clinical psychology, and gerontology.
 
 (3) **Services for patients**
 
@@ -34103,13 +34227,19 @@ Pub. L. 105–78, title VI, § 603(b), Nov. 13, 1997, 111 Stat. 1519, provided t
 
 (5) **Number of centers; duration of support**
 
-  (A) *In general* — The Director shall provide for the establishment of not less than five centers under paragraph (1).
+  (A) *In general* — The Director shall provide for the establishment of not less than seven centers under paragraph (1).
 
-  (B) *Duration* — Support for a center established under paragraph (1) may be provided under this section for a period of not to exceed 5 years. Such period may be extended for one or more additional periods not exceeding 5 years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
+  (B) *Duration* — Support for a center established under paragraph (1) may be provided under this section for a period not to exceed 5 years. Such period may be extended for one or more additional periods not exceeding 5 years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
 **(c) Facilitation of research** The Director shall under subsection (a)(1) provide for a program under which samples of tissues and genetic materials that are of use in research on autism spectrum disorder are donated, collected, preserved, and made available for such research. The program shall be carried out in accordance with accepted scientific and medical standards for the donation, collection, and preservation of such samples.
 
-**(d) Public input** The Director shall under subsection (a)(1) provide for means through which the public can obtain information on the existing and planned programs and activities of the National Institutes of Health with respect to autism spectrum disorder and through which the Director can receive comments from the public regarding such programs and activities.
+**(d) Public input**
+
+(1) **In general** — The Director shall under subsection (a)(1) provide for means through which the public can obtain information on the existing and planned programs and activities of the National Institutes of Health with respect to autism spectrum disorder and through which the Director can receive comments from the public regarding such programs and activities.
+
+(2) **Guidance** — The Director may provide guidance to centers under subsection (b)(1) on strategies, activities, and opportunities to promote engagement with, and solicit input from, individuals with autism spectrum disorder and their family members, guardians, advocates or authorized representatives, providers, or other appropriate individuals to inform the activities of the center. Such strategies, activities, and opportunities should consider including, as appropriate, individuals, family members, and caregivers of individuals with autism spectrum disorder who represent the entire population of individuals with autism spectrum disorder, including those individuals with co-occurring conditions and the full range of needs for supports and services, including such supports and services to ensure the safety, and promote the well-being, of such individuals, to inform the activities of the center.
+
+**(e) Budget estimate** For each of fiscal years 2026 through 2029, the Director shall prepare and submit, directly to the President for review and transmittal to Congress, an annual budget estimate for the initiatives of the National Institutes of Health pursuant to the strategic plan developed under [section 280i–2(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280i–2/b/5&num=0&edition=prelim) and updated under [section 280i–2(b)(6)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280i–2/b/6/B&num=0&edition=prelim), after reasonable opportunity for comment (but without change) by the Secretary and the Interagency Autism Coordinating Committee established under [section 280i–2 of this title](./chapter-6a-public-health-service.md#section-280i-2).
 
 ### Statutory Notes
 
@@ -34117,6 +34247,18 @@ Pub. L. 105–78, title VI, § 603(b), Nov. 13, 1997, 111 Stat. 1519, provided t
 Another section 409C of act July 1, 1944, was renumbered section 409G and is classified to [section 284k of this title](./chapter-6a-public-health-service.md#section-284k).
 
 #### Amendments
+2024—Subsec. (a)(1). Pub. L. 118–180, § 2(a), made numerous amendments to text and structure of par. (1). Prior to amendment, text read as follows: “The Director of NIH (in this section referred to as the “Director”) shall, subject to the availability of appropriations, expand, intensify, and coordinate the activities of the National Institutes of Health with respect to research on autism spectrum disorder, including basic and clinical research in fields including pathology, developmental neurobiology, genetics, epigenetics, pharmacology, nutrition, immunology, neuroimmunology, neurobehavioral development, endocrinology, gastroenterology, toxicology, and interventions to maximize outcomes for individuals with autism spectrum disorder. Such research shall investigate the causes (including possible environmental causes), diagnosis or ruling out, early and ongoing detection, prevention, services across the lifespan, supports, intervention, and treatment of autism spectrum disorder, including dissemination and implementation of clinical care, supports, interventions, and treatments.”
+
+Subsec. (b)(2). Pub. L. 118–180, § 2(b)(1), substituted “in fields such as” for “including the fields of” and “behavioral psychology, clinical psychology, and gerontology” for “behavioral psychology, and clinical psychology”.
+
+Subsec. (b)(5)(A). Pub. L. 118–180, § 2(b)(2), substituted “seven centers” for “five centers”.
+
+Subsec. (b)(5)(B). Pub. L. 118–180, § 2(b)(3), substituted “period not to exceed” for “period of not to exceed”.
+
+Subsec. (d). Pub. L. 118–180, § 2(c), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Director shall under subsection (a)(1) provide for means through which the public can obtain information on the existing and planned programs and activities of the National Institutes of Health with respect to autism spectrum disorder and through which the Director can receive comments from the public regarding such programs and activities.”
+
+Subsec. (e). Pub. L. 118–180, § 2(d), added subsec. (e).
+
 2019—Subsec. (a)(1). Pub. L. 116–60, § 2(1), substituted “toxicology, and interventions to maximize outcomes for individuals with autism spectrum disorder” for “and toxicology” and “Such research shall investigate the causes (including possible environmental causes), diagnosis or ruling out, early and ongoing detection, prevention, services across the lifespan, supports, intervention, and treatment of autism spectrum disorder, including dissemination and implementation of clinical care, supports, interventions, and treatments.” for “Such research shall investigate the cause (including possible environmental causes), diagnosis or rule out, early detection, prevention, services, supports, intervention, and treatment of autism spectrum disorder.”
 
 Subsec. (b)(2). Pub. L. 116–60, § 2(2)(A), substituted “causes, diagnosis, early and ongoing detection, prevention, and treatment of autism spectrum disorder across the lifespan” for “cause, diagnosis, early detection, prevention, control, and treatment of autism spectrum disorder” and “neurobiology, genetics, genomics, psychopharmacology, developmental psychology, behavioral psychology, and clinical psychology.” for “neurobiology, genetics, and psychopharmacology.”
@@ -42027,11 +42169,14 @@ Pub. L. 114–255, div. B, title VI, § 6001(b), Dec. 13, 2016, 130 Stat. 1203, 
 #### Transfer Provisions
 Pub. L. 102–321, title I, subtitle D, July 10, 1992, 106 Stat. 370, as amended by Pub. L. 102–352, § 2(b)(1), Aug. 26, 1992, 106 Stat. 939, provided that: “SEC. 141. TRANSFERS.“(a) Substance Abuse and Mental Health Services Administration.—Except as specifically provided otherwise in this Act [see Tables for classification] or an amendment made by this Act, there are transferred to the Administrator of the Substance Abuse and Mental Health Services Administration all service related functions which the Administrator of the Alcohol, Drug Abuse and Mental Health Administration, or the Director of any entity within the Alcohol, Drug Abuse and Mental Health Administration, exercised before the date of the enactment of this Act [July 10, 1992] and all related functions of any officer or employee of the Alcohol, Drug Abuse and Mental Health Administration. “(b) National Institutes.—Except as specifically provided otherwise in this Act or an amendment made by this Act, there are transferred to the appropriate Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, through the Director of the National Institutes of Health, all research related functions which the Administrator of the Alcohol, Drug Abuse and Mental Health Administration exercised before the date of the enactment of this Act and all related functions of any officer or employee of the Alcohol, Drug Abuse, and Mental Health Administration. “(c) Adequate Personnel and Resources.—The transfers required under this subtitle shall be effectuated in a manner that ensures that the Substance Abuse and Mental Health Services Administration has adequate personnel and resources to carry out its statutory responsibilities and that the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health have adequate personnel and resources to enable such institutes to carry out their respective statutory responsibilities. “SEC. 142. TRANSFER AND ALLOCATIONS OF APPROPRIATIONS AND PERSONNEL.“(a) Substance Abuse and Mental Health Services Administration.—Except as otherwise provided in the Public Health Service Act [[42 U.S.C. 201](./chapter-6a-public-health-service.md#section-201) et seq.], all personnel employed in connection with, and all assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration by this subtitle, subject to [section 1531 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1531&num=0&edition=prelim), United States Code, shall be transferred to the Substance Abuse and Mental Health Services Administration. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated. “(b) National Institutes.—Except as otherwise provided in the Public Health Service Act, all personnel employed in connection with, and all assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred to the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health by this subtitle, subject to [section 1531 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1531&num=0&edition=prelim), United States Code, shall be transferred to the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated. “(c) Custody of Balances.—The actual transfer of custody of obligation balances is not required in order to implement this section. “SEC. 143. INCIDENTAL TRANSFERS.“Prior to October 1, 1992, the Secretary of Health and Human Services is authorized to make such determinations as may be necessary with regard to the functions transferred by this subtitle, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subtitle and the Public Health Service Act [[42 U.S.C. 201](./chapter-6a-public-health-service.md#section-201) et seq.]. Such Secretary shall provide for the termination of the affairs of all entities terminated by this subtitle and for such further measures and dispositions as may be necessary to effectuate the purposes of this subtitle. “SEC. 144. EFFECT ON PERSONNEL.“(a) In General.—Except as otherwise provided by this subtitle and the Public Health Service Act [[42 U.S.C. 201](./chapter-6a-public-health-service.md#section-201) et seq.], the transfer pursuant to this subtitle of full-time personnel (except special Government employees) and part-time personnel holding permanent positions shall not cause any such employee to be separated or reduced in grade or compensation for one year after the date of transfer of such employee under this subtitle. “(b) Executive Schedule Positions.—Any person who, on the day preceding the effective date of this Act [see Effective Date of 1992 Amendment note set out under [section 236 of this title](./chapter-6a-public-health-service.md#section-236)], held a position compensated in accordance with the Executive Schedule prescribed in chapter 53 of title 5, United States Code, and who, without a break in service, is appointed in the Substance Abuse and Mental Health Services Administration to a position having duties comparable to the duties performed immediately preceding such appointment shall continue to be compensated in such new position at not less than the rate provided for such previous position, for the duration of the service of such person in such new position. “SEC. 145. SAVINGS PROVISIONS.“(a) Effect on Previous Determinations.—All orders, determinations, rules, regulations, permits, contracts, certificates, licenses, and privileges that—“(1) have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred by this subtitle; and “(2) are in effect on the date of enactment of this Act [July 10, 1992]; shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Director of the National Institutes of Health, or the Administrator of the Substance Abuse and Mental Health Services Administration, as appropriate, a court of competent jurisdiction, or by operation of law. “(b) Continuation of Proceedings.—“(1) In general.—The provisions of this subtitle shall not affect any proceedings, including notices of proposed rule making, or any application for any license, permit, certificate, or financial assistance pending on the date of enactment of this Act before the Department of Health and Human Services, which relates to the Alcohol, Drug Abuse and Mental Health Administration or the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, or the National Institute of Mental Health, or any office thereof with respect to functions transferred by this subtitle. Such proceedings or applications, to the extent that they relate to functions transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made under such orders, as if this Act [see Tables for classification] had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health by a court of competent jurisdiction, or by operation of law. Nothing in this subsection prohibits the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subtitle had not been enacted. “(2) Regulations.—The Secretary of Health and Human Services is authorized to issue regulations providing for the orderly transfer of proceedings continued under paragraph (1). “(c) Effect on Legal Actions.—Except as provided in subsection (e)—“(1) the provisions of this subtitle do not affect actions commenced prior to the date of enactment of this Act [July 10, 1992]; and “(2) in all such actions, proceedings shall be had, appeals taken, and judgments rendered in the same manner and effect as if this Act had not been enacted. “(d) No Abatement of Actions or Proceedings.—No action or other proceeding commenced by or against any officer in his official capacity as an officer of the Department of Health and Human Services with respect to functions transferred by this subtitle shall abate by reason of the enactment of this Act [see Tables for classification]. No cause of action by or against the Department of Health and Human Services with respect to functions transferred by this subtitle, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act. Causes of action and actions with respect to a function transferred by this subtitle, or other proceedings may be asserted by or against the United States or the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, as may be appropriate, and, in an action pending when this Act takes effect [see Effective Date of 1992 Amendment note set out under [section 236 of this title](./chapter-6a-public-health-service.md#section-236)], the court may at any time, on its own motion or that of any party, enter an order which will give effect to the provisions of this subsection. “(e) Substitution.—If, before the date of enactment of this Act [July 10, 1992], the Department of Health and Human Services, or any officer thereof in the official capacity of such officer, is a party to an action, and under this subtitle any function of such Department, Office, or officer is transferred to the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, then such action shall be continued with the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, as the case may be, substituted or added as a party. “(f) Judicial Review.—Orders and actions of the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health in the exercise of functions transferred to the Directors by this subtitle shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, or any office or officer thereof, in the exercise of such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this subtitle shall apply to the exercise of such function by the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors. “SEC. 146. TRANSITION.“With the consent of the Secretary of Health and Human Services, the Administrator of the Substance Abuse and Mental Health Services Administration and the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health are authorized to utilize—“(1) the services of such officers, employees, and other personnel of the Department with respect to functions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration and the Director of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health by this subtitle; and “(2) funds appropriated to such functions for such period of time as may reasonably be needed to facilitate the orderly implementation of this subtitle. “SEC. 147. PEER REVIEW.“With respect to fiscal years 1993 through 1996, the peer review systems, advisory councils and scientific advisory committees utilized, or approved for utilization, by the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health prior to the transfer of such Institutes to the National Institute of Health shall be utilized by such Institutes. “SEC. 148. MERGERS.“Notwithstanding the provisions of section 401(c)(2) of the Public Health Service Act ([42 U.S.C. 281(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section281/c/2&num=0&edition=prelim)), the Secretary of Health and Human Services may not merge the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse or the National Institute of Mental Health with any other institute or entity (or with each other) within the national research institutes for a 5-year period beginning on the date of enactment of this Act [July 10, 1992]. “SEC. 149. CONDUCT OF MULTI-YEAR RESEARCH PROJECTS.“With respect to multi-year grants awarded prior to fiscal year 1993 by the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health with amounts received under section 1911(b) [former [42 U.S.C. 300x(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300x/b&num=0&edition=prelim)], as such section existed one day prior to the date of enactment of this Act [July 10, 1992], such grants shall be continued for the entire period of the grant through the utilization of funds made available pursuant to sections 464H, 464L, and 464R [[42 U.S.C. 285n](./chapter-6a-public-health-service.md#section-285n), 285o, 285p], as appropriate, subject to satisfactory performance. “SEC. 150. SEPARABILITY.“If a provision of this subtitle or its application to any person or circumstance is held invalid, neither the remainder of this Act [see Tables for classification] nor the application of the provision to other persons or circumstances shall be affected. “SEC. 151. BUDGETARY AUTHORITY.“With respect to fiscal years 1994 and 1995, the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health shall notwithstanding section 405(a) [[42 U.S.C. 284(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section284/a&num=0&edition=prelim)], prepare and submit, directly to the President for review and transmittal to Congress, an annual budget estimate (including an estimate of the number and type of personnel needs for the Institute) for their respective Institutes, after reasonable opportunity for comment (but without change) by the Secretary of Health and Human Services, the Director of the National Institutes of Health, and the Institute’s advisory council.”
 
+#### Website Improvements
+Pub. L. 119–44, title III, § 307(c), Dec. 1, 2025, 139 Stat. 689, provided that: “The Secretary shall implement improvements to Grants.gov related to SAMHSA funding opportunities based on stakeholder feedback received at the public meeting under subsection (a) [not classified to the Code], as appropriate, to the maximum extent feasible.”
+
 #### Funding for Community-Based Funding for Local Behavioral Health Needs
 Pub. L. 117–2, title II, § 2707, Mar. 11, 2021, 135 Stat. 47, provided that: “(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary [of Health and Human Services] for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $50,000,000, to remain available until expended, to carry out the purpose described in subsection (b). “(b) Use of Funds.—“(1) In general.—The Secretary, acting through the Assistant Secretary for Mental Health and Substance Use, shall award grants to State, local, Tribal, and territorial governments, Tribal organizations, nonprofit community-based entities, and primary care and behavioral health organizations to address increased community behavioral health needs worsened by the COVID–19 public health emergency. “(2) Use of grant funds.—Grant funds awarded under this section to eligible entities shall be used for promoting care coordination among local entities; training the mental and behavioral health workforce, relevant stakeholders, and community members; expanding evidence-based integrated models of care; addressing surge capacity for mental and behavioral health needs; providing mental and behavioral health services to individuals with mental health needs (including co-occurring substance use disorders) as delivered by behavioral and mental health professionals utilizing telehealth services; and supporting, enhancing, or expanding mental and behavioral health preventive and crisis intervention services.”
 
 #### Interdepartmental Substance Use Disorders Coordinating Committee
-Pub. L. 115–271, title VII, § 7022, Oct. 24, 2018, 132 Stat. 4010, provided that: “(a) Establishment.—Not later than 3 months after the date of the enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall, in coordination with the Director of National Drug Control Policy, establish a committee, to be known as the Interdepartmental Substance Use Disorders Coordinating Committee (in this section referred to as the ‘Committee’), to coordinate Federal activities related to substance use disorders. “(b) Membership.—“(1) Federal members.—The Committee shall be composed of the following Federal representatives, or the designees of such representatives:“(A) The Secretary, who shall serve as the Chair of the Committee. “(B) The Attorney General of the United States. “(C) The Secretary of Labor. “(D) The Secretary of Housing and Urban Development. “(E) The Secretary of Education. “(F) The Secretary of Veterans Affairs. “(G) The Commissioner of Social Security. “(H) The Assistant Secretary for Mental Health and Substance Use. “(I) The Director of National Drug Control Policy. “(J) Representatives of other Federal agencies that support or conduct activities or programs related to substance use disorders, as determined appropriate by the Secretary. “(2) Non-federal members.—The Committee shall include a minimum of 15 non-Federal members appointed by the Secretary, of which—“(A) at least two such members shall be an individual who has received treatment for a diagnosis of a substance use disorder; “(B) at least two such members shall be a director of a State substance abuse agency; “(C) at least two such members shall be a representative of a leading research, advocacy, or service organization for adults with substance use disorder; “(D) at least two such members shall—“(i) be a physician, licensed mental health professional, advance practice registered nurse, or physician assistant; and “(ii) have experience in treating individuals with substance use disorders; “(E) at least one such member shall be a substance use disorder treatment professional who provides treatment services at a certified opioid treatment program; “(F) at least one such member shall be a substance use disorder treatment professional who has research or clinical experience in working with racial and ethnic minority populations; “(G) at least one such member shall be a substance use disorder treatment professional who has research or clinical mental health experience in working with medically underserved populations; “(H) at least one such member shall be a State-certified substance use disorder peer support specialist; “(I) at least one such member shall be a drug court judge or a judge with experience in adjudicating cases related to substance use disorder; “(J) at least one such member shall be a public safety officer with extensive experience in interacting with adults with a substance use disorder; and “(K) at least one such member shall be an individual with experience providing services for homeless individuals with a substance use disorder. “(c) Terms.—“(1) In general.—A member of the Committee appointed under subsection (b)(2) shall be appointed for a term of 3 years and may be reappointed for one or more 3-year terms. “(2) Vacancies.—A vacancy on the Committee shall be filled in the same manner in which the original appointment was made. Any individual appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term and may serve after the expiration of such term until a successor has been appointed. “(d) Meetings.—The Committee shall meet not fewer than two times each year. “(e) Duties.—The Committee shall—“(1) identify areas for improved coordination of activities, if any, related to substance use disorders, including research, services, supports, and prevention activities across all relevant Federal agencies; “(2) identify and provide to the Secretary recommendations for improving Federal programs for the prevention and treatment of, and recovery from, substance use disorders, including by expanding access to prevention, treatment, and recovery services; “(3) analyze substance use disorder prevention and treatment strategies in different regions of and populations in the United States and evaluate the extent to which Federal substance use disorder prevention and treatment strategies are aligned with State and local substance use disorder prevention and treatment strategies; “(4) make recommendations to the Secretary regarding any appropriate changes with respect to the activities and strategies described in paragraphs (1) through (3); “(5) make recommendations to the Secretary regarding public participation in decisions relating to substance use disorders and the process by which public feedback can be better integrated into such decisions; and “(6) make recommendations to ensure that substance use disorder research, services, supports, and prevention activities of the Department of Health and Human Services and other Federal agencies are not unnecessarily duplicative. “(f) Annual Report.—Not later than 1 year after the date of the enactment of this Act [Oct. 24, 2018], and annually thereafter for the life of the Committee, the Committee shall publish on the Internet website of the Department of Health and Human Services, which may include the public information dashboard established under section 1711 of the Public Health Service Act [[42 U.S.C. 300u–16](./chapter-6a-public-health-service.md#section-300u-16)], as added by section 7021, a report summarizing the activities carried out by the Committee pursuant to subsection (e), including any findings resulting from such activities. “(g) Working Groups.—The Committee may establish working groups for purposes of carrying out the duties described in subsection (e). Any such working group shall be composed of members of the Committee (or the designees of such members) and may hold such meetings as are necessary to enable the working group to carry out the duties delegated to the working group. “(h) Federal Advisory Committee Act.—The Federal Advisory Committee Act ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.] shall apply to the Committee only to the extent that the provisions of such Act do not conflict with the requirements of this section. “(i) Sunset.—The Committee shall terminate on the date that is 6 years after the date on which the Committee is established under subsection (a).”
+Pub. L. 115–271, title VII, § 7022, Oct. 24, 2018, 132 Stat. 4010, as amended by Pub. L. 119–44, title I, § 110(b), Dec. 1, 2025, 139 Stat. 677, provided that: “(a) Establishment.—Not later than 3 months after the date of the enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall, in coordination with the Director of National Drug Control Policy, establish a committee, to be known as the Interdepartmental Substance Use Disorders Coordinating Committee (in this section referred to as the ‘Committee’), to coordinate Federal activities related to substance use disorders. “(b) Membership.—“(1) Federal members.—The Committee shall be composed of the following Federal representatives, or the designees of such representatives:“(A) The Secretary, who shall serve as the Chair of the Committee. “(B) The Attorney General of the United States. “(C) The Secretary of Labor. “(D) The Secretary of Housing and Urban Development. “(E) The Secretary of Education. “(F) The Secretary of Veterans Affairs. “(G) The Commissioner of Social Security. “(H) The Assistant Secretary for Mental Health and Substance Use. “(I) The Director of National Drug Control Policy. “(J) Representatives of other Federal agencies that support or conduct activities or programs related to substance use disorders, as determined appropriate by the Secretary. “(2) Non-federal members.—The Committee shall include a minimum of 15 non-Federal members appointed by the Secretary, of which—“(A) at least two such members shall be an individual who has received treatment for a diagnosis of a substance use disorder; “(B) at least two such members shall be a director of a State substance abuse agency; “(C) at least two such members shall be a representative of a leading research, advocacy, or service organization for adults with substance use disorder; “(D) at least two such members shall—“(i) be a physician, licensed mental health professional, advance practice registered nurse, or physician assistant; and “(ii) have experience in treating individuals with substance use disorders; “(E) at least one such member shall be a substance use disorder treatment professional who provides treatment services at a certified opioid treatment program; “(F) at least one such member shall be a substance use disorder treatment professional who has research or clinical experience in working with racial and ethnic minority populations; “(G) at least one such member shall be a substance use disorder treatment professional who has research or clinical mental health experience in working with medically underserved populations; “(H) at least one such member shall be a State-certified substance use disorder peer support specialist; “(I) at least one such member shall be a drug court judge or a judge with experience in adjudicating cases related to substance use disorder; “(J) at least one such member shall be a public safety officer with extensive experience in interacting with adults with a substance use disorder; and “(K) at least one such member shall be an individual with experience providing services for homeless individuals with a substance use disorder. “(c) Terms.—“(1) In general.—A member of the Committee appointed under subsection (b)(2) shall be appointed for a term of 3 years and may be reappointed for one or more 3-year terms. “(2) Vacancies.—A vacancy on the Committee shall be filled in the same manner in which the original appointment was made. Any individual appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term and may serve after the expiration of such term until a successor has been appointed. “(d) Meetings.—The Committee shall meet not fewer than two times each year. “(e) Duties.—The Committee shall—“(1) identify areas for improved coordination of activities, if any, related to substance use disorders, including research, services, supports, and prevention activities across all relevant Federal agencies; “(2) identify and provide to the Secretary recommendations for improving Federal programs for the prevention and treatment of, and recovery from, substance use disorders, including by expanding access to prevention, treatment, and recovery services; “(3) analyze substance use disorder prevention and treatment strategies in different regions of and populations in the United States and evaluate the extent to which Federal substance use disorder prevention and treatment strategies are aligned with State and local substance use disorder prevention and treatment strategies; “(4) make recommendations to the Secretary regarding any appropriate changes with respect to the activities and strategies described in paragraphs (1) through (3); “(5) make recommendations to the Secretary regarding public participation in decisions relating to substance use disorders and the process by which public feedback can be better integrated into such decisions; and “(6) make recommendations to ensure that substance use disorder research, services, supports, and prevention activities of the Department of Health and Human Services and other Federal agencies are not unnecessarily duplicative. “(f) Annual Report.—Not later than 1 year after the date of the enactment of this Act [Oct. 24, 2018], and annually thereafter for the life of the Committee, the Committee shall publish on the Internet website of the Department of Health and Human Services, which may include the public information dashboard established under section 1711 of the Public Health Service Act [[42 U.S.C. 300u–16](./chapter-6a-public-health-service.md#section-300u-16)], as added by section 7021, a report summarizing the activities carried out by the Committee pursuant to subsection (e), including any findings resulting from such activities. “(g) Working Groups.—“(1) In general.—The Committee may establish working groups for purposes of carrying out the duties described in subsection (e). Any such working group shall be composed of members of the Committee (or the designees of such members) and may hold such meetings as are necessary to carry out the duties delegated to the working group. “(2) Additional federal interagency work group on fentanyl contamination of illegal drugs.—“(A) Establishment.—The Secretary, acting through the Committee, shall establish a Federal Interagency Work Group on Fentanyl Contamination of Illegal Drugs (referred to in this paragraph as the ‘Work Group’) consisting of representatives from relevant Federal departments and agencies on the Committee. “(B) Consultation.—The Work Group shall consult with relevant stakeholders and subject matter experts, including—“(i) State, Tribal, and local subject matter experts in reducing, preventing, and responding to drug overdose caused by fentanyl contamination of illicit drugs; and “(ii) family members of both adults and youth who have overdosed by fentanyl contaminated illicit drugs. “(C) Duties.—The Work Group shall—“(i) examine Federal efforts to reduce and prevent drug overdose by fentanyl-contaminated illicit drugs; “(ii) identify strategies to improve State, Tribal, and local responses to overdose by fentanyl-contaminated illicit drugs; “(iii) coordinate with the Secretary, as appropriate, in carrying out activities to raise public awareness of synthetic opioids and other emerging drug use and misuse issues; “(iv) make recommendations to Congress for improving Federal programs, including with respect to the coordination of efforts across such programs; and “(v) make recommendations for educating youth on the potency and dangers of drugs contaminated by fentanyl. “(D) Annual report to secretary.—The Work Group shall annually prepare and submit to the Secretary, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce and the Committee on Education and Workforce of the House of Representatives, a report on the activities carried out by the Work Group under subparagraph (C), including recommendations to reduce and prevent drug overdose by fentanyl contamination of illegal drugs, in all populations, and specifically among youth at risk for substance misuse. “(h) Federal Advisory Committee Act.—The Federal Advisory Committee Act ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.] shall apply to the Committee only to the extent that the provisions of such Act do not conflict with the requirements of this section. “(i) Sunset.—The Committee shall terminate on September 30, 2030.”
 
 #### Improving Oversight of Mental and Substance Use Disorders Programs Through the Assistant Secretary for Planning and Evaluation
 Pub. L. 114–255, div. B, title VI, § 6021, Dec. 13, 2016, 130 Stat. 1215, provided that: “(a) In General.—The Secretary of Health and Human Services, acting through the Assistant Secretary for Planning and Evaluation, shall ensure efficient and effective planning and evaluation of mental and substance use disorders prevention and treatment programs and related activities. “(b) Evaluation Strategy.—In carrying out subsection (a), the Assistant Secretary for Planning and Evaluation shall, not later than 180 days after the date of enactment of this Act [Dec. 13, 2016], develop a strategy for conducting ongoing evaluations that identifies priority programs to be evaluated by the Assistant Secretary for Planning and Evaluation and priority programs to be evaluated by other relevant offices and agencies within the Department of Health and Human Services. The strategy shall—“(1) include a plan for evaluating programs related to mental and substance use disorders, including co-occurring disorders, across agencies, as appropriate, including programs related to—“(A) prevention, intervention, treatment, and recovery support services, including such services for adults with a serious mental illness or children with a serious emotional disturbance; “(B) the reduction of homelessness and incarceration among individuals with a mental or substance use disorder; and “(C) public health and health services; and “(2) include a plan for assessing the use of performance metrics to evaluate activities carried out by entities receiving grants, contracts, or cooperative agreements related to mental and substance use disorders prevention and treatment services under title V or title XIX of the Public Health Service Act ([42 U.S.C. 290aa](./chapter-6a-public-health-service.md#section-290aa) et seq.; [42 U.S.C. 300w](./chapter-6a-public-health-service.md#section-300w) et seq.). “(c) Consultation.—In carrying out this section, the Assistant Secretary for Planning and Evaluation shall consult, as appropriate, with the Assistant Secretary for Mental Health and Substance Use, the Chief Medical Officer of the Substance Abuse and Mental Health Services Administration appointed under section 501(g) of the Public Health Service Act ([42 U.S.C. 290aa(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290aa/g&num=0&edition=prelim)), as amended by section 6003, the Behavioral Health Coordinating Council of the Department of Health and Human Services, other agencies within the Department of Health and Human Services, and other relevant Federal departments and agencies. “(d) Recommendations.—In carrying out this section, the Assistant Secretary for Planning and Evaluation shall provide recommendations to the Secretary of Health and Human Services, the Assistant Secretary for Mental Health and Substance Use, and the Congress on improving the quality of prevention and treatment programs and activities related to mental and substance use disorders, including recommendations for the use of performance metrics. The Assistant Secretary for Mental Health and Substance Use shall include such recommendations in the biennial report required by subsection 501(m) of the Public Health Service Act [[42 U.S.C. 290aa(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290aa/m&num=0&edition=prelim)], as redesignated by section 6003 of this Act.”
@@ -43592,7 +43737,7 @@ Section effective Oct. 1, 1992, with provision for programs providing financial 
 
   (B) in the case of the services that are appropriate, ensuring that the services are provided in a coordinated manner;
 
-  (C) assistance in establishing eligibility for assistance under Federal, State, and local programs providing health services, mental health services, housing services, employment services, educational services, or social services; and
+  (C) assistance in establishing eligibility for assistance under Federal, State, and local programs providing health care services, mental health services, housing services, employment services, educational services, or social services; and
 
   (D) family reunification with children in kinship or foster care arrangements, where safe and appropriate.
 
@@ -43634,7 +43779,7 @@ Section effective Oct. 1, 1992, with provision for programs providing financial 
 
 (2) **Determination of amount contributed** — Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
-**(g) Outreach** A funding agreement for an award under subsection (a) for an applicant is that the applicant will provide outreach services in the community involved to identify women who have a substance use disorder and to encourage the women to undergo treatment for such disorder.
+**(g) Outreach** A funding agreement for an award under subsection (a) for an applicant is that the applicant will provide a plan describing outreach services in the community involved to identify women who have a substance use disorder and to encourage the women to undergo treatment for such disorder. Such plan may include a description of how such applicant will target outreach to women disproportionately impacted by maternal substance use disorder.
 
 **(h) Accessibility of program; cultural context of services** A funding agreement for an award under subsection (a) for an applicant is that—
 
@@ -43736,7 +43881,7 @@ Section effective Oct. 1, 1992, with provision for programs providing financial 
 
 (5) **State substance abuse agencies defined** — For purposes of this subsection, the term “State substance abuse agency” means, with respect to a State, the agency in such State that manages the Substance Abuse Prevention and Treatment Block Grant under part B of subchapter XVII.
 
-**(s) Authorization of appropriations** For the purpose of carrying out this section, there are authorized to be appropriated $29,931,000 for each of fiscal years 2019 through 2023. Of the amounts made available for a year pursuant to the previous sentence to carry out this section, not more than 25 percent of such amounts shall be made available for such year to carry out subsection (r), other than paragraph (5) of such subsection. Notwithstanding the preceding sentence, no funds shall be made available to carry out subsection (r) for a fiscal year unless the amount made available to carry out this section for such fiscal year is more than the amount made available to carry out this section for fiscal year 2016.
+**(s) Authorization of appropriations** For the purpose of carrying out this section, there are authorized to be appropriated $38,931,000 for each of fiscal years 2026 through 2030. Of the amounts made available for a year pursuant to the previous sentence to carry out this section, not more than 25 percent of such amounts shall be made available for such year to carry out subsection (r), other than paragraph (5) of such subsection. Notwithstanding the preceding sentence, no funds shall be made available to carry out subsection (r) for a fiscal year unless the amount made available to carry out this section for such fiscal year is more than the amount made available to carry out this section for fiscal year 2016.
 
 ### Statutory Notes
 
@@ -43749,6 +43894,12 @@ A prior section 290bb–1, act July 1, 1944, ch. 373, title V, § 511, formerly 
 A prior section 508 of act July 1, 1944, which was classified to [section 290aa–6 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290aa–6&num=0&edition=prelim), was renumbered section 515 of act July 1, 1944, by Pub. L. 102–321 and transferred to [section 290bb–21 of this title](./chapter-6a-public-health-service.md#section-290bb-21).
 
 #### Amendments
+2025—Subsec. (d)(11)(C). Pub. L. 119–44, § 201(1), substituted “providing health care services” for “providing health services”.
+
+Subsec. (g). Pub. L. 119–44, § 201(2), inserted “a plan describing” after “will provide” and “Such plan may include a description of how such applicant will target outreach to women disproportionately impacted by maternal substance use disorder.” at end.
+
+Subsec. (s). Pub. L. 119–44, § 201(3), substituted “$38,931,000 for each of fiscal years 2026 through 2030” for “$29,931,000 for each of fiscal years 2019 through 2023”.
+
 2022—Subsec. (r)(4). Pub. L. 117–328, § 1114(1), (2), redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “The pilot program under this subsection shall not exceed 5 years.”
 
 Subsec. (r)(4)(B). Pub. L. 117–328, § 1114(3), in introductory provisions, substituted “Not later than September 30, 2026, the Director” for “The Director” and “the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives” for “the relevant committees of jurisdiction of the House of Representatives and the Senate”.
@@ -45801,11 +45952,11 @@ Pub. L. 106–386, div. B, title VI, § 1602, Oct. 28, 2000, 114 Stat. 1538, pro
 
 Subsec. (b)(1). Pub. L. 117–328, § 1423(2)(A), substituted “mental health and substance use disorders and promote resiliency” for “mental and substance use disorders”.
 
-Subsec. (b)(4). Pub. L. 117–328, § 1423(2)(B), substituted “mental health and substance use disorder resources and services.” for “mental and substance use disorder services.”.
+Subsec. (b)(4). Pub. L. 117–328, § 1423(2)(B), substituted “mental health and substance use disorder resources and services.” for “mental and substance use disorder services.”
 
 Subsec. (b)(5). Pub. L. 117–328, § 1423(2)(C), substituted “mental health and substance use” for “mental and substance use”.
 
-Subsec. (b)(6). Pub. L. 117–328, § 1423(2)(D), substituted “staff to recognize and respond effectively and appropriately to students experiencing mental health and substance use disorders.” for “staff to respond effectively to students with mental and substance use disorders.”.
+Subsec. (b)(6). Pub. L. 117–328, § 1423(2)(D), substituted “staff to recognize and respond effectively and appropriately to students experiencing mental health and substance use disorders.” for “staff to respond effectively to students with mental and substance use disorders.”
 
 Subsec. (b)(7). Pub. L. 117–328, § 1423(2)(E), substituted “mental health and substance use” for “mental and substance use”.
 
@@ -45815,7 +45966,7 @@ Subsec. (b)(9). Pub. L. 117–328, § 1423(2)(G), substituted “to improve the 
 
 Subsec. (b)(10). Pub. L. 117–328, § 1423(2)(H), substituted “mental and behavioral health disorders,” for “mental and behavioral disorders,”.
 
-Subsec. (b)(12). Pub. L. 117–328, § 1423(2)(I), substituted “best practices, and trauma-informed practices.” for “best practices.”.
+Subsec. (b)(12). Pub. L. 117–328, § 1423(2)(I), substituted “best practices, and trauma-informed practices.” for “best practices.”
 
 Subsec. (d)(1). Pub. L. 117–328, § 1423(3)(A), substituted “mental health and substance use” for “mental and substance use”.
 
@@ -45881,9 +46032,11 @@ Pub. L. 114–255, div. B, title IX, § 9032, Dec. 13, 2016, 130 Stat. 1259, pro
 
 (3) consulting with the Secretary of Veterans Affairs to ensure that veterans calling the suicide prevention hotline have access to a specialized veterans’ suicide prevention hotline;
 
-(4) improving awareness of the program for suicide prevention and mental health crisis intervention services, including by conducting an awareness initiative and ongoing outreach to the public; and
+(4) improving awareness of the program for suicide prevention and mental health crisis intervention services, including by conducting an awareness initiative and ongoing outreach to the public;
 
-(5) improving the collection and analysis of demographic information, in a manner that protects personal privacy, consistent with applicable Federal and State privacy laws, in order to understand disparities in access to the program among individuals who are seeking help.
+(5) improving the collection and analysis of demographic information, in a manner that protects personal privacy, consistent with applicable Federal and State privacy laws, in order to understand disparities in access to the program among individuals who are seeking help; and
+
+(6) taking such steps as may be necessary to ensure the suicide prevention hotline is protected from cybersecurity incidents and eliminates known cybersecurity vulnerabilities.
 
 **(c) Plan**
 
@@ -45915,11 +46068,43 @@ Pub. L. 114–255, div. B, title IX, § 9032, Dec. 13, 2016, 130 Stat. 1259, pro
 
 **(e) Data to assist State and local suicide prevention activities** The Secretary shall ensure that the aggregated information collected and any applicable analyses conducted under subsection (b)(5), including from local call centers, as applicable, are made available in a usable format to State and local agencies in order to inform suicide prevention activities.
 
-**(f) Authorization of appropriations** To carry out this section, there are authorized to be appropriated $101,621,000 for each of fiscal years 2023 through 2027.
+**(f) Cybersecurity reporting**
+
+(1) **Notification**
+
+  (A) *In general* — The program’s network administrator receiving Federal funding pursuant to subsection (a) shall report to the Assistant Secretary, in a manner that protects personal privacy, consistent with applicable Federal and State privacy laws—
+
+    (i) any identified cybersecurity vulnerabilities to the program within a reasonable amount of time after identification of such a vulnerability; and
+
+    (ii) any identified cybersecurity incidents to the program within a reasonable amount of time after identification of such incident.
+
+  (B) *Local and regional crisis centers* — Local and regional crisis centers participating in the program shall report to the program’s network administrator identified under subparagraph (A), in a manner that protects personal privacy, consistent with applicable Federal and State privacy laws—
+
+    (i) any identified cybersecurity vulnerabilities to the program within a reasonable amount of time after identification of such vulnerability; and
+
+    (ii) any identified cybersecurity incidents to the program within a reasonable amount of time after identification of such incident.
+
+(2) **Notification** — If the program’s network administrator receiving funding pursuant to subsection (a) discovers, or is informed by a local or regional crisis center pursuant to paragraph (1)(B) of, a cybersecurity vulnerability or incident, within a reasonable amount of time after such discovery or receipt of information, such entity shall report the vulnerability or incident to the Assistant Secretary.
+
+(3) **Clarification**
+
+  (A) *Oversight*
+
+    (i) *Local and regional crisis centers* — Except as provided in clause (ii), local and regional crisis centers participating in the program shall oversee all technology each center employs in the provision of services as a participant in the program.
+
+    (ii) *Network administrator* — The program’s network administrator receiving Federal funding pursuant to subsection (a) shall oversee the technology each crisis center employs in the provision of services as a participant in the program if such oversight responsibilities are established in the applicable network participation agreement.
+
+  (B) *Supplement, not supplant* — The cybersecurity incident reporting requirements under this subsection shall supplement, and not supplant, cybersecurity incident reporting requirements under other provisions of applicable Federal law that are in effect on December 1, 2025.
+
+**(g) Authorization of appropriations** To carry out this section, there are authorized to be appropriated $101,621,000 for each of fiscal years 2023 through 2027.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b)(6). Pub. L. 119–44, § 108(a), added par. (6).
+
+Subsecs. (f), (g). Pub. L. 119–44, § 108(b), added subsec. (f) and redesignated former subsec. (f) as (g).
+
 2022—Subsec. (b)(1). Pub. L. 117–328, § 1103(a)(1)(A), inserted “supporting and” before “coordinating” and substituted “mental health crisis intervention services, including appropriate follow-up services,” for “crisis intervention services”.
 
 Subsec. (b)(4), (5). Pub. L. 117–328, § 1103(a)(1)(B)–(D), added pars. (4) and (5).
@@ -45957,9 +46142,14 @@ Pub. L. 117–328, div. FF, title I, § 1103(b), (e), Dec. 29, 2022, 136 Stat. 5
 ### Statutory Notes
 
 #### Amendments
-2022—Subsec. (c). Pub. L. 117–328, which directed substitution of “information on any practitioner who prescribes narcotic drugs in schedule III, IV, or V of [section 812 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812&num=0&edition=prelim) for the purpose of maintenance or detoxification treatment” for “information on any qualified practitioner that is certified to prescribe medication for opioid dependency under [section 823(g)(2)(B) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2/B&num=0&edition=prelim)”, was executed in introductory provisions by making the substitution for “information on any qualified practitioner that is certified to prescribe medication for opioid dependency under [section 823(h)(2)(B) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/2/B&num=0&edition=prelim)”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–215. See Amendment note below.
+2025—Subsec. (c). Pub. L. 119–26, § 4(2)(B)(iv), amended Pub. L. 117–328, § 1262(b)(3). See 2022 Amendment note below.
+
+2022—Subsec. (c). Pub. L. 117–328, § 1262(b)(3), as amended by Pub. L. 119–26, § 4(2)(B)(iv), substituted “information on any practitioner who prescribes narcotic drugs in schedule III, IV, or V of [section 812 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812&num=0&edition=prelim) for the purpose of maintenance or detoxification treatment” for “information on any qualified practitioner that is certified to prescribe medication for opioid dependency under [section 823(h)(2)(B) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/2/B&num=0&edition=prelim)” in introductory provisions.
 
 Pub. L. 117–215 substituted “823(h)(2)(B)” for “823(g)(2)(B)” in introductory provisions.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–26, § 4, July 16, 2025, 139 Stat. 416, provided that the amendment made by section 4(2)(B)(iv) is effective as if included in the enactment of Pub. L. 117–328.
 
 
 <a id="section-290bb-37"></a>
@@ -46717,7 +46907,7 @@ Subsec. (f). Pub. L. 114–255, § 10003(4), substituted “$29,605,000 for each
 
   (A) *Eligible entity* — The term “eligible entity” means—
 
-    (i) a local educational agency that is seeking to establish or expand substance use prevention or recovery support services at one or more high schools;
+    (i) a local educational agency, or a consortium of local educational agencies, that is seeking to establish or expand substance use prevention or recovery support services at one or more secondary schools;
 
     (ii) a State educational agency;
 
@@ -46727,7 +46917,7 @@ Subsec. (f). Pub. L. 114–255, § 10003(4), substituted “$29,605,000 for each
 
     (v) a nonprofit organization with appropriate expertise in providing services or programs for children, adolescents, or young adults, excluding a school;
 
-    (vi) a State, political subdivision of a State, Indian tribe, or tribal organization; or
+    (vi) a State, political subdivision of a State, Indian Tribe, or Tribal organization; or
 
     (vii) a high school or dormitory serving high school students that receives funding from the Bureau of Indian Education.
 
@@ -46737,7 +46927,7 @@ Subsec. (f). Pub. L. 114–255, § 10003(4), substituted “$29,605,000 for each
 
   (D) *Homeless youth* — The term “homeless youth” has the meaning given the term “homeless children or youths” in [section 11434a of this title](./chapter-119-homeless-assistance.md#section-11434a).
 
-  (E) *Indian tribe; tribal organization* — The terms “Indian tribe” and “tribal organization” have the meanings given such terms in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+  (E) *Indian Tribe; Tribal organization* — The terms “Indian Tribe” and “Tribal organization” have the meanings given such terms in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
   (F) *Institution of higher education* — The term “institution of higher education” has the meaning given such term in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and includes a “postsecondary vocational institution” as defined in section 1002(c) of such title.
 
@@ -46753,13 +46943,15 @@ Subsec. (f). Pub. L. 114–255, § 10003(4), substituted “$29,605,000 for each
 
     (ii) that includes peer-to-peer support delivered by individuals with lived experience in recovery, and communal activities to build recovery skills and supportive social networks.
 
-  (K) *State educational agency* — The term “State educational agency” has the meaning given such term in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+  (K) *Secondary school* — The term “secondary school” has the meaning given such term in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
+  (L) *State educational agency* — The term “State educational agency” has the meaning given such term in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
 
 (3) **Best practices** — The Secretary, in consultation with the Secretary of Education, shall—
 
-  (A) identify or facilitate the development of evidence-based best practices for prevention of substance misuse and abuse by children, adolescents, and young adults, including for specific populations such as youth in foster care, homeless youth, out-of-school youth, and youth who are at risk of or have experienced trafficking that address—
+  (A) identify or facilitate the development of evidence-based best practices for prevention of substance misuse by children, adolescents, and young adults, including for specific populations at increased risk for substance misuse such as youth in foster care, homeless youth, out-of-school youth, and youth who are at risk of or have experienced trafficking that address—
 
-    (i) primary prevention;
+    (i) primary prevention, which may include strategies to increase education and awareness of the potency and dangers of synthetic opioids (including drugs contaminated with fentanyl) and, as appropriate, other emerging drug use or misuse issues;
 
     (ii) appropriate recovery support services;
 
@@ -46773,15 +46965,15 @@ Subsec. (f). Pub. L. 114–255, § 10003(4), substituted “$29,605,000 for each
 
   (D) provide technical assistance for grantees under this subsection.
 
-(4) **Grants authorized** — The Secretary, in consultation with the Secretary of Education, shall award 3-year grants, on a competitive basis, to eligible entities to enable such entities, in coordination with Indian tribes, if applicable, and State agencies responsible for carrying out substance use disorder prevention and treatment programs, to carry out evidence-based programs for—
+(4) **Grants authorized** — The Secretary, in consultation with the Secretary of Education, shall award 3-year grants, on a competitive basis, to eligible entities to enable such entities, in coordination with Indian Tribes, if applicable, and State agencies responsible for carrying out substance use disorder prevention and treatment programs, to carry out evidence-based programs for—
 
-  (A) prevention of substance misuse and abuse by children, adolescents, and young adults, which may include primary prevention;
+  (A) prevention of substance misuse by children, adolescents, and young adults, which may include primary prevention and strategies to increase education and awareness of the potency and dangers of synthetic opioids (including drugs contaminated with fentanyl) and, as appropriate, emerging drug use or misuse issues;
 
-  (B) recovery support services for children, adolescents, and young adults, which may include counseling, job training, linkages to community-based services, family support groups, peer mentoring, and recovery coaching; or
+  (B) recovery support services for children, adolescents, and young adults, which may include counseling, job training, linkages to community-based services, family support groups, peer-to-peer support, and recovery coaching; or
 
   (C) treatment or referrals for treatment of substance use disorders, which may include the use of medication-assisted treatment, as appropriate.
 
-(5) **Special consideration** — In awarding grants under this subsection, the Secretary shall give special consideration to the unique needs of tribal, urban, suburban, and rural populations.
+(5) **Special consideration** — In awarding grants under this subsection, the Secretary shall give special consideration to the unique needs of Tribal, urban, suburban, and rural populations.
 
 (6) **Application** — To be eligible for a grant under this subsection, an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require. Such application shall include—
 
@@ -46793,9 +46985,11 @@ Subsec. (f). Pub. L. 114–255, § 10003(4), substituted “$29,605,000 for each
 
     (iii) the goals of the proposed project, including the intended outcomes;
 
-    (iv) how the eligible entity plans to use grant funds for evidence-based activities, in accordance with this subsection to prevent, provide recovery support for, or treat substance use disorders amongst such individuals, or a combination of such activities; and
+    (iv) how the eligible entity plans to use grant funds for evidence-based activities, in accordance with this subsection to prevent, provide recovery support for, or treat substance use disorders amongst such individuals, or a combination of such activities;
 
     (v) how the eligible entity will collaborate with relevant partners, which may include State educational agencies, local educational agencies, institutions of higher education, juvenile justice agencies, prevention and recovery support providers, local service providers, including substance use disorder treatment programs, providers of mental health services, youth serving organizations, family and youth homeless providers, child welfare agencies, and primary care providers, in carrying out the grant program; and
+
+    (vi) a plan to sustain the activities carried out under the grant program, after the grant program has ended; and
 
   (B) an assurance that the eligible entity will participate in the evaluation described in paragraph (3)(C).
 
@@ -46811,9 +47005,19 @@ Subsec. (f). Pub. L. 114–255, § 10003(4), substituted “$29,605,000 for each
 
     (iii) other indicators, as the Secretary determines appropriate.
 
-(8) **Report to Congress** — The Secretary shall, not later than October 1, 2022, submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce and the Committee on Education and the Workforce of the House of Representatives a report summarizing the effectiveness of the grant program under this subsection, based on the information submitted in reports required under paragraph (7).
+(8) **Report to Congress** — The Secretary shall, not later than October 1, 2028, submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce and the Committee on Education and the Workforce of the House of Representatives a report summarizing the effectiveness of the grant program under this subsection, based on the information submitted in reports required under paragraph (7).
 
-(9) **Authorization of appropriations** — There is authorized to be appropriated $10,000,000 to carry out this subsection for each of fiscal years 2019 through 2023.
+(9) **Authorization of appropriations** — To carry out this subsection, there are authorized to be appropriated—
+
+  (A) $10,000,000 for fiscal year 2026;
+
+  (B) $12,000,000 for fiscal year 2027;
+
+  (C) $13,000,000 for fiscal year 2028;
+
+  (D) $14,000,000 for fiscal year 2029; and
+
+  (E) $15,000,000 for fiscal year 2030.
 
 ### Statutory Notes
 
@@ -46821,6 +47025,35 @@ Subsec. (f). Pub. L. 114–255, § 10003(4), substituted “$29,605,000 for each
 Section is comprised of section 7102 of Pub. L. 115–271. Subsec. (a) of section 7102 of Pub. L. 115–271 amended [section 290bb–7 of this title](./chapter-6a-public-health-service.md#section-290bb-7).
 
 Section was enacted as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Amendments
+2025—Subsec. (c)(2)(A)(i). Pub. L. 119–44, § 304(1)(A)(i), inserted “, or a consortium of local educational agencies,” after “a local educational agency” and substituted “secondary schools” for “high schools”.
+
+Subsec. (c)(2)(A)(vi). Pub. L. 119–44, § 304(1)(A)(ii), substituted “Tribe, or Tribal” for “tribe, or tribal”.
+
+Subsec. (c)(2)(E). Pub. L. 119–44, § 304(1)(B), amended subpar. (E) generally. Prior to amendment, text read as follows: “The terms ‘Indian tribe’ and ‘tribal organization’ have the meanings given such terms in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).”
+
+Subsec. (c)(2)(K), (L). Pub. L. 119–44, § 304(1)(C), (D), added subpar. (K) and redesignated former subpar. (K) as (L).
+
+Subsec. (c)(3)(A). Pub. L. 119–44, § 304(2), in introductory provisions, struck out “and abuse” before “by children,” and inserted “at increased risk for substance misuse” after “specific populations”.
+
+Subsec. (c)(3)(A)(i). Pub. L. 119–44, § 110(a)(1), inserted “, which may include strategies to increase education and awareness of the potency and dangers of synthetic opioids (including drugs contaminated with fentanyl) and, as appropriate, other emerging drug use or misuse issues” before semicolon at end.
+
+Subsec. (c)(4). Pub. L. 119–44, § 304(3)(A), substituted “Indian Tribes” for “Indian tribes” in introductory provisions.
+
+Subsec. (c)(4)(A). Pub. L. 119–44, § 304(3)(B), struck out “and abuse” before “by children,”.
+
+Pub. L. 119–44, § 110(a)(2), inserted “and strategies to increase education and awareness of the potency and dangers of synthetic opioids (including drugs contaminated with fentanyl) and, as appropriate, emerging drug use or misuse issues” before semicolon at end.
+
+Subsec. (c)(4)(B). Pub. L. 119–44, § 304(3)(C), substituted “peer-to-peer support” for “peer mentoring”.
+
+Subsec. (c)(5). Pub. L. 119–44, § 304(4), substituted “Tribal” for “tribal”.
+
+Subsec. (c)(6)(A)(vi). Pub. L. 119–44, § 304(5), added cl. (vi).
+
+Subsec. (c)(8). Pub. L. 119–44, § 304(6), substituted “2028” for “2022”.
+
+Subsec. (c)(9). Pub. L. 119–44, § 304(7), amended par. (9) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated $10,000,000 to carry out this subsection for each of fiscal years 2019 through 2023.”
 
 
 <a id="section-290bb-8-290bb-9"></a>
@@ -47387,7 +47620,7 @@ Amendment by Pub. L. 100–607 effective Nov. 4, 1988, see section 831 of Pub. L
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b)(7)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVI of the Act is classified generally to subchapter XVI (§ 1381 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (b)(7)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVI of the Act is classified generally to subchapter XVI (§ 1381 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -47710,11 +47943,11 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 ### Statutory Notes
 
 #### References in Text
-The Age Discrimination Act of 1975, referred to in subsecs. (a)(1) and (b)(1)(B), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) and Tables.
+The Age Discrimination Act of 1975, referred to in subsecs. (a)(1) and (b)(1)(B), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) and Tables.
 
-The Education Amendments of 1972, referred to in subsecs. (a)(1) and (b)(1)(B), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) and Tables.
+The Education Amendments of 1972, referred to in subsecs. (a)(1) and (b)(1)(B), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) and Tables.
 
-The Civil Rights Act of 1964, referred to in subsecs. (a)(1) and (b)(1)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (a)(1) and (b)(1)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 #### Amendments
 1990—Pub. L. 101–645 amended section generally, substituting provisions relating to nondiscrimination for provision relating to establishment of prohibition against making certain false statements.
@@ -48059,7 +48292,7 @@ Pub. L. 116–136, div. A, title III, § 3221(i), Mar. 27, 2020, 134 Stat. 378, 
 Pub. L. 116–136, div. A, title III, § 3221(j), Mar. 27, 2020, 134 Stat. 379, provided that: “Nothing in this Act [div. A of Pub. L. 116–136, see Tables for Classification] or the amendments made by this Act shall be construed to limit— “(1) a patient’s right, as described in section 164.522 of title 45, Code of Federal Regulations, or any successor regulation, to request a restriction on the use or disclosure of a record referred to in section 543(a) of the Public Health Service Act ([42 U.S.C. 290dd–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290dd–2/a&num=0&edition=prelim)) for purposes of treatment, payment, or health care operations; or “(2) a covered entity’s choice, as described in section 164.506 of title 45, Code of Federal Regulations, or any successor regulation, to obtain the consent of the individual to use or disclose a record referred to in such section 543(a) to carry out treatment, payment, or health care operation.”
 
 #### Jessie’s Law
-Pub. L. 115–271, title VII, §§ 7051–7053, Oct. 24, 2018, 132 Stat. 4017, 4018, provided that: “SEC. 7051. INCLUSION OF OPIOID ADDICTION HISTORY IN PATIENT RECORDS.“(a) Best Practices.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’), in consultation with appropriate stakeholders, including a patient with a history of opioid use disorder, an expert in electronic health records, an expert in the confidentiality of patient health information and records, and a health care provider, shall identify or facilitate the development of best practices regarding—“(A) the circumstances under which information that a patient has provided to a health care provider regarding such patient’s history of opioid use disorder should, only at the patient’s request, be prominently displayed in the medical records (including electronic health records) of such patient; “(B) what constitutes the patient’s request for the purpose described in subparagraph (A); and “(C) the process and methods by which the information should be so displayed. “(2) Dissemination.—The Secretary shall disseminate the best practices developed under paragraph (1) to health care providers and State agencies. “(b) Requirements.—In identifying or facilitating the development of best practices under subsection (a), as applicable, the Secretary, in consultation with appropriate stakeholders, shall consider the following:“(1) The potential for addiction relapse or overdose, including overdose death, when opioid medications are prescribed to a patient recovering from opioid use disorder. “(2) The benefits of displaying information about a patient’s opioid use disorder history in a manner similar to other potentially lethal medical concerns, including drug allergies and contraindications. “(3) The importance of prominently displaying information about a patient’s opioid use disorder when a physician or medical professional is prescribing medication, including methods for avoiding alert fatigue in providers. “(4) The importance of a variety of appropriate medical professionals, including physicians, nurses, and pharmacists, having access to information described in this section when prescribing or dispensing opioid medication, consistent with Federal and State laws and regulations. “(5) The importance of protecting patient privacy, including the requirements related to consent for disclosure of substance use disorder information under all applicable laws and regulations. “(6) All applicable Federal and State laws and regulations. “SEC. 7052. COMMUNICATION WITH FAMILIES DURING EMERGENCIES.“(a) Promoting Awareness of Authorized Disclosures During Emergencies.—The Secretary of Health and Human Services shall annually notify health care providers regarding permitted disclosures under Federal health care privacy law during emergencies, including overdoses, of certain health information to families, caregivers, and health care providers. “(b) Use of Material.—For the purposes of carrying out subsection (a), the Secretary of Health and Human Services may use material produced under section 7053 of this Act or section 11004 of the 21st Century Cures Act ([42 U.S.C. 1320d–2](./chapter-007-social-security.md#section-1320d-2) note). “SEC. 7053. DEVELOPMENT AND DISSEMINATION OF MODEL TRAINING PROGRAMS FOR SUBSTANCE USE DISORDER PATIENT RECORDS.“(a) Initial Programs and Materials.—Not later than 1 year after the date of the enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’), in consultation with appropriate experts, shall identify the following model programs and materials (or if no such programs or materials exist, recognize private or public entities to develop and disseminate such programs and materials):“(1) Model programs and materials for training health care providers (including physicians, emergency medical personnel, psychiatrists, psychologists, counselors, therapists, nurse practitioners, physician assistants, behavioral health facilities and clinics, care managers, and hospitals, including individuals such as general counsels or regulatory compliance staff who are responsible for establishing provider privacy policies) concerning the permitted uses and disclosures, consistent with the standards and regulations governing the privacy and security of substance use disorder patient records promulgated by the Secretary under section 543 of the Public Health Service Act ([42 U.S.C. 290dd–2](./chapter-6a-public-health-service.md#section-290dd-2)) for the confidentiality of patient records. “(2) Model programs and materials for training patients and their families regarding their rights to protect and obtain information under the standards and regulations described in paragraph (1). “(b) Requirements.—The model programs and materials described in paragraphs (1) and (2) of subsection (a) shall address circumstances under which disclosure of substance use disorder patient records is needed to—“(1) facilitate communication between substance use disorder treatment providers and other health care providers to promote and provide the best possible integrated care; “(2) avoid inappropriate prescribing that can lead to dangerous drug interactions, overdose, or relapse; and “(3) notify and involve families and caregivers when individuals experience an overdose. “(c) Periodic Updates.—The Secretary shall—“(1) periodically review and update the model program and materials identified or developed under subsection (a); and “(2) disseminate such updated programs and materials to the individuals described in subsection (a)(1). “(d) Input of Certain Entities.—In identifying, reviewing, or updating the model programs and materials under this section, the Secretary shall solicit the input of relevant stakeholders. “(e) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section—“(1) $4,000,000 for fiscal year 2019; “(2) $2,000,000 for each of fiscal years 2020 and 2021; and “(3) $1,000,000 for each of fiscal years 2022 and 2023.”
+Pub. L. 115–271, title VII, §§ 7051–7053, Oct. 24, 2018, 132 Stat. 4017, 4018, as amended by Pub. L. 119–44, title II, § 205, Dec. 1, 2025, 139 Stat. 680, provided that: “SEC. 7051. INCLUSION OF OPIOID ADDICTION HISTORY IN PATIENT RECORDS.“(a) Best Practices.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’), in consultation with appropriate stakeholders, including a patient with a history of opioid use disorder, an expert in electronic health records, an expert in the confidentiality of patient health information and records, and a health care provider, shall identify or facilitate the development of best practices regarding—“(A) the circumstances under which information that a patient has provided to a health care provider regarding such patient’s history of opioid use disorder should, only at the patient’s request, be prominently displayed in the medical records (including electronic health records) of such patient; “(B) what constitutes the patient’s request for the purpose described in subparagraph (A); and “(C) the process and methods by which the information should be so displayed. “(2) Dissemination.—The Secretary shall disseminate the best practices developed under paragraph (1) to health care providers and State agencies. “(b) Requirements.—In identifying or facilitating the development of best practices under subsection (a), as applicable, the Secretary, in consultation with appropriate stakeholders, shall consider the following:“(1) The potential for addiction relapse or overdose, including overdose death, when opioid medications are prescribed to a patient recovering from opioid use disorder. “(2) The benefits of displaying information about a patient’s opioid use disorder history in a manner similar to other potentially lethal medical concerns, including drug allergies and contraindications. “(3) The importance of prominently displaying information about a patient’s opioid use disorder when a physician or medical professional is prescribing medication, including methods for avoiding alert fatigue in providers. “(4) The importance of a variety of appropriate medical professionals, including physicians, nurses, and pharmacists, having access to information described in this section when prescribing or dispensing opioid medication, consistent with Federal and State laws and regulations. “(5) The importance of protecting patient privacy, including the requirements related to consent for disclosure of substance use disorder information under all applicable laws and regulations. “(6) All applicable Federal and State laws and regulations. “SEC. 7052. COMMUNICATION WITH FAMILIES DURING EMERGENCIES.“(a) Promoting Awareness of Authorized Disclosures During Emergencies.—The Secretary of Health and Human Services shall annually notify health care providers regarding permitted disclosures under Federal health care privacy law during emergencies, including overdoses, of certain health information to families, caregivers, and health care providers. “(b) Use of Material.—For the purposes of carrying out subsection (a), the Secretary of Health and Human Services may use material produced under section 7053 of this Act or section 11004 of the 21st Century Cures Act ([42 U.S.C. 1320d–2](./chapter-007-social-security.md#section-1320d-2) note). “SEC. 7053. DEVELOPMENT AND DISSEMINATION OF MODEL TRAINING PROGRAMS FOR SUBSTANCE USE DISORDER PATIENT RECORDS.“(a) Initial Programs and Materials.—Not later than 1 year after the date of the enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’), in consultation with appropriate experts, shall identify the following model programs and materials (or if no such programs or materials exist, recognize private or public entities to develop and disseminate such programs and materials):“(1) Model programs and materials for training health care providers (including physicians, emergency medical personnel, psychiatrists, psychologists, counselors, therapists, nurse practitioners, physician assistants, behavioral health facilities and clinics, care managers, and hospitals, including individuals such as general counsels or regulatory compliance staff who are responsible for establishing provider privacy policies) concerning the permitted uses and disclosures, consistent with the standards and regulations governing the privacy and security of substance use disorder patient records promulgated by the Secretary under section 543 of the Public Health Service Act ([42 U.S.C. 290dd–2](./chapter-6a-public-health-service.md#section-290dd-2)) for the confidentiality of patient records. “(2) Model programs and materials for training patients and their families regarding their rights to protect and obtain information under the standards and regulations described in paragraph (1). “(b) Requirements.—The model programs and materials described in paragraphs (1) and (2) of subsection (a) shall address circumstances under which disclosure of substance use disorder patient records is needed to—“(1) facilitate communication between substance use disorder treatment providers and other health care providers to promote and provide the best possible integrated care; “(2) avoid inappropriate prescribing that can lead to dangerous drug interactions, overdose, or relapse; and “(3) notify and involve families and caregivers when individuals experience an overdose. “(c) Periodic Updates.—The Secretary shall—“(1) periodically review and update the model program and materials identified or developed under subsection (a); and “(2) disseminate such updated programs and materials to the individuals described in subsection (a)(1). “(d) Input of Certain Entities.—In identifying, reviewing, or updating the model programs and materials under this section, the Secretary shall solicit the input of relevant stakeholders.”
 
 #### Report of Administrator of Veterans’ Affairs to Congressional Committees; Publication in Federal Register
 Pub. L. 93–282, title I, § 121(b), May 14, 1974, 88 Stat. 131, which directed Administrator of Veterans’ Affairs to submit to appropriate committees of House of Representatives and Senate a full report (1) on regulations (including guidelines, policies, and procedures thereunder) he had prescribed pursuant to section 321(b)(2) of Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 [former [42 U.S.C. 290dd–2(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290dd–2/b/2&num=0&edition=prelim)], (2) explaining bases for any inconsistency between such regulations and regulations of Secretary under section 321(b)(1) of such Act [[42 U.S.C. 290dd–2(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290dd–2/b/1&num=0&edition=prelim)], (3) on extent, substance, and results of his consultations with Secretary respecting prescribing and implementation of Administrator’s regulations, and (4) containing such recommendations for legislation and administrative actions as he determined were necessary and desirable, with Administrator to submit report not later than sixty days after effective date of regulations prescribed by Secretary under such section 321(b)(1) [[42 U.S.C. 290dd–2(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290dd–2/b/1&num=0&edition=prelim)], and to publish such report in Federal Register, was characterized by section 111(c)(5) of Pub. L. 94–581 as having been superseded by section 4134 [now 7334] of Title 38, Veterans’ Benefits.
@@ -48389,10 +48622,13 @@ Subsec. (d)(3). Pub. L. 117–328, § 1220(c), amended par. (3) generally. Prior
 
 Subsec. (h)(1). Pub. L. 117–328, § 1220(d), substituted “fiscal years 2023 through 2027” for “fiscal years 2017 through 2019”.
 
+#### References to Opioid Overdose Reversal Agents in HHS Grant Programs
+Pub. L. 119–44, title II, § 210, Dec. 1, 2025, 139 Stat. 682, provided that: “(a) In General.—The Secretary of Health and Human Services shall ensure that, as appropriate, whenever the Department of Health and Human Services issues a regulation or guidance for any grant program addressing opioid misuse and use disorders, any reference to an opioid overdose reversal drug (such as a reference to naloxone) is inclusive of any opioid overdose reversal drug that has been approved under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355&num=0&edition=prelim)) for emergency treatment of a known or suspected opioid overdose. “(b) Existing References.—“(1) Update.—Not later than one year after the date of enactment of this Act [Dec. 1, 2025], the Secretary of Health and Human Services shall update all references described in paragraph (2) to be inclusive of any opioid overdose reversal drug that has been approved or otherwise authorized for use by the Food and Drug Administration. “(2) References.—A reference described in this paragraph is any reference to an opioid overdose reversal drug (such as naloxone) in any regulation or guidance of the Department of Health and Human Services that—“(A) was issued before the date of enactment of this Act; and “(B) is included in—“(i) the grant program for State and Tribal response to opioid use disorders under section 1003 of the 21st Century Cures Act [former] ([42 U.S.C. 290ee–3](./chapter-6a-public-health-service.md#section-290ee-3) note) [now [42 U.S.C. 290ee–3a](./chapter-6a-public-health-service.md#section-290ee-3a)] (commonly referred to as ‘State Opioid Response Grants’ and ‘Tribal Opioid Response Grants’); or “(ii) the grant program for priority substance use disorder prevention needs of regional and national significance under section 516 of the Public Health Service Act ([42 U.S.C. 290bb–22](./chapter-6a-public-health-service.md#section-290bb-22)).”
+
 
 <a id="section-290ee-1"></a>
 ## § 290ee–1. First responder training
-**(a) Program authorized** The Secretary shall make grants to States, local governmental entities, and Indian tribes and tribal organizations (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)) to allow first responders and members of other key community sectors to administer a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.] for emergency treatment of known or suspected opioid overdose.
+**(a) Program authorized** The Secretary shall make grants to States, local governmental entities, and Indian Tribes and Tribal organizations (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)) to allow first responders and members of other key community sectors to administer a drug or device approved, cleared, or otherwise legally marketed under the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.] for emergency treatment of known or suspected overdose.
 
 **(b) Application**
 
@@ -48414,25 +48650,25 @@ Subsec. (h)(1). Pub. L. 117–328, § 1220(d), substituted “fiscal years 2023 
 
 **(c) Use of funds** An entity shall use a grant received under this section to—
 
-(1) make a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected opioid overdose available to be carried and administered by first responders and members of other key community sectors;
+(1) make a drug or device approved, cleared, or otherwise legally marketed under the Federal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected overdose available to be carried and administered by first responders and members of other key community sectors;
 
-(2) train and provide resources for first responders and members of other key community sectors on carrying and administering a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected opioid overdose;
+(2) train and provide resources for first responders and members of other key community sectors on carrying and administering a drug or device approved, cleared, or otherwise legally marketed under the Federal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected overdose;
 
-(3) establish processes, protocols, and mechanisms for referral to appropriate treatment, which may include an outreach coordinator or team to connect individuals receiving opioid overdose reversal drugs to followup services; and
+(3) establish processes, protocols, and mechanisms for referral to appropriate treatment, which may include an outreach coordinator or team to connect individuals receiving overdose reversal drugs to followup services; and
 
 (4) train and provide resources for first responders and members of other key community sectors on safety around fentanyl, carfentanil, and other dangerous licit and illicit drugs to protect themselves from exposure to such drugs and respond appropriately when exposure occurs.
 
-**(d) Technical assistance grants** The Secretary shall make a grant for the purpose of providing technical assistance and training on the use of a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected opioid overdose, mechanisms for referral to appropriate treatment, and safety around fentanyl, carfentanil, and other dangerous licit and illicit drugs.
+**(d) Technical assistance grants** The Secretary shall make a grant for the purpose of providing technical assistance and training on the use of a drug or device approved, cleared, or otherwise legally marketed under the Federal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected overdose, mechanisms for referral to appropriate treatment, and safety around fentanyl, carfentanil, and other dangerous licit and illicit drugs.
 
 **(e) Geographic distribution** In making grants under this section, the Secretary shall ensure that not less than 20 percent of grant funds are awarded to eligible entities that are not located in metropolitan statistical areas (as defined by the Office of Management and Budget). The Secretary shall take into account the unique needs of rural communities, including communities with an incidence of individuals with opioid use disorder that is above the national average and communities with a shortage of prevention and treatment services.
 
 **(f) Evaluation** The Secretary shall conduct an evaluation of grants made under this section to determine—
 
-(1) the number of first responders and members of other key community sectors equipped with a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.] for emergency treatment of known or suspected opioid overdose;
+(1) the number of first responders and members of other key community sectors equipped with a drug or device approved, cleared, or otherwise legally marketed under the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.] for emergency treatment of known or suspected overdose;
 
-(2) the number of opioid and heroin overdoses reversed by first responders and members of other key community sectors receiving training and supplies of a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected opioid overdose, through a grant received under this section;
+(2) the number of opioid, heroin, and other drug overdoses reversed by first responders and members of other key community sectors receiving training and supplies of a drug or device approved, cleared, or otherwise legally marketed under the Federal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected overdose, through a grant received under this section;
 
-(3) the number of responses to requests for services by the entity or subgrantee, to opioid and heroin overdose;
+(3) the number of responses to requests for services by the entity or subgrantee, to overdose;
 
 (4) the extent to which overdose victims and families receive information about treatment services and available data describing treatment admissions; and
 
@@ -48440,7 +48676,7 @@ Subsec. (h)(1). Pub. L. 117–328, § 1220(d), substituted “fiscal years 2023 
 
 **(g) Other key community sectors** In this section, the term “other key community sectors” includes substance use disorder treatment providers, emergency medical services agencies, agencies and organizations working with prison and jail populations and offender reentry programs, health care providers, harm reduction groups, pharmacies, community health centers, tribal health facilities, and mental health providers.
 
-**(h) Authorization of appropriations** To carry out this section, there are authorized to be appropriated $36,000,000 for each of fiscal years 2019 through 2023.
+**(h) Authorization of appropriations** To carry out this section, there are authorized to be appropriated $57,000,000 for each of fiscal years 2026 through 2030.
 
 ### Statutory Notes
 
@@ -48451,6 +48687,18 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a), (c)(1), (
 A prior section 290ee–1, act July 1, 1944, ch. 373, title V, § 546, formerly Pub. L. 92–255, title IV, § 413, Mar. 21, 1972, 86 Stat. 84, as amended Pub. L. 96–181, § 8(a), (b)(1), Jan. 2, 1980, 93 Stat. 1313, 1314; Pub. L. 97–35, title IX, § 973(e), Aug. 13, 1981, 95 Stat. 598; renumbered § 525 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, § 2(b)(16)(A), 97 Stat. 182; Oct. 27, 1986, Pub. L. 99–570, title VI, § 6002(b)(2), 100 Stat. 3207–159; renumbered § 546, July 22, 1987, Pub. L. 100–77, title VI, § 611(2), 101 Stat. 516; Nov. 4, 1988, Pub. L. 100–607, title VIII, § 813(4), 102 Stat. 3171; Nov. 7, 1988, Pub. L. 100–628, title VI, § 613(4), 102 Stat. 3243; Aug. 16, 1989, Pub. L. 101–93, § 5(t)(1), 103 Stat. 615, which related to drug abuse among government and other employees, was omitted in the general revision of this part by Pub. L. 102–321.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–44, § 106(1), (2), substituted “Tribes and Tribal” for “tribes and tribal” and “approved, cleared, or otherwise legally marketed” for “approved or cleared” and struck out “opioid” before “overdose”.
+
+Subsecs. (c), (d). Pub. L. 119–44, § 106(2), wherever appearing, substituted “approved, cleared, or otherwise legally marketed” for “approved or cleared” and struck out “opioid” before “overdose”.
+
+Subsec. (f)(1). Pub. L. 119–44, § 106(3)(A), (B), substituted “approved, cleared, or otherwise legally marketed” for “approved or cleared” and struck out “opioid” before “overdose”.
+
+Subsec. (f)(2). Pub. L. 119–44, § 106(3)(A), (C), substituted “opioid, heroin, and other drug” for “opioid and heroin”, “approved, cleared, or otherwise legally marketed” for “approved or cleared”, and “overdose” for “opioid overdose”.
+
+Subsec. (f)(3). Pub. L. 119–44, § 106(3)(D), struck out “opioid and heroin” before “overdose”.
+
+Subsec. (h). Pub. L. 119–44, § 106(4), substituted “$57,000,000 for each of fiscal years 2026 through 2030” for “$36,000,000 for each of fiscal years 2019 through 2023”.
+
 2018—Subsec. (c)(4). Pub. L. 115–271, § 7002(1), added par. (4).
 
 Subsec. (d). Pub. L. 115–271, § 7002(2), substituted “mechanisms for referral to appropriate treatment, and safety around fentanyl, carfentanil, and other dangerous licit and illicit drugs” for “and mechanisms for referral to appropriate treatment for an entity receiving a grant under this section”.
@@ -48603,7 +48851,7 @@ Subsec. (g)(1). Pub. L. 115–334, § 12608(3), substituted “2019 through 2023
 
 **(e) Special consideration** In carrying out this section, the Secretary shall give special consideration to the unique needs of rural areas, including areas with an age-adjusted rate of drug overdose deaths that is above the national average and areas with a shortage of prevention and treatment services.
 
-**(f) Authorization of appropriations** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2019 through 2023.
+**(f) Authorization of appropriations** There is authorized to be appropriated to carry out this section $17,000,000 for each of fiscal years 2026 through 2030.
 
 ### Statutory Notes
 
@@ -48611,6 +48859,8 @@ Subsec. (g)(1). Pub. L. 115–334, § 12608(3), substituted “2019 through 2023
 A prior section 290ee–2, act July 1, 1944, ch. 373, title V, § 547, formerly Pub. L. 92–255, title IV, § 407, Mar. 21, 1972, 86 Stat. 78, as amended Pub. L. 94–237, § 6(a), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–581, title I, § 111(c)(2), Oct. 21, 1976, 90 Stat. 2852; renumbered § 526 of act July 1, 1944, Apr. 26, 1983. Pub. L. 98–24, § 2(b)(16)(B), 97 Stat. 182; renumbered § 547, July 22, 1987, Pub. L. 100–77, title VI, § 611(2), 101 Stat. 516, which related to admission of drug abusers to private and public hospitals, was omitted in the general revision of this part by Pub. L. 102–321.
 
 #### Amendments
+2025—Subsec. (f). Pub. L. 119–44 substituted “$17,000,000 for each of fiscal years 2026 through 2030” for “$5,000,000 for each of fiscal years 2019 through 2023”.
+
 2018—Pub. L. 115–271 amended section generally. Prior to amendment, section authorized the Secretary to award grants to recovery community organizations to enable such organizations to develop, expand, and enhance recovery services, set the Federal share of program costs at no more than 50 percent, and appropriated $1,000,000 for each of fiscal years 2017 through 2021.
 
 
@@ -48632,15 +48882,46 @@ A prior section 290ee–2, act July 1, 1944, ch. 373, title V, § 547, formerly 
 
 (3) data collection to support research, including for translational research;
 
-(4) capacity building; and
+(4) capacity building, such as—
+
+  (A) professional development of peer support specialists; and
+
+  (B) making recovery support services available in nonclinical settings; and
 
 (5) evaluation and improvement, as necessary, of the effectiveness of such services provided by recovery community organizations.
 
 **(c) Best practices** The Center established under subsection (a) shall periodically issue best practices for use by recovery community organizations and peer support networks.
 
-**(d) Recovery community organization** In this section, the term “recovery community organization” has the meaning given such term in [section 290ee–2 of this title](./chapter-6a-public-health-service.md#section-290ee-2).
+**(d) Regional Centers**
 
-**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2019 through 2023.
+(1) **In general** — The Secretary may establish one regional technical assistance center (referred to in this subsection as the “Regional Center”), with existing resources, to assist the Center in carrying out activities described in subsection (b) within the geographic region of such Regional Center in a manner that is tailored to the needs of such region.
+
+(2) **Evaluation** — Not later than 4 years after December 1, 2025, the Secretary shall evaluate the activities of the Regional Center and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the findings of such evaluation, including—
+
+  (A) a description of the distinct roles and responsibilities of the Regional Center and the Center;
+
+  (B) available information relating to the outcomes of the Regional Center under this subsection, such as any impact on the operations and efficiency of the Center relating to requests for technical assistance and support within the region of such Regional Center;
+
+  (C) a description of any gaps or areas of duplication relating to the activities of the Regional Center and the Center within such region; and
+
+  (D) recommendations relating to the modification, expansion, or termination of the Regional Center under this subsection.
+
+(3) **Termination** — This subsection shall terminate on September 30, 2030.
+
+**(e) Recovery community organization** In this section, the term “recovery community organization” has the meaning given such term in [section 290ee–2 of this title](./chapter-6a-public-health-service.md#section-290ee-2).
+
+**(f) Authorization of appropriations** There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2026 through 2030.
+
+### Statutory Notes
+
+#### Amendments
+2025—Subsec. (b)(4). Pub. L. 119–44, § 302(1), substituted “building, such as—” for “building; and” and added subpars. (A) and (B).
+
+Subsec. (d). Pub. L. 119–44, § 302(3), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 119–44, § 302(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 119–44, § 302(2), (4), redesignated subsec. (e) as (f) and substituted “$2,000,000 for each of fiscal years 2026 through 2030” for “$1,000,000 for each of fiscal years 2019 through 2023”.
 
 
 <a id="section-290ee-3"></a>
@@ -48740,7 +49021,7 @@ Section 701 of the Comprehensive Addiction and Recovery Act of 2016, referred to
 A prior section 290ee–3, act July 1, 1944, ch. 373, title V, § 548, formerly Pub. L. 92–255, title IV, § 408, Mar. 21, 1972, 86 Stat. 79, as amended Pub. L. 93–282, title III, § 303(a), (b), May 14, 1974, 88 Stat. 137, 138; Pub. L. 94–237, § 4(c)(5)(A), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–581, title I, § 111(c)(3), Oct. 21, 1976, 90 Stat. 2852; Pub. L. 97–35, title IX, § 973(d), Aug. 13, 1981, 95 Stat. 598; renumbered § 527 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, § 2(b)(16)(B), 97 Stat. 182; Aug. 27, 1986, Pub. L. 99–401, title I, § 106(b), 100 Stat. 907; renumbered § 548, July 22, 1987, Pub. L. 100–77, title VI, § 611(2), 101 Stat. 516; June 13, 1991, Pub. L. 102–54, § 13(q)(1)(A)(iii), (B)(ii), 105 Stat. 278, which related to confidentiality of patient records for drug abuse programs, was omitted in the general revision of this part by Pub. L. 102–321. See [section 290dd–2 of this title](./chapter-6a-public-health-service.md#section-290dd-2).
 
 #### Grant Program for the State and Tribal Response to the Opioid Abuse Crisis
-Pub. L. 114–255, div. A, title I, § 1003, Dec. 13, 2016, 130 Stat. 1044, as amended by Pub. L. 115–271, title VII, § 7181(a), Oct. 24, 2018, 132 Stat. 4068, which related to grant program to address opioid abuse crisis within States and Indian Tribes, was editorially reclassified as [section 290ee–3a of this title](./chapter-6a-public-health-service.md#section-290ee-3a).
+Pub. L. 114–255, div. A, title I, § 1003, Dec. 13, 2016, 130 Stat. 1044, as amended by Pub. L. 115–271, title VII, § 7181(a), Oct. 24, 2018, 132 Stat. 4068, which related to grant program to address opioid abuse crisis within States and Indian Tribes, was amended generally by Pub. L. 117–328, div. FF, title I, § 1273, Dec. 29, 2022, 136 Stat. 5688, and transferred to [section 290ee–3a of this title](./chapter-6a-public-health-service.md#section-290ee-3a).
 
 
 <a id="section-290ee-3a"></a>
@@ -48897,6 +49178,9 @@ Subsec. (d)(1). Pub. L. 115–271, § 7181(a)(7)(B), substituted “subsection (
 Subsecs. (e) to (i). Pub. L. 115–271, § 7181(a)(8), added subsec. (e) to (i). Former subsecs. (e) and (f) redesignated (d) and (j), respectively.
 
 Subsec. (j). Pub. L. 115–271, § 7181(a)(4), redesignated subsec. (f) as (j).
+
+#### Substance Use Disorder and Overdose Prevention Activities
+Pub. L. 119–44, title I, § 113, Dec. 1, 2025, 139 Stat. 679, provided that: “The activities carried out pursuant to section 1003(b)(4)(A) of the 21st Century Cures Act ([42 U.S.C. 290ee–3a(b)(4)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290ee–3a/b/4/A&num=0&edition=prelim)) may include facilitating access to products used to prevent overdose deaths by detecting the presence of one or more substances, such as fentanyl and xylazine test strips, to the extent the purchase and possession of such products is consistent with Federal and State law.”
 
 
 <a id="section-290ee-4"></a>
@@ -49224,9 +49508,9 @@ Section was formerly classified to [section 290ee–10 of this title](./chapter-
 
 (1) **Eligible entity** — An entity is eligible for a grant under this section if the entity offers treatment and other services for individuals with a substance use disorder.
 
-(2) **Submission of application** — In order to be eligible for a grant under subsection (a), an entity shall submit an application to the Secretary at such time and in such manner as the Secretary may require. Such application shall include—
+(2) **Submission of application** — In order to be eligible for a grant under subsection (a), an entity shall submit an application to the Secretary at such time, in such manner, and containing such information and assurances, including relevant documentation, as the Secretary may require. Such application shall include—
 
-  (A) evidence that such entity carries out, or is capable of coordinating with other entities to carry out, the activities described in subsection (g); and
+  (A) evidence that such entity carries out, or has the demonstrated capability to carry out, through referral or contractual arrangements, the activities described in subsection (g); and
 
   (B) such other information as the Secretary may require.
 
@@ -49284,19 +49568,23 @@ Section was formerly classified to [section 290ee–10 of this title](./chapter-
 
   (C) disseminating and making publicly available, including through the internet, evidence-based resources that educate professionals and the public on opioid use disorder and other substance use disorders, including co-occurring substance use and mental disorders.
 
-**(h) Data reporting and program oversight** With respect to a grant awarded under subsection (a), not later than 90 days after the end of the first year of the grant period, and annually thereafter for the duration of the grant period (including the duration of any renewal period for such grant), the entity shall submit data, as appropriate, to the Secretary regarding—
+**(h) Data reporting and program oversight**
 
-(1) the programs and activities funded by the grant;
+(1) **In general** — With respect to a grant awarded under subsection (a), not later than 90 days after the end of the first year of the grant period, and annually thereafter for the duration of the grant period (including the duration of any renewal period for such grant), the entity shall submit data, as appropriate, to the Secretary regarding—
 
-(2) health outcomes of the population of individuals with a substance use disorder who received services from the Center, evaluated by an independent program evaluator through the use of outcomes measures, as determined by the Secretary;
+  (A) the programs and activities funded by the grant;
 
-(3) the retention rate of program participants; and
+  (B) health outcomes of the population of individuals with a substance use disorder who received services from the Center, evaluated by an independent program evaluator through the use of outcomes measures, as determined by the Secretary;
 
-(4) any other information that the Secretary may require for the purpose of—ensuring 11 So in original. that the Center is complying with all the requirements of the grant, including providing the full continuum of services described in subsection (g)(1)(B).
+  (C) the retention rate of program participants; and
+
+  (D) any other information that the Secretary may require for the purpose of—ensuring 11 So in original. that the Center is complying with all the requirements of the grant, including providing the full continuum of services described in subsection (g)(1)(B).
+
+(2) **Additional reporting for certain eligible entities** — An entity carrying out activities described in subsection (g) through referral or contractual arrangements shall include in the submissions required under paragraph (1) information related to the status of such referrals or contractual arrangements, including an assessment of whether such referrals or contractual arrangements are supporting the ability of such entity to carry out such activities.
 
 **(i) Privacy** The provisions of this section, including with respect to data reporting and program oversight, shall be subject to all applicable Federal and State privacy laws.
 
-**(j) Authorization of appropriations** There is authorized to be appropriated $10,000,000 for each of fiscal years 2019 through 2023 for purposes of carrying out this section.
+**(j) Authorization of appropriations** There is authorized to be appropriated $10,000,000 for each of fiscal years 2026 through 2030 for purposes of carrying out this section.
 
 ### Statutory Notes
 
@@ -49305,24 +49593,33 @@ Section 2 of the Expanding Capacity for Health Outcomes Act, referred to in subs
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(1)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
+#### Amendments
+2025—Subsec. (d)(2). Pub. L. 119–44, § 303(1)(A), substituted “, in such manner, and containing such information and assurances, including relevant documentation,” for “and in such manner” in introductory provisions.
+
+Subsec. (d)(2)(A). Pub. L. 119–44, § 303(1)(B), substituted “has the demonstrated capability to carry out, through referral or contractual arrangements” for “is capable of coordinating with other entities to carry out”.
+
+Subsec. (h). Pub. L. 119–44, § 303(2), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned margins, and added par. (2).
+
+Subsec. (j). Pub. L. 119–44, § 303(3), substituted “2026 through 2030” for “2019 through 2023”.
+
 
 <a id="section-290ee-8"></a>
-## § 290ee–8. Career Act
+## § 290ee–8. Career Act; treatment, recovery, and workforce support grants
 **(a) In general** The Secretary of Health and Human Services (referred to in this section as the “Secretary”), in consultation with the Secretary of Labor, shall continue or establish a program to support individuals in substance use disorder treatment and recovery to live independently and participate in the workforce.
 
-**(b) Grants authorized** In carrying out the activities under this section, the Secretary shall, on a competitive basis, award grants for a period of not more than 5 years to entities to enable such entities to carry out evidence-based programs to help individuals in substance use disorder treatment and recovery to live independently and participate in the workforce. Such entities shall coordinate, as applicable, with Indian tribes or tribal organizations (as applicable), State boards and local boards (as defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim), lead State agencies with responsibility for a workforce investment activity (as defined in such section 3102), and State agencies responsible for carrying out substance use disorder prevention and treatment programs.
+**(b) Grants authorized** In carrying out the activities under this section, the Secretary shall, on a competitive basis, award grants each for a period of not more than 5 years to entities to enable such entities to carry out evidence-based programs to help individuals in substance use disorder treatment and recovery to live independently and participate in the workforce. Such entities shall coordinate, as applicable, with Indian tribes or tribal organizations (as applicable), State boards and local boards (as defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim), lead State agencies with responsibility for a workforce investment activity (as defined in such section 3102), and State agencies responsible for carrying out substance use disorder prevention and treatment programs.
 
 **(c) Priority**
 
-(1) **In general** — In awarding grants under this section, the Secretary shall give priority based on the State in which the entity is located. Priority shall be given among States according to a formula based on the rates described in paragraph (2) and weighted as described in paragraph (3).
+(1) **In general** — In awarding grants under this section, the Secretary shall give priority based on the State in which the entity is located. Priority shall be given among States according to a formula based on the average rates for calendar years 2018 through 2022 described in paragraph (2) and weighted as described in paragraph (3).
 
 (2) **Rates** — The rates described in this paragraph are the following:
 
-  (A) The amount by which the rate of drug overdose deaths in the State, adjusted for age, is above the national overdose mortality rate, as determined by the Director of the Centers for Disease Control and Prevention.
+  (A) The highest age-adjusted average rates of drug overdose deaths for calendar years 2018 through 2022 based on data from the Centers for Disease Control and Prevention, including, if necessary, provisional data for calendar year 2022.
 
-  (B) The amount by which the rate of unemployment for the State, based on data provided by the Bureau of Labor Statistics for the preceding 5 calendar years for which there is available data, is above the national average.
+  (B) The highest average rates of unemployment for calendar years 2018 through 2022 based on data provided by the Bureau of Labor Statistics.
 
-  (C) The amount by which rate of labor force participation in the State, based on data provided by the Bureau of Labor Statistics for the preceding 5 calendar years for which there is available data, is below the national average.
+  (C) The lowest average labor force participation rates for calendar years 2018 through 2022 based on data provided by the Bureau of Labor Statistics.
 
 (3) **Weighting** — The rates described in paragraph (2) shall be weighted as follows:
 
@@ -49350,21 +49647,27 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(1)(B)(i), i
 
 (3) assist employers with informing their employees of the resources, such as resources related to substance use disorders that are available to their employees.
 
-**(g) Use of funds** An entity receiving a grant under this section shall use the funds to conduct one or more of the following activities:
+**(g) Use of funds**
 
-(1) Hire case managers, care coordinators, providers of peer recovery support services, as described in [section 290ee–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290ee–2/a&num=0&edition=prelim), or other professionals, as appropriate, to provide services that support treatment, recovery, and rehabilitation, and prevent relapse, recidivism, and overdose, including by encouraging—
+(1) **In general** — An entity receiving a grant under this section shall use the funds to conduct one or more of the following activities:
 
-  (A) the development and strengthening of daily living skills; and
+  (A) Hire case managers, care coordinators, providers of peer recovery support services, as described in [section 290ee–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290ee–2/a&num=0&edition=prelim), or other professionals, as appropriate, to provide services that support treatment, recovery, and rehabilitation, and prevent relapse, recidivism, and overdose, including by encouraging—
 
-  (B) the use of counseling, care coordination, and other services, as appropriate, to support recovery from substance use disorders.
+    (i) the development and strengthening of daily living skills; and
 
-(2) Implement or utilize innovative technologies, which may include the use of telemedicine.
+    (ii) the use of counseling, care coordination, and other services, as appropriate, to support recovery from substance use disorders.
 
-(3) In coordination with the lead State agency with responsibility for a workforce investment activity or local board described in subsection (b), provide—
+  (B) Implement or utilize innovative technologies, which may include the use of telemedicine.
 
-  (A) short-term prevocational training services; and
+  (C) In coordination with the lead State agency with responsibility for a workforce investment activity or local board described in subsection (b), provide—
 
-  (B) training services that are directly linked to the employment opportunities in the local area or the planning region.
+    (i) short-term prevocational training services; and
+
+    (ii) training services that are directly linked to the employment opportunities in the local area or the planning region.
+
+(2) **Transportation services** — An entity receiving a grant under this section may use not more than 5 percent of the funds for providing transportation for individuals to participate in an activity supported by a grant under this section, which transportation shall be to or from a place of work or a place where the individual is receiving vocational education or job training services or receiving services directly linked to treatment of or recovery from a substance use disorder.
+
+(3) **Limitation** — The Secretary may not require an entity to, or give priority to an entity that plans to, use the funds of a grant under this section for activities that are not specified in this subsection.
 
 **(h) Support for State strategy** An eligible entity shall include in its application under subsection (f) information describing how the services and activities proposed in such application are aligned with the State, outlying area, or Tribal strategy, as applicable, for addressing issues described in such application and how such entity will coordinate with existing systems to deliver services as described in such application.
 
@@ -49372,26 +49675,53 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(1)(B)(i), i
 
 (1) the programs and activities funded by the grant;
 
-(2) outcomes of the population of individuals with a substance use disorder the grantee served through activities described in subsection (g); and
+(2) outcomes of the population of individuals with a substance use disorder the grantee served through activities described in subsection (g), which shall include employment and earnings outcomes described in subclauses (I) and (III) of [section 3141(b)(2)(A)(i) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141/b/2/A/i&num=0&edition=prelim) with respect to the participation of such individuals with a substance use disorder in programs and activities funded by the grant under this section; and
 
 (3) any other information that the Secretary may require for the purpose of ensuring that the grantee is complying with all of the requirements of the grant.
 
 **(j) Reports to Congress**
 
-(1) **Preliminary report** — Not later than 2 years after the end of the first year of the grant period under this section, the Secretary shall submit to Congress a preliminary report that analyzes reports submitted under subsection (i).
+(1) **Preliminary report** — Not later than 2 years after the end of the first year of the grant period under this section for grants awarded prior to December 1, 2025, the Secretary shall submit to Congress a preliminary report that analyzes reports submitted under subsection (i).
 
-(2) **Final report** — Not later than 2 years after submitting the preliminary report required under paragraph (1), the Secretary shall submit to Congress a final report that includes—
+(2) **Final report** — Not later than September 30, 2030, the Secretary shall submit to Congress a final report that includes—
 
-  (A) a description of how the grant funding was used, including the number of individuals who received services under subsection (g)(3) and an evaluation of the effectiveness of the activities conducted by the grantee with respect to outcomes of the population of individuals with substance use disorder who receive services from the grantee; and
+  (A) a description of how the grant funding was used, including the number of individuals who received services under subsection (g)(1)(C) and an evaluation of the effectiveness of the activities conducted by the grantee with respect to outcomes of the population of individuals with substance use disorder who receive services from the grantee; and
 
   (B) recommendations related to best practices for health care professionals to support individuals in substance use disorder treatment or recovery to live independently and participate in the workforce.
 
-**(k) Authorization of appropriations** There is authorized to be appropriated $5,000,000 for each of fiscal years 2019 through 2023 for purposes of carrying out this section.
+**(k) Authorization of appropriations** There is authorized to be appropriated $12,000,000 for each of fiscal years 2026 through 2030 for purposes of carrying out this section.
 
 ### Statutory Notes
 
 #### Codification
 Section was enacted as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Amendments
+2025—Pub. L. 119–44, § 305(a)(1), inserted “; treatment, recovery, and workforce support grants” after “Career Act” in section catchline.
+
+Subsec. (b). Pub. L. 119–44, § 305(a)(2), inserted “each” before “for a period”.
+
+Subsec. (c)(1). Pub. L. 119–44, § 305(a)(3)(A), substituted “the average rates for calendar years 2018 through 2022 described in paragraph (2)” for “the rates described in paragraph (2)”.
+
+Subsec. (c)(2). Pub. L. 119–44, § 305(a)(3)(B), amended par. (2) generally. Prior to amendment, text read as follows: “The rates described in this paragraph are the following:
+
+“(A) The amount by which the rate of drug overdose deaths in the State, adjusted for age, is above the national overdose mortality rate, as determined by the Director of the Centers for Disease Control and Prevention.
+
+“(B) The amount by which the rate of unemployment for the State, based on data provided by the Bureau of Labor Statistics for the preceding 5 calendar years for which there is available data, is above the national average.
+
+“(C) The amount by which rate of labor force participation in the State, based on data provided by the Bureau of Labor Statistics for the preceding 5 calendar years for which there is available data, is below the national average.”
+
+Subsec. (g). Pub. L. 119–44, § 305(a)(4), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), redesignated subpars. (A) and (B) of former pars. (1) and (3) as cls. (i) and (ii), respectively, of subpars. (A) and (C), realigned margins, and added pars. (2) and (3).
+
+Subsec. (i)(2). Pub. L. 119–44, § 305(a)(5), inserted “, which shall include employment and earnings outcomes described in subclauses (I) and (III) of [section 3141(b)(2)(A)(i) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141/b/2/A/i&num=0&edition=prelim) with respect to the participation of such individuals with a substance use disorder in programs and activities funded by the grant under this section” after “subsection (g)”.
+
+Subsec. (j)(1). Pub. L. 119–44, § 305(a)(6)(A), inserted “for grants awarded prior to December 1, 2025” after “grant period under this section”.
+
+Subsec. (j)(2). Pub. L. 119–44, § 305(a)(6)(B)(i), substituted “September 30, 2030” for “2 years after submitting the preliminary report required under paragraph (1)” in introductory provisions.
+
+Subsec. (j)(2)(A). Pub. L. 119–44, § 305(a)(6)(B)(ii), substituted “(g)(1)(C)” for “(g)(3)”.
+
+Subsec. (k). Pub. L. 119–44, § 305(a)(7), substituted “$12,000,000 for each of fiscal years 2026 through 2030” for “$5,000,000 for each of fiscal years 2019 through 2023”.
 
 
 <a id="section-290ee-9"></a>
@@ -49854,47 +50184,85 @@ Section, act July 1, 1944, ch. 373, title V, § 571, as added Pub. L. 102–321,
 ### Statutory Notes
 
 #### Codification
-Another section 581 of act July 1, 1944, is classified to [section 290kk of this title](./chapter-6a-public-health-service.md#section-290kk).
+Another section 581 of act July 1, 1944, was renumbered section 596 and is classified to [section 290kk of this title](./chapter-6a-public-health-service.md#section-290kk).
 
 
 <a id="section-290hh-1"></a>
-## § 290hh–1. Grants to address the problems of persons who experience violence related stress
-**(a) In general** The Secretary shall award grants, contracts or cooperative agreements to public and nonprofit private entities, as well as to Indian tribes and tribal organizations, for the purpose of developing and maintaining programs that provide for—
+## § 290hh–1. Grants to address the problems of persons who experience traumatic events
+**(a) In general** The Secretary shall award grants, contracts or cooperative agreements to public and nonprofit private entities, as well as to Indian Tribes and Tribal organizations, for the purpose of developing and maintaining programs that provide for—
 
 (1) the continued operation of the National Child Traumatic Stress Initiative (referred to in this section as the “NCTSI”), which includes a cooperative agreement with a coordinating center, that focuses on the mental, behavioral, and biological aspects of psychological trauma response, prevention of the long-term consequences of child trauma, and early intervention services and treatment to address the long-term consequences of child trauma; and
 
-(2) the development of knowledge with regard to evidence-based practices for identifying and treating mental, behavioral, and biological disorders of children and youth resulting from witnessing or experiencing a traumatic event.
+(2) the development and dissemination of knowledge with regard to evidence-based practices for identifying and treating mental, behavioral, and biological disorders of children and youth resulting from witnessing or experiencing a traumatic event.
 
-**(b) Priorities** In awarding grants, contracts or cooperative agreements under subsection (a)(2) (related to the development of knowledge on evidence-based practices for treating mental, behavioral, and biological disorders associated with psychological trauma), the Secretary shall give priority to universities, hospitals, mental health agencies, and other programs that have established clinical expertise and research experience in the field of trauma-related mental disorders.
+**(b) Priorities** In awarding grants, contracts or cooperative agreements under subsection (a)(2) (related to the development and dissemination of knowledge on evidence-based practices for treating mental, behavioral, and biological disorders associated with psychological trauma), the Secretary shall give priority to universities, hospitals, mental health agencies, and other programs that have established clinical expertise and research experience in the field of trauma-related mental disorders.
 
 **(c) Child outcome data** The NCTSI coordinating center described in subsection (a)(1) shall collect, analyze, report, and make publicly available, as appropriate, NCTSI-wide child treatment process and outcome data regarding the early identification and delivery of evidence-based treatment and services for children and families served by the NCTSI grantees.
 
-**(d) Training** The NCTSI coordinating center shall facilitate the coordination of training initiatives in evidence-based and trauma-informed treatments, interventions, and practices offered to NCTSI grantees, providers, and partners.
+**(d) Training**
 
-**(e) Dissemination and collaboration** The NCTSI coordinating center shall, as appropriate, collaborate with—
+(1) **Coordinating center** — The NCTSI coordinating center shall facilitate the coordination of training initiatives in evidence-based and trauma-informed treatments, interventions, and practices offered to NCTSI grantees, providers, and partners.
 
-(1) the Secretary, in the dissemination of evidence-based and trauma-informed interventions, treatments, products, and other resources to appropriate stakeholders; and
+(2) **NCTSI grantees** — In carrying out subsection (a)(2), NCTSI grantees shall develop trainings and other resources, as applicable and appropriate, to support implementation of the evidence-based practices developed and disseminated under such subsection.
 
-(2) appropriate agencies that conduct or fund research within the Department of Health and Human Services, for purposes of sharing NCTSI expertise, evaluation data, and other activities, as appropriate.
+**(e) Dissemination and collaboration**
+
+(1) **Coordinating center** — The NCTSI coordinating center shall, as appropriate, collaborate with—
+
+  (A) the Secretary, in the dissemination and implementation of evidence-based and trauma-informed interventions, treatments, products, and other resources to appropriate stakeholders; and
+
+  (B) appropriate agencies that conduct or fund research within the Department of Health and Human Services, for purposes of sharing NCTSI expertise, evaluation data, and other activities, as appropriate.
+
+(2) **NCTSI grantees** — NCTSI grantees shall, as appropriate, collaborate with other such grantees, the NCTSI coordinating center, and the Secretary in carrying out subsections (a)(2) and (d)(2).
 
 **(f) Review** The Secretary shall, consistent with the peer-review process, ensure that NCTSI applications are reviewed by appropriate experts in the field as part of a consensus-review process. The Secretary shall include review criteria related to expertise and experience in child trauma and evidence-based practices.
 
 **(g) Geographical distribution** The Secretary shall ensure that grants, contracts or cooperative agreements under subsection (a) are distributed equitably among the regions of the United States and among urban and rural areas.
 
-**(h) Evaluation** The Secretary, as part of the application process, shall require that each applicant for a grant, contract or cooperative agreement under subsection (a) submit a plan for the rigorous evaluation of the activities funded under the grant, contract or agreement, including both process and outcomes evaluation, and the submission of an evaluation at the end of the project period.
+**(h) Application and evaluation** To be eligible to receive a grant, contract, or cooperative agreement under subsection (a), a public or nonprofit private entity or an Indian Tribe or Tribal organization shall submit to the Secretary an application at such time, in such manner, and containing such information and assurances as the Secretary may require, including—
+
+(1) a plan for the evaluation of the activities funded under the grant, contract, or agreement, including both process and outcomes evaluation, and the submission of an evaluation at the end of the project period; and
+
+(2) a description of how such entity, Indian Tribe, or Tribal organization will support efforts led by the Secretary or the NCTSI coordinating center, as applicable, to evaluate activities carried out under this section.
 
 **(i) Duration of awards** With respect to a grant, contract or cooperative agreement under subsection (a), the period during which payments under such an award will be made to the recipient shall not be less than 4 years, but shall not exceed 5 years. Such grants, contracts or agreements may be renewed.
 
-**(j) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $63,887,000 for each of fiscal years 2019 through 2023.
+**(j) Authorization of appropriations** There is authorized to be appropriated to carry out this section—
+
+(1) $98,887,000 for fiscal year 2026;
+
+(2) $98,887,000 for fiscal year 2027;
+
+(3) $98,887,000 for fiscal year 2028;
+
+(4) $100,000,000 for fiscal year 2029; and
+
+(5) $100,000,000 for fiscal year 2030.
 
 **(k) Short title** This section may be cited as the “Donald J. Cohen National Child Traumatic Stress Initiative”.
 
 ### Statutory Notes
 
 #### Codification
-Another section 582 of act July 1, 1944, is classified to [section 290kk–1 of this title](./chapter-6a-public-health-service.md#section-290kk-1).
+Another section 582 of act July 1, 1944, was renumbered section 596A and is classified to [section 290kk–1 of this title](./chapter-6a-public-health-service.md#section-290kk-1).
 
 #### Amendments
+2025—Pub. L. 119–44, § 107(b)(1), substituted “traumatic events” for “violence related stress” in section catchline.
+
+Subsec. (a). Pub. L. 119–44, § 107(b)(2)(A), substituted “Tribes and Tribal” for “tribes and tribal” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 119–44, § 107(b)(2)(B), inserted “and dissemination” after “the development”.
+
+Subsec. (b). Pub. L. 119–44, § 107(b)(3), inserted “and dissemination” after “the development”.
+
+Subsec. (d). Pub. L. 119–44, § 107(b)(4), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (e). Pub. L. 119–44, § 107(b)(5), designated introductory provisions as par. (1) and inserted heading; redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and realigned margins; inserted “and implementation” after “the dissemination” in subpar. (A); and added par. (2).
+
+Subsec. (h). Pub. L. 119–44, § 107(b)(6), amended subsec. (h) generally. Prior to amendment, text read as follows: “The Secretary, as part of the application process, shall require that each applicant for a grant, contract or cooperative agreement under subsection (a) submit a plan for the rigorous evaluation of the activities funded under the grant, contract or agreement, including both process and outcomes evaluation, and the submission of an evaluation at the end of the project period.”
+
+Subsec. (j). Pub. L. 119–44, § 107(b)(7), amended subsec. (j) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section, $63,887,000 for each of fiscal years 2019 through 2023.”
+
 2018—Subsec. (j). Pub. L. 115–271 substituted “$63,887,000 for each of fiscal years 2019 through 2023” for “$46,887,000 for each of fiscal years 2018 through 2022”.
 
 2016—Subsec. (a). Pub. L. 114–255, § 10004(1), substituted “developing and maintaining programs that provide for—” and pars. (1) and (2) for “developing programs focusing on the behavioral and biological aspects of psychological trauma response and for developing knowledge with regard to evidence-based practices for treating psychiatric disorders of children and youth resulting from witnessing or experiencing a traumatic event.”
@@ -50090,11 +50458,6 @@ Each facility to which this part applies shall notify the appropriate State lice
 
 (6) The term “religious organization” means a nonprofit religious organization.
 
-### Statutory Notes
-
-#### Codification
-Another section 581 of act July 1, 1944, is classified to [section 290hh of this title](./chapter-6a-public-health-service.md#section-290hh).
-
 
 <a id="section-290kk-1"></a>
 ## § 290kk–1. Religious organizations as program participants
@@ -50152,11 +50515,6 @@ Another section 581 of act July 1, 1944, is classified to [section 290hh of this
 
 **(h) Compliance** With respect to compliance with this section by an agency, a religious organization may obtain judicial review of agency action in accordance with chapter 7 of title 5.
 
-### Statutory Notes
-
-#### Codification
-Another section 582 of act July 1, 1944, is classified to [section 290hh–1 of this title](./chapter-6a-public-health-service.md#section-290hh-1).
-
 
 <a id="section-290kk-2"></a>
 ## § 290kk–2. Limitations on use of funds for certain purposes
@@ -50179,19 +50537,23 @@ No funds provided under a designated program shall be expended for sectarian wor
 ## § 290ll. Fellowships
 **(a) In general** The Secretary shall maintain a program, to be known as the Minority Fellowship Program, under which the Secretary shall award fellowships, which may include stipends, for the purposes of—
 
-(1) increasing the knowledge of mental and substance use disorders practitioners on issues related to prevention, treatment, and recovery support for individuals who are from racial and ethnic minority populations and who have a mental or substance use disorder;
+(1) increasing the knowledge of mental and substance use disorders practitioners on issues related to diagnosis, prevention, treatment, and recovery support for individuals who are from racial and ethnic minority populations and who have a mental or substance use disorder;
 
 (2) improving the quality of mental and substance use disorder prevention and treatment services delivered to racial and ethnic minority populations; and
 
 (3) increasing the number of culturally competent mental and substance use disorders professionals who teach, administer services, conduct research, and provide direct mental or substance use disorder services to racial and ethnic minority populations.
 
-**(b) Training covered** The fellowships awarded under subsection (a) shall be for postbaccalaureate training (including for master’s and doctoral degrees) for mental and substance use disorder treatment professionals, including in the fields of psychiatry, nursing, social work, psychology, marriage and family therapy, mental health counseling, and substance use disorder and addiction counseling.
+**(b) Training covered** The fellowships awarded under subsection (a) shall be for postbaccalaureate training (including for master’s and doctoral degrees) for mental and substance use disorder treatment professionals, including in the fields of psychiatry, addiction medicine, nursing, social work, psychology, marriage and family therapy, mental health counseling, and substance use disorder and addiction counseling.
 
 **(c) Authorization of appropriations** To carry out this section, there are authorized to be appropriated $25,000,000 for each of fiscal years 2023 through 2027.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–44, § 202(1), inserted “diagnosis,” after “related to”.
+
+Subsec. (b). Pub. L. 119–44, § 202(2), inserted “addiction medicine,” after “psychiatry,”.
+
 2022—Subsec. (c). Pub. L. 117–328 substituted “$25,000,000 for each of fiscal years 2023 through 2027” for “$12,669,000 for each of fiscal years 2018 through 2022”.
 
 
@@ -50292,7 +50654,7 @@ Subsec. (c). Pub. L. 93–45, § 108(a)(3), authorized appropriations of $50,000
 
 1970—Par. (a). Pub. L. 91–296, §§ 101(a)(1), (2), 116(a), substituted “outpatient facilities” for “diagnostic or treatment centers” in enumeration of facilities eligible for construction grants, extended through fiscal year ending June 30, 1973, authority to appropriate funds for construction grants, increased from $70,000,000 to $85,000,000 annual authority to make grants for public or other nonprofit facilities for long-term care, from $20,000,000 to $70,000,000 authority for public or other nonprofit outpatient facilities, and from $10,000,000 to $15,000,000 authority for public or other nonprofit rehabilitation facilities.
 
-Par. (b). Pub. L. 91–296, §§ 101(a)(3), 102(a)(1), struck out provisions authorizing grants for modernization of facilities and inserted provisions authorizing appropriation of $147,500,000 for fiscal year ending June 30, 1971, $152,500,000 for fiscal year ending June 30, 1972, and $157,500,000 for fiscal year ending June 30, 1973, for grants for construction of public or other nonprofit hospitals and public health centers
+Par. (b). Pub. L. 91–296, §§ 101(a)(3), 102(a)(1), struck out provisions authorizing grants for modernization of facilities and inserted provisions authorizing appropriation of $147,500,000 for fiscal year ending June 30, 1971, $152,500,000 for fiscal year ending June 30, 1972, and $157,500,000 for fiscal year ending June 30, 1973, for grants for construction of public or other nonprofit hospitals and public health centers.
 
 Par. (c). Pub. L. 91–296, § 102(a)(2), added par. (c).
 
@@ -53786,7 +54148,7 @@ Another prior section 294e, act July 1, 1944, ch. 373, title VII, § 744, former
 
 (6) collecting data on the number of students trained in behavioral health care and the number of available accredited internships and field placements.
 
-**(f) Authorization of appropriations** For each of fiscal years 2023 through 2027, there are authorized to be appropriated to carry out this section $50,000,000, to be allocated as follows:
+**(f) Authorization of appropriations** For each of fiscal years 2026 through 2030, there are authorized to be appropriated to carry out this section $50,000,000, to be allocated as follows:
 
 (1) For grants described in subsection (a)(1), $15,000,000.
 
@@ -53809,6 +54171,8 @@ Another prior section 756 of act July 1, 1944, was renumbered section 338G, tran
 Another prior section 756 of act July 1, 1944, was classified to [section 294f of this title](./chapter-6a-public-health-service.md#section-294f) prior to repeal by Pub. L. 94–484.
 
 #### Amendments
+2025—Subsec. (f). Pub. L. 119–44 substituted “fiscal years 2026 through 2030” for “fiscal years 2023 through 2027”.
+
 2022—Subsec. (a)(1). Pub. L. 117–328, § 1311(a)(1)(A), inserted “(which may include master’s and doctoral level programs)” after “occupational therapy”.
 
 Subsec. (a)(4). Pub. L. 117–328, § 1311(a)(1)(B), inserted “, including training to increase skills and capacity to meet the needs of children and adolescents who have experienced trauma” after “workers”.
@@ -55769,7 +56133,7 @@ Section 295g–23, act July 1, 1944, ch. 373, title VII, § 786, as added Nov. 1
 
   (B) which is located at a substance use disorder treatment program, private physician practice, hospital or health system-affiliated inpatient treatment center or outpatient clinic (including an academic medical center-affiliated treatment program), correctional facility or program, youth detention center or program, inpatient psychiatric facility, crisis stabilization unit, community health center, community mental health or other specialty community behavioral health center, recovery center, school, community-based organization, telehealth platform, migrant health center, health program or facility operated by an Indian tribe or tribal organization, Federal medical facility, or any other facility as determined appropriate for purposes of this section by the Secretary.
 
-**(j) Authorization of appropriations** There are authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2019 through 2023.
+**(j) Authorization of appropriations** There are authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2026 through 2030.
 
 ### Statutory Notes
 
@@ -55832,6 +56196,9 @@ A prior section 295h–8, act July 1, 1944, ch. 373, title VII, § 799, as added
 A prior section 295h–9, act July 1, 1944, ch. 373, title VII, § 799A, as added Nov. 2, 1970, Pub. L. 91–519, title II, § 207, 84 Stat. 1355, § 704; amended Nov. 18, 1971, Pub. L. 92–157, title I, § 110(2), 85 Stat. 461; July 12, 1974, Pub. L. 93–348, title I, § 105, 88 Stat. 347, which related to sexual discrimination, was renumbered section 704 of act July 1, 1944, by Pub. L. 94–484 and transferred to [section 292d of this title](./chapter-6a-public-health-service.md#section-292d).
 
 A prior section 295i, act July 1, 1944, ch. 373, title VII, § 799, as added Apr. 7, 1986, Pub. L. 99–272, title XVII, § 17001, 100 Stat. 357; amended Oct. 25, 1988, Pub. L. 100–527, § 10(4), 102 Stat. 2641; Nov. 4, 1988, Pub. L. 100–607, title VI, §§ 627, 629(b)(1), 102 Stat. 3145, 3146; Aug. 16, 1989, Pub. L. 101–93, § 5(o)(3), 103 Stat. 614; Oct. 9, 1992, Pub. L. 102–405, title III, § 302(e)(1), 106 Stat. 1985, established a Council on Graduate Medical Education, prior to the general amendment of this subchapter by Pub. L. 102–408. See section 294o of this title.
+
+#### Amendments
+2025—Subsec. (j). Pub. L. 119–44 substituted “$40,000,000 for each of fiscal years 2026 through 2030” for “$25,000,000 for each of fiscal years 2019 through 2023”.
 
 
 <a id="section-295j"></a>
@@ -56334,7 +56701,7 @@ As used in this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in par. (9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in par. (9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Prior Provisions
 A prior section 296, act July 1, 1944, ch. 373, title VIII, § 801 as added Sept. 4, 1964, Pub. L. 88–581, § 2, 78 Stat. 908; amended Nov. 3, 1966, Pub. L. 89–751, § 8(a), 80 Stat. 1236; Aug. 16, 1968, Pub. L. 90–490, title II, § 201(a), 82 Stat. 780; Nov. 18, 1971, Pub. L. 92–158, § 2(a), 85 Stat. 465; July 29, 1975, Pub. L. 94–63, title IX, §§ 902(a), 910(a)(1), 89 Stat. 354, 355; Sept. 29, 1979, Pub. L. 96–76, title I, § 102, 93 Stat. 579, authorized appropriations for construction grants, prior to repeal by Pub. L. 99–92, §§ 9(a)(1), 10(a), Aug. 16, 1985, 99 Stat. 400, 402, effective Oct. 1, 1985.
@@ -59756,105 +60123,11 @@ Pub. L. 95–215, § 7, Dec. 19, 1977, 91 Stat. 1507, required Secretary of Heal
 #### Congressional Declaration of Purpose
 Pub. L. 91–572, § 2, Dec. 24, 1970, 84 Stat. 1504, provided that: “It is the purpose of this Act [see Short Title of 1970 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201)]— “(1) to assist in making comprehensive voluntary family planning services readily available to all persons desiring such services; “(2) to coordinate domestic population and family planning research with the present and future needs of family planning programs; “(3) to improve administrative and operational supervision of domestic family planning services and of population research programs related to such services; “(4) to enable public and nonprofit private entities to plan and develop comprehensive programs of family planning services; “(5) to develop and make readily available information (including educational materials) on family planning and population growth to all persons desiring such information; “(6) to evaluate and improve the effectiveness of family planning service programs and of population research; “(7) to assist in providing trained manpower needed to effectively carry out programs of population research and family planning services; and “(8) to establish an Office of Population Affairs in the Department of Health, Education, and Welfare as a primary focus within the Federal Government on matters pertaining to population research and family planning, through which the Secretary of Health, Education, and Welfare [now Health and Human Services] (hereafter in this Act referred to as the ‘Secretary’) shall carry out the purposes of this Act.”
 
-#### Ex. Ord. No. 14076. Protecting Access to Reproductive Healthcare Services
-Ex. Ord. No. 14076, July 8, 2022, 87 F.R. 42053, provided:
+#### Executive Order No. 14076
+Ex. Ord. No. 14076, July 8, 2022, 87 F.R. 42053, which related to protecting access to reproductive healthcare services following the overturn of Roe v. Wade, was revoked by Ex. Ord. No. 14182, § 2(a), Jan. 24, 2025, 90 F.R. 8751.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. Policy. Nearly 50 years ago, Roe v. Wade, 410 U.S. 113 (1973), articulated the United States Constitution’s protection of women’s fundamental right to make reproductive healthcare decisions. These deeply private decisions should not be subject to government interference. Yet today, fundamental rights—to privacy, autonomy, freedom, and equality—have been denied to millions of women across the country.
-
-Eliminating the right recognized in Roe has already had and will continue to have devastating implications for women’s health and public health more broadly. Access to reproductive healthcare services is now threatened for millions of Americans, and especially for those who live in States that are banning or severely restricting abortion care. Women’s health clinics are being forced to close—including clinics that offer other preventive healthcare services such as contraception—leaving many communities without access to critical reproductive healthcare services. Women seeking abortion care—especially those in low-income, rural, and other underserved communities—now have to travel to jurisdictions where services remain legal notwithstanding the cost or risks.
-
-In the face of this health crisis, the Federal Government is taking action to protect healthcare service delivery and promote access to critical reproductive healthcare services, including abortion. It remains the policy of my Administration to support women’s right to choose and to protect and defend reproductive rights. Doing so is essential to justice, equality, and our health, safety, and progress as a Nation.
-
-Sec. 2. Definitions. (a) The term “agency” means any authority of the United States that is an “agency” under [44 U.S.C. 3502(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/1&num=0&edition=prelim), other than one considered to be an independent regulatory agency, as defined in [44 U.S.C. 3502(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/5&num=0&edition=prelim).
-
-(b) The term “reproductive healthcare services” means medical, surgical, counseling, or referral services relating to the human reproductive system, including services relating to pregnancy or the termination of a pregnancy.
-
-Sec. 3. Protecting Access to Reproductive Healthcare Services. (a) Within 30 days of the date of this order [July 8, 2022], the Secretary of Health and Human Services shall submit a report to the President:
-
-(i) identifying potential actions:
-
-(A) to protect and expand access to abortion care, including medication abortion; and
-
-(B) to otherwise protect and expand access to the full range of reproductive healthcare services, including actions to enhance family planning services such as access to emergency contraception;
-
-(ii) identifying ways to increase outreach and education about access to reproductive healthcare services, including by launching a public awareness initiative to provide timely and accurate information about such access, which shall:
-
-(A) share information about how to obtain free or reduced cost reproductive healthcare services through Health Resources and Services Administration-Funded Health Centers, Title X clinics, and other providers; and
-
-(B) include promoting awareness of and access to the full range of contraceptive services, as well as know-your-rights information for those seeking or providing reproductive healthcare services; and
-
-(iii) identifying steps to ensure that all patients—including pregnant women and those experiencing pregnancy loss, such as miscarriages and ectopic pregnancies—receive the full protections for emergency medical care afforded under the law, including by considering updates to current guidance on obligations specific to emergency conditions and stabilizing care under the Emergency Medical Treatment and Labor Act, [42 U.S.C. 1395dd](./chapter-007-social-security.md#section-1395dd), and providing data from the Department of Health and Human Services concerning implementation of these efforts.
-
-(b) To promote access to reproductive healthcare services, the Attorney General and the Counsel to the President shall convene a meeting of private pro bono attorneys, bar associations, and public interest organizations in order to encourage lawyers to represent and assist patients, providers, and third parties lawfully seeking these services throughout the country.
-
-Sec. 4. Protecting Privacy, Safety, and Security. (a) To address potential heightened safety and security risks related to the provision of reproductive healthcare services, the Attorney General and the Secretary of Homeland Security shall consider actions, as appropriate and consistent with applicable law, to ensure the safety of patients, providers, and third parties, and to protect the security of clinics (including mobile clinics), pharmacies, and other entities providing, dispensing, or delivering reproductive and related healthcare services.
-
-(b) To address the potential threat to patient privacy caused by the transfer and sale of sensitive health-related data and by digital surveillance related to reproductive healthcare services, and to protect people seeking reproductive health services from fraudulent schemes or deceptive practices:
-
-(i) The Chair of the Federal Trade Commission (FTC) is encouraged to consider actions, as appropriate and consistent with applicable law (including the Federal Trade Commission Act, [15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.), to protect consumers’ privacy when seeking information about and provision of reproductive healthcare services.
-
-(ii) The Secretary of Health and Human Services shall consider actions, including providing guidance under the Health Insurance Portability and Accountability Act [of 1996], Public Law 104–191, 110 Stat. 1936 (1996) as amended by Public Law 111–5, 123 Stat. 115 (2009), and any other statutes as appropriate, to strengthen the protection of sensitive information related to reproductive healthcare services and bolster patient-provider confidentiality.
-
-(iii) The Secretary of Health and Human Services shall, in consultation with the Attorney General, consider actions to educate consumers on how best to protect their health privacy and limit the collection and sharing of their sensitive health-related information.
-
-(iv) The Secretary of Health and Human Services shall, in consultation with the Attorney General and the Chair of the FTC, consider options to address deceptive or fraudulent practices related to reproductive healthcare services, including online, and to protect access to accurate information.
-
-Sec. 5. Coordinating Implementation Efforts. (a) The Secretary of Health and Human Services and the Director of the Gender Policy Council shall establish and co-chair an Interagency Task Force on Reproductive Healthcare Access (Task Force). Additional members shall include the Attorney General and the heads of other agencies as determined by the Secretary of Health and Human Services and the Director of the Gender Policy Council. The Task Force shall work to identify and coordinate activities to protect and strengthen access to essential reproductive healthcare services. In addition, the Task Force shall coordinate Federal interagency policymaking, program development, and outreach efforts to address barriers that individuals and entities may face in seeking and providing reproductive healthcare services. The Department of Health and Human Services shall provide funding and administrative support as may be necessary for the performance and functions of the Task Force.
-
-(b) The Attorney General shall provide technical assistance, as appropriate and consistent with applicable law, concerning Federal constitutional protections to States seeking to afford legal protection to out-of-State patients and providers who offer legal reproductive healthcare.
-
-Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.
-
-#### Ex. Ord. No. 14079. Securing Access to Reproductive and Other Healthcare Services
-Ex. Ord. No. 14079, Aug. 3, 2022, 87 F.R. 49505, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. Policy. On July 8, 2022, following a decision by the Supreme Court to overrule Roe v. Wade, 410 U.S. 113 (1973), I signed Executive Order 14076 (Protecting Access to Reproductive Healthcare Services) [set out above]. As that order recognized, eliminating the right recognized in Roe has had and will continue to have devastating implications for women’s health and public health more broadly.
-
-Following that order, the Department of Health and Human Services (HHS) has taken critical steps to address those effects. These steps include clarifying the obligation of hospitals and providers under the Emergency Medical Treatment and Labor Act, [42 U.S.C. 1395dd](./chapter-007-social-security.md#section-1395dd), to provide to patients presenting at an emergency department with an emergency medical condition stabilizing care, including an abortion, if that care is necessary to stabilize their emergency medical condition, and issuing guidance to the Nation’s retail pharmacies on their obligations under Federal civil rights laws—including section 504 of the Rehabilitation Act [of 1973], [29 U.S.C. 794](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794&num=0&edition=prelim), and section 1557 of the [Patient Protection and] Affordable Care Act, [42 U.S.C. 18116](./chapter-157-quality-affordable-health-care-for-all-americans.md#section-18116)—to ensure equal access to comprehensive reproductive and other healthcare services, including for women who are experiencing miscarriages.
-
-However, the continued advancement of restrictive abortion laws in States across the country has created legal uncertainty and disparate access to reproductive healthcare services depending on where a person lives, putting patients, providers, and third parties at risk and fueling confusion for hospitals and healthcare providers, including pharmacies. There have been numerous reports of women denied health- and life-saving emergency care, as providers fearful of legal reprisal delay necessary treatment for patients until their conditions worsen to dangerous levels. There are also reports of women of reproductive age being denied prescription medication at pharmacies—including medication that is used to treat stomach ulcers, lupus, arthritis, and cancer—due to concerns that these medications, some of which can be used in medication abortions, could be used to terminate a pregnancy. Reportedly, a healthcare provider, citing a State law restricting abortion, even temporarily stopped providing emergency contraception.
-
-As it remains the policy of my Administration to support women’s access to reproductive healthcare services, including their ability to travel to seek abortion care in States where it is legal, I am directing my Administration to take further action to protect access to reproductive healthcare services and to address the crisis facing women’s health and public health more broadly.
-
-Sec. 2. Definition. The term “reproductive healthcare services” means medical, surgical, counseling, or referral services relating to the human reproductive system, including services relating to pregnancy or the termination of a pregnancy.
-
-Sec. 3. Advancing the Ability to Obtain Reproductive Healthcare Services. In furtherance of the policy set forth in section 1 of this order, the Secretary of HHS shall consider actions to advance access to reproductive healthcare services, including, to the extent permitted by Federal law, through Medicaid for patients traveling across State lines for medical care.
-
-Sec. 4. Promoting Compliance with Non-Discrimination Law in Obtaining Medical Care. In furtherance of the policy set forth in section 1 of this order, and to ensure that individuals are not denied necessary healthcare on the basis of any ground protected by Federal law, including current pregnancy, past pregnancy, potential or intended pregnancy, or other medical conditions, the Secretary of HHS shall consider all appropriate actions to advance the prompt understanding of and compliance with Federal non-discrimination laws by healthcare providers that receive Federal financial assistance. Such actions may include:
-
-(a) providing technical assistance for healthcare providers that have questions concerning their obligations under Federal non-discrimination laws;
-
-(b) convening healthcare providers to provide information on their obligations under Federal non-discrimination laws and the potential consequences of non-compliance; and
-
-(c) issuing additional guidance, or taking other action as appropriate, in response to any complaints or other reports of non-compliance with Federal non-discrimination laws.
-
-Sec. 5. Data Collection. The Secretary of HHS shall evaluate the adequacy of research, data collection, and data analysis and interpretation efforts at the National Institutes of Health, the Centers for Disease Control and Prevention, and other relevant HHS components in accurately measuring the effect of access to reproductive healthcare on maternal health outcomes and other health outcomes. Following that evaluation, the Secretary shall take appropriate actions to improve those efforts.
-
-Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.
+#### Executive Order No. 14079
+Ex. Ord. No. 14079, Aug. 3, 2022, 87 F.R. 49505, which related to further action to protect access to reproductive healthcare services and addressing women’s health and public health, was revoked by Ex. Ord. No. 14182, § 2(a), Jan. 24, 2025, 90 F.R. 8751.
 
 #### Ex. Ord. No. 14101. Strengthening Access to Affordable, High-Quality Contraception and Family Planning Services
 Ex. Ord. No. 14101, June 23, 2023, 88 F.R. 41815, provided:
@@ -59939,69 +60212,36 @@ Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impa
 
 J.R. Biden, Jr.
 
-#### The Title X “Gag Rule”
-Memorandum of President of the United States, Jan. 22, 1993, 58 F.R. 7455, provided:
-
-Memorandum for the Secretary of Health and Human Services
-
-Title X of the Public Health Services Act [[42 U.S.C. 300](./chapter-6a-public-health-service.md#section-300) et seq.] provides Federal funding for family planning clinics to provide services for low-income patients. The Act specifies that Title X funds may not be used for the performance of abortions, but places no restrictions on the ability of clinics that receive Title X funds to provide abortion counseling and referrals or to perform abortions using non-Title X funds. During the first 18 years of the program, medical professionals at Title X clinics provided complete, uncensored information, including nondirective abortion counseling. In February 1988, the Department of Health and Human Services adopted regulations, which have become known as the “Gag Rule,” prohibiting Title X recipients from providing their patients with information, counseling, or referrals concerning abortion. Subsequent attempts by the Bush Administration to modify the Gag Rule and ensuing litigation have created confusion and uncertainty about the current legal status of the regulations.
-
-The Gag Rule endangers women’s lives and health by preventing them from receiving complete and accurate medical information and interferes with the doctor-patient relationship by prohibiting information that medical professionals are otherwise ethically and legally required to provide to their patients. Furthermore, the Gag Rule contravenes the clear intent of a majority of the members of both the United States Senate and House of Representatives, which twice passed legislation to block the Gag Rule’s enforcement but failed to override Presidential vetoes.
-
-For these reasons, you have informed me that you will suspend the Gag Rule pending the promulgation of new regulations in accordance with the “notice and comment” procedures of the Administrative Procedure Act [[5 U.S.C. 551](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551&num=0&edition=prelim) et seq.]. I hereby direct you to take that action as soon as possible. I further direct that, within 30 days, you publish in the Federal Register new proposed regulations for public comment.
-
-You are hereby authorized and directed to publish this memorandum in the Federal Register.
-
-William J. Clinton.
-
-#### Protecting Women’s Health at Home and Abroad
-Memorandum of President of the United States, Jan. 28, 2021, 86 F.R. 33077, provided:
+#### The Mexico City Policy
+Memorandum of President of the United States, Jan. 24, 2025, 90 F.R. 8753, provided:
 
 Memorandum for the Secretary of State[,] the Secretary of Defense[,] the Secretary of Health and Human Services[, and] the Administrator of the United States Agency for International Development
 
-Section 1. Policy. Women should have access to the healthcare they need. For too many women today, both at home and abroad, that is not possible. Undue restrictions on the use of Federal funds have made it harder for women to obtain necessary healthcare. The Federal Government must take action to ensure that women at home and around the world are able to access complete medical information, including with respect to their reproductive health.
+I hereby revoke the Presidential Memorandum of January 28, 2021, for the Secretary of State, the Secretary of Defense, the Secretary of Health and Human Services, and the Administrator of the United States Agency for International Development (Protecting Women’s Health at Home and Abroad) [86 F.R. 33077], and reinstate the Presidential Memorandum of January 23, 2017, for the Secretary of State, the Secretary of Health and Human Services, and the Administrator of the United States Agency for International Development (The Mexico City Policy) [82 F.R. 8495].
 
-In the United States, Title X of the Public Health Services [sic] Act ([42 U.S.C. 300](./chapter-6a-public-health-service.md#section-300) to 300a–6) provides Federal funding for family planning services that primarily benefit low-income patients. The Act specifies that Title X funds may not be used in programs where abortion is a method of family planning, but places no further abortion-related restrictions on recipients of Title X funds. See [42 U.S.C. 300a–6](./chapter-6a-public-health-service.md#section-300a-6). In 2019, the Secretary of Health and Human Services finalized changes to regulations governing the Title X program and issued a final rule entitled “Compliance With Statutory Program Integrity Requirements,” 84 FR 7714 (Mar. 4, 2019) (Title X Rule), which prohibits recipients of Title X funds from referring patients to abortion providers and imposes other onerous requirements on abortion providers. The Title X Rule has caused the termination of Federal family planning funding for many women’s healthcare providers and puts women’s health at risk by making it harder for women to receive complete medical information.
+I direct the Secretary of State, in coordination with the Secretary of Health and Human Services, to the extent allowable by law, to implement a plan to extend the requirements of the reinstated Memorandum to global health assistance furnished by all departments or agencies.
 
-It is the policy of my Administration to support women’s and girls’ sexual and reproductive health and rights in the United States, as well as globally. The Foreign Assistance Act of 1961 ([22 U.S.C. 2151b(f)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151b/f/1&num=0&edition=prelim)), prohibits nongovernmental organizations (NGOs) that receive Federal funds from using those funds “to pay for the performance of abortions as a method of family planning, or to motivate or coerce any person to practice abortions.” The August 1984 announcement by President Reagan of what has become known as the “Mexico City Policy” directed the United States Agency for International Development (USAID) to expand this limitation and withhold USAID family planning funds from NGOs that use non-USAID funds to perform abortions, provide advice, counseling, or information regarding abortion, or lobby a foreign government to legalize abortion or make abortion services more easily available. These restrictions were rescinded by President Clinton in 1993, reinstated by President George W. Bush in 2001, and rescinded by President Obama in 2009. President Trump substantially expanded these restrictions by applying the policy to global health assistance provided by all executive departments and agencies (agencies). These excessive conditions on foreign and development assistance undermine the United States’ efforts to advance gender equality globally by restricting our ability to support women’s health and programs that prevent and respond to gender-based violence. The expansion of the policy has also affected all other areas of global health assistance, limiting the United States’ ability to work with local partners around the world and inhibiting their efforts to confront serious health challenges such as HIV/AIDS, tuberculosis, and malaria, among others. Such restrictions on global health assistance are particularly harmful in light of the coronavirus disease 2019 (COVID–19) pandemic. Accordingly, I hereby order as follows:
+I further direct the Secretary of State to take all necessary actions, to the extent permitted by law, to ensure that U.S. taxpayer dollars do not fund organizations or programs that support or participate in the management of a program of coercive abortion or involuntary sterilization.
 
-Sec. 2. Agency Revocations and Other Actions. (a) The Secretary of Health and Human Services shall review the Title X Rule and any other regulations governing the Title X program that impose undue restrictions on the use of Federal funds or women’s access to complete medical information and shall consider, as soon as practicable, whether to suspend, revise, or rescind, or publish for notice and comment proposed rules suspending, revising, or rescinding, those regulations, consistent with applicable law, including the Administrative Procedure Act [see [5 U.S.C. 551](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551&num=0&edition=prelim) to 559, 701 to 706].
+This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-(b) The Presidential Memorandum of January 23, 2017 (The Mexico City Policy) [82 F.R. 8495], is revoked.
+The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
 
-(c) The Secretary of State, the Secretary of Defense, the Secretary of Health and Human Services, the Administrator of USAID, and appropriate officials at all other agencies involved in foreign assistance shall take all steps necessary to implement this memorandum, as appropriate and consistent with applicable law. This shall include the following actions with respect to conditions in assistance awards that were imposed pursuant to the January 2017 Presidential Memorandum and that are not required by the Foreign Assistance Act [[22 U.S.C. 2151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) et seq.] or any other law:
+Donald J. Trump.
 
-(i) immediately waive such conditions in any current grants;
+Prior memoranda relating to Federal funding for family planning under this subchapter were contained in the following:
 
-(ii) notify current grantees, as soon as possible, that these conditions have been waived; and
+Memorandum of President of the United States, Jan. 28, 2021, 86 F.R. 33077, revoked by Memorandum of President of the United States, Jan. 24, 2025, 90 F.R. 8753.
 
-(iii) immediately cease imposing these conditions in any future assistance awards.
+Memorandum of President of the United States, Jan. 23, 2017, 82 F.R. 8495, revoked by Memorandum of President of the United States, § 2(b), Jan. 28, 2021, 86 F.R. 33078, reinstated by Memorandum of President of the United States, Jan. 24, 2025, 90 F.R. 8753.
 
-(d) The Secretary of State, the Secretary of Defense, the Secretary of Health and Human Services, and the Administrator of USAID, as appropriate and consistent with applicable law, shall suspend, revise, or rescind any regulations, orders, guidance documents, policies, and any other similar agency actions that were issued pursuant to the January 2017 Presidential Memorandum.
+Memorandum of President of the United States, Jan. 23, 2009, 74 F.R. 4903, revoked by Memorandum of President of the United States, Jan. 23, 2017, 82 F.R. 8495.
 
-(e) The Secretary of State and the Secretary of Health and Human Services, in a timely and appropriate manner, shall withdraw co-sponsorship and signature from the Geneva Consensus Declaration (Declaration) and notify other co-sponsors and signatories to the Declaration and other appropriate parties of the United States’ withdrawal.
+Memorandum of President of the United States, Jan. 29, 2003, 68 F.R. 52323, revoked by Memorandum of President of the United States, Jan. 23, 2009, 74 F.R. 4903.
 
-(f) The Secretary of State, consistent with applicable law and subject to the availability of appropriations, shall:
+Memorandum of President of the United States, Jan. 22, 2001, (not published in Federal Register) revoked by Memorandum of President of the United States, Jan. 23, 2009, 74 F.R. 4903.
 
-(i) take the steps necessary to resume funding to the United Nations Population Fund; and
-
-(ii) work with the Administrator of USAID and across United States Government foreign assistance programs to ensure that adequate funds are being directed to support women’s health needs globally, including sexual and reproductive health and reproductive rights.
-
-(g) The Secretary of State, in coordination with the Secretary of Health and Human Services, shall provide guidance to agencies consistent with this memorandum.
-
-Sec. 3. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-(d) The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
-
-J.R. Biden, Jr.
+Memorandum of President of the United States, Jan. 22, 1993, 58 F.R. 7455, revoked by Memorandum of President of the United States, Jan. 22, 2001 (not published in Federal Register).
 
 #### Further Efforts To Protect Access to Reproductive Healthcare Services
 Memorandum of President of the United States, Jan. 22, 2023, 88 F.R. 4895, provided:
@@ -70072,7 +70312,7 @@ A prior section 2604 of act July 1, 1944, was successively renumbered by subsequ
 
 Pub. L. 109–415, § 105, amended section generally. Prior to amendment, section related to requirements for allocation of funds, purposes for use of amounts, quality management program, expenditures for personnel, status of grantee as medicaid provider, administrative activities and expenses, and prohibited uses of amounts.
 
-Subsecs. (h)(1), (2), (5)(A) and (i). Pub. L. 109–415, § 107(b), substituted “this subpart” for “this part”.
+Subsecs. (h)(1), (2), (5)(A), (i). Pub. L. 109–415, § 107(b), substituted “this subpart” for “this part”.
 
 2000—Subsec. (b)(1). Pub. L. 106–345, § 121(a)(1), substituted “HIV-related services, as follows:” for “HIV-related—” in introductory provisions.
 
@@ -71281,7 +71521,7 @@ Section effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as 
 
   (B) *State distribution factor* — For purposes of subparagraph (A)(ii)(I), the term “State distribution factor” means an amount equal to the number of living cases of HIV/AIDS in the State involved, as determined under subparagraph (D).
 
-  (C) *Non-EMA distribution factor* — For purposes of subparagraph (A)(ii)(II), the term “non-ema 11 So in original. Probably should be “ ‘non-EMA”. distribution factor” means an amount equal to the sum of—
+  (C) *Non-EMA distribution factor* — For purposes of subparagraph (A)(ii)(II), the term “non-ema 11 So in original. Probably should be “non-EMA”. distribution factor” means an amount equal to the sum of—
 
     (i) the number of living cases of HIV/AIDS in the State involved, as determined under subparagraph (D); less
 
@@ -74229,11 +74469,11 @@ Section effective for plan years beginning on or after the date that is 6 months
 
 (1) evidence-based items or services that have in effect a rating of “A” or “B” in the current recommendations of the United States Preventive Services Task Force;
 
-(2) immunizations that have in effect a recommendation from the Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention with respect to the individual involved; and 11 So in original. The word “and” probably should not appear.
+(2) immunizations that have in effect a recommendation from the Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention with respect to the individual involved; and 11 So in original.
 
-(3) with respect to infants, children, and adolescents, evidence-informed preventive care and screenings provided for in the comprehensive guidelines supported by the Health Resources and Services Administration.22 So in original. The period probably should be a semicolon.
+(3) with respect to infants, children, and adolescents, evidence-informed preventive care and screenings provided for in the comprehensive guidelines supported by the Health Resources and Services Administration.1
 
-(4) with respect to women, such additional preventive care and screenings not described in paragraph (1) as provided for in comprehensive guidelines supported by the Health Resources and Services Administration for purposes of this paragraph.2
+(4) with respect to women, such additional preventive care and screenings not described in paragraph (1) as provided for in comprehensive guidelines supported by the Health Resources and Services Administration for purposes of this paragraph.1
 
 (5) for the purposes of this chapter, and for the purposes of any other provision of law, the current recommendations of the United States Preventive Service Task Force regarding breast cancer screening, mammography, and prevention shall be considered the most current other than those issued in or around November 2009.
 Nothing in this subsection shall be construed to prohibit a plan or issuer from providing coverage for services in addition to those recommended by United States Preventive Services Task Force or to deny coverage for services that are not recommended by such Task Force.
@@ -74317,7 +74557,7 @@ Pub. L. 116–136, div. A, title III, § 3203, Mar. 27, 2020, 134 Stat. 367, pro
 
   (C) In the case of a participating facility and a nonparticipating provider, a list of any participating providers at the facility who are able to furnish such items and services involved and notification that the participant, beneficiary, or enrollee may be referred, at their option, to such a participating provider.
 
-  (D) Information about whether prior authorization or other care management limitations may be required in advance of receiving such items or services at the facility
+  (D) Information about whether prior authorization or other care management limitations may be required in advance of receiving such items or services at the facility.
 
 (3) **Consent described to be treated by a nonparticipating provider or nonparticipating facility** — For purposes of paragraph (1)(B), the consent described in this paragraph, with respect to a participant, beneficiary, or enrollee of a group health plan or group or individual health insurance coverage offered by a health insurance issuer who is to be furnished items or services by a nonparticipating provider or nonparticipating facility, is a document specified by the Secretary, in consultation with the Secretary of Labor, through guidance that shall be signed by the participant, beneficiary, or enrollee before such items or services are furnished and that—
 
@@ -75071,7 +75311,7 @@ Subsec. (b)(2)(D). Pub. L. 110–233, § 102(c)(2), added subpar. (D).
 
 1996—Subsec. (a). Pub. L. 104–204, § 604(b)(1)(A), substituted “subparts 1 and 3” for “subparts 1 and 2”.
 
-Subsec. (b) to (d). Pub. L. 104–204, § 604(b)(1)(B), substituted “subparts 1 through 3” for “subparts 1 and 2” wherever appearing.
+Subsecs. (b) to (d). Pub. L. 104–204, § 604(b)(1)(B), substituted “subparts 1 through 3” for “subparts 1 and 2” wherever appearing.
 
 #### Effective Date of 2020 Amendment
 Amendment by Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as a note under [section 8902 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8902&num=0&edition=prelim), Government Organization and Employees.
@@ -79696,7 +79936,7 @@ Subsec. (b)(10), (11). Pub. L. 117–328, § 2104(k)(1)(B), added par. (10) and 
 
 **(f) Coordination** The Secretary shall coordinate duties and activities authorized under this section in accordance with [section 300hh–10e of this title](./chapter-6a-public-health-service.md#section-300hh-10e).
 
-**(g) Sunset** The Advisory Committee shall terminate on March 31, 2025.
+**(g) Sunset** The Advisory Committee shall terminate on January 30, 2026.
 
 ### Statutory Notes
 
@@ -79704,6 +79944,10 @@ Subsec. (b)(10), (11). Pub. L. 117–328, § 2104(k)(1)(B), added par. (10) and 
 Section was formerly classified to [section 300hh–10a of this title](./chapter-6a-public-health-service.md#section-300hh-10a).
 
 #### Amendments
+2025—Subsec. (g). Pub. L. 119–37 substituted “January 30, 2026” for “September 30, 2025”.
+
+Pub. L. 119–4 substituted “September 30, 2025” for “March 31, 2025”.
+
 2024—Subsec. (g). Pub. L. 118–158 substituted “March 31, 2025” for “December 31, 2024”.
 
 Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
@@ -79785,13 +80029,17 @@ Subsec. (g). Pub. L. 116–22, § 305(a)(4), (6), redesignated subsec. (f) as (g
 
 **(g) Sunset**
 
-(1) **In general** — The Advisory Committee shall terminate on March 31, 2025.
+(1) **In general** — The Advisory Committee shall terminate on January 30, 2026.
 
 (2) **Extension of Committee** — Not later than October 1, 2022, the Secretary shall submit to Congress a recommendation on whether the Advisory Committee should be extended.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (g)(1). Pub. L. 119–37 substituted “January 30, 2026” for “September 30, 2025”.
+
+Pub. L. 119–4 substituted “September 30, 2025” for “March 31, 2025”.
+
 2024—Subsec. (g)(1). Pub. L. 118–158 substituted “March 31, 2025” for “December 31, 2024”.
 
 Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
@@ -79855,13 +80103,17 @@ Pub. L. 118–15 substituted “November 17, 2023” for “September 30, 2023�
 
 **(g) Sunset**
 
-(1) **In general** — The Advisory Committee shall terminate on March 31, 2025.
+(1) **In general** — The Advisory Committee shall terminate on January 30, 2026.
 
 (2) **Recommendation** — Not later than October 1, 2022, the Secretary shall submit to Congress a recommendation on whether the Advisory Committee should be extended.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (g)(1). Pub. L. 119–37 substituted “January 30, 2026” for “September 30, 2025”.
+
+Pub. L. 119–4 substituted “September 30, 2025” for “March 31, 2025”.
+
 2024—Subsec. (g)(1). Pub. L. 118–158 substituted “March 31, 2025” for “December 31, 2024”.
 
 Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
@@ -79952,7 +80204,7 @@ Pub. L. 118–15 substituted “November 17, 2023” for “September 30, 2023�
 
   (A) *In general* — If the Secretary determines that the number of intermittent disaster response personnel within the National Disaster Medical System under this section is insufficient to address a public health emergency or potential public health emergency, the Secretary may appoint candidates directly to personnel positions for intermittent disaster response within such system. The Secretary shall provide updates on the number of vacant or unfilled positions within such system to the congressional committees of jurisdiction each quarter for which this authority is in effect.
 
-  (B) *Sunset* — The authority under this paragraph shall expire on March 31, 2025.
+  (B) *Sunset* — The authority under this paragraph shall expire on January 30, 2026.
 
 (5) **Omitted**
 
@@ -79992,6 +80244,10 @@ Pub. L. 118–15 substituted “November 17, 2023” for “September 30, 2023�
 Subsec. (c)(5) of this section was omitted in light of section 301(d)(3) of Pub. L. 116–22, which provided that the amendment adding subsec. (c)(5) would cease to have force or effect on Oct. 1, 2021. See 2019 Amendment and Termination Date of 2019 Amendment notes below.
 
 #### Amendments
+2025—Subsec. (c)(4)(B). Pub. L. 119–37 substituted “January 30, 2026” for “September 30, 2025”.
+
+Pub. L. 119–4 substituted “September 30, 2025” for “March 31, 2025”.
+
 2024—Subsec. (c)(4)(B). Pub. L. 118–158 substituted “March 31, 2025” for “December 31, 2024”.
 
 Pub. L. 118–42 substituted “December 31, 2024” for “March 8, 2024”.
@@ -81224,7 +81480,7 @@ The Federal Water Pollution Control Act, referred to in subsec. (f)(1), is act J
 
 The Solid Waste Disposal Act, referred to in subsec. (f)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title](./chapter-082-solid-waste-disposal.md#section-6901) and Tables.
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (f)(1), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (f)(1), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) and Tables.
 
 #### Amendments
 1996—Pub. L. 104–182, § 501(f)(4), made technical amendment to section catchline and subsec. (a) designation.
@@ -83466,7 +83722,7 @@ To the extent that the Administrator of the Environmental Protection Agency deem
 ### Statutory Notes
 
 #### References in Text
-The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XIV of the Public Health Service Act is classified generally to this subchapter (§ 300f et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682. Title XIV of the Public Health Service Act is classified generally to this subchapter (§ 300f et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Codification
 Section was enacted as part of the Safe Drinking Water Amendments of 1977, and not as part of the Public Health Service Act which comprises this chapter.
@@ -84738,7 +84994,7 @@ Subsec. (b)(6)(C). Pub. L. 117–58, § 50105(2)(B)(ii), substituted “shall, i
 
 “(ii) the amount of assistance available to the low-income homeowner under paragraph (5);”.
 
-Subsec. (b)(6)(E). Pub. L. 117–58, § 50105(2)(B)(iv), substituted “feasible alternatives for reducing the concentration of lead in drinking water, such as corrosion control; and” for “other options for reducing the concentration of lead in its drinking water, including an evaluation of options for corrosion control.”.
+Subsec. (b)(6)(E). Pub. L. 117–58, § 50105(2)(B)(iv), substituted “feasible alternatives for reducing the concentration of lead in drinking water, such as corrosion control; and” for “other options for reducing the concentration of lead in its drinking water, including an evaluation of options for corrosion control.”
 
 Subsec. (b)(6)(F). Pub. L. 117–58, § 50105(2)(B)(iii), (v), added subpar. (F).
 
@@ -91017,7 +91273,7 @@ Section effective Oct. 1, 1981, see section 901 of Pub. L. 97–35, set out in p
 
 (2) the term “accredited” has the same meaning as in section 292a(5) 1 of this title.
 
-**(d) Authorization of appropriations** To carry out this section, there are authorized to be appropriated $2,000,000 for fiscal year 1985 and for each of the two succeeding fiscal years, $3,000,000 for fiscal year 1989, $4,000,000 for fiscal year 1990, $5,000,000 for each of the fiscal years 1991 and 1992, such sums as may be necessary for each of the fiscal years 1993 through 2005, $25,000,000 for fiscal year 2010, $26,250,000 for fiscal year 2011, $27,562,500 for fiscal year 2012, $28,940,625 for fiscal year 2013, $30,387,656 for fiscal year 2014, $20,213,000 for each of fiscal years 2015 through 2019, and $22,334,000 for each of fiscal years 2020 through 2024.
+**(d) Authorization of appropriations** To carry out this section, there are authorized to be appropriated $2,000,000 for fiscal year 1985 and for each of the two succeeding fiscal years, $3,000,000 for fiscal year 1989, $4,000,000 for fiscal year 1990, $5,000,000 for each of the fiscal years 1991 and 1992, such sums as may be necessary for each of the fiscal years 1993 through 2005, $25,000,000 for fiscal year 2010, $26,250,000 for fiscal year 2011, $27,562,500 for fiscal year 2012, $28,940,625 for fiscal year 2013, $30,387,656 for fiscal year 2014, $20,213,000 for each of fiscal years 2015 through 2019, $22,334,000 for each of fiscal years 2020 through 2024, and $24,334,000 for each of fiscal years 2025 through 2029.
 
 ### Statutory Notes
 
@@ -91027,6 +91283,8 @@ Section effective Oct. 1, 1981, see section 901 of Pub. L. 97–35, set out in p
 [Section 292a of this title](./chapter-6a-public-health-service.md#section-292a), referred to in subsec. (c), was in the original a reference to section 701 of act July 1, 1944. Section 701 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 701 of act July 1, 1944, relating to statement of purpose, and a new section 702, relating to scope and duration of loan insurance program, which are classified to sections 292 and 292a, respectively, of this title. For provisions relating to definitions, see [section 295p of this title](./chapter-6a-public-health-service.md#section-295p).
 
 #### Amendments
+2024—Subsec. (d). Pub. L. 118–178 substituted “$22,334,000 for each of fiscal years 2020 through 2024, and $24,334,000 for each of fiscal years 2025 through 2029” for “and $22,334,000 for each of fiscal years 2020 through 2024”.
+
 2019—Subsec. (d). Pub. L. 116–49 substituted “2014,” for “2014, and” and inserted before period at end “, and $22,334,000 for each of fiscal years 2020 through 2024”.
 
 2014—Subsec. (d). Pub. L. 113–180 substituted “$30,387,656” for “and $30,387,656” and inserted before period at end “, and $20,213,000 for each of fiscal years 2015 through 2019”.
@@ -91086,6 +91344,9 @@ A prior section 300x, act July 1, 1944, ch. 373, title XIX, § 1911, as added Au
 
 #### Effective Date
 Part effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, and with provision that section 205(a) of Pub. L. 102–321, set out below, regarding allotments made for fiscal year 1992 under this part as in effect on the day before July 10, 1992, applies with respect to the program established in this part, see section 801(b), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under [section 236 of this title](./chapter-6a-public-health-service.md#section-236).
+
+#### State Guidance Related to Individuals With Serious Mental Illness and Children With Serious Emotional Disturbance
+Pub. L. 119–44, title II, § 208, Dec. 1, 2025, 139 Stat. 681, provided that: “(a) Review of Use of Certain Funding.—Not later than 1 year after the date of enactment of this Act [Dec. 1, 2025], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’), acting through the Assistant Secretary for Mental Health and Substance Use, shall conduct a review of State use of funds made available under the Community Mental Health Services Block Grant program under subpart I of part B of title XIX of the Public Health Service Act ([42 U.S.C. 300x](./chapter-6a-public-health-service.md#section-300x) et seq.) (referred to in this section as the ‘block grant program’) for first episode psychosis activities. Such review shall consider the following:“(1) How States use funds for evidence-based treatments and services according to the standard of care for individuals with early serious mental illness and children with a serious emotional disturbance. “(2) The percentages of the State funding under the block grant program expended on early serious mental illness and first episode psychosis, and the number of individuals served under such funds. “(b) Report and Guidance.—“(1) Report.—Not later than 180 days after the completion of the review under subsection (a), the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives a report describing—“(A) the findings of the review under subsection (a); and “(B) any recommendations for changes to the block grant program that would facilitate improved outcomes for individuals with serious mental illness and children with serious emotional disturbance. “(2) Guidance.—Not later than 1 year after the date on which the report is submitted under paragraph (1), the Secretary shall update the guidance provided to States under the block grant program on coordinated specialty care and other evidence-based mental health care services for individuals with serious mental illness and children with a serious emotional disturbance, based on the findings and recommendations of such report.”
 
 #### Temporary Provisions Regarding Funding
 Section 205 of Pub. L. 102–321, as amended by Pub. L. 102–352, § 2(c), Aug. 26, 1992, 106 Stat. 939; Pub. L. 102–408, title III, § 312, Oct. 13, 1992, 106 Stat. 2091, provided that, with respect to allotments made for fiscal year 1992 under this part, as in effect on the day before July 10, 1992, any portion of the total of such allotments that has not been paid to the States as of the first day of the fourth quarter of such fiscal year be reallotted with the result that the total allotment made for a State for fiscal year 1992 be the amount indicated for the State in a specified table, authorized Secretary of Health and Human Services to make a grant to a State of the reallotment if the State agrees that the grant be subject to all conditions upon which allotments and payments under this part, as in effect on the day before July 10, 1992, are made for fiscal 1992, with specified exceptions, permitted transfers of allotments made in fiscal years 1993 and 1994 between this part and subpart II, [section 300x–21 of this title](./chapter-6a-public-health-service.md#section-300x-21), under certain circumstances, defined terms as used, and directed funding, subject to a limitation, of a program for pregnant and postpartum women for fiscal year 1993.

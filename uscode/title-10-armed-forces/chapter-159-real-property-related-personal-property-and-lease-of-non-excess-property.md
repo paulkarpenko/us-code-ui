@@ -60,14 +60,32 @@ Subsec. (c). Pub. L. 108–375, § 2821(a)(1), added subsec. (c).
 #### Effective Date of 2011 Amendment
 Pub. L. 112–81, div. B, title XXVIII, § 2863(b), Dec. 31, 2011, 125 Stat. 1702, provided that: “The prohibition in subsection (c) of [section 2661 of title 10](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2661), United States Code, as added by subsection (a), shall apply only with respect to real property of the Department of Defense named after the date of the enactment of this Act [Dec. 31, 2011].”
 
+#### Restroom Access at Military Installations for Certain Transportation Service Providers
+Pub. L. 119–60, div. A, title III, § 379, Dec. 18, 2025, 139 Stat. 843, provided that: “(a) Restroom Access.—The Secretary of Defense shall take such steps as may be necessary to ensure that, with respect to each covered location, there is a restroom—“(1) located at or in close proximity to the covered location; “(2) to which any covered driver, while providing a transportation protective service involving the transport of sensitive cargo to or from the covered location on behalf of the Department of Defense, is authorized access; “(3) that to the extent practicable, provides for privacy, hand washing, accessibility, and gender-specific needs; and “(4) in the case of a portable restroom, that is vented and equipped with adequate lighting (which may be achieved through supplementation with a temporary lighting source, as necessary). “(b) Location.—The location of a restroom under subsection (a)(1) may not be a location to which access by the covered driver would result in—“(1) a security risk, as determined by the Secretary; “(2) a health or safety risk to the covered driver; or “(3) a violation of any other regulation or policy of the Department. “(c) Notification of Noncompliance.—In carrying out subsection (a), the Secretary shall—“(1) establish a process by which a covered driver may provide to the Secretary timely notification of any covered location with respect to which access to a restroom is not provided consistent with such subsection; and “(2) upon receiving such a notification, coordinate with the commander of the military installation concerned or other appropriate officer or employee of the Department to ensure such access is provided. “(d) Definitions.—In this section:“(1) The terms ‘arms, ammunition, and explosives’, ‘safe haven’, ‘secure holding area’, ‘secure holding location’, and ‘transportation protective service’ have the meanings given those terms in the publication of the United States Army Transportation Command issued October 4, 2024, and titled ‘Military Freight Traffic Unified Rules Publication-1 (MFTURP-1)’, or any successor thereto. “(2) The term ‘commercial motor vehicle’ has the meaning given that term in [section 31101 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31101&num=0&edition=prelim), United States Code. “(3) The term ‘covered driver’ means an operator of a commercial motor vehicle—“(A) authorized to provide a transportation protective service on behalf of the Department of Defense; and “(B) subject to requirements for qualifications and maximum hours of service under [section 31502(b) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31502/b&num=0&edition=prelim), United States Code. “(4) The term ‘covered location’ means a safe haven, secure holding area, or secure holding location at a military installation or other facility of the Department of Defense. “(5) The terms ‘facility’ and ‘military installation’ have the meanings given those terms in [section 2801(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2801/c&num=0&edition=prelim), United States Code. “(6) The term ‘sensitive cargo’ means—“(A) arms, ammunition, and explosives; “(B) classified material; or “(C) any other cargo, or category thereof, the Secretary of Defense determines sensitive for purposes of this section.”
+
+#### Expenditures on Leased Facilities and Real Property of the Department of Defense
+Pub. L. 118–159, div. B, title XXVIII, § 2850, Dec. 23, 2024, 138 Stat. 2269, provided that: “(a) In General.—Not later than five years after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall reduce expenditures on facilities leased by the Department of Defense by 25 percent. “(b) Real Property Management.—The Secretary of Defense shall—“(1) publish guidance with respect to—“(A) standards for maximum office space design for new construction, including space reconfigurations; and “(B) desired average occupancy standards for existing Department of Defense facilities; “(2) validate utilization rates for existing office space owned or leased by the Department prior to approving significant land acquisitions for the Department; and “(3) use building utilization rates to validate new construction requirements, including efforts of the Department with respect to reconfiguration. “(c) Annual Briefing.—Not later than March 31, 2025, and annually thereafter until 2027, the Secretary shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on—“(1) the capacity of real property owned or leased by the Department of Defense; “(2) the average utilization rates for such real property; “(3) the size and cost of facilities leased by the Department; and “(4) the plan of the Secretary to satisfy the requirement under subsection (a).”
+
 #### Prohibition on Display of Unapproved Flags
 Pub. L. 118–31, div. A, title X, § 1052, Dec. 22, 2023, 137 Stat. 395, provided that: “(a) Prohibition.—No flag other than an approved flag shall be displayed in any work place, common access area, or public area of the Department of Defense. “(b) Exclusions.—The prohibition under subsection (a) shall not apply to—“(1) the public display or depiction of a flag other than an approved flag in a museum exhibit, State-issued license plate, grave site, memorial marker, monument, educational display, historical display, or work of art, if the nature of the display or depiction cannot reasonably be viewed as endorsement of the flag by the Department of Defense; or “(2) a building or area that primarily serves as a place of residence, including a barracks, dormitory, bachelor quarters, government-operated housing, or public-private venture housing area. “(c) Rule of Construction.—Nothing in this section shall be construed to affect the authority of a military commander to enforce good order and discipline on a military installation. “(d) Definitions.—In this section:“(1) The term ‘approved flag’ means any of the following:“(A) The American flag. “(B) The flag of a State or of the District of Columbia. “(C) A military service flag. “(D) A flag or general officer flag. “(E) A Presidentially-appointed, Senate-confirmed civilian flag. “(F) A Senior Executive Service or military department-specific flag. “(G) The National League of Families POW/MIA flag. “(H) The flag of another country that is an ally or partner of the United States or for official protocol purposes. “(I) The flag of an organization of which the United States is a member. “(J) A ceremonial, command, unit, or branch flag or guidon. “(K) The flag of an athletic team, club, cadet-led organization, academic department, unit subdivision, or other entity approved to operate at a Service Academy (as such term is defined in [section 347 of title 10](./chapter-016-security-cooperation.md#section-347), United States Code) or in conjunction with a Reserve Officer Training Corps activity. “(L) A flag or banner displayed by a retail tenant or non-government entity operating in a building owned or controlled by the Department of Defense, for the purposes of advertising business products and services, if authorized by contract. “(M) A religious flag or banner, including a holiday flag, if otherwise authorized. “(N) A flag approved at the discretion of the military chain of command or senior civilian leadership, as appropriate. “(2) The term ‘work place, common access area, or public area of the Department of Defense’ includes the following:“(A) An office building, facility, naval vessel, aircraft, governmental vehicle, hangar, garage, ready room, storage room, tool and equipment room, or workshop. “(B) A sensitive compartmented information facility of other secure facility. “(C) A schoolhouse or training facility. “(D) The area in plain view of such a building that is not residential in nature, including the areas outside of buildings of the Department of Defense.”
 
 #### Tribal Liaisons at Military Installations
 Pub. L. 118–31, div. A, title X, § 1084, Dec. 22, 2023, 137 Stat. 418, provided that: “(a) Tribal Liaisons at Military Installations.—The Secretary of Defense shall ensure that each military installation under the jurisdiction of a military department that has an Indian Tribe, Native Hawaiian organization, or Tribal interest in the area surrounding the installation has a Tribal liaison located at the installation. “(b) Tribal Interest.—For purposes of subsection (a), an area surrounding a military installation shall be considered to be an area in which there is a Tribal interest if an Indian Tribe or Native Hawaiian organization is historically or culturally affiliated with the land or water managed or directly affected by the military installation. “(c) Definitions.—In this section:“(1) The term ‘Indian Tribe’ has the meaning given that term in section 4(e) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim)). “(2) The term ‘Native Hawaiian organization’ has the meaning given that term in section 6207 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7517](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim)).”
 
+#### Requirements for Deployment of Fifth Generation Information and Communications Capabilities to Military Installations and Other Department Facilities
+Pub. L. 118–31, div. A, title XV, § 1526, Dec. 22, 2023, 137 Stat. 557, provided that: “(a) Requirements.—“(1) Strategy for private wireless networks.—Not later than 120 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall develop and implement a strategy for deploying to military installations and other facilities of the Department of Defense private wireless networks that are—“(A) based on fifth generation information and communications capabilities and Open Radio Access Network architecture; and “(B) tailored to the mission, security, and performance requirements of the respective military installation or other facility. “(2) Process for public wireless network service providers.—“(A) Establishment.—The Secretary shall establish a Department-wide process under which a public wireless network service provider of fifth generation information and communications capabilities may gain access to a military installation or other facility of the Department to provide commercial subscriber services to military and civilian personnel of the Department (including contractor personnel) located at, and organizational elements of the Department maintained at, such installation or facility. “(B) Design requirements.—In establishing the process under subparagraph (A), the Secretary shall ensure relevant system architectures and supporting infrastructure are designed to support modular upgrades to future generation technologies. “(3) Determination relating to contract authority.—The Secretary shall determine, on a contract-by-contract basis or as a determination with uniform applicability to contracts across military installations and other facilities of the Department, whether to enter into a contract for—“(A) neutral hosting, under which infrastructure and services would be provided to companies deploying private wireless networks and public wireless network services to such installation or other facility through multi-operator core network architectures; or “(B) separate private wireless network and public wireless network infrastructure at such installation or other facility (which shall include a determination by the Secretary on how to establish roaming agreements and policies between such networks). “(4) Briefing.—Not later than 150 days after the date of the enactment of this Act, the Secretary shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on the strategy developed under paragraph (1) and any other activity carried out pursuant to this subsection. “(b) International Cooperation Activities.—The Secretary, using existing authorities available to the Secretary, may engage in cooperation activities with foreign allies and partners of the United States to—“(1) improve the implementation of the strategy under subsection (a)(1); and “(2) inform the deployment of private wireless networks to military installations and other facilities of the Department pursuant to such strategy. “(c) Open Radio Access Network Architecture Defined.—In this section, the term ‘Open Radio Access Network architecture’ means a network architecture that is modular, uses open interfaces, and virtualizes functionality on commodity hardware through software.”
+
+#### Target Date for Deployment of 5G Wireless Broadband Infrastructure at All Military Installations
+Pub. L. 117–263, div. A, title II, § 221, Dec. 23, 2022, 136 Stat. 2478, provided that: “(a) Target Required.—Not later than July 30, 2023, the Secretary of Defense shall—“(1) establish a target date by which the Secretary plans to deploy 5G wireless broadband infrastructure at all military installations; and “(2) establish metrics, which shall be identical for each of the military departments, to measure progress toward reaching the target required by paragraph (1). “(b) Annual Report.—Not later than December 31, 2023, and on an annual basis thereafter until the date specified in subsection (c), the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that includes—“(1) the metrics in use pursuant to subsection (a)(2); and “(2) the progress of the Secretary in reaching the target required by subsection (a)(1). “(c) Termination.—The requirement to submit annual reports under subsection (b) shall terminate on the date that is five years after the date of the enactment of this Act [Dec. 23, 2022].”
+
 #### National Standards for Federal Fire Protection at Military Installations
 Pub. L. 117–263, div. A, title III, § 388, Dec. 23, 2022, 136 Stat. 2546, provided that: “(a) Standards Required.—Beginning not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall ensure that—“(1) members of the Armed Forces and employees of Defense Agencies who provide fire protection services to military installations comply with the national consensus standards developed by the National Fire Protection Association; “(2) the minimum staffing requirement for any firefighting vehicle responding to a structural building emergency at a military installation is not less than four firefighters per vehicle; and “(3) the minimum staffing requirement for any firefighting vehicle responding to an aircraft or airfield incident at a military installation is not less than three firefighters per vehicle. “(b) Reports Required.—Not later than 180 days after the date of the enactment of this Act, each Secretary of a military department shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report that—“(1) details each instance in which the standards of that military department deviate from the national consensus standards specified in subsection (a)(1), and at what military installation; “(2) includes, for each military installation under the jurisdiction of that Secretary, a detailed description of response times for emergency services and firefighting vehicle staffing levels; and “(3) includes an assessment of the feasibility of requiring compliance with the national consensus standards specified in subsection (a)(1) in accordance with such subsection at each military installation under the jurisdiction of that Secretary (without exception), the cost of requiring such compliance, and the estimated timeline for that Secretary to implement such requirement. “(c) Definitions.—In this section:“(1) The terms ‘Armed Forces’ and ‘Defense Agency’ have the meanings given such terms in [section 101 of title 10](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101), United States Code. “(2) The term ‘firefighter’ has the meaning given that term in section 707(b) of the National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116–92; [10 U.S.C. 1074m](./chapter-055-medical-and-dental-care.md#section-1074m) note). “(3) The term ‘military installation’ has the meaning given that term in [section 2801 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2801), United States Code.”
+
+#### Pilot Programs for Deployment of Telecommunications Infrastructure To Facilitate 5G Deployment on Military Installations
+Pub. L. 117–81, div. A, title II, § 233, Dec. 27, 2021, 135 Stat. 1614, provided that: “(a) Plans.—“(1) In general.—Not later than 180 days after enactment of this Act [Dec. 27, 2021], each Secretary of a military department shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan for a pilot program for the deployment of telecommunications infrastructure to facilitate the availability of fifth-generation wireless telecommunications services on military installations under the jurisdiction of the Secretary. “(2) Plan elements.—Each plan submitted under paragraph (1) by a Secretary of a military department shall include, with respect to such military department, the following:“(A) A list of military installations at which the pilot program will be carried out, including at least one military installation of the department. “(B) A description of authorities that will be used to execute the pilot program. “(C) A timeline for the implementation and duration of the pilot program. “(D) The identity of each telecommunication carrier that intends to use the telecommunications infrastructure deployed pursuant to the pilot to provide fifth-generation wireless telecommunication services at each of the military installations listed under subparagraph (A). “(E) An assessment of need for centralized processes and points of contacts to facilitate deployment of the telecommunications infrastructure. “(b) Pilot Programs Required.—Not later than one year after the date of the enactment of this Act, each Secretary of a military department shall establish a pilot program in accordance with the plan submitted by the Secretary under subsection (a)(1). “(c) Reports.—“(1) In general.—Not later than 180 days after the date on which a Secretary of a military department commences a pilot program under subsection (b), and not less frequently than once every 180 days thereafter until the completion of the pilot program, the Secretary shall submit to the congressional defense committees a report on the pilot program. “(2) Contents.—Each report submitted under paragraph (1) for a pilot program shall include the following:“(A) A description of the status of the pilot program at each military installation at which the pilot program is carried out. “(B) A description of the use of, and services provided by, telecommunications carriers of the telecommunications infrastructure at each military installation under the pilot program. “(C) Such additional information as the Secretary of the military department considers appropriate. “(d) Telecommunications Infrastructure Defined.—In this section, the term ‘telecommunications infrastructure’ includes, at a minimum, the following:“(1) Macro towers. “(2) Small cell poles. “(3) Distributed antenna systems. “(4) Dark fiber. “(5) Power solutions.”
+
+#### Establishment of Secure Next-Generation Wireless Network (5G) Infrastructure for the Nevada Test and Training Range and Base Infrastructure
+Pub. L. 116–92, div. A, title II, § 226, Dec. 20, 2019, 133 Stat. 1269, provided that: “(a) Establishment Required.—Not later than one year after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall establish secure fifth-generation wireless network components and capabilities at no fewer than two Department of Defense installations in accordance with this section. “(b) Installations.—“(1) Locations.—The Secretary shall establish components and capabilities under subsection (a) at the following:“(A) The Nevada Test and Training Range, which shall serve as a Major Range and Test Facility Base (MRTFB) for fifth-generation wireless networking. “(B) Such Department installations or other installations as the Secretary considers appropriate for the purpose set forth in paragraph (2). “(2) Purpose.—The purpose of the establishment of components and capabilities under subsection (a) at the locations described in paragraph (1) of this subsection is to demonstrate the following:“(A) The potential military utility of high bandwidth, scalable, and low latency fifth-generation wireless networking technology. “(B) Advanced security technology that is applicable to fifth-generation networks as well as legacy Department command and control networks. “(C) Secure interoperability with fixed and wireless systems (legacy and future systems). “(D) Enhancements such as spectrum and waveform diversity, frequency hopping and spreading, and beam forming for military requirements. “(E) Technology for dynamic network slicing for specific use cases and applications requiring varying levels of latency, scale, and throughput. “(F) Technology for dynamic spectrum sharing and network isolation. “(G) Base infrastructure installation of high bandwidth, scalable, and low latency fifth-generation wireless networking technology. “(H) Applications for secure fifth-generation wireless network capabilities for the Department, such as the following:“(i) Interactive augmented reality or synthetic training environments. “(ii) Internet of things devices. “(iii) Autonomous systems. “(iv) Advanced manufacturing through the following: “(I) Department-sponsored centers for manufacturing innovation (as defined in section 34(c) of the National Institute of Standards and Technology Act ([15 U.S.C. 278s(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278s/c&num=0&edition=prelim))). “(II) Department research and development organizations. “(III) Manufacturers in the defense industrial base of the United States.”
 
 #### Department of Defense Policy on Lead-Based Paint Testing on Military Installations
 Pub. L. 116–92, div. B, title XXX, § 3054, Dec. 20, 2019, 133 Stat. 1943, provided that: “(a) Access and Testing Policy.—Not later than February 1, 2020, the Secretary of Defense shall establish a policy under which the Secretary of the military department concerned may permit a qualified individual to access a military installation for the purpose of conducting testing for the presence of lead-based paint on the installation. “(b) Transmission of Results.—“(1) Installations inside the united states.—In the case of military installations located inside the United States, the results of any testing for lead-based paint on a military installation shall be transmitted the following:“(A) The civil engineer of the installation. “(B) The housing management office of the installation. “(C) The public health organization on the installation. “(D) The major subordinate command of the Armed Force with jurisdiction over the installation. “(E) If required by law, any relevant Federal, State, and local agencies. “(2) Installations outside the united states.—In the case of military installations located outside the United States, the results of any testing for lead-based paint on a military installation shall be transmitted to the civil engineer or commander of the installation who shall transmit those results to the major subordinate command of the Armed Force with jurisdiction over the installation. “(c) Definitions.—In this section:“(1) The term ‘United States’ has the meaning given that term in [section 101(a)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/1&num=0&edition=prelim), United States Code. “(2) The term ‘qualified individual’ means an individual who is certified by the Environmental Protection Agency or by a State as—“(A) a lead-based paint inspector; or “(B) a lead-based paint risk assessor.”
@@ -381,7 +399,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
   (A) the Secretary determines is needed in the interest of national defense; and
 
-  (B) does not cost more than $750,000, exclusive of administrative costs and the amounts of any deficiency judgments.
+  (B) does not cost more than $4,000,000, exclusive of administrative costs and the amounts of any deficiency judgments.
 
 (2) The Secretary of a military department may acquire any interest in land that—
 
@@ -467,6 +485,8 @@ The text of [section 2672a of this title](./chapter-159-real-property-related-pe
 The text of [section 2676(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2676/b&num=0&edition=prelim), which was transferred to this section, redesignated subsec. (e), and amended by Pub. L. 109–163, div. B, title XXVIII, § 2821(a)(10), (11), was based on Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 97–214, § 5, July 12, 1982, 96 Stat. 170.
 
 #### Amendments
+2024—Subsec. (c)(1)(B). Pub. L. 118–159 directed substitution of “$4,000,000” for the dollar amount in subsec. (c)(1), which was executed by making the substitution for “$750,000” in subsec. (c)(1)(B).
+
 2017—Subsec. (d)(2). Pub. L. 115–91, § 2811(b), inserted “, in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480),” after “submit” and substituted “a notice” for “written notice”.
 
 Subsec. (f)(2). Pub. L. 115–91, § 2811(c), struck out “or, if over sooner, the end of the 14-day period beginning on the date on which a copy of the report is provided” after “received by the committees”.
@@ -743,7 +763,7 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 149, related to limitation on co
 
 (1) In addition to any in-kind consideration accepted under subsection (b)(5), in-kind consideration accepted with respect to a lease under this section may include the following:
 
-  (A) Maintenance, protection, alteration, repair, improvement, or restoration (including environmental restoration) of property or facilities under the control of the Secretary concerned.
+  (A) Maintenance, protection, alteration, repair, improvement, or restoration (including environmental restoration) of property or facilities under the control of the Secretary concerned, whether or not needed for the functionality of the property or facility leased.
 
   (B) Construction of new facilities for the Secretary concerned.
 
@@ -753,7 +773,13 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 149, related to limitation on co
 
   (E) Provision of real property maintenance services for the Secretary concerned.
 
-  (F) Provision of such other services relating to activities that will occur on the leased property as the Secretary concerned considers appropriate.
+  (F) Provision of such other services relating to activities that will occur on the leased property as the Secretary concerned considers appropriate, which may include industrial process optimization.
+
+  (G) Refurbishment of existing industrial plant equipment on the leased property.
+
+  (H) Removal and replacement of industrial plant equipment on the leased property that is at or near end-of-life.
+
+  (I) Provision of new industrial plant equipment on the leased property (including new technology), installation of such equipment, and maintenance of such equipment, but only if the title to such equipment passes to the Federal Government.
 
 (2) In-kind consideration under paragraph (1) may be accepted at any property or facilities under the control of the Secretary concerned that are selected for that purpose by the Secretary concerned.
 
@@ -936,6 +962,12 @@ The National Environmental Policy Act of 1969, referred to in subsec. (g)(4)(A),
 The date of the enactment of this paragraph, referred to in subsec. (h)(4)(A)(i), is the date of enactment of Pub. L. 113–291, which was approved Dec. 19, 2014.
 
 #### Amendments
+2024—Subsec. (c)(1)(A). Pub. L. 118–159, § 2844(1), inserted “, whether or not needed for the functionality of the property or facility leased” before period at end.
+
+Subsec. (c)(1)(F). Pub. L. 118–159, § 2844(2), inserted “, which may include industrial process optimization” before period at end.
+
+Subsec. (c)(1)(G) to (I). Pub. L. 118–159, § 2844(3), added subpars. (G) to (I).
+
 2018—Subsec. (b)(8). Pub. L. 115–232 added par. (8).
 
 2017—Subsec. (c)(1)(D). Pub. L. 115–91, § 2835, inserted “, which shall prioritize energy resilience in the event of commercial grid outages” after “Secretary concerned”.
@@ -1574,6 +1606,9 @@ The Homeland Security Act of 2002, referred to in subsec. (l)(2), is Pub. L. 107
 #### Prior Provisions
 A prior section 2672, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1459; amended Pub. L. 87–651, title I, § 112(a), Sept. 7, 1962, 76 Stat. 511; Pub. L. 92–145, title VII, § 707(2), (3), Oct. 27, 1971, 85 Stat. 411; Pub. L. 96–418, title VIII, § 806(a), Oct. 10, 1980, 94 Stat. 1777; Pub. L. 99–167, title VIII, § 810(a), (b)(1), Dec. 3, 1985, 99 Stat. 989, 990; Pub. L. 99–661, div. A, title XIII, § 1343(a)(16), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–456, div. B, title XXVIII, § 2804, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 105–85, div. B, title XXVIII, § 2811(a), (b)(1), Nov. 18, 1997, 111 Stat. 1991; Pub. L. 108–136, div. B, title XXVIII, § 2811(a)–(b)(2), Nov. 24, 2003, 117 Stat. 1724, 1725; Pub. L. 108–375, div. B, title XXVIII, § 2821(d)(1), Oct. 28, 2004, 118 Stat. 2130; Pub. L. 109–163, div. B, title XXVIII, § 2821(a)(2), Jan. 6, 2006, 119 Stat. 3511, related to authority to acquire low-cost interests in land, prior to repeal by Pub. L. 109–163, div. B, title XXVIII, § 2821(f), Jan. 6, 2006, 119 Stat. 3513. See [section 2663(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2663/c&num=0&edition=prelim).
 
+#### Notification of Military Sex Offenders at Military Installations
+Pub. L. 119–60, div. A, title V, § 565(a), Dec. 18, 2025, 139 Stat. 883, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall establish and implement a policy to ensure that registered sex offenders who reside or work on military installations are identified to the respective military community, including, as necessary, through agreements with State and local law enforcement agencies.”
+
 #### Pilot Program on Safe Storage of Personally Owned Firearms
 Pub. L. 117–263, div. A, title V, § 595, Dec. 23, 2022, 136 Stat. 2613, provided that: “(a) Establishment.—The Secretary of Defense shall establish a pilot program to promote the safe storage of personally owned firearms. “(b) Elements.—Under the pilot program under subsection (a), the Secretary of Defense shall furnish to members of the Armed Forces who are participating in the pilot program at military installations selected under subsection (e) locking devices or firearm safes, or both, for the purpose of securing personally owned firearms when not in use (including by directly providing, subsidizing, or otherwise making available such devices or safes). “(c) Participation.—“(1) Voluntary participation.—Participation by members of the Armed Forces in the pilot program under subsection (a) shall be on a voluntary basis. “(2) Location of participants.—A member of the Armed Forces may participate in the pilot program under subsection (a) carried out at a military installation selected under subsection (e) regardless of whether the member resides at the military installation. “(d) Plan.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a plan for the implementation of the pilot program under subsection (a). “(e) Selection of Installations.—Not later than two years after the date of the enactment of this Act, the Secretary of Defense shall select not fewer than five military installations at which to carry out the pilot program under subsection (a). “(f) Effect on Existing Policies.—Nothing in this section shall be construed to circumvent or undermine any existing safe storage policies, laws, or regulations on military installations. “(g) Report.—Upon the termination under subsection (h) of the pilot program under subsection (a), the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report containing the following information:“(1) The number and type of locking devices and firearm safes furnished to members of the Armed Forces under the pilot program. “(2) The cost of carrying out the pilot program. “(3) An analysis of the effect of the pilot program on suicide prevention. “(4) Such other information as the Secretary may determine appropriate, which shall exclude any personally identifiable information about participants in the pilot program. “(h) Termination.—The pilot program under subsection (a) shall terminate on the date that is six years after the date of the enactment of this Act.”
 
@@ -1863,17 +1898,17 @@ A prior section 2678, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 
 ## § 2679. Installation-support services: intergovernmental support agreements
 **(a) In General.—**
 
-(1) Notwithstanding any other provision of law governing the award of Federal Government contracts for goods and services, the Secretary concerned may enter into an intergovernmental support agreement, on a sole source basis, with a State or local government to provide, receive, or share installation-support services if the Secretary determines that the agreement will serve the best interests of the department by enhancing mission effectiveness or creating efficiencies or economies of scale, including by reducing costs.
+(1) Notwithstanding any other provision of law governing the award of Federal Government contracts for goods and services, the Secretary concerned may enter into an intergovernmental support agreement, on a sole source basis, with a State, local, or tribal government to provide, receive, or share installation-support services if the Secretary determines that the agreement will serve the best interests of the department by enhancing mission effectiveness or creating efficiencies or economies of scale, including by reducing costs.
 
 (2) An intergovernmental support agreement under paragraph (1)—
 
   (A) may be for a term not to exceed ten years; and
 
-  (B) may use, for installation-support services provided by a State or local government, wage grades normally paid by that State or local government.
+  (B) may use, for installation-support services provided by a State, local, or tribal government, wage grades normally paid by that State, local, or tribal government.
 
-(3) An intergovernmental support agreement under paragraph (1) may only be used when the Secretary concerned or the State or local government, as the case may be, providing the installation-support services already provides such services for its own use.
+(3) An intergovernmental support agreement under paragraph (1) may only be used when the Secretary concerned or the State, local, or tribal government, as the case may be, providing the installation-support services already provides such services for its own use.
 
-(4) Any contract for the provision of installation-support services awarded by the Federal Government or a State or local government pursuant to an intergovernmental support agreement provided in subsection (a) shall be awarded on a competitive basis.
+(4) Any contract for the provision of installation-support services awarded by the Federal Government or a State, local, or tribal government pursuant to an intergovernmental support agreement provided in subsection (a) shall be awarded on a competitive basis.
 
 **(b) Effect on First Responder Arrangements.—** The authority provided by this section and limitations on the use of that authority are not intended to revoke, preclude, or otherwise interfere with existing or proposed mutual-aid agreements relating to police or fire protection services or other similar first responder agreements or arrangements.
 
@@ -1897,17 +1932,17 @@ A prior section 2678, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 
 
   (D) The sustainment restoration and modernization purposes for which the amount made available under paragraph (1) were used.
 
-(4) The authority to conduct the pilot program shall expire September 30, 2025.
+(4) The authority to conduct the pilot program shall expire September 30, 2030.
 
 **(f) Definitions.—** In this section:
 
-(1) The term “installation-support services” means those services, supplies, resources, and support typically provided by a local government for its own needs and without regard to whether such services, supplies, resources, and support are provided to its residents generally, except that the term does not include security guard or fire-fighting functions.
+(1) The term “installation-support services” means those services, supplies, resources, and support typically provided by a local government for its own needs and without regard to whether such services, supplies, resources, and support are provided to its residents generally, except that the term does not include security guard or fire-fighting functions. The term does include ordnance disposal.
 
 (2) The term “local government” includes a county, parish, municipality, city, town, township, local public authority, school district, special district, and any agency or instrumentality of a local government.
 
-(3) The term “State” includes the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, American Samoa, Guam, and the United States Virgin Islands, and any agency or instrumentality of a State.
+(3) The term “State” includes the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, American Samoa, Guam, the United States Virgin Islands, the State of Yap of the Federated States of Micronesia, and the Republic of Palau, and any agency or instrumentality of a State.
 
-(4) The term “intergovernmental support agreement” means a legal instrument reflecting a relationship between the Secretary concerned and a State or local government that contains such terms and conditions as the Secretary concerned considers appropriate for the purposes of this section and necessary to protect the interests of the United States.
+(4) The term “intergovernmental support agreement” means a legal instrument reflecting a relationship between the Secretary concerned and a State, local, or tribal government that contains such terms and conditions as the Secretary concerned considers appropriate for the purposes of this section and necessary to protect the interests of the United States.
 
 ### Statutory Notes
 
@@ -1915,6 +1950,16 @@ A prior section 2678, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 
 A prior section 2679, added Pub. L. 87–651, title I, § 112(c), Sept. 7, 1962, 76 Stat. 511; amended Pub. L. 101–189, div. A, title XVI, § 1621(a)(9), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 103–337, div. A, title X, § 1070(e)(9), Oct. 5, 1994, 108 Stat. 2859, related to use of space and equipment by representatives of veterans’ organizations, prior to repeal by Pub. L. 108–375, div. B, title XXVIII, § 2821(c)(2), Oct. 28, 2004, 118 Stat. 2129.
 
 #### Amendments
+2025—Subsec. (e)(4). Pub. L. 119–60, § 2843, substituted “September 30, 2030” for “September 30, 2025”.
+
+Subsec. (f)(1). Pub. L. 119–60, § 2844, inserted at end “The term does include ordnance disposal.”
+
+Subsec. (f)(3). Pub. L. 119–60, § 2845, struck out “and” before “United States Virgin Islands” and inserted “the State of Yap of the Federated States of Micronesia, and the Republic of Palau,” after “Virgin Islands,”.
+
+2024—Subsec. (a). Pub. L. 118–159 substituted “State, local, or tribal government” for “State or local government” wherever appearing.
+
+Subsec. (f)(4). Pub. L. 118–159 substituted “State, local, or tribal government” for “State or local government”.
+
 2021—Subsecs. (e), (f). Pub. L. 116–283 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 2018—Subsec. (a)(1). Pub. L. 115–232 substituted “Federal Government” for “Federal government”.
@@ -1949,17 +1994,77 @@ Pub. L. 116–283, div. B, title XXVIII, § 2861(b), Jan. 1, 2021, 134 Stat. 435
 
 
 <a id="section-2680"></a>
-## § 2680. Repealed. Pub. L. 111–383, div. B, title XXVIII, § 2814(a), Jan. 7, 2011, 124 Stat. 4464]
+## § 2680. Minimum capital investment for facilities sustainment, restoration, and modernization for military departments
+**(a) Minimum Investment.—** Beginning in fiscal year 2027, and each fiscal year thereafter, each Secretary of a military department shall—
+
+(1) calculate (in accordance with subsection (b)) the cumulative plant replacement value of the total inventory of covered facilities on each military installation under the jurisdiction of the Secretary concerned; and
+
+(2) invest in the budget for facilities sustainment, restoration, and modernization of that military department, a total amount equal to not less than the percentage specified in subsection (c) of the cumulative plant replacement value described in paragraph (1).
+
+**(b) Exclusion.—** In making any calculation pursuant to paragraph (1) of subsection (a), each Secretary of a military department shall exclude any covered facility under the jurisdiction of such Secretary that is scheduled for demolition during the two-year period beginning after the date of such calculation.
+
+**(c) Percentage Specified.—** The percentage of the specified in this subsection is—
+
+(1) for fiscal year 2027, 1.75 percent;
+
+(2) for fiscal year 2028, 2.5 percent;
+
+(3) for fiscal year 2029, 3.25 percent; and
+
+(4) for fiscal year 2030 and each subsequent fiscal year, 4 percent.
+
+**(d) Certification.—** As part of the annual budget submission of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), each Secretary of each military department shall include—
+
+(1) a certification to the congressional defense committees that the military department is in compliance with this section; and
+
+(2) a list of covered facilities under the jurisdiction of that Secretary, disaggregated by military installation and location, that are scheduled for demolition during the two-year period beginning after the date of the submission of such budget, which shall include cost and schedule estimates.
+
+**(e) Definitions.—** In this section:
+
+(1) The term “covered facility” means a facility (as defined in [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801)), except that such term does not include—
+
+  (A) a facility identified as closed, disposed of, or scheduled for divestment from the inventory of the Department of Defense;
+
+  (B) a facility in which the Department does not have a total ownership interest, including—
+
+    (i) a facility leased by the Department; and
+
+    (ii) a facility in which the Department has a lesser property interest under a governing legal instrument; or
+
+  (C) a facility for which the Department uses—
+
+    (i) nonappropriated funds; or
+
+    (ii) amounts appropriated or otherwise made available for military family housing.
+
+(2) The term “plant replacement value” means, with respect to a covered facility, the cost to replace the covered facility using amounts appropriated for facilities sustainment, restoration, and modernization from the following accounts:
+
+  (A) Operation and maintenance.
+
+  (B) Military construction.
+
+  (C) Research, development, test, and evaluation.
+
+  (D) Working capital funds.
 
 ### Statutory Notes
 
-Section, added Pub. L. 102–190, div. B, title XXVIII, § 2863(a)(1), Dec. 5, 1991, 105 Stat. 1560; amended Pub. L. 103–160, div. B, title XXVIII, § 2807(a), Nov. 30, 1993, 107 Stat. 1887; Pub. L. 104–106, div. B, title XXVIII, § 2820(a), (b), Feb. 10, 1996, 110 Stat. 556; Pub. L. 106–65, div. A, title X, § 1067(1), div. B, title XXVIII, § 2811, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 107–314, div. A, title X, § 1062(a)(13), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, § 1031(a)(31), Nov. 24, 2003, 117 Stat. 1600, related to leases of land for special operations activities.
-
 #### Prior Provisions
-A prior section 2680, added Pub. L. 87–651, title I, § 112(c), Sept. 7, 1962, 76 Stat. 511; amended Pub. L. 89–718, § 20, Nov. 2, 1966, 80 Stat. 1118, authorized reimbursement of moving expenses to owners of property acquired for public works projects, prior to repeal by Pub. L. 91–646, title II, § 220(a)(3), Jan. 2, 1971, 84 Stat. 1903. See section 4601 et seq. of Title 42, The Public Health and Welfare.
+A prior section 2680, added Pub. L. 102–190, div. B, title XXVIII, § 2863(a)(1), Dec. 5, 1991, 105 Stat. 1560; amended Pub. L. 103–160, div. B, title XXVIII, § 2807(a), Nov. 30, 1993, 107 Stat. 1887; Pub. L. 104–106, div. B, title XXVIII, § 2820(a), (b), Feb. 10, 1996, 110 Stat. 556; Pub. L. 106–65, div. A, title X, § 1067(1), div. B, title XXVIII, § 2811, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 107–314, div. A, title X, § 1062(a)(13), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, § 1031(a)(31), Nov. 24, 2003, 117 Stat. 1600, related to leases of land for special operations activities, prior to repeal by Pub. L. 111–383, div. B, title XXVIII, § 2814(a), Jan. 7, 2011, 124 Stat. 4464.
+
+Another prior section 2680, added Pub. L. 87–651, title I, § 112(c), Sept. 7, 1962, 76 Stat. 511; amended Pub. L. 89–718, § 20, Nov. 2, 1966, 80 Stat. 1118, authorized reimbursement of moving expenses to owners of property acquired for public works projects, prior to repeal by Pub. L. 91–646, title II, § 220(a)(3), Jan. 2, 1971, 84 Stat. 1903. See section 4601 et seq. of Title 42, The Public Health and Welfare.
+
+#### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–60, § 2841(1), substituted “total inventory of covered facilities” for “total inventory of facilities”.
+
+Subsec. (b). Pub. L. 119–60, § 2841(2), substituted “covered facility” for “facility”.
+
+Subsec. (d)(2). Pub. L. 119–60, § 2841(3), substituted “covered facilities” for “facilities”.
+
+Subsec. (e). Pub. L. 119–60, § 2841(4), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “In this section, the term ‘plant replacement value’ means, with respect to a facility, the cost to replace such facility using construction costs (including labor and materials) and standards (including methodologies and codes) in effect as of the date such cost is calculated.”
 
 #### Effect of Repeal
-Pub. L. 111–383, div. B, title XXVIII, § 2814(b), Jan. 7, 2011, 124 Stat. 4464, provided that: “The amendment made by subsection (a) [repealing this section] shall not affect the validity of any contract entered into under [section 2680 of title 10](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2680), United States Code, on or before September 30, 2005.”
+Pub. L. 111–383, div. B, title XXVIII, § 2814(b), Jan. 7, 2011, 124 Stat. 4464, provided that: “The amendment made by subsection (a) [repealing former [section 2680 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2680)] shall not affect the validity of any contract entered into under [section 2680 of title 10](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2680), United States Code, on or before September 30, 2005.”
 
 
 <a id="section-2681"></a>
@@ -2513,7 +2618,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ## § 2687. Base closures and realignments
 **(a)** Notwithstanding any other provision of law, no action may be taken to effect or implement—
 
-(1) the closure of any military installation at which at least 300 civilian personnel are authorized to be employed;
+(1) the closure, including a mothball action, divestiture, deactivation, or any other action to render inoperable, of any military installation at which at least 300 civilian personnel are authorized to be employed;
 
 (2) any realignment with respect to any military installation referred to in paragraph (1) involving a reduction by more than 1,000, or by more than 50 percent, in the number of civilian personnel authorized to be employed at such military installation at the time the Secretary of Defense or the Secretary of the military department concerned notifies the Congress under subsection (b) of the Secretary’s plan to close or realign such installation; or
 
@@ -2564,12 +2669,18 @@ unless and until the provisions of subsection (b) are complied with.
 
 (4) The term “legislative day” means a day on which either House of Congress is in session.
 
+(5) The term “mothball action” means placing a military installation in inactive status while maintaining such installation in a condition such that it could be reactivated at a future date.
+
 ### Statutory Notes
 
 #### References in Text
 The National Environmental Policy Act of 1969, referred to in subsec. (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–60, § 2846(a)(1), inserted “, including a mothball action, divestiture, deactivation, or any other action to render inoperable,” after “closure”.
+
+Subsec. (g)(5). Pub. L. 119–60, § 2846(a)(2), added par. (5).
+
 2013—Subsecs. (c) to (e). Pub. L. 112–239, § 2712(a)(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (g).
 
 Subsec. (f). Pub. L. 112–239, § 1076(f)(33), substituted “as a result” for “at a result” in introductory provisions.
@@ -3039,6 +3150,9 @@ Pub. L. 114–328, div. B, title XXVIII, § 2811(c), Dec. 23, 2016, 130 Stat. 27
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
+#### Notice Relating to Contracts or Other Agreements To Establish an Enduring Location in a Foreign Country
+Pub. L. 119–60, div. B, title XXVIII, § 2890, Dec. 18, 2025, 139 Stat. 1334, provided that: “Not later than 30 days after the date on which the Secretary of Defense, a Secretary of a military department, or a combatant commander enters into a contract or other agreement to establish an enduring location (as described in [section 2687a of title 10](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687a), United States Code) in a foreign country for purposes of supporting members of the Armed Forces in such foreign country, the Secretary of Defense shall submit to appropriate congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a notification of such action.”
+
 #### Prohibition Relating to Closure or Return to Host Nation of Existing Military Installations, Infrastructure, or Real Property in Europe
 Pub. L. 116–283, div. B, title XXVIII, § 2828, Jan. 1, 2021, 134 Stat. 4338, provided that: “(a) Prohibition on Closure or Return.—Except as provided by subsection (b), the Secretary of Defense shall not implement any activity that closes or returns to the host nation any military installation, infrastructure, or real property in Europe that, as of the date of enactment of this Act [Jan. 1, 2021], is under the operational control of the Department of Defense or a military department and is utilized by the United States Armed Forces. “(b) Waiver and Exception.—The Secretary of Defense may waive the prohibition under subsection (a) if the Secretary certifies to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that there is no longer a foreseeable need for the military installation, infrastructure, or real property, or a portion of the military installation in the case of a partial closure and return of a military installation, to support a permanent or rotational United States military presence in the European theater.”
 
@@ -3093,7 +3207,7 @@ Pub. L. 116–283, div. B, title XXVIII, § 2828, Jan. 1, 2021, 134 Stat. 4338, 
 
 (3) The Secretary concerned shall require in any contract for the conveyance of a utility system (or part of a utility system) under subsection (a) that the conveyee manage and operate the utility system in a manner consistent with energy resilience and cybersecurity requirements and associated metrics provided to the conveyee to ensure that the reliability of the utility system meets mission requirements.
 
-(4) The Secretary of Defense, in consultation with the Secretaries of the military departments, shall include in the installation energy report submitted under section 2925(a) 11 See References in Text note below. of this title a description of progress in meeting energy resilience metrics for all conveyance contracts entered into pursuant to this section.
+(4) The Secretary of Defense, in consultation with the Secretaries of the military departments, shall include in the report submitted under section 2925(a) 11 See References in Text note below. of this title a description of progress in meeting energy resilience metrics for all conveyance contracts entered into pursuant to this section.
 
 **(h) Assistance for Construction, Repair, or Replacement of Utility Systems.—** In lieu of carrying out a military construction project to construct, repair, or replace a utility system, the Secretary concerned may use funds authorized and appropriated for the project to facilitate the conveyance of the utility system under this section by making a contribution toward the cost of construction, repair, or replacement of the utility system by the entity to which the utility system is being conveyed.
 
@@ -3131,9 +3245,21 @@ Pub. L. 116–283, div. B, title XXVIII, § 2828, Jan. 1, 2021, 134 Stat. 4338, 
 
 **(k) Improvement of Conveyed Utility System.—**
 
-(1) In the case of a utility system that has been conveyed under this section and that only provides utility services to a military installation, the Secretary of Defense or the Secretary of a military department may authorize a contract on a sole source basis with the conveyee of the utility system to carry out a military construction project as authorized and appropriated for by law for an infrastructure improvement that enhances the reliability, resilience, efficiency, physical security, or cybersecurity of the utility system.
+(1) In lieu of carrying out a military construction project for an infrastructure improvement that enhances the reliability, resilience, efficiency, physical security, or cybersecurity of a utility system conveyed under subsection (a), the Secretary concerned may use funds authorized and appropriated for the project to make a monetary contribution equal to the total amount for the completed project to the conveyee of the utility system to carry out the project using a contract for utility services entered into under subsection (d).
 
-(2) The Secretary of Defense or the Secretary of a military department may convey under subsection (j) any infrastructure constructed under paragraph (1) that is in addition to the utility system conveyed under such paragraph.
+(2) All right, title, and interest to infrastructure improvements constructed by the conveyee pursuant to paragraph (1) shall vest in the conveyee.
+
+(3) The Secretary concerned shall provide to the conveyee the necessary real property interests to access and use lands under the jurisdiction and control of the Secretary for construction of the project under paragraph (1) and for ongoing use, operations, and maintenance.
+
+(4) If the Secretary concerned exercises a repurchase option under a contract entered into under subsection (d) for a system conveyed under subsection (a), the Secretary shall receive an offset in the amount of the contribution to the conveyee under paragraph (1) against the payment made by the Secretary as consideration for the repurchase, except that the maximum offset may not exceed the full amount of the consideration for the repurchase.
+
+(5) The Secretary concerned may make a monetary contribution authorized by paragraph (1) notwithstanding the following provisions of law:
+
+  (A) Sections 7540, 8612, and 9540 of this title.
+
+  (B) Subchapters I and III of chapter 169 of this title.
+
+  (C) Chapters 221 and 223 of this title.
 
 **(l) Limitation.—** This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.
 
@@ -3146,6 +3272,10 @@ Pub. L. 116–283, div. B, title XXVIII, § 2828, Jan. 1, 2021, 134 Stat. 4338, 
 A prior section 2688, added Pub. L. 96–125, title VIII, § 804(a)(1), Nov. 26, 1979, 93 Stat. 948; amended Pub. L. 96–418, title VIII, § 804, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 97–22, § 11(a)(9), July 10, 1981, 95 Stat. 138; Pub. L. 97–99, title IX, § 901, Dec. 23, 1981, 95 Stat. 1381, related to use of solar energy systems in new facilities, prior to repeal by Pub. L. 97–214, §§ 7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See [section 2915 of this title](./chapter-173-energy-security.md#section-2915).
 
 #### Amendments
+2025—Subsec. (k). Pub. L. 119–60 amended subsec. (k) generally. Prior to amendment, subsec. (k) related to military construction projects to carry out improvements of conveyed utility systems.
+
+2024—Subsec. (g)(4). Pub. L. 118–159 struck out “installation energy” before “report submitted”.
+
 2023—Subsec. (k). Pub. L. 118–31 amended subsec. (k) generally. Prior to amendment, text read as follows: “In the case of a utility system that is conveyed under this section and that only provides utility services to a military installation, the Secretary concerned may use amounts authorized to be appropriated for military construction to improve the reliability, resilience, efficiency, physical security, or cybersecurity of the utility system.”
 
 2021—Subsec. (b)(2). Pub. L. 116–283, § 1883(b)(2), substituted “subsections (a), (b), (d), and (e) of section 3204” for “subsections (c) through (f) of section 2304”.
@@ -3808,11 +3938,28 @@ Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistanc
 
 
 <a id="section-2697"></a>
-## § 2697. Acceptance and use of landing fees charged for use of domestic military airfields by civil aircraft
-**(a) Authority.—** The Secretary of a military department may impose landing fees for the use by civil aircraft of domestic military airfields under the jurisdiction of that Secretary and may use any fees received under this section as a source of funding for the operation and maintenance of airfields of that department.
+## § 2697. Acceptance and use of landing fees charged for use of military airfields by civil aircraft
+**(a) Authority.—** The Secretary of a military department may impose landing fees for the use by civil aircraft of military airfields under the jurisdiction of that Secretary and may use any fees received under this section as a source of funding for the operation and maintenance of airfields of that department.
 
 **(b) Uniform Landing Fees.—** The Secretary of Defense shall prescribe the amount of the landing fees that may be imposed under this section. Such fees shall be uniform among the military departments.
 
 **(c) Use of Proceeds.—** Amounts received for a fiscal year in payment of landing fees imposed under this section for the use of a military airfield shall be credited to the appropriation that is available for that fiscal year for the operation and maintenance of that military airfield, shall be merged with amounts in the appropriation to which credited, and shall be available for that military airfield for the same period and purposes as the appropriation is available.
 
 **(d) Limitation.—** The Secretary of a military department shall determine whether consideration for a landing fee has been received in a lease, license, or other real estate agreement for an airfield and shall use such a determination to offset appropriate amounts imposed under subsection (a) for that airfield.
+
+### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 118–159, div. B, title XXVIII, § 2846(b), Dec. 23, 2024, 138 Stat. 2264, provided that, effective Oct. 1, 2027, this section is amended in the section catchline and subsec. (a) by inserting “domestic” before “military airfields”. See 2024 Amendment notes below.
+
+#### Amendments
+2024—Pub. L. 118–159, § 2846(b)(1), inserted “domestic” before “military airfields” in section catchline.
+
+Pub. L. 118–159, § 2846(a)(1), struck out “domestic” before “military airfields” in section catchline.
+
+Subsec. (a). Pub. L. 118–159, § 2846(b)(2), inserted “domestic” before “military airfields”.
+
+Pub. L. 118–159, § 2846(a)(2), struck out “domestic” before “military airfields”.
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–159, div. B, title XXVIII, § 2846(b), Dec. 23, 2024, 138 Stat. 2264, provided that the amendment made by section 2846(b) is effective Oct. 1, 2027.

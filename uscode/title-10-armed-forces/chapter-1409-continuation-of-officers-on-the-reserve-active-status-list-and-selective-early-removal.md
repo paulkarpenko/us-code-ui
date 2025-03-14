@@ -4,7 +4,7 @@ chapter: '1409'
 heading: >-
   CONTINUATION OF OFFICERS ON THE RESERVE ACTIVE-STATUS LIST AND SELECTIVE EARLY
   REMOVAL
-section_count: 6
+section_count: 7
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -69,6 +69,17 @@ Subsecs. (b) to (d). Pub. L. 108–136, § 511(a)(2), (3), redesignated subsec. 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
+<a id="section-14701a"></a>
+## § 14701a. Continuation on reserve active-status list: officers in certain military specialties and career tracks
+**(a) In General.—** The Secretary of the military department concerned may authorize a reserve commissioned officer in a grade above O-2 to remain on the reserve active-status list after the date otherwise provided for the separation or retirement of the officer under section 14505, 14506, or 14507 of this title, as applicable, if the officer has a military occupational specialty, rating, or specialty code in a military specialty designated pursuant to subsection (b).
+
+**(b) Military Specialties.—** The Secretary of a military department shall designate the military specialties in which a military occupational specialty, rating, or specialty code, as applicable, assigned to members of the armed forces under the jurisdiction of such Secretary authorizes the members to be eligible for continuation on the reserve active-status list as provided in subsection (a).
+
+**(c) Duration of Continuation.—** An officer continued on the reserve active-status list pursuant to this section shall, if not earlier retired, transferred to the Retired Reserve, or discharged, be separated in accordance with section 14513 or 14514 of this title, as applicable, on the first day of the month after the month in which the officer completes 40 years of commissioned service.
+
+**(d) Regulations.—** The Secretaries of the military departments shall carry out this section in accordance with regulations prescribed by the Secretary of Defense. The regulations shall specify the criteria to be used by the Secretaries of the military departments in designating military specialties for purposes of subsection (b).
+
+
 <a id="section-14702"></a>
 ## § 14702. Retention on reserve active-status list of certain officers in the grade of major, lieutenant colonel, colonel, or brigadier general
 **(a) Retention.—** Notwithstanding the provisions of section 14506, 14507, or 14508 of this title, the Secretary of the military department concerned may, with the officer’s consent, retain on the reserve active-status list an officer in the grade of major, lieutenant colonel, colonel, or brigadier general who is—
@@ -77,11 +88,13 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 (2) a reserve officer of the Army or Air Force who, as a condition of continued employment as a National Guard or Reserve technician is required by the Secretary concerned to maintain membership in a Selected Reserve unit or organization.
 
-**(b) Separation for Age.—** An officer may be retained under this section only so long as the officer continues to meet the conditions of paragraph (1) or (2) of subsection (a). An officer described in paragraph (1) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 62 years of age. An officer described in paragraph (2) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 60 years of age.
+**(b) Separation for Age.—** An officer may be retained under this section only so long as the officer continues to meet the conditions of paragraph (1) or (2) of subsection (a). An officer described in paragraph (1) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 62 years of age. An officer described in paragraph (2) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 62 years of age.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (b). Pub. L. 118–159 substituted “62” for “60”.
+
 2008—Pub. L. 110–417, § 514(c)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Retention on reserve active-status list of certain officers until age 60”.
 
 Subsec. (b). Pub. L. 110–417, § 514(b), in heading, substituted “for Age” for “at Age 60” and, in text, substituted “paragraph (1) or (2) of subsection (a)” for “subsection (a)(1) or (a)(2)” and “An officer described in paragraph (1) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 62 years of age. An officer described in paragraph (2) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 60 years of age.” for “An officer may not be retained under this section after the last day of the month in which the officer becomes 60 years of age.”

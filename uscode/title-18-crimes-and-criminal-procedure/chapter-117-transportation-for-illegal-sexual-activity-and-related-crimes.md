@@ -249,13 +249,15 @@ Whoever, using the mail or any facility or means of interstate or foreign commer
 
   (A) under this chapter, chapter 109A, chapter 110, or section 1591; or
 
-  (B) under State law for an offense consisting of conduct that would have been an offense under a chapter referred to in subparagraph (A) if the conduct had occurred within the special maritime and territorial jurisdiction of the United States; and
+  (B) under State law or the Uniform Code of Military Justice for an offense consisting of conduct that would have been an offense under a chapter referred to in subparagraph (A) if the conduct had occurred within the special maritime and territorial jurisdiction of the United States; and
 
 (2) the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (b)(1)(B). Pub. L. 118–159 inserted “or the Uniform Code of Military Justice” after “State law”.
+
 2018—Subsec. (a). Pub. L. 115–392, § 11(2)(A), substituted “3 times” for “twice”.
 
 Subsec. (b)(1)(B). Pub. L. 115–392, § 11(2)(B), substituted “subparagraph (A)” for “paragraph (1)”.

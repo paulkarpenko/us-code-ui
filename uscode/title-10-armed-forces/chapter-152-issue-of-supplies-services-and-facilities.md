@@ -399,9 +399,27 @@ Provisions similar to those in this section were contained in Pub. L. 101–165,
 
 **(b) Availability of Funds.—** To the extent provided in appropriation Acts, funds appropriated for humanitarian assistance for the purposes of this section shall remain available until expended.
 
-**(c) Status Reports.—**
+**(c) Notice Before Provision of Assistance.—**
 
-(1) The Secretary of Defense shall submit to the congressional committees specified in subsection (f) an annual report on the provision of humanitarian assistance pursuant to this section for the prior fiscal year. The report shall be submitted each year at the time of the budget submission by the President for the next fiscal year.
+(1) If the Secretary of Defense uses the authority under subsection (a) to provide assistance for any program or activity in an amount in excess of $5,000,000, the Secretary shall provide to the congressional committees specified in subsection (g) notice in writing of the use of such authority in accordance with paragraph (2). Notice under this subsection shall include an identification of each of the following:
+
+  (A) The amount, type, and purpose of assistance to be provided and the recipient of the assistance.
+
+  (B) The goals and objectives of the assistance.
+
+  (C) The number and role of any members of the Armed Forces involved in the provision of the assistance.
+
+  (D) Any other information the Secretary determines is relevant.
+
+(2) Notice required under paragraph (1) shall be provided—
+
+  (A) before the provision of assistance under subsection (a) using funds authorized to be appropriated to the Department of Defense for a fiscal year for humanitarian assistance; or
+
+  (B) not later than 48 hours after the provision of such assistance, if the Secretary determines that extraordinary circumstances that affect the national security interests of the United States exist.
+
+**(d) Status Reports.—**
+
+(1) The Secretary of Defense shall submit to the congressional committees specified in subsection (g) an annual report on the provision of humanitarian assistance pursuant to this section for the prior fiscal year. The report shall be submitted each year at the time of the budget submission by the President for the next fiscal year.
 
 (2) Each report required by paragraph (1) shall cover all provisions of law that authorize appropriations for humanitarian assistance to be available from the Department of Defense for the purposes of this section.
 
@@ -425,11 +443,11 @@ Provisions similar to those in this section were contained in Pub. L. 101–165,
 
     (iii) the quantity of items transferred.
 
-**(d) Report Regarding Relief for Unauthorized Countries.—** In any case in which the Secretary of Defense provides for the transportation of humanitarian relief to a country to which the transportation of humanitarian relief has not been specifically authorized by law, the Secretary shall notify the congressional committees specified in subsection (f) and the Committees on Appropriations of the Senate and House of Representatives of the Secretary’s intention to provide such transportation. The notification shall be submitted not less than 15 days before the commencement of such transportation.
+**(e) Report Regarding Relief for Unauthorized Countries.—** In any case in which the Secretary of Defense provides for the transportation of humanitarian relief to a country to which the transportation of humanitarian relief has not been specifically authorized by law, the Secretary shall notify the congressional committees specified in subsection (g) and the Committees on Appropriations of the Senate and House of Representatives of the Secretary’s intention to provide such transportation. The notification shall be submitted not less than 15 days before the commencement of such transportation.
 
-**(e) Definition.—** In this section, the term “defense authorization Act” means an Act that authorizes appropriations for one or more fiscal years for military activities of the Department of Defense, including authorizations of appropriations for the activities described in paragraph (7) of [section 114(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section114/a&num=0&edition=prelim).
+**(f) Definition.—** In this section, the term “defense authorization Act” means an Act that authorizes appropriations for one or more fiscal years for military activities of the Department of Defense, including authorizations of appropriations for the activities described in paragraph (7) of [section 114(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section114/a&num=0&edition=prelim).
 
-**(f) Congressional Committees.—** The congressional committees referred to in subsections (c)(1) and (d) are the following:
+**(g) Congressional Committees.—** The congressional committees referred to in subsections (c)(1), (d)(1), and (e) are the following:
 
 (1) The Committee on Armed Services and the Committee on Foreign Relations of the Senate.
 
@@ -438,6 +456,14 @@ Provisions similar to those in this section were contained in Pub. L. 101–165,
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (c). Pub. L. 118–159, § 1702(2), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsecs. (d), (e). Pub. L. 118–159, § 1702(1), (4), redesignated subsecs. (c) and (d) as (d) and (e), respectively, and substituted “subsection (g)” for “subsection (f)”. Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 118–159, § 1702(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 118–159, § 1702(1), (5), redesignated subsec. (f) as (g) and substituted “subsections (c)(1), (d)(1), and (e)” for “subsections (c)(1) and (d)” in introductory provisions.
+
 2022—Subsec. (c)(3)(A). Pub. L. 117–263, § 1053(a)(1), substituted “assistance” for “relief”.
 
 Subsec. (c)(3)(B) to (D). Pub. L. 117–263, § 1053(a)(2), added subpars. (B) to (D) and struck out former subpars. (B) and (C) which read as follows:

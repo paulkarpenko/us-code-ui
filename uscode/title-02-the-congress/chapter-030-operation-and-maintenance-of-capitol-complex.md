@@ -930,11 +930,13 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 (3) The House of Representatives shall make payments from amounts provided in appropriations acts for salaries and expenses of the Office of the Chief Administrative Officer for the following activities carried out under this section:
 
-  (A) The payment of the salary of the director of the center, and, at the option of the Chief Administrative Officer during an emergency situation, the payment of the salary of other employees of the Center.
+  (A) The payment of the salary of the director and assistant directors of the center, and, at the option of the Chief Administrative Officer during an emergency situation, the payment of the salary of other employees of the Center.
 
   (B) The cost of training classes and conferences for individuals employed by the center in connection with the provision of child care services, together with the cost of travel (including transportation and subsistence) incurred in connection with such classes and conferences.
 
-  (C) During an emergency situation, the payment of such other expenses for activities carried out under this section as the Chief Administrative Officer determines appropriate.
+  (C) The payment of telecommunications expenses for the Center, to include voicemail boxes, land lines, and cell phones for Center employees, in connection with the provision of child care services and as needed for critical and emergent communications.
+
+  (D) During an emergency situation, the payment of such other expenses for activities carried out under this section as the Chief Administrative Officer determines appropriate.
 
 (4) In the case of a child of an employee of the center who is furnished care at the center, the Chief Administrative Officer shall reduce the amount of tuition otherwise charged with respect to such child during a month by the greater of—
 
@@ -960,6 +962,10 @@ Section was classified to section 184g of former Title 40, prior to the enactmen
 Section is comprised of section 312 of Pub. L. 102–90. Another subsec. (f) of section 312 of Pub. L. 102–90 repealed sections 184b to 184f of former Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+2025—Subsec. (d)(3)(A). Pub. L. 119–37, § 114(b), inserted “and assistant directors” after “director”.
+
+Subsec. (d)(3)(C), (D). Pub. L. 119–37, § 114(a), added subpar. (C) and redesignated former subpar. (C) as (D).
+
 2022—Subsec. (d)(3)(B). Pub. L. 117–328 substituted “The cost of training classes and conferences for individuals employed by the center” for “The reimbursement of individuals employed by the center for the cost of training classes and conferences”.
 
 2020—Subsec. (d)(3)(A). Pub. L. 116–136, § 19002(a)(1), substituted “, and, at the option of the Chief Administrative Officer during an emergency situation, the payment of the salary of other employees of the Center.” for period at end.
@@ -1002,6 +1008,9 @@ Subsec. (d)(2). Pub. L. 104–186, § 221(5)(C), substituted “With respect” 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 “Government Publishing Office” substituted for “Government Printing Office” in subsec. (f)(2) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–37, div. C, title I, § 114(c), Nov. 12, 2025, 139 Stat. 570, provided that: “The amendments made by this section [aeending this section] shall apply with respect to fiscal year 2026 and each succeeding fiscal year.”
 
 #### Effective Date of 2022 Amendment
 Pub. L. 117–328, div. I, title I, § 116(b), Dec. 29, 2022, 136 Stat. 4924, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2023 and each succeeding fiscal year.”

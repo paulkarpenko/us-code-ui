@@ -134,7 +134,7 @@ Section, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 529, required Secretary to pre
 
 **(c)** In applying this title with respect to an uninspected vessel of less than 25 feet overall in length that carries passengers on Crane Lake or waters contiguous to such lake in St. Louis County, Minnesota, the Secretary shall substitute “12 passengers” for “6 passengers” each place it appears in section 2101.
 
-**(d)** The Secretary shall, by regulation, require certain additional equipment which may include liferafts or other lifesaving equipment, construction standards, or specify additional operating standards for those uninspected passenger vessels defined in [section 2101(53)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/53/A&num=0&edition=prelim).
+**(d)** The Secretary shall, by regulation, require certain additional equipment which may include liferafts or other lifesaving equipment, construction standards, or specify additional operating standards for those uninspected passenger vessels defined in [section 2101(55)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/55/A&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -146,6 +146,8 @@ Section, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 529, required Secretary to pre
 Section 4105 provides that an uninspected passenger vessel is subject to Chapter 43, as a recreational vessel even when it is carrying not more than six passengers.
 
 #### Amendments
+2025—Subsec. (d). Pub. L. 119–60 substituted “section 2101(55)(A)” for “section 2101(53)(A)”.
+
 2022—Subsec. (b)(1). Pub. L. 117–263, § 11601(c)(2)(A), substituted “section 2101” for “section 2101(51)” in introductory provisions.
 
 Subsec. (c). Pub. L. 117–263, § 11601(c)(2)(A), substituted “section 2101” for “section 2101(51)”.

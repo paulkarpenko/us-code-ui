@@ -2,7 +2,7 @@
 title: 10
 chapter: '853'
 heading: UNITED STATES NAVAL ACADEMY
-section_count: 33
+section_count: 34
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -54,6 +54,28 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Application of Section to Superintendents Serving on October 5, 1999
 Section not applicable to an officer serving on Oct. 5, 1999, in the position of Superintendent of the United States Military Academy, Naval Academy, or Air Force Academy for so long as that officer continues on and after that date to serve in that position without a break in service, see section 532(a)(5) of Pub. L. 106–65, set out as a note under [section 7321 of this title](./chapter-741-retirement-for-length-of-service.md#section-7321).
+
+
+<a id="section-8451b"></a>
+## § 8451b. Director of admissions
+**(a) Establishment and Appointment.—** There is a director of admissions of the Naval Academy. The director of admissions shall be appointed by the President, by and with the advice and consent of the Senate, and shall perform such duties as the Superintendent of the Naval Academy may prescribe with the approval of the Secretary of the Navy.
+
+**(b) Grade.—**
+
+(1) Subject to paragraph (2), a person appointed as director of admissions of the Naval Academy has the regular grade of commander in the Navy or lieutenant colonel in the Marine Corps.
+
+(2) A person serving as director of admissions shall have the regular grade of captain in the Navy or colonel in the Marine Corps upon the earlier of—
+
+  (A) the date on which such person completes six years of service as the director of admissions; and
+
+  (B) the date on which such person would have been promoted had the person been selected for promotion from among officers in the promotion zone.
+
+**(c) Detail.—** The President may detail any officer of the Navy or the Marine Corps in a grade above lieutenant or captain, respectively, to perform the duties of director of admissions without appointing the officer as director of admissions. Such a detail does not affect the position of the officer on the active-duty list.
+
+### Statutory Notes
+
+#### Continuation of Service of Current Director of Admissions
+Pub. L. 119–60, div. A, title V, § 558(b), Dec. 18, 2025, 139 Stat. 879, provided that: “Notwithstanding subsection (a) of [section 8451b of title 10](./chapter-853-united-states-naval-academy.md#section-8451b), United States Code, as added by subsection (a) of this section, the person serving as the director of admissions of the Naval Academy on the date of the enactment of this Act [Dec. 18, 2025]— “(1) may serve as the director of admissions of the Naval Academy until the date on which—“(A) a director of admissions is appointed by the President, by and with the advice and consent of the Senate, in accordance with subsection (a) of such section 8451b; or “(B) the President details an officer to perform the duties of the director of admissions in accordance with subsection (c) of such section 8451b; and “(2) has the regular grade described in subsection (b) of such section 8451b.”
 
 
 <a id="section-8452"></a>
@@ -117,7 +139,7 @@ Amendment by Pub. L. 97–60 effective with respect to nominations for appointme
 
 
 <a id="section-8454"></a>
-## § 8454. Midshipmen: number
+## § 8454. Midshipmen: appointment; numbers, territorial distribution
 **(a)** The authorized strength of the Brigade of Midshipmen (determined for any year as of the day before the last day of the academic year) is 4,400 or such lower number as may be prescribed by the Secretary of the Navy under subsection (h). Subject to that limitation, midshipmen are selected as follows:
 
 (1) 65 selected in order of merit as established by competitive examination from the children of members of the armed forces who were killed in action or died of, or have a service-connected disability rated at not less than 100 per centum resulting from, wounds or injuries received or diseases contracted in, or preexisting injury or disease aggravated by, active service, children of members who are in a “missing status” as defined in [section 551(2) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section551/2&num=0&edition=prelim), and children of civilian employees who are in “missing status” as defined in [section 5561(5) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5561/5&num=0&edition=prelim). The determination of the Department of Veterans Affairs as to service connection of the cause of death or disability, and the percentage at which the disability is rated, is binding upon the Secretary of the Navy.
@@ -139,7 +161,7 @@ Amendment by Pub. L. 97–60 effective with respect to nominations for appointme
 (9) Three from American Samoa, nominated by the Delegate in Congress from American Samoa.
 
 (10) Three from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
-Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 15 persons 11 See Applicability of Amendment note below. for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter. When a nominee of a Senator, Representative, or Delegate is selected for appointment as a midshipman, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.
+Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 15 persons for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and up to 14 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter. When a nominee of a Senator, Representative, or Delegate is selected for appointment as a midshipman, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.
 
 **(b)** In addition there may be appointed each year at the Academy midshipmen as follows:
 
@@ -208,7 +230,7 @@ In subsection (b)(1) the qualification that appointees must be from the sons of 
 
 In subsection (c) the proviso “That all such appointees are otherwise qualified for admission” is omitted as covered by [§ 6958 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6958&num=0&edition=prelim) setting forth qualifications of all candidates.
 
-The applicability to the United States Military Academy in the Act of June 8, 1926, ch. 492, as amended ([34 U.S.C. 1036a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1036a&num=0&edition=prelim); [10 U.S.C. 1091a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1091a&num=0&edition=prelim)), was repealed by section 6(c) of the Act of June 30, 1950, ch. 421, 64 Stat. 305.
+The applicability to the United States Military Academy in the Act of June 8, 1926, ch. 492, as amended ([34 U.S.C. 1036a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1036a&num=0&edition=prelim); [10 U.S.C. 1091a](./chapter-055-medical-and-dental-care.md#section-1091a)), was repealed by section 6(c) of the Act of June 30, 1950, ch. 421, 64 Stat. 305.
 
 #### 1962 Act
 The change reflects the change of the name of the Panama Railroad Company to the Panama Canal Company by section 2(a)(2) of the Act of September 26, 1950 (64 Stat. 1038).
@@ -216,10 +238,11 @@ The change reflects the change of the name of the Panama Railroad Company to the
 #### 1982 Act
 In 10:6954(f), the word “The” is substituted for “Effective beginning with the nominations for appointment to the Academy in the calendar year 1964, the” to eliminate executed words.
 
-#### Applicability of Amendment
-Amendment of section by section 561(b) of Pub. L. 118–31 applicable to nominations of candidates and appointments to the Service Academies for classes entering such Service Academies beginning with the 2025-2026 academic year. See 2023 Amendment notes below.
-
 #### Amendments
+2025—Pub. L. 119–60, § 555(b)(1), substituted “appointment; numbers, territorial distribution” for “number” in section catchline.
+
+Subsec. (a). Pub. L. 119–60, § 555(b)(2), substituted “up to 14 ranked or unranked alternates” for “9 ranked or unranked alternates” in concluding provisions.
+
 2023—Subsec. (a). Pub. L. 118–31, § 561(b)(1), substituted “15 persons” for “10 persons” in concluding provisions.
 
 Subsec. (a)(8). Pub. L. 118–31, § 562(b), substituted “Five” for “Four”.
@@ -553,7 +576,7 @@ For authority to waive maximum age limitation in subsec. (a)(1) of this section 
 
 
 <a id="section-8459"></a>
-## § 8459. Midshipmen: agreement for length of service
+## § 8459. Midshipmen: service obligation
 **(a)** Each midshipman shall sign an agreement with respect to the midshipman’s length of service in the armed forces. The agreement shall provide that the midshipman agrees to the following:
 
 (1) That the midshipman will complete the course of instruction at the Naval Academy.
@@ -576,13 +599,21 @@ For authority to waive maximum age limitation in subsec. (a)(1) of this section 
 
 **(b)**
 
-(1) The Secretary of the Navy may transfer to the Navy Reserve or the Marine Corps Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a midshipman who breaches an agreement under subsection (a). The period of time for which a midshipman is ordered to active duty under this paragraph may be determined without regard to [section 651(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section651/a&num=0&edition=prelim).
+(1) Subject to paragraph (4), the Secretary of the Navy may transfer to the Navy Reserve or the Marine Corps Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a midshipman who breaches an agreement under subsection (a). The period of time for which a midshipman is ordered to active duty under this paragraph may be determined without regard to [section 651(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section651/a&num=0&edition=prelim).
 
 (2) A midshipman who is transferred to the Navy Reserve or Marine Corps Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
 
 (3) For the purposes of paragraph (1), a midshipman shall be considered to have breached an agreement under subsection (a) if the midshipman is separated from the Naval Academy under circumstances which the Secretary determines constitute a breach by the midshipman of the midshipman’s agreement to complete the course of instruction at the Naval Academy and accept an appointment as a commissioned officer upon graduation from the Naval Academy.
 
-(4) A midshipman who violates paragraph (5) of subsection (a) is not eligible for the alternative obligation under paragraph (1).
+(4) Each academic year, the Secretary of the Navy may transfer not more than five midshipmen, who obtain employment in violation of paragraph (5) of subsection (a), to the Selected Reserve of the Navy or the Selected Reserve of the Marine Corps. Each midshipman so transferred shall—
+
+  (A) serve as a commissioned officer—
+
+    (i) in an appropriate grade or rating, determined by the Secretary of the Navy; and
+
+    (ii) for a period, determined by the Secretary of the Navy, not longer than 10 years; and
+
+  (B) while so serving, participate in efforts to recruit and retain members of the armed forces.
 
 **(c)** The Secretary of the Navy shall prescribe regulations to carry out this section. Those regulations shall include—
 
@@ -590,7 +621,7 @@ For authority to waive maximum age limitation in subsec. (a)(1) of this section 
 
 (2) that a midshipman who obtains employment as a professional athlete—
 
-  (A) in violation of paragraph (5) of subsection (a) has breached an agreement under such subsection; and
+  (A) in violation of paragraph (5) of subsection (a) has breached an agreement under such subsection unless such midshipman receives a transfer under paragraph (4) of subsection (b); and
 
   (B) at least two years after the midshipman graduates from the Academy has not breached an agreement under subsection (a);
 
@@ -606,7 +637,7 @@ For authority to waive maximum age limitation in subsec. (a)(1) of this section 
 
 (2) In the case of a midshipman who is a minor and who has parents or a guardian, the midshipman may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
 
-**(f)** A midshipman or former midshipman who does not fulfill each term of the agreement as specified under subsection (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
+**(f)** A midshipman or former midshipman who does not fulfill each term of the agreement as specified under subsection (a), or an alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
 ### Statutory Notes
 
@@ -618,6 +649,18 @@ For authority to waive maximum age limitation in subsec. (a)(1) of this section 
 The words “Hereafter” and “appointed to the United States Naval Academy” are omitted as surplusage. The words “an agreement that * * * he will” are substituted for the words “articles * * * by which he shall engage”. The word “separated” is substituted for the words “discharged by competent authority”. The words “if tendered an appointment”, “upon graduation from the United States Naval Academy”, and “consecutive” are omitted as surplusage. The words “if he is permitted to resign” are substituted for the words “in the event of the acceptance of his resignation”, since a resignation is effective only if accepted. The first 43 words of clause (3) are substituted for [34 U.S.C. 1048](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1048&num=0&edition=prelim) (last 30 words of clause (3)). The last sentence is substituted for the words “with the consent of his parents or guardian if he be a minor, and if any he have.”
 
 #### Amendments
+2025—Subsec. (b)(4). Pub. L. 119–60 substituted “five” for “three” in introductory provisions.
+
+2024—Pub. L. 118–159, § 557(b)(1), substituted “service obligation” for “agreement for length of service” in section catchline.
+
+Subsec. (b)(1). Pub. L. 118–159, § 557(b)(2)(A), substituted “Subject to paragraph (4), the Secretary of the Navy” for “The Secretary of the Navy”.
+
+Subsec. (b)(4). Pub. L. 118–159, § 557(b)(2)(B), added par. (4) and struck out former par. (4) which read as follows: “A midshipman who violates paragraph (5) of subsection (a) is not eligible for the alternative obligation under paragraph (1).”
+
+Subsec. (c)(2)(A). Pub. L. 118–159, § 557(b)(3), inserted “unless such midshipman receives a transfer under paragraph (4) of subsection (b)” before “; and”.
+
+Subsec. (f). Pub. L. 118–159, § 557(b)(4), substituted “an alternative obligation” for “the alternative obligation”.
+
 2022—Subsec. (a)(5). Pub. L. 117–263, § 553(b)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “That the midshipman—
 
 “(A) will not seek release from the midshipman’s commissioned service obligation or seek or accept approval for off-duty employment while completing the midshipman’s commissioned service obligation to obtain employment as a professional athlete following graduation until the midshipman completes a period of at least two consecutive years of commissioned service; and
@@ -918,17 +961,25 @@ Act Aug. 10, 1956, ch. 1041, § 35, 70A Stat. 634, provided in part that, under 
 
 <a id="section-8468"></a>
 ## § 8468. Board of Visitors
-**(a)** A Board of Visitors to the Naval Academy is constituted annually of—
+**(a)** A Board of Visitors to the Academy is constituted annually of—
 
-(1) the chairman of the Committee on Armed Services of the Senate, or his designee;
+(1) the chair of the Committee on Armed Services of the Senate, or the designee of such chair;
 
-(2) three other members of the Senate designated by the Vice President or the President pro tempore of the Senate, two of whom are members of the Committee on Appropriations of the Senate;
+(2) the ranking member of the Committee on Armed Services of the Senate, or the designee of the ranking member;
 
-(3) the chairman of the Committee on Armed Services of the House of Representatives, or his designee;
+(3) two other members of the Senate designated by the Majority Leader of the Senate, one of whom is a member of the Committee on Appropriations of the Senate;
 
-(4) four other members of the House of Representatives designated by the Speaker of the House of Representatives, two of whom are members of the Committee on Appropriations of the House of Representatives; and
+(4) two other members of the Senate designated by the Minority Leader of the Senate, one of whom is a member of the Committee on Appropriations of the Senate;
 
-(5) six persons designated by the President.
+(5) the chair of the Committee on Armed Services of the House of Representatives, or the designee of such chair;
+
+(6) the ranking member of the Committee on Armed Services of the House of Representatives, or the designee of the ranking member;
+
+(7) two other members of the House of Representatives designated by the Speaker of the House of Representatives, one of whom is a member of the Committee on Appropriations of the House of Representatives;
+
+(8) two other members of the House of Representatives designated by the Minority Leader of the House of Representatives; and
+
+(9) six persons designated by the President.
 
 **(b)** The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is appointed by the President. The President shall designate two persons each year to succeed the members whose terms expire that year.
 
@@ -938,7 +989,7 @@ Act Aug. 10, 1956, ch. 1041, § 35, 70A Stat. 634, provided in part that, under 
 
 **(e)** The Board shall inquire into the state of morale and discipline, the curriculum, instruction, physical equipment, fiscal affairs, academic methods, and other matters relating to the Academy that the Board decides to consider.
 
-**(f)** Within 60 days after its annual visit, the Board shall submit a written report to the President of its action and of its views and recommendations pertaining to the Academy. Any report of a visit, other than the annual visit, shall, if approved by a majority of the members of the Board, be submitted to the President within 60 days after the approval.
+**(f)** Within 60 days after its annual visit, the Board shall submit a written report to the President and the Committees on Armed Services of the Senate and House of Representatives of its action and of its views and recommendations pertaining to the Academy. Any report of a visit, other than the annual visit, shall, if approved by a majority of the members of the Board, be submitted to the President and the Committees on Armed Services of the Senate and House of Representatives within 60 days after the approval.
 
 **(g)** Upon approval by the Secretary, the Board may call in advisers for consultation.
 
@@ -971,6 +1022,12 @@ In subsection (a) the words “A Board of Visitors to the Naval Academy is const
 In subsection (b) the language establishing staggered terms is eliminated as executed, and the existence of such terms is recognized by the use of the words “two persons shall be designated by him each year to succeed the members whose terms expire that year”. No effect is given to the language “the nine Presidential appointees”. The hearings indicate that one of the bills considered provided for nine such “appointees”, and it appears that the number nine was inadvertently retained. The provision specifically authorizes only six Presidential designees.
 
 #### Amendments
+2025—Subsec. (a)(8). Pub. L. 119–60 substituted “two other members” for “one other member”.
+
+2024—Subsec. (a). Pub. L. 118–159, § 558(b)(1), added subsec. (a) and struck out former subsec. (a) which related to membership of Board of Visitors.
+
+Subsec. (f). Pub. L. 118–159, § 558(b)(2), inserted “and the Committees on Armed Services of the Senate and House of Representatives” after “the President” in two places.
+
 2021—Subsec. (b). Pub. L. 117–81, § 554(b), substituted “is appointed by the President” for “is appointed”.
 
 Subsec. (i). Pub. L. 117–81, § 555(b), added subsec. (i).

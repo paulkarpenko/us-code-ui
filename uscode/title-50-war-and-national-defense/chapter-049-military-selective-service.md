@@ -67,6 +67,25 @@ Act June 19, 1951, ch. 144, title I, § 5, 65 Stat. 88, provided that: “If any
 
 ### Statutory Notes
 
+#### Repeal and Reenactment of Section
+Pub. L. 119–60, div. A, title V, § 535(a), (c), Dec. 18, 2025, 139 Stat. 871, 872, provided that, effective one year after Dec. 18, 2025, this section is repealed and a new section 3802 is enacted to read as follows: § 3802. Automatic Registration
+
+(a)(1) Except as otherwise provided in this chapter, every male citizen of the United States, and every other male person residing in the United States, between the ages of eighteen and twenty-six, shall be automatically registered under this Act by the Director of the Selective Service System.
+
+(2) This section shall not apply to any alien lawfully admitted to the United States as a nonimmigrant under [section 1101(a)(15) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15&num=0&edition=prelim) for so long as such alien continues to maintain a lawful nonimmigrant status in the United States.
+
+(b) Regulations prescribed pursuant to this section (a) may require—
+
+(1) a person subject to registration under this section to provide, to the Director, information (including date of birth, address, social security account number, phone number, and email address) regarding such person;
+
+(2) a Federal entity to provide, to the Director, information described in paragraph (1) that the Director determines necessary to identify or register a person subject to registration under this section; and
+
+(3) the Director to provide, to a person registered under this section, written notification that—
+
+(A) such person has been so registered; and
+
+(B) if such person is not required to be so registered, the procedure by which such person may correct such registration.
+
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
@@ -79,6 +98,9 @@ Section was formerly classified to section 453 of the former Appendix to this ti
 1971—Pub. L. 92–129 substituted “male person residing in the United States” for “male person now or hereafter in the United States” and inserted provision making section inapplicable to aliens lawfully admitted to the United States as nonimmigrants under [section 1101(a)(15) of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15&num=0&edition=prelim) for so long as they maintain lawful nonimmigrant status in the United States.
 
 1951—Act June 19, 1951, made all male persons now or hereafter in the United States subject to registration.
+
+#### Effective Date of Repeal
+Pub. L. 119–60, div. A, title V, § 535(c), Dec. 18, 2025, 139 Stat. 872, provided that: “The amendments made by this section [enacting this section, amending sections 3803, 3806, 3809, 3811, and 3813 of this title, and repealing this section] shall take effect one year after the date of the enactment of this Act [Dec. 18, 2025].”
 
 #### Proc. No. 4360. Termination of Registration Procedures
 Proc. No. 4360, Mar. 29, 1975, 40 F.R. 14567, 89 Stat. 1255, provided:
@@ -224,6 +246,21 @@ Jimmy Carter.
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 119–60, div. A, title V, § 535(b)(1), (c), Dec. 18, 2025, 139 Stat. 871, 872, provided that, effective one year after Dec. 18, 2025, this section is amended as follows:
+
+(1) in subsection (a)—
+
+(A) by striking “required to register” each place it appears and inserting “registered”;
+
+(B) by striking “at the time fixed for his registration,”; and
+
+(C) by striking “who is required to register” and inserting “registered”; and
+
+(2) in subsection (k)(2), in the matter following subparagraph (B), by striking “liable for registration” and inserting “registered”.
+
+See 2025 Amendment notes below.
+
 #### Termination of Induction for Training and Service
 For provisions relating to termination of induction for training and service in the Armed Forces after July 1, 1973, see [section 3815(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3815/c&num=0&edition=prelim).
 
@@ -246,6 +283,10 @@ The Commission, referred to in subsec. (k)(5), means the National Security Train
 Section was formerly classified to section 454 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 535(b)(1)(A), substituted “registered” for “required to register” wherever appearing and “registered” for “who is required to register” and struck out “at the time fixed for his registration,” after “twenty-six years,”.
+
+Subsec. (k)(2). Pub. L. 119–60, § 535(b)(1)(B), substituted “registered” for “liable for registration” in concluding provisions.
+
 2002—Subsecs. (a), (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” wherever appearing.
 
 1997—Subsec. (k)(10). Pub. L. 105–85 substituted “shall be entitled to receive a dependency allowance equal to the basic allowance for housing provided for persons in pay grade E–1 under [section 403 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim)” for “as such terms are defined in the Career Compensation Act of 1949, shall be entitled to receive a dependency allowance equal to the sum of the basic allowance for quarters provided for persons in pay grade E–1 by section 302(f) of the Career Compensation Act of 1949 as amended by section 3 of the Dependents’ Assistance Act of 1950 as may be extended or amended”.
@@ -321,6 +362,9 @@ Subsec. (b). Act Sept. 27, 1950, § 1(5), inserted before period “or the Secre
 Subsec. (c). Act Sept. 27, 1950, § 3(a), added par. (4).
 
 Subsecs. (i), (j). Act Sept. 9, 1950, §§ 1, 9, temporarily added subsecs. (i) and (j). See Termination Date of Subsection (i) and Former Subsection (j) note below.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–60 effective one year after Dec. 18, 2025, see section 535(c) of Pub. L. 119–60, set out as an Effective Date of Repeal note under [section 3802 of this title](./chapter-049-military-selective-service.md#section-3802).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
@@ -523,7 +567,7 @@ Richard Nixon.
 
   (C) periods of active duty as a cadet at the United States Military Academy or United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, or in a preparatory school after nomination as a principal, alternate, or candidate for admission to any of such academies; or
 
-  (D) periods of active duty in any of the armed forces while being processed for entry into or separation from any educational program or institution referred to in paragraphs (B) or (C);
+  (D) periods of active duty in any of the armed forces while being processed for entry into or separation from any educational program or institution referred to in paragraphs (B) or (C); 22 So in original. The semicolon probably should be a period.
 
 **(c) Persons who were members of Ready Reserve of any Reserve component of the Armed Forces, Army National Guard, or Air National Guard on February 1, 1951, and persons who enlist in Ready Reserve of any Reserve component of the Armed Forces, Army National Guard, or Air National Guard**
 
@@ -595,6 +639,21 @@ As used in this subsection, the term “brother” or “sister” means a broth
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)
+Pub. L. 119–60, div. A, title V, § 535(b)(2), (c), Dec. 18, 2025, 139 Stat. 872, provided that, effective one year after Dec. 18, 2025, subsection (a) of this section is amended as follows:
+
+(1) in paragraph (1)—
+
+(A) by striking “required to be”;
+
+(B) by striking “subject to registration” and inserting “registered”; and
+
+(C) by striking “liable for registration and training” and inserting “registered and liable for training”; and
+
+(2) in paragraph (2), by striking “required to be” each place it appears.
+
+See 2025 Amendment notes below.
+
 #### Termination of Induction for Training and Service
 For provisions relating to termination of induction for training and service in the Armed Forces after July 1, 1973, see [section 3815(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3815/c&num=0&edition=prelim).
 
@@ -613,6 +672,10 @@ Act of August 13, 1946 (60 Stat. 1057), referred to in subsec. (d)(1), is act Au
 Section was formerly classified to section 456 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–60, § 535(b)(2)(A), struck out “required to be” before “registered under [section 3802 of this title](./chapter-049-military-selective-service.md#section-3802)” and substituted “registered” for “subject to registration” and “registered and liable for training” for “liable for registration and training”.
+
+Subsec. (a)(2). Pub. L. 119–60, § 535(b)(2)(B), struck out “required to be” before “registered under [section 3802 of this title](./chapter-049-military-selective-service.md#section-3802)” in two places.
+
 2006—Subsec. (a)(1). Pub. L. 109–163, § 515(g)(3)(A), substituted “members of the United States Navy Reserve” for “United States Naval Reserves”.
 
 Subsec. (d)(1)(A). Pub. L. 109–163, § 515(h), substituted “United States Navy Reserve” for “United States Naval Reserve”.
@@ -713,6 +776,9 @@ Subsec. (j). Act June 19, 1951, § 1(q), substituted “in lieu of such inductio
 
 #### Change of Name
 References to Naval Reserve, other than references to Naval Reserve regarding the United States Naval Reserve Retired List, deemed to refer to Navy Reserve, see section 515(h) of Pub. L. 109–163, set out as a note under [section 10101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section10101&num=0&edition=prelim), Armed Forces.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–60 effective one year after Dec. 18, 2025, see section 535(c) of Pub. L. 119–60, set out as an Effective Date of Repeal note under [section 3802 of this title](./chapter-049-military-selective-service.md#section-3802).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
@@ -916,6 +982,9 @@ Act July 9, 1956, ch. 523, § 2, 70 Stat. 509, provided that: “The amendment m
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)
+Pub. L. 119–60, div. A, title V, § 535(b)(3), (c), Dec. 18, 2025, 139 Stat. 872, provided that, effective one year after Dec. 18, 2025, subsection (b) of this section is amended by striking “registration,”. See 2025 Amendment note below.
+
 #### References in Text
 This chapter, referred to in subsecs. (a) to (d), was in the original “this title”, meaning title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
@@ -931,6 +1000,8 @@ Section was formerly classified to section 460 of the former Appendix to this ti
 In subsec. (b)(9), “sections 3111 and 3112 of title 40” substituted for “section 355, Revised Statutes, as amended” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+2025—Subsec. (b)(3). Pub. L. 119–60 struck out “registration,” before “examination,”.
+
 2013—Subsec. (a)(3). Pub. L. 112–239, § 1076(l), made technical amendment to directory language of Pub. L. 112–166, § 2(c)(3). See 2012 Amendment note below.
 
 2012—Subsec. (a)(3). Pub. L. 112–166, § 2(c)(3), as amended by Pub. L. 112–239, § 1076(l), struck out “, by and with the advice and consent of the Senate” before period at end.
@@ -995,6 +1066,9 @@ Subsec. (b)(4). Act June 30, 1950, struck out comma between “the compensation 
 
 #### Change of Name
 “Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (b)(6) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–60 effective one year after Dec. 18, 2025, see section 535(c) of Pub. L. 119–60, set out as an Effective Date of Repeal note under [section 3802 of this title](./chapter-049-military-selective-service.md#section-3802).
 
 #### Effective Date of 2013 Amendment
 Pub. L. 112–239, div. A, title X, § 1076(l), Jan. 2, 2013, 126 Stat. 1956, provided that the amendment by section 1076(l) is effective as of Aug. 10, 2012, and as if included in Pub. L. 112–166 as enacted.
@@ -1109,6 +1183,29 @@ Amendment by Pub. L. 116–315 applicable to deaths that occur on or after the d
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 119–60, div. A, title V, § 535(b)(4), (c), Dec. 18, 2025, 139 Stat. 872, provided that, effective one year after Dec. 18, 2025, this section is amended as follows:
+
+(1) in subsection (d)—
+
+(A) by striking “, neglecting, or refusing to perform the duty of registering imposed by” and inserting “registration under”; and
+
+(B) by striking “, or within five years next after the last day before such person does perform his duty to register, whichever shall first occur”;
+
+(2) in subsection (e)—
+
+(A) by striking “the Secretary of Health and Human Services” and inserting “Federal agencies”;
+
+(B) by striking “by a proclamation of the President” and inserting “to be registered”;
+
+(C) by striking “to present themselves for and submit to registration under such section”; and
+
+(D) by striking “by the Secretary”; and
+
+(3) by striking subsection (g).
+
+See 2025 Amendment notes below.
+
 #### References in Text
 This chapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
@@ -1120,6 +1217,16 @@ The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–32
 Section was formerly classified to section 462 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2025—Subsec. (d). Pub. L. 119–60, § 535(b)(4)(A), substituted “registration under” for “, neglecting, or refusing to perform the duty of registering imposed by” and struck out “, or within five years next after the last day before such person does perform his duty to register, whichever shall first occur” before period at end.
+
+Subsec. (e). Pub. L. 119–60, § 535(b)(4)(B), substituted “Federal agencies” for “the Secretary of Health and Human Services” and “to be registered” for “by a proclamation of the President” and struck out “to present themselves for and submit to registration under such section” after “under [section 3802 of this title](./chapter-049-military-selective-service.md#section-3802)” and “by the Secretary” before “under this subsection”.
+
+Subsec. (g). Pub. L. 119–60, § 535(b)(4)(C), struck out subsec. (g). Text read as follows: “A person may not be denied a right, privilege, or benefit under Federal law by reason of failure to present himself for and submit to registration under [section 3802 of this title](./chapter-049-military-selective-service.md#section-3802) if—
+
+“(1) the requirement for the person to so register has terminated or become inapplicable to the person; and
+
+“(2) the person shows by a preponderance of the evidence that the failure of the person to register was not a knowing and willful failure to register.”
+
 1986—Subsec. (f)(1). Pub. L. 99–661, § 1366(1), substituted “Except as provided in subsection (g), any person” for “Any person”.
 
 Subsec. (g). Pub. L. 99–661, § 1366(2), added subsec. (g).
@@ -1137,6 +1244,9 @@ Subsec. (g). Pub. L. 99–661, § 1366(2), added subsec. (g).
 Subsec. (c). Pub. L. 90–40, § 1(11)(b), added subsec. (c).
 
 1965—Subsec. (b)(3). Pub. L. 89–152 prohibited a person from knowingly destroying or knowingly mutilating any registration certificate or other prescribed certificate.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–60 effective one year after Dec. 18, 2025, see section 535(c) of Pub. L. 119–60, set out as an Effective Date of Repeal note under [section 3802 of this title](./chapter-049-military-selective-service.md#section-3802).
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as a note under [section 1657 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1657&num=0&edition=prelim), Judiciary and Judicial Procedure.
@@ -1335,9 +1445,12 @@ Section was formerly classified to section 463 of the former Appendix to this ti
 
 **(d) Voluntary enlistments or reenlistments; absence of affect** Except as provided in [section 3803(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3803/c&num=0&edition=prelim), nothing contained in this chapter shall be construed to repeal, amend, or suspend the laws now in force authorizing voluntary enlistment or reenlistment in the Armed Forces of the United States, including the reserve components thereof, except that no person shall be accepted for enlistment after he has been issued an order to report for induction unless authorized by the Director and the Secretary of Defense and except that, whenever the Congress or the President has declared that the national interest is imperiled, voluntary enlistment or reenlistment in such forces, and their reserve components, may be suspended by the President to such extent as he may deem necessary in the interest of national defense.
 
-**(e) Furnishing of names and addresses to Secretary of Defense or Secretary of Homeland Security** In order to assist the Armed Forces in recruiting individuals for voluntary service in the Armed Forces, the Director shall, upon the request of the Secretary of Defense or the Secretary of Homeland Security, furnish to the Secretary the names and addresses of individuals registered under this Act. Names and addresses furnished pursuant to the preceding sentence may be used by the Secretary of Defense or Secretary of Homeland Security only for recruiting purposes.
+**(e) Furnishing of names and addresses to Secretary of Defense or Secretary of Homeland Security** In order to assist the Armed Forces in recruiting individuals for voluntary service in the Armed Forces, the Director shall, upon the request of the Secretary of Defense or the Secretary of Homeland Security, furnish to the Secretary the full names, email addresses (if available), dates of birth, phone numbers (if available), and mailing addresses of individuals registered under this Act. Full names, email addresses, dates of birth, phone numbers, and mailing addresses furnished pursuant to the preceding sentence may be used by the Secretary of Defense or Secretary of Homeland Security only for recruiting purposes.
 
 ### Statutory Notes
+
+#### Amendment of Subsection (a)
+Pub. L. 119–60, div. A, title V, § 535(b)(5), (c), Dec. 18, 2025, 139 Stat. 872, provided that, effective one year after Dec. 18, 2025, subsection (a) of this section is amended by striking “upon publication by the President of a proclamation or other public notice fixing a time for any registration under [section 3802 of this title](./chapter-049-military-selective-service.md#section-3802)”. See 2025 Amendment note below.
 
 #### References in Text
 This chapter, referred to in subsecs. (a), (c), and (d), was in the original “this title”, meaning title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
@@ -1348,11 +1461,21 @@ This Act, referred to in subsec. (e), is act June 24, 1948, ch. 625, 62 Stat. 60
 Section was formerly classified to section 465 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 struck out “upon publication by the President of a proclamation or other public notice fixing a time for any registration under [section 3802 of this title](./chapter-049-military-selective-service.md#section-3802)” after “this chapter”.
+
+2024—Subsec. (e). Pub. L. 118–159 substituted “the full names, email addresses (if available), dates of birth, phone numbers (if available), and mailing addresses” for “the names and addresses” and “Full names, email addresses, dates of birth, phone numbers, and mailing addresses furnished” for “Names and addresses furnished”.
+
 2002—Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in two places.
 
 1981—Subsec. (e). Pub. L. 97–86 added subsec. (e).
 
 1971—Subsec. (d). Pub. L. 92–129 inserted provision empowering the Director and the Secretary of Defense to authorize voluntary enlistments and reenlistments in the Armed Forces after a person has been issued an order to report for induction and struck out reference to [section 3803(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3803/g&num=0&edition=prelim).
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–60 effective one year after Dec. 18, 2025, see section 535(c) of Pub. L. 119–60, set out as an Effective Date of Repeal note under [section 3802 of this title](./chapter-049-military-selective-service.md#section-3802).
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–159, div. A, title V, § 532(b), Dec. 23, 2024, 138 Stat. 1887, provided that: “The amendments made by this section [amending this section] shall take effect 120 days after the date of the enactment of this Act [Dec. 23, 2024].”
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.

@@ -144,9 +144,17 @@ Division A, section 101(e), title I of Public Law 105–277, referred to in par.
 
 **(f) Project reporting** Each person that receives assistance under this section for a project shall provide periodic reports, as the Secretary considers necessary, to the Secretary and the Administrator. Each report shall include all information requested by the Secretary, after consulting with the Administrator, for evaluating the progress and success of the project.
 
+**(g) Multiyear grants**
+
+(1) **Authorization** — The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for rhinoceroses or tigers and the habitat of rhinoceroses or tigers.
+
+(2) **Effect** — Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
+
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (g). Pub. L. 118–159 added subsec. (g).
+
 2007—Subsec. (c). Pub. L. 110–132 substituted “and to the Administrator” for “, to the Administrator, and to each country within which the project is to be conducted” in third sentence.
 
 2002—Subsec. (e). Pub. L. 107–112 amended heading and text generally. Prior to amendment, text read as follows: “To the maximum extent practical, the Secretary should give consideration to projects which will enhance sustainable development programs to ensure effective, long-term conservation of rhinoceros and tigers.”
@@ -241,13 +249,15 @@ A prior section 9 of Pub. L. 103–391 was renumbered section 10 and is classifi
 
 <a id="section-5306"></a>
 ## § 5306. Authorization of appropriations
-**(a) In general** There is authorized to be appropriated to the Fund $10,000,000 for each of fiscal years 2019 through 2023 to carry out this chapter, to remain available until expended.
+**(a) In general** There is authorized to be appropriated to the Fund $10,000,000 for each of fiscal years 2025 through 2029 to carry out this chapter, to remain available until expended.
 
 **(b) Administrative expenses** Of amounts available each fiscal year to carry out this chapter, the Secretary may expend not more than 3 percent or $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159 substituted “2025 through 2029” for “2019 through 2023”.
+
 2019—Subsec. (a). Pub. L. 116–9 substituted “2019 through 2023” for “2007 through 2012”.
 
 2007—Subsec. (a). Pub. L. 110–132, § 3(c), substituted “2007 through 2012” for “2001, 2002, 2003, 2004, 2005, 2006, and 2007”.

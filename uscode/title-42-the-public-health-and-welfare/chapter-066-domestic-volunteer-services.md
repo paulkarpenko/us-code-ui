@@ -251,7 +251,7 @@ The National and Community Service Act of 1990, referred to in subsecs. (b)(2)(A
 The Higher Education Act of 1965, referred to in subsec. (c)(1)(E), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B and E of title IV of the Higher Education Act of 1965 are classified to parts B (§ 1071 et seq.) and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2014—Subsec. (d). Pub. L. 113–128 substituted “employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce development board established under [section 3122 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3122&num=0&edition=prelim).” for “employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce investment board established under [section 2832 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2832&num=0&edition=prelim).”.
+2014—Subsec. (d). Pub. L. 113–128 substituted “employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce development board established under [section 3122 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3122&num=0&edition=prelim).” for “employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce investment board established under [section 2832 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2832&num=0&edition=prelim).”
 
 2009—Subsec. (a)(1). Pub. L. 111–13, § 2102(1)(A), inserted “the Commonwealth of the Northern Mariana Islands,” after “American Samoa,”.
 
@@ -749,7 +749,6 @@ Section effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as 
 
 Section, Pub. L. 93–113, title I, § 124, formerly § 125, as added Pub. L. 102–73, title VII, § 701(a)(1), July 25, 1991, 105 Stat. 358; renumbered § 124 and amended Pub. L. 103–82, title III, § 333(2), title IV, § 405(a)(5), Sept. 21, 1993, 107 Stat. 903, 920, authorized the Director to award literacy challenge grants to eligible public agencies and private organizations.
 
-#### Prior Provisions
 A prior section 124 of Pub. L. 93–113 was classified to [section 4994 of this title](./chapter-066-domestic-volunteer-services.md#section-4994) prior to repeal by Pub. L. 103–82.
 
 #### Effective Date of Repeal

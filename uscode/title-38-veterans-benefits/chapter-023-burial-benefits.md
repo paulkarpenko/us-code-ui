@@ -196,7 +196,7 @@ Repeal of section applicable to deaths that occur on or after the date that is t
 
     (i) owned by a State or by an agency or political subdivision of a State; or
 
-    (ii) on trust land owned by, or held in trust for, a tribal organization. 11 So in original. The period probably should be “; and”.
+    (ii) on trust land owned by, or held in trust for, a tribal organization.11 So in original. The period probably should be “; and”.
 
 (2) if such veteran is eligible for a burial allowance under subsection (a) of this section, or was discharged from the active military, naval, air, or space service for a disability incurred or aggravated in line of duty, and such veteran is buried in a cemetery, or a section of a cemetery, other than as described in clause (1) of this subsection, the Secretary shall pay a sum not exceeding $700 (as increased from time to time under subsection (c)) as a plot or interment allowance to such person as the Secretary prescribes, except that if any part of the plot or interment costs of a burial to which this clause applies has been paid or assumed by a State, an agency or political subdivision of a State, tribal organization, or a former employer of the deceased veteran, no claim for such allowance shall be allowed for more than the difference between the entire amount of the expenses incurred and the amount paid or assumed by any or all of the foregoing entities.
 
@@ -342,6 +342,9 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 #### Effective Date of 1973 Amendment
 Pub. L. 93–43, § 10(b), June 18, 1973, 87 Stat. 88, provided that: “Clause (1) of section 5(a) [amending this section] shall take effect on the first day of the second calendar month following the date of enactment of this Act [June 18, 1973].”
 
+#### Burial Allowance for Certain Veterans Who Die at Home While in Receipt of Hospice Care Furnished by Department of Veterans Affairs
+Pub. L. 118–210, title III, § 301, Jan. 2, 2025, 138 Stat. 2788, provided that: “(a) In General.—The Secretary of Veterans Affairs shall treat a veteran described in subsection (b) as a veteran described in subparagraph (A) of [section 2303(a)(2) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2303/a/2&num=0&edition=prelim), United States Code. “(b) Veteran Described.—A veteran described in this subsection is a veteran who dies in a home or other setting at which the deceased veteran was, at the time of death, receiving hospice care pursuant to section 1717(a) of such title if such care was directly preceded by the Secretary furnishing to the veteran hospital care or nursing home care described in clause (ii) of such subparagraph [probably means subpar. (A) of [section 2303(a)(2) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2303/a/2&num=0&edition=prelim), United States Code]. “(c) Effective Date; Applicability.—This section shall apply with respect to deaths that occur—“(1) on or after the date that is 180 days after the date of the enactment of this Act [Jan. 2, 2025]; and “(2) before October 1, 2026.”
+
 #### Plot and Interment Allowances for Veterans Buried Before March 15, 2022, in Cemeteries on Trust Land Owned by, or Held in Trust for, Tribal Organizations
 Pub. L. 117–355, § 2, Jan. 5, 2023, 136 Stat. 6278, provided that: “The Secretary of Veterans Affairs shall pay a plot or interment allowance under paragraph (1) of [section 2303(b) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2303/b&num=0&edition=prelim), United States Code, for a veteran if— “(1) the veteran was buried, before March 15, 2022, in a cemetery, or in a section of a cemetery, that is on trust land owned by, or held in trust for, a tribal organization; “(2) the tribal organization that is responsible for operating and maintaining the cemetery, or the section of cemetery, applies for such allowance; “(3) a plot or interment allowance was not already paid for the burial of such veteran under paragraph (2) of such section; and “(4) the burial of the veteran otherwise meets the requirements under paragraph (1) of such section.”
 
@@ -403,9 +406,9 @@ The death of any person who had a status which would, under the laws in effect o
 
   (A) A veteran.
 
-  (B) An individual who dies on or after November 11, 1998, who is the spouse or surviving spouse of a veteran, or the spouse of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s death if such death occurs before September 30, 2025.
+  (B) An individual who dies on or after November 11, 1998, who is the spouse or surviving spouse of a veteran, or the spouse of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s death if such death occurs before September 30, 2032.
 
-  (C) An individual who dies on or after November 11, 1998, who is an eligible dependent child of a veteran, or the eligible dependent child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the child’s death if such death occurs before September 30, 2025.
+  (C) An individual who dies on or after November 11, 1998, who is an eligible dependent child of a veteran, or the eligible dependent child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the child’s death if such death occurs before September 30, 2032.
 
 (3) For purposes of paragraph (1), the remains of an individual shall be considered to be unavailable if the individual’s remains—
 
@@ -566,6 +569,8 @@ The death of any person who had a status which would, under the laws in effect o
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b)(2)(B), (C). Pub. L. 118–271 substituted “September 30, 2032” for “September 30, 2025”.
+
 2024—Subsec. (b)(2)(B), (C). Pub. L. 118–83 substituted “September 30, 2025” for “October 1, 2024”.
 
 Subsec. (d)(5)(C)(i). Pub. L. 118–134, § 2(a)(1), (3), redesignated cl. (ii) as (i) and struck out former cl. (i) which read as follows: “served in the Armed Forces on or after April 6, 1917;”.

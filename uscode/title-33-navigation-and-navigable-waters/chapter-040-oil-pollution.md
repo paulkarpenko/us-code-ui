@@ -142,7 +142,7 @@ For the purposes of this Act, the term—
 
   (F) *Pipelines.—* — In the case of a pipeline, any person owning or operating the pipeline.
 
-  (G) *Abandonment.—* — In the case of an abandoned vessel, onshore facility, deepwater port, pipeline,,11 So in original. Second comma probably should not appear. offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that would have been responsible parties immediately prior to the abandonment of the vessel or facility.
+  (G) *Abandonment.—* — In the case of an abandoned vessel, onshore facility, deepwater port, pipeline, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that would have been responsible parties immediately prior to the abandonment of the vessel or facility.
 
 (33) “Secretary” means the Secretary of the department in which the Coast Guard is operating;
 
@@ -191,17 +191,17 @@ For the purposes of this Act, the term—
     (x) conducting a removal action under [section 1321(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/c&num=0&edition=prelim) or under the direction of an on-scene coordinator appointed under the National Contingency Plan,
     if such actions do not rise to the level of participating in management under subparagraph (A) of this paragraph and paragraph (26)(A)(vi);
 
-(39) “extension of credit” has the meaning provided in section 101(20)(G)(i) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/i&num=0&edition=prelim));
+(39) “extension of credit” has the meaning provided in section 101(20)(H)(i) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/i&num=0&edition=prelim)); 11 See References in Text note below.
 
-(40) “financial or administrative function” has the meaning provided in section 101(20)(G)(ii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/ii&num=0&edition=prelim));
+(40) “financial or administrative function” has the meaning provided in section 101(20)(H)(ii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/ii&num=0&edition=prelim)); 1
 
-(41) “foreclosure” and “foreclose” each has the meaning provided in section 101(20)(G)(iii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(iii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/iii&num=0&edition=prelim));
+(41) “foreclosure” and “foreclose” each has the meaning provided in section 101(20)(H)(iii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(iii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/iii&num=0&edition=prelim)); 1
 
-(42) “lender” has the meaning provided in section 101(20)(G)(iv) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(iv)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/iv&num=0&edition=prelim));
+(42) “lender” has the meaning provided in section 101(20)(H)(iv) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(iv)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/iv&num=0&edition=prelim)); 1
 
-(43) “operational function” has the meaning provided in section 101(20)(G)(v) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(v)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/v&num=0&edition=prelim)); and
+(43) “operational function” has the meaning provided in section 101(20)(H)(v) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(v)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/v&num=0&edition=prelim)); 1 and
 
-(44) “security interest” has the meaning provided in section 101(20)(G)(vi) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(vi)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/vi&num=0&edition=prelim)).
+(44) “security interest” has the meaning provided in ection 101(20)(H)(vi) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 ([42 U.S.C. 9601(20)(G)(vi)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/vi&num=0&edition=prelim)).1
 
 ### Statutory Notes
 
@@ -216,7 +216,23 @@ The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is
 
 The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in par. (23), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
+The parenthetical references to [42 U.S.C. 9601(20)(G)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/i&num=0&edition=prelim) to [42 U.S.C. 9601(20)(G)(vi)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/G/vi&num=0&edition=prelim), referred to in pars. (39) to (44), respectively, should be to [42 U.S.C. 9601(20)(H)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/H/i&num=0&edition=prelim) to [42 U.S.C. 9601(20)(H)(vi)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/20/H/vi&num=0&edition=prelim), respectively, in correspondence with the amendments made in pars. (39) to (44) by Pub. L. 119–60, § 7701(g)(1)(B)–(G), to the references to section 101(20) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980. See Amendment notes below.
+
 #### Amendments
+2025—Par. (32)(G). Pub. L. 119–60, § 7701(g)(1)(A), substituted “pipeline, offshore facility” for “pipeline,, offshore facility”.
+
+Par. (39). Pub. L. 119–60, § 7701(g)(1)(B), substituted “section 101(20)(H)(i)” for “section 101(20)(G)(i)”.
+
+Par. (40). Pub. L. 119–60, § 7701(g)(1)(C), substituted “section 101(20)(H)(ii)” for “section 101(20)(G)(ii)”.
+
+Par. (41). Pub. L. 119–60, § 7701(g)(1)(D), substituted “section 101(20)(H)(iii)” for “section 101(20)(G)(iii)”.
+
+Par. (42). Pub. L. 119–60, § 7701(g)(1)(E), substituted “section 101(20)(H)(iv)” for “section 101(20)(G)(iv)”.
+
+Par. (43). Pub. L. 119–60, § 7701(g)(1)(F), substituted “section 101(20)(H)(v)” for “section 101(20)(G)(v)”.
+
+Par. (44). Pub. L. 119–60, § 7701(g)(1)(G), substituted “section 101(20)(H)(vi)” for “section 101(20)(G)(vi)”.
+
 2018—Par. (32)(A). Pub. L. 115–232 struck out “(other than a vessel described in [section 3703a(b)(3) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3703a/b/3&num=0&edition=prelim))” before period at end.
 
 2017—Par. (26)(A)(ii). Pub. L. 115–91, § 3508(b)(1)(A)(i)(I), substituted “onshore facility, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or entity” for “onshore or offshore facility, any person”.
@@ -432,7 +448,7 @@ The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (c)(3), is t
 
 (5) **Previous owner or operator** — Nothing in this paragraph or in subsection (a)(3) shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this Act. Notwithstanding this paragraph, if a responsible party obtained actual knowledge of the discharge or substantial threat of discharge of oil at such facility when the responsible party owned the facility and then subsequently transferred ownership of the facility or the real property on which the facility is located to another person without disclosing such knowledge, the responsible party shall be treated as liable under [section 2702(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/a&num=0&edition=prelim) and no defense under subsection (a) shall be available to such responsible party.
 
-(6) **Limitation on defense** — Nothing in this paragraph shall affect the liability under this Act of a responsible party who, by any act or omission, caused or contributed to the discharge or substantial threat of discharge of oil which is the subject of the action relating to the facility.
+(6) **Limitation on defense** — Nothing in this subsection shall affect the liability under this Act of a responsible party who, by any act or omission, caused or contributed to the discharge or substantial threat of discharge of oil which is the subject of the action relating to the facility.
 
 ### Statutory Notes
 
@@ -442,6 +458,8 @@ The Intervention on the High Seas Act, referred to in subsec. (c)(3), is Pub. L.
 This Act, referred to in subsec. (d)(5), (6), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 #### Amendments
+2025—Subsec. (d)(6). Pub. L. 119–60 substituted “this subsection” for “this paragraph”.
+
 2018—Subsec. (d)(5). Pub. L. 115–232 inserted “section” before “2702(a)”.
 
 2004—Subsec. (d). Pub. L. 108–293 added subsec. (d).
@@ -591,14 +609,18 @@ For delegation of functions of President under subsec. (d) of this section, see 
 
   (A) *In general* — Interest (including prejudgment interest) under this paragraph is in addition to damages and removal costs for which claims may be asserted under [section 2702 of this title](./chapter-040-oil-pollution.md#section-2702) and shall be paid without regard to any limitation of liability under [section 2704 of this title](./chapter-040-oil-pollution.md#section-2704).
 
-  (B) *Payment by guarantor* — The payment of interest under this subsection by a guarantor is subject to [section 2716(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2716/g&num=0&edition=prelim).
+  (B) *Payment by guarantor* — The payment of interest under this subsection by a guarantor is subject to section 2716(f).11 See References in Text note below.
 
 ### Statutory Notes
 
 #### References in Text
 This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
+Section 2716(f), referred to in subsec. (b)(5)(B), probably should have been a reference to section 1016(f) in the original, meaning section 1016(f) of Pub. L. 101–380, known as the Oil Pollution Act of 1990, which is classified to [section 2716(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2716/f&num=0&edition=prelim).
+
 #### Amendments
+2025—Subsec. (b)(5)(B). Pub. L. 119–60 substituted “section 2716(f)” for “[section 2716(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2716/g&num=0&edition=prelim)”.
+
 2022—Subsec. (b)(4). Pub. L. 117–263 designated existing provisions as subpar. (A) and inserted heading, substituted “The interest paid for claims, other than Federal Government cost recovery claims,” for “The interest paid”, and added subpar. (B).
 
 1996—Pub. L. 104–324, § 1142(a)(1), inserted “; partial payment of claims” after “Interest” in section catchline.
@@ -814,7 +836,7 @@ Functions of President under this section delegated to Administrator of Environm
 
 (1) **In general** — The Fund shall not be available to pay any claim for removal costs or damages to a particular claimant, to the extent that the incident, removal costs, or damages are caused by the gross negligence or willful misconduct of that claimant.
 
-(2) **Subrogated rights** — Except for a guarantor claim pursuant to a defense under [section 2716(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2716/f/1&num=0&edition=prelim), Fund compensation of any claim by an insurer or other indemnifier of a responsible party or injured third party is subject to the subrogated rights of that responsible party or injured third party to such compensation.
+(2) **Subrogated rights** — Except for a guarantor claim pursuant to a defense under [section 2716(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2716/e/1&num=0&edition=prelim), Fund compensation of any claim by an insurer or other indemnifier of a responsible party or injured third party is subject to the subrogated rights of that responsible party or injured third party to such compensation.
 
 **(c) Obligation of Fund by Federal officials** The President may promulgate regulations designating one or more Federal officials who may obligate money in accordance with subsection (a).
 
@@ -888,6 +910,8 @@ Functions of President under this section delegated to Administrator of Environm
 This Act, referred to in subsecs. (a)(5) and (e), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended former [section 1223 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223&num=0&edition=prelim) and enacted provisions formerly set out as a note under [section 1223 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223&num=0&edition=prelim). Sections 4110 and 4111 enacted provisions set out as a note and formerly set out as a note under [section 3703 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3703&num=0&edition=prelim), Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section 1295 of the former Appendix to Title 46. Section 5006 is classified to [section 2736 of this title](./chapter-040-oil-pollution.md#section-2736). Section 8103 enacted provisions formerly set out as a note under [section 1651 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1651&num=0&edition=prelim), Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 #### Amendments
+2025—Subsec. (b)(2). Pub. L. 119–60 substituted “section 2716(e)(1)” for “section 2716(f)(1)”.
+
 2022—Subsec. (a)(1)(B). Pub. L. 117–263, § 11314(1), substituted “by a State, a political subdivision of a State, or an Indian tribe, pursuant to a cost-reimbursable agreement” for “by a Governor or designated State official”.
 
 Subsec. (a)(4). Pub. L. 117–263, § 11310, inserted “, including, in the case of a spill of national significance that results in extraordinary Coast Guard claims processing activities, the administrative and personnel costs of the Coast Guard to process such claims (including the costs of commercial claims processing, expert services, training, and technical services), subject to the condition that the Coast Guard shall submit to Congress a report describing each spill of national significance not later than 30 days after the date on which the Coast Guard determines it necessary to process such claims” after “damages”.
@@ -1103,15 +1127,15 @@ shall establish and maintain, in accordance with regulations promulgated by the 
 
 (2) **Deepwater ports** — Each responsible party with respect to a deepwater port shall establish and maintain evidence of financial responsibility sufficient to meet the maximum amount of liability to which the responsible party could be subjected under [section 2704(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2704/a&num=0&edition=prelim) in a case where the responsible party would be entitled to limit liability under that section. If the Secretary exercises the authority under [section 2704(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2704/d/2&num=0&edition=prelim) to lower the limit of liability for deepwater ports, the responsible party shall establish and maintain evidence of financial responsibility sufficient to meet the maximum amount of liability so established. In a case in which a person is the responsible party for more than one deepwater port, evidence of financial responsibility need be established only to meet the maximum liability applicable to the deepwater port having the greatest maximum liability.
 
-**(e) 11 So in original. No subsec. (d) has been enacted. Methods of financial responsibility** Financial responsibility under this section may be established by any one, or by any combination, of the following methods which the Secretary (in the case of a vessel) or the President (in the case of a facility) determines to be acceptable: evidence of insurance, surety bond, guarantee, letter of credit, qualification as a self-insurer, or other evidence of financial responsibility. Any bond filed shall be issued by a bonding company authorized to do business in the United States. In promulgating requirements under this section, the Secretary or the President, as appropriate, may specify policy or other contractual terms, conditions, or defenses which are necessary, or which are unacceptable, in establishing evidence of financial responsibility to effectuate the purposes of this Act.
+**(d) Methods of financial responsibility** Financial responsibility under this section may be established by any one, or by any combination, of the following methods which the Secretary (in the case of a vessel) or the President (in the case of a facility) determines to be acceptable: evidence of insurance, surety bond, guarantee, letter of credit, qualification as a self-insurer, or other evidence of financial responsibility. Any bond filed shall be issued by a bonding company authorized to do business in the United States. In promulgating requirements under this section, the Secretary or the President, as appropriate, may specify policy or other contractual terms, conditions, or defenses which are necessary, or which are unacceptable, in establishing evidence of financial responsibility to effectuate the purposes of this Act.
 
-**(f) Claims against guarantor**
+**(e) Claims against guarantor**
 
 (1) **In general** — Subject to paragraph (2), a claim for which liability may be established under [section 2702 of this title](./chapter-040-oil-pollution.md#section-2702) may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke—
 
   (A) all rights and defenses which would be available to the responsible party under this Act;
 
-  (B) any defense authorized under subsection (e); and
+  (B) any defense authorized under subsection (d); and
 
   (C) the defense that the incident was caused by the willful misconduct of the responsible party.
   The guarantor may not invoke any other defense that might be available in proceedings brought by the responsible party against the guarantor.
@@ -1126,23 +1150,25 @@ shall establish and maintain, in accordance with regulations promulgated by the 
 
 (3) **Rulemaking authority** — Not later than 1 year after October 19, 1996, the President shall promulgate regulations to establish a process for implementing paragraph (2) in a manner that will allow for the orderly and expeditious presentation and resolution of claims and effectuate the purposes of this Act.
 
-**(g) Limitation on guarantor’s liability** Nothing in this Act shall impose liability with respect to an incident on any guarantor for damages or removal costs which exceed, in the aggregate, the amount of financial responsibility which that guarantor has provided for a responsible party pursuant to this section. The total liability of the guarantor on direct action for claims brought under this Act with respect to an incident shall be limited to that amount.
+**(f) Limitation on guarantor’s liability** Nothing in this Act shall impose liability with respect to an incident on any guarantor for damages or removal costs which exceed, in the aggregate, the amount of financial responsibility which that guarantor has provided for a responsible party pursuant to this section. The total liability of the guarantor on direct action for claims brought under this Act with respect to an incident shall be limited to that amount.
 
-**(h) Continuation of regulations** Any regulation relating to financial responsibility, which has been issued pursuant to any provision of law repealed or superseded by this Act, and which is in effect on the date immediately preceding the effective date of this Act, is deemed and shall be construed to be a regulation issued pursuant to this section. Such a regulation shall remain in full force and effect unless and until superseded by a new regulation issued under this section.
+**(g) Continuation of regulations** Any regulation relating to financial responsibility, which has been issued pursuant to any provision of law repealed or superseded by this Act, and which is in effect on the date immediately preceding the effective date of this Act, is deemed and shall be construed to be a regulation issued pursuant to this section. Such a regulation shall remain in full force and effect unless and until superseded by a new regulation issued under this section.
 
-**(i) Unified certificate** The Secretary may issue a single unified certificate of financial responsibility for purposes of this Act and any other law.
+**(h) Unified certificate** The Secretary may issue a single unified certificate of financial responsibility for purposes of this Act and any other law.
 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (e), (f), (g), (h), and (i), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+This Act, referred to in subsecs. (d) to (h), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
-The effective date of this Act, referred to in subsec. (h), is the effective date of Pub. L. 101–380 which is applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701).
+The effective date of this Act, referred to in subsec. (g), is the effective date of Pub. L. 101–380 which is applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701).
 
 #### Codification
 In subsec. (b)(1), “[section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim)” substituted for “section 4197 of the Revised Statutes of the United States” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 60105 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim), Shipping.
 
 #### Amendments
+2025—Subsecs. (d) to (i). Pub. L. 119–60 redesignated subsecs. (e) to (i) as (d) to (h), respectively, and, in subsec. (e)(1)(B) as redesignated, substituted “subsection (d)” for “subsection (e)”.
+
 2010—Subsec. (a)(3). Pub. L. 111–281 added par. (3).
 
 1996—Subsec. (c)(1). Pub. L. 104–324, § 1125(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), each responsible party with respect to an offshore facility shall establish and maintain evidence of financial responsibility of $150,000,000 to meet the amount of liability to which the responsible party could be subjected under [section 2704(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2704/a&num=0&edition=prelim) in a case in which the responsible party would be entitled to limit liability under that section. In a case in which a person is the responsible party for more than one facility subject to this subsection, evidence of financial responsibility need be established only to meet the maximum liability applicable to the facility having the greatest maximum liability.”
@@ -1216,10 +1242,15 @@ Specific functions of President under this section delegated to Secretary of Dep
 
   (B) against an incompetent person until the earlier of the date on which such incompetent’s incompetency ends or the date on which a legal representative is duly appointed for such incompetent.
 
+**(g) Timing of review** Before the date of completion of a removal action, no person may bring an action under this Act, [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321), or chapter 7 of title 5 challenging any decision relating to such removal action that is made by an on-scene coordinator appointed under the National Contingency Plan.
+
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a), (b), (c), and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+
+#### Amendments
+2025—Subsec. (g). Pub. L. 119–60 added subsec. (g).
 
 
 <a id="section-2718"></a>
@@ -1240,7 +1271,7 @@ This Act, referred to in subsecs. (a), (b), (c), and (f), is Pub. L. 101–380, 
 
 (2) to require any person to contribute to such a fund.
 
-**(c) Additional requirements and liabilities; penalties** Nothing in this Act, the Act of March 3, 1851 ([46 U.S.C. 183](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section183&num=0&edition=prelim) et seq.),11 See References in Text note below. or [section 9509 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9509&num=0&edition=prelim), shall in any way affect, or be construed to affect, the authority of the United States or any State or political subdivision thereof—
+**(c) Additional requirements and liabilities; penalties** Nothing in this Act, chapter 305 of title 46, or [section 9509 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9509&num=0&edition=prelim), shall in any way affect, or be construed to affect, the authority of the United States or any State or political subdivision thereof—
 
 (1) to impose additional liability or additional requirements; or
 
@@ -1254,9 +1285,12 @@ relating to the discharge, or substantial threat of a discharge, of oil.
 #### References in Text
 This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
-Act of March 3, 1851, referred to in subsecs. (a) and (c), is act Mar. 3, 1851, ch. 43, 9 Stat. 635, which was incorporated into the Revised Statutes as R.S. §§ 4282, 4283, 4284 to 4287 and 4289, and was classified to sections 182, 183, and 184 to 188 of Title 46, Appendix, Shipping, prior to being repealed and restated in chapter 305 of Title 46, Shipping, by Pub. L. 109–304, §§ 6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding [section 101 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section101&num=0&edition=prelim).
+Act of March 3, 1851, referred to in subsec. (a), is act Mar. 3, 1851, ch. 43, 9 Stat. 635, which was incorporated into the Revised Statutes as R.S. §§ 4282, 4283, 4284 to 4287 and 4289, and was classified to sections 182, 183, and 184 to 188 of Title 46, Appendix, Shipping, prior to being repealed and restated in chapter 305 of Title 46, Shipping, by Pub. L. 109–304, §§ 6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding [section 101 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section101&num=0&edition=prelim).
 
 The Solid Waste Disposal Act, referred to in subsec. (a)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6901&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2025—Subsec. (c). Pub. L. 119–60 substituted “chapter 305 of title 46” for “the Act of March 3, 1851 ([46 U.S.C. 183](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section183&num=0&edition=prelim) et seq.)” in introductory provisions.
 
 #### Report on Vessel Safety and Ability To Meet Legal Obligations
 Pub. L. 102–241, § 32, Dec. 19, 1991, 105 Stat. 2222, provided that: “Not later than one year after the date of enactment of this Act [Dec. 19, 1991], the Secretary of Transportation shall report to Congress on the effect of section 1018 of the Oil Pollution Act of 1990 (Public Law 101–380; 104 Stat. 484) [[33 U.S.C. 2718](./chapter-040-oil-pollution.md#section-2718)] on the safety of vessels being used to transport oil and the capability of owners and operators to meet their legal obligations in the event of an oil spill.”
@@ -2154,9 +2188,9 @@ Section, Pub. L. 101–380, title VI, § 6003, Aug. 18, 1990, 104 Stat. 555, rel
 
 **(h) Funding** Not to exceed $22,000,000 of amounts in the Fund shall be available annually to carry out this section except for subsection (e)(8). Of such sums—
 
-(1) funds authorized to be appropriated to carry out the activities under subsection (c)(4) 11 See References in Text note below. shall not exceed $5,000,000 for fiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
+(1) funds authorized to be appropriated to carry out the activities under subsection (e)(4) shall not exceed $5,000,000 for fiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
 
-(2) not less than $3,000,000 shall be available for carrying out the activities in subsection (c)(6) 1 for fiscal years 1992, 1993, 1994, and 1995.
+(2) not less than $3,000,000 shall be available for carrying out the activities in subsection (c)(6) 11 See References in Text note below. for fiscal years 1992, 1993, 1994, and 1995.
 All activities authorized in this section, including subsection (e)(8), are subject to appropriations.
 
 ### Statutory Notes
@@ -2164,9 +2198,11 @@ All activities authorized in this section, including subsection (e)(8), are subj
 #### References in Text
 This Act, referred to in subsec. (e)(7)(C)(ii), (8)(G), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
-Subsection (c), referred to in subsec. (h), was redesignated subsec. (e) of this section by Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8304(5), Jan. 1, 2021, 134 Stat. 4694.
+Subsection (c)(6), referred to in subsec. (h)(2), was redesignated subsec. (e)(6) of this section by Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8304(5), Jan. 1, 2021, 134 Stat. 4694.
 
 #### Amendments
+2025—Subsec. (h)(1). Pub. L. 119–60 substituted “subsection (e)(4)” for “subsection (c)(4)”.
+
 2021—Subsecs. (a), (b). Pub. L. 116–283, § 8304(6), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to Interagency Coordinating Committee on Oil Pollution Research and oil pollution research and technology plan.
 
 Subsec. (c). Pub. L. 116–283, § 8304(6), added subsec. (c). Former subsec. (c) (as amended by section 8304(1) of Pub. L. 116–283, see notes below) redesignated (e).

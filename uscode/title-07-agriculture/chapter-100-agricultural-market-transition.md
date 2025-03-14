@@ -973,15 +973,19 @@ Section, Pub. L. 104–127, title I, § 155, Apr. 4, 1996, 110 Stat. 922, relate
 
 (3) 18.50 cents per pound for raw cane sugar for the 2010 crop year;
 
-(4) 18.75 cents per pound for raw cane sugar for each of the 2011 through 2018 crop years; and
+(4) 18.75 cents per pound for raw cane sugar for each of the 2011 through 2018 crop years;
 
-(5) 19.75 cents per pound for raw cane sugar for each of the 2019 through 2023 crop years.
+(5) 19.75 cents per pound for raw cane sugar for each of the 2019 through 2024 crop years; and
+
+(6) 24.00 cents per pound for raw cane sugar for each of the 2025 through 2031 crop years.
 
 **(b) Sugar beets** The Secretary shall make loans available to processors of domestically grown sugar beets at a rate equal to—
 
-(1) 22.9 cents per pound for refined beet sugar for the 2008 crop year; and
+(1) 22.9 cents per pound for refined beet sugar for the 2008 crop year;
 
-(2) a rate that is equal to 128.5 percent of the loan rate per pound of raw cane sugar for the applicable crop year under subsection (a) for each of the 2009 through 2023 crop years.
+(2) a rate that is equal to 128.5 percent of the loan rate per pound of raw cane sugar for the applicable crop year under subsection (a) for each of the 2009 through 2024 crop years; and
+
+(3) a rate that is equal to 136.55 percent of the loan rate per pound of raw cane sugar under subsection (a)(6) for each of the 2025 through 2031 crop years.
 
 **(c) Term of loans**
 
@@ -1085,7 +1089,7 @@ Section, Pub. L. 104–127, title I, § 155, Apr. 4, 1996, 110 Stat. 922, relate
 
 **(h) Substitution of refined sugar** For purposes of Additional U.S. Note 6 to chapter 17 of the Harmonized Tariff Schedule of the United States and the reexport programs and polyhydric alcohol program administered by the Secretary, all refined sugars (whether derived from sugar beets or sugarcane) produced by cane sugar refineries and beet sugar processors shall be fully substitutable for the export of sugar and sugar-containing products under those programs.
 
-**(i) Effective period** This section shall be effective only for the 2008 through 2023 crops of sugar beets and sugarcane.
+**(i) Effective period** This section shall be effective only for the 2008 through 2031 crops of sugar beets and sugarcane.
 
 ### Statutory Notes
 
@@ -1098,6 +1102,16 @@ Provisions of law applicable to sugarcane or sugar beets for the 2023 crop year 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (a)(5). Pub. L. 119–21, § 10312(a)(1)(B), substituted “2024 crop years; and” for “2023 crop years.”
+
+Subsec. (a)(6). Pub. L. 119–21, § 10312(a)(1)(A), (C), added par. (6).
+
+Subsec. (b)(2). Pub. L. 119–21, § 10312(a)(2)(B), substituted “2024 crop years; and” for “2023 crop years.”
+
+Subsec. (b)(3). Pub. L. 119–21, § 10312(a)(2)(C), added par. (3).
+
+Subsec. (i). Pub. L. 119–21, § 10312(a)(3), substituted “2031” for “2023”.
+
 2018—Subsec. (a)(5). Pub. L. 115–334, § 1301(a)(1), added par. (5).
 
 Subsec. (b)(2). Pub. L. 115–334, § 1301(a)(2), substituted “2023” for “2018”.
@@ -1333,13 +1347,13 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 <a id="section-7287"></a>
 ## § 7287. Commodity Credit Corporation storage payments
-**(a) Initial crop years** Notwithstanding any other provision of law, for each of the 2008 through 2011 crop years, the Commodity Credit Corporation shall establish rates for the storage of forfeited sugar in an amount that is not less than—
+**(a) In general** For the 2025 crop year and each subsequent crop year, the Commodity Credit Corporation shall establish rates for the storage of forfeited sugar in an amount that is not less than—
 
-(1) in the case of refined sugar, 15 cents per hundredweight of refined sugar per month; and
+(1) in the case of refined sugar, 34 cents per hundredweight per month; and
 
-(2) in the case of raw cane sugar, 10 cents per hundredweight of raw cane sugar per month.
+(2) in the case of raw cane sugar, 27 cents per hundredweight per month.
 
-**(b) Subsequent crop years** For each of the 2012 and subsequent crop years, the Commodity Credit Corporation shall establish rates for the storage of forfeited sugar in the same manner as was used on the day before the date of enactment of this section.
+**(b) Prior crop years** For each of the 2012 through 2024 crop years, the Commodity Credit Corporation shall establish rates for the storage of forfeited sugar in the same manner as was used on the day before the date of enactment of this section.
 
 ### Statutory Notes
 
@@ -1350,6 +1364,11 @@ The date of enactment of this section, referred to in subsec. (b), is the date o
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section 1405 of Pub. L. 110–246, which directed that this section be added at the end of subtitle E of the Federal Agriculture Improvement and Reform Act of 1996, was executed by adding this section at the end of subtitle E of title I of that Act, to reflect the probable intent of Congress.
+
+#### Amendments
+2025—Subsec. (a). Pub. L. 119–21, § 10312(b)(1), added subsec. (a) and struck out former subsec. (a) which related to rates for the storage of forfeited sugar for 2008 to 2011 crop years.
+
+Subsec. (b). Pub. L. 119–21, § 10312(b)(2), substituted “Prior” for “Subsequent” in heading and “through 2024” for “and subsequent” in text.
 
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).

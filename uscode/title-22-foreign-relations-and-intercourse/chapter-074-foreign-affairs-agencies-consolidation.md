@@ -419,7 +419,7 @@ For transfer of functions, personnel, assets, and liabilities of the Overseas Pr
 ### Statutory Notes
 
 #### References in Text
-Executive Order No. 12163, referred to in subsec. (a), is Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, which is set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381). Section 1–801 of Ex. Ord. No. 12163 was deleted in the general amendment of Part 1–8 of Ex. Ord. No. 12163 by Ex. Ord. No. 13118, § 8, Mar. 31, 1999, 64 F.R. 16597.
+Executive Order No. 12163, referred to in subsec. (a), is Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, which is set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381). Section 1–801 of Ex. Ord. No. 12163 was deleted in the general amendment of Part 1–8 of Ex. Ord. No. 12163 by Ex. Ord. No. 13118, § 8, Mar. 31, 1999, 64 F.R. 16597.
 
 For the effective date of this subchapter, referred to in subsecs. (a)(1) and (b), meaning the effective date of title XIV of subdiv. A of div. G of Pub. L. 105–277, see section 1401 of Pub. L. 105–277, set out as a note under [section 6561 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6561).
 

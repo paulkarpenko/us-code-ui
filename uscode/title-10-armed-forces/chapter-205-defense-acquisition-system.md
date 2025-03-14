@@ -9,7 +9,31 @@ source: >-
 <a id="section-3101"></a>
 ## § 3101. Definitions
 
-In this chapter, the term “acquisition” has the meaning provided in [section 131 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section131&num=0&edition=prelim).
+In this chapter:
+
+(1) The term “best value” means, with respect to an acquisition, the optimal combination of cost, quality, technical capability or solution quality, and delivery schedule.
+
+(2) The term “capability requirement” means a capability that is critical or essential to address an operational problem.
+
+(3) The term “cost-effective” means, with respect to an acquisition, delivering superior end-user results at equal or lower cost compared to alternatives.
+
+(4) The term “operational problem” means—
+
+  (A) a challenge of a military department in achieving an assigned military objective based on current doctrine, emerging threats, or future concepts; and
+
+  (B) may include limitations in capabilities, capacity, resources, or the ability to effectively and efficiently coordinate across the joint force, with another combatant command, or among military capabilities.
+
+(5) The term “service chief” means—
+
+  (A) the Chief of Staff of the Army, with respect to matters concerning the Army;
+
+  (B) the Chief of Naval Operations, with respect to matters concerning the Navy;
+
+  (C) the Commandant of the Marine Corps, with respect to matters concerning the Marine Corps;
+
+  (D) the Chief of Staff of the Air Force, with respect to matters concerning the Air Force; and
+
+  (E) the Chief of Space Operations, with respect to matters concerning the Space Force.
 
 ### Statutory Notes
 
@@ -17,6 +41,8 @@ In this chapter, the term “acquisition” has the meaning provided in [section
 [Section 2545 of this title](./chapter-chapter-149-chapter-chapter-149.md#section-2545), which was transferred to this section by Pub. L. 116–283, § 1808(a)(2), was also transferred or copied in large part to [section 3001 of this title](./chapter-201-definitions.md#section-3001) by Pub. L. 116–283, § 1806(a)(2)–(4).
 
 #### Amendments
+2025—Pub. L. 119–60 amended text generally. Prior to amendment, text defined the term “acquisition”.
+
 2021—Pub. L. 116–283, § 1808(b)(1), substituted “In this chapter, the term” for “In this chapter:”, par. (1) designation, and “The term” and struck out pars. (2) to (4) which defined “defense acquisition system”, “element of the defense acquisition system”, and “acquisition workforce”.
 
 Pub. L. 116–283, § 1808(a)(2), renumbered [section 2545 of this title](./chapter-chapter-149-chapter-chapter-149.md#section-2545) as this section.
@@ -28,34 +54,64 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 
 <a id="section-3102"></a>
-## § 3102. Customer-oriented acquisition system
-**(a) Objective.—** It shall be the objective of the defense acquisition system to meet the needs of its customers in the most cost-effective manner practicable. The acquisition policies, directives, and regulations of the Department of Defense shall be modified as necessary to ensure the development and implementation of a customer-oriented acquisition system.
+## § 3102. Objectives of the defense acquisition system
+**(a) In General.—** The Secretary of Defense shall ensure that the defense acquisition system expeditiously provides the armed forces with the capabilities necessary to operate effectively, to address evolving threats, and to sustain the military advantage of the United States in the most cost-effective manner practicable.
 
-**(b) Customer.—** The customer of the defense acquisition system is the armed force that will have primary responsibility for fielding the system or systems acquired. The customer is represented with regard to a major defense acquisition program by the Secretary of the military department concerned and the Chief of the armed force concerned.
+**(b) Guidance.—** The Secretary of Defense shall issue guidance to carry out subsection (a) and shall ensure that the defense acquisition system prioritizes the needs of end users and is validated by direct engagement, experimentation, and iteration. Such guidance shall require the following:
 
-**(c) Role of Customer.—** The customer of a major defense acquisition program shall be responsible for balancing resources against priorities on the acquisition program and ensuring that appropriate trade-offs are made among cost, schedule, technical feasibility, and performance on a continuing basis throughout the life of the acquisition program.
+(1) All activities of the defense acquisition system contribute to the expeditious delivery of capabilities to enhance the operational readiness of the armed forces and enable the missions of the Department of Defense.
+
+(2) A leadership culture and organizational structure that empowers individuals in the management of the defense acquisition system and encourages appropriate delegation authority, collaboration, and mission-focused risk-taking.
+
+(3) Sufficient numbers of members of the acquisition workforce to support the defense acquisition system, and that such members are properly trained and assigned.
+
+(4) Resource decisions for the defense acquisition system to prioritize best value and seek to balance life-cycle costs, schedule, performance, and quantity through continuous trade-off analysis informed by prototyping and direct feedback from end users.
+
+(5) Adoption and integration in the defense acquisition system of advanced approaches in digital engineering, model-based engineering, and simulation environments to enable rapid, iterative designs and technology insertion to maximize mission outcomes.
+
+(6) Active pursuit of innovative solutions to enhance effectiveness of the armed forces and responsiveness to emerging threats, including the acquisition and integration of commercial products and commercial services.
+
+(7) Approaches to workforce training and development that equally balance emphasis on functional and technical skills with skills in cross-functional integration, critical thinking, and innovative approaches that best deliver solutions to operational problems.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Pub. L. 119–60 amended section generally. Prior to amendment, text related to the objective of the defense acquisition system, the customer of the defense acquisition system, and the role of the customer of a major defense acquisition program.
+
 2021—Pub. L. 116–283 renumbered [section 2546a of this title](./chapter-chapter-149-chapter-chapter-149.md#section-2546a) as this section and transferred it so as to appear after [section 3101 of this title](./chapter-205-defense-acquisition-system.md#section-3101). Directory language transferring this section “within such section” was executed as if it had read “within such chapter”, meaning chapter 205 of this title, to reflect the probable intent of Congress.
 
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Consideration of Trade-Offs Among Cost, Schedule, and Performance Objectives in Department of Defense Acquisition Programs
-Pub. L. 111–23, title II, § 201(a), May 22, 2009, 123 Stat. 1719, provided that: “(1) In general.—The Secretary of Defense shall ensure that mechanisms are developed and implemented to require consideration of trade-offs among cost, schedule, and performance objectives as part of the process for developing requirements for Department of Defense acquisition programs. “(2) Elements.—The mechanisms required under this subsection shall ensure, at a minimum, that—“(A) Department of Defense officials responsible for acquisition, budget, and cost estimating functions are provided an appropriate opportunity to develop estimates and raise cost and schedule matters before performance objectives are established for capabilities for which the Chairman of the Joint Requirements Oversight Council is the validation authority; and “(B) the process for developing requirements is structured to enable incremental, evolutionary, or spiral acquisition approaches, including the deferral of technologies that are not yet mature and capabilities that are likely to significantly increase costs or delay production until later increments or spirals.”
+Pub. L. 111–23, title II, § 201(a), May 22, 2009, 123 Stat. 1719, which related to consideration of trade-offs among cost, schedule, and performance objectives in Department of Defense acquisition programs, was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(4), Dec. 18, 2025, 139 Stat. 1244.
 
 
 <a id="section-3103"></a>
 ## § 3103. Civilian management of the defense acquisition system
-**(a) Responsibility of the Under Secretary of Defense for Acquisition and Sustainment.—** Subject to the authority, direction and control of the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment shall be responsible for the management of the defense acquisition system and shall exercise such control of the system and perform such duties as are necessary to ensure the successful and efficient operation of the defense acquisition system, including the duties enumerated and assigned to the Under Secretary elsewhere in this title.
+**(a) Responsibility of the Under Secretary of Defense for Acquisition and Sustainment.—** Subject to the authority, direction and control of the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment shall be responsible for the management of the defense acquisition system and shall exercise such control of the system and perform such duties as are necessary in accordance with the objectives of the defense acquisition system established pursuant to [section 3102 of this title](./chapter-205-defense-acquisition-system.md#section-3102), including the duties enumerated and assigned to the Under Secretary elsewhere in this title.
 
-**(b) Responsibility of the Service Acquisition Executives.—** Subject to the direction of the Under Secretary of Defense for Acquisition and Sustainment on matters pertaining to acquisition, and subject to the authority, direction, and control of the Secretary of the military department concerned, a service acquisition executive of a military department shall be responsible for the management of elements of the defense acquisition system in that military department and shall exercise such control of the system and perform such duties as are necessary to ensure the successful and efficient operation of such elements of the defense acquisition system.
+**(b) Responsibility of the Service Acquisition Executives.—** Subject to the direction of the Under Secretary of Defense for Acquisition and Sustainment on matters pertaining to acquisition, and subject to the authority, direction, and control of the Secretary of the military department concerned, a service acquisition executive of a military department shall be responsible for the management of elements of the defense acquisition system in that military department and shall exercise such control of the system and perform such duties as are necessary in accordance with the objectives of the defense acquisition system established pursuant to [section 3102 of this title](./chapter-205-defense-acquisition-system.md#section-3102). In carrying out this subsection, each service acquisition executive shall—
+
+(1) implement strategies to adapt rapidly to evolving end-user requirements, validated through end user engagement;
+
+(2) use data analytics to manage trade-offs among life-cycle costs, delivery schedules, performance objectives, technical feasibility, and procurement quantity objectives to maximize best value for the end user;
+
+(3) conduct iterative cycles to develop, test with end-users, and terminate capabilities that deviate from priorities or significantly exceed cost or schedule thresholds;
+
+(4) notify the Joint Requirements Oversight Council within 30 days after changes to a defense acquisition program that result in a material difference in capability requirements, procurement quantities, or delivery schedules;
+
+(5) assign personnel to critical acquisition positions (as defined in [section 1731 of this title](./chapter-087-defense-acquisition-workforce.md#section-1731)) to build expertise and accountability, equipping such personnel with strategies to empower teams, delegate authority, and embrace mission-focused risk-taking; and
+
+(6) foster mutual transparency and cooperation between the Government and private sector entities and require collaboration with such entities to ensure delivery of safe, suitable, and effective systems on relevant timelines and on established cost baselines.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 1801(b)(1), substituted “in accordance with the objectives of the defense acquisition system established pursuant to [section 3102 of this title](./chapter-205-defense-acquisition-system.md#section-3102)” for “to ensure the successful and efficient operation of the defense acquisition system”.
+
+Subsec. (b). Pub. L. 119–60, § 1801(b)(2), substituted “in accordance with the objectives of the defense acquisition system established pursuant to [section 3102 of this title](./chapter-205-defense-acquisition-system.md#section-3102). In carrying out this subsection, each service acquisition executive shall—” and pars. (1) to (6) for “to ensure the successful and efficient operation of such elements of the defense acquisition system.”
+
 2021—Pub. L. 116–283 renumbered [section 2546 of this title](./chapter-chapter-149-chapter-chapter-149.md#section-2546) as this section.
 
 2019—Subsec. (a). Pub. L. 116–92, § 902(78)(A), (B), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics” in heading and text.
@@ -67,32 +123,46 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 
 <a id="section-3104"></a>
-## § 3104. Acquisition-related functions of chiefs of the armed forces
-**(a) Performance of Certain Acquisition-related Functions.—** The Secretary of Defense shall ensure that the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, and the Chief of Space Operations assist the Secretary of the military department concerned in the performance of the following acquisition-related functions of such department:
+## § 3104. Acquisition-related functions of service chiefs
+**(a) Performance of Certain Acquisition-related Functions.—** The Secretary of Defense shall ensure that the service chiefs assist the Secretary of the military department concerned, in accordance with the objectives established pursuant to [section 3102 of this title](./chapter-205-defense-acquisition-system.md#section-3102), in the performance of the following acquisition-related functions of such department:
 
-(1) The development of requirements for equipping the armed force concerned (subject, where appropriate, to validation by the Joint Requirements Oversight Council pursuant to [section 181 of this title](./chapter-007-boards-councils-and-committees.md#section-181)).
+(1) The development of capability requirement statements for equipping the armed force concerned that—
 
-(2) Decisions regarding the balancing of resources and priorities, and associated trade-offs among cost, schedule, technical feasibility, and performance on major defense acquisition programs.
+  (A) describes the operational problem to provide necessary context for the capability requirement;
 
-(3) The coordination of measures to control requirements creep in the defense acquisition system.
+  (B) proposes nonprescriptive solutions to operational problems; and
 
-(4) The recommendation of trade-offs among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, to ensure acquisition programs deliver best value in meeting the approved military requirements.
+  (C) ensures system interoperability, where appropriate, between and among joint military capabilities (as defined in [section 181 of this title](./chapter-007-boards-councils-and-committees.md#section-181)).
 
-(5) Termination of development or procurement programs for which life-cycle cost, schedule, and performance expectations are no longer consistent with approved military requirements and levels of priority, or which no longer have approved military requirements.
+(2) Implement strategies to support timely adjustments to capability requirement statements developed in paragraph (1).
 
-(6) The development and management of career paths in acquisition for military personnel (as required by [section 1722a of this title](./chapter-087-defense-acquisition-workforce.md#section-1722a)).
+(3) Advise on trade-offs among life-cycle costs, delivery schedules, performance objectives, technical feasibility, and procurement quantity objectives to maximize best value for the end user.
 
-(7) The assignment and training of contracting officer representatives when such representatives are required to be members of the armed forces because of the nature of the contract concerned.
+(4) In consultation with the Joint Requirements Oversight Council, prioritize—
+
+  (A) capability needs for investment; and
+
+  (B) resource allocation to meet operational readiness requirements (as defined in [section 4324 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4324)) and the materiel readiness objectives established under [section 118(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section118/c&num=0&edition=prelim).
+
+(5) Make available appropriate personnel to provide end-user feedback for the development of new capabilities.
+
+(6) Recommend modification, discontinuation, or termination of the development of capabilities—
+
+  (A) that no longer align with a capability requirement established by the Secretary of Defense; or
+
+  (B) that are experiencing significant cost growth, technical or performance deficiencies, or delays in schedule.
+
+(7) Build acquisition career paths for officers and personnel (as required by [section 1722a of this title](./chapter-087-defense-acquisition-workforce.md#section-1722a)) to ensure such officers and personnel have the necessary skills and opportunities for career progression to fulfill the objectives established pursuant to [section 3102 of this title](./chapter-205-defense-acquisition-system.md#section-3102).
 
 **(b) Adherence to Requirements in Major Defense Acquisition Programs.—**
 
-(1) The Secretary of the military department concerned shall ensure that the program capability document supporting a Milestone B or subsequent decision for a major defense acquisition program may not be approved until the chief of the armed force concerned determines in writing that the requirements in the document are necessary and realistic in relation to the program cost and fielding targets established under [section 4271(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4271/a&num=0&edition=prelim).
+(1) The Secretary of the military department concerned shall ensure that any requirements document for a major defense acquisition program may not be approved until the service chief concerned determines in writing that the requirements in the document are necessary and realistic in relation to the program cost and fielding targets established under [section 4271(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4271/a&num=0&edition=prelim).
 
-(2) Consistent with the performance of duties under subsection (a), the Chief of the armed force concerned, or in the case of a joint program the chiefs of the armed forces concerned, with respect to major defense acquisition programs, shall—
+(2) Consistent with the performance of duties under subsection (a), the service chief concerned, or in the case of a joint program the service chiefs concerned, with respect to major defense acquisition programs, shall—
 
-  (A) concur with the need for a materiel solution as identified in the Materiel Development Decision Review prior to entry into the Materiel Solution Analysis Phase under Department of Defense Instruction 5000.02;
+  (A) concur with the need for a materiel solution as identified in the Materiel Development Decision Review;
 
-  (B) concur with the cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program before Milestone A approval is granted under [section 4251 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4251);
+  (B) concur with the life-cycle cost, delivery schedule, performance objective, technical feasibility, and procurement quantity trade-offs that have been made with regard to the program before Milestone A approval is granted under [section 4251 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4251);
 
   (C) concur that appropriate trade-offs among cost, schedule, technical feasibility, and performance objectives have been made to ensure that the program is affordable when considering the per unit cost and the total life-cycle cost before Milestone B approval is granted under [section 4252 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4252); and
 
@@ -100,19 +170,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(c) Rule of Construction.—** Nothing in this section shall be construed to affect the assignment of functions under section 7014(c)(1)(A), section 8014(c)(1)(A), or [section 9014(c)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9014/c/1/A&num=0&edition=prelim), except as explicitly provided in this section.
 
-**(d) Definitions.—** In this section:
-
-(1) The term “requirements creep” means the addition of new technical or operational specifications after a requirements document is approved by the appropriate validation authority for the requirements document.
-
-(2) The term “requirements document” means a document produced in the requirements process that is provided for an acquisition program to guide the subsequent development, production, and testing of the program and that—
-
-  (A) justifies the need for a materiel approach, or an approach that is a combination of materiel and non-materiel, to satisfy one or more specific capability gaps;
-
-  (B) details the information necessary to develop an increment of militarily useful, logistically supportable, and technically mature capability, including key performance parameters; or
-
-  (C) identifies production attributes required for a single increment of a program.
-
-(3) The term “program capability document” has the meaning provided in [section 4401(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4401/b/5&num=0&edition=prelim).
+**(d) Requirements Document Defined.—** In this section, the term “requirements document” means a document that establishes the need for a materiel approach to address an operational problem.
 
 ### Statutory Notes
 
@@ -120,6 +178,36 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 In addition to being transferred to this section as part of the renumbering of [section 2547 of this title](./chapter-chapter-149-chapter-chapter-149.md#section-2547), subsec. (b) of [section 2547 of this title](./chapter-chapter-149-chapter-chapter-149.md#section-2547) had also been directed to be transferred to [section 4274 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4274) and redesignated as subsec. (a) of that section by Pub. L. 116–283, div. A, title XVIII, § 1847(e)(4)(B), Jan. 1, 2021, 134 Stat. 4257. Section 1847(e)(4)(B) of Pub. L. 116–283 was repealed by Pub. L. 117–81, div. A, title XVII, § 1701(r)(1)(B), Dec. 27, 2021, 135 Stat. 2149, effective as if included in title XVIII of Pub. L. 116–283.
 
 #### Amendments
+2025—Pub. L. 119–60, § 1801(c)(1)(A), substituted “Acquisition-related functions of service chiefs” for “Acquisition-related functions of chiefs of the armed forces” in section catchline.
+
+Subsec. (a). Pub. L. 119–60, § 1801(c)(1)(B)(i), (ii), in introductory provisions, substituted “service chiefs assist” for “Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, and the Chief of Space Operations assist” and inserted “, in accordance with the objectives established pursuant to [section 3102 of this title](./chapter-205-defense-acquisition-system.md#section-3102),” after “Secretary of the military department concerned”.
+
+Subsec. (a)(1) to (7). Pub. L. 119–60, § 1801(c)(1)(B)(iii), amended pars. (1) to (7) generally. Prior to amendment, pars. (1) to (7) read as follows:
+
+“(1) The development of requirements for equipping the armed force concerned (subject, where appropriate, to validation by the Joint Requirements Oversight Council pursuant to [section 181 of this title](./chapter-007-boards-councils-and-committees.md#section-181)).
+
+“(2) Decisions regarding the balancing of resources and priorities, and associated trade-offs among cost, schedule, technical feasibility, and performance on major defense acquisition programs.
+
+“(3) The coordination of measures to control requirements creep in the defense acquisition system.
+
+“(4) The recommendation of trade-offs among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, to ensure acquisition programs deliver best value in meeting the approved military requirements.
+
+“(5) Termination of development or procurement programs for which life-cycle cost, schedule, and performance expectations are no longer consistent with approved military requirements and levels of priority, or which no longer have approved military requirements.
+
+“(6) The development and management of career paths in acquisition for military personnel (as required by [section 1722a of this title](./chapter-087-defense-acquisition-workforce.md#section-1722a)).
+
+“(7) The assignment and training of contracting officer representatives when such representatives are required to be members of the armed forces because of the nature of the contract concerned.”
+
+Subsec. (b)(1). Pub. L. 119–60, § 1801(c)(2)(A), substituted “any requirements document” for “the program capability document supporting a Milestone B or subsequent decision” and “service chief concerned” for “chief of the armed force concerned”.
+
+Subsec. (b)(2). Pub. L. 119–60, § 1801(c)(2)(B)(i), in introductory provisions, substituted “service chief concerned” for “Chief of the armed force concerned” and “service chiefs concerned” for “chiefs of the armed forces concerned”.
+
+Subsec. (b)(2)(A). Pub. L. 119–60, § 1801(c)(2)(B)(ii), struck out “prior to entry into the Materiel Solution Analysis Phase under Department of Defense Instruction 5000.02” before semicolon at end.
+
+Subsec. (b)(2)(B). Pub. L. 119–60, § 1801(c)(2)(B)(iii), substituted “life-cycle cost, delivery schedule, performance objective, technical feasibility, and procurement quantity trade-offs” for “cost, schedule, technical feasibility, and performance trade-offs”.
+
+Subsec. (d). Pub. L. 119–60, § 1801(c)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) defined the terms “requirements creep”, ‘requirements document”, and “program capability document”.
+
 2021—Pub. L. 116–283, § 1808(a)(2), renumbered [section 2547 of this title](./chapter-chapter-149-chapter-chapter-149.md#section-2547) as this section.
 
 Subsec. (a). Pub. L. 116–283, § 924(b)(32), substituted “the Commandant of the Marine Corps, and the Chief of Space Operations” for “and the Commandant of the Marine Corps”.
@@ -159,6 +247,9 @@ Amendment by section 1808(a)(2), (b)(2) of Pub. L. 116–283 effective Jan. 1, 2
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Implementation
+Pub. L. 119–60, div. A, title XVIII, § 1801(d), Dec. 18, 2025, 139 Stat. 1224, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall revise Department of Defense Directive 5000.01 and any other relevant instructions, policies, or guidance to carry out the requirements of this section and the amendments made by this section [amending this section and sections 133b, 139, 139a, 3102, and 3103 of this title].”
 
 
 <a id="section-3105"></a>
@@ -261,21 +352,8 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 
 <a id="section-3106"></a>
-## § 3106. Elements of the defense acquisition system: performance goals
-**(a) Performance Goals Under Government Performance and Results Act of 1993.—** The annual performance plan prepared by the Department of Defense pursuant to [section 1115 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1115&num=0&edition=prelim) shall include appropriate performance goals for elements of the defense acquisition system.
-
-**(b) Reporting Requirement.—** The annual report prepared by the Secretary of Defense pursuant to [section 1116 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1116&num=0&edition=prelim) shall address the Department’s success in achieving performance goals established pursuant to such section for elements of the defense acquisition system.
+## § 3106. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(3), Dec. 18, 2025, 139 Stat. 948]
 
 ### Statutory Notes
 
-#### References in Text
-The Government Performance and Results Act of 1993, referred to in subsec. (a), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1101&num=0&edition=prelim) and Tables.
-
-#### Codification
-The text of subsecs. (d) and (e) of [section 2548 of this title](./chapter-chapter-149-chapter-chapter-149.md#section-2548), which were transferred first to section 3105(d) and (e) of this title and then to this section, redesignated as subsecs. (a) and (b), respectively, and amended by Pub. L. 116–283, § 1808(a)(2), (c)(1), was based on Pub. L. 111–383, div. A, title VIII, § 861(a), Jan. 7, 2011, 124 Stat. 4289; amended Pub. L. 112–239, div. A, title X, § 1076(d)(5), (f)(30)(B), (C), Jan. 2, 2013, 126 Stat. 1951, 1953; Pub. L. 115–91, div. A, title X, § 1081(a)(41), Dec. 12, 2017, 131 Stat. 1596.
-
-#### Amendments
-2021—Pub. L. 116–283, § 1808(c)(1)(B), redesignated subsecs. (d) and (e) of [section 3105 of this title](./chapter-205-defense-acquisition-system.md#section-3105) as subsecs. (a) and (b), respectively, of this section.
-
-#### Effective Date
-Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+Section, added and amended Pub. L. 116–283, div. A, title XVIII, § 1808(c)(1), Jan. 1, 2021, 134 Stat. 4160, related to performance goals for elements of the defense acquisition system.

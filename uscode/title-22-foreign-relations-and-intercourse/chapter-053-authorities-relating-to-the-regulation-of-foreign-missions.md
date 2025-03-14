@@ -125,9 +125,9 @@ This chapter, referred to in pars. (3) and (4), was in the original “this Act�
 
 1987—Subsec. (a). Pub. L. 100–204 inserted sentence at end relating to compensation of Director.
 
-1984—Subsec. (a). Pub. L. 98–618, § 601(c)(1), struck out requirements that Director be an individual with: minimum of ten years service in the Foreign Service, significant administrative experience, and service in countries wherein the United States has had significant problems in assuring secure and efficient operations of its missions as result of the actions of other countries.
+1984—Subsec. (a). Pub. L. 98–618, § 601(d)(1), formerly § 601(c)(1), as renumbered by Pub. L. 119–60, struck out requirements that Director be an individual with: minimum of ten years service in the Foreign Service, significant administrative experience, and service in countries wherein the United States has had significant problems in assuring secure and efficient operations of its missions as result of the actions of other countries.
 
-Subsec. (b). Pub. L. 98–618, § 601(c)(2), substituted requirement of prior complementary service of the Director and Deputy Director in the Foreign Service and the Intelligence Community for requirement that Deputy Director must have served in the Intelligence Community.
+Subsec. (b). Pub. L. 98–618, § 601(d)(2), formerly § 601(c)(1), as renumbered by Pub. L. 119–60, substituted requirement of prior complementary service of the Director and Deputy Director in the Foreign Service and the Intelligence Community for requirement that Deputy Director must have served in the Intelligence Community.
 
 1983—Subsec. (a). Pub. L. 98–164, § 604(a), inserted provisions respecting rank, and experience required of the Director, and substituted provision requiring appointment by the President by and with the advice and consent of the Senate, for provision requiring appointment by the Secretary.
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 Amendment by Pub. L. 100–204 effective 30 days after Dec. 22, 1987, see section 173(b) of Pub. L. 100–204, set out as a note under [section 2707 of this title](./chapter-038-department-of-state.md#section-2707).
 
 #### Effective Date of 1984 Amendment
-Pub. L. 98–618, title VI, § 601(d), Nov. 8, 1984, 98 Stat. 3303, provided that: “The amendments made by subsection (c) [amending this section] shall apply only with respect to any appointment of a Director or Deputy Director of the Office of Foreign Missions, as the case may be, after the date of the enactment of this section [Nov. 8, 1984].”
+Pub. L. 98–618, title VI, § 601(e), formerly § 601(d), Nov. 8, 1984, 98 Stat. 3303, as renumbered and amended by Pub. L. 119–60, div. F, title LXVII, § 6712(2), (4), Dec. 18, 2025, 139 Stat. 1649, provided that: “The amendments made by subsection (d) [amending this section] shall apply only with respect to any appointment of a Director or Deputy Director of the Office of Foreign Missions, as the case may be, after the date of the enactment of this section [Nov. 8, 1984].”
 
 #### Effective Date of 1983 Amendment
 Pub. L. 98–164, title VI, § 604(c), Nov. 22, 1983, 97 Stat. 1044, provided that: “The amendments made by this section [amending this section] shall apply with respect to any Director of the Office of Foreign Missions, and to any Deputy Director of the Office of Foreign Missions, appointed after the date of enactment of this Act [Nov. 22, 1983].”

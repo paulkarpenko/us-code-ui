@@ -108,8 +108,8 @@ Section 8102 requires the person responsible for the management of a vessel carr
 
 
 <a id="section-8103"></a>
-## § 8103. Citizenship and Navy Reserve requirements
-**(a)** Except as otherwise provided in this title, only a citizen of the United States may serve as master, chief engineer, radio officer, or officer in charge of a deck watch or engineering watch on a documented vessel.
+## § 8103. Citizenship or noncitizen nationality and Navy Reserve requirements
+**(a)** Except as otherwise provided in this title, only a citizen or noncitizen national of the United States may serve as master, chief engineer, radio officer, or officer in charge of a deck watch or engineering watch on a documented vessel.
 
 **(b)**
 
@@ -117,7 +117,7 @@ Section 8102 requires the person responsible for the management of a vessel carr
 
   (A) each unlicensed seaman must be—
 
-    (i) a citizen of the United States;
+    (i) a citizen or noncitizen national of the United States;
 
     (ii) an alien lawfully admitted to the United States for permanent residence; or
 
@@ -133,23 +133,23 @@ Section 8102 requires the person responsible for the management of a vessel carr
 
   (C) a fishing vessel fishing outside of the exclusive economic zone.
 
-(3) The Secretary may waive a citizenship requirement under this section, other than a requirement that applies to the master of a documented vessel, with respect to—
+(3) The Secretary may waive a citizenship or noncitizen nationality requirement under this section, other than a requirement that applies to the master of a documented vessel, with respect to—
 
   (A) an offshore supply vessel or other similarly engaged vessel of less than 1,600 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104) that operates from a foreign port;
 
   (B) a mobile offshore drilling unit or other vessel engaged in support of exploration, exploitation, or production of offshore mineral energy resources operating beyond the water above the outer Continental Shelf (as that term is defined in section 2(a) of the Outer Continental Shelf Lands Act ([43 U.S.C. 1331(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331/a&num=0&edition=prelim)); and
 
-  (C) any other vessel if the Secretary determines, after an investigation, that qualified seamen who are citizens of the United States are not available.
+  (C) any other vessel if the Secretary determines, after an investigation, that qualified seamen who are citizens or noncitizen nationals of the United States are not available.
 
-**(c)** On each departure of a vessel (except a passenger vessel) for which a construction differential subsidy has been granted, all of the seamen of the vessel must be citizens of the United States.
+**(c)** On each departure of a vessel (except a passenger vessel) for which a construction differential subsidy has been granted, all of the seamen of the vessel must be citizens or noncitizen nationals of the United States.
 
 **(d)**
 
-(1) On each departure of a passenger vessel for which a construction differential subsidy has been granted, at least 90 percent of the entire complement (including licensed individuals) must be citizens of the United States.
+(1) On each departure of a passenger vessel for which a construction differential subsidy has been granted, at least 90 percent of the entire complement (including licensed individuals) must be citizens or noncitizen nationals of the United States.
 
-(2) An individual not required by this subsection to be a citizen of the United States may be engaged only if the individual has a declaration of intention to become a citizen of the United States or other evidence of admission to the United States for permanent residence. An alien may be employed only in the steward’s department of the passenger vessel.
+(2) An individual not required by this subsection to be a citizen or noncitizen national of the United States may be engaged only if the individual has a declaration of intention to become a citizen or noncitizen national of the United States or other evidence of admission to the United States for permanent residence. An alien may be employed only in the steward’s department of the passenger vessel.
 
-**(e)** If a documented vessel is deprived for any reason of the services of an individual (except the master and the radio officer) when on a foreign voyage and a vacancy consequently occurs, until the vessel’s return to a port at which in the most expeditious manner a replacement who is a citizen of the United States can be obtained, an individual not a citizen of the United States may serve in—
+**(e)** If a documented vessel is deprived for any reason of the services of an individual (except the master and the radio officer) when on a foreign voyage and a vacancy consequently occurs, until the vessel’s return to a port at which in the most expeditious manner a replacement who is a citizen or noncitizen national of the United States can be obtained, an individual not a citizen or noncitizen national of the United States may serve in—
 
 (1) the vacancy; or
 
@@ -169,7 +169,7 @@ Section 8102 requires the person responsible for the management of a vessel carr
 
 (1) Except as provided in paragraph (3) of this subsection, each unlicensed seaman on a fishing, fish processing, or fish tender vessel that is engaged in the fisheries in the navigable waters of the United States or the exclusive economic zone must be—
 
-  (A) a citizen of the United States;
+  (A) a citizen or noncitizen national of the United States;
 
   (B) an alien lawfully admitted to the United States for permanent residence;
 
@@ -187,7 +187,7 @@ Section 8102 requires the person responsible for the management of a vessel carr
 
 (1) **Citizenship and nationality.—** — Each unlicensed seaman on a large passenger vessel shall be—
 
-  (A) a citizen of the United States;
+  (A) a citizen or noncitizen national of the United States;
 
   (B) an alien lawfully admitted to the United States for permanent residence;
 
@@ -195,7 +195,11 @@ Section 8102 requires the person responsible for the management of a vessel carr
 
   (D) a foreign national who is enrolled in the United States Merchant Marine Academy.
 
-(2) **Percentage limitation for alien seamen.—** — Not more than 25 percent of the unlicensed seamen on a vessel described in paragraph (1) of this subsection may be aliens referred to in subparagraph (B) or (C) of that paragraph.
+(2) **Percentage limitation for alien seamen.—**
+
+  (A) Not more than 25 percent of the unlicensed seamen on a vessel described in paragraph (1) of this subsection may be aliens referred to in subparagraph (B) or (C) of that paragraph.
+
+  (B) Notwithstanding subparagraph (A), for the period beginning on the date of enactment of the Coast Guard Authorization Act of 2025 and ending on December 31, 2065, not more than 50 percent of the unlicensed seamen on a vessel described in paragraph (1) may be aliens referred to in subparagraph (B) or (C) of such paragraph.
 
 (3) **Special rules for certain unlicensed seamen.—**
 
@@ -247,6 +251,8 @@ Section 8102 requires the person responsible for the management of a vessel carr
 
   (B) *Large passenger vessel.—* — The term “large passenger vessel” means a vessel of more than 70,000 gross tons, as measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302), with capacity for at least 2,000 passengers and documented with a coastwise endorsement under chapter 121 of this title.
 
+**(l) Noncitizen National Defined.—** In this section, the term “noncitizen national” means an individual described in section 308 of the Immigration and Nationality Act ([8 U.S.C. 1408](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1408&num=0&edition=prelim)).
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |
@@ -273,7 +279,35 @@ Subsection (h) permits the President to suspend the requirements of this section
 #### References in Text
 The Immigration and Nationality Act, referred to in subsecs. (i)(1)(C) and (k)(1)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
+The date of enactment of the Coast Guard Authorization Act of 2025, referred to in subsec. (k)(2)(B), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
+
 #### Amendments
+2025—Pub. L. 119–60, § 7301(b)(2)(B)(i), inserted “or noncitizen nationality” after “Citizenship” in section catchline.
+
+Subsec. (a). Pub. L. 119–60, § 7301(b)(2)(B)(ii), inserted “or noncitizen national” after “citizen”.
+
+Subsec. (b)(1)(A)(i). Pub. L. 119–60, § 7301(b)(2)(B)(iii)(I), inserted “or noncitizen national” after “citizen”.
+
+Subsec. (b)(3). Pub. L. 119–60, § 7301(b)(2)(B)(iii)(II), inserted “or noncitizen nationality” after “citizenship” in introductory provisions.
+
+Subsec. (b)(3)(C). Pub. L. 119–60, § 7301(b)(2)(B)(iii)(III), inserted “or noncitizen nationals” after “citizens”.
+
+Subsec. (c). Pub. L. 119–60, § 7301(b)(2)(B)(iv), inserted “or noncitizen nationals” after “citizens”.
+
+Subsec. (d)(1). Pub. L. 119–60, § 7301(b)(2)(B)(v)(I), inserted “or noncitizen nationals” after “citizens”.
+
+Subsec. (d)(2). Pub. L. 119–60, § 7301(b)(2)(B)(v)(II), inserted “or noncitizen national” after “citizen” in two places.
+
+Subsec. (e). Pub. L. 119–60, § 7301(b)(2)(B)(vi), inserted “or noncitizen national” after “citizen” in two places in introductory provisions.
+
+Subsec. (i)(1)(A). Pub. L. 119–60, § 7301(b)(2)(B)(vii), inserted “or noncitizen national” after “citizen”.
+
+Subsec. (k)(1)(A). Pub. L. 119–60, § 7301(b)(2)(B)(viii)(I), inserted “or noncitizen national” after “citizen”.
+
+Subsec. (k)(2). Pub. L. 119–60, § 7301(b)(2)(B)(viii)(II), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (l). Pub. L. 119–60, § 7301(b)(2)(B)(ix), added subsec. (l).
+
 2021—Subsec. (k)(3)(C). Pub. L. 116–283 substituted “merchant mariner’s document” for “merchant mariners document” wherever appearing.
 
 2020—Subsec. (g). Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.

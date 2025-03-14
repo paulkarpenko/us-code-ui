@@ -2,7 +2,7 @@
 title: 14
 chapter: '11'
 heading: ACQUISITIONS
-section_count: 27
+section_count: 32
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -178,12 +178,18 @@ Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendm
 
 (4) the Commandant has determined that the procurement was awarded in a manner consistent with Federal acquisition laws and regulations promulgated under those laws, including the Federal Acquisition Regulation.
 
+**(c) Lead Systems Integrator Defined.—** In this section, the term “lead systems integrator” has the meaning given such term in section 805(c) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163).
+
 ### Statutory Notes
 
 #### References in Text
 The Small Business Act, referred to in subsec. (a)(3), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
 
+Section 805(c) of the National Defense Authorization Act for Fiscal Year 2006, referred to in subsec. (c), is section 805(c) of Pub. L. 109–163, div. A, title VIII, Jan. 6, 2006, 119 Stat. 3372, which is not classified to the Code.
+
 #### Amendments
+2025—Subsec. (c). Pub. L. 119–60 added subsec. (c).
+
 2018—Pub. L. 115–282, § 108(b), renumbered [section 564 of this title](./chapter-005-functions-and-powers.md#section-564) as this section.
 
 Subsec. (c). Pub. L. 115–282, § 304(d), struck out subsec. (c) which related to acquisition of unmanned aerial systems.
@@ -229,7 +235,7 @@ Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendm
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–282, § 108(b), renumbered [section 565 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section565&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–282, § 108(b), renumbered [section 565 of this title](./chapter-005-functions-and-powers.md#section-565) as this section.
 
 Subsec. (a). Pub. L. 115–232, § 3533(f)(1), struck out “awarded or issued by the Coast Guard after the date of enactment of the Coast Guard Authorization Act of 2010” after “$10,000,000” in introductory provisions.
 
@@ -784,15 +790,69 @@ Subsec. (b)(4). Pub. L. 117–81 substituted “section 3501” for “section 2
 Pub. L. 115–282, title III, § 311(e), Dec. 4, 2018, 132 Stat. 4249, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 4, 2018], the Secretary of the department in which the Coast Guard is operating shall establish the internal regulations and policies necessary to exercise the authorities provided under this section [enacting this section, amending [section 501 of this title](./chapter-005-functions-and-powers.md#section-501), enacting provisions set out as a note under [section 1133 of this title](./chapter-011-acquisitions.md#section-1133), amending provisions formerly set out as a note under former [section 573 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section573&num=0&edition=prelim), and repealing provisions set out as notes under former sections 87 and 577 of this title], including the amendments made in this section.”
 
 
-<a id="section-1151"></a>
-## § 1151. Restriction on construction of vessels in foreign shipyards
-**(a)** Except as provided in subsection (b), no Coast Guard vessel, and no major component of the hull or superstructure of a Coast Guard vessel, may be constructed in a foreign shipyard.
+<a id="section-1138"></a>
+## § 1138. Service life extension programs
+**(a) In General.—** Requirements for a Level 1 or Level 2 acquisition project or program under sections 1131 through 1134 shall not apply to an acquisition by the Coast Guard that is a service life extension program.
 
-**(b)** The President may authorize exceptions to the prohibition in subsection (a) when the President determines that it is in the national security interest of the United States to do so. The President shall transmit notice to Congress of any such determination, and no contract may be made pursuant to the exception authorized until the end of the 30-day period beginning on the date the notice of such determination is received by Congress.
+**(b) Service Life Extension Program Defined.—** In this section, the term “service life extension program” means a capital investment that is solely intended to extend the service life and address obsolescence of components or systems of a particular capability or asset.
+
+
+<a id="section-1139"></a>
+## § 1139. Consideration of life-cycle cost estimates for acquisition and procurement
+
+In carrying out the acquisition and procurement of vessels and aircraft, the Secretary of the department in which the Coast Guard is operating, acting through the Commandant, shall consider the life-cycle cost estimates of vessels and aircraft, as applicable, during the design and evaluation processes to the maximum extent practicable.
+
+
+<a id="section-1140"></a>
+## § 1140. Contracts that provide best value for taxpayer
+**(a) In General.—** In carrying out a Level 1 or Level 2 acquisition project or program under this subchapter, the Commandant may publicly announce all construction, design, and engineering requirements and negotiate contracts for construction, design, and engineering services on the basis of demonstrated competence and qualification for the type of professional services required and at fair and reasonable prices.
+
+**(b) Selection Procedure.—** The following procedures may apply to the procurement of Level 1 or Level 2 acquisition project or program under this subchapter:
+
+(1) **Statements of qualification and performance.—** — The Commandant shall require prospective contractors to submit a statement of qualifications and performance data.
+
+(2) **Evaluation.—** — For each proposed project, the Commandant shall—
+
+  (A) evaluate statements of qualifications and performance submitted by firms regarding the proposed project; and
+
+  (B) conduct discussions with firms to consider anticipated concepts and compare alternative methods for furnishing services.
+
+(3) **Selection.—** — From the firms with which discussions have been conducted under paragraph (2)(B), the Commandant shall select, in order of preference, that the Commandant considers most highly qualified to provide the services required, based on criteria established and published by the Commandant.
+
+**(c) Negotiation of Contract.—**
+
+(1) **In general.—** — The Commandant shall negotiate 1 or more contracts for construction, design, and engineering services under this section at compensation which the Commandant determines is fair and reasonable to the Federal Government.
+
+(2) **Fair and reasonable compensation.—** — In determining fair and reasonable compensation, the Commandant shall consider the scope, complexity, professional nature, and estimated value of the services to be rendered.
+
+(3) **Negotiation.—** — The Commandant shall attempt to negotiate a contract or contracts with the most highly qualified firm or firms selected under subsection (b).
+
+(4) **Further negotiation.—** — If the Commandant is unable to negotiate a satisfactory contract or contracts with the firm or firms under paragraph (3), the Commandant shall formally terminate negotiations with such firm or firms and undertake negotiations with the next most qualified of the selected firms, continuing the process until an agreement is reached.
+
+(5) **Additional firms.—** — If the Commandant is unable to negotiate a satisfactory contract or contracts with any of the selected firms, the Commandant shall select additional firms in order of competence and qualification and continue negotiations in accordance with this section until 1 or more agreements are reached.
+
+
+<a id="section-1151"></a>
+## § 1151. Restriction on acquisition, procurement, or construction of vessels in foreign shipyards
+**(a) In General.—** Except as provided in subsection (b), the Commandant may not lease, charter, or otherwise procure a vessel which contains a major component of the hull or superstructure constructed in a foreign shipyard.
+
+**(b) Exceptions.—**
+
+(1) **In general.—** — The President may authorize exceptions to the prohibition in subsection (a) when the President determines that it is in the national security interest of the United States to do so.
+
+(2) **Notice.—** — The President shall transmit notice to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of any such determination made by the President under paragraph (1), and no contract may be awarded pursuant to the exception authorized until the end of the 30-day period beginning on the date the notice of such determination is received by such committees of Congress.
+
+(3) **Justification.—** — The notice required under paragraph (2) shall include a written explanation of the national security interest and a detailed summary of market research demonstrating the lack of availability of United States shipyards to meet the Coast Guard requirements consistent with national security interest.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Pub. L. 119–60 amended section generally. Prior to amendment, text read as follows:
+
+“(a) Except as provided in subsection (b), no Coast Guard vessel, and no major component of the hull or superstructure of a Coast Guard vessel, may be constructed in a foreign shipyard.
+
+“(b) The President may authorize exceptions to the prohibition in subsection (a) when the President determines that it is in the national security interest of the United States to do so. The President shall transmit notice to Congress of any such determination, and no contract may be made pursuant to the exception authorized until the end of the 30-day period beginning on the date the notice of such determination is received by Congress.”
+
 2018—Pub. L. 115–282 renumbered [section 665 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section665&num=0&edition=prelim) as this section.
 
 
@@ -966,6 +1026,29 @@ An Act to authorize the making, amendment, and modification of contracts to faci
 **(f) Counter-UAS Defined.—** In this section, the term “counter-UAS” has the meaning given such term in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim).
 
 
+<a id="section-1159"></a>
+## § 1159. Floating drydock for United States Coast Guard Yard
+**(a) In General.—** Except as provided in subsection (b), the Commandant, using funds appropriated pursuant to section 1181, may not acquire, procure, or construct a floating dry dock for the Coast Guard Yard.
+
+**(b) Permissible Acquisition, Procurement, or Construction Methods.—** Notwithstanding subsection (a) of this section and section 1105(a), the Commandant may—
+
+(1) provide for an entity other than the Coast Guard to contract for the acquisition, procurement, or construction of a floating drydock by contract, purchase, or other agreement;
+
+(2) construct a floating drydock at the Coast Guard Yard; or
+
+(3) acquire or procure a commercially available floating drydock.
+
+**(c) Design Standards and Construction Practices.—** To the extent practicable, a floating drydock acquired, procured, or constructed under this section shall reflect commercial design standards and commercial construction practices that are consistent with the best interests of the Federal Government.
+
+**(d) Berthing Requirement.—** Any floating drydock acquired, procured, or constructed under subsection (b) shall be berthed at the Coast Guard Yard in Baltimore, Maryland, when lifting or maintaining vessels.
+
+**(e) Floating Drydock Defined.—** In this section, the term “floating drydock” means equipment that is—
+
+(1) constructed in the United States; and
+
+(2) capable of meeting the lifting and maintenance requirements of an Offshore Patrol Cutter or a National Security Cutter.
+
+
 <a id="section-1171"></a>
 ## § 1171. Definitions
 
@@ -1049,3 +1132,51 @@ Pars. (6), (7). Pub. L. 114–328, § 899(b)(1)(F)(i), redesignated pars. (5) an
 Par. (8). Pub. L. 114–328, § 899(b)(1)(F)(iii), added par. (8). Former par. (8) redesignated (10).
 
 Pars. (9) to (12). Pub. L. 114–328, § 899(b)(1)(F)(i), redesignated pars. (7) to (10) as (9) to (12), respectively.
+
+
+<a id="section-1181"></a>
+## § 1181. Special appropriations
+
+In addition to amounts otherwise available, there is appropriated to the Coast Guard for fiscal year 2025, out of any money in the Treasury not otherwise appropriated, $24,593,500,000, to remain available until September 30, 2029, notwithstanding paragraphs (1) and (2) of section 1105(a) and sections 1131, 1132, 1133, and 1156, to use expedited processes to procure or acquire new operational assets and systems, to maintain existing assets and systems, to design, construct, plan, engineer, and improve necessary shore infrastructure, and to enhance operational resilience for monitoring, search and rescue, interdiction, hardening of maritime approaches, and navigational safety, of which—
+
+(1) $1,142,500,000 is provided for procurement and acquisition of fixed-wing aircraft, equipment related to such aircraft and training simulators and program management for such aircraft, to provide for security of the maritime border;
+
+(2) $2,283,000,000 is provided for procurement and acquisition of rotary-wing aircraft, equipment related to such aircraft and training simulators and program management for such aircraft, to provide for security of the maritime border;
+
+(3) $266,000,000 is provided for procurement and acquisition of long-range unmanned aircraft and base stations, equipment related to such aircraft and base stations, and program management for such aircraft and base stations, to provide for security of the maritime border;
+
+(4) $4,300,000,000 is provided for procurement of Offshore Patrol Cutters, equipment related to such cutters, and program management for such cutters, to provide operational presence and security of the maritime border and for interdiction of persons and controlled substances;
+
+(5) $1,000,000,000 is provided for procurement of Fast Response Cutters, equipment related to such cutters, and program management for such cutters, to provide operational presence and security of the maritime border and for interdiction of persons and controlled substances;
+
+(6) $4,300,000,000 is provided for procurement of Polar Security Cutters, equipment related to such cutters, and program management for such cutters, to ensure timely presence of the Coast Guard in the Arctic and Antarctic regions;
+
+(7) $3,500,000,000 is provided for procurement of Arctic Security Cutters, equipment related to such cutters, and program management for such cutters, to ensure timely presence of the Coast Guard in the Arctic and Antarctic regions;
+
+(8) $816,000,000 is provided for procurement of light and medium icebreaking cutters, and equipment relating to such cutters, from shipyards that have demonstrated success in the cost-effective application of design standards and in delivering, on schedule and within budget, vessels of a size and tonnage that are not less than the size and tonnage of the cutters described in this paragraph, and for program management for such cutters, to expand domestic icebreaking capacity;
+
+(9) $162,000,000 is provided for procurement of Waterways Commerce Cutters, equipment related to such cutters, and program management for such cutters, to support aids to navigation, waterways and coastal security, and search and rescue in inland waterways;
+
+(10) $4,379,000,000 is provided for design, planning, engineering, recapitalization, construction, rebuilding, and improvement of, and program management for, shore facilities, of which—
+
+  (A) $425,000,000 is provided for design, planning, engineering, construction of, and program management for—
+
+    (i) the enlisted boot camp barracks and multi-use training center; and
+
+    (ii) other related facilities at the enlisted boot camp;
+
+  (B) $500,000,000 is provided for—
+
+    (i) construction, improvement, and dredging at the Coast Guard Yard; and
+
+    (ii) acquisition of a floating drydock for the Coast Guard Yard;
+
+  (C) not more than $2,729,500,000 is provided for homeports and hangars for cutters and aircraft for which funds are appropriated under paragraph (1) through (9); and
+
+  (D) $300,000,000 is provided for homeporting of the existing polar icebreaker commissioned into service in 2025;
+
+(11) $2,200,000,000 is provided for aviation, cutter, and shore facility depot maintenance and maintenance of command, control, communication, computer, and cyber assets;
+
+(12) $170,000,000 is provided for improving maritime domain awareness on the maritime border, at United States ports, at land-based facilities and in the cyber domain; and
+
+(13) $75,000,000 is provided to contract the services of, acquire, or procure autonomous maritime systems.

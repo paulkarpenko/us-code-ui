@@ -2,7 +2,7 @@
 title: 10
 chapter: 9A
 heading: AUDIT
-section_count: 10
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -17,6 +17,13 @@ The Secretary of Defense shall ensure that a full audit is performed on the fina
 2023—Pub. L. 118–31 struck out subsec. (a) designation and heading before “The Secretary” and struck out subsec. (b). Text of subsec. (b) read as follows: “The Secretary shall submit to Congress the results of the audit performed in accordance with subsection (a) for a fiscal year by not later than March 31 of the following fiscal year.”
 
 2018—Pub. L. 115–232 renumbered [section 251 of this title](./chapter-013-insurrection.md#section-251) as this section.
+
+#### Use of Technology Using Artificial Intelligence To Facilitate Audit of the Financial Statements of the Department of Defense for Fiscal Year 2026
+Pub. L. 119–60, div. A, title X, § 1007, Dec. 18, 2025, 139 Stat. 1029, provided that: “(a) Use of AI Technology for Audits.—The Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force shall encourage, to the greatest extent practicable, the use of technology that uses artificial intelligence or machine learning for the purpose of facilitating audits of the financial statements of the Department of Defense. “(b) Implementation of AI Technology for Audits.—The Director of the Chief Digital and Artificial Intelligence Office of the Department, in coordination with the Under Secretary of Defense for Research and Engineering and the Inspector General of the Department, shall oversee the adoption of artificial intelligence and machine learning technologies in support of financial management and enterprise business operations.”
+
+Similar provisions were contained in the following prior act:
+
+Pub. L. 118–159, div. A, title X, § 1007, Dec. 23, 2024, 138 Stat. 2049.
 
 #### Requirement for Unqualified Opinion on Department of Defense Financial Statements
 Pub. L. 118–31, div. A, title X, § 1005, Dec. 22, 2023, 137 Stat. 379, provided that: “The Secretary of Defense shall ensure that the Department of Defense has received an unqualified opinion on the financial statements of the Department by not later than December 31, 2028.”
@@ -41,9 +48,13 @@ Pub. L. 115–91, div. A, title X, § 1006, Dec. 12, 2017, 131 Stat. 1544, provi
 
     (iii) ensuring the audit of the financial statements of the Department of Defense for each fiscal year after fiscal year 2020 occurs by not later than March 31 following such fiscal year;
 
-    (iv) achieving an unqualified audit opinion for each major element of the statement of budgetary resources of the Department of Defense; and
+    (iv) achieving an unqualified audit opinion for each major element of the statement of budgetary resources of the Department of Defense;
 
-    (v) addressing the existence and completeness of each major category of Department of Defense assets; and
+    (v) addressing the existence and completeness of each major category of Department of Defense assets;
+
+    (vi) meeting resource requirements, including personnel and information technology infrastructure; and
+
+    (vii) identifying long-range goals and measurable objectives, including audit cycle timelines, control testing frequency, and auditor-validated corrective action plans; and
 
   (B) systematically tie the actions described under subparagraph (A) to business process and control improvements and business systems modernization efforts described in [section 2222 of this title](./chapter-131-planning-and-coordination.md#section-2222).
 
@@ -77,27 +88,60 @@ Pub. L. 115–91, div. A, title X, § 1006, Dec. 12, 2017, 131 Stat. 1544, provi
 
     (viii) An identification of the manner in which the corrective action plan or plans of each department, agency, component, or element of the Department of Defense, and the corrective action plan of the Department as a whole, support the National Defense Strategy (NDS) of the United States.
 
-    (ix) A description of the incentives available pursuant to the guidance required by section 1004(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, including a detailed explanation of how such incentives were provided during the fiscal year covered by the report.
+    (ix) A detailed estimate of the funding required for the next fiscal year to procure, obtain, or otherwise implement each process, system, and technology identified to address the corrective action plan or plans of each department, agency, component, or element of the Department of Defense, and the corrective action plan of the Department as a whole, for purposes of this chapter during such fiscal year.
+
+    (x) The number and scope of automated processes implemented, including reconciliation, inventory validation, and internal controls.
 
 (2) **Semiannual briefings.—**
 
   (A) Not later than January 31 and July 31 each year, the Under Secretary of Defense (Comptroller) and the comptrollers of the military departments shall provide a briefing to the congressional defense committees on the status of the corrective action plan.
 
-  (B) Not later than January 31 and July 31 each year, the Under Secretary of Defense (Comptroller) and the comptrollers of the military departments shall provide a briefing to the congressional defense committees on the status of the corrective action plan.
+  (B) The January 31 briefing under subparagraph (A) shall include a ranking of all of the military departments and Defense Agencies in order of how advanced each is in achieving auditable financial statements, as required by law.
 
-(3) **Critical capabilities defined.—** — In this subsection, the term “critical capabilities” means the critical capabilities described in the Department of Defense report titled “Financial Improvement and Audit Readiness (FIAR) Plan Status Report” and dated May 2016.
+(3) **Annual report by bottom quartile.—** — Not later than June 30 of each year, the head of each military department and Defense Agency that was ranked in the bottom quartile of the report submitted under paragraph (2)(B) for that year shall submit to the congressional defense committees a report that includes the following information for that military department or Defense Agency:
+
+  (A) A description of the material weaknesses of the military department or Defense Agency.
+
+  (B) The underlying causes of such weaknesses.
+
+  (C) A plan for remediating such weaknesses.
+
+  (D) The total number of open audit notices of findings and recommendations (in this paragraph referred to as “NFRs”) for the most recently concluded fiscal year and the preceding two fiscal years, where applicable.
+
+  (E) The number of repeat or reissued NFRs from the most recently concluded fiscal year.
+
+  (F) The number of NFRs that were previously forecasted to be closed during the most recently concluded fiscal year that remain open.
+
+  (G) The number of closed NFRs during the current fiscal year and prior fiscal years.
+
+  (H) The number of material weaknesses that were validated by external auditors as fully resolved or downgraded during the current fiscal year relative to prior fiscal years.
+
+  (I) A breakdown, by fiscal year, of which open NFRs are forecasted to be closed.
+
+  (J) Explanations for any unfavorable trends in the information included under paragraphs (1) through (9).
+
+(4) **Critical capabilities defined.—** — In this subsection, the term “critical capabilities” means the financial statement audit priorities designated by the Secretary of Defense for the fiscal year in which the report is submitted.
 
 **(c) Selection of Audit Remediation Services.—** The selection of audit remediation service providers shall be based, among other appropriate criteria, on qualifications, relevant experience, and capacity to develop and implement corrective action plans to address internal control and compliance deficiencies identified during a financial statement or program audit.
 
 ### Statutory Notes
 
-#### References in Text
-Section 1004(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(1)(B)(xiii), is section 1004(a) of Pub. L. 116–283, which is set out as a note below.
-
 #### Codification
 Subsec. (a) of this section, as added by Pub. L. 115–91, is based on text of subsec. (a) of section 1003 of Pub. L. 111–84, div. A, title X, Oct. 28, 2009, 123 Stat. 2439, which was formerly set out as a note under [section 2222 of this title](./chapter-131-planning-and-coordination.md#section-2222), prior to repeal by Pub. L. 115–91, div. A, title X, § 1002(c)(4), Dec. 12, 2017, 131 Stat. 1540.
 
 #### Amendments
+2025—Subsec. (a)(2)(A)(vi), (vii). Pub. L. 119–60, § 1002(a)(1), added cls. (vi) and (vii).
+
+Subsec. (b)(1)(B)(ix), (x). Pub. L. 119–60, § 1002(a)(2)(A), added cls. (ix) and (x).
+
+Subsec. (b)(2)(B). Pub. L. 119–60, § 1002(a)(2)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “Not later than January 31 and July 31 each year, the Under Secretary of Defense (Comptroller) and the comptrollers of the military departments shall provide a briefing to the congressional defense committees on the status of the corrective action plan.”
+
+Subsec. (b)(3). Pub. L. 119–60, § 1002(a)(2)(D), added par. (3). Former par. (3) redesignated (4).
+
+Subsec. (b)(4). Pub. L. 119–60, § 1002(a)(2)(C), (E), redesignated par. (3) as (4) and substituted “the financial statement audit priorities designated by the Secretary of Defense for the fiscal year in which the report is submitted” for “the critical capabilities described in the Department of Defense report titled ‘Financial Improvement and Audit Readiness (FIAR) Plan Status Report’ and dated May 2016”.
+
+2024—Subsec. (b)(1)(B)(ix). Pub. L. 118–159 struck out cl. (ix) which read as follows: “A description of the incentives available pursuant to the guidance required by section 1004(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, including a detailed explanation of how such incentives were provided during the fiscal year covered by the report.”
+
 2023—Subsec. (a)(1). Pub. L. 118–31, § 901(c)(1), substituted “The Under Secretary of Defense (Comptroller) shall, in consultation with the Performance Improvement Officer of the Department of Defense,” for “The Chief Management Officer of the Department of Defense shall, in consultation with the Under Secretary of Defense (Comptroller),”.
 
 Subsec. (b)(1)(A). Pub. L. 118–31, § 1061(h)(1)(A), substituted “July 31 each year” for “June 30, 2019, and annually thereafter”.
@@ -193,9 +237,7 @@ Pub. L. 118–31, div. A, title IX, § 920, Dec. 22, 2023, 137 Stat. 372, provid
 Pub. L. 116–283, div. A, title X, § 1004(a), Jan. 1, 2021, 134 Stat. 3837, provided that: “(a) Incentives Required.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Under Secretary of Defense (Comptroller), acting through the Deputy Chief Financial Officer of the Department of Defense, shall develop and issue guidance to provide incentives for the achievement by each department, agency, and other component of the Department of Defense of unqualified audit opinions on their financial statements. “(2) Applicability.—The guidance required under paragraph (1) shall provide incentives for individual employees in addition to departments, agencies, and components.”
 
 #### Annual Reports on Funding for Corrective Action Plans
-Pub. L. 116–92, div. A, title X, § 1009(c), Dec. 20, 2019, 133 Stat. 1576, as amended by Pub. L. 116–283, div. A, title X, § 1081(c)(5), Jan. 1, 2021, 134 Stat. 3873; Pub. L. 118–31, div. A, title X, § 1061(i), Dec. 22, 2023, 137 Stat. 400, provided that: “Not later than 10 days after the submittal to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, of the budget of the President for any fiscal year after fiscal year 2020, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report setting forth a detailed estimate of the funding required for such fiscal year to procure, obtain, or otherwise implement each process, system, and technology identified to address the current corrective action plans of the departments, agencies, components, and elements of the Department of Defense, and the corrective action plan of the Department as a whole, for purposes of chapter 9A of title 10, United States Code, during such fiscal year.”
-
-[Pub. L. 116–283, div. A, title X, § 1081(c), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(c)(5) of Pub. L. 116–283 to section 1009(c) of Pub. L. 116–92, set out above, is effective as of Dec. 20, 2020 (probably should be Dec. 20, 2019) and as if included in Pub. L. 116–92.]
+Pub. L. 116–92, div. A, title X, § 1009(c), Dec. 20, 2019, 133 Stat. 1576, as amended by Pub. L. 116–283, div. A, title X, § 1081(c)(5), Jan. 1, 2021, 134 Stat. 3873; Pub. L. 118–31, div. A, title X, § 1061(i), Dec. 22, 2023, 137 Stat. 400, which required the Secretary of Defense to submit annual reports setting forth detailed estimates of funding needed to address corrective action plans, was repealed by Pub. L. 119–60, div. A, title X, § 1002(b), Dec. 18, 2025, 139 Stat. 1028.
 
 
 <a id="section-240c"></a>
@@ -277,7 +319,7 @@ Pub. L. 115–91, § 1002(e)(2)(A), struck out “, United States Code” after 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Audit Requirement for Department of Defense Components
-Pub. L. 118–31, div. A, title X, § 1004, Dec. 22, 2023, 137 Stat. 379, provided that: “(a) In General.—During fiscal year 2024, and during each of the nine fiscal years thereafter, each component of the Department of Defense shall be subject to an independent audit. Any such component that fails to be subject to such an audit during any fiscal year shall have 1.5 percent of unobligated amounts available for the component be cancelled and returned to the general fund of the Treasury for deficit reduction, except as provided in subsection (b). “(b) Exceptions.—The following accounts are excluded from any reductions:“(1) Military personnel, reserve personnel, and National Guard personnel accounts of the Department of Defense. “(2) The Defense Health Program account of the Department of Defense.”
+Pub. L. 118–31, div. A, title X, § 1004, Dec. 22, 2023, 137 Stat. 379, as amended by Pub. L. 118–159, div. A, title X, § 1004, Dec. 23, 2024, 138 Stat. 2047; Pub. L. 119–60, div. A, title X, § 1005, Dec. 18, 2025, 139 Stat. 1029, provided that: “(a) In General.—During each of fiscal years 2024 through 2035, each component of the Department of Defense shall be subject to an independent audit. Any such component that fails to be subject to such an audit during any fiscal year shall have 1.5 percent of unobligated amounts available for the component be cancelled and returned to the general fund of the Treasury for deficit reduction, except as provided in subsection (b). “(b) Exceptions.—The following accounts are excluded from any reductions:“(1) Military personnel, reserve personnel, and National Guard personnel accounts of the Department of Defense. “(2) The Defense Health Program account of the Department of Defense.”
 
 #### Transparency of Accounting Firms Used To Support Department of Defense Audit
 Pub. L. 115–232, div. A, title X, § 1006, Aug. 13, 2018, 132 Stat. 1947, as amended by Pub. L. 116–92, div. A, title X, § 1011, Dec. 20, 2019, 133 Stat. 1577, provided that: “(a) In General.—For all contract actions (including awards, renewals, and amendments) occurring more than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall require any accounting firm providing financial statement auditing or audit remediation services to the Department of Defense in support of the audit required under [section 3521 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3521&num=0&edition=prelim), United States Code, to provide the Department with a statement setting forth the details of any disciplinary proceedings with respect to the accounting firm or its associated persons before any entity with the authority to enforce compliance with rules or laws applying to audit services offered by accounting firms. “(b) Treatment of Statement.—A statement setting forth the details of a disciplinary proceeding submitted pursuant to subsection (a), and the information contained in such a statement, shall be—“(1) treated as confidential to the extent required by the court or agency in which the proceeding has occurred; and “(2) treated in a manner consistent with any protections or privileges established by any other provision of Federal law.”
@@ -338,47 +380,26 @@ Pub. L. 115–91, div. A, title X, § 1007, Dec. 12, 2017, 131 Stat. 1545, provi
 
 (5) the amount spent by the Department on acquiring or developing new financial management systems during such five fiscal years.
 
-**(b) Report and Briefing Requirements.—**
-
-(1) **Annual report.—** — Not later than June 30, 2020, and annually thereafter, the Secretary of Defense shall submit to the congressional defense committees an updated report on the Defense Business Systems Audit Remediation Plan under subsection (a).
-
-(2) **Semiannual briefings.—** — Not later than January 31 and June 30 each year, the Secretary shall provide to the congressional defense committees a briefing on the status of the Defense Business Systems Audit Remediation Plan. Such briefing shall include a description of any updates to the defense business systems roadmap referred to in subsection (a).
+**(b) Annual Report.—** On the same date as the date of the submission of the audited financial statements of the Department of Defense required pursuant to [section 240a of this title](./chapter-9a-audit.md#section-240a) each year, the Secretary of Defense shall submit to the congressional defense committees an updated annual report on the Defense Business Systems Audit Remediation Plan under subsection (a).
 
 **(c) Defense Business System.—** In this section, the term “defense business system” has the meaning given such term in [section 2222(i)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2222/i/1/A&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–60 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to annual reports and semiannual briefings on the Defense Business Systems Audit Remediation Plan.
+
 2021—Subsec. (a)(3). Pub. L. 117–81 substituted a semicolon for “; and” at end.
 
 Subsec. (a)(4), (5). Pub. L. 116–283 added pars. (4) and (5).
 
 
 <a id="section-240h"></a>
-## § 240h. Annual report on auditable financial statements
-**(a) In General.—** Not later than January 30 of each year, the Secretary of Defense shall submit to the congressional defense committees a report that includes a ranking of all of the military departments and Defense Agencies in order of how advanced each such department and Agency is in achieving auditable financial statements, as required by law. In preparing the report, the Secretary shall seek to exclude information that is otherwise available in other reports to Congress.
+## § 240h. Repealed. Pub. L. 119–60, div. A, title X, § 1002(c), Dec. 18, 2025, 139 Stat. 1028]
 
-**(b) Bottom Quartile.—** Not later than June 30 of each year, the head of each of the military departments and Defense Agencies that were ranked in the bottom quartile of the report submitted under subsection (a) for that year shall submit to the congressional defense committees a report that includes the following information for that military department or Defense Agency:
+### Statutory Notes
 
-(1) A description of the material weaknesses of the military department or Defense Agency.
-
-(2) The underlying causes of such weaknesses.
-
-(3) A plan for remediating such weaknesses.
-
-(4) The total number of open audit notices of findings and recommendations (hereinafter referred to as “NFRs”) for the most recently concluded fiscal year and the preceding two fiscal years, where applicable.
-
-(5) The number of repeat or reissued NFRs from the most recently concluded fiscal year.
-
-(6) The number of NFRs that were previously forecasted to be closed during the most recently concluded fiscal year that remain open.
-
-(7) The number of closed NFRs during the current fiscal year and prior fiscal years.
-
-(8) The number of material weaknesses that were validated by external auditors as fully resolved or downgraded in the current fiscal year over prior fiscal years.
-
-(9) A breakdown by fiscal years in which open NFRs are forecasted to be closed.
-
-(10) Explanations for unfavorable trends in the information under paragraphs (1) through (9).
+Section, added Pub. L. 116–92, div. A, title X, § 1004(a)(1), Dec. 20, 2019, 133 Stat. 1572, required Secretary of Defense to submit annual report that included ranking of military departments and Defense Agencies in order of how advanced each such department and Agency was in achieving auditable financial statements. See [section 240b of this title](./chapter-9a-audit.md#section-240b).
 
 
 <a id="section-240i"></a>
@@ -419,7 +440,3 @@ Subsec. (a)(4), (5). Pub. L. 116–283 added pars. (4) and (5).
 
 #### References in Text
 The Chief Financial Officer Act, referred to in subsec. (c), probably means the Chief Financial Officers Act of 1990, Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 501 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section501&num=0&edition=prelim), Money and Finance, and Tables.
-
-
-<a id="section-251-to-254b"></a>
-## § 251 to 254b. Renumbered §§ 240a to 240f]

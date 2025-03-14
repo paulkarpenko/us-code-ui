@@ -2,7 +2,7 @@
 title: 10
 chapter: '2003'
 heading: STATUS AND PARTICIPATION
-section_count: 9
+section_count: 10
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -136,7 +136,7 @@ Except as specifically provided in regulations prescribed by the Secretary of De
 
 (3) The provisions of [section 689 of this title](./chapter-039-active-duty.md#section-689) pertaining to a retired member ordered to active duty shall apply to a member of the Space Force in a space force retired status who is ordered to active duty.
 
-**(d) Other Applicable Provisions.—** The following provisions of chapter 1209 of this title pertaining 11 So in original. shall apply to a member of the Space Force ordered to active duty in the same manner as to a Reserve or member of the Retired Reserve ordered to active duty:
+**(d) Other Applicable Provisions.—** The following provisions of chapter 1209 of this title shall apply to a member of the Space Force ordered to active duty in the same manner as to a Reserve or member of the Retired Reserve ordered to active duty:
 
 (1) Section 12305, relating to the authority of the President to suspend certain laws relating to promotion, retirement, and separation.
 
@@ -153,6 +153,11 @@ Except as specifically provided in regulations prescribed by the Secretary of De
 (7) Section 12317, relating to theological students; limitations.
 
 (8) Section 12320, relating to grade in which ordered to active duty.
+
+### Statutory Notes
+
+#### Amendments
+2024—Subsec. (d). Pub. L. 118–159 struck out “pertaining” before “shall apply” in introductory provisions.
 
 
 <a id="section-20107"></a>
@@ -180,3 +185,18 @@ For the purposes of laws providing pay and benefits for members of the armed for
 ## § 20109. Policy for order to active duty based upon determination by Congress
 
 Whenever Congress determines that more units and organizations capable of conducting space operations are needed for the national security than are available among those units comprised of members of the Space Force serving on active duty, members of the Space Force not serving on active duty shall be ordered to active duty and retained as long as so needed.
+
+
+<a id="section-20110"></a>
+## § 20110. Strength in grade: Space Force general officers in a Space Force active status, not on sustained duty
+**(a) Authorized Strength.—** The authorized strength of general officers in the Space Force serving in a Space Force active status but not on sustained duty is five.
+
+**(b) Exclusions.—** The following Space Force general officers shall not be counted for purposes of this section:
+
+(1) Those counted under [section 526 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526).
+
+(2) Those serving in a joint duty assignment for purposes of chapter 38 of this title, except that the number of officers who may be excluded under this paragraph may not exceed two.
+
+**(c) Permanent Grade.—** A Space Force general officer may not be reduced in permanent grade because of a reduction in the number authorized under subsection (a).
+
+**(d) Temporary Exclusion.—** The limitations of subsection (a) do not apply to an officer released from a joint duty assignment or other non-joint active service assignment, but only during the 60-day period beginning on the date the officer departs the joint duty or other active service assignment. The Secretary of Defense may authorize the Secretary of the Air Force to extend the 60-day period by an additional 120 days, except that not more than three Space Force officers may be covered by an extension under this subsection at the same time.

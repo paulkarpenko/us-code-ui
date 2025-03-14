@@ -495,7 +495,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 **(i) Appointment and pay of personnel**
 
-(1) The Secretary may use direct hiring authority pursuant to [section 3304(a)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304/a/3&num=0&edition=prelim) to appoint such professional and administrative personnel as the Secretary deems necessary to the discharge of the Secretary’s functions under this section.
+(1) The Secretary may use direct hiring authority pursuant to [section 3304(b)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304/b/3&num=0&edition=prelim) to appoint such professional and administrative personnel as the Secretary deems necessary to the discharge of the Secretary’s functions under this section.
 
 (2) The rate of pay for a person appointed pursuant to paragraph (1) shall not exceed the maximum rate payable for GS-15 of the General Schedule under chapter 53 such 33 So in original. Probably should be “of such”. title 5.
 
@@ -538,6 +538,8 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d)(2)(B), is se
 In subsec. (i)(3), “[section 1901 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1901&num=0&edition=prelim)” substituted for “section 31 of the Office of Federal Procurement Policy Act ([41 U.S.C. 427](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section427&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2024—Subsec. (i)(1). Pub. L. 118–188 substituted “3304(b)(3)” for “3304(a)(3)”.
+
 2022—Subsec. (d)(1). Pub. L. 117–169 struck out “a total of not more than $25,000,000,000 in” after “to provide”.
 
 Subsec. (l). Pub. L. 117–328 struck out subsec. (l). Text read as follows: “Amounts appropriated to the Secretary before November 15, 2021, shall not be available to the Secretary to provide awards under subsection (b) or loans under subsection (d) for the costs of activities that were not eligible for those awards or loans on the day before that date.”
@@ -2478,7 +2480,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 ### Statutory Notes
 
 #### References in Text
-This part, referred to in subsecs. (a)(2), (c)(6), (f)(1) and (h)(2)(B), was in the original “this subtitle”, meaning subtitle C (§§ 431–441) of title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1607, which enacted this part, amended sections 6832, 6834, 8253, and 8254 of this title, and enacted provisions set out as a note under [section 6834 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6834). For complete classification of subtitle C to the Code, see Tables.
+This part, referred to in subsecs. (a)(2), (c)(6), (f)(1), and (h)(2)(B), was in the original “this subtitle”, meaning subtitle C (§§ 431–441) of title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1607, which enacted this part, amended sections 6832, 6834, 8253, and 8254 of this title, and enacted provisions set out as a note under [section 6834 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6834). For complete classification of subtitle C to the Code, see Tables.
 
 Section 474, referred to in subsec. (c)(3), probably means section 494 of Pub. L. 110–140, which is classified to [section 17123 of this title](./chapter-152-energy-independence-and-security.md#section-17123).
 
@@ -7047,7 +7049,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 (1) any data that, at any time, was Restricted Data (as defined in [section 2014 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2014));
 
-(2) information relating to intelligence sources or methods protected by [section 3024(i) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/i&num=0&edition=prelim); or
+(2) information relating to intelligence sources or methods protected by [section 3024(h) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/h&num=0&edition=prelim); or
 
 (3) national security information classified under Executive Order 12958 ([former] [50 U.S.C. 435](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section435&num=0&edition=prelim) note; relating to classified national security information) (or a successor Executive Order or regulation).
 
@@ -7073,6 +7075,9 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 Presidential Proclamation Number 5928, referred to in subsec. (b)(10)(B)(iv), is set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
 
 Executive Order 12958, referred to in subsec. (k)(3), which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
+
+#### Amendments
+2025—Subsec. (k)(2). Pub. L. 119–60 substituted “[section 3024(h) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/h&num=0&edition=prelim)” for “[section 3024(i) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/i&num=0&edition=prelim)”.
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.

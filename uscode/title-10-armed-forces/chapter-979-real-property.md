@@ -2,7 +2,7 @@
 title: 10
 chapter: '979'
 heading: REAL PROPERTY
-section_count: 13
+section_count: 14
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -128,6 +128,9 @@ Subsec. (c)(3), (4). Pub. L. 116–283, § 923(e)(17)(A)(iv)(II), inserted “or
 Subsec. (f). Pub. L. 116–283, § 923(e)(17)(A)(v), substituted “installation” for “air base”.
 
 2006—Subsecs. (a), (c)(4). Pub. L. 109–163 struck out “Territories,” before “Commonwealths, possessions,”.
+
+#### Plan and Requirements for Fielding Air Base Air Defense Sites at Air Force Installations
+Pub. L. 118–159, div. A, title I, § 152, Dec. 23, 2024, 138 Stat. 1813, provided that: “(a) Plan Required.—The Secretary of the Air Force, in consultation with the Commander of the United States Northern Command, the Commander of United States European Command, and the Commander of United States Indo-Pacific Command, shall develop and implement a plan to support the fielding of air base air defense sites at Air Force installations and other priority sites identified by the Secretary. “(b) Air Base Air Defense Site Requirements.—Each air base air defense site fielded under the plan required under subsection (a) shall have the following capabilities:“(1) Expeditionary mobile protection for dispersed air bases. “(2) Fixed protection for primary air bases. “(3) Ground-based protection systems that incorporate kinetic and non-kinetic capabilities. “(4) Counter-unmanned aircraft systems. “(5) Counter-fixed and Counter-rotary wing aircraft capabilities. “(6) Counter-cruise missile capabilities. “(7) Interoperability with joint command and control networks. “(8) 360-degree active and passive sensors. “(9) Systems and software that enable reduced staffing. “(c) Fielding Requirement.—Pursuant to the plan developed under subsection (a), the Secretary shall—“(1) by not later than September 30, 2027, field a total of not fewer than four air base air defense sites, of which not fewer than two such sites shall be located in the United States; and “(2) in each of fiscal years 2028 through 2031, field at least four air base air defense sites per year, of which not fewer than two of the sites fielded each year shall be located in the United States. “(d) Report.—Not later than March 1, 2025, the Secretary of the Air Force shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the plan required under subsection (a).”
 
 
 <a id="section-9774"></a>
@@ -394,3 +397,32 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 #### Amendments
 2001—Subsec. (e)(1). Pub. L. 107–107 substituted “40102(a)(2)” for “40101(a)(2)”.
+
+
+<a id="section-9784"></a>
+## § 9784. Air Force and Space Force Museum System
+**(a) In General.—** The Secretary of the Air Force shall support a system of official Air Force and Space Force museums within the Department of the Air Force. Such system shall include the National Museum of the United States Air Force and may contain other museums honoring individual installations, units, and branches, as designated by the Secretary of the Air Force, that meet criteria established under subsection (b).
+
+**(b) Criteria for Designation.—** The Secretary of the Air Force shall establish criteria for designating museums of subsection (a) for inclusion in the Air Force and Space Force museum system. Such criteria shall include—
+
+(1) historical significance to Air Force and Space Force operations, technology, or personnel;
+
+(2) public accessibility and educational outreach programs; and
+
+(3) alignment with the mission of the Air Force and Space Force to preserve the heritage of the Air Force and Space Force.
+
+**(c) Criteria for Closure.—** The Secretary of the Air Force shall establish criteria for the closure of museums within the Air Force and Space Force museum system. No museum within such system may be closed until—
+
+(1) the Secretary of the Air Force submits to the Committees on Armed Services of the House of Representatives and the Senate notice that includes—
+
+  (A) a plan for the preservation, storage, or alternate display of historical collections contained in the museum;
+
+  (B) how any issues relating to museum personnel will be resolved;
+
+  (C) an identification of any efforts to maintain museum operations through public-private partnerships; and
+
+  (D) an analysis of the cost to transport, consolidate, and preserve the historical collections contained in the museum; and
+
+(2) a period of 90 days has elapsed after the date on which such notice is received by such committees.
+
+**(d) Funding and Support.—** Consistent with applicable law, the Secretary may enter into partnerships, including with nonprofit organizations, to enhance the financial sustainability and public engagement of the museums in the Air Force and Space Force museum system.

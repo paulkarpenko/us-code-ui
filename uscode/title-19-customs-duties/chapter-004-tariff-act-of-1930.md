@@ -1824,7 +1824,7 @@ Repeal effective on and after thirtieth day following Aug. 8, 1953, and savings 
 
 <a id="section-1321"></a>
 ## § 1321. Administrative exemptions
-**(a) Disregard of minor discrepancies in collection of taxes and duties; admission of articles free of duty or tax; limit on amount of exemption** The Secretary of the Treasury, in order to avoid expense and inconvenience to the Government disproportionate to the amount of revenue that would otherwise be collected, is authorized, under such regulations as he shall prescribe, to—
+**(a)** The Secretary of the Treasury, in order to avoid expense and inconvenience to the Government disproportionate to the amount of revenue that would otherwise be collected, is authorized, under such regulations as he shall prescribe, to—
 
 (1) disregard a difference of an amount specified by the Secretary by regulation, but not less than $20, between the total estimated duties, fees, and taxes deposited, or the total duties, fees, and taxes tentatively assessed, with respect to any entry of merchandise and the total amount of duties, fees, taxes, and interest actually accruing thereon;
 
@@ -1839,14 +1839,35 @@ Repeal effective on and after thirtieth day following Aug. 8, 1953, and savings 
 
 (3) waive the collection of duties, fees, taxes, and interest due on entered merchandise when such duties, fees, taxes, or interest are less than $20 or such greater amount as may be specified by the Secretary by regulation.
 
-**(b) Reduction or modification of exemption** The Secretary of the Treasury is authorized by regulations to prescribe exceptions to any exemption provided for in subsection (a) whenever he finds that such action is consistent with the purpose of subsection (a) or is necessary for any reason to protect the revenue or to prevent unlawful importations.
+**(b)** The Secretary of the Treasury is authorized by regulations to prescribe exceptions to any exemption provided for in subsection (a) whenever he finds that such action is consistent with the purpose of subsection (a) or is necessary for any reason to protect the revenue or to prevent unlawful importations.
+
+**(c)** Any person who enters, introduces, facilitates, or attempts to introduce an article into the United States using the privilege of this section, the importation of which violates any other provision of United States customs law, shall be assessed, in addition to any other penalty permitted by law, a civil penalty of up to $5,000 for the first violation and up to $10,000 for each subsequent violation.
 
 ### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 119–21, title VII, § 70531(b), July 4, 2025, 139 Stat. 283, provided that, effective on July 1, 2027, this section is amended as follows:
+
+(1) in subsection (a)(2), by striking “of this Act, or” and all that follows through “subdivision (2); and” and inserting “of this Act; and”; and
+
+(2) by striking subsection (c).
+
+See 2025 Amendment notes below.
 
 #### References in Text
 Title I of this Act, referred to in subsec. (a)(2)(B), means title I of act June 17, 1930, which contained the Tariff Schedules of the United States and which formerly were set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202). The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
 
 #### Amendments
+2025—Subsec. (a)(2). Pub. L. 119–21, § 70531(b)(1), substituted “of this Act; and” for “of this Act, or” in subpar. (B) and struck out subpar. (C) and concluding provisions which read as follows:
+
+“(C) $800 in any other case.
+
+“The privilege of this subdivision (2) shall not be granted in any case in which merchandise covered by a single order or contract is forwarded in separate lots to secure the benefit of this subdivision (2); and”.
+
+Subsec. (c). Pub. L. 119–21, § 70531(b)(2), struck out subsec. (c) which read as follows: “Any person who enters, introduces, facilitates, or attempts to introduce an article into the United States using the privilege of this section, the importation of which violates any other provision of United States customs law, shall be assessed, in addition to any other penalty permitted by law, a civil penalty of up to $5,000 for the first violation and up to $10,000 for each subsequent violation.”
+
+Pub. L. 119–21, § 70531(a)(1), added subsec. (c).
+
 2016—Subsec. (a)(2)(C). Pub. L. 114–125 substituted “$800” for “$200”.
 
 1996—Subsec. (a)(1). Pub. L. 104–295, § 3(a)(12)(A), substituted “duties, fees, taxes, and interest actually accruing” for “duties, fees, and taxes actually accruing”.
@@ -1877,7 +1898,12 @@ Subsec. (a)(2). Pub. L. 95–410, § 205(b)(1)–(3), substituted in: subpar. (A
 
 1961—Subsec. (a). Pub. L. 87–261 inserted “(b)(2) or” after “paragraph 1798”.
 
-1953—Act Aug. 8, 1953, (1) divided section into subsections; (2) increased from $1 to $3 the difference between deposited or assessed duties and actual duties which may be disregarded by the collector; (3) permitted free entry of bona fide gifts from persons outside the United States up to $10; (4) allowed persons to bring with them articles up to $10 in value for their personal use; (5) continued to allow free entry up to $1 in other cases; and (6) enabled the Secretary of the Treasury to reduce these amounts if he found such action necessary to protect the revenue.
+1953—Act Aug. 8, 1953, amended section generally. Prior to amendment, section read as follows: “Collectors of customs are hereby authorized, under such regulations as the Secretary of the Treasury may prescribe, to disregard a difference of less than $1 between the total estimated duties or taxes deposited, or the total duties or taxes tentatively assessed, with respect to any entry of merchandise and the total amount of duties or taxes actually accruing thereon, and to admit articles free of duty when the expense and inconvenience of collecting the duty accruing thereon would be disproportionate to the amount of such duty, but the aggregate value of articles imported by one person on one day and exempted from the payment of duty under the authority of this section shall not exceed $5 in the case of articles accompanying, and for the personal or household use of, persons arriving in the United States, or $1 in any other case.”
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VII, § 70531(a)(2), July 4, 2025, 139 Stat. 283, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect 30 days after the date of the enactment of this Act [July 4, 2025].”
+
+Pub. L. 119–21, title VII, § 70531(b)(3), July 4, 2025, 139 Stat. 283, provided that: “The amendments made by this subsection [amending this section] shall take effect on July 1, 2027.”
 
 #### Effective Date of 2016 Amendment
 Pub. L. 114–125, title IX, § 901(d), Feb. 24, 2016, 130 Stat. 223, provided that: “The amendment made by subsection (c) [amending this section] shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act [Feb. 24, 2016].”

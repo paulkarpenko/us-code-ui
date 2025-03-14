@@ -1787,11 +1787,7 @@ For purposes of the preceding sentence, remuneration shall be treated as paid wh
 
   (D) is a political organization described in section 527(e)(1).
 
-(2) **Covered employee** — For purposes of this section, the term “covered employee” means any employee (including any former employee) of an applicable tax-exempt organization if the employee—
-
-  (A) is one of the 5 highest compensated employees of the organization for the taxable year, or
-
-  (B) was a covered employee of the organization (or any predecessor) for any preceding taxable year beginning after December 31, 2016.
+(2) **Covered employee** — For purposes of this section, the term “covered employee” means any employee of an applicable tax-exempt organization (or any predecessor of such an organization) and any former employee of such an organization (or predecessor) who was such an employee during any taxable year beginning after December 31, 2016.
 
 (3) **Remuneration** — For purposes of this section:
 
@@ -1850,6 +1846,16 @@ For purposes of the preceding sentence, remuneration shall be treated as paid wh
 **(d) Regulations** The Secretary shall prescribe such regulations as may be necessary to prevent avoidance of the tax under this section, including regulations to prevent avoidance of such tax through the performance of services other than as an employee or by providing compensation through a pass-through or other entity to avoid such tax.
 
 ### Statutory Notes
+
+#### Amendments
+2025—Subsec. (c)(2). Pub. L. 119–21 amended par. (2) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘covered employee’ means any employee (including any former employee) of an applicable tax-exempt organization if the employee—
+
+“(A) is one of the 5 highest compensated employees of the organization for the taxable year, or
+
+“(B) was a covered employee of the organization (or any predecessor) for any preceding taxable year beginning after December 31, 2016.”
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VII, § 70416(b), July 4, 2025, 139 Stat. 223, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2025.”
 
 #### Effective Date
 Pub. L. 115–97, title I, § 13602(c), Dec. 22, 2017, 131 Stat. 2159, provided that: “The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 2017.”
@@ -2220,27 +2226,57 @@ Section applicable to taxable years beginning after Aug. 17, 2006, see section 1
 
 <a id="section-4968"></a>
 ## § 4968. Excise tax based on investment income of private colleges and universities
-**(a) Tax imposed** There is hereby imposed on each applicable educational institution for the taxable year a tax equal to 1.4 percent of the net investment income of such institution for the taxable year.
+**(a) Tax imposed** There is hereby imposed on each applicable educational institution for the taxable year a tax equal to the applicable percentage of the net investment income of such institution for the taxable year.
 
-**(b) Applicable educational institution** For purposes of this subchapter—
+**(b) Applicable percentage** For purposes of this section, the term “applicable percentage” means—
 
-(1) **In general** — The term “applicable educational institution” means an eligible educational institution (as defined in section 25A(f)(2))—
+(1) 1.4 percent in the case of an institution with a student adjusted endowment of at least $500,000, and not in excess of $750,000,
 
-  (A) which had at least 500 tuition-paying students during the preceding taxable year,
+(2) 4 percent in the case of an institution with a student adjusted endowment in excess of $750,000, and not in excess of $2,000,000, and
 
-  (B) more than 50 percent of the tuition-paying students of which are located in the United States,
+(3) 8 percent in the case of an institution with a student adjusted endowment in excess of $2,000,000.
 
-  (C) which is not described in the first sentence of section 511(a)(2)(B) (relating to State colleges and universities), and
+**(c) Applicable educational institution** For purposes of this subchapter, the term “applicable educational institution” means an eligible educational institution (as defined in section 25A(f)(2))—
 
-  (D) the aggregate fair market value of the assets of which at the end of the preceding taxable year (other than those assets which are used directly in carrying out the institution’s exempt purpose) is at least $500,000 per student of the institution.
+(1) which had at least 3,000 tuition-paying students during the preceding taxable year,
 
-(2) **Students** — For purposes of paragraph (1), the number of students of an institution (including for purposes of determining the number of students at a particular location) shall be based on the daily average number of full-time students attending such institution (with part-time students taken into account on a full-time student equivalent basis).
+(2) more than 50 percent of the tuition-paying students of which are located in the United States,
 
-**(c) Net investment income** For purposes of this section, net investment income shall be determined under rules similar to the rules of section 4940(c).
+(3) the student adjusted endowment of which is at least $500,000, and
 
-**(d) Assets and net investment income of related organizations**
+(4) which is not described in the first sentence of section 511(a)(2)(B) (relating to State colleges and universities).
 
-(1) **In general** — For purposes of subsections (b)(1)(C) and (c), assets and net investment income of any related organization with respect to an educational institution shall be treated as assets and net investment income, respectively, of the educational institution, except that—
+**(d) Student adjusted endowment** For purposes of this section, the term “student adjusted endowment” means, with respect to any institution for any taxable year—
+
+(1) the aggregate fair market value of the assets of such institution (determined as of the end of the preceding taxable year), other than those assets which are used directly in carrying out the institution’s exempt purpose, divided by
+
+(2) the number of students of such institution.
+
+**(e) Determination of number of students** For purposes of subsections (c) and (d), the number of students of an institution (including for purposes of determining the number of students at a particular location) shall be based on the daily average number of full-time students attending such institution (with part-time students taken into account on a full-time student equivalent basis).
+
+**(f) Net investment income** For purposes of this section—
+
+(1) **In general** — Net investment income shall be determined under rules similar to the rules of section 4940(c).
+
+(2) **Override of certain regulatory exceptions**
+
+  (A) *Student loan interest* — Net investment income shall be determined by taking into account any interest income from a student loan made by the applicable educational institution (or any related organization) as gross investment income.
+
+  (B) *Federally-subsidized royalty income*
+
+    (i) *In general* — Net investment income shall be determined by taking into account any Federally-subsidized royalty income as gross investment income.
+
+    (ii) *Federally-subsidized royalty income* — For purposes of this subparagraph—
+
+      (I) *In general* — The term “Federally-subsidized royalty income” means any otherwise-regulatory-exempt royalty income if any Federal funds were used in the research, development, or creation of the patent, copyright, or other intellectual or intangible property from which such royalty income is derived.
+
+      (II) *Otherwise-regulatory-exempt royalty income* — For purposes of this subparagraph, the term “otherwise-regulatory-exempt royalty income” means royalty income which (but for this subparagraph) would not be taken into account as gross investment income by reason of being derived from patents, copyrights, or other intellectual or intangible property which resulted from the work of students or faculty members in their capacities as such with the applicable educational institution.
+
+      (III) *Federal funds* — The term “Federal funds” includes any grant made by, and any payment made under any contract with, any Federal agency to the applicable educational institution, any related organization, or any student or faculty member referred to in subclause (II).
+
+**(g) Assets and net investment income of related organizations**
+
+(1) **In general** — For purposes of subsections (d) and (f), assets and net investment income of any related organization with respect to an educational institution shall be treated as assets and net investment income, respectively, of the educational institution, except that—
 
   (A) no such amount shall be taken into account with respect to more than 1 educational institution, and
 
@@ -2254,12 +2290,19 @@ Section applicable to taxable years beginning after Aug. 17, 2006, see section 1
 
   (C) is a supported organization (as defined in section 509(f)(3)), or an organization described in section 509(a)(3), during the taxable year with respect to such institution.
 
+**(h) Regulations** The Secretary shall prescribe such regulations or other guidance as may be necessary to prevent avoidance of the tax under this section, including regulations or other guidance to prevent avoidance of such tax through the restructuring of endowment funds or other arrangements designed to reduce or eliminate the value of net investment income or assets subject to the tax imposed by this section.
+
 ### Statutory Notes
 
 #### Amendments
+2025—Pub. L. 119–21 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to tax imposed, applicable educational institution, net investment income, and assets and net investment income of related organizations, respectively.
+
 2018—Subsec. (b)(1)(A). Pub. L. 115–123, § 41109(a)(1), inserted “tuition-paying” after “500”.
 
 Subsec. (b)(1)(B). Pub. L. 115–123, § 41109(a)(2), inserted “tuition-paying” after “50 percent of the”.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VII, § 70415(c), July 4, 2025, 139 Stat. 223, provided that: “The amendments made by this section [amending this section and [section 6033 of this title](./chapter-061-information-and-returns.md#section-6033)] shall apply to taxable years beginning after December 31, 2025.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–123, div. D, title II, § 41109(b), Feb. 9, 2018, 132 Stat. 159, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”

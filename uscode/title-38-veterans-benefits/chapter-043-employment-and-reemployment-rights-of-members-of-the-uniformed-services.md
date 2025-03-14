@@ -10,7 +10,7 @@ source: >-
 ## § 4301. Purposes; sense of Congress
 **(a)** The purposes of this chapter are—
 
-(1) to encourage noncareer service in the uniformed services by eliminating or minimizing the disadvantages to civilian careers and employment which can result from such service;
+(1) to encourage service in the uniformed services by eliminating or minimizing the disadvantages to civilian careers and employment which can result from such service;
 
 (2) to minimize the disruption to the lives of persons performing service in the uniformed services as well as to their employers, their fellow employees, and their communities, by providing for the prompt reemployment of such persons upon their completion of such service; and
 
@@ -26,6 +26,8 @@ A prior section 4301, added Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974,
 Another prior section 4301 was renumbered [section 7601 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7601).
 
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 118–210 substituted “encourage service in the uniformed services” for “encourage noncareer service in the uniformed services”.
+
 1996—Subsec. (a)(2). Pub. L. 104–275 struck out “under honorable conditions” after “upon their completion of such service”.
 
 #### Effective Date of 1996 Amendment
@@ -365,7 +367,7 @@ Section effective with respect to reemployments initiated on or after the first 
 ## § 4311. Discrimination against persons who serve in the uniformed services and acts of reprisal prohibited
 **(a)** A person who is a member of, applies to be a member of, performs, has performed, applies to perform, or has an obligation to perform service in a uniformed service shall not be denied initial employment, reemployment, retention in employment, promotion, or any benefit of employment by an employer on the basis of that membership, application for membership, performance of service, application for service, or obligation.
 
-**(b)** An employer may not discriminate in employment against or take any adverse employment action against any person because such person (1) has taken an action to enforce a protection afforded any person under this chapter, (2) has testified or otherwise made a statement in or in connection with any proceeding under this chapter, (3) has assisted or otherwise participated in an investigation under this chapter, or (4) has exercised a right provided for in this chapter. The prohibition in this subsection shall apply with respect to a person regardless of whether that person has performed service in the uniformed services.
+**(b)** An employer may not discriminate in employment against or take any adverse employment action or other retaliatory action against any person because such person (1) has taken an action to enforce a protection afforded any person under this chapter, (2) has testified or otherwise made a statement in or in connection with any proceeding under this chapter, (3) has assisted or otherwise participated in an investigation under this chapter, or (4) has exercised a right provided for in this chapter. The prohibition in this subsection shall apply with respect to a person regardless of whether that person has performed service in the uniformed services.
 
 **(c)** An employer shall be considered to have engaged in actions prohibited—
 
@@ -381,6 +383,8 @@ Section effective with respect to reemployments initiated on or after the first 
 A prior section 4311 was renumbered [section 7611 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7611).
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 118–210 inserted “or other retaliatory action” after “employment action”.
+
 1996—Subsec. (b). Pub. L. 104–275 added subsec. (b) and struck out former subsec. (b) which read as follows: “An employer shall be considered to have denied a person initial employment, reemployment, retention in employment, promotion, or a benefit of employment in violation of this section if the person’s membership, application for membership, service, application for service, or obligation for service in the uniformed services is a motivating factor in the employer’s action, unless the employer can prove that the action would have been taken in the absence of such membership, application for membership, performance of service, application for service, or obligation.”
 
 Subsecs. (c), (d). Pub. L. 104–275 added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows:
@@ -984,7 +988,9 @@ Section effective with respect to reemployments initiated on or after the first 
 
   (B) The court may require the employer to compensate the person for any loss of wages or benefits suffered by reason of such employer’s failure to comply with the provisions of this chapter.
 
-  (C) The court may require the employer to pay the person an amount equal to the amount referred to in subparagraph (B) as liquidated damages, if the court determines that the employer’s failure to comply with the provisions of this chapter was willful.
+  (C) The court may require the employer to pay the person the amount referred to in subparagraph (B) and interest on such amount, calculated at a rate of 3 percent per year.
+
+  (D) The court may require the employer to pay the person the greater of $50,000 or the amount equal to the amounts referred to in subparagraphs (B) and (C) as liquidated damages, if the court determines that the employer knowingly failed to comply with the provisions of this chapter.
 
 (2)
 
@@ -994,7 +1000,25 @@ Section effective with respect to reemployments initiated on or after the first 
 
 (3) A State shall be subject to the same remedies, including prejudgment interest, as may be imposed upon any private employer under this section.
 
-**(e) Equity Powers.—** The court shall use, in any case in which the court determines it is appropriate, its full equity powers, including temporary or permanent injunctions, temporary restraining orders, and contempt orders, to vindicate fully the rights or benefits of persons under this chapter.
+**(e) Equity Powers.—**
+
+(1) The court shall use, in any case in which the court determines it is appropriate, its full equity powers, including temporary or permanent injunctions, temporary restraining orders, and contempt orders, to vindicate fully the rights or benefits of persons under this chapter.
+
+(2) A person bringing an action to enforce a provision of this chapter pursuant to subsection (a) shall be entitled to an injunction under paragraph (1) if such person demonstrates—
+
+  (A) a violation—
+
+    (i) of the provisions of this chapter; or
+
+    (ii) of the provisions of this chapter is threatened or is imminent;
+
+  (B) the harm to the person outweighs the injury to the employer;
+
+  (C) a likelihood of success on the merits of such action; and
+
+  (D) awarding such relief is in the public interest.
+
+(3) The court may not deny a motion for injunctive relief on the basis that a party bringing an action to enforce a provision of this chapter may be awarded wages unearned due to an unlawful termination or denial of employment at the conclusion of such action.
 
 **(f) Standing.—** An action under this chapter may be initiated only by a person claiming rights or benefits under this chapter under subsection (a) or by the United States under subsection (a)(1).
 
@@ -1004,7 +1028,7 @@ Section effective with respect to reemployments initiated on or after the first 
 
 (1) No fees or court costs may be charged or taxed against any person claiming rights under this chapter.
 
-(2) In any action or proceeding to enforce a provision of this chapter by a person under subsection (a)(2) who obtained private counsel for such action or proceeding, the court may award any such person who prevails in such action or proceeding reasonable attorney fees, expert witness fees, and other litigation expenses.
+(2) In any action or proceeding to enforce a provision of this chapter by a person under subsection (a)(3) who obtained private counsel for such action or proceeding, the court shall award any such person who prevails in such action or proceeding reasonable attorney fees, expert witness fees, and other litigation expenses.
 
 **(i) Definition.—** In this section, the term “private employer” includes a political subdivision of a State.
 
@@ -1014,6 +1038,12 @@ Section effective with respect to reemployments initiated on or after the first 
 A prior section 4323 was renumbered [section 7623 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7623).
 
 #### Amendments
+2025—Subsec. (d)(1)(C), (D). Pub. L. 118–210, § 221(d), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “The court may require the employer to pay the person an amount equal to the amount referred to in subparagraph (B) as liquidated damages, if the court determines that the employer’s failure to comply with the provisions of this chapter was willful.”
+
+Subsec. (e). Pub. L. 118–210, § 221(c), designated existing provisions as par. (1) and added pars. (2) and (3).
+
+Subsec. (h)(2). Pub. L. 118–210, § 221(e)(3), substituted “subsection (a)(3)” for “subsection (a)(2)” and “the court shall award any such person who prevails in such action or proceeding reasonable attorney fees” for “the court may award any such person who prevails in such action or proceeding reasonable attorney fees”.
+
 2008—Subsec. (a)(1). Pub. L. 110–389, § 311(d)(1), inserted “Not later than 60 days after the Secretary receives such a request with respect to a complaint, the Secretary shall refer the complaint to the Attorney General.” after “to the Attorney General.”
 
 Subsec. (a)(2), (3). Pub. L. 110–389, § 311(e)(1), added par. (2) and redesignated former par. (2) as (3).
@@ -1072,7 +1102,7 @@ Section effective with respect to reemployments initiated on or after the first 
 
 (3) Any compensation received by a person pursuant to an order under paragraph (2) shall be in addition to any other right or benefit provided for by this chapter and shall not diminish any such right or benefit.
 
-(4) If the Board determines as a result of a hearing or adjudication conducted pursuant to a complaint submitted by a person directly to the Board pursuant to subsection (b) that such person is entitled to an order referred to in paragraph (2), the Board may, in its discretion, award such person reasonable attorney fees, expert witness fees, and other litigation expenses.
+(4) If the Board determines as a result of a hearing or adjudication conducted pursuant to a complaint submitted by a person directly to the Board pursuant to subsection (b) that such person is entitled to an order referred to in paragraph (2), the Board shall award such person reasonable attorney fees, expert witness fees, and other litigation expenses. The Board may, in its discretion, award reasonable attorney fees in a case settled before the issuance of an order if the person can demonstrate that significant attorney fees were incurred and that justice requires such an award.
 
 **(d)**
 
@@ -1080,12 +1110,22 @@ Section effective with respect to reemployments initiated on or after the first 
 
 (2) Such person may be represented in the Federal Circuit proceeding by the Special Counsel unless the person was not represented by the Special Counsel before the Merit Systems Protection Board regarding such order or decision.
 
+(3) In such Federal Circuit proceeding, the court shall award such person reasonable attorney fees, expert witness fees, and other litigation expenses if such person—
+
+  (A) prevails in such Federal Circuit proceeding; and
+
+  (B) is not represented by the Special Counsel in such Federal Circuit proceeding.
+
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 4324 was renumbered [section 7624 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7624).
 
 #### Amendments
+2025—Subsec. (c)(4). Pub. L. 118–210, § 221(e)(1), substituted “shall” for “may, in its discretion,” and inserted at end “The Board may, in its discretion, award reasonable attorney fees in a case settled before the issuance of an order if the person can demonstrate that significant attorney fees were incurred and that justice requires such an award.”
+
+Subsec. (d)(3). Pub. L. 118–210, § 221(e)(2), added par. (3).
+
 2010—Subsec. (b)(4). Pub. L. 111–275 inserted before period at end “declining to initiate an action and represent the person before the Merit Systems Protection Board”.
 
 2008—Subsec. (a)(1). Pub. L. 110–389, § 311(d)(2), substituted “Not later than 60 days after the date the Secretary receives such a request, the Secretary shall refer” for “The Secretary shall refer”.

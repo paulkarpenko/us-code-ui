@@ -5301,7 +5301,7 @@ Section effective on the first day of the first full program year after July 22,
 
 **(g) Funding**
 
-(1) **Covered fiscal year** — In this subsection, the term “covered fiscal year” means any of fiscal years 2019 through 2023.
+(1) **Covered fiscal year** — In this subsection, the term “covered fiscal year” means any of fiscal years 2019 through 2030.
 
 (2) **Using funding for national dislocated worker grants** — Subject to paragraph (4) and notwithstanding section 132(a)(2)(A) and subtitle D 1 of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3172(a)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3172/a/2/A&num=0&edition=prelim), 3221 et seq.), the Secretary may use, to carry out the pilot program under this section for a covered fiscal year—
 
@@ -5326,6 +5326,9 @@ Section 3 of the Indian Health Care Improvement Act, referred to in subsec. (a)(
 
 #### Codification
 Section was enacted as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of title I of the Workforce Innovation and Opportunity Act which comprises this subchapter.
+
+#### Amendments
+2025—Subsec. (g)(1). Pub. L. 119–44 substituted “2030” for “2023”.
 
 
 <a id="section-3227"></a>

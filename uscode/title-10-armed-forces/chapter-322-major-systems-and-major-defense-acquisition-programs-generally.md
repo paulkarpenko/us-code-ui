@@ -8,9 +8,9 @@ source: >-
 ---
 <a id="section-4211"></a>
 ## § 4211. Acquisition strategy
-**(a) Acquisition Strategy Required.—** There shall be an acquisition strategy for each major defense acquisition program, each major automated information system, and each major system approved by a milestone decision authority.
+**(a) Acquisition Strategy Required.—** There shall be an acquisition strategy for each major defense acquisition program and each major system approved by a decision authority.
 
-**(b) Responsible Official.—** For each acquisition strategy required by subsection (a), the Under Secretary of Defense for Acquisition and Sustainment, or the milestone decision authority, when the milestone decision authority is the service acquisition executive of the military department that is managing the program, is responsible for issuing and maintaining the requirements for—
+**(b) Responsible Official.—** For each acquisition strategy required by subsection (a), the Under Secretary of Defense for Acquisition and Sustainment, or the decision authority, when the decision authority is the service acquisition executive of the military department that is managing the program, is responsible for issuing and maintaining the requirements for—
 
 (1) the content of the strategy; and
 
@@ -18,11 +18,11 @@ source: >-
 
 **(c) Considerations.—**
 
-(1) In issuing requirements for the content of an acquisition strategy for a major defense acquisition program, major automated information system, or major system, the Under Secretary, or the milestone decision authority, when the milestone decision authority is the service acquisition executive of the military department that is managing the program, shall ensure that—
+(1) In issuing requirements for the content of an acquisition strategy for a major defense acquisition program or major system, the Under Secretary, or the decision authority, when the decision authority is the service acquisition executive of the military department that is managing the program, shall ensure that—
 
-  (A) the strategy clearly describes the proposed top-level business and technical management approach for the program or system, in sufficient detail to allow the milestone decision authority to assess the viability of the proposed approach, the method of implementing laws and policies, and program objectives;
+  (A) the strategy clearly describes the proposed business case and capability management approach for the program or system, and to the maximum extent practicable, describes how capability requirements will be met through delivery of such program or system;
 
-  (B) the strategy contains a clear explanation of how the strategy is designed to be implemented with available resources, such as time, funding, and management capacity;
+  (B) the strategy contains a clear explanation of the resources, such as time, funding, and management capacity, necessary to meet capability requirements;
 
   (C) the strategy is tailored to address program requirements and constraints; and
 
@@ -30,84 +30,51 @@ source: >-
 
 (2) Each strategy shall, where appropriate, consider the following:
 
-  (A) An approach that delivers required capability in increments, each depending on available mature technology, and that recognizes up front the need for future capability improvements.
+  (A) An approach that delivers required capabilities in increments, each depending on available mature technology, and that recognizes up front the need for future capability improvements or transitions to alternative end items through use of continuous competition.
 
-  (B) Acquisition approach, including industrial base considerations in accordance with [section 4820 of this title](./chapter-382-policies-and-planning.md#section-4820).
+  (B) Requirements related to logistics, maintenance, and sustainment in accordance with sections 2464 and 2466 of this title, and the acquisition of technical data, computer software, and associated licenses, to enable such requirements in accordance with sections 3771 through 3775 of this title.
 
-  (C) Risk management, including such methods as competitive prototyping at the system, subsystem, or component level.
+  (C) A process for collaborative interaction and market research with the science and technology community, including Department of Defense science and technology reinvention laboratories, government innovation cells, academia, small businesses, nontraditional defense contractors, and other contractors.
 
-  (D) Business strategy, including measures to ensure competition at the system and subsystem level throughout the life-cycle of the program or system in accordance with [section 4324 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4324).
+  (D) Identification of enterprise-wide designs and standards in support of an architecture that provides for an integrated suite of capabilities that focuses on simplicity of implementation and speed of delivery.
 
-  (E) Contracting strategy, including—
+  (E) Overarching roadmaps that create integrated strategic schedules of legacy systems and new capabilities.
 
-    (i) contract type and how the type selected relates to level of program risk in each acquisition phase;
+  (F) A contracting strategy that develops long-term partnerships with multiple companies to actively contribute to architectures, development, production, and sustainment across the capabilities to be developed by decomposing large systems into smaller sets of projects across time and technical component.
 
-    (ii) how the plans for the program or system to reduce risk enable the use of fixed-price elements in subsequent contracts and the timing of the use of those fixed price elements;
+  (G) An assignment of roles and responsibilities of key personnel of the acquisition workforce, identification of external stakeholder dependencies, and the need for subject matter expert inputs at critical points in the program, including the need for special hiring authority or advisory and assistance services, in order to deliver the desired capabilities.
 
-    (iii) market research; and
+  (H) A process of testing and experimentation with the test community and end users to ensure continuous user feedback, acceptance, and development of concepts of operations.
 
-    (iv) consideration of small business participation.
+**(d) Review.—** The decision authority shall review and approve, as appropriate, the acquisition strategy for a major defense acquisition program or major system prior to the acquisition decision memorandum and ensure that the strategy is updated at regular intervals to incorporate significant changes to program requirements, resourcing, or acquisition decisions.
 
-  (F) Intellectual property strategy in accordance with sections 3771 through 3775 of this title.
-
-  (G) International involvement, including foreign military sales and cooperative opportunities, in accordance with [section 2350a of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2350a).
-
-  (H) Multiyear procurement in accordance with sections 3501 through 3511 11 See References in Text note below. of this title.
-
-  (I) Integration of current intelligence assessments into the acquisition process.
-
-  (J) Requirements related to logistics, maintenance, and sustainment in accordance with sections 2464 and 2466 of this title.
-
-**(d) Review.—**
-
-(1) The milestone decision authority shall review and approve, as appropriate, the acquisition strategy for a major defense acquisition program, major automated information system, or major system at each of the following times:
-
-  (A) Milestone A approval.
-
-  (B) The decision to release the request for proposals for development of the program or system.
-
-  (C) Milestone B approval.
-
-  (D) Each subsequent milestone.
-
-  (E) Review of any decision to enter into full-rate production.
-
-  (F) When there has been—
-
-    (i) a significant change to the cost of the program or system;
-
-    (ii) a critical change to the cost of the program or system;
-
-    (iii) a significant change to the schedule of the program or system; or
-
-    (iv) a significant change to the performance of the program or system.
-
-  (G) Any other time considered relevant by the milestone decision authority.
-
-(2) If the milestone decision authority revises an acquisition strategy for a program or system because of a change described in paragraph (1)(F), the milestone decision authority shall provide notice of the revision to the congressional defense committees.
-
-**(e) Definitions.—** In this section:
-
-(1) The term “Milestone A approval” means a decision to enter into technology maturation and risk reduction pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
-
-(2) The term “Milestone B approval” has the meaning provided in [section 4172(e)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4172/e/7&num=0&edition=prelim).
-
-(3) The term “milestone decision authority”, with respect to a major defense acquisition program, major automated information system, or major system, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or system, including authority to approve entry of the program or system into the next phase of the acquisition process.
-
-(4) The term “management capacity”, with respect to a major defense acquisition program, major automated information system, or major system, means the capacity to manage the program or system through the use of highly qualified organizations and personnel with appropriate experience, knowledge, and skills.
-
-(5) The term “significant change to the cost”, with respect to a major defense acquisition program or major system, means a significant cost growth threshold, as that term is defined in [section 4371(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4371/a/2&num=0&edition=prelim).
-
-(6) The term “critical change to the cost”, with respect to a major defense acquisition program or major system, means a critical cost growth threshold, as that term is defined in [section 4371(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4371/a/3&num=0&edition=prelim).
-
-(7) The term “significant change to the schedule”, with respect to a major defense acquisition program, major automated information system, or major system, means any schedule delay greater than six months in a reported event.
+**(e) Decision Authority Defined.—** In this section, the term “decision authority”, with respect to a major defense acquisition program or major system, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or system, including authority to approve entry of the program or system into the next phase of the acquisition process.
 
 ### Statutory Notes
 
-#### References in Text
-Sections 3501 through 3511 of this title, referred to in subsec. (c)(2)(H), was, prior to amendment by Pub. L. 116–283, “[section 2306b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306b&num=0&edition=prelim)”, but probably should have been amended to read “[section 3501 of this title](./chapter-249-multiyear-contracts.md#section-3501)” because of the amendment by Pub. L. 117–81, div. A, title XVII, § 1701(k)(2), Dec. 27, 2021, 135 Stat. 2143, which amended section 1822 of Pub. L. 116–283 by striking subsections (b) through (l) of such section and adding a new subsec. (b) to such section which transferred [section 2306b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306b&num=0&edition=prelim) to [section 3501 of this title](./chapter-249-multiyear-contracts.md#section-3501).
-
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 1805(a)(1), struck out “milestone” before “decision authority”.
+
+Subsec. (b). Pub. L. 119–60, § 1805(a)(2), in introductory provisions, struck out “milestone” before “decision authority” in two places.
+
+Subsec. (c)(1). Pub. L. 119–60, § 1805(a)(3)(A)(i), in introductory provisions, struck out “milestone” before “decision authority” in two places.
+
+Subsec. (c)(1)(A). Pub. L. 119–60, § 1805(a)(3)(A)(ii), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the strategy clearly describes the proposed top-level business and technical management approach for the program or system, in sufficient detail to allow the milestone decision authority to assess the viability of the proposed approach, the method of implementing laws and policies, and program objectives;”.
+
+Subsec. (c)(1)(B). Pub. L. 119–60, § 1805(a)(3)(A)(iii), substituted “the resources, such as time, funding, and management capacity, necessary to meet capability requirements” for “how the strategy is designed to be implemented with available resources, such as time, funding, and management capacity”.
+
+Subsec. (c)(2). Pub. L. 119–60, § 1805(a)(3)(B), amended par. (2) generally. Prior to amendment, par. (2) related to considerations for each acquisition strategy for a major defense acquisition program or major system.
+
+Subsecs. (d), (e). Pub. L. 119–60, § 1805(a)(4), added subsecs. (d) and (e) and struck out former subsecs. (d) and (e) which related to times for review and approval of the acquisition strategy and provided definitions for the section, respectively.
+
+2024—Subsec. (a). Pub. L. 118–159, § 1701(a)(39)(B), struck out “, each major automated information system,” after “defense acquisition program”.
+
+Subsec. (c)(1). Pub. L. 118–159, § 1701(a)(39)(A), struck out “, major automated information system,” after “defense acquisition program” in introductory provisions.
+
+Subsec. (c)(2)(H). Pub. L. 118–159, § 1701(a)(39)(C), substituted “[section 3501 of this title](./chapter-249-multiyear-contracts.md#section-3501)” for “sections 3501 through 3511 of this title”.
+
+Subsecs. (d), (e). Pub. L. 118–159, § 1701(a)(39)(A), struck out “, major automated information system,” after “defense acquisition program” wherever appearing.
+
 2021—Pub. L. 116–283, § 1847(b)(1)(A), renumbered [section 2431a of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2431a) as this section.
 
 Subsec. (c)(2)(B). Pub. L. 116–283, § 1847(b)(2), formerly § 1847(b)(2)(B), as redesignated and amended by Pub. L. 117–81, § 1701(s)(1), substituted “[section 4820 of this title](./chapter-382-policies-and-planning.md#section-4820)” for “[section 2440 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2440)”.
@@ -446,88 +413,76 @@ Pub. L. 115–91, div. A, title VIII, § 835(a)(3), Dec. 12, 2017, 131 Stat. 147
 
 
 <a id="section-4251"></a>
-## § 4251. Major defense acquisition programs: determination required before Milestone A approval
+## § 4251. Major defense acquisition programs: factors to be considered before Milestone A approval
 **(a) Responsibilities.—** Before granting Milestone A approval for a major defense acquisition program or a major subprogram, the milestone decision authority for the program or subprogram shall ensure that—
 
 (1) information about the program or subprogram is sufficient to warrant entry of the program or subprogram into the risk reduction phase;
 
-(2) the Secretary of the military department concerned and the Chief of the armed force concerned concur in the cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program; and
+(2) the cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program do not overly constrain future trade space; and
 
 (3) there are sound plans for progression of the program or subprogram to the development phase.
 
-**(b) Written Determination Required.—** A major defense acquisition program or subprogram may not receive Milestone A approval or otherwise be initiated prior to Milestone B approval until the milestone decision authority determines in writing, after consultation with the Joint Requirements Oversight Council on matters related to program requirements and military needs—
+**(b) Factors to Be Considered for Milestone a Approval.—** A major defense acquisition program or subprogram may not receive Milestone A approval or otherwise be initiated prior to Milestone B approval until the milestone decision authority confirms that the following factors were considered in the decision to grant Milestone A approval:
 
-(1) that the program fulfills an approved initial capabilities document;
+(1) The program or subprogram fulfills an approved requirements document.
 
-(2) that the program has been developed in light of appropriate market research;
+(2) The program or subprogram has conducted appropriate market research.
 
-(3) if the program duplicates a capability already provided by an existing system, the duplication provided by such program is necessary and appropriate;
+(3) With respect to any identified areas of risk, there is a plan to reduce the risk.
 
-(4) that, with respect to any identified areas of risk, including risks determined by the identification of critical technologies required under [section 4272(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4272/a/1&num=0&edition=prelim) or any other risk assessment, there is a plan to reduce the risk;
+(4) Planning for sustainment has been addressed.
 
-(5) that planning for sustainment has been addressed and that a determination of applicability of core logistics capabilities requirements has been made;
+(5) An analysis of alternatives has been performed consistent with study guidance developed by the Director of Cost Assessment and Program Evaluation, or in lieu of an analysis of alternatives, early experimentation with a combatant commander has been conducted.
 
-(6) that an analysis of alternatives has been performed consistent with study guidance developed by the Director of Cost Assessment and Program Evaluation;
+(6) A life cycle cost estimate for the program or subprogram has been submitted by the component and that the level of resources required to complete the technology maturation and risk reduction phase of the program is sufficient for successful program execution.
 
-(7) that a cost estimate for the program has been submitted, with the concurrence of the Director of Cost Assessment and Program Evaluation, and that the level of resources required to develop, procure, and sustain the program is sufficient for successful program execution;
+(7) The program or subprogram meets any other considerations the milestone decision authority considers relevant.
 
-(8) that, with respect to a program initiated after January 1, 2019, technology shall be developed in the program (after Milestone A approval) only if the milestone decision authority determines with a high degree of confidence that such development will not delay the fielding target of the program, or, if the milestone decision authority does not make such determination for a major system component being developed under the program, the milestone decision authority ensures that the technology related to the major system component shall be sufficiently matured and demonstrated in a relevant environment (after Milestone A approval) separate from the program using the prototyping authorities in subchapter II of chapter 327 of this title or other authorities, as appropriate, and have an effective plan for adoption or insertion by the relevant program; and
+**(c) Written Record of a Milestone Decision.—** The milestone decision authority shall issue a written record of a milestone decision at the time that Milestone A approval is granted. The record shall confirm compliance with subsection (b) and specifically state that the milestone decision authority considered the factors described in such subsection prior to the decision to grant milestone approval. The milestone decision authority shall retain records of the basis for the milestone decision.
 
-(9) that the program or subprogram meets any other considerations the milestone decision authority considers relevant.
+**(d) Submissions to Congress on Milestone A.—**
 
-**(c) Submissions to Congress on Milestone A.—**
+(1) **Notification.—** — Not later than 15 days after granting Milestone A approval for a major defense acquisition program, the milestone decision authority for the program shall provide to the congressional defense committees and, in the case of intelligence or intelligence-related activities, the congressional intelligence committees a written record of the milestone decision.
 
-(1) **Brief summary report.—** — Not later than 15 days after granting Milestone A approval for a major defense acquisition program, the milestone decision authority for the program shall provide to the congressional defense committees and, in the case of intelligence or intelligence-related activities, the congressional intelligence committees a brief summary report that contains the following elements:
+(2) **Additional information.—** — At the request of any of the congressional defense committees or, in the case of intelligence or intelligence-related activities, the congressional intelligence committees, the milestone decision authority shall submit to the committee an explanation of the basis for the decision to grant Milestone A approval with respect to a major defense acquisition program or major subprogram, and make available all underlying documentation.
 
-  (A) The program cost and fielding targets established under [section 4271(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4271/a&num=0&edition=prelim).
+**(e) Definitions.—** In this section:
 
-  (B) The estimated cost and schedule for the program established by the military department concerned, including—
-
-    (i) the dollar values estimated for the program acquisition unit cost and total life-cycle cost; and
-
-    (ii) the planned dates for each program milestone and initial operational capability.
-
-  (C) The independent estimated cost for the program established pursuant to [section 3221(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3221/b/6&num=0&edition=prelim), and any independent estimated schedule for the program, including—
-
-    (i) as assessment of the major contributors to the program acquisition unit cost and total life-cycle cost; and
-
-    (ii) the planned dates for each program milestone and initial operational capability.
-
-  (D) A summary of the technical or manufacturing risks associated with the program, as determined by the military department concerned, including identification of any critical technologies or manufacturing processes that need to be matured.
-
-  (E) A summary of the independent technical risk assessment conducted or approved under [section 4272 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4272), including identification of any critical technologies or manufacturing processes that need to be matured.
-
-  (F) A summary of any sufficiency review conducted by the Director of Cost Assessment and Program Evaluation of the analysis of alternatives performed for the program (as referred to in subsection (b)(6)).
-
-  (G) Any other information the milestone decision authority considers relevant.
-
-(2) **Additional information.—**
-
-  (A) At the request of any of the congressional defense committees or, in the case of intelligence or intelligence-related activities, the congressional intelligence committees, the milestone decision authority shall submit to the committee an explanation of the basis for a determination made under subsection (b) with respect to a major defense acquisition program, together with a copy of the written determination, or further information or underlying documentation for the information in a brief summary report submitted under paragraph (1), including the independent cost and schedule estimates and the independent technical risk assessments referred to in that paragraph.
-
-  (B) The explanation or information shall be submitted in unclassified form, but may include a classified annex.
-
-**(d) Definitions.—** In this section:
-
-(1) The term “initial capabilities document” means any capabilities requirement document approved by the Joint Requirements Oversight Council that establishes the need for a materiel approach to resolve a capability gap.
+(1) The term “requirements document” means any capabilities requirement document that establishes the need for a materiel approach to resolve a capability gap.
 
 (2) The term “Milestone A approval” means a decision to enter into technology maturation and risk reduction pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
 
 (3) The term “Milestone B approval” has the meaning provided that term in [section 4172(e)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4172/e/7&num=0&edition=prelim).
 
-(4) The term “core logistics capabilities” means the core logistics capabilities identified under [section 2464(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2464/a&num=0&edition=prelim).
+(4) The term “milestone decision authority”, with respect to a major defense acquisition program or a major subprogram, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or subprogram, including authority to approve entry of the program or subprogram into the next phase of the acquisition process.
 
-(5) The term “milestone decision authority”, with respect to a major defense acquisition program or a major subprogram, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or subprogram, including authority to approve entry of the program or subprogram into the next phase of the acquisition process.
-
-(6) The term “fielding target” has the meaning given that term in [section 4271(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4271/a&num=0&edition=prelim).
-
-(7) The term “major system component” has the meaning given that term in [section 4401(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4401/b/3&num=0&edition=prelim).
-
-(8) The term “congressional intelligence committees” has the meaning given that term in [section 437(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section437/c&num=0&edition=prelim).
+(5) The term “congressional intelligence committees” has the meaning given that term in [section 437(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section437/c&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (e)(1). Pub. L. 119–60 struck out “approved by the Joint Requirements Oversight Council” after “capabilities requirement document”.
+
+2024—Pub. L. 118–159, § 806(a)(1)(A), substituted “factors to be considered” for “determination required” in section catchline.
+
+Subsec. (a)(2). Pub. L. 118–159, § 806(a)(1)(B)(ii), inserted “do not overly constrain future trade space” after “with regard to the program”.
+
+Pub. L. 118–159, § 806(a)(1)(B)(i), which directed striking out “the Secretary of the military department concerned and the Chief of the armed forces concerned concur in”, was executed by striking out “the Secretary of the military department concerned and the Chief of the armed force concerned concur in” before “the cost”, to reflect the probable intent of Congress.
+
+Subsec. (b). Pub. L. 118–159, § 806(a)(1)(C), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to written determination requirements for approval.
+
+Subsec. (c). Pub. L. 118–159, § 806(a)(1)(E), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 118–159, § 806(a)(1)(D), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(1). Pub. L. 118–159, § 806(a)(1)(F)(i)(II), substituted “a written record of the milestone decision.” for “a brief summary report that contains the following elements:” and struck out subpars. (A) to (G) which listed elements to be included in the brief summary report required for Milestone A approval.
+
+Pub. L. 118–159, § 806(a)(1)(F)(i)(I), which directed substitution of “notification” for “brief summary report” in heading, was executed by substituting “Notification” for “Brief summary report”, to reflect the probable intent of Congress.
+
+Subsec. (d)(2). Pub. L. 118–159, § 806(a)(1)(F)(ii), amended par. (2) generally. Prior to amendment, par. (2) related to requests for additional explanation of the basis for a determination.
+
+Subsec. (e). Pub. L. 118–159, § 806(a)(1)(D), (G), redesignated subsec. (d) as (e) and substituted “requirements document” for “initial capabilities document” in par. (1), redesignated pars. (5) and (8) as (4) and (5), respectively, and struck out former pars. (4), (6), and (7) which defined core logistics capabilities, fielding target, and major system component, respectively.
+
 2021—Pub. L. 116–283, § 1847(d)(1)(A), renumbered [section 2366a of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2366a) as this section.
 
 Subsec. (b)(4). Pub. L. 116–283, § 1847(d)(1)(B)(i), substituted “section 4272(a)(1)” for “section 2448b(a)(1)”.
@@ -653,135 +608,75 @@ Pub. L. 110–181, div. A, title IX, § 943(c), Jan. 28, 2008, 122 Stat. 289, as
 Pub. L. 116–92, div. A, title VIII, § 832, Dec. 20, 2019, 133 Stat. 1493, provided that: “(a) Timeline.—Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall update existing guidance for analyses of alternatives conducted pursuant to a materiel development decision for a major defense acquisition program to incorporate the following:“(1) Study completion within nine months. “(2) Study guidance issued by the Director, Cost Assessment and Program Evaluation of a scope designed to provide for reasonable completion of the study within the nine-month period. “(3) Procedures for waiver of the timeline requirements of this subsection on a case-by-case basis if—“(A) the subject of the analysis is of extreme technical complexity; “(B) collection of additional intelligence is required to inform the analysis; “(C) insufficient technical expertise is available to complete the analysis; or “(D) the Secretary determines that there [are] other sufficient reasons for delay of the analysis. “(b) Reporting.—If an analysis of alternatives cannot be completed within the allotted time, or a waiver is used, the Secretary shall report to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the following information:“(1) For a waiver, the basis for use of the waivers, including the reasons why the study cannot be completed within the allotted time. “(2) For a study estimated to take more than nine months—“(A) an estimate of when the analysis will be completed; “(B) an estimate of any additional costs to complete the analysis; and “(C) other relevant information pertaining to the analysis and its completion. “(c) Report on Analyses of Alternatives.—“(1) Assessment.—“(A) In general.—The Under Secretary of Defense for Acquisition and Sustainment shall engage with an independent entity, including under the Program for Acquisition Innovation Research, to assess the conduct of analyses of alternatives. “(B) Elements.—The assessment required under subparagraph (A) shall—“(i) assess the time required to complete analyses of alternatives within the Department of Defense completed over the last five fiscal years, as compared with best practices; “(ii) provide recommendations and policy options to improve analyses of alternatives; and “(iii) discuss any other matters as identified by the Under Secretary. “(C) Access to data.—The Under Secretary shall ensure that the independent entity is provided access to the data, information, and resources necessary to complete the required analyses and assessment. “(2) Report.—Not later than one year after the date of the enactment of this Act, the Under Secretary shall submit to the congressional defense committees a report including the assessment required under paragraph (1) and a review and assessment by the Under Secretary of the findings made in the assessment.”
 
 #### Milestone A Decisions
-Pub. L. 114–92, div. A, title VIII, § 802(d)(2), Nov. 25, 2015, 129 Stat. 880, provided that: “The Chief of the Armed Force concerned shall advise the milestone decision authority for a major defense acquisition program of the Chief’s views on cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program, as provided in [section 2366a(a)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2366a/a/2&num=0&edition=prelim), United States Code [now [10 U.S.C. 4251(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4251/a/2&num=0&edition=prelim)], as amended by section 823 of this Act, prior to a Milestone A decision on the program.”
+Pub. L. 114–92, div. A, title VIII, § 802(d)(2), Nov. 25, 2015, 129 Stat. 880, which required the Chief of the Armed Force concerned to provide the Chief’s views on cost, schedule, technical feasibility, and performance trade-offs to the milestone decision authority for a major defense acquisition program prior to a Milestone A decision, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(8)(A), Dec. 18, 2025, 139 Stat. 948.
 
 #### Guidance
 Pub. L. 112–81, div. A, title VIII, § 801(d), Dec. 31, 2011, 125 Stat. 1483, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 31, 2011], the Secretary of Defense shall issue guidance implementing the amendments made by subsections (a) and (b) [amending this section and [section 2366b of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2366b)], and subsection (c) [set out as a note preceding [section 4321 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4321)], in a manner that is consistent across the Department of Defense.”
 
 
 <a id="section-4252"></a>
-## § 4252. Major defense acquisition programs: certification required before Milestone B approval
-**(a) Certifications and Determination Required.—** A major defense acquisition program may not receive Milestone B approval until the milestone decision authority—
+## § 4252. Major defense acquisition programs: factors to be considered before Milestone B approval
+**(a) Responsibilities.—** Before granting Milestone B approval for a major defense acquisition program or major subprogram, the milestone decision authority for the program or subprogram shall ensure that—
 
-(1) has received a preliminary design review and conducted a formal post-preliminary design review assessment, and certifies on the basis of such assessment that the program demonstrates a high likelihood of accomplishing its intended mission;
+(1) information about the program or subprogram is sufficient to warrant entry of the program or subprogram into the engineering and manufacturing development phase;
 
-(2) further certifies that the technology in the program has been demonstrated in a relevant environment, as determined by the milestone decision authority on the basis of an independent review and technical risk assessment conducted under [section 4272 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4272);
+(2) appropriate trade-offs among cost, schedule, technical feasibility, and performance objectives have been made to ensure that the program or subprogram is affordable when considering the per-unit cost and the total life-cycle cost, and the Secretary of the military department concerned and the Chief of the armed force concerned concur with these trade-offs; and
 
-(3) determines in writing that—
+(3) there are sound plans for progression of the program or subprogram to the production phase.
 
-  (A) the program is affordable when considering the ability of the Department of Defense to accomplish the program’s mission using alternative systems;
+**(b) Factors to Be Considered for Milestone B Approval.—** A major defense acquisition program or major subprogram may not receive Milestone B approval until the milestone decision authority confirms the following factors were considered in the decision to grant Milestone B approval:
 
-  (B) appropriate trade-offs among cost, schedule, technical feasibility, and performance objectives have been made to ensure that the program is affordable when considering the per unit cost and the total life-cycle cost;
+(1) The program or subprogram has received a preliminary design review and a formal post-preliminary design review or an equivalent assessment was conducted.
 
-  (C) reasonable cost and schedule estimates have been developed to execute, with the concurrence of the Director of Cost Assessment and Program Evaluation, the product development and production plan under the program;
+(2) The technology in the program or subprogram has been demonstrated in a relevant environment.
 
-  (D) the estimated procurement unit cost for the program and the estimated date for initial operational capability for the baseline description for the program (established under [section 4214 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4214)) do not exceed the program cost and fielding targets established under [section 4271(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4271/a&num=0&edition=prelim), or, if such estimated cost is higher than the program cost targets or if such estimated date is later than the fielding target, the program cost targets have been increased or the fielding target has been delayed by the milestone decision authority;
+(3) The program or subprogram is affordable when considering the ability of the Department of Defense to accomplish the program’s or subprogram’s general mission using alternative systems.
 
-  (E) funding is expected to be available to execute the product development and production plan for the program, consistent with the estimates described in subparagraph (C) for the program;
+(4) Reasonable lifecycle cost and schedule estimates have been developed to execute, with the concurrence of the Director of Cost Assessment and Program Evaluation, the plan under the program or subprogram.
 
-  (F) appropriate market research has been conducted prior to technology development to reduce duplication of existing technology and products;
+(5) The estimated procurement unit cost for the program or subprogram and the estimated date for initial operational capability for the baseline description for the program or subprogram (under [section 4214 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4214)) have been established.
 
-  (G) the Department of Defense has completed an analysis of alternatives with respect to the program;
+(6) Funding is expected to be available to execute the product development and production plan for the program or subprogram, consistent with the estimates described in paragraph (4) for the program or subprogram.
 
-  (H) the Joint Requirements Oversight Council has accomplished its duties with respect to the program pursuant to [section 181(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section181/b&num=0&edition=prelim), including an analysis of the operational requirements for the program;
+(7) Appropriate market research has been conducted prior to technology development, including market research of commercial products, commercial services, and nondevelopmental items (as defined in [section 110 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section110&num=0&edition=prelim)).
 
-  (I) life-cycle sustainment planning, including corrosion prevention and mitigation planning, has identified and evaluated relevant sustainment costs throughout development, production, operation, sustainment, and disposal of the program, and any alternatives, and that such costs are reasonable and have been accurately estimated;
+(8) The Department of Defense has completed an analysis of alternatives with respect to the program or subprogram, or in lieu of an analysis of alternatives, early experimentation with a combatant commander has been conducted.
 
-  (J) an estimate has been made of the requirements for core logistics capabilities and the associated sustaining workloads required to support such requirements;
+(9) Life-cycle sustainment planning has identified and evaluated relevant sustainment cost elements, factors, risks, and gaps that are likely to drive readiness of the system as well as operating and supporting costs.
 
-  (K) there is a plan to mitigate and account for any costs in connection with any anticipated de-certification of cryptographic systems and components during the production and procurement of the major defense acquisition program to be acquired;
+(10) An estimate has been made of the requirements for core logistics capabilities and the associated sustaining workloads required to support such requirements.
 
-  (L) the program complies with all relevant policies, regulations, and directives of the Department of Defense;
+(11) The program or subprogram complies with all relevant policies, regulations, and directives of the Department of Defense.
 
-  (M) the Secretary of the military department concerned and the Chief of the armed force concerned concur in the trade-offs made in accordance with subparagraph (B);
+(12) Appropriate actions are planned for the acquisition of technical data required to support the program or subprogram.
 
-  (N) the requirements of [section 4402(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4402/e&num=0&edition=prelim) are met;
+(13) The program or subprogram has an approved life cycle sustainment plan required under [section 4324(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4324/b&num=0&edition=prelim).
 
-  (O) appropriate actions have been taken to negotiate and enter into a contract or contract options for the technical data required to support the program; and
+(14) In the case of a naval vessel program or subprogram, such program or subprogram is in compliance with the requirements of [section 8669b of this title](./chapter-863-naval-vessels.md#section-8669b).
 
-  (P) has approved the life cycle sustainment plan required under [section 4324(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4324/b&num=0&edition=prelim).11 So in original. Does not fit with par. (3) introductory provisions and period at end probably should be a semicolon.
+**(c) Written Record of Milestone Decision.—** The milestone decision authority shall issue a written record of decision at the time that Milestone B approval is granted. The record shall confirm compliance with subsection (b) and specifically state that the milestone decision authority considered the factors described in subsection (b) prior to the decision to grant milestone approval. The milestone decision authority shall retain records of the basis for the milestone decision.
 
-(4) in the case of a space system, performs a cost benefit analysis for any new or follow-on satellite system using a dedicated ground control system instead of a shared ground control system, except that no cost benefit analysis is required to be performed under this paragraph for any Milestone B approval of a space system after December 31, 2019; and
+**(d) Changes to Basis for Milestone Approval.—**
 
-(5) in the case of a naval vessel program, certifies compliance with the requirements of [section 8669b of this title](./chapter-863-naval-vessels.md#section-8669b).
+(1) The program manager for a major defense acquisition program that has received a written record of the milestone decision under subsection (c) shall immediately notify the milestone decision authority of any changes to the program or a designated major subprogram of such program that—
 
-**(b) Changes to Certifications or Determination.—**
+  (A) alter the substantive basis for the decision of the milestone decision authority relating to any component of such decision specified in subsection (b); or
 
-(1) The program manager for a major defense acquisition program that has received certifications or a determination under subsection (a) shall immediately notify the milestone decision authority of any changes to the program or a designated major subprogram of such program that—
+  (B) otherwise cause the program or subprogram to deviate significantly from the material provided to the milestone decision authority in support of such decision.
 
-  (A) alter the substantive basis for the certifications or determination of the milestone decision authority relating to any component of such certifications or determination specified in paragraph (1), (2), or (3) of subsection (a); or
+(2) Upon receipt of information under paragraph (1), the milestone decision authority may rescind Milestone B approval if the milestone decision authority determines that such approval is no longer valid.
 
-  (B) otherwise cause the program or subprogram to deviate significantly from the material provided to the milestone decision authority in support of such certifications or determination.
+**(e) Submissions to Congress on Milestone B.—**
 
-(2) Upon receipt of information under paragraph (1), the milestone decision authority may withdraw the certifications or determination concerned or rescind Milestone B approval if the milestone decision authority determines that such certifications, determination, or approval are no longer valid.
+(1) **Notification.—** — Not later than 15 days after granting Milestone B approval for a major defense acquisition program or major subprogram, the milestone decision authority for the program or subprogram shall provide to the congressional defense committees and, in the case of intelligence or intelligence-related activities, the congressional intelligence committees a written record of the milestone decision.
 
-**(c) Submissions to Congress on Milestone B.—**
+(2) **Additional information.—**
 
-(1) **Brief summary report.—** — Not later than 15 days after granting Milestone B approval for a major defense acquisition program, the milestone decision authority for the program shall provide to the congressional defense committees and, in the case of intelligence or intelligence-related activities, the congressional intelligence committees a brief summary report that contains the following elements:
+  (A) At the request of any of the congressional defense committees or, in the case of intelligence or intelligence-related activities, the congressional intelligence committees, the milestone decision authority shall submit to the committee an explanation of the basis for the decision to grant Milestone B approval with respect to a major defense acquisition program or major subprogram, or further information or underlying documentation.
 
-  (A) The program cost and fielding targets established under [section 4271(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4271/a&num=0&edition=prelim).
+  (B) The explanation or additional information shall be submitted in unclassified form, but may include a classified annex.
 
-  (B) The estimated cost and schedule for the program established by the military department concerned, including—
-
-    (i) the dollar values estimated for the program acquisition unit cost, average procurement unit cost, and total life-cycle cost; and
-
-    (ii) the planned dates for each program milestone, initial operational test and evaluation, and initial operational capability.
-
-  (C) The independent estimated cost for the program established pursuant to [section 3221(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3221/b/6&num=0&edition=prelim), and any independent estimated schedule for the program, including—
-
-    (i) the dollar values and ranges estimated for the program acquisition unit cost, average procurement unit cost, and total life-cycle cost; and
-
-    (ii) the planned dates for each program milestone, initial operational test and evaluation, and initial operational capability.
-
-  (D) A summary of the technical and manufacturing risks associated with the program, as determined by the military department concerned, including identification of any critical technologies or manufacturing processes that have not been successfully demonstrated in a relevant environment.
-
-  (E) A summary of the independent technical risk assessment conducted or approved under [section 4272 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4272), including identification of any critical technologies or manufacturing processes that have not been successfully demonstrated in a relevant environment.
-
-  (F) A statement of whether a modular open system approach is being used for the program.
-
-  (G) An assessment of the sufficiency of developmental test and evaluation plans, including the use of automated data analytics or modeling and simulation tools and methodologies.
-
-  (H) A summary of the life cycle sustainment plan required under [section 4324 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4324).
-
-  (I) Any other information the milestone decision authority considers relevant.
-
-(2) **Certifications and determinations.—**
-
-  (A) The certifications and determination under subsection (a) with respect to a major defense acquisition program shall be submitted to the congressional defense committees with the first Selected Acquisition Report submitted under [section 4351 of this title](./chapter-324-selected-acquisition-reports.md#section-4351) after completion of the certification.
-
-  (B) The milestone decision authority shall retain records of the basis for the certifications and determination under paragraphs (1), (2), and (3) of subsection (a).
-
-(3) **Additional information.—**
-
-  (A) At the request of any of the congressional defense committees or, in the case of intelligence or intelligence-related activities, the congressional intelligence committees, the milestone decision authority shall submit to the committee an explanation of the basis for the certifications and determination under paragraphs (1), (2), and (3) of subsection (a) with respect to a major defense acquisition program or further information or underlying documentation for the information in a brief summary report submitted under paragraph (1), including the independent cost and schedule estimates and the independent technical risk assessments referred to in that paragraph.
-
-  (B) The explanation or information shall be submitted in unclassified form, but may include a classified annex.
-
-**(d) Waiver for National Security.—**
-
-(1) The milestone decision authority may, at the time of Milestone B approval or at the time that such milestone decision authority withdraws a certification or rescinds Milestone B approval pursuant to subsection (b)(2), waive the applicability to a major defense acquisition program of one or more components (as specified in paragraph (1), (2), or (3) of subsection (a)) of the certification and determination requirements if the milestone decision authority determines that, but for such a waiver, the Department would be unable to meet critical national security objectives.
-
-(2) Whenever the milestone decision authority makes such a determination and authorizes such a waiver—
-
-  (A) the waiver, the waiver determination, and the reasons for the waiver determination shall be submitted in writing to the congressional defense committees within 30 days after the waiver is authorized; and
-
-  (B) the milestone decision authority shall review the program not less often than annually to determine the extent to which such program currently satisfies the certification and determination components specified in paragraphs (1), (2), and (3) of subsection (a) until such time as the milestone decision authority determines that the program satisfies all such certification and determination components.
-
-(3) The requirement in paragraph (2)(B) shall not apply to a program for which a certification was required pursuant to [section 4377 of this title](./chapter-325-cost-growth-unit-cost-reports-nunn-mccurdy.md#section-4377) if the milestone decision authority—
-
-  (A) determines in writing that—
-
-    (i) the program has reached a stage in the acquisition process at which it would not be practicable to meet the certification component that was waived; and
-
-    (ii) the milestone decision authority has taken appropriate alternative actions to address the underlying purposes of such certification component; and
-
-  (B) submits the written determination, and an explanation of the basis for the determination, to the congressional defense committees.
-
-**(e) Designation of Certification Status in Budget Documentation.—** Any budget request, budget justification material, budget display, reprogramming request, Selected Acquisition Report, or other budget documentation or performance report submitted by the Secretary of Defense to the President regarding a major defense acquisition program receiving a waiver pursuant to subsection (d) shall prominently and clearly indicate that such program has not fully satisfied the certification requirements of this section until such time as the milestone decision authority makes the determination that such program has satisfied all such certification requirements.
-
-**(f) Nondelegation.—** The milestone decision authority may not delegate the certification requirement under subsection (a) or the authority to waive any component of such requirement under subsection (d).
-
-**(g) Definitions.—** In this section:
+**(f) Definitions.—** In this section:
 
 (1) The term “milestone decision authority”, with respect to a major defense acquisition program, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program, including authority to approve entry of the program into the next phase of the acquisition process.
 
@@ -789,15 +684,43 @@ Pub. L. 112–81, div. A, title VIII, § 801(d), Dec. 31, 2011, 125 Stat. 1483, 
 
 (3) The term “core logistics capabilities” means the core logistics capabilities identified under [section 2464(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2464/a&num=0&edition=prelim).
 
-(4) The term “fielding target” has the meaning given that term in [section 4271(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4271/a&num=0&edition=prelim).
+(4) The term “congressional intelligence committees” has the meaning given that term in [section 437(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section437/c&num=0&edition=prelim).
 
-(5) The term “major system component” has the meaning given that term in [section 4401(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4401/b/3&num=0&edition=prelim).
-
-(6) The term “congressional intelligence committees” has the meaning given that term in [section 437(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section437/c&num=0&edition=prelim).
+(5) The term “written record of milestone decision”, with respect to a major defense acquisition program or a major subprogram, means a document signed by the milestone decision authority that formalizes approved entry of the program or subprogram into the next phase of the acquisition process.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b)(9) to (15). Pub. L. 119–60 redesignated pars. (10) to (15) as (9) to (14), respectively, and struck out former par. (9) which read as follows: “The Joint Requirements Oversight Council has accomplished its duties with respect to the program or subprogram pursuant to [section 181(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section181/b&num=0&edition=prelim), including an analysis of the operational requirements for the program or subprogram.”
+
+2024—Pub. L. 118–159, § 807(1), substituted “factors to be considered before” for “certification required before” in section catchline.
+
+Subsec. (a). Pub. L. 118–159, § 807(4), added subsec. (a). Former subsec. (a) redesignated (b).
+
+Subsec. (b). Pub. L. 118–159, § 807(3), (5), redesignated subsec. (a) as (b) and amended it generally. Prior to amendment, subsec. related to certifications and determinations required for Milestone B approval.
+
+Subsec. (c). Pub. L. 118–159, § 807(6), added subsec. (c). Former subsec. (c) redesignated (e).
+
+Subsec. (d). Pub. L. 118–159, § 807(7)(A), substituted “Basis for Milestone Approval” for “Certifications or Determination” in heading.
+
+Pub. L. 118–159, § 807(2), (3), redesignated subsec. (b) as (d) and struck out former subsec. (d) which related to waiver of the certification and determination requirements to a major defense acquisition program in order to meet critical national security objectives.
+
+Subsec. (d)(1). Pub. L. 118–159, § 807(7)(B)(i), in introductory provisions, substituted “a written record of the milestone decision under subsection (c)” for “certifications or a determination under subsection (a)”.
+
+Subsec. (d)(1)(A). Pub. L. 118–159, § 807(7)(B)(ii), substituted “decision of the milestone decision authority” for “certifications or determination of the milestone decision authority” and “decision specified in subsection (b)” for “certifications or determination specified in paragraph (1), (2), or (3) of subsection (a)”.
+
+Subsec. (d)(1)(B). Pub. L. 118–159, § 807(7)(B)(iii), substituted “such decision” for “such certifications or determination”.
+
+Subsec. (d)(2). Pub. L. 118–159, § 807(7)(C), struck out “withdraw the certifications or determination concerned or” after “milestone decision authority may” and substituted “approval is” for “certifications, determination, or approval are”.
+
+Subsec. (e). Pub. L. 118–159, § 807(3), (8), redesignated subsec. (c) as (e) and amended it generally. Prior to amendment, subsec. related to submission to Congress of brief summary reports on Milestone B. Former subsec. (e) struck out.
+
+Pub. L. 118–159, § 807(2), struck out subsec. (e). Text read as follows: “Any budget request, budget justification material, budget display, reprogramming request, Selected Acquisition Report, or other budget documentation or performance report submitted by the Secretary of Defense to the President regarding a major defense acquisition program receiving a waiver pursuant to subsection (d) shall prominently and clearly indicate that such program has not fully satisfied the certification requirements of this section until such time as the milestone decision authority makes the determination that such program has satisfied all such certification requirements.”
+
+Subsec. (f). Pub. L. 118–159, § 807(2), (3), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “The milestone decision authority may not delegate the certification requirement under subsection (a) or the authority to waive any component of such requirement under subsection (d).”
+
+Subsec. (f)(4) to (6). Pub. L. 118–159, § 807(9), added par. (5), redesignated par. (6) as (4), and struck out former pars. (4) and (5) which defined the terms fielding target and major system component, respectively.
+
 2021—Pub. L. 116–283, § 1847(d)(2)(A), renumbered [section 2366b of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2366b) as this section.
 
 Subsec. (a)(2). Pub. L. 116–283, § 1847(d)(2)(B)(i), substituted “section 4272” for “section 2448b”.
@@ -1087,25 +1010,23 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 Pub. L. 114–328, div. A, title VIII, § 807(a)(2), Dec. 23, 2016, 130 Stat. 2261, provided that: “[Former] Subchapter III of chapter 144B of title 10, United States Code [see [10 U.S.C. 4271](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4271), 4272], as added by paragraph (1), shall apply with respect to major defense acquisition programs that reach Milestone A after October 1, 2017.”
 
 #### Program Cost and Field Targets
-Pub. L. 114–328, div. A, title IX, § 925(b), Dec. 23, 2016, 130 Stat. 2361, as amended by Pub. L. 115–232, div. A, title VIII, § 831(b)(4), Aug. 13, 2018, 132 Stat. 1857, provided that: “The Secretary of Defense shall establish a process to develop program cost and fielding targets pursuant to [section 2448a of title 10](./chapter-chapter-144b-chapter-chapter-144b.md#section-2448a), United States Code [now [10 U.S.C. 4271](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4271)], that— “(1) is co-chaired by the designated milestone decision authority for the major defense acquisition program and the Vice Chief of Staff of the armed force concerned or, in the case of a program for which an alternate milestone decision authority is designated under section 2430(d)(2) of such title [now [10 U.S.C. 4204(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4204/b&num=0&edition=prelim)], the Vice Chairman of the Joint Chiefs of Staff; “(2) is supported by—“(A) the Joint Staff, to provide expertise on joint military capabilities, capability gaps, and performance requirements; “(B) the Office of Cost Assessment and Program Evaluation, to provide expertise in resource allocation, operations research, systems analysis, and cost estimation; and “(C) other Department of Defense organizations determined appropriate by the Secretary; and “(3) ensures that appropriate trade-offs are made among life-cycle cost, schedule, and performance objectives and procurement quantity objectives.”
+Pub. L. 114–328, div. A, title IX, § 925(b), Dec. 23, 2016, 130 Stat. 2361, as amended by Pub. L. 115–232, div. A, title VIII, § 831(b)(4), Aug. 13, 2018, 132 Stat. 1857, which required the establishment of a process to develop program cost and fielding targets pursuant to [section 4271 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4271), was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(7), Dec. 18, 2025, 139 Stat. 948.
 
 #### Configuration Steering Boards for Cost Control Under Major Defense Acquisition Programs
-Pub. L. 110–417, [div. A], title VIII, § 814, Oct. 14, 2008, 122 Stat. 4528, as amended by Pub. L. 114–92, div. A, title VIII, § 830, Nov. 25, 2015, 129 Stat. 912; Pub. L. 115–91, div. A, title VIII, § 826, Dec. 12, 2017, 131 Stat. 1467; Pub. L. 116–92, div. A, title IX, § 902(67), Dec. 20, 2019, 133 Stat. 1550, provided that: “(a) Configuration Steering Boards.—Each Secretary of a military department shall establish one or more boards (to be known as a ‘Configuration Steering Board’) for the major defense acquisition programs of such department. “(b) Composition.—“(1) Chair.—Each Configuration Steering Board under this section shall be chaired by the service acquisition executive of the military department concerned. “(2) Particular members.—Each Configuration Steering Board under this section shall include a representative of the following:“(A) The Office of the Under Secretary of Defense for Research and Engineering. “(B) The Office of the Under Secretary of Defense for Acquisition and Sustainment. “(C) The Chief of Staff of the Armed Force concerned. “(D) Other Armed Forces, as appropriate. “(E) The Joint Staff. “(F) The Comptroller of the military department concerned. “(G) The military deputy to the service acquisition executive concerned. “(H) The program executive officer for the major defense acquisition program concerned. “(I) Other senior representatives of the Office of the Secretary of Defense and the military department concerned, as appropriate. “(c) Responsibilities.—“(1) In general.—The Configuration Steering Board for a major defense acquisition program under this section shall be responsible for the following:“(A) Monitoring changes in program requirements and ensuring the Chief of Staff of the Armed Force concerned, in consultation with the Secretary of the military department concerned, approves of any proposed changes that could have an adverse effect on program cost or schedule. “(B) Preventing unnecessary changes to program requirements and system configuration that could have an adverse impact on program cost or schedule. “(C) Mitigating the adverse cost and schedule impact of any changes to program requirements or system configuration that may be required. “(D) Ensuring that the program delivers as much planned capability as possible, at or below the relevant program baseline. “(2) Discharge of responsibilities.—In discharging its responsibilities under this section with respect to a major defense acquisition program, a Configuration Steering Board shall—“(A) review and approve or disapprove any proposed changes to program requirements or system configuration that have the potential to adversely impact program cost or schedule; and “(B) review and recommend proposals to reduce program requirements that have the potential to improve program cost or schedule in a manner consistent with program objectives. “(3) Presentation of recommendations on reduction in requirements.—Any recommendation for a proposed reduction in requirements that is made by a Configuration Steering Board under paragraph (2)(B) shall be presented to appropriate organizations of the Joint Staff and the military departments responsible for such requirements for review and approval in accordance with applicable procedures. “(4) Annual consideration of each major defense acquisition program.—“(A) Annual meeting.—Except as provided in subparagraph (B), the Secretary of the military department concerned shall ensure that a Configuration Steering Board under this section meets to consider each major defense acquisition program of such military department at least once each year. “(B) Exception.—If the service acquisition executive of the military department concerned determines, in writing, that there have been no changes to the program requirements of a major defense acquisition program during the preceding year, the Configuration Steering Board for such major defense acquisition program is not required to meet as described in subparagraph (A). “(5) Certification of cost and schedule deviations during system design and development.—For a major defense acquisition program that received an initial Milestone B approval during fiscal year 2008, a Configuration Steering Board may not approve any proposed alteration to program requirements or system configuration if such an alteration would—“(A) increase the cost (including any increase for expected inflation or currency exchange rates) for system development and demonstration by more than 25 percent; or “(B) extend the schedule for key events by more than 15 percent of the total number of months between the award of the system development and demonstration contract and the scheduled Milestone C approval date, unless the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Acquisition and Sustainment jointly certify to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], and include in the certification supporting rationale, that approving such alteration to program requirements or system configuration is in the best interest of the Department of Defense despite the cost and schedule impacts to system development and demonstration of such program. “(d) Applicability.—“(1) In general.—The requirements of this section shall apply with respect to any major defense acquisition program that is commenced before, on, or after the date of the enactment of this Act [Oct. 14, 2008]. “(2) Current programs.—In the case of any major defense acquisition program that is ongoing as of the date of the enactment of this Act, a Configuration Steering Board under this section shall be established for such program not later than 60 days after the date of the enactment of this Act. “(e) Guidance on Authorities of Program Managers After Milestone B.—“(1) [Amended section 853(d)(2) of Pub. L. 109–364, formerly set out as a note under [section 2430 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2430).] “(2) Applicability.—The Secretary of Defense shall modify the guidance described in section 853(d) of the John Warner National Defense Authorization Act for Fiscal Year 2007 [Pub. L. 109–364, formerly set out as a note under [section 2430 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2430)] in order to take into account the amendment made by paragraph (1) not later than 60 days after the date of the enactment of this Act [Oct. 14, 2008]. “(f) Major Defense Acquisition Program Defined.—In this section, the term ‘major defense acquisition program’ has the meaning given that term in [section 2430(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2430/a&num=0&edition=prelim), United States Code [now [10 U.S.C. 4201](./chapter-321-general-matters.md#section-4201)].”
+Pub. L. 110–417, [div. A], title VIII, § 814, Oct. 14, 2008, 122 Stat. 4528, as amended by Pub. L. 114–92, div. A, title VIII, § 830, Nov. 25, 2015, 129 Stat. 912; Pub. L. 115–91, div. A, title VIII, § 826, Dec. 12, 2017, 131 Stat. 1467; Pub. L. 116–92, div. A, title IX, § 902(67), Dec. 20, 2019, 133 Stat. 1550, which required each Secretary of a military department to establish one or more Configuration Steering Boards for the major defense acquisition programs of such department, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(14)(D), Dec. 18, 2025, 139 Stat. 949.
 
 
 <a id="section-4272"></a>
 ## § 4272. Independent technical risk assessments
-**(a) In General.—** With respect to a major defense acquisition program, the Secretary of Defense shall conduct or approve independent technical risk assessments—
-
-(1) before any decision to grant Milestone A approval for the program pursuant to [section 4251 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4251), that identifies critical technologies and manufacturing processes that need to be matured; and
-
-(2) before any decision to grant Milestone B approval for the program pursuant to [section 4252 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4252), any decision to enter into low-rate initial production or full-rate production, or at any other time considered appropriate by the Secretary, that includes the identification of any critical technologies or manufacturing processes that have not been successfully demonstrated in a relevant environment.
+**(a) In General.—** With respect to a major defense acquisition program, the Secretary of Defense shall conduct or approve independent technical risk assessments before any decision to grant Milestone B approval for the program pursuant to [section 4252 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4252), any decision to enter into low-rate initial production or full-rate production, or at any other time considered appropriate by the Secretary, that includes the identification of any critical technologies or manufacturing processes that have not been successfully demonstrated in a relevant environment.
 
 **(b) Guidance.—** The Secretary shall issue guidance and a framework for the conduct, execution, and approval of independent technical risk assessments.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159 struck out dash after “risk assessments” and par. (2) designation before “before any decision” and struck out par. (1) which read as follows: “before any decision to grant Milestone A approval for the program pursuant to [section 4251 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4251), that identifies critical technologies and manufacturing processes that need to be matured; and”.
+
 2021—Pub. L. 116–283, § 1847(e)(2), renumbered [section 2448b of this title](./chapter-chapter-144b-chapter-chapter-144b.md#section-2448b) as this section.
 
 Subsec. (a)(1). Pub. L. 116–283, § 1847(e)(2)(A), substituted “section 4251” for “section 2366a”.
@@ -1163,7 +1084,7 @@ Section applicable with respect to major defense acquisition programs that reach
 
 (2) The extent to which the level of program cost, schedule, and performance predicted relative to such metrics is likely to result in the timely delivery of a level of capability to the warfighter that is consistent with the level of resources to be expended and provides superior value to alternative approaches that may be available to meet the same military requirement.
 
-**(d) Root Cause Analyses.—** For purposes of this section and sections 4736 11 So in original. Probably should be “4376”. and 4377 of this title, a root cause analysis with respect to a major defense acquisition program is an assessment of the underlying cause or causes of shortcomings in cost, schedule, or performance of the program, including the role, if any, of—
+**(d) Root Cause Analyses.—** For purposes of this section and sections 4376 and 4377 of this title, a root cause analysis with respect to a major defense acquisition program is an assessment of the underlying cause or causes of shortcomings in cost, schedule, or performance of the program, including the role, if any, of—
 
 (1) unrealistic performance expectations;
 
@@ -1189,6 +1110,8 @@ Section applicable with respect to major defense acquisition programs that reach
 Section 103 of Pub. L. 111–23, formerly set out as a note under [section 2430 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2430), which was transferred to chapter 144 of this title, renumbered as section 2438, and amended by Pub. L. 111–383, § 901(d), (k)(1)(F), and subsequently renumbered as this section and amended by Pub. L. 116–283, § 1847(e)(3), was based on Pub. L. 111–23, title I, § 103, May 22, 2009, 123 Stat. 1715.
 
 #### Amendments
+2024—Subsec. (d). Pub. L. 118–159 substituted “4376” for “4736”.
+
 2023—Subsec. (b)(5)(A). Pub. L. 118–31 substituted “sections 4376” for “sections 4736”.
 
 2021—Pub. L. 116–283, § 1847(e)(3), renumbered [section 2438 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2438) as this section.

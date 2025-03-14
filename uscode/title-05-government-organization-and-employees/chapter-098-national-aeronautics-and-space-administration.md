@@ -403,7 +403,7 @@ Subsec. (g)(2). Pub. L. 109–155, § 703(a)(4), substituted a period for a comm
 
 (2) the term “research position” means a position in a professional series that primarily involves scientific inquiry or investigation, or research-type exploratory development of a creative or scientific nature, where the knowledge required to perform the work successfully is acquired typically and primarily through graduate study.
 
-**(b)** The Administration may appoint, without regard to the provisions of section 3304(b) and sections 3309 through 3318, but subject to subsection (c), candidates directly to General Schedule professional, competitive service positions in the Administration for which public notice has been given (in accordance with regulations of the Office of Personnel Management), if—
+**(b)** The Administration may appoint, without regard to the provisions of section 3304(h) and sections 3309 through 3318, but subject to subsection (c), candidates directly to General Schedule professional, competitive service positions in the Administration for which public notice has been given (in accordance with regulations of the Office of Personnel Management), if—
 
 (1) with respect to a position at the GS–7 level, the individual—
 
@@ -437,6 +437,9 @@ Subsec. (g)(2). Pub. L. 109–155, § 703(a)(4), substituted a period for a comm
 
 #### References in Text
 The General Schedule, referred to in subsec. (b), is set out under [section 5332 of this title](./chapter-053-pay-rates-and-systems.md#section-5332).
+
+#### Amendments
+2024—Subsec. (b). Pub. L. 118–188 substituted “3304(h)” for “3304(b)” in introductory provisions.
 
 
 <a id="section-9811"></a>

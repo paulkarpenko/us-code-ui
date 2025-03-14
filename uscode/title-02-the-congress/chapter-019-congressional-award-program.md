@@ -18,6 +18,9 @@ There is established a board to be known as the Congressional Award Board (herei
 
 Pub. L. 106–533, § 1(b)(3)(B), made technical amendment to reference in original act which appears in text as reference to [section 802 of this title](./chapter-019-congressional-award-program.md#section-802).
 
+#### Short Title of 2025 Amendment
+Pub. L. 119–66, § 1, Dec. 26, 2025, 139 Stat. 1992, provided that: “This Act [amending sections 802 and 808 of this title and enacting provisions set out as a note under [section 808 of this title](./chapter-019-congressional-award-program.md#section-808)] may be cited as the ‘Congressional Award Program Reauthorization Act’.”
+
 #### Short Title of 2018 Amendment
 Pub. L. 115–268, § 1, Oct. 11, 2018, 132 Stat. 3762, provided that: “This Act [amending [section 808 of this title](./chapter-019-congressional-award-program.md#section-808) and enacting provisions set out as a note under [section 808 of this title](./chapter-019-congressional-award-program.md#section-808)] may be cited as the ‘Congressional Award Program Reauthorization Act of 2018’.”
 
@@ -47,7 +50,7 @@ Pub. L. 96–114, § 1, Nov. 16, 1979, 93 Stat. 851, provided that: “This Act 
 
 <a id="section-802"></a>
 ## § 802. Program
-**(a) Establishment, functions, and purposes; nature of awards** The Board shall establish and administer a program to be known as the Congressional Award Program, which shall be designed to promote initiative, achievement, and excellence among youths in the areas of public service, personal development, and physical and expedition fitness. Under the program medals shall be awarded to young people within the United States, aged fourteen through twenty-three (subject to such exceptions as the Board may prescribe), who have satisfied the standards of achievement established by the Board under subsection (b) of this section. Each medal shall consist of gold-plate over bronze, rhodium over bronze, or bronze and shall be struck in accordance with subsection (f).
+**(a) Establishment, functions, and purposes; nature of awards** The Board shall establish and administer a program to be known as the Congressional Award Program, which shall be designed to promote initiative, achievement, and excellence among youths in the areas of public service, personal development, and physical and expedition fitness. Under the program medals shall be awarded to young people within the United States, aged fourteen through twenty-three (subject to such exceptions as the Board may prescribe), who have satisfied the standards of achievement established by the Board under subsection (b) of this section.
 
 **(b) Implementation requirements for Board** In carrying out the Congressional Award Program, the Board shall—
 
@@ -70,7 +73,7 @@ No salary established by the Board shall exceed $75,000 per annum, except that f
 
 **(f) Congressional Award Program medals**
 
-(1) **Design and striking** — The Secretary of the Treasury shall strike the medals described in subsection (a) and awarded by the Board under this chapter. Subject to subsection (a), the medals shall be of such quantity, design, and specifications as the Secretary of the Treasury may determine, after consultation with the Board.
+(1) **Design and striking** — The Secretary of the Treasury shall strike the medals described in subsection (a) and awarded by the Board under this chapter. The medals shall be of such quantity, design, and specifications as the Secretary of the Treasury may determine, after consultation with the Board.
 
 (2) **National medals** — The medals struck pursuant to this chapter are National medals for purposes of chapter 51 of title 31.
 
@@ -82,6 +85,10 @@ No salary established by the Board shall exceed $75,000 per annum, except that f
 Subsection (e), which required the Board to submit an annual report to Congress on the activities of the Congressional Award Program, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, page 199 of House Document No. 103–7.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–66, § 3(1), struck out “Each medal shall consist of gold-plate over bronze, rhodium over bronze, or bronze and shall be struck in accordance with subsection (f).” after “subsection (b) of this section.”.
+
+Subsec. (f)(1). Pub. L. 119–66, § 3(2), substituted “The” for “Subject to subsection (a), the” in second sentence.
+
 2010—Subsec. (b). Pub. L. 111–200, § 2(a)(1), struck out “under paragraph (3)” after “established by the Board” in concluding provisions.
 
 Subsec. (c). Pub. L. 111–200, § 2(a)(2), substituted “in connection with” for “during” in second sentence.
@@ -477,11 +484,13 @@ Amendment by Pub. L. 113–188 effective Oct. 1, 2014, see section 902(c)(3) of 
 <a id="section-808"></a>
 ## § 808. Termination
 
-The Board shall terminate October 1, 2023.
+The Board shall terminate October 1, 2028.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Pub. L. 119–66 substituted “October 1, 2028” for “October 1, 2023”.
+
 2018—Pub. L. 115–268 substituted “October 1, 2023” for “October 1, 2018”.
 
 2013—Pub. L. 113–43 substituted “October 1, 2018” for “October 1, 2013”.
@@ -501,6 +510,9 @@ The Board shall terminate October 1, 2023.
 1988—Pub. L. 100–674 amended section generally. Prior to amendment, section read as follows: “The Board shall terminate on November 16, 1988. Upon termination of the Board, the Board shall take such actions as may be required to provide for the dissolution of any corporation established by the Board under [section 806(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section806/g&num=0&edition=prelim). The Board shall set forth, in its bylaws, the procedures for dissolution to be followed by the Board.”
 
 1985—Pub. L. 99–161 substituted “on November 16, 1988” for “six years after November 16, 1979”.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–66, § 2(b), Dec. 26, 2025, 139 Stat. 1992, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if enacted on October 1, 2023.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–268, § 2(b), Oct. 11, 2018, 132 Stat. 3762, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2018.”

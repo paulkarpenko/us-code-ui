@@ -26,7 +26,7 @@ In subsection (a) the words “Regular” and “holding a permanent appointment
 In subsection (b) the accepted meaning of the words “service of the United States” is spelled out for clarity. They have been consistently interpreted to include active service in the armed forces as defined in this title.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6321&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6321 of this title](./chapter-608-administrative-matters.md#section-6321) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -54,7 +54,7 @@ Subsection (b) is added to clarify the word “service”. It has been consisten
 In subsection (c) the words “is entitled to retired pay at the rate of 75 percent of the highest basic pay of the grade in which retired” are substituted for the words “with three-fourths of the highest pay of his grade” for clarity and uniformity of expression.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6322 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6322&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6322 of this title](./chapter-608-administrative-matters.md#section-6322) as this section.
 
 1986—Subsec. (c). Pub. L. 99–348 struck out subsec. (c) which provided that each officer retired under this section be entitled to retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, at the rate of 75 percent of the highest basic pay of the grade in which retired, and in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, at the rate of 75 percent of the monthly retired pay base computed under section 1407(d).
 
@@ -134,7 +134,7 @@ Section 213(b) of the Armed Forces Reserve Act of 1952 (66 Stat. 485), referred 
 #### Amendments
 2021—Subsec. (c). Pub. L. 116–283 substituted “section 1370 or 1370a of this title, as applicable” for “[section 1370 of this title](./chapter-069-retired-grade.md#section-1370)”.
 
-2018—Pub. L. 115–232, § 807(b)(15), renumbered [section 6323 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6323&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232, § 807(b)(15), renumbered [section 6323 of this title](./chapter-608-administrative-matters.md#section-6323) as this section.
 
 Subsec. (e). Pub. L. 115–232, § 809(a), substituted “section 8333” for “section 6333”.
 
@@ -209,7 +209,7 @@ For the purpose of this chapter, service as a nurse in the armed forces before A
 The words “or the reserve components thereof” are omitted because “Army”, “Navy”, and “Air Force”, as defined in this title, include the reserve components.
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6324 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6324&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6324 of this title](./chapter-608-administrative-matters.md#section-6324) as this section.
 
 1967—Pub. L. 90–130 substituted provision reciting simply that service as a nurse in the armed forces before April 16, 1947, is considered as commissioned service for purposes of this chapter for provisions making specific reference to service under an appointment or contract or as a commissioned officer in the Nurse Corps of the Army or the Navy or as a commissioned officer of the Air Force designated as an Air Force Nurse.
 
@@ -277,7 +277,7 @@ The reference to section 6323 is deleted, since it is no longer appropriate to i
 [Section 5721 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5721&num=0&edition=prelim), referred to in subsec. (b), was repealed by Pub. L. 115–232, div. A, title V, § 503(b)(1), Aug. 13, 2018, 132 Stat. 1742.
 
 #### Amendments
-2018—Pub. L. 115–232, § 807(b)(15), renumbered [section 6325 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6325&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232, § 807(b)(15), renumbered [section 6325 of this title](./chapter-608-administrative-matters.md#section-6325) as this section.
 
 Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8321 or 8322” for “section 6321 or 6322” in introductory provisions.
 
@@ -368,7 +368,7 @@ In subsection (c) the word “grade” is substituted for the words “rating or
 Subsection (d) is substituted for [34 U.S.C. 350i(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section350i/e&num=0&edition=prelim) as that section pertains to voluntary retirement of enlisted members with 30 years of active service.
 
 #### Amendments
-2018—Pub. L. 115–232, § 807(b)(15), renumbered [section 6326 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6326&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232, § 807(b)(15), renumbered [section 6326 of this title](./chapter-608-administrative-matters.md#section-6326) as this section.
 
 Subsec. (c)(2). Pub. L. 115–232, § 809(a), substituted “section 8333” for “section 6333”.
 
@@ -430,7 +430,7 @@ Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 8
 In subsection (a) the word “Federal” is omitted and the words “in the armed forces, other than active duty for training” are inserted. The words “active Federal service” are not defined in [50 U.S.C. 1052](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1052&num=0&edition=prelim). Section 310 of the Naval Reserve Act of 1938, which [50 U.S.C. 1052](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1052&num=0&edition=prelim) replaced, specifies active service in the “Army, Navy, Marine Corps, Coast Guard, Naval Auxiliary Service, Naval Reserve Force, Naval Militia in Federal status, National Naval Volunteers, Naval Reserve, Marine Corps Reserve Force, and Marine Corps Reserve.” [50 U.S.C. 1052](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1052&num=0&edition=prelim) was intended to preserve the rights of persons who, on January 1, 1953, were members of reserve components, so that they would not be prejudiced by the repeal of § 310 of the Naval Reserve Act of 1938 (U.S. Code Congressional and Administrative News, 1952, p. 3584). To effect that purpose, the service that was creditable under the 1938 Act must be creditable under [50 U.S.C. 1052](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1052&num=0&edition=prelim). The words “active service in the armed forces, other than active duty for training” cover all creditable service. The Judge Advocate General of the Navy, in an opinion dated August 27, 1954 (JAG II:2:WGA:CA:mk), held that active duty for training was not creditable under the 1938 Act and is, therefore, not creditable under the 1952 Act.
 
 #### Amendments
-2018—Pub. L. 115–232, § 807(b)(15), renumbered [section 6327 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6327&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232, § 807(b)(15), renumbered [section 6327 of this title](./chapter-608-administrative-matters.md#section-6327) as this section.
 
 Subsec. (e). Pub. L. 115–232, § 809(a), substituted “section 8330” for “section 6330”.
 
@@ -460,7 +460,7 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6328 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6328&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6328 of this title](./chapter-608-administrative-matters.md#section-6328) as this section.
 
 2014—Subsec. (c). Pub. L. 113–291 substituted “on or after October 28, 2009,” for “on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010”.
 
@@ -635,7 +635,7 @@ Subsection (b) is worded so as to cover all members of the Fleet Reserve and the
 In subsection (c) references to the “allowances to which enlisted men of the Navy are entitled on retirement after thirty years’ service”, in the second and fourth provisos of [34 U.S.C. 854e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section854e&num=0&edition=prelim), are omitted because of the repeal, by § 19 of the Pay Readjustment Act of 1942, 56 Stat. 369, of the laws authorizing such allowances.
 
 #### Amendments
-2018—Pub. L. 115–232, § 807(b)(15), renumbered [section 6331 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6331&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232, § 807(b)(15), renumbered [section 6331 of this title](./chapter-608-administrative-matters.md#section-6331) as this section.
 
 Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8385” for “section 6485” in introductory provisions.
 
@@ -676,7 +676,7 @@ the transfer is conclusive for all purposes. Each member so transferred is entit
 The words “when not on active duty, to retainer pay or retired pay” are substituted for the words “pay and allowances”. The pay and allowances of a member on active duty are covered by the Career Compensation Act of 1949 ([37 U.S.C. 231](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section231&num=0&edition=prelim) et seq.). When not on active duty a member of the Fleet Reserve receives retainer pay and a retired member receives retired pay without allowances, the provision for allowances for retired members having been repealed as pointed out in the note on the preceding section. In the last sentence the words “from the date of transfer” are added to make it clear that a correction is retroactive to that date. The Court of Claims has so held (Dugan v. United States (1943), 100 Ct. Cl. 7).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6332 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6332&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6332 of this title](./chapter-608-administrative-matters.md#section-6332) as this section.
 
 1958—Pub. L. 85–861 substituted “to retainer pay or retired pay in accordance” for “to retain pay or retired pay in accordance”.
 
@@ -704,7 +704,7 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232, § 807(b)(15), renumbered [section 6333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6333&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232, § 807(b)(15), renumbered [section 6333 of this title](./chapter-608-administrative-matters.md#section-6333) as this section.
 
 Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8470 or 8372” for “section 6970 or 6383” in introductory provisions and, under “For sections” column in table, substituted “8325(a)” for “6325(a)” and “8326” for “6326” in Formula A, “8323” for “6323”, “8325(b)” for “6325(b)”, “8470” for “6970”, and “8372” for “6383” in Formula B, and “8330” for “6330” in Formula C.
 
@@ -752,7 +752,7 @@ Section effective Oct. 1, 1983, see section 922(e) of Pub. L. 98–94, set out a
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6334 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6334&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6334 of this title](./chapter-608-administrative-matters.md#section-6334) as this section.
 
 1989—Subsec. (a). Pub. L. 101–189 substituted “December 4, 1987” for “the date of the enactment of this section”.
 
@@ -768,7 +768,7 @@ Each retired warrant officer or enlisted member of the naval service who has bee
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6335 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6335&num=0&edition=prelim) as this section and substituted “section 8334” for “section 6334”.
+2018—Pub. L. 115–232 renumbered [section 6335 of this title](./chapter-608-administrative-matters.md#section-6335) as this section and substituted “section 8334” for “section 6334”.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -826,7 +826,7 @@ Section 8368, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1525
 A prior section 8370, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1526; Pub. L. 86–559, § 1(56), June 30, 1960, 74 Stat. 276, placed restrictions on promotion consideration of Air Force nurses, medical specialists, and female officers being considered for promotion to the Reserve grades of lieutenant colonel and colonel, prior to repeal by Pub. L. 90–130, § 1(28)(C), Nov. 8, 1967, 81 Stat. 382.
 
 #### Amendments
-2018—Pub. L. 115–232, § 807(b)(15), renumbered [section 6336 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6336&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232, § 807(b)(15), renumbered [section 6336 of this title](./chapter-608-administrative-matters.md#section-6336) as this section.
 
 Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8330” for “section 6330”.
 

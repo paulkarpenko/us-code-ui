@@ -2,7 +2,7 @@
 title: 10
 chapter: '87'
 heading: DEFENSE ACQUISITION WORKFORCE
-section_count: 38
+section_count: 39
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -24,7 +24,7 @@ Pub. L. 101–510, div. A, title XII, § 1201, Nov. 5, 1990, 104 Stat. 1638, pro
 Pub. L. 101–510, div. A, title XII, § 1210(a), Nov. 5, 1990, 104 Stat. 1667, provided that: “Unless otherwise provided in this title [see Short Title note above] and in subsection (b) [set out below], the Secretary of Defense shall promulgate regulations to implement this title and the amendments made by this title not later than one year after the date of the enactment of this Act [Nov. 5, 1990].”
 
 #### Principal Technology Transition Advisor
-Pub. L. 118–31, div. A, title VIII, § 806, Dec. 22, 2023, 137 Stat. 317, provided that: “(a) Designation.—Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], each service acquisition executive of a military department shall designate a Principal Technology Transition Advisor who shall advise each Secretary of a military department on the transition of technologies, including technologies from science and technology programs of the Department, private commercial entities, research institutions, and universities, to fulfill identified and potential warfighter requirements for the military department. “(b) Advisor Status.—The Principal Technology Transition Advisor of a military department designated under subsection (a) shall be a member of the Senior Executive Service or a general officer and directly report to the service acquisition executive of such military department. “(c) Responsibilities.—The Principal Technology Transition Advisor of a military department designated under subsection (a) shall do the following:“(1) Identify technologies being researched, developed, tested, or evaluated by science and technology programs of the Department, including Defense research facilities (as defined in [section 4125(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4125/b&num=0&edition=prelim), United States Code), that the military department may use to meet identified and potential warfighter requirements, including technologies for which the Department owns and maintains the intellectual property rights. “(2) Consult with Department of Defense innovation programs to identify technologies from private commercial entities, research institutions, universities, and other entities that the military department may use to meet identified and potential warfighter requirements. “(3) Make recommendations to the service acquisition executive of the military department regarding the acquisition of technologies identified under paragraphs (1) and (2) for acquisition decisions at the service acquisition executive level. “(4) Inform program managers (as defined in [section 1737 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1737), United States Code) and other relevant acquisition officials of the military department of relevant technologies identified under paragraphs (1) and (2). “(5) Develop policies and processes for promoting to small business concerns (as defined under section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim))) and nontraditional defense contractors (as defined in [section 3014 of title 10](./chapter-201-definitions.md#section-3014), United States Code) opportunities to license intellectual property developed by the Department, including opportunities and methods for small business concerns and nontraditional defense contractors to engage with the Department regarding such licensing. “(6) Develop and maintain metrics tracking the outcomes of projects and other activities of the military department for which the military department expended amounts designated as budget activity 3 (Advanced Technology Development), budget activity 4 (Advanced Component Development and Prototypes), and budget activity 5 (System Development and Demonstration), as those budget activity classifications are set forth in volume 2B, chapter 5 of the Department of Defense Financial Management Regulation (DOD 7000.14-R). “(d) Congressional Report.—Not later than one year after the designation of the Principal Technology Transition Advisor of a military department under subsection (a), and annually thereafter, the Principal Technology Transition Advisor of such military department shall submit to Congress a report on the following for the one-year period preceding the submission of the report:“(1) The activities of the Principal Technology Transition Advisor. “(2) The outcomes of projects and other activities described in subsection (c)(6), including the metrics described in such subsection. “(e) Definitions.—In this section—“(1) the term ‘Department’ means the Department of Defense; “(2) the term ‘Department of Defense innovation programs’ means the Defense Innovation Unit of the Department of Defense, AFWERX of the Air Force, and other programs sponsored by the Department of Defense, or any component thereof, with a focus on accelerating the adoption of emerging technologies for mission-relevant applications or innovation; and “(3) the terms ‘military department’ and ‘service acquisition executive’ have the meanings given such terms in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim), United States Code.”
+Pub. L. 118–31, div. A, title VIII, § 806, Dec. 22, 2023, 137 Stat. 317, as amended by Pub. L. 118–159, div. A, title VIII, § 838, Dec. 23, 2024, 138 Stat. 1988, provided that: “(a) Designation.—Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], each service acquisition executive of a military department shall designate a Principal Technology Transition Advisor who shall advise each Secretary of a military department on the transition of technologies, including technologies from science and technology programs of the Department, private commercial entities, research institutions, and universities, to fulfill identified and potential warfighter requirements for the military department. “(b) Advisor Status.—The Principal Technology Transition Advisor of a military department designated under subsection (a) shall be a member of the Senior Executive Service or a general officer and directly report to the service acquisition executive of such military department. “(c) Responsibilities.—The Principal Technology Transition Advisor of a military department designated under subsection (a) shall do the following:“(1) Identify technologies being researched, developed, tested, or evaluated by science and technology programs of the Department, including Defense research facilities (as defined in [section 4125(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4125/b&num=0&edition=prelim), United States Code), that the military department may use to meet identified and potential warfighter requirements, including technologies for which the Department owns and maintains the intellectual property rights. “(2) Consult with Department of Defense innovation programs to identify technologies from private commercial entities, research institutions, universities, and other entities that the military department may use to meet identified and potential warfighter requirements. “(3) Make recommendations to the service acquisition executive of the military department regarding the acquisition of technologies identified under paragraphs (1) and (2) for acquisition decisions at the service acquisition executive level. “(4) Inform program managers (as defined in [section 1737 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1737), United States Code) and other relevant acquisition officials of the military department of relevant technologies identified under paragraphs (1) and (2). “(5) Develop policies and processes for promoting to small business concerns (as defined under section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim))) and nontraditional defense contractors (as defined in [section 3014 of title 10](./chapter-201-definitions.md#section-3014), United States Code) opportunities to license intellectual property developed by the Department, including opportunities and methods for small business concerns and nontraditional defense contractors to engage with the Department regarding such licensing. “(6) Develop and maintain metrics tracking the outcomes of projects and other activities of the military department for which the military department expended amounts designated as budget activity 3 (Advanced Technology Development), budget activity 4 (Advanced Component Development and Prototypes), and budget activity 5 (System Development and Demonstration), as those budget activity classifications are set forth in volume 2B, chapter 5 of the Department of Defense Financial Management Regulation (DOD 7000.14-R). “(d) DARPA Detailees Authorized.—“(1) Authority.—The Director of the Defense Advanced Research Projects Agency, upon a request from the Principal Technology Transition Advisor of a military department, may detail personnel of the Agency to such military department for a period not to exceed one year to provide technology transition support for technology of the Agency that is to be acquired by such military department. “(2) Extension.—The Under Secretary of Defense for Research and Engineering may extend a detail under paragraph (1) for a period of not more than 6 additional months. “(e) Congressional Report.—Not later than one year after the designation of the Principal Technology Transition Advisor of a military department under subsection (a), and annually thereafter, the Principal Technology Transition Advisor of such military department shall submit to Congress a report on the following for the one-year period preceding the submission of the report:“(1) The activities of the Principal Technology Transition Advisor. “(2) The outcomes of projects and other activities described in subsection (c)(6), including the metrics described in such subsection. “(f) Definitions.—In this section—“(1) the term ‘Department’ means the Department of Defense; “(2) the term ‘Department of Defense innovation programs’ means the Defense Innovation Unit of the Department of Defense, AFWERX of the Air Force, and other programs sponsored by the Department of Defense, or any component thereof, with a focus on accelerating the adoption of emerging technologies for mission-relevant applications or innovation; and “(3) the terms ‘military department’ and ‘service acquisition executive’ have the meanings given such terms in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim), United States Code.”
 
 #### Acquisition Workforce Incentives Relating to Training on, and Agreements With, Certain Start-Up Businesses
 Pub. L. 117–263, div. A, title VIII, § 834, Dec. 23, 2022, 136 Stat. 2713, provided that: “(a) Training.—“(1) Curricula.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Director of the Acquisition Innovation Research Center shall make recommendations on one or more curricula for members of the acquisition workforce on financing and operations of start-up businesses, which may include the development of new curricula, the modification of existing curricula, or the adoption of curricula from another agency, academia, or the private sector. “(2) Elements.—Courses under curricula recommended under paragraph (1) shall be offered with varying course lengths and level of study. “(3) Incentives.—The Secretary of Defense shall develop a program to offer incentives to a member of the acquisition workforce that completes a curriculum developed, modified, or adopted under paragraph (1). “(4) Additional training materials.—In recommending curricula under paragraph (1), the Director of the Acquisition Innovation Research Center shall consider and incorporate appropriate training materials from university, college, trade-school, or private-sector curricula in business, law, or public policy. “(b) Exchanges.—“(1) In general.—The Secretary of Defense shall establish a pilot program under which the Secretary shall, in accordance with [section 1599g of title 10](./chapter-081-civilian-employees.md#section-1599g), United States Code, arrange for the temporary assignment of—“(A) one or more members of the acquisition workforce to a start-up business; or “(B) an employee of a start-up business to an office of the Department of Defense. “(2) Priority.—The Secretary shall prioritize for participation in the pilot program described under paragraph (1)(A) members of the acquisition workforce who have completed a curriculum required under paragraph (1) [probably means par. (1) of subsec. (a)]. “(3) Termination.—The Secretary may not carry out the pilot program authorized by this subsection after the date that is three years after the date of the enactment of this Act. “(c) Conferences.—The Secretary of Defense shall identify existing conferences sponsored by the Department of Defense that might be expanded to include opportunities for sharing knowledge and best practices on software acquisition issues. Such opportunities shall maximize participation between members of the acquisition workforce, employees of start-up businesses, and investors in start-up businesses. “(d) Pilot Program.—“(1) Establishment.—Not later than 18 months after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall establish a pilot program to test the feasibility of innovative approaches to negotiating and establishing intellectual property and data rights in agreements with start-up businesses for the procurement of software and software-embedded systems. “(2) Authority.—To the maximum extent practicable, the Secretary shall—“(A) ensure that a member of the acquisition workforce who has completed a curriculum required under subsection (a) is able to exercise authority to apply an approach described in paragraph (1); and “(B) provide incentives to such member to exercise such authority. “(3) Elements.—An approach described in paragraph (1) shall include the following:“(A) Flexible and tailored requirements relating to the acquisition and licensing of intellectual property and data rights in the software and software-embedded systems to be acquired under the agreement. “(B) An identification and definition of the technical interoperability standards required for such software and software-embedded systems. “(C) Flexible mechanisms for access and delivery of code for such software, including documentation of the costs and benefits of each such mechanism. “(4) Termination.—The Secretary may not carry out the pilot program authorized by this subsection after the date that is 5 years after the date of the enactment of this Act. “(e) Definitions.—In this section:“(1) The term ‘Acquisition Innovation Research Center’ means the acquisition research organization within a civilian college or university that is described under [section 4142(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4142/a&num=0&edition=prelim), United States Code. “(2) The term ‘acquisition workforce’ has the meaning given in [section 101 of title 10](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101), United States Code. “(3) The term ‘start-up business’ means a small business that has been in existence for 5 years or less.”
@@ -63,7 +63,7 @@ Pub. L. 104–106, div. D, title XLIII, § 4308, Feb. 10, 1996, 110 Stat. 669, a
 Pub. L. 101–510, div. A, title XII, § 1208, Nov. 5, 1990, 104 Stat. 1665, as amended by Pub. L. 102–25, title VII, § 704(b)(2), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–484, div. A, title VIII, § 812(g), Oct. 23, 1992, 106 Stat. 2452; Pub. L. 104–106, div. A, title XV, § 1502(c)(4)(A), Feb. 10, 1996, 110 Stat. 507, provided for evaluation by Comptroller General of actions taken by Secretary of Defense to carry out requirements of Defense Acquisition Workforce Improvement Act and submission of annual reports to Congress, prior to repeal by Pub. L. 104–66, title I, § 1031(b)(1), Dec. 21, 1995, 109 Stat. 714.
 
 #### Deadlines for Qualification Requirements
-Pub. L. 101–510, div. A, title XII, § 1210(b), Nov. 5, 1990, 104 Stat. 1667, provided that: “Not later than October 1, 1992, the Secretary of Defense shall prescribe regulations to implement sections 1723, 1724, and 1732 of title 10, United States Code (as added by section 1202).”
+Pub. L. 101–510, div. A, title XII, § 1210(b), Nov. 5, 1990, 104 Stat. 1667, provided that: “Not later than October 1, 1992, the Secretary of Defense shall prescribe regulations to implement sections 1723, 1724, and [former] 1732 of title 10, United States Code (as added by section 1202).”
 
 
 <a id="section-1701a"></a>
@@ -451,9 +451,9 @@ Pub. L. 112–239, div. A, title VIII, § 803(c), Jan. 2, 2013, 126 Stat. 1825, 
 ## § 1706. Government performance of certain acquisition functions
 **(a) Goal.—** It shall be the goal of the Department of Defense and each of the military departments to ensure that, for each major defense acquisition program (as defined in [section 4201 of this title](./chapter-321-general-matters.md#section-4201)), each acquisition program that is estimated by the Secretary of Defense to require an eventual total expenditure greater than the amount described in [section 4201(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4201/a/2&num=0&edition=prelim), and any other acquisition program identified by the Secretary, each of the following positions is performed by a properly qualified member of the armed forces or full-time employee of the Department of Defense:
 
-(1) Program executive officer.
+(1) Portfolio acquisition executive.
 
-(2) Deputy program executive officer.
+(2) Deputy portfolio acquisition executive.
 
 (3) Program manager.
 
@@ -487,6 +487,10 @@ Pub. L. 112–239, div. A, title VIII, § 803(c), Jan. 2, 2013, 126 Stat. 1825, 
 A prior section 1706, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1639, which related to acquisition career program boards, was repealed by Pub. L. 108–136, div. A, title VIII, § 831(a), Nov. 24, 2003, 117 Stat. 1549.
 
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–60, § 1802(b)(1)(B), substituted “Portfolio acquisition executive” for “Program executive officer”.
+
+Subsec. (a)(2). Pub. L. 119–60, § 1802(b)(1)(A), substituted “portfolio acquisition executive” for “program executive officer”.
+
 2021—Subsec. (a). Pub. L. 116–283, § 1846(j), as added by Pub. L. 117–81, § 1701(b)(15)(C), substituted “section 4201(a)(2)” for “section 2430(a)(1)(B)” in introductory provisions.
 
 Pub. L. 116–283, § 1846(i)(3), as amended by Pub. L. 117–81, § 1701(b)(15)(B), substituted “section 4201” for “section 2430” in introductory provisions.
@@ -516,7 +520,7 @@ Provisions similar to this section were contained in section 820 of Pub. L. 109�
 
 (2) shall determine the appropriate official to whom members of the cadre shall report.
 
-**(c) Duties.—** The cadre of experts shall be assigned to a program office or an acquisition command within a military department to advise, assist, and provide resources to a program manager or program executive officer on intellectual property matters at various stages of the life cycle of a system. In performing such duties, the experts shall—
+**(c) Duties.—** The cadre of experts shall be assigned to a program office or an acquisition command within a military department to advise, assist, and provide resources to a program manager or portfolio acquisition executive on intellectual property matters at various stages of the life cycle of a system. In performing such duties, the experts shall—
 
 (1) interpret and provide counsel on laws, regulations, and policies relating to intellectual property;
 
@@ -553,6 +557,8 @@ A prior section 1707, added Pub. L. 101–510, div. A, title XII, § 1202(a), No
 The text of subsec. (b) of section 2322 of title, which was transferred to this section and amended by Pub. L. 116–283, § 1877(b)–(e), was based on Pub. L. 115–91, div. A, title VIII, § 802(a)(1), Dec. 12, 2017, 131 Stat. 1450.
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 119–60 substituted “portfolio acquisition executive” for “program executive officer” in introductory provisions.
+
 2021—Subsec. (a). Pub. L. 116–283, § 1877(b)(1), redesignated subsec. (b)(1) of [section 2322 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2322&num=0&edition=prelim) as subsec. (a) of this section and inserted heading.
 
 Subsec. (b). Pub. L. 116–283, § 1877(b)(3), (c), redesignated subsec. (b)(2) of [section 2322 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2322&num=0&edition=prelim) as subsec. (b) of this section, inserted heading, inserted dash after “Secretary”, and reorganized remainder of text into designated pars. (1) and (2).
@@ -765,6 +771,9 @@ Subsec. (c). Pub. L. 116–92, § 861(g)(1), added subsec. (c).
 
 Subsec. (c)(4). Pub. L. 112–239, § 1076(d)(1)(B), substituted “or 1734(d)” for “1734(d), or 1736(c)”.
 
+#### Restructuring of Performance Evaluation Metrics for the Acquisition Workforce
+Pub. L. 119–60, div. A, title VIII, § 826, Dec. 18, 2025, 139 Stat. 958, provided that: “(a) Establishment of Acquisition Workforce Key Performance Objectives.—Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall implement mandatory key performance objectives (in this section referred to as ‘KPOs’) for evaluating the performance of civilian members of the acquisition workforce. “(b) KPO Requirements.—The KPOs implemented under subsection (a) shall—“(1) include strategic outcome objectives and workforce behavioral objectives for the workforce; and “(2) be developed in a manner that enables an assessment of the degree of alignment between—“(A) the objectives of the defense acquisition system established by [section 3102 of title 10](./chapter-205-defense-acquisition-system.md#section-3102), United States Code; and “(B) the prudent and appropriate use by a member of the acquisition workforce of innovative, risk-tolerant practices in achieving those objectives. “(c) Strategic Outcome Objectives.—The strategic outcome objectives for the acquisition workforce required by subsection (b)(1) shall align with the objectives of the defense acquisition system established pursuant to [section 3102 of title 10](./chapter-205-defense-acquisition-system.md#section-3102), United States Code, and shall address strategic acquisition mission areas including—“(1) the expeditious delivery of capabilities to enhance the operational readiness of the Armed Forces and enable the missions of the Department of Defense; “(2) enabling and supporting the integration of innovative solutions to enhance military effectiveness and responsiveness to emerging threat; “(3) ensuring supply-chain and industrial-base resilience and surge capabilities to support the contingency and operational plans of the Department of Defense; “(4) cultivation of a leadership and organizational culture in the defense acquisition system that encourages responsible risk-taking, collaboration, and learning through failure; and “(5) workforce currency and continuous education, including digital and artificial intelligence literacy and technical proficiency necessary for an individual’s job function. “(d) Workforce Behavioral Objectives.—The workforce behavioral objectives required by subsection (b)(1) shall be designed to develop the critical skills and behaviors of members of the acquisition workforce, including—“(1) the adoption of innovative acquisition authorities and approaches; “(2) a preference for commercial products and services and supporting market research of commercial or emerging technologies; “(3) engagement with end users to incorporate feedback into acquisition decisions and program adjustments; “(4) the ability to use iterative development cycles and inform program tradeoffs, including discontinuing or terminating the development of capabilities—“(A) that no longer align with approved capability requirements or priorities; or “(B) are experiencing significant cost growth, performance or technical deficiencies, or delays in schedule; “(5) a pursuit of professional development to broaden expertise and assume expanded responsibilities in cross-functional initiatives; and “(6) the ability to overcome obstacles to prioritize end-user outcomes in acquisition execution. “(e) Integration With Personnel Systems and Promotion Boards.—The KPOs implemented under subsection (a) shall be integrated into—“(1) annual performance appraisals for members of the acquisition workforce; “(2) promotion, bonus, and assignment considerations for acquisition workforce positions; and “(3) requirements for certification, training, and continuing education under chapter 87 of title 10, United States Code. “(f) Accelerating Workforce Development and Experience.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment and the President of the Defense Acquisition University, shall identify and initiate the use of experiential learning platforms, including training simulators or gaming approaches, to accelerate the development of the acquisition workforce on the full range of acquisition situations and the relevant authorities allowed by law. “(g) Acquisition Workforce Defined.—In this section, the term ‘acquisition workforce’ has the meaning given such term in [section 101 of title 10](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101), United States Code.”
+
 #### Plan for Implementation of Key Work Experiences
 Pub. L. 116–92, div. A, title VIII, § 861(g)(2), Dec. 20, 2019, 133 Stat. 1518, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan identifying the specific actions the Secretary has taken, and is planning to take, to develop and establish key work experiences for each acquisition workforce career field as required by subsection (c) of [section 1722b of title 10](./chapter-087-defense-acquisition-workforce.md#section-1722b), United States Code (as added by paragraph (1)). The plan shall specify the percentage of the acquisition workforce, or funds available for administration of the acquisition workforce on an annual basis, that the Secretary will dedicate towards developing and establishing such key work experiences.”
 
@@ -812,7 +821,7 @@ Subsecs. (b), (c). Pub. L. 111–383, § 873(b), added subsec. (b) and redesigna
 1996—Subsec. (a). Pub. L. 104–201 struck out “Unless otherwise provided in this chapter, such requirements shall take effect not later than October 1, 1993.” after first sentence.
 
 #### Information Technology Acquisition Workforce
-Pub. L. 111–383, div. A, title VIII, § 875, Jan. 7, 2011, 124 Stat. 4305, provided that: “(a) Plan Required.—The Secretary of Defense shall develop and carry out a plan to strengthen the part of the acquisition workforce that specializes in information technology. The plan shall include the following:“(1) Defined targets for billets devoted to information technology acquisition. “(2) Specific certification requirements for individuals in the acquisition workforce who specialize in information technology acquisition. “(3) Defined career paths for individuals in the acquisition workforce who specialize in information technology acquisitions. “(b) Definitions.—In this section:“(1) The term ‘information technology’ has the meaning provided such term in [section 11101 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11101&num=0&edition=prelim), United States Code, and includes information technology incorporated into a major weapon system. “(2) The term ‘major weapon system’ has the meaning provided such term in [section 2379(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2379/f&num=0&edition=prelim), United States Code [now [10 U.S.C. 3455(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3455/f&num=0&edition=prelim)]. “(c) Deadline.—The Secretary of Defense shall develop the plan required under this section not later than 270 days after the date of the enactment of this Act [Jan. 7, 2011].”
+Pub. L. 111–383, div. A, title VIII, § 875, Jan. 7, 2011, 124 Stat. 4305, as amended by Pub. L. 119–60, div. A, title VIII, § 811(c)(3)(B), Dec. 18, 2025, 139 Stat. 950, provided that: “(a) Plan Required.—The Secretary of Defense shall develop and carry out a plan to strengthen the part of the acquisition workforce that specializes in information technology. The plan shall include the following:“(1) Defined targets for billets devoted to information technology acquisition. “(2) Specific certification requirements for individuals in the acquisition workforce who specialize in information technology acquisition. “(3) Defined career paths for individuals in the acquisition workforce who specialize in information technology acquisitions. “(b) Definitions.—In this section:“(1) The term ‘information technology’ has the meaning provided such term in [section 11101 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11101&num=0&edition=prelim), United States Code, and includes information technology incorporated into a major weapon system. “(2) The term ‘major weapon system’ has the meaning provided such term in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim), United States Code. “(c) Deadline.—The Secretary of Defense shall develop the plan required under this section not later than 270 days after the date of the enactment of this Act [Jan. 7, 2011].”
 
 #### Guidance and Standards for Defense Acquisition Workforce Training Requirements
 Pub. L. 105–85, div. A, title VIII, § 853, Nov. 18, 1997, 111 Stat. 1851, which related to guidance and standards for defense acquisition workforce training requirements, was repealed and restated as [section 1748 of this title](./chapter-087-defense-acquisition-workforce.md#section-1748) by Pub. L. 111–383, div. A, title VIII, § 874(b)(1), (4), Jan. 7, 2011, 124 Stat. 4304, 4305.
@@ -947,7 +956,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 For provisions relating to development of fulfillment standards for purposes of the training requirements of this section, see section 812(c) of Pub. L. 102–484, set out as a note under [section 1723 of this title](./chapter-087-defense-acquisition-workforce.md#section-1723).
 
 #### Credit for Experience in Certain Positions
-Pub. L. 101–510, div. A, title XII, § 1209(i), Nov. 5, 1990, 104 Stat. 1667, as amended by Pub. L. 102–25, title VII, § 704(b)(3)(D), Apr. 6, 1991, 105 Stat. 119, provided that: “For purposes of meeting any requirement under chapter 87 of title 10, United States Code (as added by section 1202), for a period of experience (such as requirements for experience in acquisition positions or in critical acquisition positions) and for purposes of coverage under the exceptions established by section 1724(c)(1) and section 1732(c)(1) of such title, any period of time spent serving in a position later designated as an acquisition position or a critical acquisition position under such chapter may be counted as experience in such a position for such purposes.”
+Pub. L. 101–510, div. A, title XII, § 1209(i), Nov. 5, 1990, 104 Stat. 1667, as amended by Pub. L. 102–25, title VII, § 704(b)(3)(D), Apr. 6, 1991, 105 Stat. 119, provided that: “For purposes of meeting any requirement under chapter 87 of title 10, United States Code (as added by section 1202), for a period of experience (such as requirements for experience in acquisition positions or in critical acquisition positions) and for purposes of coverage under the exceptions established by section 1724(c)(1) and [former] section 1732(c)(1) of such title, any period of time spent serving in a position later designated as an acquisition position or a critical acquisition position under such chapter may be counted as experience in such a position for such purposes.”
 
 
 <a id="section-1725"></a>
@@ -1023,11 +1032,13 @@ Subsec. (e)(2). Pub. L. 116–92, § 902(19), substituted “Under Secretary of 
 
   (B) Other selected acquisition positions not covered by subparagraph (A), including the following:
 
-    (i) Program executive officer.
+    (i) Portfolio acquisition executive.
 
     (ii) Program manager of a major defense acquisition program (as defined in [section 4201 of this title](./chapter-321-general-matters.md#section-4201)) or of a significant nonmajor defense acquisition program (as defined in [section 1737(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1737/a/3&num=0&edition=prelim)).
 
     (iii) Deputy program manager of a major defense acquisition program.
+
+    (iv) Product support manager.
 
   (C) Any other acquisition position of significant responsibility in which the primary duties are supervisory or management duties.
 
@@ -1052,6 +1063,10 @@ The text of [section 1732(e) of this title](https://uscode.house.gov/view.xhtml?
 A prior section 1731, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1644; amended Pub. L. 108–136, div. A, title VIII, §§ 832(b)(1), 833(1), Nov. 24, 2003, 117 Stat. 1550; Pub. L. 116–92, div. A, title VIII, § 861(j)(3), Dec. 20, 2019, 133 Stat. 1519, related to establishment of the Acquisition Corps, prior to repeal by Pub. L. 116–92, div. A, title VIII, § 861(j)(5), Dec. 20, 2019, 133 Stat. 1519.
 
 #### Amendments
+2025—Subsec. (a)(1)(B)(i). Pub. L. 119–60, § 1802(b)(1)(B), substituted “Portfolio acquisition executive” for “Program executive officer”.
+
+Subsec. (a)(1)(B)(iv). Pub. L. 119–60, § 1803(a)(3), added cl. (iv).
+
 2021—Subsec. (a)(1)(A)(ii). Pub. L. 116–283, § 924(b)(3)(AA), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
 Subsec. (a)(1)(B)(ii). Pub. L. 116–283, § 1846(i)(4), which directed amendment of subsec. (b)(1)(B)(ii) of this section by substituting “section 4201” for “section 2430”, was executed to subsec. (a)(1)(B)(ii) of this section, to reflect the probable intent of Congress.
@@ -1094,15 +1109,125 @@ Pub. L. 114–92, div. A, title VIII, § 827, Nov. 25, 2015, 129 Stat. 909, as a
 
 
 <a id="section-1732"></a>
-## § 1732. Repealed. Pub. L. 116–92, div. A, title VIII, § 861(j)(5), Dec. 20, 2019, 133 Stat. 1519]
+## § 1732. Portfolio acquisition executive
+**(a) In General.—** A portfolio acquisition executive is the senior acquisition official designated by the component acquisition executive or the service acquisition executive of the military department concerned, as applicable, to lead a portfolio of capabilities, with authority for plans, budgets, and execution of programs assigned to the portfolio, including life-cycle management.
+
+**(b) Reporting Relationships.—** To ensure streamlined accountability for management, the following relationships shall apply:
+
+(1) Each program manager (as defined in [section 1737 of this title](./chapter-087-defense-acquisition-workforce.md#section-1737)) for a defense acquisition program shall report directly to the portfolio acquisition executive for such program unless otherwise directed by the component acquisition executive or service acquisition executive of the military department concerned (as applicable).
+
+(2) Each portfolio acquisition executive shall report directly to the component acquisition executive or the service acquisition executive of the military department concerned (as applicable).
+
+(3) The component acquisition executive or service acquisition executive of the military department concerned (as applicable) shall oversee the designation of, performance of, and resource allocation for all portfolio acquisition executives.
+
+**(c) Responsibilities.—** For the defense acquisition programs assigned to a portfolio acquisition executive, such portfolio acquisition executive shall—
+
+(1) ensure that activities carried out under such programs are aligned with, and are conducted in a manner that supports, the objectives of the defense acquisition system established pursuant to [section 3102 of this title](./chapter-205-defense-acquisition-system.md#section-3102);
+
+(2) subject to the authority, direction, and control of the component acquisition executive or service acquisition executive of the military department concerned (as applicable)—
+
+  (A) carry out all powers, functions, and duties of the component acquisition executive or service acquisition executive concerned (as applicable) with respect to members of the acquisition workforce assigned to the portfolio acquisition executive; and
+
+  (B) ensure that the policies of the Secretary of Defense established in accordance with this chapter are implemented in such portfolio;
+
+(3) coordinate with the relevant service chief (as defined in [section 3101 of this title](./chapter-205-defense-acquisition-system.md#section-3101)) when evaluating, modifying, or implementing requirements determinations, performance objectives, procurement quantity objectives, and materiel readiness objectives established under [section 118(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section118/c&num=0&edition=prelim);
+
+(4) liaise and collaborate directly with operational users of such defense acquisition programs to receive regular feedback to ensure the effectiveness and suitability of capabilities;
+
+(5) provide timely information to the relevant service chief, the Joint Staff, the Director of Cost Assessment and Program Evaluation, and other officials identified by the Secretary of Defense on cost, schedule, and performance trade-offs of defense acquisition programs assigned to the portfolio acquisition executive;
+
+(6) employ iterative development cycles with the authority to modify, discontinue, or terminate the development of capabilities—
+
+  (A) that no longer align with a joint capability requirement (as defined in [section 181 of this title](./chapter-007-boards-councils-and-committees.md#section-181)) or other capability requirement established by the Secretary or relevant service chief; or
+
+  (B) that are experiencing significant cost growth, technical or performance deficiencies, or delays in schedule;
+
+(7) collaborate with mission engineering functions of the Department of Defense to conduct cross-service technical and operational activities to coordinate integration of emerging technologies, prototypes, and operational concepts, as appropriate; and
+
+(8) ensure effective market research and, to the maximum extent practical, prioritize—
+
+  (A) the use of transactions for prototype projects under section 4022; and
+
+  (B) the procurement of commercial products and commercial services under chapter 247 of this title.
+
+**(d) Personnel and Resources.—**
+
+(1) The Secretary concerned with respect to a portfolio acquisition executive shall ensure that each such portfolio acquisition executive is assigned dedicated personnel and other resources required to successfully perform the assigned duties and responsibilities of such portfolio acquisition executive.
+
+(2) Personnel shall be under the authority and control of such portfolio acquisition executive subject to the component acquisition executive or service acquisition executive of the department concerned. Personnel and resources shall not be provided through matrixed, collateral duty, or dual-reporting arrangements, except as specifically authorized by the Secretary concerned in writing.
+
+(3) Personnel and resources required include—
+
+  (A) contracting and contract management;
+
+  (B) estimating costs;
+
+  (C) financial management and business;
+
+  (D) life-cycle management and product support;
+
+  (E) program management;
+
+  (F) engineering and technical management;
+
+  (G) developmental testing and evaluation; and
+
+  (H) other personnel as determined by the Secretary concerned, as appropriate.
 
 ### Statutory Notes
 
-Section, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1644; amended Pub. L. 102–484, div. A, title VIII, § 812(e)(1), Oct. 23, 1992, 106 Stat. 2451; Pub. L. 103–89, § 3(b)(3)(B), Sept. 30, 1993, 107 Stat. 982; Pub. L. 105–261, div. A, title VIII, § 811, Oct. 17, 1998, 112 Stat. 2086; Pub. L. 107–107, div. A, title VIII, § 824(b), title X, § 1048(e)(4), Dec. 28, 2001, 115 Stat. 1185, 1227; Pub. L. 108–136, div. A, title VIII, §§ 831(b)(2), (3), 832(b)(2), 833(2), Nov. 24, 2003, 117 Stat. 1549, 1550; Pub. L. 108–375, div. A, title VIII, § 812(a)(1), title X, § 1084(d)(14), (h)(2), Oct. 28, 2004, 118 Stat. 2013, 2062, 2064; Pub. L. 109–163, div. A, title X, § 1056(c)(3), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 116–92, div. A, title VIII, § 861(b)(2), (j)(4), Dec. 20, 2019, 133 Stat. 1516, 1519, related to selection criteria and procedures for membership in the Acquisition Corps.
+#### Prior Provisions
+A prior section 1732, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1644; amended Pub. L. 102–484, div. A, title VIII, § 812(e)(1), Oct. 23, 1992, 106 Stat. 2451; Pub. L. 103–89, § 3(b)(3)(B), Sept. 30, 1993, 107 Stat. 982; Pub. L. 105–261, div. A, title VIII, § 811, Oct. 17, 1998, 112 Stat. 2086; Pub. L. 107–107, div. A, title VIII, § 824(b), title X, § 1048(e)(4), Dec. 28, 2001, 115 Stat. 1185, 1227; Pub. L. 108–136, div. A, title VIII, §§ 831(b)(2), (3), 832(b)(2), 833(2), Nov. 24, 2003, 117 Stat. 1549, 1550; Pub. L. 108–375, div. A, title VIII, § 812(a)(1), title X, § 1084(d)(14), (h)(2), Oct. 28, 2004, 118 Stat. 2013, 2062, 2064; Pub. L. 109–163, div. A, title X, § 1056(c)(3), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 116–92, div. A, title VIII, § 861(b)(2), (j)(4), Dec. 20, 2019, 133 Stat. 1516, 1519, related to selection criteria and procedures for membership in the Acquisition Corps, prior to repeal by Pub. L. 116–92, div. A, title VIII, § 861(j)(5), Dec. 20, 2019, 133 Stat. 1519.
 
 
 <a id="section-1733"></a>
-## § 1733. Renumbered § 1731]
+## § 1733. Product support manager
+**(a) In General.—** A product support manager is the individual responsible for managing product support required to field and maintain the readiness and operational capability of a covered system throughout the life cycle of the covered system.
+
+**(b) Designation.—** The Secretary of Defense shall designate a product support manager for each covered system who shall be coequal with the program manager for such covered system and report directly to the portfolio acquisition executive responsible for such covered system.
+
+**(c) Objectives.—** The product support manager shall seek to achieve the objectives of the defense acquisition system established pursuant to [section 3102 of this title](./chapter-205-defense-acquisition-system.md#section-3102) and shall identify, develop, implement, incentivize, and measure quantifiable best value outcome-based product support that optimizes life-cycle cost, readiness, and operational capability of a covered system.
+
+**(d) Specific Responsibilities.—** A product support manager shall be responsible for the following with respect to a covered system:
+
+(1) Developing and executing the product support strategy required under [section 4324 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4324).
+
+(2) Providing product support and subject matter expertise to the relevant program manager and portfolio acquisition executive.
+
+(3) 11 So in original. There are two pars. (3). Collaborating with chief engineers and systems engineers—
+
+  (A) in developing the life-cycle sustainment plan and product support strategy required under [section 4324 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4324); and
+
+  (B) to analyze the operating and support costs to ensure cost-effective operation, management, and availability of the covered system.
+
+(3) 1 Adopting predictive analytics and simulation and modeling tools to improve materiel availability and reliability, increase operational availability rates, and reduce operation and sustainment costs.
+
+(4) Conducting product support business case analyses to provide a structured, iterative methodology to compare and assess the full impact of product support alternatives and provide data-informed recommendations that balance requirements with affordability. Such analyses shall—
+
+  (A) enable the development of the product support strategy as early as possible, but not later than Milestone B approval has been granted for the covered system; and
+
+  (B) inform proposed updates or changes in the product support strategy as needed.
+
+(5) Reviewing and recommending resource allocations across product support integrators and product support providers to meet performance requirements of the product support strategy.
+
+(6) Coordinating product support arrangements between product support integrators and product support providers across materiel commands, depots, sustainment working capital funds, and commercial entities to execute the product support strategy and maintain updated parts cataloging and provisioning.
+
+(7) Seeking to resolve issues relating to diminishing manufacturing supply, material shortages, critical 22 So in original. Probably should be preceded by “and”. readiness items of supply.
+
+(8) Managing the end-to-end coordination process related to qualification, certification, and testing of alternative sources of supply for critical readiness items of supply.
+
+(9) Ensuring the evaluation and selection of product support integrators and product support providers that are best suited to execute the product support strategy.
+
+**(e) Definitions.—** In this section:
+
+(1) The term “best value” has the meaning given in [section 3101 of this title](./chapter-205-defense-acquisition-system.md#section-3101).
+
+(2) The terms “covered system”, “critical readiness items of supply”, “product support”, “product support arrangement”, “product support integrator”, and “product support provider” have the meanings given, respectively, in [section 4324 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4324).
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 1733 was renumbered [section 1731 of this title](./chapter-087-defense-acquisition-workforce.md#section-1731).
 
 
 <a id="section-1734"></a>
@@ -1228,7 +1353,21 @@ Pub. L. 101–510, div. A, title XII, § 1209(e), Nov. 5, 1990, 104 Stat. 1666, 
 
   (D) a deputy program manager of a significant nonmajor defense acquisition program, must have at least four years of experience in acquisition.
 
-**(c) Program Executive Officers.—** Before being assigned to a position as a program executive officer, a person—
+**(c) Product Support Manager.—** Before being assigned to a position as product support manager, a person—
+
+(1) shall have completed all life-cycle logistics certification and training requirements prescribed by the Secretary of Defense;
+
+(2) shall have executed a written agreement as required in [section 1734(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1734/b/2&num=0&edition=prelim); and
+
+(3) in the case of—
+
+  (A) a product support manager of a major defense acquisition program, shall have at least eight years of experience in life-cycle logistics, at least two years of which were performed in a systems program office or similar organization;
+
+  (B) a product support manager of a significant nonmajor defense acquisition program, shall have at least six years of experience in life-cycle logistics; and
+
+  (C) a product support manager for a covered system (as defined in [section 4324 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4324)), shall be designated as a key leadership position.
+
+**(d) Portfolio Acquisition Executives.1—** Before being assigned to a position as a portfolio acquisition executive, a person—
 
 (1) must have completed the program management course at the Defense Systems Management College or a management program at an accredited educational institution in the private sector determined to be comparable by the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment;
 
@@ -1236,13 +1375,21 @@ Pub. L. 101–510, div. A, title XII, § 1209(e), Nov. 5, 1990, 104 Stat. 1666, 
 
 (3) must have held a position as a program manager or a deputy program manager.
 
-**(d) General and Flag Officers and Civilians in Equivalent Positions.—** Before a general or flag officer, or a civilian serving in a position equivalent in grade to the grade of such an officer, may be assigned to a critical acquisition position, the person must have at least 10 years experience in an acquisition position, at least four years of which were performed while assigned to a critical acquisition position.
+**(e) General and Flag Officers and Civilians in Equivalent Positions.—** Before a general or flag officer, or a civilian serving in a position equivalent in grade to the grade of such an officer, may be assigned to a critical acquisition position, the person must have at least 10 years experience in an acquisition position, at least four years of which were performed while assigned to a critical acquisition position.
 
-**(e) Senior Contracting Officials.—** Before a person may be assigned to a critical acquisition position as a senior contracting official, the person must have at least four years experience in contracting.
+**(f) Senior Contracting Officials.—** Before a person may be assigned to a critical acquisition position as a senior contracting official, the person must have at least four years experience in contracting.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 119–60, § 1803(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Pub. L. 119–60, § 1802(b)(1)(D), which directed the substitution of “Portfolio acquisition executives” for “Program executive officers” in heading, was executed by making the substitution for “Program Executive Officers”, to reflect the probable intent of Congress.
+
+Pub. L. 119–60, § 1802(b)(1)(A), substituted “portfolio acquisition executive” for “program executive officer” in introductory provisions.
+
+Subsecs. (d) to (f). Pub. L. 119–60, § 1803(a)(2), redesignated subsecs. (c) to (e) as (d) to (f), respectively.
+
 2019—Subsec. (c)(1). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
 2001—Subsec. (c)(1). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
@@ -1273,7 +1420,7 @@ Section, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 1
 
 (3) The term “significant nonmajor defense acquisition program” means a Department of Defense acquisition program that is not a major defense acquisition program (as defined in [section 4201 of this title](./chapter-321-general-matters.md#section-4201)) and that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than the dollar threshold set forth in [section 3041(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3041/b/1&num=0&edition=prelim) for such purposes for a major system or an eventual total expenditure for procurement of more than the dollar threshold set forth in [section 3041(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3041/b/1&num=0&edition=prelim) for such purpose for a major system.
 
-(4) The term “program executive officer” has the meaning given such term in regulations prescribed by the Secretary of Defense.
+(4) The term “portfolio acquisition executive” means an individual described in [section 1732(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1732/a&num=0&edition=prelim).
 
 (5) The term “senior contracting official” means a director of contracting, or a principal deputy to a director of contracting, serving in the office of the Secretary of a military department, the headquarters of a military department, the head of a Defense Agency, a subordinate command headquarters, or in a major systems or logistics contracting activity in the Department of Defense.
 
@@ -1284,6 +1431,8 @@ Section, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 1
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a)(4). Pub. L. 119–60 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The term ‘program executive officer’ has the meaning given such term in regulations prescribed by the Secretary of Defense.”
+
 2021—Subsec. (a)(3). Pub. L. 116–283 substituted “section 4201” for “section 2430” and substituted “section 3041(b)(1)” for “section 2302(5)(A)” in two places.
 
 2019—Subsec. (a)(1). Pub. L. 116–92, § 861(j)(11)(A), substituted “of the acquisition workforce” for “of the Acquisition Corps”.
@@ -1332,7 +1481,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 1993—Subsec. (b). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
 #### Software Development and Software Acquisition Training and Management Programs
-Pub. L. 116–92, div. A, title VIII, § 862, Dec. 20, 2019, 133 Stat. 1520, provided that: “(a) Establishment of Software Development and Software Acquisition Training and Management Programs.—“(1) In general.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment and in consultation with the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Personnel and Readiness, and the Chief Information Officer of the Department of Defense, shall establish software development and software acquisition training and management programs for all software acquisition professionals, software developers, and other appropriate individuals (as determined by the Secretary of Defense), to earn a certification in software development and software acquisition. “(2) Program contents.—The programs established under paragraph (1) shall—“(A) develop and expand the use of specialized training programs for chief information officers of the military departments and the Defense Agencies, service acquisition executives, program executive officers, and program managers to include training on and experience in—“(i) continuous software development; and “(ii) acquisition pathways available to acquire software; “(B) ensure that appropriate program managers—“(i) have demonstrated competency in current software processes; “(ii) have the skills to lead a workforce that can quickly meet challenges, use software tools that prioritize continuous or frequent upgrades as such tools become available, take up opportunities provided by new innovations, and plan software activities in short iterations to learn from risks of software testing; and “(iii) have the experience and training to delegate technical oversight and execution decisions; and “(C) include continuing education courses, exchanges with private-sector organizations, and experiential training to help individuals maintain skills learned through the programs. “(b) Reports.—“(1) Reports required.—The Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]—“(A) not later than 90 days after the date of the enactment of this Act [Dec. 20, 2019], an initial report; and “(B) not later than one year after the date of the enactment of this Act, a final report. “(2) Contents.—Each report required under paragraph (1) shall include—“(A) the status of implementing the software development and software acquisition training and management programs established under subsection (a)(1); “(B) a description of the requirements for certification, including the requirements for competencies in current software processes; “(C) a description of potential career paths in software development and software acquisition within the Department of Defense; “(D) an independent assessment conducted by the Defense Innovation Board of the progress made on implementing the programs established under subsection (a)(1); and “(E) any recommendations for changes to existing law to facilitate the implementation of the programs established under subsection (a)(1). “(c) Definitions.—In this section:“(1) Program executive officer; program manager.—The terms ‘program executive officer’ and ‘program manager’ have the meanings given those terms, respectively, in [section 1737 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1737), United States Code. “(2) Service acquisition executive.—The terms ‘military department’, ‘Defense Agency’, and ‘service acquisition executive’ have the meanings given those terms, respectively, in [section 101 of title 10](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101), United States Code. “(3) Major defense acquisition program.—The term ‘major defense acquisition program’ has the meaning given in [section 2430 of title 10](./chapter-chapter-144-chapter-chapter-144.md#section-2430), United States Code [now [10 U.S.C. 4201](./chapter-321-general-matters.md#section-4201)]. “(4) Defense business system.—The term ‘defense business system’ has the meaning given in [section 2222(i)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2222/i/1&num=0&edition=prelim), United States Code.”
+Pub. L. 116–92, div. A, title VIII, § 862, Dec. 20, 2019, 133 Stat. 1520, as amended by Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(A)–(C), Dec. 18, 2025, 139 Stat. 1227, provided that: “(a) Establishment of Software Development and Software Acquisition Training and Management Programs.—“(1) In general.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment and in consultation with the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Personnel and Readiness, and the Chief Information Officer of the Department of Defense, shall establish software development and software acquisition training and management programs for all software acquisition professionals, software developers, and other appropriate individuals (as determined by the Secretary of Defense), to earn a certification in software development and software acquisition. “(2) Program contents.—The programs established under paragraph (1) shall—“(A) develop and expand the use of specialized training programs for chief information officers of the military departments and the Defense Agencies, service acquisition executives, portfolio acquisition executives, and program managers to include training on and experience in—“(i) continuous software development; and “(ii) acquisition pathways available to acquire software; “(B) ensure that appropriate program managers—“(i) have demonstrated competency in current software processes; “(ii) have the skills to lead a workforce that can quickly meet challenges, use software tools that prioritize continuous or frequent upgrades as such tools become available, take up opportunities provided by new innovations, and plan software activities in short iterations to learn from risks of software testing; and “(iii) have the experience and training to delegate technical oversight and execution decisions; and “(C) include continuing education courses, exchanges with private-sector organizations, and experiential training to help individuals maintain skills learned through the programs. “(b) Reports.—“(1) Reports required.—The Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]—“(A) not later than 90 days after the date of the enactment of this Act [Dec. 20, 2019], an initial report; and “(B) not later than one year after the date of the enactment of this Act, a final report. “(2) Contents.—Each report required under paragraph (1) shall include—“(A) the status of implementing the software development and software acquisition training and management programs established under subsection (a)(1); “(B) a description of the requirements for certification, including the requirements for competencies in current software processes; “(C) a description of potential career paths in software development and software acquisition within the Department of Defense; “(D) an independent assessment conducted by the Defense Innovation Board of the progress made on implementing the programs established under subsection (a)(1); and “(E) any recommendations for changes to existing law to facilitate the implementation of the programs established under subsection (a)(1). “(c) Definitions.—In this section:“(1) Portfolio acquisition executive; program manager.—The terms ‘portfolio acquisition executive’ and ‘program manager’ have the meanings given those terms, respectively, in [section 1737 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1737), United States Code. “(2) Service acquisition executive.—The terms ‘military department’, ‘Defense Agency’, and ‘service acquisition executive’ have the meanings given those terms, respectively, in [section 101 of title 10](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101), United States Code. “(3) Major defense acquisition program.—The term ‘major defense acquisition program’ has the meaning given in [section 2430 of title 10](./chapter-chapter-144-chapter-chapter-144.md#section-2430), United States Code [now [10 U.S.C. 4201](./chapter-321-general-matters.md#section-4201)]. “(4) Defense business system.—The term ‘defense business system’ has the meaning given in [section 2222(i)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2222/i/1&num=0&edition=prelim), United States Code.”
 
 #### Review of Guidance to Contractors on Nondiscrimination on the Basis of Sex
 Pub. L. 116–92, div. A, title VIII, § 885, Dec. 20, 2019, 133 Stat. 1535, provided that: “(a) Review.—Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Under Secretary of Defense for Acquisition and Sustainment, serving as the senior procurement executive for the Department of Defense pursuant to [section 133b(b)(4)(B) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section133b/b/4/B&num=0&edition=prelim), United States Code [now [10 U.S.C. 133b(b)(5)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section133b/b/5/B&num=0&edition=prelim)], shall conduct a review of the implementation of the requirement for Government contracting agencies under Executive Order 11246 ([42 U.S.C. 2000e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e&num=0&edition=prelim) note) relating to expectations of contractors and subcontractors to ensure nondiscrimination on the basis of sex. “(b) Elements.—The review required under subsection (a) shall, at a minimum, consider—“(1) existing contracting processes and tools for oversight of contracts, including contractor responsibility determinations and documentation of performance; and “(2) the extent to which best practices for contractors and subcontractors identified in the appendix to part 60–20 of title 41 of the Code of Federal Regulations, such as establishing and implementing procedures for handling and resolving complaints about harassment and intimidation based on sex, have been incorporated in Department policies and procedures. “(c) Updated Training Guidance.—Not later than 180 days after the date of the completion of the review required under subsection (a), the Under Secretary of Defense for Acquisition and Sustainment shall update any relevant training guidance for the acquisition workforce to account for the conclusions of the review. “(d) Briefing Required.—Not later than December 15, 2020, the Secretary of Defense shall brief the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] on the review required under subsection (a), which shall include any updates to training guidance or contracting procedures resulting from the review.”
@@ -1499,11 +1648,18 @@ Pub. L. 106–65, div. A, title IX, § 925(b), Oct. 5, 1999, 113 Stat. 726, prov
 
   (C) Other qualifying factors, including experience with and an understanding of the defense acquisition system (as defined in [section 3001 of this title](./chapter-201-definitions.md#section-3001)), an understanding of emerging technologies and the defense applications of such technologies, experience partnering with States, national associations, and academia, and experience with learning technologies.
 
-(3) The term of the President of the Defense Acquisition University shall be not more than five years, unless the Under Secretary of Defense for Acquisition and Sustainment determines it necessary to extend the term for up to an additional five years. The preceding sentence does not apply to the President of the Defense Acquisition University serving on January 1, 2022.
+(3) The tenure of the President of the Defense Acquisition University shall be not more than five years, unless the Under Secretary of Defense for Acquisition and Sustainment determines it necessary to extend the tenure for up to an additional five years. The preceding sentence does not apply to the President of the Defense Acquisition University serving on January 1, 2025, who shall serve a maximum tenure of three years beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025 without an option for extension of such tenure.
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2025, referred to in subsec. (e)(3), is the date of enactment of Pub. L. 118–159, which was approved Dec. 23, 2024.
+
 #### Amendments
+2025—Subsec. (e)(3). Pub. L. 119–60 substituted “tenure” for “term” wherever appearing.
+
+2024—Subsec. (e)(3). Pub. L. 118–159 substituted “The preceding sentence does not apply to the President of the Defense Acquisition University serving on January 1, 2025, who shall serve a maximum term of three years beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025 without an option for extension of such term.” for “The preceding sentence does not apply to the President of the Defense Acquisition University serving on January 1, 2022.”
+
 2022—Subsec. (b)(2). Pub. L. 117–263, § 832(a)(1)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The professors, instructors, and lecturers employed under paragraph (1) shall include individuals from civilian colleges or universities that are not owned or operated by the Federal Government, commercial learning and development organizations, industry, or federally funded research and development centers.”
 
 Subsec. (b)(3) to (5). Pub. L. 117–263, § 832(a)(1)(B), (C), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The Secretary of Defense shall ensure that—
@@ -1554,7 +1710,7 @@ Pub. L. 117–263, div. A, title VIII, § 835, Dec. 23, 2022, 136 Stat. 2715, pr
 Pub. L. 115–91, div. A, title VIII, § 850, Dec. 12, 2017, 131 Stat. 1488, provided that: “(a) Training.—Not later than one year after the date of the enactment of this Act [Dec. 12, 2017], the President of the Defense Acquisition University shall establish a comprehensive training program on part 12 of the Federal Acquisition Regulation. The training shall cover, at a minimum, the following topics:“(1) The origin of part 12 and the congressional mandate to prefer commercial procurements. “(2) The definition of a commercial item, with a particular focus on the ‘of a type’ concept. “(3) Price analysis and negotiations. “(4) Market research and analysis. “(5) Independent cost estimates. “(6) Parametric estimating methods. “(7) Value analysis. “(8) Best practices in pricing from commercial sector organizations, foreign government organizations, and other Federal, State, and local public sectors organizations. “(9) Other topics on commercial procurements necessary to ensure a well-educated acquisition workforce. “(b) Enrollments Goals.—The President of the Defense Acquisition University shall set goals for student enrollment for the comprehensive training program established under subsection (a). “(c) Supporting Activities.—The Secretary of Defense shall, in support of the achievement of the goals of this section—“(1) engage academic experts on research topics of interest to improve commercial item identification and pricing methodologies; and “(2) facilitate exchange and interface opportunities between government personnel to increase awareness of best practices and challenges in commercial item identification and pricing. “(d) Funding.—The Secretary of Defense shall use amounts available in the Department of Defense Acquisition Workforce Development Fund established under [section 1705 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1705), United States Code, to fund the comprehensive training program established under subsection (a).”
 
 #### Training on Agile or Iterative Development Methods
-Pub. L. 115–91, div. A, title VIII, § 891, Dec. 12, 2017, 131 Stat. 1509, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense, in consultation with the President of the Defense Acquisition University, shall establish a training course at the Defense Acquisition University on agile or iterative development methods to provide training for personnel implementing and supporting the pilot programs required by sections 873 and 874 of this Act [[10 U.S.C. 4571](./chapter-345-acquisition-of-information-technology.md#section-4571) note, [10 U.S.C. 3101](./chapter-205-defense-acquisition-system.md#section-3101) note prec.]. “(b) Course Elements.—“(1) In general.—The course shall be taught in residence at the Defense Acquisition University and shall include the following elements:“(A) Training designed to instill a common understanding of all functional roles and dependencies involved in developing and producing a capability using agile or iterative development methods. “(B) An exercise involving teams composed of personnel from pertinent functions and functional organizations engaged in developing an integrated agile or iterative development method for a specific program. “(C) Instructors and content from non-governmental entities, as appropriate, to highlight commercial best practices in using an agile or iterative development method. “(2) Course updates.—The Secretary shall ensure that the course is updated as needed, including through incorporating lessons learned from the implementation of the pilot programs required by sections 873 and 874 of this Act in subsequent versions of the course. “(c) Course Attendance.—The course shall be—“(1) available for certified acquisition personnel working on programs or projects using agile or iterative development methods; and “(2) mandatory for personnel participating in the pilot programs required by sections 873 and 874 of this Act from the relevant organizations in each of the military departments and Defense Agencies, including organizations responsible for engineering, budgeting, contracting, test and evaluation, requirements validation, and certification and accreditation. “(d) Agile Acquisition Support.—The Secretary and the senior acquisition executives in each of the military departments and Defense Agencies, in coordination with the Director of the Defense Digital Service, shall assign to offices supporting systems selected for participation in the pilot programs required by sections 873 and 874 of this Act a subject matter expert with knowledge of commercial agile acquisition methods and Department of Defense acquisition processes to provide assistance and to advise appropriate acquisition authorities of the expert’s observations. “(e) Agile Research Program.—The President of the Defense Acquisition University shall establish a research program to conduct research on and development of agile acquisition practices and tools best tailored to meet the mission needs of the Department of Defense. “(f) Agile or Iterative Development Defined.—The term ‘agile or iterative development’, with respect to software—“(1) means acquisition pursuant to a method for delivering multiple, rapid, incremental capabilities to the user for operational use, evaluation, and feedback not exclusively linked to any single, proprietary method or process; and “(2) involves—“(A) the incremental development and fielding of capabilities, commonly called ‘spirals’, ‘spins’, or ‘sprints’, which can be measured in a few weeks or months; and “(B) continuous participation and collaboration by users, testers, and requirements authorities.”
+Pub. L. 115–91, div. A, title VIII, § 891, Dec. 12, 2017, 131 Stat. 1509, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense, in consultation with the President of the Defense Acquisition University, shall establish a training course at the Defense Acquisition University on agile or iterative development methods to provide training for personnel implementing and supporting the pilot programs required by sections 873 and 874 of this Act [[10 U.S.C. 4571](./chapter-chapter-345-chapter-chapter-345.md#section-4571) note, former [10 U.S.C. 3101](./chapter-205-defense-acquisition-system.md#section-3101) note prec.]. “(b) Course Elements.—“(1) In general.—The course shall be taught in residence at the Defense Acquisition University and shall include the following elements:“(A) Training designed to instill a common understanding of all functional roles and dependencies involved in developing and producing a capability using agile or iterative development methods. “(B) An exercise involving teams composed of personnel from pertinent functions and functional organizations engaged in developing an integrated agile or iterative development method for a specific program. “(C) Instructors and content from non-governmental entities, as appropriate, to highlight commercial best practices in using an agile or iterative development method. “(2) Course updates.—The Secretary shall ensure that the course is updated as needed, including through incorporating lessons learned from the implementation of the pilot programs required by sections 873 and 874 of this Act in subsequent versions of the course. “(c) Course Attendance.—The course shall be—“(1) available for certified acquisition personnel working on programs or projects using agile or iterative development methods; and “(2) mandatory for personnel participating in the pilot programs required by sections 873 and 874 of this Act from the relevant organizations in each of the military departments and Defense Agencies, including organizations responsible for engineering, budgeting, contracting, test and evaluation, requirements validation, and certification and accreditation. “(d) Agile Acquisition Support.—The Secretary and the senior acquisition executives in each of the military departments and Defense Agencies, in coordination with the Director of the Defense Digital Service, shall assign to offices supporting systems selected for participation in the pilot programs required by sections 873 and 874 of this Act a subject matter expert with knowledge of commercial agile acquisition methods and Department of Defense acquisition processes to provide assistance and to advise appropriate acquisition authorities of the expert’s observations. “(e) Agile Research Program.—The President of the Defense Acquisition University shall establish a research program to conduct research on and development of agile acquisition practices and tools best tailored to meet the mission needs of the Department of Defense. “(f) Agile or Iterative Development Defined.—The term ‘agile or iterative development’, with respect to software—“(1) means acquisition pursuant to a method for delivering multiple, rapid, incremental capabilities to the user for operational use, evaluation, and feedback not exclusively linked to any single, proprietary method or process; and “(2) involves—“(A) the incremental development and fielding of capabilities, commonly called ‘spirals’, ‘spins’, or ‘sprints’, which can be measured in a few weeks or months; and “(B) continuous participation and collaboration by users, testers, and requirements authorities.”
 
 #### Contractor Incentives To Achieve Savings and Improve Mission Performance
 Pub. L. 114–328, div. A, title VIII, § 832, Dec. 23, 2016, 130 Stat. 2283, as amended by Pub. L. 117–263, div. A, title VIII, § 814(b), Dec. 23, 2022, 136 Stat. 2707, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016], the Defense Acquisition University shall develop and implement a training program for Department of Defense acquisition personnel on fixed-price incentive contracts, public-private partnerships, performance-based contracting, and other authorities in law and regulation designed to give incentives to contractors to achieve long-term savings and improve administrative practices and mission performance.”
@@ -1650,6 +1806,79 @@ Provisions similar to those in this section were contained in Pub. L. 105–85, 
 
 #### Deadline for Fulfillment Standards
 Pub. L. 111–383, div. A, title VIII, § 874(b)(3), Jan. 7, 2011, 124 Stat. 4305, provided that: “The fulfillment standards required under [section 1748 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1748), United States Code, as added by paragraph (1), shall be developed not later than 270 days after the date of the enactment of this Act [Jan. 7, 2011].”
+
+
+<a id="section-1749"></a>
+## § 1749. Field training for acquisition and sustainment
+**(a) Training Program.—** Not later than 180 days after the date of the enactment of this section, the Under Secretary for Acquisition and Sustainment shall establish a training program that supports cross-functional personnel and contractors of the Department of Defense involved in any phase of the acquisition and sustainment lifecycle in making important decisions with respect to acquisition or sustainment, including requirements validation, the development of an acquisition strategy, awarding contracts, and ongoing management of performance and governance.
+
+**(b) Elements.—** The training program established under subsection (a) shall—
+
+(1) create deployable training teams to coach the cross-functional personnel and contractors described in subsection (a) and facilitate such personnel and contractors successfully completing a phase of an acquisition or sustainment effort with the same training team to the maximum extent possible;
+
+(2) to the extent practicable, ensure that the same training team under paragraph (1) provides the support described under such paragraph with respect to a phase of an acquisition or sustainment effort until such phase is completed or otherwise ends;
+
+(3) provide to the cross-functional personnel and contractors described in subsection (a) short, intermittent lessons on innovative acquisition and fielding procedures, flexible contracting frameworks, and business negotiation skills that are timed to align the topics of the lessons to relevant activities under a phase of an acquisition or sustainment effort;
+
+(4) emphasize—
+
+  (A) the acquisition of commercial products, commercial services, and commercially available off-the-shelf items (as such terms are defined in sections 103, 103a, and 104, respectively, of title 41);
+
+  (B) technology procured “as-a-service” or as a consumption-based solution (as defined in section 834 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ([10 U.S.C. 4571](./chapter-chapter-345-chapter-chapter-345.md#section-4571) note)); and
+
+  (C) using the middle tier acquisition pathways under [section 3602 of this title](./chapter-253-rapid-acquisition-procedures.md#section-3602) and the pathways under [section 3603 of this title](./chapter-253-rapid-acquisition-procedures.md#section-3603); and
+
+(5) include a process for collecting feedback on the training program and performance of the training teams to improve the training program.
+
+**(c) Training Team Requirements.—** Each training team created under the training program shall—
+
+(1) include at not less than one individual from the private sector or academia with expertise in conducting commercial transactions; and
+
+(2) have excellent facilitation skills and the ability to coach the cross-functional personnel and contractors described in subsection (a) on applying the best practices to the formulation of acquisition and sustainment programs and contracts;
+
+**(d) Certification.—** The Under Secretary of Defense for Acquisition and Sustainment shall ensure that each member of the acquisition workforce who participates in the training program established under subsection (a) can meet up to 80 hours of a continuous education requirement established under [section 1723 of this title](./chapter-087-defense-acquisition-workforce.md#section-1723) by participating in the training program.
+
+**(e) Pilot Program.—** During fiscal year 2025, the Secretary of each military department shall carry out not less than one pilot program—
+
+(1) under which the military department shall receive support under the training program established under subsection (a) with respect to acquisition and sustainment efforts of high importance or urgency to the military department; and
+
+(2) which the Under Secretary for Acquisition and Sustainment shall use to develop the training material and procedures for the training program.
+
+**(f) Funding Requirements.—** The Under Secretary for Acquisition and Sustainment is authorized to use funds available for the Defense Acquisition University for civilian faculty members, contracts, and associated travel and expenses to carry out the training program established in subsection (a) starting in fiscal year 2025, and for fiscal years 2027 through fiscal year 2031—
+
+(1) not less than 25 percent of civilian faculty members authorized under [section 1746 of this title](./chapter-087-defense-acquisition-workforce.md#section-1746) shall be detailed to the training program established in subsection (a) for a minimum of half of their time; and
+
+(2) not less than 25 percent of all contract or agreement obligations in support of Defense Acquisition University shall be reserved for the training program established in subsection (a), including the training of civilian faculty members to facilitate programs under the training program.
+
+**(g) Report.—** Not later than November 1, 2026, the Under Secretary for Acquisition and Sustainment shall provide a report to the Committees on Armed Services of the Senate and House of Representatives on the training program required under subsection (a), including—
+
+(1) the number and qualifications of civilian faculty members detailed to the training program under subsection (f)(1), including any training requirements they receive to facilitate programs under the training program;
+
+(2) an identification of contractor or university support for the training program pursuant to subsection (f)(2);
+
+(3) a budget for the training program that meets the requirements of subsection (f);
+
+(4) the status and success of the pilot program; and
+
+(5) any additional information or recommendations with respect to the training program that the Under Secretary of Defense for Acquisition and Sustainment determines appropriate.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 118–159, which was approved Dec. 23, 2024.
+
+Section 834 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(4)(B), is section 834 of Pub. L. 116–283, which is set out as a note under [section 4571 of this title](./chapter-chapter-345-chapter-chapter-345.md#section-4571).
+
+#### Amendments
+2025—Subsec. (b)(4). Pub. L. 119–60, § 1701(a)(15)(A), substituted “emphasize—” for “emphasizes—” in introductory provisions.
+
+Subsec. (c). Pub. L. 119–60, § 1701(a)(15)(B)(i), inserted “shall” after “program” in introductory provisions.
+
+Subsec. (c)(2). Pub. L. 119–60, § 1701(a)(15)(B)(ii), substituted “have” for “has” and “the ability to” for “can”.
+
+Subsec. (f). Pub. L. 119–60, § 1701(a)(15)(C), inserted “subsection” before “(a)” wherever appearing.
+
+Subsec. (f)(1). Pub. L. 119–60, § 812(a)(1), struck out “on a reimbursable basis” after “shall be detailed”.
 
 
 <a id="section-1761"></a>
@@ -1753,7 +1982,7 @@ Pub. L. 101–510, div. A, title XII, § 1209(k), Nov. 5, 1990, 104 Stat. 1667, 
 
 (3) the Committee on Oversight and Government Reform of the House of Representatives.
 
-**(g) Termination of Authority.—** The authority to conduct a demonstration project under this section shall terminate on December 31, 2026.
+**(g) Termination of Authority.—** The authority to conduct a demonstration project under this section shall terminate on December 31, 2031.
 
 **(h) Conversion.—** Within 6 months after the authority to conduct a demonstration project under this section is terminated as provided in subsection (g), employees in the project shall convert to the civilian personnel system created pursuant to [section 9902 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9902&num=0&edition=prelim).
 
@@ -1765,6 +1994,8 @@ A prior section 1762, added Pub. L. 101–510, div. A, title XII, § 1202(a), No
 Provisions similar to those in this section were contained in Pub. L. 104–106, div. D, title XLIII, § 4308, Feb. 10, 1996, 110 Stat. 669, which was set out as a note under [section 1701 of this title](./chapter-087-defense-acquisition-workforce.md#section-1701), prior to repeal by Pub. L. 111–383, § 872(b).
 
 #### Amendments
+2024—Subsec. (g). Pub. L. 118–159 substituted “December 31, 2031” for “December 31, 2026”.
+
 2021—Subsec. (g). Pub. L. 117–81 substituted “December 31, 2026” for “December 31, 2023”.
 
 2019—Subsec. (c). Pub. L. 116–92 substituted “at any one time in” for “in at any one time”.
@@ -1804,7 +2035,7 @@ Section, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 1
 
 (1) Contracting officer, except a position referred to in paragraph (6).
 
-(2) Program executive officer.
+(2) Portfolio acquisition executive.
 
 (3) Senior contracting official.
 
@@ -1822,6 +2053,8 @@ Section, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 1
 A prior section 1764, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1656, related to authority to establish different minimum experience requirements, prior to repeal by Pub. L. 107–107, div. A, title X, § 1048(e)(7)(A), Dec. 28, 2001, 115 Stat. 1227.
 
 #### Amendments
+2025—Subsec. (b)(2). Pub. L. 119–60 substituted “Portfolio acquisition executive” for “Program executive officer”.
+
 2004—Subsec. (b)(1). Pub. L. 108–375, § 812(c)(2), substituted “in paragraph (6)” for “in paragraph (5)”.
 
 Subsec. (b)(5), (6). Pub. L. 108–375, § 812(c)(1), added par. (5) and redesignated former par. (5) as (6).

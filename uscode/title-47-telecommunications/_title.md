@@ -2,7 +2,7 @@
 title: 47
 heading: TELECOMMUNICATIONS
 positive_law: false
-sections: 431
+sections: 432
 chapters: 16
 ---
 # Title 47. TELECOMMUNICATIONS

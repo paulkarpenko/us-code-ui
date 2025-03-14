@@ -30,6 +30,9 @@ Act of June 17, 1902, referred to in par. (2), is act June 17, 1902, ch. 1093, 3
 
 The Small Reclamation Projects Act of 1956, referred to in par. (3), is act Aug. 6, 1956, ch. 972, 70 Stat. 1044, which is classified generally to subchapter IV (§ 422a et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see [section 422k of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-422k) and Tables.
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–170, § 1, Dec. 23, 2024, 138 Stat. 2589, provided that: “This Act [amending sections 2214 and 2241 of this title] may be cited as the ‘Drought Preparedness Act’.”
+
 #### Short Title
 Pub. L. 102–250, § 1, Mar. 5, 1992, 106 Stat. 53, provided that: “This Act [enacting this chapter] may be cited as the ‘Reclamation States Emergency Drought Relief Act of 1991’.”
 
@@ -287,11 +290,13 @@ For provisions directing that authorities established under this subchapter shal
 
 **(b) Coordination with BPA** If a Governor referred to in subsection (a) is the Governor of the State of Washington, Oregon, Idaho, or Montana, the Governor shall coordinate with the Administrator of the Bonneville Power Administration before making a request under subsection (a).
 
-**(c) Termination of authority** The authorities established under this subchapter shall terminate on September 30, 2022.11 See Extension of Termination of Authority note below.
+**(c) Termination of authority** The authorities established under this subchapter shall terminate on September 30, 2028.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (c). Pub. L. 118–170 substituted “2028” for “2022”.
+
 2022—Subsec. (c). Pub. L. 117–103 substituted “2022” for “2021”.
 
 2020—Subsec. (c). Pub. L. 116–260 substituted “2021” for “2020”.
@@ -401,11 +406,13 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 <a id="section-2242"></a>
 ## § 2242. Authorization of appropriations
 
-Except as otherwise provided in [section 2243 of this title](./chapter-040-reclamation-states-emergency-drought-relief.md#section-2243) (relating to temperature control devices at Shasta Dam, California), there is authorized to be appropriated not more than $120,000,000 in total for the period of fiscal years 2006 through 2022.11 See Extension of Authorization of Appropriations note below.
+Except as otherwise provided in [section 2243 of this title](./chapter-040-reclamation-states-emergency-drought-relief.md#section-2243) (relating to temperature control devices at Shasta Dam, California), there is authorized to be appropriated not more than $120,000,000 11 See Extension of Authorization of Appropriations note below. in total for the period of fiscal years 2006 through 2028.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Pub. L. 118–170 substituted “2028” for “2022”.
+
 2022—Pub. L. 117–103 substituted “2022” for “2021”.
 
 2020—Pub. L. 116–260 substituted “2021” for “2020”.

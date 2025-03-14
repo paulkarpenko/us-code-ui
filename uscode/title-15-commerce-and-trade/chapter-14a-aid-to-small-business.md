@@ -5127,7 +5127,7 @@ Whoever wrongfully misapplies the proceeds of a loan obtained under this subsect
 
     (i) in a nonmetropolitan county (as defined by the Secretary of Agriculture) or its equivalent thereof; or
 
-    (ii) in a metropolitan county or its equivalent that has a resident population of less than 20,000 if the Small Business Administration has determined such political subdivision or area to be rural.2323 So in original. The period probably should be “; and”.
+    (ii) in a metropolitan county or its equivalent that has a resident population of less than 20,000 if the Small Business Administration has determined such political subdivision or area to be rural; and
 
   (D) the term “economically distressed area”, as used in paragraph (4), means a county or equivalent division of local government of a State in which the small business concern is located, in which, according to the most recent data available from the Bureau of the Census, Department of Commerce, not less than 40 percent of residents have an annual income that is at or below the poverty level.
 
@@ -5439,9 +5439,9 @@ Subsec. (m)(4)(C)(i). Pub. L. 116–260, § 329(a)(1)(B)(ii), amended cl. (i) ge
 
 Subsec. (m)(4)(G). Pub. L. 116–260, § 329(a)(1)(B)(iii), added subpar. (G).
 
-Subsec. (m)(11)(C)(ii). Pub. L. 116–260, § 329(a)(1)(C)(i), which directed amendment of cl. (ii) by striking all after the semicolon and inserting “and”, could not be executed because a semicolon did not appear.
+Subsec. (m)(11)(C)(ii). Pub. L. 116–260, § 329(a)(1)(C)(i), directed amendment of cl. (ii) by striking all after the semicolon and inserting “and”, resulting in substitution of “and” for “and” at end.
 
-Subsec. (m)(11)(D). Pub. L. 116–260, § 329(a)(1)(C)(ii), which directed amendment of par. (11) “by striking all after subparagraph (C) and inserting” subpar. (D), was executed by adding subpar. (D) after subpar. (C), to reflect the probable intent of Congress.
+Subsec. (m)(11)(D). Pub. L. 116–260, § 329(a)(1)(C)(ii), directed amendment of par. (11) by adding subpar. (D) and striking out all after subpar. (C), resulting in striking of former subpar. (D) as added by Pub. L. 103–403, § 208(c). See 1994 Amendment note below.
 
 2019—Subsec. (b)(3)(A)(i), (ii). Pub. L. 116–92, § 877(a)(1)(A), added cl. (i), redesignated former cl. (i) as (ii) and inserted “and” at end, and struck out former cl. (ii) which defined the term “period of military conflict”.
 
@@ -5851,7 +5851,7 @@ Subsec. (m)(9)(B). Pub. L. 103–403, § 604, inserted “and loan guarantees”
 
 Subsec. (m)(11)(A)(v). Pub. L. 103–403, § 202, added cl. (v).
 
-Subsec. (m)(11)(D). Pub. L. 103–403, § 208(b), (c), temporarily added subpar. (D) which read as follows: “the term ‘economically distressed area’, as used in paragraph (4), means a county or equivalent division of local government of a State in which the small business concern is located, in which, according to the most recent data available from the Bureau of the Census, Department of Commerce, not less than 40 percent of residents have an annual income that is at or below the poverty level.”. See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (m)(11)(C), (D). Pub. L. 103–403, § 208(b), (c), temporarily substituted “; and” for period at end of subpar. (C) and added subpar. (D) which read as follows: “the term ‘economically distressed area’, as used in paragraph (4), means a county or equivalent division of local government of a State in which the small business concern is located, in which, according to the most recent data available from the Bureau of the Census, Department of Commerce, not less than 40 percent of residents have an annual income that is at or below the poverty level.”. See Effective and Termination Dates of 1994 Amendment note below.
 
 Subsec. (m)(12). Pub. L. 103–403, § 201, added par. (12).
 
@@ -7693,7 +7693,7 @@ Pub. L. 116–260, div. N, title III, § 311(b)(2), Dec. 27, 2020, 134 Stat. 200
 
     (iii) Any present or former employee of the Administration who violates this paragraph shall be subject to a civil penalty, assessed by the Attorney General, that shall not exceed 300 per centum of the maximum amount of gain such employee realized or could have realized as a result of engaging in those activities and transactions prescribed 22 So in original. Probably should be “proscribed”. by subparagraph (B).
 
-    (iv) In addition to any other remedy or sanction provided for under law or regulation, any person who falsely certifies pursuant to clause (i) shall be subject to a civil penalty under the Program Fraud Civil Remedies Act of 1986 ([31 U.S.C. 3801–381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3801–381&num=0&edition=prelim)2).
+    (iv) In addition to any other remedy or sanction provided for under law or regulation, any person who falsely certifies pursuant to clause (i) shall be subject to a civil penalty under the Program Fraud Civil Remedies Act of 1986 1 ([31 U.S.C. 3801–381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3801–381&num=0&edition=prelim)2).
 
 (19)
 
@@ -7849,7 +7849,21 @@ Pub. L. 116–260, div. N, title III, § 311(b)(2), Dec. 27, 2020, 134 Stat. 200
 
 (16) to make studies of matters materially affecting the competitive strength of small business, and of the effect on small business of Federal laws, programs, and regulations, and to make recommendations to the appropriate Federal agency or agencies for the adjustment of such programs and regulations to the needs of small business; and
 
-(17) to make grants to, and enter into contracts and cooperative agreements with, educational institutions, private businesses, veterans’ nonprofit community-based organizations, and Federal, State, and local departments and agencies for the establishment and implementation of outreach programs for disabled veterans (as defined in [section 4211(3) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4211/3&num=0&edition=prelim)), veterans, and members of a reserve component of the Armed Forces.
+(17) to make grants to, and enter into contracts and cooperative agreements with, educational institutions, private businesses, veterans’ nonprofit community-based organizations, and Federal, State, and local departments and agencies for the establishment and implementation of outreach programs for disabled veterans (as defined in [section 4211(3) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4211/3&num=0&edition=prelim)), veterans, and members of a reserve component of the Armed Forces, provided that—
+
+  (A) the Administrator considers the needs of disabled veterans (as defined in [section 4211(3) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4211/3&num=0&edition=prelim)), veterans, and members of a reserve component of the Armed Forces equally, as part of the criteria for funding a continuation award or during the competition process for any grant, contract, or cooperative agreement made or entered into under this paragraph, including assigning equal value to any factors based on a designation as a disabled veteran (as defined in [section 4211(3) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4211/3&num=0&edition=prelim)), veteran, or member of a reserve component of the Armed Forces, and equally considering the ability of applicants to provide Boots to Business on military installations and the ability of applicants to provide Boots to Business Reboot training off military installations;
+
+  (B) for purposes of subparagraph (A), the term “continuation award” means a renewal or recompete, awarded at the discretion of the Administrator, for another 5-year project period for a grant, contract, or cooperative agreement under this paragraph that is made up of a base project period of 12 months, with up to 4 option periods of 12 months, subject to continuing program authority, availability of funds, and satisfactory performance by the recipient organization;
+
+  (C) the Administrator shall, not later than 1 year after December 23, 2024, issue guidance on the criteria described in subparagraph (A) to existing recipients of any grant, contract, or cooperative agreement made or entered into under this paragraph;
+
+  (D) the Administrator shall, for each budget period beginning after the date of the issuance of the guidance under subparagraph (C), incorporate the criteria described in subparagraph (A) into the funding agreement, and existing recipients of any grant, contract, or cooperative made or entered into under this paragraph shall have 1 full budget period to comply;
+
+  (E) if an existing recipient of any grant, contract, or cooperative agreement made or entered into under this paragraph does not meet the criteria included in the guidance issued under subparagraph (C) during the budget period described in subparagraph (D), the existing recipient shall have a period of 1 year, beginning after the budget period in which the existing recipient was assessed, to reach satisfactory performance and compliance with all terms and conditions of the award;
+
+  (F) if the Administrator fails to give equal weight to the needs of the groups described in subparagraph (A) during the competition process for any grant, contract, or cooperative agreement made or entered into under this paragraph, the Administrator shall, not later than 60 days after the closing date of the grant, contract, or cooperative agreement, provide written justification to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives regarding why the grant, contract, or cooperative agreement was not made or entered into pursuant to subparagraph (A); and
+
+  (G) the Administrator shall provide full and fair consideration to any entity that has applied for a grant, contract, or cooperative agreement under this paragraph before December 23, 2024, if that entity applies for a future funding opportunity under this paragraph.
 
 **(c) [Reserved]**
 
@@ -8301,7 +8315,7 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (a)(13), is Pub.
 
 [Section 35(a) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section35/a&num=0&edition=prelim), referred to in subsecs. (a)(17)(B)(iii) and (b)(7)(B), was struck out and former [section 35(b) of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section35/b&num=0&edition=prelim), Public Contracts, redesignated section 35(a) by Pub. L. 103–355, title VII, § 7201(1), Oct. 13, 1994, 108 Stat. 3378. [Section 35 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section35&num=0&edition=prelim) was subsequently repealed and restated as sections 6501(1) and 6502 of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. [Section 6510 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6510&num=0&edition=prelim) now provides for determination of “regular dealer” by Secretary of Labor. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim).
 
-The Program Fraud Civil Remedies Act of 1986, referred to in subsec. (a)(18)(C)(iv), is subtitle B of title VI of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1934, which is classified generally to chapter 38 (§ 3801 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under [section 3801 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3801&num=0&edition=prelim) and Tables.
+The Program Fraud Civil Remedies Act of 1986, referred to in subsec. (a)(18)(C)(iv), subsequently renamed the Administrative False Claims Act, is subtitle B of title VI of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1934, which is classified generally to chapter 38 (§ 3801 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under [section 3801 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3801&num=0&edition=prelim) and Tables.
 
 The Women’s Business Ownership Act of 1988, referred to in subsec. (b)(1)(G), is Pub. L. 100–533, Oct. 25, 1988, 102 Stat. 2689. Title IV of the Act is classified generally to chapter 97 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631) and Tables.
 
@@ -8338,6 +8352,8 @@ In subsec. (m)(1)(A), “[section 2101(1) of title 41](https://uscode.house.gov/
 Prior similar provisions were contained in sections 207(b)(2), (b)(4), 208, 210, 212 and 216 of act July 30, 1953, ch. 282, title II, 67 Stat. 235–239, as amended by acts Aug. 9, 1955, ch. 628, §§ 2, 5, 7, 69 Stat. 547, 550; Feb. 2, 1956, ch. 29, §§ 2, 3, 70 Stat. 10, which were previously classified to this section and sections 636, 639, 641, and 645 of this title. See Codification note set out under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
 #### Amendments
+2024—Subsec. (b)(17). Pub. L. 118–159 substituted “Forces, provided that—” for “Forces.” and added subpars. (A) to (G).
+
 2023—Subsec. (d)(13)(B)(i). Pub. L. 118–31, § 862(a)(1), substituted “30 days” for “90 days”.
 
 Subsec. (d)(13)(C). Pub. L. 118–31, § 862(a)(2), inserted dash after “contract” and cl. (i) designation before “shall” and added cl. (ii).
@@ -9896,7 +9912,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
   (C) The Basic Research Plan of the Department of Defense.
 
-(3) **Input in identification of areas of effort** — The criteria and procedures described in paragraph (1) shall include input in the identification of areas of research and development efforts described in that paragraph from Department of Defense program managers (PMs) and program executive officers (PEOs).
+(3) **Input in identification of areas of effort** — The criteria and procedures described in paragraph (1) shall include input in the identification of areas of research and development efforts described in that paragraph from Department of Defense program managers (PMs) and program executive officers (PEOs).1
 
 **(y) Commercialization Readiness Program**
 
@@ -10670,6 +10686,26 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 (2) **Referral** — A Federal agency that does not comply with paragraph (1) shall be referred to the Inspector General of the Administration for further investigation.
 
+**(yy) Pilot program for the participation of military research and educational institutions in the STTR program**
+
+(1) **In general** — Not later than 180 days after December 23, 2024, the Secretary of Defense shall establish a pilot program to enable any undergraduate, graduate, or postgraduate degree-granting military research or educational institution established under title 10 to participate in the STTR program of the Department of Defense.
+
+(2) **Sunset** — The authority to carry out the pilot program under this subsection shall end on September 30, 2025.
+
+**(zz) Budget calculation pilot program**
+
+(1) **Pilot**
+
+  (A) *In general* — In order to more rapidly estimate allocations for the SBIR and STTR programs of the Department of Defense, the Secretary of Defense shall conduct a budget calculation pilot program that requires the calculation of total expenditures for the SBIR and STTR programs in the Department of Defense and determination of related allocations in accordance with subparagraphs (B) and (C), and paragraph (2), respectively.
+
+  (B) *SBIR program* — Beginning in fiscal year 2025, the Department of Defense shall calculate required budget expenditures for its SBIR program as not less than 3.25 percent of the average of the total research, development, test, and evaluation extramural budget of the Department for the 2 most recent fully obligated fiscal year budgets.
+
+  (C) *STTR program* — Beginning in fiscal year 2025, the Department of Defense shall calculate required budget expenditures for its STTR program as not less than 0.46 percent of the average of the total research, development, test, and evaluation extramural budget of the Department for the 2 most recent fully obligated fiscal year budgets.
+
+(2) **Allocations** — Not later than 30 days after the date of enactment of an appropriations bill for the Department of Defense for a fiscal year, the Department shall determine and make adjustments for actual allocations related to the SBIR and STTR programs of the Department.
+
+(3) **Sunset** — The pilot program under this subsection shall terminate on September 30, 2025.
+
 ### Statutory Notes
 
 #### References in Text
@@ -10685,22 +10721,28 @@ Executive Order 12333, referred to in subsec. (e)(2), is set out as a note under
 
 [Section 2522 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2522&num=0&edition=prelim), referred to in subsecs. (g)(3)(B), (j)(2)(E)(ii), and (o)(3)(B), which related to annual defense critical technology plan, was repealed, and section 2518 (relating to Defense Advanced Manufacturing Technology Partnerships) was redesignated as section 2522, by Pub. L. 102–484, div. D, title XLII, §§ 4202(a), 4232(a), Oct. 23, 1992, 106 Stat. 2659, 2687, and subsequently repealed.
 
-Section 105 of the Small Business Research and Development Enhancement Act of 1992, referred to in subsec. (j)(2)(I), is section 105 of Pub. L. 102–564, which is set out below.
+Section 105 of the Small Business Research and Development Enhancement Act of 1992, referred to in subsec. (j)(2)(I), is section 105 of Pub. L. 102–564, title I, Oct. 28, 1992, 106 Stat. 4254, which was formerly set out as a note below.
 
 The enactment of this paragraph, referred to in subsec. (j)(4), means the enactment of subsec. (j)(4) by Pub. L. 116–92, which was approved Dec. 20, 2019.
 
 Section 270 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; [10 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501&num=0&edition=prelim) note), referred to in subsec. (x)(2)(A), was formerly set out as a note under [section 2501 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501&num=0&edition=prelim), Armed Forces, prior to repeal by Pub. L. 111–84, div. A, title II, § 241, Oct 28, 2009, 123 Stat. 2237.
 
+Program executive officers, referred to in subsec. (x)(3), were effectively renamed “portfolio acquisition executives” by Pub. L. 119–60, div. A, title XVIII, § 1802(b), Dec. 18, 2025, 139 Stat. 1227, which amended covered defense laws, as defined in [section 102 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section102&num=0&edition=prelim), Armed Forces, by substituting references to portfolio acquisition executives for references to program executive officers. This section is neither a covered defense law, nor was it otherwise so amended.
+
 The year in which this subparagraph is enacted, referred to in subsec. (vv)(3)(B)(i), is the year of enactment of Pub. L. 117–183, which was approved in 2022.
 
 #### Codification
-In subsec. (e)(8), “[section 1303(a)(1) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1303/a/1&num=0&edition=prelim)” substituted for “section 35(c)(1) of the Office of Federal Procurement Policy Act”, which probably should have been a reference to “section 25(c)(1) of the Office of Federal Procurement Policy Act” because that Act does not contain a section 35 and section 25(c) of that Act relates to issuance of the Federal Acquisition Regulation, on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (e)(8), “[section 1303(a)(1) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1303/a/1&num=0&edition=prelim)” substituted for “section 35(c)(1) of the Office of Federal Procurement Policy Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts. Such reference, however, probably should have been a reference to “section 25(c)(1) of the Office of Federal Procurement Policy Act” because that Act did not contain a section 35 at the time that reference was added, and section 25(c) of that Act related to issuance of the Federal Acquisition Regulation.
 
 In subsec. (n)(2)(A), “[section 1303(a)(1) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1303/a/1&num=0&edition=prelim)” substituted for “section 25(c)(1) of the Office of Federal Procurement Policy Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section 209 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, was previously classified to this section. See [section 645 of this title](./chapter-14a-aid-to-small-business.md#section-645) and Codification note set out under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
 #### Amendments
+2024—Subsec. (yy). Pub. L. 118–159, § 871, added subsec. (yy).
+
+Subsec. (zz). Pub. L. 118–159, § 872, added subsec. (zz).
+
 2022—Pub. L. 117–183, § 3, substituted “2025” for “2022” wherever appearing.
 
 Subsec. (b)(7)(I), (J). Pub. L. 117–183, § 7(a)(1), added subpars. (I) and (J).
@@ -13310,7 +13352,7 @@ Subsec. (d). Pub. L. 112–239, § 1692(c), inserted “(or the designee of the 
 
   (A) be punished by a fine of not more than $500,000 or by imprisonment for not more than 10 years, or both;
 
-  (B) be subject to the administrative remedies prescribed by the Program Fraud Civil Remedies Act of 1986 ([31 U.S.C. 3801–381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3801–381&num=0&edition=prelim)2);
+  (B) be subject to the administrative remedies prescribed by the Program Fraud Civil Remedies Act of 1986 22 See References in Text note below. ([31 U.S.C. 3801–381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3801–381&num=0&edition=prelim)2);
 
   (C) be subject to suspension and debarment as specified in subpart 9.4 of title 48, Code of Federal Regulations (or any successor regulation); and
 
@@ -13335,7 +13377,7 @@ Subsec. (d). Pub. L. 112–239, § 1692(c), inserted “(or the designee of the 
 ### Statutory Notes
 
 #### References in Text
-The Program Fraud Civil Remedies Act of 1986 ([31 U.S.C. 3801–381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3801–381&num=0&edition=prelim)2), referred to in subsec. (d)(2)(B), is subtitle B of title VI of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1934, which is classified generally to chapter 38 (§ 3801 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under [section 3801 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3801&num=0&edition=prelim) and Tables.
+The Program Fraud Civil Remedies Act of 1986 ([31 U.S.C. 3801–381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3801–381&num=0&edition=prelim)2), referred to in subsec. (d)(2)(B), subsequently renamed the Administrative False Claims Act, is subtitle B of title VI of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1934, which is classified generally to chapter 38 (§ 3801 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under [section 3801 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3801&num=0&edition=prelim) and Tables.
 
 The Small Business Investment Act of 1958, referred to in subsec. (d)(2)(D), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-14b-small-business-investment-program.md#section-661) and Tables.
 
@@ -16203,12 +16245,121 @@ Pub. L. 105–135, title VI, § 606, Dec. 2, 1997, 111 Stat. 2635, required the 
 
 (2) **Requirement** — The Administrator, in coordination with the Administrator of General Services, shall provide access to and manage the distribution of surplus property, and foreign excess property returned to a State for handling as surplus property, owned by the United States under chapter 7 of title 40, to small business concerns owned and controlled by veterans (as verified by the Secretary of Veterans Affairs under [section 8127 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8127&num=0&edition=prelim)) pursuant to a memorandum of agreement between the Administrator, the Administrator of General Services, and the head of the applicable state agency for surplus properties and in accordance with [section 549 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section549&num=0&edition=prelim).
 
+**(h) Boots to Business Program**
+
+(1) **Covered individual defined** — In this subsection, the term “covered individual” means—
+
+  (A) an individual who is participating in the Transition Assistance Program established under [section 1144 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1144&num=0&edition=prelim), subject to an availability determination by the Secretary of the military department concerned;
+
+  (B) a servicemember in the National Guard or Reserves not on active duty.11 So in original. The period probably should be a semicolon.
+
+  (C) an individual who—
+
+    (i) served on active duty in any branch of the Armed Forces, including the National Guard or Reserves; and
+
+    (ii) was discharged or released from such service under conditions other than dishonorable; or
+
+  (D) a spouse or dependent of an individual described in subparagraph (A), (B), or (C).
+
+(2) **Establishment** — During the period beginning on December 23, 2024, and ending on September 30, 2028, the Administrator shall carry out a program to be known as the “Boots to Business Program” to provide entrepreneurship training to covered individuals.
+
+(3) **Goals** — The goals of the Boots to Business Program are to—
+
+  (A) provide assistance and in-depth training to covered individuals interested in business ownership; and
+
+  (B) provide covered individuals with the tools, skills, and knowledge necessary to identify a business opportunity, draft a business plan, identify sources of capital, connect with local resources for small business concerns, and start up a small business concern.
+
+(4) **Program components**
+
+  (A) *In general* — The Boots to Business Program may include—
+
+    (i) a presentation providing exposure to the considerations involved in self-employment and ownership of a small business concern;
+
+    (ii) an online, self-study course focused on the basic skills of entrepreneurship, the language of business, and the considerations involved in self-employment and ownership of a small business concern;
+
+    (iii) an in-person classroom instruction component providing an introduction to the foundations of self-employment and ownership of a small business concern; and
+
+    (iv) in-depth training delivered through online instruction, including an online course that leads to the creation of a business plan.
+
+  (B) *Collaboration* — The Administrator may—
+
+    (i) collaborate with public and private entities to develop course curricula for the Boots to Business Program; and
+
+    (ii) modify program components in coordination with entities participating in a Warriors in Transition program, as defined in section 738(e) of the National Defense Authorization Act for Fiscal Year 2013 ([10 U.S.C. 1071](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1071&num=0&edition=prelim) note).
+
+  (C) *Use of resource partners and district offices*
+
+    (i) *In general* — The Administrator shall—
+
+      (I) ensure that Veteran Business Outreach Centers regularly participate, on a nationwide basis, in the Boots to Business Program; and
+
+      (II) to the maximum extent practicable, use district offices of the Administration and a variety of other resource partners and entities in administering the Boots to Business Program.
+
+    (ii) *Grant authority* — In carrying out clause (i), the Administrator may make grants, subject to the availability of appropriations in advance, to Veteran Business Outreach Centers, other resource partners, or other entities to carry out components of the Boots to Business Program.
+
+  (D) *Availability to Department of Defense and the Department of Labor* — The Administrator shall make available to the Secretary of Defense and the Secretary of Labor information regarding the Boots to Business Program, including all course materials and outreach materials related to the Boots to Business Program, for inclusion on the websites of the Department of Defense and the Department of Labor relating to the Transition Assistance Program, in the Transition Assistance Program manual, and in other relevant materials available for distribution from the Secretary of Defense and the Secretary of Labor.
+
+  (E) *Availability to Department of Veterans Affairs* — In consultation with the Secretary of Veterans Affairs, the Administrator shall make available for distribution and display on the website of the Department of Veterans Affairs and at local facilities of the Department of Veterans Affairs outreach materials regarding the Boots to Business Program, which shall, at a minimum—
+
+    (i) describe the Boots to Business Program and the services provided; and
+
+    (ii) include eligibility requirements for participating in the Boots to Business Program.
+
+  (F) *Availability to other participating agencies* — The Administrator shall ensure information regarding the Boots to Business Program, including all course materials and outreach materials related to the Boots to Business Program, is made available to other participating agencies in the Transition Assistance Program and upon request of other agencies.
+
+(5) **Competitive bidding procedures** — The Administration shall use relevant competitive bidding procedures with respect to any contract or cooperative agreement executed by the Administration under the Boots to Business Program.
+
+(6) **Publication of notice of funding opportunity** — Not later than 30 days before the deadline for submitting applications for any funding opportunity under the Boots to Business Program, the Administration shall publish a notice of the funding opportunity.
+
+(7) **Report** — Not later than 180 days after December 23, 2024, and not less frequently than annually thereafter, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the performance and effectiveness of the Boots to Business Program, which—
+
+  (A) may be included as part of another report submitted to such committees by the Administrator related to the Office of Veterans Business Development; and
+
+  (B) shall summarize available information relating to—
+
+    (i) grants awarded under paragraph (4)(C);
+
+    (ii) the total cost of the Boots to Business Program;
+
+    (iii) the number of program participants using each component of the Boots to Business Program;
+
+    (iv) the completion rates for each component of the Boots to Business Program;
+
+    (v) to the extent possible—
+
+      (I) the demographics of program participants, to include gender, age, race, ethnicity, and relationship to military;
+
+      (II) the number of program participants that connect with a district office of the Administration, a Veteran Business Outreach Center, or another resource partner of the Administration;
+
+      (III) the number of program participants that start a small business concern;
+
+      (IV) the results of the Boots to Business and Boots to Business Reboot course quality surveys conducted by the Office of Veterans Business Development before and after attending each of those courses, including a summary of any comments received from program participants;
+
+      (V) the results of the Boots to Business Program outcome surveys conducted by the Office of Veterans Business Development, including a summary of any comments received from program participants; and
+
+      (VI) the results of other germane participant satisfaction surveys;
+
+  (C) an evaluation of the overall effectiveness of the Boots to Business Program based on each geographic region covered by the Administration during the most recent fiscal year;
+
+  (D) an assessment of additional performance outcome measures for the Boots to Business Program, as identified by the Administrator;
+
+  (E) any recommendations of the Administrator for improvement of the Boots to Business Program, which may include expansion of the types of individuals who are covered individuals;
+
+  (F) an explanation of how the Boots to Business Program has been integrated with other transition programs and related resources of the Administration and other Federal agencies; and
+
+  (G) any additional information the Administrator determines necessary.
+
 ### Statutory Notes
+
+#### References in Text
+Section 738(e) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (h)(4)(B)(ii), is section 738(e) of Pub. L. 112–239, which is set out in a note under [section 1071 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1071&num=0&edition=prelim), Armed Forces.
 
 #### Prior Provisions
 A prior section 2[32] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
 #### Amendments
+2024—Subsec. (h). Pub. L. 118–159 added subsec. (h).
+
 2019—Subsec. (g). Pub. L. 115–416 added subsec. (g).
 
 2008—Subsec. (c). Pub. L. 110–186, § 102(2), added subsec. (c). Former subsec. (c) redesignated (f).

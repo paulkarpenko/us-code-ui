@@ -66,6 +66,9 @@ Par. (3). Pub. L. 108–170, § 301(a)(1)(B), added par. (3) and struck out form
 #### Effective Date of 2003 Amendment
 Amendment by section 302(a) of Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under [section 7316 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7316).
 
+#### Limitation on Detail of Directors of Medical Centers of Department of Veterans Affairs to Different Positions
+Pub. L. 118–210, title I, § 148, Jan. 2, 2025, 138 Stat. 2754, provided that: “(a) Notification.—“(1) In general.—Not later than 90 days after detailing a director of a medical center of the Department of Veterans Affairs to a different position within the Department, the Secretary of Veterans Affairs shall notify the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives of such detail. “(2) Matters to be included.—The notification required by paragraph (1) shall include, with respect to a director of a medical center who is detailed to a different position within the Department, the following information:“(A) The location at which the director is detailed. “(B) The position title of the detail. “(C) The estimated time the director is expected to be absent from their duties at the medical center. “(D) Such other information as the Secretary may determine appropriate. “(b) Appointment of Acting Director.—Not later than 120 days after detailing a director of a medical center of the Department to a different position within the Department, the Secretary shall appoint an individual as acting director of such medical center with all of the authority and responsibilities of the detailed director. “(c) Update on Detail.—Not later than 120 days after detailing a director of a medical center of the Department to a different position within the Department, and not less frequently than every 30 days thereafter while the detail is in effect or while the director position at the medical center is vacant, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives an update regarding the status of the detail. “(d) Return to Position or Reassignment.—“(1) In general.—Except as provided in paragraph (2), not later than 180 days after detailing a director of a medical center of the Department to a different position within the Department, for a reason other than an ongoing investigation or administrative action with respect to the director, the Secretary shall—“(A) return the individual to the position as director of the medical center; or “(B) reassign the individual from the position as director of the medical center and begin the process of hiring a new director for such position. “(2) Waiver.—“(A) In general.—The Secretary may waive the requirement under paragraph (1) with respect to an individual for successive 90-day increments for a total period of not more than 540 days from the original date the individual was detailed away from their position as director of a medical center. “(B) Notification.—Not later than 30 days after exercising a waiver under subparagraph (A), the Secretary shall notify Congress of the waiver and provide to Congress information as to why the waiver is necessary.”
+
 #### Third Party Review of Appointees in Veterans Health Administration Who Had a License Terminated for Cause and Notice to Individuals Treated by Those Appointees if Determined That an Episode of Care or Services That They Received Was Below the Standard of Care
 Pub. L. 117–328, div. U, title I, § 111, Dec. 29, 2022, 136 Stat. 5410, provided that: “(a) Third Party Review.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs shall enter into a contract or other agreement with an organization that is not part of the Federal Government to conduct a clinical review for quality management of hospital care or medical services furnished by covered providers. “(2) Qualifications.—The Secretary shall ensure that each review of a covered provider under this subsection is performed by an individual who is licensed in the same specialty as the covered provider. “(b) Notice to Patients Treated by Covered Providers.—With respect to hospital care or medical services furnished by a covered provider under the laws administered by the Secretary, if a clinical review for quality management under subsection (a) determines that the standard of care was not met during an episode of care, the Secretary shall notify the individual who received such care or services from the covered provider as described in applicable policy of the Veterans Heath Administration. “(c) Definitions.—In this section:“(1) Covered provider.—The term ‘covered provider’ means an individual who—“(A) was appointed to the Veterans Health Administration under [section 7401 of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7401), United States Code; and “(B) before such appointment, had a license terminated for cause by a State licensing board for hospital care or medical services provided in a facility that is not a facility of the Veterans Health Administration. “(2) Hospital care or medical services.—The terms ‘hospital care’ and ‘medical services’ have the meanings given those terms in [section 1701 of title 38](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1701), United States Code.”
 
@@ -417,7 +420,7 @@ Amendment by section 302(c) of Pub. L. 108–170 effective at end of 180-day per
 
 (2)
 
-  (A) The pay of physicians, podiatrists, and dentists serving in positions to which an Executive order applies under paragraph (1) shall be determined under subchapter III of this chapter instead of such Executive order.
+  (A) The pay of physicians, podiatrists, optometrists, and dentists serving in positions to which an Executive order applies under paragraph (1) shall be determined under subchapter III of this chapter instead of such Executive order.
 
   (B) The basic pay of registered nurses and physician assistants serving in positions to which an Executive order applies under paragraph (1) may be determined under subchapter IV of this chapter instead of such Executive order. Such positions shall not otherwise be covered by such subchapter, except with respect to bonuses under section 7452 or 7458 or special pay under subsection (g) of such section 7452.
 
@@ -434,9 +437,9 @@ Amendment by section 302(c) of Pub. L. 108–170 effective at end of 180-day per
   (C) Notwithstanding the provisions of subsection (d) of [section 5307 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5307&num=0&edition=prelim), the Secretary may make any certification under that subsection instead of the Office of Personnel Management and without concurrence of the Office of Management and Budget.
 
 **(b)** The grades for positions provided for in paragraph (1) of [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401) shall be as follows. The annual ranges of rates of basic pay for those grades shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law:
-physician and surgeon (md/do), podiatrist (dpm), and dentist and oral surgeon (dds, dmd) schedule
+physician and surgeon (md/do), podiatrist (dpm), optometrist (od), and dentist and oral surgeon (dds, dmd) schedule
 Physician and surgeon grade.
-Podiatrist grade.
+Podiatrist grade optometrist grade.22 So in original.
 Dentist grade.
 nurse schedule
 Nurse V.
@@ -444,7 +447,7 @@ Nurse IV.
 Nurse III.
 Nurse II.
 Nurse I.
-clinical chiropractor and optometrist schedule
+clinical chiropractor schedule
 Chief grade.
 Senior grade.
 Intermediate grade.
@@ -475,6 +478,12 @@ Pub. L. 115–182, title V, § 502(b)(1), June 6, 2018, 132 Stat. 1475, which di
 Provisions similar to those in this section were contained in section 4107(a)–(d) of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+2025—Subsec. (a)(2)(A). Pub. L. 118–210, § 142(b)(1), substituted “podiatrists, optometrists, and dentists” for “podiatrists, and dentists”.
+
+Subsec. (b). Pub. L. 118–210, § 142(b)(2)(A), (C), substituted “podiatrist (dpm), optometrist (od), and dentist” for “podiatrist (dpm), and dentist” in first heading in table and inserted “optometrist grade” after “Podiatrist grade” in second item under that heading.
+
+Pub. L. 118–210, § 142(b)(2)(B), which directed substitution of “clinical chiropractor schedule” for “clinical chiropractor and optometrist schedule,” in third heading in table, was executed by making the substitution for “clinical chiropractor and optometrist schedule”, to reflect the probable intent of Congress.
+
 2022—Subsec. (a)(1)(B). Pub. L. 117–168, § 904(b), inserted “7306 or” before “7401(4)”.
 
 Subsec. (a)(2). Pub. L. 117–103, § 102(b)(1), designated existing provisions as subpar. (A) and added subpar. (B).
@@ -1259,7 +1268,7 @@ Provisions similar to those in this section were contained in sections 4107(i) a
 
 <a id="section-7431"></a>
 ## § 7431. Pay
-**(a) Elements of Pay.—** Pay of physicians, podiatrists, and dentists in the Veterans Health Administration shall consist of three elements as follows:
+**(a) Elements of Pay.—** Pay of physicians, podiatrists, optometrists, and dentists in the Veterans Health Administration shall consist of three elements as follows:
 
 (1) Base pay as provided for under subsection (b).
 
@@ -1267,61 +1276,101 @@ Provisions similar to those in this section were contained in sections 4107(i) a
 
 (3) Performance pay as provided under subsection (d).
 
-**(b) Base Pay.—** One element of pay for physicians, podiatrists, and dentists shall be base pay. Base pay shall meet the following requirements:
+**(b) Base Pay.—** One element of pay for physicians, podiatrists, optometrists, and dentists shall be base pay. Base pay shall meet the following requirements:
 
-(1) Each physician, podiatrist, and dentist is entitled to base pay determined under the Physician, Podiatrist, and Dentist Base and Longevity Pay Schedule.
+(1) Each physician, podiatrist, optometrist and dentist is entitled to base pay determined under the Physician, Podiatrist, and Dentist Base and Longevity Pay Schedule.
 
 (2) The Physician, Podiatrist, and Dentist Base and Longevity Pay Schedule is composed of 15 rates of base pay designated, from the lowest rate of pay to the highest rate of pay, as base pay steps 1 through 15.
 
-(3) The rate of base pay payable to a physician, podiatrist, or dentist is based on the total number of the years of the service of the physician, podiatrist, or dentist in the Veterans Health Administration as follows: For a physician, podiatrist, or dentist with total service of:The rate of base pay is the rate payable for: two years or lessstep 1 more than 2 years and not more than 4 yearsstep 2 more than 4 years and not more than 6 yearsstep 3 more than 6 years and not more than 8 yearsstep 4 more than 8 years and not more than 10 yearsstep 5 more than 10 years and not more than 12 yearsstep 6 more than 12 years and not more than 14 yearsstep 7 more than 14 years and not more than 16 yearsstep 8 more than 16 years and not more than 18 yearsstep 9 more than 18 years and not more than 20 yearsstep 10 more than 20 years and not more than 22 yearsstep 11 more than 22 years and not more than 24 yearsstep 12 more than 24 years and not more than 26 yearsstep 13 more than 26 years and not more than 28 yearsstep 14 more than 28 yearsstep 15.
+(3) The rate of base pay payable to a physician, podiatrist, optometrist or dentist is based on the total number of the years of the service of the physician, podiatrist, optometrist or dentist in the Veterans Health Administration as follows: For a physician, podiatrist, optometrist or dentist with total service of:The rate of base pay is the rate payable for: two years or lessstep 1 more than 2 years and not more than 4 yearsstep 2 more than 4 years and not more than 6 yearsstep 3 more than 6 years and not more than 8 yearsstep 4 more than 8 years and not more than 10 yearsstep 5 more than 10 years and not more than 12 yearsstep 6 more than 12 years and not more than 14 yearsstep 7 more than 14 years and not more than 16 yearsstep 8 more than 16 years and not more than 18 yearsstep 9 more than 18 years and not more than 20 yearsstep 10 more than 20 years and not more than 22 yearsstep 11 more than 22 years and not more than 24 yearsstep 12 more than 24 years and not more than 26 yearsstep 13 more than 26 years and not more than 28 yearsstep 14 more than 28 yearsstep 15.
 
 (4) At the same time as rates of basic pay are increased for a year under [section 5303 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5303&num=0&edition=prelim), the Secretary shall increase the amount of base pay payable under this subsection for that year by a percentage equal to the percentage by which rates of basic pay are increased under such section for that year.
 
-(5) The non-foreign cost of living adjustment allowance authorized under [section 5941 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5941&num=0&edition=prelim) for physicians, podiatrists, and dentists whose pay is set under this section shall be determined as a percentage of base pay only.
+(5) The non-foreign cost of living adjustment allowance authorized under [section 5941 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5941&num=0&edition=prelim) for physicians, podiatrists, optometrists, and dentists whose pay is set under this section shall be determined as a percentage of base pay only.
 
-**(c) Market Pay.—** One element of pay for physicians, podiatrists, and dentists shall be market pay. Market pay shall meet the following requirements:
+**(c) Market Pay.—** One element of pay for physicians, podiatrists, optometrists, and dentists shall be market pay. Market pay shall meet the following requirements:
 
-(1) Each physician, podiatrist, and dentist is eligible for market pay.
+(1) Each physician, podiatrist, optometrist and dentist is eligible for market pay.
 
-(2) Market pay shall consist of pay intended to reflect the recruitment and retention needs for the specialty or assignment (as defined by the Secretary) of a particular physician, podiatrist, or dentist in a facility of the Department of Veterans Affairs.
+(2) Market pay shall consist of pay intended to reflect the recruitment and retention needs for the specialty or assignment (as defined by the Secretary) of a particular physician, podiatrist, optometrist or dentist in a facility of the Department of Veterans Affairs.
 
-(3) The annual amount of the market pay payable to a physician, podiatrist, or dentist shall be determined by the Secretary on a case-by-case basis.
+(3) The annual amount of the market pay payable to a physician, podiatrist, optometrist or dentist shall be determined by the Secretary on a case-by-case basis.
 
-(4) The determination of the amount of market pay of a physician, podiatrist, or dentist shall take into account—
+(4) The determination of the amount of market pay of a physician, podiatrist, optometrist or dentist shall take into account—
 
-  (A) the level of experience of the physician, podiatrist, or dentist in the specialty or assignment of the physician, podiatrist, or dentist;
+  (A) the level of experience of the physician, podiatrist, optometrist or dentist in the specialty or assignment of the physician, podiatrist, optometrist or dentist;
 
-  (B) the need for the specialty or assignment of the physician, podiatrist, or dentist at the medical facility of the Department concerned;
+  (B) the need for the specialty or assignment of the physician, podiatrist, optometrist or dentist at the medical facility of the Department concerned;
 
-  (C) the health care labor market for the specialty or assignment of the physician, podiatrist, or dentist, which may cover any geographic area the Secretary considers appropriate for the specialty or assignment;
+  (C) the health care labor market for the specialty or assignment of the physician, podiatrist, optometrist or dentist, which may cover any geographic area the Secretary considers appropriate for the specialty or assignment;
 
-  (D) the board certifications, if any, of the physician, podiatrist, or dentist;
+  (D) the board certifications, if any, of the physician, podiatrist, optometrist or dentist;
 
-  (E) the prior experience, if any, of the physician, podiatrist, or dentist as an employee of the Veterans Health Administration; and
+  (E) the prior experience, if any, of the physician, podiatrist, optometrist or dentist as an employee of the Veterans Health Administration; and
 
   (F) such other considerations as the Secretary considers appropriate.
 
-(5) The amount of market pay of a physician, podiatrist, or dentist shall be evaluated by the Secretary not less often than once every 24 months. The amount of market pay may be adjusted as the result of an evaluation under this paragraph. A physician, podiatrist, or dentist whose market pay is evaluated under this paragraph shall receive written notice of the results of such evaluation in accordance with procedures prescribed under [section 7433 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7433).
+(5) The amount of market pay of a physician, podiatrist, optometrist or dentist shall be evaluated by the Secretary not less often than once every 24 months. The amount of market pay may be adjusted as the result of an evaluation under this paragraph. A physician, podiatrist, optometrist or dentist whose market pay is evaluated under this paragraph shall receive written notice of the results of such evaluation in accordance with procedures prescribed under [section 7433 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7433). Such a notice shall include a statement of whether the market pay will increase, decrease, or remain unchanged following such evaluation.
 
-(6) No adjustment of the amount of market pay of a physician, podiatrist, or dentist under paragraph (5) may result in a reduction of the amount of market pay of the physician, podiatrist, or dentist while in the same position or assignment at the medical facility of the Department concerned, unless there is a change in board certification or reduction of privileges.
+(6) No adjustment of the amount of market pay of a physician, podiatrist, optometrist or dentist under paragraph (5) may result in a reduction of the amount of market pay of the physician, podiatrist, optometrist or dentist while in the same position or assignment at the medical facility of the Department concerned, unless there is a change in board certification or reduction of privileges.
+
+(7) The Secretary shall ensure that each physician, podiatrist, optometrist, and dentist in the Veterans Health Administration is—
+
+  (A) advised, on an annual basis, of the criteria described in subparagraph (F) of paragraph (4);
+
+  (B) evaluated in accordance with such criteria; and
+
+  (C) compensated in accordance with—
+
+    (i) applicable assignment and pay levels, subject to relevant pay limitations; and
+
+    (ii) the extent to which such criteria are met.
+
+(8) Not later than 120 days after the end of each fiscal year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report that includes the following:
+
+  (A) A list of each facility and specialty that conducted an evaluation of pay during the period covered by the report.
+
+  (B) For each evaluation described in subparagraph (A)—
+
+    (i) a list of occupations for which pay was evaluated, disaggregated by medical specialty, number of authorized full-time employees, and onsite full-time employees as of the date of the evaluation;
+
+    (ii) the date such evaluation was completed;
+
+    (iii) whether a market pay adjustment was made following the evaluation per each occupation and specialty evaluated;
+
+    (iv) whether applicable employees were notified of such evaluation;
+
+    (v) whether local labor partners were notified of such evaluation; and
+
+    (vi) in the case of an evaluation that resulted in an adjustment of pay—
+
+      (I) the date such adjustment—
+
+        (aa) was implemented; and
+
+        (bb) became effective; and
+
+      (II) the percentage of employees of each occupation and specialty for which pay was adjusted pursuant to such evaluation.
+
+  (C) A list of facilities of the Department that have not conducted an evaluation of market pay, pursuant to paragraph (5), during the 18-month-period that precedes the date of the submission of such report.
 
 **(d) Performance Pay.—**
 
-(1) One element of pay for physicians, podiatrists, and dentists shall be performance pay.
+(1) One element of pay for physicians, podiatrists, optometrists, and dentists shall be performance pay.
 
-(2) Performance pay shall be paid to a physician, podiatrist, or dentist on the basis of the physician’s or dentist’s achievement of specific goals and performance objectives prescribed by the Secretary.
+(2) Performance pay shall be paid to a physician, podiatrist, optometrist or dentist on the basis of the physician’s or dentist’s achievement of specific goals and performance objectives prescribed by the Secretary.
 
-(3) The Secretary shall ensure that each physician, podiatrist, and dentist of the Department is advised of the specific goals or objectives that are to be measured by the Secretary in determining the eligibility of that physician, podiatrist, or dentist for performance pay.
+(3) The Secretary shall ensure that each physician, podiatrist, optometrist and dentist of the Department is advised of the specific goals or objectives that are to be measured by the Secretary in determining the eligibility of that physician, podiatrist, optometrist or dentist for performance pay.
 
-(4) The amount of the performance pay payable to a physician, podiatrist, or dentist may vary annually on the basis of individual achievement or attainment of the goals or objectives applicable to the physician, podiatrist, or dentist under paragraph (2).
+(4) The amount of the performance pay payable to a physician, podiatrist, optometrist or dentist may vary annually on the basis of individual achievement or attainment of the goals or objectives applicable to the physician, podiatrist, optometrist or dentist under paragraph (2).
 
-(5) The amount of performance pay payable to a physician, podiatrist, or dentist in a fiscal year shall be determined in accordance with regulations prescribed by the Secretary, but may not exceed the lower of—
+(5) The amount of performance pay payable to a physician, podiatrist, optometrist or dentist in a fiscal year shall be determined in accordance with regulations prescribed by the Secretary, but may not exceed the lower of—
 
   (A) $15,000; or
 
-  (B) the amount equal to 7.5 percent of the sum of the base pay and the market pay payable to such physician, podiatrist, or dentist in that fiscal year.
+  (B) the amount equal to 7.5 percent of the sum of the base pay and the market pay payable to such physician, podiatrist, optometrist or dentist in that fiscal year.
 
-(6) A failure to meet goals or objectives applicable to a physician, podiatrist, or dentist under paragraph (2) may not be the sole basis for an adverse personnel action against that physician, podiatrist, or dentist.
+(6) A failure to meet goals or objectives applicable to a physician, podiatrist, optometrist or dentist under paragraph (2) may not be the sole basis for an adverse personnel action against that physician, podiatrist, optometrist or dentist.
 
 **(e) Requirements and Limitations on Total Pay.—**
 
@@ -1329,32 +1378,85 @@ Provisions similar to those in this section were contained in sections 4107(i) a
 
   (A) Not less often than once every two years, the Secretary shall prescribe for Department-wide applicability the minimum and maximum amounts of annual pay that may be paid under this section to physicians and the minimum and maximum amounts of annual pay that may be paid under this section to podiatrists and dentists.
 
-  (B) The Secretary may prescribe for Department-wide applicability under this paragraph separate minimum and maximum amounts of pay for a specialty or assignment. If the Secretary prescribes separate minimum and maximum amounts for a specialty or assignment, the Secretary may establish up to four tiers of minimum and maximum amounts for such specialty or assignment and prescribe for each tier a minimum amount and a maximum amount that the Secretary determines appropriate for the professional responsibilities, professional achievements, and administrative duties of the physicians, podiatrists, or dentists (as the case may be) whose pay is set within that tier.
+  (B) The Secretary may prescribe for Department-wide applicability under this paragraph separate minimum and maximum amounts of pay for a specialty or assignment. If the Secretary prescribes separate minimum and maximum amounts for a specialty or assignment, the Secretary may establish up to four tiers of minimum and maximum amounts for such specialty or assignment and prescribe for each tier a minimum amount and a maximum amount that the Secretary determines appropriate for the professional responsibilities, professional achievements, and administrative duties of the physicians, podiatrists, optometrists, or dentists (as the case may be) whose pay is set within that tier.
 
   (C) Amounts prescribed under this paragraph shall be published in the Federal Register, and shall not take effect until at least 60 days after the date of publication.
 
-(2) Except as provided in paragraph (3) and subject to paragraph (4), the sum of the total amount of the annual rate of base pay payable to a physician, podiatrist, or dentist under subsection (b) and the market pay determined for the physician, podiatrist, or dentist under subsection (c) may not be less than the minimum amount, nor more than the maximum amount, applicable to specialty or assignment of the physician, podiatrist, or dentist under paragraph (1).
+(2) Except as provided in paragraph (3) and subject to paragraph (4), the sum of the total amount of the annual rate of base pay payable to a physician, podiatrist, optometrist or dentist under subsection (b) and the market pay determined for the physician, podiatrist, optometrist or dentist under subsection (c) may not be less than the minimum amount, nor more than the maximum amount, applicable to specialty or assignment of the physician, podiatrist, optometrist or dentist under paragraph (1).
 
-(3) The sum of the total amount of the annual rate of base pay payable to a physician, podiatrist, or dentist under subsection (b) and the market pay determined for the physician, podiatrist, or dentist under subsection (c) may exceed the maximum amount applicable to the specialty or assignment of the physician, podiatrist, or dentist under paragraph (1) as a result of an adjustment under paragraph (3) or (4) of subsection (b).
+(3) The sum of the total amount of the annual rate of base pay payable to a physician, podiatrist, optometrist or dentist under subsection (b) and the market pay determined for the physician, podiatrist, optometrist or dentist under subsection (c) may exceed the maximum amount applicable to the specialty or assignment of the physician, podiatrist, optometrist or dentist under paragraph (1) as a result of an adjustment under paragraph (3) or (4) of subsection (b).
 
-(4) Except as provided in sections 7404A(c) and 7410(a)(2) of this title, in no case may the total amount of compensation paid to a physician, podiatrist, or dentist under this title in any year exceed the amount of annual compensation (excluding expenses) specified in [section 102 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim).
+(4) Except as provided in sections 7404A(c) and 7410(a)(2) of this title, in no case may the total amount of compensation paid to a physician, podiatrist, optometrist or dentist under this title in any year exceed the amount of annual compensation (excluding expenses) specified in [section 102 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim).
+
+(5) Notwithstanding any compensation or pay limitations under this title or title 5, the Secretary may authorize the Under Secretary for Health to pay physicians, podiatrists, optometrists, and dentists—
+
+  (A) awards authorized under this title;
+
+  (B) advance payments, recruitment or relocation bonuses, and retention allowances authorized under [section 7410(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7410/a&num=0&edition=prelim) or as otherwise provided by law;
+
+  (C) incentives or bonuses under [section 706 of this title](./chapter-007-employees.md#section-706) or as otherwise provided by law; and
+
+  (D) earnings from fee-basis appointments under [section 7405(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7405/a/2&num=0&edition=prelim).
+
+(6)
+
+  (A) The Secretary may waive any pay limitation described in this section (including tier limitations) that the Secretary determines necessary for the recruitment or retention of critical health care personnel whom the Secretary determines would provide direct patient care.
+
+  (B) Priority for such waivers shall be given for positions, locations, and care provided through agreements that are costly to the Department.
+
+  (C) The Chief Human Capital Officer of the Department, the Chief Financial Officer of the Department, and the Office of the General Counsel of the Department shall review any waiver issued under subparagraph (A).
+
+  (D) During the period the authority under subparagraph (A) is effective, the Secretary may not issue more than 300 waivers under such subparagraph.
+
+  (E) The Secretary may prescribe requirements, limitations, and other considerations for waivers under such subparagraph.
+
+  (F) Not later than 180 days after the date of the enactment of the Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act, and annually thereafter, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report that includes—
+
+    (i) any updates to the requirements, limitations, and considerations prescribed under subparagraph (B) during the period covered by the report;
+
+    (ii) a description of the findings of each review, if any, conducted pursuant to subparagraph (C);
+
+    (iii) a description of each waiver under subparagraph (A) in effect as of the date of the submission of the report, including the—
+
+      (I) duty location, position, specialty, market and performance considerations for the waiver; and
+
+      (II) impact, if any, of the waiver on care furnished by the Department pursuant to an agreement regarding the geographic area; and
+
+    (iv) a list of any separation actions during the period covered by the report with respect to a position for which a waiver under subparagraph (A) is in effect.
+
+  (G) The authority of the Secretary under subparagraph (A) shall terminate on the last day of the third full fiscal year following the date of the enactment of the Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act.
 
 **(f) Treatment of Pay.—** Pay under subsections (b) and (c) of this section shall be considered pay for all purposes, including retirement benefits under chapters 83 and 84 of title 5 and other benefits.
 
 **(g) Ancillary Effects of Decreases in Pay.—**
 
-(1) A decrease in pay of a physician, podiatrist, or dentist resulting from an adjustment in the amount of market pay of the physician, podiatrist, or dentist under subsection (c) shall not be treated as an adverse action.
+(1) A decrease in pay of a physician, podiatrist, optometrist or dentist resulting from an adjustment in the amount of market pay of the physician, podiatrist, optometrist or dentist under subsection (c) shall not be treated as an adverse action.
 
-(2) If the pay of a physician, podiatrist, or dentist is reduced under this subchapter as a result of an involuntary reassignment in connection with a disciplinary action taken against the physician, podiatrist, or dentist, the involuntary reassignment shall be subject to appeal under subchapter V of this chapter.
+(2) If the pay of a physician, podiatrist, optometrist or dentist is reduced under this subchapter as a result of an involuntary reassignment in connection with a disciplinary action taken against the physician, podiatrist, optometrist or dentist, the involuntary reassignment shall be subject to appeal under subchapter V of this chapter.
 
 **(h) Delegation of Responsibilities.—** The Secretary may delegate to an appropriate officer or employee of the Department any responsibility of the Secretary under subsection (c), (d), or (e) except for the responsibilities of the Secretary under subsection (e)(1).
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of the Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act, referred to subsec. (e)(6)(F), (G), is the date of enactment of Pub. L. 118–210, which was approved Jan. 2, 2025.
+
 #### Prior Provisions
 A prior section 7431, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 188; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984, related to authority of Secretary to provide for special pay, prior to the general amendment of this subchapter by Pub. L. 108–445.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 118–210, § 142(a)(1)(A), inserted “optometrists,” after “podiatrists,” in introductory provisions.
+
+Subsec. (b). Pub. L. 118–210, § 142(a)(1)(A), (B), inserted “optometrists,” after “podiatrists,” in introductory provisions and par. (5) and “optometrist” after “podiatrist,” wherever appearing.
+
+Subsec. (c). Pub. L. 118–210, § 142(a)(1)(A)–(C), inserted “optometrists,” after “podiatrists,” in introductory provisions and “optometrist” after “podiatrist,” wherever appearing, inserted at end of par. (5) “Such a notice shall include a statement of whether the market pay will increase, decrease, or remain unchanged following such evaluation.”, and added pars. (7) and (8).
+
+Subsec. (d). Pub. L. 118–210, § 142(a)(1)(A), (B), inserted “optometrists,” after “podiatrists,” in par. (1) and “optometrist” after “podiatrist,” wherever appearing.
+
+Subsec. (e). Pub. L. 118–210, § 142(a)(1)(A), (B), (D), inserted “optometrists,” after “podiatrists,” in subpar. (B) of par. (1) and “optometrist” after “podiatrist,” wherever appearing, and added pars. (5) and (6).
+
+Subsec. (g). Pub. L. 118–210, § 142(a)(1)(B), inserted “optometrist” after “podiatrist,” wherever appearing.
+
 2022—Subsec. (e)(4). Pub. L. 117–168 substituted “Except as provided in sections 7404A(c) and 7410(a)(2) of this title, in no case” for “In no case”.
 
 2019—Pub. L. 116–12, § 1(b)(1)(A)–(E), substituted “physician, podiatrist, or dentist” for “physician or dentist”, “physicians, podiatrists, or dentists” for “physicians or dentists”, “physician, podiatrist, and dentist” for “physician and dentist”, “physicians, podiatrists, and dentists” for “physicians and dentists”, and “Physician, Podiatrist, and Dentist” for “Physician and Dentist” wherever appearing.
@@ -1377,8 +1479,14 @@ Subsec. (c)(4)(B)(i). Pub. L. 111–163, § 601(f)(2), inserted at end “The Se
 
 Subsec. (c)(7). Pub. L. 111–163, § 601(f)(3), substituted “concerned, unless there is a change in board certification or reduction of privileges.” for “concerned.”
 
+#### Effective Date of 2025 Amendment
+Pub. L. 118–210, title I, § 142(a)(5), Jan. 2, 2025, 138 Stat. 2746, provided that: “The amendments made by this subsection [amending this section and sections 7432, 7433, and 7451 of this title] shall apply to any pay period of the Department of Veterans Affairs beginning on or after the date that is 180 days after the date of the enactment of this Act [Jan. 2, 2025].”
+
 #### Effective Date
 Pub. L. 108–445, § 3(d), Dec. 3, 2004, 118 Stat. 2641, provided that: “(1) Notwithstanding the 60-day waiting requirement in [section 7431(e)(1)(C) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7431/e/1/C&num=0&edition=prelim), United States Code (as amended by subsection (b)), pay provided for a physician or dentist under subchapter III of chapter 74 of such title, as amended by subsection (b), shall take effect on the first day of the first pay period applicable to such physician or dentist that begins on or after January 1, 2006. “(2) Pay provided for the Under Secretary for Health under subchapter III of chapter 74 of title 38, United States Code, as amended by this section shall take effect on the first day of the first pay period applicable to the Under Secretary that begins on or after January 1, 2006.”
+
+#### Retroactive Authority for Compensation
+Pub. L. 118–210, title I, § 142(c), Jan. 2, 2025, 138 Stat. 2747, provided that: “(1) In general.—The Secretary of Veterans Affairs may pay retroactive compensation to a covered employee in an amount that equals the amount of compensation that was authorized to be paid to such covered employee during the period specified in paragraph (2), but was deferred and paid to such employee in the calendar year following the calender [sic] year in which such compensation was authorized because the payment [of] such compensation would have exceeded an applicable cap on annual compensation. “(2) Period specified.—The period specified in this paragraph is the period beginning on January 8, 2006, and ending on December 31, 2017. “(3) Exclusion.—Compensation authorized under this subsection shall not be included in the calculation of any aggregate limit on compensation for a covered employee for the year in which it is paid. “(4) Charging of compensation.—Compensation authorized under this subsection shall be charged to the appropriate medical care appropriation account of the Department of Veterans Affairs for the fiscal year in which the work was performed except as follows:“(A) In the case of an account that has closed pursuant to [section 1552 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1552&num=0&edition=prelim), United States Code, the compensation shall be charged to a current appropriation account in accordance with section 1553 of such title. “(B) In the case of an expired account that has not closed, if charging the compensation to the expired account would cause such account to have a negative unliquidated or unexpended balance, the compensation may be charged to a current appropriation account available for the same purpose. “(5) Definitions.—In this subsection:“(A) The term ‘compensation’ means any pay, including salary, awards, and incentives. “(B) The term ‘covered employee’ means a physician, podiatrist, or dentist subject to market pay under [section 7431 of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7431), United States Code.”
 
 #### Pilot Program on Incentives for Physicians Who Assume Inpatient Responsibilities at Community Hospitals in Health Professional Shortage Areas
 Pub. L. 111–163, title III, § 306, May 5, 2010, 124 Stat. 1152, provided that: “(a) Pilot Program Required.—The Secretary of Veterans Affairs shall carry out a pilot program to assess the feasability [sic] and advisability of each of the following:“(1) The provision of financial incentives to eligible physicians who obtain and maintain inpatient privileges at community hospitals in health professional shortage areas in order to facilitate the provision by such physicians of primary care and mental health services to veterans at such hospitals. “(2) The collection of payments from third-party providers for care provided by eligible physicians to nonveterans while discharging inpatient responsibilities at community hospitals in the course of exercising the privileges described in paragraph (1). “(b) Eligible Physicians.—For purposes of this section, an eligible physician is a primary care or mental health physician employed by the Department of Veterans Affairs on a full-time basis. “(c) Duration of Program.—The pilot program shall be carried out during the 3-year period beginning on the date of the commencement of the pilot program. “(d) Locations.—“(1) In general.—The pilot program shall be carried out at not less than five community hospitals in each of not less than two Veterans Integrated Services Networks. The hospitals shall be selected by the Secretary using the results of the survey required under subsection (e). “(2) Qualifying community hospitals.—A community hospital may be selected by the Secretary as a location for the pilot program if—“(A) the hospital is located in a health professional shortage area; and “(B) the number of eligible physicians willing to assume inpatient responsibilities at the hospital (as determined using the result of the survey) is sufficient for purposes of the pilot program. “(e) Survey of Physician Interest in Participation.—“(1) In general.—Not later than 120 days after the date of the enactment of this Act [May 5, 2010], the Secretary shall conduct a survey of eligible physicians to determine the extent of the interest of such physicians in participating in the pilot program. “(2) Elements.—The survey shall disclose the type, amount, and nature of the financial incentives to be provided under subsection (h) to physicians participating in the pilot program. “(f) Physician Participation.—“(1) In general.—The Secretary shall select physicians for participation in the pilot program from among eligible physicians who—“(A) express interest in participating in the pilot program in the survey conducted under subsection (e); “(B) are in good standing with the Department; and “(C) primarily have clinical responsibilities with the Department. “(2) Voluntary participation.—Participation in the pilot program shall be voluntary. Nothing in this section shall be construed to require a physician working for the Department to assume inpatient responsibilities at a community hospital unless otherwise required as a term or condition of employment with the Department. “(g) Assumption of Inpatient Physician Responsibilities.—“(1) In general.—Each eligible physician selected for participation in the pilot program shall assume and maintain inpatient responsibilities, including inpatient responsibilities with respect to nonveterans, at one or more community hospitals selected by the Secretary for participation in the pilot program under subsection (d). “(2) Coverage under federal tort claims act.—If an eligible physician participating in the pilot program carries out on-call responsibilities at a community hospital where privileges to practice at such hospital are conditioned upon the provision of services to individuals who are not veterans while the physician is on call for such hospital, the provision of such services by the physician shall be considered an action within the scope of the physician’s office or employment for purposes of chapter 171 of title 28, United States Code (commonly referred to as the ‘Federal Tort Claims Act’). “(h) Compensation.—“(1) In general.—The Secretary shall provide each eligible physician participating in the pilot program with such compensation (including pay and other appropriate compensation) as the Secretary considers appropriate to compensate such physician for the discharge of any inpatient responsibilities by such physician at a community hospital for which such physician would not otherwise be compensated by the Department as a full-time employee of the Department. “(2) Written agreement.—The amount of any compensation to be provided a physician under the pilot program shall be specified in a written agreement entered into by the Secretary and the physician for purposes of the pilot program. “(3) Treatment of compensation.—The Secretary shall consult with the Director of the Office of Personnel Management on the inclusion of a provision in the written agreement required under paragraph (2) that describes the treatment under Federal law of any compensation provided a physician under the pilot program, including treatment for purposes of retirement under the civil service laws. “(i) Collections From Third Parties.—In carrying out the pilot program for the purpose described in subsection (a)(2), the Secretary shall implement a variety and range of requirements and mechanisms for the collection from third-party payors of amounts to reimburse the Department for health care services provided to nonveterans under the pilot program by eligible physicians discharging inpatient responsibilities under the pilot program. “(j) Report.—Not later than 1 year after the date of the enactment of this Act [May 5, 2010] and annually thereafter, the Secretary shall submit to Congress a report on the pilot program, including the following:“(1) The findings of the Secretary with respect to the pilot program. “(2) The number of veterans and nonveterans provided inpatient care by physicians participating in the pilot program. “(3) The amounts payable and collected under subsection (i). “(k) Definitions.—In this section:“(1) Health professional shortage area.—The term ‘health professional shortage area’ has the meaning given the term in section 332(a) of the Public Health Service Act ([42 U.S.C. 254e(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254e/a&num=0&edition=prelim)). “(2) Inpatient responsibilities.—The term ‘inpatient responsibilities’ means on-call responsibilities customarily required of a physician by a community hospital as a condition of granting privileges to the physician to practice in the hospital.”
@@ -1396,7 +1504,7 @@ Pub. L. 108–445, § 3(c), Dec. 3, 2004, 118 Stat. 2641, provided that: “The 
 
 **(b) Market Pay.—**
 
-(1) In the case of an Under Secretary for Health who is also a physician or dentist, in addition to the base pay specified in subsection (a) the Under Secretary for Health may also be paid the market pay element of pay of physicians and dentists under [section 7431(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7431/c&num=0&edition=prelim).
+(1) In the case of an Under Secretary for Health who is also a physician, podiatrist, optometrist, or dentist, in addition to the base pay specified in subsection (a) the Under Secretary for Health may also be paid the market pay element of pay of physicians and dentists under [section 7431(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7431/c&num=0&edition=prelim).
 
 (2) The amount of market pay of the Under Secretary for Health under this subsection shall be established by the Secretary.
 
@@ -1409,12 +1517,18 @@ Pub. L. 108–445, § 3(c), Dec. 3, 2004, 118 Stat. 2641, provided that: “The 
 #### Prior Provisions
 A prior section 7432, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 189; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title III, § 346, Oct. 9, 1996, 110 Stat. 3208, related to written agreements for special pay, prior to the general amendment of this subchapter by Pub. L. 108–445.
 
+#### Amendments
+2025—Subsec. (b)(1). Pub. L. 118–210 inserted “, podiatrist, optometrist,” after “physician”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 118–210 applicable to any pay period of the Department of Veterans Affairs beginning on or after the date that is 180 days after Jan. 2, 2025, see section 142(a)(5) of Pub. L. 118–210, set out as a note under [section 7431 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7431).
+
 
 <a id="section-7433"></a>
 ## § 7433. Administrative matters
-**(a) Regulations.—** The Secretary shall prescribe regulations relating to the pay of physicians, podiatrists, and dentists in the Veterans Health Administration under this subchapter.
+**(a) Regulations.—** The Secretary shall prescribe regulations relating to the pay of physicians, optometrists, podiatrists, and dentists in the Veterans Health Administration under this subchapter.
 
-**(b) Recommendations and Views.—** In prescribing the regulations, the Secretary shall take into account the recommendations of the Under Secretary for Health on the administration of this subchapter. In formulating recommendations for the purpose of this subsection, the Under Secretary shall request the views of representatives of labor organizations that are exclusive representatives of physicians, podiatrists, and dentists of the Department and the views of representatives of professional organizations of physicians, podiatrists, and dentists of the Department.
+**(b) Recommendations and Views.—** In prescribing the regulations, the Secretary shall take into account the recommendations of the Under Secretary for Health on the administration of this subchapter. In formulating recommendations for the purpose of this subsection, the Under Secretary shall request the views of representatives of labor organizations that are exclusive representatives of physicians, optometrists, podiatrists, and dentists of the Department and the views of representatives of professional organizations of physicians, optometrists, podiatrists, and dentists of the Department.
 
 ### Statutory Notes
 
@@ -1438,6 +1552,8 @@ Section 7439, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 19
 Section 7440, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 198; amended Pub. L. 103–446, title XII, § 1201(c)(6), Nov. 2, 1994, 108 Stat. 4684, related to annual reports of the use of authorities provided in this subchapter.
 
 #### Amendments
+2025—Pub. L. 118–210 inserted “optometrists,” after “physicians,” wherever appearing.
+
 2019—Pub. L. 116–12, § 1(b)(2), substituted “physicians, podiatrists, and dentists” for “physicians and dentists” wherever appearing.
 
 Subsec. (a). Pub. L. 116–12, § 1(b)(5)(B), struck out par. (1) designation before “The Secretary” and redesignated par. (2) as subsec. (b).
@@ -1445,6 +1561,9 @@ Subsec. (a). Pub. L. 116–12, § 1(b)(5)(B), struck out par. (1) designation be
 Subsec. (b). Pub. L. 116–12, § 1(b)(5)(C), inserted heading and substituted “this subsection” for “this paragraph”.
 
 Pub. L. 116–12, § 1(b)(5)(A), (B)(ii), redesignated subsec. (a)(2) as (b) and struck out former subsec. (b) which required reports on the pay of physicians and dentists in the Veterans Health Administration under this subchapter.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 118–210 applicable to any pay period of the Department of Veterans Affairs beginning on or after the date that is 180 days after Jan. 2, 2025, see section 142(a)(5) of Pub. L. 118–210, set out as a note under [section 7431 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7431).
 
 
 <a id="section-7451"></a>
@@ -1459,7 +1578,7 @@ Pub. L. 116–12, § 1(b)(5)(A), (B)(ii), redesignated subsec. (a)(2) as (b) and
 
   (B) Physician assistant.
 
-  (C) Such positions referred to in paragraphs (1) and (3) of [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401) (other than the positions of physician, dentist, registered nurse, physician assistant, and podiatrist) as the Secretary may determine upon the recommendation of the Under Secretary for Health.
+  (C) Such positions referred to in paragraphs (1) and (3) of [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401) (other than the positions of physician, optometrist, dentist, registered nurse, physician assistant, and podiatrist) as the Secretary may determine upon the recommendation of the Under Secretary for Health.
 
 (3)
 
@@ -1595,6 +1714,8 @@ Subsection (g), referred to in subsec. (c)(1), was repealed and subsec. (h), whi
 The General Schedule, referred to in subsec. (d)(1)(A), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2025—Subsec. (a)(2)(C). Pub. L. 118–210 inserted “optometrist,” after “physician,”.
+
 2022—Subsec. (a)(2)(C). Pub. L. 117–103, § 102(a)(1), substituted “physician assistant, and podiatrist” for “and physician assistant”.
 
 Subsec. (c)(2). Pub. L. 117–103, § 102(a)(2), added par. (2) and struck out former par. (2) which read as follows: “The maximum rate of basic pay for any grade for a covered position may not exceed the maximum rate of basic pay established for positions in level IV of the Executive Schedule under [section 5316 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim). The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence.”
@@ -1690,6 +1811,9 @@ Subsec. (d)(3)(D). Pub. L. 102–40, § 301(b)(2)(A), redesignated subpar. (C) a
 Subsec. (d)(4). Pub. L. 102–40, § 301(b)(3), inserted “, or the Chief Medical Director with respect to Regional and Central Office employees,” after “facility”.
 
 Subsec. (g)(8). Pub. L. 102–40, § 401(c)(2)(C), substituted “7452(b)(2)” for “4142(b)(2)”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 118–210 applicable to any pay period of the Department of Veterans Affairs beginning on or after the date that is 180 days after Jan. 2, 2025, see section 142(a)(5) of Pub. L. 118–210, set out as a note under [section 7431 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7431).
 
 #### Effective Date of 1992 Amendment
 Amendment by sections 301(b) to 303 and 304(b) of Pub. L. 102–585 effective with respect to first pay period beginning on or after end of six-month period beginning on Nov. 4, 1992, see section 308 of Pub. L. 102–585, set out as a note under [section 7404 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7404).

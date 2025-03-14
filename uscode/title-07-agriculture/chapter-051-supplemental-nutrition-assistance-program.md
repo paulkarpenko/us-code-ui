@@ -260,15 +260,49 @@ As used in this chapter, the term:
 
 **(t)** “Supplemental nutrition assistance program” means the program operated pursuant to this chapter.
 
-**(u)** “Thrifty food plan” means the diet required to feed a family of four persons consisting of a man and a woman twenty through fifty, a child six through eight, and a child nine through eleven years of age, determined in accordance with the Secretary’s calculations. By 2022 and at 5-year intervals thereafter, the Secretary shall re-evaluate and publish the market baskets of the thrifty food plan based on current food prices, food composition data, consumption patterns, and dietary guidance. The cost of such diet shall be the basis for uniform allotments for all households regardless of their actual composition, except that the Secretary shall—
+**(u) Thrifty Food Plan**
 
-(1) make household-size adjustments (based on the unrounded cost of such diet) taking into account economies of scale;
+(1) **In generalThe term “thrifty food plan” means the diet required to feed a family of 4 persons consisting of a man and a woman ages 20 through 50, a child ages 6 through 8, and a child ages 9 through 11 using the items and quantities of food described in the report of the Department of Agriculture entitled “Thrifty Food Plan, 2021”, and each successor report updated pursuant to this subsection, subject to the conditions that—**
 
-(2) make cost adjustments in the thrifty food plan for Hawaii and the urban and rural parts of Alaska to reflect the cost of food in Hawaii and urban and rural Alaska;
+  (A) the relevant market baskets of the thrifty food plan shall only be changed pursuant to paragraph (4);
 
-(3) make cost adjustments in the separate thrifty food plans for Guam, and the Virgin Islands of the United States to reflect the cost of food in those States, but not to exceed the cost of food in the fifty States and the District of Columbia; and
+  (B) the cost of the thrifty food plan shall be the basis for uniform allotments for all households, regardless of the actual composition of the household; and
 
-(4) on October 1, 1996, and each October 1 thereafter, adjust the cost of the diet to reflect the cost of the diet in the preceding June, and round the result to the nearest lower dollar increment for each household size, except that on October 1, 1996, the Secretary may not reduce the cost of the diet in effect on September 30, 1996, and except that on October 1, 2003, in the case of households residing in Alaska and Hawaii the Secretary may not reduce the cost of such diet in effect on September 30, 2002.
+  (C) the cost of the thrifty food plan may only be adjusted in accordance with this subsection.
+
+(2) **Household adjustments.—** — The Secretary shall make household adjustments using the following ratios of household size as a percentage of the maximum 4-person allotment:
+
+  (A) For a 1-person household, 30 percent.
+
+  (B) For a 2-person household, 55 percent.
+
+  (C) For a 3-person household, 79 percent.
+
+  (D) For a 4-person household, 100 percent.
+
+  (E) For a 5-person household, 119 percent.
+
+  (F) For a 6-person household, 143 percent.
+
+  (G) For a 7-person household, 158 percent.
+
+  (H) For an 8-person household, 180 percent.
+
+  (I) For a household of 9 persons or more, an additional 22 percent per person, which additional percentage shall not total more than 200 percent.
+
+(3) **Allowable cost adjustments.—** — The Secretary shall—
+
+  (A) make cost adjustments in the thrifty food plan for Hawaii and the urban and rural parts of Alaska to reflect the cost of food in Hawaii and urban and rural Alaska;
+
+  (B) make cost adjustments in the separate thrifty food plans for Guam and the Virgin Islands of the United States to reflect the cost of food in those States, but not to exceed the cost of food in the 50 States and the District of Columbia; and
+
+  (C) on October 1, 2025, and on each October 1 thereafter, adjust the cost of the thrifty food plan to reflect changes in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor, for the most recent 12-month period ending in June.
+
+(4) **Re-evaluation of market baskets**
+
+  (A) *Re-evaluationNot earlier than October 1, 2027, the Secretary may re-evaluate the market baskets of the thrifty food plan based on current food prices, food composition data, consumption patterns, and dietary guidance.*
+
+  (B) *Cost neutralityThe Secretary shall not increase the cost of the thrifty food plan based on a re-evaluation under this paragraph.*
 
 **(v)** “Tribal organization” means the recognized governing body of an Indian tribe (including the tribally recognized intertribal organization of such tribes), as the term “Indian tribe” is defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim), as well as any Indian tribe, band, or community holding a treaty with a State government.
 
@@ -285,6 +319,8 @@ The Railroad Retirement Act of 1974, referred to in subsec. (j)(7), is act Aug. 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (u). Pub. L. 119–21 added subsec. (u) and struck out former subsec. (u) which defined thrifty food plan and outlined adjustments to be made by the Secretary.
+
 2018—Subsec. (d)(1). Pub. L. 115–334, § 4022(1)(A), substituted “section 2016(h)” for “section 2016(i)”.
 
 Subsec. (i). Pub. L. 115–334, § 4022(1)(A), substituted “section 2016(h)” for “section 2016(i)”.
@@ -642,7 +678,39 @@ Reference to community health center, migrant health center, public housing heal
 
 <a id="section-2013"></a>
 ## § 2013. Establishment of supplemental nutrition assistance program
-**(a) In general** Subject to the availability of funds appropriated under [section 2027 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2027), the Secretary is authorized to formulate and administer a supplemental nutrition assistance program under which, at the request of the State agency, eligible households within the State shall be provided an opportunity to obtain a more nutritious diet through the issuance to them of an allotment, except that a State may not participate in the supplemental nutrition assistance program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with benefits issued under this chapter. The benefits so received by such households shall be used only to purchase food from retail food stores which have been approved for participation in the supplemental nutrition assistance program. Benefits issued and used as provided in this chapter shall be redeemable at face value by the Secretary through the facilities of the Treasury of the United States.
+**(a) Program**
+
+(1) **Establishment** — Subject to the availability of funds appropriated under [section 2027 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2027), the Secretary is authorized to formulate and administer a supplemental nutrition assistance program under which, at the request of the State agency, eligible households within the State shall be provided an opportunity to obtain a more nutritious diet through the issuance to them of an allotment, except that a State may not participate in the supplemental nutrition assistance program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with benefits issued under this chapter. The benefits so received by such households shall be used only to purchase food from retail food stores which have been approved for participation in the supplemental nutrition assistance program. Benefits issued and used as provided in this chapter shall be redeemable at face value by the Secretary through the facilities of the Treasury of the United States.
+
+(2) **State quality control incentive**
+
+  (A) *Definition of payment error rate* — In this paragraph, the term “payment error rate” has the meaning given the term in [section 2025(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2025/c/2&num=0&edition=prelim).
+
+  (B) *State cost share*
+
+    (i) *In general* — Subject to clause (iii), beginning in fiscal year 2028, if the payment error rate of a State as determined under clause (ii) is—
+
+      (I) less than 6 percent, the Federal share of the cost of the allotment described in paragraph (1) for that State in a fiscal year shall be 100 percent, and the State share shall be 0 percent;
+
+      (II) equal to or greater than 6 percent but less than 8 percent, the Federal share of the cost of the allotment described in paragraph (1) for that State in a fiscal year shall be 95 percent, and the State share shall be 5 percent;
+
+      (III) equal to or greater than 8 percent but less than 10 percent, the Federal share of the cost of the allotment described in paragraph (1) for that State in a fiscal year shall be 90 percent, and the State share shall be 10 percent; and
+
+      (IV) equal to or greater than 10 percent, the Federal share of the cost of the allotment described in paragraph (1) for that State in a fiscal year shall be 85 percent, and the State share shall be 15 percent.
+
+    (ii) *Elections*
+
+      (I) *Fiscal year 2028* — For fiscal year 2028, to calculate the applicable State share under clause (i), a State may elect to use the payment error rate of the State from fiscal year 2025 or 2026.
+
+      (II) *Fiscal year 2029 and thereafter* — For fiscal year 2029 and each fiscal year thereafter, to calculate the applicable State share under clause (i), the Secretary shall use the payment error rate of the State for the third fiscal year preceding the fiscal year for which the State share is being calculated.
+
+    (iii) *Delayed implementation*
+
+      (I) *Fiscal year 2025* — If, for fiscal year 2025, the payment error rate of a State multiplied by 1.5 is equal to or above 20 percent, the implementation date under clause (i) for that State shall be fiscal year 2029.
+
+      (II) *Fiscal year 2026* — If, for fiscal year 2026, the payment error rate of a State multiplied by 1.5 is equal to or above 20 percent, the implementation date under clause (i) for that State shall be fiscal year 2030.
+
+(3) **Maximum Federal payment** — The Secretary may not pay towards the cost of an allotment described in paragraph (1) an amount that is greater than the applicable Federal share under paragraph (2).
 
 **(b) Food distribution program on Indian reservations**
 
@@ -704,6 +772,8 @@ Reference to community health center, migrant health center, public housing heal
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–21 inserted subsec. (a) heading, designated existing provisions as par. (1) and inserted heading, and added pars. (2) and (3).
+
 2018—Subsec. (b)(4). Pub. L. 115–334, § 4003(a)(1), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The Secretary is authorized to pay such amounts for administrative costs and distribution costs on Indian reservations as the Secretary finds necessary for effective administration of such distribution by a State agency or tribal organization.”
 
 Subsec. (b)(6). Pub. L. 115–334, § 4003(a)(2)(A), substituted “locally- and regionally-grown” for “locally-grown” in heading.
@@ -824,7 +894,7 @@ In no event shall the standards of eligibility for the Virgin Islands of the Uni
 
 (12) through September 30 of any fiscal year, any increase in income attributable to a cost-of-living adjustment made on or after July 1 of such fiscal year under title II or XVI of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq., 1381 et seq.], section 3(a)(1) of the Railroad Retirement Act of 1974 ([45 U.S.C. 231b(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231b/a/1&num=0&edition=prelim)), or [section 5312 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5312&num=0&edition=prelim), if the household was certified as eligible to participate in the supplemental nutrition assistance program or received an allotment in the month immediately preceding the first month in which the adjustment was effective;
 
-(13) any payment made to the household under section 3507 1 of title 26 (relating to advance payment of earned income credit);
+(13) any payment made to the household under section 3507 11 See References in Text note below. of title 26 (relating to advance payment of earned income credit);
 
 (14) any payment made to the household under [section 2015(d)(4)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2015/d/4/I&num=0&edition=prelim) or a pilot project under [section 2025(h)(1)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2025/h/1/F&num=0&edition=prelim) for work related expenses or for dependent care;
 
@@ -968,7 +1038,7 @@ In no event shall the standards of eligibility for the Virgin Islands of the Uni
 
     (iv) *Availability of allowance to recipients of energy assistance*
 
-      (I) *In general* — Subject to subclause (II), if a State agency elects to use a standard utility allowance that reflects heating and cooling costs, the standard utility allowance shall be made available to households that received a payment, or on behalf of which a payment was made, under the Low-Income Home Energy Assistance Act of 1981 ([42 U.S.C. 8621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8621&num=0&edition=prelim) et seq.) or other similar energy assistance program, if in the current month or in the immediately preceding 12 months, the household either received such a payment, or such a payment was made on behalf of the household, that was greater than $20 annually, as determined by the Secretary.
+      (I) *In general* — Subject to subclause (II), if a State agency elects to use a standard utility allowance that reflects heating and cooling costs, the standard utility allowance shall be made available to households with an elderly or disabled member that received a payment, or on behalf of which a payment was made, under the Low-Income Home Energy Assistance Act of 1981 ([42 U.S.C. 8621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8621&num=0&edition=prelim) et seq.) or other similar energy assistance program, if in the current month or in the immediately preceding 12 months, the household either received such a payment, or such a payment was made on behalf of the household, that was greater than $20 annually, as determined by the Secretary.
 
       (II) *Separate allowance* — A State agency may use a separate standard utility allowance for households on behalf of which a payment described in subclause (I) is made, but may not be required to do so.
 
@@ -989,6 +1059,8 @@ In no event shall the standards of eligibility for the Virgin Islands of the Uni
     (ii) *Adjustment* — For fiscal year 2019 and each subsequent fiscal year the amount of the homeless shelter deduction specified in clause (i) shall be adjusted to reflect changes for the 12-month period ending the preceding November 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
 
     (iii) *Ineligibility* — The State agency may make a household with extremely low shelter costs ineligible for the alternative deduction under clause (i).
+
+  (E) *Restrictions on internet expenses* — Any service fee associated with internet connection shall not be used in computing the excess shelter expense deduction under this paragraph.
 
 **(f) Calculation of household income; prospective or retrospective accounting basis; consistency**
 
@@ -1186,9 +1258,9 @@ In no event shall the standards of eligibility for the Virgin Islands of the Uni
 
 (4) **Third party energy assistance payments.—**
 
-  (A) *Energy assistance payments.—* — For purposes of subsection (d)(1), a payment made under a State law (other than a law referred to in paragraph (2)(G) to provide energy assistance to a household shall be considered money payable directly to the household.
+  (A) *Energy assistance payments.—* — For purposes of subsection (d)(1), a payment made under a State law (other than a law referred to in paragraph (2)(G) to provide energy assistance to a household without an elderly or disabled member shall be considered money payable directly to the household.
 
-  (B) *Energy assistance expenses.—* — For purposes of subsection (e)(6), an expense paid on behalf of a household under a State law to provide energy assistance shall be considered an out-of-pocket expense incurred and paid by the household.
+  (B) *Energy assistance expenses.—* — For purposes of subsection (e)(6), an expense paid on behalf of a household with an elderly or disabled member under a State law to provide energy assistance shall be considered an out-of-pocket expense incurred and paid by the household.
 
 **(l) Earnings to participants of on-the-job training programs; exception** Notwithstanding section 181(a)(2) of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3241(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3241/a/2&num=0&edition=prelim)], earnings to individuals participating in on-the-job training under title I of such Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.] shall be considered earned income for purposes of the supplemental nutrition assistance program, except for dependents less than 19 years of age.
 
@@ -1219,6 +1291,14 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2025—Subsec. (e)(6)(C)(iv)(I). Pub. L. 119–21, § 10103(a), inserted “with an elderly or disabled member” after “households”.
+
+Subsec. (e)(6)(E). Pub. L. 119–21, § 10104, added subpar. (E).
+
+Subsec. (k)(4)(A). Pub. L. 119–21, § 10103(b)(1), inserted “without an elderly or disabled member” before “shall be”.
+
+Subsec. (k)(4)(B). Pub. L. 119–21, § 10103(b)(2), inserted “with an elderly or disabled member” before “under a State law”.
+
 2018—Subsec. (a). Pub. L. 115–334, § 4022(2), substituted “2012(m)(4)” for “2012(n)(4)” in two places.
 
 Subsec. (e)(6)(D). Pub. L. 115–334, § 4004, added cls. (i) and (ii), redesignated former cl. (ii) as (iii), and struck out former cl. (i). Prior to amendment, text of cl. (i) read as follows: “In lieu of the deduction provided under subparagraph (A), a State agency may elect to allow a household in which all members are homeless individuals, but that is not receiving free shelter throughout the month, to receive a deduction of $143 per month.”
@@ -2151,7 +2231,20 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
 (8) is enrolled full-time in an institution of higher education, as determined by the institution, and is a single parent with responsibility for the care of a dependent child under age 12.
 
-**(f) Aliens** No individual who is a member of a household otherwise eligible to participate in the supplemental nutrition assistance program under this section shall be eligible to participate in the supplemental nutrition assistance program as a member of that or any other household unless he or she is (1) a resident of the United States and (2) either (A) a citizen or (B) an alien lawfully admitted for permanent residence as an immigrant as defined by sections 1101(a)(15) and 1101(a)(20) of title 8, excluding, among others, alien visitors, tourists, diplomats, and students who enter the United States temporarily with no intention of abandoning their residence in a foreign country; or (C) an alien who entered the United States prior to June 30, 1948, or such subsequent date as is enacted by law, has continuously maintained his or her residence in the United States since then, and is not ineligible for citizenship, but who is deemed to be lawfully admitted for permanent residence as a result of an exercise of discretion by the Attorney General pursuant to [section 1259 of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1259&num=0&edition=prelim); or (D) an alien who has qualified for conditional entry pursuant to sections 1157 and 1158 of title 8; or (E) an alien who is lawfully present in the United States as a result of an exercise of discretion by the Attorney General for emergent reasons or reasons deemed strictly in the public interest pursuant to [section 1182(d)(5) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/d/5&num=0&edition=prelim); or (F) an alien within the United States as to whom the Attorney General has withheld deportation pursuant to [section 1231(b)(3) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1231/b/3&num=0&edition=prelim). No aliens other than the ones specifically described in clauses (B) through (F) of this subsection shall be eligible to participate in the supplemental nutrition assistance program as a member of any household. The income (less, at State option, a pro rata share) and financial resources of the individual rendered ineligible to participate in the supplemental nutrition assistance program under this subsection shall be considered in determining the eligibility and the value of the allotment of the household of which such individual is a member.
+**(f) Aliens** No individual who is a member of a household otherwise eligible to participate in the supplemental nutrition assistance program under this section shall be eligible to participate in the supplemental nutrition assistance program as a member of that or any other household unless he or she is—
+
+(1) a resident of the United States; and
+
+(2) either—
+
+  (A) a citizen or national of the United States;
+
+  (B) an alien lawfully admitted for permanent residence as an immigrant as defined by sections 1101(a)(15) and 1101(a)(20) of title 8, excluding, among others, alien visitors, tourists, diplomats, and students who enter the United States temporarily with no intention of abandoning their residence in a foreign country;
+
+  (C) an alien who has been granted the status of Cuban and Haitian entrant, as defined in section 501(e) of the Refugee Education Assistance Act of 1980 (Public Law 96–422); or
+
+  (D) an individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in [section 1612(b)(2)(G) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1612/b/2/G&num=0&edition=prelim).
+The income (less, at State option, a pro rata share) and financial resources of the individual rendered ineligible to participate in the supplemental nutrition assistance program under this subsection shall be considered in determining the eligibility and the value of the allotment of the household of which such individual is a member.
 
 **(g) Residents of States which provide State supplementary payments** No individual who receives supplemental security income benefits under title XVI of the Social Security Act [[42 U.S.C. 1381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1381&num=0&edition=prelim) et seq.], State supplementary payments described in section 1616 of such Act [[42 U.S.C. 1382e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382e&num=0&edition=prelim)], or payments of the type referred to in section 212(a) of Public Law 93–66, as amended, shall be considered to be a member of a household for any month, if, for such month, such individual resides in a State which provides State supplementary payments (1) of the type described in section 1616(a) of the Social Security Act [[42 U.S.C. 1382e(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382e/a&num=0&edition=prelim)] and section 212(a) of Public Law 93–66, and (2) the level of which has been found by the Commissioner of Social Security to have been specifically increased so as to include the bonus value of food stamps.
 
@@ -2249,33 +2342,21 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
   (D) receive benefits pursuant to paragraph (3), (4), (5), or (6).
 
-(3) **Exception** — Paragraph (2) shall not apply to an individual if the individual is—
+(3) **Exceptions** — Paragraph (2) shall not apply to an individual if the individual is—
 
-  (A)
-
-    (i) under 18 years of age; or
-
-    (ii) in—
-
-      (I) fiscal year 2023 over 51 years of age;
-
-      (II) fiscal year 2024 over 53 years of age;
-
-      (III) fiscal year 2025 and each fiscal year thereafter over 55 years of age;
+  (A) under 18, or over 65, years of age;
 
   (B) medically certified as physically or mentally unfit for employment;
 
-  (C) a parent or other member of a household with responsibility for a dependent child;
+  (C) a parent or other member of a household with responsibility for a dependent child under 14 years of age;
 
   (D) otherwise exempt under subsection (d)(2);
 
   (E) a pregnant woman;
 
-  (F) a homeless individual;
+  (F) an Indian or an Urban Indian (as such terms are defined in paragraphs (13) and (28) of [section 1603 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603&num=0&edition=prelim)); or
 
-  (G) a veteran; or
-
-  (H) an individual who is 24 years of age or younger and who was in foster care under the responsibility of a State on the date of attaining 18 years of age or such higher age as the State has elected under section 475(8)(B)(iii) of the Social Security Act ([42 U.S.C. 675(8)(B)(iii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section675/8/B/iii&num=0&edition=prelim)).
+  (G) a California Indian described in [section 1679(a) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1679/a&num=0&edition=prelim).
 
 (4) **Waiver**
 
@@ -2283,9 +2364,15 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
     (i) has an unemployment rate of over 10 percent; or
 
-    (ii) does not have a sufficient number of jobs to provide employment for the individuals.
+    (ii) is in a noncontiguous State and has an unemployment rate that is at or above 1.5 times the national unemployment rate.
 
   (B) *Report* — The Secretary shall report the basis for a waiver under subparagraph (A) to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+
+  (C) *Definition of noncontiguous State*
+
+    (i) *In general* — In this paragraph, the term “noncontiguous State” means a State that is not 1 of the contiguous 48 States or the District of Columbia.
+
+    (ii) *Exclusions* — The term “noncontiguous State” does not include Guam or the Virgin Islands of the United States.
 
 (5) **Subsequent eligibility**
 
@@ -2341,7 +2428,47 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
   (J) *Rule of construction for exemption adjustment* — During fiscal year 2024 and each subsequent fiscal year, nothing in this paragraph shall be interpreted to allow a State agency to accumulate unused exemptions to be provided beyond the subsequent fiscal year.
 
-(7) **Other program rules** — Nothing in this subsection shall make an individual eligible for benefits under this chapter if the individual is not otherwise eligible for benefits under the other provisions of this chapter.
+(7) **Exemption for noncontiguous States**
+
+  (A) *Definition of noncontiguous State*
+
+    (i) *In general* — In this paragraph, the term “noncontiguous State” means a State that is not 1 of the contiguous 48 States or the District of Columbia.
+
+    (ii) *Exclusions* — In this paragraph, the term “noncontiguous State” does not include Guam or the Virgin Islands of the United States.
+
+  (B) *Exemption* — Subject to subparagraph (D), the Secretary may exempt individuals in a noncontiguous State from compliance with the requirements of paragraph (2) if—
+
+    (i) the State agency submits to the Secretary a request for that exemption, made in such form and at such time as the Secretary may require, and including the information described in subparagraph (C); and
+
+    (ii) the Secretary determines that based on that request, the State agency is demonstrating a good faith effort to comply with the requirements of paragraph (2).
+
+  (C) *Good faith effort determination* — In determining whether a State agency is demonstrating a good faith effort for purposes of subparagraph (B)(ii), the Secretary shall consider—
+
+    (i) any actions taken by the State agency toward compliance with the requirements of paragraph (2);
+
+    (ii) any significant barriers to or challenges in meeting those requirements, including barriers or challenges relating to funding, design, development, procurement, or installation of necessary systems or resources;
+
+    (iii) the detailed plan and timeline of the State agency for achieving full compliance with those requirements, including any milestones (as defined by the Secretary); and
+
+    (iv) any other criteria determined appropriate by the Secretary.
+
+  (D) *Duration of exemption*
+
+    (i) *In general* — An exemption granted under subparagraph (B) shall expire not later than December 31, 2028, and may not be renewed beyond that date.
+
+    (ii) *Early termination* — The Secretary may terminate an exemption granted under subparagraph (B) prior to the expiration date of that exemption if the Secretary determines that the State agency—
+
+      (I) has failed to comply with the reporting requirements described in subparagraph (E); or
+
+      (II) based on the information provided pursuant to subparagraph (E), failed to make continued good faith efforts toward compliance with the requirements of this subsection.
+
+  (E) *Reporting requirements* — A State agency granted an exemption under subparagraph (B) shall submit to the Secretary—
+
+    (i) quarterly progress reports on the status of the State agency in achieving the milestones toward full compliance described in subparagraph (C)(iii); and
+
+    (ii) information on specific risks or newly identified barriers or challenges to full compliance, including the plan of the State agency to mitigate those risks, barriers, or challenges.
+
+(8) **Other program rules** — Nothing in this subsection shall make an individual eligible for benefits under this chapter if the individual is not otherwise eligible for benefits under the other provisions of this chapter.
 
 **(p) Disqualification for obtaining cash by destroying food and collecting deposits** Subject to any requirements established by the Secretary, any person who has been found by a State or Federal court or administrative agency in a hearing under subsection (b) to have intentionally obtained cash by purchasing products with supplemental nutrition assistance program benefits that have containers that require return deposits, discarding the product, and returning the container for the deposit amount shall be ineligible for benefits under this chapter for such period of time as the Secretary shall prescribe by regulation.
 
@@ -2389,12 +2516,24 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (d)(2), (4)(B)(ii)(
 
 The Workforce Innovation and Opportunity Act, referred to in subsecs. (d)(4)(M), (e)(3)(A), and (o)(1)(A), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
+Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsec. (f)(2)(C), is section 501(e) of Pub. L. 96–422, which is set out in a note under [section 1522 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1522&num=0&edition=prelim), Aliens and Nationality.
+
 Section 212(a) of Pub. L. 93–66, referred to in subsec. (g), is Pub. L. 93–66, title II, § 212(a), July 9, 1973, 87 Stat. 155, which is set out as a note under [section 1382 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (f). Pub. L. 119–21, § 10108, amended subsec. (f) generally. Prior to amendment, subsec. (f) related to alien eligibility to participate in the supplemental nutrition assistance program.
+
+Subsec. (o)(3). Pub. L. 119–21, § 10102(a), added par. (3) and struck out former par. (3) which related to exceptions from the work requirement for eligibility to participate in the supplemental nutrition assistance program.
+
+Subsec. (o)(4)(A)(ii). Pub. L. 119–21, § 10102(b)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “does not have a sufficient number of jobs to provide employment for the individuals.”
+
+Subsec. (o)(4)(C). Pub. L. 119–21, § 10102(b)(2), added subpar. (C).
+
+Subsec. (o)(7), (8). Pub. L. 119–21, § 10102(c), added par. (7) and redesignated former par. (7) as (8).
+
 2023—Subsec. (o)(3)(A). Pub. L. 118–5, § 311(a)(1), (b)(2), temporarily added subpar. (A) and struck out former subpar. (A) which read as follows: “under 18 or over 50 years of age;”. See Effective and Termination Dates of 2023 Amendment note below.
 
 Subsec. (o)(3)(F) to (H). Pub. L. 118–5, § 311(a)(2)–(4), (b)(2), temporarily added subpars. (F) to (H). See Effective and Termination Dates of 2023 Amendment note below.
@@ -5331,7 +5470,7 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 ## § 2022. Disposition of claims
 **(a) General authority of the Secretary**
 
-(1) **Determination of claims** — Except in the case of an at-risk amount required under [section 2025(c)(1)(D)(i)(II) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2025/c/1/D/i/II&num=0&edition=prelim), the Secretary shall have the power to determine the amount of and settle and adjust any claim and to compromise or deny all or part of any such claim or claims arising under the provisions of this chapter or the regulations issued pursuant to this chapter, including, but not limited to, claims arising from fraudulent and nonfraudulent overissuances to recipients, including the power to waive claims if the Secretary determines that to do so would serve the purposes of this chapter. Such powers with respect to claims against recipients may be delegated by the Secretary to State agencies. The Secretary shall have the power to reduce amounts otherwise due to a State agency under [section 2025 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2025) to collect unpaid claims assessed against the State agency if the State agency has declined or exhausted its appeal rights under [section 2023 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2023).
+(1) **Determination of claims** — Except in the case of an at-risk amount required under [section 2025(c)(1)(D)(i)(II) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2025/c/1/D/i/II&num=0&edition=prelim) or the payment or disposition of a State share under [section 2013(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2013/a/2&num=0&edition=prelim), the Secretary shall have the power to determine the amount of and settle and adjust any claim and to compromise or deny all or part of any such claim or claims arising under the provisions of this chapter or the regulations issued pursuant to this chapter, including, but not limited to, claims arising from fraudulent and nonfraudulent overissuances to recipients, including the power to waive claims if the Secretary determines that to do so would serve the purposes of this chapter. Such powers with respect to claims against recipients may be delegated by the Secretary to State agencies. The Secretary shall have the power to reduce amounts otherwise due to a State agency under [section 2025 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2025) to collect unpaid claims assessed against the State agency if the State agency has declined or exhausted its appeal rights under [section 2023 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2023).
 
 (2) **Claims established under quality control system** — To the extent that a State agency does not pay a claim established under [section 2025(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2025/c/1&num=0&edition=prelim), including an agreement to have all or part of the claim paid through a reduction in Federal administrative funding, within 30 days from the date on which the bill for collection is received by the State agency, the State agency shall be liable for interest on any unpaid portion of such claim accruing from the date on which the bill for collection was received by the State agency, unless the State agency appeals the claim under [section 2025(c)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2025/c/7&num=0&edition=prelim). If the State agency appeals such claim (in whole or in part), the interest on any unpaid portion of the claim shall accrue from the date of the decision on the administrative appeal, or from a date that is 1 year after the date the bill is received, whichever is earlier, until the date the unpaid portion of the payment is received. If the State agency pays such claim (in whole or in part, including an agreement to have all or part of the claim paid through a reduction in Federal administrative funding) and the claim is subsequently overturned through administrative or judicial appeal, any amounts paid by the State agency shall be promptly returned with interest, accruing from the date the payment is received until the date the payment is returned.
 
@@ -5417,6 +5556,8 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–21 inserted “or the payment or disposition of a State share under [section 2013(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2013/a/2&num=0&edition=prelim)” after “[section 2025(c)(1)(D)(i)(II) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2025/c/1/D/i/II&num=0&edition=prelim)”.
+
 2014—Subsec. (a)(1). Pub. L. 113–79 substituted “[section 2025(c)(1)(D)(i)(II) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2025/c/1/D/i/II&num=0&edition=prelim)” for “[section 2025(c)(1)(D)(i)(III) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2025/c/1/D/i/III&num=0&edition=prelim)”.
 
 2008—Pub. L. 110–246, § 4115(b)(9), substituted “benefits” for “coupons” wherever appearing.
@@ -5696,7 +5837,7 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 
 <a id="section-2025"></a>
 ## § 2025. Administrative cost-sharing and quality control
-**(a) Administrative costs** Subject to subsection (k), the Secretary is authorized to pay to each State agency an amount equal to 50 per centum of all administrative costs involved in each State agency’s operation of the supplemental nutrition assistance program, which costs shall include, but not be limited to, the cost of (1) the certification of applicant households, (2) the acceptance, storage, protection, control, and accounting of benefits after their delivery to receiving points within the State, (3) the issuance of benefits to all eligible households, (4) informational activities relating to the supplemental nutrition assistance program, including those undertaken under [section 2020(e)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2020/e/1/A&num=0&edition=prelim), but not including recruitment activities designed to persuade an individual to apply for program benefits or that promote the program through television, radio, or billboard advertisements, (5) fair hearings, (6) automated data processing and information retrieval systems subject to the conditions set forth in subsection (g), (7) supplemental nutrition assistance program investigations and prosecutions, (8) implementing and operating the immigration status verification system established under section 1137(d) of the Social Security Act ([42 U.S.C. 1320b–7(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–7/d&num=0&edition=prelim)), and (9) establishing and operating a longitudinal database in accordance with [section 2026(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2026/n&num=0&edition=prelim): Provided, That the Secretary is authorized at the Secretary’s discretion to pay any State agency administering the supplemental nutrition assistance program on all or part of an Indian reservation under [section 2020(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2020/d&num=0&edition=prelim) or in a Native village within the State of Alaska identified in [section 1610(b) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1610/b&num=0&edition=prelim), such amounts for administrative costs as the Secretary determines to be necessary for effective operation of the supplemental nutrition assistance program, as well as to permit each State to retain 35 percent of the value of all funds or allotments recovered or collected pursuant to sections 2015(b) and 2022(c) of this title and 20 percent of the value of any other funds or allotments recovered or collected, except the value of funds or allotments recovered or collected that arise from an error of a State agency. The officials responsible for making determinations of ineligibility under this chapter shall not receive or benefit from revenues retained by the State under the provisions of this subsection.
+**(a) Administrative costs** Subject to subsection (k), the Secretary is authorized to pay to each State agency, through fiscal year 2026, 50 percent, and for fiscal year 2027 and each fiscal year thereafter, 25 percent, of all administrative costs involved in each State agency’s operation of the supplemental nutrition assistance program, which costs shall include, but not be limited to, the cost of (1) the certification of applicant households, (2) the acceptance, storage, protection, control, and accounting of benefits after their delivery to receiving points within the State, (3) the issuance of benefits to all eligible households, (4) informational activities relating to the supplemental nutrition assistance program, including those undertaken under [section 2020(e)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2020/e/1/A&num=0&edition=prelim), but not including recruitment activities designed to persuade an individual to apply for program benefits or that promote the program through television, radio, or billboard advertisements, (5) fair hearings, (6) automated data processing and information retrieval systems subject to the conditions set forth in subsection (g), (7) supplemental nutrition assistance program investigations and prosecutions, (8) implementing and operating the immigration status verification system established under section 1137(d) of the Social Security Act ([42 U.S.C. 1320b–7(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–7/d&num=0&edition=prelim)), and (9) establishing and operating a longitudinal database in accordance with [section 2026(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2026/n&num=0&edition=prelim): Provided, That the Secretary is authorized at the Secretary’s discretion to pay any State agency administering the supplemental nutrition assistance program on all or part of an Indian reservation under [section 2020(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2020/d&num=0&edition=prelim) or in a Native village within the State of Alaska identified in [section 1610(b) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1610/b&num=0&edition=prelim), such amounts for administrative costs as the Secretary determines to be necessary for effective operation of the supplemental nutrition assistance program, as well as to permit each State to retain 35 percent of the value of all funds or allotments recovered or collected pursuant to sections 2015(b) and 2022(c) of this title and 20 percent of the value of any other funds or allotments recovered or collected, except the value of funds or allotments recovered or collected that arise from an error of a State agency. The officials responsible for making determinations of ineligibility under this chapter shall not receive or benefit from revenues retained by the State under the provisions of this subsection.
 
 **(b) Work supplementation or support program**
 
@@ -5736,7 +5877,7 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 
       (I) for fiscal year 2014, at an amount not greater than $37; and
 
-      (II) for each fiscal year thereafter, the amount specified in subclause (I) adjusted by the percentage by which the thrifty food plan is adjusted under [section 2012(u)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/u/4&num=0&edition=prelim) between June 30, 2013, and June 30 of the immediately preceding fiscal year.
+      (II) for each fiscal year thereafter, the amount specified in subclause (I) adjusted by the percentage by which the thrifty food plan is adjusted under [section 2012(u)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/u/3&num=0&edition=prelim) between June 30, 2013, and June 30 of the immediately preceding fiscal year.
 
   (B) *Quality control system integrity*
 
@@ -6445,6 +6586,10 @@ The Social Security Act, referred to in subsecs. (e), (g)(1)(D), (h)(1)(F)(i)(I)
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–21, § 10106, substituted “agency, through fiscal year 2026, 50 percent, and for fiscal year 2027 and each fiscal year thereafter, 25 percent,” for “agency an amount equal to 50 per centum”.
+
+Subsec. (c)(1)(A)(ii)(II). Pub. L. 119–21, § 10101(b)(1), substituted “section 2012(u)(3)” for “section 2012(u)(4)”.
+
 2018—Subsec. (a). Pub. L. 115–334, § 4015(b), added cl. (9).
 
 Subsec. (c)(1)(B). Pub. L. 115–334, § 4013(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to adjustment of Federal share of administrative costs for fiscal years before fiscal year 2003.
@@ -7267,7 +7412,7 @@ The results of such studies and reports shall be considered in developing or upd
 #### References in Text
 The Social Security Act, referred to in subsecs. (b)(1)(B)(v), (vi), (2)(A), (B), (I), (d)(1)(B), (3)(C), and (m)(2)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title IV, part A of title IV, title XVI, and title XIX of the Act are classified generally to subchapter IV (§ 601 et seq.), part A (§ 601 et seq.) of subchapter IV, subchapter XVI (§ 1381 et seq.), and subchapter XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part F of title IV of the Act was classified generally to part F (§ 681 et seq.) of subchapter IV of chapter 7 of Title 42, prior to repeal by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-Sections 481 to 487 of the Social Security Act, referred to in subsec. (b)(2)(C), (E), were classified to section 681 to 687, respectively, of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167.
+Sections 481 to 487 of the Social Security Act, referred to in subsec. (b)(2)(B), (C), (E), were classified to section 681 to 687, respectively, of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167.
 
 Section 402 of the Social Security Act, referred to in subsec. (b)(2)(C), which was classified to [section 602 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section602&num=0&edition=prelim), The Public Health and Welfare, was repealed and a new section 402 enacted by Pub. L. 104–193, title I, § 103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, no longer contains subsecs. (a)(19) and (g).
 
@@ -7755,7 +7900,7 @@ Amounts available to carry out food stamp program [now supplemental nutrition as
 
     (i) for fiscal year 2003, $1,401,000,000; and
 
-    (ii) subject to the availability of appropriations under [section 2027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2027/a&num=0&edition=prelim), for each fiscal year thereafter, the amount specified in clause (i), as adjusted by the percentage by which the thrifty food plan has been adjusted under [section 2012(u)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/u/4&num=0&edition=prelim) between June 30, 2002, and June 30 of the immediately preceding fiscal year.
+    (ii) subject to the availability of appropriations under [section 2027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2027/a&num=0&edition=prelim), for each fiscal year thereafter, the amount specified in clause (i), as adjusted by the percentage by which the thrifty food plan has been adjusted under [section 2012(u)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/u/3&num=0&edition=prelim) between June 30, 2002, and June 30 of the immediately preceding fiscal year.
 
   (B) *Payments to Commonwealth of Puerto Rico*
 
@@ -7863,6 +8008,8 @@ Amounts available to carry out food stamp program [now supplemental nutrition as
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (a)(2)(A)(ii). Pub. L. 119–21 substituted “section 2012(u)(3)” for “section 2012(u)(4)”.
+
 2014—Subsec. (e). Pub. L. 113–79 added subsec. (e).
 
 2008—Subsec. (a)(2)(A)(ii). Pub. L. 110–246, §§ 4115(b)(13), 4406(a)(6), substituted “subject to the availability of appropriations under [section 2027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2027/a&num=0&edition=prelim), for each fiscal year thereafter” for “for each of fiscal years 2004 through 2007” and “section 2012(u)(4)” for “section 2012(o)(4)”.
@@ -8715,7 +8862,7 @@ Amendment by sections 4001(b), 4002(a)(12), and 4115(b)(16) of Pub. L. 110–246
 
   (B) for fiscal year 2009, $250,000,000;
 
-  (C) for each of fiscal years 2010 through 2023, the dollar amount of commodities specified in subparagraph (B) adjusted by the percentage by which the thrifty food plan has been adjusted under [section 2012(u)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/u/4&num=0&edition=prelim) between June 30, 2008, and June 30 of the immediately preceding fiscal year;
+  (C) for each of fiscal years 2010 through 2023, the dollar amount of commodities specified in subparagraph (B) adjusted by the percentage by which the thrifty food plan has been adjusted under [section 2012(u)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/u/3&num=0&edition=prelim) between June 30, 2008, and June 30 of the immediately preceding fiscal year;
 
   (D) for each of fiscal years 2015 through 2023, the sum obtained by adding the total dollar amount of commodities specified in subparagraph (C) and—
 
@@ -8737,7 +8884,7 @@ Amendment by sections 4001(b), 4002(a)(12), and 4115(b)(16) of Pub. L. 110–246
 
     (ix) for fiscal year 2023, $35,000,000; and
 
-  (E) for fiscal year 2024 and each subsequent fiscal year, the total dollar amount of commodities specified in subparagraph (D)(ix) adjusted by the percentage by which the thrifty food plan has been adjusted under [section 2012(u)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/u/4&num=0&edition=prelim) to reflect changes between June 30, 2023, and June 30 of the immediately preceding fiscal year.
+  (E) for fiscal year 2024 and each subsequent fiscal year, the total dollar amount of commodities specified in subparagraph (D)(ix) adjusted by the percentage by which the thrifty food plan has been adjusted under [section 2012(u)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/u/3&num=0&edition=prelim) to reflect changes between June 30, 2023, and June 30 of the immediately preceding fiscal year.
 
 (3) **Funds availability** — For purposes of the funds described in this subsection, the Secretary shall—
 
@@ -8759,6 +8906,8 @@ Amendment by sections 4001(b), 4002(a)(12), and 4115(b)(16) of Pub. L. 110–246
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (a)(2). Pub. L. 119–21 substituted “section 2012(u)(3)” for “section 2012(u)(4)” in subpars. (C) and (E).
+
 2018—Subsec. (a)(1), (2)(C). Pub. L. 115–334, § 4018(e)(1), (2)(A), substituted “2023” for “2018”.
 
 Subsec. (a)(2)(D). Pub. L. 115–334, § 4018(e)(2)(B)(i), substituted “2023” for “2018” in introductory provisions.
@@ -8932,7 +9081,7 @@ Pub. L. 107–171, title IV, § 4126(b), May 13, 2002, 116 Stat. 328, provided t
 
   (E) for fiscal year 2015, $407,000,000; and
 
-  (F) for fiscal year 2016 and each subsequent fiscal year, the applicable amount during the preceding fiscal year, as adjusted to reflect any increases for the 12-month period ending the preceding June 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+  (F) for each of fiscal years 2016 through 2025, the applicable amount during the preceding fiscal year, as adjusted to reflect any increases for the 12-month period ending the preceding June 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
 
 (2) **Allocation**
 
@@ -8993,6 +9142,8 @@ Pub. L. 107–171, title IV, § 4126(b), May 13, 2002, 116 Stat. 328, provided t
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (d)(1)(F). Pub. L. 119–21 substituted “for each of fiscal years 2016 through 2025” for “for fiscal year 2016 and each subsequent fiscal year”.
+
 2018—Subsec. (c)(2)(B). Pub. L. 115–334, § 4019(1)(A)(i), substituted “A” for “Except as provided in subparagraph (C), a” in introductory provisions.
 
 Subsec. (c)(2)(B)(iii), (iv). Pub. L. 115–334, § 4019(1)(A)(ii)–(iv), added cl. (iii) and redesignated former cl. (iii) as (iv).

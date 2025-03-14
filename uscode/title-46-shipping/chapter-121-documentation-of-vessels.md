@@ -763,7 +763,7 @@ A prior section 12118, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 589, originally 
 
 (2) **Cargo.—** — The term “cargo” does not include cargo to which title is held for non-commercial reasons and primarily for the purpose of evading the requirements of subsection (c)(3).
 
-(3) **Oil.—** — The term “oil” has the meaning given that term in [section 2101(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/26&num=0&edition=prelim).
+(3) **Oil.—** — The term “oil” has the meaning given that term in [section 2101(28) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/28&num=0&edition=prelim).
 
 (4) **Passive investment.—** — The term “passive investment” means an investment in which neither the investor nor any affiliate of the investor is involved in, or has the power to be involved in, the formulation, determination, or direction of any activity or function concerning the management, use, or operation of the asset that is the subject of the investment.
 
@@ -857,10 +857,12 @@ Subsection (e) is substituted for “(3) Upon termination by a demise charterer 
 A prior section 12119, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 589; Pub. L. 100–710, title I, § 104(a)(4), Nov. 23, 1988, 102 Stat. 4750, originally derived from sections 65s and 881 of former Title 46, Shipping, related to list of documented vessels, prior to the general amendment of this chapter by Pub. L. 109–304. See [section 12138 of this title](./chapter-121-documentation-of-vessels.md#section-12138).
 
 #### Amendments
+2025—Subsec. (a)(3). Pub. L. 119–60 substituted “section 2101(28)” for “section 2101(26)”.
+
 2018—Subsec. (a)(3). Pub. L. 115–232 substituted “section 2101(26)” for “section 2101(20)”.
 
 #### Application to Certain Certificates
-Pub. L. 108–293, title VI, § 608(c), Aug. 9, 2004, 118 Stat. 1057, provided that: “(1) In general.—The amendments made by this section [amending provisions from which this section was derived], and any regulations published after February 4, 2004, with respect to coastwise endorsements, shall not apply to a certificate of documentation, or renewal thereof, endorsed with a coastwise endorsement for a vessel under section 12106(e) [now section 12119(b), (d)–(f)] of title 46, United States Code, or a replacement vessel of a similar size and function, that was issued prior to the date of enactment of this Act [Aug. 9, 2004] as long as the vessel is owned by the person named therein, or by a subsidiary or affiliate of that person, and the controlling interest in such owner has not been transferred to a person that was not an affiliate of such owner as of the date of enactment of this Act. Notwithstanding the preceding sentence, however, the amendments made by this section shall apply, beginning 3 years after the date of enactment of this Act, with respect to offshore supply vessels (as defined in section 2101(19) [now 2101(25)] of title 46, United States Code, as that section was in effect on the date of enactment of this Act) with a certificate of documentation endorsed with a coastwise endorsement as of the date of enactment of this Act, and the Secretary of the Department in which the Coast Guard is operating shall revoke any such certificate if the vessel does not by then meet the requirements of [section 12106(e) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12106/e&num=0&edition=prelim), United States Code, as amended by this section. “(2) Replacement Vessel.—For the purposes of this subsection, ‘replacement vessel’ means—“(A) a temporary replacement vessel for a period of not to exceed 180 days if the vessel described in paragraph (1) is unavailable due to an act of God or a marine casualty; or “(B) a permanent replacement vessel if—“(i) the vessel described in paragraph (1) is unavailable for more than 180 days due to an act of God or a marine casualty; or “(ii) a contract to purchase or construct such replacement vessel is executed not later than December 31, 2004.”
+Pub. L. 108–293, title VI, § 608(c), Aug. 9, 2004, 118 Stat. 1057, provided that: “(1) In general.—The amendments made by this section [amending provisions from which this section was derived], and any regulations published after February 4, 2004, with respect to coastwise endorsements, shall not apply to a certificate of documentation, or renewal thereof, endorsed with a coastwise endorsement for a vessel under section 12106(e) [now section 12119(b), (d)–(f)] of title 46, United States Code, or a replacement vessel of a similar size and function, that was issued prior to the date of enactment of this Act [Aug. 9, 2004] as long as the vessel is owned by the person named therein, or by a subsidiary or affiliate of that person, and the controlling interest in such owner has not been transferred to a person that was not an affiliate of such owner as of the date of enactment of this Act. Notwithstanding the preceding sentence, however, the amendments made by this section shall apply, beginning 3 years after the date of enactment of this Act, with respect to offshore supply vessels (as defined in section 2101(19) [now 2101(27)] of title 46, United States Code, as that section was in effect on the date of enactment of this Act) with a certificate of documentation endorsed with a coastwise endorsement as of the date of enactment of this Act, and the Secretary of the Department in which the Coast Guard is operating shall revoke any such certificate if the vessel does not by then meet the requirements of [section 12106(e) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12106/e&num=0&edition=prelim), United States Code, as amended by this section. “(2) Replacement Vessel.—For the purposes of this subsection, ‘replacement vessel’ means—“(A) a temporary replacement vessel for a period of not to exceed 180 days if the vessel described in paragraph (1) is unavailable due to an act of God or a marine casualty; or “(B) a permanent replacement vessel if—“(i) the vessel described in paragraph (1) is unavailable for more than 180 days due to an act of God or a marine casualty; or “(ii) a contract to purchase or construct such replacement vessel is executed not later than December 31, 2004.”
 
 #### Waiver of Qualified Proprietary Cargo Requirement
 Pub. L. 108–293, title VI, § 608(d), Aug. 9, 2004, 118 Stat. 1057, provided that: “The Secretary of Transportation shall waive or reduce the qualified proprietary cargo requirement of section 12106(f)(3)(A)(iii) [now section 12119(c)(3)(A)(iii)] of title 46, United States Code, for a vessel if the person that owns the vessel (or, if the vessel is owned by a trust or similar arrangement, the beneficiary of the trust or similar arrangement) notifies the Secretary that circumstances beyond the direct control of such person or its affiliates prevent, or reasonably threaten to prevent, such person from satisfying such requirement, and the Secretary does not, with good cause, determine otherwise. The waiver or reduction shall apply during the period of time that such circumstances exist.”
@@ -957,7 +959,7 @@ Pub. L. 107–295, title II, § 207(c)(1), Nov. 25, 2002, 116 Stat. 2097, provid
 
 <a id="section-12131"></a>
 ## § 12131. Command of documented vessels
-**(a) In General.—** Except as provided in subsection (b), a documented vessel may be placed under the command only of a citizen of the United States.
+**(a) In General.—** Except as provided in subsection (b), a documented vessel may be placed under the command only of a citizen or noncitizen national (as such term is described in section 308 of the Immigration and Nationality Act ([8 U.S.C. 1408](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1408&num=0&edition=prelim))) of the United States.
 
 **(b) Exceptions.—** Subsection (a) does not apply to—
 
@@ -973,6 +975,8 @@ Pub. L. 107–295, title II, § 207(c)(1), Nov. 25, 2002, 116 Stat. 2097, provid
 | 12131 | 46:12110(d). |  |
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 inserted “or noncitizen national (as such term is described in section 308 of the Immigration and Nationality Act ([8 U.S.C. 1408](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1408&num=0&edition=prelim)))” after “citizen”.
+
 2008—Subsec. (a). Pub. L. 110–181 substituted “command” for “commmand”.
 
 
@@ -1040,7 +1044,7 @@ A certificate of documentation or an endorsement on the certificate is invalid i
 
 (1) no longer meets the requirements of this chapter and regulations prescribed under this chapter applicable to the certificate or endorsement; or
 
-(2) is placed under the command of an individual not a citizen of the United States in violation of [section 12131 of this title](./chapter-121-documentation-of-vessels.md#section-12131).
+(2) is placed under the command of an individual not a citizen or noncitizen national (as such term is described in section 308 of the Immigration and Nationality Act ([8 U.S.C. 1408](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1408&num=0&edition=prelim))) of the United States in violation of [section 12131 of this title](./chapter-121-documentation-of-vessels.md#section-12131).
 
 ### Statutory Notes
 
@@ -1050,6 +1054,9 @@ A certificate of documentation or an endorsement on the certificate is invalid i
 | 12135 | 46:12111(a). |  |
 
 In paragraph (2), the words “except for a recreational endorsement” are omitted as unnecessary because a recreational endorsement does not permit a vessel to engage in a trade.
+
+#### Amendments
+2025—Par. (2). Pub. L. 119–60 inserted “or noncitizen national (as such term is described in section 308 of the Immigration and Nationality Act ([8 U.S.C. 1408](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1408&num=0&edition=prelim)))” after “citizen”.
 
 
 <a id="section-12136"></a>

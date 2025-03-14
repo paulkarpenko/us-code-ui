@@ -177,7 +177,7 @@ Subsec. (g)(1). Pub. L. 118–63, § 701(1), inserted “(including long-term re
 
 Subsec. (g)(2)(E). Pub. L. 118–63, § 701(2), added subpar. (E).
 
-Subsec. (h). Pub. L. 118–63, § 781, substituted “may” for “shall” in introductory provisions.
+Subsec. (h). Pub. L. 118–63, § 781, substituted “may consult” for “shall consult” in introductory provisions.
 
 Pub. L. 118–63, § 347(a)(2)(B), substituted “subsection (a)(7)” for “subsection (a)(6)” in introductory provisions.
 
@@ -215,131 +215,7 @@ Pub. L. 118–63, title III, § 342(d), May 16, 2024, 138 Stat. 1100, provided t
 Pub. L. 118–63, title III, § 347(a)(3), May 16, 2024, 138 Stat. 1104, provided that: “In carrying out [section 47101(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47101/a&num=0&edition=prelim), United States Code, as amended by this subsection, the Administrator [of the Federal Aviation Administration] shall establish a process to continuously track and evaluate ground traffic and air traffic activity and related incidents at airports.”
 
 #### Runway and Surface Safety
-Pub. L. 118–63, title III, § 347(b)–(f), May 16, 2024, 138 Stat. 1104–1107, provided that: “(b) Runway Safety Council.—
-
-(1) In general.—Not later than 6 months after the date of enactment of this Act [May 16, 2024], the Administrator [of the Federal Aviation Administration] shall establish a council, to be known as the ‘Runway Safety Council’ (in this section referred to as the ‘Council’), to develop a systematic management strategy to address airport surface safety risks.
-
-“(2) Duties.—The duties of the Council shall include, at a minimum, advancing the development of risk-based, data driven, integrated systems solutions and strategies to enhance airport surface safety risk mitigation.
-
-“(3) Membership.—
-
-“(A) In general.—In establishing the Council, the Administrator shall appoint at least 1 member from each of the following:
-
-“(i) Airport operators.
-
-“(ii) Air carriers.
-
-“(iii) Aircraft operators.
-
-“(iv) Avionics manufacturers.
-
-“(v) Flight schools.
-
-“(vi) The exclusive collective bargaining representative of aviation safety professionals for the FAA [Federal Aviation Administration] certified under [section 7111 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7111&num=0&edition=prelim), United States Code.
-
-“(vii) The exclusive bargaining representative of the air traffic controllers certified under [section 7111 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7111&num=0&edition=prelim), United States Code.
-
-“(viii) Other safety experts the Administrator determines appropriate.
-
-“(B) Additional members.—The Administrator may appoint members representing any other stakeholder organization that the Administrator determines appropriate to the Runway Safety Council.
-
-“(c) Airport Surface Safety Technologies.—
-
-“(1) Identification.—Not later than 6 months after the date of enactment of this Act, the Administrator shall, in coordination with the Council, consult with relevant stakeholders to identify technologies, equipment, systems, and process changes, that—
-
-“(A) may provide airport surface surveillance capabilities at airports lacking such capabilities;
-
-“(B) may augment existing airport surface detection and surveillance system; or
-
-“(C) may improve onboard situational awareness for flight crewmembers, including technologies for use in an aircraft that—
-
-“(i) reduce the risk of collision on the runway with other aircraft or vehicles;
-
-“(ii) calculate safe landing distances; and
-
-“(iii) prompt actions to bring the aircraft to a safe stop.
-
-“(2) Criteria.—Not later than 1 year after the date of enactment of this Act, the Administrator shall—
-
-“(A) based on the information obtained pursuant to paragraph (1)(A) and (1)(B), identify airport surface detection and surveillance systems that meet the standards of the FAA and may be able to—
-
-“(i) provide airport surface surveillance capabilities at airports lacking such capabilities; or
-
-“(ii) augment existing airport surface detection and surveillance systems, such as Airport Surface Detection System—Model X or the Airport Surface Surveillance Capability;
-
-“(B) establish a timeline and action plan for replacing, maintaining, or enhancing the operational capability provided by existing airport surface detection and surveillance systems, and implementing runway safety technologies at airports without airport surface detection and surveillance systems, as needed, to improve runway safety;
-
-“(C) based on the information obtained pursuant to paragraph (1)(C), identify safety technologies and systems in transport airplanes that meet the standards of the FAA that will—
-
-“(i) enhance runway safety for transport airplanes that lack the capabilities of such technologies and systems, as appropriate; or
-
-“(ii) augment existing onboard situational awareness runway traffic alerting and runway landing safety technologies installed on transport airplanes; and
-
-“(D) establish clear and quantifiable criteria relating to operational factors, including ground traffic and air traffic activity and the rate of runway and terminal airspace safety events (including runway incursions), that determine when the installation and deployment of an airport surface detection or surveillance system, or other runway safety system (including runway status lights), at an airport is required.
-
-“(3) Deployment.—Not later than 5 years after the date of enactment of this Act, the Administrator shall ensure that airport surface detection and surveillance systems are deployed and operational at—
-
-“(A) all airports described in paragraph (2)(A); and
-
-“(B) all medium and large hub airports.
-
-“(4) Briefing.—Not later than 3 years after the date of enactment of this Act, the Administrator shall brief the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives] on the progress of the deployment described in paragraph (3).
-
-“(d) Foreign Object Debris Detection.—
-
-“(1) In general.—Not later than 3 years after the date of enactment of this Act [May 16, 2024], the Administrator shall assess, in coordination with the Council, automated foreign object debris monitoring and detection systems at not less than 3 airports that are using such systems.
-
-“(2) Considerations.—In conducting the assessment under paragraph (1), the Administrator shall consider the following:
-
-“(A) The categorization of an airport.
-
-“(B) The potential frequency of foreign object debris incidents on airport runways or adjacent ramp areas.
-
-“(C) The availability of funding for the installation and maintenance of foreign object debris monitoring and detection systems.
-
-“(D) The impact of such systems on the airfield operations of an airport.
-
-“(E) The effectiveness of available foreign object debris monitoring and detection systems.
-
-“(F) Any other factors relevant to assessing the return on investment of foreign object debris monitoring and detection systems.
-
-“(3) Consultation.—In carrying out this subsection, the Administrator and the Council shall consult with manufacturers and suppliers of foreign object debris detection technology and any other relevant stakeholders.
-
-“(e) Runway Safety Study.—
-
-“(1) In general.—Not later than 2 years after the date of enactment of this Act, the Administrator shall seek to enter into appropriate arrangements with a federally funded research and development center to conduct a study of runway incursions, airport surface incidents, operational errors, or losses of standard separation of aircraft in the approach or departure phase of flight to determine how advanced technologies and future airport development projects may be able to reduce the frequency of such events and enhance aviation safety.
-
-“(2) Considerations.—In conducting the study under paragraph (1), the federally funded research and development center shall—
-
-“(A) examine data relating to recurring runway incursions, surface incidents, operational errors, or losses of standard separation of aircraft in the approach or departure phase of flight at airports to identify the underlying factors that caused such events;
-
-“(B) assess metrics used to identify when such events are increasing at an airport;
-
-“(C) assess available and developmental technologies, including and beyond such technologies considered in subsection (c), that may augment existing air traffic management capabilities of surface surveillance and terminal airspace equipment;
-
-“(D) consider growth trends in airport size, staffing and communication complexities to identify—
-
-“(i) future gaps in information exchange between aerospace stakeholders; and
-
-“(ii) methods for meeting future near real-time information sharing needs; and
-
-“(E) examine airfield safety training programs used by airport tenants and other stakeholders operating on airfields of airports, including airfield familiarization training programs for employees, to assess scalability to handle future growth in airfield capacity and traffic.
-
-“(3) Recommendations.—In conducting the study required by paragraph (1), the federally funded research and development center shall develop recommendations for the strategic planning efforts of the Administration to appropriately maintain surface safety considering future increases in air traffic and based on the considerations described in paragraph (2).
-
-“(4) Report to congress.—Not later than 90 days after the completion of the study required by paragraph (1), the Administrator shall submit to the appropriate committees of Congress a report on the findings of such study and any recommendations developed under paragraph (3).
-
-“(f) Definitions.—In this section:
-
-“(1) Air carrier; foreign air carrier.—The terms ‘air carrier’ and ‘foreign air carrier’ have the meanings given such terms in [section 40102 of title 49](./chapter-401-general-provisions.md#section-40102), United States Code.
-
-“(2) Airport surface detection and surveillance system.—The term ‘airport surface detection and surveillance system’ means an airport surveillance system that is—
-
-“(A) designed to track surface movement of aircraft and vehicles; or
-
-“(B) capable of alerting air traffic controllers or flight crewmembers of a possible runway incursion, misaligned approach, or other safety event.
-
-“(3) Transport airplane.—The term ‘transport airplane’ means a transport category airplane designed for operation by an air carrier or foreign air carrier jet type-certificated with a passenger seating capacity of at least 10 seats or a maximum takeoff weight above 12,500 pounds or an all-cargo or combi derivative of such an airplane.”
+Pub. L. 118–63, title III, § 347(b)–(f), May 16, 2024, 138 Stat. 1104–1107, provided that: “(b) Runway Safety Council.—“(1) In general.—Not later than 6 months after the date of enactment of this Act [May 16, 2024], the Administrator [of the Federal Aviation Administration] shall establish a council, to be known as the ‘Runway Safety Council’ (in this section referred to as the ‘Council’), to develop a systematic management strategy to address airport surface safety risks. “(2) Duties.—The duties of the Council shall include, at a minimum, advancing the development of risk-based, data driven, integrated systems solutions and strategies to enhance airport surface safety risk mitigation. “(3) Membership.—“(A) In general.—In establishing the Council, the Administrator shall appoint at least 1 member from each of the following:“(i) Airport operators. “(ii) Air carriers. “(iii) Aircraft operators. “(iv) Avionics manufacturers. “(v) Flight schools. “(vi) The exclusive collective bargaining representative of aviation safety professionals for the FAA [Federal Aviation Administration] certified under [section 7111 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7111&num=0&edition=prelim), United States Code. “(vii) The exclusive bargaining representative of the air traffic controllers certified under [section 7111 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7111&num=0&edition=prelim), United States Code. “(viii) Other safety experts the Administrator determines appropriate. “(B) Additional members.—The Administrator may appoint members representing any other stakeholder organization that the Administrator determines appropriate to the Runway Safety Council. “(c) Airport Surface Safety Technologies.—“(1) Identification.—Not later than 6 months after the date of enactment of this Act, the Administrator shall, in coordination with the Council, consult with relevant stakeholders to identify technologies, equipment, systems, and process changes, that—“(A) may provide airport surface surveillance capabilities at airports lacking such capabilities; “(B) may augment existing airport surface detection and surveillance system; or “(C) may improve onboard situational awareness for flight crewmembers, including technologies for use in an aircraft that—“(i) reduce the risk of collision on the runway with other aircraft or vehicles; “(ii) calculate safe landing distances; and “(iii) prompt actions to bring the aircraft to a safe stop. “(2) Criteria.—Not later than 1 year after the date of enactment of this Act, the Administrator shall—“(A) based on the information obtained pursuant to paragraph (1)(A) and (1)(B), identify airport surface detection and surveillance systems that meet the standards of the FAA and may be able to—“(i) provide airport surface surveillance capabilities at airports lacking such capabilities; or “(ii) augment existing airport surface detection and surveillance systems, such as Airport Surface Detection System—Model X or the Airport Surface Surveillance Capability; “(B) establish a timeline and action plan for replacing, maintaining, or enhancing the operational capability provided by existing airport surface detection and surveillance systems, and implementing runway safety technologies at airports without airport surface detection and surveillance systems, as needed, to improve runway safety; “(C) based on the information obtained pursuant to paragraph (1)(C), identify safety technologies and systems in transport airplanes that meet the standards of the FAA that will—“(i) enhance runway safety for transport airplanes that lack the capabilities of such technologies and systems, as appropriate; or “(ii) augment existing onboard situational awareness runway traffic alerting and runway landing safety technologies installed on transport airplanes; and “(D) establish clear and quantifiable criteria relating to operational factors, including ground traffic and air traffic activity and the rate of runway and terminal airspace safety events (including runway incursions), that determine when the installation and deployment of an airport surface detection or surveillance system, or other runway safety system (including runway status lights), at an airport is required. “(3) Deployment.—Not later than 5 years after the date of enactment of this Act, the Administrator shall ensure that airport surface detection and surveillance systems are deployed and operational at—“(A) all airports described in paragraph (2)(A); and “(B) all medium and large hub airports. “(4) Briefing.—Not later than 3 years after the date of enactment of this Act, the Administrator shall brief the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives] on the progress of the deployment described in paragraph (3). “(d) Foreign Object Debris Detection.—“(1) In general.—Not later than 3 years after the date of enactment of this Act [May 16, 2024], the Administrator shall assess, in coordination with the Council, automated foreign object debris monitoring and detection systems at not less than 3 airports that are using such systems. “(2) Considerations.—In conducting the assessment under paragraph (1), the Administrator shall consider the following:“(A) The categorization of an airport. “(B) The potential frequency of foreign object debris incidents on airport runways or adjacent ramp areas. “(C) The availability of funding for the installation and maintenance of foreign object debris monitoring and detection systems. “(D) The impact of such systems on the airfield operations of an airport. “(E) The effectiveness of available foreign object debris monitoring and detection systems. “(F) Any other factors relevant to assessing the return on investment of foreign object debris monitoring and detection systems. “(3) Consultation.—In carrying out this subsection, the Administrator and the Council shall consult with manufacturers and suppliers of foreign object debris detection technology and any other relevant stakeholders. “(e) Runway Safety Study.—“(1) In general.—Not later than 2 years after the date of enactment of this Act, the Administrator shall seek to enter into appropriate arrangements with a federally funded research and development center to conduct a study of runway incursions, airport surface incidents, operational errors, or losses of standard separation of aircraft in the approach or departure phase of flight to determine how advanced technologies and future airport development projects may be able to reduce the frequency of such events and enhance aviation safety. “(2) Considerations.—In conducting the study under paragraph (1), the federally funded research and development center shall—“(A) examine data relating to recurring runway incursions, surface incidents, operational errors, or losses of standard separation of aircraft in the approach or departure phase of flight at airports to identify the underlying factors that caused such events; “(B) assess metrics used to identify when such events are increasing at an airport; “(C) assess available and developmental technologies, including and beyond such technologies considered in subsection (c), that may augment existing air traffic management capabilities of surface surveillance and terminal airspace equipment; “(D) consider growth trends in airport size, staffing and communication complexities to identify—“(i) future gaps in information exchange between aerospace stakeholders; and “(ii) methods for meeting future near real-time information sharing needs; and “(E) examine airfield safety training programs used by airport tenants and other stakeholders operating on airfields of airports, including airfield familiarization training programs for employees, to assess scalability to handle future growth in airfield capacity and traffic. “(3) Recommendations.—In conducting the study required by paragraph (1), the federally funded research and development center shall develop recommendations for the strategic planning efforts of the Administration to appropriately maintain surface safety considering future increases in air traffic and based on the considerations described in paragraph (2). “(4) Report to congress.—Not later than 90 days after the completion of the study required by paragraph (1), the Administrator shall submit to the appropriate committees of Congress a report on the findings of such study and any recommendations developed under paragraph (3). “(f) Definitions.—In this section:“(1) Air carrier; foreign air carrier.—The terms ‘air carrier’ and ‘foreign air carrier’ have the meanings given such terms in [section 40102 of title 49](./chapter-401-general-provisions.md#section-40102), United States Code. “(2) Airport surface detection and surveillance system.—The term ‘airport surface detection and surveillance system’ means an airport surveillance system that is—“(A) designed to track surface movement of aircraft and vehicles; or “(B) capable of alerting air traffic controllers or flight crewmembers of a possible runway incursion, misaligned approach, or other safety event. “(3) Transport airplane.—The term ‘transport airplane’ means a transport category airplane designed for operation by an air carrier or foreign air carrier jet type-certificated with a passenger seating capacity of at least 10 seats or a maximum takeoff weight above 12,500 pounds or an all-cargo or combi derivative of such an airplane.”
 
 #### Prohibition on Provision of Airport Improvement Grant Funds to Certain Entities That Have Violated Intellectual Property Rights of United States Entities
 Pub. L. 118–63, title VII, § 711, May 16, 2024, 138 Stat. 1253, provided that: “(a) In General.—Beginning on the date that is 30 days after the date of enactment of this Act [May 16, 2024], amounts provided as project grants under subchapter I of chapter 471 of title 49, United States Code, may not be used to enter into a covered contract with any entity on the list required under subsection (b). “(b) List Required.—“(1) In general.—Not later than 30 days after the date of enactment of this Act, and thereafter as required under paragraph (2), the United States Trade Representative, the Attorney General, and the Administrator [of the Federal Aviation Administration] shall make available to the Administrator a publicly-available list of entities manufacturing airport passenger boarding infrastructure or equipment that—“(A) are owned, directed by, or subsidized in whole or in part by the People’s Republic of China; “(B) have been determined by a Federal court to have misappropriated intellectual property or trade secrets from an entity organized under the laws of the United States or any jurisdiction within the United States; “(C) own or control, are owned or controlled by, are under common ownership or control with, or are successors to an entity described in subparagraph (A); or “(D) have entered into an agreement with or accepted funding from, whether in the form of minority investment interest or debt, have entered into a partnership with, or have entered into another contractual or other written arrangement with an entity described in subparagraph (A). “(2) Updates to list.—The United States Trade Representative shall update the list required under paragraph (1), based on information provided by the Attorney General and the Administrator—“(A) not less frequently than every 90 days during the 180-day period following the initial publication of the list under paragraph (1); and “(B) not less frequently than annually thereafter. “(c) Definitions.—In this section:“(1) In general.—The definitions in [section 47102 of title 49](./chapter-471-airport-development.md#section-47102), United States Code, shall apply. “(2) Covered contract.—The term ‘covered contract’ means a contract or other agreement for the procurement of infrastructure or equipment for a passenger boarding bridge at an airport.”
@@ -718,7 +594,7 @@ Par. (5)(A). Pub. L. 118–63, § 702(3)(A), inserted “and catchment area anal
 
 Par. (5)(D). Pub. L. 118–63, § 702(3)(B)–(D), added subpar. (D).
 
-Par. (20)(D). Pub. L. 118–63, § 702(4)(C), added subpar. (D).
+Par. (20)(D). Pub. L. 118–63, § 702(4), added subpar. (D).
 
 Par. (27). Pub. L. 118–63, § 702(5), struck out “the Trust Territory of the Pacific Islands,” after “the Northern Mariana Islands,”.
 
@@ -2381,7 +2257,7 @@ The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2)(A)
 
 Subsec. (b). Pub. L. 118–63, § 707(2), added subsec. (b) and struck out former subsec. (b) which allowed increasing Government’s share after an offer has been accepted in writing in certain circumstances.
 
-Subsecs. (c) to (e). Pub. L. 118–63, § 707(3), (4), struck out subsec. (c) and redesignated former subsecs. (d) and (e) as (c) and (d), respectively. Prior to amendment, text of subsec. (c) read as follows: “For a project receiving assistance under a grant made under the Airport and Airway Development Act of 1970, the maximum amount the Government will pay may be increased by not more than 10 percent. An increase under this subsection may be paid only from amounts the Government recovers from other grants made under the Act.”
+Subsecs. (c) to (e). Pub. L. 118–63, § 707(3), (4), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “For a project receiving assistance under a grant made under the Airport and Airway Development Act of 1970, the maximum amount the Government will pay may be increased by not more than 10 percent. An increase under this subsection may be paid only from amounts the Government recovers from other grants made under the Act.”
 
 2012—Subsec. (e)(3). Pub. L. 112–95 substituted “accordance with section 47119(a)” for “accordance with section 47110(d)(2)” and “allowable under section 47119(a)” for “allowable under section 47110(d)”.
 
@@ -2463,6 +2339,8 @@ Pub. L. 107–71, title I, § 143, Nov. 19, 2001, 115 Stat. 644, provided that: 
 
 **(h) Special Rule for Fiscal Years 2025 and 2026.—** Notwithstanding subsection (a), the Government’s share of allowable project costs for a grant made to a nonhub or nonprimary airport in each of fiscal years 2025 and 2026 shall be 95 percent.
 
+**(i) Special Rule for Sound Insulation Repair and Replacement.—** With respect to a project to carry out sound insulation that is granted a waiver under section 47110(j), the allowable project cost for such project shall be calculated without consideration of any costs that were previously paid by the Government.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -2484,6 +2362,8 @@ Section 17(b) of the Airport and Airway Development Act of 1970, referred to in 
 The date of enactment of this subsection, referred to in subsec. (g)(3)(B), is the date of enactment of Pub. L. 117–254, which was approved Dec. 20, 2022.
 
 #### Amendments
+2025—Subsec. (i). Pub. L. 119–60 added subsec. (i).
+
 2024—Subsec. (h). Pub. L. 118–63 added subsec. (h).
 
 2022—Subsec. (g). Pub. L. 117–254 added subsec. (g).
@@ -2697,6 +2577,50 @@ Pub. L. 108–176, title I, § 161, Dec. 12, 2003, 117 Stat. 2513, as amended by
 
 (9) **Limitation on statutory construction.—** — Nothing in this section shall be construed to prohibit the obligation of amounts pursuant to a letter of intent under this subsection in the same fiscal year as the letter of intent is issued.
 
+**(j) Pilot Program for Sound Insulation Repair and Replacements.—**
+
+(1) **In general.—** — Not later than 120 days after the date of enactment of this subsection, the Administrator of the Federal Aviation Administration shall establish a pilot program at up to two large hub public-use airports for local airport operators that have established a local program to fund secondary noise insulation using nonaeronautical revenue that provides a one-time waiver of the requirement of subsection (b)(4) for a qualifying airport as applied to projects to carry out repair and replacement of sound insulation for a residential building for which the airport previously received Federal assistance or Federally authorized airport assistance under this subchapter if—
+
+  (A) the Secretary determines that the additional assistance is justified due to the residence containing any sound insulation treatment or other type of sound proofing material previously installed under this subchapter that is determined to be eligible pursuant to paragraph (2);
+
+  (B) the residence—
+
+    (i) falls within the Day Night Level (DNL) of 65 to 75 decibel (dB) noise contours, according to the most recent noise exposure map (as such term is defined in section 150.7 of title 14, Code of Federal Regulations) available as of the date of enactment of this subsection;
+
+    (ii) fell within such noise contours at the time the initial sound insulation treatment was installed, but a qualified noise auditor has determined that—
+
+      (I) such sound insulation treatment caused physical damage to the residence; or
+
+      (II) the materials used for sound insulation treatment were of low quality and have deteriorated, broken, or otherwise no longer function as intended; and
+
+    (iii) is shown through testing that current interior noise levels exceed DNL 45 dB, and the new insulation would have the ability to achieve a 5 dB noise reduction; and
+
+  (C) the qualifying airport—
+
+    (i) is a large hub airport (as defined in [section 40102 of title 49](./chapter-401-general-provisions.md#section-40102), United States Code);
+
+    (ii) is located in a dense residential area, with a minimum population of 200,000 residents within a 5-mile radius of the airport;
+
+    (iii) has an established residential sound insulation program that has been operational for at least 30 years and began in the year 1985;
+
+    (iv) is located in a metropolitan statistical area with a population of at least 4,000,000 people; and
+
+    (v) has at least 22,000,000 enplanements annually.
+
+(2) **Eligibility determination.—** — To be eligible for waiver under this subsection for repair or replacement of sound insulation treatment projects, an applicant shall—
+
+  (A) ensure that the applicant and the property owner have made a good faith effort to exhaust any amounts available through warranties, insurance coverage, and legal remedies for the sound insulation treatment previously installed on the eligible residence;
+
+  (B) verify the sound insulation treatment for which Federal assistance was previously provided was installed prior to the year 2002; and
+
+  (C) demonstrate that a qualified noise auditor, based on an inspection of the residence, determined that—
+
+    (i) the sound insulation treatment for which Federal assistance was previously provided has resulted in structural deterioration that was not caused by failure of the property owner to repair or adequately maintain the residential building or through the negligence of the applicant or the property owner; and
+
+    (ii) the condition of the sound insulation treatment described in subparagraph (A) is not attributed to actions taken by an owner or occupant of the residence.
+
+(3) **Additional authority for surveys.—** — Notwithstanding any other provision of law, the Secretary shall consider a cost allowable under this subchapter for an airport to conduct periodic surveys of properties in which repair and replacement of sound insulation treatment was carried out as described in paragraph (1) and for which the airport previously received Federal assistance or Federally authorized airport assistance under this subchapter. The surveys shall be conducted only for those properties for which the airport has identified a property owner who is interested in having a survey be undertaken to assess the current effectiveness of the sound insulation treatment. Such surveys shall be carried out to identify any properties described in the preceding sentence that are eligible for funds under this subsection.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -2747,7 +2671,11 @@ In subsection (b)(2)(C)(ii), the words “before the cost is incurred” are add
 #### References in Text
 Section 47114(d)(3)(A), referred to in subsecs. (b)(2)(C) and (g), was redesignated section 47114(d)(2)(A) by Pub. L. 118–63, title VII, § 712(b)(6), May 16, 2024, 138 Stat. 1256.
 
+The date of enactment of this subsection, referred to in subsec. (j)(1), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
+
 #### Amendments
+2025—Subsec. (j). Pub. L. 119–60 added subsec. (j).
+
 2024—Subsec. (c). Pub. L. 118–63, § 709(1)(A), struck out “after May 13, 1946, and” after “this section incurred” in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 118–63, § 709(1)(B), inserted “or preparing for” after “formulating” and “utility relocation, work site preparation,” before “and administration”.
@@ -2760,7 +2688,7 @@ Subsec. (e)(7). Pub. L. 118–63, § 710(b)(1), substituted “under this subsec
 
 Subsec. (h). Pub. L. 118–63, § 709(4), substituted “section 47114(c)(1)(D) or section 47114(d)(2)(A)” for “section 47114(d)(3)(A)”.
 
-Subsec. (i). Pub. L. 118–63, § 709(5), 710(a), added subsec. (i) and struck out former subsec. (i) which related to bird-detecting radar systems.
+Subsec. (i). Pub. L. 118–63, §§ 709(5), 710(a), added subsec. (i) and struck out former subsec. (i) which related to bird-detecting radar systems.
 
 2022—Subsec. (b)(1). Pub. L. 117–186, § 2(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -2955,7 +2883,7 @@ Subsec. (c)(2). Pub. L. 112–95, § 139(2), substituted “Vietnam-era veterans
 #### Priority Review of Construction Projects in Cold Weather States
 Pub. L. 115–254, div. B, title I, § 156(a), Oct. 5, 2018, 132 Stat. 3217, as amended by Pub. L. 118–63, title II, § 218(n)(1), May 16, 2024, 138 Stat. 1057, provided that: “The Administrator of the Federal Aviation Administration, to the extent practicable, shall schedule the Administrator’s review of construction projects so that projects to be carried out in the States in which the weather during a typical calendar year prevents major construction projects from being carried out before May 1 are reviewed as early as possible.”
 
-Pub. L. 112–95, title I, § 154, Feb. 14, 2012, 126 Stat. 35, which provided that the Administrator of the Federal Aviation Administration review as early as possible construction projects in States in which the weather prevents major projects from being carried out before May 1, was repealed by Pub. L. 115–254, div. B, title I, § 156(b), formerly § 156(c), Oct. 5, 2018, 132 Stat. 3218, renumbered § 156(b), Pub. L. 118–63, title II, § 218(n)(2), May 16, 2024, 138 Stat. 1057.
+Pub. L. 112–95, title I, § 154, Feb. 14, 2012, 126 Stat. 35, which provided that the Administrator of the Federal Aviation Administration review as early as possible construction projects in States in which the weather prevents major projects from being carried out before May 1, was repealed by Pub. L. 115–254, div. B, title I, § 156(b), formerly § 156(c), Oct. 5, 2018, 132 Stat. 3218; renumbered § 156(b), Pub. L. 118–63, title II, § 218(n)(2), May 16, 2024, 138 Stat. 1057.
 
 
 <a id="section-47113"></a>
@@ -3840,7 +3768,7 @@ Pub. L. 118–63, title VII, § 748, May 16, 2024, 138 Stat. 1283, provided that
 
 (2) **Control tower construction.—** — Notwithstanding section 47124(b)(4)(A), the Secretary may provide grants under this section to an airport sponsor participating in the contract tower program under section 47124 for the construction or improvement of a nonapproach control tower, as defined by the Secretary, and for the acquisition and installation of air traffic control, communications, and related equipment to be used in that tower. Such grants shall be subject to the distribution requirements of subsection (b) and the eligibility requirements of section 47124(b)(4)(B).
 
-**(e) General Aviation Transient Aprons.—** In distributing amounts from the fund described in subsection (a) to sponsors described in subsection 11 So in original. Probably should be “subsections”. (b)(2) and (b)(3), 5 percent of each amount shall be used for projects to construct or rehabilitate aprons intended to be used for itinerant general aviation aircraft parking.
+**(e) General Aviation Transient Aprons.—** In distributing amounts from the fund described in subsection (a) to sponsors described in subsection 11 So in original. (b)(2) and 1 (b)(3), 5 percent of each amount shall be used for projects to construct or rehabilitate aprons intended to be used for itinerant general aviation aircraft parking.
 
 ### Statutory Notes
 
@@ -5110,7 +5038,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 Nothing in amendment by Pub. L. 106–181 to be construed to authorize Secretary of Transportation to issue waiver or make a modification referred to in such amendment, see section 125(e) of Pub. L. 106–181, set out as a note under [section 47107 of this title](./chapter-471-airport-development.md#section-47107).
 
 #### Release From Restrictions
-Pub. L. 112–95, title VIII, § 817, Feb. 14, 2012, 126 Stat. 127, as amended by Pub. L. 115–254, div. B, title I, § 141, Oct. 5, 2018, 132 Stat. 3211, which authorized the Secretary of Transportation to grant to an airport, city, or county a release from any of the terms, conditions, reservations, or restrictions contained in a deed under which the United States conveyed to the airport, city, or county an interest in real property for airport purposes, was repealed by Pub. L. 118–63, title VII, § 719(c)(2), May 16, 2024, 138 Stat. 1262.
+Pub. L. 112–95, title VIII, § 817, Feb. 14, 2012, 126 Stat. 127, as amended by Pub. L. 115–254, div. B, title I, § 141, Oct. 5, 2018, 132 Stat. 3211, which authorized the Secretary of Transportation to grant to an airport, city, or county a release from any of the terms, conditions, reservations, or restrictions contained in a deed under which the United States conveyed to the airport, city, or county an interest in real property for airport purposes, was repealed by Pub. L. 118–63, title VII, § 719(c)(2), May 16, 2024, 138 Stat. 1262. See subsec. (c) of this section.
 
 
 <a id="section-47126"></a>
@@ -6288,7 +6216,7 @@ Section 119F(a) of Pub. L. 115–31, which directed amendment of “subchapter I
 ### Statutory Notes
 
 #### References in Text
-The Americans with Disabilities Act of 1990 ([42 U.S.C. 12131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12131&num=0&edition=prelim) et seq.), referred to in subsec. (a), probably means title II of the Americans with Disabilities Act of 1990, Pub. L. 101–336, July 26, 1990, 104 Stat. 337, which is classified generally to subchapter II (§ 12131 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§ 12131 et seq.) of chapter 126 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (a), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
@@ -6670,7 +6598,7 @@ Nothing in amendment by section 125(d) of Pub. L. 106–181 to be construed to a
 
       (II) *Shortened schedule.—* — The Secretary may not shorten a schedule under clause (i) if doing so would impair the ability of a cooperating Federal agency to conduct necessary analyses or otherwise carry out relevant obligations of the Federal agency for the project.
 
-  (F) *Failure to meet deadline.—* — If a cooperating Federal agency fails to meet a deadline established under subparagraph (D)(ii)(I) 11 So in original. Probably should be “subparagraph (E)(ii)(I)”.—
+  (F) *Failure to meet deadline.—* — If a cooperating Federal agency fails to meet a deadline established under subparagraph (D)(ii)(I)— 11 So in original. Probably should be “subparagraph (E)(ii)(I)—”.
 
     (i) the cooperating Federal agency shall, not later than 10 days after failing to meet the deadline, submit to the Secretary a report that describes the reasons why the deadline was not met; and
 
@@ -6993,7 +6921,7 @@ In this subchapter, the following definitions apply:
 
 (1) **Airport capacity enhancement project.—** — The term “airport capacity enhancement project” means—
 
-  (A) a project for construction or extension of a runway, including any land acquisition, taxiway, or safety area associated with the runway or runway extension;or
+  (A) a project for construction or extension of a runway, including any land acquisition, taxiway, or safety area associated with the runway or runway extension; or
 
   (B) such other airport development projects as the Secretary may designate as facilitating a reduction in air traffic congestion and delays.
 
@@ -7034,7 +6962,7 @@ Par. (3)(A). Pub. L. 118–63, § 784(1), substituted “or” for “and”.
 
 Par. (4). Pub. L. 118–63, § 784(4), redesignated par. (2) as (4). Former par. (4) redesignated (3).
 
-Par. (4)(A). Pub. L. 118–63, § 784(2)(A), struck out “and” at end end.
+Par. (4)(A). Pub. L. 118–63, § 784(2)(A), struck out “and” at end.
 
 Par. (4)(B), (C). Pub. L. 118–63, § 784(2)(B), struck out subpar. (B) designation and redesignated cls. (i) and (ii) of former subpar. (B) as subpars. (B) and (C), respectively, of par. (4).
 

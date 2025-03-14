@@ -49,7 +49,7 @@ Statutory Notes and Related Subsidiaries
 | Becharof National Monument, Alaska.—Proc. No. 4613, Dec. 1, 1978, 93 Stat. 1450. |
 | Belmont-Paul Women’s Equality National Monument, District of Columbia.—Proc. No. 9423, Apr. 12, 2016, 81 F.R. 22505. |
 | Bering Land Bridge National Monument, Alaska.—Proc. No. 4614, Dec. 1, 1978, 93 Stat. 1451. |
-| Berryessa Snow Mountain National Monument, California.—Proc. No. 9298, July 10, 2015, 80 F.R. 41975. |
+| Berryessa Snow Mountain National Monument, California.—Proc. No. 9298, July 10, 2015, 80 F.R. 41975; Proc. No. 10745, May 2, 2024, 89 F.R. 39531. |
 | Big Hole Battlefield National Monument, Montana [Monument redesignated Big Hole National Battlefield, see [section 430uu of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section430uu&num=0&edition=prelim), Conservation].—Ex. Ord. No. 1216, June 23, 1910; Proc. No. 2339, June 29, 1939, 53 Stat. 2544. |
 | Birmingham Civil Rights National Monument, Alabama.—Proc. No. 9565, Jan. 12, 2017, 82 F.R. 6151. |
 | Black Canyon of the Gunnison National Monument, Colorado [Monument abolished and lands incorporated in, and funds made available for, Black Canyon of the Gunnison National Park, see [section 410fff–2 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410fff–2&num=0&edition=prelim), Conservation].—Proc. No. 2033, Mar. 2, 1933, 47 Stat. 2558; Proc. No. 2286, May 16, 1938, 52 Stat. 1548; Proc. No. 2372, Oct. 28, 1939, 54 Stat. 2669; Proc. No. 3344, Apr. 8, 1960, 74 Stat. c56; Pub. L. 98–357, July 13, 1984, 98 Stat. 397. |
@@ -66,6 +66,7 @@ Statutory Notes and Related Subsidiaries
 | Capitol Reef National Monument, Utah [Monument abolished and funds made available to Capitol Reef National Park, see [section 273 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section273&num=0&edition=prelim), Conservation].—Proc. No. 2246, Aug. 2, 1937, 50 Stat. 1856; Proc. No. 3249, July 2, 1958, 72 Stat. c48; Proc. No. 3888, Jan. 20, 1969, 83 Stat. 922. |
 | Capulin Mountain National Monument, New Mexico [Monument redesignated Capulin Volcano National Monument by Pub. L. 100–225, title V, § 506(g), Dec. 31, 1987, 101 Stat. 1547].—Proc. No. 1340, Aug. 9, 1916, 39 Stat. 1792. |
 | Capulin Volcano National Monument, New Mexico [Monument changed from Capulin Mountain National Monument, see [section 460uu–46(g) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460uu–46/g&num=0&edition=prelim), Conservation].—Proc. No. 1340, Aug. 9, 1916, 39 Stat. 1792; Pub. L. 87–635, Sept. 5, 1962, 76 Stat. 436; Pub. L. 100–225, title V, § 506(g), Dec. 31, 1987, 101 Stat. 1547. |
+| Carlisle Federal Indian Boarding School National Monument, Pennsylvania.—Proc. No. 10870, Dec. 9, 2024, 89 F.R. 100289. |
 | Carlsbad Cave National Monument, New Mexico [Monument redesignated Carlsbad Caverns National Park, see [section 407 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section407&num=0&edition=prelim), Conservation].—Proc. No. 1679, Oct. 25, 1923, 43 Stat. 1929. |
 | Carrizo Plain National Monument, California.—Proc. No. 7393, Jan. 17, 2001, 66 F.R. 7339. |
 | Casa Grande National Monument, Arizona.—Proc. No. 1470, Aug. 3, 1918, 40 Stat. 1818. |
@@ -82,6 +83,7 @@ Statutory Notes and Related Subsidiaries
 | Chesapeake and Ohio Canal National Monument, Maryland.—Proc. No. 3391, Jan. 18, 1961, 75 Stat. 1023. |
 | Chimney Rock National Monument, Colorado.—Proc. No. 8868, Sept. 21, 2012, 77 F.R. 59275. |
 | Chiricahua National Monument, Arizona.—Proc. No. 1692, Apr. 18, 1924, 43 Stat. 1946; Proc. No. 2288, June 10, 1938, 52 Stat. 1551. |
+| Chuckwalla National Monument, California.—Proc. No. 10881, Jan. 14, 2025, 90 F.R. 6715. |
 | Cinder Cone National Monument, California.—Proc. No. 753, May 6, 1907, 35 Stat. 2131. |
 | Colonial National Monument, Virginia [Monument redesignated Colonial National Historical Park, see [section 81 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section81&num=0&edition=prelim), Conservation].—Proc. No. 1929, Dec. 30, 1930, 46 Stat. 3041; Proc. No. 2055, Aug. 22, 1933, 48 Stat. 1706. |
 | Colorado National Monument, Colorado.—Proc. No. 1126, May 24, 1911, 37 Stat. 1681; Proc. No. 2037, Mar. 3, 1933, 47 Stat. 2563; Proc. No. 3307, Aug. 7, 1959, 73 Stat. c69; Pub. L. 94–578, title III, § 302(a), Oct. 21, 1976, 90 Stat. 2734. |
@@ -106,6 +108,7 @@ Statutory Notes and Related Subsidiaries
 | Fort Pulaski National Monument, Georgia.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968; June 26, 1936, ch. 844, 49 Stat. 1979; Pub. L. 104–333, div. I, title VIII, § 807, Nov. 12, 1996, 110 Stat. 4188. |
 | Fort Wood National Monument, New York.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968. |
 | Fossil Cycad National Monument, South Dakota.—Proc. No. 1641, Oct. 21, 1922, 42 Stat. 2286. |
+| Frances Perkins National Monument, Maine.—Proc. No. 10873, Dec. 16, 2024, 89 F.R. 103617. |
 | Freedom Riders National Monument, Alabama.—Proc. No. 9566, Jan. 12, 2017, 82 F.R. 6159. |
 | Gates of the Arctic National Monument, Alaska.—Proc. No. 4617, Dec. 1, 1978, 93 Stat. 1457. |
 | Giant Sequoia National Monument, California.—Proc. No. 7295, Apr. 15, 2000, 65 F.R. 24095. |
@@ -158,8 +161,9 @@ Statutory Notes and Related Subsidiaries
 | Oregon Caves National Monument, Oregon [Monument and land designated as National Preserve to be administered as single unit of National Park System and designated as Oregon Caves National Monument and Preserve, see [section 410vvv of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410vvv&num=0&edition=prelim), Conservation].—Proc. No. 876, July 12, 1909, 36 Stat. 2497. |
 | Organ Mountains-Desert Peaks National Monument, New Mexico.—Proc. No. 9131, May 21, 2014, 79 F.R. 30431; Pub. L. 116–9, title I, § 1201(a), (d), Mar. 12, 2019, 133 Stat. 642, 649. |
 | Organ Pipe Cactus National Monument, Arizona.—Proc. No. 2232, Apr. 13, 1937, 50 Stat. 1827; Pub. L. 108–64, July 29, 2003, 117 Stat. 874. |
-| Pacific Remote Islands Marine National Monument, Wake, Baker, Howland, and Jarvis Islands, Johnston Atoll, Kingman Reef, and Palmyra Atoll.—Proc. No. 8336, Jan. 6, 2009, 74 F.R. 1565. |
-| Pacific Remote Islands Marine National Monument Expansion, Wake and Jarvis Islands, Johnston Atoll.—Proc. No. 9173, Sept. 25, 2014, 79 F.R. 58645. |
+| Pacific Islands Heritage Marine National Monument, Wake, Baker, Howland, and Jarvis Islands, Johnston Atoll, Kingman Reef, and Palmyra Atoll.—Proc. No. 8336, Jan. 6, 2009, 74 F.R. 1565, Proc. No. 8336, Jan. 6, 2009, 74 F.R. 1565, Proc. No. 9173, Sept. 25, 2014, 79 F.R. 58645, Proc. No. 10880, Jan. 2, 2025, 90 F.R. 2575. |
+| Pacific Remote Islands Marine National Monument, Wake, Baker, Howland, and Jarvis Islands, Johnston Atoll, Kingman Reef, and Palmyra Atoll.—Renamed Pacific Islands Heritage Marine National Monument. |
+| Pacific Remote Islands Marine National Monument Expansion, Wake and Jarvis Islands, Johnston Atoll.—Transferred to Pacific Islands Heritage Marine National Monument. |
 | Papago Saguaro National Monument, Arizona [Monument abolished by act Apr. 7, 1930, ch. 107, 46 Stat. 142, as amended by Pub. L. 109–163, div. B, title XXVIII, § 2873, Jan. 6, 2006, 119 Stat. 3535].—Proc. No. 1262, Jan. 31, 1914, 38 Stat. 1991. |
 | Papaha̅naumokua̅kea Marine National Monument, Hawaii [Monument changed from Northwestern Hawaiian Islands Marine National Monument by Proc. No. 8112, Feb. 28, 2007, 72 F.R. 10031].—Proc. No. 8031, June 15, 2006, 71 F.R. 36443. |
 | Papaha̅naumokua̅kea Marine National Monument Expansion, Hawaii.—Proc. No. 9478, Aug. 26, 2016, 81 F.R. 60227. |
@@ -176,15 +180,17 @@ Statutory Notes and Related Subsidiaries
 | Rose Atoll Marine National Monument, American Samoa.—Proc. No. 8337, Jan. 6, 2009, 74 F.R. 1577. |
 | Russell Cave National Monument, Alabama.—Proc. No. 3413, May 11, 1961, 75 Stat. 1058. |
 | Saguaro National Monument, Arizona [Monument abolished and incorporated in Saguaro National Park, see [section 410zz–1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410zz–1&num=0&edition=prelim), Conservation].—Proc. No. 2032, Mar. 1, 1933, 47 Stat. 2557; Proc. No. 3439, Nov. 15, 1961, 76 Stat. 1437; Pub. L. 102–61, June 19, 1991, 105 Stat. 303; Pub. L. 103–364, § 3, Oct. 14, 1994, 108 Stat. 3467. |
-| San Gabriel Mountains National Monument, California.—Proc. No. 9194, Oct. 10, 2014, 79 F.R. 62303. |
+| San Gabriel Mountains National Monument, California.—Proc. No. 9194, Oct. 10, 2014, 79 F.R. 62303; Proc. No. 10746, May 2, 2024, 89 F.R. 40361. |
 | San Juan Islands National Monument, Washington.—Proc. No. 8947, Mar. 25, 2013, 78 F.R. 18789; Ex. Ord. No. 13708, § 1(nn), Sept. 30, 2015, 80 F.R. 60272; Ex. Ord. No. 13811, § 1(cc), Sept. 29, 2017, 82 F.R. 46364; Ex. Ord. No. 13889, § 1(z), Sept. 27, 2019, 84 F.R. 52744; Ex. Ord. No. 14048, § 1(z), Sept. 30, 2021, 86 F.R. 55466; Ex. Ord. No. 14109, § 1(ff), Sept. 29, 2023, 88 F.R. 68448. |
 | Sand to Snow National Monument, California.—Proc. No. 9396, Feb. 12, 2016, 81 F.R. 8379. |
 | Santa Rosa Island National Monument, Florida.—Proc. No. 2337, May 17, 1939, 53 Stat. 2542; Proc. No. 2659, Aug. 13, 1945, 59 Stat. 877. |
+| Sáttítla Highlands National Monument, California.—Proc. No. 10882, Jan. 14, 2025, 90 F.R. 6727. |
 | Scotts Bluff National Monument, Nebraska.—Proc. No. 1547, Dec. 12, 1919, 41 Stat. 1779; Proc. No. 1999, June 1, 1932, 47 Stat. 2512; Proc. No. 2391, Mar. 29, 1940, 54 Stat. 2690. |
 | Shoshone Cavern National Monument, Wyoming [Monument abolished by act May 17, 1954, ch. 203, 68 Stat. 98].—Proc. No. 880, Sept. 21, 1909, 36 Stat. 2501. |
 | Sieur de Monts National Monument, Maine.—Proc. No. 1339, July 8, 1916, 39 Stat. 1785. |
 | Sitka National Monument, Alaska [Monument redesignated Sitka National Historical Park by Pub. L. 92–501, Oct. 18, 1972, 86 Stat. 904, as amended by Pub. L. 106–291, title I, § 130, Oct. 11, 2000, 114 Stat. 946].—Proc. No. 959, Mar. 23, 1910, 36 Stat. 2601; Proc. No. 2965, Feb. 25, 1952, 66 Stat. c22. |
 | Sonoran Desert National Monument, Arizona.—Proc. No. 7397, Jan. 17, 2001, 66 F.R. 7354. |
+| Springfield 1908 Race Riot National Monument, Illinois.—Proc. No. 10792, Aug. 16, 2024, 89 F.R. 67821. |
 | Statue of Liberty National Monument.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968; Proc. No. 2250, Sept. 7, 1937, 51 Stat. 393; Proc. No. 3656, May 11, 1965, 79 Stat. 1490. |
 | Stonewall National Monument, New York.—Proc. No. 9465, June 24, 2016, 81 F.R. 42215. |
 | Sunset Crater Volcano National Monument, Arizona [Monument changed from Sunset Crater National Monument by Pub. L. 101–612, § 15, Nov. 16, 1990, 104 Stat. 3222].—Proc. No. 1911, May 26, 1930, 46 Stat. 3023; Pub. L. 117–328, div. DD, title VI, § 611, Dec. 29, 2022, 136 Stat. 5602. |
@@ -227,7 +233,7 @@ Statutory Notes and Related Subsidiaries
 | Medgar and Myrlie Evers Home National Monument, Mississippi.—Pub. L. 116–9, title II, § 2301, Mar. 12, 2019, 133 Stat. 743. |
 | Mill Springs Battlefield National Monument, Kentucky.—Pub. L. 116–9, title II, § 2302, Mar. 12, 2019, 133 Stat. 744. |
 | Mount St. Helens National Volcanic Monument, Washington.—Pub. L. 97–243, Aug. 26, 1982, 96 Stat. 301; Pub. L. 105–279, Oct. 23, 1998, 112 Stat. 2690. |
-| National Military Working Dog Teams Monument, Virginia.—Pub. L. 110–181, div. B, title XXVIII, § 2877, Jan. 28, 2008, 122 Stat. 563; Pub. L. 111–84, div. B, title XXVIII, § 2871, Oct. 28, 2009, 123 Stat. 2696. |
+| National Military Working Dog Teams Monument, Texas.—Pub. L. 110–181, div. B, title XXVIII, § 2877, Jan. 28, 2008, 122 Stat. 563; Pub. L. 111–84, div. B, title XXVIII, § 2871, Oct. 28, 2009, 123 Stat. 2696. |
 | Newberry National Volcanic Monument, Oregon.—Pub. L. 101–522, Nov. 5, 1990, 104 Stat. 2288. |
 | Pecos National Monument, New Mexico [included in Pecos National Historical Park by Pub. L. 101–313, title II, § 202(b), June 27, 1990, 104 Stat. 278 ([16 U.S.C. 410rr–1(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410rr–1/b&num=0&edition=prelim))].—Pub. L. 89–54, June 28, 1965, 79 Stat. 195; Pub. L. 94–578, title III, § 317, Oct. 21, 1976, 90 Stat. 2737; repealed by Pub. L. 101–313, title II, § 202(c), June 27, 1990, 104 Stat. 278 ([16 U.S.C. 410rr–1(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410rr–1/c&num=0&edition=prelim)). |
 | Petroglyph National Monument, New Mexico.—Pub. L. 101–313, title I, June 27, 1990, 104 Stat. 272, as amended by Pub. L. 103–50, ch. IV, § 401, July 2, 1993, 107 Stat. 252; Pub. L. 104–333, div. I, title VIII, § 814(d)(2)(D), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 105–174, title III, § 3005, May 1, 1998, 112 Stat. 82. |

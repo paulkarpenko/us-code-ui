@@ -27,6 +27,24 @@ The provisions for furnishing rooms and accommodations at Florence, Gadsden, Jas
 Changes in arrangement and phraseology were made.
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–179, § 1(1), substituted “five” for “seven” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 118–179, § 1(2), substituted “Lauderdale, and Lawrence” for “and Lauderdale”.
+
+Subsec. (a)(2). Pub. L. 118–179, § 1(3), struck out Lawrence and added Marshall to the counties comprising the Northeastern Division of the Northern District and struck out “and Decatur” after “Huntsville”.
+
+Subsec. (a)(4). Pub. L. 118–179, § 1(4), substituted “Cherokee, Clay, Cleburne, DeKalb, Etowah, Saint Clair,” for “Clay, Cleburne,”.
+
+Subsec. (a)(5). Pub. L. 118–179, § 1(5), substituted “Fayette, Greene, Lamar, Marion, Pickens, Sumter, Tuscaloosa, Walker, and Winston” for “Greene, Pickens, Sumter, and Tuscaloosa”.
+
+Subsec. (a)(6). Pub. L. 118–179, § 1(6), struck out par. (6) which read as follows: “The Middle Division comprises the counties of Cherokee, De Kalb, Etowah, Marshall, and Saint Clair.
+
+“Court for the Middle Division shall be held at Gadsden.”
+
+Subsec. (a)(7). Pub. L. 118–179, § 1(7), struck out par. (7) which read as follows: “The Jasper Division comprises the counties of Fayette, Lamar, Marion, Walker, and Winston.
+
+“Court for the Jasper Division shall be held at Jasper.”
+
 1961—Subsec. (a)(2). Pub. L. 87–36 provided for holding court at Decatur.
 
 
@@ -1477,7 +1495,7 @@ Utah constitutes one judicial district comprising two divisions.
 
 (1) The Northern Division comprises the counties of Box Elder, Cache, Davis, Morgan, Rich, and Weber.Court for the Northern Division shall be held at Salt Lake City and Ogden.
 
-(2) The Central Division comprises the counties of Beaver, Carbon, Daggett, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Piute, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, and Wayne.Court for the Central Division shall be held at Salt Lake City, Provo, and St. George.
+(2) The Central Division comprises the counties of Beaver, Carbon, Daggett, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Piute, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, and Wayne.Court for the Central Division shall be held at Salt Lake City, Provo, St. George, Moab, and Monticello..11 So in original.
 
 ### Statutory Notes
 
@@ -1489,6 +1507,8 @@ A provision relating to the maintenance of offices by the clerk was omitted as c
 Changes in arrangement and phraseology were made.
 
 #### Amendments
+2025—Pub. L. 118–250 substituted “St. George, Moab, and Monticello.” for “and St. George”.
+
 1996—Par. (1). Pub. L. 104–317, § 606(a), inserted “Salt Lake City and” before “Ogden”.
 
 Par. (2). Pub. L. 104–317, § 606(b), inserted “, Provo, and St. George” after “Salt Lake City”.
@@ -1678,7 +1698,7 @@ Act June 25, 1948, ch. 646, § 2(b), 62 Stat. 985, provided in part that the pro
 
 <a id="section-133"></a>
 ## § 133. Appointment and number of district judges
-**(a)** The President shall appoint, by and with the advice and consent of the Senate, district judges for the several judicial districts, as follows: DistrictsJudges Alabama: Northern7 Middle3 Southern3 Alaska3 Arizona12 Arkansas: Eastern5 Western3 California: Northern14 Eastern6 Central27 Southern13 Colorado7 Connecticut8 Delaware4 District of Columbia15 Florida: Northern4 Middle15 Southern17 Georgia: Northern11 Middle4 Southern3 Hawaii3 Idaho2 Illinois: Northern22 Central4 Southern4 Indiana: Northern5 Southern5 Iowa: Northern2 Southern3 Kansas5 Kentucky: Eastern5 Western4 Eastern and Western1 Louisiana: Eastern12 Middle3 Western7 Maine3 Maryland10 Massachusetts13 Michigan: Eastern15 Western4 Minnesota7 Mississippi: Northern3 Southern6 Missouri: Eastern6 Western5 Eastern and Western2 Montana3 Nebraska3 Nevada7 New Hampshire3 New Jersey17 New Mexico6 New York: Northern5 Southern28 Eastern15 Western4 North Carolina: Eastern4 Middle4 Western4 North Dakota2 Ohio: Northern11 Southern8 Oklahoma: Northern3 Eastern1 Western6 Northern, Eastern, and Western1 Oregon6 Pennsylvania: Eastern22 Middle6 Western10 Puerto Rico7 Rhode Island3 South Carolina10 South Dakota3 Tennessee: Eastern5 Middle4 Western5 Texas: Northern12 Southern19 Eastern7 Western13 Utah5 Vermont2 Virginia: Eastern11 Western4 Washington: Eastern4 Western7 West Virginia: Northern3 Southern5 Wisconsin: Eastern5 Western2 Wyoming3.
+**(a)** The President shall appoint, by and with the advice and consent of the Senate, district judges for the several judicial districts, as follows: DistrictsJudges Alabama: Northern8 Middle3 Southern3 Alaska3 Arizona13 Arkansas: Eastern5 Western3 California: Northern14 Eastern6 Central28 Southern13 Colorado7 Connecticut8 Delaware4 District of Columbia15 Florida: Northern4 Middle15 Southern18 Georgia: Northern11 Middle4 Southern3 Hawaii4 Idaho2 Illinois: Northern22 Central4 Southern4 Indiana: Northern5 Southern5 Iowa: Northern2 Southern3 Kansas6 Kentucky: Eastern5 Western4 Eastern and Western1 Louisiana: Eastern12 Middle3 Western7 Maine3 Maryland10 Massachusetts13 Michigan: Eastern15 Western4 Minnesota7 Mississippi: Northern3 Southern6 Missouri: Eastern7 Western5 Eastern and Western2 Montana3 Nebraska3 Nevada7 New Hampshire3 New Jersey17 New Mexico7 New York: Northern5 Southern28 Eastern15 Western4 North Carolina: Eastern4 Middle4 Western5 North Dakota2 Ohio: Northern11 Southern8 Oklahoma: Northern3 Eastern1 Western6 Northern, Eastern, and Western1 Oregon6 Pennsylvania: Eastern22 Middle6 Western10 Puerto Rico7 Rhode Island3 South Carolina10 South Dakota3 Tennessee: Eastern5 Middle4 Western5 Texas: Northern12 Southern19 Eastern8 Western13 Utah5 Vermont2 Virginia: Eastern11 Western4 Washington: Eastern4 Western7 West Virginia: Northern3 Southern5 Wisconsin: Eastern5 Western2 Wyoming3.
 
 **(b)**
 
@@ -1730,6 +1750,8 @@ Provisions for one district judge in the Southern District of Indiana were inser
 Paragraph (2) of subsection (b) of section 4 of Pub. L. 95–408, cited as a credit to this section, was amended generally by Pub. L. 96–4, § 1, Mar. 30, 1979, 93 Stat. 6, and enacted provisions which are set out as a note under [section 93 of this title](./chapter-005-district-courts.md#section-93).
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–203 increased number of permanent district judgeships as follows: in Northern District of Alabama from 7 to 8, in Arizona from 12 to 13, in Central District of California from 27 to 28, in Southern District of Florida from 17 to 18, in Hawaii from 3 to 4, in Kansas from 5 to 6, in Eastern District of Missouri from 6 to 7, in New Mexico from 6 to 7, in Western District of North Carolina from 4 to 5, and in Eastern District of Texas from 7 to 8.
+
 2008—Subsec. (b)(2). Pub. L. 110–402 substituted “Counselor” for “administrative assistant”.
 
 2002—Subsec. (a). Pub. L. 107–273 increased number of permanent district judgeships as follows: in Southern District of California from 8 to 13, in Central and Southern Districts of Illinois from 3 to 4, in Northern District of New York from 4 to 5, in Western District of North Carolina from 3 to 4, in Western District of Texas from 11 to 13, and in Eastern District of Virginia from 10 to 11.
@@ -2397,6 +2419,8 @@ Pub. L. 86–3, § 9, Mar. 18, 1959, 73 Stat. 8, provided in part that the amend
 Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. 16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under [section 81A of this title](./chapter-005-district-courts.md#section-81a) and preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
 
 #### Additional Judgeships
+Pub. L. 118–203, § 2(a), Dec. 23, 2024, 138 Stat. 2693, provided that: “The existing judgeships for the district of Hawaii, the district of Kansas, and the eastern district of Missouri authorized by section 203(c) of the Judicial Improvements Act of 1990 (Public Law 101–650; [28 U.S.C. 133](./chapter-005-district-courts.md#section-133) note) [set out below] and the existing judgeships for the northern district of Alabama, the district of Arizona, the central district of California, the southern district of Florida, the district of New Mexico, the western district of North Carolina, and the eastern district of Texas authorized by section 312(c) of the 21st Century Department of Justice Appropriations Authorization Act (Public Law 107–273; [28 U.S.C. 133](./chapter-005-district-courts.md#section-133) note) [set out below] shall, as of the effective date of this Act [Dec. 23, 2024], be authorized under [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, and the incumbents in those offices shall hold the office under [section 133 of title 28](./chapter-005-district-courts.md#section-133), United States Code, as amended by this Act.”
+
 Pub. L. 109–115, div. A, title IV, § 406, Nov. 30, 2005, 119 Stat. 2470, as amended by Pub. L. 113–6, div. F, title III, § 1312(b), Mar. 26, 2013, 127 Stat. 418; Pub. L. 113–76, div. E, title III, § 307(b), Jan. 17, 2014, 128 Stat. 203; Pub. L. 113–235, div. E, title III, § 306(b), Dec. 16, 2014, 128 Stat. 2351; Pub. L. 114–113, div. E, title III, § 306(b), Dec. 18, 2015, 129 Stat. 2443; Pub. L. 115–31, div. E, title III, § 306(b), May 5, 2017, 131 Stat. 347; Pub. L. 115–141, div. E, title III, § 306(b), Mar. 23, 2018, 132 Stat. 556; Pub. L. 116–6, div. D, title III, § 306(b), Feb. 15, 2019, 133 Stat. 159; Pub. L. 116–93, div. C, title III, § 306(b), Dec. 20, 2019, 133 Stat. 2454; Pub. L. 116–260, div. E, title III, § 306(b), Dec. 27, 2020, 134 Stat. 1401; Pub. L. 117–103, div. E, title III, § 306(b), Mar. 15, 2022, 136 Stat. 261; Pub. L. 117–328, div. E, title III, § 306(b), Dec. 29, 2022, 136 Stat. 4672; Pub. L. 118–47, div. B, title III, § 306(b), Mar. 23, 2024, 138 Stat. 542, provided that: “The existing judgeship for the eastern district of Missouri authorized by section 203(c) of the Judicial Improvements Act of 1990 (Public Law 101–650, 104 Stat. 5089) [set out below] as amended by Public Law 105–53, as of the effective date of this Act [Nov. 30, 2005], shall be extended. The first vacancy in the office of district judge in this district occurring 31 years and 6 months or more after the confirmation date of the judge named to fill the temporary judgeship created by section 203(c) shall not be filled.”
 
 Pub. L. 107–273, div. A, title III, § 312(a)(1), Nov. 2, 2002, 116 Stat. 1786, provided that: “The President shall appoint, by and with the advice and consent of the Senate— “(A) 5 additional district judges for the southern district of California; “(B) 1 additional district judge for the western district of North Carolina; and “(C) 2 additional district judges for the western district of Texas.”

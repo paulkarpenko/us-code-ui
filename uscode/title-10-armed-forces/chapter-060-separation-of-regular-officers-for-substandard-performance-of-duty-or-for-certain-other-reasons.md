@@ -47,11 +47,19 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 **(d)**
 
-(1) If a board of inquiry determines that the officer has established that he should be retained on active duty, the officer’s case is closed.
+(1)
 
-(2) An officer who is required to show cause for retention on active duty under subsection (a) of [section 1181 of this title](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1181) and who is determined under paragraph (1) to have established that he should be retained on active duty may not again be required to show cause for retention on active duty under such subsection within the one-year period beginning on the date of that determination.
+  (A) If a board of inquiry determines that an officer should be retained, the officer’s case is closed unless the board substantiated a basis for separation and, upon recommendation from the service chief, the Secretary of the military department determines that the board’s retention recommendation is clearly erroneous in light of the evidence considered by the board, a miscarriage of justice, and inconsistent with the best interest of the service. In such cases, the Secretary of the military department may separate the officer after providing a written justification of the decision to separate.
 
-(3)
+  (B) An officer considered for separation under this section must be notified and afforded the opportunity to present matters for the Secretary of the military department to consider when making the separation determination. The Secretary of the military department shall review the case to determine whether the retention recommendation of the board is clearly contrary to the substantial weight of the evidence in the record and whether the officer’s conduct discredits the Service, adversely affects good order and discipline, and adversely affects the officer’s performance of duty.
+
+  (C) Exercise of authority to separate an officer under this section shall be reserved for unusual cases where such action is essential to the interests of justice, discipline, and proper administration of the service.
+
+(2) Authority to direct administrative separation after a board of inquiry’s recommendation to retain an officer may only be delegated to a civilian official within a military department appointed by the President, by and with the advice and consent of the Senate. The least favorable characterization in such cases will be general (under honorable conditions).
+
+(3) An officer who is required to show cause for retention on active duty under subsection (a) of [section 1181 of this title](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1181) and who is determined under paragraph (1) to have established that he should be retained on active duty may not again be required to show cause for retention on active duty under such subsection within the one-year period beginning on the date of that determination.
+
+(4)
 
   (A) Subject to subparagraph (B), an officer who is required to show cause for retention on active duty under subsection (b) of [section 1181 of this title](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1181) and who is determined under paragraph (1) to have established that he should be retained on active duty may again be required to show cause for retention at any time.
 
@@ -60,6 +68,10 @@ For provisions to prevent extinction or premature termination of rights, duties,
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (d)(1). Pub. L. 118–159, § 508(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If a board of inquiry determines that the officer has established that he should be retained on active duty, the officer’s case is closed.”
+
+Subsec. (d)(2) to (4). Pub. L. 118–159, § 508(2), (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
 2002—Subsec. (c). Pub. L. 107–314 designated existing provisions as par. (1) and added par. (2).
 
 2000—Subsec. (c). Pub. L. 106–398 made technical correction to directory language of Pub. L. 105–261, § 503(b)(1). See 1998 Amendment note below.
@@ -103,13 +115,20 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 (2) shall be allowed a reasonable time, as determined by the board of inquiry, to prepare his showing of cause for his retention on active duty;
 
-(3) shall be allowed to appear in person and to be represented by counsel at proceedings before the board of inquiry; and
+(3) subject to subsection (c), shall be allowed to appear in person and to be represented by counsel at proceedings before the board of inquiry; and
 
 (4) shall be allowed full access to, and shall be furnished copies of, records relevant to his case, except that the board of inquiry shall withhold any record that the Secretary concerned determines should be withheld in the interest of national security.
 
 **(b)** When a record is withheld under subsection (a)(4), the officer whose case is under consideration shall, to the extent that the interest of national security permits, be furnished a summary of the record so withheld.
 
+**(c)** The Secretary concerned may determine that, in exceptional circumstances, the appearance of an officer before the proceedings of a board of inquiry may be via means other than in person.
+
 ### Statutory Notes
+
+#### Amendments
+2024—Subsec. (a)(3). Pub. L. 118–159, § 509(a)(1), substituted “subject to subsection (c), shall be” for “shall be”.
+
+Subsec. (c). Pub. L. 118–159, § 509(a)(2), added subsec. (c).
 
 #### Effective Date
 Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).

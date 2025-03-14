@@ -63,6 +63,9 @@ Congress finds that—
 
 ### Statutory Notes
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–174, § 1, Dec. 23, 2024, 138 Stat. 2602, provided that: “This Act [amending [section 10367 of this title](./chapter-109b-secure-water.md#section-10367)] may be cited as the ‘Water Monitoring and Tracking Essential Resources (WATER) Data Improvement Act’.”
+
 #### Water Data Sharing Pilot Program
 Pub. L. 117–58, div. E, title II, § 50213, Nov. 15, 2021, 135 Stat. 1172, provided that: “(a) Establishment.—“(1) In general.—Subject to the availability of appropriations, the Administrator [of the Environmental Protection Agency] shall establish a competitive grant pilot program (referred to in this section as the ‘pilot program’) under which the Administrator may award grants to eligible entities under subsection (b) to establish systems that improve the sharing of information concerning water quality, water infrastructure needs, and water technology, including cybersecurity technology, between States or among counties and other units of local government within a State, which may include—“(A) establishing a website or data hub to exchange water data, including data on water quality or water technology, including new and emerging, but proven, water technology; and “(B) intercounty communications initiatives related to water data. “(2) Requirements.—“(A) Data sharing.—The Internet of Water principles developed by the Nicholas Institute for Environmental Policy Solutions shall, to the extent practicable, guide any water data sharing efforts under the pilot program. “(B) Use of existing data.—The recipient of a grant under the pilot program to establish a website or data hub described in paragraph (1)(A) shall, to the extent practicable, leverage existing data sharing infrastructure. “(b) Eligible Entities.—An entity eligible for a grant under the pilot program is—“(1) a State, county, or other unit of local government that—“(A) has a coastal watershed with significant pollution levels; “(B) has a water system with significant pollution levels; or “(C) has significant individual water infrastructure deficits; or “(2) a regional consortium established under subsection (d). “(c) Applications.—To be eligible to receive a grant under the pilot program, an eligible entity under subsection (b) shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator may require. “(d) Regional Consortia.—“(1) Establishment.—States may establish regional consortia in accordance with this subsection. “(2) Requirements.—A regional consortium established under paragraph (1) shall—“(A) include not fewer than 2 States that have entered into a memorandum of understanding—“(i) to exchange water data, including data on water quality; or “(ii) to share information, protocols, and procedures with respect to projects that evaluate, demonstrate, or install new and emerging, but proven, water technology; “(B) carry out projects—“(i) to exchange water data, including data on water quality; or “(ii) that evaluate, demonstrate, or install new and emerging, but proven, water technology; and “(C) develop a regional intended use plan, in accordance with paragraph (3), to identify projects to carry out, including projects using grants received under this section. “(3) Regional intended use plan.—A regional intended use plan of a regional consortium established under paragraph (1)—“(A) shall identify projects that the regional consortium intends to carry out, including projects that meet the requirements of paragraph (2)(B); and “(B) may include—“(i) projects included in an intended use plan of a State prepared under section 606(c) of the Federal Water Pollution Control Act ([33 U.S.C. 1386(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1386/c&num=0&edition=prelim)) within the regional consortium; and “(ii) projects not included in an intended use plan of a State prepared under section 606(c) of the Federal Water Pollution Control Act ([33 U.S.C. 1386(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1386/c&num=0&edition=prelim)) within the regional consortium. “(e) Report.—Not later than 2 years after the date of enactment of this Act [Nov. 15, 2021], the Administrator shall submit to Congress a report that describes the implementation of the pilot program, which shall include—“(1) a description of the use and deployment of amounts made available under the pilot program; and “(2) an accounting of all grants awarded under the program, including a description of each grant recipient and each project funded using a grant under the pilot program. “(f) Funding.—“(1) Authorization of appropriations.—There is authorized to be appropriated to carry out the pilot program $15,000,000 for each of fiscal years 2022 through 2026, to remain available until expended. “(2) Requirement.—Of the funds made available under paragraph (1), not more than 35 percent may be used to provide grants to regional consortia established under subsection (d).”
 
@@ -624,11 +627,11 @@ Pub. L. 114–322, title III, § 4009(d), Dec. 16, 2016, 130 Stat. 1870, as amen
 
 <a id="section-10367"></a>
 ## § 10367. Water data enhancement by United States Geological Survey
-**(a) National streamflow information program**
+**(a) Federal priority streamgage program**
 
-(1) **In general** — The Secretary, in consultation with the Advisory Committee and the Panel and consistent with this section, shall proceed with implementation of the national streamflow information program, as reviewed by the National Research Council in 2004.
+(1) **In general** — The Secretary, in consultation with the Advisory Committee and the Panel and consistent with this section, shall proceed with implementation of the Federal priority streamgage program.
 
-(2) **Requirements** — In conducting the national streamflow information program, the Secretary shall—
+(2) **Requirements** — In conducting the Federal priority streamgage program, the Secretary shall—
 
   (A) measure streamflow and related environmental variables in nationally significant watersheds—
 
@@ -644,7 +647,7 @@ Pub. L. 114–322, title III, § 4009(d), Dec. 16, 2016, 130 Stat. 1870, as amen
 
     (ii) the conduct of assessments to determine the extent to which each long-term change monitored under clause (i) is related to global climate change;
 
-  (D) integrate the national streamflow information program with data collection activities of Federal agencies and appropriate State water resource agencies (including the National Integrated Drought Information System)—
+  (D) integrate the Federal priority streamgage program with data collection activities of Federal agencies and appropriate State water resource agencies (including the National Integrated Drought Information System)—
 
     (i) to enhance the comprehensive understanding of water availability;
 
@@ -654,7 +657,7 @@ Pub. L. 114–322, title III, § 4009(d), Dec. 16, 2016, 130 Stat. 1870, as amen
 
     (iv) to improve hydrologic forecasting; and
 
-  (E) incorporate principles of adaptive management in the conduct of periodic reviews of information collected under the national streamflow information program to assess whether the objectives of the national streamflow information program are being adequately addressed.
+  (E) incorporate principles of adaptive management in the conduct of periodic reviews of information collected under the Federal priority streamgage program to assess whether the objectives of the Federal priority streamgage program are being adequately addressed.
 
 (3) **Improved methodologies** — The Secretary shall—
 
@@ -664,21 +667,21 @@ Pub. L. 114–322, title III, § 4009(d), Dec. 16, 2016, 130 Stat. 1870, as amen
 
 (4) **Network enhancement**
 
-  (A) *In general* — Not later than 10 years after March 30, 2009, in accordance with subparagraph (B), the Secretary shall—
+  (A) *In general* — Not later than 10 years after March 30, 2023, in accordance with subparagraph (B), the Secretary shall—
 
     (i) increase the number of streamgages funded by the national streamflow information program to a quantity of not less than 4,700 sites; and
 
-    (ii) ensure all streamgages are flood-hardened and equipped with water-quality sensors and modernized telemetry.
+    (ii) ensure all streamgages are flood-hardened and equipped with precipitation water-quality sensors and modernized telemetry.
 
-  (B) *Requirements of sites* — Each site described in subparagraph (A) shall conform with the National Streamflow Information Program plan as reviewed by the National Research Council.
+  (B) *Requirements of sites* — Each site described in subparagraph (A) shall conform with the Federal needs established through regular solicitation of feedback, such as that documented in the report titled “Re-prioritization of the U.S. Geological Survey Federal Priority streamgage program, 2022” 11 So in original. Probably should be “Re-Prioritization of the U.S. Geological Survey Federal Priority Streamgage Network, 2022”. (Open-file Report 2023–1032).
 
-(5) **Federal share** — The Federal share of the national streamgaging network established pursuant to this subsection shall be 100 percent of the cost of carrying out the national streamgaging network.
+(5) **Federal share** — The Federal share of the Federal priority streamgage network established pursuant to this subsection shall be 100 percent of the cost of carrying out the Federal priority streamgage network.
 
 (6) **Authorization of appropriations**
 
-  (A) *In general* — Except as provided in subparagraph (B), there are authorized to be appropriated such sums as are necessary to operate the national streamflow information program for the period of fiscal years 2009 through 2023, to remain available until expended.
+  (A) *In general* — Except as provided in subparagraph (B), there are authorized to be appropriated such sums as are necessary to operate the Federal priority streamgage program for the period of fiscal years 2009 through 2028, to remain available until expended.
 
-  (B) *Network enhancement funding* — There is authorized to be appropriated to carry out the network enhancements described in paragraph (4) $10,000,000 for each of fiscal years 2009 through 2019, to remain available until expended.
+  (B) *Network enhancement funding* — There is authorized to be appropriated to carry out the network enhancements described in paragraph (4) $10,000,000 for each of fiscal years 2009 through 2028, to remain available until expended.
 
 **(b) National groundwater resources monitoring**
 
@@ -688,13 +691,13 @@ Pub. L. 114–322, title III, § 4009(d), Dec. 16, 2016, 130 Stat. 1870, as amen
 
   (A) establish appropriate criteria for monitoring wells to ensure the acquisition of long-term, high-quality data sets, including, to the maximum extent possible, the inclusion of real-time instrumentation and reporting;
 
-  (B) in coordination with the Advisory Committee and State and local water resource agencies—
+  (B) in coordination with the Advisory Committee and State and local water resource agencies and Tribes—
 
     (i) assess the current scope of groundwater monitoring based on the access availability and capability of each monitoring well in existence as of March 30, 2009; and
 
     (ii) develop and carry out a monitoring plan that maximizes coverage for each major aquifer system that is located in the United States; and
 
-  (C) prior to initiating any specific monitoring activities within a State after March 30, 2009, consult and coordinate with the applicable State water resource agency with jurisdiction over the aquifer that is the subject of the monitoring activities, and comply with all applicable laws (including regulations) of the State.
+  (C) prior to initiating any specific monitoring activities within a State or Tribal lands after March 30, 2009, consult and coordinate with the applicable State water resource agency or Tribe with jurisdiction over the aquifer that is the subject of the monitoring activities, and comply with all applicable laws (including regulations) of the State.
 
 (3) **Program objectives** — In carrying out the monitoring program described in paragraph (1), the Secretary shall—
 
@@ -712,33 +715,11 @@ Pub. L. 114–322, title III, § 4009(d), Dec. 16, 2016, 130 Stat. 1870, as amen
 
 (5) **Federal share** — The Federal share of the monitoring program described in paragraph (1) may be 100 percent of the cost of carrying out the monitoring program.
 
-(6) **Priority** — In selecting monitoring activities consistent with the monitoring program described in paragraph (1), the Secretary shall give priority to those activities for which a State or local governmental entity agrees to provide for a substantial share of the cost of establishing or operating a monitoring well or other measuring device to carry out a monitoring activity.
+(6) **Priority** — In selecting monitoring activities consistent with the monitoring program described in paragraph (1), the Secretary shall give priority to those activities for which a State, a Tribe or local governmental entity agrees to provide for a substantial share of the cost of establishing or operating a monitoring well or other measuring device to carry out a monitoring activity.
 
-(7) **Authorization of appropriations** — There are authorized to be appropriated such sums as are necessary to carry out this subsection for the period of fiscal years 2009 through 2023, to remain available until expended.
+(7) **Authorization of appropriations** — There are authorized to be appropriated $4,000,000 per fiscal year to carry out this subsection for the period of fiscal years 2023 through 2028, to remain available until expended.
 
-**(c) Brackish groundwater assessment**
-
-(1) **Study** — The Secretary, in consultation with State and local water resource agencies, shall conduct a study of available data and other relevant information—
-
-  (A) to identify significant brackish groundwater resources located in the United States; and
-
-  (B) to consolidate any available data relating to each groundwater resource identified under subparagraph (A).
-
-(2) **Report** — Not later than 2 years after March 30, 2009, the Secretary shall submit to the appropriate committees of Congress a report that includes—
-
-  (A) a description of each—
-
-    (i) significant brackish aquifer that is located in the United States (including 1 or more maps of each significant brackish aquifer that is located in the United States);
-
-    (ii) data gap that is required to be addressed to fully characterize each brackish aquifer described in clause (i); and
-
-    (iii) current use of brackish groundwater that is supplied by each brackish aquifer described in clause (i); and
-
-  (B) a summary of the information available as of March 30, 2009, with respect to each brackish aquifer described in subparagraph (A)(i) (including the known level of total dissolved solids in each brackish aquifer).
-
-(3) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $3,000,000 for the period of fiscal years 2009 through 2011, to remain available until expended.
-
-**(d) Improved water estimation, measurement, and monitoring technologies**
+**(c) Improved water estimation, measurement, and monitoring technologies**
 
 (1) **Authority of Secretary** — The Secretary may provide grants on a nonreimbursable basis to appropriate entities with expertise in water resource data acquisition and reporting, including Federal agencies, the Water Resources Research Institutes and other academic institutions, and private entities, to—
 
@@ -760,7 +741,42 @@ Pub. L. 114–322, title III, § 4009(d), Dec. 16, 2016, 130 Stat. 1870, as amen
 
 (3) **Partnerships** — In recognition of the value of collaboration to foster innovation and enhance research and development efforts, the Secretary shall encourage partnerships, including public-private partnerships, between and among Federal agencies, academic institutions, and private entities to promote the objectives described in paragraph (1).
 
-(4) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2009 through 2019.
+(4) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2009 through 2028.
+
+### Statutory Notes
+
+#### Amendments
+2024—Subsec. (a). Pub. L. 118–174, § 2(1)(A), substituted “Federal priority streamgage program” for “National streamflow information program” in heading.
+
+Subsec. (a)(1). Pub. L. 118–174, § 2(1)(B), substituted “Federal priority streamgage program” for “national streamflow information program, as reviewed by the National Research Council in 2004”.
+
+Subsec. (a)(2). Pub. L. 118–174, § 2(1)(C), substituted “Federal priority streamgage program” for “national streamflow information program” wherever appearing.
+
+Subsec. (a)(4)(A). Pub. L. 118–174, § 2(1)(D)(i)(I), substituted “2023” for “2009” in introductory provisions.
+
+Subsec. (a)(4)(A)(ii). Pub. L. 118–174, § 2(1)(D)(i)(II), inserted “precipitation” before “water-quality sensors”.
+
+Subsec. (a)(4)(B). Pub. L. 118–174, § 2(1)(D)(ii), which directed the substitution of “Federal needs established through regular solicitation of feedback, such as that documented in the report titled ‘Re-prioritization of the U.S. Geological Survey Federal Priority streamgage program, 2022’ (Open-file Report 2023–1032).” for “National Streamflow Information Program as reviewed by the National Research Council.” was executed by making the substitution for “National Streamflow Information Program plan as reviewed by the National Research Council.”, to reflect the probable intent of Congress.
+
+Subsec. (a)(5). Pub. L. 118–174, § 2(1)(E), substituted “Federal priority streamgage network” for “national streamgaging network” in two places.
+
+Subsec. (a)(6)(A). Pub. L. 118–174, § 2(1)(F)(i), substituted “Federal priority streamgage program” for “national streamflow information program” and “2028” for “2023”.
+
+Subsec. (a)(6)(B). Pub. L. 118–174, § 2(1)(F)(ii), substituted “2028” for “2019”.
+
+Subsec. (b)(2)(B). Pub. L. 118–174, § 2(2)(A)(i), inserted “and Tribes” after “agencies” in introductory provisions.
+
+Subsec. (b)(2)(C). Pub. L. 118–174, § 2(2)(A)(ii), inserted “or Tribal lands” after “within a State” and “or Tribe” after “water resource agency”.
+
+Subsec. (b)(6). Pub. L. 118–174, § 2(2)(B), inserted “, a Tribe” after “a State”.
+
+Subsec. (b)(7). Pub. L. 118–174, § 2(2)(C), substituted “$4,000,000 per fiscal year” for “such sums as are necessary” and “2023 through 2028” for “2009 through 2023”.
+
+Subsec. (c). Pub. L. 118–174, § 2(3), (4), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to brackish groundwater assessment study and report.
+
+Subsec. (c)(4). Pub. L. 118–174, § 2(5), substituted “2028” for “2019”.
+
+Subsec. (d). Pub. L. 118–174, § 2(4), redesignated subsec. (d) as (c).
 
 
 <a id="section-10368"></a>

@@ -227,15 +227,15 @@ Amendment by section 1809(f)(1) of Pub. L. 116–283 effective Jan. 1, 2022, wit
 
 (4) For paying costs of changes to program requirements or system configuration that are approved by the configuration steering board for a major defense acquisition program.
 
+(5) For procuring and integrating available commercial technologies and services to satisfy a joint urgent operational need, joint emergent operational need, or a validated service requirement.
+
+(6) For providing infrastructure to support Department goals of accelerating the fielding and adoption of new capabilities.
+
 **(e) Limitations.—**
 
 (1) Funds in the Defense Modernization Account may not be used to increase the quantity of an item or services procured under a particular acquisition program to the extent that doing so would—
 
-  (A) result in procurement of a total quantity of items or services in excess of—
-
-    (i) a specific limitation provided by law on the quantity of the items or services that may be procured; or
-
-    (ii) the requirement for the items or services as approved by the Joint Requirements Oversight Council and reported to Congress by the Secretary of Defense; or
+  (A) result in procurement of a total quantity of items or services in excess of a specific limitation provided by law on the quantity of the items or services that may be procured; or
 
   (B) result in an obligation or expenditure of funds in excess of a specific limitation provided by law on the amount that may be obligated or expended, respectively, for that acquisition program.
 
@@ -284,6 +284,14 @@ Amendment by section 1809(f)(1) of Pub. L. 116–283 effective Jan. 1, 2022, wit
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (e)(1)(A). Pub. L. 119–60 substituted “in excess of a specific limitation” for “in excess of—
+
+“(i) a specific limitation”
+
+and struck out cl. (ii) which read as follows: “the requirement for the items or services as approved by the Joint Requirements Oversight Council and reported to Congress by the Secretary of Defense; or”.
+
+2024—Subsec. (d)(5), (6). Pub. L. 118–159 added pars. (5) and (6).
+
 2022—Subsec. (j). Pub. L. 117–263 struck out subsec. (j). Text read as follows:
 
 “(1) The authority under subsection (c) to transfer funds into the Defense Modernization Account terminates at the close of September 30, 2022.
@@ -373,6 +381,9 @@ Subsec. (j)(3). Pub. L. 108–136, § 1043(b)(8), struck out par. (3) which read
 Subsec. (k). Pub. L. 108–136, § 1008(f)(1), added subsec. (k).
 
 1999—Subsec. (j)(3)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–159, div. A, title X, § 1003(b), Dec. 23, 2024, 138 Stat. 2047, provided that: “Paragraphs (5) and (6) of subsection (d) of [section 3136 of title 10](./chapter-207-budgeting-and-appropriations.md#section-3136), United States Code, as added by subsection (a), shall apply only with respect to funds made available, and transferred to the Defense Modernization Account, on or after the date of the enactment of this Act [Dec. 23, 2024].”
 
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

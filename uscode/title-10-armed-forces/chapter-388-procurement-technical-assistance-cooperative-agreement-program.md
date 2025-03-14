@@ -65,9 +65,11 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 The purposes of the program authorized by this chapter are—
 
-(1) to increase assistance by the Department of Defense to eligible entities furnishing procurement technical assistance to business entities; and
+(1) to increase assistance by the Department of Defense to eligible entities furnishing procurement technical assistance to business entities;
 
-(2) to assist eligible entities in the payment of the costs of establishing and carrying out new procurement technical assistance programs and maintaining existing procurement technical assistance programs.
+(2) to assist eligible entities in the payment of the costs of establishing and carrying out new procurement technical assistance programs and maintaining existing procurement technical assistance programs; and
+
+(3) to foster innovation for the defense industrial base and to diversify and expand the defense industrial base.
 
 ### Statutory Notes
 
@@ -77,6 +79,8 @@ The text of [section 2412 of this title](https://uscode.house.gov/view.xhtml?req
 Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(A), Dec. 27, 2021, 135 Stat. 2135, 2144, amended Pub. L. 116–283, § 1872(a)(5), which had originally transferred [section 2413 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2413) to this section and made an amendment in the text. After amendment by Pub. L. 117–81, section 1872(a)(5) of Pub. L. 116–283 instead transferred section 2413 to [section 4954 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4954) and consequently amended the text of that section.
 
 #### Amendments
+2025—Par. (3). Pub. L. 119–60 added par. (3).
+
 2021—Pub. L. 117–81, § 1701(m)(3), which directed amendment of section “1872(a)(B)” of Pub. L. 116–283, was executed as if it had referred to section “1872(a)(1)(B)” of Pub. L. 116–283, which enacted this section, to reflect the probable intent of Congress.
 
 Pub. L. 116–283, § 1872(a)(3), as amended by Pub. L. 117–81, § 1701(m)(1)(B), transferred the text of [section 2412 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2412&num=0&edition=prelim) to this section.
@@ -219,7 +223,7 @@ Pub. L. 99–145, title IX, § 919(d), Nov. 8, 1985, 99 Stat. 693, provided that
 
 (3) in the case of a program operated wholly within one service area of the Bureau of Indian Affairs by an eligible entity referred to in [section 4951(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4951/1/D&num=0&edition=prelim), $450,000; or
 
-(4) in the case of a program operated wholly within more than one service area of the Bureau of Indian Affairs by an eligible entity referred to in [section 4951(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4951/1/D&num=0&edition=prelim), $1,000,000.
+(4) in the case of a program operated wholly within more than one service area of the Bureau of Indian Affairs by an eligible entity referred to in [section 4951(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4951/1/D&num=0&edition=prelim), $1,500,000.
 
 **(b) Determinations on Scope of Operations.—** A determination of whether a procurement technical assistance program is operating on a Statewide basis or on less than a Statewide basis or is operated wholly within one or more service areas of the Bureau of Indian Affairs by an eligible entity referred to in [section 4951(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4951/1/D&num=0&edition=prelim) shall be made in accordance with regulations prescribed by the Secretary of Defense.
 
@@ -237,12 +241,18 @@ Pub. L. 99–145, title IX, § 919(d), Nov. 8, 1985, 99 Stat. 693, provided that
 
 (3) In determining the value of assistance furnished by the Secretary under this section for any fiscal year, the Secretary shall account for the amount of any income the eligible entity carried over from the previous fiscal year.
 
+**(e) Funding From Other Federal Agencies.—** The Secretary may accept and use funds from other Federal agencies and departments for execution and administration of the program authorized by this chapter.
+
 ### Statutory Notes
 
 #### Codification
 Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(D), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(8), which had originally transferred [section 2416 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2416) to this section. After amendment by Pub. L. 117–81, section 1872(a)(8) of Pub. L. 116–283 instead transferred section 2416 to [section 4957 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4957).
 
 #### Amendments
+2025—Subsec. (a)(4). Pub. L. 119–60, § 861(c), substituted “$1,500,000” for “$1,000,000”.
+
+Subsec. (e). Pub. L. 119–60, § 861(b), added subsec. (e).
+
 2022—Subsec. (a)(1). Pub. L. 117–263 substituted “$1,500,000” for “$1,000,000”.
 
 2021—Pub. L. 116–283, § 1872(a)(6), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(B)(i), (ii), renumbered [section 2414 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2414) as this section.
@@ -394,9 +404,17 @@ Pub. L. 99–500, § 101(c) [title X, § 957(b)], Oct. 18, 1986, 100 Stat. 1783�
 
 (2) under section 9 of the Small Business Act ([15 U.S.C. 638](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638&num=0&edition=prelim)), and on compliance with those requirements;
 
-(3) under clause 252.204–7012 of the Defense Acquisition Regulation Supplement, or any successor regulation, and on compliance with those requirements (and any successor requirements); and
+(3) under clause 252.204–7012 of the Defense Acquisition Regulation Supplement, or any successor regulation, and on compliance with those requirements (and any successor requirements);
 
-(4) under section 847 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1505), and on compliance with those requirements (and any such successor requirements).
+(4) under section 847 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1505), and on compliance with those requirements (and any such successor requirements); and
+
+(5) under the AUKUS partnership (as defined in section 1321 of the National Defense Authorization Act for Fiscal Year 2024 ([22 U.S.C. 10401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section10401&num=0&edition=prelim)).
+
+**(d)** The Under Secretary of Defense for Acquisition and Sustainment may—
+
+(1) provide assistance to an eligible entity that is a center of excellence for the APEX Accelerator Program of the Department of Defense (or a successor program) to provide specialized expertise to business entities outside of the geographic area served by the center of excellence; and
+
+(2) may waive the government cost share restriction in accordance with section 4954(f) of this chapter.
 
 ### Statutory Notes
 
@@ -406,6 +424,10 @@ The Defense Conversion, Reinvestment, and Transition Assistance Act of 1992, ref
 Section 847 of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (c)(4), is section 847 of Pub. L. 116–92, which is set out as a note under [section 4819 of this title](./chapter-382-policies-and-planning.md#section-4819).
 
 #### Amendments
+2025—Subsec. (c)(5). Pub. L. 119–60, § 861(d)(1), added par. (5).
+
+Subsec. (d). Pub. L. 119–60, § 861(d)(2), added subsec. (d).
+
 2023—Subsec. (c)(3), (4). Pub. L. 118–31 added pars. (3) and (4).
 
 2021—Pub. L. 116–283, § 1872(a)(9), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(E), renumbered [section 2418 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2418) as this section and inserted headings in subsecs. (a) to (c).

@@ -72,16 +72,27 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 
 <a id="section-7377"></a>
-## § 7377. Civilian special agents of the Criminal Investigation Command: authority to execute warrants and make arrests
+## § 7377. Certain civilian special agents: authority to execute warrants and make arrests
 **(a) Authority.—** The Secretary of the Army may authorize any Department of the Army civilian employee described in subsection (b) to have the same authority to execute and serve warrants and other processes issued under the authority of the United States and to make arrests without a warrant as may be authorized under [section 1585a of this title](./chapter-081-civilian-employees.md#section-1585a) for special agents of the Defense Criminal Investigative Service.
 
-**(b) Agents To Have Authority.—** Subsection (a) applies to any employee of the Department of the Army who is a special agent of the Army Criminal Investigation Command (or a successor to that command) whose duties include conducting, supervising, or coordinating investigations of criminal activity in programs and operations of the Department of the Army.
+**(b) Agents To Have Authority.—**
+
+(1) Subsection (a) applies to any employee of the Department of the Army who is a special agent of the Army Criminal Investigation Command (or a successor to that command) whose duties include conducting, supervising, or coordinating investigations of criminal activity in programs and operations of the Department of the Army.
+
+(2) In addition to paragraph (1), during the four-year period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025, subsection (a) applies to any employee of the Department of the Army who is a special agent of the Army Counterintelligence Command (or a successor to that command) whose duties include conducting, supervising, or coordinating counterintelligence investigations in programs and operations of the Department of the Army.
 
 **(c) Guidelines for Exercise of Authority.—** The authority provided under subsection (a) shall be exercised in accordance with guidelines prescribed by the Secretary of the Army and approved by the Secretary of Defense and the Attorney General and any other applicable guidelines prescribed by the Secretary of the Army, the Secretary of Defense, or the Attorney General.
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2025, referred to in subsec. (b)(2), is the date of enactment of Pub. L. 118–159, also known as the Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025, which was approved Dec. 23, 2024.
+
 #### Amendments
+2024—Pub. L. 118–159, § 1613(a)(1), substituted “Certain civilian special agents:” for “Civilian special agents of the Criminal Investigation Command:” in section catchline.
+
+Subsec. (b). Pub. L. 118–159, § 1613(a)(2), designated existing provisions as par. (1) and added par. (2).
+
 2018—Pub. L. 115–232 renumbered [section 4027 of this title](./chapter-301-research-and-engineering-generally.md#section-4027) as this section.
 
 #### Effective Date of 2018 Amendment

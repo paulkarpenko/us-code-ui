@@ -163,7 +163,7 @@ Subsection (c) requires the Secretary to submit an annual report to Congress sum
 
 <a id="section-6308"></a>
 ## § 6308. Information barred in legal proceedings
-**(a)** Notwithstanding any other provision of law, no part of a report of a marine casualty investigation conducted under [section 6301 of this title](./chapter-063-investigating-marine-casualties.md#section-6301), including findings of fact, opinions, recommendations, deliberations, or conclusions, shall be admissible as evidence or subject to discovery in any civil or administrative proceedings, other than an administrative proceeding initiated by the United States.
+**(a)** Notwithstanding any other provision of law, no part of a report of a marine casualty investigation conducted under [section 6301 of this title](./chapter-063-investigating-marine-casualties.md#section-6301), including findings of fact, opinions, recommendations, deliberations, or conclusions, shall be admissible as evidence or subject to discovery in any civil or administrative proceedings, other than an administrative proceeding conducted by the United States.
 
 **(b)** Any member or employee of the Coast Guard investigating a marine casualty pursuant to [section 6301 of this title](./chapter-063-investigating-marine-casualties.md#section-6301) shall not be subject to deposition or other discovery, or otherwise testify in such proceedings relevant to a marine casualty investigation, without the permission of the Secretary. The Secretary shall not withhold permission for such employee or member to testify, either orally or upon written questions, on solely factual matters at a time and place and in a manner acceptable to the Secretary if the information is not available elsewhere or is not obtainable by other means.
 
@@ -171,12 +171,18 @@ Subsection (c) requires the Secretary to submit an annual report to Congress sum
 
 **(d)** The information referred to in subsections (a), (b), and (c) of this section shall not be considered an admission of liability by the United States or by any person referred to in those conclusions and statements.
 
+**(e)** For purposes of this section, an administrative proceeding conducted by the United States includes proceedings under section 7701 and claims adjudicated under section 1013 of the Oil Pollution Act of 1990 ([33 U.S.C. 2713](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2713&num=0&edition=prelim)).
+
 ### Statutory Notes
 
 #### References in Text
 The Federal Rules of Civil Procedure, referred to in subsec. (c), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 7402(1), substituted “proceeding conducted” for “proceeding initiated”.
+
+Subsec. (e). Pub. L. 119–60, § 7402(2), added subsec. (e).
+
 2010—Subsecs. (c), (d). Pub. L. 111–281 made technical amendment to directory language of Pub. L. 109–241, § 902(e). See 2006 Amendment notes below.
 
 2006—Subsec. (a). Pub. L. 109–241, § 902(e)(2)(B), added subsec. (a) and struck out former subsec. (a) which read as follows: “Notwithstanding any other provision of law, no part of a report of a marine casualty investigation conducted under [section 6301 of this title](./chapter-063-investigating-marine-casualties.md#section-6301), including findings of fact, opinions, recommendations, deliberations, or conclusions, shall be admissible as evidence or subject to discovery in any civil or administrative proceedings, other than an administrative proceeding initiated by the United States. Any employee of the Department of Transportation, and any member of the Coast Guard, investigating a marine casualty pursuant to [section 6301 of this title](./chapter-063-investigating-marine-casualties.md#section-6301), shall not be subject to deposition or other discovery, or otherwise testify in such proceedings relevant to a marine casualty investigation, without the permission of the Secretary of Transportation. The Secretary shall not withhold permission for such employee or member to testify, either orally or upon written questions, on solely factual matters at a time and place and in a manner acceptable to the Secretary if the information is not available elsewhere or is not obtainable by other means.”

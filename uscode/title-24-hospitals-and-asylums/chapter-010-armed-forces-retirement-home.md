@@ -39,9 +39,11 @@ For purposes of this chapter:
 
   (C) the Deputy Chief of Staff for Personnel of the Air Force;
 
-  (D) the Deputy Commandant of the Marine Corps for Manpower and Reserve Affairs; and
+  (D) the Deputy Commandant of the Marine Corps for Manpower and Reserve Affairs;
 
-  (E) the Assistant Commandant of the Coast Guard for Human Resources.
+  (E) the Assistant Commandant of the Coast Guard for Human Resources; and
+
+  (F) the Deputy Chief of Space Operations for Human Capital of the Space Force.
 
 (6) The term “senior noncommissioned officers” means the following:
 
@@ -55,12 +57,18 @@ For purposes of this chapter:
 
   (E) The Master Chief Petty Officer of the Coast Guard.
 
+  (F) The Chief Master Sergeant of the Space Force.
+
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title XV of Pub. L. 101–510, div. A, Nov. 5, 1990, 104 Stat. 1722, which is classified principally to this chapter. For complete classification of title XV to the Code, see Short Title note below and Tables.
 
 #### Amendments
+2024—Par. (5)(F). Pub. L. 118–159, § 1422(a), added subpar. (F).
+
+Par. (6)(F). Pub. L. 118–159, § 1422(b), added subpar. (F).
+
 2011—Pars. (2) to (4). Pub. L. 112–81 added pars. (3) and (4), redesignated former par. (3) as (2), and struck out former par. (2) which read as follows: “The term ‘Local Board’ means a Local Board of Trustees established under [section 416 of this title](./chapter-010-armed-forces-retirement-home.md#section-416).”
 
 2010—Par. (4). Pub. L. 111–281, § 205(a)(1), struck out par. (4) which read as follows: “The term ‘Armed Forces’ does not include the Coast Guard when it is not operating as a service in the Navy.”
@@ -331,17 +339,11 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 **(b) Medical and dental care** The Retirement Home shall provide for the overall health care needs of residents in a high quality and cost-effective manner, including on site primary care, medical care, and a continuum of long-term care services. The services provided residents of the Retirement Home shall include appropriate nonacute medical and dental services, pharmaceutical services, and transportation of residents, which shall be provided at no cost to residents. Secondary and tertiary hospital care for residents that is not available at a facility of the Retirement Home shall, to the extent available, be obtained by agreement with the Secretary of Veterans Affairs or the Secretary of Defense in a facility administered by such Secretary. Except as provided in subsection (d), the Retirement Home shall not be responsible for the costs incurred for such care by a resident of the Retirement Home who uses a private medical facility for such care. The Retirement Home may not construct an acute care facility.
 
-**(c) Availability of physicians and dentists**
+**(c) Availability of licensed practitioners**
 
-(1) In providing for the health care needs of residents at a facility of the Retirement Home under subsection (b), the Retirement Home shall have a physician and a dentist—
+(1) In providing for the health care needs of residents at a facility of the Retirement Home under subsection (b), the Retirement Home shall have appropriate licensed practitioners, as determined under paragraph (2), available during the daily business hours of the facility and on an on-call basis at other times.
 
-  (A) available at the facility during the daily business hours of the facility; and
-
-  (B) available on an on-call basis at other times.
-
-(2) The physicians and dentists required by this subsection shall have the skills and experience suited to residents of the facility served by the physicians and dentists.
-
-(3) To ensure the availability of health care services for residents of a facility of the Retirement Home, the Chief Operating Officer, in consultation with the Medical Director, shall establish uniform standards, appropriate to the medical needs of the residents, for access to health care services during and after the daily business hours of the facility.
+(2) In accordance with accrediting organization standards pursuant to [section 411(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title24-section411/g&num=0&edition=prelim), the Chief Operating Officer, in consultation with the Medical Director, shall ensure that the skills, experience, and availability of the practitioners are suited to residents of the facility.
 
 **(d) Transportation to medical care outside Retirement Home facilities**
 
@@ -352,6 +354,8 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (c). Pub. L. 118–159 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to availability of physicians and dentists.
+
 2011—Pub. L. 112–81 substituted “Services provided to residents” for “Services provided residents” in section catchline.
 
 2008—Subsec. (b). Pub. L. 110–181 inserted after first sentence “The services provided residents of the Retirement Home shall include appropriate nonacute medical and dental services, pharmaceutical services, and transportation of residents, which shall be provided at no cost to residents.”

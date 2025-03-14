@@ -22,21 +22,51 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 In this chapter:
 
-(1) **Appropriate congressional committees** — The term “appropriate congressional committees” means—
+(1) **Advancing income country** — The term “advancing income country”, with respect to a fiscal year for the Corporation, means a country the gross national income per capita of which at the start of such fiscal year is—
+
+  (A) greater than the World Bank threshold for initiating the International Bank for Reconstruction and Development graduation process; and
+
+  (B) is equal to or less than the per capita income threshold for classification as a high-income economy (as defined by the World Bank).
+
+(2) **Appropriate congressional committees** — The term “appropriate congressional committees” means—
 
   (A) the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and
 
   (B) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.
 
-(2) **Less developed country** — The term “less developed country” means a country with a low-income economy, lower-middle-income economy, or upper-middle-income economy, as defined by the International Bank for Reconstruction and Development and the International Development Association (collectively referred to as the “World Bank”).
+(3) **Country of concern** — The term “country of concern” means any of the following countries:
 
-(3) **Predecessor authority** — The term “predecessor authority” means authorities repealed by subchapter VI of this chapter.
+  (A) The Bolivarian Republic of Venezuela.
 
-(4) **Qualifying sovereign entity** — The term “qualifying sovereign entity” means—
+  (B) The Republic of Cuba.
+
+  (C) The Democratic People’s Republic of Korea.
+
+  (D) The Islamic Republic of Iran.
+
+  (E) The People’s Republic of China.
+
+  (F) The Russian Federation.
+
+  (G) The Republic of Belarus.
+
+(4) **High-income country** — The term “high-income country”, with respect to a fiscal year for the Corporation, means a country with a high-income economy (as defined by the World Bank) at the start of such fiscal year but does not include any wealthy country except to the extent investments in such wealthy country are permitted pursuant to [section 9612(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9612/f&num=0&edition=prelim).
+
+(5) **Less developed country** — The term “less developed country”, with respect to a fiscal year for the Corporation, means a country the gross national income per capita of which at the start of such fiscal year is equal to or less than the World Bank threshold for initiating the International Bank for Reconstruction Development graduation process.
+
+(6) **Predecessor authority** — The term “predecessor authority” means authorities repealed by subchapter VI of this chapter.
+
+(7) **Qualifying sovereign entity** — The term “qualifying sovereign entity” means—
 
   (A) any agency or instrumentality of a foreign state (as defined in [section 1603 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1603&num=0&edition=prelim)) that has a purpose that is similar to the purpose of the Corporation as described in [section 9612(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9612/b&num=0&edition=prelim); or
 
   (B) any international financial institution (as defined in [section 262r(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section262r/c&num=0&edition=prelim)).
+
+(8) **Wealthy country** — The term “wealthy country”, with respect to a fiscal year for the Corporation—
+
+  (A) means a country that is among the top 20 countries with the highest gross domestic product per capita at purchasing power parity, as calculated by the World Bank; and
+
+  (B) does not include members of the ‘Five Eyes’ alliance or the overseas territories of the 20 countries referred to in subparagraph (A).
 
 ### Statutory Notes
 
@@ -44,6 +74,22 @@ In this chapter:
 This chapter, referred to in text, was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out below and Tables.
 
 Subchapter VI of this chapter, referred to in par. (3), was in the original “title VI”, meaning title VI (§§ 1461–1470) of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3510, which is classified principally to subchapter VI of this chapter and which repealed title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2191&num=0&edition=prelim) et seq.), other than subsections (g), (l), (m), and (n) of section 237 thereof ([22 U.S.C. 2197(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2197/g&num=0&edition=prelim), (l), (m), (n)), among other amendments. For complete classification of title VI to the Code, see Tables.
+
+#### Amendments
+2025—Pars. (1), (2). Pub. L. 119–60, § 8711(1), (2), added par. (1) and redesignated former par. (1) as par. (2). Former par. (2) redesignated (5).
+
+Pars. (3), (4). Pub. L. 119–60, § 8711(3), added pars. (3) and (4).
+
+Par. (5). Pub. L. 119–60, § 8711(4), added par. (5) and struck out former par. (5), as so redesignated. Prior to amendment, text of par. (5) read as follows: “The term “less developed country” means a country with a low-income economy, lower-middle-income economy, or upper-middle-income economy, as defined by the International Bank for Reconstruction and Development and the International Development Association (collectively referred to as the “World Bank”).”
+
+Pub. L. 119–60, § 8711(1), redesignated par. (2) as (5).
+
+Pars. (6), (7). Pub. L. 119–60, § 8711(1), redesignated pars. (3) and (4) as (6) and (7), respectively.
+
+Par. (8). Pub. L. 119–60, § 8711(5), added par. (8).
+
+#### Short Title of 2025 Amendment
+Pub. L. 119–60, div. H, title LXXXVII, § 8701, Dec. 18, 2025, 139 Stat. 1946, provided that: “This title [amending sections 9601, 9612—9614, 9621, 9622, 9624, 9632, 9633, 9652—9654, 9656, and 9671 of this title] may be cited as the ‘DFC Modernization and Reauthorization Act of 2025’.”
 
 #### Short Title
 Pub. L. 115–254, div. F, § 1401, Oct. 5, 2018, 132 Stat. 3485, provided that: “This division [enacting this chapter, amending sections 2151n, 2197, 2291, 2296b, 5401, 5421, 6062, 6445, 7102, 7902, 8926, 9303, and 9546 of this title, [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress, sections 5313 to 5316 of Title 5, Government Organization and Employees, section 8G of Pub. L. 95–452, set out in the Appendix to Title 5, sections 649, 4721, 4727, and 4902 of Title 15, Commerce and Trade, [section 709 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section709&num=0&edition=prelim), Crimes and Criminal Procedure, [section 4421 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4421&num=0&edition=prelim), Customs Duties, [section 1131c of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1131c&num=0&edition=prelim), Education, [section 9101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9101&num=0&edition=prelim), Money and Finance, and sections 17334 and 17336 of Title 42, The Public Health and Welfare, repealing subpart iv of part II of subchapter I of chapter 32 of this title, except for [section 2197 of this title](./chapter-032-foreign-assistance.md#section-2197), enacting provisions set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), amending provisions set out as notes under sections 2293 and 2394c of this title] may be cited as the ‘Better Utilization of Investments Leading to Development Act of 2018’ or the ‘BUILD Act of 2018’.”
@@ -84,22 +130,95 @@ Pub. L. 101–179, title III, § 302(c), Nov. 28, 1989, 103 Stat. 1311, provided
 ## § 9613. United States International Development Finance Corporation
 **(a) Establishment** There is established in the executive branch the United States International Development Finance Corporation (in this chapter referred to as the “Corporation”), which shall be a wholly owned Government corporation for purposes of chapter 91 of title 31 under the foreign policy guidance of the Secretary of State.
 
-**(b) Purpose** The purpose of the Corporation shall be to mobilize and facilitate the participation of private sector capital and skills in the economic development of less developed countries, as described in subsection (c), and countries in transition from nonmarket to market economies, in order to complement the development assistance objectives, and advance the foreign policy interests, of the United States. In carrying out its purpose, the Corporation, utilizing broad criteria, shall take into account in its financing operations the economic and financial soundness and development objectives of projects for which it provides support under subchapter II of this chapter.
+**(b) Purpose** The purpose of the Corporation shall be to mobilize and facilitate the participation of private sector capital and skills in the economic development of less developed countries, as described in subsection (c), countries in transition from nonmarket to market economies, and other eligible foreign countries, in order to complement the development assistance objectives, and advance the foreign policy and national security interests, of the United States. In carrying out its purpose, the Corporation, utilizing broad criteria, shall take into account in its financing operations the economic and financial soundness and development objectives of projects for which it provides support under subchapter II of this chapter.
 
-**(c) Less developed country focus**
+**(c) Eligible countries**
 
-(1) **In general** — The Corporation shall prioritize the provision of support under subchapter II of this chapter in less developed countries with a low-income economy or a lower-middle-income economy.
+(1) **Less developed country focus** — The Corporation shall prioritize the provision of support under subchapter II of this chapter in less developed countries.
 
-(2) **Support in upper-middle-income countries** — The Corporation shall restrict the provision of support under subchapter II of this chapter in a less developed country with an upper-middle-income economy unless—
+(2) **Advancing income countries** — The Corporation may provide support for a project under title II in an advancing income country if, before providing such support, the Chief Executive Officer certifies in writing to the appropriate congressional committees, that such support will be provided in accordance with the policy established pursuant to subsection (d)(2). Such certification may be included as an appendix to the report required by section 1446.
 
-  (A) the President certifies to the appropriate congressional committees that such support furthers the national economic or foreign policy interests of the United States; and
+(3) **High-income countries**
 
-  (B) such support is designed to produce significant developmental outcomes or provide developmental benefits to the poorest population of that country.
+  (A) *In general* — The Corporation may provide support for a project under title II in a high-income country if, before providing such support, the Chief Executive Officer certifies in writing to the appropriate congressional committees that such support will be provided in accordance with the policy established pursuant to subsection (d)(3). Such certification may be included as an appendix to the report required by [section 9656 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9656).
+
+  (B) *Report* — Not later than 120 days after December 18, 2025, and annually thereafter, the Corporation shall submit to the appropriate congressional committees a report, which may be submitted in classified or confidential form, that includes—
+
+    (i) a list of all high-income countries in which the Corporation anticipates providing support in the subsequent fiscal year (and, with respect to the first such report, the then-current fiscal year); and
+
+    (ii) to the extent practicable, a description of the type of projects anticipated to receive such support.
+
+  (C) *Projects in high-income countries not previously identified in report* — The Corporation may not provide support for a project in a high-income country in any year for which that high-income country is not included on the list required by subparagraph (B)(i), unless, not later than 15 days before commitment, the Corporation consults with and submits to the appropriate congressional committees a notification describing how the proposed project advances the foreign policy interests of the United States.
+
+(4) **Continuation of eligibility** — Projects previously approved by the Corporation shall remain eligible for support notwithstanding any change in the income classification of the country.
+
+**(d) Strategic investments policy**
+
+(1) **In general** — The Board shall establish policies, which shall be applied on a project-by-project basis, to evaluate and determine the strategic merits of providing support for projects and investments in advancing income countries and high-income countries.
+
+(2) **Investment policy for advancing income countries** — Any policy used to evaluate and determine the strategic merits of providing support for projects in an advancing income country shall require that such projects—
+
+  (A) advance—
+
+    (i) the national security interests of the United States in accordance with United States foreign policy, as determined by the Secretary of State; or
+
+    (ii) significant strategic economic competitiveness imperatives;
+
+  (B) are designed in a manner to produce significant developmental outcomes or provide developmental impacts to the poorest populations of such country; and
+
+  (C) are structured in a manner that maximizes private capital mobilization.
+
+(3) **Investment policy for high-income countries** — Any policy used to evaluate and determine the strategic merits of providing support for projects in high-income countries shall require that—
+
+  (A) each such project meets the requirements described in paragraph (2);
+
+  (B) with respect to each project in a high-income country—
+
+    (i) private sector entities have been afforded an opportunity to support the project on viable terms in place of support by the Corporation; and
+
+    (ii) such support by the Corporation does not exceed 25 percent of the total cost of the project;
+
+  (C) with respect to support for all projects in all high-income countries, the aggregate amount of such support does not exceed 10 percent of the total contingent liability authorized by [section 9633 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9633); and
+
+  (D) the Chief Executive Officer submit to the appropriate congressional committees a report, which may be submitted as an appendix to a report required by [section 9656 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9656), that—
+
+    (i) certifies that the Corporation has applied the policy to each supported project in a high-income country; and
+
+    (ii) describes whether such support—
+
+      (I) is a preferred alternative to state-directed investments by a foreign country of concern; or
+
+      (II) otherwise furthers the strategic interest of the United States to counter or limit the influence of foreign countries of concern.
+
+**(e) Ineligible countries** The Corporation shall not provide support for a project in—
+
+(1) a country of concern; or
+
+(2) a wealthy country, except to the extent permitted pursuant to subsection (f).
+
+**(f) Sectoral exceptions** Subject to the requirements in subsection (d)(3), the restriction in subsection (e)(2) shall not apply to projects in the following sectors:
+
+(1) Energy.
+
+(2) Critical minerals and rare earths.
+
+(3) Information and communications technology, including undersea cables.
+
+**(g) Sense of Congress** It is the sense of Congress that—
+
+(1) the Corporation should continuously operate in a manner that advances its core mission and purposes, as described in this title; and
+
+(2) resources of the Corporation should not be diverted for domestic or other activities extending beyond the scope of such mission and purpose.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) and Tables.
+
+#### Amendments
+2025—Subsec. (b). Pub. L. 119–60, § 8712(1), substituted “countries in transition from nonmarket to market economies, and other eligible foreign countries” for “and countries in transition from nonmarket to market economies” and inserted “and national security” after “foreign policy”.
+
+Subsecs. (c) to (g). Pub. L. 119–60, § 8712(2), added subsecs. (c) to (g) and struck out former subsec. (c), which related to private support in less developed and upper-middle-income countries.
 
 #### Delegation of Authority Under the Better Utilization of Investments Leading to Development Act of 2018
 Memorandum of President of the United States, July 7, 2020, 85 F.R. 45749, provided:
@@ -115,7 +234,7 @@ Donald J. Trump.
 
 <a id="section-9614"></a>
 ## § 9614. Management of Corporation
-**(a) Structure of Corporation** There shall be in the Corporation a Board of Directors (in this chapter referred to as the “Board”), a Chief Executive Officer, a Deputy Chief Executive Officer, a Chief Risk Officer, a Chief Development Officer, and such other officers as the Board may determine.
+**(a) Structure of Corporation** There shall be in the Corporation a Board of Directors (in this chapter referred to as the “Board”), a Chief Executive Officer, a Deputy Chief Executive Officer, a Chief Risk Officer, a Chief Development Officer, a Chief Strategic Officer, and such other officers as the Board may determine.
 
 **(b) Board of Directors**
 
@@ -137,13 +256,13 @@ Donald J. Trump.
 
     (iii) four other individuals who shall be appointed by the President, by and with the advice and consent of the Senate, of which—
 
-      (I) one individual should be appointed from among a list of at least 5 individuals submitted by the majority leader of the Senate after consultation with the chairman of the Committee on Foreign Relations of the Senate;
+      (I) one individual should be appointed from among a list of at least 3 individuals submitted by the majority leader of the Senate after consultation with the chairman of the Committee on Foreign Relations of the Senate;
 
-      (II) one individual should be appointed from among a list of at least 5 individuals submitted by the minority leader of the Senate after consultation with the ranking member of the Committee on Foreign Relations of the Senate;
+      (II) one individual should be appointed from among a list of at least 3 individuals submitted by the minority leader of the Senate after consultation with the ranking member of the Committee on Foreign Relations of the Senate;
 
-      (III) one individual should be appointed from among a list of at least 5 individuals submitted by the Speaker of the House of Representatives after consultation with the chairman of the Committee on Foreign Affairs of the House of Representatives; and
+      (III) one individual should be appointed from among a list of at least 3 individuals submitted by the Speaker of the House of Representatives after consultation with the chairman of the Committee on Foreign Affairs of the House of Representatives; and
 
-      (IV) one individual should be appointed from among a list of at least 5 individuals submitted by the minority leader of the House of Representatives after consultation with the ranking member of the Committee on Foreign Affairs of the House of Representatives.
+      (IV) one individual should be appointed from among a list of at least 3 individuals submitted by the minority leader of the House of Representatives after consultation with the ranking member of the Committee on Foreign Affairs of the House of Representatives.
 
   (B) *Officers specified*
 
@@ -185,11 +304,25 @@ Donald J. Trump.
 
 (5) **Quorum** — Five members of the Board shall constitute a quorum for the transaction of business by the Board.
 
-**(c) Public hearings** The Board shall hold at least 2 public hearings each year in order to afford an opportunity for any person to present views with respect to whether—
+(6) **Sunshine act compliance** — Meetings of the Board are subject to [section 552b of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim) (commonly referred to as the “Government in the Sunshine Act”).
 
-(1) the Corporation is carrying out its activities in accordance with this chapter; and
+**(c) Public hearings** The Board shall—
 
-(2) any support provided by the Corporation under subchapter II of this chapter in any country should be suspended, expanded, or extended.
+(1) hold at least 2 public hearings each year in order to afford an opportunity for any person to present views with respect to whether—
+
+  (A) the Corporation is carrying out its activities in accordance with this chapter; and
+
+  (B) any support provided by the Corporation under subchapter II of this chapter in any country should be suspended, expanded, or extended;
+
+(2) as necessary and appropriate, provide responses to the issues and questions discussed during each such hearing following the conclusion of the hearing;
+
+(3) post the minutes from each such hearing on a website of the Corporation and, consistent with applicable laws related to privacy and the protection of proprietary business information, the responses to issues and questions discussed in the hearing; and
+
+(4) implement appropriate procedures to ensure the protection from unlawful disclosure of the proprietary information submitted by private sector applicants marked as business confidential information unless—
+
+  (A) the party submitting the confidential business information waives such protection or consents to the release of the information; or
+
+  (B) to the extent some form of such protected information may be included in official documents of the Corporation, a nonconfidential form of the information may be provided, in which the business confidential information is summarized or deleted in a manner that provides appropriate protections for the owner of the information.
 
 **(d) Chief Executive Officer**
 
@@ -197,7 +330,11 @@ Donald J. Trump.
 
 (2) **Authorities and duties** — The Chief Executive Officer shall be responsible for the management of the Corporation and shall exercise the powers and discharge the duties of the Corporation subject to the bylaws, rules, regulations, and procedures established by the Board.
 
-(3) **Relationship to Board** — The Chief Executive Officer shall report to and be under the direct authority of the Board.
+(3) **Relationship to board** — The Chief Executive Officer shall—
+
+  (A) report to and be under the direct authority of the Board; and
+
+  (B) take input from the Board when assessing the performance of the Chief Risk Officer, established pursuant to subsection (f), the Chief Development Officer, established pursuant to subsection (g), and the Chief Strategic Officer, established pursuant to subsection (h).
 
 (4) **Omitted**
 
@@ -205,49 +342,123 @@ Donald J. Trump.
 
 **(f) Chief Risk Officer**
 
-(1) **Appointment** — Subject to the approval of the Board, the Chief Executive Officer of the Corporation shall appoint a Chief Risk Officer, from among individuals with experience at a senior level in financial risk management, who—
+(1) **Appointment** — Subject to the approval of the Board, the Chief Executive Officer of the Corporation shall appoint a Chief Risk Officer, from among individuals with experience at a senior level in financial risk management, who shall be removable only by a majority vote of the Board.
 
-  (A) shall report directly to the Board; and
+(2) **Duties and responsibilities** — The Chief Risk Officer shall—
 
-  (B) shall be removable only by a majority vote of the Board.
+  (A) report directly to the Chief Executive Officer;
 
-(2) **Duties** — The Chief Risk Officer shall, in coordination with the audit committee of the Board established under [section 9651 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9651), develop, implement, and manage a comprehensive process for identifying, assessing, monitoring, and limiting risks to the Corporation, including the overall portfolio diversification of the Corporation.
+  (B) support the risk committee of the Board established under [section 9651 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9651) in carrying out its responsibilities as set forth in subsection (b) of that section, including by—
+
+    (i) developing, implementing, and managing a comprehensive framework and process for identifying, assessing, and monitoring risk;
+
+    (ii) developing a transparent risk management framework designed to evaluate risks to the Corporation’s overall portfolio, giving due consideration to the policy imperatives of ensuring investment and regional diversification of the Corporation’s overall portfolio;
+
+    (iii) assessing the Corporation’s overall risk tolerance, including recommendations for managing and improving the Corporation’s risk tolerance and regularly advising the Board on recommended steps the Corporation may take to responsibly increase risk tolerance; and
+
+    (iv) regularly collaborating with the Chief Development Officer and the Chief Strategic Officer to ensure the Corporation’s overall portfolio is appropriately balancing risk tolerance with development and strategic impact.
 
 **(g) Chief Development Officer**
 
-(1) **Appointment** — Subject to the approval of the Board, the Chief Executive Officer, with the concurrence of the Administrator of the United States Agency for International Development, shall appoint a Chief Development Officer, from among individuals with experience in development, who—
+(1) **Appointment** — The Chief Executive Officer, with the concurrence of the Administrator of the United States Agency for International Development, shall appoint a Chief Development Officer, from among individuals with experience in international development and development finance, who—
 
-  (A) shall report directly to the Board; and
+  (A) shall report directly to the Chief Executive Officer; and
 
   (B) shall be removable only by a majority vote of the Board.
 
-(2) **Duties** — The Chief Development Officer shall—
+(2) **Duties and responsibilities** — The Chief Development Officer shall—
 
-  (A) coordinate the Corporation’s development policies and implementation efforts with the United States Agency for International Development, the Millennium Challenge Corporation, and other relevant United States Government departments and agencies, including directly liaising with missions of the United States Agency for International Development, to ensure that departments, agencies, and missions have training, awareness, and access to the Corporation’s tools in relation to development policy and projects in countries;
+  (A) advise the Chief Executive Officer and the Deputy Chief Executive Officer on international development policy matters;
 
-  (B) under the guidance of the Chief Executive Officer, manage employees of the Corporation that are dedicated to structuring, monitoring, and evaluating transactions and projects co-designed with the United States Agency for International Development and other relevant United States Government departments and agencies;
+  (B) in addition to the Chief Executive Officer and the Deputy Chief Executive Officer, represent the Corporation in interagency meetings and processes relating to international development;
 
-  (C) authorize and coordinate transfers of funds or other resources to and from such agencies, departments, or missions upon the concurrence of those institutions in support of the Corporation’s projects or activities;
+  (C) be an ex officio member of the Development Finance Advisory Council established under subsection (i) and participate in or send a representative to each meeting of the Council;
 
-  (D) manage the responsibilities of the Corporation under paragraphs (1) and (4) of [section 9652(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9652/b&num=0&edition=prelim) and paragraphs (1)(A) and (3)(A) of [section 9653(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9653/b&num=0&edition=prelim);
+  (D) work with other relevant Federal departments and agencies to—
 
-  (E) coordinate and implement the activities of the Corporation under [section 9655 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9655); and
+    (i) identify projects that advance United States international development interests; and
 
-  (F) be an ex officio member of the Development Advisory Council established under subsection (i) and participate in or send a representative to each meeting of the Council.
+    (ii) explore investment opportunities that bring evidence-based, cost-effective development innovations to scale in a manner that can be sustained by markets;
 
-**(h) Officers and employees**
+  (E) support—
 
-(1) **In general** — Except as otherwise provided in this section, officers, employees, and agents shall be selected and appointed by the Corporation, and shall be vested with such powers and duties as the Corporation may determine.
+    (i) coordination of the Corporation’s development policies and implementation efforts with the United States Agency for International Development, the Millennium Challenge Corporation, and other relevant Federal departments and agencies, including by directly liaising with the relevant members of United States country teams serving overseas, to ensure that such Federal departments, agencies, and country teams have the training and awareness necessary to fully leverage the Corporation’s development tools overseas;
+
+    (ii) management of employees of the Corporation that are dedicated to structuring, monitoring, and evaluating transactions and projects codesigned with other relevant Federal departments and agencies for development impact;
+
+    (iii) coordination of funds or other resources transferred to and from such Federal departments, agencies, or overseas country teams, upon concurrence of those institutions, in support of the Corporation’s international development projects or activities;
+
+    (iv) management of the responsibilities of the Corporation under paragraphs (1) and (4) of [section 9652(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9652/b&num=0&edition=prelim) and paragraphs (1)(A) and (3)(A) of [section 9653(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9653/b&num=0&edition=prelim);
+
+    (v) coordination and implementation of the activities of the Corporation under [section 9655 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9655); and
+
+    (vi) implementation of the Corporation’s development impact strategy and work to ensure development impact at the transaction level and portfolio-wide;
+
+  (F) foster and maintain relationships both within and external to the Corporation that enhance the capacity of the Corporation to achieve its mission to advance United States international development policy and interests; and
+
+  (G) coordinate within the Corporation to ensure United States international development policy and interests are considered together with the Corporation’s foreign policy and national security goals.
+
+**(h) Chief Strategic Officer**
+
+(1) **Appointment** — The Chief Executive Officer shall appoint a Chief Strategic Officer, from among individuals with experience in United States national security matters and foreign investment, who—
+
+  (A) shall report directly to the Chief Executive Officer; and
+
+  (B) shall be removable only by a majority vote of the Board.
+
+(2) **Duties and responsibilities** — The Chief Strategic Officer shall—
+
+  (A) advise the Chief Executive Officer and the Deputy Chief Executive Officer on national security and foreign policy matters;
+
+  (B) in addition to the Chief Executive Officer and the Deputy Chief Executive Officer, represent the Corporation in interagency meetings and processes relating to United States national security and foreign policy;
+
+  (C) be an ex officio member of the Development Finance Advisory Council established under subsection (i) and participate in or send a representative to each meeting of the Council;
+
+  (D) work with other relevant Federal departments and agencies to identify projects that advance United States national security and foreign policy priorities, including by complementing United States domestic investments in critical and emerging technologies;
+
+  (E) support—
+
+    (i) coordination of efforts to develop the Corporation’s strategic investment initiatives—
+
+      (I) to counter predatory state-directed investment and coercive economic practices of adversaries of the United States;
+
+      (II) to preserve the sovereignty of partner countries; and
+
+      (III) to advance economic growth and national security through the highest standards of transparency, accessibility, and competition;
+
+    (ii) the establishment of performance measurement frameworks and reporting on development outcomes of strategic investments, consistent with sections 9652 and 9653 of this title; and
+
+    (iii) management of employees of the Corporation that are dedicated to ensuring that the Corporation’s activities advance United States national security and foreign policy interests, including through—
+
+      (I) long-term strategic planning;
+
+      (II) issue and crisis management;
+
+      (III) the advancement of strategic initiatives; and
+
+      (IV) strategic planning on how the Corporation’s foreign investments may complement United States domestic production of critical and emerging technologies;
+
+  (F) foster and maintain relationships both within and external to the Corporation that enhance the capacity of the Corporation to achieve its mission to advance United States national security and foreign policy interests; and
+
+  (G) collaborate with the Chief Development Officer to ensure United States national security interests are considered together with the Corporation’s development policy goals.
+
+**(i) Officers and employees**
+
+(1) **In general** — Except as otherwise provided in this section, officers, employees, and agents shall be selected and appointed by, or under the authority of, the Chief Executive Officer, and shall be vested with such powers and duties as the Chief Executive Officer may determine.
 
 (2) **Administratively determined employees**
 
-  (A) *Appointment; compensation; removal* — Of officers and employees employed by the Corporation under paragraph (1), not more than 50 may be appointed, compensated, or removed without regard to title 5.
+  (A) *Appointment; compensation; removal* — Of officers and employees employed by the Corporation under paragraph (1), not more than 100 may be appointed, compensated, or removed without regard to title 5, and such positions—
+
+    (i) shall be reserved for individuals meeting the expert qualifications established by the Corporation’s qualification review board; and
+
+    (ii) should be prioritized for the development of the Corporation’s next generation of talent, particularly for the recruitment of early career financial or legal sector equivalent positions..11 So in original. Second period probably should not appear.
 
   (B) *Reinstatement* — Under such regulations as the President may prescribe, officers and employees appointed to a position under subparagraph (A) may be entitled, upon removal from such position (unless the removal was for cause), to reinstatement to the position occupied at the time of appointment or to a position of comparable grade and salary.
 
   (C) *Additional positions* — Positions authorized by subparagraph (A) shall be in addition to those otherwise authorized by law, including positions authorized under [section 5108 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108&num=0&edition=prelim).
 
-  (D) *Rates of pay for officers and employees* — The Corporation may set and adjust rates of basic pay for officers and employees appointed under subparagraph (A) without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5, relating to classification of positions and General Schedule pay rates, respectively.
+  (D) *Rates of pay for officers and employees* — The Corporation may set and adjust rates of basic pay for officers and employees appointed under subparagraph (A) without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5, relating to classification of positions and General Schedule pay rates, respectively, provided that no such officer or employee may be compensated at a rate exceeding level II of the Executive Schedule.
 
 (3) **Liability of employees**
 
@@ -255,7 +466,7 @@ Donald J. Trump.
 
   (B) *Rule of construction* — Subparagraph (A) shall not be construed to limit personal liability of an individual for criminal acts or omissions, willful or malicious misconduct, acts or omissions for private gain, or any other acts or omissions outside the scope of the individual’s employment.
 
-  (C) *Conflicts of interest* — The Corporation shall establish and publish procedures for avoiding conflicts of interest on the part of officers and employees of the Corporation and members of the Development Advisory Council established under subsection (i).
+  (C) *Conflicts of interest* — The Corporation shall establish and publish procedures for avoiding conflicts of interest on the part of officers and employees of the Corporation and members of the Development Advisory Council established under subsection (j).
 
   (D) *Savings provision* — This paragraph shall not be construed—
 
@@ -267,25 +478,262 @@ Donald J. Trump.
 
     (ii) to limit or alter in any way the immunities that are available under applicable law for Federal officers and employees not described in this paragraph.
 
-**(i) Development Advisory Council**
+**(j) Development Advisory Council**
 
-(1) **In general** — There is established a Development Advisory Council (in this subsection referred to as the “Council”) to advise the Board on development objectives of the Corporation.
+(1) **In general** — There is established a Development Finance Advisory Council (in this subsection referred to as the “Council”) that shall advise the Board and the Congressional Strategic Advisory Group established by subsection (k) on the development priorities and objectives of the Corporation.
 
-(2) **Membership** — Members of the Council shall be appointed by the Board, on the recommendation of the Chief Executive Officer and the Chief Development Officer, and shall be composed of not more than 9 members broadly representative of nongovernmental organizations, think tanks, advocacy organizations, foundations, and other institutions engaged in international development.
+(2) **Membership** — Members of the Council shall be appointed by the Board, on the recommendation of the Chief Executive Officer, and shall be composed of not more than 9 members broadly representative of nongovernmental organizations, think tanks, advocacy organizations, foundations, private industry, and other institutions engaged in international development and international development finance, of whom not fewer than 5 members shall be experts from the international development sector.
 
 (3) **Functions** — The Board shall call upon members of the Council, either collectively or individually, to advise the Board regarding the extent to which the Corporation is meeting its development mandate and any suggestions for improvements in with respect to meeting that mandate, including opportunities in countries and project development and implementation challenges and opportunities.
 
-(4) **Federal Advisory Committee Act** — The Council shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).11 See References in Text note below.
+(4) **Board meetings** — The Board shall meet with the Council at least twice each year and engage directly with the Board on its recommendations to improve the policies and practices of the Corporation to achieve the development priorities and objectives of the Corporation.
+
+(5) **Administration** — The Board shall—
+
+  (A) prioritize maintaining the full membership and composition of the Council;
+
+  (B) inform the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives when a vacancy of the Council occurs, including the date that the vacancy occurred; and
+
+  (C) for any vacancy on the Council that remains for 120 days or more, submit a report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives explaining why a vacancy is not being filled and provide an update on progress made toward filling such vacancy, including a reasonable estimation for when the Board expects to have the vacancy filled.
+
+(6) **Federal Advisory Committee Act** — The Council shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).22 See References in Text note below.
+
+**(k) Congressional Strategic Advisory Group**
+
+(1) **Establishment** — Not later than 90 days after December 18, 2025, there shall be established a Congressional Strategic Advisory Group (referred to in this subsection as the “Group”), which shall meet not less frequently than annually, including after the budget of the President submitted under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) for a fiscal year.
+
+(2) **Composition** — The Group shall be composed of the following:
+
+  (A) The Chief Executive Officer.
+
+  (B) Other representatives of the Corporation, as deemed necessary by the Chief Executive Officer.
+
+  (C) The Strategic Advisors of the Senate, as described in paragraph (3)(A).
+
+  (D) The Strategic Advisors of the House of Representatives, as described in paragraph (3)(B).
+
+(3) **Strategic Advisors of the Senate and the House of Representatives**
+
+  (A) *Strategic Advisors of the Senate*
+
+    (i) *Establishment* — There is established a group to be known as the “Strategic Advisors of the Senate”.
+
+    (ii) *Composition* — The group established by clause (i) shall be composed of the following:
+
+      (I) The chair of the Committee on Foreign Relations of the Senate, who shall serve as chair of the Strategic Advisors of the Senate.
+
+      (II) The ranking member of the Committee on Foreign Relations of the Senate, who shall serve as vice-chair of the Strategic Advisors of the Senate.
+
+      (III) Not more than 6 additional individuals who are members of the Committee on Foreign Relations of the Senate, designated by the chair, with the consent of the ranking member.
+
+  (B) *Strategic Advisors of the House of Representatives*
+
+    (i) *Establishment* — There is established a group to be known as the “Strategic Advisors of the House of Representatives”.
+
+    (ii) *Composition* — The group established by clause (i) shall be composed of the following:
+
+      (I) The chair of the Committee on Foreign Affairs of the House of Representatives, who shall serve as chair of the Strategic Advisors of the House.
+
+      (II) The ranking member of the Committee on Foreign Affairs of the House of Representatives, who shall serve as vice-chair of the Strategic Advisors of the House.
+
+      (III) Not more than 6 additional individuals who are members of the Committee on Foreign Affairs of the House of Representatives, designated by the chair, with the consent of the ranking member.
+
+(4) **Objectives** — The Chief Executive Officer shall consult with the Strategic Advisors of the Senate and the Strategic Advisors of the House of Representatives established under paragraph (3) in order to solicit and receive congressional views and advice on the strategic priorities and investments of the Corporation, including—
+
+  (A) the challenges presented by adversary countries to the national security interests of the United States and strategic objectives of the Corporation’s investments;
+
+  (B) priority regions, countries, and sectors that require focused consideration for strategic investment;
+
+  (C) the priorities and trends pursued by similarly-situated development finance institutions of friendly nations, including opportunities for partnerships, complementarity, or coinvestment;
+
+  (D) evolving methods of financing projects, including efforts to partner with public sector and private sector institutional investors;
+
+  (E) institutional or policy changes required to improve efficiencies within the Corporation; and
+
+  (F) potential legislative changes required to improve the Corporation’s performance in meeting strategic and development imperatives.
+
+(5) **Meetings**
+
+  (A) *Times* — The chair and the vice-chair of the Strategic Advisors of the Senate and the chair and the vice-chair of the Strategic Advisors of the House of Representatives, in coordination with the Chief Executive Officer, shall determine the meeting times of the Group, which may be arranged separately or on a bicameral basis by agreement.
+
+  (B) *Agenda* — Not later than 7 days before each meeting of the Group, the Chief Executive Officer shall submit a proposed agenda for discussion to the chair and the vice-chair of each strategic advisory group referred to in subparagraph (A).
+
+  (C) *Questions* — To ensure a robust flow of information, members of the Group may submit questions for consideration before any meeting. A question submitted orally or in writing shall receive a response not later than 15 days after the conclusion of the first meeting convened wherein such question was asked or submitted in writing.
+
+  (D) *Classified setting* — At the request of the Chief Executive Officer or the chair and vice-chair of a strategic advisory group established under paragraph (3), business of the Group may be conducted in a classified setting, including for the purpose of protecting business confidential information and to discuss sensitive information with respect to foreign competitors.
+
+**(l) Strategic priorities plan**
+
+(1) **Plan required** — Based upon guidance received from the Group established pursuant to subsection (k) of this section, the Chief Executive Officer shall develop a Strategic Priorities Plan, which shall provide—
+
+  (A) guidance for the Corporation’s strategic investments portfolio and the identification and engagement of priority strategic investment sectors and regions of importance to the United States; and
+
+  (B) justifications for the certifications of such investments in accordance with [section 9612(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9612/c&num=0&edition=prelim).
+
+(2) **Evaluations** — The Strategic Priorities Plan should determine the objectives and goals of the Corporation’s strategic investment portfolio by evaluating economic, security, and geopolitical dynamics affecting United States strategic interests, including—
+
+  (A) determining priority countries, regions, sectors, and related administrative actions;
+
+  (B) plans for the establishment of regional offices outside of the United States;
+
+  (C) identifying countries where the Corporation’s support—
+
+    (i) is necessary;
+
+    (ii) would be the preferred alternative to state-directed investments by foreign countries of concern; or
+
+    (iii) otherwise furthers the strategic interests of the United States to counter or limit the influence of foreign countries of concern;
+
+  (D) evaluating the interest and willingness of potential private finance institutions and private sector project implementers to partner with the Corporation on strategic investment projects; and
+
+  (E) identifying bilateral and multilateral project finance partnership opportunities for the Corporation to pursue with United States partner and ally countries.
+
+(3) **Revisions** — At any time during the relevant period, the Chief Executive Officer may request to convene a meeting of the Congressional Strategic Advisory Group for the purpose of discussing revisions to the Strategic Priorities Plan.
+
+(4) **Transparency** — The Chief Executive Officer shall publish, on a website of the Corporation—
+
+  (A) procedures for applying for products offered by the Corporation; and
+
+  (B) any other appropriate guidelines and compliance restrictions with respect to designated strategic priorities.
+
+**(m) Report on the feasibility of establishing a development finance education program at the Foreign Service Institute**
+
+(1) **In general** — Not later than 1 year after December 18, 2025, the Secretary of State, acting through the Director of the Foreign Service Institute and in collaboration with the Chief Executive Officer of the Corporation, shall conduct a review of and submit to the appropriate congressional committees a report on the utility of establishing elective training classes or programs on development finance within the School of Professional and Area Studies for all levels of the foreign service.
+
+(2) **Elements** — The report required by paragraph (1) shall include a description of how a proposed class would be structured to ensure an appropriate level of training in development finance, including descriptions of—
+
+  (A) the potential benefits and challenges of development finance as a component of United States foreign policy in promoting development outcomes and in promoting United States interests in advocating for the advancement of free-market principles;
+
+  (B) the operations of the Corporation, generally, and a comparative analysis of similarly situated development finance institutions, both bilateral and multilateral;
+
+  (C) how development finance can further the foreign policies of the United States, generally;
+
+  (D) the anticipated foreign service consumers of any proposed classes on development finance;
+
+  (E) the resources that may be required to establish such training classes, including through the use of detailed staff from the Corporation or temporary fellows brought in from the development finance community; and
+
+  (F) other relevant issues, as determined by the Secretary of State and the Chief Executive Officer of the Corporation determines appropriate.
+
+**(n) Internships**
+
+(1) **In general** — The Chief Executive Officer shall establish the Development Finance Corporation Student Internship Program (referred to in this subsection as the “Program”) to offer internship opportunities at the Corporation to eligible individuals to provide important professional development and work experience opportunities and raise awareness among future development and international finance professionals of the career opportunities at the Corporation and to supply important human capital for the implementation of the Corporation’s critically important development finance tools.
+
+(2) **Eligibility** — An individual is eligible to participate in the Program if the applicant—
+
+  (A) is a United States citizen;
+
+  (B) is enrolled at least half-time at—
+
+    (i) an institution of higher education (as such term is defined in [section 1002(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1002/a&num=0&edition=prelim)); or
+
+    (ii) an institution of higher education based outside the United States, as determined by the Secretary of State; and
+
+  (C) satisfies such other qualifications as established by the Chief Executive Officer.
+
+(3) **Selection** — The Chief Executive Officer shall establish selection criteria for individuals to be admitted into the Program that includes a demonstrated interest in a career in international relations and international economic development policy.
+
+(4) **Compensation**
+
+  (A) *Housing assistance* — The Chief Executive Officer may provide housing assistance to an eligible individual participating in the Program whose permanent address is within the United States if the location of the internship in which such individual is participating is more than 50 miles away from such individual’s permanent address.
+
+  (B) *Travel assistance* — The Chief Executive Officer shall provide to an eligible individual participating in the Program, whose permanent address is within the United States, financial assistance that is sufficient to cover the travel costs of a single round trip by air, train, bus, or other appropriate transportation between the eligible individual’s permanent address and the location of the internship in which such eligible individual is participating if such location is—
+
+    (i) more than 50 miles from the eligible individual’s permanent address; or
+
+    (ii) outside of the United States.
+
+(5) **Voluntary participation**
+
+  (A) *In general* — Nothing in this section may be construed to compel any individual who is a participant in an internship program of the Corporation to participate in the collection of the data or divulge any personal information. Such individuals shall be informed that any participation in data collection under this subsection is voluntary.
+
+  (B) *Privacy protection* — Any data collected under this subsection shall be subject to the relevant privacy protection statutes and regulations applicable to Federal employees.
+
+(6) **Special hiring authority** — Notwithstanding any other provision of law, the Chief Executive Officer, in consultation with the Director of the Office of Personnel Management, with respect to the number of interns to be hired under this subsection each year, may—
+
+  (A) select, appoint, and employ individuals for up to 1 year through compensated internships in the excepted service; and
+
+  (B) remove any compensated intern employed pursuant to subparagraph (A) without regard to the provisions of law governing appointments in the competitive excepted service.
+
+(7) **Availability of appropriations** — Internships offered and compensated by the Corporation under this subsection shall be funded solely by available amounts appropriated after December 18, 2025, to the Corporate Capital Account established under [section 9634 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9634).
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a), (b)(1)(A), and (c)(1), (3)(A), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) and Tables.
+This chapter, referred to in subsecs. (a), (b)(1)(A), and (c)(1)(A), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (i)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
+The Federal Advisory Committee Act, referred to in subsec. (j)(6), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 #### Codification
 Section is comprised of section 1413 of Pub. L. 115–254. Par. (4) of subsec. (d) of section 1413 of Pub. L. 115–254 amended [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+#### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 8721, inserted “a Chief Strategic Officer,” after “Chief Development Officer,”.
+
+Subsec. (b)(2)(A)(iii). Pub. L. 119–60, § 8722(1)(A), substituted “3 individuals” for “5 individuals” wherever appearing.
+
+Subsec. (b)(6). Pub. L. 119–60, § 8722(1)(B), added par. (6).
+
+Subsec. (c). Pub. L. 119–60, § 8722(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Board shall hold at least 2 public hearings each year in order to afford an opportunity for any person to present views with respect to whether—
+
+“(1) the Corporation is carrying out its activities in accordance with this chapter; and
+
+“(2) any support provided by the Corporation under subchapter II of this chapter in any country should be suspended, expanded, or extended.”
+
+Subsec. (d)(3). Pub. L. 119–60, § 8723, amended subsec. (d)(3) generally. Prior to amendment, text read as follows: “The Chief Executive Officer shall report to and be under the direct authority of the Board.”
+
+Subsec. (f)(1). Pub. L. 119–60, § 8724(1), substituted “who shall be removable only by a majority vote of the Board.” for “who—” and struck out former subpars. (A) and (B) which read as follows:
+
+“(A) shall report directly to the Board; and
+
+“(B) shall be removable only by a majority vote of the Board.”
+
+Subsec. (f)(2). Pub. L. 119–60, § 8724(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Chief Risk Officer shall, in coordination with the audit committee of the Board established under [section 9651 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9651), develop, implement, and manage a comprehensive process for identifying, assessing, monitoring, and limiting risks to the Corporation, including the overall portfolio diversification of the Corporation.”
+
+Subsec. (g)(1). Pub. L. 119–60, § 8725(1)(A), substituted “The” for “Subject to the approval of the Board, the” and “in international development and development finance” for “in development” in introductory provisions.
+
+Subsec. (g)(1)(A). Pub. L. 119–60, § 8725(1)(B), substituted “the Chief Executive Officer” for “the Board”.
+
+Subsec. (g)(2). Pub. L. 119–60, § 8725(2)(A), inserted “and responsibilities” after “Duties” in heading.
+
+Subsec. (g)(2)(A) to (D). Pub. L. 119–60, § 8725(2)(B), (C), added subpars. (A) to (D), redesignated former subpar. (A) as (E), and struck out former subpars. (B) to (D) which read as follows:
+
+“(B) under the guidance of the Chief Executive Officer, manage employees of the Corporation that are dedicated to structuring, monitoring, and evaluating transactions and projects co-designed with the United States Agency for International Development and other relevant United States Government departments and agencies;
+
+“(C) authorize and coordinate transfers of funds or other resources to and from such agencies, departments, or missions upon the concurrence of those institutions in support of the Corporation’s projects or activities;
+
+“(D) manage the responsibilities of the Corporation under paragraphs (1) and (4) of [section 9652(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9652/b&num=0&edition=prelim) and paragraphs (1)(A) and (3)(A) of [section 9653(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9653/b&num=0&edition=prelim);”.
+
+Subsec. (g)(2)(E). Pub. L. 119–60, § 8725(2)(D), substituted “support—” for “coordinate” and “Federal departments and agencies, including by directly liaising with the relevant members of United States country teams serving overseas, to ensure that such Federal departments, agencies, and country teams have the training and awareness necessary to fully leverage the Corporation’s development tools overseas;” for “United States Government departments and agencies, including directly liaising with missions of the United States Agency for International Development, to ensure that departments, agencies, and missions have training, awareness, and access to the Corporation’s tools in relation to development policy and projects in countries;”, inserted cl. (i) designation and “coordination of” before “the Corporation’s”, and added cls. (ii) to (iv).
+
+Pub. L. 119–60, § 8725(2)(B), (C), redesignated subpar. (A) as (E) and struck out former subpar. (E) which read as follows: “coordinate and implement the activities of the Corporation under [section 9655 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9655); and”.
+
+Subsec. (g)(2)(F), (G). Pub. L. 119–60, § 8725(2)(C), (E), added subpars. (F) and (G) and struck out former subpar. (F) which read as follows: “be an ex officio member of the Development Advisory Council established under subsection (i) and participate in or send a representative to each meeting of the Council.”
+
+Subsec. (h). Pub. L. 119–60, § 8726, added subsec. (h). Former subsec. (h) redesignated (i).
+
+Subsec. (i). Pub. L. 119–60, § 8726, redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+
+Subsec. (i)(1). Pub. L. 119–60, § 8727(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Except as otherwise provided in this section, officers, employees, and agents shall be selected and appointed by the Corporation, and shall be vested with such powers and duties as the Corporation may determine.”
+
+Subsec. (i)(2)(A). Pub. L. 119–60, § 8727(2)(A), substituted “100” for “50” and “title 5, and such positions—” for “title 5,”, and added cls. (i) and (ii).
+
+Subsec. (i)(2)(D). Pub. L. 119–60, § 8727(2)(B), inserted “, provided that no such officer or employee may be compensated at a rate exceeding level II of the Executive Schedule” after “respectively”.
+
+Subsec. (i)(3)(C). Pub. L. 119–60, § 8727(3), substituted “subsection (j)” for “subsection (i)”.
+
+Subsec. (j). Pub. L. 119–60, § 8726(1), redesignated subsec. (i) as (j).
+
+Subsec. (j)(1), (2). Pub. L. 119–60, § 8728(1), added pars. (1) and (2) and struck out former pars. (1) and (2). Prior to amendment, pars. (1) and (2) established Development Finance Advisory Council and related to appointment of members of the Council, respectively.
+
+Subsec. (j)(4) to (6). Pub. L. 119–60, § 8728(2), (3), added pars. (4) and (5) and redesignated former par. (4) as (6).
+
+Subsec. (k). Pub. L. 119–60, § 8729, added subsec. (k).
+
+Subsec. (l). Pub. L. 119–60, § 8730(a), added subsec. (l).
+
+Subsec. (m). Pub. L. 119–60, § 8731, added subsec. (n).
+
+Subsec. (n). Pub. L. 119–60, § 8732, added subsec. (n).
 
 
 <a id="section-9621"></a>
@@ -299,6 +747,13 @@ Section is comprised of section 1413 of Pub. L. 115–254. Par. (4) of subsec. (
 (2) provide a forum for resolving concerns regarding the impacts of specific Corporation-supported projects with respect to such standards; and
 
 (3) provide advice regarding Corporation projects, policies, and practices.
+
+**(c) Consolidation of functions** Not later than 90 days after December 18, 2025, the Board shall submit a report to the appropriate congressional committees describing any efficiencies that may be gained through the consolidation of functions of the independent accountability mechanism under the authorities of the Office of the Inspector General of the Corporation under section 1414. 11 See References in Text note below. The report shall include an outline as to how the Inspector General of the Corporation would develop an internal environmental, social, and governance expertise to adequately replace the independent accountability mechanism’s environmental, social, and governance expertise.
+
+### Statutory Notes
+
+#### Amendments
+2025—Subsec. (c). Pub. L. 119–60 added subsec. (c).
 
 
 <a id="section-9622"></a>
@@ -331,7 +786,7 @@ Section is comprised of section 1413 of Pub. L. 115–254. Par. (4) of subsec. (
 
   (B) The project would not have proceeded or would have been substantially delayed without the support.
 
-  (C) The support would meaningfully contribute to transforming local conditions to promote the development of markets.
+  (C) The support would meaningfully contribute to transforming local conditions to promote the development of markets, localized workforces, and partner country economic security.
 
   (D) The support can be shown to be aligned with commercial partner incentives.
 
@@ -341,13 +796,29 @@ Section is comprised of section 1413 of Pub. L. 115–254. Par. (4) of subsec. (
 
 (4) **Limitations on equity investments**
 
-  (A) *Per project limit* — The aggregate amount of support provided under this subsection with respect to any project shall not exceed 30 percent of the aggregate amount of all equity investment made to the project at the time that the Corporation approves support of the project.
+  (A) *Per project limit* — The aggregate amount of support provided under this subsection with respect to any project shall not exceed 40 percent of the aggregate amount of all equity investment made to the project at the time that the Corporation approves support of the project.
 
   (B) *Total limit* — Support provided pursuant to this subsection shall be limited to not more than 35 percent of the Corporation’s aggregate exposure on the date that such support is provided.
 
 (5) **Sales and liquidation of position** — The Corporation shall seek to sell and liquidate any support for a project provided under this subsection as soon as commercially feasible, commensurate with other similar investors in the project and taking into consideration the national security interests of the United States.
 
 (6) **Timetable** — The Corporation shall create a project-specific timetable for support provided under paragraph (1).
+
+(7) **Corporate equity investment account**
+
+  (A) *Establishment* — There is established in the Treasury of the United States a fund to be known as the “Development Finance Corporate Equity Investment Account” (referred to in this division as the “Equity Investment Account”), which shall be administered by the Corporation as a revolving account to carry out the purposes of this section.
+
+  (B) *Purpose* — The Corporation shall—
+
+    (i) manage the Equity Investment Account in ways that demonstrate a commitment to pursuing catalytic investments in less developed countries in accordance with [section 9612(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9612/c/1&num=0&edition=prelim) and paragraph (1); and
+
+    (ii) collect data and information about the use of the Equity Investment Account to inform the Corporation’s record of returns on investments and reevaluation of equity investment subsidy rates prior to the termination of the authorities provided under this subchapter.
+
+  (C) *Authorization of appropriations* — There is authorized to be appropriated to the Equity Investment Account $5,000,000,000 for fiscal years 2026 through 2031.
+
+  (D) *Offsetting collections and funds* — Earnings and proceeds from the sale or redemption of, and fees, credits, and other collections from, the equity investments of the Corporation under the Equity Investment Account shall be retained and deposited into the Fund and shall remain available to carry out this subsection without fiscal year limitation without further appropriation.
+
+  (E) *Impact quotient* — The Corporation shall ensure that at least 25 percent of its obligations from funds authorized to be appropriated under subparagraph (C) or otherwise made available for the Fund for Corporation projects are rated in the upper 20 percent on the Impact Quotient tier system, or any similar or successor assessment tool, developed pursuant to [section 9652(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9652/b/1&num=0&edition=prelim).
 
 **(d) Insurance and reinsurance** The Corporation may issue insurance or reinsurance, upon such terms and conditions as the Corporation may determine, to private sector entities and qualifying sovereign entities assuring protection of their investments in whole or in part against any or all political risks such as currency inconvertibility and transfer restrictions, expropriation, war, terrorism, civil disturbance, breach of contract, or nonhonoring of financial obligations.
 
@@ -361,7 +832,19 @@ Section is comprised of section 1413 of Pub. L. 115–254. Par. (4) of subsec. (
 
   (B) reimburse the Corporation those funds provided under this section, if the person succeeds in project implementation.
 
-**(f) Special projects and programs** The Corporation may administer and manage special projects and programs in support of specific transactions undertaken by the Corporation, including programs of financial and advisory support that provide private technical, professional, or managerial assistance in the development of human resources, skills, technology, capital savings, or intermediate financial and investment institutions or cooperatives, and including the initiation of incentives, grants, or studies for energy, women’s economic empowerment, microenterprise households, or other small business activities.
+**(f) Special projects and programs** The Corporation may administer and manage special projects and programs in support of specific transactions undertaken by the Corporation—
+
+(1) for the provision of post-investment technical assistance for existing projects of the Corporation, including programs of financial and advisory support that provide private technical, professional, or managerial assistance in the development of human resources, skills, technology, or capital savings; or
+
+(2) subject to the nondelegable review and approval of the Board, by creating companies, corporations, and partnerships that advance both the development objectives and foreign policy interests outlined in the purpose of this division if, not later than 30 days prior to entering into an agreement or other arrangement to provide support pursuant to this section, the Chief Executive Officer—
+
+  (A) notifies the appropriate congressional committees; and
+
+  (B) includes in the notification required by subparagraph (A) a certification that such support—
+
+    (i) is designed to meet an exigent need that is critical to the national security interests of the United States; and
+
+    (ii) could not otherwise be secured utilizing the authorities under this section.
 
 **(g) Enterprise funds**
 
@@ -463,6 +946,15 @@ For termination of section 7 years after Oct. 5, 2018, see [section 9624 of this
 #### References in Text
 The Federal Credit Reform Act of 1990, referred to in subsec. (b)(3), is title V of Pub. L. 93–344 as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
 
+#### Amendments
+2025—Subsec. (c)(3)(C). Pub. L. 119–60, § 8741(b), inserted “, localized workforces, and partner country economic security” after “markets”.
+
+Subsec. (c)(4)(A). Pub. L. 119–60, § 8741(c), substituted “40” for “30”.
+
+Subsec. (c)(7). Pub. L. 119–60, § 8741(a), added par. (7).
+
+Subsec. (f). Pub. L. 119–60, § 8742, added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “The Corporation may administer and manage special projects and programs in support of specific transactions undertaken by the Corporation, including programs of financial and advisory support that provide private technical, professional, or managerial assistance in the development of human resources, skills, technology, capital savings, or intermediate financial and investment institutions or cooperatives, and including the initiation of incentives, grants, or studies for energy, women’s economic empowerment, microenterprise households, or other small business activities.”
+
 
 <a id="section-9623"></a>
 ## § 9623. Terms and conditions
@@ -482,7 +974,7 @@ The Federal Credit Reform Act of 1990, referred to in subsec. (b)(3), is title V
 
   (B) debt servicing capabilities of the project to be financed by the loan (as determined by the Corporation).
 
-(3) The Corporation shall, with respect to providing any loan guaranty to a project, require the parties to the project to bear the risk of loss in an amount equal to at least 20 percent of the guaranteed support by the Corporation in the project.
+(3) The Corporation shall, with respect to providing any loan guaranty to a project, require the parties to the project to bear a risk of loss on the project in an amount equal to at least 20 percent of the amount of such guaranty. The Corporation shall continue to work with the President to streamline the process for securing waivers that would enable the Corporation to guarantee up to 100 percent of the amount of a loan, provided that risk of loss in the project borne by the parties to the project is equal to at least 20 percent of the guaranty amount.
 
 (4) The Corporation may not make or guarantee a loan unless the Corporation determines that the borrower or lender is responsible and that adequate provision is made for servicing the loan on reasonable terms and protecting the financial interest of the United States.
 
@@ -512,10 +1004,43 @@ The Federal Credit Reform Act of 1990, referred to in subsec. (b)(3), is title V
 
 (12) Any loan or loan guaranty made by the Corporation should be provided on a senior basis or pari passu with other senior debt unless there is a substantive policy rationale to provide such support otherwise.
 
+**(c) Best practices to prevent usurious or abusive lending by intermediaries**
+
+(1) **In general** — The Corporation shall ensure that terms, conditions, penalties, rules for collections practices, and other finance administration policies that govern Corporation-backed lending, guarantees and other financial instruments through intermediaries are consistent with industry best practices and the Corporation’s rules with respect to direct lending to its clients.
+
+(2) **Truth in lending policies** — The Corporation shall develop required truth in lending rules, guidelines, and related implementing policies and practices to govern secondary lending through intermediaries and shall report such policies and practices to the appropriate committees not later than 180 days of 11 So in original. The word “of” probably should be “after”. December 18, 2025, with annual updates, as needed, thereafter.
+
+(3) **Policy development requirements** — In developing such policies and practices required by paragraph (2), the Corporation shall—
+
+  (A) take into account any particular vulnerabilities generally faced by potential applicants or recipients of microlending and other forms of microfinance, such as lack of experience with lending or lack of financial literacy;
+
+  (B) develop and apply, generally, rules and terms to ensure Corporation-backed lending through an intermediary does not carry excessively punitive or disproportionate penalties for customers in default;
+
+  (C) ensure that such policies and practices include effective safeguards to prevent usurious or abusive lending by intermediaries, including in the provision of microfinance; and
+
+  (D) ensure the intermediary includes in any lending contract with microfinance borrowers that is supported by the Corporation an appropriate level of financial disclosure to the borrower, including—
+
+    (i) disclosures that explain in all material respects to the customer both lender and customer rights and obligations under the contract in language that is accessible to the customer;
+
+    (ii) the material loan terms and tenure of the contract;
+
+    (iii) the procedures and potential penalties or forfeitures in case of default;
+
+    (iv) information on privacy and personal data protection; and
+
+    (v) any other information that the Corporation determines is needed to inform the borrower of the material terms of the loan.
+
+(4) **Audit requirements** — The Corporation shall establish appropriate auditing mechanisms to oversee and monitor secondary lending provided through intermediaries in partner countries and include in each annual report to Congress required under paragraph (2) a summary of the results of such audits.
+
 ### Statutory Notes
 
 #### Termination of Section
 For termination of section 7 years after Oct. 5, 2018, see [section 9624 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9624).
+
+#### Amendments
+2025—Subsec. (b)(3). Pub. L. 119–60, § 8743(1), added par. (3) and struck out former par. (3) which read as follows: “The Corporation shall, with respect to providing any loan guaranty to a project, require the parties to the project to bear the risk of loss in an amount equal to at least 20 percent of the guaranteed support by the Corporation in the project.”
+
+Subsec. (c). Pub. L. 119–60, § 8743(2), added subsec. (c).
 
 
 <a id="section-9624"></a>
@@ -558,9 +1083,14 @@ For termination of section 7 years after Oct. 5, 2018, see [section 9624 of this
 
 <a id="section-9631"></a>
 ## § 9631. Termination
-**(a) In general** The authorities provided under this subchapter terminate on the date that is 7 years after October 5, 2018.
+**(a) In general** The authorities provided under this subchapter terminate on December 31, 2031.
 
 **(b) Termination of Corporation** The Corporation shall terminate on the date on which the portfolio of the Corporation is liquidated.
+
+### Statutory Notes
+
+#### Amendments
+2025—Subsec. (a). Pub. L. 119–60 substituted “December 31, 2031” for “7 years after October 5, 2018”.
 
 
 <a id="section-9632"></a>
@@ -577,10 +1107,19 @@ For termination of section 7 years after Oct. 5, 2018, see [section 9624 of this
 
 **(d) Electronic payments and documents** The Corporation shall implement policies to accept electronic documents and electronic payments in all of its programs.
 
+**(e) Sense of Congress** It is the sense of Congress that—
+
+(1) the Corporation is obligated to consult with and collect input from current employees on plans to substantially reorganize the Corporation prior to implementation of such plan; and
+
+(2) the Corporation should consider preference, experience, and, when relevant, seniority when reassigning existing employees to new areas of work.
+
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsec. (c), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) and Tables.
+
+#### Amendments
+2025—Subsec. (e). Pub. L. 119–60 added subsec. (e).
 
 
 <a id="section-9633"></a>
@@ -605,7 +1144,7 @@ This chapter, referred to in subsec. (c), was in the original “this division�
 
 (9) may acquire, hold, or dispose of, upon such terms and conditions as the Corporation may determine, any property, real, personal, or mixed, tangible or intangible, or any interest in such property, except that, in the case of real property that is for the Corporation’s own occupancy, the acquisition, holding, or disposition of the real property shall be conducted in consultation with the Administrator of General Services;
 
-(10) may lease office space for the Corporation’s own use, with the obligation of amounts for such lease limited to the current fiscal year for which payments are due until the expiration of the current lease under predecessor authority, as of the day before October 5, 2018;
+(10) may lease office space for the Corporation’s own use, with the obligation of amounts for such lease limited to the current fiscal year for which payments are due;
 
 (11) may indemnify directors, officers, employees, and agents of the Corporation for liabilities and expenses incurred in connection with their activities on behalf of the Corporation;
 
@@ -628,11 +1167,20 @@ This chapter, referred to in subsec. (c), was in the original “this division�
 #### References in Text
 This chapter, referred to in subsec. (b), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) and Tables.
 
+#### Amendments
+2025—Subsec. (a)(10). Pub. L. 119–60 struck out “until the expiration of the current lease under predecessor authority, as of the day before October 5, 2018” after “payments are due”.
+
 
 <a id="section-9634"></a>
 ## § 9634. Maximum contingent liability
+**(a) In general** The maximum contingent liability of the Corporation outstanding at any one time shall not exceed in the aggregate $205,000,000,000.
 
-The maximum contingent liability of the Corporation outstanding at any one time shall not exceed in the aggregate $60,000,000,000.
+**(b) Rule of construction** The maximum contingent liability shall apply to all extension of liability by the Corporation regardless of the authority cited thereto.
+
+### Statutory Notes
+
+#### Amendments
+2025—Pub. L. 119–60 amended section generally. Prior to amendment, text of section read as follows: “The maximum contingent liability of the Corporation outstanding at any one time shall not exceed in the aggregate $60,000,000,000.”
 
 
 <a id="section-9635"></a>
@@ -759,21 +1307,76 @@ It is the sense of Congress that the Corporation should use relevant data of the
 
 **(b) Considerations** In developing the performance measurement system required by subsection (a), the Corporation shall—
 
-(1) develop a successor for the development impact measurement system of the Overseas Private Investment Corporation (as such system was in effect on the day before October 5, 2018);
+(1) develop a development impact measurement system, to be known as the Corporation’s Impact Quotient, which shall—
+
+  (A) serve as a metrics-based measurement system to assess a project’s expected outcomes and development impact on a country, a region, and populations throughout the sourcing, origination, management, monitoring, and evaluation stages of a project’s lifecycle;
+
+  (B) enable the Corporation to assess development impact at both the project and portfolio level;
+
+  (C) provide guidance on when to take appropriate corrective measures to further development goals throughout a project’s lifecycle; and
+
+  (D) inform congressional notification requirements outlining the Corporation’s project development impacts;
 
 (2) develop a mechanism for ensuring that support provided by the Corporation under subchapter II of this chapter is in addition to private investment;
 
-(3) develop standards for, and a method for ensuring, appropriate financial performance of the Corporation’s portfolio; and
+(3) develop standards for, and a method for ensuring, appropriate financial performance of the Corporation’s portfolio;
 
-(4) develop standards for, and a method for ensuring, appropriate development performance of the Corporation’s portfolio, including—
+(4) develop standards for, and a method for evaluating and documenting the development impacts of the Corporation’s portfolio, including—
 
   (A) measurement of the projected and ex post development impact of a project; and
 
-  (B) the information necessary to comply with [section 9653 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9653).
+  (B) the information necessary to comply with [section 9653 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9653);
 
-**(c) Public availability of certain information** The Corporation shall make available to the public on a regular basis information about support provided by the Corporation under subchapter II of this chapter and performance metrics about such support on a country-by-country basis.
+(5) develop standards for, and a method for ensuring, appropriate monitoring of the Corporation’s compliance with environmental and social standards consistent with the guidance published by the Corporation following broad consultation with appropriate stakeholders to include civil society; and
 
-**(d) Consultation** In developing the performance measurement system required by subsection (a), the Corporation shall consult with the Development Advisory Council established under [section 9613(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9613/i&num=0&edition=prelim) and other stakeholders and interested parties engaged in sustainable economic growth and development.
+(6) develop standards for, and a method for ensuring, appropriate monitoring of the Corporation’s portfolio, including standards for ensuring employees or agents of the Corporation identify and conduct in-person site visits of each high-risk loan, loan guarantee, and equity project, as necessary and appropriate, after the initial disbursement of funds.
+
+**(c) Required performance measures update for Congressional Strategic Advisory Group** At any meeting of the Congressional Strategic Advisory Group, the Corporation shall be prepared discuss the standards developed in subsection (b) for all ongoing projects.
+
+**(d) Public availability of certain information** The Corporation shall make available to the public on a regular basis information about support provided by the Corporation under subchapter II of this chapter and performance metrics about such support on a country-by-country basis.
+
+**(e) Consultation** In developing the performance measurement system required by subsection (a), the Corporation shall consult with the Development Advisory Council established under [section 9613(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9613/i&num=0&edition=prelim) and other stakeholders and interested parties engaged in sustainable economic growth and development.
+
+**(f) Staffing for portfolio oversight and reporting**
+
+(1) **Requirement to maintain capacity** — The Corporation shall maintain an adequate number of full-time personnel with appropriate expertise to fulfill its obligations under this section and [section 9653 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9653), including—
+
+  (A) monitoring and evaluating the financial performance of the Corporation’s portfolio;
+
+  (B) evaluating the development and strategic impact of investments throughout the program lifecycle;
+
+  (C) preparing required annual reporting on the Corporation’s portfolio of investments, including the information set forth in [section 9653(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9653/a/6&num=0&edition=prelim); and
+
+  (D) monitoring for compliance with all applicable laws and ethics requirements.
+
+(2) **Qualifications** — Personnel assigned to carry out the obligations described in paragraph (1) shall possess demonstrable professional experience in relevant areas, such as development finance, financial analysis, investment portfolio management, monitoring and evaluation, impact measurement, or legal and ethics expertise.
+
+(3) **Organizational structure** — The Corporation shall maintain such personnel within 1 or more dedicated units or offices, which shall—
+
+  (A) be functionally independent from investment origination teams;
+
+  (B) be managed by senior staff who report to the Chief Executive Officer or Deputy Chief Executive Officer; and
+
+  (C) be allocated resources sufficient to fulfill the Corporation’s obligations under this section and to support transparency and accountability to Congress and to the public.
+
+(4) **Insulation from reductions** — The Corporation may not reduce the staffing, funding, or organizational independence of the units or personnel responsible for fulfilling the obligations under this section unless—
+
+  (A) the Chief Executive Officer certifies in writing to the appropriate congressional committees that such reductions are necessary due to operational exigency, statutory change, or budgetary shortfall; and
+
+  (B) the Corporation includes in its annual report a detailed explanation of the impact of any such changes on its capacity to analyze and report on portfolio performance.
+
+### Statutory Notes
+
+#### Amendments
+2025—Subsec. (b)(1). Pub. L. 119–60, § 8754(1)(A), added par. (1) and struck out former par. (1) which read as follows: “develop a successor for the development impact measurement system of the Overseas Private Investment Corporation (as such system was in effect on the day before October 5, 2018);”.
+
+Subsec. (b)(4). Pub. L. 119–60, § 8754(1)(C)(i), substituted “method for evaluating and documenting the development impacts” for “method for ensuring, appropriate development performance” in introductory provisions.
+
+Subsec. (b)(5), (6). Pub. L. 119–60, § 8754(1)(B), (C)(ii), (D), added pars. (5) and (6).
+
+Subsecs. (c) to (e). Pub. L. 119–60, § 8754(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+Subsec. (f). Pub. L. 119–60, § 8754(4), added subsec. (f).
 
 
 <a id="section-9654"></a>
@@ -784,17 +1387,43 @@ It is the sense of Congress that the Corporation should use relevant data of the
 
 (2) the extent to which the operations of the Corporation complement or are compatible with the development assistance programs of the United States and qualifying sovereign entities;
 
-(3) the Corporation’s institutional linkages with other relevant United States Government department 11 So in original. Probably should be “departments”. and agencies, including efforts to strengthen such linkages; and
+(3) the Corporation’s institutional linkages with other relevant United States Government department 11 So in original. Probably should be “departments”. and agencies, including efforts to strengthen such linkages;
 
-(4) the compliance of projects supported by the Corporation under subchapter II of this chapter with human rights, environmental, labor, and social policies, or other such related policies that govern the Corporation’s support for projects, promulgated or otherwise administered by the Corporation.
+(4) the compliance of projects supported by the Corporation under subchapter II of this chapter with human rights, environmental, labor, and social policies, or other such related policies that govern the Corporation’s support for projects, promulgated or otherwise administered by the Corporation;
+
+(5) the United States strategic, foreign policy, and development objectives advanced through projects supported by the Corporation; and
+
+(6) the health of the Corporation’s portfolio, including an annual overview of funds committed, funds disbursed, default and recovery rates, capital mobilized, equity investments’ year on year returns, and any difference between how investments were modeled at commitment and how they ultimately performed, to include a narrative explanation explaining any changes.
 
 **(b) Elements** Each annual report required by subsection (a) shall include analyses of the effects of projects supported by the Corporation under subchapter II of this chapter, including—
 
 (1) reviews and analyses of—
 
-  (A) the desired development outcomes for projects and whether or not the Corporation is meeting the associated metrics, goals, and development objectives, including, to the extent practicable, in the years after conclusion of projects; and
+  (A) the desired development impact and strategic outcomes for projects, and whether or not the Corporation is meeting the associated metrics, goals, and development objectives, including, to the extent practicable, in the years after conclusion of projects;
 
-  (B) the effect of the Corporation’s support on access to capital and ways in which the Corporation is addressing identifiable market gaps or inefficiencies and what impact, if any, such support has on access to credit for a specific project, country, or sector;
+  (B) whether the Corporation’s support for projects that focus on achieving strategic outcomes are achieving such strategic objectives of such investments over the duration of the support and lasting after the Corporation’s support is completed;
+
+  (C) the value of private sector assets brought to bear relative to the amount of support provided by the Corporation and the value of any other public sector support;
+
+  (D) the total private capital projected to be mobilized by projects supported by the Corporation during that year, including an analysis of the lenders and investors involved and investment instruments used;
+
+  (E) the total private capital actually mobilized by projects supported by the Corporation that were fully funded by the end of that year, including—
+
+    (i) an analysis of the lenders and investors involved and investment instruments used; and
+
+    (ii) a comparison with the private capital projected to be mobilized for the projects described in this paragraph;
+
+  (F) a breakdown of—
+
+    (i) the amount and percentage of Corporation support provided to less developed countries, advancing income countries, and high-income countries in the previous fiscal year; and
+
+    (ii) the amount and percentage of Corporation support provided to less developed countries, advancing income countries and high-income countries averaged over the last 5 fiscal years;
+
+  (G) a breakdown of the aggregate amounts and percentage of the maximum contingent liability of the Corporation authorized to be outstanding pursuant to section 1433 in less developed countries, advancing income countries, and high-income countries;
+
+  (H) the risk appetite of the Corporation to undertake projects in less developed countries and in sectors that are critical to development but less likely to deliver substantial financial returns; and
+
+  (I) efforts by the Chief Executive Officer to incentivize calculated risk-taking by transaction teams, including through the conduct of development performance reviews and provision of development performance rewards;
 
 (2) an explanation of any partnership arrangement or cooperation with a qualifying sovereign entity in support of each project;
 
@@ -802,9 +1431,24 @@ It is the sense of Congress that the Corporation should use relevant data of the
 
   (A) development outcomes, and whether or not support for projects are meeting the associated performance measures, both during the start-up phase and over the duration of the support, and to the extent practicable, measures of such development outcomes should be on a gender-disaggregated basis, such as changes in employment, access to financial services, enterprise development and growth, and composition of executive boards and senior leadership of enterprises receiving support under subchapter II of this chapter; and
 
-  (B) the value of private sector assets brought to bear relative to the amount of support provided by the Corporation and the value of any other public sector support; and
+  (B) the value of private sector assets brought to bear relative to the amount of support provided by the Corporation and the value of any other public sector support;
 
-(4) an assessment of the extent to which lessons learned from the monitoring and evaluation activities of the Corporation, and from annual reports from previous years compiled by the Corporation, have been applied to projects.
+(4) to the extent practicable, recommendations for measures that could enhance the strategic goals of projects to adapt to changing circumstances; and
+
+(5) an assessment of the extent to which lessons learned from the monitoring and evaluation activities of the Corporation, and from annual reports from previous years compiled by the Corporation, have been applied to projects.
+
+### Statutory Notes
+
+#### Amendments
+2025—Subsec. (a)(5), (6). Pub. L. 119–60, § 8755(1), added pars. (5) and (6).
+
+Subsec. (b)(1)(A) to (I). Pub. L. 119–60, § 8755(2)(A), added pars. (A) to (I) and struck out former pars. (A) and (B) which read as follows:
+
+“(A) the desired development outcomes for projects and whether or not the Corporation is meeting the associated metrics, goals, and development objectives, including, to the extent practicable, in the years after conclusion of projects; and
+
+“(B) the effect of the Corporation’s support on access to capital and ways in which the Corporation is addressing identifiable market gaps or inefficiencies and what impact, if any, such support has on access to credit for a specific project, country, or sector;”.
+
+Subsec. (b)(4), (5). Pub. L. 119–60, § 8755(2)(B) to (D), added par. (4) and redesignated former par. (4) as (5).
 
 
 <a id="section-9655"></a>
@@ -812,9 +1456,20 @@ It is the sense of Congress that the Corporation should use relevant data of the
 
 The Corporation shall—
 
-(1) maintain a user-friendly, publicly available, machine-readable database with detailed project-level information, as appropriate and to the extent practicable, including a description of the support provided by the Corporation under subchapter II of this chapter, including, to the extent feasible, the information included in the report to Congress under [section 9653 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9653) and project-level performance metrics; and
+(1) maintain a user-friendly, publicly available, machine-readable database with detailed project-level information, as appropriate and to the extent practicable, including a description of the support provided by the Corporation under subchapter II of this chapter, which shall include, to the greatest extent feasible for each project—
+
+  (A) the information included in the report to Congress under [section 9653 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9653);
+
+  (B) project-level performance metrics; and
+
+  (C) a description of the development impact of the project, including anticipated impact prior to initiation of the project and assessed impact during and after the completion of the project; and
 
 (2) include a clear link to information about each project supported by the Corporation under subchapter II of this chapter on the internet website of the Department of State, “ForeignAssistance.gov”, or a successor website or other online publication.
+
+### Statutory Notes
+
+#### Amendments
+2025—Par. (1). Pub. L. 119–60 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “maintain a user-friendly, publicly available, machine-readable database with detailed project-level information, as appropriate and to the extent practicable, including a description of the support provided by the Corporation under subchapter II of this chapter, including, to the extent feasible, the information included in the report to Congress under [section 9653 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9653) and project-level performance metrics; and”.
 
 
 <a id="section-9656"></a>
@@ -858,22 +1513,37 @@ The Corporation shall—
 
 <a id="section-9671"></a>
 ## § 9671. Notifications to be provided by the Corporation
-**(a) In general** Not later than 15 days prior to the Corporation making a financial commitment associated with the provision of support under subchapter II of this title in an amount in excess of $10,000,000, the Chief Executive Officer of the Corporation shall submit to the appropriate congressional committees a report in writing that contains the information required by subsection (b).
+**(a) In general** Not later than 15 days prior to the Corporation making a financial commitment associated with the provision of support under subchapter II of this title in an amount in excess of $20,000,000, the Chief Executive Officer of the Corporation shall submit to the appropriate congressional committees a report in writing that contains the information required by subsection (b).
 
 **(b) Information required** The information required by this subsection includes—
 
 (1) the amount of each such financial commitment;
 
-(2) an identification of the recipient or beneficiary; and
+(2) an identification of the recipient or beneficiary;
 
-(3) a description of the project, activity, or asset and the development goal or purpose to be achieved by providing support by the Corporation.
+(3) a description of the project, activity, or asset and the Corporation’s impact quotient outlining the development goal or purpose to be achieved by providing support by the Corporation; and
+
+(4)
+
+  (A) information relating to whether the Corporation has accepted a creditor status that is subordinate to that of other creditors in the project, activity, or asset; and
+
+  (B) for all projects, activities, or assets that the Corporation has accepted a creditor status that is subordinate to that of other creditors the Corporation shall include a description of the substantive policy rationale required by [section 9623(b)(12) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9623/b/12&num=0&edition=prelim) that influenced the decision to accept such a creditor status.
 
 **(c) Bilateral agreements** The Chief Executive Officer of the Corporation shall notify the appropriate congressional committees not later than 30 days after entering into a new bilateral agreement described in [section 9631(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9631/a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 8757(1), substituted “$20,000,000” for “$10,000,000”.
+
+Subsec. (b)(3). Pub. L. 119–60, § 8757(2)(B)(i), inserted “the Corporation’s impact quotient outlining” after “asset and”.
+
+Subsec. (b)(4). Pub. L. 119–60, § 8757(2)(B)(ii), (C), added par. (4).
 
 
 <a id="section-9672"></a>
 ## § 9672. Limitations and preferences
-**(a) Limitation on support for single entity** No entity receiving support from the Corporation under subchapter II of this chapter may receive more than an amount equal to 5 percent of the Corporation’s maximum contingent liability authorized under [section 9633 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9633).
+**(a) Limitation on support for single entity** No entity receiving support from the Corporation under subchapter II of this chapter may receive more than an amount equal to 2.5 percent of the Corporation’s maximum contingent liability authorized under [section 9633 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9633).
 
 **(b) Preference for support for projects sponsored by United States persons**
 
@@ -929,10 +1599,43 @@ The Corporation shall—
 
 (2) to ensure that the proportion of projects sponsored by or involving United States small businesses, including women-, minority-, and veteran-owned small businesses, is not less than 50 percent of all projects for which the Corporation provides support and that involve United States persons.
 
+**(j) Policies with respect to state-owned enterprises, anticompetitive practices, and countries of concern**
+
+(1) **Policy** — The Corporation shall develop appropriate policies and guidelines for support provided under subchapter II of this chapter for a project involving a state-owned enterprise, sovereign wealth fund, or a parastatal entity to ensure such support is provided consistent with appropriate principles and practices of competitive neutrality.
+
+(2) **Prohibitions**
+
+  (A) *Anticompetitive practices* — The Corporation may not provide support under subchapter II of this chapter for a project that involves a private sector entity engaged in anticompetitive practices.
+
+  (B) *Countries of concern* — The Corporation may not provide support under subchapter II of this chapter for projects that would be operated, managed, or controlled by the government of a county of concern or a state-owned enterprise that belongs to or is under the control of a country of concern.
+
+  (C) *Exception* — The President may waive the restriction under subparagraph (B) on a project-by-project basis if the President submits to the appropriate congressional committees—
+
+    (i) a certification, which may be included as a classified or confidential annex to a report required by [section 9656 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9656), that such support is important to the national security interests of the United States; and
+
+    (ii) a written justification of how such support directly counters or significantly limits the influence of an entity described in such subparagraph.
+
+(3) **Definitions** — In this subsection:
+
+  (A) *Control* — The term “control”, with respect to an enterprise, means the power by any means to control the enterprise regardless of—
+
+    (i) the level of ownership; and
+
+    (ii) whether or not the power is exercised.
+
+  (B) *Owned* — The term “owned”, with respect to an enterprise, means a majority or controlling interest, whether by value or voting interest, of the shares of that enterprise, including through fiduciaries, agents, or other means.
+
+  (C) *State-owned enterprise* — The term “state-owned enterprise” means any enterprise established for a commercial or business purpose that is directly owned or controlled by one or more governments, including any agency, instrumentality, subdivision, or other unit of government at any level of jurisdiction.
+
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsec. (i), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) and Tables.
+
+#### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 8758(1), substituted “2.5 percent” for “5 percent”.
+
+Subsec. (j). Pub. L. 119–60, § 8758(2), added subsec. (j).
 
 
 <a id="section-9673"></a>

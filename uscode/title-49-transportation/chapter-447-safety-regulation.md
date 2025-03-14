@@ -501,7 +501,7 @@ Pub. L. 108–176, title VII, § 706, Dec. 12, 2003, 117 Stat. 2582, provided th
 
 (4) The Administrator is authorized and directed to work with State and local authorities, and other Federal agencies, to assist in the identification of individuals applying for or holding airmen certificates.
 
-**(h) Records of Employment of Pilot Applicants.—**
+**(h) 11 See Termination Date note below. Records of Employment of Pilot Applicants.—**
 
 (1) **In general.—** — Subject to paragraph (14), before allowing an individual to begin service as a pilot, an air carrier shall request and receive the following information:
 
@@ -898,7 +898,7 @@ Pub. L. 111–249, § 6, Sept. 30, 2010, 124 Stat. 2628, provided that the amend
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under [section 106 of this title](./chapter-001-organization.md#section-106).
 
 #### Termination Date
-Subsec. (h) of this section ceases to be effective beginning on Sept. 9, 2024, see 14 C.F.R. § 111.5(b).
+Subsec. (h) of this section ceased to be effective beginning on Sept. 9, 2024, pursuant to par. (16) of that subsec. See 14 C.F.R. § 111.5(b).
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
@@ -2367,7 +2367,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under [section 106 of this title](./chapter-001-organization.md#section-106).
 
 #### Tower Marking Notice of Proposed Rulemaking
-Pub. L. 118–63, title III, § 355, May 16, 2024, 138 Stat. 1114, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [May 16, 2024], the Administrator [of the Federal Aviation Administration] shall issue a notice of proposed rulemaking to implement section 2110 of the FAA Extension, Safety, and Security Act of 2016 [Pub. L. 114–190] ([49 U.S.C. 44718](./chapter-447-safety-regulation.md#section-44718) note). “(b) Report.—If the Administrator fails to issue the notice of proposed rulemaking pursuant to subsection (a), the Administrator shall submit to the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives an annual report on the status of such rulemaking, including—“(1) the reasons that the Administrator has failed to issue the rulemaking; and “(2) a list of fatal aircraft accidents associated with unmarked towers that have occurred during the 5-year period preceding the date of submission of the report.”
+Pub. L. 118–63, title III, § 355, May 16, 2024, 138 Stat. 1114, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [May 16, 2024], the Administrator [of the Federal Aviation Administration] shall issue a notice of proposed rulemaking to implement section 2110 of the FAA Extension, Safety, and Security Act of 2016 [Pub. L. 114–190] ([49 U.S.C. 44718](./chapter-447-safety-regulation.md#section-44718) note). “(b) Report.—If the Administrator fails to issue the notice of proposed rulemaking pursuant to subsection (a), the Administrator shall submit to the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives] an annual report on the status of such rulemaking, including—“(1) the reasons that the Administrator has failed to issue the rulemaking; and “(2) a list of fatal aircraft accidents associated with unmarked towers that have occurred during the 5-year period preceding the date of submission of the report.”
 
 #### Rulemaking
 Pub. L. 114–248, § 1(b), Nov. 28, 2016, 130 Stat. 998, provided that: “Not later than 18 months after the date of enactment of this Act [Nov. 28, 2016], the Administrator of the Federal Aviation Administration shall initiate a rulemaking to implement the amendments made by subsection (a) [amending this section].”
@@ -2408,7 +2408,7 @@ The words “Not later than December 31, 1988” are omitted as obsolete.
 
 (1) observe, measure, investigate, and study atmospheric phenomena, and maintain meteorological stations and offices, that are necessary or best suited for finding out in advance information about probable weather conditions;
 
-(2) provide reports to the Administrator, to persons engaged in civil aeronautics that are designated by the the Administrator, and to other persons designated by the Secretary in a way and with a frequency that best will result in safety in, and facilitating, air navigation;
+(2) provide reports to the Administrator, to persons engaged in civil aeronautics that are designated by the Administrator, and to other persons designated by the Secretary in a way and with a frequency that best will result in safety in, and facilitating, air navigation;
 
 (3) cooperate with persons engaged in air commerce in meteorological services, maintain reciprocal arrangements with those persons in carrying out this clause, and collect and distribute weather reports available from aircraft in flight;
 
@@ -2442,45 +2442,7 @@ Pub. L. 118–63, title III, § 332, May 16, 2024, 138 Stat. 1089, provided that
 Pub. L. 118–63, title IV, § 419, May 16, 2024, 138 Stat. 1163, provided that: “The Administrator [of the Federal Aviation Administration] may take such actions as are necessary to provide training that is easily accessible and streamlined for airport personnel to become certified as non-Federal weather observers so that such personnel can manually provide weather observations in any case in which automated surface observing systems and automated weather observing systems experience outages and errors to ensure operational safety at airports.”
 
 #### Improved Safety in Rural Areas
-Pub. L. 115–254, div. B, title III, § 322, Oct. 5, 2018, 132 Stat. 3270, as amended by Pub. L. 118–63, title III, § 339(a), May 16, 2024, 138 Stat. 1093, provided that: “The Administrator [of the Federal Aviation Administration] shall permit an air carrier operating pursuant to part 135 of title 14, Code of Federal Regulations, to operate to a destination with a published approach, in a noncontiguous State under instrument flight rules and conduct an instrument approach without a destination Meteorological Aerodrome Report (METAR) if a current Area Forecast, supplemented by noncertified local weather observations (such as weather cameras and human observations) is available, and an alternate airport that has a weather report is specified. The operator shall have approved procedures for departure and en route weather evaluation.”
-
-[Pub. L. 118–63, title III, § 339, May 16, 2024, 138 Stat. 1093, provided that, effective 12 months after May 16, 2024, section 322 of Pub. L. 115–254, set out above, is amended to read as follows:
-
-[“(a) In General.—The Administrator [of the Federal Aviation Administration] shall permit an air carrier operating pursuant to part 135 of title 14, Code of Federal Regulations—
-
-[“(1) to operate under instrument flight rules (in this section referred to as ‘IFR’) to a destination in a noncontiguous State that has a published instrument approach but does not have a Meteorological Aerodrome Report (in this section referred to as ‘METAR’); and
-
-[“(2) to conduct an instrument approach at such destination if—
-
-[“(A) a current Area Forecast, supplemented by noncertified destination weather observations (such as weather cameras and other noncertified observations), is available, and, at the time of departure, the combination of the Area Forecast and noncertified observation indicates that weather is expected to be at or above approach minimums upon arrival;
-
-[“(B) prior to commencing an approach, the air carrier has a means to communicate to the pilot of the aircraft whether the destination weather observation is either at or above minimums for the approach to be flown; and
-
-[“(C) in the event the destination weather observation is below such minimums, a suitable alternate airport that has a METAR is specified in the IFR flight plan.
-
-[“(b) Application Template.—
-
-[“(1) In general.—The Administrator shall develop an application template with standardized, specific approval criteria to enable FAA [Federal Aviation Administration] inspectors to objectively evaluate the application of an air carrier to operate in the manner described in subsection (a).
-
-[“(2) Requirements.—The template required under paragraph (1) shall include a place in such template for an air carrier to describe—
-
-[“(A) how any non-certified human observations will be conducted; and
-
-[“(B) how such observations will be communicated—
-
-[“(i) to air carriers prior to dispatch; and
-
-[“(ii) to pilots prior to approach.
-
-[“(3) Response to application.—
-
-[“(A) Timeline.—The Administrator shall ensure—
-
-[“(i) that the Administrator has the ability to respond to an application of an air carrier not later than 30 days after receipt of such application; and
-
-[“(ii) in the event the Administrator cannot respond within 30 days, that the Administrator informs the air carrier of the expected response time with respect to the application of the air carrier.
-
-[“(B) Rejection.—In the event that the Administrator rejects an application of an air carrier, the Administrator shall inform the air carrier of the specific criteria that were the cause for rejection.”]
+Pub. L. 115–254, div. B, title III, § 322, Oct. 5, 2018, 132 Stat. 3270, as amended by Pub. L. 118–63, title III, § 339(a), May 16, 2024, 138 Stat. 1093, provided that: “(a) In General.—The Administrator [of the Federal Aviation Administration] shall permit an air carrier operating pursuant to part 135 of title 14, Code of Federal Regulations—“(1) to operate under instrument flight rules (in this section referred to as ‘IFR’) to a destination in a noncontiguous State that has a published instrument approach but does not have a Meteorological Aerodrome Report (in this section referred to as ‘METAR’); and “(2) to conduct an instrument approach at such destination if—“(A) a current Area Forecast, supplemented by noncertified destination weather observations (such as weather cameras and other noncertified observations), is available, and, at the time of departure, the combination of the Area Forecast and noncertified observation indicates that weather is expected to be at or above approach minimums upon arrival; “(B) prior to commencing an approach, the air carrier has a means to communicate to the pilot of the aircraft whether the destination weather observation is either at or above minimums for the approach to be flown; and “(C) in the event the destination weather observation is below such minimums, a suitable alternate airport that has a METAR is specified in the IFR flight plan. “(b) Application Template.—“(1) In general.—The Administrator shall develop an application template with standardized, specific approval criteria to enable FAA [Federal Aviation Administration] inspectors to objectively evaluate the application of an air carrier to operate in the manner described in subsection (a). “(2) Requirements.—The template required under paragraph (1) shall include a place in such template for an air carrier to describe—“(A) how any non-certified human observations will be conducted; and “(B) how such observations will be communicated—“(i) to air carriers prior to dispatch; and “(ii) to pilots prior to approach. “(3) Response to application.—“(A) Timeline.—The Administrator shall ensure—“(i) that the Administrator has the ability to respond to an application of an air carrier not later than 30 days after receipt of such application; and “(ii) in the event the Administrator cannot respond within 30 days, that the Administrator informs the air carrier of the expected response time with respect to the application of the air carrier. “(B) Rejection.—In the event that the Administrator rejects an application of an air carrier, the Administrator shall inform the air carrier of the specific criteria that were the cause for rejection.”
 
 [Pub. L. 118–63, title III, § 339(b), May 16, 2024, 138 Stat. 1094, provided that: “The amendments made by this section [amending section 322 of Pub. L. 115–254, set out above] shall take effect on the date that is 12 months after the date of enactment of this Act [May 16, 2024].” ]
 
@@ -3105,7 +3067,7 @@ Subsec. (e)(2), (3). Pub. L. 118–63, § 301(a)(4)(C), (D), redesignated par. (
 The date of enactment of this section, referred to in subsec. (c), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
 
 #### Amendments
-2024—Subsec. (d). Pub. L. 118–63, § 301(c)(1), (3), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment text of subsec. (d) read as follows: “The Administrator shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing a summary of the data collected under subsection (a). The report shall include the number of accidents experienced by helicopter air ambulance operations, the number of fatal accidents experienced by helicopter air ambulance operations, and the rate, per 100,000 flight hours, of accidents and fatal accidents experienced by operators providing helicopter air ambulance services.”
+2024—Subsec. (d). Pub. L. 118–63, § 301(c)(1), (3), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “The Administrator shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing a summary of the data collected under subsection (a). The report shall include the number of accidents experienced by helicopter air ambulance operations, the number of fatal accidents experienced by helicopter air ambulance operations, and the rate, per 100,000 flight hours, of accidents and fatal accidents experienced by operators providing helicopter air ambulance services.”
 
 Subsec. (e). Pub. L. 118–63, § 301(c)(3), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 

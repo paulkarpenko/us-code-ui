@@ -16,6 +16,9 @@ There shall be in the Senate an office to be known as the Office of the Legislat
 #### Codification
 As originally enacted, section provided for creation of an office of the legislative counsel to be under the direction of two legislative counsels. In view of nonapplicability of section to Speaker, employee, etc., of the House of Representatives pursuant to section 531 of Pub. L. 91–510, set out as a note under [section 281 of this title](./chapter-009-office-of-legislative-counsel.md#section-281), section has been revised to limit applicability to Senate and creation therein of Office of Legislative Counsel. See [section 281 of this title](./chapter-009-office-of-legislative-counsel.md#section-281) for provisions establishing Office of the Legislative Counsel for the House of Representatives and [section 282 of this title](./chapter-009-office-of-legislative-counsel.md#section-282) for provisions vesting management, etc., in the Legislative Counsel.
 
+#### Short Title of 2025 Amendment
+Pub. L. 118–263, § 1, Jan. 4, 2025, 138 Stat. 2978, provided that: “This Act [amending [section 282a of this title](./chapter-009-office-of-legislative-counsel.md#section-282a)] may be cited as the ‘House Office of Legislative Counsel Modernization Act’.”
+
 #### Appropriations
 Act Aug. 2, 1946, ch. 753, § 204, 60 Stat. 837, provided: “There is hereby authorized to be appropriated for the work of the Office of the Legislative Counsel the following sums: “(1) For the fiscal year ending June 30, 1947, $150,000; “(2) For the fiscal year ending June 30, 1948, $200,000; “(3) For the fiscal year ending June 30, 1949, $250,000; “(4) For the fiscal year ending June 30, 1950, $250,000; and “(5) For each fiscal year thereafter such sums as may be necessary to carry on the work of the Office.”
 
@@ -233,13 +236,17 @@ The management, supervision, and administration of the Office are vested in the 
 
 **(b)**
 
-(1) One of the attorneys appointed under subsection (a) shall be designated by the Legislative Counsel as Deputy Legislative Counsel. During the absence or disability of the Legislative Counsel, or when the office is vacant, the Deputy Legislative Counsel shall perform the functions of the Legislative Counsel.
+(1) The Legislative Counsel shall designate one or more of the attorneys appointed under subsection (a) as a Deputy Legislative Counsel. During the absence or disability of the Legislative Counsel, or when the office is vacant, the functions of the Legislative Counsel shall be performed by a Deputy Legislative Counsel. If there is more than one Deputy Legislative Counsel, the Deputy Legislative Counsel who shall perform such functions shall be determined in accordance with the order specified in a notice filed with the Speaker and the Minority Leader of the House by the Legislative Counsel.
 
-(2) The Legislative Counsel may delegate to the Deputy Legislative Counsel and to other employees appointed under subsection (a) such of his functions as he considers necessary or appropriate.
+(2) The Legislative Counsel may delegate to the Deputy Legislative Counsels and to other employees appointed under subsection (a) such of his functions as he considers necessary or appropriate.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b)(1). Pub. L. 118–263, § 2(a), substituted “The Legislative Counsel shall designate one or more of the attorneys appointed under subsection (a) as a Deputy Legislative Counsel.” for “One of the attorneys appointed under subsection (a) shall be designated by the Legislative Counsel as Deputy Legislative Counsel.” and “the functions of the Legislative Counsel shall be performed by a Deputy Legislative Counsel. If there is more than one Deputy Legislative Counsel, the Deputy Legislative Counsel who shall perform such functions shall be determined in accordance with the order specified in a notice filed with the Speaker and the Minority Leader of the House by the Legislative Counsel.” for “the Deputy Legislative Counsel shall perform the functions of the Legislative Counsel.”
+
+Subsec. (b)(2). Pub. L. 118–263, § 2(b), substituted “Deputy Legislative Counsels” for “Deputy Legislative Counsel”.
+
 1971—Subsec. (b). Pub. L. 92–51 substituted provisions for designation of one attorney as Deputy Legislative Counsel to perform functions of Legislative Counsel during his absence or disability or when office is vacant and for delegation of functions to Deputy Legislative Counsel and other employees for former provisions for appointment of full-time Office Administrator to exercise management, supervisory, and administrative functions of the Office as delegated to him by the Legislative Counsel.
 
 

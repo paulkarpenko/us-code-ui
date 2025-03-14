@@ -4240,7 +4240,6 @@ Provisions similar to those comprising this section were contained in prior sect
 
 Section, added Pub. L. 100–203, title X, § 10512(e)(1), Dec. 22, 1987, 101 Stat. 1330–448; amended Pub. L. 100–647, title II, § 2004(t)(1), title VI, § 6105(a), (b), Nov. 10, 1988, 102 Stat. 3609, 3711; Pub. L. 101–239, title VII, § 7816(o), Dec. 19, 1989, 103 Stat. 2422, related to occupational tax on permit holders.
 
-#### Prior Provisions
 A prior section 5281, act Aug. 16, 1954, ch. 736, 68A Stat. 651, related to regulation of business rectifier, prior to the general revision of this chapter by Pub. L. 85–859.
 
 A prior section 5282, act Aug. 16, 1954, ch. 736, 68A Stat. 651, related to rectification of spirits, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -6738,7 +6737,7 @@ Amendment by section 714(h)(1) of Pub. L. 98–369 effective as if included in t
 Amendment by section 722(a)(5) of Pub. L. 98–369 effective as if included in the provisions of the Technical Corrections Act of 1984, Pub. L. 97–448, to which such amendment relates, see section 722(a)(6) of Pub. L. 98–369, set out as a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
 
 #### Effective Date of 1981 Amendment
-Pub. L. 97–34, title VII, § 722(a)(4), Aug. 13, 1981, 95 Stat. 342, provided that: “The amendments made by this subsection [enacting [section 6659 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6659&num=0&edition=prelim) and amending this section and [section 5761 of this title](./chapter-052-tobacco-products-and-cigarette-papers-and-tubes.md#section-5761)] shall apply to returns filed after December 31, 1981.”
+Pub. L. 97–34, title VII, § 722(a)(4), Aug. 13, 1981, 95 Stat. 342, provided that: “The amendments made by this subsection [enacting [section 6659 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6659) and amending this section and [section 5761 of this title](./chapter-052-tobacco-products-and-cigarette-papers-and-tubes.md#section-5761)] shall apply to returns filed after December 31, 1981.”
 
 Amendment by section 724(b)(4) of Pub. L. 97–34 applicable to returns filed after Aug. 13, 1981, see section 724(c) of Pub. L. 97–34, set out as a note under [section 6656 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6656).
 
@@ -6870,7 +6869,6 @@ A prior section 5690, act Aug. 16, 1954, ch. 736, 68A Stat. 702, consisted of pr
 
 Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1413; amended Pub. L. 96–39, title VIII, § 807(a)(60), July 26, 1979, 93 Stat. 290; Pub. L. 98–369, div. A, title IV, § 451(b)(3), July 18, 1984, 98 Stat. 819; Pub. L. 100–203, title X, § 10512(a)(1)(B)(i), (ii), Dec. 22, 1987, 101 Stat. 1330–447, 1330–448, related to penalties for nonpayment of special taxes.
 
-#### Prior Provisions
 A prior section 5691, act Aug. 16, 1954, ch. 736, 68A Stat. 702, related to penalties for willful nonpayment of special taxes and forfeitures for nonpayment of special taxes relating to liquors, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Effective Date of Repeal

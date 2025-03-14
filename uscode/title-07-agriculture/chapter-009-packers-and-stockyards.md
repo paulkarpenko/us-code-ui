@@ -148,7 +148,7 @@ Par. (c). Pub. L. 100–173, § 3(2), struck out reference to poultry handlers w
 1935—Act Aug. 15, 1921, title V, § 503, as added Aug. 14, 1935, inserted “or any live poultry dealer or handler” after “packer” wherever appearing.
 
 #### Termination Date of 1999 Amendment
-Amendment by Pub. L. 106–78 to terminate Dec. 20, 2024, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
+Amendment by Pub. L. 106–78 to terminate Mar. 14, 2025, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 #### Effective Date of 1987 Amendment
 Amendment by Pub. L. 100–173 effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as a note under [section 182 of this title](./chapter-009-packers-and-stockyards.md#section-182).
@@ -390,7 +390,7 @@ Except as provided in [section 198b(a) of this title](https://uscode.house.gov/v
 For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 #### Termination Date
-Section to terminate Dec. 20, 2024, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
+Section to terminate Mar. 14, 2025, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 
 <a id="section-198a"></a>
@@ -429,7 +429,7 @@ Section to terminate Dec. 20, 2024, see section 942 of Pub. L. 106–78, set out
 For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 #### Termination Date
-Section to terminate Dec. 20, 2024, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
+Section to terminate Mar. 14, 2025, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 
 <a id="section-198b"></a>
@@ -471,7 +471,7 @@ The Federal Trade Commission Act, referred to in subsec. (b)(1), is act Sept. 26
 The Agricultural Marketing Act of 1946, referred to in subsec. (b)(2), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, which is classified generally to chapter 38 (§ 1621 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1621 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621) and Tables.
 
 #### Termination Date
-Section to terminate Dec. 20, 2024, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
+Section to terminate Mar. 14, 2025, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 
 <a id="section-201"></a>
@@ -1237,7 +1237,7 @@ Section, act Aug. 15, 1921, ch. 64, title IV, § 416, as added Pub. L. 105–277
 For termination of repeal by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 #### Termination Date of Repeal
-Repeal by Pub. L. 106–78 to terminate Dec. 20, 2024, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
+Repeal by Pub. L. 106–78 to terminate Mar. 14, 2025, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 
 <a id="section-229b"></a>

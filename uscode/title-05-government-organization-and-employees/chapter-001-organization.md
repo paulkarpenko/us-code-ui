@@ -54,7 +54,14 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 #### Effective Date of 1966 Amendment
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+#### Short Title of 2025 Amendment
+Pub. L. 118–231, § 1, Jan. 4, 2025, 138 Stat. 2829, provided that: “This Act [enacting subchapter III of chapter 3 of this title] may be cited as the ‘Government Service Delivery Improvement Act’.”
+
 #### Short Title of 2024 Amendment
+Pub. L. 118–192, § 1, Dec. 23, 2024, 138 Stat. 2660, provided that: “This Act [amending [section 8332 of this title](./chapter-083-retirement.md#section-8332) and [section 719 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section719&num=0&edition=prelim), Veterans’ Benefits] may be cited as the ‘No Congressionally Obligated Recurring Revenue Used as Pensions To Incarcerated Officials Now Act’ or the ‘No CORRUPTION Act’.”
+
+Pub. L. 118–188, § 1, Dec. 23, 2024, 138 Stat. 2644, provided that: “This Act [amending sections 3302, 3304, 3330a, and 9810 of this title, sections 3008 and 6918 of Title 22, Foreign Relations and Intercourse, and [section 17013 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17013&num=0&edition=prelim), The Public Health and Welfare, and enacting provisions set out as notes under [section 3304 of this title](./chapter-033-examination-selection-and-placement.md#section-3304)] may be cited as the ‘Chance to Compete Act of 2024’.”
+
 Pub. L. 118–104, § 1, Oct. 2, 2024, 138 Stat. 1586, provided that: “This Act [amending [section 552a of this title](./chapter-005-administrative-procedure.md#section-552a)] may be cited as the ‘Congressional Budget Office Data Access Act’.”
 
 Pub. L. 118–97, § 1, Oct. 1, 2024, 138 Stat. 1573, provided that: “This Act [amending [section 801 of this title](./chapter-008-congressional-review-of-agency-rulemaking.md#section-801) and enacting provisions set out as a note under [section 801 of this title](./chapter-008-congressional-review-of-agency-rulemaking.md#section-801)] may be cited as the ‘GAO Database Modernization Act of 2023’.”

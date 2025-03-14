@@ -2,7 +2,7 @@
 title: 10
 chapter: '21'
 heading: DEPARTMENT OF DEFENSE INTELLIGENCE MATTERS
-section_count: 19
+section_count: 23
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -340,6 +340,12 @@ Executive Order 12829, referred to in subsec. (b), is set out as a note under [s
 
 2009—Pub. L. 111–84 renumbered [section 438 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section438&num=0&edition=prelim) as this section.
 
+#### Facility Clearance Acceleration for Members of Defense Industrial Consortiums
+Pub. L. 119–60, div. A, title XVIII, § 1845, Dec. 18, 2025, 139 Stat. 1261, provided that: “(a) Acceleration of Facility Clearance.—The Secretary of Defense shall ensure that each entity that is a member of the collaborative forum described in section 1844(a) of this Act [set out in a note under [section 4811 of this title](./chapter-382-policies-and-planning.md#section-4811)]—“(1) is sponsored for a facility clearance; “(2) is provided access to sensitive compartmented information facilities and classified networks where the member can perform classified work; and “(3) not less than quarterly, is invited to in-person meetings with relevant personnel of the Department of Defense to discuss classified information. “(b) Plan.—Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report detailing a plan to increase the number of facility clearances provided to members described in subsection (a) or to companies awarded contracts in accordance with Executive Order 12968 [[50 U.S.C. 3161](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3161&num=0&edition=prelim) note]. Such plan shall include—“(1) an assessment of any existing related efforts to increase sensitive compartmented information facilities and how such efforts might be accelerated and elevated in priority; “(2) target metrics for increased facility clearances in association with membership in the collaborative forum described in subsection (a) or to companies awarded contracts in accordance with Executive Order 12968; “(3) an identification of any additional funding or authorities required to support increased processing of facility clearances; and “(4) any other matters the Secretary of Defense considers relevant.”
+
+#### Establishment of Pilot Program for Access to Shared Classified Commercial Infrastructure
+Pub. L. 118–159, div. A, title VIII, § 874, Dec. 23, 2024, 138 Stat. 2012, provided that: “(a) Pilot Program Required.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall establish a pilot program on streamlining access for small business concerns and institutions of higher learning to shared classified commercial infrastructure—“(1) to expand access to secret or collateral accredited facilities and sensitive compartmented information facilities and special access program facilities to securely perform work under existing classified contracts; “(2) to reduce the cost and administrative requirements for a facility to receive and maintain accreditation and certification as an accredited facility; “(3) to increase opportunities for small business concerns and institutions of higher learning to have access to and compete for classified contracts; and “(4) to identify policy barriers that prevent components of the Department of Defense from more broadly using shared classified commercial infrastructure and prototyping proposed solutions. “(b) Designation of Principal Civilian Official.—“(1) In general.—The Secretary shall designate an existing civilian official of the Department of Defense who shall be responsible for the administration of the pilot program established under subsection (a). “(2) Responsibilities.—The responsibilities of the civilian official designated under paragraph (1) shall include the following:“(A) To seek to enter into a contact or other agreement with one or more private entities—“(i) for access for contractors and components of the Department of Defense to shared classified commercial infrastructure; and “(ii) to facilitate the use of such infrastructure by covered small business concerns and institutions of higher learning. “(B) In consultation with the Office of the Director of National Intelligence, to coordinate with the Director of the Defense Counterintelligence and Security Agency, the Director of the Defense Intelligence Agency, and the Director of the Defense Information Systems Agency to update or prescribe policies and regulations governing the process and timelines pertaining to how shared commercial classified infrastructure may obtain relevant facility authorizations and access to secure information technology networks from the Department of Defense. “(C) To make recommendations to the Secretary of Defense regarding the modernization, streamlining, and acceleration of the approval process of the Department of Defense for contacts, subcontracts, and co-use or joint use agreements for shared classified commercial infrastructure. “(D) The development and maintenance of metrics tracking the outcomes of each request made under the pilot program for the accreditation of shared commercial classified infrastructure as an accredited facility. “(c) Requirements.—“(1) Policies and regulations.—As part of the pilot program established under subsection (a), the Director of the Defense Counterintelligence and Security Agency, the Director of the Defense Intelligence Agency, and the Director of the Defense Information Systems Agency shall each update or prescribe policies and regulations governing the processes and timelines pertaining to how shared commercial classified infrastructure may obtain relevant facility sponsorship, associated authorizations and accreditation, and access to relevant secure information technology networks from the Department of Defense. “(2) Modernization, streamlining, and acceleration.—The Secretary of Defense shall ensure that the pilot program established under subsection (a) includes efforts to modernize, streamline, and accelerate the approval process of the Department of Defense for shared, co-use, and joint use agreements to facilitate the access of small business concerns and institutions of higher learning performing under contracts or other agreements with the Department to classified environments. “(d) Reports.—“(1) In general.—The Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, a report on the pilot program established under subsection (a)—“(A) after the establishment of such pilot program, but not later than two years after the establishment of such pilot program; and “(B) after the termination of such pilot program pursuant to subsection (e), but not later than 120 days after such termination. “(2) Contents.—Each report submitted pursuant to paragraph (1) shall include the following:“(A) A list of each request made under the pilot program for the accreditation of a facility as an accredited facility, including the date on which the request was made to the civilian official designated under subsection (b) and to the relevant facility accreditation agency. “(B) A list of the total number of personnel authorized to conduct inspections under the pilot program for the accreditation and certification of facilities as accredited facilities. “(C) Actions taken by the civilian official designated under subsection (b) to streamline the process of the Department of Defense for approval of co-use and joint use agreements to facilitate the access of small business concerns and institutions of higher learning performing under contracts or other agreements with the Department to classified environments, including any updated or new policies or guidance issued as a result of the pilot program. “(D) A list of all unutilized and currently accredited sensitive compartmented information facilities owned and operated by the Department of Defense that are located within 25 miles of a facility described in subsection (a)(1). “(E) A list of the metrics or other measures used by the Department of Defense to assess the benefits to the Department from the pilot program established under subsection (a), and any other metrics the Secretary of Defense deems appropriate. “(e) Termination.—The authority to carry out the pilot program required by subsection (a) and the requirements of this section shall terminate on September 30, 2030. “(f) Definitions.—In this section:“(1) The term ‘institution of higher learning’ has the meaning given such term in [section 3452(f) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3452/f&num=0&edition=prelim), United States Code. “(2) The term ‘shared commercial classified infrastructure’ means fully managed, shared, classified infrastructure (including physical facilities), and associated services that are operated by a private third-party for the benefit of appropriately cleared government and contractor personnel who have limited or constrained access to secret collateral and sensitive compartmented information facilities. “(3) The term ‘small business concern’ has the meaning given such term under section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)).”
+
 #### Pilot Program for Department of Defense Controlled Unclassified Information in the Hands of Industry
 Pub. L. 115–232, div. A, title X, § 1048, Aug. 13, 2018, 132 Stat. 1961, provided that: “(a) In General.—The Secretary of Defense—“(1) shall establish and implement a pilot program for oversight of designated Department of Defense controlled unclassified information in the hands of defense contractors with foreign ownership, control, or influence concerns; and “(2) may designate an entity within the Department to be responsible for the pilot program under paragraph (1). “(b) Program Requirements.—The pilot program under subsection (a) shall have the following elements:“(1) The use of a capability to rapidly identify companies subject to foreign ownership, control, or influence that are processing designated controlled unclassified information, including unclassified controlled technical information. “(2) The use, in consultation with the Chief of Information Officer of the Department, of a capability or means for assessing industry compliance with Department cybersecurity standards. “(3) A means of demonstrating whether and under what conditions the risk to national security posed by access to Department controlled unclassified information, including unclassified controlled technical information, by a company under foreign ownership, control, or influence company can be mitigated and how such mitigation could be enforced. “(c) Briefing Required.—By not later than 30 days after the completion of the pilot program under this section, but in no case later than December 1, 2019, the Secretary shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on the results of the pilot program and any decisions about whether to implement the pilot program on a Department-wide basis.”
 
@@ -373,6 +379,47 @@ Pub. L. 110–417, [div. A], title VIII, § 845(b), Oct. 14, 2008, 122 Stat. 454
 Subsec. (c). Pub. L. 113–291, § 1071(f)(6), substituted “law” for “act”.
 
 Subsec. (e). Pub. L. 113–291, § 1071(c)(5)(B), substituted “([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim))” for “([50 U.S.C. 401a(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401a/4&num=0&edition=prelim))”.
+
+
+<a id="section-429a"></a>
+## § 429a. Expenditure of funds for Department of Defense intelligence and counterintelligence activities
+**(a) In General.—** Subject to subsections (b) and (c), the Secretary of Defense may expend amounts made available for the Military Intelligence Program for intelligence and counterintelligence activities for any purpose the Secretary determines to be proper with regard to intelligence and counterintelligence objects of a confidential, extraordinary, or emergency nature. Such a determination is final and conclusive upon the accounting officers of the United States.
+
+**(b) Limitation on Amount.—** The Secretary of Defense may not expend more than five percent of the amounts described in subsection (a) for any fiscal year for objects described in that subsection unless—
+
+(1) the Secretary notifies the congressional defense committees and the congressional intelligence committees of the intent to expend the amounts and purpose of the expenditure; and
+
+(2) 30 days have elapsed from the date on which the Secretary provides the notice described in paragraph (1).
+
+**(c) Certification.—** For each expenditure of funds under this section, the Secretary shall certify that such expenditure was made for an object of a confidential, extraordinary, or emergency nature.
+
+**(d) Report.—** Not later than December 31 of each year, the Secretary of Defense shall submit to the congressional defense committees and the congressional intelligence committees a report on expenditures made under this section during the fiscal year preceding the year in which the report is submitted. Each such report shall include, for each expenditure under this section during the fiscal year covered by the report, a description, the purpose, the program element, and the certification required under section (c).
+
+**(e) Limitation on Delegations.—** The Secretary of Defense may not delegate the authority under this section with respect to any expenditure in excess of $200,000.
+
+**(f) Nonapplication of Section 127.—** The authority provided by subsection (a) shall be the exclusive authority available to the Secretary of Defense to expend amounts made available for the Military Intelligence Program for intelligence and counterintelligence objects of a confidential, extraordinary, or emergency nature.
+
+**(g) Congressional Intelligence Committees Defined.—** In this section, the term “congressional intelligence committees” means—
+
+(1) the Select Committee on Intelligence of the Senate; and
+
+(2) the Permanent Select Committee on Intelligence of the House of Representatives.
+
+### Statutory Notes
+
+#### Codification
+The text of section 1057 of Pub. L. 116–92, which was transferred to this subchapter, inserted after [section 429 of this title](./chapter-021-department-of-defense-intelligence-matters.md#section-429), redesignated as this section, and amended by Pub. L. 118–159, div. A, title XVI, § 1614(a)–(e)(1), Dec. 23, 2024, 138 Stat. 2168, 2169, was based on Pub. L. 116–92, div. A, title X, § 1057, Dec. 20, 2019, 133 Stat. 1593.
+
+#### Amendments
+2024—Pub. L. 118–159, § 1614(a), transferred section 1057 of Pub. L. 116–92 to this subchapter, inserted it after [section 429 of this title](./chapter-021-department-of-defense-intelligence-matters.md#section-429), redesignated it as this section, and conformed “SEC.” preceding section designation and catchline text to the style used in this title. See Codification note above.
+
+Subsec. (a). Pub. L. 118–159, § 1614(b), struck out “for any of fiscal years 2020 through 2025” after “Military Intelligence Program”.
+
+Subsec. (d). Pub. L. 118–159, § 1614(c), substituted “Not later than December 31 of each year” for “Not later than December 31 of each of 2020 through 2025”.
+
+Subsec. (e). Pub. L. 118–159, § 1614(d), substituted “$200,000” for “$100,000”.
+
+Subsecs. (f), (g). Pub. L. 118–159, § 1614(e)(1), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 
 <a id="section-430"></a>
@@ -435,13 +482,95 @@ Subsec. (e). Pub. L. 113–291, § 1071(c)(5)(B), substituted “([50 U.S.C. 300
 (3) The term “open-source intelligence tools” means tools for the systematic collection, processing, and analysis of publicly available information for known or anticipated intelligence requirements.
 
 
+<a id="section-430c"></a>
+## § 430c. Senior Intelligence Oversight Official
+**(a) Establishment.—** The Secretary of Defense, or a designee of the Secretary determined by regulations prescribed by the Secretary, shall designate a civilian employee of the Department of Defense in the Senior Executive Service to serve as the Senior Intelligence Oversight Official.
+
+**(b) Responsibilities.—** The Senior Intelligence Oversight Official shall conduct independent oversight of all intelligence, counterintelligence, and intelligence-related activities of the Department of Defense and shall have such other related responsibilities as may be determined by the Secretary.
+
+**(c) Access.—** The Senior Intelligence Oversight Official shall have—
+
+(1) access to all information necessary to carry out the responsibilities and functions of the Senior Intelligence Oversight Official, as determined by the Secretary; and
+
+(2) direct access to the Secretary of Defense and the Deputy Secretary of Defense, as circumstances require in the determination of the Senior Intelligence Oversight Official.
+
+### Statutory Notes
+
+#### Amendments
+2025—Pub. L. 119–60 substituted “Intelligence Oversight Official” for “intelligence oversight official” in section catchline.
+
+#### Review of Regulations
+Pub. L. 118–159, div. A, title IX, § 921(b), Dec. 23, 2024, 138 Stat. 2036, provided that: “The Secretary of Defense shall review and update, as appropriate, Department of Defense Directive 5148.13, and any associated or successor regulation or directive, to conform to [section 430c of title 10](./chapter-021-department-of-defense-intelligence-matters.md#section-430c), United States Code, as added by subsection (a).”
+
+
+<a id="section-430d"></a>
+## § 430d. Cyber intelligence capability
+**(a) Requirement.—** Not later than October 1, 2026, the Secretary of Defense, in consultation with the Director of National Intelligence, shall ensure that the Department of Defense has a dedicated cyber intelligence capability in support of the military cyber operations requirements for the warfighting missions of the United States Cyber Command, the other combatant commands, the military departments, the Defense Agencies, the Joint Staff, and the Office of the Secretary of Defense with respect to foundational, scientific and technical, and all-source intelligence on cyber technology development, capabilities, concepts of operation, operations, and plans and intentions of cyber threat actors.
+
+**(b) Nonduplication.—** In carrying out subsection (a), the Secretary may not unnecessarily duplicate intelligence activities of the Department of Defense.
+
+**(c) Resources.—**
+
+(1) The Secretary shall ensure the defense budget materials submitted for each fiscal year beginning with fiscal year 2027 include a request for funds necessary to carry out subsection (a).
+
+(2) The Secretary shall carry out subsection (a) using funds made available for the United States Cyber Command under the Military Intelligence Program.
+
+(3) The National Security Agency may not provide information technology services for the dedicated cyber intelligence capability under subsection (a) unless such services are provided under the Military Intelligence Program or the Information Systems Security Program.
+
+**(d) Defense Budget Materials Defined.—** In this section, the term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
+
+
+<a id="section-430e"></a>
+## § 430e. Vendor support to clandestine activities
+**(a) Oversight, Deconfliction, and Risk Assessment Capability.—** The Secretary of Defense shall establish, maintain, continuously update, and use a secure, centralized technical capability to facilitate oversight, deconfliction, and risk assessments of all commercial vendor support to the Department of Defense for clandestine activities. Such capability shall—
+
+(1) enable the Department of Defense to perform oversight, deconfliction, and risk assessments of past, ongoing, or planned clandestine activity involving support from commercial vendors, including all subcontractors; and
+
+(2) include use of the minimum information required to—
+
+  (A) identify potential conflicts between clandestine activities;
+
+  (B) identify the need for additional coordination with respect to clandestine activities; and
+
+  (C) conduct aggregate risk assessments of clandestine activities involving support from commercial vendors; and 11 So in original.
+
+**(b) Exclusions.—**
+
+(1) Notwithstanding subsection (a), if the Secretary of Defense determines that information concerning a commercial vendor should not be used by the centralized technical capability required by subsection (a) due to operational, counterintelligence, or other national security concerns, the Secretary may exclude such information from use by such centralized technical capability.
+
+(2) Not later than 7 days after making a determination under paragraph (1), the Secretary shall submit to the congressional defense committees, the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives notice of the determination that includes the following information disaggregated by the element of the Department of Defense with respect to which such commercial vendor provides support:
+
+  (A) The number of commercial vendors with respect to which the Secretary made the determination under paragraph (1).
+
+  (B) A description of the types of activities supported by such commercial vendors.
+
+  (C) The rationale for excluding the information concerning such commercial vendors from such capability.
+
+**(c) Deconfliction.—** The Secretary of Defense shall ensure the centralized technical capability required by subsection (a) is used in each case where a commercial vendor is expected to provide support to a clandestine activity to—
+
+(1) deconflict the use of commercial vendors in support of clandestine activities of the Department of Defense; and
+
+(2) assess operational risk and counterintelligence exposure attributable to the use of commercial vendors in support of clandestine activities of the Department of Defense.
+
+**(d) Clandestine Activity Defined.—** In this section, the term “clandestine activity” means any activity where it is intended that the role of the United States Government will not be apparent or acknowledged publicly.
+
+### Statutory Notes
+
+#### Implementation Deadline and Reports
+Pub. L. 119–60, div. A, title XVI, § 1621(b), Dec. 18, 2025, 139 Stat. 1181, provided that: “(1) Implementation deadline and certification.—Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall—“(A) implement the requirements of [section 430e of title 10](./chapter-021-department-of-defense-intelligence-matters.md#section-430e), United States Code, as added by subsection (a) of this section; and “(B) submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives a certification that such requirements have been implemented. “(2) Submission of plan.—Not later than 120 days after the date of the enactment of this Act, the Secretary of Defense shall—“(A) submit to the committees described in paragraph (1)(B) a report containing the plan to implement the requirements of such section 430e; and “(B) provide to such committees a briefing with respect to such plan. “(3) Progress report.—Not later than 270 days after the date of the enactment of this Act, the Secretary of Defense shall provide to the committees described in paragraph (1)(B) a briefing describing the progress of the Secretary towards implementing the requirements of such section 430e.”
+
+
 <a id="section-431"></a>
 ## § 431. Authority to engage in commercial activities as security for intelligence collection activities
-**(a) Authority.—** The Secretary of Defense, subject to the provisions of this subchapter, may authorize the conduct of those commercial activities necessary to provide security for authorized intelligence collection activities abroad undertaken by the Department of Defense. No commercial activity may be initiated pursuant to this subchapter after December 31, 2024.
+**(a) Authority.—** The Secretary of Defense, subject to the provisions of this subchapter, may authorize the conduct of those commercial activities necessary to provide security for authorized intelligence collection activities abroad undertaken by the Department of Defense. No commercial activity may be initiated pursuant to this subchapter after December 31, 2028.
 
 **(b) Interagency Coordination and Support.—** Any such activity shall—
 
-(1) be coordinated with, and (where appropriate) be supported by, the Director of the Central Intelligence Agency; and
+(1)
+
+  (A) be pre-coordinated with the Director of the Central Intelligence Agency using procedures mutually agreed upon by the Secretary of Defense and the Director; and
+
+  (B) where appropriate, be supported by the Director; and
 
 (2) to the extent the activity takes place within the United States, be coordinated with, and (where appropriate) be supported by, the Director of the Federal Bureau of Investigation.
 
@@ -464,6 +593,10 @@ Subsec. (e). Pub. L. 113–291, § 1071(c)(5)(B), substituted “([50 U.S.C. 300
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159, § 1611(1), substituted “December 31, 2028” for “December 31, 2024”.
+
+Subsec. (b)(1). Pub. L. 118–159, § 1611(2), added par. (1) and struck out former par. (1) which read as follows: “be coordinated with, and (where appropriate) be supported by, the Director of the Central Intelligence Agency; and”.
+
 2023—Subsec. (a). Pub. L. 118–31 substituted “December 31, 2024” for “December 31, 2023”.
 
 2017—Subsec. (a). Pub. L. 115–91 substituted “December 31, 2023” for “December 31, 2017”.

@@ -154,11 +154,19 @@ the personal holding company tax for such year may be assessed, or a proceeding 
 
 **(m) Deficiencies attributable to election of certain credits** The period for assessing a deficiency attributable to any election under section 30B(h)(9), 30C(e)(4), 30D(f)(6), 35(g)(11), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j) (or any revocation thereof) shall not expire before the date 1 year after the date on which the Secretary is notified of such election (or revocation).
 
-**(n) Cross reference** For period of limitations for assessment and collection in the case of a joint income return filed after separate returns have been filed, see section 6013(b)(3) and (4).
+**(n) Assessable payment of employer shared responsibility** In the case of any assessable payment under section 4980H, the period for assessment shall expire at the end of the 6-year period beginning on the due date for filing the return under section 6056 (or, if later, the date such return was filed) for the calendar year with respect to which such payment is determined.
+
+**(o) Material assistance from a prohibited foreign entity** In the case of a deficiency attributable to an error with respect to the determination under section 7701(a)(52) for any taxable year, such deficiency may be assessed at any time within 6 years after the return for such year was filed.
+
+**(p) Cross reference** For period of limitations for assessment and collection in the case of a joint income return filed after separate returns have been filed, see section 6013(b)(3) and (4).
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsecs. (o), (p). Pub. L. 119–21 added subsec. (o) and redesignated former subsec. (o) as (p).
+
+2024—Subsecs. (n), (o). Pub. L. 118–168 added subsec. (n) and redesignated former subsec. (n) as (o).
+
 2022—Subsec. (l)(4). Pub. L. 117–328 added par. (4).
 
 Subsec. (m). Pub. L. 117–169 substituted “30D(f)(6)” for “30D(e)(4)”.
@@ -412,6 +420,12 @@ Subsec. (d). Pub. L. 85–866, § 80(a), (b), substituted in first sentence “s
 Subsec. (g)(2). Pub. L. 85–866, § 81(a), substituted “organization” for “corporation” wherever appearing.
 
 Subsecs. (h), (i). Pub. L. 85–866, § 81(b), added subsec. (h) and redesignated former subsec. (h) as (i).
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21 applicable to taxable years beginning after July 4, 2025, see section 70512(l)(1) of Pub. L. 119–21, set out in a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–168, § 5(b), Dec. 23, 2024, 138 Stat. 2587, provided that: “The amendment made by this section [amending this section] shall apply with respect to returns which are due after December 31, 2024.”
 
 #### Effective Date of 2022 Amendment
 Pub. L. 117–328, div. T, title III, § 313(b), Dec. 29, 2022, 136 Stat. 5349, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 29, 2022].”

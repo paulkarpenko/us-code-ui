@@ -189,7 +189,7 @@ This chapter, referred to in subsec. (f), was in the original “this division�
 
 (4) substantial performance by any person of any right or obligation relating to or based on LIBOR; and
 
-(5) a replacement that has historical fluctuations that are substantially similar to those of LIBOR for purposes of the Truth in Lending Act ([15 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) note) 11 So in original. Probably should be “([15 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) et seq.)” and regulations promulgated under that division.22 So in original. Probably should be “that Act.”
+(5) a replacement that has historical fluctuations that are substantially similar to those of LIBOR for purposes of the Truth in Lending Act ([15 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) note) 11 So in original. Probably should be “([15 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) et seq.)”. and regulations promulgated under that division.22 So in original. Probably should be “that Act.”
 
 **(b) No impairment** Neither the selection or use of a Board-selected benchmark replacement as a benchmark replacement nor the determination, implementation, or performance of benchmark replacement conforming changes under [section 5803 of this title](./chapter-055-adjustable-interest-rate-libor.md#section-5803) may—
 
@@ -212,7 +212,7 @@ This chapter, referred to in subsec. (f), was in the original “this division�
 (2) the implementation of benchmark replacement conforming changes; or
 
 (3) with respect to a LIBOR contract that is not a consumer loan, the determination of benchmark replacement conforming changes,
-in each case after giving effect to the provisions of [section 5803 of this title](./chapter-055-adjustable-interest-rate-libor.md#section-5803); provided, however, that in each case any person (including a calculating person) shall remain subject to the terms of a LIBOR contract that are not affected by this division and any existing legal, regulatory, or contractual obligations to correct servicing or other ministerial errors under or with respect to a LIBOR contract.
+in each case after giving effect to the provisions of [section 5803 of this title](./chapter-055-adjustable-interest-rate-libor.md#section-5803); provided, however, that in each case any person (including a calculating person) shall remain subject to the terms of a LIBOR contract that are not affected by this chapter and any existing legal, regulatory, or contractual obligations to correct servicing or other ministerial errors under or with respect to a LIBOR contract.
 
 **(d) Selection** The selection or use of a Board-selected benchmark replacement or the determination, implementation, or performance of benchmark replacement conforming changes under [section 5803 of this title](./chapter-055-adjustable-interest-rate-libor.md#section-5803) shall not be deemed to—
 
@@ -231,7 +231,7 @@ in each case after giving effect to the provisions of [section 5803 of this titl
 #### References in Text
 The Truth in Lending Act, referred to in subsec. (a)(5), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 101 of Pub. L. 90–321, set out as a Short Title note under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
-This chapter, referred to in subsec. (e), was in the original “this division”, meaning div. U of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 825, known as the Adjustable Interest Rate (LIBOR) Act, which is classified principally to this chapter. For complete classification of div. U to the Code, see Short Title note set out under [section 5801 of this title](./chapter-055-adjustable-interest-rate-libor.md#section-5801) and Tables.
+This chapter, referred to in subsecs. (c) and (e), was in the original “this division”, meaning div. U of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 825, known as the Adjustable Interest Rate (LIBOR) Act, which is classified principally to this chapter. For complete classification of div. U to the Code, see Short Title note set out under [section 5801 of this title](./chapter-055-adjustable-interest-rate-libor.md#section-5801) and Tables.
 
 
 <a id="section-5805"></a>

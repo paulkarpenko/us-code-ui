@@ -985,7 +985,7 @@ Pub. L. 95–397, title II, § 208, Sept. 30, 1978, 92 Stat. 848, as amended by 
 
 **(d) Coverage for Survivors of Members Who Die on Active Duty.—**
 
-(1) **Surviving spouse annuity.—** — Except as provided in paragraph (2)(B),11 See References in Text note below. the Secretary concerned shall pay an annuity under this subchapter to the surviving spouse of—
+(1) **Surviving spouse annuity.—** — Except as provided in paragraph (2), the Secretary concerned shall pay an annuity under this subchapter to the surviving spouse of—
 
   (A) a member who dies while on active duty after—
 
@@ -1072,10 +1072,9 @@ Pub. L. 95–397, title II, § 208, Sept. 30, 1978, 92 Stat. 848, as amended by 
 
 ### Statutory Notes
 
-#### References in Text
-Paragraph (2)(B), referred to in subsec. (d)(1), was repealed by Pub. L. 116–92, div. A, title VI, § 622(d)(2), Dec. 20, 2019, 133 Stat. 1427.
-
 #### Amendments
+2024—Subsec. (d)(1). Pub. L. 118–159 substituted “paragraph (2)” for “paragraph (2)(B)” in introductory provisions.
+
 2019—Subsec. (d)(2). Pub. L. 116–92 struck out subpar. (A) designation and heading before “In the case of a member described in paragraph (1)” and struck out subpar. (B) which read as follows: “Optional annuity when there is an eligible surviving spouse.—In the case of a member described in paragraph (1) who dies after October 7, 2001, and for whom there is a surviving spouse eligible for an annuity under paragraph (1), the Secretary may pay an annuity under this subchapter to the member’s dependent children under subsection (a)(3) or (a)(4) of [section 1450 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1450), if applicable, instead of paying an annuity to the surviving spouse under paragraph (1), if the Secretary concerned, in consultation with the surviving spouse, determines it appropriate to provide an annuity for the dependent children under this paragraph instead of an annuity for the surviving spouse under paragraph (1).”
 
 2016—Subsec. (f)(2). Pub. L. 114–328, § 642(b), amended par. (2) generally. Prior to amendment, text read as follows: “The Secretary concerned shall pay an annuity under this subchapter to the dependent child, or to a special needs trust pursuant to [section 1450(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a/4&num=0&edition=prelim), of a person described in paragraph (1) if there is no surviving spouse or if the person’s surviving spouse subsequently dies.”

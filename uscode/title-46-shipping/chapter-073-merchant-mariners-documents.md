@@ -99,7 +99,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 #### Military to Mariner
 Pub. L. 117–263, div. K, title CXV, § 11514, Dec. 23, 2022, 136 Stat. 4139, provided that: “(a) Short Title.—This section may be cited as the ‘Military to Mariners Act of 2022’. “(b) Modification of Sea Service Requirements for Merchant Mariner Credentials for Veterans and Members of the Uniformed Services.—“(1) Review and regulations.—Notwithstanding any other provision of law, not later than 2 years after the date of enactment of this Act [Dec. 23, 2022], the Secretary shall—“(A) review and examine—“(i) the timeframes and impediments for veterans and members of the uniformed services to receive a merchant mariner credential; “(ii) the classifications of sea service acquired through training and service as a member of the Uniformed Services and level of equivalence such service has with respect to sea service on merchant vessels; and “(iii) the amount of sea service, including percent of the total time onboard for purposes of equivalent underway service, that will be accepted as required experience for all endorsements for applicants for a merchant mariner credential who are veterans or members of the Uniformed Services; and “(B) issue new regulations to—“(i) streamline, ensure the accuracy of, and expedite the transfer, review and acceptance of information pertaining to training and sea time for applicants for a merchant mariner credential who are veterans or members of the Uniformed Services; “(ii) increase the acceptable percentages of time equivalent to sea service for such applicants pursuant to findings of the review and examination conducted under subparagraph (A); and “(iii) reduce burdens and create a means of alternative compliance to demonstrate instructor competency for Standards of Training, Certification and Watchkeeping for Seafarers courses. “(2) Consultation.—In carrying out paragraph (2) [probably should be “paragraph (1)”], the Secretary shall consult with the National Merchant Marine Personnel Advisory Committee and shall take into account the present and future needs of the United States Merchant Marine labor workforce. “(3) Report.—Not later than 180 days after the date of enactment of this Act [Dec. 23, 2022], the United States Committee on the Marine Transportation System shall submit to the Committees on Commerce, Science, and Transportation and Armed Services of the Senate and the Committees on Transportation and Infrastructure and Armed Services of the House of Representatives, a report that contains an update on the activities carried out to implement—“(A) the July 2020 report by the Committee on the Marine Transportation System to the White House Office of Trade and Manufacturing Policy on the implementation of Executive Order 13860 (84 Fed. Reg. 8407; relating to supporting the transition of active duty servicemembers and military veterans into the Merchant Marine); and “(B) section 3511 of the National Defense Authorization Act for Fiscal Year 2020 ([46 U.S.C. 3702](./chapter-037-carriage-of-liquid-bulk-dangerous-cargoes.md#section-3702) [7302] note). “(c) Assessment of Skillbridge for Employment as a Merchant Mariner.—The Secretary, in collaboration with the Secretary of Defense, shall assess the use of the SkillBridge program of the Department of Defense as a means for transitioning active duty sea service personnel to employment as merchant mariners.”
 
-[For definitions of terms used in section 11316 of Pub. L. 117–263, set out above, see section 11002 of Pub. L. 117–263, set out as a note under [section 106 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section106&num=0&edition=prelim), Coast Guard, and section 11515 of Pub. L. 117–263, set out below.]
+[For definitions of terms used in section 11514 of Pub. L. 117–263, set out above, see section 11515 of Pub. L. 117–263, set out below.]
 
 Pub. L. 116–92, div. C, title XXXV, § 3511, Dec. 20, 2019, 133 Stat. 1978, provided that: “(a) Credentialing Support.—Not later than one year after the date of enactment of this title [Dec. 20, 2019], the Secretary of Defense, the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Department of the Navy, the Secretary of Commerce, and the Secretary of Health and Human Services, with respect to the applicable services in their respective departments, and in coordination with one another and with the United States Committee on the Marine Transportation System, and in consultation with the Merchant Marine Personnel Advisory Committee, shall, consistent with applicable law, identify all training and experience within the applicable service that may qualify for merchant mariner credentialing and submit a list of all identified training and experience to the United States Coast Guard National Maritime Center for a determination of whether such training and experience counts for credentialing purposes. “(b) Review of Applicable Service.—The United States Coast Guard Commandant shall make a determination of whether training and experience counts for credentialing purposes, as described in subsection (a), not later than 6 months after the date on which the United States Coast Guard National Maritime Center receives a submission under subsection (a) identifying a training or experience and requesting such a determination. “(c) Fees and Services.—The Secretary of Defense, the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Department of the Navy, and the Secretary of Commerce, with respect to the applicable services in their respective departments, shall—“(1) take all necessary and appropriate actions to provide for the waiver of fees through the National Maritime Center license evaluation, issuance, and examination for members of the uniformed services on active duty, if a waiver is authorized and appropriate, and, if a waiver is not granted, take all necessary and appropriate actions to provide for the payment of fees for members of the uniformed services on active duty by the applicable service to the fullest extent permitted by law; “(2) direct the applicable services to take all necessary and appropriate actions to provide for Transportation Worker Identification Credential cards for members of the uniformed services on active duty pursuing or possessing a mariner credential, such as implementation of an equal exchange process for members of the uniformed services on active duty at no or minimal cost; “(3) ensure that members of the applicable services who are to be discharged or released from active duty and who request certification or verification of sea service be provided such certification or verification no later than one month after discharge or release; “(4) ensure the applicable services have developed, or continue to operate, as appropriate, the online resource known as Credentialing Opportunities On-Line to support separating members of the uniformed services who are seeking information and assistance on merchant mariner credentialing; and “(5) not later than 1 year after the date of enactment of this section [Dec. 20, 2019], take all necessary and appropriate actions to review and implement service-related medical certifications to merchant mariner credential requirements. “(d) Advancing Military to Mariner Within the Employer Agencies.—“(1) In general.—The Secretary of Defense, the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Department of the Navy, and the Secretary of Commerce shall have direct hiring authority to employ separated members of the uniformed services with valid merchant mariner licenses or sea service experience in support of United States national maritime needs, including the Army Corps of Engineers, U.S. Customs and Border Protection, and the National Oceanic and Atmospheric Administration. “(2) Appointments of retired members of the armed forces.—Except in the case of positions in the Senior Executive Service, the requirements of [section 3326(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3326/b&num=0&edition=prelim), United States Code, shall not apply with respect to the hiring of a separated member of the uniformed services under paragraph (1). “(e) Separated Member of the Uniformed Services.—In this section, the term ‘separated member of the uniformed services’ means an individual who—“(1) is retiring or is retired as a member of the uniformed services; “(2) is voluntarily separating or voluntarily separated from the uniformed services at the end of enlistment or service obligation; or “(3) is administratively separating or has administratively separated from the uniformed services with an honorable or general discharge characterization.”
 
@@ -143,9 +143,9 @@ Section 7303 requires seamen to retain their merchant mariner’s documents. It 
 
 
 <a id="section-7304"></a>
-## § 7304. Citizenship notation on merchant mariners’ documents
+## § 7304. Citizenship or noncitizen nationality notation on merchant mariners’ documents
 
-An individual applying for a merchant mariner’s document shall provide satisfactory proof that the individual is a citizen of the United States before that notation is made on the document.
+An individual applying for a merchant mariner’s document shall provide satisfactory proof that the individual is a citizen or noncitizen national (as such term is described in section 308 of the Immigration and Nationality Act ([8 U.S.C. 1408](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1408&num=0&edition=prelim))) of the United States before that notation is made on the document.
 
 ### Statutory Notes
 
@@ -155,6 +155,9 @@ An individual applying for a merchant mariner’s document shall provide satisfa
 | 7304 | 46:643(b) |
 
 Section 7304 specifies, that before a merchant mariner’s document is noted to specify that the individual is a U.S. citizen, the individual must provide satisfactory proof that he is a citizen. This does not impose a requirement of United States citizenship as a condition for issuance of a document.
+
+#### Amendments
+2025—Pub. L. 119–60 inserted “or noncitizen nationality” after “Citizenship” in section catchline and “or noncitizen national (as such term is described in section 308 of the Immigration and Nationality Act ([8 U.S.C. 1408](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1408&num=0&edition=prelim)))” after “citizen” in text.
 
 
 <a id="section-7305"></a>
@@ -173,30 +176,42 @@ The requirement for an oath, drawn from a clause which had appeared in [46 U.S.C
 
 
 <a id="section-7306"></a>
-## § 7306. General requirements and classifications for able seamen
-**(a)** To qualify for an endorsement as able seaman authorized by this section, an applicant must provide satisfactory proof that the applicant—
+## § 7306. General requirements and classifications for members of deck departments
+**(a) In General.—** The Secretary may issue a merchant mariner credential, to members of the deck department in the following classes:
+
+(1) Able Seaman-Unlimited.
+
+(2) Able Seaman-Limited.
+
+(3) Able Seaman-Special.
+
+(4) Able Seaman-Offshore Supply Vessels.
+
+(5) Able Seaman-Sail.
+
+(6) Able Seaman-Fishing Industry.
+
+(7) Ordinary Seaman.
+
+**(b) Classification of Credentials.—** The Secretary may classify the merchant mariner credential issued under subsection (a) based on—
+
+(1) the tonnage and means of propulsion of vessels;
+
+(2) the waters on which vessels are to be operated; or
+
+(3) other appropriate standards.
+
+**(c) Qualifications.—** To qualify for a credential under this section, an applicant shall provide satisfactory proof that the applicant—
 
 (1) is at least 18 years of age;
 
 (2) has the service required by the applicable section of this part;
 
-(3) is qualified professionally as demonstrated by an applicable examination or educational requirements; and
+(3) is qualified professionally as demonstrated by an applicable examination or educational requirements;
 
-(4) is qualified as to sight, hearing, and physical condition to perform the seaman’s duties.
+(4) is qualified as to sight, hearing, and physical condition to perform the seafarer’s duties; and
 
-**(b)** The classifications authorized for endorsement as able seaman are the following:
-
-(1) able seaman—unlimited.
-
-(2) able seaman—limited.
-
-(3) able seaman—special.
-
-(4) able seaman—offshore supply vessels.
-
-(5) able seaman—sail.
-
-(6) able seaman—fishing industry.
+(5) has satisfied any additional requirements established by the Secretary, including career patterns and service appropriate to the particular service, industry, or job functions the individual is engaged.
 
 ### Statutory Notes
 
@@ -210,10 +225,15 @@ Section 7306(a) establishes the minimum requirements an individual must meet bef
 Subsection (b) establishes the classifications of able seamen—unlimited, able seamen—limited, able seamen—special, able seamen—offshore supply vessels, and able seamen—sail.
 
 #### Amendments
+2025—Pub. L. 119–60 amended section generally. Prior to amendment, section related to general requirements and classifications for able seamen.
+
 1984—Subsec. (b)(6). Pub. L. 98–364 added par. (6).
 
 #### Effective Date
 Provisions of this section (related to able seaman—sail) effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under [section 3101 of this title](./chapter-031-general.md#section-3101).
+
+#### Implementation of 2025 Amendment
+Pub. L. 119–60, div. G, title LXXIII, § 7301(e)(1), Dec. 18, 2025, 139 Stat. 1755, provided that: “The Secretary of the department in which the Coast Guard is operating shall implement the requirements under subsection (c) of [section 7306 of title 46](./chapter-073-merchant-mariners-documents.md#section-7306), United States Code (as amended by this section), without regard to chapters 5 and 6 of title 5, United States Code, and Executive Orders 12866 and 13563 ([5 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) note).”
 
 #### Acceptance of Certain Services Toward Endorsement as Able Seaman
 Pub. L. 101–595, title VI, § 602(e)(3), Nov. 16, 1990, 104 Stat. 2992, provided that: “For the purposes of chapter 73 of title 46, United States Code, the Secretary of Transportation shall accept the service used by an individual to qualify for an endorsement as able seaman—fishing industry as qualifying service toward an endorsement as an able seaman— “(A) under sections 7307 and 7309 of that title; or “(B) if the service is on board a vessel of at least 100 gross tons, under section 7308 of that title.”
@@ -222,7 +242,7 @@ Pub. L. 101–595, title VI, § 602(e)(3), Nov. 16, 1990, 104 Stat. 2992, provid
 <a id="section-7307"></a>
 ## § 7307. Able seamen—unlimited
 
-The required service for the endorsement of able seaman—unlimited, qualified for unlimited service on a vessel on any waters, is at least 3 years’ 11 See Temporary Reduction of Lengths of Certain Periods of Service note below. service on deck on board vessels operating at sea or on the Great Lakes.
+The required service for the endorsement of able seaman—unlimited, qualified for unlimited service on a vessel on any waters, is at least 18 months 11 So in original. Probably should be “18 months’ ”. service on deck on board vessels operating at sea or on the Great Lakes.
 
 ### Statutory Notes
 
@@ -232,6 +252,9 @@ The required service for the endorsement of able seaman—unlimited, qualified f
 | 7307 | 46:672(b)(1) |
 
 Section 7307 requires individuals to have at least 3 years service on deck on vessels operating at sea or on the Great Lakes before their merchant mariner’s documents can be endorsed as able seamen—unlimited.
+
+#### Amendments
+2025—Pub. L. 119–60, which directed amendment of this section by substituting “18 months” for “3 years”, was executed by making the substitution for “3 years’ ” to reflect the probable intent of Congress.
 
 #### Temporary Reduction of Lengths of Certain Periods of Service
 Pub. L. 118–31, div. C, title XXXV, § 3534(j), Dec. 22, 2023, 137 Stat. 833, provided that: “For the 3-year period beginning on the date of enactment of this Act [Dec. 22, 2023]— “(1) [section 7307 of title 46](./chapter-073-merchant-mariners-documents.md#section-7307), United States Code, shall be applied by substituting ‘18 months’ for ‘3 years’; “(2) section 7308 of such title shall be applied by substituting ‘12 months’ for ‘18 months’; and “(3) section 7309 of such title shall be applied by substituting ‘6 months’ for ‘12 months’.”
@@ -243,7 +266,7 @@ Service used to qualify for endorsement as able seaman—fishing industry to be 
 <a id="section-7308"></a>
 ## § 7308. Able seamen—limited
 
-The required service for the endorsement of able seaman—limited, qualified for limited service on a vessel on any waters, is at least 18 months’ 11 See Temporary Reduction of Lengths of Certain Periods of Service note below. service on deck on board vessels of at least 100 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104) operating on the oceans or navigable waters of the United States (including the Great Lakes).
+The required service for the endorsement of able seaman—limited, qualified for limited service on a vessel on any waters, is at least 12 months 11 So in original. Probably should be “12 months’ ”. service on deck on board vessels of at least 100 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104) operating on the oceans or navigable waters of the United States (including the Great Lakes).
 
 ### Statutory Notes
 
@@ -255,6 +278,8 @@ The required service for the endorsement of able seaman—limited, qualified for
 Section 7308 establishes the minimum service requirements for an individual to qualify for an endorsement as able seamen—limited.
 
 #### Amendments
+2025—Pub. L. 119–60, which directed amendment of this section by substituting “12 months” for “18 months”, was executed by making the amendment for “18 months’ ” to reflect the probable intent of Congress.
+
 1996—Pub. L. 104–324 inserted “as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104)” after “100 gross tons”.
 
 #### Temporary Reduction of Lengths of Certain Periods of Service
@@ -267,7 +292,7 @@ Service used to qualify for endorsement as able seaman—fishing industry to be 
 <a id="section-7309"></a>
 ## § 7309. Able seamen—special
 
-The required service for the endorsement of able seaman—special, qualified for special service on a vessel on any waters, is at least 12 months’ 11 See Temporary Reduction of Lengths of Certain Periods of Service note below. service on deck on board vessels operating on the oceans or the navigable waters of the United States (including the Great Lakes).
+The required service for the endorsement of able seaman—special, qualified for special service on a vessel on any waters, is at least 6 months 11 So in original. Probably should be “6 months’ ”. service on deck on board vessels operating on the oceans or the navigable waters of the United States (including the Great Lakes).
 
 ### Statutory Notes
 
@@ -277,6 +302,9 @@ The required service for the endorsement of able seaman—special, qualified for
 | 7309 | 46:672(b)(3) |
 
 Section 7309 establishes the minimum service requirements for an individual to qualify as able seamen—special.
+
+#### Amendments
+2025—Pub. L. 119–60, which directed amendment of this section by substituting “6 months” for “12 months”, was executed by making the substitution for “12 months’ ” to reflect the probable intent of Congress.
 
 #### Temporary Reduction of Lengths of Certain Periods of Service
 Section to be applied by substituting “6 months” for “12 months” for the 3-year period beginning on Dec. 22, 2023, see section 3534(j) of Pub. L. 118–31, set out as a note under [section 7307 of this title](./chapter-073-merchant-mariners-documents.md#section-7307).
@@ -388,15 +416,25 @@ Subsec. (f)(2). Pub. L. 104–324, § 723(5), inserted “as measured under [sec
 ## § 7313. General requirements for members of engine departments
 **(a)** Classes of endorsement as qualified members of the engine department on vessels of at least 100 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104) (except vessels operating on rivers or lakes (except the Great Lakes)) may be prescribed by regulation.
 
-**(b)** The ratings of wiper and coal passer are entry ratings and are not ratings as qualified members of the engine department.
+**(b)** The ratings of wiper are entry ratings and are not ratings as qualified members of the engine department.11 So in original.
 
-**(c)** An applicant for an endorsement as qualified member of the engine department must provide satisfactory proof that the applicant—
+**(c) Classification of Credentials.—** The Secretary may classify the merchant mariner credential issued under subsection (a) based on—
 
-(1) has the service required by [section 7314 of this title](./chapter-073-merchant-mariners-documents.md#section-7314);
+(1) the tonnage and means of propulsion of vessels;
 
-(2) is qualified professionally as demonstrated by an applicable examination; and
+(2) the waters on which vessels are to be operated; or
 
-(3) is qualified as to sight, hearing, and physical condition to perform the member’s duties.
+(3) other appropriate standards.
+
+**(d) Qualifications.—** To qualify for a credential under this section, an applicant shall provide satisfactory proof that the applicant—
+
+(1) is at least 18 years of age;
+
+(2) has a minimum of 6-months service in the related entry rating;
+
+(3) is qualified professionally as demonstrated by an applicable examination or educational requirements; and
+
+(4) is qualified as to sight, hearing, and physical condition to perform the member’s duties.
 
 ### Statutory Notes
 
@@ -412,31 +450,52 @@ Subsection (b) establishes the entry ratings of wiper and coal passer, but speci
 Subsection (c) establishes the minimum qualifications individuals must meet in order to have their documents endorsed as a qualified member of engine department.
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–60, § 7301(d)(5)(A), struck out “and coal passer” after “wiper”.
+
+Subsecs. (c), (d). Pub. L. 119–60, § 7301(d)(5)(B), added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “An applicant for an endorsement as qualified member of the engine department must provide satisfactory proof that the applicant—
+
+“(1) has the service required by [section 7314 of this title](./chapter-073-merchant-mariners-documents.md#section-7314);
+
+“(2) is qualified professionally as demonstrated by an applicable examination; and
+
+“(3) is qualified as to sight, hearing, and physical condition to perform the member’s duties.”
+
 1996—Subsec. (a). Pub. L. 104–324 inserted “as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104)” after “100 gross tons”.
 
 
 <a id="section-7314"></a>
-## § 7314. Service requirements for qualified members of engine departments
-
-To qualify for an endorsement as qualified member of the engine department, an applicant must provide proof that the applicant has 6 months’ service in the related entry rating as described in [section 7313(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section7313/b&num=0&edition=prelim).
+## § 7314. Repealed. Pub. L. 119–60, div. G, title LXXIII, § 7301(f), Dec. 18, 2025, 139 Stat. 1755]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |
-| --- | --- |
-| Revised section | Source section (U.S. Code) |
-| 7314 | 46:672(g) |
-
-Section 7314 requires individuals who wish to have their documents endorsed as a qualified member of the engine department must have at least 6 months service as a wiper or coal passer.
+Section, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 544, related to service requirements for qualified members of engine departments.
 
 
 <a id="section-7315"></a>
 ## § 7315. Training
-**(a)** Graduation from a nautical school vessel approved under law and regulation may be substituted for the service requirements under section 7307 or 7314 of this title.
+**(a) Nautical School Program.—** Graduation from a nautical school program may be substituted for the sea service requirements under sections 7307 through 7311a and 7313 of this title.
 
-**(b)** The satisfactory completion of other courses of instruction approved by the Secretary may be substituted for not more than one-third of the required service on deck at sea under sections 7307–7311 of this title.
+**(b) Other Approved Training Programs.—** The satisfactory completion of a training program approved by the Secretary may be substituted for not more than one-half of the sea service requirements under sections 7307 through 7311a and 7313 of this title in accordance with subsection (c).
 
-**(c)** The satisfactory completion of other courses of instruction approved by the Secretary may be substituted for not more than one-half of the required service at sea under [section 7314 of this title](./chapter-073-merchant-mariners-documents.md#section-7314).
+**(c) Training Days.—** For purposes of subsection (b), training days undertaken in connection with training programs approved by the Secretary may be substituted for days of required sea service under sections 7307 through 7311a and 7313 of this title as follows:
+
+(1) Each shore-based training day in the form of classroom lectures may be substituted for 2 days of sea service requirements.
+
+(2) Each training day of laboratory training, practical demonstrations, and other similar training, may be substituted for 4 days of sea service requirements.
+
+(3) Each training day of full mission simulator training may be substituted for 6 days of sea service requirements.
+
+(4) Each training day underway on a vessel while enrolled in an approved training program may be substituted for 1½ days of sea service requirements, as long as—
+
+  (A) the structured training provided while underway on a vessel is—
+
+    (i) acceptable to the Secretary as part of the approved training program; and
+
+    (ii) fully completed by the individual; and
+
+(B) the tonnage of such vessel is appropriate to the endorsement being sought.
+
+**(d) Definition.—** In this section, the term “training day” means a day that consists of not less than 7 hours of training.
 
 ### Statutory Notes
 
@@ -446,6 +505,18 @@ Section 7314 requires individuals who wish to have their documents endorsed as a
 | 7315 | 46:672(c) |
 
 Section 7315 specifies the training or course work that may be substituted for service requirements for an endorsement as an able seaman or a qualified member of the engine department.
+
+#### Amendments
+2025—Pub. L. 119–60 amended section generally. Prior to amendment, text read as follows:
+
+“(a) Graduation from a nautical school vessel approved under law and regulation may be substituted for the service requirements under section 7307 or 7314 of this title.
+
+“(b) The satisfactory completion of other courses of instruction approved by the Secretary may be substituted for not more than one-third of the required service on deck at sea under sections 7307–7311 of this title.
+
+“(c) The satisfactory completion of other courses of instruction approved by the Secretary may be substituted for not more than one-half of the required service at sea under [section 7314 of this title](./chapter-073-merchant-mariners-documents.md#section-7314).”
+
+#### Implementation of 2025 Amendment
+Pub. L. 119–60, div. G, title LXXIII, § 7301(e)(2), Dec. 18, 2025, 139 Stat. 1755, provided that: “The Secretary of the department in which the Coast Guard is operating shall implement the requirements of [section 7315 of title 46](./chapter-073-merchant-mariners-documents.md#section-7315), United States Code, as amended by this subsection, without regard to chapters 5 and 6 of title 5, United States Code, and Executive Orders 12866 and 13563 ([5 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) note) and 14094 (88 Fed. Reg. 21879) [former [5 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) note].”
 
 
 <a id="section-7316"></a>

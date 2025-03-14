@@ -372,7 +372,7 @@ The Congress expressly reserves the right to repeal or amend this chapter at any
 ## § 3709. Authorization of appropriations
 **(a) Authorization of appropriations**
 
-(1) **In general** — There are authorized to be appropriated to carry out this Act for each of fiscal years 2021 through 2025—
+(1) **In general** — There are authorized to be appropriated to carry out this Act for each of fiscal years 2021 through 2030—
 
   (A) $15,000,000 to the Secretary of the Interior;
 
@@ -390,11 +390,13 @@ The Congress expressly reserves the right to repeal or amend this chapter at any
 
 (1) **Amounts from Federal agencies**
 
-  (A) *In general* — In addition to the amounts authorized to be appropriated under subsection (a), Federal departments, agencies, or instrumentalities are authorized to provide funds to the Foundation through Federal financial assistance grants and cooperative agreements, subject to the condition that the amounts are used for purposes that further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with this Act.
+  (A) *In general* — In addition to the amounts authorized to be appropriated under subsection (a), Federal departments, agencies, or instrumentalities are authorized to provide funds to the Foundation through Federal financial assistance grants, cooperative agreements, participating agreements, and similar instruments used for providing partnership funds, subject to the condition that the amounts are used for purposes that further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with this Act.
 
-  (B) *Advances* — Federal departments, agencies, or instrumentalities may advance amounts described in subparagraph (A) to the Foundation in a lump sum without regard to when the expenses for which the amounts are used are incurred.
+  (B) *Funding agreements* — Federal departments, agencies, and instrumentalities may enter into a Federal funding agreement with the Foundation for a period of not more than 10 years.
 
-  (C) *Management fees* — The Foundation may assess and collect fees for the management of amounts received under this paragraph.
+  (C) *Advances* — Federal departments, agencies, or instrumentalities may, and should when possible, advance amounts described in subparagraph (A) to the Foundation in a lump sum without regard to when the expenses for which the amounts are used are incurred.
+
+  (D) *Management fees* — The Foundation may assess and collect fees for the management of amounts received under this paragraph.
 
 (2) **Use of amounts accepted from Federal agencies** — Federal funds provided to the Foundation under paragraph (1) may be used by the Foundation for matching, in whole or in part, contributions (whether in currency, services, or property) made to the Foundation by private persons, State and local government agencies, and other entities.
 
@@ -422,6 +424,18 @@ The Congress expressly reserves the right to repeal or amend this chapter at any
 This Act, referred to in subsecs. (a)(1), (b)(1)(A), (3)(A), and (d), is Pub. L. 116–188, Oct. 30, 2020, 134 Stat. 905, known as the America’s Conservation Enhancement Act. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of this title](./chapter-101-national-fish-habitat-conservation-through-partnerships.md#section-8201) and Tables.
 
 #### Amendments
+2024—Subsec. (a)(1). Pub. L. 118–198, § 106(1), substituted “2030” for “2025” in introductory provisions.
+
+Subsec. (b)(1)(A). Pub. L. 118–198, § 106(2)(A), substituted “, cooperative agreements, participating agreements, and similar instruments used for providing partnership funds,” for “and cooperative agreements,”.
+
+Subsec. (b)(1)(B). Pub. L. 118–198, § 106(2)(C), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Subsec. (b)(1)(C). Pub. L. 118–198, § 106(2)(D), inserted “, and should when possible,” after “may”.
+
+Pub. L. 118–198, § 106(2)(B), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
+
+Subsec. (b)(1)(D). Pub. L. 118–198, § 106(2)(B), redesignated subpar. (C) as (D).
+
 2020—Subsec. (a)(1). Pub. L. 116–188, § 107(c)(1), added par. (1) and struck out former par. (1) which related to authorization of appropriations for fiscal years 2006 through 2010.
 
 Subsec. (b)(1). Pub. L. 116–188, § 107(c)(2)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “In addition to the amounts authorized to be appropriated under subsection (a), the Foundation may accept Federal funds from a Federal agency under any other Federal law for use by the Foundation to further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with the requirements of this chapter.”

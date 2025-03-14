@@ -2,7 +2,7 @@
 title: 10
 chapter: '361'
 heading: CONTRACT ADMINISTRATION
-section_count: 3
+section_count: 4
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -101,13 +101,6 @@ Pub. L. 106–398, § 1 [[div. A], title X, § 1006(b)], Oct. 30, 2000, 114 Stat
 
 ### Statutory Notes
 
-#### Prior Provisions
-Prior sections 4621 and 4622 were renumbered sections 7621 and 7622 of this title, respectively.
-
-A prior section 4623, act Aug. 10, 1956, ch. 1041, 70A Stat. 258, provided that the Quartermaster Corps sell not more than 16 ounces of tobacco a month to an enlisted member of the Army on active duty who requests it, prior to repeal by Pub. L. 91–482, § 1(a), Oct. 21, 1970, 84 Stat. 1082.
-
-Prior sections 4624 to 4629 were renumbered sections 7624 to 7629 of this title, respectively.
-
 #### Amendments
 2021—Pub. L. 116–283, § 1861(b), renumbered [section 2410g of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410g) as this section.
 
@@ -130,3 +123,26 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Effective Date
 Pub. L. 102–484, div. A, title VIII, § 840(b), Oct. 23, 1992, 106 Stat. 2467, provided that: “[Section 2410g of title 10](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410g), United States Code [now [10 U.S.C. 4603](./chapter-361-contract-administration.md#section-4603)] (as added by subsection (a)), shall take effect 90 days after the date of the enactment of this Act [Oct. 23, 1992].”
+
+
+<a id="section-4604"></a>
+## § 4604. Changes to certain documents
+**(a) In General.—** Each document referred to in a contract or other agreement for procurement entered into by the Secretary of Defense shall include a notation that—
+
+(1) provides the version of such document that is applicable to such contract or other agreement; and
+
+(2) indicates whether any changes have been made to such document after the issuance of the solicitation pursuant to which such contract or other agreement was entered into.
+
+**(b) Unnotated Documents.—** With respect to a document referred to in a contract or other agreement described in subsection (a) that does not include the notation required under such subsection, the version of the document that shall apply with respect to such contract or other agreement is the version in effect at the time of the issuance of the solicitation pursuant to which such contract or other agreement was entered into.
+
+### Statutory Notes
+
+#### Prior Provisions
+Prior sections 4621 and 4622 were renumbered sections 7621 and 7622 of this title, respectively.
+
+A prior section 4623, act Aug. 10, 1956, ch. 1041, 70A Stat. 258, provided that the Quartermaster Corps sell not more than 16 ounces of tobacco a month to an enlisted member of the Army on active duty who requests it, prior to repeal by Pub. L. 91–482, § 1(a), Oct. 21, 1970, 84 Stat. 1082.
+
+Prior sections 4624 to 4629 were renumbered sections 7624 to 7629 of this title, respectively.
+
+#### Effective Date
+Pub. L. 119–60, div. A, title VIII, § 802(b), Dec. 18, 2025, 139 Stat. 940, provided that: “The amendment made by subsection (a) [enacting this section] shall apply with respect to a contract or other agreement entered into after the date of the enactment of this Act [Dec. 18, 2025].”

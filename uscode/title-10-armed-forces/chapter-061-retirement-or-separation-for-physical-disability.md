@@ -881,7 +881,7 @@ For transfer of functions of Public Health Service, see note set out under [sect
 <a id="section-1214"></a>
 ## § 1214. Right to full and fair hearing
 
-No member of the armed forces may be retired or separated for physical disability without a full and fair hearing if he demands it.
+No member of the armed forces may be retired or separated for physical disability without a full and fair hearing if the member demands it. The Secretary concerned may require submission of a statement of contention as part of the demand.
 
 ### Statutory Notes
 
@@ -891,6 +891,9 @@ No member of the armed forces may be retired or separated for physical disabilit
 | 1214 | 37:283 (less 1st 17 words). | Oct. 12, 1949, ch. 681, § 413 (less 1st 17 words), 63 Stat. 825. |
 
 The words “including regulations” are omitted as covered by [section 1216(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1216/a&num=0&edition=prelim).
+
+#### Amendments
+2025—Pub. L. 119–60 substituted “if the member demands it. The Secretary concerned may require submission of a statement of contention as part of the demand.” for “if he demands it.”
 
 
 <a id="section-1214a"></a>

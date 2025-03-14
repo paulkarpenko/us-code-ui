@@ -54,7 +54,7 @@ Provisions similar to those in this section were contained in [section 223(c) of
 
 **(b)** If the Secretary determines that a veteran, surviving spouse, child of a veteran, or other person has suffered loss as a consequence of reliance upon a determination by the Department of eligibility or entitlement to benefits, without knowledge that it was erroneously made, the Secretary may provide such relief on account of such error as the Secretary determines is equitable, including the payment of moneys to any person whom the Secretary determines is equitably entitled to such moneys.
 
-**(c)** Not later than April 1 of each year, the Secretary shall submit to Congress a report containing a statement as to the disposition of each case recommended to the Secretary for equitable relief under this section during the preceding calendar year. No report shall be required under this subsection after December 31, 2025.
+**(c)** Not later than April 1 of each year, the Secretary shall submit to Congress a report containing a statement as to the disposition of each case recommended to the Secretary for equitable relief under this section during the preceding calendar year. No report shall be required under this subsection after December 31, 2026.
 
 ### Statutory Notes
 
@@ -64,6 +64,8 @@ Prior sections 503 and 504 were renumbered sections 1503 and 1504 of this title,
 Provisions similar to those in this section were contained in section 210(c)(2), (3) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 119–37 substituted “December 31, 2026” for “December 31, 2025”.
+
 2024—Subsec. (c). Pub. L. 118–83 substituted “December 31, 2025” for “December 31, 2024”.
 
 2022—Subsec. (c). Pub. L. 117–180 substituted “December 31, 2024” for “December 31, 2022”.
@@ -85,6 +87,9 @@ Provisions similar to those in this section were contained in section 210(c)(2),
 2006—Subsec. (c). Pub. L. 109–233 substituted “December 31, 2009” for “December 31, 2004”.
 
 2000—Subsec. (c). Pub. L. 106–419 inserted at end “No report shall be required under this subsection after December 31, 2004.”
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under [section 111A of this title](./chapter-001-general.md#section-111a).
 
 
 <a id="section-505"></a>
@@ -651,12 +656,21 @@ Provisions similar to those in this section were contained in [section 217 of th
 
 **(b)** The Secretary shall seek to achieve the effective coordination of the provision, under laws administered by the Department, of benefits and services (and information about such benefits and services) with appropriate programs (and information about such programs) conducted by State and local governmental agencies and by private entities at the State and local level. In carrying out this subsection, the Secretary shall place special emphasis on veterans who are 65 years of age or older.
 
+**(c)** The Secretary shall maintain a publicly available website of the Department through which a veteran or dependent of a veteran may search by ZIP code for programs for—
+
+(1) veterans who recently separated from active military, naval, air, or space service; or
+
+(2) dependents of veterans described in paragraph (1).
+
 ### Statutory Notes
 
 #### Prior Provisions
 Prior sections 523 and 524 were renumbered sections 1523 and 1524 of this title, respectively.
 
 Provisions similar to those in this section were contained in [section 220 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section220&num=0&edition=prelim) prior to repeal by Pub. L. 102–83, § 2(a).
+
+#### Amendments
+2025—Subsec. (c). Pub. L. 119–60 added subsec. (c).
 
 #### Pilot Program on Use of Community-Based Organizations and Local and State Government Entities To Ensure That Veterans Receive Care and Benefits for Which They Are Eligible
 Pub. L. 111–163, title V, § 506, May 5, 2010, 124 Stat. 1160, as amended by Pub. L. 114–228, title I, § 108, Sept. 29, 2016, 130 Stat. 938, provided that: “(a) Pilot Program Required.—The Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of using community-based organizations and local and State government entities—“(1) to increase the coordination of community, local, State, and Federal providers of health care and benefits for veterans to assist veterans who are transitioning from military service to civilian life in such transition; “(2) to increase the availability of high quality medical and mental health services to veterans transitioning from military service to civilian life; “(3) to provide assistance to families of veterans who are transitioning from military service to civilian life to help such families adjust to such transition; and “(4) to provide outreach to veterans and their families to inform them about the availability of benefits and connect them with appropriate care and benefit programs. “(b) Duration of Program.—The pilot program shall be carried out during the 2-year period beginning on the date that is 180 days after the date of the enactment of this Act [May 5, 2010]. “(c) Program Locations.—“(1) In general.—The pilot program shall be carried out at five locations selected by the Secretary for purposes of the pilot program. “(2) Considerations.—In selecting locations for the pilot program, the Secretary shall consider the advisability of selecting locations in—“(A) rural areas; “(B) areas with populations that have a high proportion of minority group representation; “(C) areas with populations that have a high proportion of individuals who have limited access to health care; and “(D) areas that are not in close proximity to an active duty military installation. “(d) Grants.—The Secretary shall carry out the pilot program through the award of grants to community-based organizations and local and State government entities. “(e) Selection of Grant Recipients.—“(1) In general.—A community-based organization or local or State government entity seeking a grant under the pilot program shall submit to the Secretary an application therefor in such form and in such manner as the Secretary considers appropriate. “(2) Elements.—Each application submitted under paragraph (1) shall include the following:“(A) A description of the consultations, if any, with the Department of Veterans Affairs in the development of the proposal under the application. “(B) A plan to coordinate activities under the pilot program, to the greatest extent possible, with the local, State, and Federal providers of services for veterans to reduce duplication of services and to enhance the effect of such services. “(f) Use of Grant Funds.—The Secretary shall prescribe appropriate uses of grant funds received under the pilot program. “(g) Report on Program.—“(1) In general.—Not later than September 30, 2017, the Secretary shall submit to Congress a report on the pilot program. “(2) Elements.—The report required by paragraph (1) shall include the following:“(A) The findings and conclusions of the Secretary with respect to the pilot program. “(B) An assessment of the benefits to veterans of the pilot program. “(C) The recommendations of the Secretary as to the advisability of continuing the pilot program.”

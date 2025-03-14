@@ -87,9 +87,9 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 (22) The term “inactive-duty training” means—
 
-  (A) duty prescribed for members of a reserve component by the Secretary concerned under [section 206 of this title](./chapter-003-basic-pay.md#section-206) or any other law; and
+  (A) duty prescribed for members of a reserve component, or for members of the Space Force in space force active status not on sustained duty, by the Secretary concerned under [section 206 of this title](./chapter-003-basic-pay.md#section-206) or any other law; and
 
-  (B) special additional duties authorized for members of a reserve component by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned;
+  (B) special additional duties authorized for members of a reserve component, or for members of the Space Force in space force active status not on sustained duty, by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned;
   and includes those duties when performed by members of a reserve component in their status as members of the National Guard, but (except as provided in [section 206(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206/d/2&num=0&edition=prelim)) does not include work or study in connection with a correspondence course of a uniformed service.
 
 (23) The term “member” means a person appointed or enlisted in, or conscripted into, a uniformed service.
@@ -115,6 +115,10 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 (25) The term “regular compensation” or “regular military compensation (RMC)” means the total of the following elements that a member of a uniformed service accrues or receives, directly or indirectly, in cash or in kind every payday: basic pay, basic allowance for housing, basic allowance for subsistence; and Federal tax advantage accruing to the aforementioned allowances because they are not subject to Federal income tax.
 
 (26) The term “contingency operation” has the meaning given that term in [section 101 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim).
+
+(27) The term “space force active status” has the meaning given that term in [section 101 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim).
+
+(28) The term “sustained duty” has the meaning given that term in [section 101 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -163,6 +167,10 @@ In clause (23), section 231(b) (less 1st sentence) of existing title 37 is omitt
 For definition of Canal Zone, referred to in pars. (7) and (9), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
+2025—Par. (22)(A), (B). Pub. L. 119–60, § 601(a)(1), inserted “, or for members of the Space Force in space force active status not on sustained duty,” after “reserve component”.
+
+Pars. (27), (28). Pub. L. 119–60, § 601(a)(2), added pars. (27) and (28).
+
 2021—Pars. (3), (4). Pub. L. 116–283, § 925(a)(1), inserted “Space Force,” after “Marine Corps,”.
 
 Par. (5)(C). Pub. L. 116–283, § 925(a)(2), which directed insertion of “and the Space Force” after “Air Force”, was executed by making the insertion after “Air Force” the second place appearing, to reflect the probable intent of Congress.

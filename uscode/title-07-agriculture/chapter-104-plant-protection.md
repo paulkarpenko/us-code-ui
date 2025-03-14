@@ -658,9 +658,11 @@ Section was not enacted as part of the Plant Protection Act which comprises this
 
 (4) $50,000,000 for fiscal year 2012;
 
-(5) $62,500,000 for each of fiscal years 2014 through 2017; and
+(5) $62,500,000 for each of fiscal years 2014 through 2017;
 
-(6) $75,000,000 for fiscal year 2018 and each fiscal year thereafter.
+(6) $75,000,000 for each of fiscal years 2018 through 2025; and
+
+(7) $90,000,000 for fiscal year 2026 and each fiscal year thereafter.
 
 **(g) Use of funds for clean plant network** Of the funds made available under subsection (f) to carry out this section for a fiscal year, not less than $5,000,000 shall be available to carry out the National Clean Plant Network under subsection (e).
 
@@ -679,6 +681,8 @@ The date of enactment of this paragraph, referred to in subsec. (c)(3), is the d
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (f)(6), (7). Pub. L. 119–21 added par. (6), redesignated former par. (6) as (7), and, in par. (7), substituted “$90,000,000 for fiscal year 2026” for “$75,000,000 for fiscal year 2018”.
+
 2022—Subsec. (b)(3). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
 2014—Subsecs. (e), (f). Pub. L. 113–79, § 10007(a), added subsec. (e) and redesignated former subsec. (e) as (f).

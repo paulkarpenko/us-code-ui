@@ -580,7 +580,7 @@ The Congregate Housing Services Act of 1978, referred to in subsecs. (d)(2)(B)(i
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (j)(1)(A), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified principally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
 
-The United States Housing Act of 1937, referred to in subsec. (k)(6)(A), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title II of the Act, which was classified generally to subchapter II (§ 1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, § 501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
+The United States Housing Act of 1937, referred to in subsec. (k)(6)(A), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653. Title II of the Act, which was classified generally to subchapter II (§ 1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, § 501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
 
 Section 8(b)(2) of the United States Housing Act, referred to in subsec. (k)(6)(B), probably means section 8(b)(2) of the United States Housing Act of 1937, which was classified to [section 1437f(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437f/b/2&num=0&edition=prelim) and was repealed by Pub. L. 98–181, title I [title II, § 209(a)(2)], Nov. 30, 1983, 97 Stat. 1183.
 
@@ -1088,6 +1088,28 @@ Subsec. (k). Pub. L. 102–550, § 605(b), amended subsec. (k) generally. Prior 
 
   (B) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
 
+(8) **Qualifying smoke alarms**
+
+  (A) *In general* — Each dwelling unit assisted under this section shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
+
+  (B) *Definitions* — For purposes of this paragraph, the following definitions shall apply:
+
+    (i) *Smoke alarm defined* — The term “smoke alarm” has the meaning given the term “smoke detector” in [section 2225(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2225/d&num=0&edition=prelim).
+
+    (ii) *Qualifying smoke alarm defined* — The term “qualifying smoke alarm” means a smoke alarm that—
+
+      (I) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
+
+        (aa)
+
+          (AA) is hardwired; or
+
+          (BB) uses 10-year non rechargeable, nonreplaceable primary batteries and is sealed, is tamper resistant, and contains silencing means; and
+
+        (bb) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
+
+      (II) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.
+
 **(k) Definitions** As used in this section—
 
 (1) The term “group home” means a single family residential structure designed or adapted for occupancy by not more than 8 persons with disabilities, which provides a separate bedroom for each tenant of the residence. The Secretary may waive the project size limitation contained in the previous sentence if the applicant demonstrates that local market conditions dictate the development of a larger project. Not later than the date of the exercise of any waiver permitted under the previous sentence, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives of the waiver or the intention to exercise the waiver, together with a detailed explanation of the reason for the waiver. Not more than 1 home may be located on any one site and no such home may be located on a site contiguous to another site containing such a home.
@@ -1140,39 +1162,6 @@ Subsec. (k). Pub. L. 102–550, § 605(b), amended subsec. (k) generally. Prior 
 (3) **Coordination** — When responding to an owner’s request under paragraph (1), the Secretary shall, notwithstanding any other provision of law, apply such portion of amounts obligated at the time of loan reservation, including amounts reserved with respect to such housing under [section 1437f of this title](./chapter-008-low-income-housing.md#section-1437f), as are required for the owner’s housing under the provisions of this section and shall make any remaining portion available for other housing under this section.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (j)
-Pub. L. 117–328, div. AA, title VI, § 601(c), (h), Dec. 29, 2022, 136 Stat. 5545, 5548, provided that, effective two years after Dec. 29, 2022, subsection (j) of this section is amended by adding at the end the following:
-
-(8) Qualifying smoke alarms
-
-(A) In general
-
-Each dwelling unit assisted under this section shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
-
-(B) Definitions
-
-For purposes of this paragraph, the following definitions shall apply:
-
-(i) Smoke alarm defined
-
-The term “smoke alarm” has the meaning given the term “smoke detector” in [section 2225(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2225/d&num=0&edition=prelim).
-
-(ii) Qualifying smoke alarm defined
-
-The term “qualifying smoke alarm” means a smoke alarm that—
-
-(I) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
-
-(aa)(AA) is hardwired; or
-
-(BB) uses 10-year non rechargeable, nonreplaceable primary batteries and is sealed, is tamper resistant, and contains silencing means; and
-
-(bb) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
-
-(II) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.
-
-See 2022 Amendment note below.
 
 #### References in Text
 The HOME Investment Partnerships Act, referred to in subsec. (b)(3)(C)(ii)(II), is title II of Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4094, which is classified principally to subchapter II (§ 12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12701 of this title](./chapter-130-national-affordable-housing.md#section-12701) and Tables.

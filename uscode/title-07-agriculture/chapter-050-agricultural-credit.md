@@ -4205,7 +4205,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 (1) As used in this subsection:
 
-  (A) The term “approved lender” means a lender approved prior to October 28, 1992, by the Secretary under the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations (as in effect on January 1, 1991), or a lender certified under section 1989 11 See References in Text note below. of this title.
+  (A) The term “approved lender” means a lender approved prior to October 28, 1992, by the Secretary under the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations (as in effect on January 1, 1991), or a lender certified under [section 1989 of this title](./chapter-050-agricultural-credit.md#section-1989).
 
   (B) The term “seasoned direct loan borrower” means a borrower receiving a direct loan under this chapter who has been classified as “commercial” or “standard” under subpart W of part 2006 of the Instruction Manual (as in effect on January 1, 1991).
 
@@ -7952,7 +7952,7 @@ Not later than 180 days after the end of each fiscal year, the Authority shall s
 
 <a id="section-2009aa-13"></a>
 ## § 2009aa–13. Authorization of appropriations
-**(a) In general** There is authorized to be appropriated to the Authority to carry out this subchapter $30,000,000 for each of fiscal years 2019 through 2023, to remain available until expended.
+**(a) In general** There is authorized to be appropriated to the Authority to carry out this subchapter $40,000,000 for each of fiscal years 2025 through 2029, to remain available until expended.
 
 **(b) Administrative expenses** Not more than 5 percent of the amount appropriated under subsection (a) for a fiscal year shall be used for administrative expenses of the Authority.
 
@@ -7962,6 +7962,8 @@ Not later than 180 days after the end of each fiscal year, the Authority shall s
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 118–272 substituted “$40,000,000 for each of fiscal years 2025 through 2029” for “$30,000,000 for each of fiscal years 2019 through 2023”.
+
 2018—Subsec. (a). Pub. L. 115–334 substituted “2019 through 2023” for “2008 through 2018”.
 
 2014—Subsec. (a). Pub. L. 113–79 substituted “2018” for “2012”.
@@ -8088,9 +8090,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (B) any State (including a political subdivision, agency, or instrumentality of the State); or
 
-  (C) any person, firm, association, or corporation; and
+  (C) any person, firm, association, or corporation;
 
-(10) establish and maintain a central office and field offices at such locations as the Authority may select.
+(10) establish and maintain a central office and field offices at such locations as the Authority may select; and
+
+(11) collect fees for the Delta Doctors program of the Authority and retain and expend those fees.
 
 **(f) Federal agency cooperation** A Federal agency shall—
 
@@ -8158,9 +8162,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
     (i) the carrying out of the administrative duties of the Authority;
 
-    (ii) direction of the Authority staff; and
+    (ii) direction of the Authority staff;
 
-    (iii) such other duties as the Authority may assign.
+    (iii) assuming the duties of the Federal cochairperson and the alternate Federal cochairperson for purposes of continuation of normal operations in the event that both positions are vacant; and
+
+    (iv) such other duties as the Authority may assign.
 
   (C) *No Federal employee status* — No member, alternate, officer, or employee of the Authority (except the Federal cochairperson of the Authority, the alternate and staff for the Federal cochairperson, and any Federal employee detailed to the Authority under subsection (e)(5)) shall be considered to be a Federal employee for any purpose.
 
@@ -8190,6 +8196,10 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (e)(11). Pub. L. 118–272, § 2253(c), added par. (11).
+
+Subsec. (h)(5)(B)(iii), (iv). Pub. L. 118–272, § 2253(d), added cl. (iii) and redesignated former cl. (iii) as (iv).
+
 2009—Subsec. (c)(1). Pub. L. 111–85, which directed amendment of section 382B(c) of the Delta Regional Authority Act of 2000 by adding par. (1) and striking out former par. (1), was executed to this section, which is section 382B of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress. Prior to amendment, text read as follows:
 
 “(A) Temporary method.—During the period beginning on May 13, 2002, and ending on December 31, 2008, a decision by the Authority shall require the affirmative vote of the Federal cochairperson and a majority of the State members (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.
@@ -8207,9 +8217,9 @@ Subsec. (e)(4). Pub. L. 107–171, § 6027(b), substituted “, rules, and regul
 
 <a id="section-2009aa-3"></a>
 ## § 2009aa–3. Economic and community development grants
-**(a) In general** The Authority may approve grants to States and public and nonprofit entities for projects, approved in accordance with [section 2009aa–8 of this title](./chapter-050-agricultural-credit.md#section-2009aa-8)—
+**(a) In general** The Authority may approve grants to States, Indian Tribes, and public and nonprofit entities for projects, approved in accordance with [section 2009aa–8 of this title](./chapter-050-agricultural-credit.md#section-2009aa-8)—
 
-(1) to develop the transportation infrastructure of the region for the purpose of facilitating economic development in the region (except that grants for this purpose may only be made to a State or local government);
+(1) to develop the transportation infrastructure of the region for the purpose of facilitating economic development in the region (except that grants for this purpose may only be made to a State, Tribal, or local government);
 
 (2) to assist the region in obtaining the job training, employment-related education, and business development (with an emphasis on entrepreneurship) that are needed to build and maintain strong local economies;
 
@@ -8242,6 +8252,10 @@ Subsec. (e)(4). Pub. L. 107–171, § 6027(b), substituted “, rules, and regul
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 118–272, § 2253(e)(1), inserted “, Indian Tribes,” after “States” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 118–272, § 2253(e)(2), inserted “, Tribal,” after “State”.
+
 2002—Subsec. (b)(3). Pub. L. 107–171 struck out heading and text of par. (3). Text read as follows: “Notwithstanding any provision of law limiting the Federal share in any grant program, funds appropriated to carry out this section may be used to increase a Federal share in a grant program, as the Authority determines appropriate.”
 
 
@@ -8479,26 +8493,11 @@ The Secretary shall establish a rural community advancement program to provide g
 
 
 <a id="section-2009bb"></a>
-## § 2009bb. Termination of authority
-
-This subchapter and the authority provided under this subchapter expire on October 1, 2023.
+## § 2009bb. Repealed. Pub. L. 118–272, div. B, title II, § 2253(b), Jan. 4, 2025, 138 Stat. 3213
 
 ### Statutory Notes
 
-#### Codification
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
-
-#### Amendments
-2018—Pub. L. 115–334 substituted “2023” for “2018”.
-
-2014—Pub. L. 113–79 substituted “2018” for “2012”.
-
-2008—Pub. L. 110–246, § 6025(b), substituted “2012” for “2007”.
-
-2002—Pub. L. 107–171 substituted “2007” for “2002”.
-
-#### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Section, Pub. L. 87–128, title III, § 382N, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–281; amended Pub. L. 107–171, title VI, § 6027(h), May 13, 2002, 116 Stat. 374; Pub. L. 110–234, title VI, 6025(b), May 22, 2008, 122 Stat. 1177; Pub. L. 110–246, § 4(a), title VI, § 6025(b), June 18, 2008, 122 Stat. 1664, 1939; Pub. L. 113–79, title VI, § 6026(b), Feb. 7, 2014, 128 Stat. 850; Pub. L. 115–334, title VI, § 6425(b), Dec. 20, 2018, 132 Stat. 4770, terminated this subchapter and authority under this subchapter.
 
 
 <a id="section-2009bb-1"></a>
@@ -8594,7 +8593,7 @@ A prior section 383M of Pub. L. 87–128, title III, was renumbered section 383N
 
 <a id="section-2009bb-13"></a>
 ## § 2009bb–13. Authorization of appropriations
-**(a) In general** There is authorized to be appropriated to the Authority to carry out this subchapter $30,000,000 for each of fiscal years 2008 through 2018, to remain available until expended.
+**(a) In general** There is authorized to be appropriated to the Authority to carry out this subchapter $40,000,000 for each of fiscal years 2025 through 2029, to remain available until expended.
 
 **(b) Administrative expenses** Not more than 5 percent of the amount appropriated under subsection (a) for a fiscal year shall be used for administrative expenses of the Authority.
 
@@ -8614,9 +8613,11 @@ A prior section 383M of Pub. L. 87–128, title III, was renumbered section 383N
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
-A prior section 383N of Pub. L. 87–128, title III, was renumbered section 383O and is classified to [section 2009bb–13 of this title](./chapter-050-agricultural-credit.md#section-2009bb-13).
+A prior section 383N of Pub. L. 87–128, title III, was renumbered section 383O and was classified to [section 2009bb–13 of this title](./chapter-050-agricultural-credit.md#section-2009bb-13) prior to repeal by Pub. L. 118–272.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 118–272 substituted “$40,000,000 for each of fiscal years 2025 through 2029” for “$30,000,000 for each of fiscal years 2008 through 2018”.
+
 2014—Subsec. (a). Pub. L. 113–79 substituted “2018” for “2012”.
 
 2008—Subsec. (a). Pub. L. 110–246, § 6026(j), substituted “2008 through 2012” for “2002 through 2007”.
@@ -9303,22 +9304,11 @@ The national objectives of the program established under this subchapter shall b
 
 
 <a id="section-2009cc"></a>
-## § 2009cc. Termination of authority
-
-The authority provided by this subchapter terminates effective October 1, 2018.
+## § 2009cc. Repealed. Pub. L. 118–272, div. B, title II, § 2254(b), Jan. 4, 2025, 138 Stat. 3213
 
 ### Statutory Notes
 
-#### Codification
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
-
-#### Amendments
-2014—Pub. L. 113–79 substituted “2018” for “2012”.
-
-2008—Pub. L. 110–246, § 6026(k), substituted “2012” for “2007”.
-
-#### Effective Date of 2008 Amendment
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Section, Pub. L. 87–128, title III, § 383O, formerly § 383N, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 387; renumbered § 383O and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (k), May 22, 2008, 122 Stat. 1178, 1182, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (k), June 18, 2008, 122 Stat. 1664, 1940, 1943; Pub. L. 113–79, title VI, § 6027(c), Feb. 7, 2014, 128 Stat. 850, terminated authority under this subchapter.
 
 
 <a id="section-2009cc-1"></a>

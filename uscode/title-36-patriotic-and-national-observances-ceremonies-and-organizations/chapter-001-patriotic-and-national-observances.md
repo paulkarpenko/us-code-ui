@@ -26,6 +26,12 @@ The President is requested to issue each year a proclamation—
 
 In clause (2), the words “chief executive officers” are substituted for “Governors”, and the words “territories, and possessions” are substituted for “territories”, for clarity and consistency in the revised title and with other titles of the United States Code.
 
+#### Short Title of 2025 Amendment
+Pub. L. 119–57, § 1, Dec. 12, 2025, 139 Stat. 711, provided that: “This Act [amending sections 70501, 70503, 70504, 70507, 70508, 70510, and 70512 of this title] may be cited as the ‘Foundation of the Federal Bar Association Charter Amendments Act of 2025’.”
+
+#### Short Title of 2024 Amendment
+Pub. L. 118–197, § 1, Dec. 23, 2024, 138 Stat. 2677, provided that: “This Act [amending provisions set out as a note under [section 2301 of this title](./chapter-023-united-states-holocaust-memorial-museum.md#section-2301)] may be cited as the ‘Never Again Education Reauthorization Act of 2023’.”
+
 #### Short Title of 2023 Amendment
 Pub. L. 117–340, § 1, Jan. 5, 2023, 136 Stat. 6175, provided that: “This Act [enacting sections 220514 and 220530A of this title, amending sections 220505 and 220524 of this title, and enacting provisions set out as notes under [section 220505 of this title](./chapter-2205-united-states-olympic-and-paralympic-committee.md#section-220505)] may be cited as the ‘Equal Pay for Team USA Act of 2022’.”
 

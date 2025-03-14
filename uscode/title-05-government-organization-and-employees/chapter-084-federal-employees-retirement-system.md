@@ -873,9 +873,6 @@ is entitled to an annuity.
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
-
 #### Amendments
 2022—Subsec. (d). Pub. L. 117–225 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
@@ -1215,9 +1212,6 @@ Section effective on Nov. 6, 2014, see section 100121(d) of Pub. L. 112–141, s
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
-
 #### Amendments
 2022—Subsec. (b)(3). Pub. L. 117–225 inserted “(1)” after “subsection (d)”.
 
@@ -1361,9 +1355,6 @@ The amount of the reduction shall be computed under regulations prescribed by th
 **(n)** In the case of any annuity computation under this section that includes, in the aggregate, at least 2 months of credit under section 8411(d) for any period while receiving benefits under subchapter I of chapter 81, the percentage otherwise applicable under this section for that period so credited shall be increased by 1 percentage point.
 
 ### Statutory Notes
-
-#### Applicability of Amendment
-For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
 
 #### References in Text
 The date of the enactment of this subsection, referred to in subsec. (k), is the date of enactment of Pub. L. 106–571, which was approved Dec. 28, 2000.
@@ -1740,9 +1731,6 @@ For provisions relating to deferred payment of lump-sum credit for certain indiv
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
-
 #### References in Text
 The Social Security Act, referred to in subsecs. (a)(3)(B) and (b)(2), (4)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 202, 203, 214, and 215 of the Social Security Act are classified to sections 402, 403, 414, and 415, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
@@ -1810,9 +1798,6 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub
 **(d)** The Office shall prescribe regulations under which this section shall be applied in the case of a reemployed annuitant.
 
 ### Statutory Notes
-
-#### Applicability of Amendment
-For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
 
 #### References in Text
 Section 203 of the Social Security Act, referred to in subsec. (b)(4)(A), is classified to [section 403 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section403&num=0&edition=prelim), The Public Health and Welfare.
@@ -2286,9 +2271,6 @@ the lump-sum credit shall be paid.
 **(e)** The President, by Executive order, may exempt an employee (other than a member of the Capitol Police or Supreme Court Police) from automatic separation under this section if the President determines the public interest so requires.
 
 ### Statutory Notes
-
-#### Applicability of Amendment
-For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
 
 #### Amendments
 2022—Subsecs. (b)(1), (c), (d). Pub. L. 117–225 inserted “(1)” after “section 8412(d)”.
@@ -5024,9 +5006,6 @@ For provisions relating to the deductions and contributions required with respec
 **(e)** The $15,000 amount referred to in section 8442(b)(1)(A)(ii) shall be increased at the same time that, and by the same percent as the percentage by which, annuities under subchapter III of chapter 83 are increased.
 
 ### Statutory Notes
-
-#### Applicability of Amendment
-For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
 
 #### Amendments
 2022—Subsec. (c)(3)(B)(ii). Pub. L. 117–225 inserted “(1)” after “subsection (d)”.

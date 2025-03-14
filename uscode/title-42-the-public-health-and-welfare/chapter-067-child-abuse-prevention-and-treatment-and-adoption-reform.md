@@ -51,6 +51,9 @@ Subsec. (d). Pub. L. 95–266, § 101(3), added subsec. (d).
 
 1975—Subsec. (c). Pub. L. 93–644 added subsec. (c).
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–193, § 1, Dec. 23, 2024, 138 Stat. 2662, provided that: “This Act [amending [section 5106 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106)] may be cited as the ‘Jenna Quinn Law’.”
+
 #### Short Title of 2015 Amendment
 Pub. L. 114—22, title VIII, § 801, May 29, 2015, 129 Stat. 263, provided that: “This title [amending sections 5106a and 5106g of this title, enacting provisions set out as a note under [section 5106a of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106a), and amending provisions set out as a note under this section] may be cited as the ‘Ensuring a Better Response for Victims of Child Sex Trafficking’.”
 
@@ -869,6 +872,18 @@ Pub. L. 100–294, title I, § 105, Apr. 25, 1988, 102 Stat. 118, directed the D
 
   (H) *Sunset* — The authority under this paragraph shall sunset on September 30, 2023.
 
+(8) **Child sexual abuse awareness field-initiated grants**
+
+  (A) *In general* — The Secretary may award grants under this subsection to entities, for periods of up to 5 years, in support of field-initiated innovation projects that advance, establish, or implement comprehensive, innovative, evidence-based or evidence-informed child sexual abuse awareness and prevention programs by—
+
+    (i) improving student awareness of child sexual abuse in an age-appropriate manner, including how to recognize, prevent, and safely report child sexual abuse;
+
+    (ii) training teachers, school employees, and other mandatory reporters and adults who work with children in a professional or volunteer capacity, including with respect to recognizing child sexual abuse and safely reporting child sexual abuse; or
+
+    (iii) providing information to parents and guardians of students about child sexual abuse awareness and prevention, including how to prevent, recognize, respond to, and report child sexual abuse and how to discuss child sexual abuse with a child.
+
+  (B) *Reporting* — Each entity receiving a grant under subparagraph (A) shall submit an annual report to the Secretary, for the duration of the grant period, on the projects carried out using such grant, including the number of participants, the services provided, and the outcomes of the projects, including participant evaluations.
+
 **(b) Discretionary grants** In addition to grants or contracts made under subsection (a), grants or contracts under this section may be used for the following:
 
 (1) Respite and crisis nursery programs provided by community-based organizations under the direction and supervision of hospitals.
@@ -947,6 +962,8 @@ This Act, referred to in subsec. (a)(7)(D)(v), (G)(ii), means Pub. L. 93–247, 
 A prior section 105 of Pub. L. 93–247 was renumbered section 104 and is classified to [section 5105 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5105).
 
 #### Amendments
+2024—Subsec. (a)(8). Pub. L. 118–193 added par. (8).
+
 2018—Subsec. (a)(7). Pub. L. 115–271 added par. (7).
 
 2010—Pub. L. 111–320, § 114(1), substituted “States, Indian tribes or tribal organizations,” for “States” in section catchline.

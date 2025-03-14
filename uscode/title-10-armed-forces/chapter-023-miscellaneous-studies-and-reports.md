@@ -191,13 +191,13 @@ Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518
 
 (4) A summary of combat readiness ratings for the key force elements assessed, including specific information on personnel, supply, equipment, and training problems or deficiencies that affect the combat readiness ratings for each force element.
 
-(5) A summary of each upgrade or downgrade of the combat readiness of a unit that was issued by the commander of the unit, together with the rationale of the commander for the issuance of such upgrade or downgrade.
+(5) The total number of upgrades and the total number of downgrades of the combat readiness of a unit that were issued by the commander of the unit, disaggregated by armed force.
 
 (6) A summary of the readiness of supporting capabilities, including infrastructure, prepositioned equipment and supplies, and mobility assets, and other supporting logistics capabilities.
 
 (7) A summary of the readiness of the combat support and related agencies, any readiness problem or deficiency affecting any mission essential tasks of any such agency, and actions recommended to address any such problem or deficiency.
 
-(8) A list of all Class A, Class B, and Class C mishaps that occurred in operations related to combat support and training events involving aviation, ground, or naval platforms, weapons, space, or Government vehicles, as defined by Department of Defense Instruction 6055.07, or a successor instruction.
+(8) A list of all Class A and Class B mishaps, and a summary count of all Class C mishaps, that occurred in operations related to combat support and training events involving aviation, ground, or naval platforms, weapons, space, or Government vehicles, as defined by Department of Defense Instruction 6055.07, or a successor instruction.
 
 (9) Information on the extent to which units of the armed forces have removed serviceable parts, supplies, or equipment from one vehicle, vessel, or aircraft in order to render a different vehicle, vessel, or aircraft operational.
 
@@ -237,6 +237,10 @@ Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518
 Section 732(b)(1) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019, referred to subsec. (b)(11), is section 732(b)(1) of Pub. L. 115–232, div. A, title VII, Aug. 13, 2018, 132 Stat. 1817, which is not classified to the Code.
 
 #### Amendments
+2025—Subsec. (b)(8). Pub. L. 119–60 substituted “Class A and Class B mishaps, and a summary count of all Class C mishaps,” for “Class A, Class B, and Class C mishaps”.
+
+2024—Subsec. (b)(5). Pub. L. 118–159 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “A summary of each upgrade or downgrade of the combat readiness of a unit that was issued by the commander of the unit, together with the rationale of the commander for the issuance of such upgrade or downgrade.”
+
 2023—Subsec. (a)(1), (2). Pub. L. 118–31 inserted “and the Space Force” after “active and reserve components”.
 
 2022—Subsec. (b)(11), (12). Pub. L. 117–263 added par. (11) and redesignated former par. (11) as (12).
@@ -442,7 +446,7 @@ Pub. L. 105–85, div. A, title III, § 322(d), Nov. 18, 1997, 111 Stat. 1675, p
 
 (3) The term “major weapon system” means a weapon system that is treatable as a major system under section 3041(a) and (b) of this title.
 
-(4) The term “military installation” means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility, which is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or Guam. Such term does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
+(4) The term “military installation” means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility. Such term does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
 
 (5) The term “Secretary concerned” means—
 
@@ -459,6 +463,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (f)(1), is
 A prior section 483, added Pub. L. 105–85, div. A, title III, § 323(a), Nov. 18, 1997, 111 Stat. 1675; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [[div. A], title III, § 372], Oct. 30, 2000, 114 Stat. 1654, 1654A–80, related to reports on transfers from high-priority readiness appropriations, prior to repeal by Pub. L. 113–66, div. A, title X, § 1084(a)(1)(A), Dec. 26, 2013, 127 Stat. 871.
 
 #### Amendments
+2024—Subsec. (f)(4). Pub. L. 118–159 struck out “, which is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or Guam” before period at end.
+
 2022—Subsec. (c)(6). Pub. L. 117–263 added par. (6).
 
 2021—Subsec. (f)(3). Pub. L. 117–81 inserted “this” before “title”.
@@ -520,8 +526,8 @@ Pub. L. 112–239, div. A, title IX, § 939(b), Jan. 2, 2013, 126 Stat. 1888, pr
 
 
 <a id="section-485"></a>
-## § 485. Monthly counterterrorism operations briefings
-**(a) Briefings Required.—** The Secretary of Defense shall provide to the congressional defense committees monthly briefings outlining Department of Defense counterterrorism operations and related activities, including the use of military force under the notion of collective self-defense of foreign partners.
+## § 485. Quarterly briefings on counterterrorism operations, irregular warfare, and sensitive activities
+**(a) Briefings Required.—** The Secretary of Defense shall provide to the congressional defense committees quarterly briefings on counterterrorism operations and related activities (including the use of military force under the notion of collective self-defense of foreign partners), irregular warfare activities, and other sensitive activities conducted by the Department of Defense.
 
 **(b) Elements.—** Each briefing under subsection (a) shall include each of the following:
 
@@ -539,6 +545,10 @@ Pub. L. 112–239, div. A, title IX, § 939(b), Jan. 2, 2013, 126 Stat. 1888, pr
 A prior section 485, added Pub. L. 105–261, div. A, title IX, § 923(b)(1), Oct. 17, 1998, 112 Stat. 2105; amended Pub. L. 106–65, div. A, title IX, § 931, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 726, 774; Pub. L. 107–107, div. A, title IX, § 922, Dec. 28, 2001, 115 Stat. 1198; Pub. L. 110–417, [div. A], title II, § 241(a), Oct. 14, 2008, 122 Stat. 4395, related to biennial reports on joint and service concept development and experimentation, prior to repeal by Pub. L. 112–81, div. A, title X, § 1061(7)(A), Dec. 31, 2011, 125 Stat. 1583.
 
 #### Amendments
+2024—Pub. L. 118–159, § 1204(a)(1), substituted “Quarterly briefings on counterterrorism operations, irregular warfare, and sensitive activities” for “Monthly counterterrorism operations briefings” in section catchline.
+
+Subsec. (a). Pub. L. 118–159, § 1204(a)(2), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall provide to the congressional defense committees monthly briefings outlining Department of Defense counterterrorism operations and related activities, including the use of military force under the notion of collective self-defense of foreign partners.”
+
 2021—Subsec. (a). Pub. L. 117–81 inserted “, including the use of military force under the notion of collective self-defense of foreign partners” after “activities”.
 
 2016—Pub. L. 114–328, § 1031(b), substituted “Monthly” for “Quarterly” in section catchline.
@@ -547,76 +557,22 @@ Subsec. (a). Pub. L. 114–328, § 1031(a), substituted “monthly” for “qua
 
 
 <a id="section-486"></a>
-## § 486. Annual reports on racial and ethnic demographics in the military justice system
-**(a) In General.—** Not later than March 1 of each year, the Secretary of each military department shall submit to the Secretary of Defense a report on racial, ethnic, and sex demographics in the military justice system during the preceding year. In the case of the Secretary of the Navy, separate reports shall be prepared for the Navy and for the Marine Corps. In the case of the Secretary of the Air Force, separate reports shall be prepared for the Air Force and for the Space Force.
-
-**(b) Contents.—** The report of a Secretary of a military department for an armed force under subsection (a) shall contain, to the extent possible, statistics on offenses under chapter 47 of this title (the Uniform Code of Military Justice), during the year covered by the report, including—
-
-(1) the number of offenses in the armed force that were reported to military officials, disaggregated by—
-
-  (A) statistical category as related to the victim; and
-
-  (B) statistical category as related to the principal;
-
-(2) the number of offenses in the armed forces that were investigated, disaggregated by statistical category as related to the principal;
-
-(3) the number of offenses in which administrative action was imposed, disaggregated by statistical category as related to the principal and each type of administrative action imposed;
-
-(4) the number of offenses in which non judicial punishment was imposed under [section 815 of this title](./chapter-047-uniform-code-of-military-justice.md#section-815) (article 15 of the Uniform Code of Military Justice), disaggregated by statistical category as related to the principal;
-
-(5) the number of offenses in which charges were preferred, disaggregated by statistical category as related to the principal;
-
-(6) the number of offenses in which charges were referred to court-martial, disaggregated by statistical category as related to the principal and type of court-martial;
-
-(7) the number of offenses which resulted in conviction at court-martial, disaggregated by statistical category as related to the principal and type of court-martial; and
-
-(8) the number of offenses which resulted in acquittal at court-martial, disaggregated by statistical category as related to the principal and type of court-martial.
-
-**(c) Submission to Congress.—** Not later than April 30 of each year in which the Secretary of Defense receives reports under subsection (a), the Secretary of Defense shall forward the reports to the Committees on Armed Services of the Senate and the House of Representatives.
-
-**(e) 11 So in original. There is no subsec. (d). Definitions.—** In this section:
-
-(1) The term “statistical category” means each of the following categories:
-
-  (A) race;
-
-  (B) sex;
-
-  (C) ethnicity;
-
-  (D) rank; and
-
-  (E) offense enumerated under chapter 47 of this title (the Uniform Code of Military Justice).
-
-(2) The term “principal” has the meaning given that term in [section 877 of this title](./chapter-047-uniform-code-of-military-justice.md#section-877) (article 77 of the Uniform Code of Military Justice).
+## § 486. Repealed. Pub. L. 118–159, div. A, title V, § 566(b)(1), Dec. 23, 2024, 138 Stat. 1905]
 
 ### Statutory Notes
 
-#### Prior Provisions
+Section, added Pub. L. 117–81, div. A, title V, § 549G(a)(1), Dec. 27, 2021, 135 Stat. 1727; amended Pub. L. 118–159, div. A, title XVII, § 1701(a)(9), Dec. 23, 2024, 138 Stat. 2203, required the Secretary of each military department to submit annual reports on racial, ethnic, and sex demographics in the military justice system and required the Secretary of Defense to forward any reports received to Congress.
+
 A prior section 486, added Pub. L. 106–65, div. A, title II, § 241(a)(1), Oct. 5, 1999, 113 Stat. 549, related to quadrennial report on emerging operational concepts, prior to repeal by Pub. L. 112–81, div. A, title X, § 1061(8)(A), Dec. 31, 2011, 125 Stat. 1583.
 
 
 <a id="section-487"></a>
-## § 487. Biannual briefing on missile defense and related activities
-**(a) In General.—** On or about June 1 and December 1 of each year, the officials specified in subsection (b) shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on matters relating to missile defense policies, operations, technology development, and other similar topics as requested by such committees.
-
-**(b) Officials Specified.—** The officials specified in this subsection are the following:
-
-(1) The Assistant Secretary of Defense for Acquisition.
-
-(2) The Assistant Secretary of Defense for Space Policy.
-
-(3) The Director of the Missile Defense Agency.
-
-(4) The Director for Strategy, Plans, and Policy of the Joint Staff.
-
-**(c) Delegation.—** An official specified in subsection (b) may delegate the authority to provide a briefing required by subsection (a) to a member of the Senior Executive Service who reports to the official.
-
-**(d) Termination.—** The requirement to provide a briefing under subsection (a) shall terminate on January 1, 2028.
+## § 487. Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)(1), Dec. 23, 2024, 138 Stat. 2199]
 
 ### Statutory Notes
 
-#### Prior Provisions
+Section, added Pub. L. 117–263, div. A, title XVI, § 1651, Dec. 23, 2022, 136 Stat. 2947, required biannual briefing on missile defense and related activities by specified officials. See [section 5552 of this title](./chapter-551-missile-defense.md#section-5552).
+
 A prior section 487, added Pub. L. 106–65, div. A, title IX, § 923(b)(1), Oct. 5, 1999, 113 Stat. 724; amended Pub. L. 108–136, div. A, title V, § 541(c), Nov. 24, 2003, 117 Stat. 1477; Pub. L. 108–375, div. A, title X, § 1084(d)(4), Oct. 28, 2004, 118 Stat. 2061, related to annual report on unit operations tempo and personnel tempo, prior to repeal by Pub. L. 112–81, div. A, title X, § 1061(9)(A), Dec. 31, 2011, 125 Stat. 1583.
 
 

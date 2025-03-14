@@ -1682,7 +1682,7 @@ The words “General Accounting Office” are substituted for “First Auditor o
 
   (B) all amounts representing the Federal equitable share from the forfeiture of property under any Federal, State, local or foreign law, for any Federal agency participating in the Fund;
 
-  (C) all amounts transferred by the Secretary of the Treasury pursuant to [section 9705(g)(4)(A) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9705/g/4/A&num=0&edition=prelim); and
+  (C) all amounts transferred by the Secretary of the Treasury pursuant to [section 9705(f)(4)(A) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9705/f/4/A&num=0&edition=prelim); and
 
   (D) all amounts collected—
 
@@ -1740,7 +1740,7 @@ The words “General Accounting Office” are substituted for “First Auditor o
 
   (B) For fiscal years 2002 and 2003, the Attorney General is authorized to transfer, under such terms and conditions as the Attorney General shall specify, real or personal property of limited or marginal value, to a State or local government agency, or its designated contractor or transferee, for use to support drug abuse treatment, drug and crime prevention and education, housing, job skills, and other community-based public health and safety programs. Each such transfer shall be subject to satisfaction by the recipient involved of any outstanding lien against the property transferred, but no such transfer shall create or confer any private right of action in any person against the United States.
 
-(10) The Attorney General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of the Department of the Treasury law enforcement organizations (described in section 9705(o) of title 31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Department of Justice.
+(10) The Attorney General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of the Department of the Treasury law enforcement organizations (described in [section 9705(n) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9705/n&num=0&edition=prelim)) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Department of Justice.
 
 (11) For purposes of this subsection and notwithstanding [section 9705 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9705&num=0&edition=prelim) or any other law, property is forfeited pursuant to a law enforced or administered by the Department of Justice if it is forfeited pursuant to—
 
@@ -1798,6 +1798,10 @@ Section 605 of Public Law 103–121, referred to in subsec. (c)(8)(E), is sectio
 Amendment by Pub. L. 104–91 is based on section 109 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
 
 #### Amendments
+2025—Subsec. (c)(4)(C). Pub. L. 119–60, § 7207(d)(1)(A), substituted “section 9705(f)(4)(A)” for “section 9705(g)(4)(A)”.
+
+Subsec. (c)(10). Pub. L. 119–60, § 7207(d)(1)(B), substituted “section 9705(n)” for “section 9705(o)”.
+
 2023—Subsec. (c)(1)(J). Pub. L. 117–347 added subpar. (J).
 
 2018—Subsec. (c)(1)(B). Pub. L. 115–392 inserted “, chapter 110 of title 18” after “chapter 77 of title 18”.

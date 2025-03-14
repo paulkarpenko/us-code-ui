@@ -2,7 +2,7 @@
 title: 14
 chapter: '19'
 heading: COAST GUARD ACADEMY
-section_count: 24
+section_count: 28
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -21,6 +21,12 @@ This section is new. There is no provision in existing law which establishes the
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 181 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section181&num=0&edition=prelim) as this section.
 
+#### Installation of Behavioral Health and Medical Privacy Rooms
+Pub. L. 119–60, div. G, title LXXII, § 7251, Dec. 18, 2025, 139 Stat. 1733, provided that: “(a) In General.—Not later than 2 years after the date of enactment of this Act [Dec. 18, 2025], the Secretary of the department in which the Coast Guard is operating shall install or construct at the Coast Guard Academy not fewer than 2 rooms to be used for the purpose of supporting cadet and officer candidate behavioral health and other medical or other health-related services. “(b) Standards of Rooms.—Each room installed or constructed under this section shall—“(1) be equipped—“(A) in a manner that ensures the protection of the privacy of cadets and officer candidates, consistent with law and policy; “(B) with a telephone and computer to allow for the provision of behavioral health and wellness support or other services; and “(C) with an accessible and private wireless internet connection for the use of personal communications devices at the discretion of the cadet or officer candidate concerned; and “(2) to the extent practicable and consistent with good order and discipline, be accessible to cadets and officer candidates at all times; and “(3) contain the written information described in section 7250 [of Pub. L. 119–60, [14 U.S.C. 1902](./chapter-019-coast-guard-academy.md#section-1902) note], which shall be posted in a visible location.”
+
+#### Comptroller General Report on Safety and Security Infrastructure at Coast Guard Academy
+Pub. L. 119–60, div. G, title LXXVI, § 7608, Dec. 18, 2025, 139 Stat. 1830, provided that: “(a) GAO Report.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [Dec. 18, 2025], the Comptroller General of the United States shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the safety and security infrastructure at the Coast Guard Academy. “(2) Elements.—The report required under paragraph (1) shall include an assessment of each of the following:“(A) Existing security infrastructure for the grounds, buildings, athletic facilities, and any other facility of the Coast Guard Academy, including access points, locks, surveillance, and other security methods, as appropriate. “(B) Coast Guard policies with respect to the management, data storage and access, and operational capacity of the security infrastructure and methods evaluated under subparagraph (A). “(C) Special security needs relating to events at the Coast Guard Academy, such as large athletic events and other widely attended events. “(D) Coast Guard policies and procedures with respect to access to Coast Guard Academy grounds by—“(i) current or former members of the Coast Guard; “(ii) current or former civilian employees of the Coast Guard; “(iii) Coast Guard personnel that reside at the Academy and families of cadets; and “(iv) members of the public. “(E) Existing processes by which the Commandant [of the Coast Guard], the Superintendent of the Coast Guard Academy, or a designated individual may prohibit or restrict access to Coast Guard Academy grounds by any current or former member or civilian employee of the Coast Guard who—“(i) has been subject to court-martial under the Uniform Code of Military Justice [[10 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section801&num=0&edition=prelim) et seq.] for sexual misconduct; or “(ii) has been administratively disciplined for sexual misconduct. “(F) Enforcement processes regarding access to Coast Guard Academy grounds for individuals (including current and former cadets, members, and civilian employees of the Coast Guard) who are or have been subject to a no-contact order relating to—“(i) a cadet or member of the faculty of the Academy; or “(ii) any other individual with access to Academy grounds. “(G) Recommendations to improve—“(i) the security of the Coast Guard Academy; and “(ii) the safety of— “(I) cadets at the Coast Guard Academy; and “(II) members of the Coast Guard stationed at, and civilian employees of, the Coast Guard Academy. “(b) Actions by Commandant.—“(1) Report.—Not later than 180 days after the date on which the Comptroller General submits the report required under subsection (a), the Commandant [of the Coast Guard] shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—“(A) a detailed plan to improve the security of, and the safety of cadets at, the Coast Guard Academy; and “(B) a detailed timeline for implementation of—“(i) the recommendations made by the Comptroller General in such report; and “(ii) any other safety improvement the Commandant [of the Coast Guard] considers appropriate. “(2) Policy.—Not later than 30 days after the date on which the Comptroller General submits the report required under subsection (a), the Commandant [of the Coast Guard], in a manner that maintains good order and discipline, shall update Coast Guard policy relating to access to the Coast Guard Academy grounds to include procedures by which individuals may be prohibited from accessing the Coast Guard Academy—“(A) as the Commandant [of the Coast Guard] considers appropriate; and “(B) consistent with the recommendations made by the Comptroller General in such report.”
+
 #### Cadet Pregnancy Policy Improvements
 Pub. L. 117–263, div. K, title CXIV, § 11403, Dec. 23, 2022, 136 Stat. 4109, provided that: “(a) Regulations Required.—Not later than 18 months after the date of enactment of this Act [Dec. 23, 2022], the Secretary, in consultation with the Secretary of Defense, shall prescribe regulations for the Coast Guard Academy consistent with regulations required to be promulgated by section 559(a) of the National Defense Authorization Act of 2022 (Public Law 117–81) [probably means section 559A(a) of the National Defense Authorization Act for Fiscal Year 2022 (Pub. L. 117–81), set out as a note under [section 7431 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7431&num=0&edition=prelim), Armed Forces]. “(b) Briefing.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing on the development of the regulations required by subsection (a).”
 
@@ -31,7 +37,7 @@ Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8272, Jan. 1, 2021, 134 St
 
 
 <a id="section-1902"></a>
-## § 1902. Policy on sexual harassment and sexual violence
+## § 1902. Academy policy and report on covered misconduct
 **(a) Required Policy.—** The Commandant shall direct the Superintendent of the Coast Guard Academy to prescribe a policy on sexual harassment and sexual violence applicable to the cadets and other personnel of the Academy.
 
 **(b) Matters To Be Specified in Policy.—** The policy on sexual harassment and sexual violence under this section shall include specification of the following:
@@ -56,55 +62,206 @@ Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8272, Jan. 1, 2021, 134 St
 
 **(c) Assessment.—**
 
-(1) **In general.—** — The Commandant shall direct the Superintendent to conduct at the Academy during each Academy program year an assessment to determine the effectiveness of the policies of the Academy with respect to sexual harassment and sexual violence involving cadets or other Academy personnel.
+(1) **In general.—** — The Commandant shall direct the Superintendent of the Coast Guard Academy to conduct at the Coast Guard Academy during each Academy program year an assessment to determine the effectiveness of the policies of the Academy with respect to covered misconduct involving cadets or other military or civilian personnel of the Academy.
 
-(2) **Biennial survey.—** — For the assessment at the Academy under paragraph (1) with respect to an Academy program year that begins in an odd-numbered calendar year, the Superintendent shall conduct a survey of cadets and other Academy personnel—
+(2) **Biennial survey.—** — For the assessment at the Academy under paragraph (1) with respect to an Academy program year that begins in an odd-numbered calendar year, the Superintendent shall conduct a survey of cadets and other military and civilian personnel of the Academy—
 
-  (A) to measure—
+  (A) to measure the incidence, during such program year—
 
-    (i) the incidence, during that program year, of sexual harassment and sexual violence events, on or off the Academy reservation, that have been reported to an official of the Academy; and
+    (i) of covered misconduct events, on or off the Academy campus, that have been reported to an official of the Academy;
 
-    (ii) the incidence, during that program year, of sexual harassment and sexual violence events, on or off the Academy reservation, that have not been reported to an official of the Academy; and
+    (ii) of covered misconduct events, on or off the Academy campus, that have not been reported to an official of the Academy; and
 
-  (B) to assess the perceptions of the cadets and other Academy personnel with respect to—
+    (iii) of retaliation related to a report of a covered misconduct event, on or off the Academy campus; and
 
-    (i) the Academy’s policies, training, and procedures on sexual harassment and sexual violence involving cadets or other Academy personnel;
+  (B) to assess the perceptions of the cadets and other military and civilian personnel of the Academy with respect to—
+
+    (i) the Academy’s policies, training, and procedures on covered misconduct involving cadets and other military and civilian personnel of the Academy;
 
     (ii) the enforcement of such policies;
 
-    (iii) the incidence of sexual harassment and sexual violence involving cadets or other Academy personnel; and
+    (iii) the incidence of covered misconduct involving cadets and other military and civilian personnel of the Academy; and
 
-    (iv) any other issues relating to sexual harassment and sexual violence involving cadets or other Academy personnel.
+    (iv) any other issues relating to covered misconduct involving cadets and other military and civilian personnel of the Academy.
 
 **(d) Report.—**
 
-(1) **In general.—** — The Commandant shall direct the Superintendent to submit to the Commandant a report on sexual harassment and sexual violence involving cadets or other Academy personnel for each Academy program year.
+(1) **In general.—** — Not earlier than 1 year after the date of enactment of the Coast Guard Authorization Act of 2025, and each March 1 thereafter through March 1, 2031, the Commandant shall direct the Superintendent to submit to the Commandant a report on incidents of covered misconduct and retaliation for reporting of covered misconduct involving cadets or other military and civilian personnel of the Academy.
 
-(2) **Report specifications.—** — Each report under paragraph (1) shall include, for the Academy program year covered by the report, the following:
+(2) **Elements.—**
 
-  (A) The number of sexual assaults, rapes, and other sexual offenses involving cadets or other Academy personnel that have been reported to Academy officials during the Academy program year and, of those reported cases, the number that have been substantiated.
+  (A) *In general.—* — Each report required under paragraph (1) shall include the following:
 
-  (B) A plan for the actions that are to be taken in the following Academy program year regarding prevention of and response to sexual harassment and sexual violence involving cadets or other Academy personnel.
+    (i) Information and data on all incidents of covered misconduct and retaliation described in paragraph (1) reported to the Superintendent or any other official of the Academy during the preceding Academy program year (referred to in this subsection as a “reported incident”),
 
-(3) **Biennial survey.—** — Each report under paragraph (1) for an Academy program year that begins in an odd-numbered calendar year shall include the results of the survey conducted in that Academy program year under subsection (c)(2).
+    (ii) The number of reported incidents committed against a cadet or any other military or civilian personnel of the Academy.
 
-(4) **Transmission of report.—** — The Commandant shall transmit each report received by the Commandant under this subsection, together with the Commandant’s comments on the report, to—
+    (iii) The number of reported incidents committed by a cadet or any other military or civilian personnel of the Academy.
 
-  (A) the Committee on Commerce, Science, and Transportation of the Senate; and
+    (iv) Information on reported incidents, in accordance with the policy prescribed under section 549G(b) of the National Defense Authorization Act for Fiscal Year 2022 ([10 U.S.C. 1561](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1561&num=0&edition=prelim) note), to the maximum extent practicable.
 
-  (B) the Committee on Transportation and Infrastructure of the House of Representatives.
+    (v) The number of reported incidents that were entered into the Catch a Serial Offender system, including the number of such incidents that resulted in the identification of a potential or confirmed match.
 
-(5) **Focus groups.—**
+    (vi) The number of reported incidents that were substantiated (referred to in this subsection as a “substantiated reported incident”).
 
-  (A) *In general.—* — For each Academy program year with respect to which the Superintendent is not required to conduct a survey at the Academy under subsection (c)(2), the Commandant shall require focus groups to be conducted at the Academy for the purposes of ascertaining information relating to sexual assault and sexual harassment issues at the Academy.
+    (vii) A synopsis of each substantiated reported incident that includes—
 
-  (B) *Inclusion in reports.—* — Information derived from a focus group under subparagraph (A) shall be included in the next transmitted Commandant’s report under this subsection.
+      (I) a brief description of the nature of the incident;
 
-**(e) Victim Confidentiality.—** To the extent that information collected under the authority of this section is reported or otherwise made available to the public, such information shall be provided in a form that is consistent with applicable privacy protections under Federal law and does not jeopardize the confidentiality of victims.
+      (II) whether the accused cadet or other military or civilian personnel of the Academy had previously been convicted of sexual assault; and
+
+      (III) whether alcohol or other controlled or prohibited substances were involved in the incident, and a description of the involvement.
+
+    (viii) The type of case disposition associated with each substantiated reported incident, such as—
+
+      (I) conviction and sentence by court-martial, including charges and specifications for which convicted;
+
+      (II) acquittal of all charges at court-martial;
+
+      (III) as appropriate, imposition of a nonjudicial punishment under [section 815 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section815&num=0&edition=prelim) (article 15 of the Uniform Code of Military Justice);
+
+      (IV) as appropriate, administrative action taken, including a description of each type of such action imposed;
+
+      (V) dismissal of all charges, including a description of each reason for dismissal and the stage at which dismissal occurred; and
+
+      (VI) whether the accused cadet or other military or civilian personnel of the Academy was administratively separated or, in the case of an officer, allowed to resign in lieu of court martial, and the characterization (honorable, general, or other than honorable) of the service of the military member upon separation or resignation.
+
+    (ix) With respect to any incident of covered misconduct involving cadets or other military and civilian personnel of the Academy reported to the Superintendent or any other official of the Academy during the preceding Academy program year that involves a report of retaliation relating to the incident—
+
+      (I) a narrative description of the retaliation claim;
+
+      (II) the nature of the relationship between the complainant and the individual accused of committing the retaliation; and
+
+      (III) the nature of the relationship between the individual accused of committing the covered misconduct and the individual accused of committing the retaliation.
+
+    (x) With respect to any investigation of a reported incident—
+
+      (I) whether the investigation is in open or completed status;
+
+      (II) an identification of the investigating entity;
+
+      (III) whether a referral has been made to outside law enforcement entities;
+
+      (IV) in the case of an investigation that is complete, a description of the results of such an investigation and information with respect to whether the results of the investigation were provided to the complainant; and
+
+      (V) whether the investigation substantiated an offense under chapter 47 of title 10 (the Uniform Code of Military Justice).
+
+  (B) *Format.—* — With respect to the information and data required under subparagraph (A), the Commandant shall report such information and data separately for each type of covered misconduct offense, and shall not aggregate the information and data for multiple types of covered misconduct offenses.
+
+(3) **Trends.—** — Subject to subsection (f), beginning on the date of enactment of the Coast Guard Authorization Act of 2025, each report required under paragraph (1) shall include an analysis of trends in incidents described in paragraph (1), as applicable, since the date of enactment of the Coast Guard and Maritime Transportation Act of 2012 (Public Law 112–213).
+
+(4) **Response.—** — Each report required under paragraph (1) shall include, for the preceding Academy program year, a description of the policies, procedures, processes, initiatives, investigations (including overarching investigations), research, or studies implemented by the Commandant in response to any incident described in paragraph (1) involving a cadet or any other military or civilian personnel of the Academy.
+
+(5) **Plan.—** — Each report required under paragraph (1) shall include a plan for actions to be taken during the year following the Academy program year covered by the report to enhance the prevention of and response to incidents of covered misconduct and retaliation for reporting of covered misconduct involving cadets or other military or civilian personnel of the Academy.
+
+(6) **Covered misconduct prevention and response activities.—** — Each report required under paragraph (1) shall include an assessment of the adequacy of covered misconduct prevention and response carried out by the Academy during the preceding Academy program year.
+
+(7) **Contributing factors.—** — Each report required under paragraph (1) shall include, for incidents of covered misconduct and retaliation for reporting of covered misconduct involving cadets or other military or civilian personnel of the Academy—
+
+  (A) an analysis of the factors that may have contributed to such incidents;
+
+  (B) an assessment of the role of such factors in contributing to such incidents during such Academy program year; and
+
+  (C) recommendations for mechanisms to eliminate or reduce such contributing factors.
+
+(8) **Biennial survey.—** — Each report under paragraph (1) for an Academy program year that begins in an odd-numbered calendar year shall include the results of the survey conducted under subsection (c)(2) in such Academy program year.
+
+(9) **Focus groups.—** — For each Academy program year with respect to which the Superintendent is not required to conduct a survey at the Academy under subsection (c)(2), the Commandant shall require focus groups to be conducted at the Academy for the purpose of ascertaining information relating to covered misconduct issues at the Academy.
+
+(10) **Submission of report; briefing.—**
+
+  (A) *Submission.—* — Not later than 270 days after the date on which the Commandant receives a report from the Superintendent under paragraph (1), the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, as an enclosure or appendix to the report required by section 5112 11 So in original. Probably should be followed by “of this title”.—
+
+    (i) the report of the Superintendent;
+
+    (ii) the comments of the Commandant with respect to the report; and
+
+    (iii) relevant information gathered during a focus group under subparagraph (A) 22 So in original. Probably should be “paragraph (9)”. during the Academy program year covered by the report, as applicable.
+
+  (B) *Briefing.—* — Not later than 180 days after the date on which the Commandant submits a report under subparagraph (A), the Commandant shall provide a briefing on the report submitted under subparagraph (A) to—
+
+    (i) the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+    (ii) the Secretary of Homeland Security.
+
+**(e) Victim Confidentiality.—** To the extent that information collected or reported under the authority of this section, such information shall be provided in a form that is consistent with applicable privacy protections under Federal law and does not jeopardize the confidentiality of victims.
+
+**(f) Continuity of Data and Reporting.—** In carrying out this section, the Commandant shall ensure the continuity of data collection and reporting such that the ability to analyze trends is not compromised.
+
+**(g) Consideration of Request for Transfer of Cadet Who Is the Victim of Sexual Assault or Related Offense.—**
+
+(1) **In general.—** — The Commandant shall provide for timely consideration of and action on a request submitted by a cadet appointed to the Coast Guard Academy who is the victim of an alleged sexual assault or other offense covered by section 920, 920c, or 930 of title 10 (article 120, 120c, or 130 of the Uniform Code of Military Justice) for transfer to another military service academy or to enroll in a Senior Reserve Officers’ Training Corps program affiliated with another institution of higher education.
+
+(2) **Regulations.—** — The Commandant, in consultation with the Secretary of Defense, shall establish policies to carry out this subsection that—
+
+  (A) provide that the Superintendent shall ensure that any cadet who has been appointed to the Coast Guard Academy is informed of the right to request a transfer pursuant to this subsection, and that any formal request submitted by a cadet who alleges an offense referred to in paragraph (1) is processed as expeditiously as practicable through the chain of command for review and action by the Superintendent;
+
+  (B) direct the Superintendent, in coordination with the Superintendent of the military service academy to which the cadet requests to transfer—
+
+    (i) to take action on a request for transfer under this subsection not later than 5 calendar days after receiving the formal request from the cadet;
+
+    (ii) to approve such request for transfer unless there are exceptional circumstances that require denial of the request;
+
+    (iii) upon approval of such request for transfer, to take all necessary and appropriate action to effectuate the transfer of the cadet to the military service academy concerned as expeditiously as possible, subject to the considerations described in clause (iv); and
+
+    (iv) in determining the transfer date of the cadet to the military service academy concerned, to take into account—
+
+      (I) the preferences of the cadet, including any preference to delay transfer until the completion of any academic course in which the cadet is enrolled at the time of the request for transfer; and
+
+      (II) the well-being of the cadet; and
+
+  (C) direct the Superintendent of the Coast Guard Academy, in coordination with the Secretary of the military department that sponsors the Senior Reserve Officers’ Training Corps program at the institution of higher education to which the cadet requests to transfer—
+
+    (i) to take action on a request for transfer under this subsection not later than 5 calendar days after receiving the formal request from the cadet;
+
+    (ii) subject to the cadet’s acceptance for admission to the institution of higher education to which the cadet wishes to transfer, to approve such request for transfer unless there are exceptional circumstances that require denial of the request;
+
+    (iii) to take all necessary and appropriate action to effectuate the cadet’s enrollment in the institution of higher education to which the cadet wishes to transfer and to process the cadet for participation in the relevant Senior Reserve Officers’ Training Corps program as expeditiously as possible, subject to the considerations described in clause (iv); and
+
+    (iv) in determining the transfer date of the cadet to the institution of higher education to which the cadet wishes to transfer, to take into account—
+
+      (I) the preferences of the cadet, including any preference to delay transfer until the completion of any academic course in which the cadet is enrolled at the time of the request for transfer; and
+
+      (II) the well-being of the cadet.
+
+(3) **Review.—** — If the Superintendent denies a request for transfer under this subsection, the cadet may request review of the denial by the Secretary, who shall take action on such request for review not later than 5 calendar days after receipt of such request.
+
+(4) **Confidentiality.—** — The Secretary shall ensure that all records of any request, determination, transfer, or other action under this subsection remain confidential, consistent with applicable law and regulation.
+
+(5) **Effect of other law.—** — A cadet who transfers under this subsection may retain the cadet’s appointment to the Coast Guard Academy or may be appointed to the military service academy to which the cadet transfers without regard to the limitations and requirements set forth in sections 7442, 8454, and 9442 of title 10.
+
+(6) **Commission as officer in the coast guard.—**
+
+  (A) *In general.—* — Upon graduation, a graduate of the United States Military Academy, the United States Air Force Academy, or the United States Naval Academy who transferred to that academy under this subsection is entitled to be accepted for appointment as a permanent commissioned officer in the Regular Coast Guard in the same manner as graduates of the Coast Guard Academy, as set forth in [section 2101 of this title](./chapter-021-personnel-officers.md#section-2101).
+
+  (B) *Commission as officer in other armed force.—*
+
+    (i) *In general.—* — A cadet who transfers under this subsection to the United States Military Academy, the United States Air Force Academy, or the United States Naval Academy and indicates a preference pursuant to clause (ii) may be appointed as a commissioned officer in an armed force associated with the academy from which the cadet graduated.
+
+    (ii) *Statement of preference.—* — A cadet seeking appointment as a commissioned officer in an armed force associated with the academy from which the cadet graduated under clause (i) shall, before graduating from that academy, indicate to the Commandant that the cadet has a preference for appointment to that armed force.
+
+    (iii) *Consideration by coast guard.—* — The Commandant shall consider a preference of a cadet indicated pursuant to clause (ii), but may require the cadet to serve as a permanent commissioned officer in the Regular Coast Guard instead of being appointed as a commissioned officer in an armed force associated with the academy from which the cadet graduated.
+
+    (iv) *Treatment of service agreement.—* — With respect to a service agreement entered into under [section 1925 of this title](./chapter-019-coast-guard-academy.md#section-1925) by a cadet who transfers under this subsection to the United States Military Academy, the United States Air Force Academy, or the United States Naval Academy and is appointed as a commissioned officer in an armed force associated with that academy, the service obligation undertaken under such agreement shall be considered to be satisfied upon the completion of 5 years of active duty service in the service of such armed force.
+
+  (C) *Senior reserve officers’ training corps program.—* — A cadet who transfers under this subsection to a Senior Reserve Officers’ Training Corps program affiliated with another institution of higher education is entitled upon graduation from the Senior Reserve Officers’ Training program to commission into the Coast Guard, as set forth in [section 3738a of this title](./chapter-037-coast-guard-reserve.md#section-3738a).
+
+**(h) Room Reassignment.—** Coast Guard Academy cadets may request room reassignment if experiencing discomfort due to Coast Guard Academy rooming assignments, consistent with policy.
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of the Coast Guard Authorization Act of 2025, referred to in subsec. (d)(1), (3), is the date of enactment of div. G of Pub. L. 119–60, which was approved Dec. 18, 2025.
+
+Section 549G(b) of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (d)(2)(A)(iv), is section 549G(b) of Pub. L. 117–81, which is set out as a note under [section 1561 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1561&num=0&edition=prelim), Armed Forces.
+
+The date of enactment of the Coast Guard and Maritime Transportation Act of 2012, referred to in subsec. (d)(3), is the date of enactment of Pub. L. 112–213, which was approved Dec. 20, 2012.
+
 #### Amendments
+2025—Pub. L. 119–60, § 7241(a)(1), substituted “Academy policy and report on covered misconduct” for “Policy on sexual harassment and sexual violence” in section catchline.
+
+Subsecs. (c) to (h). Pub. L. 119–60, § 7241(a)(2), added subsecs. (c) to (h) and struck out former subsecs. (c) to (e) which related to assessment, report, and victim confidentiality, respectively.
+
 2021—Subsec. (b)(3)(A). Pub. L. 116–283, § 8505(a)(11)(A), substituted “individual or individuals” for “person or persons”.
 
 Subsec. (b)(3)(B). Pub. L. 116–283, § 8505(a)(11)(B), substituted “individual” for “person”.
@@ -112,6 +269,15 @@ Subsec. (b)(3)(B). Pub. L. 116–283, § 8505(a)(11)(B), substituted “individu
 2018—Pub. L. 115–282 renumbered [section 200 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section200&num=0&edition=prelim) as this section.
 
 Subsec. (a). Pub. L. 115–232 substituted “Commandant” for “Commandant of the Coast Guard”.
+
+#### Electronic Locking Mechanisms to Ensure Coast Guard Academy Cadet Room Security
+Pub. L. 119–60, div. G, title LXXII, § 7248, Dec. 18, 2025, 139 Stat. 1731, provided that: “(a) In General.—Not later than 2 years after the date of enactment of this Act [Dec. 18, 2025], the Commandant [of the Coast Guard], in consultation with the Superintendent of the Coast Guard Academy (referred to in this section as the ‘Superintendent’), shall—“(1) install an electronic locking mechanism for each room at the Coast Guard Academy within which 1 or more Coast Guard Academy cadets reside overnight; “(2) test each such mechanism not less than once every 6 months for proper function and maintained [sic] in proper working order; and “(3) use a system that electronically records the date, time, and identity of each individual who accesses a cadet room using an electronic access token, code, card, or other electronic means, which shall be maintained in accordance with the general schedule for records retention, or a period of five years, whichever is later. “(b) Electronic Locking Mechanisms.—“(1) In general.—Each electronic locking mechanism described in subsection (a) shall be coded in a manner that provides access to a room described in such subsection only to—“(A) the 1 or more cadets assigned to the room; and “(B) such Coast Guard Academy officers, administrators, staff, or security personnel, including personnel of the Coast Guard Investigative Service, as are necessary to access the room in the event of an emergency. “(2) Existing mechanisms.—Not later than 30 days after the date of enactment of this Act, the Superintendent shall ensure that electronic locking mechanisms installed in academic buildings of the Coast Guard Academy, Chase Hall common spaces, and in any other location at the Coast Guard Academy are maintained in proper working order. “(c) Access Policy Instruction.—Not later than 1 year after the date of enactment of this Act, the Superintendent shall promulgate a policy regarding cadet room security policies and procedures, which shall include, at a minimum—“(1) a prohibition on sharing with any other cadet, employee, or other individual electronic access tokens, codes, cards, or other electronic means of accessing a cadet room; “(2) procedures for resetting electronic locking mechanisms in the event of a lost, stolen, or otherwise compromised electronic access token, code, card, or other electronic means of accessing a cadet room; “(3) procedures to maintain the identity of each individual who accesses a cadet room using an electronic access token, code, card, or other electronic means, while ensuring the security of personally identifiable information and protecting the privacy of any such individual, as appropriate; “(4) procedures by which cadets may report to the chain of command the malfunction of an electronic locking mechanism; and “(5) a schedule of testing to ensure the proper functioning of electronic locking mechanisms. “(d) Minimum Training Requirements.—The Superintendent shall ensure that each Coast Guard Academy cadet receives, not later than 1 day after the date of the initial arrival of the cadet at the Coast Guard Academy, an initial training session, and any other training the Superintendent considers necessary, on—“(1) the use of electronic locking mechanisms installed under this section; and “(2) the policy promulgated under subsection (c).”
+
+#### Required Posting of Information
+Pub. L. 119–60, div. G, title LXXII, § 7250, Dec. 18, 2025, 139 Stat. 1733, provided that: “The Commandant [of the Coast Guard] shall ensure that, in each building at the Coast Guard Academy that contains a dormitory or other overnight accommodations for cadets or officer candidates, written information is posted in a visible location with respect to— “(1) the methods and means by which a cadet or officer candidate may report a crime, including harassment, sexual assault, sexual harassment, and any other offense; “(2) the contact information for the Coast Guard Investigative Service; “(3) external resources for—“(A) wellness support; “(B) work-life; “(C) medical services; and “(D) support relating to behavioral health, civil rights, sexual assault, and sexual harassment; and “(4) cadet and officer candidate rights with respect to reporting incidents to the Coast Guard Investigative Service, civilian authorities, the Office of the Inspector General of the department in which the Coast Guard is operating, and any other applicable entity.”
+
+#### Review and Modification of Coast Guard Academy Policy on Sexual Harassment and Sexual Violence
+Pub. L. 119–60, div. G, title LXXII, § 7252, Dec. 18, 2025, 139 Stat. 1734, provided that: “(a) In General.—The Superintendent of the Coast Guard Academy (referred to in this section as the ‘Superintendent’) shall—“(1) not later than 60 days after the date of enactment of this Act [Dec. 18, 2025], commence a review of the Coast Guard Academy policy on sexual harassment and sexual violence established in accordance with [section 1902 of title 14](./chapter-019-coast-guard-academy.md#section-1902), United States Code, that includes an evaluation as to whether any long-standing Coast Guard Academy tradition, system, process, or internal policy impedes the implementation of necessary evidence-informed best practices followed by other military service academies in prevention, response, and recovery relating to sexual harassment and sexual violence; and “(2) not later than 180 days after the date of enactment of this Act—“(A) complete such review; and “(B) modify such policy in accordance with subsection (b). “(b) Modifications to Policy.—In modifying the Coast Guard Academy policy on sexual harassment and sexual violence referred to in subsection (a), the Superintendent shall ensure that such policy includes the following:“(1) Each matter required to be specified by [section 1902(b) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section1902/b&num=0&edition=prelim), United States Code. “(2) Updates to achieve compliance with chapter 47 of title 10, United States Code (Uniform Code of Military Justice). “(3) A description of the roles and responsibilities of staff of the Coast Guard Academy Sexual Assault Prevention, Response, and Recovery program, including—“(A) the Sexual Assault Response Coordinator; “(B) the Victim Advocate Program Specialist; “(C) the Volunteer Victim Advocate; and “(D) the Primary Prevention Specialist, as established under subsection (c). “(4) A description of the role of the Coast Guard Investigative Service with respect to sexual harassment and sexual violence prevention, response, and recovery at the Coast Guard Academy. “(5) A description of the role of support staff at the Coast Guard Academy, including chaplains, with respect to sexual harassment and sexual violence prevention, response, and recovery. “(6) Measures to promote awareness of dating violence. “(7) A delineation of the relationship between—“(A) cadet advocacy groups organized for the prevention of, response to, and recovery from sexual harassment and sexual violence, including Cadets Against Sexual Assault; and “(B) the staff of the Coast Guard Academy Sexual Assault Prevention, Response, and Recovery program. “(8) A provision that requires cadets and Coast Guard Academy personnel to participate in not fewer than one in-person training each academic year on the prevention of, responses to, and resources relating to incidents of sexual harassment and sexual violence, to be provided by the staff of the Coast Guard Academy Sexual Assault Prevention, Response, and Recovery program. “(9) The establishment, revision, or expansion, as necessary, of an anti-retaliation Superintendent’s Instruction for cadets who—“(A) report incidents of sexual harassment or sexual violence; “(B) participate in cadet advocacy groups that advocate for the prevention of, response to, and recovery from sexual harassment and sexual violence; or “(C) seek assistance from a company officer, company senior enlisted leader, athletic coach, or other Coast Guard Academy staff member with respect to a mental health or other medical emergency. “(10) A provision that explains the purpose of and process for issuance of a no-contact order at the Coast Guard Academy, including a description of the manner in which such an order shall be enforced. “(11) A provision that explains the purpose of and process for issuance of a military protective order at the Coast Guard Academy, including a description of—“(A) the manner in which such an order shall be enforced; and “(B) the associated requirement to notify the National Criminal Information Center of the issuance of such an order. “(c) Primary Prevention Specialist.—Not later than 180 days after the date of enactment of this Act, the Superintendent shall hire a Primary Prevention Specialist, to be located and serve at the Coast Guard Academy. “(d) Temporary Leave of Absence to Receive Medical Services and Mental Health and Related Support Services.—The Superintendent shall ensure that the Academy’s policy regarding a cadet who has made a restricted or unrestricted report of sexual harassment to request a leave of absence from the Coast Guard Academy is consistent with other military service academies.”
 
 #### Policy for Military Service Academies on Separation of Alleged Victims and Alleged Perpetrators in Incidents of Sexual Assault
 Secretary of Defense to consult with Secretaries of the military departments and Superintendent of each military service academy and prescribe in regulations a policy that allows a cadet or midshipman of a military service academy who is the alleged victim or alleged perpetrator of a sexual assault to complete their course of study at the academy with minimal disruption and does not preclude the academy from taking other administrative or disciplinary action, see section 539 of Pub. L. 116–283, set out as a note under [section 7461 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7461&num=0&edition=prelim), Armed Forces.
@@ -131,33 +297,65 @@ Pub. L. 113–291, div. A, title V, § 552(b), Dec. 19, 2014, 128 Stat. 3377, pr
 
 (1) **In general.—** — The membership of the Board shall consist of the following:
 
-  (A) The chairman of the Committee on Commerce, Science, and Transportation of the Senate, or the chairman’s designee.
+  (A) The chairperson of the Committee on Commerce, Science, and Transportation of the Senate, or a member of such Committee designated by such chairperson.
 
-  (B) The chairman of the Committee on Transportation and Infrastructure of the House of Representatives, or the chairman’s designee.
+  (B) The chairperson of the Committee on Transportation and Infrastructure of the House of Representatives, or a member of such Committee designated by such chairperson.
 
-  (C) 3 Members of the Senate designated by the Vice President.
+  (C) 3 Senators appointed by the Vice President.
 
-  (D) 4 Members of the House of Representatives designated by the Speaker of the House of Representatives.
+  (D) 4 Members of the House of Representatives appointed by the Speaker of the House of Representatives.
 
-  (E) 6 individuals designated by the President.
+  (E) 2 Senators appointed by the Vice President, each of whom shall be selected from among members of the Committee on Appropriations of the Senate.
 
-(2) **Length of service.—**
+  (F) 2 Members of the House of Representatives appointed by the Speaker of the House of Representatives, each of whom shall be selected from among members of the Committee on Appropriations of the House of Representatives.
 
-  (A) *Members of congress.—* — A Member of Congress designated under subparagraph (C) or (D) of paragraph (1) as a member of the Board shall be designated as a member in the First Session of a Congress and serve for the duration of that Congress.
+  (G) 6 individuals designated by the President.
 
-  (B) *Individuals designated by the president.—* — Each individual designated by the President under subparagraph (E) of paragraph (1) shall serve as a member of the Board for 3 years, except that any such member whose term of office has expired shall continue to serve until a successor is appointed by the President.
+(2) **Timing of appointments of members.—**
 
-(3) **Death or resignation of a member.—** — If a member of the Board dies or resigns, a successor shall be designated for any unexpired portion of the term of the member by the official who designated the member.
+  (A) *Senators.—* — If any member of the Board described in paragraph (1)(C) is not appointed by the date that is 180 days after the date on which the first session of each Congress convenes, the chair and ranking member of the subcommittee of the Committee on Commerce, Science, and Transportation of the Senate with jurisdiction over the authorization of appropriations of the Coast Guard shall be members of the Board until the date on which the second session of such Congress adjourns sine die.
+
+  (B) *Members of the house of representatives.—* — If any member of the Board described in paragraph (1)(D) is not appointed by the date that is 180 days after the date on which the first session of each Congress convenes, the chair and ranking member of the subcommittee of the Committee on Transportation and Infrastructure of the House of Representatives with jurisdiction over the authorization of appropriations for the Coast Guard shall be members of the Board until the date on which the second session of such Congress adjourns sine die.
+
+  (C) *Members of the committee on appropriations of the senate.—* — If any member of the Board described in paragraph (1)(E) is not appointed by the date that is 180 days after the date on which the first session of each Congress convenes, the chair and ranking member of the subcommittee of the Committee on Appropriations of the Senate with jurisdiction over appropriations for the Coast Guard shall be members of the Board until the date on which the second session of such Congress adjourns sine die.
+
+  (D) *Members of the committee on appropriations of the house of representatives.—* — If any member of the Board described in paragraph (1)(F) is not appointed by the date that is 180 days after the date on which the first session of each Congress convenes, the chair and ranking member of the subcommittee of the Committee on Appropriations of the House of Representatives with jurisdiction over appropriations for the Coast Guard shall be members of the Board until the date on which the second session of such Congress adjourns sine die.
+
+(3) **Chairperson.—**
+
+  (A) *In general.—* — On a biennial basis and subject to paragraph (4), the Board shall select from among the members of the Board a Member of Congress to serve as the Chair of the Board.
+
+  (B) *Rotation.—* — A Member of the House of Representatives and a Member of the Senate shall alternately be selected as the Chair of the Board.
+
+  (C) *Term.—* — An individual may not serve as Chairperson of the Board for consecutive terms.
+
+(4) **Length of service.—**
+
+  (A) *Members of congress.—* — A Member of Congress designated as a member of the Board under paragraph (1) shall be designated as a member in the first session of the applicable Congress and shall serve for the duration of such Congress.
+
+  (B) *Individuals designated by the president.—* — Each individual designated by the President under paragraph (1)(G) shall serve as a member of the Board for 3 years, except that any such member whose term of office has expired shall continue to serve until a successor is appointed by the President.
+
+  (C) *Death or resignation of a member.—* — If a member of the Board dies or resigns, a successor shall be designated for any unexpired portion of the term of the member by the official who designated the member.
 
 **(c) Academy Visits.—**
 
-(1) **Annual visit.—** — The Board shall visit the Academy annually to review the operation of the Academy.
+(1) **Annual visit.—** — The Commandant shall invite each member of the Board, and any staff designated under subsection (e)(2)(A), to visit the Coast Guard Academy at least once annually to review the operation of the Academy.
 
-(2) **Additional visits.—** — With the approval of the Secretary, the Board or individual members of the Board may make other visits to the Academy in connection with the duties of the Board or to consult with the Superintendent of the Academy.
+(2) **Additional visits.—** — With the approval of the Secretary, the Board or any members of the Board in connection with the duties of the Board may—
+
+  (A) make visits to the Academy in addition to the visits described in paragraph (1); or
+
+  (B) consult with—
+
+    (i) the Superintendent of the Academy; or
+
+    (ii) the faculty, staff, or cadets of the Academy.
+
+(3) **Access.—** — The Commandant shall ensure that the Board or any members of the Board who visits the Academy under this paragraph is provided reasonable access to the grounds, facilities, cadets, faculty, staff, and other personnel of the Academy for the purpose of carrying out the duties of the Board.
 
 **(d) Scope of Review.—** The Board shall review, with respect to the Academy—
 
-(1) the state of morale and discipline;
+(1) the state of morale and discipline, including with respect to prevention of, response to, and recovery from sexual assault and sexual harassment;
 
 (2) recruitment and retention, including diversity, inclusion, and issues regarding women specifically;
 
@@ -165,17 +363,73 @@ Pub. L. 113–291, div. A, title V, § 552(b), Dec. 19, 2014, 128 Stat. 3377, pr
 
 (4) instruction;
 
-(5) physical equipment;
+(5) physical equipment, including infrastructure, living quarters, and deferred maintenance;
 
 (6) fiscal affairs; and
 
 (7) other matters relating to the Academy that the Board determines appropriate.
 
-**(e) Report.—** Not later than 60 days after the date of an annual visit of the Board under subsection (c)(1), the Board shall submit to the Secretary, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives a report on the actions of the Board during such visit and the recommendations of the Board pertaining to the Academy.
+**(e) Administrative Matters.—**
 
-**(f) Advisors.—** If approved by the Secretary, the Board may consult with advisors in carrying out this section.
+(1) **Meetings.—**
 
-**(g) Reimbursement.—** Each member of the Board and each adviser consulted by the Board under subsection (f) shall be reimbursed, to the extent permitted by law, by the Coast Guard for actual expenses incurred while engaged in duties as a member or adviser.
+  (A) *In general.—* — Not less frequently than annually, the Board shall meet at a location chosen by the Commandant, in consultation with the Board, to conduct the review required by subsection (d).
+
+  (B) *Chairperson and charter.—* — The Federal officer designated under subsection (g)(1)(B) shall organize a meeting of the Board for the purposes of—
+
+    (i) selecting a Chairperson of the Board under subsection (b)(3);
+
+    (ii) adopting an official charter for the Board, which shall establish the schedule of meetings of the Board; and
+
+    (iii) any other matter such designated Federal officer or the Board considers appropriate.
+
+  (C) *Scheduling.—* — In scheduling a meeting of the Board, such designated Federal officer shall coordinate, to the greatest extent practicable, with the members of the Board to determine the date and time of the meeting.
+
+  (D) *Notification.—* — Not less than 30 days before each scheduled meeting of the Board, such designated Federal officer shall notify each member of the Board of the time, date, and location of the meeting.
+
+(2) **Staff.—**
+
+  (A) *Designation.—* — The chairperson and the ranking member of the Committee on Commerce, Science, and Transportation of the Senate and the chairperson and the ranking member of the Committee on Transportation and Infrastructure of the House of Representatives may each designate 1 staff member of each such Committees.
+
+  (B) *Role.—* — Staff designated under subparagraph (A)—
+
+    (i) may attend and participate in visits and carry out consultations described under subsection (c)(1) and attend and participate in meetings described under paragraph (1); and
+
+    (ii) may not otherwise carry out duties or take actions reserved to members of the Board under this section.
+
+(3) **Advisors.—** — If approved by the Secretary, the Board may consult with advisors in carrying out the duties of the Board under this section.
+
+(4) **Reports.—**
+
+  (A) *In general.—* — Not later than 60 days after the date on which the Board conducts a meeting of the Board under paragraph (1), the Commandant, in consultation with the Board, shall submit a report on the actions of the Board during the meeting and the recommendations of the Board pertaining to the Academy to—
+
+    (i) the Secretary;
+
+    (ii) the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate; and
+
+    (iii) the Committee on Transportation and Infrastructure and the Committee on Armed Services of the House of Representatives.
+
+  (B) *Publication.—* — Each report submitted under this paragraph shall be published on a publicly accessible website of the Coast Guard.
+
+**(f) Disclosure.—** The Commandant and the Superintendent of the Academy shall ensure candid and complete disclosure to the Board, consistent with applicable laws relating to disclosure of information, with respect to—
+
+(1) each issue described in subsection (d); and
+
+(2) any other issue the Board or the Commandant considers appropriate.
+
+**(g) Coast Guard Support.—**
+
+(1) **In general.—** — The Commandant shall—
+
+  (A) provide support to the Board, as Board considers necessary for the performance of the duties of the Board;
+
+  (B) designate a Federal officer to support the performance of the duties of the Board; and
+
+  (C) in cooperation with the Superintendent of the Academy, advise the Board of any institutional issues, consistent with applicable laws concerning the disclosure of information.
+
+(2) **Reimbursement.—** — Each member of the Board and each advisor consulted by the Board under subsection (e)(3) shall be reimbursed, to the extent permitted by law, by the Coast Guard for actual expenses incurred while engaged in duties as a member or advisor.
+
+**(h) Notification.—** Not later than 30 days after the date on which the first session of each Congress convenes, the Commandant shall provide to the chairperson and ranking member of the Committee on Commerce, Science, and Transportation of the Senate and the chairperson and ranking member of the Committee on Transportation and Infrastructure of the House of Representatives, and the President notification of the requirements of this section.
 
 ### Statutory Notes
 
@@ -185,6 +439,14 @@ Based on title 14, U.S.C., 1946 ed., § 15h (Apr. 16, 1937, ch. 107, § 7, 50 St
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
+2025—Subsecs. (b), (c). Pub. L. 119–60, § 7242(1), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to membership and academy visits, respectively.
+
+Subsec. (d)(1). Pub. L. 119–60, § 7242(2)(A), inserted “ ,including with respect to prevention of, response to, and recovery from sexual assault and sexual harassment” after “discipline”.
+
+Subsec. (d)(5). Pub. L. 119–60, § 7242(2)(B), inserted “ ,including infrastructure, living quarters, and deferred maintenance” after “equipment”.
+
+Subsecs. (e) to (h). Pub. L. 119–60, § 7242(3), added subsecs. (e) to (h) and struck out former subsecs. (e) to (g) which related to report, advisors, and reimbursement, respectively.
+
 2021—Subsec. (b)(2)(B). Pub. L. 117–81 substituted “is appointed by the President” for “is appointed”.
 
 Subsec. (d)(2) to (7). Pub. L. 116–283 added par. (2) and redesignated former pars. (2) to (6) as (3) to (7), respectively.
@@ -294,6 +556,132 @@ Subsec. (b)(1). Pub. L. 115–232 substituted “Commandant” for “Commandant
 Subsec. (b)(1)(C). Pub. L. 115–282, § 123(b)(2), substituted “section 504” for “section 93”.
 
 2016—Pub. L. 114–120 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+
+<a id="section-1907"></a>
+## § 1907. Coast Guard Academy Cadet Advisory Board
+**(a) Establishment.—** The Commandant shall establish within the Coast Guard Academy an advisory board to be known as the “Coast Guard Academy Cadet Advisory Board” (in this section referred to as the “Advisory Board”).
+
+**(b) Membership.—** The Advisory Board shall be composed of not fewer than 12 cadets of the Coast Guard Academy who are enrolled at the Coast Guard Academy at the time of appointment, including not fewer than 3 cadets from each class.
+
+**(c) Appointment.—**
+
+(1) **In general.—** — Cadets shall be appointed to the Advisory Board by the Provost, in consultation with the Superintendent of the Coast Guard Academy.
+
+(2) **Application.—** — Cadets who are eligible for appointment to the Advisory Board shall submit an application for appointment to the Provost of the Coast Guard Academy, or a designee of the Provost, for consideration.
+
+**(d) Selection.—** The Provost shall select eligible applicants who—
+
+(1) are best suited to fulfill the duties described in subsection (g); and
+
+(2) best represent the student body makeup at the Coast Guard Academy.
+
+**(e) Term.—**
+
+(1) **In general.—** — Appointments shall be made not later than 60 days after the date of the swearing in of a new class of cadets at the Coast Guard Academy.
+
+(2) **Term.—** — The term of membership of a cadet on the Advisory Board shall be 1 academic year.
+
+**(f) Meetings.—** The Advisory Board shall meet in person with the Superintendent not less frequently than twice each academic year to discuss the activities of the Advisory Board.
+
+**(g) Duties.—** The Advisory Board shall—
+
+(1) identify challenges facing Coast Guard Academy cadets relating to—
+
+  (A) health and wellbeing;
+
+  (B) cadet perspectives and information with respect to sexual assault, sexual harassment and sexual violence prevention, response, and recovery at the Coast Guard Academy; and
+
+  (C) any other matter the Advisory Board considers important;
+
+(2) discuss and propose possible solutions to such challenges, including improvements to leadership development at the Coast Guard Academy; and
+
+(3) periodically review the efficacy of Coast Guard Academy academic, wellness, and other relevant programs and provide recommendations to the Commandant for improvement of such programs.
+
+**(h) Working Groups.—**
+
+(1) **In general.—** — The Advisory Board shall establish a working group composed, at least in part, of Coast Guard Academy cadets who are not current members of the Advisory Board and members of the Cadets Against Sexual Assault, or any similar successor organization, to assist the Advisory Board in carrying out the duties described in subsection (g)(1)(B).
+
+(2) **Other working groups.—** — The Advisory Board may establish such other working groups (which may be composed, at least in part, of Coast Guard Academy cadets who are not current members of the Advisory Board) as the Advisory Board finds to be necessary to carry out duties of the Board, other than the duties described in subparagraph (A) or (C) of subsection (g)(1).
+
+**(i) Reporting.—**
+
+(1) **Commandant and superintendent.—** — Not less frequently than once per academic semester, the Advisory Board shall submit a report or provide a briefing to the Commandant and the Superintendent on the results of the activities carried out in furtherance of the duties of the Advisory Board described in subsection (g), including recommendations for actions to be taken based on such results.
+
+(2) **Annual report.—** — The Advisory Board shall transmit to the Commandant, through the Provost and the Superintendent, an annual report at the conclusion of each academic year, containing the information and materials presented to the Commandant, Superintendent, or both, during each brief provided during such academic year.
+
+(3) **Congress.—** — Not later than 30 days after the receipt by the Commandant of a report under this subsection, the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives any report or other materials provided to the Commandant and Superintendent under paragraph (1) and any other information related to the Advisory Board requested by the Committees.
+
+
+<a id="section-1908"></a>
+## § 1908. Authorization for use of Coast Guard Academy facilities and equipment by covered foundations
+**(a) Authority.—** Subject to subsections (b) and (c), the Secretary, with the concurrence of the Superintendent of the Coast Guard Academy, may authorize a covered foundation to use, on a reimbursable or nonreimbursable basis as determined by the Secretary, facilities or equipment of the Coast Guard Academy.
+
+**(b) Prohibition.—** The Secretary may not authorize any use of facilities or equipment under subsection (a) if such use may jeopardize the health, safety, or well-being of any member of the Coast Guard or cadet of the Coast Guard Academy.
+
+**(c) Limitations.—** The Secretary may only authorize the use of facilities or equipment under subsection (a) if such use—
+
+(1) is without any liability of the United States to the covered foundation;
+
+(2) does not—
+
+  (A) affect the ability of any official or employee of the Coast Guard, or any member of the armed forces, to carry out any responsibility or duty in a fair and objective manner;
+
+  (B) compromise the integrity or appearance of integrity of any program of the Coast Guard, or any individual involved in any such program; or
+
+  (C) include the participation of any cadet of the Coast Guard Academy at an event of the covered foundation, other than participation of such a cadet in an honor guard;
+
+(3) complies with any applicable ethics regulation; and
+
+(4) has been reviewed and approved by an attorney of the Coast Guard.
+
+**(d) Issuance of Policies.—** The Secretary shall issue Coast Guard policies to carry out this section.
+
+**(e) Briefing.—** For any fiscal year in which the Secretary exercises the authority under subsection (a), not later than the last day of such fiscal year, the Commandant shall provide a briefing to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the number of events or activities of a covered foundation supported by such exercise of authority during the fiscal year.
+
+**(f) Covered Foundation Defined.—** In this section, the term “covered foundation” means an organization that—
+
+(1) is a charitable, educational, or civic nonprofit organization under section 501(c)(3) of the Internal Revenue Code of 1986; and
+
+(2) the Secretary determines operates exclusively to support—
+
+  (A) recruiting activities with respect to the Coast Guard Academy;
+
+  (B) parent or alumni development in support of the Coast Guard Academy;
+
+  (C) academic, leadership, or character development of Coast Guard Academy cadets;
+
+  (D) institutional development of the Coast Guard Academy; or
+
+  (E) athletics in support of the Coast Guard Academy.
+
+### Statutory Notes
+
+#### References in Text
+Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (f)(1), is classified to [section 501(c)(3) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), Internal Revenue Code.
+
+
+<a id="section-1909"></a>
+## § 1909. Policy on hazing
+**(a) In General.—** Subject to the approval of the Commandant, the Superintendent of the Academy shall issue and make available to the public written policies—
+
+(1) subject to subsection (d), defining hazing;
+
+(2) designed to prevent hazing; and
+
+(3) prescribing dismissal, suspension, or other adequate punishment for violations.
+
+**(b) Effect of Request for Court-martial.—** If a cadet who is charged with violating a policy issued under subsection (a), the penalty for which is or may be dismissal from the Academy, requests in writing a trial by a general court-martial, the cadet may not be dismissed for that offense except under sentence of such a court.
+
+**(c) Limitation.—** A cadet dismissed from the Academy for hazing or bullying may not be reappointed to the Corps of Cadets, and is ineligible for appointment as commissioned 11 So in original. Probably should be preceded by “a”. officer in a regular component of the Coast Guard, until the date that is 2 years after the date of the graduation of the class of the cadet.
+
+**(d) Definition of Hazing.—** In developing the policies under subsection (a)(1), the Superintendent shall, to the maximum extent practicable, define the term “hazing” as the unauthorized assumption of authority by a cadet whereby another cadet suffers or is exposed to any cruelty, indignity, humiliation, hardship, or oppression, or the deprivation or abridgement of any right.
+
+
+<a id="section-1910"></a>
+## § 1910. Concurrent jurisdiction at Coast Guard Academy
+
+Notwithstanding any other provision of law, the Secretary of the department in which the Coast Guard is operating may establish concurrent jurisdiction between the Federal Government and the State of Connecticut over the lands constituting the Coast Guard Academy in New London, Connecticut, as necessary to facilitate the ability of the State of Connecticut and City of New London to investigate and prosecute any crimes cognizable under Connecticut law that are committed on such Coast Guard Academy property.
 
 
 <a id="section-1921"></a>

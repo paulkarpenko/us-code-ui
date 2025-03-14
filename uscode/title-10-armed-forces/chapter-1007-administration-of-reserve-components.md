@@ -445,7 +445,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 (2) Except as otherwise provided by law, the Secretary concerned may pay compensation described in paragraph (1) to an individual described in that paragraph who is no longer a member of the Selected Reserve for a period up to 12 months following the individual’s loss of membership in the Selected Reserve if the Secretary determines that such loss of membership was not due to the failure of that individual to meet military standards.
 
-**(f) Authority for Deferral of Mandatory Separation.—** The Secretary of the Army and the Secretary of the Air Force may each implement personnel policies so as to allow, at the discretion of the Secretary concerned, a military technician (dual status) who continues to meet the requirements of this section for dual status to continue to serve beyond a mandatory removal date, and any applicable maximum years of service limitation, until the military technician (dual status) reaches age 60 and attains eligibility for an unreduced annuity (as defined in [section 10218(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section10218/c&num=0&edition=prelim)).
+**(f) Authority for Deferral of Mandatory Separation.—** The Secretary of the Army and the Secretary of the Air Force may each implement personnel policies so as to allow, at the discretion of the Secretary concerned, a military technician (dual status) who continues to meet the requirements of this section for dual status to continue to serve beyond a mandatory removal date, and any applicable maximum years of service limitation, until the military technician (dual status) reaches age 62 and attains eligibility for an unreduced annuity (as defined in [section 10218(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section10218/c&num=0&edition=prelim)).
 
 **(g) Retention of Military Technicians Who Lose Dual Status Due to Combat-Related Disability.—**
 
@@ -462,6 +462,10 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (f). Pub. L. 119–60 struck out period after “age 62”.
+
+2024—Subsec. (f). Pub. L. 118–159 substituted “62.” for “60”.
+
 2011—Subsecs. (b)(1), (c)(1), (2)(A). Pub. L. 111–383, § 1075(b)(52), substituted “section 115(d)” for “section 115(c)”.
 
 Subsec. (d)(3). Pub. L. 111–383, § 512, added par. (3).

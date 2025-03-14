@@ -54,17 +54,19 @@ IN WITNESS WHEREOF, I have hereunto set my hand this fourteenth day of September
 George W. Bush.
 
 #### Continuation of National Emergency Declared by Proc. No. 7463
-Notice of President of the United States, dated Sept. 7, 2023, 88 F.R. 62433, provided:
+Notice of President of the United States, dated Sept. 9, 2024, 89 F.R. 74101, provided:
 
 Consistent with section 202(d) of the National Emergencies Act, [50 U.S.C. 1622(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1622/d&num=0&edition=prelim), I am continuing for 1 year the national emergency previously declared on September 14, 2001, in Proclamation 7463, with respect to the terrorist attacks of September 11, 2001, and the continuing and immediate threat of further attacks on the United States.
 
-Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2023. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
+Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2024. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
 J.R. Biden, Jr.
 
 Prior continuations of national emergency declared by Proc. No. 7463 were contained in the following:
+
+Notice of President of the United States, dated Sept. 7, 2023, 88 F.R. 62433.
 
 Notice of President of the United States, dated Sept. 9, 2022, 87 F.R. 55897.
 
@@ -109,7 +111,7 @@ Notice of President of the United States, dated Sept. 10, 2003, 68 F.R. 53665.
 Notice of President of the United States, dated Sept. 12, 2002, 67 F.R. 58317.
 
 #### Proclamation No. 9844
-Proc. No. 9844, Feb. 15, 2019, 84 F.R. 4949, which declared a national emergency at the southern border of the United States, was terminated by Proc. No. 10142, Jan. 20, 2021, 86 F.R. 7225, set out below.
+Proc. No. 9844, Feb. 15, 2019, 84 F.R. 4949, which declared a national emergency at the southern border of the United States, was terminated by Proc. No. 10142, Jan. 20, 2021, 86 F.R. 7225, formerly set out below.
 
 Continuations of national emergency declared by Proc. No. 9844 were contained in the following:
 
@@ -154,34 +156,43 @@ Notice of President of the United States, dated Feb. 18, 2022, 87 F.R. 10289.
 
 Notice of President of the United States, dated Feb. 24, 2021, 86 F.R. 11599.
 
-#### Proc. No. 10142. Termination of Emergency With Respect to the Southern Border of the United States and Redirection of Funds Diverted to Border Wall Construction
-Proc. No. 10142, Jan. 20, 2021, 86 F.R. 7225, provided:
+#### Proclamation No. 10142
+Proc. No. 10142, Jan. 20, 2021, 86 F.R. 7225, which terminated emergency with respect to the southern border of the United States and redirected funds diverted to border wall construction, was revoked by Proc. No. 10886, § 5, Jan. 20, 2025, 90 F.R. 8328, set out below.
 
-Like every nation, the United States has a right and a duty to secure its borders and protect its people against threats. But building a massive wall that spans the entire southern border is not a serious policy solution. It is a waste of money that diverts attention from genuine threats to our homeland security. My Administration is committed to ensuring that the United States has a comprehensive and humane immigration system that operates consistently with our Nation’s values. In furtherance of that commitment, I have determined that the declaration of a national emergency at our southern border in Proclamation 9844 of February 15, 2019 (Declaring a National Emergency Concerning the Southern Border of the United States) [formerly set out above], was unwarranted. It shall be the policy of my Administration that no more American taxpayer dollars be diverted to construct a border wall. I am also directing a careful review of all resources appropriated or redirected to construct a southern border wall.
+#### Proc. No. 10886. Declaring a National Emergency at the Southern Border of the United States
+Proc. No. 10886, Jan. 20, 2025, 90 F.R. 8327, provided:
 
-NOW, THEREFORE, I, JOSEPH R. BIDEN JR., President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States of America, including section 202 [[50 U.S.C. 1622](./chapter-034-national-emergencies.md#section-1622)] of the National Emergencies Act ([50 U.S.C. 1601](./chapter-034-national-emergencies.md#section-1601) et seq.), hereby declare that the national emergency declared by Proclamation 9844, and continued on February 13, 2020 (85 Fed. Reg. 8715), and January 15, 2021 [86 F.R. 6557], is terminated and that the authorites invoked in that proclamation will no longer be used to construct a wall at southen border. I hereby futher direct as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby proclaim:
 
-Section 1. Pause in Construction and Obligation of Funds. (a) The Secretary of Defense and the Secretary of Homeland Security, in consultation with the Director of the Office of Management and Budget, shall direct the appropriate officials within their respective departments to:
+America’s sovereignty is under attack. Our southern border is overrun by cartels, criminal gangs, known terrorists, human traffickers, smugglers, unvetted military-age males from foreign adversaries, and illicit narcotics that harm Americans, including America.
 
-(i) pause work on each construction project on the southern border wall, to the extent permitted by law, as soon as possible but in no case later than seven days from the date of this proclamation [Jan. 20, 2021], to permit:
+This invasion has caused widespread chaos and suffering in our country over the last 4 years. It has led to the horrific and inexcusable murders of many innocent American citizens, including women and children, at the hands of illegal aliens. Foreign criminal gangs and cartels have begun seizing control of parts of cities, attacking our most vulnerable citizens, and terrorizing Americans beyond the control of local law enforcement. Cartels control vast territories just south of our southern border, effectively controlling who can and cannot travel to the United States from Mexico. Hundreds of thousands of Americans have tragically died from drug overdoses because of the illicit narcotics that have flowed across the southern border.
 
-(A) assessment of the legality of the funding and contracting methods used to construct the wall;
+This assault on the American people and the integrity of America’s sovereign borders represents a grave threat to our Nation.
 
-(B) assessment of the administrative and contractual consequences of ceasing each wall construction project; and
+Because of the gravity and emergency of this present danger and imminent threat, it is necessary for the Armed Forces to take all appropriate action to assist the Department of Homeland Security in obtaining full operational control of the southern border.
 
-(C) completion and implementation of the plan developed in accordance with section 2 of this proclamation;
+To protect the security and safety of United States citizens, to protect each of the States against invasion, and to uphold my duty to take care that the laws be faithfully executed, it is my responsibility as President to ensure that the illegal entry of aliens into the United States via the southern border be immediately and entirely stopped.
 
-(ii) pause immediately the obligation of funds related to construction of the southern border wall, to the extent permitted by law; and
+As Commander in Chief, I have no more solemn duty than to protect the American people.
 
-(iii) compile detailed information on all southern border wall construction contracts, the completion status of each wall construction project, and the funds used for wall construction since February 15, 2019, including directly appropriated funds and funds drawn from the Treasury Forfeiture Fund ([31 U.S.C. 9705(g)(4)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9705/g/4/B&num=0&edition=prelim)), the Department of Defense Drug Interdiction and Counter-Drug Activities account ([10 U.S.C. 284](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section284&num=0&edition=prelim)), and the Department of Defense Military Construction account (pursuant to the emergency authorities in [10 U.S.C. 2808(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2808/a&num=0&edition=prelim) and [33 U.S.C. 2293(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2293/a&num=0&edition=prelim)).
+NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States of America, including sections 201 and 301 [[50 U.S.C. 1621](./chapter-034-national-emergencies.md#section-1621), 1631] of the National Emergencies Act ([50 U.S.C. 1601](./chapter-034-national-emergencies.md#section-1601) et seq.), hereby declare that a national emergency exists at the southern border of the United States, and that [section 12302 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12302&num=0&edition=prelim), United States Code, is invoked and made available, according to its terms, to the Secretaries of the military departments concerned, subject to the direction of the Secretary of Defense. To provide additional authority to the Department of Defense to support the Federal Government’s response to the emergency at the southern border, I hereby declare that this emergency requires use of the Armed Forces and, in accordance with section 301 of the National Emergencies Act ([50 U.S.C. 1631](./chapter-034-national-emergencies.md#section-1631)), that the construction authority provided in [section 2808 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2808&num=0&edition=prelim), United States Code, is invoked and made available, according to its terms, to the Secretary of Defense and, at the discretion of the Secretary of Defense, to the Secretaries of the military departments. I hereby direct as follows:
 
-(b) The pause directed in subsection (a)(i) of this section shall apply to wall projects funded by redirected funds as well as wall projects funded by direct appropriations. The Secretary of Defense and the Secretary of Homeland Security may make an exception to the pause, however, for urgent measures needed to avert immediate physical dangers or where an exception is required to ensure that funds appropriated by the Congress fulfill their intended purpose.
+Section 1. Deployment of Personnel and Resources. The Secretary of Defense, or the Secretary of each relevant military department, as appropriate and consistent with applicable law, shall order as many units or members of the Armed Forces, including the Ready Reserve and the National Guard, as the Secretary of Defense determines to be appropriate to support the activities of the Secretary of Homeland Security in obtaining complete operational control of the southern border of the United States. The Secretary of Defense shall further take all appropriate action to facilitate the operational needs of the Secretary of Homeland Security along the southern border, including through the provision of appropriate detention space, transportation (including aircraft), and other logistics services in support of civilian-controlled law enforcement operations.
 
-Sec. 2. Plan for Redirecting Funding and Repurposing Contracts. The Secretary of Defense and the Secretary of Homeland Security, in coordination with the Secretary of the Treasury, the Attorney General, the Director of the Office of Management and Budget, and the heads of any other appropriate executive departments and agencies, and in consultation with the Assistant to the President for National Security Affairs, shall develop a plan for the redirection of funds concerning the southern border wall, as appropriate and consistent with applicable law. The process of developing the plan shall include consideration of terminating or repurposing contracts with private contractors engaged in wall construction, while providing for the expenditure of any funds that the Congress expressly appropriated for wall construction, consistent with their appropriated purpose. The plan shall be developed within 60 days from the date of this proclamation. After the plan is developed, the Secretary of Defense and the Secretary of Homeland Security shall take all appropriate steps to resume, modify, or terminate projects and to otherwise implement the plan.
+Sec. 2. Additional Physical Barriers. The Secretaries of Defense and Homeland Security shall immediately take all appropriate action, consistent with law, including [10 U.S.C. 2214](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2214&num=0&edition=prelim), to construct additional physical barriers along the southern border. To the extent possible, the Secretaries of Defense and Homeland Security shall coordinate with any Governor of a State that is willing to assist with the deployment of any physical infrastructure to improve operational security at the southern border.
 
-Sec. 3. Definition. Consistent with Executive Order 13767 of January 25, 2017 (Border Security and Immigration Enforcement Improvements) [former [8 U.S.C. 1103](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1103&num=0&edition=prelim) note], for the purposes of this proclamation, “wall” means a contiguous, physical wall or other similarly secure, contiguous, and impassable physical barrier.
+Sec. 3. Unmanned Aerial Systems. The Secretary of Transportation and the Federal Communications Commission shall, consistent with applicable law, consider waiving all applicable Federal Aviation Administration and Federal Communications Commission regulations or policies, respectively, that restrict the Department of Homeland Security’s ability to counter unmanned aerial systems within 5 miles of the southern border.
 
-Sec. 4. General Provisions. (a) Nothing in this proclamation shall be construed to impair or otherwise affect:
+Sec. 4. Revision of Policies and Strategies. The Secretary of Defense and the Secretary of Homeland Security, in consultation with the Attorney General, shall take all appropriate action, consistent with law, to prioritize the impedance and denial of the unauthorized physical entry of aliens across the southern border of the United States, and to ensure that use of force policies prioritize the safety and security of Department of Homeland Security personnel and of members of the Armed Forces.
+
+Sec. 5. Revocation. Proclamation 10142 of January 20, 2021 (Termination of Emergency With Respect to the Southern Border of the United States and Redirection of Funds Diverted to Border Wall Construction) [formerly set out above], is hereby revoked.
+
+Sec. 6. Reporting Requirement. (a) Within 30 days of the date of this proclamation [Jan. 20, 2025], the Secretary of Defense shall submit to the President, through the Homeland Security Advisor, a report outlining all actions taken to fulfill the requirements and objectives of this proclamation; and
+
+(b) Within 90 days of the date of this proclamation, the Secretary of Defense and the Secretary of Homeland Security shall submit a joint report to the President about the conditions at the southern border of the United States and any recommendations regarding additional actions that may be necessary to obtain complete operational control of the southern border, including whether to invoke the Insurrection Act of 1807 [see [10 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section251&num=0&edition=prelim) et seq.].
+
+Sec. 7. General Provisions. (a) Nothing in this proclamation shall be construed to impair or otherwise affect:
 
 (i) the authority granted by law to an executive department or agency, or the head thereof; or
 
@@ -191,9 +202,15 @@ Sec. 4. General Provisions. (a) Nothing in this proclamation shall be construed 
 
 (c) This proclamation is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of January, in the year of our Lord two thousand twenty-one, and of the Independence of the United States of America the two hundred and forty-fifth.
+IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of January, in the year of our Lord two thousand twenty-five, and of the Independence of the United States of America the two hundred and forty-ninth.
 
-J.R. Biden, Jr.
+Donald J. Trump.
+
+[Scope of national emergency declared in Proc. No. 10886, set out above, expanded to cover the threat to safety and security of Americans, including the failure to combat drug trafficking into the United States, from Canada, by sec. 1(a) of Ex. Ord. No. 14193, set out as a note under [section 1701 of this title](./chapter-035-international-emergency-economic-powers.md#section-1701).]
+
+[Scope of national emergency declared in Proc. No. 10886, set out above, expanded to cover the failure of Mexico to combat drug trafficking into the United States, by sec. 1(a) of Ex. Ord. No. 14194, set out as a note under [section 1701 of this title](./chapter-035-international-emergency-economic-powers.md#section-1701).]
+
+[Scope of national emergency declared in Proc. No. 10886, set out above, expanded to cover the failure of People’s Republic of China to combat drug trafficking into the United States, by sec. 1(a) of Ex. Ord. No. 14195, set out as a note under [section 1701 of this title](./chapter-035-international-emergency-economic-powers.md#section-1701).]
 
 #### Ex. Ord. No. 13920. Securing the United States Bulk-Power System
 Ex. Ord. No. 13920, May 1, 2020, 85 F.R. 26595, provided:
@@ -309,6 +326,93 @@ Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impa
 Donald J. Trump.
 
 [Ex. Ord. No. 13920, set out above, suspended for 90 days and Secretary of Energy and Director of the Office of Management and Budget to jointly consider whether to recommend a replacement order be issued, see section 7(c) of Ex. Ord. No. 13990, set out as a note under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim), The Public Health and Welfare.]
+
+#### Ex. Ord. No. 14156. Declaring a National Energy Emergency
+Ex. Ord. No. 14156, Jan. 20, 2025, 90 F.R. 8433, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Emergencies Act ([50 U.S.C. 1601](./chapter-034-national-emergencies.md#section-1601) et seq.) (“NEA”), and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered:
+
+Section 1. Purpose. The energy and critical minerals (“energy”) identification, leasing, development, production, transportation, refining, and generation capacity of the United States are all far too inadequate to meet our Nation’s needs. We need a reliable, diversified, and affordable supply of energy to drive our Nation’s manufacturing, transportation, agriculture, and defense industries, and to sustain the basics of modern life and military preparedness. Caused by the harmful and shortsighted policies of the previous administration, our Nation’s inadequate energy supply and infrastructure causes and makes worse the high energy prices that devastate Americans, particularly those living on low- and fixed-incomes.
+
+This active threat to the American people from high energy prices is exacerbated by our Nation’s diminished capacity to insulate itself from hostile foreign actors. Energy security is an increasingly crucial theater of global competition. In an effort to harm the American people, hostile state and non-state foreign actors have targeted our domestic energy infrastructure, weaponized our reliance on foreign energy, and abused their ability to cause dramatic swings within international commodity markets. An affordable and reliable domestic supply of energy is a fundamental requirement for the national and economic security of any nation.
+
+The integrity and expansion of our Nation’s energy infrastructure—from coast to coast—is an immediate and pressing priority for the protection of the United States’ national and economic security. It is imperative that the Federal government puts the physical and economic wellbeing of the American people first.
+
+Moreover, the United States has the potential to use its unrealized energy resources domestically, and to sell to international allies and partners a reliable, diversified, and affordable supply of energy. This would create jobs and economic prosperity for Americans forgotten in the present economy, improve the United States’ trade balance, help our country compete with hostile foreign powers, strengthen relations with allies and partners, and support international peace and security. Accordingly, our Nation’s dangerous energy situation inflicts unnecessary and perilous constraints on our foreign policy.
+
+The policies of the previous administration have driven our Nation into a national emergency, where a precariously inadequate and intermittent energy supply, and an increasingly unreliable grid, require swift and decisive action. Without immediate remedy, this situation will dramatically deteriorate in the near future due to a high demand for energy and natural resources to power the next generation of technology. The United States’ ability to remain at the forefront of technological innovation depends on a reliable supply of energy and the integrity of our Nation’s electrical grid. Our Nation’s current inadequate development of domestic energy resources leaves us vulnerable to hostile foreign actors and poses an imminent and growing threat to the United States’ prosperity and national security.
+
+These numerous problems are most pronounced in our Nation’s Northeast and West Coast, where dangerous State and local policies jeopardize our Nation’s core national defense and security needs, and devastate the prosperity of not only local residents but the entire United States population. The United States’ insufficient energy production, transportation, refining, and generation constitutes an unusual and extraordinary threat to our Nation’s economy, national security, and foreign policy. In light of these findings, I hereby declare a national emergency.
+
+Sec. 2. Emergency Approvals. (a) The heads of executive departments and agencies (“agencies”) shall identify and exercise any lawful emergency authorities available to them, as well as all other lawful authorities they may possess, to facilitate the identification, leasing, siting, production, transportation, refining, and generation of domestic energy resources, including, but not limited to, on Federal lands. If an agency assesses that use of either Federal eminent domain authorities or authorities afforded under the Defense Production Act [of 1950] (Public Law 81–774, [50 U.S.C. 4501](./chapter-055-defense-production.md#section-4501) et seq.) are necessary to achieve this objective, the agency shall submit recommendations for a course of action to the President, through the Assistant to the President for National Security Affairs.
+
+(b) Consistent with [42 U.S.C. 7545(c)(4)(C)(ii)(III)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7545/c/4/C/ii/III&num=0&edition=prelim), the Administrator of the Environmental Protection Agency, after consultation with, and concurrence by, the Secretary of Energy, shall consider issuing emergency fuel waivers to allow the year-round sale of E15 gasoline to meet any projected temporary shortfalls in the supply of gasoline across the Nation.
+
+Sec. 3. Expediting the Delivery of Energy Infrastructure. (a) To facilitate the Nation’s energy supply, agencies shall identify and use all relevant lawful emergency and other authorities available to them to expedite the completion of all authorized and appropriated infrastructure, energy, environmental, and natural resources projects that are within the identified authority of each of the Secretaries to perform or to advance.
+
+(b) To protect the collective national and economic security of the United States, agencies shall identify and use all lawful emergency or other authorities available to them to facilitate the supply, refining, and transportation of energy in and through the West Coast of the United States, Northeast of the United States, and Alaska.
+
+(c) The Secretaries shall provide such reports regarding activities under this section as may be requested by the Assistant to the President for Economic Policy.
+
+Sec. 4. Emergency Regulations and Nationwide Permits Under the Clean Water Act (CWA) and Other Statutes Administered by the Army Corps of Engineers. (a) Within 30 days from the date of this order [Jan. 20, 2025], the heads of all agencies, as well as the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works shall:
+
+(i) identify planned or potential actions to facilitate the Nation’s energy supply that may be subject to emergency treatment pursuant to the regulations and nationwide permits promulgated by the Corps, or jointly by the Corps and EPA, pursuant to section 404 of the Clean Water Act [of 1977], [33 U.S.C. 1344](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1344&num=0&edition=prelim), section 10 of the Rivers and Harbors Act of March 3, 1899, [33 U.S.C. 403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section403&num=0&edition=prelim), and section 103 of the Marine Protection Research and Sanctuaries Act of 1972, [33 U.S.C. 1413](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1413&num=0&edition=prelim) (collectively, the “emergency Army Corps permitting provisions”); and
+
+(ii) shall provide a summary report, listing such actions, to the Director of the Office of Management and Budget (“OMB”); the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works; the Assistant to the President for Economic Policy; and the Chairman of the Council on Environmental Quality (CEQ). Such report may be combined, as appropriate, with any other reports required by this order.
+
+(b) Agencies are directed to use, to the fullest extent possible and consistent with applicable law, the emergency Army Corps permitting provisions to facilitate the Nation’s energy supply.
+
+(c) Within 30 days following the submission of the initial summary report described in subsection (a)(ii) of this section, each department and agency shall provide a status report to the OMB Director; the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works; the Director of the National Economic Council; and the Chairman of the CEQ. Each such report shall list actions taken within subsection (a)(i) of this section, shall list the status of any previously reported planned or potential actions, and shall list any new planned or potential actions that fall within subsection (a)(i). Such status reports shall thereafter be provided to these officials at least every 30 days for the duration of the national emergency and may be combined, as appropriate, with any other reports required by this order.
+
+(d) The Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works, shall be available to consult promptly with agencies and to take other prompt and appropriate action concerning the application of the emergency Army Corps permitting provisions. The Administrator of the EPA shall provide prompt cooperation to the Secretary of the Army and to agencies in connection with the discharge of the responsibilities described in this section.
+
+Sec. 5. Endangered Species Act (ESA) Emergency Consultation Regulations. (a) No later than 30 days from the date of this order, the heads of all agencies tasked in this order shall:
+
+(i) identify planned or potential actions to facilitate the Nation’s energy supply that may be subject to the regulation on consultations in emergencies, 50 CFR 402.05, promulgated by the Secretary of the Interior and the Secretary of Commerce pursuant to the Endangered Species Act [of 1973] (“ESA”), [16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.; and
+
+(ii) provide a summary report, listing such actions, to the Secretary of the Interior, the Secretary of Commerce, the OMB Director, the Director of the National Economic Council, and the Chairman of CEQ. Such report may be combined, as appropriate, with any other reports required by this order.
+
+(b) Agencies are directed to use, to the maximum extent permissible under applicable law, the ESA regulation on consultations in emergencies, to facilitate the Nation’s energy supply.
+
+(c) Within 30 days following the submission of the initial summary report described in subsection (a)(ii) of this section, the head of each agency shall provide a status report to the Secretary of the Interior, the Secretary of Commerce, the OMB Director, the Director of the National Economic Council, and the Chairman of CEQ. Each such report shall list actions taken within the categories described in subsection (a)(i) of this section, the status of any previously reported planned or potential actions, and any new planned or potential actions within these categories. Such status reports shall thereafter be provided to these officials at least every 30 days for the duration of the national emergency and may be combined, as appropriate, with any other reports required by this order. The OMB Director may grant discretionary exemptions from this reporting requirement.
+
+(d) The Secretary of the Interior shall ensure that the Director of the Fish and Wildlife Service, or the Director’s authorized representative, is available to consult promptly with agencies and to take other prompt and appropriate action concerning the application of the ESA’s emergency regulations. The Secretary of Commerce shall ensure that the Assistant Administrator for Fisheries for the National Marine Fisheries Service, or the Assistant Administrator’s authorized representative, is available for such consultation and to take such other action.
+
+Sec. 6. Convening the Endangered Species Act Committee. (a) In acting as Chairman of the Endangered Species Act Committee, the Secretary of the Interior shall convene the Endangered Species Act Committee not less than quarterly, unless otherwise required by law, to review and consider any lawful applications submitted by an agency, the Governor of a State, or any applicant for a permit or license who submits for exemption from obligations imposed by Section 7 of the ESA.
+
+(b) To the extent practicable under the law, the Secretary of the Interior shall ensure a prompt and efficient review of all submissions described in subsection (a) of this section, to include identification of any legal deficiencies, in order to ensure an initial determination within 20 days of receipt and the ability to convene the Endangered Species Act Committee to resolve the submission within 140 days of such initial determination of eligibility.
+
+(c) In the event that the committee has no pending applications for review, the committee or its designees shall nonetheless convene to identify obstacles to domestic energy infrastructure specifically deriving from implementation of the ESA or the Marine Mammal Protection Act, to include regulatory reform efforts, species listings, and other related matters with the aim of developing procedural, regulatory, and interagency improvements.
+
+Sec. 7. Coordinated Infrastructure Assistance. (a) In collaboration with the Secretaries of Interior and Energy, the Secretary of Defense shall conduct an assessment of the Department of Defense’s ability to acquire and transport the energy, electricity, or fuels needed to protect the homeland and to conduct operations abroad, and, within 60 days, shall submit this assessment to the Assistant to the President for National Security Affairs. This assessment shall identify specific vulnerabilities, including, but not limited to, potentially insufficient transportation and refining infrastructure across the Nation, with a focus on such vulnerabilities within the Northeast and West Coast regions of the United States. The assessment shall also identify and recommend the requisite authorities and resources to remedy such vulnerabilities, consistent with applicable law.
+
+(b) In accordance with section 301 of the National Emergencies Act ([50 U.S.C. 1631](./chapter-034-national-emergencies.md#section-1631)), the construction authority provided in [section 2808 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2808&num=0&edition=prelim), United States Code, is invoked and made available, according to its terms, to the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works, to address any vulnerabilities identified in the assessment mandated by subsection (a). Any such recommended actions shall be submitted to the President for review, through the Assistant to the President for National Security Affairs and the Assistant to the President for Economic Policy.
+
+Sec. 8. Definitions. For purposes of this order, the following definitions shall apply:
+
+(a) The term “energy” or “energy resources” means crude oil, natural gas, lease condensates, natural gas liquids, refined petroleum products, uranium, coal, biofuels, geothermal heat, the kinetic movement of flowing water, and critical minerals, as defined by [30 U.S.C. 1606](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1606&num=0&edition=prelim) (a)(3).
+
+(b) The term “production” means the extraction or creation of energy.
+
+(c) The term “transportation” means the physical movement of energy, including through, but not limited to, pipelines.
+
+(d) The term “refining” means the physical or chemical change of energy into a form that can be used by consumers or users, including, but not limited to, the creation of gasoline, diesel, ethanol, aviation fuel, or the beneficiation, enrichment, or purification of minerals.
+
+(e) The term “generation” means the use of energy to produce electricity or thermal power and the transmission of electricity from its site of generation.
+
+(f) The term “energy supply” means the production, transportation, refining, and generation of energy.
+
+Sec. 9. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of OMB relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-1622"></a>

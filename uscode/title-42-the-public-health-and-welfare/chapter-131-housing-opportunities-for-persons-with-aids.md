@@ -279,46 +279,35 @@ Par. (6). Pub. L. 102–550, § 606(e), inserted before period at end “, excep
 
 (2) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
 
+**(j) Qualifying smoke alarms**
+
+(1) **In general** — Each dwelling unit assisted under this chapter shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
+
+(2) **Definitions** — For purposes of this subsection, the following definitions shall apply:
+
+  (A) *Smoke alarm defined* — The term “smoke alarm” has the meaning given the term “smoke detector” in [section 2225(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2225/d&num=0&edition=prelim).
+
+  (B) *Qualifying smoke alarm defined* — The term “qualifying smoke alarm” means a smoke alarm that—
+
+    (i) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
+
+      (I)
+
+        (aa) is hardwired; or
+
+        (bb) uses 10-year non rechargeable, nonreplaceable primary batteries and—
+
+          (AA) is sealed;
+
+          (BB) is tamper resistant; and
+
+          (CC) contains silencing means; and
+
+      (II) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
+
+    (ii) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.
+
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 117–328, div. AA, title VI, § 601(d), (h), Dec. 29, 2022, 136 Stat. 5545, 5548, provided that, effective two years after Dec. 29, 2022, this section is amended by adding at the end the following new subsection:
-
-(j) Qualifying smoke alarms
-
-(1) In general
-
-Each dwelling unit assisted under this chapter shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
-
-(2) Definitions
-
-For purposes of this subsection, the following definitions shall apply:
-
-(A) Smoke alarm defined
-
-The term “smoke alarm” has the meaning given the term “smoke detector” in [section 2225(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2225/d&num=0&edition=prelim).
-
-(B) Qualifying smoke alarm defined
-
-The term “qualifying smoke alarm” means a smoke alarm that—
-
-(i) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
-
-(I)(aa) is hardwired; or
-
-(bb) uses 10-year non rechargeable, nonreplaceable primary batteries and—
-
-(AA) is sealed;
-
-(BB) is tamper resistant; and
-
-(CC) contains silencing means; and
-
-(II) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
-
-(ii) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.
-
-See 2022 Amendment note below.
 
 #### References in Text
 Under this chapter, referred to in subsec. (g)(2), was in the original “under this title”, and was translated as reading “under this subtitle”, meaning under subtitle D (§§ 851–863) of title VIII of Pub. L. 101–625, to reflect the probable intent of Congress.
@@ -548,7 +537,7 @@ Subsec. (c). Pub. L. 102–550, § 606(h)(1)(C), added subsec. (c).
 ### Statutory Notes
 
 #### References in Text
-The United States Housing Act of 1937, referred to in subsec. (b)(1)(B)(i), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
+The United States Housing Act of 1937, referred to in subsec. (b)(1)(B)(i), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
 
 #### Amendments
 1998—Subsec. (b)(1)(D). Pub. L. 105–276 substituted “assistance” for “certificates or vouchers”.

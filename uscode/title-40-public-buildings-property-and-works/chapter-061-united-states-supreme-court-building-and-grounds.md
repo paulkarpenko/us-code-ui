@@ -198,7 +198,11 @@ The words “After the completion and dedication of” are omitted as executed.
 
   (B) any officer or employee of the Supreme Court while that officer or employee is performing official duties; and
 
-  (C) any member of the immediate family of the Chief Justice, any Associate Justice, or any officer of the Supreme Court if the Marshal determines such protection is necessary.11 So in original. The period probably should be a semicolon.
+  (C) if the Marshal determines such protection is necessary—
+
+    (i) any retired or former Chief Justice or Associate Justice of the Supreme Court; or
+
+    (ii) any member of the immediate family of the Chief Justice, any Associate Justice, any retired or former Chief Justice or Associate Justice, or any officer of the Supreme Court.11 So in original. The period probably should be a semicolon.
 
 (3) while performing duties necessary to carry out paragraph (1) or (2), to make arrests for any violation of Federal or State law and any regulation under Federal or State law; and
 
@@ -221,6 +225,8 @@ In subsection (a)(3), the words “federal or state law and any regulation under
 In subsection (b), the words “The Marshal of the Supreme Court shall report annually to the Congress on March 1 regarding the administrative cost of carrying out his duties under such subsection” are omitted pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 ([31 U.S.C. 1113](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim) note). See, also, page 13 of House Document No. 103–7.
 
 #### Amendments
+2025—Subsec. (a)(2)(C). Pub. L. 119–60 added subpar. (C) and struck out former subpar. (C) which read as follows: “any member of the immediate family of the Chief Justice, any Associate Justice, or any officer of the Supreme Court if the Marshal determines such protection is necessary.”
+
 2022—Subsec. (a)(2)(C). Pub. L. 117–148 added subpar. (C).
 
 2019—Subsec. (a)(2). Pub. L. 116–75, § 2(1)(A), substituted “any location” for “any State” in introductory provisions.

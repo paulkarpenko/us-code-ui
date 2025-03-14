@@ -2,7 +2,7 @@
 title: 43
 heading: PUBLIC LANDS
 positive_law: false
-sections: 1461
+sections: 1464
 chapters: 59
 ---
 # Title 43. PUBLIC LANDS

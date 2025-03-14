@@ -165,6 +165,44 @@ Provisions similar to those in this section were contained in [section 234 of th
 
 (6) Incentive 33 So in original. Probably should be “An incentive”. provided under paragraph (1) shall not be included in the calculation of total amount of compensation under [section 7431(e)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7431/e/4&num=0&edition=prelim).
 
+(7)
+
+  (A) Subject to subparagraph (B)(ii), a critical skill incentive may not be provided under paragraph (1) to an employee of the Department employed in a Senior Executive Service position, or a position in another comparable system for senior-level Government employees, as defined by the Secretary, whose position is at the Central Office of the Department, including the Veterans Health Administration, the Veterans Benefits Administration, and the National Cemetery Administration, regardless of the actual location where the employee performs the functions of the position.
+
+  (B)
+
+    (i) A critical skill incentive provided under paragraph (1) to an employee of the Department employed in a Senior Executive Service position, or a position in another comparable system for senior-level Government employees, as defined by the Secretary, not described in subparagraph (A) of this paragraph may only be provided—
+
+      (I) on an individual basis and may not be provided to a group of such employees; and
+
+      (II) upon approval of the following officers or those serving in an acting capacity:
+
+        (aa) The Under Secretary for Benefits, the Under Secretary for Health, or the Under Secretary for Memorial Affairs.
+
+        (bb) The Assistant Secretary for Human Resources and Administration.
+
+        (cc) The Director of the Office of Management or the Chief Financial Officer.
+
+        (dd) The Assistant Secretary for Accountability and Whistleblower Protection.
+
+        (ee) The General Counsel.
+
+        (ff) Such other officers as the Secretary determines appropriate.
+
+    (ii) In the case of an employee of the Department employed in a Senior Executive Service position, or a position in another comparable system for senior-level Government employees, as defined by the Secretary, whose position is primarily at the Central Office of the Department, but who performs some portion of the employee’s job function at other facilities of the Department, as defined by the Secretary, not at Central 44 So in original. Probably should be preceded by “the”. Office—
+
+      (I) the employee shall not be considered described in subparagraph (A) with respect to the portion of the employee’s job function that is based out of non-Central Office facilities of the Department; and
+
+      (II) any critical skill incentive provided under paragraph (1) to the employee for the portion of the employee’s job function that is based out of facilities of the Department other than the Central Office shall be proportionate to the time spent at those Department facilities.
+
+  (C)
+
+    (i) Not later than one year after the date of the enactment of the Protecting Regular Order for Veterans Act of 2025, and not less frequently than once each year thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives an annual report on the employees of the Department employed in a Senior Executive Service position, or a position in another comparable system for senior-level Government employees, as defined by the Secretary, who were provided a critical skill incentive under paragraph (1).
+
+    (ii) Reports submitted pursuant to clause (i) may be submitted by incorporating their contents into other congressionally mandated reports to the committees described in such clause.
+
+  (D) In this paragraph, the term “Senior Executive Service position” has the meaning given such term in [section 3132(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a&num=0&edition=prelim).
+
 **(e) Student Loan Repayments.—**
 
 (1) Subject to the provisions of this subsection, the Secretary may repay a student loan pursuant to [section 5379(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5379/b&num=0&edition=prelim).
@@ -216,12 +254,20 @@ Provisions similar to those in this section were contained in [section 234 of th
 ### Statutory Notes
 
 #### References in Text
+The date of the enactment of the Protecting Regular Order for Veterans Act of 2025, referred to in subsec. (d)(7)(C)(i), is the date of enactment of Pub. L. 119–33, which was approved Aug. 14, 2025.
+
 GS–11, referred to in subsecs. (f)(2) and (g)(2), is contained in the General Schedule, which is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
 Levels II and IV of the Executive Schedule, referred to in subsec. (i)(2)(B), are set out in sections 5313 and 5315, respectively, of Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 A prior section 706 was renumbered [section 1906 of this title](./chapter-019-insurance.md#section-1906).
+
+#### Amendments
+2025—Subsec. (d)(7). Pub. L. 119–33 added par. (7).
+
+#### Benefits for Participants in Certain Programs of the Department of Veterans Affairs
+Pub. L. 118–196, § 6, Dec. 23, 2024, 138 Stat. 2674, provided that: “(a) Establishment.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Veterans Affairs shall carry out a program to furnish certain benefits to covered participants. “(b) Benefits: Student Loan Repayment; Reimbursements.—“(1) In general.—Subject to an agreement under paragraph (2), the Secretary shall provide to each covered attorney—“(A) student loan repayment benefits under [section 5379 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5379&num=0&edition=prelim), United States Code, in the case of a covered attorney who is eligible for such benefits; and “(B) reimbursement for the cost of—“(i) enrollment in a course designed to prepare an individual for licensure to practice law in a State; “(ii) sitting for a bar examination in a State; and “(iii) annual dues required to maintain membership in the bar of any State. “(2) Agreement.—The Secretary shall enter into an agreement with a covered attorney who will receive benefits under paragraph (1). Each such agreement shall specify that—“(A) the covered attorney agrees to remain in the service of the Department for a period of not less than three years, unless involuntarily separated; and “(B) if separated involuntarily on account of misconduct, or voluntarily, before the end of the period specified in the agreement, the covered attorney shall repay to the United States the amount of any benefits received by the covered participant under paragraph (1). “(c) Professional Development Activities.—“(1) Mentorship.—Not later than 90 days after the date on which an individual becomes a covered participant, the Secretary shall assign the covered participant a mentor who is an employee of the Department who is—“(A) to the extent practicable, a managerial employee; and “(B) outside the participant’s chain of command. “(2) Assignments.—At the election of a covered participant who has completed at least two years of service to the Department, the Secretary shall assign such covered participant to:“(A) The Office of General Counsel, in a position—“(i) that includes full-time legal responsibilities in order to further the professional development of the covered participant; and “(ii) for a period of not less than 120 days and not more than 180 days, or longer at the discretion of the Secretary. “(B) In the case of a covered participant who has already held a position described in subparagraph (A), an assignment described in clauses (i) and (ii) of such subparagraph with the Board of Veterans’ Appeals. “(3) Other rotational assignments.—The Secretary may provide a covered participant one or more other short-term rotational assignments. Such an assignment shall be for a period of not less than 30 days and not more than 180 days, at the discretion of the Secretary. “(d) Periodic Reports.—“(1) Reports required.—Not later than three years after the date on which the Secretary begins to carry out the program under this section, and not less frequently than once every three years thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives regarding such program. “(2) Elements.—Each report submitted under paragraph (1) shall include the following elements:“(A) Costs to the United States to provide benefits under subsection (b). “(B) The rates of retention of covered participants compared to other employees of the Department. “(C) Recommendations of the Secretary regarding legislative or administrative action to improve such program. “(e) Definitions.—In this section:“(1) The term ‘covered attorney’ means an individual who—“(A) is a covered participant; “(B) has graduated from a law school accredited by the American Bar Association; and “(C) is a member in good standing of the bar of a State. “(2) The term ‘covered participant’ means an individual who participates in—“(A) the Honors Attorney Program (or successor program) of the Office of General Counsel of the Department of Veterans Affairs; or “(B) the Law Clerk Program (or successor program) of the Board of Veterans’ Appeals. “(3) The term ‘State’ has the meaning given such term in [section 101 of title 38](./chapter-001-general.md#section-101), United States Code.”
 
 
 <a id="section-707"></a>
@@ -663,7 +709,7 @@ Pub. L. 114–315, title V, § 503(b), Dec. 16, 2016, 130 Stat. 1568, provided t
 
 (1) The Secretary, in consultation with the Director of the Office of Personnel Management, shall prescribe regulations that may provide for the payment to the spouse or children of any individual referred to in subsection (a) or (b) of any amounts which (but for this subsection) would otherwise have been nonpayable by reason of such subsections.
 
-(2) Regulations prescribed under paragraph (1) shall be consistent with the requirements of section 8332(o)(5) and 8411(l)(5) of title 5, as the case may be.
+(2) Regulations prescribed under paragraph (1) shall be consistent with the requirements of section 8332(o)(6) and 8411(l)(5) of title 5, as the case may be.
 
 **(f) Definitions.—** In this section:
 
@@ -677,6 +723,9 @@ Pub. L. 114–315, title V, § 503(b), Dec. 16, 2016, 130 Stat. 1568, provided t
 
 #### Prior Provisions
 Prior sections 719 and 720 were renumbered sections 1919 and 1920 of this title, respectively.
+
+#### Amendments
+2024—Subsec. (e)(2). Pub. L. 118–192 substituted “section 8332(o)(6)” for “section 8332(o)(5)”.
 
 #### Effective Date
 Pub. L. 115–41, title II, § 203(b), June 23, 2017, 131 Stat. 875, provided that: “[Section 719 of title 38](./chapter-007-employees.md#section-719), United States Code, as added by subsection (a)(1), shall apply to any action of removal of an employee of the Department of Veterans Affairs under section 719 or 7461 of such title or any other provision of law, commencing on or after the date of the enactment of this Act [June 23, 2017].”

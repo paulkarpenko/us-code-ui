@@ -35,6 +35,9 @@ source: >-
 #### Amendments
 2020—Subsec. (b). Pub. L. 116–260 inserted subsec. heading, substituted “In this chapter:” for “As used in this chapter,” designated remainder of existing provisions as par. (2), inserted heading, and substituted “The term” for “the term”, and added par. (1).
 
+#### Short Title of 2025 Amendment
+Pub. L. 118–233, § 1, Jan. 4, 2025, 138 Stat. 2835, provided that: “This Act [amending [section 1606 of this title](./chapter-028-materials-and-minerals-policy-research-and-development.md#section-1606)] may be cited as the ‘Recognizing the Importance of Critical Minerals in Healthcare Act of 2023’.”
+
 #### Short Title
 Pub. L. 96–479, § 1, Oct. 21, 1980, 94 Stat. 2305, provided: “That this Act [enacting this chapter] may be cited as the ‘National Materials and Minerals Policy, Research and Development Act of 1980’.”
 
@@ -436,11 +439,11 @@ Nothing in this chapter shall be interpreted as changing in any manner or degree
 
   (B) *Inclusions* — Notwithstanding the criteria under paragraph (3), the Secretary may designate and include on the list any mineral, element, substance, or material determined by another Federal agency to be strategic and critical to the defense or national security of the United States.
 
-  (C) *Required consultation* — The Secretary shall consult with the Secretaries of Defense, Commerce, Agriculture, and Energy and the United States Trade Representative in designating minerals, elements, substances, and materials as critical under this paragraph.
+  (C) *Required consultation* — The Secretary shall consult with the Secretaries of Defense, Commerce, Agriculture, Health and Human Services, and Energy and the United States Trade Representative in designating minerals, elements, substances, and materials as critical under this paragraph.
 
 (5) **Subsequent review**
 
-  (A) *In general* — The Secretary, in consultation with the Secretaries of Defense, Commerce, Agriculture, and Energy and the United States Trade Representative, shall review the methodology and list under paragraph (3) and the designations under paragraph (4) at least every 3 years, or more frequently as the Secretary considers to be appropriate.
+  (A) *In general* — The Secretary, in consultation with the Secretaries of Defense, Commerce, Agriculture, Health and Human Services, and Energy and the United States Trade Representative, shall review the methodology and list under paragraph (3) and the designations under paragraph (4) at least every 3 years, or more frequently as the Secretary considers to be appropriate.
 
   (B) *Revisions* — Subject to paragraph (4)(A), the Secretary may—
 
@@ -831,6 +834,9 @@ An amendment made by this section, referred to in subsec. (n)(3)(A), (B), means 
 Section was enacted as part of the Energy Act of 2020, and not as part of the National Materials and Minerals Policy, Research and Development Act of 1980 which comprises this chapter.
 
 Section is comprised of section 7002 of div. Z of Pub. L. 116–260. Subsec. (b) of section 7002 amended sections 1601 and 1602 of this title. Subsec. (l) of section 7002 amended [section 15908 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15908&num=0&edition=prelim), The Public Health and Welfare. Subsec. (m) of section 7002 amended sections 1602 to 1604 of this title. Subsec. (n)(1) of section 7002 repealed chapter 30 (§ 1801 et seq.) of this title. Subsec. (n)(2) of section 7002 amended [section 5202 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5202&num=0&edition=prelim), Commerce and Trade.
+
+#### Amendments
+2025—Subsec. (c)(4)(C), (5)(A). Pub. L. 118–233 inserted “Health and Human Services,” after “Agriculture,”.
 
 #### Department of Defense Research and Development Priorities
 Pub. L. 117–81, div. A, title VIII, § 845, Dec. 27, 2021, 135 Stat. 1842, provided that: “The Secretary of Defense shall cooperate with the Secretary of Energy to ensure that the priorities of the Department of Defense with respect to the research and development of alternative technologies to, and methods for the extraction, processing, and recycling of, critical minerals (as defined in section 2(b) of the National Materials and Minerals Policy, Research, and Development Act of 1980 ([30 U.S.C. 1601(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1601/b&num=0&edition=prelim))) are considered and included where feasible in the associated research and development activities funded by the Secretary of Energy pursuant to the program established under paragraph [probably should be “subsection”] (g) of section 7002 of division Z of the Consolidated Appropriations Act, 2021 (Public Law 116–260) [[30 U.S.C. 1606(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1606/g&num=0&edition=prelim)].”

@@ -31,7 +31,7 @@ The second proviso is omitted as executed.
 A prior section 8286, acts Aug. 10, 1956, ch. 1041, 70A Stat. 507; Aug. 21, 1957, Pub. L. 85–155, title III, § 301(5), 71 Stat. 386; Sept. 2, 1958, Pub. L. 85–861, § 1(168), 72 Stat. 1517, prescribed age limitations for original appointment in a commissioned grade in Regular Air Force, except designation as a medical or dental officer or as an Air Force nurse or medical specialist, prior to repeal by Pub. L. 96–513, title II, § 204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981. See [section 532 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-532).
 
 #### Amendments
-2018—Pub. L. 115–232, § 807(b)(12), renumbered [section 6221 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6221&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232, § 807(b)(12), renumbered [section 6221 of this title](./chapter-605-safeguards-and-security-matters.md#section-6221) as this section.
 
 Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 8139 or 8146” for “section 5589 or 5596”.
 
@@ -95,7 +95,7 @@ In subsection (b) the second sentence is substituted for the two references to t
 | 6222(f) | 34 App.:701–4. |  |
 | 6222(g) | 34 App.:701–5. |  |
 
-In subsection (a), the words “and appropriate” are omitted as covered by the word “necessary”. The words “and ranks” are omitted as covered by the word “grades”. The second sentence of 34 App.:701 is omitted as covered by [section 6224 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6224&num=0&edition=prelim).
+In subsection (a), the words “and appropriate” are omitted as covered by the word “necessary”. The words “and ranks” are omitted as covered by the word “grades”. The second sentence of 34 App.:701 is omitted as covered by [section 6224 of this title](./chapter-605-safeguards-and-security-matters.md#section-6224).
 
 In subsection (b), the words “United States” and “or the United States Marine Corps Reserve” are omitted as unnecessary in view of the definition of “Marine Corps” in [section 5001(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5001/a/2&num=0&edition=prelim). The words “as authorized by sections 701 to 701–5 of this title” are omitted as surplusage.
 
@@ -113,7 +113,7 @@ Section 8288, acts Aug. 10, 1956, ch. 1041, 70A Stat. 508; Aug. 2, 1957, Pub. L.
 Section 8289, act Aug. 10, 1956, ch. 1041, 70A Stat. 509, provided that no person be originally appointed as a first lieutenant in Regular Air Force with a view to designation as a medical officer until he passes an examination of his professional fitness before an examining board composed of at least three medical officers designated by Secretary of Air Force. See [section 532 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-532).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 6222 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6222&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 6222 of this title](./chapter-605-safeguards-and-security-matters.md#section-6222) as this section.
 
 2006—Pub. L. 109–364 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to composition of the United States Marine Band, designation of its director and assistant directors, grades upon initial appointment, promotion, retirement, and revocation of appointments.
 

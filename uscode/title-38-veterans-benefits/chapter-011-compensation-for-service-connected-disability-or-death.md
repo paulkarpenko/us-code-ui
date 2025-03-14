@@ -1676,12 +1676,70 @@ Pub. L. 85–782, § 2, Aug. 27, 1958, 72 Stat. 936, provided that the amendment
 Pub. L. 97–253, title IV, § 405, Sept. 8, 1982, 96 Stat. 803, [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title and enacting provisions set out as notes under this section] was repealed by Pub. L. 97–306, title I, § 107, Oct. 14, 1982, 96 Stat. 1431. Section 405 of Pub. L. 97–253 had amended those sections relating to compensation to be effective Jan. 1, 1983, in contemplation of the later enactment of a law providing for cost-of-living increases for fiscal year 1983, with the intent that the increases provided for under section 405 of Pub. L. 97–253 be superseded by increases provided for in the later law. Pub. L. 97–306 provided for the anticipated increases and repealed section 405 of Pub. L. 97–253.
 
 #### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
-Pub. L. 118–130, §§ 2(a)–(c), 3, Nov. 25, 2024, 138 Stat. 1639, 1640, provided that: “SEC. 2. INCREASE IN RATES OF DISABILITY COMPENSATION AND DEPENDENCY AND INDEMNITY COMPENSATION.“(a) Rate Adjustment.—Effective on December 1, 2024, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2024, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b). “(b) Amounts To Be Increased.—The dollar amounts to be increased pursuant to subsection (a) are the following:“(1) Wartime disability compensation.—Each of the dollar amounts under [section 1114 of title 38](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114), United States Code. “(2) Additional compensation for dependents.—Each of the dollar amounts under section 1115(1) of such title. “(3) Clothing allowance.—The dollar amount under section 1162 of such title. “(4) Dependency and indemnity compensation to surviving spouse.—Each of the dollar amounts under subsections (a) through (d) of section 1311 of such title. “(5) Dependency and indemnity compensation to children.—Each of the dollar amounts under sections 1313(a) and 1314 of such title. “(c) Determination of Increase.—Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.) are increased effective December 1, 2024, as a result of a determination under section 215(i) of such Act ([42 U.S.C. 415(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i&num=0&edition=prelim)). “SEC. 3. PUBLICATION OF ADJUSTED RATES.“The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act ([42 U.S.C. 415(i)(2)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i/2/D&num=0&edition=prelim)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2025.”Similar provisions were contained in the following acts: Pub. L. 118–6, §§ 2(a)–(c), 3, June 14, 2023, 137 Stat. 50, 51. Pub. L. 117–191, §§ 2(a)–(c), 3, Oct. 10, 2022, 136 Stat. 2207, 2208. Pub. L. 117–45, §§ 2(a)–(c), 3, Oct. 8, 2021, 135 Stat. 389, 390. Pub. L. 116–178, §§ 2(a)–(c), 3, Oct. 20, 2020, 134 Stat. 853, 854. Pub. L. 116–58, §§ 2(a)–(c), 3, Sept. 26, 2019, 133 Stat. 1091, 1092. Pub. L. 115–258, §§ 2(a)–(c), 3, Oct. 9, 2018, 132 Stat. 3662, 3663. Pub. L. 115–75, §§ 2(a)–(c), 3, Nov. 2, 2017, 131 Stat. 1244, 1245. Pub. L. 114–197, §§ 2(a)–(c), 3, July 22, 2016, 130 Stat. 693, 694. Pub. L. 113–181, § 2(a)–(c), (e), Sept. 26, 2014, 128 Stat. 1916, 1917. Pub. L. 113–52, § 2(a)–(c), (e), Nov. 21, 2013, 127 Stat. 582, 583. Pub. L. 112–198, §§ 2(a)–(c), 3, Nov. 27, 2012, 126 Stat. 1463, 1464. Pub. L. 112–53, § 2(a)–(c), (e), Nov. 9, 2011, 125 Stat. 548, 549. Pub. L. 111–247, §§ 2(a)–(c), 3, Sept. 30, 2010, 124 Stat. 2623, 2624. Pub. L. 111–37, § 2(a)–(c), (e), June 30, 2009, 123 Stat. 1927, 1928. Pub. L. 110–324, § 2(a)–(c), (e), Sept. 24, 2008, 122 Stat. 3549, 3550. Pub. L. 110–111, §§ 2(a)–(c), 3, Nov. 5, 2007, 121 Stat. 1035, 1036. Pub. L. 109–361, §§ 2(a)–(c), 3, Oct. 16, 2006, 120 Stat. 2062, 2063. Pub. L. 108–363, §§ 2(a)–(c), 3, Oct. 25, 2004, 118 Stat. 1705, 1706. Pub. L. 108–147, §§ 2(a)–(c), 3, Dec. 3, 2003, 117 Stat. 1885, 1886. Pub. L. 107–247, §§ 2(a)–(c), 3, Oct. 23, 2002, 116 Stat. 1517, 1518. Pub. L. 106–413, §§ 2(a)–(c), 3, Nov. 1, 2000, 114 Stat. 1798, 1799. Pub. L. 105–368, title XI, §§ 1101(a)–(c), 1102, Nov. 11, 1998, 112 Stat. 3366, 3367. Pub. L. 104–263, § 2(a), (c), Oct. 9, 1996, 110 Stat. 3212. Pub. L. 104–57, §§ 2(a)–(c), 3, Nov. 22, 1995, 109 Stat. 555, 556. Pub. L. 103–418, §§ 2(a)–(c), 3, Oct. 25, 1994, 108 Stat. 4336, 4337. Pub. L. 102–510, § 2(a), (c), Oct. 24, 1992, 106 Stat. 3318, 3319.
-
-#### Administrative Adjustment of Disability Rates of Certain Persons Not Covered by This Chapter
-Pub. L. 118–130, § 2(d), Nov. 25, 2024, 138 Stat. 1639, provided that: “The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) [set out as a note above], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) [set out as a note preceding [section 101 of this title](./chapter-001-general.md#section-101)] who have not received compensation under chapter 11 of title 38, United States Code.”
+Pub. L. 119–42, §§ 2(a)–(c), 3, Nov. 25, 2025, 139 Stat. 665, 666, provided that: “SEC. 2. INCREASE IN RATES OF DISABILITY COMPENSATION AND DEPENDENCY AND INDEMNITY COMPENSATION.“(a) Rate Adjustment.—Effective on December 1, 2025, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2025, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b). “(b) Amounts To Be Increased.—The dollar amounts to be increased pursuant to subsection (a) are the following:“(1) Wartime disability compensation.—Each of the dollar amounts under [section 1114 of title 38](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114), United States Code. “(2) Additional compensation for dependents.—Each of the dollar amounts under section 1115(1) of such title. “(3) Clothing allowance.—The dollar amount under section 1162 of such title. “(4) Dependency and indemnity compensation to surviving spouse.—Each of the dollar amounts under subsections (a) through (d) of section 1311 of such title. “(5) Dependency and indemnity compensation to children.—Each of the dollar amounts under sections 1313(a) and 1314 of such title. “(c) Determination of Increase.—Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.) are increased effective December 1, 2025, as a result of a determination under section 215(i) of such Act ([42 U.S.C. 415(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i&num=0&edition=prelim)). “SEC. 3. PUBLICATION OF ADJUSTED RATES.“The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act ([42 U.S.C. 415(i)(2)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i/2/D&num=0&edition=prelim)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2026.”
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 118–130, §§ 2(a)–(c), 3, Nov. 25, 2024, 138 Stat. 1639, 1640.
+
+Pub. L. 118–6, §§ 2(a)–(c), 3, June 14, 2023, 137 Stat. 50, 51.
+
+Pub. L. 117–191, §§ 2(a)–(c), 3, Oct. 10, 2022, 136 Stat. 2207, 2208.
+
+Pub. L. 117–45, §§ 2(a)–(c), 3, Oct. 8, 2021, 135 Stat. 389, 390.
+
+Pub. L. 116–178, §§ 2(a)–(c), 3, Oct. 20, 2020, 134 Stat. 853, 854.
+
+Pub. L. 116–58, §§ 2(a)–(c), 3, Sept. 26, 2019, 133 Stat. 1091, 1092.
+
+Pub. L. 115–258, §§ 2(a)–(c), 3, Oct. 9, 2018, 132 Stat. 3662, 3663.
+
+Pub. L. 115–75, §§ 2(a)–(c), 3, Nov. 2, 2017, 131 Stat. 1244, 1245.
+
+Pub. L. 114–197, §§ 2(a)–(c), 3, July 22, 2016, 130 Stat. 693, 694.
+
+Pub. L. 113–181, § 2(a)–(c), (e), Sept. 26, 2014, 128 Stat. 1916, 1917.
+
+Pub. L. 113–52, § 2(a)–(c), (e), Nov. 21, 2013, 127 Stat. 582, 583.
+
+Pub. L. 112–198, §§ 2(a)–(c), 3, Nov. 27, 2012, 126 Stat. 1463, 1464.
+
+Pub. L. 112–53, § 2(a)–(c), (e), Nov. 9, 2011, 125 Stat. 548, 549.
+
+Pub. L. 111–247, §§ 2(a)–(c), 3, Sept. 30, 2010, 124 Stat. 2623, 2624.
+
+Pub. L. 111–37, § 2(a)–(c), (e), June 30, 2009, 123 Stat. 1927, 1928.
+
+Pub. L. 110–324, § 2(a)–(c), (e), Sept. 24, 2008, 122 Stat. 3549, 3550.
+
+Pub. L. 110–111, §§ 2(a)–(c), 3, Nov. 5, 2007, 121 Stat. 1035, 1036.
+
+Pub. L. 109–361, §§ 2(a)–(c), 3, Oct. 16, 2006, 120 Stat. 2062, 2063.
+
+Pub. L. 108–363, §§ 2(a)–(c), 3, Oct. 25, 2004, 118 Stat. 1705, 1706.
+
+Pub. L. 108–147, §§ 2(a)–(c), 3, Dec. 3, 2003, 117 Stat. 1885, 1886.
+
+Pub. L. 107–247, §§ 2(a)–(c), 3, Oct. 23, 2002, 116 Stat. 1517, 1518.
+
+Pub. L. 106–413, §§ 2(a)–(c), 3, Nov. 1, 2000, 114 Stat. 1798, 1799.
+
+Pub. L. 105–368, title XI, §§ 1101(a)–(c), 1102, Nov. 11, 1998, 112 Stat. 3366, 3367.
+
+Pub. L. 104–263, § 2(a), (c), Oct. 9, 1996, 110 Stat. 3212.
+
+Pub. L. 104–57, §§ 2(a)–(c), 3, Nov. 22, 1995, 109 Stat. 555, 556.
+
+Pub. L. 103–418, §§ 2(a)–(c), 3, Oct. 25, 1994, 108 Stat. 4336, 4337.
+
+Pub. L. 102–510, § 2(a), (c), Oct. 24, 1992, 106 Stat. 3318, 3319.
+
+#### Administrative Adjustment of Disability Rates of Certain Persons Not Covered by This Chapter
+Pub. L. 119–42, § 2(d), Nov. 25, 2025, 139 Stat. 665, provided that: “The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) [set out as a note above], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) [set out as a note preceding [section 101 of this title](./chapter-001-general.md#section-101)] who have not received compensation under chapter 11 of title 38, United States Code.”
+
+Similar provisions were contained in the following acts:
+
+Pub. L. 118–130, § 2(d), Nov. 25, 2024, 138 Stat. 1639.
 
 Pub. L. 118–6, § 2(d), June 14, 2023, 137 Stat. 50.
 
@@ -2239,9 +2297,6 @@ Pub. L. 97–253, title IV, § 405(c), Sept. 8, 1982, 96 Stat. 803, cited as a c
 #### Savings Provision
 Pub. L. 89–137, § 1(c), Aug. 26, 1965, 79 Stat. 576, provided that: “Any veteran-trainee receiving subsistence allowance on the date of the enactment of this Act [Aug. 26, 1965] while pursuing a course of vocational rehabilitation authorized by chapter 31 of title 38, United States Code [former section 1501 et seq. of this title], shall not have such allowance reduced by reason of the amendments contained in such Act [amending this section and former [section 1504 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1504)].”
 
-#### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
-For increases in rates and limitations on Department of Veterans Affairs disability compensation and dependency and indemnity compensation, see notes set out under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
-
 
 <a id="section-1116"></a>
 ## § 1116. Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in certain locations
@@ -2310,7 +2365,7 @@ Section 3 of the Agent Orange Act of 1991, referred to in subsec. (b), is sectio
 #### Amendments
 2022—Pub. L. 117–168, § 403(d), substituted “certain locations” for “the Republic of Vietnam” in section catchline.
 
-Subsec. (a)(1). Pub. L. 117–168, § 403(b)(1), which directed substitution of “performed covered service” for “, during active military, naval, air, or space service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975”, wherever appearing in section, was executed by making the substitution for “, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” in subpars. (A) and (B) to reflect the probable intent of Congress.
+Subsec. (a)(1). Pub. L. 117–168, § 403(b)(1), which directed substitution of “performed covered service” for “, during active military, naval, air, or space service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” wherever appearing in section, was executed by making the substitution for “, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” in subpars. (A) and (B) to reflect the probable intent of Congress.
 
 Subsec. (a)(2)(C), (E). Pub. L. 117–168, § 403(b)(2), which directed substitution of “performed covered service” for “performed active military, naval, air, or space service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” wherever appearing in section, was executed by making the substitution for “performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” to reflect the probable intent of Congress.
 
@@ -2320,7 +2375,7 @@ Subsec. (a)(2)(M). Pub. L. 117–168, § 404(c), added subpar. (M).
 
 Subsec. (b). Pub. L. 117–168, § 202(d)(1)(A), (B), added subsec. (b) and struck out former subsec. (b) which required the Secretary to prescribe regulations based on determination of a positive association between the occurrence of a disease in humans and exposure to an herbicide agent.
 
-Subsec. (c). Pub. L. 117–168, § 403(b)(1), which directed substitution of “performed covered service” for “, during active military, naval, air, or space service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975”, wherever appearing in section, was executed by making the substitution for “, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” to reflect the probable intent of Congress.
+Subsec. (c). Pub. L. 117–168, § 403(b)(1), which directed substitution of “performed covered service” for “, during active military, naval, air, or space service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” wherever appearing in section, was executed by making the substitution for “, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” to reflect the probable intent of Congress.
 
 Pub. L. 117–168, § 202(d)(1)(A), (C), redesignated subsec. (f) as (c) and struck out former subsec. (c) which related to determinations of presumption of service connection between diseases and exposure to herbicide agents and issuance of regulations based on such determinations.
 
@@ -3361,6 +3416,9 @@ Prior to renumbering of sections 301 to 363 of this chapter as sections 1101 to 
 #### Effective Date
 Pub. L. 110–389, title II, § 211(b), Oct. 10, 2008, 122 Stat. 4151, provided that: “[Section 1156(a)(1) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1156/a/1&num=0&edition=prelim), United States Code, as added by subsection (a), shall apply with respect to a veteran who is discharged or released from active duty (as defined in [section 101 of title 38](./chapter-001-general.md#section-101), United States Code) on or after the date of the enactment of this Act [Oct. 10, 2008].”
 
+#### Department of Veterans Affairs Automatic Processing of Certain Claims for Temporary Disability Ratings
+Pub. L. 118–210, title III, § 307, Jan. 2, 2025, 138 Stat. 2794, provided that: “(a) In General.—Not later than one year after the date of the enactment of this Act [Jan. 2, 2025], the Secretary of Veterans Affairs shall modify the information technology systems of the Department of Veterans Affairs to use automation technology for claims for temporary disability ratings for veterans described in [section 1156(a)(1)(C) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1156/a/1/C&num=0&edition=prelim), United States Code. “(b) Additional Requirements.—In carrying out subsection (a), the Secretary shall ensure that—“(1) medical evidence is obtained from the corporate data warehouse of the Department or other sources of data, the Secretary determines appropriate; “(2) employees of the Department continue to determine whether a veteran is entitled to a temporary disability rating under [section 1156(a)(1)(C) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1156/a/1/C&num=0&edition=prelim), United States Code; and “(3) claims may be processed manually if the evidence of record is not sufficient to decide the claim or if the medical evidence is provided in a format that is not compatible with the system developed under subsection (a).”
+
 
 <a id="section-1157"></a>
 ## § 1157. Combination of certain ratings
@@ -3540,6 +3598,9 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 ### Statutory Notes
 
+#### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
+For increases in rates of Department of Veterans Affairs disability compensation and dependency and indemnity compensation, see notes set out under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
+
 #### Amendments
 2022—Pub. L. 117–328 designated existing provisions as subsec. (a) and inserted heading, inserted comma after “The Secretary” in introductory provisions, and added subsecs. (b) to (d).
 
@@ -3694,9 +3755,6 @@ Section effective first day of second calendar month which begins after June 30,
 
 #### Repeal
 Section 405(d) of Pub. L. 97–253, cited as a credit to this section, was repealed by Pub. L. 97–306, §§ 107, 108, Oct. 14, 1982, 96 Stat. 1431, 1432, eff. Oct. 1, 1982.
-
-#### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
-For increases in rates and limitations on Department of Veterans Affairs disability compensation and dependency and indemnity compensation, see notes set out under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
 
 #### Special Benefit Allowance Rates
 For current VA special benefit allowance rates, see https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/
@@ -4012,15 +4070,12 @@ Pub. L. 117–168, title II, § 203(c), Aug. 10, 2022, 136 Stat. 1776, provided 
 
 (1) The term “illness” includes a disease or other condition affecting the health of an individual, including mental and physical health.
 
-(2) The term “Individual Longitudinal Exposure Record” includes—
-
-  (A) service records;
-
-  (B) any database maintained by the Department of Defense and shared with the Department of Veterans Affairs to serve as a central portal for exposure-related data that compiles, collates, presents, and provides available occupational and environmental exposure information to support the needs of the Department of Defense and the Department of Veterans Affairs; or
-
-  (C) any successor system to a database described in subparagraph (B).
+(2) The term “Individual Longitudinal Exposure Record” means the data system maintained under [section 996 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section996&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### Amendments
+2025—Subsec. (b)(2). Pub. L. 119–60 amended par. (2) generally. Prior to amendment, par. (2) defined the term “Individual Longitudinal Exposure Record”.
 
 #### Correction of Exposure Records by Members of the Armed Forces and Veterans
 Pub. L. 117–168, title VIII, § 803, Aug. 10, 2022, 136 Stat. 1802, provided that: “(a) In General.—The Secretary of Veterans Affairs shall coordinate with the Secretary of Defense to provide a means for veterans to update their records as necessary to reflect exposures to occupational or environmental hazards by such member or veteran in the Individual Longitudinal Exposure Record. “(b) Evidence.—“(1) Provision of evidence.—To update a record under subsection (a), a veteran shall provide such evidence as the Secretary of Veterans Affairs considers necessary. “(2) Regulations.—The Secretary of Veterans Affairs shall prescribe by regulation the evidence considered necessary under paragraph (1). “(c) Definitions.—In this section:“(1) Individual longitudinal exposure record.—The term ‘Individual Longitudinal Exposure Record’ has the meaning given such term in [section 1171 of title 38](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1171), United States Code, as added by section 202. “(2) Toxic exposure.—The term ‘toxic exposure’ has the meaning given such term in [section 101 of title 38](./chapter-001-general.md#section-101), United States Code, as amended by section 102(b).”

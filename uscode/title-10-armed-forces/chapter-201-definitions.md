@@ -24,7 +24,7 @@ source: >-
 
 (3) focuses primarily on acquisition.
 
-**(c) Acquisition.—** In this section, the term “acquisition” has the meaning provided in [section 131 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section131&num=0&edition=prelim).
+**(c) Acquisition.—** In this part, the term “acquisition” has the meaning provided in [section 131 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section131&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -37,6 +37,8 @@ The text of pars. (2), (3), and (1) of [section 2545 of this title](./chapter-ch
 A prior section 3001 was renumbered [section 7001 of this title](./chapter-701-definitions.md#section-7001).
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 119–60 substituted “this part” for “this section”.
+
 2021—Subsec. (a). Pub. L. 116–283, § 1806(a)(2), redesignated par. (2) of [section 2545 of this title](./chapter-chapter-149-chapter-chapter-149.md#section-2545) as subsec. (a) of this section, inserted heading and realigned margin, substituted “In this part, the term” for “The term”, and inserted dash after “means”, par. (1) designation before “the workforce”, par. (2) designation before “the management”, and par. (3) designation before “the statutory,”.
 
 Subsec. (b). Pub. L. 116–283, § 1806(a)(3), redesignated par. (3) of [section 2545 of this title](./chapter-chapter-149-chapter-chapter-149.md#section-2545) as subsec. (b) of this section, inserted heading and realigned margin, substituted “In this part, the term” for “The term”, “workforce;” for “workforce,”, and “functions;” for “functions,”, and inserted dash after “organization that”, par. (1) designation before “employs”, par. (2) designation before “carries out”, and par. (3) designation before “focuses”.
@@ -189,7 +191,7 @@ In this part, the term “competitive procedures” means procedures under which
 
   (A) participation in the program has been open to all responsible sources; and
 
-  (B) orders and contracts under such program result in the lowest overall cost alternative to meet the needs of the United States;
+  (B) orders and contracts under such program result in the best value to meet the needs of the United States;
 
 (4) procurements conducted in furtherance of section 15 of the Small Business Act ([15 U.S.C. 644](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644&num=0&edition=prelim)) as long as all responsible business concerns that are entitled to submit offers for such procurements are permitted to compete; and
 
@@ -206,6 +208,8 @@ A prior section 3012 was renumbered [section 7012 of this title](./chapter-703-d
 Another prior section 3012 was renumbered [section 3013 of this title](./chapter-201-definitions.md#section-3013) and subsequently repealed.
 
 #### Amendments
+2025—Par. (3)(B). Pub. L. 119–60 substituted “best value” for “lowest overall cost alternative”.
+
 2021—Pub. L. 116–283, § 1806(b)(3), transferred par. (2) of [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302) to this section, realigned margin, struck out par. (2) designation at beginning, substituted “In this part, the term” for “The term” in introductory provisions, redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, and, in par. (3), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively.
 
 #### Effective Date
@@ -260,6 +264,9 @@ Another prior section 3014 was renumbered [section 3015 of this title](./chapter
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Exemptions for Nontraditional Defense Contractors
+Pub. L. 119–60, div. A, title XVIII, § 1826, Dec. 18, 2025, 139 Stat. 1249, provided that: “(a) Exemption.—For the purposes of contracts, subcontracts, or agreements of the Department of Defense, products and services provided by nontraditional defense contractors (as defined in [section 3014 of title 10](./chapter-201-definitions.md#section-3014), United States Code) shall be exempt from the following requirements:“(1) Section 252.242–7006 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. “(2) Section 252.234–7002 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. “(3) Section 252.215–7002 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. “(4) Section 252.242–7004 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. “(5) Section 252.245–7003 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. “(6) Section 252.244–7001 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. “(7) Section 252.242–7005 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. “(8) Section 215.407 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. “(9) [Section 3702 of title 10](./chapter-271-truthful-cost-or-pricing-data-truth-in-negotiations.md#section-3702), United States Code. “(10) Part 31 of the Federal Acquisition Regulation, or successor regulation. “(b) Waiver and Reporting.—“(1) In general.—The requirement under subsection (a) may be waived or modified with respect to a product or service with a written determination approved by the head of the relevant contracting activity. “(2) Delegation.—The authority to approve a written determination under paragraph (1) may only be delegated to a senior contracting official for the relevant contracting activity or a more senior official. “(3) Partial application.—One or more of the requirements described in paragraphs (1) through (10) of subsection (a) may be applied to a contract, subcontract, or other agreement with a nontraditional defense contractor upon a written determination approved by the head of the relevant contracting activity that includes a justification explaining why application of such requirements is in the best interest of the Federal Government. “(4) Congressional notice.—Not later than 60 days after the date on which a waiver is issued under this section, the Secretary of Defense shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a notice of the waiver, including with a discussion of efforts made to adapt the acquisition approach for the product or service with respect to which the such waiver was granted so that such waiver would not be necessary.”
 
 
 <a id="section-3015"></a>
@@ -360,15 +367,15 @@ Section effective Jan. 1, 2022, with additional provisions for delayed implement
 
 (1) **In general.—** — For purposes of subsection (b), a system for which the Department of Defense is responsible shall be considered a major system if—
 
-  (A) the total expenditures for research, development, test, and evaluation for the system are estimated to be more than $115,000,000 (based on fiscal year 1990 constant dollars); or
+  (A) the total expenditures for research, development, test, and evaluation for the system are estimated to be more than $275,000,000 (based on fiscal year 2024 constant dollars); or
 
-  (B) the eventual total expenditure for procurement for the system is estimated to be more than $540,000,000 (based on fiscal year 1990 constant dollars).
+  (B) the eventual total expenditure for procurement for the system is estimated to be more than $1,300,000,000 (based on fiscal year 2024 constant dollars).
 
 (2) **Adjustment authority.—** — Authority for the Secretary of Defense to adjust amounts and the base fiscal year in effect under this subsection is provided in [section 4202(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4202/b&num=0&edition=prelim).
 
 **(d) Civilian Agency Systems.—** For purposes of subsection (b), a system for which a civilian agency is responsible shall be considered a major system if total expenditures for the system are estimated to exceed the greater of—
 
-(1) $750,000 (based on fiscal year 1980 constant dollars); or
+(1) $2,000,000 (based on fiscal year 2024 constant dollars); or
 
 (2) the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”.
 
@@ -380,6 +387,12 @@ The text of par. (5) of [section 2302 of this title](./chapter-chapter-137-chapt
 The text of subsecs. (a) and (b) of [section 2302d of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302d), which were transferred to this section, redesignated as subsecs. (c) and (d), respectively, and amended by Pub. L. 116–283, § 1806(c)(3), was based on Pub. L. 104–201, div. A, title VIII, § 805(a)(2), Sept. 23, 1996, 110 Stat. 2605; Pub. L. 105–85, div. A, title X, § 1073(a)(41), Nov. 18, 1997, 111 Stat. 1902.
 
 #### Amendments
+2025—Subsec. (c)(1)(A). Pub. L. 119–60, § 1804(a)(1)(A), substituted “$275,000,000 (based on fiscal year 2024 constant dollars)” for “$115,000,000 (based on fiscal year 1990 constant dollars)”.
+
+Subsec. (c)(1)(B). Pub. L. 119–60, § 1804(a)(1)(B), substituted “$1,300,000,000 (based on fiscal year 2024 constant dollars)” for “$540,000,000 (based on fiscal year 1990 constant dollars)”.
+
+Subsec. (d)(1). Pub. L. 119–60, § 1804(a)(2), substituted “$2,000,000 (based on fiscal year 2024 constant dollars)” for “$750,000 (based on fiscal year 1980 constant dollars)”.
+
 2021—Subsec. (a). Pub. L. 116–283, § 1806(c)(2)(A), redesignated par. (5) of [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302) as subsec. (a) of this section, realigned margin, inserted heading, and substituted “In this part (other than in sections 4292(e) and 4321), the term” for “The term”. Former third sentence of subsec. (a) designated (b).
 
 Subsec. (b). Pub. L. 116–283, § 1806(c)(2)(B), (C), after transfer of [section 2302(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302/5&num=0&edition=prelim) to subsec. (a) of this section, designated third sentence of subsec. (a) as (b), inserted heading, and substituted “system if—” and pars. (1) and (2) for “system if (A) the conditions of [section 2302d of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302d) are satisfied, or (B) the system is designated a ‘major system’ by the head of the agency responsible for the system.”

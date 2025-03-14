@@ -2,7 +2,7 @@
 title: 10
 chapter: '365'
 heading: CONTRACTOR WORKFORCE
-section_count: 4
+section_count: 5
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -72,17 +72,19 @@ source: >-
 
   (D) Consider disciplinary or corrective action against any official of the Department of Defense.
 
-(2) If the head of an executive agency issues an order denying relief under paragraph (1) or has not issued an order within 210 days after the submission of a complaint under subsection (b), or in the case of an extension of time under paragraph (b)(2)(B), not later than 30 days after the expiration of the extension of time, and there is no showing that such delay is due to the bad faith of the complainant, the complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint, and the complainant may bring a de novo action at law or equity against the contractor, subcontractor, grantee, subgrantee, or personal services contractor to seek compensatory damages and other relief available under this section in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy. Such an action shall, at the request of either party to the action, be tried by the court with a jury. An action under this paragraph may not be brought more than two years after the date on which remedies are deemed to have been exhausted.
+(2) Not later than 30 days after receiving an Inspector General report pursuant to subsection (b), the head of the agency concerned shall notify the complainant and the Inspector General, in writing, of either the actions ordered or the decision to deny relief. After such notification, if the head of the agency concerned changes the actions ordered or the decision to deny relief, the head of the agency concerned shall notify the complainant and the Inspector General, in writing, of the change not later than 30 days after the change occurs.
 
-(3) An Inspector General determination and an agency head order denying relief under paragraph (2) shall be admissible in evidence in any de novo action at law or equity brought pursuant to this subsection.
+(3) If the head of an executive agency issues an order denying relief under paragraph (1) or has not issued an order within 210 days after the submission of a complaint under subsection (b), or in the case of an extension of time under paragraph (2)(B) of such subsection, not later than 30 days after the expiration of the extension of time, and there is no showing that such delay is due to the bad faith of the complainant, the complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint, and the complainant may bring a de novo action at law or equity against the contractor, subcontractor, grantee, subgrantee, or personal services contractor to seek compensatory damages and other relief available under this section in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy. Such an action shall, at the request of either party to the action, be tried by the court with a jury. An action under this paragraph may not be brought more than two years after the date on which remedies are deemed to have been exhausted.
 
-(4) Whenever a person fails to comply with an order issued under paragraph (1), the head of the agency shall file an action for enforcement of such order in the United States district court for a district in which the reprisal was found to have occurred. In any action brought under this paragraph, the court may grant appropriate relief, including injunctive relief, compensatory and exemplary damages, and reasonable attorney fees and costs. The person upon whose behalf an order was issued may also file such an action or join in an action filed by the head of the agency.
+(4) An Inspector General determination and an agency head order denying relief under paragraph (3) shall be admissible in evidence in any de novo action at law or equity brought pursuant to this subsection.
 
-(5) Any person adversely affected or aggrieved by an order issued under paragraph (1) may obtain review of the order’s conformance with this subsection, and any regulations issued to carry out this section, in the United States court of appeals for a circuit in which the reprisal is alleged in the order to have occurred. No petition seeking such review may be filed more than 60 days after issuance of the order by the head of the agency. Review shall conform to chapter 7 of title 5. Filing such an appeal shall not act to stay the enforcement of the order of the head of an agency, unless a stay is specifically entered by the court.
+(5) Whenever a person fails to comply with an order issued under paragraph (1), the head of the agency shall file an action for enforcement of such order in the United States district court for a district in which the reprisal was found to have occurred. In any action brought under this paragraph, the court may grant appropriate relief, including injunctive relief, compensatory and exemplary damages, and reasonable attorney fees and costs. The person upon whose behalf an order was issued may also file such an action or join in an action filed by the head of the agency.
 
-(6) The legal burdens of proof specified in [section 1221(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1221/e&num=0&edition=prelim) shall be controlling for the purposes of any investigation conducted by an Inspector General, decision by the head of an agency, or judicial or administrative proceeding to determine whether discrimination prohibited under this section has occurred.
+(6) Any person adversely affected or aggrieved by an order issued under paragraph (1) may obtain review of the order’s conformance with this subsection, and any regulations issued to carry out this section, in the United States court of appeals for a circuit in which the reprisal is alleged in the order to have occurred. No petition seeking such review may be filed more than 60 days after issuance of the order by the head of the agency. Review shall conform to chapter 7 of title 5. Filing such an appeal shall not act to stay the enforcement of the order of the head of an agency, unless a stay is specifically entered by the court.
 
-(7) The rights and remedies provided for in this section may not be waived by any agreement, policy, form, or condition of employment.
+(7) The legal burdens of proof specified in [section 1221(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1221/e&num=0&edition=prelim) shall be controlling for the purposes of any investigation conducted by an Inspector General, decision by the head of an agency, or judicial or administrative proceeding to determine whether discrimination prohibited under this section has occurred.
+
+(8) The rights and remedies provided for in this section may not be waived by any agreement, policy, form, or condition of employment.
 
 **(d) Notification of Employees.—** The Secretary of Defense and the Administrator of the National Aeronautics and Space Administration shall ensure that contractors, subcontractors, grantees, subgrantees, or personal services contractors of the Department of Defense and the National Aeronautics and Space Administration, as applicable, inform their employees in writing of the rights and remedies provided under this section, in the predominant native language of the workforce.
 
@@ -126,6 +128,14 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Amendments
+2024—Subsec. (c)(2). Pub. L. 118–159, § 837(2), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (c)(3). Pub. L. 118–159, § 837(1), (3), redesignated par. (2) as (3) and substituted “paragraph (2)(B) of such subsection” for “paragraph (b)(2)(B)”. Former par. (3) redesignated (4).
+
+Subsec. (c)(4). Pub. L. 118–159, § 837(1), (4), redesignated par. (3) as (4) and substituted “paragraph (3)” for “paragraph (2)”. Former par. (4) redesignated (5).
+
+Subsec. (c)(5) to (8). Pub. L. 118–159, § 837(1), redesignated pars. (4) to (7) as (5) to (8), respectively.
+
 2022—Subsec. (a)(2)(G), (3)(A). Pub. L. 117–263, § 807(a)(1)(A), (B), substituted “, subcontractor, grantee, subgrantee, or personal services contractor” for “or subcontractor”.
 
 Subsec. (b)(1). Pub. L. 117–263, § 807(a)(2), substituted “contractor, subcontractor, grantee, subgrantee, or personal services contractor concerned” for “contractor concerned”.
@@ -363,7 +373,7 @@ Amendment by section 1863(b) of Pub. L. 116–283 effective Jan. 1, 2022, with a
 
   (A) $5,000; or
 
-  (B) the total costs of the type described in paragraphs (1), (2), (3), (8), and (9) of section 472 of the Higher Education Act of 1965 ([20 U.S.C. 1087](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087&num=0&edition=prelim)ll) incurred by the participant while obtaining teacher certification or licensure or the necessary credentials to serve as a teacher’s aide and employment as an elementary or secondary school teacher or teacher aide.
+  (B) the total costs of the type described in paragraphs (1), (2), (3), (8), and (9) 11 See References in Text note below. of section 472 of the Higher Education Act of 1965 ([20 U.S.C. 1087](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087&num=0&edition=prelim)ll) incurred by the participant while obtaining teacher certification or licensure or the necessary credentials to serve as a teacher’s aide and employment as an elementary or secondary school teacher or teacher aide.
 
 (2) A stipend provided under this section shall be taken into account in determining the eligibility of the participant for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.).
 
@@ -375,6 +385,8 @@ Amendment by section 1863(b) of Pub. L. 116–283 effective Jan. 1, 2022, with a
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
 [Section 1151 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1151), referred to in subsecs. (f)(2)(A), (B) and (h), was repealed by Pub. L. 106–65, div. A, title XVII, § 1707(a)(1), Oct. 5, 1999, 113 Stat. 823, and a new [section 1151 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1151) was subsequently added by Pub. L. 109–364, § 561(a).
+
+Section 472 of the Higher Education Act of 1965, referred to in subsec. (g)(1)(B), which is classified to section 1087ll of Title 20, Education, was generally amended by Pub. L. 116–260, div. FF, title VII, § 702(b), Dec. 27, 2020, 134 Stat. 3138. For provisions similar to former pars. (1), (2), (3), (8), and (9), see subsec. (a)(1), (2), (5), (9), and (10), respectively, of section 1087ll of Title 20.
 
 The Higher Education Act of 1965, referred to in subsec. (g)(2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
@@ -453,3 +465,37 @@ Amendment by section 202(a)(18)(A) of Pub. L. 103–35 applicable as if included
 
 #### Effective Date
 Pub. L. 102–484, div. D, title XLIV, § 4470(b), Oct. 23, 1992, 106 Stat. 2753, provided that: “[Section 2410d of title 10](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410d), United States Code [now [10 U.S.C. 4704](./chapter-365-contractor-workforce.md#section-4704)], as added by subsection (a), shall apply with respect to contracts entered into beginning 120 days after the date of the enactment of this Act [Oct. 23, 1992].”
+
+
+<a id="section-4705"></a>
+## § 4705. Notice of contract cancellation or termination relating to remote or isolated installations
+**(a) In General.—** Except as provided by subsection (c), not later than 30 days before the date on which the Secretary of Defense or any other official of an element of the Department of Defense cancels or terminates a contract, the Secretary shall submit to Congress a notice of such cancellation or termination if such cancellation or termination involves a reduction in employment of not fewer than—
+
+(1) 50 remote or isolated installation contractor employees; or
+
+(2) 100 employees of contractors, including remote or isolated installation contractor employees.
+
+**(b) Requirements.—** A notice described in subsection (a) shall include an assessment of the effect of such cancellation or termination on members of the armed forces.
+
+**(c) Waiver.—**
+
+(1) The Secretary of Defense may waive the requirements of subsection (a) with respect to the cancellation or termination of a contract if the Secretary determines that such waiver is in the interest of national security.
+
+(2) If the Secretary waives the requirements of subsection (a) with respect to the cancellation or termination of a contract, the Secretary shall submit the notice required by such subsection with respect to such cancellation or termination not later than one week after such cancellation or termination.
+
+**(d) Definitions.—** In this section:
+
+(1) The term “remote or isolated installation” means a military installation (as defined in [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801)) that is a remote military installation, as determined by the Secretary pursuant to the policy required by section 565 of the National Defense Authorization Act for Fiscal Year 2022 ([10 U.S.C. 1781b](./chapter-088-military-family-programs-and-military-child-care.md#section-1781b) note).
+
+(2) The term “remote or isolated installation contractor employee” means an individual who—
+
+  (A) is an employee of a contractor;
+
+  (B) as such an employee, provides goods or services to a remote or isolated installation; and
+
+  (C) resides in the same geographic area as such remote or isolated installation.
+
+### Statutory Notes
+
+#### References in Text
+Section 565 of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (d)(1), is section 565 of Pub. L. 117–81, which is set out as a note under [section 1781b of this title](./chapter-088-military-family-programs-and-military-child-care.md#section-1781b).

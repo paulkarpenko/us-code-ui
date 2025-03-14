@@ -34,6 +34,8 @@ source: >-
 
   (D) The Marine Corps War College.
 
+  (E) The Space Force Senior Level Education Program.
+
 (2) The term “intermediate level service school” means any of the following:
 
   (A) The United States Army Command and General Staff College.
@@ -44,11 +46,19 @@ source: >-
 
   (D) The Marine Corps Command and Staff College.
 
-(3) The term “joint intermediate level school” includes the National Defense Intelligence College.
+  (E) The Space Force Intermediate Level Education Program.
+
+(3) The term “joint intermediate level school” includes the National Intelligence University.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b)(1)(E). Pub. L. 119–60, § 552(a)(1), added subpar. (E).
+
+Subsec. (b)(2)(E). Pub. L. 119–60, § 552(a)(2), added subpar. (E).
+
+2024—Subsec. (b)(3). Pub. L. 118–159 substituted “National Intelligence University” for “National Defense Intelligence College”.
+
 2013—Subsec. (a)(6). Pub. L. 112–239 added par. (6).
 
 2011—Subsec. (b)(3). Pub. L. 112–81 added par. (3).
@@ -126,9 +136,19 @@ Subsec. (b)(1). Pub. L. 116–259, § 205(b)(3)(B), inserted “or the Secretary
 
 **(b) Sequenced Approach.—** The Secretary shall require the sequencing of joint professional military education so that the standard sequence of assignments for such education requires an officer to complete Phase I instruction before proceeding to Phase II instruction, as provided in [section 2155(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2155/a&num=0&edition=prelim).
 
+**(c) Distance Education.—**
+
+(1) Any distance education program offered to satisfy Phase I or Phase II instruction under paragraph (1) or (2) of subsection (a) shall include a pathway for a student who is a member of a reserve component to fully complete the course of instruction asynchronously and while physically separated from the course instructors and without any in-person attendance required to graduate from such program.
+
+(2) In this subsection, the term “distance education” has the meaning given such term in section 103 of the Higher Education Act of 1965 ([20 U.S.C. 1003](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1003&num=0&edition=prelim)).
+
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (c)(1). Pub. L. 119–60 inserted “asynchronously and” after “course of instruction”.
+
+2024—Subsec. (c). Pub. L. 118–159 added subsec. (c).
+
 2015—Subsec. (a)(2)(A). Pub. L. 114–92 inserted “, or offered through,” after “taught in residence at”.
 
 2014—Subsec. (a)(2). Pub. L. 113–291 substituted “consisting of—” for “consisting of a joint professional military education curriculum taught in residence at—” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:

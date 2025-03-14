@@ -50,7 +50,7 @@ source: >-
 
       (II) will reimburse such recipient or party for any portion of the money paid on such request or demand; or
 
-  (C) made to an authority which has the effect of decreasing an obligation to pay or account for property, services, or money,
+  (C) made to an authority which has the effect of concealing or improperly avoiding or decreasing an obligation to pay or transmit property, services, or money to the authority,
   except that such term does not include any claim made in any return of tax imposed by the Internal Revenue Code of 1986;
 
 (4) “investigating official” means an individual who—
@@ -78,7 +78,7 @@ source: >-
 
 (7) “presiding officer” means—
 
-  (A) in the case of an authority to which the provisions of subchapter II of chapter 5 of title 5 apply, an administrative law judge appointed in the authority pursuant to section 3105 of such title or detailed to the authority pursuant to section 3344 of such title; or
+  (A) in the case of an authority to which the provisions of subchapter II of chapter 5 of title 5 apply, an administrative law judge appointed in the authority pursuant to section 3105 of such title or detailed to the authority pursuant to section 3344 of such title;
 
   (B) in the case of an authority to which the provisions of such subchapter do not apply, an officer or employee of the authority who—
 
@@ -94,7 +94,9 @@ source: >-
 
     (vi) is not subject to performance appraisal pursuant to chapter 43 of such title; and
 
-    (vii) may be removed, suspended, furloughed, or reduced in grade or pay only for good cause established and determined by the Merit Systems Protection Board on the record after opportunity for hearing by such Board;
+    (vii) may be removed, suspended, furloughed, or reduced in grade or pay only for good cause established and determined by the Merit Systems Protection Board on the record after opportunity for hearing by such Board; or
+
+  (C) a member of the board of contract appeals pursuant to [section 7105 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section7105&num=0&edition=prelim), if the authority does not employ an available presiding officer under subparagraph (A);
 
 (8) “reviewing official” means any officer or employee of an authority—
 
@@ -106,7 +108,7 @@ source: >-
 
     (i) not subject to supervision by, or required to report to, the investigating official; and
 
-    (ii) not employed in the organizational unit of the authority in which the investigating official is employed; and
+    (ii) not employed in the organizational unit of the authority in which the investigating official is employed;
 
 (9) “statement” means any representation, certification, affirmation, document, record, or accounting or bookkeeping entry made—
 
@@ -118,7 +120,11 @@ source: >-
 
     (ii) a grant, loan, or benefit from,
     an authority, or any State, political subdivision of a State, or other party, if the United States Government provides any portion of the money or property under such contract or for such grant, loan, or benefit, or if the Government will reimburse such State, political subdivision, or party for any portion of the money or property under such contract or for such grant, loan, or benefit,
-  except that such term does not include any statement made in any return of tax imposed by the Internal Revenue Code of 1986.
+  except that such term does not include any statement made in any return of tax imposed by the Internal Revenue Code of 1986;
+
+(10) “material” has the meaning given the term in [section 3729(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3729/b&num=0&edition=prelim); and
+
+(11) “obligation” has the meaning given the term in [section 3729(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3729/b&num=0&edition=prelim).
 
 **(b)** For purposes of paragraph (3) of subsection (a)—
 
@@ -134,12 +140,22 @@ source: >-
 
 (2) a statement shall be considered made, presented, or submitted to an authority when such statement is actually made to an agent, fiscal intermediary, or other entity, including any State or political subdivision thereof, acting for or on behalf of such authority.
 
+**(d)** For purposes of subsection (a)(10), materiality shall be determined in the same manner as under [section 3729 of this title](./chapter-037-claims.md#section-3729).
+
 ### Statutory Notes
 
 #### References in Text
 The Internal Revenue Code of 1986, referred to in subsec. (a)(3), (9), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+2024—Subsec. (a)(3)(C). Pub. L. 118–159, § 5203(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “made to an authority which has the effect of decreasing an obligation to pay or account for property, services, or money,”.
+
+Subsec. (a)(7)(C). Pub. L. 118–159, § 5203(g)(1)(A), added subpar. (C).
+
+Subsec. (a)(10), (11). Pub. L. 118–159, § 5203(i)(1), added pars. (10) and (11).
+
+Subsec. (d). Pub. L. 118–159, § 5203(i)(2), added subsec. (d).
+
 2022—Subsec. (a)(1)(C). Pub. L. 117–286, § 4(b)(56)(A), substituted “[section 401 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section401&num=0&edition=prelim))” for “section 11(2) of the Inspector General Act of 1978)”.
 
 Subsec. (a)(1)(F). Pub. L. 117–286, § 4(b)(56)(B), substituted “[section 415(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section415/a&num=0&edition=prelim))” for “section 8G(a)(2) of the Inspector General Act of 1978)”.
@@ -156,11 +172,19 @@ Subsec. (a)(4)(A)(ii). Pub. L. 117–286, § 4(b)(56)(D), substituted “chapter
 
 1986—Subsec. (a)(3), (9). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
+#### Change of Name
+Pub. L. 118–159, div. E, title LII, § 5203(a)(2), Dec. 23, 2024, 138 Stat. 2440, provided that: “Any reference to the Program Fraud Civil Remedies Act of 1986 in any provision of law, regulation, map, document, record, or other paper of the United States shall be deemed a reference to the Administrative False Claims Act [see Short Title note below].”
+
 #### Effective Date
 Pub. L. 99–509, title VI, subtitle B (§§ 6101–6104), § 6104, Oct. 21, 1986, 100 Stat. 1948, provided that: “This subtitle and the amendments made by this subtitle [see Short Title note below] shall take effect on the date of enactment of this Act [Oct. 21, 1986], and shall apply to any claim or statement made, presented, or submitted on or after such date.”
 
 #### Short Title
-Pub. L. 99–509, title VI, subtitle B (§§ 6101–6104), § 6101, Oct. 21, 1986, 100 Stat. 1934, provided that: “This subtitle [enacting this chapter, amending [section 504 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section504&num=0&edition=prelim), Government Organization and Employees, and enacting provisions set out as notes under this section] may be cited as the ‘Program Fraud Civil Remedies Act of 1986’.”
+Pub. L. 99–509, title VI, subtitle B (§§ 6101–6104), § 6101, Oct. 21, 1986, 100 Stat. 1934, as amended by Pub. L. 118–159, div. E, title LII, § 5203(a)(1)(B), Dec. 23, 2024, 138 Stat. 2440, provided that: “This subtitle [enacting this chapter, amending [section 504 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section504&num=0&edition=prelim), Government Organization and Employees, and enacting provisions set out as notes under this section] may be cited as the ‘Administrative False Claims Act’.”
+
+#### Regulations
+Pub. L. 118–159, div. E, title LII, § 5203(g)(3), Dec. 23, 2024, 138 Stat. 2443, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 23, 2024], each authority head, as defined in [section 3801 of title 31](./chapter-038-administrative-remedies-for-false-claims-and-statements.md#section-3801), United States Code, and each board of contract appeals of a board described in subparagraph (B), (C), or (D) of section 7105(e)[(1)] of title 41, United States Code, shall amend procedures regarding proceedings as necessary to implement the amendments made by this subsection [amending this section, [section 3803 of this title](./chapter-038-administrative-remedies-for-false-claims-and-statements.md#section-3803), and [section 7105 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section7105&num=0&edition=prelim), Public Contracts].”
+
+Pub. L. 118–159, div. E, title LII, § 5203(j), Dec. 23, 2024, 138 Stat. 2443, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 23, 2024], each authority head, as defined in [section 3801 of title 31](./chapter-038-administrative-remedies-for-false-claims-and-statements.md#section-3801), United States Code, shall— “(1) promulgate regulations and procedures to carry out this Act [probably should be “this section”, which amended this section, sections 3802, 3803, 3806, and 3808 of this title, [section 405 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section405&num=0&edition=prelim), Government Organization and Employees, and [section 7105 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section7105&num=0&edition=prelim), Public Contracts, and enacted and amended provisions set out as notes under this section] and the amendments made by this Act; and “(2) review and update existing regulations and procedures of the authority to ensure compliance with this Act and the amendments made by this Act.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
@@ -207,7 +231,11 @@ Pub. L. 99–509, title VI, subtitle B (§§ 6101–6104), § 6102, Oct. 21, 198
   (C) contains or is accompanied by an express certification or affirmation of the truthfulness and accuracy of the contents of the statement,
   shall be subject to, in addition to any other remedy that may be prescribed by law, a civil penalty of not more than $5,000 for each such statement.
 
-(3) An assessment shall not be made under the second sentence of paragraph (1) with respect to a claim if payment by the Government has not been made on such claim.
+(3)
+
+  (A) Except as provided in subparagraph (B), an assessment shall not be made under the second sentence of paragraph (1) with respect to a claim if payment by the Government has not been made on such claim.
+
+  (B) In the case of a claim described in section 3801(a)(3)(C), an assessment shall not be made under the second sentence of paragraph (1) in an amount that is more than double the value of the property, services, or money that was wrongfully withheld from the authority.
 
 **(b)**
 
@@ -221,6 +249,11 @@ Pub. L. 99–509, title VI, subtitle B (§§ 6101–6104), § 6102, Oct. 21, 198
 (2) A determination referred to in paragraph (1) of this subsection may be used by the authority, but shall not require such authority, to commence any administrative or contractual action which is authorized by law.
 
 (3) In the case of an administrative or contractual action to suspend or debar any person who is eligible to enter into contracts with the Federal Government, a determination referred to in paragraph (1) of this subsection shall not be considered as a conclusive determination of such person’s responsibility pursuant to Federal procurement laws and regulations.
+
+### Statutory Notes
+
+#### Amendments
+2024—Subsec. (a)(3). Pub. L. 118–159 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), an assessment” for “An assessment”, and added subpar. (B).
 
 
 <a id="section-3803"></a>
@@ -259,9 +292,9 @@ Pub. L. 99–509, title VI, subtitle B (§§ 6101–6104), § 6102, Oct. 21, 198
 
 (1) No allegations of liability under [section 3802 of this title](./chapter-038-administrative-remedies-for-false-claims-and-statements.md#section-3802) with respect to any claim made, presented, or submitted by any person shall be referred to a presiding officer under paragraph (2) of subsection (b) if the reviewing official determines that—
 
-  (A) an amount of money in excess of $150,000; or
+  (A) an amount of money in excess of $1,000,000; or
 
-  (B) property or services with a value in excess of $150,000,
+  (B) property or services with a value in excess of $1,000,000,
   is requested or demanded in violation of [section 3802 of this title](./chapter-038-administrative-remedies-for-false-claims-and-statements.md#section-3802) in such claim or in a group of related claims which are submitted at the time such claim is submitted.
 
 (2)
@@ -317,15 +350,35 @@ Pub. L. 99–509, title VI, subtitle B (§§ 6101–6104), § 6102, Oct. 21, 198
     (xvi) benefits under part A of the Energy Conservation in Existing Buildings Act of 1976,
     which are intended for the personal use of the individual who receives the benefits or for a member of the individual’s family.
 
+(3) **Adjustment for Inflation.—** — The maximum amount in paragraph (1) shall be adjusted for inflation in the same manner and to the same extent as civil monetary penalties under the Federal Civil Penalties Inflation Adjustment Act 11 So in original. Probably should be followed by “of 1990”. ([28 U.S.C. 2461](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2461&num=0&edition=prelim) note).
+
 **(d)**
 
 (1) On or after the date on which a reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b) of this section, the reviewing official shall mail, by registered or certified mail, or shall deliver, a notice to the person alleged to be liable under [section 3802 of this title](./chapter-038-administrative-remedies-for-false-claims-and-statements.md#section-3802). Such notice shall specify the allegations of liability against such person and shall state the right of such person to request a hearing with respect to such allegations.
 
 (2) If, within 30 days after receiving a notice under paragraph (1) of this subsection, the person receiving such notice requests a hearing with respect to the allegations contained in such notice—
 
-  (A) the reviewing official shall refer such allegations to a presiding officer for the commencement of such hearing; and
+  (A) the reviewing official shall refer such allegations to a presiding officer for the commencement of such hearing;
 
-  (B) the presiding officer shall commence such hearing by mailing by registered or certified mail, or by delivery of, a notice which complies with paragraphs (2)(A) and (3)(B)(i) of subsection (g) to such person.
+  (B)
+
+    (i) in the case of a referral to a presiding officer described in subparagraph (A) or (B) of section 3801(a)(7), the presiding officer shall commence such hearing by mailing by registered or certified mail, or by delivery of, a notice which complies with paragraphs (2)(A) and (3)(B)(i) of subsection (g) to such person; or
+
+    (ii) in the case of a referral to a presiding officer described in subparagraph (C) of section 3801(a)(7)—
+
+      (I) the reviewing official shall submit a copy of the notice required by under paragraph (1) and of the response of the person receiving such notice requesting a hearing—
+
+        (aa) to the board of contract appeals that has jurisdiction over matters arising from the agency of the reviewing official pursuant to [section 7105(e)(1) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section7105/e/1&num=0&edition=prelim); or
+
+        (bb) if the Chair of the board of contract appeals declines to accept the referral, to any other board of contract appeals; and
+
+      (II) the reviewing official shall simultaneously mail, by registered or certified mail, or shall deliver, notice to the person alleged to be liable under section 3802 that the referral has been made to an agency board of contract appeals with an explanation as to where the person may obtain the relevant rules of procedure promulgated by the board; and
+
+  (C) in the case of a hearing conducted by a presiding officer described in subparagraph (C) of section 3801(a)(7)—
+
+    (i) the presiding officer shall conduct the hearing according to the rules and procedures promulgated by the board of contract appeals; and
+
+    (ii) the hearing shall not be subject to the provisions in subsection (g)(2), (h), or (i).
 
 **(e)**
 
@@ -422,7 +475,11 @@ Any such determination shall be based on the preponderance of the evidence.
 
   (C) The authority head may affirm, reduce, reverse, compromise, remand, or settle any penalty or assessment determined by the presiding officer pursuant to this section. The authority head shall promptly send to each party to the appeal a copy of the decision of the authority head and a statement describing the right of any person determined to be liable under [section 3802 of this title](./chapter-038-administrative-remedies-for-false-claims-and-statements.md#section-3802) to judicial review under [section 3805 of this title](./chapter-038-administrative-remedies-for-false-claims-and-statements.md#section-3805).
 
-**(j)** The reviewing official has the exclusive authority to compromise or settle any allegations of liability under [section 3802 of this title](./chapter-038-administrative-remedies-for-false-claims-and-statements.md#section-3802) against a person without the consent of the presiding officer at any time after the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b) of this section and prior to the date on which the presiding officer issues a decision under subsection (h) of this section. Any such compromise or settlement shall be in writing.
+**(j)**
+
+(1) The reviewing official has the exclusive authority to compromise or settle any allegations of liability under [section 3802 of this title](./chapter-038-administrative-remedies-for-false-claims-and-statements.md#section-3802) against a person without the consent of the presiding officer at any time after the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b) of this section and prior to the date on which the presiding officer issues a decision under subsection (h) of this section. Any such compromise or settlement shall be in writing.
+
+(2) A reviewing official shall notify the Attorney General in writing not later than 30 days before entering into any agreement to compromise or settle allegations of liability under section 3802 and before the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b).
 
 ### Statutory Notes
 
@@ -445,10 +502,22 @@ The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (c)(2)
 
 The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (c)(2)(C)(xvi), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to Part A (§ 6861 et seq.) of subchapter III of chapter 81 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 6801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6801&num=0&edition=prelim) and Tables.
 
+The Federal Civil Penalties Inflation Adjustment Act of 1990, referred to in subsec. (c)(3), is Pub. L. 101–410, Oct. 5, 1990, 104 Stat. 890, which is set out as a note under [section 2461 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2461&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2024—Subsec. (c)(1)(A), (B). Pub. L. 118–159, § 5203(c)(1), substituted “$1,000,000” for “$150,000”.
+
+Subsec. (c)(3). Pub. L. 118–159, § 5203(c)(2), added par. (3).
+
+Subsec. (d)(2)(B). Pub. L. 118–159, § 5203(g)(1)(B)(ii), designated existing provisions as cl. (i), substituted “in the case of a referral to a presiding officer described in subparagraph (A) or (B) of section 3801(a)(7), the presiding” for “the presiding” and “person; or” for “person.”, and added cl. (ii)
+
+Subsec. (d)(2)(C). Pub. L. 118–159, § 5203(g)(1)(B)(i), (iii), added subpar. (C).
+
+Subsec. (j). Pub. L. 118–159, § 5203(f), designated existing provisions as par. (1) and added par. (2).
+
 2014—Subsec. (c)(2)(C)(vii). Pub. L. 113–79 substituted “section 3” for “section 3(l)”.
 
 2008—Subsec. (c)(2)(C)(vii). Pub. L. 110–246, § 4115(c)(2)(E), substituted “section 3(l)” for “section 3(h)”.
@@ -537,7 +606,25 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 **(g)**
 
-(1) Except as provided in paragraph (2) of this subsection, any amount of penalty or assessment collected under this chapter shall be deposited as miscellaneous receipts in the Treasury of the United States.
+(1)
+
+  (A) Except as provided in paragraph (2)—
+
+    (i) any amount collected under this chapter shall be credited first to reimburse the authority or other Federal entity that expended costs in support of the investigation or prosecution of the action, including any court or hearing costs; and
+
+    (ii) amounts reimbursed under clause (i) shall—
+
+      (I) be deposited in—
+
+        (aa) the appropriations account of the authority or other Federal entity from which the costs described in subparagraph (A) were obligated;
+
+        (bb) a similar appropriations account of the authority or other Federal entity; or
+
+        (cc) if the authority or other Federal entity expended nonappropriated funds, another appropriate account; and
+
+      (II) remain available until expended.
+
+  (B) Any amount remaining after reimbursements described in subparagraph (A) shall be deposited as miscellaneous receipts in the Treasury of the United States.
 
 (2)
 
@@ -557,6 +644,8 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 The Social Security Act, referred to in subsec. (g)(2)(B) to (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II and parts A and B of title XVIII of the Social Security Act are classified generally to subchapter II (§ 401 et seq.) and parts A (§ 1395c et seq.) and B (§ 1395j et seq.) of subchapter XVIII, respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2024—Subsec. (g)(1). Pub. L. 118–159 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraph (2) of this subsection, any amount of penalty or assessment collected under this chapter shall be deposited as miscellaneous receipts in the Treasury of the United States.”
+
 1992—Subsec. (e). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 #### Effective Date of 1992 Amendment
@@ -572,7 +661,11 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 <a id="section-3808"></a>
 ## § 3808. Limitations
-**(a)** A hearing under [section 3803(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3803/d/2&num=0&edition=prelim) with respect to a claim or statement shall be commenced within 6 years after the date on which such claim or statement is made, presented, or submitted.
+**(a)** A notice to the person alleged to be liable with respect to a claim or statement shall be mailed or delivered in accordance with section 3803(d)(1) not later than the later of—
+
+(1) 6 years after the date on which the violation of section 3802 is committed; or
+
+(2) 3 years after the date on which facts material to the action are known or reasonably should have been known by the authority head, but in no event more than 10 years after the date on which the violation is committed.
 
 **(b)** A civil action to recover a penalty or assessment under [section 3806 of this title](./chapter-038-administrative-remedies-for-false-claims-and-statements.md#section-3806) shall be commenced within 3 years after the date on which the determination of liability for such penalty or assessment becomes final.
 
@@ -581,6 +674,8 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159 added subsec. (a) and struck out former subsec. (a) which read as follows: “A hearing under [section 3803(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3803/d/2&num=0&edition=prelim) with respect to a claim or statement shall be commenced within 6 years after the date on which such claim or statement is made, presented, or submitted.”
+
 2022—Subsec. (c). Pub. L. 117–286 substituted “chapter 4 of title 5” for “the Inspector General Act of 1978”.
 
 

@@ -1037,7 +1037,7 @@ It is the purpose of this part to promote the conservation and the efficient use
 #### References in Text
 This chapter, referred to in subsecs. (c)(1)(A)(iii), (f)(1)(F)(ii), and (i)(3)(A)(i), (B)(iii)(II), was in the original “this Act”, meaning Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, known as the National Energy Conservation Policy Act. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of this title](./chapter-091-national-energy-conservation-policy.md#section-8201) and Tables.
 
-The Energy Policy Act of 1992, referred to in subsec. (c)(1)(A)(iii), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201) and Tables.
+The Energy Policy Act of 1992, referred to in subsec. (c)(1)(A)(iii), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776. For complete classification of this Act to the Code, see Short Title note set out under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201) and Tables.
 
 #### Amendments
 2021—Subsec. (i)(1)(C). Pub. L. 117–58, § 40104(c)(1), added subpar. (C).
@@ -2589,7 +2589,7 @@ Par. (4). Pub. L. 108–375, § 1090(e), amended par. (4) generally. Prior to am
 
 1998—Par. (1). Pub. L. 105–388 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Federal agency’ means an agency defined in [section 551(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551/1&num=0&edition=prelim).”
 
-1992—Pub. L. 102–486, § 155(b)(1), substituted “subchapter, the following definitions apply:” for “subchapter—” in introductory provisions
+1992—Pub. L. 102–486, § 155(b)(1), substituted “subchapter, the following definitions apply:” for “subchapter—” in introductory provisions.
 
 Par. (1). Pub. L. 102–486, § 155(b)(2), substituted “The” for “the” and a period for “, and” at end.
 

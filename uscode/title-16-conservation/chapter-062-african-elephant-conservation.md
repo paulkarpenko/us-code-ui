@@ -50,13 +50,15 @@ The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205
 
 <a id="section-4202"></a>
 ## § 4202. Authorization of appropriations
-**(a) In general** There is authorized to be appropriated to the Fund and to the Secretary a total of not to exceed $5,000,000 for each of fiscal years 2019 through 2023 to carry out this chapter, to remain available until expended.
+**(a) In general** There is authorized to be appropriated to the Fund and to the Secretary a total of not to exceed $5,000,000 for each of fiscal years 2025 through 2029 to carry out this chapter, to remain available until expended.
 
 **(b) Administrative expenses** Of amounts available each fiscal year to carry out this chapter, the Secretary may expend not more than 3 percent or $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159 substituted “2025 through 2029” for “2019 through 2023”.
+
 2019—Subsec. (a). Pub. L. 116–9 substituted “2019 through 2023” for “2007 through 2012”.
 
 2007—Subsec. (a). Pub. L. 110–132, § 2(c), substituted “2007 through 2012” for “2001, 2002, 2003, 2004, 2005, 2006, and 2007”.
@@ -112,6 +114,9 @@ Pub. L. 105–217, § 1, Aug. 5, 1998, 112 Stat. 911, provided that: “This Act
 
 #### Short Title
 Pub. L. 100–478, title II, § 2001, Oct. 7, 1988, 102 Stat. 2315, provided that: “This title [enacting this chapter and amending [section 1538 of this title](./chapter-035-endangered-species.md#section-1538)] may be cited as the ‘African Elephant Conservation Act’.”
+
+#### Reporting Requirements
+Pub. L. 118–159, div. E, title LIII, § 5308, Dec. 23, 2024, 138 Stat. 2446, provided that: “(a) Reports to Congress.—Annually, the Secretary of the Interior shall submit to the appropriate committees of Congress a report on the implementation of—“(1) the African Elephant Conservation Act ([16 U.S.C. 4201](./chapter-062-african-elephant-conservation.md#section-4201) et seq.); “(2) the Asian Elephant Conservation Act of 1997 ([16 U.S.C. 4261](./chapter-62a-asian-elephant-conservation.md#section-4261) et seq.); “(3) the Rhinoceros and Tiger Conservation Act of 1994 ([16 U.S.C. 5301](./chapter-073-rhinoceros-and-tiger-conservation.md#section-5301) et seq.); “(4) the Great Ape Conservation Act of 2000 ([16 U.S.C. 6301](./chapter-082-great-ape-conservation.md#section-6301) et seq.); and “(5) the Marine Turtle Conservation Act of 2004 ([16 U.S.C. 6601](./chapter-085-marine-turtle-conservation.md#section-6601) et seq.). “(b) Requirements.—A report submitted under subsection (a) shall include—“(1) a list of all awards issued each year under the applicable Act; “(2) the total monetary amount issued to each award recipient; “(3) the name of each award recipient organization; “(4) the country where each award will be implemented; and “(5) a description of the projects to be completed and completed under each award.”
 
 
 <a id="section-4212"></a>
@@ -189,9 +194,17 @@ It is the policy of the United States—
 
 **(f) Project reporting** Each entity that receives assistance under this section shall provide such periodic reports to the Director of the United States Fish and Wildlife Service as the Director considers relevant and appropriate. Each report shall include all information requested by the Director for evaluating the progress and success of the project.
 
+**(g) Multiyear grants**
+
+(1) **Authorization** — The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for African elephants and the habitat of African elephants.
+
+(2) **Effect** — Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
+
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (g). Pub. L. 118–159 added subsec. (g).
+
 2007—Subsec. (c). Pub. L. 110–132, struck out “and to each country within which the project is proposed to be conducted” before period at end in second sentence.
 
 2002—Subsec. (a). Pub. L. 107–111, § 6(a)(1), struck out “African Elephant Conservation” before “Fund”.

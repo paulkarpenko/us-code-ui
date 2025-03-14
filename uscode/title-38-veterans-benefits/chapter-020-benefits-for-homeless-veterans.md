@@ -2,7 +2,7 @@
 title: 38
 chapter: '20'
 heading: BENEFITS FOR HOMELESS VETERANS
-section_count: 34
+section_count: 35
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -17,6 +17,9 @@ The purpose of this chapter is to provide for the special needs of homeless vete
 A prior section 2001 was renumbered [section 4101 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4101).
 
 Another prior section 2001, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1217, related to compensation for veterans under agreements with States, prior to repeal by section 1(a) of Pub. L. 87–675.
+
+#### Authorization for Secretary of Veterans Affairs To Use Certain Funds for Improved Flexibility in Assistance to Homeless Veterans
+Pub. L. 118–210, title IV, § 403, Jan. 2, 2025, 138 Stat. 2796, provided that: “(a) Use of Funds.—During the period beginning on the date of the enactment of this Act [Jan. 2, 2025] and ending on the termination date specified in subsection (d), the Secretary of Veterans Affairs may provide to a covered veteran, as the Secretary determines necessary—“(1) food, shelter, clothing, blankets, and hygiene items required for the safety and survival of the veteran; “(2) transportation required to support the stability and health of the veteran for appointments with service providers, the conduct of housing and employment searches, and the obtainment of food and supplies; and “(3) tablets, smartphones, disposable phones and other technology, and related service plans required to support the stability and health of the veteran through the maintenance of contact with service providers, prospective landlords, and family members. “(b) Homeless Veterans on Department of Veterans Affairs Land.—“(1) In general.—The Secretary may collaborate, to the extent practicable, with one or more organizations to manage the use of land of the Department of Veterans Affairs for homeless veterans for living and sleeping. “(2) Forms of collaboration.—Collaboration under paragraph (1) may include the provision by either the Secretary or the head of the organization concerned of food services and security for property, buildings, and other facilities owned or controlled by the Department of Veterans Affairs. “(c) Report Required.—Not later than six months after the date of the enactment of this Act, and annually thereafter until the date specified in subsection (d), the Secretary shall submit to Congress a report that includes, with respect to the period covered by such report—“(1) a statement, disaggregated by each medical center of the Department of Veterans Affairs, of the amount of funds under this section—“(A) each such medical center requested from the Secretary; and “(B) to which the Secretary provided each such medical center; “(2) data, disaggregated by each such medical center, relating to how each such medical center used amounts provided by the Secretary under this section; “(3) the number of covered veterans to which the Secretary provided assistance under this section; “(4) the total amount of assistance the Secretary provided to covered veterans pursuant to subsection (a)(3) for communications equipment, broken down by the type of equipment provided; “(5) the total amount of assistance the Secretary provided covered veterans pursuant to subsection (a)(2) for ridesharing; “(6) the number of covered veterans who received such assistance; and “(7) a description, for each rideshare used by a covered veteran with such assistance, of the reasons such covered veteran used such rideshare. “(8) the number of covered veterans who lived or slept on Department land; “(9) the amount of funds used to make available Department land for covered veterans to live and sleep; “(10) the number of Department employees whose primary responsibilities involved providing services for covered veterans living or sleeping on Department land; “(11) the average length of time a covered veteran lived or slept on Department land, and “(12) the period of time the Secretary expects Department land will be made available for covered veterans to live and sleep. “(d) Termination Date.—The termination date specified in this subsection is September 30, 2027. “(e) Definitions.—In this section, the term ‘covered veteran’ means—“(1) a homeless veteran, as such term is defined in [section 2002 of title 38](./chapter-020-benefits-for-homeless-veterans.md#section-2002), United States Code; and “(2) a veteran participating in the program carried out under section 8(o)(19) of the United States Housing Act of 1937 ([42 U.S.C. 1437f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437f&num=0&edition=prelim)(o)(19)).”
 
 #### Annual Reports
 Pub. L. 116–283, div. H, title XCI, § 9103(c), Jan. 1, 2021, 134 Stat. 4781, provided that: “(1) In general.—Not less frequently than once each year, the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the homelessness services provided under programs of the Department of Veterans Affairs, including services under HUD–VASH program under section 8(o)(19) of the United States Housing Act of 1937 ([42 U.S.C. 1437f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437f&num=0&edition=prelim)(o)(19)). “(2) Included information.—Each such annual report shall include, with respect to the year preceding the submittal of the report, a statement of the number of eligible individuals who were furnished such homelessness services and the number of individuals furnished such services under each such program, disaggregated by the number of men who received such services and the number of women who received such services, and such other information as the Secretary considers appropriate.”
@@ -354,13 +357,19 @@ Pub. L. 109–114, title II, § 230, Nov. 30, 2005, 119 Stat. 2393, provided tha
 
           (AA) is lower than the rate in effect under this paragraph as in effect immediately preceding the date of the enactment of the Navy SEAL Bill Mulder Act of 2020; or
 
-          (BB) exceeds the rate that is 115 percent of the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of [section 1741 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1741), as the Secretary may increase from time to time under subsection (c) of that section; and
+          (BB) exceeds the rate that is 115 percent (or, during the period beginning on the date of the enactment of the Housing our Military Veterans Effectively Act of 2024 and ending on September 30, 2027, 133 percent) of the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of [section 1741 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1741), as the Secretary may increase from time to time under subsection (c) of that section; and
 
         (bb) may be determined on the basis of locality.
 
     (ii) In the case of services furnished to a homeless veteran who is placed in housing that will become permanent housing for the veteran upon termination of the furnishing of such services to such veteran, the maximum rate of per diem authorized under this section is 150 percent of the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of [section 1741 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1741), as the Secretary may increase from time to time under subsection (c) of that section.
 
+    (iii) For each of fiscal years 2025 through 2027, the Secretary may waive the maximum rate for per diem payments under clause (i)(II)(aa)(BB) or (ii) and, subject to the availability of appropriations, provide such payments at a rate that does not exceed 200 percent of the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of [section 1741 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1741), as the Secretary may increase from time to time under subsection (c) of that section, if the Secretary notifies Congress of such waiver.
+
+    (iv) The Secretary may not, pursuant to clause (iii), waive the maximum rate described in such clause for more than 50 percent of all grant recipients and eligible entities for a fiscal year.
+
 (3) In a case in which the Secretary has authorized the provision of services, per diem payments under paragraph (1) may be paid retroactively for services provided not more than three days before the authorization was provided.
+
+(4) The Secretary may not provide more than 12,000 per diem payments under this section for a fiscal year.
 
 **(b) Inspections.—** The Secretary may inspect any facility of a grant recipient or entity eligible for payments under subsection (a) at such times as the Secretary considers necessary. No per diem payment may be provided to a grant recipient or eligible entity under this section unless the facilities of the grant recipient or eligible entity meet such standards as the Secretary shall prescribe.
 
@@ -410,14 +419,26 @@ Pub. L. 109–114, title II, § 230, Nov. 30, 2005, 119 Stat. 2393, provided tha
 
 (2) if the Secretary determines that the grant or per diem payment recipient is unable to obtain information contained in such system through other means and at no cost to the grant or per diem payment recipient.
 
+**(f) Reports Required.—** Not later than 90 days after the date of the enactment of the HOME Act of 2024, and not less frequently than twice each year thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the rate for per diem payments under this section that includes, for each Veterans Integrated Service Network of the Department, the following data:
+
+(1) The average rate for such a payment.
+
+(2) A list of locations where the rate for such a payment is within 10 percent of the maximum rate for such a payment authorized under this section.
+
+(3) The average length of stay by a veteran participating in a program described in [section 2012(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2012/a&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### References in Text
 The date of the enactment of the Navy SEAL Bill Mulder Act of 2020, referred to in subsec. (a)(2)(B)(i)(II)(aa)(AA), is the date of enactment of title IV of Pub. L. 116–315, which was approved Jan. 5, 2021.
 
+The date of the enactment of the Housing our Military Veterans Effectively Act of 2024, referred to in subsec. (a)(2)(B)(i)(II)(aa)(BB), is the date of enactment of Pub. L. 118–210, which was approved Jan. 2, 2025.
+
 The date of the enactment of this section, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 107–95, which was approved Dec. 21, 2001.
 
 Section 3 of the Homeless Veterans Comprehensive Service Programs Act of 1992, referred to in subsec. (c)(2), is section 3 of Pub. L. 102–590, Nov. 10, 1992, 106 Stat. 5136, which was set out in a note under former [section 7721 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7721&num=0&edition=prelim), which note was repealed and restated in sections 2011 and 2012 of this title by Pub. L. 107–95, § 5(a)(1), (e)(1), Dec. 21, 2001, 115 Stat. 906, 918. [Section 7721 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7721&num=0&edition=prelim) was repealed by Pub. L. 109–233, title IV, § 402(c), June 15, 2006, 120 Stat. 411.
+
+The date of the enactment of the HOME Act of 2024, referred to in subsec. (f), is the date of enactment of Pub. L. 118–210, which was approved Jan. 2, 2025.
 
 #### Prior Provisions
 A prior section 2012 was renumbered [section 4212 of this title](./chapter-042-employment-and-training-of-veterans.md#section-4212).
@@ -425,6 +446,14 @@ A prior section 2012 was renumbered [section 4212 of this title](./chapter-042-e
 Another prior section 2012 was renumbered [section 4103 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4103).
 
 #### Amendments
+2025—Subsec. (a)(2)(B)(i)(II)(aa)(BB). Pub. L. 118–210, § 402(a)(1)(A)(i), substituted “115 percent (or, during the period beginning on the date of the enactment of the Housing our Military Veterans Effectively Act of 2024 and ending on September 30, 2027, 133 percent)” for “115 percent”.
+
+Subsec. (a)(2)(B)(iii), (iv). Pub. L. 118–210, § 402(a)(1)(A)(ii), added cls. (iii) and (iv).
+
+Subsec. (a)(4). Pub. L. 118–210, § 402(a)(1)(B), added par. (4).
+
+Subsec. (f). Pub. L. 118–210, § 402(a)(2), added subsec. (f).
+
 2021—Subsec. (a)(2). Pub. L. 116–315, § 4204(a), amended par. (2) generally. Prior to amendment, text read as follows:
 
 “(2)(A) Except as otherwise provided in subparagraph (B), the rate for such per diem payments shall be the daily cost of care estimated by the grant recipient or eligible entity adjusted by the Secretary under subparagraph (C).
@@ -452,6 +481,9 @@ Subsec. (a)(2)(D). Pub. L. 114–315, § 711(1), (3), redesignated subpar. (C) a
 Subsec. (a)(2)(E). Pub. L. 114–315, § 711(1), (4), redesignated subpar. (D) as (E) and substituted “in subparagraphs (C) and (D)” for “in subparagraphs (B) and (C)”.
 
 2010—Subsec. (d). Pub. L. 111–163 added subsec. (d).
+
+#### Regulatory Authority
+Pub. L. 118–210, title IV, § 402(b), Jan. 2, 2025, 138 Stat. 2795, provided that: “The Secretary of Veterans Affairs may carry out the amendments made by subsection (a) [amending this section] through interim guidance in advance of the issuance of regulations for such purpose.”
 
 
 <a id="section-2013"></a>
@@ -549,11 +581,19 @@ There is authorized to be appropriated to carry out this subchapter amounts as f
 
 (6) $250,000,000 for fiscal year 2014.
 
-(7) $257,700,000 for fiscal year 2015 and each subsequent fiscal year.
+(7) $257,700,000 for each of fiscal years 2015 through 2024.
+
+(8) $344,000,000 for each of fiscal years 2025 and 2026.
+
+(9) $257,700,000 for each fiscal year thereafter through fiscal year 2030.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Par. (7). Pub. L. 119–31, § 5(1), substituted “each of fiscal years 2015 through 2024” for “fiscal year 2015 and each subsequent fiscal year”.
+
+Pars. (8), (9). Pub. L. 119–31, § 5(2), added pars. (8) and (9).
+
 2022—Pub. L. 117–328 renumbered [section 2014 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2014) as this section.
 
 2016—Pub. L. 114–315 renumbered [section 2013 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2013) as this section.
@@ -779,13 +819,15 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 **(f) Authorization of Appropriations.—**
 
-(1) In addition to any amount authorized to be appropriated to carry out [section 2021 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2021), there is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2011 through 2025.
+(1) In addition to any amount authorized to be appropriated to carry out [section 2021 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2021), there is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2011 through 2026.
 
 (2) Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (f)(1). Pub. L. 119–37 substituted “2026” for “2025”.
+
 2024—Subsec. (f)(1). Pub. L. 118–83 substituted “2025” for “2024”.
 
 2022—Subsec. (e). Pub. L. 117–328 substituted “section 2021(h)(1)” for “section 2021(d)”.
@@ -801,6 +843,9 @@ Subsec. (f)(1). Pub. L. 117–180 substituted “2024” for “2022”.
 2016—Subsec. (f)(1). Pub. L. 114–228 substituted “2017” for “2016”.
 
 2015—Subsec. (f)(1). Pub. L. 114–58 substituted “2016” for “2015”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under [section 111A of this title](./chapter-001-general.md#section-111a).
 
 
 <a id="section-2022"></a>
@@ -1030,11 +1075,13 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 (3) therapeutic transitional housing assistance under [section 2032 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2032), in conjunction with work therapy under subsection (a) or (b) of [section 1718 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1718) and outpatient care.
 
-**(b)** The authority of the Secretary under subsection (a) expires on September 30, 2025.
+**(b)** The authority of the Secretary under subsection (a) expires on September 30, 2026.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–37 substituted “September 30, 2026” for “September 30, 2025”.
+
 2024—Subsec. (b). Pub. L. 118–83 substituted “September 30, 2025” for “September 30, 2024”.
 
 2022—Subsec. (b). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”.
@@ -1070,6 +1117,9 @@ Pub. L. 109–444, which substituted “December 31, 2007” for “December 31,
 Subsec. (a)(3). Pub. L. 107–95, § 5(b)(2), substituted “[section 2032 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2032)” for “[section 1772 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1772&num=0&edition=prelim)”.
 
 Subsec. (b). Pub. L. 107–95, § 5(f), substituted “December 31, 2006” for “December 31, 2001”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under [section 111A of this title](./chapter-001-general.md#section-111a).
 
 
 <a id="section-2032"></a>
@@ -1134,11 +1184,13 @@ Subsec. (b). Pub. L. 107–95, § 5(f), substituted “December 31, 2006” for 
 
 **(c)** The program shall include the services of such employees of the Veterans Benefits Administration as the Secretary determines appropriate at sites under the jurisdiction of the Secretary at which services are provided to homeless veterans.
 
-**(d)** The program under this section shall terminate on September 30, 2025.
+**(d)** The program under this section shall terminate on September 30, 2026.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (d). Pub. L. 119–37 substituted “September 30, 2026” for “September 30, 2025”.
+
 2024—Subsec. (d). Pub. L. 118–83 substituted “September 30, 2025” for “September 30, 2024”.
 
 2022—Subsec. (d). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”.
@@ -1172,6 +1224,9 @@ Pub. L. 109–444, which substituted “December 31, 2007” for “December 31,
 Subsec. (b). Pub. L. 107–95, § 8(b), struck out “not fewer than eight programs (in addition to any existing programs providing similar services) at” after “establishment of” and inserted at end “The Secretary shall carry out the program under this section in sites in at least each of the 20 largest metropolitan statistical areas.”
 
 Subsec. (d). Pub. L. 107–95, § 5(f), substituted “December 31, 2006” for “December 31, 2001”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under [section 111A of this title](./chapter-001-general.md#section-111a).
 
 
 <a id="section-2034"></a>
@@ -1502,6 +1557,8 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 
 (8) $420,000,000 for each of fiscal years 2021 through 2025.
 
+(9) $660,000,000 for fiscal year 2026.
+
 **(f) Definitions.—** In this section:
 
 (1) The term “consumer cooperative” has the meaning given such term in section 202 of the Housing Act of 1959 ([12 U.S.C. 1701q](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim)).
@@ -1548,6 +1605,8 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 Pub. L. 112–37, § 12, Oct. 5, 2011, 125 Stat. 397, which directed amendment of “section 2044” without specifying the Code title to be amended, was executed to this section, which is [section 2044 of Title 38](./chapter-020-benefits-for-homeless-veterans.md#section-2044), Veterans’ Benefits, to reflect the probable intent of Congress. See 2011 Amendment notes below.
 
 #### Amendments
+2025—Subsec. (e)(9). Pub. L. 119–37 added par. (9).
+
 2024—Subsec. (e). Pub. L. 118–83 substituted “2025” for “2024” in subpar. (H) and redesignated subpars. (A) to (H) as pars. (1) to (8), respectively.
 
 2022—Subsec. (e). Pub. L. 117–328, § 305(a), struck out par. (1) designation before “From amounts” and struck out pars. (2) and (3) which read as follows:
@@ -1587,6 +1646,9 @@ Subsec. (e)(1)(D). Pub. L. 112–37, § 12(a)(1), added subpar. (D). See Codific
 Subsec. (e)(3). Pub. L. 112–37, § 12(a)(2), substituted “2012” for “2011”. See Codification note above.
 
 2010—Subsec. (e)(3). Pub. L. 111–275 substituted “fiscal years” for “fiscal year”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under [section 111A of this title](./chapter-001-general.md#section-111a).
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L. 113–37, set out as a note under [section 322 of this title](./chapter-003-department-of-veterans-affairs.md#section-322).
@@ -1782,13 +1844,15 @@ Section effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out
 
 **(d) Funding.—**
 
-(1) From amounts appropriated to the Department for “Medical Services” for each of fiscal years 2007 through 2025, $5,000,000 shall be available for each such fiscal year for the purposes of the program under this section.
+(1) From amounts appropriated to the Department for “Medical Services” for each of fiscal years 2007 through 2026, $5,000,000 shall be available for each such fiscal year for the purposes of the program under this section.
 
 (2) The Secretary shall ensure that funds for grants under this section are designated for the first three years of operation of the program under this section as a special purpose program for which funds are not allocated through the Veterans Equitable Resource Allocation system.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (d)(1). Pub. L. 119–37 substituted “2026” for “2025”.
+
 2024—Subsec. (d)(1). Pub. L. 118–83 substituted “2025” for “2024”.
 
 2022—Subsec. (d)(1). Pub. L. 117–180 substituted “2024” for “2022”.
@@ -1820,6 +1884,9 @@ Subsec. (d)(1). Pub. L. 112–154, § 305(d), which directed amendment of subsec
 2011—Subsec. (c)(1). Pub. L. 112–37 substituted “2012” for “2011”.
 
 2006—Subsec. (c)(1). Pub. L. 109–461 substituted “Medical Services” for “Medical Care” and “fiscal years 2007 through 2011” for “fiscal years 2003, 2004, and 2005”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under [section 111A of this title](./chapter-001-general.md#section-111a).
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L. 113–37, set out as a note under [section 322 of this title](./chapter-003-department-of-veterans-affairs.md#section-322).
@@ -2120,3 +2187,20 @@ Interagency Council on the Homeless changed to United States Interagency Council
 **(a) In General.—** Not later than two weeks after the date on which a veteran described in subsection (b) enters into a program administered by the Homeless Programs Office of the Department, the Secretary shall offer the veteran a mental health consultation to assess the health needs of, and care options for, the veteran.
 
 **(b) Veteran Described.—** A veteran described in this subsection is a veteran to whom a mental health consultation is not offered or provided through the case management services of the program of the Homeless Programs Office into which the veteran enters.
+
+
+<a id="section-2069"></a>
+## § 2069. Access to telehealth services
+
+To the extent practicable, the Secretary shall ensure that veterans participating in or receiving services from a program under this chapter have access to telehealth services to which such veterans are eligible under the laws administered by the Secretary, including by ensuring that telehealth capabilities are available to—
+
+(1) such veterans;
+
+(2) case managers of the Department of programs for homeless veterans authorized under this chapter; and
+
+(3) community-based service providers for homeless veterans receiving funds from the Department through grants or contracts.
+
+### Statutory Notes
+
+#### Codification
+Section 404(a) of Pub. L. 118–210, which directed the addition of this section at the end of subtitle VII of this chapter, was executed by adding this section at the end of subchapter VII of this chapter, to reflect the probable intent of Congress.

@@ -1047,6 +1047,9 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 ### Statutory Notes
 
+#### Amendment of Paragraph (14)
+Pub. L. 119–27, §§ 17(e), 20, July 18, 2025, 139 Stat. 463, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, paragraph (14) of this section is amended by adding at the end the following: “The term ‘security’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in [section 5901 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim).” See 2025 Amendment note below.
+
 #### References in Text
 This chapter, referred to in provision preceding par. (1), and in pars. (10) and (13), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
@@ -1055,6 +1058,8 @@ The Bankruptcy Act, referred to in provision preceding par. (1), is act July 1, 
 The Securities Act of 1933, referred to in par. (14), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
 
 #### Amendments
+2025—Par. (14). Pub. L. 119–27 inserted at end “The term ‘security’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in [section 5901 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim).”
+
 2010—Par. (2). Pub. L. 111–203, § 983(b)(1), added par. (2) and struck out former par. (2) which defined “customer”.
 
 Par. (4)(D), (E). Pub. L. 111–203, § 983(b)(2), added subpar. (D) and redesignated former subpar. (D) as (E).
@@ -1080,6 +1085,9 @@ Par. (7). Pub. L. 95–598, § 308(o)(2), (3), redesignated par. (8) as (7) and 
 Pars. (8) to (15). Pub. L. 95–598, § 308(o)(3), redesignated pars. (9) to (15) as (8) to (14), respectively. Former par. (8) redesignated (7).
 
 Pub. L. 95–283 in introductory text inserted requirement for applicability of terms to a liquidation proceeding involving the Bankruptcy Act, in par. (1) heading substituted “Bankruptcy Act” for “Self-regulatory organization”, and in text substituted provisions defining such terms, in par. (2) heading substituted “Commission” for “Financial responsibility rules”, and in text substituted provisions defining such terms, in par. (3) heading substituted “Customer” for “Examining authority”, and in text substituted provisions defining such terms, and added pars. (4) to (15).
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as an Effective Date note under [section 5901 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim), Banks and Banking.
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.

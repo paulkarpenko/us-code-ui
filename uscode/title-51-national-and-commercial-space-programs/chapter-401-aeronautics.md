@@ -91,7 +91,7 @@ Sec. 4. General Provisions. (a) In implementing this order, the Director shall:
 
 (c) This order shall be implemented in a manner consistent with:
 
-(i) applicable law, including section 102A(i) of the National Security Act of 1947, as amended ([former] [50 U.S.C. 403–1(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–1/i&num=0&edition=prelim)) [now [50 U.S.C. 3024(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/i&num=0&edition=prelim)], and subject to the availability of appropriations; and
+(i) applicable law, including section 102A(i) [now 102A(h)] of the National Security Act of 1947, as amended ([former] [50 U.S.C. 403–1(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–1/i&num=0&edition=prelim)) [now [50 U.S.C. 3024(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/h&num=0&edition=prelim)], and subject to the availability of appropriations; and
 
 (ii) statutory authority of the principal officers of executive departments and agencies as the heads of their respective departments and agencies.
 

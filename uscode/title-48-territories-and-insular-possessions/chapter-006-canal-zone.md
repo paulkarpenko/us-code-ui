@@ -49,9 +49,9 @@ Section 1305–1, act Sept. 26, 1950, ch. 1049, § 2(a), (b), 64 Stat. 1038, rel
 
 Section 1305a, acts Aug. 24, 1912, ch. 390, § 4, 37 Stat. 561; Mar. 12, 1928, ch. 213, 45 Stat. 310; June 19, 1934, ch. 667, § 1, 48 Stat. 1122; Sept. 26, 1950, ch. 1049, § 4, 64 Stat. 1040, related to compensation of persons in military, naval, or public health service.
 
-Section 1305b, acts June 19, 1934, ch. 667, § 1, 48 Stat. 1122; Aug. 12, 1949, ch. 422, § 3, 63 Stat. 602; Sept. 26, 1950, ch. 1049, § 2(a)(1), (b), 64 Stat. 1038, related to special training of employees.
+Section 1305b, act June 19, 1934, ch. 667, § 1, as added Aug. 12, 1949, ch. 422, § 3, 63 Stat. 602; Sept. 26, 1950, ch. 1049, § 2(a)(1), (b), 64 Stat. 1038, related to special training of employees.
 
-Section 1305c, acts June 19, 1934, ch. 667, § 1, 48 Stat. 1122; Aug. 12, 1949, ch. 422, § 4, 63 Stat. 601; Sept. 26, 1950, ch. 1049, § 2(a)(1), (b), 64 Stat. 1038, related to artificial limbs and appliances for employees injured prior to Sept. 7, 1916.
+Section 1305c, act June 19, 1934, ch. 667, § 1, as added Aug. 12, 1949, ch. 422, § 4, 63 Stat. 602; Sept. 26, 1950, ch. 1049, § 2(a)(1), (b), 64 Stat. 1038, related to artificial limbs and appliances for employees injured prior to Sept. 7, 1916.
 
 Section 1306, acts Aug. 24, 1912, ch. 390, § 13, 37 Stat. 569; June 19, 1934, ch. 667, § 1, 48 Stat. 1122, related to Army control in time of war or emergency.
 
@@ -172,9 +172,9 @@ Section 1323, acts Aug. 24, 1912, ch. 390, § 6, 37 Stat. 563; Aug. 12, 1949, ch
 
 Section 1323–1, acts Aug. 24, 1912, ch. 390, § 6, 37 Stat. 563; Aug. 12, 1949, ch. 422, § 2, 63 Stat. 601, related to organization and conduct of facilities as business operations.
 
-Section 1323–2, act June 19, 1934, ch. 667, § 53, as added Aug. 12, 1949, ch. 422, § 2, 63 Stat. 601, related to receipts, sales, and services.
+Section 1323–2, act June 19, 1934, ch. 667, § 1, as added Aug. 12, 1949, ch. 422, § 2, 63 Stat. 602, related to receipts, sales, and services.
 
-Section 1323–3, act June 19, 1934, ch. 667, § 54, as added Aug. 12, 1949, ch. 422, § 2, 63 Stat. 601, related to exemption of operations of postal service.
+Section 1323–3, act June 19, 1934, ch. 667, § 1, as added Aug. 12, 1949, ch. 422, § 2, 63 Stat. 602, related to exemption of operations of postal service.
 
 
 <a id="section-1323a"></a>
@@ -386,11 +386,11 @@ Section, acts Dec. 12, 1941, ch. 569, 55 Stat. 798; Sept. 26, 1950, ch. 1049, §
 #### Codification
 Sections 1337a to 1337c were omitted as not of general application, and as covered by the Canal Zone Code. The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, § 3303(b), and repealed by Pub. L. 104–201, § 3549.
 
-Section 1337a, act June 19, 1934, ch. 667, § 16, as added Aug. 12, 1949, ch. 422, § 1, 63 Stat. 600, and amended Sept. 26, 1950, ch. 1049, § 2(b), 64 Stat. 1038, related to acquisition or construction of structures, equipment, and improvements.
+Section 1337a, act June 19, 1934, ch. 667, § 1, as added Aug. 12, 1949, ch. 422, § 1, 63 Stat. 600, amended Sept. 26, 1950, ch. 1049, § 2(b), 64 Stat. 1038, related to acquisition or construction of structures, equipment, and improvements.
 
-Section 1337b, act June 19, 1934, ch. 667, § 17, as added Aug. 12, 1949, ch. 422, § 1, 63 Stat. 600, and amended Sept. 26, 1950, ch. 1049, § 2(b), 64 Stat. 1038, related to claims for losses of or damage to property.
+Section 1337b, act June 19, 1934, ch. 667, § 1, as added Aug. 12, 1949, ch. 422, § 1, 63 Stat. 600, amended Sept. 26, 1950, ch. 1049, § 2(b), 64 Stat. 1038, related to claims for losses of or damage to property.
 
-Section 1337c, act June 19, 1934, ch. 667, § 18, as added Aug. 12, 1949, ch. 422, § 1, 63 Stat. 600, and amended Sept. 26, 1950, ch. 1049, § 2(b), 64 Stat. 1038, related to disaster relief.
+Section 1337c, act June 19, 1934, ch. 667, § 1, as added Aug. 12, 1949, ch. 422, § 1, 63 Stat. 600, amended Sept. 26, 1950, ch. 1049, § 2(b), 64 Stat. 1038, related to disaster relief.
 
 
 <a id="section-1341-to-1344"></a>

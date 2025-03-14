@@ -1446,19 +1446,27 @@ shall be treated for all purposes of this subchapter as if any service that woul
 
 (3) An individual convicted of an offense described in paragraph (2) shall not, after the date of the final conviction, be eligible to participate in the retirement system under this subchapter or chapter 84 while serving as a Member.
 
-(4) The Office of Personnel Management shall prescribe any regulations necessary to carry out this subsection. Such regulations shall include—
+(4)
+
+  (A) Subject to subparagraph (B), an individual convicted of an offense described in paragraph (2) shall not be eligible to receive any payment of an annuity pursuant to the retirement system under this subchapter or chapter 84, except that this sentence applies only to such payments based on service rendered as a Member (irrespective of when rendered).
+
+  (B) If the conviction of an individual described in subparagraph (A) is overturned on appeal by a court of competent jurisdiction, the individual shall receive payments that the individual would have received but for the application of subparagraph (A).
+
+  (C) This paragraph applies only to a conviction that occurs after the date of enactment of the No Congressionally Obligated Recurring Revenue Used as Pensions To Incarcerated Officials Now Act.
+
+(5) The Office of Personnel Management shall prescribe any regulations necessary to carry out this subsection. Such regulations shall include—
 
   (A) provisions under which interest on any lump-sum payment under the second sentence of paragraph (1) shall be limited in a manner similar to that specified in the last sentence of section 8316(b); and
 
   (B) provisions under which the Office may provide for—
 
-    (i) the payment, to the spouse or children of any individual referred to in the first sentence of paragraph (1), of any amounts which (but for this clause) would otherwise have been nonpayable by reason of such first sentence, subject to paragraph (5); and
+    (i) the payment, to the spouse or children of any individual referred to in the first sentence of paragraph (1), of any amounts which (but for this clause) would otherwise have been nonpayable by reason of such first sentence, subject to paragraph (6); and
 
     (ii) an appropriate adjustment in the amount of any lump-sum payment under the second sentence of paragraph (1) to reflect the application of clause (i).
 
-(5) Regulations to carry out clause (i) of paragraph (4)(B) shall include provisions to ensure that the authority to make any payment to the spouse or children of an individual under such clause shall be available only to the extent that the application of such clause is considered necessary and appropriate taking into account the totality of the circumstances, including the financial needs of the spouse or children, whether the spouse or children participated in an offense described in paragraph (2) of which such individual was finally convicted, and what measures, if any, may be necessary to ensure that the convicted individual does not benefit from any such payment.
+(6) Regulations to carry out clause (i) of paragraph (5)(B) shall include provisions to ensure that the authority to make any payment to the spouse or children of an individual under such clause shall be available only to the extent that the application of such clause is considered necessary and appropriate taking into account the totality of the circumstances, including the financial needs of the spouse or children, whether the spouse or children participated in an offense described in paragraph (2) of which such individual was finally convicted, and what measures, if any, may be necessary to ensure that the convicted individual does not benefit from any such payment.
 
-(6) For purposes of this subsection—
+(7) For purposes of this subsection—
 
   (A) the terms “finally convicted” and “final conviction” refer to a conviction (i) which has not been appealed and is no longer appealable because the time for taking an appeal has expired, or (ii) which has been appealed and the appeals process for which is completed;
 
@@ -1551,7 +1559,19 @@ Section 104(a) of the Foreign Corrupt Practices Act of 1977, referred to in subs
 
 Section 10(b) of the Securities Exchange Act of 1934, referred to in subsec. (o)(2)(B)(xxvii), is classified to [section 78j(b) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78j/b&num=0&edition=prelim), Commerce and Trade.
 
+The date of enactment of the No Congressionally Obligated Recurring Revenue Used as Pensions To Incarcerated Officials Now Act, referred to in subsec. (o)(4)(C), is the date of enactment of Pub. L. 118–192, which was approved Dec. 23, 2024.
+
 #### Amendments
+2024—Subsec. (o)(4). Pub. L. 118–192, § 2(a)(2), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (o)(5). Pub. L. 118–192, § 2(a)(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (o)(5)(B)(i). Pub. L. 118–192, § 2(a)(3), substituted “paragraph (6)” for “paragraph (5)”.
+
+Subsec. (o)(6). Pub. L. 118–192, § 2(a)(1), (4), redesignated par. (5) as (6) and substituted “paragraph (5)(B)” for “paragraph (4)(B)”. Former par. (6) redesignated (7).
+
+Subsec. (o)(7). Pub. L. 118–192, § 2(a)(1), redesignated par. (6) as (7).
+
 2012—Subsec. (o)(2)(A)(i), (ii). Pub. L. 112–105, § 15(a)(1), inserted “, the President, the Vice President, or an elected official of a State or local government” after “Member”.
 
 Subsec. (o)(2)(A)(iii). Pub. L. 112–105, § 15(b)(1), added cl. (iii) and struck out former cl. (iii) which read as follows: “The offense is committed after the date of enactment of this subsection.”
@@ -2741,9 +2761,6 @@ after completing 25 years of service or after becoming 50 years of age and compl
     (iv) to reduce the number of high-grade, managerial, supervisory, or similar positions.
 
 ### Statutory Notes
-
-#### Applicability of Amendment
-For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |

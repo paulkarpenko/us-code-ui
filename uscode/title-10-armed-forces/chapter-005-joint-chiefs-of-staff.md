@@ -68,9 +68,17 @@ source: >-
 
   (D) determine when issues under consideration by the Joint Chiefs of Staff shall be decided.
 
+**(h) Removal of Members of Joint Chiefs of Staff.—**
+
+(1) If the President removes a member of the Joint Chiefs of Staff from office or transfers a member of the Joint Chiefs of Staff to another position or location before the end of the term of the member as specified in statute, the President shall, not later than five days after the removal or transfer takes effect, submit to Congress, including the congressional defense committees, notice that the member is being removed or transferred and a statement of the reason for the removal or transfer.
+
+(2) Nothing in this subsection prohibits a personnel action authorized by another provision of law.
+
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (h). Pub. L. 119–60 added subsec. (h).
+
 2019—Subsec. (a)(8). Pub. L. 116–92 added par. (8).
 
 2016—Subsec. (b)(2). Pub. L. 114–328, § 921(a)(2)(A), substituted “subsection (d)” for “subsections (d) and (e)”.
@@ -113,11 +121,13 @@ Pub. L. 116–92, div. A, title IX, § 953(c), Dec. 20, 2019, 133 Stat. 1564, pr
 
 (2) The President may waive paragraph (1) in the case of an officer if the President determines such action is necessary in the national interest.
 
-**(c) Grade and Rank.—** The Chairman, while so serving, holds the grade of general, in the case of the Navy, admiral, or, in the case of an officer of the Space Force, the equivalent grade, and outranks all other officers of the armed forces. However, he may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
+**(c) Grade and Rank.—** The Chairman, while so serving, holds the grade of general or, in the case of the Navy, admiral, and outranks all other officers of the armed forces. However, he may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (c). Pub. L. 118–159 substituted “general or, in the case of the Navy, admiral” for “general, in the case of the Navy, admiral, or, in the case of an officer of the Space Force, the equivalent grade”.
+
 2021—Subsec. (b)(1)(B). Pub. L. 116–283, § 924(b)(7)(A)(i), which directed substitution of “the Commandant of the Marine Corps, or the Chief of Space Operations” for “or the Commandant of the Marine Corps” in subpar. (C), was executed by making the substitution in subpar. (B), to reflect the probable intent of Congress.
 
 Subsec. (c). Pub. L. 116–283, § 924(b)(7)(A)(ii), which directed substitution of “, in the case of the Navy, admiral, or, in the case of an officer of the Space Force, the equivalent grade,” for “or, in the case of the Navy, admiral”, was executed by making the substitution for “or, in the case of an officer of the Navy, admiral”, to reflect the probable intent of Congress.

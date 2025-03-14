@@ -55,7 +55,7 @@ In this chapter (the Uniform Code of Military Justice):
 
 (17) The term “covered offense” means—
 
-  (A) an offense under section 917a (article 117a), section 918 (article 118), section 919 (article 119), section 919a (article 119a), section 920 (article 120), section 920a (article 120a), section 920b (article 120b), section 920c (article 120c), section 925 (article 125), section 928b (article 128b), section 930 (article 130), section 932 (article 132), or the standalone offense of child pornography punishable under section 934 (article 134) of this title;
+  (A) an offense under section 917a (article 117a), section 918 (article 118), section 919 (article 119), section 919a (article 119a), section 920 (article 120), section 920a (article 120a), section 920b (article 120b), section 920c (article 120c), section 925 (article 125), section 928b (article 128b), section 930 (article 130), section 932 (article 132), the standalone offense of child pornography punishable under section 934 (article 134), or the standalone offense of sexual harassment punishable under section 934 (article 134) of this title in each instance in which a formal complaint is made and such formal complaint is substantiated in accordance with regulations prescribed by the Secretary concerned;
 
   (B) a conspiracy to commit an offense specified in subparagraph (A) as punishable under [section 881 of this title](./chapter-047-uniform-code-of-military-justice.md#section-881) (article 81);
 
@@ -66,15 +66,6 @@ In this chapter (the Uniform Code of Military Justice):
 (18) The term “special trial counsel” means a judge advocate detailed as a special trial counsel in accordance with [section 824a of this title](./chapter-047-uniform-code-of-military-justice.md#section-824a) (article 24a) and includes a judge advocate appointed as a lead special trial counsel pursuant to [section 1044f(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044f/a/2&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Amendment of Paragraph (17)(A)
-Pub. L. 117–263, div. A, title V, § 541(b), Dec. 23, 2022, 136 Stat. 2580, provided that, effective Jan. 1, 2025, and applicable with respect to offenses that occur after that date, paragraph (17)(A) of this section is amended:
-
-(1) by striking “or”; and
-
-(2) by striking “of this title” and inserting “, or the standalone offense of sexual harassment punishable under section 934 (article 134) of this title in each instance in which a formal complaint is made and such formal complaint is substantiated in accordance with regulations prescribed by the Secretary concerned”.
-
-See 2022 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -580,6 +571,11 @@ Donald J. Trump.
 #### Amendments to the Manual for Courts-Martial, United States
 Additions and amendments to the Manual for Courts-Martial, United States, prescribed by Ex. Ord. No. 12473, Apr. 13, 1984, 49 F.R. 17152, were contained in the following:
 
+#### Amendments to the Manual for Courts-Martial, United States
+Additions and amendments to the Manual for Courts-Martial, United States, prescribed by Ex. Ord. No. 12473, Apr. 13, 1984, 49 F.R. 17152, were contained in the following:
+
+2024—Ex. Ord. No. 14130, Dec. 20, 2024, 89 F.R. 105343.
+
 2023—Ex. Ord. No. 14103, July 28, 2023, 88 F.R. 50535.
 
 2022—Ex. Ord. No. 14062, Jan. 26, 2022, 87 F.R. 4763.
@@ -673,7 +669,7 @@ Additions and amendments to the Manual for Courts-Martial, United States, prescr
 
 (13) Individuals belonging to one of the eight categories enumerated in Article 4 of the Convention Relative to the Treatment of Prisoners of War, done at Geneva August 12, 1949 (6 UST 3316), who violate the law of war.
 
-(14) Retired members of the Space Force who qualified for a regular retirement under [section 20603 of this title](./chapter-2013-voluntary-retirement-for-length-of-service.md#section-20603) and are receiving retired pay.
+(14) Retired members of the Space Force who qualified for a regular retirement under section 20601 or 20603 of this title and are receiving retired pay.
 
 **(b)** The voluntary enlistment of any person who has the capacity to understand the significance of enlisting in the armed forces shall be valid for purposes of jurisdiction under subsection (a) and a change of status from civilian to member of the armed forces shall be effective upon the taking of the oath of enlistment.
 
@@ -751,6 +747,8 @@ The Act of August 1, 1956, was enacted during the pendency of the codification b
 Another section 1722(f) of Pub. L. 118–31 amended [section 973 of this title](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-973).
 
 #### Amendments
+2024—Subsec. (a)(14). Pub. L. 118–159 inserted “20601 or” before “20603”.
+
 2023—Subsec. (a)(1). Pub. L. 118–31, § 1722(f)(1)(A)(i), inserted “and members of the Space Force on active duty under [section 20105 of this title](./chapter-2003-status-and-participation.md#section-20105),” after “regular component of the armed forces,”.
 
 Subsec. (a)(3)(A)(i). Pub. L. 118–31, § 1722(f)(1)(A)(ii), inserted “or the Space Force” after “reserve component”.
@@ -949,11 +947,33 @@ The word “applies” is substituted for the words “shall be applicable”.
 
 <a id="section-806"></a>
 ## § 806. Art. 6. Judge advocates and legal officers
-**(a)** The assignment for duty of judge advocates of the Army, Navy, Air Force, and Coast Guard shall be made upon the recommendation of the Judge Advocate General of the armed force of which they are members. The assignment for duty of judge advocates of the Marine Corps shall be made by direction of the Commandant of the Marine Corps. The Judge Advocates General, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps, or senior members of their staffs, shall make frequent inspections in the field in supervision of the administration of military justice.
+**(a)**
 
-**(b)** Convening authorities shall at all times communicate directly with their staff judge advocates or legal officers in matters relating to the administration of military justice; and the staff judge advocate or legal officer of any command is entitled to communicate directly with the staff judge advocate or legal officer of a superior or subordinate command, or with the Judge Advocate General.
+(1) A member of the armed forces may only serve as a judge advocate if such member—
 
-**(c)**
+  (A) is admitted to the practice of law before the highest court of a State, territory, commonwealth, or the District of Columbia;
+
+  (B) maintains a license status that provides current eligibility to actively practice law before such court;
+
+  (C) is subject to the disciplinary review process of the jurisdiction in which such member maintains such a license status; and
+
+  (D) is in compliance with any other requirements of such jurisdiction to remain eligible to practice law in such jurisdiction.
+
+(2) The Judge Advocates General of the Army, Navy, Air Force, and Coast Guard and the Staff Judge Advocate to the Commandant of the Marine Corps may suspend the authority of a judge advocate of the Army, Navy, Air Force, Coast Guard, or Marine Corps, respectively, to perform legal duties if such judge advocate becomes noncompliant with the requirements of paragraph (1). A member of the armed forces who is suspended or disbarred from the practice of law within a jurisdiction may not perform legal duties.
+
+**(b)**
+
+(1) The assignment for duty of judge advocates of the Army, Navy, Air Force, and Coast Guard shall be made upon the recommendation of the Judge Advocate General of the armed force of which they are members. The assignment for duty of judge advocates of the Marine Corps shall be made by direction of the Commandant of the Marine Corps. The Judge Advocates General, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps, or senior members of their staffs, shall make frequent inspections in the field in supervision of the administration of military justice.
+
+(2) The assignment for duty of judge advocates pursuant to this subsection shall include qualified judge advocates in numbers sufficient to provide legal advice to all commanders responsible for planning and organizing military operations (including commanders of and within commands assigned to a combatant command or the United States element of the North American Aerospace Defense Command as established pursuant to sections 161 and 162 of this title) and all commanders authorized to convene courts-martial under sections 822 through 824 of this title (articles 22 through 24). The qualifications of judge advocates assigned to provide legal advice to commanders under this paragraph shall include—
+
+  (A) the qualifications set forth in subsection (a)(1); and
+
+  (B) any additional education, expertise, or experience determined to be necessary to fulfill the requirements of this paragraph by the Judge Advocate General of the armed force concerned, or in the case of the Marine Corps, by the Staff Judge Advocate to the Commandant of the Marine Corps.
+
+**(c)** Convening authorities shall at all times communicate directly with their staff judge advocates or legal officers in matters relating to the administration of military justice; and the staff judge advocate or legal officer of any command is entitled to communicate directly with the staff judge advocate or legal officer of a superior or subordinate command, or with the Judge Advocate General.
+
+**(d)**
 
 (1) No person who, with respect to a case, serves in a capacity specified in paragraph (2) may later serve as a staff judge advocate or legal officer to any reviewing or convening authority upon the same case.
 
@@ -963,7 +983,7 @@ The word “applies” is substituted for the words “shall be applicable”.
 
   (B) Counsel who have acted in the same case or appeared in any proceeding before a military judge, military magistrate, preliminary hearing officer, or appellate court.
 
-**(d)**
+**(e)**
 
 (1) A judge advocate who is assigned or detailed to perform the functions of a civil office in the Government of the United States under [section 973(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section973/b/2/B&num=0&edition=prelim) may perform such duties as may be requested by the agency concerned, including representation of the United States in civil and criminal cases.
 
@@ -982,6 +1002,14 @@ In subsection (b), the word “entitled” is substituted for the word “author
 In subsection (c), the words “may later” are substituted for the words “shall subsequently”.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 561(a), added subsec. (a). Former subsec. (a) redesignated (b).
+
+Subsec. (b). Pub. L. 119–60, § 562, designated existing provisions as par. (1) and added par. (2).
+
+Pub. L. 119–60, § 561(a), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
+
+Subsecs. (c) to (e). Pub. L. 119–60, § 561(a), redesignated subsecs. (b) to (d) as (c) to (e), respectively.
+
 2016—Subsec. (c). Pub. L. 114–328 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “No person who has acted as member, military judge, trial counsel, assistant trial counsel, defense counsel, assistant defense counsel, or investigating officer in any case may later act as a staff judge advocate or legal officer to any reviewing authority upon the same case.”
 
 2013—Subsec. (a). Pub. L. 112–239 substituted “The Judge Advocates General, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps, or senior members of their staffs, shall” for “The Judge Advocate General or senior members of his staff shall”.
@@ -1162,8 +1190,8 @@ Amendment by section 1081(c)(1)(B) of Pub. L. 115–91 effective immediately aft
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
-#### Notice to Victims of Alleged Sex-Related Offense of Pendency of Further Administrative Action Following a Determination Not To Refer to Trial by Court-Martial
-Pub. L. 116–92, div. A, title V, § 549, Dec. 20, 2019, 133 Stat. 1379, as amended by Pub. L. 117–81, div. A, title V, § 545, Dec. 27, 2021, 135 Stat. 1711, provided that: “Notwithstanding [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), United States Code, and under regulations prescribed by the Secretary of Defense, upon a determination not to refer a case of an alleged sex-related offense (as defined in [section 1044e(h) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044e/h&num=0&edition=prelim), United States Code) for trial by court-martial under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), the commander making such determination shall periodically notify the victim of the status of a final determination on further action on such case, whether non-judicial punishment under section 815 of such title (article 15 of the Uniform Code of Military Justice), other administrative action, or no further action. Such notifications shall continue not less frequently than monthly until such final determination. Upon such final determination, the commander shall notify the victim of the type of action taken on such case, the outcome of the action (including any punishments assigned or characterization of service, as applicable), and such other information as the commander determines to be relevant.”
+#### Notice to Victims of Alleged Sex-Related and Domestic Violence-Related Offenses of Pendency of Further Administrative Action Following a Determination Not To Refer to Trial by Court-Martial
+Pub. L. 116–92, div. A, title V, § 549, Dec. 20, 2019, 133 Stat. 1379, as amended by Pub. L. 117–81, div. A, title V, § 545, Dec. 27, 2021, 135 Stat. 1711; Pub. L. 118–159, div. A, title V, § 569C, Dec. 23, 2024, 138 Stat. 1907, provided that: “Notwithstanding [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), United States Code, and under regulations prescribed by the Secretary of Defense, upon a determination not to refer a case of an alleged sex-related offense (as defined in [section 1044e(h) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044e/h&num=0&edition=prelim), United States Code), or a case of an alleged domestic violence-related offense (as defined by the Secretary), for trial by court-martial under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), the commander making such determination shall ensure that the victim (or the victim’s legal counsel if so requested by the victim) is periodically notified of the status of a final determination on further action on such case, whether non-judicial punishment under section 815 of such title (article 15 of the Uniform Code of Military Justice), other administrative action, or no further action. Such notifications shall continue not less frequently than monthly until such final determination. Upon such final determination, the commander shall ensure that the victim (or the victim’s legal counsel if so requested by the victim) is notified of the type of action taken on such case, the outcome of the action (including any punishments assigned or characterization of service, as applicable), and such other information as the commander determines to be relevant.”
 
 #### Implementation
 Pub. L. 113–66, div. A, title XVII, § 1701(b), Dec. 26, 2013, 127 Stat. 953, provided that: “(1) Issuance.—Not later than one year after the date of the enactment of this Act [Dec. 26, 2013]—“(A) the Secretary of Defense shall recommend to the President changes to the Manual for Courts-Martial to implement [section 806b of title 10](./chapter-047-uniform-code-of-military-justice.md#section-806b), United States Code (article 6b of the Uniform Code of Military Justice), as added by subsection (a); and “(B) the Secretary of Defense and Secretary of Homeland Security (with respect to the Coast Guard when it is not operating as a service in the Navy) shall prescribe such regulations as each such Secretary considers appropriate to implement such section. “(2) Mechanisms for affording rights.—The recommendations and regulations required by paragraph (1) shall include the following:“(A) Mechanisms for ensuring that victims are notified of, and accorded, the rights specified in [section 806b of title 10](./chapter-047-uniform-code-of-military-justice.md#section-806b), United States Code (article 6b of the Uniform Code of Military Justice), as added by subsection (a). “(B) Mechanisms for ensuring that members of the Armed Forces and civilian personnel of the Department of Defense and the Coast Guard make their best efforts to ensure that victims are notified of, and accorded, the rights specified in such section. “(C) Mechanisms for the enforcement of such rights, including mechanisms for application for such rights and for consideration and disposition of applications for such rights. “(D) The designation of an authority within each Armed Force to receive and investigate complaints relating to the provision or violation of such rights. “(E) Disciplinary sanctions for members of the Armed Forces and other personnel of the Department of Defense and Coast Guard who willfully or wantonly fail to comply with requirements relating to such rights.”
@@ -1889,7 +1917,7 @@ In subsection (b), the words “only one commissioned” are substituted for the
 
 (1)
 
-  (A) is a member of the bar of a Federal court or a member of the bar of the highest court of a State; and
+  (A) is a judge advocate who is qualified under [section 806(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section806/a/1&num=0&edition=prelim) (article 6(a)(1)); and
 
   (B) is certified to be qualified, by reason of education, training, experience, and temperament, for duty as a special trial counsel by—
 
@@ -1927,7 +1955,7 @@ In subsection (b), the words “only one commissioned” are substituted for the
 
 (1) **Offenses occurring before effective date.—** — A special trial counsel may, at the sole and exclusive discretion of the special trial counsel, exercise authority over the following offenses:
 
-  (A) An offense under section 917a (article 117a), 918 (article 118), section 919 (article 119), section 920 (article 120), section 920b (article 120b), section 920c (article 120c), section 928b (article 128b), or the standalone offense of child pornography punishable under section 934 (article 134) of this title that occurred on or before December 27, 2023.
+  (A) An offense under section 917a (article 117a), 918 (article 118), section 919 (article 119), section 919a (article 119a), section 920 (article 120), section 920a (article 120a), section 920b (article 120b), section 920c (article 120c), section 928b (article 128b), or the standalone offense of child pornography punishable under section 934 (article 134) of this title that occurred on or before December 27, 2023.
 
   (B) An offense under section 925 (article 125), section 930 (article 130), or section 932 (article 132) of this title that occurred on or after January 1, 2019, and before December 28, 2023.
 
@@ -1939,15 +1967,39 @@ In subsection (b), the words “only one commissioned” are substituted for the
 
   (F) An attempt to commit an offense specified in subparagraph (A), (B), (C), (D), or (E) as punishable under [section 880 of this title](./chapter-047-uniform-code-of-military-justice.md#section-880) (article 80).
 
-(2) **Effect of exercise of authority.—**
+(2) **The standalone offense of sexual harassment.—** — After January 1, 2025, a special trial counsel may, at the sole and exclusive discretion of the special trial counsel, exercise authority over the following offenses:
 
-  (A) *Treatment as covered offense.—* — If a special trial counsel exercises authority over an offense pursuant to paragraph (1), the offense over which the special trial counsel exercises authority shall be considered a covered offense for purposes of this chapter.
+  (A) The standalone offense of sexual harassment punishable under [section 934 of this title](./chapter-047-uniform-code-of-military-justice.md#section-934) (article 134) in each instance in which—
 
-  (B) *Known or related offenses.—* — If a special trial counsel exercises authority over an offense pursuant to paragraph (1), the special trial counsel may exercise the authority of the special trial counsel under subparagraph (B) of subsection (c)(2) with respect to other offenses described in that subparagraph without regard to the date on which the other offenses occur.
+    (i) the offense occurs after January 26, 2022, and on or before January 1, 2025; and
+
+    (ii) a formal complaint is substantiated in accordance with regulations prescribed by the Secretary concerned.
+
+  (B) A conspiracy to commit an offense specified in subparagraph (A) as punishable under [section 881 of this title](./chapter-047-uniform-code-of-military-justice.md#section-881) (article 81).
+
+  (C) A solicitation to commit an offense specified in subparagraph (A) as punishable under [section 882 of this title](./chapter-047-uniform-code-of-military-justice.md#section-882) (article 82).
+
+  (D) An attempt to commit an offense specified in subparagraph (A), (B), or (C) as punishable under [section 880 of this title](./chapter-047-uniform-code-of-military-justice.md#section-880) (article 80).
+
+(3) **Effect of exercise of authority.—**
+
+  (A) *Treatment as covered offense.—* — If a special trial counsel exercises authority over an offense pursuant to paragraph (1) or (2), the offense over which the special trial counsel exercises authority shall be considered a covered offense for purposes of this chapter.
+
+  (B) *Known or related offenses.—* — If a special trial counsel exercises authority over an offense pursuant to subsection (c)(2)(A) or paragraph (1) or (2) of this subsection, the special trial counsel may exercise the authority of the special trial counsel under subparagraph (B) of subsection (c)(2) with respect to other offenses described in that subparagraph without regard to the date on which the other offenses occur.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b)(1)(A). Pub. L. 119–60 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “is a member of the bar of a Federal court or a member of the bar of the highest court of a State; and”.
+
+2024—Subsec. (d)(1)(A). Pub. L. 118–159, § 562(1), substituted “section 919a (article 119a), section 920 (article 120), section 920a (article 120a),” for “section 920 (article 120),”.
+
+Subsec. (d)(2), (3). Pub. L. 118–159, § 562(2), (3), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (d)(3)(A). Pub. L. 118–159, § 562(4)(A), inserted “or (2)” after “paragraph (1)”.
+
+Subsec. (d)(3)(B). Pub. L. 118–159, § 562(4)(B), substituted “subsection (c)(2)(A) or paragraph (1) or (2) of this subsection” for “paragraph (1)”.
+
 2023—Subsec. (d). Pub. L. 118–31 added subsec. (d).
 
 2022—Subsec. (c)(3). Pub. L. 117–263, § 542(a)(1), substituted “Subject to paragraph (5)” for “Subject to paragraph (4)” in introductory provisions.
@@ -2003,16 +2055,11 @@ Pub. L. 117–263, div. A, title V, § 541(c), Dec. 23, 2022, 136 Stat. 2580, pr
 
 (3) The convening authority shall detail not less than the number of members necessary to impanel the court-martial under [section 829 of this title](./chapter-047-uniform-code-of-military-justice.md#section-829) (article 29).
 
+(4) When convening a court-martial, the convening authority shall detail as members thereof members of the armed forces under such regulations as the President may prescribe for the randomized selection of qualified personnel, to the maximum extent practicable.
+
 **(f)** Before a court-martial is assembled for the trial of a case, the convening authority may excuse a member of the court from participating in the case. Under such regulations as the Secretary concerned may prescribe, the convening authority may delegate the authority of the convening authority under this subsection to the staff judge advocate or legal officer of the convening authority or to any other principal assistant.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (e)
-Pub. L. 117–263, div. A, title V, § 543(a), (b), Dec. 23, 2022, 136 Stat. 2582, provided that, effective on the date that is two years after Dec. 23, 2022, and applicable with respect to courts-martial convened on or after that date, subsection (e) of this section is amended by adding at the end the following new paragraph:
-
-(4) When convening a court-martial, the convening authority shall detail as members thereof members of the armed forces under such regulations as the President may prescribe for the randomized selection of qualified personnel, to the maximum extent practicable.
-
-See 2022 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -2219,7 +2266,7 @@ Section effective on Jan. 1, 2019, as designated by the President, with implemen
 
 **(b)** Trial counsel, defense counsel, or assistant defense counsel detailed for a general court-martial—
 
-(1) must be a judge advocate who is a graduate of an accredited law school or is a member of the bar of a Federal court or of the highest court of a State; or must be a member of the bar of a Federal court or of the highest court of a State; and
+(1) must be a judge advocate who is qualified under [section 806(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section806/a/1&num=0&edition=prelim) (article 6(a)(1)); and
 
 (2) must be certified as competent to perform such duties by the Judge Advocate General of the armed force of which he is a member.
 
@@ -2254,6 +2301,8 @@ In subsections (b) and (c), the word “must” is substituted for the word “s
 In subsection (b), the word “for” is substituted for the words “in the case of”. The words “person * * * a person who is” are omitted as surplusage.
 
 #### Amendments
+2025—Subsec. (b)(1). Pub. L. 119–60 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “must be a judge advocate who is a graduate of an accredited law school or is a member of the bar of a Federal court or of the highest court of a State; or must be a member of the bar of a Federal court or of the highest court of a State; and”.
+
 2021—Subsec. (e). Pub. L. 117–81 added subsec. (e).
 
 2016—Subsec. (a)(2). Pub. L. 114–328, § 5186(1), substituted “No person who, with respect to a case, has served as a preliminary hearing officer, court member, military judge, military magistrate, or appellate judge, may later serve as trial counsel,” for “No person who has acted as investigating officer, military judge, or court member in any case may act later as trial counsel,”.
@@ -5052,21 +5101,21 @@ Amendment by Pub. L. 98–209 effective first day of eighth calendar month begin
 
 **(b) Cases for Direct Appeal.—**
 
-(1) **Automatic review.—** — If the judgment includes a sentence of death, dismissal of a commissioned officer, cadet, or midshipman, dishonorable discharge or bad-conduct discharge, or confinement for 2 years or more, the Judge Advocate General shall forward the record of trial to the Court of Criminal Appeals for review under [section 866(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section866/b/3&num=0&edition=prelim) (article 66(b)(3)).
+(1) **Automatic review.—** — If the judgment includes a sentence of death, dismissal of a commissioned officer, cadet, or midshipman, dishonorable discharge or bad-conduct discharge, or confinement for 2 years or more, the Judge Advocate General shall forward—
+
+  (A) the record of trial to the Court of Criminal Appeals for review under [section 866(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section866/b/3&num=0&edition=prelim) (article 66(b)(3)); and
+
+  (B) a copy of the record of trial to an appellate defense counsel who shall be detailed to review the case and, upon request of the accused, to represent the accused before the Court of Criminal Appeals.
 
 (2) **Cases eligible for direct appeal review.—**
 
-  (A) *In general.—* — If the case is eligible for direct review under [section 866(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section866/b/1&num=0&edition=prelim) (article 66(b)(1)), the Judge Advocate General shall—
+  (A) *In general.—* — If the case is eligible for direct review under [section 866(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section866/b/1&num=0&edition=prelim) (article 66(b)(1)), the Judge Advocate General shall, upon written request of the accused—
 
-    (i) forward a copy of the record of trial to an appellate defense counsel who shall be detailed to review the case and, upon request of the accused, to represent the accused before the Court of Criminal Appeals; and
+    (i) forward a copy of the record of trial to an appellate defense counsel who shall be detailed to review the case and to represent the accused before the Court of Criminal Appeals; and
 
-    (ii) upon written request of the accused, forward a copy of the record of trial to civilian counsel provided by the accused.
+    (ii) forward a copy of the record of trial to civilian counsel provided by the accused.
 
-  (B) *Inapplicability.—* — Subparagraph (A) shall not apply if the accused—
-
-    (i) waives the right to appeal under [section 861 of this title](./chapter-047-uniform-code-of-military-justice.md#section-861) (article 61); or
-
-    (ii) declines in writing the detailing of appellate defense counsel under subparagraph (A)(i).
+  (B) *Inapplicability.—* — Subparagraph (A) shall not apply if the accused waives the right to appeal under [section 861 of this title](./chapter-047-uniform-code-of-military-justice.md#section-861) (article 61).
 
 **(c) Notice of Right to Appeal.—**
 
@@ -5133,6 +5182,16 @@ In subsections (a) and (b), the words “send” and “sent” are substituted 
 In subsection (c), the words “Secretary concerned” are substituted for the words “Secretary of the Department”.
 
 #### Amendments
+2024—Subsec. (b)(1). Pub. L. 118–159, § 563(1), substituted “forward—” for “forward”, inserted subpar. (A) designation before “the record”, and added subpar. (B).
+
+Subsec. (b)(2)(A). Pub. L. 118–159, § 563(2)(A)(i), substituted “shall, upon written request of the accused” for “shall” in introductory provisions.
+
+Subsec. (b)(2)(A)(i). Pub. L. 118–159, § 563(2)(A)(ii), struck out “, upon request of the accused,” after “review the case and”.
+
+Subsec. (b)(2)(A)(ii). Pub. L. 118–159, § 563(2)(A)(iii), struck out “upon written request of the accused,” before “forward a copy”.
+
+Subsec. (b)(2)(B). Pub. L. 118–159, § 563(2)(B), substituted “accused” for “accused—”, struck out cl. (i) designation before “waives”, and struck out cl. (ii) which read as follows: “declines in writing the detailing of appellate defense counsel under subparagraph (A)(i).”
+
 2021—Subsec. (e)(3)(B). Pub. L. 117–81 substituted “impracticable” for “impractical” in subpar. heading, designated existing provisions as cl. (i), inserted cl. (i) heading, substituted “Subject to clause (ii), if the Judge Advocate General” for “If the Judge Advocate General” and “impracticable” for “impractical”, and added cl. (ii).
 
 2017—Subsec. (b)(1). Pub. L. 115–91 substituted “[section 866(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section866/b/3&num=0&edition=prelim) (article 66(b)(3))” for “[section 866(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section866/b/2&num=0&edition=prelim) (article 66(b)(2))”.
@@ -5573,14 +5632,11 @@ Ex. Ord. No. 12063, June 5, 1978, 43 F.R. 24659, which related to the United Sta
 
 <a id="section-867a"></a>
 ## § 867a. Art. 67a. Review by the Supreme Court
-**(a)** Decisions of the United States Court of Appeals for the Armed Forces are subject to review by the Supreme Court by writ of certiorari as provided in [section 1259 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1259&num=0&edition=prelim). The Supreme Court may not review by a writ of certiorari under this section any action of the United States Court of Appeals for the Armed Forces in refusing to grant a petition for review.
+**(a)** Decisions of the United States Court of Appeals for the Armed Forces are subject to review by the Supreme Court by writ of certiorari as provided in [section 1259 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1259&num=0&edition=prelim).
 
 **(b)** The accused may petition the Supreme Court for a writ of certiorari without prepayment of fees and costs or security therefor and without filing the affidavit required by [section 1915(a) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1915/a&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)
-Pub. L. 118–31, div. A, title V, § 533(a)(2)(A), (b), Dec. 22, 2023, 137 Stat. 261, provided that, effective on the date that is one year after Dec. 22, 2023, and applicable with respect to any action of the United States Court of Appeals for the Armed Forces in granting or refusing to grant a petition for review submitted to such Court for the first time on or after Dec. 22, 2023, with certain provisos, subsection (a) of this section is amended to striking out at end “The Supreme Court may not review by a writ of certiorari under this section any action of the United States Court of Appeals for the Armed Forces in refusing to grant a petition for review.” See 2023 Amendment note below.
 
 #### Amendments
 2023—Subsec. (a). Pub. L. 118–31 struck out at end “The Supreme Court may not review by a writ of certiorari under this section any action of the United States Court of Appeals for the Armed Forces in refusing to grant a petition for review.”
@@ -6814,7 +6870,7 @@ Any person who—
 
 (1) aids, or attempts to aid, the enemy with arms, ammunition, supplies, money, or other things; or
 
-(2) without proper authority, knowingly harbors or protects or gives intelligence to, or communicates or corresponds with or holds any intercourse with the enemy, either directly or indirectly;
+(2) without proper authority, knowingly harbors or protects or gives intelligence to, provides military education, military training, or tactical advice to, or communicates or corresponds with or holds any intercourse with the enemy, either directly or indirectly;
 shall suffer death or such other punishment as a court-martial or military commission may direct. This section does not apply to a military commission established under chapter 47A of this title.
 
 ### Statutory Notes
@@ -6825,6 +6881,8 @@ shall suffer death or such other punishment as a court-martial or military commi
 | 904 | 50:698. | May 5, 1950, ch. 169, § 1 (Art. 104), 64 Stat. 138. |
 
 #### Amendments
+2024—Par. (2). Pub. L. 118–159 inserted “provides military education, military training, or tactical advice to,” after “gives intelligence to,”.
+
 2016—Pub. L. 114–328 renumbered [section 904 of this title](./chapter-047-uniform-code-of-military-justice.md#section-904) as this section.
 
 #### Effective Date of 2016 Amendment
@@ -7793,11 +7851,9 @@ is guilty of rape of a child and shall be punished as a court-martial may direct
 
 **(e) Proof of Threat.—** In a prosecution under this section, in proving that a person made a threat, it need not be proven that the person actually intended to carry out the threat or had the ability to carry out the threat.
 
-**(f) Marriage.—** In a prosecution under subsection (b) (sexual assault of a child) or subsection (c) (sexual abuse of a child), it is a defense, which the accused must prove by a preponderance of the evidence, that the persons engaging in the sexual act or lewd act were at that time married to each other, except where the accused commits a sexual act upon the person when the accused knows or reasonably should know that the other person is asleep, unconscious, or otherwise unaware that the sexual act is occurring or when the other person is incapable of consenting to the sexual act due to impairment by any drug, intoxicant, or other similar substance, and that condition was known or reasonably should have been known by the accused.
+**(f) Consent.—** Lack of consent is not an element and need not be proven in any prosecution under this section. A child cannot consent to any sexual act, lewd act, or use of force.
 
-**(g) Consent.—** Lack of consent is not an element and need not be proven in any prosecution under this section. A child not legally married to the person committing the sexual act, lewd act, or use of force cannot consent to any sexual act, lewd act, or use of force.
-
-**(h) Definitions.—** In this section:
+**(g) Definitions.—** In this section:
 
 (1) **Sexual act and sexual contact.—** — The terms “sexual act” and “sexual contact” have the meanings given those terms in [section 920(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section920/g&num=0&edition=prelim) (article 120(g)), except that the term “sexual act” also includes the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person.
 
@@ -7827,6 +7883,10 @@ is guilty of rape of a child and shall be punished as a court-martial may direct
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (f). Pub. L. 118–159 redesignated subsec. (g) as (f), struck out “not legally married to the person committing the sexual act, lewd act, or use of force” before “cannot consent to any sexual act”, and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “In a prosecution under subsection (b) (sexual assault of a child) or subsection (c) (sexual abuse of a child), it is a defense, which the accused must prove by a preponderance of the evidence, that the persons engaging in the sexual act or lewd act were at that time married to each other, except where the accused commits a sexual act upon the person when the accused knows or reasonably should know that the other person is asleep, unconscious, or otherwise unaware that the sexual act is occurring or when the other person is incapable of consenting to the sexual act due to impairment by any drug, intoxicant, or other similar substance, and that condition was known or reasonably should have been known by the accused.”
+
+Subsecs. (g), (h). Pub. L. 118–159, § 565(2), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+
 2016—Subsec. (h)(1). Pub. L. 114–328 inserted before period at end “, except that the term ‘sexual act’ also includes the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person”.
 
 2013—Pub. L. 112–239 made technical amendment to directory language of Pub. L. 112–81, which enacted this section.
@@ -8111,6 +8171,33 @@ shall be punished as a court-martial may direct.
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
+
+#### Granting Pardon for Certain Violations of Article 125 Under the Uniform Code of Military Justice
+Proc. No. 10780, June 26, 2024, 89 F.R. 54329, provided:
+
+Our Nation has made tremendous progress in advancing the cause of equality for LGBTQI+ Americans, including in the military. Despite their courage and great sacrifice, thousands of LGBTQI+ service members were forced out of the military because of their sexual orientation or gender identity. Many of these patriotic Americans were subject to a court-martial. While my Administration has taken meaningful action to remedy these problems, the impact of that historical injustice remains. As Commander in Chief, I am committed to maintaining the finest fighting force in the world. That means making sure that every member of our military feels safe and respected.
+
+Accordingly, acting pursuant to the grant of authority in Article II, Section 2, of the Constitution of the United States, I, Joseph R. Biden Jr., do hereby grant a full, complete, and unconditional pardon to persons convicted of unaggravated offenses based on consensual, private conduct with persons age 18 and older under former Article 125 of the Uniform Code of Military Justice (UCMJ), as previously codified at [10 U.S.C. 925](./chapter-047-uniform-code-of-military-justice.md#section-925), as well as attempts, conspiracies, and solicitations to commit such acts under Articles 80, 81, and 82, UCMJ, [10 U.S.C. 880](./chapter-047-uniform-code-of-military-justice.md#section-880), 881, 882. This proclamation applies to convictions during the period from Article 125’s effective date of May 31, 1951, through the December 26, 2013, enactment of section 1707 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66) [amending this section, see 2013 Amendment note above].
+
+The purpose of this proclamation is to pardon only offenses based on consensual, private conduct between individuals 18 and older that do not involve any aggravating factor, including:
+
+(1) conduct that would violate [10 U.S.C. 893a](./chapter-047-uniform-code-of-military-justice.md#section-893a), prohibiting activities with military recruits or trainees by a person in a position of special trust;
+
+(2) conduct that was committed with an individual who was coerced or, because of status, might not have felt able to refuse consent;
+
+(3) conduct on the part of the applicant constituting fraternization under Article 134 of the UCMJ [[10 U.S.C. 934](./chapter-047-uniform-code-of-military-justice.md#section-934)];
+
+(4) conduct committed with the spouse of another military member; or
+
+(5) any factors other than those listed above that were identified by the United States Court of Appeals for the Armed Forces in United States v. Marcum as being outside the scope of Lawrence v. Texas as applied in the military context, 60 M.J. 198, 207-08 (2004).
+
+The Military Departments (Army, Navy, or Air Force), or in the case of the Coast Guard, the Department of Homeland Security, in conjunction with the Department of Justice, shall provide information about and publicize application procedures for certificates of pardon. An applicant for a certificate of pardon under this proclamation is to submit an application to the Military Department (Army, Navy, or Air Force) that conducted the court-martial or, in the case of a Coast Guard court-martial, to the Department of Homeland Security. If the relevant Department determines that the applicant satisfies the criteria under this proclamation, following a review of relevant military justice records, the Department shall submit that determination to the Attorney General, acting through the Pardon Attorney, who shall then issue a certificate of pardon along with information on the process to apply for an upgrade of military discharge. My Administration strongly encourages veterans who receive a certificate of pardon to apply for an upgrade of military discharge.
+
+Although the pardon under this proclamation applies only to the convictions described above, there are other LGBTQI+ individuals who served our Nation and were convicted of other crimes because of their sexual orientation or gender identity. It is the policy of my Administration to expeditiously consider and to make final pardon determinations with respect to such individuals.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this twenty-sixth day of June, in the year of our Lord two thousand twenty-four, and of the Independence of the United States of America the two hundred and forty-eighth.
+
+J.R. Biden, Jr.
 
 
 <a id="section-926"></a>
@@ -8755,7 +8842,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
   (A) after the member has completed six months of active duty or, in the case of a member of a reserve component, after the member has completed basic or recruit training;
 
-  (B) after a member of Space 11 So in original. Probably should be preceded by “the”. Force has completed six months of sustained duty or in the case of a member not on sustained duty, after the member has completed basic or recruit training; and
+  (B) after a member of the Space Force has completed six months of sustained duty or in the case of a member not on sustained duty, after the member has completed basic or recruit training; and
 
   (C) at the time when the member reenlists.
 
@@ -8792,6 +8879,8 @@ The word “each” is substituted for the word “every”. The word “member�
 Another section 1722(f) of Pub. L. 118–31 amended [section 973 of this title](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-973).
 
 #### Amendments
+2024—Subsec. (a)(2)(B). Pub. L. 118–159 inserted “the” before “Space Force”.
+
 2023—Subsec. (a)(1)(C). Pub. L. 118–31, § 1722(f)(3)(A), added subpar. (C).
 
 Subsec. (a)(2)(B), (C). Pub. L. 118–31, § 1722(f)(3)(B), added subpar. (B) and redesignated former subpar. (B) as (C).
@@ -9339,7 +9428,17 @@ Pub. L. 117–81, div. A, title V, § 549E, Dec. 27, 2021, 135 Stat. 1726, provi
 
 (1) Data on the number and status of pending cases.
 
-(2) Information on the appellate review process, including—
+(2) Data on the number and status of completed cases, including—
+
+  (A) information on race, ethnicity, rank, and sex demographic for the victim and the accused;
+
+  (B) the enumerated offenses preferred and referred;
+
+  (C) the types of court-martial; and
+
+  (D) the results for each case, including cases that resulted in nonjudicial punishment or administrative separation.
+
+(3) Information on the appellate review process, including—
 
   (A) information on compliance with processing time goals;
 
@@ -9349,7 +9448,7 @@ Pub. L. 117–81, div. A, title V, § 549E, Dec. 27, 2021, 135 Stat. 1726, provi
 
   (D) an analysis of each case in which a Court of Criminal Appeals made a final determination that a finding of a court-martial was clearly against the weight of the evidence, including an explanation of the standard of appellate review applied in such case.
 
-(3)
+(4)
 
   (A) An explanation of measures implemented by the armed force concerned to ensure the ability of judge advocates—
 
@@ -9361,9 +9460,9 @@ Pub. L. 117–81, div. A, title V, § 549E, Dec. 27, 2021, 135 Stat. 1726, provi
 
   (B) The explanation under subparagraph (A) shall specifically identify the measures that focus on capital cases, national security cases, sexual assault cases, and proceedings of military commissions.
 
-(4) The independent views of each Judge Advocate General and of the Staff Judge Advocate to the Commandant of the Marine Corps as to the sufficiency of resources available within the respective armed forces, including total workforce, funding, training, and officer and enlisted grade structure, to capably perform military justice functions.
+(5) The independent views of each Judge Advocate General and of the Staff Judge Advocate to the Commandant of the Marine Corps as to the sufficiency of resources available within the respective armed forces, including total workforce, funding, training, and officer and enlisted grade structure, to capably perform military justice functions.
 
-(5) Such other matters regarding the operation of this chapter as may be appropriate.
+(6) Such other matters regarding the operation of this chapter as may be appropriate.
 
 **(c) Submission.—** Each report under this section shall be submitted—
 
@@ -9374,6 +9473,8 @@ Pub. L. 117–81, div. A, title V, § 549E, Dec. 27, 2021, 135 Stat. 1726, provi
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (b)(2) to (6). Pub. L. 118–159 added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
+
 2021—Subsec. (b)(2)(D). Pub. L. 116–283 added subpar. (D).
 
 #### Effective Date

@@ -2,7 +2,7 @@
 title: 10
 chapter: '907'
 heading: THE AIR FORCE
-section_count: 7
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -92,15 +92,25 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(j)**
 
-(1) Except as provided in paragraph (2), the Secretary of the Air Force shall maintain a total aircraft inventory of air refueling tanker aircraft of not less than 466 aircraft.
+(1) Except as provided in paragraphs (2) and (3), the Secretary of the Air Force shall maintain a total aircraft inventory of air refueling tanker aircraft—
 
-(2) The Secretary of the Air Force may reduce the number of air refueling tanker aircraft in the total aircraft inventory of the Air Force below 466 only if—
+  (A) of not less than 466 aircraft during the period ending on September 30, 2026;
+
+  (B) of not less than 478 aircraft during the period beginning on October 1, 2026, and ending on September 30, 2027;
+
+  (C) of not less than 490 aircraft during the period beginning on October 1, 2027, and ending on September 30, 2028; and
+
+  (D) of not less than 502 aircraft beginning on October 1, 2028.
+
+(2) The Secretary of the Air Force may reduce the number of air refueling tanker aircraft in the total aircraft inventory of the Air Force below the applicable level specified in paragraph (1) only if—
 
   (A) the Secretary certifies to the congressional defense committees that such reduction is justified by the results of the mobility capability and requirements study conducted under section 144(b) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91); and
 
   (B) a period of 30 days has elapsed following the date on which the certification is made to the congressional defense committees under subparagraph (A).
 
-(3) In this subsection:
+(3) In the case of a KC–135 aircraft that is replaced in the aircraft inventory by a KC–46 aircraft, the Secretary of the Air Force may reassign the KC–135 aircraft to any Air Refueling Wing that has the capacity to expand its aircraft inventory to include such reassigned aircraft. In determining whether an Air Refueling Wing has the capacity to so expand its inventory, the Secretary shall consider, among other things, the capacity of the Air Refueling Wing to man the additional aircraft and support pilot training requirements for the additional aircraft.
+
+(4) In this subsection:
 
   (A) The term “air refueling tanker aircraft” means an aircraft that has as its primary mission the refueling of other aircraft.
 
@@ -122,19 +132,25 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(l)**
 
-(1) During the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 and ending on September 30, 2029, the Secretary of the Air Force may not—
+(1) During the covered period, the Secretary of the Air Force may not retire more than a total of 51 F–15E aircraft as follows:
 
-  (A) retire more than 68 F–15E aircraft;
+  (A) From the beginning of the covered period through the end of fiscal year 2026, the Secretary may not retire any F–15E aircraft.
 
-  (B) reduce funding for unit personnel or weapon system sustainment activities for retained F–15E aircraft in a manner that presumes future congressional authority to divest such aircraft; or
+  (B) In fiscal year 2027, the Secretary may not retire more than 21 F–15E aircraft.
 
-  (C) keep an F–15E aircraft (other than an aircraft identified for retirement under subparagraph (A)) in a status considered excess to the requirements of the possessing command and awaiting disposition instructions (commonly referred to as “XJ” status).
+  (C) In fiscal year 2028, the Secretary may not retire more than 30 F–15E aircraft.
 
-(2) The prohibition under paragraph (1) shall not apply to individual F–15E aircraft that the Secretary of the Air Force determines, on a case-by-case basis, to be no longer mission capable and uneconomical to repair because of aircraft accidents, mishaps, or excessive material degradation and non-airworthiness status of certain aircraft.
+(2) During the covered period the Secretary of the Air Force may not—
+
+  (A) reduce funding for unit personnel or weapon system sustainment activities for retained F–15E aircraft in a manner that presumes future congressional authority to divest such aircraft; or
+
+  (B) keep an F–15E aircraft (other than an aircraft identified for retirement under paragraph (1)) in a status considered excess to the requirements of the possessing command and awaiting disposition instructions (commonly referred to as “XJ” status).
+
+(3) In this subsection, the term “covered period” means the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2026 and ending on September 30, 2030.
 
 **(m)**
 
-(1) During the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 and ending on September 30, 2028, the Secretary of the Air Force may not—
+(1) During the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 and ending on September 30, 2030, the Secretary of the Air Force may not—
 
   (A) retire an RQ–4 aircraft;
 
@@ -145,6 +161,20 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
   (D) decrease the total aircraft inventory of RQ–4 aircraft below 10 aircraft.
 
 (2) The prohibition under paragraph (1) shall not apply to individual RQ–4 aircraft that the Secretary of the Air Force determines, on a case-by-case basis, to be no longer mission capable and uneconomical to repair because of aircraft accidents, mishaps, or excessive material degradation and non-airworthiness status of certain aircraft.
+
+**(n)**
+
+(1) The Secretary of the Air Force shall maintain a total inventory of intercontinental ballistic missiles sufficient to ensure that not fewer than 400 such missiles are operationally available.
+
+(2) Such intercontinental ballistic missiles shall be deployed among not fewer than 150 launch facilities dispersed across each of the following locations (for a total of not fewer than 450):
+
+  (A) Francis E. Warren Air Force Base, Laramie County, Wyoming.
+
+  (B) Malmstrom Air Force Base, Cascade County, Montana.
+
+  (C) Minot Air Force Base, Ward County, North Dakota.
+
+(3) In this subsection, the term “intercontinental ballistic missile” means any combination of the LGM–30G Minuteman III intercontinental ballistic missile or the LGM–35A Sentinel intercontinental ballistic missile.
 
 ### Statutory Notes
 
@@ -177,9 +207,27 @@ Section 144(b) of the National Defense Authorization Act for Fiscal Year 2018, r
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2023, referred to in subsec. (k)(1), is the date of enactment of Pub. L. 117–263, also known as the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, which was approved Dec. 23, 2022.
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsecs. (l)(1) and (m)(1), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2026, referred to in subsec. (l)(3), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsec. (m)(1), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
 
 #### Amendments
+2025—Subsec. (j)(1). Pub. L. 119–60, § 141(b)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
+
+Pub. L. 119–60, § 141(a)(1), substituted “a total aircraft inventory of air refueling tanker aircraft—” and subpars. (A) to (D) for “a total aircraft inventory of air refueling tanker aircraft of not less than 466 aircraft.”
+
+Subsec. (j)(2). Pub. L. 119–60, § 141(a)(2), substituted “below the applicable level specified in paragraph (1)” for “below 466” in introductory provisions.
+
+Subsec. (j)(3), (4). Pub. L. 119–60, § 141(b)(2), (3), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (l). Pub. L. 119–60, § 142(a), amended subsec. (l) generally. Prior to amendment, subsec. (l) placed limitations on retirement of F–15E aircraft and funding for unit personnel or weapon system sustainment activities for retained F–15E aircraft.
+
+Subsec. (m)(1). Pub. L. 119–60, § 143, substituted “September 30, 2030” for “September 30, 2029” in introductory provisions.
+
+Subsec. (n). Pub. L. 119–60, § 1632(a), added subsec. (n).
+
+2024—Subsec. (m)(1). Pub. L. 118–159 substituted “September 30, 2029” for “September 30, 2028” in introductory provisions.
+
 2023—Subsec. (l). Pub. L. 118–31, § 131(a), added subsec. (l).
 
 Subsec. (m). Pub. L. 118–31, § 132, added subsec. (m).
@@ -234,6 +282,9 @@ Amendment by sections 806(c) and 809(a) of Pub. L. 115–232 effective Feb. 1, 2
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
+#### Proposed Actions With Respect To Causes and Effects of Declining Aircraft Readiness Rates
+Pub. L. 119–60, div. A, title III, § 344, Dec. 18, 2025, 139 Stat. 824, provided that: “(a) Report on Proposed Actions.—Not later than May 31, 2026, the Secretary of the Air Force shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the declining rates of aircraft readiness within the fleet of the Air Force (with an emphasis on fighter aircraft within such fleet) and factors contributing to that decline. Such report shall include, with respect to such aircraft—“(1) proposed actions to—“(A) reverse the declining rates of aircraft readiness; “(B) improve the effectiveness of aircraft sustainment, including by addressing maintenance backlogs, supply shortages of aircraft parts, and depot capacity constraints; and “(C) ensure more accurate readiness reporting; and “(2) recommendations for any relevant legislative actions. “(b) Implementation Deadline.—Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of the Air Force shall implement the proposed actions identified in the report required under subsection (a). “(c) Annual Implementation Reports.—Not later than 30 days after the date on which the Secretary of the Air Force implements the proposed actions under subsection (b), and annually thereafter for each of the subsequent three years, the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the status of the implementation of such actions. “(d) Form of Reports.—Each report required to be submitted under this section shall be submitted in unclassified form, but may include a classified annex.”
+
 #### Clarification of Relationship Between Limitations
 Pub. L. 118–31, div. A, title I, § 131(c), Dec. 22, 2023, 137 Stat. 172, provided that: “The authority of the Secretary of the Air Force to retire F–15E aircraft to the extent allowed under subsection (l)(1)(A) of [section 9062 of title 10](./chapter-907-the-air-force.md#section-9062), United States Code (as added by subsection (a) of this section) shall not apply until the Secretary complies with the requirements of section 150 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 136 Stat. 2456) (as amended by subsection (b) of this section).”
 
@@ -251,6 +302,38 @@ Pub. L. 111–383, div. A, title III, § 345, Jan. 7, 2011, 124 Stat. 4191, as a
 
 #### Consolidation of Air Force and Air National Guard Aircraft Maintenance
 Pub. L. 110–417, [div. A], title III, § 324, Oct. 14, 2008, 122 Stat. 4416, as amended by Pub. L. 111–383, div. A, title X, § 1075(e)(4), Jan. 7, 2011, 124 Stat. 4374, provided that: “(a) Restriction on Implementation of Consolidation.—The Secretary of the Air Force shall not implement the consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard or the consolidation of aircraft repair facilities and personnel of the Air National Guard with aircraft repair facilities and personnel of the active Air Force unless and until the Secretary of the Air Force submits the reports required by (b) and (c), the Chief of the National Guard Bureau submits the assessment required by subsection (d), and the Secretary of Defense submits the certification required by subsection (e). “(b) Report on Criteria.—Not later than 30 days after the date of the enactment of this Act [Oct. 14, 2008], the Secretary of the Air Force shall submit to the Committees on Armed Services of the Senate and House of Representatives a report stating all the criteria being used by the Department of the Air Force and the Rand Corporation to evaluate the feasibility of consolidating Air Force maintenance functions into organizations that would integrate active, Guard, and Reserve components into a total-force approach. The report shall include the assumptions that were provided to or developed by the Rand Corporation for its study of the feasibility of the consolidation proposal. “(c) Report on Feasibility Study.—At least 90 days before any consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard, the Secretary of the Air Force shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the findings of the Rand Corporation feasibility study and the Rand Corporation’s recommendations, the Air Force’s assessment of the findings and recommendations, any plans developed for implementation of the consolidation, and a delineation of all infrastructure costs anticipated as a result of implementation. “(d) Assessment by Chief of the National Guard Bureau.—Not later than 30 days after the date on which the report required by subsection (c) is submitted, the Chief of the National Guard Bureau shall submit to the Committees on Armed Services of the Senate and House of Representatives a written assessment of—“(1) the proposed actions to consolidate aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard by the Secretary of the Air Force; and “(2) the information included in the report required by subsection (c). “(e) Certification by the Secretary of Defense.—After the Secretary of the Air Force submits the reports required by subsections (b) and (c), and before any consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard by the Secretary of the Air Force, the Secretary of Defense shall certify that such consolidation is in the national interest and will not adversely affect recruitment, retention, or execution of the Air National Guard mission in the individual States.”
+
+
+<a id="section-9062a"></a>
+## § 9062a. Annual report on Air Force tactical fighter aircraft force structure
+**(a) In General.—** Not later than April 1, 2025, and annually thereafter through 2030, the Secretary of the Air Force, in coordination with the Director of the Air National Guard and the Commander of the Air Force Reserve Command, shall—
+
+(1) develop a 10-year tactical fighter aircraft force structure, recapitalization, training, and sustainment plan for the active and reserve components of the Air Force; and
+
+(2) submit to the congressional defense committees a report on the plan.
+
+**(b) Elements of Report.—** The report required by subsection (a) shall address each of the following:
+
+(1) The appropriate mix of tactical fighter aircraft, and associated operational risk analyses, required for the Secretary of the Air Force to meet expected steady-state, global force management allocation plans and geographic combatant commander contingency operational plans tasked to the Air Force, using active and reserve component tactical fighter aircraft units.
+
+(2) The procurement, divestment, and unit activation, deactivation, or re-missioning plans or actions the Secretary plans to implement, fiscal year-by-fiscal year, unit-by-unit, for the 10-year period beginning on the date on which the report is submitted, for each active and reserve component tactical fighter aircraft unit existing as of such date of submittal, including the rationale and justification for any such plans or actions.
+
+(3) The actions the Secretary will take to ensure that required operational readiness rates are maintained during any planned recapitalization, modernization, or change of mission affecting tactical fighter aircraft units.
+
+(4) Any plans of the Secretary to augment or supplant existing piloted tactical fighter aircraft capability or capacity with collaborative combat aircraft increment 1 or increment 2 capability or capacity.
+
+(5) Any plans of the Secretary to augment or supplant existing piloted tactical fighter aircraft training events through the acquisition and fielding of common, joint, all-domain, high-fidelity synthetic simulation environments.
+
+**(c) Form of Report.—** The report required by subsection (a) shall be submitted in unclassified form with accompanying graphs, tables, and charts, but may contain a classified annex.
+
+**(d) Fighter Aircraft Defined.—** In this section, the term “fighter aircraft” has the meaning given that term in [section 9062(i)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9062/i/2&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2025—Pub. L. 119–60, § 1701(a)(37), struck out period after “structure” in section catchline.
+
+Subsec. (a). Pub. L. 119–60, § 144, substituted “2030” for “2029” and “coordination” for “consultation” in introductory provisions.
 
 
 <a id="section-9063"></a>
@@ -451,14 +534,6 @@ There is an Assistant Surgeon General for Dental Services in the Air Force who i
 #### Prior Provisions
 A prior section 9067 was renumbered [section 9063 of this title](./chapter-907-the-air-force.md#section-9063).
 
-A prior [section 9068 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9068&num=0&edition=prelim) resulted from the redesignation of [section 9084 of this title](./chapter-908-the-space-force.md#section-9084) as [section 9068 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9068&num=0&edition=prelim) by section 952(b)(1) of Pub. L. 116–92. Such section 9068 was renumbered [section 9083 of this title](./chapter-908-the-space-force.md#section-9083) by section 952(e) of Pub. L. 116–92.
-
-A prior section 9069 was renumbered [section 9064 of this title](./chapter-907-the-air-force.md#section-9064).
-
-A prior section 9074 was renumbered [section 9065 of this title](./chapter-907-the-air-force.md#section-9065).
-
-A prior section 9075 was renumbered [section 9066 of this title](./chapter-907-the-air-force.md#section-9066).
-
 #### Amendments
 2019—Pub. L. 116–92 renumbered [section 9081 of this title](./chapter-908-the-space-force.md#section-9081) as this section.
 
@@ -475,3 +550,47 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–364, div. A, title V, § 504(b), Oct. 17, 2006, 120 Stat. 2179, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the occurrence of the next vacancy in the position of Assistant Surgeon General for Dental Services in the Air Force that occurs after the date of the enactment of this Act [Oct. 17, 2006] or, if earlier, on the date of the appointment to the grade of major general of the officer who is the incumbent in that position on the date of the enactment of the Act.”
+
+
+<a id="section-9068"></a>
+## § 9068. Air Force Global Strike Command
+**(a) Establishment.—** There is in the Air Force a major command, which shall be known as Air Force Global Strike Command.
+
+**(b) Commander.—**
+
+(1) The Commander of Air Force Global Strike Command shall hold the grade of general while serving in that position, without vacating that officer’s permanent grade. The commander shall be appointed to that grade by the President, by and with the advice and consent of the Senate, for service in that position.
+
+(2) The commander shall serve as the single accountable officer responsible to the Secretary of the Air Force and the Chief of Staff of the Air Force for carrying out all aspects of Air Force nuclear and long-range strike missions in support of United States Strategic Command, including such aspects described in subsection (c).
+
+**(c) Functions.—** The Commander of Air Force Global Strike Command shall be responsible for carrying out all aspects and activities of the Air Force nuclear and long-range strike missions in support of United States Strategic Command. Such aspects include nuclear weapons, nuclear weapon delivery systems, long-range strike bomber aircraft, and the nuclear command, control, and communication systems. Such activities include the following:
+
+(1) Providing combat-ready nuclear and long-range conventional strike forces in support of Presidential and combatant commander directives.
+
+(2) Administrating, organizing, training, and equipping assigned and gained forces.
+
+(3) Assessing the readiness of assigned and gained forces and submitting to the Secretary and the Air Force Chief of Staff periodic reports with respect to such assessments.
+
+(4) Leading development in the Air Force of—
+
+  (A) military requirements with respect to nuclear and long-range strike missions;
+
+  (B) budget proposals necessary to carry out the missions of the Air Force Global Strike Command;
+
+  (C) long-range investment plans and priorities to sustain, modernize, and recapitalize assigned forces; and
+
+  (D) employment strategies, concepts, tactics, techniques, and procedures with respect to strategic deterrence, nuclear deterrence operation, and long-range strike operations.
+
+(5) Advising the Secretary, as necessary, on the adequacy of resources of the Department of the Air Force dedicated to support and execute nuclear missions.
+
+(6) Such other functions as the Secretary determines necessary or appropriate for execution of nuclear deterrence and long-range strike missions.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior [section 9068 of this title](./chapter-907-the-air-force.md#section-9068) resulted from the redesignation of [section 9084 of this title](./chapter-908-the-space-force.md#section-9084) as [section 9068 of this title](./chapter-907-the-air-force.md#section-9068) by section 952(b)(1) of Pub. L. 116–92. Such section 9068 was renumbered [section 9083 of this title](./chapter-908-the-space-force.md#section-9083) by section 952(e) of Pub. L. 116–92 and subsequently repealed by Pub. L. 116–283, div. A, title IX, § 921(a), Jan. 1, 2021, 134 Stat. 3804.
+
+A prior section 9069 was renumbered [section 9064 of this title](./chapter-907-the-air-force.md#section-9064).
+
+A prior section 9074 was renumbered [section 9065 of this title](./chapter-907-the-air-force.md#section-9065).
+
+A prior section 9075 was renumbered [section 9066 of this title](./chapter-907-the-air-force.md#section-9066).

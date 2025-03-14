@@ -1350,7 +1350,7 @@ Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as 
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in subsec. (b)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act was formerly classified generally to part C (§ 2751 et seq.) of subchapter I of chapter 34 of this title prior to transfer to part C (§ 1087–51 et seq.) of subchapter IV of chapter 28 of Title 20, Education. Section 441 of the Act was transferred from [section 2751 of this title](./chapter-034-economic-opportunity-program.md#section-2751) to [section 1087–51 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–51&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(2)(B), (C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act was formerly classified generally to part C (§ 2751 et seq.) of subchapter I of chapter 34 of this title prior to transfer to part C (§ 1087–51 et seq.) of subchapter IV of chapter 28 of Title 20, Education. Section 441 of the Act was transferred from [section 2751 of this title](./chapter-034-economic-opportunity-program.md#section-2751) to [section 1087–51 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–51&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Effective Date
 Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
@@ -2209,7 +2209,6 @@ Section, Pub. L. 101–610, title I, § 125, as added Pub. L. 103–82, title I,
 
 A prior section 12575, Pub. L. 101–610, title I, § 145, Nov. 16, 1990, 104 Stat. 3153; Pub. L. 102–10, § 6(a), Mar. 12, 1991, 105 Stat. 31, related to eligibility for part-time, full-time, and special senior service in national and community service program, prior to the general amendment of subtitle D of title I of Pub. L. 101–610 (former part D of this subchapter) by Pub. L. 103–82.
 
-#### Prior Provisions
 A prior section 125 of Pub. L. 101–610 was renumbered section 199E, and is classified to [section 12655d of this title](./chapter-129-national-and-community-service.md#section-12655d).
 
 #### Effective Date of Repeal
@@ -6274,11 +6273,11 @@ Pub. L. 111–13, title VI, § 6101(b), Apr. 21, 2009, 123 Stat. 1600, provided 
 
 (19) where practicable, provide application materials in languages other than English for individuals with limited English proficiency who wish to participate in a national service program;
 
-(20) collaborate with the training and technical assistance programs described in division K with respect to the activities described in [section 12657(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12657/b&num=0&edition=prelim)); 22 So in original. The closing parenthesis probably should not appear.
+(20) collaborate with the training and technical assistance programs described in division K with respect to the activities described in [section 12657(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12657/b&num=0&edition=prelim)); 11 So in original. The closing parenthesis probably should not appear.
 
 (21) coordinate the clearinghouses described in section 12653o of this title;
 
-(22) coordinate with entities receiving funds under division C in establishing the National Service Reserve Corps under [section 12653h of this title](./chapter-129-national-and-community-service.md#section-12653h), through which alumni of the national service programs and veterans can serve in disasters and emergencies (as such terms are defined in [section 12653h(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12653h/a&num=0&edition=prelim)); 1
+(22) coordinate with entities receiving funds under division C in establishing the National Service Reserve Corps under [section 12653h of this title](./chapter-129-national-and-community-service.md#section-12653h), through which alumni of the national service programs and veterans can serve in disasters and emergencies (as such terms are defined in [section 12653h(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12653h/a&num=0&edition=prelim)); 22 See References in Text note below.
 
 (23) identify and implement strategies to increase awareness among Indian tribes of the types and availability of assistance under the national service laws, increase Native American participation in programs under the national service laws, collect information on challenges facing Native American communities, and designate a Strategic Advisor for Native American Affairs to be responsible for the execution of those activities under the national service laws;
 

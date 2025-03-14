@@ -2819,31 +2819,33 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
   (B) to coordinate with and, as appropriate, enter into memorandums of understanding with Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing, including the Department of Agriculture, the Department of Defense, the Department of Education, the Department of Energy, the Department of Labor, the Food and Drug Administration, the National Aeronautics and Space Administration, the National Institutes of Health, and the National Science Foundation, to carry out the purposes set forth under subsection (b)(2);
 
-  (C) to develop, not later than December 16, 2015, and update not less frequently than once every 3 years thereafter, a strategic plan to guide the Program, including a strategy for retaining domestic public benefits from Manufacturing USA institutes once Federal funding has been discontinued;
+  (C) to develop, not later than December 16, 2015, a strategic plan to guide the Program, including a strategy for retaining domestic public benefits from Manufacturing USA institutes once Federal funding has been discontinued;
 
-  (D) to establish such procedures, processes, and criteria as may be necessary and appropriate to maximize cooperation and coordinate the activities of the Program with programs and activities of other Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing;
+  (D) to update the strategic plan developed under subparagraph (C) not less frequently than once every four years such that the planning cycle for each such update aligns with the planning cycle for updates to the strategic plan required under [section 6622(c)(4) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6622/c/4&num=0&edition=prelim) to better ensure the Program reflects the priorities of such strategic plan under such [section 6622(c)(4) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6622/c/4&num=0&edition=prelim);
 
-  (E) to establish a clearinghouse of public information related to the activities of the Program;
+  (E) to establish such procedures, processes, and criteria as may be necessary and appropriate to maximize cooperation and coordinate the activities of the Program with programs and activities of other Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing;
 
-  (F) to act as a convener of the Network;
+  (F) to establish a clearinghouse of public information related to the activities of the Program;
 
-  (G) to work with Federal agencies that are not sponsoring or supporting a Manufacturing USA institute to explore and develop options for sponsoring or supporting a Manufacturing USA institute;
+  (G) to act as a convener of the Network;
 
-  (H) to work with Federal agencies that are sponsoring or supporting a Manufacturing USA institute to develop and implement network-wide performance goals with measurable targets and timelines;
+  (H) to work with Federal agencies that are not sponsoring or supporting a Manufacturing USA institute to explore and develop options for sponsoring or supporting a Manufacturing USA institute;
 
-  (I) to help develop pilot programs that may be implemented by the Manufacturing USA institutes to address specific purposes of the Program, including to accelerate technology transfer to the private sector and to develop entrepreneurship programs;
+  (I) to work with Federal agencies that are sponsoring or supporting a Manufacturing USA institute to develop and implement network-wide performance goals with measurable targets and timelines;
 
-  (J) to provide support services to promote workforce development activities, including the development of industry credentials;
+  (J) to help develop pilot programs that may be implemented by the Manufacturing USA institutes to address specific purposes of the Program, including to accelerate technology transfer to the private sector and to develop entrepreneurship programs;
 
-  (K) to identify and disseminate best practices for workforce education and training across the Network and further enhance collaboration among Manufacturing USA institutes in developing and implementing such practices;
+  (K) to provide support services to promote workforce development activities, including the development of industry credentials;
 
-  (L) to collaborate with the Department of Labor, the Department of Education, industry, career and technical education schools, local community colleges, universities, and labor organizations to provide input, as appropriate, for the development of national certifications for advanced manufacturing workforce skills in the technology areas of the Manufacturing USA institutes; and
+  (L) to identify and disseminate best practices for workforce education and training across the Network and further enhance collaboration among Manufacturing USA institutes in developing and implementing such practices;
 
-  (M) to coordinate with Manufacturing USA institutes to develop best practices for the membership agreements and coordination of similar project solicitations.
+  (M) to collaborate with the Department of Labor, the Department of Education, industry, career and technical education schools, local community colleges, universities, and labor organizations to provide input, as appropriate, for the development of national certifications for advanced manufacturing workforce skills in the technology areas of the Manufacturing USA institutes; and
 
-(3) **Recommendations** — In developing and updating the strategic plan under paragraph (2)(C), the Secretary shall solicit recommendations and advice from a wide range of stakeholders, including industry, small and medium-sized manufacturing enterprises, research universities, community colleges, State, Tribal, and local governments, and other relevant organizations and institutions on an ongoing basis.
+  (N) to coordinate with Manufacturing USA institutes to develop best practices for the membership agreements and coordination of similar project solicitations.
 
-(4) **Report to Congress** — Upon completion, the Secretary shall transmit the strategic plan required under paragraph (2)(C) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+(3) **Recommendations** — In developing the strategic plan under subparagraph (C) of paragraph (2) and updating such plan under subparagraph (D) of such paragraph, the Secretary shall solicit recommendations and advice from a wide range of stakeholders, including industry, small and medium-sized manufacturing enterprises, research universities, community colleges, State, Tribal, and local governments, and other relevant organizations and institutions on an ongoing basis.
+
+(4) **Report to Congress** — Upon completion, the Secretary shall transmit the strategic plan required under paragraph (2)(C) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives. Upon completion of each update required under paragraph (2)(D), the Secretary shall transmit such strategic plan to such committees.
 
 (5) **Hollings Manufacturing Extension Partnership**
 
@@ -2971,6 +2973,14 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 A prior section 34 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and is set out as a Short Title note under [section 271 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-271).
 
 #### Amendments
+2025—Subsec. (i)(2)(C). Pub. L. 119–60, § 8802(a)(1), struck out “and update not less frequently than once every 3 years thereafter,” after “December 16, 2015,”.
+
+Subsec. (i)(2)(D) to (N). Pub. L. 119–60, § 8802(a)(2), (3), added subpar. (D) and redesignated former subpars. (D) to (M) as (E) to (N), respectively.
+
+Subsec. (i)(3). Pub. L. 119–60, § 8802(b)(1), substituted “developing the strategic plan under subparagraph (C) of paragraph (2) and updating such plan under subparagraph (D) of such paragraph” for “developing and updating the strategic plan under paragraph (2)(C)”.
+
+Subsec. (i)(4). Pub. L. 119–60, § 8802(b)(2), inserted at end “Upon completion of each update required under paragraph (2)(D), the Secretary shall transmit such strategic plan to such committees.”
+
 2022—Subsec. (e)(8). Pub. L. 117–167, § 10261, added par. (8).
 
 Subsecs. (f) to (h). Pub. L. 117–263, § 5911, added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).

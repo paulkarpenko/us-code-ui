@@ -2,7 +2,7 @@
 title: 10
 chapter: '108'
 heading: DEPARTMENT OF DEFENSE SCHOOLS
-section_count: 11
+section_count: 14
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -49,9 +49,15 @@ Repeal effective on the date on which the Secretary of Defense and the Director 
 
 (8) The Marine Corps University.
 
+(9) The Space Force Senior Level Education Program.
+
+(10) The Space Force Intermediate Level Education Program.
+
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (d)(9), (10). Pub. L. 119–60 added pars. (9) and (10).
+
 2002—Subsec. (b)(2). Pub. L. 107–314 substituted “December 28, 2001,” for “the date of the enactment of this paragraph”.
 
 2001—Subsec. (b)(2), (3). Pub. L. 107–107 added par. (2) and redesignated former par. (2) as (3).
@@ -193,25 +199,37 @@ Pub. L. 109–163, div. A, title V, § 521(c), Jan. 6, 2006, 119 Stat. 3240, pro
 
   (D) Subparagraph (A) shall not apply to a dependent covered by paragraph (1)(B). No requirement under this paragraph for reimbursement for educational services provided for the dependent shall apply with respect to the dependent, except that the Secretary may require the United States Customs Service to reimburse the Secretary for the cost of the educational services provided for the dependent.
 
-**(d) School Boards.—**
+**(d) School Advisory Committees.—**
 
-(1) The Secretary of Defense shall provide for the establishment of a school board for Department of Defense elementary and secondary schools established at each military installation under this section. The Secretary may provide for the establishment of one school board for all such schools in the Commonwealth of Puerto Rico and one school board for all such schools in Guam instead of one school board for each military installation in those locations.
+(1) The Secretary of Defense, acting through the Director of the Department of Defense Education Activity, shall provide for the establishment of an advisory committee for each Department of Defense elementary or secondary school established at a military installation under this section.
 
-(2) The school board shall be composed of the number of members, not fewer than three, prescribed by the Secretary.
+(2) An advisory committee established under paragraph (1) for a school at a military installation—
 
-(3) The parents of the students attending the school shall elect the school board in accordance with procedures which the Secretary shall prescribe.
+  (A) shall advise the principal or superintendent of the school with respect to the operation of the school;
 
-(4)
+  (B) may make recommendations with respect to curriculum and budget matters; and
 
-  (A) A school board elected for a school under this subsection may participate in the development and oversight of fiscal, personnel, and educational policies, procedures, and programs for the school, except that the Secretary may issue any directive that the Secretary considers necessary for the effective operation of the school or the entire school system.
+  (C) except in the case of an advisory committee for a school on a military installation described in paragraph (4), shall advise the commander of the military installation with respect to problems concerning the education of dependents within the jurisdiction of the commander.
 
-  (B) A directive referred to in subparagraph (A) shall, to the maximum extent practicable, be issued only after the Secretary consults with the appropriate school boards elected under this subsection. The Secretary shall establish a process by which a school board or school administrative officials may formally appeal the directive to the Secretary of Defense.
+(3)
 
-(5) Meetings conducted by the school board shall be open to the public, except as provided in paragraph (6).
+  (A) The membership of each advisory committee established for a school described in paragraph (1)—
 
-(6) A school board need not comply with the provisions of chapter 10 of title 5, but may close meetings in accordance with chapter 10 of title 5.
+    (i) shall include an equal number of parents of students enrolled in the school and of employees working at the school; and
 
-(7) The Secretary may provide for reimbursement of a school board member for expenses incurred by the member for travel, transportation, lodging, meals, program fees, activity fees, and other appropriate expenses that the Secretary determines are reasonable and necessary for the performance of school board duties by the member.
+    (ii) when appropriate, may include a student enrolled in the school.
+
+  (B) In addition to the members described in subparagraph (A), the membership of each advisory committee shall include one nonvoting member designated by the organization recognized as the exclusive bargaining representative of the employees working at the school.
+
+(4) In the case of a military installation where there is more than one school in the Department of Defense elementary and secondary school system, the Secretary, acting through the Director, shall provide for the establishment of an advisory committee for the military installation to advise the commander of the military installation with respect to the education of dependents.
+
+(5)
+
+  (A) Except in the case of a nonvoting member designated under paragraph (3)(B), members of an advisory committee established under this subsection shall be elected by individuals of voting age residing in the area to be served by the advisory committee.
+
+  (B) The Secretary, acting through the Director, shall by regulation prescribe the qualifications for election to an advisory committee established under this subsection and procedures for conducting elections of members to such an advisory committee.
+
+(6) Members of an advisory committee established under this subsection shall serve without pay.
 
 **(e) Administration and Staff.—**
 
@@ -289,13 +307,13 @@ Pub. L. 109–163, div. A, title V, § 521(c), Jan. 6, 2006, 119 Stat. 3240, pro
 
 (3) Paragraphs (1) and (2) do not limit the authority of the Secretary to remove a dependent from enrollment in an educational program provided by the Secretary pursuant to subsection (a) at any time for good cause determined by the Secretary.
 
-**(i) American Red Cross Employee Dependents in Puerto Rico.—**
+**(i) American Red Cross Employee Dependents in Certain Areas.—**
 
-(1) The Secretary may authorize the dependent of an American Red Cross employee described in paragraph (2) to enroll in an education program provided by the Secretary pursuant to subsection (a) in Puerto Rico if the American Red Cross agrees to reimburse the Secretary for the educational services so provided.
+(1) The Secretary may authorize the dependent of an American Red Cross employee described in paragraph (2) to enroll in an education program provided by the Secretary pursuant to subsection (a) in a territory, commonwealth, or possession of the United States if the American Red Cross agrees to reimburse the Secretary for the educational services so provided.
 
 (2) An employee referred to in paragraph (1) is an American Red Cross employee who—
 
-  (A) resides in Puerto Rico; and
+  (A) resides in a territory, commonwealth, or possession of the United States where a program referred to in paragraph (1) is provided; and
 
   (B) performs, on a full-time basis, emergency services on behalf of members of the armed forces.
 
@@ -305,13 +323,23 @@ Pub. L. 109–163, div. A, title V, § 521(c), Jan. 6, 2006, 119 Stat. 3240, pro
 
 **(j) Tuition-free Enrollment of Dependents of Foreign Military Personnel Residing on Domestic Military Installations and Dependents of Certain Deceased Members of the Armed Forces.—**
 
-(1) The Secretary may authorize the enrollment in a Department of Defense education program provided by the Secretary pursuant to subsection (a) of a dependent not otherwise eligible for such enrollment who is the dependent of an individual described in paragraph (2). Enrollment of such a dependent shall be on a tuition-free basis.
+(1) The Secretary may authorize the enrollment in a Department of Defense education program provided by the Secretary pursuant to subsection (a) of a dependent not otherwise eligible for such enrollment who is the dependent of a member of a foreign armed force residing on a military installation in the United States (including territories, commonwealths, and possessions of the United States). Enrollment of such a dependent shall be on a tuition-free basis.
 
-(2) An individual referred to in paragraph (1) is any of the following:
+(2)
 
-  (A) A member of a foreign armed force residing on a military installation in the United States (including territories, commonwealths, and possessions of the United States).
+  (A) The Secretary may authorize the enrollment in a Department of Defense education program provided by the Secretary pursuant to subsection (a) of a dependent not otherwise eligible for such enrollment who is the dependent of a member of the armed forces who died in—
 
-  (B) A deceased member of the armed forces who died in the line of duty in a combat-related operation, as designated by the Secretary.
+    (i) an international terrorist attack against the United States or a foreign country friendly to the United States, as determined by the Secretary;
+
+    (ii) military operations while serving outside the United States (including the commonwealths, territories, and possessions of the United States) as part of a peacekeeping force; or
+
+    (iii) the line of duty in a combat-related operation, as designated by the Secretary.
+
+  (B)
+
+    (i) Except as provided by clause (ii), enrollment of a dependent described in subparagraph (A) in a Department of Defense education program provided pursuant to subsection (a) shall be on a tuition-free, space available basis.
+
+    (ii) In the case of a dependent described in subparagraph (A) residing on a military installation in the United States (including territories, commonwealths, and possessions of the United States), the Secretary may authorize enrollment of the dependent in a Department of Defense education program provided pursuant to subsection (a) on a tuition-free, space required basis.
 
 **(k) Enrollment of Relocated Defense Dependents’ Education System Students.—**
 
@@ -329,13 +357,23 @@ Pub. L. 109–163, div. A, title V, § 521(c), Jan. 6, 2006, 119 Stat. 3240, pro
 
 (1) Under regulations prescribed by the Secretary of Defense, the Secretary may authorize the enrollment in the virtual elementary and secondary education program established as a component of the Department of Defense education program of a dependent of a member of the armed forces on active duty who—
 
-  (A) is enrolled in an elementary or secondary school operated by a local educational agency or another accredited educational program in the United States (other than a school operated by the Department of Defense education program); and
+  (A) is enrolled in an elementary or secondary school operated by a local educational agency or another accredited educational program in the United States (other than a school operated by the Department of Defense education program); or
 
-  (B) immediately before such enrollment, was enrolled in the defense dependents’ education system established under section 1402 of the Defense Dependents’ Education Act of 1978 ([20 U.S.C. 921](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section921&num=0&edition=prelim)).
+  (B) is a home-schooled student.
 
-(2) Enrollment of a dependent described in paragraph (1) pursuant to such paragraph shall be on a tuition basis.
+(2) In this subsection, the term “home-schooled student” means a student in a grade equivalent to kindergarten or any of grades 1 through 12 who receives educational instruction at home or by other nontraditional means outside of a public or private school system, either all or most of the time.
 
-(3) Any payments received by the Secretary of Defense under this subsection shall be credited to the account designated by the Secretary for the operation of the virtual educational program under this subsection. Payments so credited shall be merged with other funds in the account and shall be available, to the extent provided in advance in appropriation Acts, for the same purposes and the same period as other funds in the account.
+**(m) Meal Programs.—**
+
+(1) The Secretary of Defense may administer a meal program, consistent with Federal law and standards prescribed by the Secretary of Agriculture for that meal program, for students enrolled in a school established under this section.
+
+(2) In this subsection, the term “meal program” means a program established under the Child Nutrition Act of 1966 ([42 U.S.C. 1771](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1771&num=0&edition=prelim) et seq.) or the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) et seq.).
+
+**(n) Eligibility of Dependents of Certain Members of the Reserve Components.—**
+
+(1) A dependent of a member described in paragraph (2) shall be eligible to attend a school established under this section at the military installation that is the permanent station of such member and such dependent shall automatically be granted enrollment at such school at the request of such member if there is sufficient space in the school to accommodate the dependent. In the event there is not sufficient space available at such school at the time the dependent seeks to enroll, the dependent shall be placed on a wait-list for enrollment in the school.
+
+(2) A member described in this paragraph is a member of a reserve component performing active service pursuant to an order for accompanied permanent change of station.
 
 ### Statutory Notes
 
@@ -346,7 +384,41 @@ The Individuals with Disabilities Education Act, referred to in subsec. (f)(1), 
 
 Section 6(a) of Public Law 81–874 ([20 U.S.C. 241(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section241/a&num=0&edition=prelim)), referred to in subsec. (f)(2), was repealed by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965.
 
+The Child Nutrition Act of 1966, referred to in subsec. (m), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1771 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1771&num=0&edition=prelim) and Tables.
+
+The Richard B. Russell National School Lunch Act, referred to in subsec. (m), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) and Tables.
+
 #### Amendments
+2025—Subsec. (i). Pub. L. 119–60, § 582(b)(1), substituted “in Certain Areas” for “in Puerto Rico” in heading.
+
+Subsec. (i)(1). Pub. L. 119–60, § 582(b)(2), substituted “in a territory, commonwealth, or possession of the United States” for “in Puerto Rico”.
+
+Subsec. (i)(2)(A). Pub. L. 119–60, § 582(b)(3), substituted “resides in a territory, commonwealth, or possession of the United States where a program referred to in paragraph (1) is provided” for “resides in Puerto Rico”.
+
+Subsec. (n). Pub. L. 119–60, § 583, added subsec. (n).
+
+2024—Subsec. (d). Pub. L. 118–159, § 591, amended subsec. (d) generally. Prior to amendment, subsec. (d) related to establishment of a school board for Department of Defense elementary and secondary schools established at each military installation under this section.
+
+Subsec. (j)(1). Pub. L. 118–159, § 592(1), substituted “a member of a foreign armed force residing on a military installation in the United States (including territories, commonwealths, and possessions of the United States)” for “an individual described in paragraph (2)”.
+
+Subsec. (j)(2). Pub. L. 118–159, § 592(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An individual referred to in paragraph (1) is any of the following:
+
+“(A) A member of a foreign armed force residing on a military installation in the United States (including territories, commonwealths, and possessions of the United States).
+
+“(B) A deceased member of the armed forces who died in the line of duty in a combat-related operation, as designated by the Secretary.”
+
+Subsec. (l)(1)(A). Pub. L. 118–159, § 593(1)(A), substituted “; or” for “; and”.
+
+Subsec. (l)(1)(B). Pub. L. 118–159, § 593(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “immediately before such enrollment, was enrolled in the defense dependents’ education system established under section 1402 of the Defense Dependents’ Education Act of 1978 ([20 U.S.C. 921](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section921&num=0&edition=prelim)).”
+
+Subsec. (l)(2), (3). Pub. L. 118–159, § 593(2), added par. (2) and struck out former pars. (2) and (3) which read as follows:
+
+“(2) Enrollment of a dependent described in paragraph (1) pursuant to such paragraph shall be on a tuition basis.
+
+“(3) Any payments received by the Secretary of Defense under this subsection shall be credited to the account designated by the Secretary for the operation of the virtual educational program under this subsection. Payments so credited shall be merged with other funds in the account and shall be available, to the extent provided in advance in appropriation Acts, for the same purposes and the same period as other funds in the account.”
+
+Subsec. (m). Pub. L. 118–159, § 594(a), added subsec. (m).
+
 2022—Subsec. (d)(6). Pub. L. 117–286 substituted “chapter 10 of title 5, but may close meetings in accordance with chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.), but may close meetings in accordance with such Act.”
 
 2013—Subsecs. (k), (l). Pub. L. 112–239 added subsecs. (k) and (l).
@@ -395,14 +467,26 @@ Pub. L. 113–66, div. A, title V, § 553(b), Dec. 26, 2013, 127 Stat. 764, prov
 #### Effective Date of 1998 Amendment
 Pub. L. 105–261, div. A, title III, § 371(c)(3), Oct. 17, 1998, 112 Stat. 1989, provided that: “The amendments made by this subsection [amending this section] shall apply with respect to academic years beginning on or after the date of the enactment of this Act [Oct. 17, 1998].”
 
+#### Regulations on the Use of Portable Electronic Mobile Devices in Department of Defense Education Activity Schools
+Pub. L. 119–60, div. A, title V, § 589B, Dec. 18, 2025, 139 Stat. 895, provided that: “(a) Regulations Required.—Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense, acting through the Director of the Department of Defense Education Activity, shall update existing regulations on student use of portable electronic mobile devices in Department of Defense Education Activity (DODEA) schools to prohibit disruption in the learning environment by minimizing the use of such mobile devices to the greatest extent practicable and to standardize such regulations across all DODEA schools. “(b) Briefing Required.—Not later than 60 days after completion of the updated regulations required under subsection (a), the Secretary of Defense shall brief the Committees on Armed Services of the Senate and the House of Representatives on the updated regulations, including—“(1) relevant evidence taken into consideration on the use of portable electronic mobile devices in and around the classroom on learning outcomes and social dynamics; “(2) a description of how the regulations have standardized policies across all DODEA schools; “(3) an assessment of the influence, if any, of public-school policies on mobile devices at school or in the classroom; and “(4) any other matters the Secretary determines relevant.”
+
 #### Savings Provision
 Pub. L. 103–337, div. A, title III, § 351(c), Oct. 5, 1994, 108 Stat. 2730, provided that: “Nothing in [section 2164 of title 10](./chapter-108-department-of-defense-schools.md#section-2164), United States Code, as added by subsection (a), shall be construed as affecting the rights in existence on the date of the enactment of this Act [Oct. 5, 1994] of an employee of any school established under such section (or any other provision of law enacted before the date of the enactment of this Act that established a similar school) to negotiate or bargain collectively with the Secretary with respect to wages, hours, and other terms and conditions of employment.”
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
+#### Management of Special Education in Schools Operated by Department of Defense Education Activity
+Pub. L. 119–60, div. A, title V, § 589V, Dec. 18, 2025, 139 Stat. 896, provided that: “(a) Improvements to Staffing.—The Secretary of Defense, acting through the Director of the Department of Defense Education Activity, shall implement the following measures to improve staffing of special education teachers and staff at schools operated by the Activity:“(1) Require the inclusion, in the staffing model for a school, of service minutes required by the individualized education programs of students attending the school to more effectively determine appropriate staffing for the school. As part of such staffing model, service minutes for students with similar needs may be counted concurrently when educationally appropriate. “(2) Collect the following data on underutilized special education staff members:“(A) When such staff members are requested to transfer to a school with greater needs for such staff members. “(B) How many requests for such transfers the Activity receives. “(C) Whether such requests are approved or denied, and at what locations. “(D) Once such a request is received, the likelihood that the transfer occurs. “(3) Collect data on the turnover of special education teachers and staff, including reasons for departure. “(4) Review access to and requirements for crisis training, publicize Activity-wide policies with respect to such training for consistency, and expand such training to relevant special education teachers and staff, such as paraeducators, who are not required, as of the date of the enactment of this Act [Dec. 18, 2025], to receive such training. “(5) Require district and regional administrators to track training requirements for special education teachers and staff to ensure that such teachers and staff are meeting such requirements. “(b) Clarification of Guidance.—The Secretary of Defense, acting through the Director of the Department of Defense Education Activity, shall implement the following measures to improve and clarify guidance relating to special education provided by schools operated by the Activity:“(1) Review the list of types of disabilities recognized by the Activity as of the date of the enactment of this Act [Dec. 18, 2025] and determine if that list meets the most recent best practices for special education. “(2) Standardize and implement instructions for providing special education materials to students across schools operated by the Activity. “(3) Develop and implement a plan for standardizing special education training across the Activity. “(4) Standardize reading intervention guidance and requirements across schools operated by the Activity, including by requiring each school and district operated by the Activity to have the same resources and instructions, and provide clear guidance on how to access additional support materials if required. “(c) Implementation Deadline.—The Secretary of Defense shall complete implementation of the measures described in subsections (a) and (b) by not later than two years after the date of the enactment of this Act [Dec. 18, 2025]. “(d) Briefings Required.—“(1) Initial briefing.—Not later than April 1, 2026, the Director of the Department of Defense Education Activity shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the following:“(A) Coordination by the Department of Defense Education Activity with the Educational and Developmental Intervention Services programs of the military departments to determine what medical services the military departments are required to provide based on the needs of students attending schools operated by the Activity. “(B) A description of the process in effect as of the date of the briefing, if any, to resolve a dispute with respect to required services under a student’s individualized education program. “(C) A description of issues pending, and resolutions of previous issues, under that process. “(D) An assessment of how support instructional specialists can better assist teachers with developing curriculum for special education students. “(E) A description of how the Activity provides services in the case of civilian or military dependents with severe medical or special education requirements that a school cannot meet, including any data on how many such cases arise on an annual basis and in what locations. “(F) A description of the process in effect as of the date of the briefing for reassigning a family from a school located outside the United States if the education needs of a child in the family cannot be met at that school and data, for the 5 school years preceding the briefing, on where such reassignments have been done and the frequency of such reassignments. “(G) An assessment of the pay scale for special education teachers and staff in effect as of the date of the briefing, an identification of the last time the pay scale was updated, a description of how the pay scale is determined, and a statement of how often the pay scale is updated. “(H) Data on school and district-level requests for additional reading intervention curriculum, including the locations of such requests and whether such requests were approved or denied. “(2) Semi-annual briefings.—The Director of the Department of Defense Education Activity shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the progress made in implementing the measures described in subsections (a) and (b)—“(A) not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025]; and “(B) every 180 days thereafter until the Director certifies to the Committees that each such measure has been implemented.”
+
+#### Training Requirements Teachers in 21st Century Schools of the Department of Defense Education Activity
+Pub. L. 118–159, div. A, title V, § 599, Dec. 23, 2024, 138 Stat. 1922, provided that: “(a) In General.—The Secretary of Defense, acting through the Director of the Department of Defense Education Activity, shall require each teacher in a 21st century school to undergo training in accordance with this section. “(b) Content.—The training required under subsection (a) shall consist of specialized instruction to provide teachers with the skills necessary to effectively teach in a 21st century school environment, including instruction in—“(1) understanding and using the physical space of a 21st century school classroom; “(2) building the relationships necessary to succeed, including relationships with students and other teachers; “(3) the curriculum and level of academic rigor necessary to increase student learning; “(4) other skills necessary to support the academic achievement and social and emotional well being of students; and “(5) such other topics as the Secretary and the Director determine appropriate. “(c) Frequency.—The training required under subsection (a) shall be provided as follows:“(1) In the case of a teacher who has been assigned to a 21st century school, but has not commenced teaching in such school, the training shall be provided before the teacher commences teaching in such school. “(2) In the case of a teacher who previously taught in a 21st century school, but subsequently taught in a school that is not a 21st century school for one or more school years, such training shall be provided before the teacher resumes teaching in a 21st Century School. “(3) In the case of a teacher who is teaching in a 21st century school as of the date of the enactment of this Act [Dec. 23, 2024], such training shall be provided not later than 180 days after such date of enactment. “(4) In the case of a teacher who teaches in a 21st century school on an ongoing basis, and who previously received training under this subsection, such training shall be provided not less frequently than once every three years. “(d) 21st Century School Defined.—In this section, the term ‘21st century school’ means a school facility operated by the Department of Defense Education Activity that has been constructed or modernized pursuant to the 21st Century Schools Program of the Activity.”
+
+#### Overseas Transfer Program for Educators in Schools Operated by the Department of Defense Education Activity
+Pub. L. 118–159, div. A, title V, § 599A, Dec. 23, 2024, 138 Stat. 1923, provided that: “(a) In General.—Not later than December 31, 2025, the Secretary of Defense, in coordination with the Director of the Department of Defense Education Activity, shall develop and implement a policy pursuant to which a teacher at an overseas DODEA school may transfer to a position at another overseas DODEA school, subject to such terms, conditions, and other requirements as the Secretary determines appropriate. “(b) Overseas DODEA School Defined.—In this section, the term ‘overseas DODEA school’ means a school that is—“(1) operated by the Department of Defense Education Activity; and “(2) located outside the United States.”
+
 #### Pilot Program To Expand Eligibility for Enrollment at Domestic Dependent Elementary and Secondary Schools
-Pub. L. 116–283, div. A, title V, § 589C, Jan. 1, 2021, 134 Stat. 3659, as amended by Pub. L. 117–263, div. A, title V, § 572(a), Dec. 23, 2022, 136 Stat. 2601, provided that: “(a) Pilot Program Authorized.—Beginning not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall carry out a pilot program under which a dependent of a full-time, active-duty member of the Armed Forces may enroll in a covered DODEA school at the military installation to which the member is assigned, on a space-available basis as described in subsection (c), without regard to whether the member resides on the installation as described in [section] 2164(a)(1) of title 10, United States Code. “(b) Purposes.—The purposes of the pilot program under this section are—“(1) to evaluate the feasibility and advisability of expanding enrollment in covered DODEA schools; and “(2) to determine how increased access to such schools will affect military and family readiness. “(c) Enrollment on Space-Available Basis.—A student participating in the pilot program under this section may be enrolled in a covered DODEA school only if the school has the capacity to accept the student, as determined by the Director of the Department of Defense Education Activity. “(d) Locations.—The Secretary of Defense shall carry out the pilot program under this section at not more than four military installations at which covered DODEA schools are located. The Secretary shall select military installations for participation in the program based on—“(1) the readiness needs of the Secretary of a the military department concerned; and “(2) the capacity of the DODEA schools located at the installation to accept additional students, as determined by the Director of the Department of Defense Education Activity. “(e) Termination.—The authority to carry out the pilot program under this section shall terminate on July 1, 2029. “(f) Covered DODEA School Defined.—In this Section, the term ‘covered DODEA school’ means a domestic dependent elementary or secondary school operated by the Department of Defense Education Activity that—“(1) has been established on or before the date of the enactment of this Act; and “(2) is located in the continental United States.”
+Pub. L. 116–283, div. A, title V, § 589C, Jan. 1, 2021, 134 Stat. 3659, as amended by Pub. L. 117–263, div. A, title V, § 572(a), Dec. 23, 2022, 136 Stat. 2601, which established a pilot program to expand eligibility for enrollment at domestic dependent elementary and secondary schools, was repealed by Pub. L. 118–159, div. A, title V, § 595(b), Dec. 23, 2024, 138 Stat. 1920. See [section 2164b of this title](./chapter-108-department-of-defense-schools.md#section-2164b).
 
 #### Pilot Program on Expanded Eligibility for Department of Defense Education Activity Virtual High School Program
 Pub. L. 116–283, div. A, title V, § 589D, Jan. 1, 2021, 134 Stat. 3660, provided that: “(a) Pilot Program Required.—“(1) In general.—The Secretary of Defense shall carry out a pilot program on permitting dependents of members of the Armed Forces on active duty to enroll in the Department of Defense Education Activity Virtual High School program (in this section referred to as the ‘DVHS program’). “(2) Purposes.—The purposes of the pilot program shall be as follows:“(A) To evaluate the feasibility and scalability of the DVHS program. “(B) To assess the impact of expanded enrollment in the DVHS program under the pilot program on military and family readiness. “(3) Duration.—The duration of the pilot program shall be four academic years. “(b) Participants.—“(1) In general.—Participants in the pilot program shall be selected by the Secretary from among dependents of members of the Armed Forces on active duty who—“(A) are in a grade 9 through 12; “(B) are currently ineligible to enroll in the DVHS program; and “(C) either—“(i) require supplementary courses to meet graduation requirements in the current State of residence; or “(ii) otherwise demonstrate to the Secretary a clear need to participate in the DVHS program. “(2) Preference in selection.—In selecting participants in the pilot program, the Secretary shall afford a preference to the following:“(A) Dependents who reside in a rural area. “(B) Dependents who are home-schooled students. “(3) Limitations.—The total number of course enrollments per academic year authorized under the pilot program may not exceed 400 course enrollments. No single dependent participating in the pilot program may take more than two courses per academic year under the pilot program. “(c) Reports.—“(1) Interim report.—Not later than two years after the date of the enactment of this Act [Jan. 1, 2021], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives an interim report on the pilot program. “(2) Final report.—Not later than 180 days after the completion of the pilot program, the Secretary shall submit to the committees of Congress referred to in paragraph (1) a final report on the pilot programs. “(3) Elements.—Each report under this subsection shall include the following:“(A) A description of the demographics of the dependents participating in the pilot program through the date of such report. “(B) Data on, and an assessment of, student performance in virtual coursework by dependents participating in the pilot program over the duration of the pilot program. “(C) Such recommendation as the Secretary considers appropriate on whether to make the pilot program permanent. “(d) Definitions.—In this section:“(1) The term ‘rural area’ has the meaning given the term in section 520 of the Housing Act of 1949 ([42 U.S.C. 1490](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1490&num=0&edition=prelim)). “(2) The term ‘home-schooled student’ means a student in a grade equivalent to grade 9 through 12 who receives educational instruction at home or by other non-traditional means outside of a public or private school system, either all or most of the time.”
@@ -489,6 +573,205 @@ Pub. L. 116–92, div. A, title XVII, § 1751, Dec. 20, 2019, 133 Stat. 1849, pr
 #### References in Text
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
 
+#### Parental Right to Notice of Student Nonproficiency in Reading or Language Arts
+Pub. L. 118–159, div. A, title V, § 599B, Dec. 23, 2024, 138 Stat. 1923, provided that: “The Secretary of Defense shall ensure that each elementary school operated by the Department of Defense Education Activity notifies the parents of any student enrolled in such school when the student does not score as grade-level proficient in reading or language arts at the end of the third grade based on the reading or language arts assessments administered under section 1111(b)(2)(B)(v)(I)(aa) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6311(b)(2)(B)(v)(I)(aa)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/B/v/I/aa&num=0&edition=prelim)) or another assessment administered to all third grade students by such school.”
+
+
+<a id="section-2164b"></a>
+## § 2164b. Eligibility of certain dependents for enrollment in domestic dependent elementary and secondary schools
+**(a) Program Authorized.—** Beginning not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025, the Secretary of Defense shall carry out a program under which a dependent of a full-time, active-duty member of the armed forces may enroll in a covered DODEA school at the military installation to which the member is assigned, on a space-available basis as described in subsection (b), without regard to whether the member resides on the installation as described in [section 2164(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2164/a/1&num=0&edition=prelim).
+
+**(b) Enrollment on Space-available Basis.—** A student participating in the program under subsection (a) may be enrolled in a covered DODEA school only if the school has the capacity to accept the student, as determined by the Director of the Department of Defense Education Activity.
+
+**(c) Locations.—** The Secretary shall select military installations for participation in the program under subsection (a) based on—
+
+(1) the readiness needs of the Secretary of the military department concerned; and
+
+(2) the capacity of the covered DODEA schools located at the installation to accept additional students, as determined by the Director.
+
+**(d) Briefings Required.—**
+
+(1) **In general.—** — Not later than April 1, 2025, and annually thereafter for four years, the Secretary shall brief the Committees on Armed Services of the Senate and House of Representatives on the program under subsection (a).
+
+(2) **Elements.—** — Each briefing required by paragraph (1) shall include the following:
+
+  (A) An identification of the military installations participating in the program under subsection (a).
+
+  (B) The number of students enrolled in covered DODEA schools under the program.
+
+**(e) Notifications of Participating Installations.—** Not later than 90 days before officially announcing the participation of a new military installation in the program under subsection (a), the Secretary shall notify the Committees on Armed Services of the Senate and the House of Representatives with respect to the participation of the installation.
+
+**(f) Covered DODEA School Defined.—** In this section, the term “covered DODEA school” means a domestic dependent elementary or secondary school operated by the Department of Defense Education Activity that—
+
+(1) was established on or before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025; and
+
+(2) is located in the continental United States.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2025, referred to in subsecs. (a) and (f)(1), is the date of enactment of Pub. L. 118–159, which was approved Dec. 23, 2024.
+
+#### Prior Provisions
+Provisions similar to those in this section were contained in Pub. L. 116–283, div. A, title V, § 589C, Jan. 1, 2021, 134 Stat. 3659, as amended by Pub. L. 117–263, div. A, title V, § 572(a), Dec. 23, 2022, 136 Stat. 2601, which was set out in a note under [section 2164 of this title](./chapter-108-department-of-defense-schools.md#section-2164), prior to repeal by Pub. L. 118–159, div. A, title V, § 595(b), Dec. 23, 2024, 138 Stat. 1920.
+
+
+<a id="section-2164c"></a>
+## § 2164c. Authorization of dual or concurrent enrollment programs for students of Defense Dependent Schools
+**(a) In General.—** The Secretary of Defense, acting through the Director of the Department of Defense Education Activity, may—
+
+(1) enter into arrangements with institutions of higher education to provide students of Defense Dependent Schools with access to postsecondary course credit through dual or concurrent enrollment programs; and
+
+(2) subject to subsection (b), provide financial assistance to students to cover the costs associated with such programs.
+
+**(b) Amount of Assistance.—** The amount of financial assistance provided to an individual student under subsection (a)(2) may not exceed $1,500 per school year.
+
+**(c) Credit Transferability.—** The Secretary of Defense shall, to the greatest extent practicable, ensure that the Department of Defense Education Activity, in facilitating dual or concurrent enrollment programs with institutions of higher education under this section—
+
+(1) establishes articulation or credit transfer agreements that promote the transferability of academic credits earned by participating students; and
+
+(2) prioritizes agreements with institutions that offer broad acceptance of such credits across degree programs.
+
+**(d) Institutional Integrity.—** In entering into contracts or other agreements with institutions of higher education for purposes of dual or concurrent enrollment programs under this section, the Secretary of Defense shall ensure that such institutions have a program participation agreement in effect under section 487 of the Higher Education Act of 1965 ([20 U.S.C. 1094](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1094&num=0&edition=prelim)) and are not provisionally or temporarily certified.
+
+**(e) Preparation and Informing Families and Educators.—** In implementing dual or concurrent enrollment programs under this section, the Secretary of Defense, acting through the Director of the Department of Defense Education Activity, shall do the following:
+
+(1) **Course sequence alignment.—** — Design a sequence of courses for such programs to match the academic content standards and level of rigor of the corresponding postsecondary courses, in consultation and collaboration with—
+
+  (A) educators from Defense Dependent Schools serving the military-connected community;
+
+  (B) faculty members from institutions of higher education offering dual or concurrent enrollment programs; and
+
+  (C) the school advisory committee (or the equivalent advisory body) of each Defense Dependent School.
+
+(2) **Outreach and information dissemination.—** — Establish outreach and awareness efforts targeted toward elementary and secondary school students, particularly those in the middle grades and their families, educators, school counselors, and principals, to provide—
+
+  (A) general information regarding the availability and benefits of dual or concurrent enrollment programs;
+
+  (B) guidance on eligibility requirements, academic expectations, and necessary preparatory coursework for such programs; and
+
+  (C) resources to support informed decisionmaking and successful student participation in such programs.
+
+**(f) Teacher Certification.—** The Secretary of Defense shall ensure that all dual or concurrent enrollment courses facilitated by the Department of Defense Education Activity are taught by—
+
+(1) a postsecondary faculty member who—
+
+  (A) is employed by a two-year or four-year institution of higher education (which may include a community college); and
+
+  (B) meets the applicable postsecondary accreditation standards for instructional staff; or
+
+(2) a classroom teacher employed by a local educational agency or by the Department of Defense Education Activity, who—
+
+  (A) is qualified to teach in accordance with applicable law; and
+
+  (B) has received training or certification to deliver the dual or concurrent enrollment course curriculum in alignment with the standards of the partnering institution of higher education.
+
+**(g) Additional Requirements.—** In carrying out this section, the Secretary of Defense shall consult with the School Advisory Committees (or the equivalent advisory bodies) and Parent Teacher Associations of participating Defense Dependent Schools.
+
+**(h) Annual Briefings.—**
+
+(1) **In general.—** — Not later than one year after the date of the enactment of this section, and annually thereafter for four years, the Secretary of Defense shall provide to the appropriate congressional committees a briefing on the status of the dual and concurrent enrollment programs authorized under this section.
+
+(2) **Elements.—** — Each briefing under paragraph (1) shall include, with respect to the period covered by the briefing—
+
+  (A) the number of students who participated in dual or concurrent enrollment programs authorized under this section;
+
+  (B) the total cost to the Department of Defense of providing such programs; and
+
+  (C) an explanation of—
+
+    (i) whether and to what extent such programs consisted of online classes or in-person instruction; and
+
+    (ii) the subjects taught in postsecondary classes taken by students participating in such programs.
+
+(3) **Disaggregation.—** — The information required under paragraph (2) shall be set forth separately for each region served by the Department of Defense Education Activity.
+
+**(i) Definitions.—** In this section:
+
+(1) The term “appropriate congressional committees” means—
+
+  (A) the Committee on Armed Services of the Senate; and
+
+  (B) the Committee on Armed Services and the Committee on Education and Workforce of the House of Representatives.
+
+(2) The term “Defense Dependent School” means—
+
+  (A) a school operated under the Defense Dependents’ Education System, as authorized under the Defense Dependents’ Education Act of 1978 ([20 U.S.C. 921](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section921&num=0&edition=prelim) et seq.); or
+
+  (B) a Department of Defense domestic dependent elementary and secondary school, as authorized under [section 2164 of this title](./chapter-108-department-of-defense-schools.md#section-2164).
+
+(3) The term “dual or concurrent enrollment program” means a program offered by an arrangement between the Department of Defense Education Activity and an institution of higher education and through which a student enrolled in a Defense Dependent School who has not graduated from high school with a regular high school diploma is able to enroll in one or more postsecondary courses and earn credit that applies—
+
+  (A) toward completion of a postsecondary degree or recognized educational credential as described in the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq.); and
+
+  (B) toward completion of high school.
+
+(4) The term “institution of higher education” has the meaning given that term in section 102 of the Higher Education Act of 1965 ([20 U.S.C. 1002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (h)(1), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
+
+The Defense Dependents’ Education Act of 1978, referred to in subsec. (i)(2)(A), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 921 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section921&num=0&edition=prelim) and Tables.
+
+The Higher Education Act of 1965, referred to in subsec. (i)(3)(A), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+
+
+<a id="section-2164d"></a>
+## § 2164d. Limitation on school closures and certain other actions with respect to schools operated by the Department of Defense Education Activity
+**(a) Limitation.—** The Secretary of Defense may not take any action described in subsection (b) with respect to a school operated by the Department of Defense Education Activity unless—
+
+(1) the Secretary submits to the Committees on Armed Services of the Senate and the House of Representatives—
+
+  (A) written notice of the intent of the Secretary to take such action with respect to such school;
+
+  (B) the report required under subsection (c); and
+
+  (C) a written assurance that the Director of the Department of Defense Education Activity has met, engaged with, and solicited feedback from students, parents, teachers, administrators, military installation leadership, and the local community concerning the proposed action; and
+
+(2) a period of one year has elapsed following the date on which the requirements under paragraph (1) have been met.
+
+**(b) Actions Described.—** The actions described in this subsection are the following:
+
+(1) Closing or terminating the operations of a school.
+
+(2) Preparing to close or terminate the operations of a school.
+
+(3) Reducing by 20 percent or more the number of spaces available for enrollment in a school.
+
+(4) Significantly reducing the services provided by a school, including—
+
+  (A) curriculum offerings;
+
+  (B) special education services; and
+
+  (C) extracurricular activities.
+
+(5) Transferring or conveying a school to a local educational agency or any other entity outside the Department of Defense.
+
+**(c) Report.—** Before taking any action described in subsection (b), the Secretary of Defense shall prepare a report containing a justification and analysis of such action. Such justification and analysis shall include an explanation of—
+
+(1) the monetary costs to the Department of Defense of the action; and
+
+(2) the effects of the action on—
+
+  (A) students;
+
+  (B) curriculum;
+
+  (C) gifted education programs;
+
+  (D) special education programs, including individualized education programs (as defined in section 614(d)(1)(A) of the Individuals with Disabilities Education Act ([20 U.S.C. 1414(d)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1414/d/1/A&num=0&edition=prelim)));
+
+  (E) educational and other accommodations provided under section 504 of the Rehabilitation Act of 1973 ([29 U.S.C. 794](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794&num=0&edition=prelim));
+
+  (F) the Exceptional Family Member Program; and
+
+  (G) local educational agencies in the area of the affected school.
+
+**(d) Local Educational Agency Defined.—** In this section, the term “local educational agency” has the meaning given that term in section 8101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)).
+
 
 <a id="section-2165"></a>
 ## § 2165. National Defense University: component institutions
@@ -502,7 +785,7 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 (3) The Joint Forces Staff College.
 
-(4) The Institute for National Strategic Studies.
+(4) The Institute for National Strategic Studies (including a Center for Strategic Deterrence and Weapons of Mass Destruction Studies).
 
 (5) The College of Information and Cyberspace.
 
@@ -537,6 +820,8 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b)(4). Pub. L. 119–60 inserted “(including a Center for Strategic Deterrence and Weapons of Mass Destruction Studies)” after “The Institute for National Strategic Studies”.
+
 2023—Subsec. (b)(6), (7). Pub. L. 118–31 added par. (6) and redesignated former par. (6) as (7).
 
 2021—Subsec. (f)(1). Pub. L. 116–283 substituted “section 4001” for “section 2358”.
@@ -575,6 +860,9 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 #### Effective Date of 2001 Amendment
 Pub. L. 107–107, div. A, title V, § 527(c)(2), Dec. 28, 2001, 115 Stat. 1102, provided that: “Subsection (d) of [section 2165 of title 10](./chapter-108-department-of-defense-schools.md#section-2165), United States Code, as added by paragraph (1), shall become effective beginning with fiscal year 2003.”
+
+#### Mission of the Center for Strategic Deterrence and Weapons of Mass Destruction Studies
+Pub. L. 119–60, div. A, title V, § 554(b), Dec. 18, 2025, 139 Stat. 877, provided that: “The mission of the Center for Strategic Deterrence and Weapons of Mass Destruction Studies established under such paragraph [probably should be “subsection (a)”] shall be to— “(1) prepare national security leaders to address the challenges of strategic deterrence and weapons of mass destruction through education, research, and outreach activities throughout the Federal Government; “(2) develop leaders with an understanding of strategic deterrence and the implications of weapons of mass destruction; “(3) in accordance with guidance provided by the Chairman of the Joint Chiefs of Staff, develop and provide appropriate curricula, learning outcomes, and educational tools relating to strategic deterrence and weapons of mass destruction for use at institutions that provide joint professional military education; “(4) serve as the primary institution within the Department of Defense for the study of strategic deterrence and weapons of mass destruction education in joint professional military education; “(5) design, develop, and implement studies and analyses to enhance understanding of—“(A) strategic deterrence; “(B) the threat of weapons of mass destruction to the security of the United States and globally; and “(C) responses to prevent, mitigate, or eliminate the threat in accordance with Department and national security policies and strategies; and “(6) provide expert support on strategic deterrence and weapons of mass destruction issues to the Secretary of Defense and other Federal Government leaders.”
 
 #### Center for the Study of Chinese Military Affairs
 Pub. L. 106–65, div. A, title IX, § 914, Oct. 5, 1999, 113 Stat. 721, provided that: “(a) Establishment.—The Secretary of Defense shall establish a Center for the Study of Chinese Military Affairs as part of the National Defense University. The Center shall be organized under the Institute for National Strategic Studies of the University. “(b) Qualifications of Director.—The Director of the Center shall be an individual who is a distinguished scholar of proven academic, management, and leadership credentials with a superior record of achievement and publication regarding Chinese political, strategic, and military affairs. “(c) Mission.—The mission of the Center is to study and inform policymakers in the Department of Defense, Congress, and throughout the Government regarding the national goals and strategic posture of the People’s Republic of China and the ability of that nation to develop, field, and deploy an effective military instrument in support of its national strategic objectives. The Center shall accomplish that mission by a variety of means intended to widely disseminate the research findings of the Center. “(d) Startup of Center.—The Secretary of Defense shall establish the Center for the Study of Chinese Military Affairs not later than March 1, 2000. The first Director of the Center shall be appointed not later than June 1, 2000. The Center should be fully operational not later than June 1, 2001. “(e) Implementation Report.—(1) Not later than January 1, 2001, the President of the National Defense University shall submit to the Secretary of Defense a report setting forth the President’s organizational plan for the Center for the Study of Chinese Military Affairs, the proposed budget for the Center, and the timetable for initial and full operations of the Center. The President of the National Defense University shall prepare that report in consultation with the Director of the Center and the Director of the Institute for National Strategic Studies of the University. “(2) The Secretary of Defense shall transmit the report under paragraph (1), together with whatever comments the Secretary considers appropriate, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not later than February 1, 2001.”

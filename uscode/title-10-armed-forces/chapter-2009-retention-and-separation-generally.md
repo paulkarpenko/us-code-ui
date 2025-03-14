@@ -10,7 +10,7 @@ source: >-
 ## § 20401. Applicability of certain provisions of law related to separation
 **(a) Officer Separation.—** Except as specified in this section or otherwise modified in this chapter, the provisions of chapter 59 of this title applicable to officers of a regular component shall apply to officers of the Space Force.
 
-**(b)** Except as specified in this section or otherwise modified in this chapter, the provisions of sections 1169, 1170, 1171, 1173, 1174(b) 11 So in original. Probably should be followed by “, and”. 1176(a) of chapter 59 of this title applicable to enlisted members of a regular component shall apply to enlisted members of the Space Force.
+**(b)** Except as specified in this section or otherwise modified in this chapter, the provisions of sections 1169, 1170, 1171, 1173, 1174(b), and 1176(a) of chapter 59 of this title applicable to enlisted members of a regular component shall apply to enlisted members of the Space Force.
 
 **(c)** The provisions of [section 1172 of this title](./chapter-059-separation.md#section-1172) pertaining to a person enlisted under [section 518 of this title](./chapter-031-enlistments.md#section-518) shall apply to an enlisted member of the Space Force.
 
@@ -29,6 +29,11 @@ source: >-
 (1) pertaining to a regular enlisted member shall apply to an enlisted member of the Space Force serving on sustained duty; and
 
 (2) pertaining to a reserve enlisted member serving in an active status shall apply to an enlisted member of the Space Force serving in a space force active status or on sustained duty.
+
+### Statutory Notes
+
+#### Amendments
+2024—Subsec. (b). Pub. L. 118–159 inserted “, and” after “1174(b)”.
 
 
 <a id="section-20402"></a>
@@ -63,7 +68,7 @@ source: >-
 
 <a id="section-20404"></a>
 ## § 20404. Selection of officers for early retirement or discharge
-**(a) Consideration for Early Retirement.—** The Secretary of the Air Force may convene selection boards under [section 20211(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20211/b&num=0&edition=prelim) to consider for early retirement officers on the space force 11 So in original. Probably should be “Space Force”. officer list as follows:
+**(a) Consideration for Early Retirement.—** The Secretary of the Air Force may convene selection boards under [section 20211(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20211/b&num=0&edition=prelim) to consider for early retirement officers on the Space Force officer list as follows:
 
 (1) Officers in the grade of lieutenant colonel who have failed of selection for promotion at least one time and whose names are not on a list of officers recommended for promotion.
 
@@ -77,7 +82,7 @@ source: >-
 
 **(b) Consideration for Discharge.—**
 
-(1) The Secretary of the Air Force may convene selection boards under [section 20211 of this title](./chapter-2005-officers.md#section-20211) to consider for discharge officers on the space force 1 officer list—
+(1) The Secretary of the Air Force may convene selection boards under [section 20211 of this title](./chapter-2005-officers.md#section-20211) to consider for discharge officers on the Space Force officer list—
 
   (A) who have served at least one year of active status in the grade currently held;
 
@@ -95,6 +100,9 @@ source: >-
 
 #### References in Text
 Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (b)(1)(C), is section 4403 of Pub. L. 102–484, which is set out as a note under [section 1293 of this title](./chapter-065-retirement-of-warrant-officers-for-length-of-service.md#section-1293).
+
+#### Amendments
+2024—Subsecs. (a), (b)(1). Pub. L. 118–159 substituted “Space Force” for “space force” in introductory provisions.
 
 
 <a id="section-20405"></a>

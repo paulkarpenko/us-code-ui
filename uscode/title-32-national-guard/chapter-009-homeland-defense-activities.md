@@ -108,9 +108,13 @@ Nothing in this chapter shall be construed as a limitation on the authority of a
 
 (4) A description of the effect on military training and readiness of using units and personnel of the National Guard to perform homeland defense activities under this chapter.
 
+(5) A description of the effect of any equipment shortfall on the ability of the National Guard of a State to perform a homeland defense activity.
+
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b)(5). Pub. L. 119–60 added par. (5).
+
 2011—Subsec. (a). Pub. L. 112–81 substituted “After the end of any fiscal year during which any assistance was provided or activities were carried out under this chapter,” for “After the end of each fiscal year,”.
 
 2006—Subsec. (b)(1). Pub. L. 109–364 substituted “(i)(13)” for “(i)”.

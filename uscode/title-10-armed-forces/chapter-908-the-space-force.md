@@ -2,7 +2,7 @@
 title: 10
 chapter: '908'
 heading: THE SPACE FORCE
-section_count: 6
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -83,6 +83,9 @@ Pub. L. 116–92, div. A, title IX, § 952(a), Dec. 20, 2019, 133 Stat. 1561, pr
 #### Effective Date of 2023 Amendment
 Pub. L. 118–31, div. A, title XVII, § 1712(b), Dec. 22, 2023, 137 Stat. 625, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the certification by the Secretary of the Air Force under section 1745 [probably means section “1735” of Pub. L. 118–31, set out in a Transition Provisions note under [section 20001 of this title](./chapter-2001-space-force-personnel-system.md#section-20001)].”
 
+#### Pilot Program To Demonstrate Hybrid Satellite Communication Architecture
+Pub. L. 118–159, div. A, title XVI, § 1608, Dec. 23, 2024, 138 Stat. 2163, provided that: “(a) Program Required.—Beginning in fiscal year 2025, the Assistant Secretary of the Air Force for Space Acquisition and Integration shall carry out a pilot program to demonstrate a hybrid satellite communication architecture at the Space Systems Command of the Space Force. “(b) Requirements and Considerations.—In carrying out the pilot program under subsection (a), the Assistant Secretary shall include in the hybrid satellite communication architecture at least one military satellite communications system, such as the Wideband Global Satcom system or the Micro Geostationary Earth Orbit system. “(c) Briefing.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Assistant Secretary shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing that includes—“(1) a description of the hybrid satellite communication architecture developed under the pilot program under subsection (a) and a summary of the results of the program as of the date of the briefing; and “(2) a plan for supporting the transition of the hybrid satellite communication architecture efforts to a program of record within the Space Force and the Space Systems Command. “(d) Hybrid Satellite Communication Architecture.—In this section, the term ‘hybrid satellite communication architecture’ means the network of integrated United States Government, allied Government, and commercially owned and operated capabilities both for on-orbit communication constellations and ground systems.”
+
 #### Authorization for Establishment of the National Space Intelligence Center as a Field Operating Agency
 Pub. L. 118–31, div. A, title XVI, § 1606, Dec. 22, 2023, 137 Stat. 586, provided that: “(a) Authorization.—The Secretary of the Air Force may establish the National Space Intelligence Center as a field operating agency of the Space Force to analyze and produce scientific and technical intelligence on space-based and counterspace threats from foreign adversaries. “(b) Colocation.—If the Secretary of the Air Force decides to establish the National Space Intelligence Center as a field operating agency, the Secretary shall consider the operational and geographical benefits provided by colocating with the National Air and Space Intelligence Center.”
 
@@ -90,7 +93,7 @@ Pub. L. 118–31, div. A, title XVI, § 1606, Dec. 22, 2023, 137 Stat. 586, prov
 Pub. L. 117–263, div. A, title XVI, § 1607, Dec. 23, 2022, 136 Stat. 2932, provided that: “(a) In General.—The Secretary of the Air Force and the Chief of Space Operations, in coordination with the Chief Technology and Innovation Office of the Space Force, may carry out applied research and educational activities to support space technology development. “(b) Activities.—Activities carried out under subsection (a) shall support the applied research, development, and demonstration needs of the Space Force, including by addressing and facilitating the advancement of capabilities related to—“(1) space domain awareness; “(2) positioning, navigation, and timing; “(3) communications; “(4) hypersonics; “(5) cybersecurity; and “(6) any other matter the Secretary of the Air Force considers relevant. “(c) Education and Training.—Activities carried out under subsection (a) shall—“(1) promote education and training for students so as to support the future national security space workforce of the United States; and “(2) explore opportunities for international collaboration. “(d) Termination.—The authority provided by this section shall expire on December 31, 2027.”
 
 #### Space System Acquisition and the Adaptive Acquisition Framework
-Pub. L. 116–283, div. A, title VIII, § 807, Jan. 1, 2021, 134 Stat. 3742, provided that: “(a) Service Acquisition Executive for Space Systems and Programs.—Before implementing the application of the adaptive acquisition framework to a Space Systems Acquisition pathway described in subsection (c), there shall be within the Department of the Air Force an individual serving as the Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs as required under section 957 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1566; [10 U.S.C. 9016](./chapter-903-department-of-the-air-force.md#section-9016) note). “(b) Milestone Decision Authority for United States Space Force.—“(1) Program executive officer.—The Service Acquisition Executive for Space Systems and Programs of the United States Space Force may further delegate authority to an appropriate program executive officer to serve as the milestone decision authority for major defense acquisition programs of the United States Space Force. “(2) Program manager.—The program executive officer assigned under paragraph (1) may further delegate authority over major systems to an appropriate program manager. “(c) Adaptive Acquisition Framework Application to Space Acquisition.—“(1) In general.—The Secretary of Defense shall take such actions necessary to ensure the adaptive acquisition framework (as described in Department of Defense Instruction 5000.02, ‘Operation of the Adaptive Acquisition Framework’) includes one or more pathways specifically tailored for Space Systems Acquisition in order to achieve faster acquisition, improve synchronization and more rapid fielding of critical end-to-end capabilities (including by using new commercial capabilities and services), while maintaining accountability for effective programs that are delivered on time and on budget. “(2) Goal.—The goal of the application of the adaptive acquisition framework to a Space Systems Acquisition pathway shall be to quickly and effectively acquire end-to-end space warfighting capabilities needed to address the requirements of the national defense strategy (as defined under [section 113(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim), United States Code). “(d) Report.—“(1) In general.—Not later than May 15, 2021, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the application of the adaptive acquisition framework to any Space Systems Acquisition pathway established under subsection (a) that includes the following:“(A) Proposed United States Space Force budget line items for fiscal year 2022, including—“(i) a comparison with budget line items for any major defense acquisition programs, middle tier acquisition programs, covered software programs, and major systems of the United States Space Force for three previous fiscal years; “(ii) existing and recommended measures to ensure sufficient transparency and accountability related to the performance of the Space Systems Acquisition pathway; and “(iii) proposed mechanisms to enable insight into the funding prioritization process and significant funding changes, including the independent cost estimate basis and full funding considerations for any major defense acquisition programs, middle tier acquisition programs, covered software programs, and major systems procured by the United States Space Force. “(B) Proposed revised, flexible, and streamlined options for joint requirements validation in order to be more responsive and innovative, while ensuring the ability of the Joint Chiefs of Staff to ensure top-level system requirements are properly prioritized to address joint-warfighting needs. “(C) A list of acquisition programs of the United States Space Force for which multiyear contracting authority under sections 2306b [now [10 U.S.C. 3501](./chapter-249-multiyear-contracts.md#section-3501)] or 2306c [now [10 U.S.C. 3531](./chapter-249-multiyear-contracts.md#section-3531)] of title 10, United States Code, is recommended. “(D) A list of space systems acquisition programs for which alternative acquisition pathways may be used. “(E) Policies or procedures for potential new pathways in the application of the adaptive acquisition framework to a Space Systems Acquisition with specific acquisition key decision points and reporting requirements for development, fielding, and sustainment activities that meet the requirements of the adaptive acquisition framework. “(F) An analysis of the need for updated determination authority for procurement of useable end items that are not weapon systems. “(G) Policies and a governance structure, for both the Office of the Secretary of Defense and each military department, for a separate United States Space Force budget topline, corporate process, and portfolio management process. “(H) An analysis of the risks and benefits of the delegation of the authority of the head of contracting activity authority to the Chief of Space Operations in a manner that would not expand the operations of the United States Space Force. “(2) Comptroller general review.—Not later than 60 days after the submission of the report required under paragraph (1), the Comptroller General of the United States shall review such report and submit to the congressional defense committees an analysis and recommendations based on such report. “(e) Definitions.—In this section:“(1) Covered software program.—The term ‘covered software program’ means an acquisition program or project that is carried out using the software acquisition pathway established under section 800 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1478; [10 U.S.C. 2223a](./chapter-131-planning-and-coordination.md#section-2223a) note). “(2) Major defense acquisition program.—The term ‘major defense acquisition program’ has the meaning given in [section 2430 of title 10](./chapter-chapter-144-chapter-chapter-144.md#section-2430), United States Code [now [10 U.S.C. 4201](./chapter-321-general-matters.md#section-4201)]. “(3) Major system.—The term ‘major system’ has the meaning given in [section 2302 of title 10](./chapter-chapter-137-chapter-chapter-137.md#section-2302), United States Code [now [10 U.S.C. 3041](./chapter-201-definitions.md#section-3041)]. “(4) Middle tier acquisition program.—The term ‘middle tier acquisition program’ means an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; [10 U.S.C. 2302](./chapter-chapter-137-chapter-chapter-137.md#section-2302) note). “(5) Milestone decision authority.—The term ‘milestone decision authority’ has the meaning given in [section 2431a of title 10](./chapter-chapter-144-chapter-chapter-144.md#section-2431a), United States Code [now [10 U.S.C. 4211](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4211)]. “(6) Program executive officer; program manager.—The terms ‘program executive officer’ and ‘program manager’ have the meanings given those terms, respectively, in [section 1737 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1737), United States Code.”
+Pub. L. 116–283, div. A, title VIII, § 807, Jan. 1, 2021, 134 Stat. 3742, as amended by Pub. L. 118–159, div. A, title VIII, §§ 804(c)(7), 805(c)(2), Dec. 23, 2024, 138 Stat. 1969, 1972; Pub. L. 119–60, div. A, title XVIII, §§ 1802(b)(1)(A), (B), 1805(b)(3), Dec. 18, 2025, 139 Stat. 1227, 1236, provided that: “(a) Service Acquisition Executive for Space Systems and Programs.—Before implementing the application of the adaptive acquisition framework to a Space Systems Acquisition pathway described in subsection (c), there shall be within the Department of the Air Force an individual serving as the Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs as required under section 957 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1566; [10 U.S.C. 9016](./chapter-903-department-of-the-air-force.md#section-9016) note). “(b) Milestone Decision Authority for United States Space Force.—“(1) Portfolio acquisition executive.—The Service Acquisition Executive for Space Systems and Programs of the United States Space Force may further delegate authority to an appropriate portfolio acquisition executive to serve as the milestone decision authority for major defense acquisition programs of the United States Space Force. “(2) Program manager.—The portfolio acquisition executive assigned under paragraph (1) may further delegate authority over major systems to an appropriate program manager. “(c) Adaptive Acquisition Framework Application to Space Acquisition.—“(1) In general.—The Secretary of Defense shall take such actions necessary to ensure the adaptive acquisition framework (as described in Department of Defense Instruction 5000.02, ‘Operation of the Adaptive Acquisition Framework’) includes one or more pathways specifically tailored for Space Systems Acquisition in order to achieve faster acquisition, improve synchronization and more rapid fielding of critical end-to-end capabilities (including by using new commercial capabilities and services), while maintaining accountability for effective programs that are delivered on time and on budget. “(2) Goal.—The goal of the application of the adaptive acquisition framework to a Space Systems Acquisition pathway shall be to quickly and effectively acquire end-to-end space warfighting capabilities needed to address the requirements of the national defense strategy (as defined under [section 113(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim), United States Code). “(d) Report.—“(1) In general.—Not later than May 15, 2021, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the application of the adaptive acquisition framework to any Space Systems Acquisition pathway established under subsection (a) that includes the following:“(A) Proposed United States Space Force budget line items for fiscal year 2022, including—“(i) a comparison with budget line items for any major defense acquisition programs, middle tier acquisition programs, covered software programs, and major systems of the United States Space Force for three previous fiscal years; “(ii) existing and recommended measures to ensure sufficient transparency and accountability related to the performance of the Space Systems Acquisition pathway; and “(iii) proposed mechanisms to enable insight into the funding prioritization process and significant funding changes, including the independent cost estimate basis and full funding considerations for any major defense acquisition programs, middle tier acquisition programs, covered software programs, and major systems procured by the United States Space Force. “(B) Proposed revised, flexible, and streamlined options for joint requirements validation in order to be more responsive and innovative, while ensuring the ability of the Joint Chiefs of Staff to ensure top-level system requirements are properly prioritized to address joint-warfighting needs. “(C) A list of acquisition programs of the United States Space Force for which multiyear contracting authority under sections 2306b [now [10 U.S.C. 3501](./chapter-249-multiyear-contracts.md#section-3501)] or 2306c [now [10 U.S.C. 3531](./chapter-249-multiyear-contracts.md#section-3531)] of title 10, United States Code, is recommended. “(D) A list of space systems acquisition programs for which alternative acquisition pathways may be used. “(E) Policies or procedures for potential new pathways in the application of the adaptive acquisition framework to a Space Systems Acquisition with specific acquisition key decision points and reporting requirements for development, fielding, and sustainment activities that meet the requirements of the adaptive acquisition framework. “(F) An analysis of the need for updated determination authority for procurement of useable end items that are not weapon systems. “(G) Policies and a governance structure, for both the Office of the Secretary of Defense and each military department, for a separate United States Space Force budget topline, corporate process, and portfolio management process. “(H) An analysis of the risks and benefits of the delegation of the authority of the head of contracting activity authority to the Chief of Space Operations in a manner that would not expand the operations of the United States Space Force. “(2) Comptroller general review.—Not later than 60 days after the submission of the report required under paragraph (1), the Comptroller General of the United States shall review such report and submit to the congressional defense committees an analysis and recommendations based on such report. “(e) Definitions.—In this section:“(1) Covered software program.—The term ‘covered software program’ means an acquisition program or project that is carried out using the software acquisition pathway established under [section 3603 of title 10](./chapter-253-rapid-acquisition-procedures.md#section-3603), United States Code. “(2) Major defense acquisition program.—The term ‘major defense acquisition program’ has the meaning given in [section 2430 of title 10](./chapter-chapter-144-chapter-chapter-144.md#section-2430), United States Code [now [10 U.S.C. 4201](./chapter-321-general-matters.md#section-4201)]. “(3) Major system.—The term ‘major system’ has the meaning given in [section 2302 of title 10](./chapter-chapter-137-chapter-chapter-137.md#section-2302), United States Code [now [10 U.S.C. 3041](./chapter-201-definitions.md#section-3041)]. “(4) Middle tier acquisition program.—The term ‘middle tier acquisition program’ means an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under [section 3602 of title 10](./chapter-253-rapid-acquisition-procedures.md#section-3602), United States Code. “(5) Milestone decision authority.—The term ‘milestone decision authority’ has the meaning given the term ‘decision authority’ in [section 4211 of title 10](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4211), United States Code. “(6) Portfolio acquisition executive; program manager.—The terms ‘portfolio acquisition executive’ and ‘program manager’ have the meanings given those terms, respectively, in [section 1737 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1737), United States Code.”
 
 #### Members
 Pub. L. 116–92, div. A, title IX, § 952(d), Dec. 20, 2019, 133 Stat. 1562, provided that: “(1) In general.—Effective as of the date of the enactment of this Act [Dec. 20, 2019], there shall be assigned to the Space Force such members of the Air Force as the Secretary of the Air Force shall specify. “(2) No authorization of additional military billets.—The Secretary shall carry out this subsection within military personnel of the Air Force otherwise authorized by this Act. Nothing in this subsection shall be construed to authorize additional military billets for the purposes of, or in connection with, the establishment of the Space Force.”
@@ -184,7 +187,7 @@ Donald J. Trump.
 ## § 9082. Chief of Space Operations
 **(a) Appointment.—**
 
-(1) There is a Chief of Space Operations, appointed by the President, by and with the advice and consent of the Senate, from the general, flag, or equivalent officers of the Space Force. The Chief serves at the pleasure of the President.
+(1) There is a Chief of Space Operations, appointed by the President, by and with the advice and consent of the Senate, from the general officers of the Space Force. The Chief serves at the pleasure of the President.
 
 (2) The Chief shall be appointed for a term of four years. In time of war or during a national emergency declared by Congress, the Chief may be reappointed for a term of not more than four years.
 
@@ -192,11 +195,11 @@ Donald J. Trump.
 
   (A) the officer has had significant experience in joint duty assignments; and
 
-  (B) such experience includes at least one full tour of duty in a joint duty assignment (as defined in [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim)) as a general, flag, or equivalent officer of the Space Force.
+  (B) such experience includes at least one full tour of duty in a joint duty assignment (as defined in [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim)) as a general officer of the Space Force.
 
 (4) The President may waive paragraph (3) in the case of an officer if the President determines such action is necessary in the national interest.
 
-**(b) Grade.—** The Chief, while so serving, has the grade in the Space Force equivalent to the grade of general in the Army, Air Force, and Marine Corps, or admiral in the Navy without vacating the permanent grade of the officer.
+**(b) Grade.—** The Chief, while so serving, has the grade of general without vacating the permanent grade of the officer.
 
 **(c) Relationship to the Secretary of the Air Force.—** Except as otherwise prescribed by law and subject to [section 9013(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9013/f&num=0&edition=prelim), the Chief performs the duties of such position under the authority, direction, and control of the Secretary of the Air Force and is directly responsible to the Secretary.
 
@@ -222,9 +225,25 @@ Donald J. Trump.
 
 (3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief shall keep the Secretary of the Air Force fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
+**(f) Vacancy in Position of Chief of Space Operations.—** When there is a vacancy in the position of Chief of Space Operations or during the absence or disability of the Chief of Space Operations—
+
+(1) the Vice Chief of Space Operations shall perform the duties of the Chief of Space Operations until a successor is appointed or the absence or disability ceases; or
+
+(2) if there is a vacancy in the position of the Vice Chief of Space Operations or the Vice Chief of Space Operations is absent or disabled, unless the President directs otherwise, the most senior officer of the Space Force in the Space Staff who is not absent or disabled and who is not restricted in performance of duty shall perform the duties of the Chief of Space Operations until the earliest of—
+
+  (A) the appointment of a successor to the Chief of Space Operations or the Vice Chief of Space Operations; or
+
+  (B) the cessation of the absence or disability of the Chief of Space Operations or Vice Chief of Space Operations.
+
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a)(1), (3)(B). Pub. L. 118–159, § 521(j)(1), struck out “, flag, or equivalent” after “general”.
+
+Subsec. (b). Pub. L. 118–159, § 521(j)(2), substituted “grade of general” for “grade in the Space Force equivalent to the grade of general in the Army, Air Force, and Marine Corps, or admiral in the Navy”.
+
+Subsec. (f). Pub. L. 118–159, § 509C(b), added subsec. (f).
+
 2023—Subsec. (d)(5). Pub. L. 118–31, § 1741(b)(7)(A), substituted “sections 171 and 3104 of this title and other provisions of law” for “sections 171, 1808(a), and 1847(e)(4)(B), (5) of this title and other provision of law”.
 
 Subsec. (e)(1). Pub. L. 118–31, § 1741(b)(7)(B), substituted “The Chief” for “Commencing one year after the date of the enactment of the United States Space Force Act, the Chief”.
@@ -252,7 +271,23 @@ Pub. L. 116–92, div. A, title IX, § 953(b), Dec. 20, 2019, 133 Stat. 1564, pr
 
 
 <a id="section-9083"></a>
-## § 9083. Office of the Chief of Space Operations: function; composition
+## § 9083. Vice Chief of Space Operations
+**(a) Appointment.—** There is a Vice Chief of Space Operations, appointed by the President, by and with the advice and consent of the Senate, from the general officers of the Space Force.
+
+**(b) Grade.—** The Vice Chief of Space Operations, while so serving, has the grade of general without vacating the permanent grade of the officer.
+
+**(c) Duties.—** The Vice Chief of Space Operations shall have such authorities and duties with respect to the Space Force as the Chief of Space Operations, with the approval of the Secretary of the Air Force, may delegate to or prescribe for the Vice Chief of Space Operations. Orders issued by the Vice Chief of Space Operations in performing such duties have the same effect as orders issued by the Chief of Space Operations.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 9083 was renumbered [section 9084 of this title](./chapter-908-the-space-force.md#section-9084).
+
+Another prior section 9083, added Pub. L. 107–107, div. A, title IX, § 912(a), Dec. 28, 2001, 115 Stat. 1196, § 8084; amended Pub. L. 108–375, div. A, title X, § 1084(d)(32), Oct. 28, 2004, 118 Stat. 2063; renumbered § 9084, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; renumbered § 9068, Pub. L. 116–92, div. A, title IX, § 952(b)(1), Dec. 20, 2019, 133 Stat. 1561; renumbered § 9083, Pub. L. 116–92, div. A, title IX, § 952(e), Dec. 20, 2019, 133 Stat. 1562, related to a career field for officers in the Air Force with technical competence in space-related matters, prior to repeal by Pub. L. 116–283, div. A, title IX, § 921(a), Jan. 1, 2021, 134 Stat. 3804.
+
+
+<a id="section-9084"></a>
+## § 9084. Office of the Chief of Space Operations: function; composition
 **(a) Function.—** There is in the executive part of the Department of the Air Force an Office of the Chief of Space Operations to assist the Secretary of the Air Force in carrying out the responsibilities of the Secretary.
 
 **(b) Composition.—** The Office of the Chief of Space Operations is composed of the following:
@@ -267,18 +302,26 @@ Pub. L. 116–92, div. A, title IX, § 953(b), Dec. 20, 2019, 133 Stat. 1564, pr
 
 ### Statutory Notes
 
+#### Codification
+Another section 9084 was renumbered [section 9087 of this title](./chapter-908-the-space-force.md#section-9087).
+
 #### Prior Provisions
-A prior section 9083, added Pub. L. 107–107, div. A, title IX, § 912(a), Dec. 28, 2001, 115 Stat. 1196, § 8084; amended Pub. L. 108–375, div. A, title X, § 1084(d)(32), Oct. 28, 2004, 118 Stat. 2063; renumbered § 9084, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; renumbered § 9068, Pub. L. 116–92, div. A, title IX, § 952(b)(1), Dec. 20, 2019, 133 Stat. 1561; renumbered § 9083, Pub. L. 116–92, div. A, title IX, § 952(e), Dec. 20, 2019, 133 Stat. 1562, which related to a career field for officers in the Air Force with technical competence in space-related matters, was repealed by Pub. L. 116–283, div. A, title IX, § 921(a), Jan. 1, 2021, 134 Stat. 3804.
+A prior section 9084 was renumbered [section 9085 of this title](./chapter-908-the-space-force.md#section-9085).
+
+Another prior section 9084 was successively renumbered section 9068, then 9083, of this title by Pub. L. 116–92, div. A, title IX, § 952(b)(1), (e), Dec. 20, 2019, 133 Stat. 1561, 1562, and was subsequently repealed by Pub. L. 116–283, div. A, title IX, § 921(a), Jan. 1, 2021, 134 Stat. 3804.
+
+#### Amendments
+2024—Pub. L. 118–159 renumbered [section 9083 of this title](./chapter-908-the-space-force.md#section-9083) as this section.
 
 #### Effective Date
 Pub. L. 116–283, div. A, title IX, § 921(c), Jan. 1, 2021, 134 Stat. 3805, provided that: “The amendments made by this section [enacting this section and [section 9084 of this title](./chapter-908-the-space-force.md#section-9084) relating to general duties of the Office of the Chief of Space Operations, repealing former [section 9083 of this title](./chapter-908-the-space-force.md#section-9083), and enacting provisions set out as a note below] shall take effect on the date on which the Secretary of the Air Force and the Chief of Space Operations jointly submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report detailing the functions that the headquarters staff of the Department of the Air Force will continue to perform in support of the Space Force.”
 
 #### No Authorization of Additional Military Billets
-Pub. L. 116–283, div. A, title IX, § 921(d), Jan. 1, 2021, 134 Stat. 3806, provided that: “The Secretary shall establish the Office of the Chief of Space Operations under [section 9083 of title 10](./chapter-908-the-space-force.md#section-9083), United States Code, as amended by subsection (a), using military personnel otherwise authorized. Nothing in this section [enacting this section and [section 9084 of this title](./chapter-908-the-space-force.md#section-9084) relating to general duties of the Office of the Chief of Space Operations, repealing former [section 9083 of this title](./chapter-908-the-space-force.md#section-9083), and enacting provisions set out as a note above] or the amendments made by this section shall be construed to authorize additional military billets for the purposes of, or in connection with, the establishment of the Office of the Chief of Space Operations.”
+Pub. L. 116–283, div. A, title IX, § 921(d), Jan. 1, 2021, 134 Stat. 3806, provided that: “The Secretary shall establish the Office of the Chief of Space Operations under [section 9083 of title 10](./chapter-908-the-space-force.md#section-9083), United States Code [now [10 U.S.C. 9084](./chapter-908-the-space-force.md#section-9084)], as amended by subsection (a), using military personnel otherwise authorized. Nothing in this section [enacting this section and [section 9084 of this title](./chapter-908-the-space-force.md#section-9084) relating to general duties of the Office of the Chief of Space Operations, repealing former [section 9083 of this title](./chapter-908-the-space-force.md#section-9083), and enacting provisions set out as a note above] or the amendments made by this section shall be construed to authorize additional military billets for the purposes of, or in connection with, the establishment of the Office of the Chief of Space Operations.”
 
 
-<a id="section-9084"></a>
-## § 9084. Office of the Chief of Space Operations: general duties
+<a id="section-9085"></a>
+## § 9085. Office of the Chief of Space Operations: general duties
 **(a) Professional Assistance.—** The Office of the Chief of Space Operations shall furnish professional assistance to the Secretary, the Under Secretary, and the Assistant Secretaries of the Air Force and to the Chief of Space Operations.
 
 **(b) Authorities.—** Under the authority, direction, and control of the Secretary of the Air Force, the Office of the Chief of Space Operations shall—
@@ -295,15 +338,15 @@ Pub. L. 116–283, div. A, title IX, § 921(d), Jan. 1, 2021, 134 Stat. 3806, pr
 
 ### Statutory Notes
 
-#### Codification
-Another section 9084 was renumbered [section 9086 of this title](./chapter-908-the-space-force.md#section-9086).
-
 #### Prior Provisions
-A prior section 9084 was successively renumbered section 9068, then 9083, of this title by Pub. L. 116–92, § 952(b)(1), (e).
+A prior section 9085 was renumbered [section 9086 of this title](./chapter-908-the-space-force.md#section-9086).
+
+#### Amendments
+2024—Pub. L. 118–159 renumbered [section 9084 of this title](./chapter-908-the-space-force.md#section-9084) as this section.
 
 
-<a id="section-9085"></a>
-## § 9085. Regular Space Force: composition
+<a id="section-9086"></a>
+## § 9086. Regular Space Force: composition
 **(a) In General.—** The Regular Space Force is the component of the Space Force that consists of persons whose continuous service on active duty in both peace and war is contemplated by law, and of retired members of the Regular Space Force.
 
 **(b) Composition.—** The Regular Space Force includes—
@@ -317,12 +360,18 @@ A prior section 9084 was successively renumbered section 9068, then 9083, of thi
 #### Repeal of Section
 Pub. L. 118–31, div. A, title XVII, § 1735(c), Dec. 22, 2023, 137 Stat. 677, provided that, effective on the date on which the certification by the Secretary of the Air Force is submitted under section 1735(a) of Pub. L. 118–31, this section is repealed.
 
+#### Prior Provisions
+A prior section 9086 was renumbered [section 9087 of this title](./chapter-908-the-space-force.md#section-9087).
+
+#### Amendments
+2024—Pub. L. 118–159 renumbered [section 9085 of this title](./chapter-908-the-space-force.md#section-9085) as this section.
+
 #### Effective Date of Repeal
 Repeal effective on the date on which the certification by the Secretary of the Air Force is submitted under section 1735(a) of Pub. L. 118–31, see section 1735(c)(2) of Pub. L. 118–31, set out in a Transitions Provisions note under [section 20001 of this title](./chapter-2001-space-force-personnel-system.md#section-20001).
 
 
-<a id="section-9086"></a>
-## § 9086. Space Development Agency
+<a id="section-9087"></a>
+## § 9087. Space Development Agency
 **(a) In General.—**
 
 (1) There is a Space Development Agency of the Department of Defense (in this section referred to as the “Agency”). The Director of the Space Development Agency shall be the head of the Agency.
@@ -383,12 +432,55 @@ Repeal effective on the date on which the certification by the Secretary of the 
 Section 1645 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(2), is section 1645 of Pub. L. 116–283, div. A, title XVI, Jan. 1, 2021, 134 Stat. 4064. Subsec. (g) of section 1645 amended provisions formerly set out as a note under [section 2431 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2431). Subsecs. (a) to (f) of section 1645 are not classified to the Code.
 
 #### Amendments
+2024—Pub. L. 118–159 renumbered [section 9086 of this title](./chapter-908-the-space-force.md#section-9086) as this section.
+
 2021—Pub. L. 117–81, § 1081(a)(33), renumbered [section 9084 of this title](./chapter-908-the-space-force.md#section-9084), as added by section 1601(a) of Pub. L. 116–283, as this section.
 
 Subsec. (d). Pub. L. 117–81, § 1603, added subsec. (d).
 
 #### Transition
-Pub. L. 116–283, div. A, title XVI, § 1601(d), Jan. 1, 2021, 134 Stat. 4042, provided that: “(1) Transfer.—Effective on October 1, 2022, the Secretary of Defense shall transfer the Space Development Agency from the Office of the Secretary of Defense to the Space Force. “(2) Funding, duties, responsibilities, and personnel.—Except as provided by [section 9084 of title 10](./chapter-908-the-space-force.md#section-9084), United States Code, the transfer under paragraph (1) of the Space Development Agency from the Office of the Secretary of Defense to the Space Force shall include the transfer of the funding, duties, responsibilities, and personnel of the Agency as of the day before the date of the transfer.”
+Pub. L. 116–283, div. A, title XVI, § 1601(d), Jan. 1, 2021, 134 Stat. 4042, provided that: “(1) Transfer.—Effective on October 1, 2022, the Secretary of Defense shall transfer the Space Development Agency from the Office of the Secretary of Defense to the Space Force. “(2) Funding, duties, responsibilities, and personnel.—Except as provided by [section 9084 of title 10](./chapter-908-the-space-force.md#section-9084), United States Code [now [10 U.S.C. 9085](./chapter-908-the-space-force.md#section-9085)], the transfer under paragraph (1) of the Space Development Agency from the Office of the Secretary of Defense to the Space Force shall include the transfer of the funding, duties, responsibilities, and personnel of the Agency as of the day before the date of the transfer.”
 
 #### Review of Space Development Agency Exemption From Joint Capabilities Integration and Development System
 Pub. L. 117–263, div. A, title XVI, § 1608, Dec. 23, 2022, 136 Stat. 2932, provided that: “(a) Review.—Not later than March 31, 2023, the Secretary of Defense shall complete a review regarding whether the Space Development Agency should be exempt from the Joint Capabilities Integration and Development System. “(b) Recommendation.—Not later than 30 days after the date on which the review under subsection (a) is completed, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a recommendation as to whether the exemption described in such subsection should apply to the Space Development Agency. “(c) Implementation.—Not later than 60 days after the date on which the recommendation is submitted under subsection (b), the Secretary of the Air Force and the Director of the Space Development Agency shall implement the recommendation.”
+
+
+<a id="section-9088"></a>
+## § 9088. Duty assignments after officer training course
+**(a) Requirement.—** The Secretary of the Air Force shall ensure that members of the Space Force who complete an initial Space Force officer training course are assigned—
+
+(1) in a manner that sustains acquisition billet manning levels comparably to operational billet manning levels; and
+
+(2) to Space Force billets allocated to the National Reconnaissance Office at a manning level that is sufficient to maintain effective operation of the National Reconnaissance Office.
+
+**(b) Report.—** Not later than 60 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2026, and not later than October 31 of each year through 2030, the Secretary of the Air Force shall submit to the Committees on Armed Forces of the Senate and the House of Representatives a report describing—
+
+(1) the number and percentage of authorized and assigned Space Force officer billets, by grade and year group, within—
+
+  (A) acquisition career fields; and
+
+  (B) operational career fields;
+
+(2) the manning rate for junior officer billets of the Space Force, disaggregated by career field and organization, including the National Reconnaissance Office;
+
+(3) any identified shortfalls or imbalances in acquisition manning relative to operational manning in the Space Force; and
+
+(4) actions taken or planned to achieve and sustain comparable manning levels for billets in acquisition and operations for Space Force officers.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2026, referred to in subsec. (b), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
+
+
+<a id="section-9089"></a>
+## § 9089. Program Executive Officer for Assured Access to Space
+**(a) Establishment.—**
+
+(1) There is a Program Executive Officer for Assured Access to Space within the Space Force.
+
+(2) The Program Executive Officer for Assured Access to Space shall serve a term of four years.
+
+**(b) Grade.—** The Program Executive Officer for Assured Access to Space, while so serving, shall have the grade of brigadier general, major general, lieutenant general, or general.
+
+**(c) Additional Duties.—** The Program Executive Officer for Assured Access to Space, while serving as the Program Executive Officer, shall also serve as the Commander of Space Launch Delta 45.

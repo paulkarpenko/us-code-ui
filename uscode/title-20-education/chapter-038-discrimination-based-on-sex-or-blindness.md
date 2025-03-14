@@ -77,24 +77,53 @@ Pub. L. 93–380, title VIII, § 844, Aug. 21, 1974, 88 Stat. 612, directed Secr
 #### Coordination of Implementation and Enforcement of Provisions
 For provisions relating to the coordination of implementation and enforcement of the provisions of this chapter by the Attorney General, see section 1–201(b) of Ex. Ord. No. 12250, Nov. 2, 1980, 45 F.R. 72995, set out under [section 2000d–1 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d–1&num=0&edition=prelim), The Public Health and Welfare.
 
-#### Ex. Ord. No. 14021. Guaranteeing an Educational Environment Free From Discrimination on the Basis of Sex, Including Sexual Orientation or Gender Identity
-Ex. Ord. No. 14021, Mar. 8, 2021, 86 F.R. 13803, provided:
+#### Executive Order No. 14021
+Ex. Ord. No. 14021, Mar. 8, 2021, 86 F.R. 13803, which related to guaranteeing an educational environment free from discrimination on the basis of sex, including sexual orientation or gender identity, was revoked by Ex. Ord. No. 14148, § 2(cc), Jan. 20, 2025, 90 F.R. 8238, and Ex. Ord. No. 14168, § 7(b), Jan. 20, 2025, 90 F.R. 8617.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+#### Ex. Ord. No. 14201. Keeping Men Out of Women’s Sports
+Ex. Ord. No. 14201, Feb. 5, 2025, 90 F.R. 9278, provided:
 
-Section 1. Policy. It is the policy of my Administration that all students should be guaranteed an educational environment free from discrimination on the basis of sex, including discrimination in the form of sexual harassment, which encompasses sexual violence, and including discrimination on the basis of sexual orientation or gender identity. For students attending schools and other educational institutions that receive Federal financial assistance, this guarantee is codified, in part, in Title IX of the Education Amendments of 1972, [20 U.S.C. 1681](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) et seq., which prohibits discrimination on the basis of sex in education programs or activities receiving Federal financial assistance.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to protect opportunities for women and girls to compete in safe and fair sports, it is hereby ordered:
 
-Sec. 2. Review of Agency Actions. (a) Within 100 days of the date of this order [Mar. 8, 2021], the Secretary of Education, in consultation with the Attorney General, shall review all existing regulations, orders, guidance documents, policies, and any other similar agency actions (collectively, agency actions) that are or may be inconsistent with the policy set forth in section 1 of this order, and provide the findings of this review to the Director of the Office of Management and Budget.
+Section 1. Policy and Purpose. In recent years, many educational institutions and athletic associations have allowed men to compete in women’s sports. This is demeaning, unfair, and dangerous to women and girls, and denies women and girls the equal opportunity to participate and excel in competitive sports.
 
-(i) As part of the review required under subsection (a) of this section, the Secretary of Education shall review the rule entitled “Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance,” 85 FR 30026 (May 19, 2020), and any other agency actions taken pursuant to that rule, for consistency with governing law, including Title IX, and with the policy set forth in section 1 of this order.
+Moreover, under Title IX of the Education Amendments Act [sic] of 1972 (Title IX) [[20 U.S.C. 1681](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) et seq.], educational institutions receiving Federal funds cannot deny women an equal opportunity to participate in sports. As some Federal courts have recognized, “ignoring fundamental biological truths between the two sexes deprives women and girls of meaningful access to educational facilities.” Tennessee v. Cardona, 24-cv-00072 at 73 (E.D. Ky. 2024). See also Kansas v. U.S. Dept. of Education, 24-cv-04041 at 23 (D. Kan. 2024) (highlighting “Congress’ goals of protecting biological women in education”).
 
-(ii) As soon as practicable, and as appropriate and consistent with applicable law, the Secretary of Education shall review existing guidance and issue new guidance as needed on the implementation of the rule described in subsection (a)(i) of this section, for consistency with governing law, including Title IX, and with the policy set forth in section 1 of this order.
+Therefore, it is the policy of the United States to rescind all funds from educational programs that deprive women and girls of fair athletic opportunities, which results in the endangerment, humiliation, and silencing of women and girls and deprives them of privacy. It shall also be the policy of the United States to oppose male competitive participation in women’s sports more broadly, as a matter of safety, fairness, dignity, and truth.
 
-(iii) The Secretary of Education shall consider suspending, revising, or rescinding—or publishing for notice and comment proposed rules suspending, revising, or rescinding—those agency actions that are inconsistent with the policy set forth in section 1 of this order as soon as practicable and as appropriate and consistent with applicable law, and may issue such requests for information as would facilitate doing so.
+Sec. 2. Definitions. The definitions in Executive Order 14168 of January 20, 2025 (Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government) [[5 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) note], shall apply to this order.
 
-(b) The Secretary of Education shall consider taking additional enforcement actions, as appropriate and consistent with applicable law, to enforce the policy set forth in section 1 of this order as well as legal prohibitions on sex discrimination in the form of sexual harassment, which encompasses sexual violence, to the fullest extent permissible under law; to account for intersecting forms of prohibited discrimination that can affect the availability of resources and support for students who have experienced sex discrimination, including discrimination on the basis of race, disability, and national origin; to account for the significant rates at which students who identify as lesbian, gay, bisexual, transgender, and queer (LGBTQ+) are subject to sexual harassment, which encompasses sexual violence; to ensure that educational institutions are providing appropriate support for students who have experienced sex discrimination; and to ensure that their school procedures are fair and equitable for all.
+Sec. 3. Preserving Women’s Sports in Education. (a) In furtherance of the purposes of Title IX, the Secretary of Education shall promptly:
 
-Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+(i) in coordination with the Attorney General, continue to comply with the vacatur of the rule entitled “Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance” of April 29, 2024, 89 FR 33474, see Tennessee v. Cardona, 24-cv-00072 at 13-15 (E.D. Ky. 2025), and take other appropriate action to ensure this regulation does not have effect;
+
+(ii) take all appropriate action to affirmatively protect all-female athletic opportunities and all-female locker rooms and thereby provide the equal opportunity guaranteed by Title IX of the Education Amendments Act of 1972, including enforcement actions described in subsection (iii); to bring regulations and policy guidance into line with the Congress’ existing demand for “equal athletic opportunity for members of both sexes” by clearly specifying and clarifying that women’s sports are reserved for women; and the resolution of pending litigation consistent with this policy; and
+
+(iii) prioritize Title IX enforcement actions against educational institutions (including athletic associations composed of or governed by such institutions) that deny female students an equal opportunity to participate in sports and athletic events by requiring them, in the women’s category, to compete with or against or to appear unclothed before males.
+
+(b) All executive departments and agencies (agencies) shall review grants to educational programs and, where appropriate, rescind funding to programs that fail to comply with the policy established in this order.
+
+(c) The Department of Justice shall provide all necessary resources, in accordance with law, to relevant agencies to ensure expeditious enforcement of the policy established in this order.
+
+Sec. 4. Preserving Fairness and Safety in Women’s Sports. Many sport-specific governing bodies have no official position or requirements regarding trans-identifying athletes. Others allow men to compete in women’s categories if these men reduce the testosterone in their bodies below certain levels or provide documentation of “sincerely held” gender identity. These policies are unfair to female athletes and do not protect female safety. To address these concerns, it is hereby ordered:
+
+(a) The Assistant to the President for Domestic Policy shall, within 60 days of the date of this order [Feb. 5, 2025]:
+
+(i) convene representatives of major athletic organizations and governing bodies, and female athletes harmed by such policies, to promote policies that are fair and safe, in the best interests of female athletes, and consistent with the requirements of Title IX, as applicable; and
+
+(ii) convene State Attorneys General to identify best practices in defining and enforcing equal opportunities for women to participate in sports and educate them about stories of women and girls who have been harmed by male participation in women’s sports.
+
+(b) The Secretary of State, including through the Bureau of Educational and Cultural Affairs’ Sports Diplomacy Division and the Representative of the United States of America to the United Nations, shall:
+
+(i) rescind support for and participation in people-to-people sports exchanges or other sports programs within which the relevant female sports category is based on identity and not sex; and
+
+(ii) promote, including at the United Nations, international rules and norms governing sports competition to protect a sex-based female sports category, and, at the discretion of the Secretary of State, convene international athletic organizations and governing bodies, and female athletes harmed by policies that allow male participation in women’s sports, to promote sporting policies that are fair, safe, and in furtherance of the best interests of female athletes.
+
+(c) The Secretary of State and the Secretary of Homeland Security shall review and adjust, as needed, policies permitting admission to the United States of males seeking to participate in women’s sports, and shall issue guidance with an objective of preventing such entry to the extent permitted by law, including pursuant to section 212(a)(6)(C)(i) of the Immigration and Nationality Act ([8 U.S.C. 1182(a)(6)(C)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/a/6/C/i&num=0&edition=prelim)).
+
+(d) The Secretary of State shall use all appropriate and available measures to see that the International Olympic Committee amends the standards governing Olympic sporting events to promote fairness, safety, and the best interests of female athletes by ensuring that eligibility for participation in women’s sporting events is determined according to sex and not gender identity or testosterone reduction.
+
+Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
 (i) the authority granted by law to an executive department or agency, or the head thereof; or
 
@@ -104,7 +133,9 @@ Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impa
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-J.R. Biden, Jr.
+(d) If any provision of this order, or the application of any provision to any person or circumstance, is held to be invalid, the remainder of this order and the application of its provisions to any other persons or circumstances shall not be affected thereby.
+
+Donald J. Trump.
 
 
 <a id="section-1682"></a>

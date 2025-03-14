@@ -127,9 +127,9 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 #### References in Text
 The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (a)(7), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
 
-The United States Housing Act of 1937, referred to in subsec. (b), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
+The United States Housing Act of 1937, referred to in subsec. (b), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
 
-[Section 1504 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1504&num=0&edition=prelim), referred to in subsec. (b)(1), was repealed by Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188, as amended.
+[Section 1504 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1504&num=0&edition=prelim), referred to in subsec. (b)(1), was repealed by Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188.
 
 #### Amendments
 1998—Subsec. (a)(4)(A). Pub. L. 105–276, § 586(d)(1)(A), substituted “drug-related or violent crime in and around” for “drug-related crime on or about”.
@@ -229,7 +229,7 @@ The Native American Housing Assistance and Self-Determination Act of 1996, refer
 
 Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (b)(2)(A), is section 503(a) of Pub. L. 105–276, which is set out as an Effective Date of 1998 Amendment note under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437).
 
-[Section 1504 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1504&num=0&edition=prelim), referred to in subsec. (e), was repealed by Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188, as amended.
+[Section 1504 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1504&num=0&edition=prelim), referred to in subsec. (e), was repealed by Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188.
 
 #### Amendments
 1998—Subsec. (a). Pub. L. 105–276, § 586(e)(1), substituted “recipient of assistance under the Native American Housing Assistance and Self-Determination Act of 1996” for “tribally designated housing entity” in first sentence and “or violent crime in and around” for “crime on the premises” in second sentence, and inserted before period at end “, which plan shall be coordinated with and may be included in the public housing agency plan submitted to the Secretary pursuant to [section 1437c–1 of this title](./chapter-008-low-income-housing.md#section-1437c-1)”.

@@ -2,14 +2,22 @@
 title: 54
 chapter: '3081'
 heading: Chapter 3081
-section_count: 5
+section_count: 6
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54&num=0&edition=prelim
 ---
 <a id="section-308101"></a>
-## § 308101. Definition
+## § 308101. Definitions
 
-In this chapter, the term “Secretary” means the Secretary, acting through the American Battlefield Protection Program.
+In this chapter:
+
+(1) **Secretary.—** — The term “Secretary” means the Secretary, acting through the American Battlefield Protection Program.
+
+(2) **Battlefield reports.—** — The term “Battlefield Reports” means, collectively—
+
+  (A) the document entitled “Report on the Nation’s Civil War Battlefields”, prepared by the Civil War Sites Advisory Commission, and dated July 1993; and
+
+  (B) the document entitled “Report to Congress on the Historic Preservation of Revolutionary War and War of 1812 Sites in the United States”, prepared by the National Park Service, and dated September 2007.
 
 ### Statutory Notes
 
@@ -18,13 +26,16 @@ In this chapter, the term “Secretary” means the Secretary, acting through th
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 308101 | [16 U.S.C. 469k–1(c)(1)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/c/1/D&num=0&edition=prelim). | Pub. L. 111–11, title VII, subtitle D, § 7301(c)(1)(D), Mar. 30, 2009, 123 Stat. 1213. |
 
+#### Amendments
+2025—Pub. L. 118–234 amended section generally. Prior to amendment, section defined “Secretary”.
+
 #### Purpose
 Pub. L. 111–11, title VII, § 7301(a), Mar. 30, 2009, 123 Stat. 1213, provided that: “The purpose of this section [enacting former [section 469k–1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1&num=0&edition=prelim), Conservation] is to assist citizens, public and private institutions, and governments at all levels in planning, interpreting, and protecting sites where historic battles were fought on American soil during the armed conflicts that shaped the growth and development of the United States, in order that present and future generations may learn and gain inspiration from the ground where Americans made their ultimate sacrifice.”
 
 
 <a id="section-308102"></a>
 ## § 308102. Preservation assistance
-**(a) In General.—** Using the established national historic preservation program to the extent practicable, the Secretary shall encourage, support, assist, recognize, and work in partnership with citizens, Federal, State, local, and tribal governments, other public entities, educational institutions, and private nonprofit organizations in identifying, researching, evaluating, interpreting, and protecting historic battlefields and associated sites on a national, State, and local level.
+**(a) In General.—** Using the established national historic preservation program to the extent practicable, the Secretary shall encourage, support, assist, recognize, and work in partnership with citizens, Federal agencies, States, Tribes, local governments, other public entities, educational institutions, and nonprofit organizations in identifying, researching, evaluating, interpreting, and protecting historic battlefields and associated sites on a national, State, and local level.
 
 **(b) Financial Assistance.—** To carry out subsection (a), the Secretary may use a cooperative agreement, grant, contract, or other generally adopted means of providing financial assistance.
 
@@ -37,22 +48,29 @@ Pub. L. 111–11, title VII, § 7301(a), Mar. 30, 2009, 123 Stat. 1213, provided
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 308102 | [16 U.S.C. 469k–1(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/b&num=0&edition=prelim). | Pub. L. 111–11, title VII, subtitle D, § 7301(b), Mar. 30, 2009, 123 Stat. 1213. |
 
+#### Amendments
+2025—Subsec. (a). Pub. L. 118–234 substituted “Federal agencies, States, Tribes, local governments, other public entities, educational institutions, and nonprofit organizations” for “Federal, State, local, and tribal governments, other public entities, educational institutions, and private nonprofit organizations”.
+
 
 <a id="section-308103"></a>
 ## § 308103. Battlefield acquisition grant program
-**(a) Definition.—** In this section, the term “eligible site” means a site—
+**(a) Eligible Site Defined.—** In this section, the term “eligible site”—
 
-(1) that is not within the exterior boundaries of a System unit; and
+(1) means a site that—
 
-(2) that is identified in the document entitled “Report on the Nation’s Civil War Battlefields”, prepared by the Civil War Sites Advisory Commission, and dated July 1993.
+  (A) is not within the exterior boundaries of a unit of the National Park System; and
 
-**(b) Establishment.—** The Secretary shall establish a battlefield acquisition grant program under which the Secretary may provide grants to State and local governments to pay the Federal share of the cost of acquiring interests in eligible sites for the preservation and protection of those eligible sites.
+  (B) is identified in the Battlefield Reports as a battlefield; and
 
-**(c) Nonprofit Partners.—** A State or local government may acquire an interest in an eligible site using a grant under this section in partnership with a nonprofit organization.
+(2) excludes sites identified in the Battlefield Reports as associated historic sites.
+
+**(b) Establishment.—** The Secretary shall establish a battlefield acquisition grant program under which the Secretary may provide grants to States, Tribes, local governments, and nonprofit organizations to pay the Federal share of the cost of acquiring interests in eligible sites for the preservation and protection of those eligible sites.
+
+**(c) Nonprofit Partners.—** A State, Tribe, or local government may acquire an interest in an eligible site using a grant under this section in partnership with a nonprofit organization.
 
 **(d) Non-Federal Share.—** The non-Federal share of the total cost of acquiring an interest in an eligible site under this section shall be not less than 50 percent.
 
-**(e) Limitation on Land Use.—** An interest in an eligible site acquired under this section shall be subject to [section 200305(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200305/f/3&num=0&edition=prelim).
+**(e) Limitation on Land Use.—** An interest in an eligible site acquired under this section, including by States, Tribes, local governments, and nonprofit organizations, shall be subject to [section 200305(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200305/f/3&num=0&edition=prelim).
 
 **(f) Authorization of Appropriations.—** There is authorized to be appropriated to the Secretary to provide grants under this section $18,000,000 for each of fiscal years 2020 through 2028.
 
@@ -114,6 +132,14 @@ Subsec. (c) of former [section 469k–1 of Title 16](https://uscode.house.gov/vi
 In subsection (f), reference to fiscal years 2009 to 2011 is omitted as obsolete.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 118–234, § 157(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) defined “eligible site”.
+
+Subsec. (b). Pub. L. 118–234, § 157(c)(2), substituted “States, Tribes, local governments, and nonprofit organizations” for “State and local governments”.
+
+Subsec. (c). Pub. L. 118–234, § 157(c)(3), substituted “State, Tribe, or local government” for “State or local government”.
+
+Subsec. (e). Pub. L. 118–234, § 157(c)(4), substituted “under this section, including by States, Tribes, local governments, and nonprofit organizations,” for “under this section”.
+
 2019—Subsec. (f). Pub. L. 116–94 substituted “$18,000,000 for each of fiscal years 2020 through 2028” for “$10,000,000 for each of fiscal years 2012 and 2013”.
 
 
@@ -130,12 +156,52 @@ In subsection (f), reference to fiscal years 2009 to 2011 is omitted as obsolete
 
 <a id="section-308105"></a>
 ## § 308105. Battlefield restoration grant program
-**(a) Establishment.—** The Secretary shall establish a battlefield restoration grant program (referred to in this section as the “program”) under which the Secretary may provide grants to States, Tribes, local governments, and nonprofit organizations for projects that restore day-of-battle conditions on land preserved under the battlefield acquisition grant program established under section 308103(b).
+**(a) Establishment.—** The Secretary shall establish a battlefield restoration grant program (referred to in this section as the “program”) under which the Secretary may provide grants to States, Tribes, local governments, and nonprofit organizations for projects that restore day-of-battle conditions on—
 
-**(b) Eligible Sites.—** The Secretary may make grants under this section for Revolutionary War, War of 1812, and Civil War battlefield sites eligible for assistance under the battlefield acquisition grant program established under section 308103(b).
+(1) land preserved and protected under the battlefield acquisition grant program established under section 308103(b); or
+
+(2) battlefield land that is—
+
+  (A) owned by a State, Tribe, local government, or nonprofit organization; and
+
+  (B) referred to in the Battlefield Reports.
+
+**(b) Eligible Sites.—** The Secretary may make grants under this section for Revolutionary War, War of 1812, and Civil War battlefield sites—
+
+(1) eligible for assistance under the battlefield acquisition grant program established under section 308103(b); or
+
+(2) on battlefield land that is—
+
+  (A) owned by a State, Tribe, local government, or nonprofit organization; and
+
+  (B) referred to in battlefield reports.
 
 **(c) Federal Share.—** The Federal share of the cost of a restoration project funded through a grant provided under the program shall be not more than 50 percent of the total cost of the project.
 
 **(d) Restoration Standards.—** All restoration work carried out through a grant awarded under the program shall be performed in accordance with the Secretary of the Interior’s Standards for the Treatment of Historic Properties under part 68 of title 36, Code of Federal Regulations (or successor regulations).
 
 **(e) Authorization of Appropriations.—** There is authorized to be appropriated to the Secretary to provide grants under this section $1,000,000 for each of fiscal years 2020 through 2028.
+
+### Statutory Notes
+
+#### Amendments
+2025—Subsec. (a). Pub. L. 118–234, § 157(d)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary shall establish a battlefield restoration grant program (referred to in this section as the “program”) under which the Secretary may provide grants to States, Tribes, local governments, and nonprofit organizations for projects that restore day-of-battle conditions on land preserved under the battlefield acquisition grant program established under section 308103(b).”
+
+Subsec. (b). Pub. L. 118–234, § 157(d)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Secretary may make grants under this section for Revolutionary War, War of 1812, and Civil War battlefield sites eligible for assistance under the battlefield acquisition grant program established under section 308103(b).”
+
+
+<a id="section-308106"></a>
+## § 308106. Updates and improvements to Battlefield Reports
+
+Not later than 2 years after the date of the enactment of this section, and every 10 years thereafter, the Secretary shall submit to Congress a report that updates the Battlefield Reports to reflect—
+
+(1) preservation activities carried out at the battlefields in the period since the publication of the most recent Battlefield Reports update;
+
+(2) changes in the condition, including core and study areas, of the battlefields during that period; and
+
+(3) any other relevant developments relating to the battlefields during that period.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in introductory provisions, is the date of enactment of Pub. L. 118–234, which was approved Jan. 4, 2025.

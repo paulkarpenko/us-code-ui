@@ -168,4 +168,9 @@ The word “further” is omitted as obsolete.
 
 (2) any other terms and conditions that the Secretary may require.
 
-**(c) Donations.—** The Secretary may authorize the donation and distribution of meat from wildlife management activities carried out under this section, including the donation and distribution to Indian Tribes, qualified volunteers, food banks, and other organizations that work to address hunger, in accordance with applicable health guidelines and such terms and conditions as the Secretary may require.
+**(c) Donations.—** The Secretary may authorize the donation and distribution of meat and any other part of an animal removed pursuant to wildlife management activities carried out under this section, including the donation and distribution to Indian Tribes, qualified volunteers, food banks, and other organizations that work to address hunger, in accordance with applicable health guidelines and such terms and conditions as the Secretary may require.
+
+### Statutory Notes
+
+#### Amendments
+2025—Subsec. (c). Pub. L. 118–234 substituted “meat and any other part of an animal removed pursuant to” for “meat from”.

@@ -2,7 +2,7 @@
 title: 40
 chapter: '157'
 heading: ADMINISTRATIVE PROVISIONS
-section_count: 10
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40&num=0&edition=prelim
 ---
@@ -48,7 +48,13 @@ Section effective on the first day of the first fiscal year beginning after June
 
     (ii) any other type of project, if a Commission determines that the project could bring significant benefits to areas of the region outside an attainment county.
 
-(3) **Isolated areas of distress.—** — For a designation of an isolated area of distress to be effective, the designation shall be supported—
+(3) **Application.—** — Paragraph (2) shall not apply to—
+
+  (A) a county described in paragraph (2) or (3) of section 15735; or
+
+  (B) the Southern New England Regional Commission.
+
+(4) **Isolated areas of distress.—** — For a designation of an isolated area of distress to be effective, the designation shall be supported—
 
   (A) by the most recent Federal data available; or
 
@@ -61,6 +67,13 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+2025—Subsec. (c)(3). Pub. L. 118–272, § 2250(c), inserted dash after “to” in introductory provisions and subpar. (A) designation before “a county”, substituted “; or” for period at end, and added subpar. (B).
+
+Pub. L. 118–272, § 2249(c)(2), added par. (3). Former par. (3) redesignated (4).
+
+Subsec. (c)(4). Pub. L. 118–272, § 2249(c)(1), redesignated par. (3) as (4).
 
 #### Effective Date
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under [section 15101 of this title](./chapter-151-general-provisions.md#section-15101).
@@ -153,14 +166,19 @@ The region of the Southwest Border Regional Commission shall consist of the foll
 
 (2) **California.—** — The counties of Imperial, Los Angeles, Orange, Riverside, San Bernardino, San Diego, and Ventura in the State of California.
 
-(3) **New mexico.—** — The counties of Catron, Chaves, Dona Ana, Eddy, Grant, Hidalgo, Lincoln, Luna, Otero, Sierra, and Socorro in the State of New Mexico.
+(3) **New mexico.—** — The counties of Bernalillo, Catron, Chaves, Cibola, Curry, De Baca, Dona Ana, Eddy, Grant, Guadalupe, Hidalgo, Lea, Lincoln, Luna, Otero, Roosevelt, Sierra, Socorro, Torrance, and Valencia in the State of New Mexico.
 
-(4) **Texas.—** — The counties of Atascosa, Bandera, Bee, Bexar, Brewster, Brooks, Cameron, Coke, Concho, Crane, Crockett, Culberson, Dimmit, Duval, Ector, Edwards, El Paso, Frio, Gillespie, Glasscock, Hidalgo, Hudspeth, Irion, Jeff Davis, Jim Hogg, Jim Wells, Karnes, Kendall, Kenedy, Kerr, Kimble, Kinney, Kleberg, La Salle, Live Oak, Loving, Mason, Maverick, McMullen, Medina, Menard, Midland, Nueces, Pecos, Presidio, Reagan, Real, Reeves, San Patricio, Shleicher, Sutton, Starr, Sterling, Terrell, Tom Green 11 So in original. Probably should be followed by a comma. Upton, Uvalde, Val Verde, Ward, Webb, Willacy, Wilson, Winkler, Zapata, and Zavala in the State of Texas.
+(4) **Texas.—** — The counties of Atascosa, Bandera, Bee, Bexar, Brewster, Brooks, Cameron, Coke, Concho, Crane, Crockett, Culberson, Dimmit, Duval, Ector, Edwards, El Paso, Frio, Gillespie, Glasscock, Guadalupe, Hidalgo, Hudspeth, Irion, Jeff Davis, Jim Hogg, Jim Wells, Karnes, Kendall, Kenedy, Kerr, Kimble, Kinney, Kleberg, La Salle, Live Oak, Loving, Mason, Maverick, McMullen, Medina, Menard, Midland, Nueces, Pecos, Presidio, Reagan, Real, Reeves, San Patricio, Shleicher, Sutton, Starr, Sterling, Terrell, Tom Green, Upton, Uvalde, Val Verde, Ward, Webb, Willacy, Wilson, Winkler, Zapata, and Zavala in the State of Texas.
 
 ### Statutory Notes
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+2025—Par. (3). Pub. L. 118–272, § 2246(1), inserted “Bernalillo,” before “Catron,”, “Cibola, Curry, De Baca,” after “Chaves,”, “Guadalupe,” after “Grant,”, “Lea,” after “Hidalgo,”, and “Roosevelt,” after “Otero,” and substituted “Socorro, Torrance, and Valencia” for “and Socorro”.
+
+Par. (4). Pub. L. 118–272, § 2246(2), inserted “Guadalupe,” after “Glasscock,” and substituted “Tom Green, Upton,” for “Tom Green Upton,”.
 
 #### Effective Date
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under [section 15101 of this title](./chapter-151-general-provisions.md#section-15101).
@@ -171,11 +189,11 @@ Section effective on the first day of the first fiscal year beginning after June
 
 The region of the Northern Border Regional Commission shall include the following counties:
 
-(1) **Maine.—** — The counties of Androscoggin, Aroostook, Franklin, Hancock, Kennebec, Knox, Oxford, Penobscot, Piscataquis, Somerset, Waldo, and Washington in the State of Maine.
+(1) **Maine.—** — The counties of Androscoggin, Aroostook, Franklin, Hancock, Kennebec, Knox, Lincoln, Oxford, Penobscot, Piscataquis, Somerset, Waldo, and Washington in the State of Maine.
 
-(2) **New hampshire.—** — The counties of Belknap, Carroll, Cheshire, Coos, Grafton, and Sullivan in the State of New Hampshire.
+(2) **New hampshire.—** — The counties of Belknap, Carroll, Cheshire, Coos, Grafton, Merrimack, and Sullivan in the State of New Hampshire.
 
-(3) **New york.—** — The counties of Cayuga, Clinton, Essex, Franklin, Fulton, Genesee, Greene, Hamilton, Herkimer, Jefferson, Lewis, Livingston, Madison, Montgomery, Niagara, Oneida, Orleans, Oswego, Rensselaer, Saratoga, Schenectady, Seneca, St. Lawrence, Sullivan, Washington, Warren, Wayne, and Yates in the State of New York.
+(3) **New york.—** — The counties of Cayuga, Clinton, Essex, Franklin, Fulton, Genesee, Greene, Hamilton, Herkimer, Jefferson, Lewis, Livingston, Madison, Montgomery, Niagara, Oneida, Orleans, Oswego, Rensselaer, Saratoga, Schenectady, Schoharie, Seneca, St. Lawrence, Sullivan, Washington, Warren, Wayne, Wyoming, and Yates in the State of New York.
 
 (4) **Vermont.—** — The counties of Addison, Bennington, Caledonia, Chittenden, Essex, Franklin, Grand Isle, Lamoille, Orange, Orleans, Rutland, Washington, Windham, and Windsor in the State of Vermont.
 
@@ -185,6 +203,12 @@ The region of the Northern Border Regional Commission shall include the followin
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Par. (1). Pub. L. 118–272, § 2245(1), inserted “Lincoln,” after “Knox,”.
+
+Par. (2). Pub. L. 118–272, § 2245(2), inserted “Merrimack,” after “Grafton,”.
+
+Par. (3). Pub. L. 118–272, § 2245(3), inserted “Schoharie,” after “Schenectady,” and “Wyoming,” after “Wayne,”.
+
 2018—Par. (2). Pub. L. 115–334, § 6304(d)(1), inserted “Belknap,” before “Carroll,” and “Cheshire,” before “Coos,”.
 
 Par. (3). Pub. L. 115–334, § 6304(d)(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The counties of Cayuga, Clinton, Essex, Franklin, Fulton, Hamilton, Herkimer, Jefferson, Lewis, Madison, Oneida, Oswego, Seneca, and St. Lawrence in the State of New York.”
@@ -198,7 +222,7 @@ Section effective on the first day of the first fiscal year beginning after June
 <a id="section-15734"></a>
 ## § 15734. Great Lakes Authority
 
-The region of the Great Lakes Authority shall consist of areas in the watershed of the Great Lakes and the Great Lakes System (as such terms are defined in section 118(a)(3) of the Federal Water Pollution Control Act ([33 U.S.C. 1268(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1268/a/3&num=0&edition=prelim))), in each of the following States:
+The region of the Great Lakes Authority shall consist of the counties which contain, in part or in whole, the areas in the watershed of the Great Lakes and the Great Lakes System (as such terms are defined in section 118(a)(3) of the Federal Water Pollution Control Act ([33 U.S.C. 1268(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1268/a/3&num=0&edition=prelim))), in each of the following States:
 
 (1) Illinois.
 
@@ -216,10 +240,39 @@ The region of the Great Lakes Authority shall consist of areas in the watershed 
 
 (8) Wisconsin.
 
+### Statutory Notes
+
+#### Amendments
+2025—Pub. L. 118–272 inserted “the counties which contain, in part or in whole, the” after “consist of” in introductory provisions.
+
+
+<a id="section-15735"></a>
+## § 15735. Mid-Atlantic Regional Commission.11 So in original. The period probably should not appear.
+
+The region of the Mid-Atlantic Regional Commission shall include the following counties:
+
+(1) **Delaware.—** — Each county in the State of Delaware.
+
+(2) **Maryland.—** — Each county in the State of Maryland that is not already served by the Appalachian Regional Commission.
+
+(3) **Pennsylvania.—** — Each county in the Commonwealth of Pennsylvania that is not already served by the Appalachian Regional Commission.
+
+
+<a id="section-15736"></a>
+## § 15736. Southern New England Regional Commission
+
+The region of the Southern New England Regional Commission shall include the following counties:
+
+(1) **Rhode island.—** — Each county in the State of Rhode Island.
+
+(2) **Connecticut.—** — The counties of Hartford, Middlesex, New Haven, New London, Tolland, and Windham in the State of Connecticut.
+
+(3) **Massachusetts.—** — Each county in the Commonwealth of Massachusetts.
+
 
 <a id="section-15751"></a>
 ## § 15751. Authorization of appropriations
-**(a) In General.—** There is authorized to be appropriated to each Commission to carry out this subtitle $33,000,000 for each of fiscal years 2019 through 2023.
+**(a) In General.—** There is authorized to be appropriated to each Commission to carry out this subtitle $40,000,000 for each of fiscal years 2025 through 2029.
 
 **(b) Administrative Expenses.—**
 
@@ -233,6 +286,8 @@ The region of the Great Lakes Authority shall consist of areas in the watershed 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 118–272 added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “There is authorized to be appropriated to each Commission to carry out this subtitle $33,000,000 for each of fiscal years 2019 through 2023.”
+
 2018—Subsec. (a). Pub. L. 115–334 substituted “$33,000,000 for each of fiscal years 2019 through 2023” for “$30,000,000 for each of fiscal years 2008 through 2018”.
 
 2014—Subsec. (a). Pub. L. 113–79, § 6207(1), substituted “2018” for “2012”.

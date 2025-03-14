@@ -806,7 +806,7 @@ Section 6238, Pub. L. 94–163, title I, § 158, Dec. 22, 1975, 89 Stat. 886; Pu
 ### Statutory Notes
 
 #### References in Text
-The Interstate Commerce Act, referred to in subsec. (k), is act Feb. 4, 1887, ch. 104, 24 Stat. 379, as amended, which was classified generally to chapters 1, 8, 12, 13, and 19 (§§ 1 et seq., 301 et seq., 901 et seq., 1001 et seq., and 1231 et seq., respectively) of former Title 49, Transportation. The Act was repealed (subject to an exception) by Pub. L. 95–473, § 4(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§ 10101 et seq.) of Title 49. Section 4(c) of Pub. L. 95–473 excepted from repeal those provisions of the Interstate Commerce Act that vested functions in the Interstate Commerce Commission, or the chairman or members of the Commission, related to transportation of oil by pipeline and that were transferred to the Secretary of Energy and the Federal Energy Regulatory Commission by sections 7155 and 7172(b) of this title.
+The Interstate Commerce Act, referred to in subsec. (k), is act Feb. 4, 1887, ch. 104, 24 Stat. 379, which was classified generally to chapters 1, 8, 12, 13, and 19 (§§ 1 et seq., 301 et seq., 901 et seq., 1001 et seq., and 1231 et seq., respectively) of former Title 49, Transportation. The Act was repealed (subject to an exception) by Pub. L. 95–473, § 4(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§ 10101 et seq.) of Title 49. Section 4(c) of Pub. L. 95–473 excepted from repeal those provisions of the Interstate Commerce Act that vested functions in the Interstate Commerce Commission, or the chairman or members of the Commission, related to transportation of oil by pipeline and that were transferred to the Secretary of Energy and the Federal Energy Regulatory Commission by sections 7155 and 7172(b) of this title.
 
 #### Amendments
 2000—Pub. L. 106–469, § 103(12), amended section catchline generally.
@@ -1270,7 +1270,7 @@ Pub. L. 115–141, div. O, title V, § 501(a), (b), Mar. 23, 2018, 132 Stat. 107
 
 Pub. L. 115–123, div. C, title II, § 30204(a), (b), Feb. 9, 2018, 132 Stat. 126, 127, as amended by Pub. L. 117–328, div. M, title III, § 1301(d), Dec. 29, 2022, 136 Stat. 5194.
 
-Pub. L. 115–97, title II, § 20003, Dec. 22, 2017, 131 Stat. 2237.
+Pub. L. 115–97, title II, § 20003, Dec. 22, 2017, 131 Stat. 2237, repealed by Pub. L. 119–21, title V, § 50401(c), July 4, 2025, 139 Stat. 152.
 
 Pub. L. 115–56, div. D, § 158, as added by Pub. L. 115–123, div. B, § 20101(2), Feb. 9, 2018, 132 Stat. 120.
 
@@ -1391,7 +1391,7 @@ Funds available to the Secretary of Energy for obligation under this subsection 
 ### Statutory Notes
 
 #### References in Text
-Public Law 93–344, as amended, referred to in subsec. (d)(2), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974. Title III of that Act is classified generally to subchapter I (§ 631 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
+Public Law 93–344, as amended, referred to in subsec. (d)(2), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, known as the Congressional Budget and Impoundment Control Act of 1974. Title III of that Act is classified generally to subchapter I (§ 631 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2000—Subsec. (b). Pub. L. 106–469, § 103(19)(A)(i), substituted “for test sales of petroleum products from the Reserve, and for the drawdown, sale,” for “and the drawdown” in introductory provisions.
@@ -3597,7 +3597,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a)(2)(E)(ii), (F)(ii) and (c)(8)(C), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+This chapter, referred to in subsecs. (a)(2)(E)(ii), (F)(ii) and (c)(8)(C), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 The Federal Trade Commission Act, referred to in subsec. (g), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
 
@@ -4823,11 +4823,11 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
       (II) *Battery chargers.—* — Not later than July 1, 2011, the Secretary shall issue a final rule that prescribes energy conservation standards for battery chargers or classes of battery chargers or determine that no energy conservation standard is technically feasible and economically justified.
 
-**(ii)** For each product class, any energy conservation standards issued under clause (i) shall be set at the lowest level of energy use that—
+    (ii) For each product class, any energy conservation standards issued under clause (i) shall be set at the lowest level of energy use that—
 
-(I) meets the criteria and procedures of subsections (o), (p), (q), (r), (s), and (t); and
+      (I) meets the criteria and procedures of subsections (o), (p), (q), (r), (s), and (t); and
 
-(II) would result in significant overall annual energy savings, considering standby mode and other operating modes.
+      (II) would result in significant overall annual energy savings, considering standby mode and other operating modes.
 
 (2) The Secretary and the Administrator shall collaborate and develop programs (including programs under [section 6294a of this title](./chapter-077-energy-conservation.md#section-6294a) and other voluntary industry agreements or codes of conduct) that are designed to reduce standby mode energy use.
 
@@ -7379,7 +7379,7 @@ The Energy Policy Act of 2005, referred to in subsec. (a)(9), is Pub. L. 109–5
 
 The National Appliance Energy Conservation Amendments of 1988, referred to in subsec. (a)(6), is Pub. L. 100–357, June 28, 1988, 102 Stat. 671. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
-Section 6313(c)(4) and (c)(5) of this title, referred to in subsec. (e)(3)(A) and (4)(A), were redesignated section 6313(c)(5) and (c)(6) of this title, respectively, by Pub. L. 112–210, § 4(2), Dec. 18, 2012, 126 Stat. 1517.
+Section 6313(c)(4) and (c)(5) of this title, referred to in subsec. (e)(3)(A), (4)(A), were redesignated section 6313(c)(5) and (c)(6) of this title, respectively, by Pub. L. 112–210, § 4(2), Dec. 18, 2012, 126 Stat. 1517.
 
 #### Amendments
 2012—Pub. L. 112–210, § 10(a)(5)(B), made technical amendment to references in original act which appear in subsecs. (b)(1), (d)(1), (e)(1)(A), (2)(A), (3)(A), (f)(1)(A)(i), (2)(A)(i), and (h)(1)(A)(i) as references to part A.

@@ -730,15 +730,19 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 **(c) Use by Federal Government.—**
 
-(1) **Secretary of defense authority.—** — With respect to a covered author who produces a covered work in the course of employment at a covered institution described in subparagraphs (A) through (L) of subsection (d)(2), the Secretary of Defense may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+(1) **Secretary of defense authority.—** — With respect to a covered author who produces a covered work in the course of employment at a covered institution described in subparagraphs (A) through (L) of subsection (d)(2) and subparagraph (M) of such subsection when the Coast Guard is operating as a service in the Navy, the Secretary of Defense may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
 
-(2) **Director of national intelligence authority.—** — With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(M),11 So in original. There are two subpars. designated (M) in subsec. (d)(2). the Director of National Intelligence may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, world-wide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+(2) **Secretary of the department in which the coast guard is operating when it is not operating as a service in the navy authority.—** — With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(M), the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Navy may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+
+(3) **Director of national intelligence authority.—** — With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(N), the Director of National Intelligence may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+
+(4) **Secretary of transportation authority.—** — With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(O), the Secretary of Transportation may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
 
 **(d) Definitions.—** In this section:
 
-(1) The term “covered author” means a civilian member of the faculty of a covered institution.
+(1) **Covered author.—** — The term “covered author” means a civilian member of the faculty of a covered institution.
 
-(2) The term “covered institution” means the following:
+(2) **Covered institution.—** — The term “covered institution” means the following:
 
   (A) National Defense University.
 
@@ -752,7 +756,7 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
   (F) Naval War College.
 
-  (G) Naval Post Graduate School.
+  (G) Naval Postgraduate School.
 
   (H) Marine Corps University.
 
@@ -762,21 +766,15 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
   (K) Defense Language Institute.
 
-  (L) United States Coast Guard Academy.
+  (L) Uniformed Services University of the Health Sciences.
 
-  (M) 22 So in original. There are two subpars. (M). United States Merchant Marine Academy.
+  (M) United States Coast Guard Academy.
 
-  (M) 2 National Intelligence University.
+  (N) National Intelligence University.
 
-(3) The term “covered Secretary” 33 Term does not appear in section after amendment by section 6306(2) of Pub. L. 117–263. See 2022 Amendment notes for subsec. (c) below. means—
+  (O) United States Merchant Marine Academy.
 
-  (A) the Secretary of Transportation, with respect to the United States Merchant Marine Academy;
-
-  (B) the Secretary of Homeland Security, with respect to the United States Coast Guard Academy; or
-
-  (C) the Secretary of Defense, with respect to any other covered institution under paragraph (2).
-
-(4) The term “covered work” means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal.
+(3) **Covered work.—** — The term “covered work” means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal.
 
 ### Statutory Notes
 
@@ -805,6 +803,18 @@ Retention of a saving clause has been urged on the ground that the present statu
 Works of the United States Postal Service. The intent of section 105 [this section] is to restrict the prohibition against Government copyright to works written by employees of the United States Government within the scope of their official duties. In accordance with the objectives of the Postal Reorganization Act of 1970 [Pub. L. 91–375, which enacted title 39, Postal Service], this section does not apply to works created by employees of the United States Postal Service. In addition to enforcing the criminal statutes proscribing the forgery or counterfeiting of postage stamps, the Postal Service could, if it chooses, use the copyright law to prevent the reproduction of postage stamp designs for private or commercial non-postal services (for example, in philatelic publications and catalogs, in general advertising, in art reproductions, in textile designs, and so forth). However, any copyright claimed by the Postal Service in its works, including postage stamp designs, would be subject to the same conditions, formalities, and time limits as other copyrightable works.
 
 #### Amendments
+2025—Subsec. (c)(1). Pub. L. 119–60, § 1702(b)(1), substituted “subparagraphs (A) through (L) of subsection (d)(2) and subparagraph (M)” for “subparagraphs (A) through (K) of subsection (d)(2) and subparagraph (L)”.
+
+Subsec. (c)(2). Pub. L. 119–60, § 1702(b)(2), substituted “subsection (d)(2)(M)” for “subsection (d)(2)(L)”.
+
+Subsec. (c)(3). Pub. L. 119–60, § 1702(b)(3), substituted “subsection (d)(2)(N)” for “subsection (d)(2)(M)”.
+
+Subsec. (c)(4). Pub. L. 119–60, § 1702(b)(4), substituted “subsection (d)(2)(O)” for “subsection (d)(2)(N)”.
+
+Subsec. (d)(2)(L) to (O). Pub. L. 119–60, § 1702(a), added subpar. (L) and redesignated former subpars. (L) to (N) as (M) to (O), respectively.
+
+2024—Pub. L. 118–159 amended section generally. Prior to amendment, section related to copyright protection for United States Government works.
+
 2022—Subsec. (b). Pub. L. 117–263, § 3514(1), substituted “Certain Works” for “Certain of Works” in heading.
 
 Subsec. (c). Pub. L. 117–263, § 6306(2), added subsec. (c) and struck out former subsec. (c). Text read as follows: “A covered Secretary may direct the covered author of a covered work to provide the Federal Government with an irrevocable, royalty-free, world-wide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.”
@@ -820,6 +830,9 @@ Pub. L. 117–263, § 3514(4)(A), added subpar. (M) relating to United States Me
 Subsec. (d)(3), (4). Pub. L. 117–263, § 3514(4)(B), (C), added par. (3) and redesignated former par. (3) as (4).
 
 2019—Pub. L. 116–92 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b) and two subsecs. (c). Heading of subsec. (a) was conformed to the style used in this title.
+
+#### Coordination With Other Amendments Made by Division F of Pub. L. 118–159
+Pub. L. 118–159, div. F, title LXIX, § 6902(f), Dec. 23, 2024, 138 Stat. 2519, provided that: “For purposes of applying amendments made by provisions of this division [div. F of Pub. L. 118–159, see Tables for classification] other than this section, the amendments made by this section [amending this section and sections 3024, 3033, 3232a, 3234, 3244, 3304, and 3614 of Title 50, War and National Defense] shall be treated as having been enacted immediately before any such amendments by other provisions of this division.”
 
 
 <a id="section-106"></a>

@@ -59,7 +59,7 @@ As used in this chapter—
 
 **(s)** “Responsible person” means an individual who has the power to direct the management and policies of the applicant pertaining to explosive materials.
 
-**(t) Indian Tribe 11 So in original. Probably should not be capitalized..—** The term “Indian tribe” has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section479a&num=0&edition=prelim))).22 So in original. The second closing parenthesis probably should not appear., 33 See References in Text note below.
+**(t) Indian Tribe 11 So in original. Probably should not be capitalized..—** The term “Indian tribe” has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section479a&num=0&edition=prelim))).22 So in original. The second closing parenthesis probably should not appear.\, \33 See References in Text note below.
 
 ### Statutory Notes
 

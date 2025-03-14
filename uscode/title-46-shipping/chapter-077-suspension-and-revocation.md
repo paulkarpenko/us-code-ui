@@ -50,19 +50,23 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 **(d)**
 
-(1) The Secretary may temporarily, for not more than 45 days, suspend and take possession of the license, certificate of registry, or merchant mariner’s document held by an individual if—
+(1) The Secretary may temporarily, for not more than 45 days, suspend and take possession of the license, certificate of registry, or merchant mariner’s document held by ‘an 22 So in original. Opening single quotation mark probably should not appear. individual—
 
-  (A) that individual performs a safety sensitive function on a vessel, as determined by the Secretary; and
+  (A) if—
 
-  (B) there is probable cause to believe that the individual—
+    (i) that individual performs a safety sensitive function on a vessel, as determined by the Secretary; and
 
-    (i) has, while acting under the authority of that license, certificate, or document, performed the safety sensitive function in violation of law or Federal regulation regarding use of alcohol or a dangerous drug;
+    (ii) there is probable cause to believe that the individual—
 
-    (ii) has been convicted of an offense that would prevent the issuance or renewal of the license, certificate, or document;
+      (I) has, while acting under the authority of that license, certificate, or document, performed the safety sensitive function in violation of law or Federal regulation regarding use of alcohol or a dangerous drug;
 
-    (iii) within the 3-year period preceding the initiation of a suspension proceeding, has been convicted of an offense described in section 30304(a)(3)(A) or (B) of title 49; or
+      (II) has been convicted of an offense that would prevent the issuance or renewal of the license, certificate, or document;
 
-    (iv) is a security risk that poses a threat to the safety or security of a vessel or a public or commercial structure located within or adjacent to the marine environment.
+      (III) within the 3-year period preceding the initiation of a suspension proceeding, has been convicted of an offense described in section 30304(a)(3)(A) or (B) of title 49; or
+
+      (IV) is a security risk that poses a threat to the safety or security of a vessel or a public or commercial structure located within or adjacent to the marine environment; or
+
+  (B) if there is probable cause to believe that the individual has violated company policy and is a security risk that poses a threat to other individuals on the vessel.
 
 (2) If a license, certificate, or document is temporarily suspended under this section, an expedited hearing under subsection (a) of this section shall be held within 30 days after the temporary suspension.
 
@@ -81,6 +85,8 @@ Subsection (b) allows an individual whose license, certificate, or document has 
 Section 205(a)(3)(A) or (B) of that Act, referred to in subsec. (c)(1), means section 205(a)(3)(A), (B) of the National Driver Register Act of 1982, Pub. L. 97–364, which was set out in a note under [section 401 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section401&num=0&edition=prelim), Highways, and was repealed and restated in [section 30304 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30304&num=0&edition=prelim), Transportation, by Pub. L. 103–272, §§ 1(e), 7(b), July 5, 1994, 108 Stat. 975, 1379.
 
 #### Amendments
+2025—Subsec. (d)(1). Pub. L. 119–60 substituted “an individual—” for “an individual” in introductory provisions, inserted subpar. (A) designation before “if—”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B),
+
 2018—Subsec. (c)(1). Pub. L. 115–232 substituted “[section 30305(b)(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30305/b/7&num=0&edition=prelim)” for “section 206(b)(4) of the National Driver Register Act of 1982 ([23 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section401&num=0&edition=prelim) note)”.
 
 2004—Subsec. (d)(1). Pub. L. 108–293, § 407(1), substituted “if—” for “if, when acting under the authority of that license, certificate, or document—” in introductory provisions.

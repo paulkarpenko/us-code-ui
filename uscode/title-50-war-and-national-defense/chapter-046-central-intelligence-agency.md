@@ -2,7 +2,7 @@
 title: 50
 chapter: '46'
 heading: CENTRAL INTELLIGENCE AGENCY
-section_count: 39
+section_count: 40
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -65,7 +65,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 <a id="section-3503"></a>
 ## § 3503. Procurement authorities
-**(a) Purchases and contracts for supplies and services** In the performance of its functions the Central Intelligence Agency is authorized to exercise the authorities contained in sections 3201, 3203, 3204, 3206, 3207, 3302 through 3306, 3321 through 3323, 3801 through 3808, 3069, 3134, 3841, and 4752 of title 10.
+**(a) Purchases and contracts for supplies and services** In the performance of its functions the Central Intelligence Agency is authorized to exercise the authorities contained in sections 3201, 3203, 3204, 3206, 3207, 3302 through 3306, 3321 through 3323, 3801 through 3808, 3066, 3134, 3841, and 4752 of title 10.
 
 **(b) “Agency head” defined** In the exercise of the authorities granted in subsection (a) of this section, the term “Agency head” shall mean the Director, the Deputy Director, or the Executive of the Agency.
 
@@ -79,6 +79,8 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 Section was formerly classified to [section 403c of this title](./chapter-015-national-security.md#section-403c) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 substituted “3066” for “3069”.
+
 2023—Subsec. (a). Pub. L. 118–31, § 7332(1), substituted “sections 3201, 3203, 3204, 3206, 3207, 3302 through 3306, 3321 through 3323, 3801 through 3808, 3069, 3134, 3841, and 4752 of title 10” for “sections 2304(a)(1) to (6), (10), (12), (15), (17), and sections 2305(a) to (c), 2306, 2307, 2308, 2309, 2312, and 2313 of title 10”.
 
 Subsec. (d). Pub. L. 118–31, § 7332(2), which directed substitution of “in sections 3201 through 3204 of title 10 shall not be delegable. Each determination or decision required by sections 3201 through 3204, 3321 through 3323, and 3841 of title 10” for “ ‘in paragraphs’ and all that follows through ‘1947’ ”, was executed by making the substitution for “in paragraphs (12) and (15) of section 2304(a) and [section 2307(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307/a&num=0&edition=prelim) shall not be delegable. Each determination or decision required by paragraphs (12) and (15) of section 2304(a), by sections 2306 and 2313, or by [section 2307(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307/a&num=0&edition=prelim)”, which had read in the original “in paragraphs (12) and (15) of section 2(c) and section 5(a) of the Armed Services Procurement Act of 1947 shall not be delegable. Each determination or decision required by paragraphs (12) and (15) of section 2(c), by section 4 or by section 5(a) of the Armed Services Procurement Act of 1947”, to reflect the probable intent of Congress. In the original text, “1947” appeared twice, and amendment was executed as if striking out text through “1947” the second time appearing.
@@ -104,7 +106,6 @@ Pub. L. 97–269, title V, § 502(b), Sept. 27, 1982, 96 Stat. 1145, provided th
 
 Section, act June 20, 1949, ch. 227, § 4, 63 Stat. 208, related to education and training of officers and employees. See section 4101 et seq. of Title 5, Government Organization and Employees.
 
-#### Codification
 Section was formerly classified to [section 403d of this title](./chapter-015-national-security.md#section-403d) and repealed prior to editorial reclassification and renumbering as this section.
 
 
@@ -468,7 +469,7 @@ Pub. L. 108–458, title I, § 1011(b), Dec. 17, 2004, 118 Stat. 3661, provided 
 <a id="section-3507"></a>
 ## § 3507. Protection of nature of Agency’s functions
 
-In the interests of the security of the foreign intelligence activities of the United States and in order further to implement [section 3024(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/i&num=0&edition=prelim) that the Director of National Intelligence shall be responsible for protecting intelligence sources and methods from unauthorized disclosure, the Agency shall be exempted from the provisions of sections 1 and 2 of the Act of August 28, 1935 (49 Stat. 956, 957; [5 U.S.C. 654](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section654&num=0&edition=prelim)), and the provisions of any other law which require the publication or disclosure of the organization or functions of the Agency, or of the names, official titles, salaries, or numbers of personnel employed by the Agency: Provided, That in furtherance of this section, the Director of the Office of Management and Budget shall make no reports to the Congress in connection with the Agency under section 607 of the Act of June 30, 1945, as amended ([5 U.S.C. 947(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section947/b&num=0&edition=prelim)).
+In the interests of the security of the foreign intelligence activities of the United States and in order further to implement [section 3024(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/h&num=0&edition=prelim) that the Director of National Intelligence shall be responsible for protecting intelligence sources and methods from unauthorized disclosure, the Agency shall be exempted from the provisions of sections 1 and 2 of the Act of August 28, 1935 (49 Stat. 956, 957; [5 U.S.C. 654](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section654&num=0&edition=prelim)), and the provisions of any other law which require the publication or disclosure of the organization or functions of the Agency, or of the names, official titles, salaries, or numbers of personnel employed by the Agency: Provided, That in furtherance of this section, the Director of the Office of Management and Budget shall make no reports to the Congress in connection with the Agency under section 607 of the Act of June 30, 1945, as amended ([5 U.S.C. 947(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section947/b&num=0&edition=prelim)).
 
 ### Statutory Notes
 
@@ -484,6 +485,8 @@ Section was formerly classified to [section 403g of this title](./chapter-015-na
 A prior section 6 of act June 20, 1949, was renumbered section 5 and is classified to [section 3506 of this title](./chapter-046-central-intelligence-agency.md#section-3506).
 
 #### Amendments
+2025—Pub. L. 119–60 substituted “section 3024(h)” for “section 3024(i)”.
+
 2023—Pub. L. 118–31 substituted “or of the names” for “or of the, names”.
 
 2022—Pub. L. 117–263 substituted “or functions of the Agency, or of the” for “, functions”.
@@ -542,7 +545,6 @@ Functions of all other officers of Department of Justice and functions of all ag
 
 Section, acts June 20, 1949, ch. 227, § 9, 63 Stat. 212; Aug. 16, 1950, ch. 719, 64 Stat. 450, related to establishment of positions in the professional and scientific field.
 
-#### Codification
 Section was formerly classified to [section 403i of this title](./chapter-015-national-security.md#section-403i) and repealed prior to editorial reclassification and renumbering as this section.
 
 
@@ -556,7 +558,23 @@ Section was formerly classified to [section 403i of this title](./chapter-015-na
 
 **(b)** The sums made available to the Agency may be expended without regard to the provisions of law and regulations relating to the expenditure of Government funds; and for objects of a confidential, extraordinary, or emergency nature, such expenditures to be accounted for solely on the certificate of the Director and every such certificate shall be deemed a sufficient voucher for the amount therein certified.
 
-**(c) Notification.—** Not later than 30 days after the date on which the Director makes a novel and significant expenditure pursuant to subsection (a), the Director shall notify the Permanent Select Committee on Intelligence of the House of Representatives, the Select Committee on Intelligence of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives of such expenditure.
+**(c) Notification.—**
+
+(1) Not later than 30 days after the date on which the Director makes a novel and significant expenditure pursuant to subsection (a), the Director shall notify the Permanent Select Committee on Intelligence of the House of Representatives, the Select Committee on Intelligence of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives of such expenditure.
+
+(2)
+
+  (A) Not later than 180 days after December 18, 2025, the Director shall issue written guidance to ensure the timely identification and reporting of novel and significant expenditures in accordance with this subsection. Such guidance shall—
+
+    (i) establish a definition of a novel and significant expenditure for purposes of this subsection;
+
+    (ii) define internal procedures to evaluate expenditures to determine if such expenditures are novel and significant using the definition established pursuant to clause (i); and
+
+    (iii) require timely congressional notification in accordance with this subsection.
+
+  (B) The Director shall regularly review and update the guidance issued under this paragraph as appropriate.
+
+  (C) Not later than 60 days after the date on which the initial guidance is issued under this paragraph, and not later than 60 days after the date on which any material revisions to such guidance take effect, the Director shall provide to the committees specified in paragraph (1) a briefing with respect to such guidance or such material revisions.
 
 ### Statutory Notes
 
@@ -574,6 +592,8 @@ In subsec. (a)(1), “([5 U.S.C. 7901](https://uscode.house.gov/view.xhtml?req=g
 A prior section 8 of act June 20, 1949, was renumbered section 7 and is classified to [section 3508 of this title](./chapter-046-central-intelligence-agency.md#section-3508).
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 119–60 designated existing provisions as par. (1) and added par. (2).
+
 2022—Subsec. (c). Pub. L. 117–263 added subsec. (c).
 
 2019—Subsec. (a)(1). Pub. L. 116–92 inserted “payment of death benefits in cases in which the circumstances of the death of an employee of the Agency, a detailee of the Agency or other employee of another department or agency of the Federal Government assigned to the Agency, or an individual affiliated with the Agency (as determined by the Director), is not covered by [section 3511 of this title](./chapter-046-central-intelligence-agency.md#section-3511), other similar provisions of Federal law, or any regulation issued by the Director providing death benefits, but that the Director determines such payment appropriate;” before “rental of”.
@@ -789,9 +809,9 @@ Section effective Nov. 15, 1982, see section 613 of Pub. L. 97–269 set out as 
 
 (1) The Director may authorize Agency personnel within the United States to perform the same functions as officers and agents of the Department of Homeland Security, as provided in [section 1315(b)(2) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section1315/b/2&num=0&edition=prelim), with the powers set forth in that section, except that such personnel shall perform such functions and exercise such powers—
 
-  (A) within the Agency Headquarters Compound and the property controlled and occupied by the Federal Highway Administration located immediately adjacent to such Compound;
+  (A) within the Agency Headquarters Installation and the property controlled and occupied by the Federal Highway Administration located immediately adjacent to such Installation;
 
-  (B) in the streets, sidewalks, and the open areas within the zone beginning at the outside boundary of such Compound and property and extending outward 500 yards;
+  (B) in the streets, sidewalks, and the open areas within the zone beginning at the outside boundary of such Installation and property and extending outward 500 yards;
 
   (C) within any other Agency installation and protected property;
 
@@ -831,6 +851,8 @@ Section was formerly classified to section 403o of this title prior to editorial
 Pub. L. 98–473, title I, § 140 and Pub. L. 98–618, title IV, § 401, added substantially identical sections 15 to act June 20, 1949, ch. 227. This section is based on the section 15 of act June 20, 1949, ch. 227, as added by Pub. L. 98–618.
 
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–60 substituted “Installation” for “Compound” wherever appearing.
+
 2023—Subsec. (b). Pub. L. 118–31 substituted “the maximum penalty authorized for a Class B misdemeanor under [section 3559 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3559&num=0&edition=prelim)” for “those specified in [section 1315(c)(2) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section1315/c/2&num=0&edition=prelim)”.
 
 2022—Subsec. (a)(1)(D). Pub. L. 117–263, § 6303(a)(1)(A), (C), added subpar. (D). Former subpar. (D) redesignated (E).
@@ -845,7 +867,7 @@ Subsec. (d)(1). Pub. L. 117–263, § 6414(b), substituted “designated by the 
 
 2019—Subsec. (a)(1)(B). Pub. L. 116–92, § 6413(1), substituted “500 yards;” for “500 feet;”.
 
-Subsec. (a)(1)(D). Pub. L. 116–92, § 6413(2), substituted “500 yards.” for “500 feet.”.
+Subsec. (a)(1)(D). Pub. L. 116–92, § 6413(2), substituted “500 yards.” for “500 feet.”
 
 2003—Subsec. (a)(1). Pub. L. 108–177, § 377(b)(3)(A), substituted “officers and agents of the Department of Homeland Security, as provided in [section 1315(b)(2) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section1315/b/2&num=0&edition=prelim),” for “special policemen of the General Services Administration perform under the first section of the Act entitled ‘An Act to authorize the Federal Works Administrator or officials of the Federal Works Agency duly authorized by him to appoint special policeman for duty upon Federal property under the jurisdiction of the Federal Works Agency, and for other purposes’ ([40 U.S.C. 318](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section318&num=0&edition=prelim)),”.
 
@@ -861,6 +883,254 @@ Subsec. (a)(2) to (5). Pub. L. 105–107, § 404(3), added pars. (2) to (5).
 
 #### Designation of Headquarters Compound of Central Intelligence Agency as the George Bush Center for Intelligence
 Reference to the headquarters compound of the Central Intelligence Agency deemed to be a reference to the George Bush Center for Intelligence, see section 309 of Pub. L. 105–272, set out as a note under [section 3501 of this title](./chapter-046-central-intelligence-agency.md#section-3501).
+
+
+<a id="section-3515a"></a>
+## § 3515a. Authority regarding unmanned aircraft systems
+**(a) Authority to intercept** Notwithstanding [section 46502 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section46502&num=0&edition=prelim) or sections 32, 1030, and 1367 and chapters 119 and 206 of title 18, the Director may take, and may authorize personnel of the Agency with assigned duties under [section 3515 of this title](./chapter-046-central-intelligence-agency.md#section-3515) that include the security or protection of people, facilities, or assets within the United States to take, the actions described in subsection (b)(1) that are necessary to mitigate a credible threat (as defined by the Director, in consultation with the Secretary of Transportation) to safety or security in any specially designated area posed by an unmanned aircraft system.
+
+**(b) Authorized actions**
+
+(1) **Actions described to ensure safety and security** — The actions described in this paragraph are the following:
+
+  (A) During the operation of the unmanned aircraft system, detect, identify, monitor, and track the unmanned aircraft system, without prior consent, including by means of intercept or other access of a wire communication, an oral communication, or an electronic communication, used to control the unmanned aircraft system.
+
+  (B) Warn the operator of the unmanned aircraft system, including by passive or active, and by direct or indirect, physical, electronic, radio, and electromagnetic means.
+
+  (C) Disrupt control of the unmanned aircraft system, without prior consent, including by disabling the unmanned aircraft system by intercepting, interfering, or causing interference with wire, oral, electronic, or radio communications used to control the unmanned aircraft system.
+
+  (D) Seize or exercise control of the unmanned aircraft system.
+
+  (E) Seize or otherwise confiscate the unmanned aircraft system.
+
+  (F) Use reasonable force, if necessary, to disable, damage, or destroy the unmanned aircraft system.
+
+(2) **Limitation on actions**
+
+  (A) *Duration* — In carrying out subsection (a), the Director may take an action described in subparagraphs (B) through (F) of paragraph (1) only for the period necessary to mitigate a credible threat to safety or security identified in subsection (a).
+
+  (B) *Compliance* — In carrying out this section, the Director shall comply with the guidance developed under subsection (c).
+
+**(c) Guidance**
+
+(1) **Coordination and consultation**
+
+  (A) *Coordination* — The Director shall develop guidance for carrying out subsection (a) and for conducting research, testing, training, and evaluation under subsection (e) in coordination with the Secretary of Transportation and the Administrator of the Federal Aviation Administration to ensure that any such actions or research, testing, training, and evaluation do not adversely affect or interfere with the safety and efficiency of the national airspace system.
+
+  (B) *Consultation* — In developing guidance for carrying out subsection (a) and for conducting research, testing, training, and evaluation under subsection (e), the Director shall request consultation by the Secretary of Commerce and the Chairman of the Federal Communications Commission. The Secretary of Commerce and the Chairman may each provide such consultation during the 180-day period beginning on the date of the request by the Director.
+
+(2) **Requirements** — The guidance under paragraph (1) shall include requirements that—
+
+  (A) the Administrator of the Federal Aviation Administration advise on the types of activities covered by subsection (b)(1);
+
+  (B) the Director contact the Administrator of the Federal Aviation Administration through the appropriate channel if practicable before, or otherwise as soon as practicable after (but not later than 24 hours after), carrying out an action described in subparagraphs (B) through (F) of subsection (b)(1);
+
+  (C) the Director contact the Administrator of the Federal Aviation Administration through the appropriate channel before conducting research, testing, training, and evaluation under subsection (e); and
+
+  (D) when taking an action described in subsection (b)(1), all due consideration is given to—
+
+    (i) mitigating effects on privacy and civil liberties under the first and fourth amendments to the Constitution of the United States;
+
+    (ii) mitigating damage to, or loss of, real and personal property; and
+
+    (iii) mitigating any risk of personal injury or death.
+
+(3) **Updates** — On an annual basis, the Director, in coordination with the Secretary of Transportation and the Administrator of the Federal Aviation Administration, shall review the guidance developed under paragraph (1) and make any necessary updates.
+
+**(d) Specially designated areas**
+
+(1) **List** — The Director shall make available to the congressional intelligence committees and the recipients specified in paragraph (5) a list, which may be in classified form, of each area that the Director—
+
+  (A) determines meets the criteria described in paragraph (4); and
+
+  (B) designates as a specially designated area for purposes of this section.
+
+(2) **Annual update** — Not later than March 31 each year, the Director shall make available to the congressional intelligence committees and the recipients specified in paragraph (5) an updated list of specially designated areas under paragraph (1).
+
+(3) **Emergency updates** — If the Director determines that adding an area that meets the criteria described in paragraph (4) to the list under paragraph (1) is necessary to mitigate a credible threat to safety or security, the Director may update the list to include that area as a specially designated area covered by this section if the Director makes available to the congressional intelligence committees and the recipients specified in paragraph (5) information regarding that area by not later than 7 days after making such determination.
+
+(4) **Criteria described** — The criteria described in this paragraph are the following:
+
+  (A) The area is identified by the Director, in coordination with the Secretary of Transportation, with respect to potentially impacted airspace, through a risk-based assessment, as high-risk and a potential target for unlawful unmanned aircraft system-related activity.
+
+  (B) The area consists of—
+
+    (i) premises that—
+
+      (I) are owned, leased, or controlled by the Agency or the Office of the Director of National Intelligence;
+
+      (II) are not eligible for protection from threats from unmanned aircraft systems by another department or agency of the Federal Government that has authority to mitigate the threat of unmanned aircraft systems, including pursuant to [section 130i of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section130i&num=0&edition=prelim); and
+
+      (III) directly relate to one or more functions authorized to be performed by the Agency or the Office of the Director of National Intelligence under this chapter or the National Security Act of 1947 ([50 U.S.C. 3001](./chapter-044-national-security.md#section-3001) et seq.);
+
+    (ii) one or more perimeters adjacent to such premises, as designated by the Director, in coordination with the Secretary of Transportation, based on the specific type of action described in subsection (b)(1); and
+
+    (iii) the airspace above the premises and perimeters covered by clauses (i) and (ii).
+
+  (C) The airspace specified in subparagraph (B)(iii) is restricted by a temporary flight restriction or covered by a determination under section 2209 of the FAA Extension, Safety, and Security Act of 2016 ([49 U.S.C. 44802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44802&num=0&edition=prelim) note) or any other similar restriction applicable to unmanned aircraft system overflights determined appropriate by the Secretary of Transportation.
+
+(5) **Specified recipients of list** — The designated recipients for purposes of this subsection are each of the following:
+
+  (A) The chairs and ranking minority members of the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+  (B) The chairs and ranking minority members of the Committees on the Judiciary of the House of Representatives and of the Senate.
+
+  (C) The chairs and ranking minority members of the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+
+  (D) The chairs and ranking minority members of the Committees on Appropriations of the House of Representatives and of the Senate.
+
+  (E) For each committee specified in subparagraphs (A), (B), (C), and (D)—
+
+    (i) two staff members of the committee who have the required security clearances and are designated by the chair; and
+
+    (ii) two staff members of the committee who have the required security clearances and are designated by the ranking minority member.
+
+**(e) Research, testing, training, and evaluation** The Director may, consistent with [section 1805(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805/g&num=0&edition=prelim), other Federal laws, and Presidential directives, conduct research, testing, training on, and evaluation of any equipment, including any electronic equipment, to determine the capability and utility of the equipment prior to the use of the equipment for any action carried out under subsection (a).
+
+**(f) Privacy protections**
+
+(1) **Requirement** — Any interception or acquisition of, or access to, or maintenance or use of, information or communications to or from an unmanned aircraft system under this section shall be conducted—
+
+  (A) in a manner consistent with the first and fourth amendments to the Constitution of the United States and applicable provisions of Federal law; and
+
+  (B) only to the extent necessary to support an action described in subsection (b)(1) taken to carry out the authority provided in subsection (a).
+
+(2) **Limit** — In carrying out subsection (a), the Director may maintain records containing or regarding the content and dialing, signaling, routing, and addressing information associated with wire communications, oral communications, electronic communications, and radio communications, and may maintain parts or the whole of an unmanned aircraft system, only if—
+
+  (A) such maintenance is for the purpose of mitigating a credible threat, as described in subsection (a), to safety or security of persons in a specially designated area; and
+
+  (B) such maintenance does not exceed a period of 180 days unless—
+
+    (i) the Director or the Attorney General determines a longer period—
+
+      (I) is necessary to directly support an ongoing security operation of the Agency pursuant to subsection (a); or
+
+      (II) is required to be maintained by the Agency under Federal law;
+
+    (ii) the Director or the Attorney General has created a record before the end of such 180-day period providing the specific factual basis to support the determination based on the matters specified in either or both subclauses (I) and (II) of clause (i); and
+
+    (iii) the Director is in compliance with the reporting requirements under subsection (g)(2)(B).
+
+(3) **Destruction** — The Director shall destroy any records or materials maintained under paragraph (2) at the end of the period specified in such paragraph.
+
+(4) **Transfer**
+
+  (A) *Authorized disclosure* — Records or materials maintained under paragraph (2) may not be disclosed outside of the Agency or Department of Justice unless the Director or Attorney General determine that the disclosure of such records or materials—
+
+    (i) is necessary to investigate or prosecute a violation of Federal law;
+
+    (ii) is necessary to support the counter unmanned aircraft systems activities of another department or agency of the Federal Government with authority to mitigate the threat of unmanned aircraft systems;
+
+    (iii) is necessary to comply with another provision of Federal law; or
+
+    (iv) is necessary to comply with an obligation to preserve materials during the course of litigation.
+
+  (B) *Requirement for recipient agency* — The recipient of records or materials pursuant to subparagraph (A) shall—
+
+    (i) maintain the records or materials only for the purpose authorized under such subparagraph;
+
+    (ii) disclose the records or materials only for a purpose authorized under such subparagraph; and
+
+    (iii) destroy the records or parts or materials once such purpose no longer applies.
+
+(5) **Certification**
+
+  (A) *Agency* — Each time the Director carries out subsection (a) by taking an action described in subparagraphs (C) through (F) of subsection (b)(1), the Director shall certify that the Director is in compliance with paragraphs (1) through (4) of this subsection. The Director may only delegate the authority to make such certification to—
+
+    (i) the General Counsel or the Principal Deputy General Counsel; or
+
+    (ii) the Director of Operations or the Deputy Director of Operations.
+
+  (B) *Retention* — Each certification made under subparagraph (A) shall be retained by the Director for a period of at least seven years.
+
+**(g) Notifications and reports**
+
+(1) **Department of Justice notification** — Not later than 30 days after the date on which the Director carries out subsection (a) by taking an action described in subparagraphs (C) through (F) of subsection (b)(1), the Director shall notify the Attorney General of such action.
+
+(2) **Congressional reports** — Not later than 90 days after December 18, 2025, and every 90 days thereafter, the Director shall make available to the congressional intelligence committees and the recipients specified in paragraph (3) a report that includes the following:
+
+  (A) With respect to each action described in subparagraphs (B) through (F) of subsection (b)(1) taken to carry out subsection (a) during the period covered by the report, a description of—
+
+    (i) the action taken;
+
+    (ii) options considered by the Director to mitigate any identified effects to the national airspace system relating to such action, including the minimization of the use of any technology that disrupts the transmission of radio or electronic signals; and
+
+    (iii) whether any harm, damage, or loss to a person or to private property resulted from such action.
+
+  (B) A description of all records or materials that, as of the date of the report, are being maintained for a period exceeding 180 days pursuant to subsection (f)(2)(B), and a copy of each record created pursuant to clause (ii) of such subsection relating to such maintenance.
+
+  (C) A copy of the guidance, policies, and procedures established by the Director in effect during the period covered by the report to address privacy, civil rights, and civil liberties issues implicated by actions taken by the Director in carrying out subsection (a).
+
+  (D) Information on any violation of, or failure to comply with, this section during the period covered by the report, including a description of any such violation or failure.
+
+(3) **Specified recipients of report** — The designated recipients for purposes of paragraph (2) are each of the following:
+
+  (A) Each member of the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+  (B) Each member of the Committees on the Judiciary of the House of Representatives and of the Senate.
+
+  (C) Each member of the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+
+  (D) Each member of the Committees on Appropriations of the House of Representatives and of the Senate.
+
+  (E) For each committee specified in subparagraphs (A), (B), (C), and (D)—
+
+    (i) five staff members of the committee who have the required security clearances and are designated by the chair; and
+
+    (ii) five staff members of the committee who have the required security clearances and are designated by the ranking minority member.
+
+**(h) Forfeiture and tort claims**
+
+(1) **Forfeiture**
+
+  (A) *Subject to forfeiture* — Any unmanned aircraft system described in subsection (a) that is seized by the Director is subject to forfeiture to the United States.
+
+  (B) *Application* — The requirements for civil, criminal, or administrative forfeiture under applicable law or regulation shall apply to any forfeiture conducted under subparagraph (A).
+
+(2) **Tort claims** — Chapter 171 of title 28 shall apply to any claims for loss of property, injury, or death pursuant to actions taken pursuant to this section.
+
+**(i) Rules of construction** Nothing in this section may be construed as—
+
+(1) affecting the restrictions in [section 1805(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1805/g&num=0&edition=prelim);
+
+(2) vesting in the Director any authority of the Secretary of Transportation, the Secretary of Defense, or the Administrator of the Federal Aviation Administration;
+
+(3) vesting in the Secretary of Transportation, the Secretary of Defense, or the Administrator any authority of the Director;
+
+(4) creating a new cause of action or any new rights, or waiving any defenses, that do not otherwise exist in law as of December 18, 2025;
+
+(5) authorizing any official of a department or agency of the Federal Government to conduct any search or seizure in a manner that violates the fourth amendment to the Constitution of the United States; or
+
+(6) authorizing any actions that violate any provision of the Constitution of the United States, including the first and fourth amendments.
+
+**(j) Budget** Together with the budget requests of the Agency for each fiscal year after fiscal year 2026, or not later than 7 days after the date on which such a request is submitted to Congress, the Director shall submit to the congressional intelligence committees and the Committees on Appropriations of the Senate and the House of Representatives a consolidated funding display that identifies the funding source for actions to carry out subsection (a). The funding display shall be in unclassified form, but may contain a classified annex.
+
+**(k) Commencement of authority** The Director may not carry out subsection (a) by taking an action described in subsection (b)(1) until the date on which the Director has made available the first list under subsection (d)(1).
+
+**(l) Suspension of authority** If the Director fails to make available the updated list by the date required under subsection (d)(2), the Director may not carry out subsection (a) by taking an action described in subsection (b)(1) until the date on which the Director makes available such updated list.
+
+**(m) Termination** The authority to carry out this section shall terminate on December 31, 2027.
+
+**(n) Definitions** In this section:
+
+(1) **Congressional intelligence committees** — The term “congressional intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+
+(2) **Radio communication** — The term “radio communication” has the meaning given that term in [section 153 of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section153&num=0&edition=prelim).
+
+(3) **Specially designated area** — The term “specially designated area” means an area designated by the Director as a specially designated area for purposes of this section pursuant to subsection (d).
+
+(4) **Title 18 terms** — The terms “electronic communication”, “intercept”, “oral communication”, and “wire communication” have the meanings given those terms in [section 2510 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2510&num=0&edition=prelim).
+
+(5) **United States** — The term “United States” has the meaning given that term in [section 5 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section5&num=0&edition=prelim).
+
+(6) **Unmanned aircraft system** — The term “unmanned aircraft system” has the meaning given the term in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+The National Security Act of 1947, referred to in subsec. (d)(4)(B)(i)(III), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+
+Section 2209 of the FAA Extension, Safety, and Security Act of 2016, referred to in subsec. (d)(4)(C), is section 2209 of Pub. L. 114–190, which is set out as a note under [section 44802 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44802&num=0&edition=prelim), Transportation.
 
 
 <a id="section-3516"></a>
@@ -1129,13 +1399,23 @@ there is hereby established in the Agency an Office of Inspector General (hereaf
 
 (5)
 
-  (A) An employee of the Agency, or of a contractor to the Agency, who intends to report to Congress a complaint or information with respect to an urgent concern may report such complaint or information to the Inspector General.
+  (A)
+
+    (i) An employee of the Agency, or of a contractor to the Agency, who intends to report to Congress a complaint or information with respect to an urgent concern may report such complaint or information in writing to the Inspector General.
+
+    (ii) The Inspector General shall—
+
+      (I) provide reasonable support necessary to ensure that an employee can report a complaint or information under this subparagraph in writing; and
+
+      (II) if such submission is not feasible, create a written record of the employee’s verbal complaint or information and treat such written record as a written submission.
 
   (B)
 
-    (i) Not later than the end of the 14-calendar day period beginning on the date of receipt from an employee of a complaint or information under subparagraph (A), the Inspector General shall determine whether the complaint or information appears credible. Upon making such a determination, the Inspector General shall transmit to the Director notice of that determination, together with the complaint or information.
+    (i) In accordance with clause (ii), the Inspector General shall determine whether a complaint or information reported under subparagraph (A) appears credible. Upon making such a determination, the Inspector General shall transmit to the Director a notice of that determination, together with the complaint or information.
 
-    (ii) If the Director determines that a complaint or information transmitted under paragraph (1) would create a conflict of interest for the Director, the Director shall return the complaint or information to the Inspector General with that determination and the Inspector General shall make the transmission to the Director of National Intelligence. In such a case, the requirements of this subsection for the Director of the Central Intelligence Agency apply to the Director of National Intelligence.
+    (ii) The Inspector General shall make the determination under clause (i) with respect to a complaint or information under subparagraph (A) by not later than the end of the 14-calendar-day period beginning on the date on which the employee who reported the complaint or information confirms to the Inspector General the intent of the employee to report to Congress that complaint or information.
+
+    (iii) If the Director determines that a complaint or information transmitted under subparagraph (A) would create a conflict of interest for the Director, the Director shall return the complaint or information to the Inspector General with that determination and the Inspector General shall make the transmission to the Director of National Intelligence. In such a case, the requirements of this subsection for the Director of the Central Intelligence Agency apply to the Director of National Intelligence.
 
   (C) Upon receipt of a transmittal from the Inspector General under subparagraph (B), the Director shall, within 7 calendar days of such receipt, forward such transmittal to the intelligence committees, together with any comments the Director considers appropriate.
 
@@ -1173,6 +1453,8 @@ there is hereby established in the Agency an Office of Inspector General (hereaf
 
       (II) The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
+      (III) The term “employee” includes a former employee or former contractor, if the complaint or information reported under subparagraph (A) arises from or relates to the period during which the former employee or former contractor was an employee or contractor, as the case may be.
+
     (ii) Within the executive branch, the Inspector General shall have sole authority to determine whether any complaint or information reported to the Inspector General is a matter of urgent concern under this paragraph.
 
   (H) An individual who has submitted a complaint or information to the Inspector General under this section may notify any member of the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate, or a staff member of either such Committee, of the fact that such individual has made a submission to the Inspector General, and of the date on which such submission was made.
@@ -1183,11 +1465,31 @@ there is hereby established in the Agency an Office of Inspector General (hereaf
 
 (2) The Inspector General shall have access to any employee or any employee of a contractor of the Agency whose testimony is needed for the performance of his duties. In addition, he shall have direct access to all records, reports, audits, reviews, documents, papers, recommendations, or other material which relate to the programs and operations with respect to which the Inspector General has responsibilities under this section. Failure on the part of any employee or contractor to cooperate with the Inspector General shall be grounds for appropriate administrative actions by the Director, to include loss of employment or the termination of an existing contractual relationship.
 
-(3) The Inspector General is authorized to receive and investigate complaints or information from any person concerning the existence of an activity constituting a violation of laws, rules, or regulations, or mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to the public health and safety. Once such complaint or information has been received from an employee of the Agency—
+(3)
 
-  (A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken; and
+  (A) The Inspector General is authorized to receive and investigate complaints or information from any person concerning the existence of an activity constituting a violation of laws, rules, or regulations, or mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to the public health and safety. Once such complaint or information has been received from an employee of the Agency—
 
-  (B) no action constituting a reprisal, or threat of reprisal, for making such complaint or providing such information may be taken by any employee of the Agency in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
+    (i) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken; and
+
+    (ii) no action constituting a reprisal, or threat of reprisal, for making such complaint or providing such information may be taken by any employee of the Agency in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
+
+  (B)
+
+    (i) An individual may disclose classified information to the Inspector General in accordance with the applicable security standards and procedures established under section 3024 or 3162a of this title, chapter 12 of the Atomic Energy Act of 1954 ([42 U.S.C. 2161](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2161&num=0&edition=prelim) et seq.), Executive Order 13526 ([50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note; relating to Classified National Security Information), or any applicable provision of law.
+
+    (ii) A disclosure under clause (i) of classified information made by an individual without appropriate clearance or authority to access such classified information at the time of the disclosure, but that is otherwise made in accordance with applicable security standards and procedures, shall be treated as an authorized disclosure that does not violate a covered provision.
+
+    (iii) Nothing in clause (ii) may be construed to limit or modify the obligation of an individual to appropriately store, handle, or disseminate classified information in accordance with applicable security guidance and procedures, including with respect to the removal or retention of classified information.
+
+    (iv) In this subparagraph, the term “covered provision” means—
+
+      (I) any otherwise applicable nondisclosure agreement;
+
+      (II) any otherwise applicable regulation or order issued under the authority of chapter 18 of the Atomic Energy Act of 1954 ([42 U.S.C. 2271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2271&num=0&edition=prelim) et seq.) or Executive Order 13526;
+
+      (III) [section 798 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section798&num=0&edition=prelim); or
+
+      (IV) any other provision of law with respect to the unauthorized disclosure of national security information.
 
 (4) The Inspector General shall have authority to administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of his duties, which oath, affirmation, or affidavit when administered or taken by or before an employee of the Office designated by the Inspector General shall have the same force and effect as if administered or taken by or before an officer having a seal.
 
@@ -1290,10 +1592,22 @@ Section 3 of the Inspector General Act of 1978, referred to in subsec. (b)(8)(A)
 
 The National Security Act of 1947, referred to in subsec. (d)(4), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of this title. For complete classification of this Act to the Code, see Tables.
 
+The Atomic Energy Act of 1954, referred to in subsec. (e)(3)(B)(i), (iv)(II), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919. Chapters 12 and 18 of the Act are classified generally to subchapters XI (§ 2161 et seq.) and XVII (§ 2271 et seq.), respectively, of division A of chapter 23 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
+
+Executive Order 13526, referred to in subsec. (e)(3)(B)(i), (iv)(II), is Ex. Ord. No. 13526, Dec. 29, 2009, 75 F.R. 707, 1013, which is set out as a note under [section 3161 of this title](./chapter-044-national-security.md#section-3161).
+
 #### Codification
 Section was formerly classified to [section 403q of this title](./chapter-015-national-security.md#section-403q) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2024—Subsec. (d)(5)(A). Pub. L. 118–159, § 6701(b)(1), designated existing provisions as cl. (i), inserted “in writing” before “to the Inspector General”, and added cl. (ii).
+
+Subsec. (d)(5)(B). Pub. L. 118–159, § 6701(b)(2), added cls. (i) and (ii), redesignated former cl. (ii) as (iii), substituted “subparagraph (A)” for “paragraph (1)” in cl. (iii), and struck out former cl. (i) which read as follows: “Not later than the end of the 14-calendar day period beginning on the date of receipt from an employee of a complaint or information under subparagraph (A), the Inspector General shall determine whether the complaint or information appears credible. Upon making such a determination, the Inspector General shall transmit to the Director notice of that determination, together with the complaint or information.”
+
+Subsec. (d)(5)(G)(i)(III). Pub. L. 118–159, § 6701(b)(3), added subcl. (III).
+
+Subsec. (e)(3). Pub. L. 118–159, § 6702(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+
 2023—Subsec. (d)(5)(B)(ii). Pub. L. 118–31, § 7901(g)(4)(A), inserted period at end.
 
 Subsec. (e)(4). Pub. L. 118–31, § 7901(g)(4)(B), substituted “which oath, affirmation, or affidavit” for “which oath affirmation, or affidavit”.
@@ -2287,27 +2601,67 @@ Pub. L. 116–260, div. W, title IV, § 401(b), Dec. 27, 2020, 134 Stat. 2377, p
 
 <a id="section-3527"></a>
 ## § 3527. Chaplain Corps and Chief of Chaplains
-**(a) Establishment of Chaplain Corps** There is in the Agency a Chaplain Corps for the provision of spiritual or religious pastoral services.
+**(a) Establishment of Chaplain Corps** There is in the Agency a Chaplain Corps, which shall provide spiritual and religious pastoral services and care across all components of the Agency for employees of all faiths and non-faiths.
 
-**(b) Chief of Chaplains** The head of the Chaplain Corps shall be the Chief of Chaplains, who shall be appointed by the Director.
+**(b) Chief of Chaplains**
 
-**(c) Staff and administration**
+(1) **In general** — The head of the Chaplain Corps shall be the Chief of Chaplains, who shall be appointed by the Director.
 
-(1) **Staff** — The Director may appoint and fix the compensation of such staff of the Chaplain Corps as the Director considers appropriate, except that the Director may not—
+(2) **Reporting** — The Chief of Chaplains shall report directly to the Director.
 
-  (A) appoint more than 10 full-time equivalent positions; or
+(3) **Duties** — The Chief of Chaplains shall—
 
-  (B) provide basic pay to any member of the staff of the Chaplain Corps at an annual rate of basic pay in excess of the maximum rate of basic pay for grade GS–15 as provided in [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
+  (A) oversee the Chaplain Corps; and
 
-(2) **Administration** — The Director may—
+  (B) be the proponent for, and consult with the Director on—
 
-  (A) reimburse members of the staff of the Chaplain Corps for work-related travel expenses;
+    (i) all guidance pertaining to chaplains’ care;
 
-  (B) provide security clearances to such members;
+    (ii) programming and instruction; and
 
-  (C) furnish such physical workspace at the headquarters building of the Agency as the Director considers appropriate; and
+    (iii) any policy or guidance pertaining to religion or religious accommodation.
 
-  (D) certify that all Chaplains meet common standards for professional chaplaincy and board certification by a national chaplaincy and pastoral care organization or equivalent.
+(4) **Consultation** — All appropriate offices of the Agency shall consult with the Chief of Chaplains on best practices to implement guidance or policy pertaining to religion or religious accommodation.
+
+**(c) Services** Chaplains of the Chaplain Corps shall—
+
+(1) be located at the headquarters building of the Agency; and
+
+(2) travel as necessary to provide services to personnel of the Agency.
+
+**(d) Staff**
+
+(1) **Minimum staffing level** — The Chaplain Corps shall be composed of not less than 6 chaplains, of which—
+
+  (A) not less than 3 shall be full-time staff employees of the Agency; and
+
+  (B) not less than 3 shall be government contractors.
+
+(2) **Vacancies** — The Director shall expeditiously fill any vacancies.
+
+(3) **Exclusive role** — A chaplain of the Chaplain Corps shall serve exclusively in the chaplain’s role in the Chaplain Corps.
+
+(4) **Appointment; compensation** — The Director may appoint and fix the compensation of such chaplains of the Chaplain Corps as the Director considers appropriate, except that the Director may not provide basic pay to any chaplain of the Chaplain Corps at an annual rate of basic pay in excess of the maximum rate of basic pay for grade GS–15 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
+
+**(e) Administration** The Director shall—
+
+(1) provide security clearances, including one-time read-ins, to chaplains of the Chaplain Corps to ensure that personnel of the Agency can seek unrestricted chaplaincy counseling; and
+
+(2) furnish physical workspace for the Chaplain Corps at the headquarters building of the Agency.
+
+**(f) Privacy** The Director shall implement privacy standards with respect to the physical workspaces of the Chaplain Corps to ensure privacy for individuals visiting such spaces.
+
+**(g) Protection of Chaplain Corps** The Director may not require a chaplain of the Chaplain Corps to perform any rite, ritual, or ceremony that is contrary to the conscience, moral principles, or religious beliefs of the chaplain or of the ecclesiastical organization that ordains the chaplain.
+
+**(h) Certifications to Congress** Not less frequently than annually, the Director shall certify to Congress whether implementation of this section meets the requirements of this section.
+
+### Statutory Notes
+
+#### Amendments
+2025—Pub. L. 119–60 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c), relating, respectively, to establishment of Chaplain Corps, Chief of Chaplains, and staff and administration of the Chaplain Corps.
+
+#### Applicability of Minimum Staffing Requirement
+Pub. L. 119–60, div. F, title LXV, § 6504(b), Dec. 18, 2025, 139 Stat. 1629, provided that: “The minimum staffing level required by subsection (d)(1) of section 26 [[50 U.S.C. 3527(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3527/d/1&num=0&edition=prelim)] (as amended by subsection (a)) shall apply on and after the date that is 120 days after the date of the enactment of this Act [Dec. 18, 2025].”
 
 
 <a id="section-3528"></a>
@@ -2589,7 +2943,34 @@ Pub. L. 117–263, div. F, title LXIV, § 6416(b), Dec. 23, 2022, 136 Stat. 3530
 
 (2) **Relation to existing regulations** — The policies developed pursuant to this section for handling allegations of sexual harassment shall be in addition to the requirements of part 1614 of title 29, Code of Federal Regulations, or successor regulations.
 
+**(d) Annual Agency climate assessment**
+
+(1) **Requirement** — Not less frequently than once every 365 days, the Director shall—
+
+  (A) complete an Agency climate assessment—
+
+    (i) that does not request any information that would make an Agency employee or the position of an Agency employee identifiable;
+
+    (ii) for the purposes of—
+
+      (I) preventing and responding to sexual assault and sexual harassment; and
+
+      (II) examining the prevalence of sexual assault and sexual harassment occurring among the Agency’s workforce; and
+
+    (iii) that includes an opportunity for Agency employees to express the opinions of the employees regarding the manner and extent to which the Agency responds to allegations of sexual assault and complaints of sexual harassment, and the effectiveness of such response; and
+
+  (B) submit to the appropriate congressional committees the findings of the Director with respect to the climate assessment completed pursuant to subparagraph (A).
+
+(2) **Appropriate congressional committees defined** — In this subsection, the term “appropriate congressional committees” means—
+
+  (A) the Select Committee on Intelligence and the Subcommittee on Defense of the Committee on Appropriations of the Senate; and
+
+  (B) the Permanent Select Committee on Intelligence and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives.
+
 ### Statutory Notes
+
+#### Amendments
+2025—Subsec. (d). Pub. L. 119–60 added subsec. (d).
 
 #### Reporting and Investigating Allegations of Sexual Assault and Sexual Harassment Within the Central Intelligence Agency
 Pub. L. 118–31, div. G, title III, § 7339(a), Dec. 22, 2023, 137 Stat. 1051, provided that: “(a) Sense of Congress.—It is the sense of Congress that—“(1) sexual assault and sexual harassment arise from, and are often indicative of, an environment where toxic, provocative, and sometimes significantly inappropriate behavior is tolerated; “(2) when supervisors and senior leaders at headquarters and in the field are among the offenders and facilitate a work climate in which toxic and disrespectful behavior is tolerated, harassment and even assault will often go unaddressed and unpunished; “(3) while establishing clear policies and procedures and enhancing training are necessary first steps toward protecting victims and establishing stronger internal mechanisms for preventing and responding to future sexual assault and sexual harassment within the Central Intelligence Agency, comprehensive culture change driven by Agency leadership will be necessary to accomplish impactful and enduring improvement; and “(4) it is vital for the Central Intelligence Agency to maintain an independent and neutral person with whom all employees at all levels, supervisors and non-supervisors, may speak confidentially, informally, and off-the-record about work-related concerns or questions.”
@@ -2778,7 +3159,7 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (d)(2)(D), i
 
 <a id="section-3533"></a>
 ## § 3533. Special Victim Investigator
-**(a) Establishment** The Director shall establish in the Office of Security a Special Victim Investigator, who shall be authorized to investigate or facilitate the investigation of unrestricted reports containing allegations of sexual assault and sexual harassment. The person appointed as the Special Victim Investigator shall be an appropriately credentialed Federal law enforcement officer and may be detailed or assigned from a Federal law enforcement entity.
+**(a) Establishment** The Director shall establish in the Office of Security a Special Victim Investigator, who shall be authorized to investigate or facilitate the investigation of unrestricted reports containing allegations of sexual assault and sexual harassment. The person appointed as the Special Victim Investigator shall be an appropriately credentialed Federal law enforcement officer and may be detailed or assigned from a Federal law enforcement entity. No individual appointed as the Special Victim Investigator may, at the time of such appointment, be a current employee of the Central Intelligence Agency.
 
 **(b) Responsibilities** The Investigator shall—
 
@@ -2809,3 +3190,8 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (d)(2)(D), i
   (A) not later than 60 days after the date on which the report is referred to the Special Victim Investigator, submit to the Director a request for an extension that contains a summary of the progress of the investigation, the reasons why the completion of the investigation requires additional time, and a plan for the completion of the investigation; and
 
   (B) provide to the person who made the report and the person against whom the allegation in the report was made notice of the extension of the investigation.
+
+### Statutory Notes
+
+#### Amendments
+2024—Subsec. (a). Pub. L. 118–159 inserted at end “No individual appointed as the Special Victim Investigator may, at the time of such appointment, be a current employee of the Central Intelligence Agency.”

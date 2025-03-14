@@ -217,7 +217,7 @@ Amendment by Pub. L. 86–778 applicable only with respect to (1) service in the
 <a id="section-6206"></a>
 ## § 6206. Special rules applicable to excessive claims under certain sections
 
-Any portion of a refund made under section 6416(a)(4) and any portion of a payment made under section 6420, 6421, or 6427 which constitutes an excessive amount (as defined in section 6675(b)), and any civil penalty provided by section 6675, may be assessed and collected as if it were a tax imposed by section 4081 (with respect to refunds under section 6416(a)(4) and payments under sections 6420 and 6421), or 4041 or 4081 (with respect to payments under section 6427) and as if the person who made the claim were liable for such tax. The period for assessing any such portion, and for assessing any such penalty, shall be 3 years from the last day prescribed for the filing of the claim under section 6416(a)(4), 6420, 6421, or 6427, as the case may be.
+Any portion of a refund made under section 6416(a)(4) and any portion of a payment made under section 6420, 6421, 6427, or 6435 which constitutes an excessive amount (as defined in section 6675(b)), and any civil penalty provided by section 6675, may be assessed and collected as if it were a tax imposed by section 4081 (with respect to refunds under section 6416(a)(4) and payments under sections 6420, 6421, and 6435), or 4041 or 4081 (with respect to payments under section 6427) and as if the person who made the claim were liable for such tax. The period for assessing any such portion, and for assessing any such penalty, shall be 3 years from the last day prescribed for the filing of the claim under section 6416(a)(4), 6420, 6421, 6427, or 6435, as the case may be.
 
 ### Statutory Notes
 
@@ -225,6 +225,8 @@ Any portion of a refund made under section 6416(a)(4) and any portion of a payme
 A prior section 6206 was renumbered 6207 of this title.
 
 #### Amendments
+2025—Pub. L. 119–21 substituted “6427, or 6435” for “or 6427” in two places and “6420, 6421, and 6435” for “6420 and 6421”.
+
 2005—Pub. L. 109–59 substituted “certain sections” for “sections 6420, 6421, and 6427” in section catchline, in first sentence substituted “Any portion of a refund made under section 6416(a)(4) and any portion” for “Any portion” and “refunds under section 6416(a)(4) and payments under sections 6420” for “payments under sections 6420”, and in second sentence substituted “section 6416(a)(4), 6420” for “section 6420”.
 
 2004—Pub. L. 108–357 substituted “or 4081” for “, 4081, or 4091”.
@@ -240,6 +242,9 @@ A prior section 6206 was renumbered 6207 of this title.
 1965—Pub. L. 89–44 struck out “6420 and 6421” wherever appearing in section catchline and text and substituted therefor “6420, 6421, and 6424” and inserted “(or, in the case of lubricating oil, by section 4091)” after “4081” in text.
 
 1956—Act June 29, 1956, inserted reference to excessive claims under section 6421 in section catchline and text.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VII, § 70525(c), July 4, 2025, 139 Stat. 283, provided that: “The amendments made by this section [enacting [section 6435 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6435) and amending this section and sections 6430 and 6675 of this title] shall apply to eligible indelibly dyed diesel fuel or kerosene removed on or after the date that is 180 days after the date of the enactment of this section [July 4, 2025].”
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–59 applicable to sales after Dec. 31, 2005, see section 11163(e) of Pub. L. 109–59, set out as a note under [section 4101 of this title](./chapter-032-manufacturers-excise-taxes.md#section-4101).
@@ -736,9 +741,9 @@ Pub. L. 105–206, title III, § 3504, July 22, 1998, 112 Stat. 771, provided th
 
   (H) an omission of a correct TIN required under section 21 (relating to expenses for household and dependent care services necessary for gainful employment) or section 151 (relating to allowance of deductions for personal exemptions),
 
-  (I) an omission of a correct TIN required under section 24(e) (relating to child tax credit) to be included on a return,
+  (I) an omission of a correct TIN required under section 24 (relating to child tax credit) to be included on a return,
 
-  (J) an omission of a correct TIN required under section 25A(g)(1) (relating to higher education tuition and related expenses) to be included on a return,
+  (J) an omission of a correct social security number or employer identification number required under section 25A(g)(1) (relating to higher education tuition and related expenses) to be included on a return,
 
   (K) an omission of information required by section 32(k)(2) (relating to taxpayers making improper prior claims of earned income credit) or an entry on the return claiming the credit under section 32 for a taxable year for which the credit is disallowed under subsection (k)(1) thereof,
 
@@ -760,13 +765,23 @@ Pub. L. 105–206, title III, § 3504, July 22, 1998, 112 Stat. 771, provided th
 
   (R) an omission of information or documentation required under section 25C(b)(6)(B) (relating to home energy audits) to be included on a return,
 
-  (S) 11 See Applicability of Amendment note below. an omission of a correct product identification number required under section 25C(h) (relating to credit for nonbusiness energy property) to be included on a return,
+  (S) an omission of a correct product identification number required under section 25C(h) (relating to credit for nonbusiness energy property) to be included on a return,
 
   (T) an omission of a correct vehicle identification number required under section 30D(f)(9) (relating to credit for new clean vehicles) to be included on a return,
 
-  (U) an omission of a correct vehicle identification number required under section 25E(d) (relating to credit for previously-owned clean vehicles) to be included on a return, and
+  (U) an omission of a correct vehicle identification number required under section 25E(d) (relating to credit for previously-owned clean vehicles) to be included on a return,
 
-  (V) an omission of a correct vehicle identification number required under section 45W(e) (relating to commercial clean vehicle credit) to be included on a return.
+  (V) an omission of a correct vehicle identification number required under section 45W(e) (relating to commercial clean vehicle credit) to be included on a return,
+
+  (W) an omission of a correct social security number required under section 151(d)(5)(C) (relating to deduction for seniors),
+
+  (X) an omission of a correct social security number required under section 108(f)(5)(C) (relating to discharges on account of death or disability),
+
+  (Y) an omission of a correct social security number required under section 224(e) (relating to deduction for qualified tips),
+
+  (Z) an omission of a correct social security number required under section 225(d) (relating to deduction for qualified overtime), and
+
+  (AA) an omission of a correct social security number required under section 6434(e)(1) (relating to the Trump accounts contribution pilot program).
   A taxpayer shall be treated as having omitted a correct TIN for purposes of the preceding sentence if information provided by the taxpayer on the return with respect to the individual whose TIN was provided differs from the information the Secretary obtains from the person issuing the TIN.
 
 **(h) Cross references**
@@ -779,12 +794,92 @@ Pub. L. 105–206, title III, § 3504, July 22, 1998, 112 Stat. 771, provided th
 
   (B) Recovery of foreign estate tax, see section 2016.
 
-(3) For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a).22 See References in Text note below.
+(3) For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a).11 See References in Text note below.
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Subsec. (g)(2)(S) of this section, as added by section 13301(g)(2) of Pub. L. 117–169, applicable to property placed in service after Dec. 31, 2024. See Effective Date of 2022 Amendment note below.
+#### Amendment of Subsection (b)
+Pub. L. 119–39, § 2(a)—(c), Nov. 25, 2025, 139 Stat. 659, 660, provided that, applicable to notices sent after the date which is 12 months after Nov. 25, 2025, subsection (b) of this section is amended as follows:
+
+(1) in paragraph (1)—
+
+(A) by striking “errors.—If the taxpayer” and inserting “errors
+
+“(A) In general
+
+“If the taxpayer”;
+
+(B) by striking “Each notice” in the second sentence and inserting “Subject to subparagraph (B), each notice”; and
+
+(C) by adding at the end the following new subparagraph:
+
+“(B) Specificity of math or clerical error notice
+
+“(i) In general
+
+“The notice provided under subparagraph (A) shall—
+
+“(I) be sent to the taxpayer’s last known address,
+
+“(II) describe the mathematical or clerical error in comprehensive, plain language, including—
+
+“(aa) the type of error,
+
+“(bb) the section of this title to which the error relates,
+
+“(cc) a description of the nature of the error, and
+
+“(dd) the specific line of the return on which the error was made,
+
+“(III) an itemized computation of any direct or incidental adjustments to be made to the return in correction of the error, including any adjustment to the amount of—
+
+“(aa) adjusted gross income,
+
+“(bb) taxable income,
+
+“(cc) itemized or standard deductions,
+
+“(dd) nonrefundable credits,
+
+“(ee) credits under section 24, 25A, 32, 35, or 36B, credits claimed with respect to undistributed long-term capital gains on Form 2439, credits for Federal taxes paid on fuels claimed on Form 4136, and any other refundable credits,
+
+“(ff) income tax,
+
+“(gg) other taxes,
+
+“(hh) total tax,
+
+“(ii) Federal income tax withheld or excess tax withheld under section 3101 or 3201(a),
+
+“(jj) estimated tax payments, including amount applied from prior year’s return,
+
+“(kk) refund or amount owed,
+
+“(ll) net operating loss carryforwards, or
+
+“(mm) credit carryforwards,
+
+“(IV) include the telephone number for the automated phone transcript service, and
+
+“(V) display the date by which the taxpayer may request to abate any assessment specified in such notice pursuant to paragraph (2)(A), in bold, font size 14, and immediately next to the taxpayer’s address on page 1 of the notice.
+
+“(ii) No lists of potential errors
+
+“A notice which provides multiple potential or alternative errors which may be applicable to the return shall not be sufficiently specific for purposes of clause (i)(II); however, if multiple specific errors apply to the return all such errors should be listed.”; and
+
+(2) in paragraph (2), by adding at the end the following new subparagraph:
+
+“(C) Notice
+
+“Upon determination of an abatement pursuant to subparagraph (A), the Secretary shall send notice to the taxpayer of such abatement which—
+
+“(i) is sent to the taxpayer’s last known address,
+
+“(ii) describes the abatement in comprehensive, plain language, and
+
+“(iii) provides an itemized computation of any adjustments to be made to the items described in the notice of mathematical or clerical error, including any changes to any item described in paragraph (1)(B)(i)(III).”
+
+See 2025 Amendment notes below.
 
 #### References in Text
 Section 453(h) of the Social Security Act, referred to in subsec. (g)(2)(M), is classified to [section 653(h) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section653/h&num=0&edition=prelim), The Public Health and Welfare.
@@ -795,6 +890,24 @@ Section 6230, referred to in subsec. (h)(3), was repealed by Pub. L. 114–74, t
 Pub. L. 113–295, div. A, title II, § 214(a)(2), Dec. 19, 2014, 128 Stat. 4034, which directed that subsec. (g)(2) of this section be amended by striking “and” at the end of subpar. (O), by striking the period at the end of subpar. (P) and inserting “, and”, and by inserting after subpar. (P) a new subpar. (Q), effective as if included in the provisions of Pub. L. 110–185 to which the amendments relate, could not literally be executed insofar as it directed the amendments to subpars. (O) and (P) because subsec. (g)(2), at the time of enactment of Pub. L. 110–185, did not contain subpars. (N) to (P). However, the amendment was considered to be executed by making the conforming amendments to subpars. (O) and (P) as added by sections 11(h) and 12(d) of Pub. L. 111–92, to reflect the probable intent of Congress and to allow for additional amendments by Pub. L. 113–295, which presume that such conforming amendments had taken place. See 2014 Amendment notes below.
 
 #### Amendments
+2025—Subsec. (b)(1). Pub. L. 119–39, § 2(a), designated existing provisions as subpar. (A), inserted heading, substituted “Subject to subparagraph (B), each notice” for “Each notice”, and added subpar. (B).
+
+Subsec. (b)(2)(C). Pub. L. 119–39, § 2(b), added subpar. (C).
+
+Subsec. (g)(2)(I). Pub. L. 119–21, § 70104(e), substituted “section 24” for “section 24(e)”.
+
+Subsec. (g)(2)(J). Pub. L. 119–21, § 70606(b), substituted “social security number or employer identification number” for “TIN”.
+
+Subsec. (g)(2)(W). Pub. L. 119–21, § 70103(b), added subpar. (W).
+
+Subsec. (g)(2)(X). Pub. L. 119–21, § 70119(b), added subpar. (X).
+
+Subsec. (g)(2)(Y). Pub. L. 119–21, § 70201(c), added subpar. (Y).
+
+Subsec. (g)(2)(Z). Pub. L. 119–21, § 70202(d), added subpar. (Z).
+
+Subsec. (g)(2)(AA). Pub. L. 119–21, § 70204(d)(3), added subpar. (AA).
+
 2022—Subsec. (g)(2)(R). Pub. L. 117–169, § 13301(f)(4), added subpar. (R).
 
 Subsec. (g)(2)(S). Pub. L. 117–169, § 13301(g)(2), added subpar. (S).
@@ -941,6 +1054,23 @@ Subsecs. (e), (f). Pub. L. 91–172, § 101(f)(3), added subsec. (e) and redesig
 
 1965—Subsec. (e)(3). Pub. L. 89–44 added par. (3).
 
+#### Effective Date of 2025 Amendment
+Pub. L. 119–39, § 2(c), Nov. 25, 2025, 139 Stat. 660, provided that: “The amendments made by this section [amending this section] shall apply to notices sent after the date which is 12 months after the date of the enactment of this Act [Nov. 25, 2025].”
+
+Amendment by section 70103(b) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2024, see section 70103(c) of Pub. L. 119–21, set out as a note under [section 151 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-151).
+
+Amendment by section 70104(e) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2024, see section 70104(f) of Pub. L. 119–21, set out as a note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
+
+Amendment by section 70119(b) of Pub. L. 119–21 applicable to discharges after Dec. 31, 2025, see section 70119(c) of Pub. L. 119–21, set out as a note under [section 108 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-108).
+
+Amendment by section 70201(c) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2024, see section 70201(j) of Pub. L. 119–21, set out as a note under [section 45B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45b).
+
+Amendment by section 70202(d) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2024, see section 70202(g) of Pub. L. 119–21, set out as a note under [section 63 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-63).
+
+Amendment by section 70204(d)(3) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2025, see section 70204(e) of Pub. L. 119–21, set out as an Effective Date note under [section 128 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-128).
+
+Amendment by section 70606(b) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2025, see section 70606(c) of Pub. L. 119–21, set out as a note under [section 25A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25a).
+
 #### Effective Date of 2022 Amendment
 Amendment by section 13301(f)(4) of Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2022, see section 13301(i)(1) of Pub. L. 117–169, set out in a note under [section 25C of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25c).
 
@@ -1056,6 +1186,12 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 
 #### Effective Date of 1965 Amendment
 Amendment by Pub. L. 89–44 applicable to taxable years beginning on or after July 1, 1965, see section 809(f) of Pub. L. 89–44, set out as a note under [section 6420 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6420).
+
+#### Procedures for Requesting Abatement
+Pub. L. 119–39, § 2(d), Nov. 25, 2025, 139 Stat. 660, provided that: “Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2025], the Secretary of the Treasury (or such Secretary’s delegate) shall provide for procedures by which a taxpayer may request an abatement referred to in section 6213(b)(1)(B)(i)(V) of the Internal Revenue Code of 1986 in writing, electronically, by telephone, or in person.”
+
+#### Pilot Program on Notices of Mathematical or Clerical Errors
+Pub. L. 119–39, § 2(e), Nov. 25, 2025, 139 Stat. 660, provided that: “Not later than 18 months after the date of the enactment of this Act [Nov. 25, 2025], the Secretary of the Treasury (or such Secretary’s delegate), in consultation with the National Taxpayer Advocate, shall— “(1) implement a pilot program to send a trial number of notices, in an amount which is a statistically significant portion of all such notices, of mathematical or clerical error pursuant to section 6213(b) of the Internal Revenue Code of 1986 by certified or registered mail with e-signature confirmation of receipt, and “(2) report to Congress, aggregated by the type of error under section 6213(g) of such Code to which the notices relate, on—“(A) the number of mathematical or clerical errors noticed under the program and the dollar amounts involved, “(B) the number of abatements of tax and the dollar amounts of such abatements, and “(C) the effect of such pilot program on taxpayer response and adjustments or abatements to tax, with conclusions drawn about the effectiveness of certified or registered mail, with and without return receipt, and any other recommendations for improving taxpayer response rates.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).

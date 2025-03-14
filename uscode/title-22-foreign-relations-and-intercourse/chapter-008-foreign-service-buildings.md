@@ -2,7 +2,7 @@
 title: 22
 chapter: '8'
 heading: FOREIGN SERVICE BUILDINGS
-section_count: 21
+section_count: 22
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -112,6 +112,9 @@ Section 101(a)(1) of this Act, referred to in subsec. (d), means section 101(a)(
 #### Codification
 Section was not enacted as part of the Foreign Service Buildings Act, 1926, which comprises this chapter.
 
+#### Restrictions on the Use of Funds for Solar Panels
+Pub. L. 118–159, div. G, title LXXII, § 7208, Dec. 23, 2024, 138 Stat. 2532, provided that: “The Department [of State] may not use Federal funds to procure any solar energy products that were manufactured in the Xinjiang Uyghur Autonomous Region of the People’s Republic of China or other regions in the country, which are known to be produced with forced labor.”
+
 
 <a id="section-293"></a>
 ## § 293. Repealed. Pub. L. 88–94, § 2(a), Aug. 12, 1963, 77 Stat. 122
@@ -152,6 +155,17 @@ Section was not enacted as a part of the Foreign Service Buildings Act, 1926, wh
 
 #### Prior Provisions
 Prior similar provisions were contained in act June 29, 1939, ch. 248, title I, 53 Stat. 890.
+
+
+<a id="section-294b"></a>
+## § 294b. Support co-location with allied partner nations
+
+The Secretary, following consultation which occurs a reasonable time in advance of the exercise of the authority and includes details on costs and purposes with the appropriate congressional committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives may alter, repair, and furnish United States Government-owned and leased space for use by the government of a foreign country to facilitate co-location of such government in such space, on such terms and conditions as the Secretary may determine, including with respect to reimbursement of all or part of the costs of such alteration, repair, or furnishing. Reimbursements or advances of funds pursuant to this section may be credited to the currently applicable appropriation and shall be available for the purposes for which such appropriation is authorized.
+
+### Statutory Notes
+
+#### Definitions
+For definitions of “Secretary” and “appropriate congressional committees” as used in this section, see section 7002 of Pub. L. 118–159, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
 
 
 <a id="section-295"></a>

@@ -2,7 +2,7 @@
 title: 42
 heading: THE PUBLIC HEALTH AND WELFARE
 positive_law: false
-sections: 8443
+sections: 8461
 chapters: 195
 ---
 # Title 42. THE PUBLIC HEALTH AND WELFARE

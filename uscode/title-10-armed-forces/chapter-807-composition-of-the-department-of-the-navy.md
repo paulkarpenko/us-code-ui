@@ -58,9 +58,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
   (B) October 1, 2025;
 
-(2) after the earlier of the two dates referred to in subparagraphs (A) and (B) of paragraph (1), the Navy maintains a minimum of 10 carrier air wings; and
+(2) after the earlier of the two dates referred to in subparagraphs (A) and (B) of paragraph (1), the Navy maintains a minimum of 10 carrier air wings;
 
-(3) for each such carrier air wing, the Navy maintains a dedicated and fully staffed headquarters.
+(3) for each such carrier air wing, the Navy maintains a dedicated and fully staffed headquarters; and
+
+(4) the Navy prioritizes scheduled maintenance and repair actions to maintain the minimum number of available amphibious warfare ships to meet operational requirements.
 
 **(f)**
 
@@ -123,6 +125,8 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 A prior section 8062 was renumbered [section 9062 of this title](./chapter-907-the-air-force.md#section-9062).
 
 #### Amendments
+2025—Subsec. (e)(4). Pub. L. 119–60 added par. (4).
+
 2023—Subsec. (e). Pub. L. 118–31, § 121(a)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to the Secretary’s obligation to maintain a minimum of 9 carrier air wings, with future support for 10 carrier air wings.
 
 Subsecs. (g), (h). Pub. L. 118–31, § 1801(a)(38), redesignated subsec. (g) defining amphibious warfare ship as (h).

@@ -2,7 +2,7 @@
 title: 2
 chapter: '28'
 heading: ARCHITECT OF THE CAPITOL
-section_count: 72
+section_count: 73
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -951,6 +951,12 @@ Section is from the Legislative Branch Appropriations Act, 2008, which is div. H
 
 #### Codification
 Section is from the Legislative Branch Appropriations Act, 2010, which is div. A of Pub. L. 111–68.
+
+
+<a id="section-1828"></a>
+## § 1828. Administration of public outreach and services for Capitol Grounds and Arboretum
+
+For this fiscal year and each fiscal year thereafter, the Architect of the Capitol, subject to the approval of the Committees on Appropriations of the Senate and House of Representatives, may enter into cooperative agreements with entities under such terms as the Architect determines advisable, in order to support the Capitol Grounds and Arboretum in carrying out its duties, authorities and mission, and may engage in plant material exchanges between the Capitol Grounds and Arboretum and other entities including Federal, State, or local government agencies, botanic gardens, arboretums, educational institutions, non-profit organizations, municipal parks, and gardens.
 
 
 <a id="section-1831"></a>

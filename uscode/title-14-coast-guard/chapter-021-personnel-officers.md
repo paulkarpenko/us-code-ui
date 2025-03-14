@@ -2,7 +2,7 @@
 title: 14
 chapter: '21'
 heading: PERSONNEL; OFFICERS
-section_count: 60
+section_count: 61
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -102,7 +102,7 @@ J.R. Biden, Jr.
 
 <a id="section-2102"></a>
 ## § 2102. Active duty promotion list
-**(a)** The Secretary shall maintain a single active duty promotion list of officers of the Coast Guard on active duty in the grades of ensign and above. Reserve officers on active duty, other than pursuant to an active duty agreement executed under [section 12311 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12311&num=0&edition=prelim), retired officers, and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not be included on the active duty promotion list.
+**(a)** The Secretary shall maintain a single active duty promotion list of officers of the Coast Guard on active duty in the grades of ensign and above. Reserve officers on active duty, other than pursuant to an active duty agreement executed under [section 12311 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12311&num=0&edition=prelim), retired officers, officers of the permanent commissioned teaching staff of the Coast Guard Academy, and officers designated by the Secretary pursuant this section shall not be included on the active duty promotion list.
 
 **(b)** Officers shall be carried on the active duty promotion list in the order of seniority of the grades in which they are serving. Officers serving in the same grade shall be carried in the order of their seniority in that grade. The Secretary may correct any erroneous position on the active duty promotion list that was caused by administrative error.
 
@@ -113,6 +113,8 @@ J.R. Biden, Jr.
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 substituted “officers of the permanent commissioned teaching staff of the Coast Guard Academy, and officers designated by the Secretary pursuant this section” for “and officers of the permanent commissioned teaching staff of the Coast Guard Academy”.
+
 2021—Subsec. (c). Pub. L. 116–283 substituted “An individual” for “A person”.
 
 2018—Pub. L. 115–282 renumbered [section 41a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section41a&num=0&edition=prelim) as this section.
@@ -175,7 +177,13 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 **(d) Use of Numbers; Temporary Increases.—** The numbers resulting from computations under subsection (c) shall be, for all purposes, the authorized number in each grade; except that the authorized number for a grade is temporarily increased during the period between one computation and the next by the number of officers originally appointed in that grade during that period and the number of officers of that grade for whom vacancies exist in the next higher grade but whose promotion has been delayed for any reason.
 
-**(e) Officers Serving Coast Guard Academy and Reserve.—** The number of officers authorized to be serving on active duty in each grade of the permanent commissioned teaching staff of the Coast Guard Academy and of the Reserve serving in connection with organizing, administering, recruiting, instructing, or training the reserve components shall be prescribed by the Secretary.
+**(e) Secretary to Prescribe Numbers for Certain Officers.—** The Secretary shall prescribe the number of officers authorized to be serving on active duty in each grade of—
+
+(1) the permanent commissioned teaching staff of the Coast Guard Academy;
+
+(2) the officers designated by the Secretary pursuant to this section; and
+
+(3) the officers of the Reserve serving in connection with organizing, administering, recruiting, instructing, or training the reserve components.
 
 ### Statutory Notes
 
@@ -185,6 +193,8 @@ Based on title 14, U.S.C., 1946 ed., § 6a (July 23, 1947, ch. 301, § 1, 61 Sta
 The only change is in phraseology in the second sentence, it being necessary to include the extra numbers authorized by the act of July 23, 1947, in the figure given as the present number of extra numbers in the Coast Guard. 81st Congress, House Report No. 557.
 
 #### Amendments
+2025—Subsec. (e). Pub. L. 119–60 amended subsec. (e) generally. Prior to amendment, text read as follows: “The number of officers authorized to be serving on active duty in each grade of the permanent commissioned teaching staff of the Coast Guard Academy and of the Reserve serving in connection with organizing, administering, recruiting, instructing, or training the reserve components shall be prescribed by the Secretary.”
+
 2022—Subsec. (a). Pub. L. 117–263 amended subsec. (a) generally. Prior to amendment, text read as follows: “The total number of Coast Guard commissioned officers on the active duty promotion list, excluding warrant officers, shall not exceed 6,900; except that the Commandant may temporarily increase that number by up to 2 percent for no more than 60 days following the date of the commissioning of a Coast Guard Academy class.”
 
 2021—Subsec. (c)(3). Pub. L. 116–283 substituted “vice admiral” for “rear admiral (lower half)”.
@@ -992,11 +1002,13 @@ Authority of President under subsec. (a) of this section, as invoked by section 
 <a id="section-2126"></a>
 ## § 2126. Promotion of officers not included on active duty promotion list
 
-Officers who are not included on the active duty promotion list may be promoted under regulations to be prescribed by the Secretary. These regulations shall, as to officers serving in connection with organizing, administering, recruiting, instructing, or training the reserve components, provide as nearly as practicable, that such officers will be selected and promoted in the same manner and will be afforded equal opportunity for promotion as officers of the corresponding grade on the active duty promotion list.
+Officers who are not included on the active duty promotion list may be promoted under regulations to be prescribed by the Secretary. These regulations shall, as to officers serving in connection with organizing, administering, recruiting, instructing, or training the reserve components and as to officers designated by the Secretary pursuant to this section, provide as nearly as practicable, that such officers will be selected and promoted in the same manner and will be afforded equal opportunity for promotion as officers of the corresponding grade on the active duty promotion list.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Pub. L. 119–60 inserted “and as to officers designated by the Secretary pursuant to this section” after “reserve components” in second sentence.
+
 2018—Pub. L. 115–282 renumbered [section 276 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section276&num=0&edition=prelim) as this section.
 
 
@@ -1008,7 +1020,7 @@ In time of war or national emergency, the Secretary may order any regular office
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–282 renumbered [section 331 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section331&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–282 renumbered [section 331 of this title](./chapter-003-composition-and-organization.md#section-331) as this section.
 
 #### Delegation of Authority
 For delegation of authority under this section, as invoked by section 2 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, to Secretary of Homeland Security when Coast Guard is not serving as part of Navy, see section 5 of Ex. Ord. No. 13223, set out as a note under [section 12302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12302&num=0&edition=prelim), Armed Forces.
@@ -1023,7 +1035,7 @@ For delegation of authority under this section, as invoked by section 2 of Ex. O
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–282 renumbered [section 332 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section332&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–282 renumbered [section 332 of this title](./chapter-003-composition-and-organization.md#section-332) as this section.
 
 1991—Subsec. (a). Pub. L. 102–241, § 14(b), substituted “that officer’s” for “his” and “that officer” for “he”.
 
@@ -1160,6 +1172,23 @@ Subsec. (a). Pub. L. 115–282, § 313, inserted “designated under section 231
     (iv) geographic origin; and
 
     (v) educational institution.
+
+
+<a id="section-2132"></a>
+## § 2132. Designation of officers with particular expertise in military justice or healthcare
+**(a) Secretary Designation.—** The Secretary may designate a limited number of officers of the Coast Guard as having particular expertise in—
+
+(1) military justice; or
+
+(2) healthcare.
+
+**(b) Promotion and Grade.—** An individual designated under this section—
+
+(1) shall not be included on the active duty promotion list;
+
+(2) shall be promoted under section 2126; and
+
+(3) may not be promoted to a grade higher than captain.
 
 
 <a id="section-2141"></a>
@@ -1641,9 +1670,35 @@ Savings provisions in section 5(g) of Pub. L. 88–130, providing that Pub. L. 8
 
   (B) by the Secretary of the department in which the Coast Guard is operating, but such a deferment may not extend beyond the first day of the month following the month in which the officer becomes 66 years of age.
 
+**(c) Deferred Retirement or Separation for Health Professions Officers.—**
+
+(1) **In general.—** — Subject to paragraph (2), the Secretary may defer the retirement or separation under subsection (a) of a health professions officer if, during the period of the deferment, the health professions officer will be performing duties that consist primarily of providing patient care or performing other clinical duties.
+
+(2) **Limitation.—** — A deferment under this subsection may not extend beyond the first day of the month following the month in which the health professions officer concerned becomes 68 years of age.
+
+(3) **Designation.—** — The Secretary may designate as health professions officers a category of members of the Coast Guard whose duties consist primarily of—
+
+  (A) providing health care;
+
+  (B) performing other clinical care, including radiology, specialty care, behavioral health care, pharmacy care, medical laboratory, or testing; or
+
+  (C) performing health care-related administrative duties.
+
+(4) **Rule of construction.—** — Nothing in this subsection may be construed to prohibit or modify the application of any provision relating to mandatory separation or disciplinary action.
+
+(5) **Health professions officer defined.—** — In this subsection, the term “health professions officer” means an officer or enlisted member of the Coast Guard in good standing who is—
+
+  (A) a physician, surgeon, medical specialist, nurse or nurse practitioner, physician’s assistant, health service technician, therapist, fully licensed clinical psychotherapist, counselor, social worker, medical assistant, radiology assistant, pharmacist, pharmacy assistant, nutritionist, dietitian, any administrative personnel associated with a Coast Guard medical program (including a clinic), personnel who works in a medical laboratory, physical therapist, physical therapist aide, occupational therapist, or occupational therapist aide;
+
+  (B) a dentist, dental assistant, oral surgeon, or any other dental-related personnel; or
+
+  (C) a member of a category designated by the Secretary under paragraph (3).
+
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 119–60 added subsec. (c).
+
 2018—Pub. L. 115–282 renumbered [section 293 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section293&num=0&edition=prelim) as this section.
 
 
@@ -1691,7 +1746,7 @@ During any period in which the Coast Guard is not operating as a service in the 
 <a id="section-2158"></a>
 ## § 2158. Review of records of officers
 
-The Secretary may at any time convene a board of officers to review the record of any officer of the Regular Coast Guard to determine whether he shall be required to show cause for his retention on active duty—
+The Secretary shall prescribe, by regulation, procedures to review the record of any officer of the Regular Coast Guard to determine whether he shall be required to show cause for his retention on active duty—
 
 (1) because his performance of duty has fallen below the standards prescribed by the Secretary, or
 
@@ -1700,7 +1755,9 @@ The Secretary may at any time convene a board of officers to review the record o
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–282 renumbered [section 321 of this title](./chapter-003-composition-and-organization.md#section-321) as this section.
+2025—Pub. L. 119–60 substituted “shall prescribe, by regulation, procedures” for “may at any time convene a board of officers” in introductory provisions.
+
+2018—Pub. L. 115–282 renumbered [section 321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section321&num=0&edition=prelim) as this section.
 
 
 <a id="section-2159"></a>
@@ -1709,14 +1766,16 @@ The Secretary may at any time convene a board of officers to review the record o
 
 **(b)** A fair and impartial hearing before a board of inquiry shall be given to each officer so required to show cause for retention.
 
-**(c)** If a board of inquiry determines that the officer has failed to establish that he should be retained, it shall send the record of its proceedings to a board of review.
+**(c)** If a board of inquiry determines that the officer has failed to establish that he should be retained, it shall recommend to the Secretary that the officer not be retained on active duty.
 
 **(d)** If a board of inquiry determines that the officer has established that he should be retained, his case is closed. However, at any time after one year from the date of the determination in a case arising under clause (1) of [section 2158 of this title](./chapter-021-personnel-officers.md#section-2158), and at any time after the date of the determination in a case arising under clause (2) of that section, an officer may again be required to show cause for retention.
 
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–282, § 112(b), renumbered [section 322 of this title](./chapter-003-composition-and-organization.md#section-322) as this section.
+2025—Subsec. (c). Pub. L. 119–60 substituted “recommend to the Secretary that the officer not be retained on active duty” for “send the record of its proceedings to a board of review”.
+
+2018—Pub. L. 115–282, § 112(b), renumbered [section 322 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section322&num=0&edition=prelim) as this section.
 
 Subsecs. (a), (d). Pub. L. 115–282, § 123(b)(2), substituted “section 2158” for “section 321”.
 
@@ -1724,32 +1783,24 @@ Subsecs. (a), (d). Pub. L. 115–282, § 123(b)(2), substituted “section 2158�
 
 
 <a id="section-2160"></a>
-## § 2160. Boards of review
-**(a)** Boards of review shall be convened at such times as the Secretary may prescribe, to review the records of cases of officers recommended by boards of inquiry for removal.
-
-**(b)** If, after reviewing the record of the case, a board of review determines that the officer has failed to establish that he should be retained, it shall send its recommendation to the Secretary for his action.
-
-**(c)** If, after reviewing the record of the case, a board of review determines that the officer has established that he should be retained on active duty, his case is closed. However, at any time after one year from the date of the determination in a case arising under clause (1) of [section 2158 of this title](./chapter-021-personnel-officers.md#section-2158) and at any time after the date of the determination in a case arising under clause (2) of that section, an officer may again be required to show cause for retention.
+## § 2160. Repealed. Pub. L. 119–60, div. G, title LXXII, § 7223(c), Dec. 18, 2025, 139 Stat. 1702]
 
 ### Statutory Notes
 
-#### Amendments
-2018—Pub. L. 115–282, § 112(b), renumbered [section 323 of this title](./chapter-003-composition-and-organization.md#section-323) as this section.
-
-Subsec. (c). Pub. L. 115–282, § 123(b)(2), substituted “section 2158” for “section 321”.
-
-1982—Subsec. (c). Pub. L. 97–295 inserted “of this title” after “section 321”.
+Section, added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 188, § 323; amended Pub. L. 97–295, § 2(10), Oct. 12, 1982, 96 Stat. 1302; renumbered § 2160 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240, related to boards of review.
 
 
 <a id="section-2161"></a>
 ## § 2161. Composition of boards
-**(a)** A board convened under section 2158, 2159, or 2160 of this title shall consist of at least three officers of the grade of commander or above, all of whom are serving in a grade senior to the grade of any officer considered by the board.
+**(a)** A board convened under section 2158 or 2159 of this title shall consist of at least three officers of the grade of commander or above, all of whom are serving in a grade senior to the grade of any officer considered by the board.
 
-**(b)** No individual may be a member of more than one board convened under section 2158, 2159, or 2160 of this title to consider the same officer.
+**(b)** No individual may be a member of more than one board convened under section 2158 or 2159 of this title to consider the same officer.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsecs. (a), (b). Pub. L. 119–60 substituted “section 2158 or 2159” for “section 2158, 2159, or 2160”.
+
 2021—Subsec. (b). Pub. L. 116–283 substituted “individual” for “person”.
 
 2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2158, 2159, or 2160” for “section 321, 322, or 323” in subsecs. (a) and (b).
@@ -1781,11 +1832,13 @@ Pub. L. 115–282, § 112(b), renumbered [section 325 of this title](https://usc
 <a id="section-2163"></a>
 ## § 2163. Removal of officer from active duty; action by Secretary
 
-The Secretary may remove an officer from active duty if his removal is recommended by a board of review under [section 2160 of this title](./chapter-021-personnel-officers.md#section-2160). The Secretary’s action in such as case is final and conclusive.
+The Secretary may remove an officer from active duty if his removal is recommended by a board of inquiry under [section 2159 of this title](./chapter-021-personnel-officers.md#section-2159). The Secretary’s action in such as case is final and conclusive.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Pub. L. 119–60 substituted “board of inquiry under [section 2159 of this title](./chapter-021-personnel-officers.md#section-2159)” for “board of review under [section 2160 of this title](./chapter-021-personnel-officers.md#section-2160)”.
+
 2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2160” for “section 323”.
 
 Pub. L. 115–282, § 112(b), renumbered [section 326 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section326&num=0&edition=prelim) as this section.
@@ -1793,7 +1846,7 @@ Pub. L. 115–282, § 112(b), renumbered [section 326 of this title](https://usc
 
 <a id="section-2164"></a>
 ## § 2164. Officers considered for removal; retirement or discharge; separation benefits
-**(a)** At any time during proceedings under section 2159 or 2160 of this title, and before the removal of an officer, the Secretary may grant a request—
+**(a)** At any time during proceedings under [section 2159 of this title](./chapter-021-personnel-officers.md#section-2159), and before the removal of an officer, the Secretary may grant a request—
 
 (1) for voluntary retirement, if the officer is otherwise qualified therefor; or
 
@@ -1808,6 +1861,8 @@ Pub. L. 115–282, § 112(b), renumbered [section 326 of this title](https://usc
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 struck out “or 2160” after “section 2159” in introductory provisions.
+
 2018—Pub. L. 115–282, § 112(b), renumbered [section 327 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section327&num=0&edition=prelim) as this section.
 
 Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2159 or 2160” for “section 322 or 323” in introductory provisions.
@@ -1820,13 +1875,13 @@ Subsec. (b)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 2146(c)�
 
 2002—Pub. L. 107–295, § 416(a)(5)(A), substituted “separation” for “severance” in section catchline.
 
-Subsec. (a)(2). Pub. L. 107–295, § 416(a)(5)(B), added par. (2) and struck out former par. (2) which read as follows: “for honorable discharge with severance benefits under subsection (b) in those cases arising under clause (1) of [section 321 of this title](./chapter-003-composition-and-organization.md#section-321); or”.
+Subsec. (a)(2). Pub. L. 107–295, § 416(a)(5)(B), added par. (2) and struck out former par. (2) which read as follows: “for honorable discharge with severance benefits under subsection (b) in those cases arising under clause (1) of [section 321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section321&num=0&edition=prelim); or”.
 
-Subsec. (a)(3). Pub. L. 107–295, § 416(a)(5)(C), struck out par. (3) which read as follows: “for discharge with severance benefits under subsection (b) in those cases arising under clause (2) of [section 321 of this title](./chapter-003-composition-and-organization.md#section-321).”
+Subsec. (a)(3). Pub. L. 107–295, § 416(a)(5)(C), struck out par. (3) which read as follows: “for discharge with severance benefits under subsection (b) in those cases arising under clause (2) of [section 321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section321&num=0&edition=prelim).”
 
-Subsec. (b)(2). Pub. L. 107–295, § 416(a)(5)(D), added par. (2) and struck out former par. (2) which read as follows: “if on that date the officer is ineligible for voluntary retirement under any law, be honorably discharged in the grade then held with severance pay computed by multiplying his years of active commissioned service, but not more than twelve, by one month’s basic pay of that grade, in those cases arising under clause (1) of [section 321 of this title](./chapter-003-composition-and-organization.md#section-321); or”.
+Subsec. (b)(2). Pub. L. 107–295, § 416(a)(5)(D), added par. (2) and struck out former par. (2) which read as follows: “if on that date the officer is ineligible for voluntary retirement under any law, be honorably discharged in the grade then held with severance pay computed by multiplying his years of active commissioned service, but not more than twelve, by one month’s basic pay of that grade, in those cases arising under clause (1) of [section 321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section321&num=0&edition=prelim); or”.
 
-Subsec. (b)(3). Pub. L. 107–295, § 416(a)(5)(E), struck out par. (3) which read as follows: “if on that date the officer is ineligible for voluntary retirement under any law, be discharged in the grade then held with severance pay computed by multiplying his years of active commissioned service, but not more than twelve, by one month’s basic pay of that grade, in those cases arising under clause (2) of [section 321 of this title](./chapter-003-composition-and-organization.md#section-321), unless the Secretary determines that the conditions under which the officer is discharged or separated do not warrant payment of that amount of severance pay.”
+Subsec. (b)(3). Pub. L. 107–295, § 416(a)(5)(E), struck out par. (3) which read as follows: “if on that date the officer is ineligible for voluntary retirement under any law, be discharged in the grade then held with severance pay computed by multiplying his years of active commissioned service, but not more than twelve, by one month’s basic pay of that grade, in those cases arising under clause (2) of [section 321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section321&num=0&edition=prelim), unless the Secretary determines that the conditions under which the officer is discharged or separated do not warrant payment of that amount of severance pay.”
 
 1998—Subsec. (b)(3). Pub. L. 105–383 inserted before period at end “, unless the Secretary determines that the conditions under which the officer is discharged or separated do not warrant payment of that amount of severance pay”.
 
@@ -1846,7 +1901,7 @@ Any regular officer on the retired list recalled to active duty who during such 
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–282 renumbered [section 333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section333&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–282 renumbered [section 333 of this title](./chapter-003-composition-and-organization.md#section-333) as this section.
 
 
 <a id="section-2166"></a>
@@ -1868,7 +1923,7 @@ The Secretary shall prescribe regulations under which the physical fitness of of
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–282 renumbered [section 335 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section335&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–282 renumbered [section 335 of this title](./chapter-003-composition-and-organization.md#section-335) as this section.
 
 
 <a id="section-2182"></a>
@@ -1926,4 +1981,4 @@ Subsec. (a)(1). Pub. L. 115–232 substituted “Commandant” for “Commandant
 2016—Subsec. (a)(1). Pub. L. 114–328 substituted “Coast Guard Authorization Act of 2016” for “Coast Guard Authorization Act of 2015”.
 
 #### Effective Date of 2016 Amendment
-Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under [section 315 of this title](./chapter-003-composition-and-organization.md#section-315).
+Pub. L. 114–328, div. C, title XXXV, § 3503(e), Dec. 23, 2016, 130 Stat. 2775, provided that: “The amendments made by this section [amending this section, sections 315, 676a, and 2702 of this title, sections 3104, 4503, and 7510 of Title 46, Shipping, and provisions set out as a note under [section 1151 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1151&num=0&edition=prelim), Conservation] shall take effect as if included in the enactment of Public Law 114–120 [Feb. 8, 2016].”

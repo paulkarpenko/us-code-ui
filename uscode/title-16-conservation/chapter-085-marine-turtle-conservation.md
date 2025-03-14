@@ -226,9 +226,17 @@ Pars. (3) to (10). Pub. L. 116–9, § 7001(c)(3)(B)(ii)–(v), added pars. (3),
 
 (2) **Availability to the public** — Reports under paragraph (1), and any other documents relating to projects for which financial assistance is provided under this chapter, shall be made available to the public.
 
+**(h) Multiyear grants**
+
+(1) **Authorization** — The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for marine turtles, freshwater turtles, or tortoises and the habitat of marine turtles, freshwater turtles, or tortoises.
+
+(2) **Effect** — Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
+
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (h). Pub. L. 118–159 added subsec. (h).
+
 2019—Pub. L. 116–9, § 7001(c)(3)(C)(i), struck out “Marine turtle” before “Conservation” in section catchline.
 
 Subsec. (a). Pub. L. 116–9, § 7001(c)(3)(C)(ii), inserted “, freshwater turtles, or tortoises” after “marine turtles”.
@@ -320,7 +328,7 @@ Subsec. (b)(2). Pub. L. 116–9, § 7001(c)(3)(D)(ii), substituted “5 percent,
 
 <a id="section-6606"></a>
 ## § 6606. Authorization of appropriations
-**(a) In general** There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2019 through 2023.
+**(a) In general** There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2025 through 2029.
 
 **(b) Allocation** Of the amounts made available for each fiscal year pursuant to subsection (a)—
 
@@ -331,6 +339,8 @@ Subsec. (b)(2). Pub. L. 116–9, § 7001(c)(3)(D)(ii), substituted “5 percent,
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159 substituted “2025 through 2029” for “2019 through 2023”.
+
 2019—Pub. L. 116–9 amended section generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2005 through 2009.”
 
 

@@ -2,7 +2,7 @@
 title: 10
 chapter: '863'
 heading: NAVAL VESSELS
-section_count: 42
+section_count: 44
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -23,6 +23,18 @@ The President may establish, and from time to time modify, as the needs of the s
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Strategy for Navy Investment in and Support for the Maritime Industrial Base
+Pub. L. 119–60, div. A, title X, § 1019, Dec. 18, 2025, 139 Stat. 1032, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of the Navy shall develop and implement a strategy for investing in and supporting the maritime industrial base to address cost and schedule challenges for surface and submarine shipbuilding programs. “(b) Elements.—The strategy under subsection (a) shall—“(1) focus on ensuring reliable supplies of sequence critical components for submarine and surface shipbuilding programs; and “(2) include measures—“(A) to identify key performance indicators to measure return on investment; “(B) to centralize data collection to support further analysis of maritime industrial base performance; and “(C) to apply artificial intelligence to monitor and predict potential supply chain challenges, including potential disruptions, material shortages, delivery delays, and other such factors. “(c) Report.—Following completion of the strategy required under subsection (a), but not later than 210 days after the date of the enactment of this Act, the Secretary of the Navy shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the strategy. The report shall include—“(1) a summary of the strategy; “(2) timelines for implementation of the strategy; and “(3) an explanation of how the strategy is expected to address cost and schedule challenges for surface and submarine shipbuilding programs.”
+
+#### Pilot Program on Use of Automated Shipbuilding Technologies and Capabilities
+Pub. L. 119–60, div. A, title X, § 1021, Dec. 18, 2025, 139 Stat. 1033, provided that: “(a) In General.—Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of the Navy shall establish a pilot program on the use of automated assembly technologies and capabilities in naval shipbuilding to reduce overall construction times and alleviate workforce constraints (in this section referred to as the ‘pilot program’). “(b) Elements of Pilot Program.—In carrying out the pilot program, the Secretary of the Navy shall—“(1) identify and select available novel automated hull assembly technologies for incorporation and demonstration; “(2) designate at least one surface ship or submarine program to demonstrate the automated technologies identified under paragraph (1); “(3) carry out such demonstrations; “(4) evaluate the demonstrated automated technologies—“(A) across a range of functions, including plate preparation, welding, and block assembly; and “(B) for compatibility and ease of adoption into the existing shipbuilding value chain; and “(5) assess the feasibility and effectiveness of automated approaches in improving subassembly construction times, overall ship construction schedules, and workforce efficiency and safety. “(c) Reports.—“(1) In general.—Not later than September 30, 2026, and annually thereafter until the pilot program terminates, the Secretary of the Navy shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the implementation and results of the pilot program. “(2) Elements of reports.—Each report required by paragraph (1) shall include the following:“(A) An identification of the time required to adapt specific technologies and processes. “(B) A description of the impact of the pilot program on workforce and construction schedules. “(d) Termination.—The pilot program shall terminate on the date that is three years after the date of the enactment of this Act [Dec. 18, 2025].”
+
+#### Requirements for the Unmanned Maritime Autonomy Architecture
+Pub. L. 118–159, div. A, title X, § 1031, Dec. 23, 2024, 138 Stat. 2058, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of the Navy shall— “(1) provide a forum and resources to facilitate industry participation in the creation and management of a vendor-agnostic and platform-agnostic modular open systems architecture and associated standards for maritime unmanned systems; “(2) adopt or join a governance model for the standards described in paragraph (1) that includes Government and industry participation; “(3) implement a frequent or continuous process for incorporating industry feedback into the standards described in paragraph (1) and conforming those standards with leading industry practices; “(4) for each relevant Navy program or contract, tailor the standards described in paragraph (1) to the minimum standards necessary to enable desired operational capabilities for the program or contract; and “(5) label and distribute the standards described in paragraph (1) as open, publicly releasable information, to the greatest extent possible.”
+
+#### Requirement for Mature Ship Design
+Pub. L. 118–159, div. A, title X, § 1033, Dec. 23, 2024, 138 Stat. 2060, provided that: “The Secretary of the Navy shall take such actions as are necessary for the Navy to adopt recommendations 1, 3, 4, and 6 in the report of the Government Accountability Office titled, ‘Navy Shipbuilding: Increased Use of Leading Design Practices Could Improve Timeliness of Deliveries’, and dated May 2, 2024 (GAO–24–105503).”
 
 #### Policy of the United States on Minimum Number of Battle Force Ships
 Pub. L. 115–91, div. A, title X, § 1025, Dec. 12, 2017, 131 Stat. 1549, as amended by Pub. L. 118–31, div. A, title X, § 1020, Dec. 22, 2023, 137 Stat. 385, provided that: “(a) Policy.—It shall be the policy of the United States—“(1) to have available, as soon as practicable, not fewer than 355 battle force ships, comprised of the optimal mix of platforms, with funding subject to the availability of appropriations or other funds; and “(2) that the United States shipbuilding defense industrial base is fundamental to achieving the shipbuilding requirements of the Navy and constitutes a unique national security imperative that requires sustainment and support by the Navy and Congress. “(b) Battle Force Ships Defined.—In this section, the term ‘battle force ship’ has the meaning given the term in Secretary of the Navy Instruction 5030.8C.”
@@ -202,7 +214,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (3) Paragraph (1) does not apply in the case of voyage repairs.
 
-(4) In this subsection, the term “short-term work” means work that will be for a period of 10 months or less.
+(4) In this subsection, the term “short-term work” means work that will be for a period of 18 months or less.
 
 ### Statutory Notes
 
@@ -214,6 +226,10 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 In subsection (a), the words “combatant vessels” are substituted for “warships” for consistency in title 10 and because of 1:3. The words “for which appropriations are authorized by this Act and hereafter” are omitted as unnecessary.
 
 #### Amendments
+2025—Subsec. (c)(4). Pub. L. 119–60 substituted “18 months” for “12 months”.
+
+2024—Subsec. (c)(4). Pub. L. 118–159 substituted “12 months” for “10 months”.
+
 2018—Pub. L. 115–232 renumbered [section 7299a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7299a&num=0&edition=prelim) as this section.
 
 2016—Subsec. (c)(4). Pub. L. 114–328 substituted “10 months” for “six months”.
@@ -259,7 +275,7 @@ For delegation of authority of President under subsec. (a) of this section, see 
 
   (A) possesses the technical expertise required to carry out the responsibilities specified in subsection (b); and
 
-  (B) operates independently of chains-of-command for acquisition program management.
+  (B) reports directly to the portfolio acquisition executive, established under [section 1732 of this title](./chapter-087-defense-acquisition-workforce.md#section-1732).
 
 (3) **Term.—** — Each Senior Technical Authority shall be designated for a fixed term, not shorter than the time anticipated to establish demonstrated successful performance of the class of vessels concerned in accordance with its approved capabilities document, as determined by the Secretary at the time of designation.
 
@@ -269,7 +285,11 @@ For delegation of authority of President under subsec. (a) of this section, see 
 
 (6) **Reassignment for mission needs.—** — Subject to paragraphs (4) and (5), the Secretary may reassign a Senior Technical Authority or remove an individual from designation as a Senior Technical Authority in furtherance of Department of the Navy mission needs.
 
-**(b) Responsibilities and Authority.—** Each Senior Technical Authority shall be responsible for, and have the authority to, establish, monitor, and approve technical standards, tools, and processes for the class of naval vessels for which designated under this section in conformance with applicable laws and Department of Defense and Department of the Navy policies, requirements, architectures, and standards.
+**(b) Responsibilities and Authority.—**
+
+(1) Each Senior Technical Authority shall be responsible for, and have the authority to, establish, monitor, and approve technical standards, tools, and processes for the class of naval vessels for which designated under this section in conformance with applicable laws and Department of Defense and Department of the Navy policies, requirements, architectures, and standards.
+
+(2) Each Senior Technical Authority shall also be responsible for the determination that all design requirements for a vessel class are directly related to a key performance parameter or key system attribute established in the capability development document for such class. Any such requirement that the Senior Technical Authority determines is unnecessary to meet a key performance parameter or key system attribute shall not be approved.
 
 **(c) Limitation on Obligation of Funds on Lead Vessel in Vessel Class.—**
 
@@ -315,7 +335,7 @@ For delegation of authority of President under subsec. (a) of this section, see 
 
 (2) The term “future-years defense program” has the meaning given that term in [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221).
 
-(3) The term “Milestone A approval” has the meaning given that term in [section 4211 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4211).
+(3) The term “Milestone A approval” means a decision to enter into technology maturation and risk reduction pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
 
 ### Statutory Notes
 
@@ -323,45 +343,72 @@ For delegation of authority of President under subsec. (a) of this section, see 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 and such date of enactment, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
 
 #### Amendments
+2025—Subsec. (a)(2)(B). Pub. L. 119–60, § 1013(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “operates independently of chains-of-command for acquisition program management.”
+
+Subsec. (b). Pub. L. 119–60, § 1013(2), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (d)(3). Pub. L. 119–60, § 1805(b)(2), substituted “means a decision to enter into technology maturation and risk reduction pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.” for “has the meaning given that term in [section 4211 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4211).”
+
 2021—Subsec. (d)(3). Pub. L. 116–283 substituted “section 4211” for “section 2431a”.
 
 #### Effective Date of 2021 Amendment
 Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
+#### Exemption of Unmanned Surface Vessels and Unmanned Underwater Vehicles From Certain Technical Authority Requirements
+Pub. L. 119–60, div. A, title X, § 1020, Dec. 18, 2025, 139 Stat. 1033, provided that: “(a) Exemption From Senior Technical Authority Requirements.—Unmanned surface vessels and unmanned underwater vehicles acquired or developed by the Department of the Navy are exempt from any requirement for oversight by a senior technical authority established under [section 8669b of title 10](./chapter-863-naval-vessels.md#section-8669b), United States Code, except the requirements, specifications, and approvals described in subsection (c). “(b) Limitation Relating to Office of the Chief Engineer.—Subject to subsection (c), the Chief Engineer of the Naval Sea Systems Command may not establish any requirement, specification, or approval for an unmanned surface vessel or an unmanned underwater vehicle unless such action is approved in advance by the program manager responsible for the respective unmanned system. “(c) Exceptions.—As the Secretary of the Navy considers appropriate, unmanned surface vessels and unmanned underwater vehicles may be subject to requirements, specifications, and approvals established by technical domain managers or technical warrant holders with responsibility for cybersecurity, ordnance and explosives, or warfare systems, without advanced approval described in subsection (b). “(d) Definitions.—In this section:“(1) The term ‘unmanned surface vessel’ means a vessel designed to operate on the surface of the water without an onboard human crew. “(2) The term ‘unmanned underwater vehicle’ means a vehicle designed to operate below the surface of the water without an onboard human crew.”
+
 
 <a id="section-8669c"></a>
 ## § 8669c. Assessments required prior to start of construction on first ship of a shipbuilding program
-**(a) In General.—** The Secretary of the Navy may not approve the start of construction of the first ship for any major shipbuilding program until a period of 30 days has elapsed following the date on which the Secretary—
+**(a) In General.—** The Secretary of the Navy may not approve the start of construction of the first ship for any major shipbuilding program until a period of 15 days has elapsed following the date on which the Secretary—
 
 (1) submits a report to the congressional defense committees on the results of any production readiness review;
 
-(2) certifies to the congressional defense committees that the findings of any such review support commencement of construction; and
+(2) certifies to the congressional defense committees that the findings of any such review support the start of construction; and
 
-(3) certifies to the congressional defense committees that the basic and functional design of the vessel is complete.
+(3) certifies to the congressional defense committees that at least 95 percent of all the basic and functional design drawing packages for the ship have reached final approval.
 
-**(b) Report.—** The report required by subsection (a)(1) shall include, at a minimum, an assessment of each of the following:
+**(b) Report.—** The report required by subsection (a)(1) shall include each of the following:
 
-(1) The maturity of the ship’s design, as measured by stability of the ship contract specifications and the degree of completion of detail design and production design drawings.
+(1) An identification of the degree to which detail design and production design drawings and related documents have been completed in accordance with the shipbuilding contract.
 
-(2) The maturity of developmental command and control systems, weapon and sensor systems, and hull, mechanical and electrical systems.
+(2) An assessment of the readiness of the shipyard facilities and workforce to begin construction.
 
-(3) The readiness of the shipyard facilities and workforce to begin construction.
+(3) The Navy’s estimated delivery date and a description of any risks that could affect such delivery date.
 
-(4) The Navy’s estimated cost at completion and the adequacy of the budget to support the estimate.
+(4) An assessment of the extent to which adequate processes and metrics are in place to measure and manage program risks.
 
-(5) The Navy’s estimated delivery date and description of any variance to the contract delivery date.
+(5) With respect to the first ship, a description of the plans of the Navy to oversee and document the construction of the ship to ensure that the detail design supports the construction schedule for the ship.
 
-(6) The extent to which adequate processes and metrics are in place to measure and manage program risks.
+(6) A definition of the term “start of construction” that—
+
+  (A) is applicable to the first ship; and
+
+  (B) does not mean a point in time—
+
+    (i) after the completion of 5 percent of lightship displacement; or
+
+    (ii) after the advance procurement or advance construction of the ship.
+
+(7) An identification of any fabrication of the hull and superstructure of the ship that will occur before the date on which the Secretary submits the certifications required under paragraphs (2) and (3) of subsection (a).
+
+(8) An identification of the extent of to which vendor- and government-furnished information supports the overall maturity and stability of the ship’s design, including information regarding—
+
+  (A) whether vendor selection is complete for major distributive systems and key equipment supporting operational requirements;
+
+  (B) whether specifications are finalized for major distributive systems and key equipment; and
+
+  (C) the status of factory acceptance testing, as applicable, to validate finalized specifications for major distributive systems and key equipment through manufacturing.
 
 **(c) Definitions.—** For the purposes of subsection (a):
 
-(1) **Basic and functional design.—** — The term “basic and functional design”, when used with respect to a vessel, means design through computer aided models, that—
+(1) **Basic and functional design.—** — The term “basic and functional design”, when used with respect to a vessel, means design through computer aided models, and when used with respect to manned surface and undersea combatants, means design through the completion of three-dimensional computer aided modeling, that—
 
-  (A) fixes the major hull structure of the vessel;
+  (A) supports the major hull structure of the vessel;
 
   (B) sets the hydrodynamics of the vessel; and
 
-  (C) routes major portions of all distributive systems of the vessel, including electricity, water, and other utilities.
+  (C) positions and routes all major distributive systems of the ship, including electricity, water, and other utilities.
 
 (2) **First ship.—** — The term “first ship” applies to a ship if—
 
@@ -373,7 +420,41 @@ Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, wit
 
 (4) **Production readiness review.—** — The term “production readiness review” means a formal examination of a program prior to the start of construction to determine if the design is ready for production, production engineering problems have been resolved, and the producer has accomplished adequate planning for the production phase.
 
-(5) **Start of construction.—** — The term “start of construction” means the beginning of fabrication of the hull and superstructure of the ship.
+### Statutory Notes
+
+#### Amendments
+2024—Subsec. (a). Pub. L. 118–159, § 1024(1)(A), substituted “15 days” for “30 days” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 118–159, § 1024(1)(B), substituted “the start” for “commencement”.
+
+Subsec. (a)(3). Pub. L. 118–159, § 1024(1)(C), inserted “at least 95 percent of all” before “the basic” and substituted “drawing packages for the ship have reached final approval” for “of the vessel is complete”.
+
+Subsec. (b). Pub. L. 118–159, § 1024(2)(A), struck out “, at a minimum, an assessment of” after “include” in introductory provisions.
+
+Subsec. (b)(1) to (8). Pub. L. 118–159, § 1024(2)(B), added pars. (1) to (8) and struck out former pars. (1) to (6) which read as follows:
+
+“(1) The maturity of the ship’s design, as measured by stability of the ship contract specifications and the degree of completion of detail design and production design drawings.
+
+“(2) The maturity of developmental command and control systems, weapon and sensor systems, and hull, mechanical and electrical systems.
+
+“(3) The readiness of the shipyard facilities and workforce to begin construction.
+
+“(4) The Navy’s estimated cost at completion and the adequacy of the budget to support the estimate.
+
+“(5) The Navy’s estimated delivery date and description of any variance to the contract delivery date.
+
+“(6) The extent to which adequate processes and metrics are in place to measure and manage program risks.”
+
+Subsec. (c)(1). Pub. L. 118–159, § 1024(3)(A)(i), inserted “, and when used with respect to manned surface and undersea combatants, means design through the completion of three-dimensional computer aided modeling” after “computer aided models” in introductory provisions.
+
+Subsec. (c)(1)(A). Pub. L. 118–159, § 1024(3)(A)(ii), substituted “supports” for “fixes”.
+
+Subsec. (c)(1)(C). Pub. L. 118–159, § 1024(3)(A)(iii), substituted “positions and routes all major distributive systems of the ship” for “routes major portions of all distributive systems of the vessel”.
+
+Subsec. (c)(5). Pub. L. 118–159, § 1024(3)(B), struck out par. (5) which defined “start of construction”.
+
+#### Metrics for Basic and Functional Design for Ship Construction
+Pub. L. 119–60, div. A, title X, § 1016, Dec. 18, 2025, 139 Stat. 1031, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of the Navy shall select a metric to measure the progression of basic and functional design with respect to the construction of ships. “(b) Report.—Not later than 45 days after the selection of a metric under subsection (a), the Secretary of the Navy shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on such metric that includes the justification for the selection of the metric. “(c) Basic and Functional Design.—In this section, the term ‘basic and functional design’ has the meaning given such term in section 8669c(1) [sic; probably means 8669c(c)(1)] of title 10, United States Code.”
 
 
 <a id="section-8670"></a>
@@ -863,11 +944,22 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 For delegation of authority of President under subsec. (b) of this section, see section 3 of Ex. Ord. No. 12765, June 11, 1991, 56 F.R. 27401, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
 
 
+<a id="section-8679a"></a>
+## § 8679a. Contracting with shipyards controlled by a foreign adversary country: prohibition
+
+The Secretary of Defense may not enter into any contract or other agreement with a shipyard determined by the Secretary of Defense to be under the ownership, control, or influence of a covered nation, as defined in [section 4872(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4872/f&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2025—Pub. L. 119–60 substituted “a covered nation, as defined in [section 4872(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4872/f&num=0&edition=prelim)” for “a foreign adversary country (as defined in [section 4872(d)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4872/d/2&num=0&edition=prelim), United States Code)” in text.
+
+
 <a id="section-8680"></a>
 ## § 8680. Overhaul, repair, etc. of vessels in foreign shipyards: restrictions
-**(a) Vessels Under Jurisdiction of the Secretary of the Navy With Homeport in United States or Guam.—**
+**(a) Vessels Under Jurisdiction of the Secretary of the Navy With Homeport in United States, Guam, or Commonwealth of the Northern Mariana Islands.—**
 
-(1) A naval vessel the homeport of which is in the United States or Guam may not be overhauled, repaired, or maintained in a shipyard outside the United States or Guam.
+(1) A naval vessel the homeport of which is in the United States, Guam, or the Commonwealth of the Northern Mariana Islands may not be overhauled, repaired, or maintained in a shipyard outside the United States, Guam, or the Commonwealth of the Northern Mariana Islands.
 
 (2)
 
@@ -907,11 +999,17 @@ For delegation of authority of President under subsec. (b) of this section, see 
 
       (III) the effort required to clean mechanical spaces, mission zones, and topside spaces.
 
-(3) Notwithstanding paragraph (1), a naval vessel described in paragraph (1) may be repaired in a shipyard outside the United States or Guam if the repairs are—
+(3)
 
-  (A) voyage repairs; or
+  (A) Notwithstanding paragraph (1) and subject to subparagraph (B), a naval vessel described in paragraph (1) may be repaired in a shipyard outside the United States, Guam, or the Commonwealth of the Northern Mariana Islands if the repairs are—
 
-  (B) necessary to correct damage sustained due to hostile actions or interventions.
+    (i) voyage repairs;
+
+    (ii) necessary to correct damage sustained due to hostile actions or interventions; or
+
+    (iii) corrective and preventive maintenance of a deployed naval vessel planned to last not more than 21 days.
+
+  (B) During any fiscal year, the cumulative work carried out under this paragraph for ships at any particular homeport may not exceed two percent of the average annual total workload of that homeport over the preceding three-year period, as measured in shipyard labor hours.
 
 **(b) Vessel Changing Homeports.—**
 
@@ -949,7 +1047,7 @@ For delegation of authority of President under subsec. (b) of this section, see 
 
 **(d) Report.—**
 
-(1) The Secretary of the Navy shall submit to Congress each year, at the time that the President’s budget is submitted to Congress that year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), a report listing all repairs and maintenance performed on any covered naval vessel that has undergone work for the repair of the vessel in any shipyard outside the United States or Guam (in this section referred to as a “foreign shipyard”) during the fiscal year preceding the fiscal year in which the report is submitted.
+(1) The Secretary of the Navy shall submit to Congress each year, at the time that the President’s budget is submitted to Congress that year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), a report listing all repairs and maintenance performed on any covered naval vessel that has undergone work for the repair of the vessel in any shipyard outside the United States, Guam, or the Commonwealth of the Northern Mariana Islands (in this section referred to as a “foreign shipyard”) during the fiscal year preceding the fiscal year in which the report is submitted.
 
 (2) The report shall include the percentage of the annual ship repair budget of the Navy that was spent on repair of covered naval vessels in foreign shipyards during the fiscal year covered by the report.
 
@@ -986,6 +1084,12 @@ For delegation of authority of President under subsec. (b) of this section, see 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 1014(1), substituted “United States, Guam, or Commonwealth of the Northern Mariana Islands” for “United States or Guam” in heading and “the United States, Guam, or the Commonwealth of the Northern Mariana Islands” for “the United States or Guam” wherever appearing in text.
+
+Subsec. (d). Pub. L. 119–60, § 1014(2), substituted “the United States, Guam, or the Commonwealth of the Northern Mariana Islands” for “the United States or Guam”.
+
+2024—Subsec. (a)(3). Pub. L. 118–159 designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), inserted “and subject to subparagraph (B)” after “paragraph (1)” in introductory provisions of subpar. (A), and added cl. (iii) of subpar. (A) and subpar. (B).
+
 2023—Subsecs. (c), (d). Pub. L. 118–31 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 2021—Subsec. (a)(1). Pub. L. 116–283, § 1025(a)(1), struck out “, other than in the case of voyage repairs” after “outside the United States or Guam”.
@@ -1331,24 +1435,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 
 <a id="section-8688"></a>
-## § 8688. Warranty requirements for shipbuilding contracts
-**(a) Requirement.—** A contracting officer for a contract for new construction for which funds are expended from the Shipbuilding and Conversion, Navy account shall require, as a condition of the contract, that the work performed under the contract is covered by a warranty for a period of at least one year.
-
-**(b) Waiver.—** If the contracting officer for a contract covered by the requirement under subsection (a) determines that a limited liability of warranted work is in the best interest of the Government, the contracting officer may agree to limit the liability of the work performed under the contract to a level that the contracting officer determines is sufficient to protect the interests of the Government and in keeping with historical levels of warranted work on similar vessels.
+## § 8688. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(8), Dec. 18, 2025, 139 Stat. 948]
 
 ### Statutory Notes
 
-#### Prior Provisions
+Section, Pub. L. 114–328, div. A, title X, § 1022(a)(1), Dec. 23, 2016, 130 Stat. 2388, § 7318; renumbered § 8688, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836, related to warranty requirements for shipbuilding contracts.
+
 A prior section 8688, act Aug. 10, 1956, ch. 1041, 70A Stat. 536, related to death gratuity payable to survivors of members of Air Force, prior to repeal by Pub. L. 85–861, § 36B(29), Sept. 2, 1958, 72 Stat. 1571. See sections 1475 to 1480 of this title.
-
-#### Amendments
-2018—Pub. L. 115–232 renumbered [section 7318 of this title](./chapter-741-retirement-for-length-of-service.md#section-7318) as this section.
-
-#### Effective Date of 2018 Amendment
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
-
-#### Effective Date
-Pub. L. 114–328, div. A, title X, § 1022(b), Dec. 23, 2016, 130 Stat. 2388, provided that: “[Section 7318 of title 10](./chapter-741-retirement-for-length-of-service.md#section-7318), United States Code, as added by subsection (a), shall take effect on the later of the following dates: “(1) The date of the enactment of the National Defense Authorization for Fiscal Year 2018 [Pub. L. 115–91, approved Dec. 12, 2017]. “(2) September 30, 2017.”
 
 
 <a id="section-8688a"></a>
@@ -1533,7 +1626,7 @@ A prior section 8692, act Aug. 10, 1956, ch. 1041, 70A Stat. 538, provided quali
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 8693, act Aug. 10, 1956, ch. 1041, 70A Stat. 538, provided for replacement of a lost or destroyed certificate of discharge from Air Force, prior to repeal by Pub. L. 90–235, § 7(a)(3), Jan. 2, 1968, 81 Stat. 763. See [section 1040 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1040).
+A prior section 8693, act Aug. 10, 1956, ch. 1041, 70A Stat. 538, provided for replacement of a lost or destroyed certificate of discharge from Air Force, prior to repeal by Pub. L. 90–235, § 7(a)(3), Jan. 2, 1968, 81 Stat. 763. See [section 1041 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1041).
 
 #### Amendments
 2021—Pub. L. 117–81, § 1015(a), renumbered [section 8692 of this title](./chapter-863-naval-vessels.md#section-8692), as added by section 1026(a) of Pub. L. 116–283, as this section.
@@ -1891,3 +1984,55 @@ Pub. L. 117–263, div. A, title I, § 122(c), Dec. 23, 2022, 136 Stat. 2443, pr
 
 #### Amendments
 2023—Pub. L. 118–31 renumbered [section 8696 of this title](./chapter-863-naval-vessels.md#section-8696) relating to battle force ship employment, maintenance, and manning baseline plans as this section.
+
+
+<a id="section-8698"></a>
+## § 8698. Roles and responsibilities relating to sustainment and readiness of certain naval surface vessels
+**(a) Type Commander Leadership.—**
+
+(1) Beginning on the date that is one year after the date of the enactment of this section, the Secretary of the Navy shall—
+
+  (A) designate type commanders as the primary authorities responsible for the maintenance, repair, sustainment, and readiness of covered vessels; and
+
+  (B) ensure that regional maintenance centers act under the direction of, and in support of, type commanders with respect to such maintenance, repair, and sustainment.
+
+(2) The responsibilities of each type commander under paragraph (1)(A) shall include—
+
+  (A) overseeing all maintenance and repair activities at private shipyards for covered vessels in the naval force of that type commander; and
+
+  (B) setting priorities and approving contracts for the maintenance and repair of such vessels.
+
+**(b) Maintenance and Repair at Private Shipyards.—**
+
+(1) Beginning on the date that is one year after the date of the enactment of this section, for each covered vessel undergoing maintenance or repair at a private shipyard, the project manager concerned, the port engineer concerned, and the commanding officer of such vessel—
+
+  (A) may jointly determine the work to be performed during the overhaul period for the covered vessel, including by jointly adjusting priorities for such work consistent with the applicable budget and schedule for such maintenance or repair; and
+
+  (B) shall report directly to the type commander of the naval force to which the covered vessel belongs with respect to such maintenance or repair.
+
+(2) Contracting officers of the Department of Defense shall manage contracts as necessary to ensure consistency with any determination or adjustment made pursuant to paragraph (1)(A).
+
+**(c) Definitions.—** In this section:
+
+(1) The term “covered vessel” means a naval surface vessel that is not propelled or powered by a nuclear reactor.
+
+(2) The term “port engineer concerned” means, with respect to a naval vessel, the technical expert on the condition of such vessel responsible for advising on repairs and related standards for such vessel.
+
+(3) The term “project manager concerned” means, with respect to a naval vessel undergoing maintenance or repair, the individual responsible for overseeing the overhaul period with respect to such maintenance or repair.
+
+(4) The term “regional maintenance center”—
+
+  (A) means an organization of the Navy that supports ship maintenance in a designated geographic region; and
+
+  (B) includes the Mid-Atlantic Regional Maintenance Center in Nofolk, Virginia, the Southwest Regional Maintenance Center in San Diego, California, the Southeast Regional Maintenance Center in Mayport, Florida, and the Hawaii Regional Maintenance Center in Pearl Harbor, Hawaii.
+
+(5) The term “type commander” means the flag officer in command of a naval surface force, such as the following:
+
+  (A) Commander, Naval Surface Force, Atlantic.
+
+  (B) Commander, Naval Surface Force, Pacific Fleet.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in text, means the date of enactment of the National Defense Authorization Act for Fiscal Year 2026, which was approved on December 18, 2025.

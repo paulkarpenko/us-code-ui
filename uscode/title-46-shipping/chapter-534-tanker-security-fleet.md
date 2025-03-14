@@ -190,7 +190,7 @@ Pub. L. 116–283, div. C, title XXXV, § 3511(c), Jan. 1, 2021, 134 Stat. 4419,
 
 <a id="section-53404"></a>
 ## § 53404. Effectiveness of operating agreements
-**(a) In General.—** Subject to the availability of appropriations for such purpose, the Secretary may enter into an operating agreement under this chapter for fiscal year 2022 and any subsequent fiscal year. The agreement shall be effective only for 1 fiscal year, but shall be renewable, subject to the availability of appropriations, for each fiscal year through the end of fiscal year 2035.
+**(a) In General.—** Subject to the availability of appropriations for such purpose, the Secretary may enter into an operating agreement under this chapter for fiscal year 2022 and any subsequent fiscal year. The agreement shall be effective only for 1 fiscal year, but shall be renewable, subject to the availability of appropriations, for each fiscal year through the end of fiscal year 2040.
 
 **(b) Vessels Under Charter to the United States.—** Any vessel under long term charter to the United States is not eligible to participate in the Fleet.
 
@@ -217,6 +217,8 @@ Pub. L. 116–283, div. C, title XXXV, § 3511(c), Jan. 1, 2021, 134 Stat. 4419,
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159 substituted “2040” for “2035”.
+
 2021—Subsec. (b). Pub. L. 117–81 substituted “Any” for “The program participant of a”, inserted “long term” before “charter” and “not” before “eligible”, and substituted “participate in the Fleet” for “receive payments pursuant to any operating agreement that covers such vessel”.
 
 
@@ -251,7 +253,27 @@ Pub. L. 116–283, div. C, title XXXV, § 3511(c), Jan. 1, 2021, 134 Stat. 4419,
 
 <a id="section-53406"></a>
 ## § 53406. Payments
-**(a) Annual Payment.—** Subject to the availability of appropriations for such purpose and the other provisions of this chapter, the Secretary shall pay to program participant for an operating agreement under this chapter an amount equal to $6,000,000 for each vessel covered by the agreement for each fiscal year that the vessel is covered by the agreement. Such amount shall be paid in equal monthly installments on the last day of each month. The amount payable under this subsection may not be reduced except as provided by this section or section 51307(b).
+**(a) Annual Payments.—**
+
+(1) **In general.—** — Subject to the availability of appropriations and the other provisions of this section, the Secretary shall pay to a program participant for an operating agreement under this chapter, for each vessel that is covered by the operating agreement, an amount equal to—
+
+  (A) $8,160,000 for each of fiscal years 2025 and 2026;
+
+  (B) $8,380,000 for each of fiscal years 2027 and 2028;
+
+  (C) $8,606,000 for each of fiscal years 2029 and 2030;
+
+  (D) $8,839,000 for each of fiscal years 2031 and 2032;
+
+  (E) $9,078,000 for each of fiscal years 2033 and 2034;
+
+  (F) $9,323,000 for each of fiscal years 2035 and 2036;
+
+  (G) $9,574,000 for each of fiscal years 2037 and 2038; and
+
+  (H) $9,833,000 for each of fiscal years 2039 and 2040.
+
+(2) **Timing.—** — The amount payable to a program participant under paragraph (1) for a fiscal year shall be paid in 12 equal monthly installments at the end of each month during that fiscal year. The amount payable for any fiscal year may not be reduced except as provided by this section or section 51307(b).
 
 **(b) Certification Required for Payment.—** As a condition of receiving payment under this section for a fiscal year for a vessel, the program participant shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with [section 53405(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section53405/a&num=0&edition=prelim) for at least 320 days during the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
 
@@ -286,6 +308,8 @@ Pub. L. 116–283, div. C, title XXXV, § 3511(c), Jan. 1, 2021, 134 Stat. 4419,
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159 amended subsec. (a) generally. Prior to amendment, text read as follows: “Subject to the availability of appropriations for such purpose and the other provisions of this chapter, the Secretary shall pay to program participant for an operating agreement under this chapter an amount equal to $6,000,000 for each vessel covered by the agreement for each fiscal year that the vessel is covered by the agreement. Such amount shall be paid in equal monthly installments on the last day of each month. The amount payable under this subsection may not be reduced except as provided by this section or section 51307(b).”
+
 2022—Subsec. (a). Pub. L. 117–263 inserted “or section 51307(b)” after “this section”.
 
 
@@ -362,11 +386,29 @@ The Secretary of Transportation and the Secretary of Defense may each prescribe 
 <a id="section-53411"></a>
 ## § 53411. Authorization of appropriations
 
-There is authorized to be appropriated for payments under section 53406, $60,000,000 for each of fiscal years 2022 and 2023, and $120,000,000 for fiscal years 2024 through 2035, to remain available until expended.
+There are authorized to be appropriated for payments under section 53406, amounts as follows, to remain available until expended:
+
+(1) $122,400,000 for each of fiscal years 2025 and 2026.
+
+(2) $167,600,000 for each of fiscal years 2027 and 2028.
+
+(3) $172,120,000 for each of fiscal years 2029 and 2030.
+
+(4) $176,780,000 for each of fiscal years 2031 and 2032.
+
+(5) $181,560,000 for each of fiscal years 2033 and 2034.
+
+(6) $186,460,000 for each of fiscal years 2035 and 2036.
+
+(7) $191,480,000 for each of fiscal years 2037 and 2038.
+
+(8) $196,660,000 for each of fiscal years 2039 and 2040.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Pub. L. 118–159 amended section generally. Prior to amendment, text read as follows: “There is authorized to be appropriated for payments under section 53406, $60,000,000 for each of fiscal years 2022 and 2023, and $120,000,000 for fiscal years 2024 through 2035, to remain available until expended.”
+
 2022—Pub. L. 117–263 substituted “and 2023, and $120,000,000 for fiscal years 2024 through 2035” for “through 2035”.
 
 

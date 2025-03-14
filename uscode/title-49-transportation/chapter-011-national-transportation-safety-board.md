@@ -14,7 +14,7 @@ source: >-
 
 (2) **State.—** — The term “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, and Guam.
 
-**(b) Applicability of Other Definitions.—** [Section 2101(23) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/23&num=0&edition=prelim) and [section 40102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim) shall apply to this chapter.
+**(b) Applicability of Other Definitions.—** Section 2101(24) 11 So in original. Probably should be “2101(25)”. of title 46 and [section 40102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim) shall apply to this chapter.
 
 ### Statutory Notes
 
@@ -28,6 +28,8 @@ A number of the source provisions of the chapter are taken from 49 App.:ch. 20. 
 This section is included to ensure that the identical definitions that are relevant are used without repeating them. The source provisions for the definitions are found in the revision note for section 40102(a) of the revised title.
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–60 substituted “Section 2101(24)” for “Section 2101(23)”.
+
 2024—Pub. L. 118–63 amended section generally. Prior to amendment, text read as follows: “[Section 2101(23) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/23&num=0&edition=prelim) and [section 40102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim) apply to this chapter. In this chapter, the term ‘accident’ includes damage to or destruction of vehicles in surface or air transportation or pipelines, regardless of whether the initiating event is accidental or otherwise.”
 
 2018—Pub. L. 115–232 substituted “Section 2101(23)” for “Section 2101(17a)”.
@@ -35,7 +37,7 @@ This section is included to ensure that the identical definitions that are relev
 2000—Pub. L. 106–424 amended section catchline and text generally. Prior to amendment, text read as follows: “[Section 40102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim) applies to this chapter.”
 
 #### Short Title of 2024 Amendment
-Pub. L. 118–63, title XII, § 1201, May 16, 2024, 138 Stat. 1422, provided that: “This title [amending this section and sections 1113 to 1116, 1118, 1131, 1134 to 1136, 1138 to 1140, 1151, 1155, and 24316 of this title, enacting provisions set out as notes under section 1111, 1114, and 1131 of this title, and repealing provisions set out as a note under [section 1113 of this title](./chapter-011-national-transportation-safety-board.md#section-1113)] may be cited as the ‘National Transportation Safety Board Amendments Act of 2024’.”
+Pub. L. 118–63, title XII, § 1201, May 16, 2024, 138 Stat. 1422, provided that: “This title [amending this section and sections 1113 to 1116, 1118, 1131, 1134 to 1136, 1138 to 1140, 1151, 1155, and 24316 of this title, enacting provisions set out as notes under sections 1111, 1114, and 1131 of this title, and repealing provisions set out as a note under [section 1113 of this title](./chapter-011-national-transportation-safety-board.md#section-1113)] may be cited as the ‘National Transportation Safety Board Amendments Act of 2024’.”
 
 #### Short Title of 2015 Amendment
 Pub. L. 114–110, § 1(a), Dec. 18, 2015, 129 Stat. 2228, provided that: “This Act [see Tables for classification] may be cited as the ‘Surface Transportation Board Reauthorization Act of 2015’.”
@@ -375,7 +377,7 @@ GS–10 of the General Schedule, referred to in subsec. (g)(1), is set out under
 #### Amendments
 2024—Subsec. (b)(1)(K). Pub. L. 118–63, § 1204(a), added subpar. (K).
 
-Subsec. (g)(5). Pub. L. 118–63, § 1205, struck out par. (5). Prior to amendment, text of par. (5) read as follows: “Not later than January 31, 2002, and annually thereafter, the Board shall transmit to the Senate Committee on Commerce, Science, and Transportation and the House Transportation and Infrastructure Committee a report identifying the total amount of overtime payments made under this subsection in the preceding fiscal year, and the number of employees whose overtime pay under this subsection was limited in that fiscal year as a result of the 15 percent limit established by paragraph (2).”
+Subsec. (g)(5). Pub. L. 118–63, § 1205, struck out par. (5). Text read as follows: “Not later than January 31, 2002, and annually thereafter, the Board shall transmit to the Senate Committee on Commerce, Science, and Transportation and the House Transportation and Infrastructure Committee a report identifying the total amount of overtime payments made under this subsection in the preceding fiscal year, and the number of employees whose overtime pay under this subsection was limited in that fiscal year as a result of the 15 percent limit established by paragraph (2).”
 
 Subsec. (h). Pub. L. 118–63, § 1206, added subsec. (h).
 
@@ -407,7 +409,7 @@ Subsec. (g). Pub. L. 106–424, § 4, added subsec. (g).
 Pub. L. 108–168, § 4, Dec. 6, 2003, 117 Stat. 2033, as amended by Pub. L. 109–443, § 3, Dec. 21, 2006, 120 Stat. 3298, provided that: “(a) In General.—The National Transportation Safety Board may enter into agreements or contracts under the authority of [section 1113(b)(1)(B) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1113/b/1/B&num=0&edition=prelim), United States Code, for investigations conducted under section 1131 of that title without regard to any other provision of law requiring competition if necessary to expedite the investigation. “(b) Report on Usage.—On July 1 of each year, as part of the annual report required by [section 1117 of title 49](./chapter-011-national-transportation-safety-board.md#section-1117), United States Code, the National Transportation Safety Board shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure, the House of Representatives Committee on Government Reform [now Committee on Oversight and Accountability], the Senate Committee on Commerce, Science, and Transportation, and the Senate Committee on Governmental Affairs that—“(1) describes each contract executed by the Board to which the authority provided by subsection (a) was applied; and “(2) sets forth the rationale for dispensing with competition requirements with respect to such contract.”
 
 #### Travel Budgets
-Pub. L. 106–424, § 9, Nov. 1, 2000, 114 Stat. 1886, which required the Chairman of the National Transportation Safety Board to establish annual fiscal year budgets for non-accident-related travel expenditures for Board members to be approved by the Board and submitted to the appropriate congressioal committees with detailed travel reports, was repealed by Pub. L. 118–63, title XII, § 1207(b), May 16, 2024, 138 Stat. 1424.
+Pub. L. 106–424, § 9, Nov. 1, 2000, 114 Stat. 1886, which required the Chairman of the National Transportation Safety Board to establish annual fiscal year budgets for non-accident-related travel expenditures for Board members to be approved by the Board and submitted to the appropriate congressional committees with detailed travel reports, was repealed by Pub. L. 118–63, title XII, § 1207(b), May 16, 2024, 138 Stat. 1424.
 
 
 <a id="section-1114"></a>
@@ -1264,7 +1266,7 @@ In subsection (a)(1), the word “complete” is substituted for “in full” f
 #### Amendments
 2024—Subsec. (c). Pub. L. 118–63, § 1214, substituted “public—” and pars. (1) and (2) for “public at reasonable cost.”
 
-Subsec. (e). Pub. L. 118–63, § 1220(a), struck out subsec. (e), which required the Secretary to annually submit regulatory status reports to Congress.
+Subsec. (e). Pub. L. 118–63, § 1220(a), struck out subsec. (e) which required the Secretary to annually submit regulatory status reports to Congress.
 
 2010—Subsec. (a). Pub. L. 111–216, § 202(a), as amended by Pub. L. 111–249, § 6(1), inserted “to the Board” after “shall give” in introductory provisions.
 
@@ -1379,7 +1381,7 @@ Subsec. (c). Pub. L. 118–63, § 1215(a)(3)(A), substituted “passengers invol
 
 Subsec. (c)(1). Pub. L. 118–63, § 1215(a)(3)(B), substituted “emotional care, psychological care, and family support services” for “mental health and counseling services”.
 
-Subsec. (c)(3). Pub. L. 118–63, § 1215(a)(3)(C), substituted “passengers involved in the accident and the families of such passengers who have traveled to the location of the accident” for “the families who have traveled to the location of the accident” and “regularly” for “periodically”, and inserted “passengers and” after “contact all”.
+Subsec. (c)(3). Pub. L. 118–63, § 1215(a)(3)(C), substituted “passengers involved in the accident and the families of such passengers who have traveled to the location of the accident” for “the families who have traveled to the location of the accident” and “regularly” for “periodically” and inserted “passengers and” after “contact all”.
 
 Subsec. (c)(4). Pub. L. 118–63, § 1215(a)(3)(D), inserted “passengers and” before “families”.
 
@@ -1387,7 +1389,7 @@ Subsec. (d). Pub. L. 118–63, § 1215(a)(4), amended subsec. (d) generally. Pri
 
 Subsec. (g)(1). Pub. L. 118–63, § 1215(a)(5), substituted “passengers involved in the accident and the families of such passengers” for “the families of passengers involved in the accident”.
 
-Subsec. (g)(3). Pub. L. 118–63, § 1215(a)(6), in heading, substituted “prevent certain care and support” for “prevent mental health and counseling”, and, in text, substituted “providing emotional care, psychological care, and family support services” for “providing mental health and counseling services” and inserted “passengers and” before “families”.
+Subsec. (g)(3). Pub. L. 118–63, § 1215(a)(6), in heading, substituted “prevent certain care and support” for “prevent mental health and counseling” and, in text, substituted “providing emotional care, psychological care, and family support services” for “providing mental health and counseling services” and inserted “passengers and” before “families”.
 
 Subsec. (h)(1). Pub. L. 118–63, § 1215(a)(7)(A), struck out “National Transportation Safety” before “Board”.
 
@@ -1594,7 +1596,7 @@ Subsec. (c). Pub. L. 115–254, § 1110(2), inserted comma after “Science”.
 #### Amendments
 2024—Pub. L. 118–63, § 1215(c)(1), substituted “to passengers involved in rail passenger accidents and families of such passengers” for “to families of passengers involved in rail passenger accidents” in section catchline.
 
-Subsec. (a). Pub. L. 118–63, § 1215(c)(2), substituted “Board shall” for “National Transportation Safety Board shall” in introcuctory provisions.
+Subsec. (a). Pub. L. 118–63, § 1215(c)(2), substituted “Board shall” for “National Transportation Safety Board shall” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 118–63, § 1215(c)(3), substituted “emotional care, psychological care, and family support services” for “emotional care and support” and “passengers involved in the accident and the families of such passengers” for “the families of passengers involved in the accident”.
 
@@ -1610,7 +1612,7 @@ Subsec. (d). Pub. L. 118–63, § 1215(c)(5), amended subsec. (d) generally. Pri
 
 Subsec. (g)(1). Pub. L. 118–63, § 1215(c)(6)(A), substituted “passengers involved in the accident and the families of such passengers” for “the families of passengers involved in the accident”.
 
-Subsec. (g)(3). Pub. L. 118–63, § 1215(c)(6)(B), in heading, substituted “prevent certain care and support” for “prevent mental health and counseling”, and, in text, substituted “providing emotional care, psychological care, and family support services” for “providing mental health and counseling services” and inserted “passengers and” before “families”.
+Subsec. (g)(3). Pub. L. 118–63, § 1215(c)(6)(B), in heading, substituted “prevent certain care and support” for “prevent mental health and counseling” and, in text, substituted “providing emotional care, psychological care, and family support services” for “providing mental health and counseling services” and inserted “passengers and” before “families”.
 
 Subsec. (h)(1)(B). Pub. L. 118–63, § 1215(c)(7)(A), struck out “National Transportation Safety” before “Board ”.
 
@@ -1640,7 +1642,7 @@ Pub. L. 110–432, div. A, title V, § 503, Oct. 16, 2008, 122 Stat. 4899, provi
 
 
 <a id="section-1140"></a>
-## § 1140. Information 11 So in original. Probably should be followed by “for”. individuals involved in accidents and families of such individuals
+## § 1140. Information individuals 11 So in original. Probably should be preceded by “for”. involved in accidents and families of such individuals
 
 In the course of an investigation of an accident described in section 1131(a)(1), except an aircraft accident described in section 1136 or a rail passenger accident described in section 1139, the Board may, to the maximum extent practicable, ensure that individuals involved in accidents and the families of such individuals, and other individuals the Board deems appropriate—
 

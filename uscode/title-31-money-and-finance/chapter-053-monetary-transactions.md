@@ -3502,7 +3502,7 @@ There are authorized to be appropriated the following amounts for the following 
 
 For purposes of this subchapter, the following definitions shall apply:
 
-(1) **Department of the treasury law enforcement organizations.—** — The term “Department of the Treasury law enforcement organizations” has the meaning given to such term in section 9705(o).
+(1) **Department of the treasury law enforcement organizations.—** — The term “Department of the Treasury law enforcement organizations” has the meaning given to such term in section 9705(n).
 
 (2) **Money laundering and related financial crime.—** — The term “money laundering and related financial crime”—
 
@@ -3517,6 +3517,8 @@ For purposes of this subchapter, the following definitions shall apply:
 ### Statutory Notes
 
 #### Amendments
+2025—Par. (1). Pub. L. 119–60 substituted “section 9705(n)” for “section 9705(o)”.
+
 2015—Par. (1). Pub. L. 114–22 substituted “section 9705(o)” for “section 9703(p)(1)”.
 
 

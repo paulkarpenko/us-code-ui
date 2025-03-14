@@ -1202,7 +1202,7 @@ This chapter, referred to in subsecs. (a)(1)(B)(ii), (d)(5), and (e)(2)(B), was 
 [Section 4605(j)(1) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1&num=0&edition=prelim), referred to in subsec. (d)(4)(A)(ii), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former [section 4605(j)(1) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1&num=0&edition=prelim) can be found in [section 4813(c)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c/1/A&num=0&edition=prelim), as enacted by Pub. L. 115–232.
 
 #### Amendments
-2024—Subsec. (d)(4)(A)(i), (ii). Pub. L. 118–47, § 7072(b)(1)(A)(i), (ii), substituted “March 25 of fiscal year 2025” for “2023”.
+2024—Subsec. (d)(4)(A)(i), (ii). Pub. L. 118–47, § 7072(b)(1)(A), substituted “March 25 of fiscal year 2025” for “2023”.
 
 Subsec. (d)(4)(B)(iii). Pub. L. 118–47, § 7072(b)(1)(B), substituted “2024 and March 25 of fiscal year 2025” for “2023”.
 

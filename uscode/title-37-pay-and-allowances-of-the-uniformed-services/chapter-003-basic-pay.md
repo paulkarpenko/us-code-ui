@@ -8,11 +8,7 @@ source: >-
 ---
 <a id="section-201"></a>
 ## § 201. Pay grades: assignment to; general rules
-**(a)**
-
-(1) Subject to paragraph (2), for the purpose of computing their basic pay, commissioned officers of the uniformed services (other than commissioned warrant officers) are assigned by the grade or rank in which serving to the following pay grades: Pay gradeArmy, Air Force, and Marine CorpsNavy, Coast Guard, andNational Oceanic and Atmospheric AdministrationPublic Health Service O–10GeneralAdmiralAssistant Secretary for Health. O–9Lieutenant generalVice admiralSurgeon General. O–8Major generalRear admiralDeputy Surgeon General.Assistant Surgeon General having rank of major general. O–7Brigadier generalRear admiral (lower half)Assistant Surgeon General having rank of brigadier general. O–6ColonelCaptainDirector grade. O–5Lieutenant colonelCommanderSenior grade. O–4MajorLieutenant commanderFull grade. O–3CaptainLieutenantSenior assistant grade. O–21st lieu­tenantLieutenant (junior grade)Assistant grade. O–12d lieu­tenantEnsignJunior assistant grade.
-
-(2) For the purpose of computing their basic pay, commissioned officers of the Space Force are assigned to the pay grades in the table in paragraph (1) by grade or rank in the Air Force that is equivalent to the grade or rank in which such officers are serving in the Space Force.
+**(a)** For the purpose of computing their basic pay, commissioned officers of the uniformed services (other than commissioned warrant officers) are assigned by the grade or rank in which serving to the following pay grades: Pay gradeArmy, Air Force, Marine Corps, and Space ForceNavy, Coast Guard, andNational Oceanic and Atmospheric AdministrationPublic Health Service O–10GeneralAdmiralAssistant Secretary for Health. O–9Lieutenant generalVice admiralSurgeon General. O–8Major generalRear admiralDeputy Surgeon General.Assistant Surgeon General having rank of major general. O–7Brigadier generalRear admiral (lower half)Assistant Surgeon General having rank of brigadier general. O–6ColonelCaptainDirector grade. O–5Lieutenant colonelCommanderSenior grade. O–4MajorLieutenant commanderFull grade. O–3CaptainLieutenantSenior assistant grade. O–21st lieu­tenantLieutenant (junior grade)Assistant grade. O–12d lieu­tenantEnsignJunior assistant grade.
 
 **(b)** For the purpose of computing their basic pay, warrant officers of the armed forces are assigned, by the warrant officer grade in which serving, to the following pay grades: Pay Grade:Warrant Officer Grade: W–5 Chief Warrant Officer, W–5. W–4 Chief Warrant Officer, W–4. W–3 Chief Warrant Officer, W–3. W–2 Chief Warrant Officer, W–2. W–1 Warrant Officer, W–1.
 
@@ -48,6 +44,8 @@ In subsection (f), the words “While on active duty”, in [section 6915(f) of 
 In subsection (g), the words “Except as provided by subsections (e) and (f)” are inserted to reflect those subsections relating to enlisted aviation cadets or aviation pilots.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 struck out par. (1) designation, substituted “For the” for “Subject to paragraph (2), for the” and, in the heading of the second column of the table, “Marine Corps, and Space Force” for “and Marine Corps”, and struck out par. (2) which read as follows: “For the purpose of computing their basic pay, commissioned officers of the Space Force are assigned to the pay grades in the table in paragraph (1) by grade or rank in the Air Force that is equivalent to the grade or rank in which such officers are serving in the Space Force.”
+
 2021—Subsec. (a). Pub. L. 116–283 designated existing provisions as par. (1), substituted “Subject to paragraph (2), for the purpose” for “For the purpose”, and added par. (2).
 
 2006—Subsec. (d). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
@@ -415,6 +413,9 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Basic Rates of Pay of the Uniformed Services
+Pub. L. 118–159, div. A, title VI, § 601, Dec. 23, 2024, 138 Stat. 1924, provided that: “Effective April 1, 2025, the rates of monthly basic pay for members of the uniformed services within each pay grade (and with years of service as computed under [section 205 of title 37](./chapter-003-basic-pay.md#section-205), United States Code) are as follows: Commissioned Officers Pay Grade2 Years or LessOver 2 YearsOver 3 YearsOver 4 YearsOver 6 Years 1 Basic pay for officers in pay grades O-7 through O-10 may not exceed the rate of pay for level II of the Executive Schedule. This includes officers serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Chief of Space Operations, Commandant of the Coast Guard, Chief of the National Guard Bureau, or commander of a unified or specified combatant command (as defined in [section 161(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section161/c&num=0&edition=prelim), United States Code). 2 Basic pay for officers in pay grades O-6 and below may not exceed the rate of pay for level V of the Executive Schedule. 3 This table does not apply to commissioned officers in pay grade O-1, O-2, or O-3 who have been credited with over 4 years of active-duty service as an enlisted member or warrant officer. O-8$13,380.00$13,818.90$14,109.30$14,190.30$14,553.60 O-711,117.7011,634.0011,873.1012,063.6012,407.10 O-68,430.909,261.909,870.009,870.009,907.80 O-57,028.407,917.308,465.408,568.608,910.90 O-46,064.207,019.707,488.907,592.408,027.10 O-35,331.606,044.106,522.607,112.407,453.80 O-24,606.805,246.706,042.906,247.206,375.30 O-13,998.404,161.905,031.305,031.305,031.30 Over 8 YearsOver 10 YearsOver 12 YearsOver 14 Years Over 16 Years O-8$15,159.30$15,300.60$15,876.30$16,042.20$16,538.10 O-712,747.3013,140.0013,531.5013,925.1015,159.30 O-610,332.3010,388.7010,388.7010,979.1012,022.80 O-59,114.909,564.909,895.8010,322.7010,974.30 O-48,493.609,075.009,526.209,840.6010,020.90 O-37,827.908,069.108,466.608,674.508,674.50 O-26,375.306,375.306,375.306,375.306,375.30 O-15,031.305,031.305,031.305,031.305,031.30 Over 18 YearsOver 20 YearsOver 22 YearsOver 24 YearsOver 26 Years O-10$0.00$18,808.20$18,808.20$18,808.20$18,808.20 O-90.0018,808.2018,808.2018,808.2018,808.20 O-817,256.0017,917.2018,359.1018,359.1018,359.10 O-716,202.1016,202.1016,202.1016,202.1016,285.50 O-612,635.4013,247.7013,596.3013,949.1014,632.80 O-511,285.1011,592.3011,940.9011,940.9011,940.90 O-410,125.0010,125.0010,125.0010,125.0010,125.00 O-38,674.508,674.508,674.508,674.508,674.50 O-26,375.306,375.306,375.306,375.306,375.30 O-15,031.305,031.305,031.305,031.305,031.30 Over 28 YearsOver 30 YearsOver 32 YearsOver 34 YearsOver 36 Years O-10$18,808.20$18,808.20$18,808.20$18,808.20$18,808.20 O-918,808.2018,808.2018,808.2018,808.2018,808.20 O-818,359.1018,808.2018,808.2018,808.2018,808.20 O-716,285.5016,611.0016,611.0016,611.0016,611.00 O-614,632.8014,925.0014,925.0014,925.0014,925.00 O-511,940.9011,940.9011,940.9011,940.9011,940.90 O-410,125.0010,125.0010,125.0010,125.0010,125.00 O-38,674.508,674.508,674.508,674.508,674.50 O-26,375.306,375.306,375.306,375.306,375.30 O-15,031.305,031.305,031.305,031.305,031.30 Over 38 YearsOver 40 Years O-10$18,808.20$18,808.20 O-918,808.2018,808.20 O-818,808.2018,808.20 O-716,611.0016,611.00 O-614,925.0014,925.00 O-511,940.9011,940.90 O-410,125.0010,125.00 O-38,674.508,674.50 O-26,375.306,375.30 O-15,031.305,031.30 Commissioned Officers With Over 4 Years of Active Duty Service as an Enlisted Member or Warrant Officer Pay Grade2 Years or LessOver 2 YearsOver 3 YearsOver 4 YearsOver 6 Years 1 This table applies to commissioned officers in the Reserve Component with more than 1,460 points as an enlisted member, a warrant officer, or a warrant officer and an enlisted member, which are creditable toward reserve retirement. O-3E$0.00$0.00$0.00$7,112.40$7,453.80 O-2E0.000.000.006,247.206,375.30 O-1E0.000.000.005,031.305,372.40 Over 8 YearsOver 10 YearsOver 12 YearsOver 14 YearsOver 16 Years O-3E$7,827.90$8,069.10$8,466.60$8,802.60$8,995.20 O-2E6,578.106,920.707,185.907,383.007,383.00 O-1E5,571.305,774.405,973.606,247.206,247.20 Over 18 YearsOver 20 YearsOver 22 YearsOver 24 YearsOver 26 Years O-3E$9,257.70$9,257.70$9,257.70$9,257.70$9,257.70 O-2E7,383.007,383.007,383.007,383.007,383.00 O-1E6,247.206,247.206,247.206,247.206,247.20 Over 28 YearsOver 30 YearsOver 32 YearsOver 34 YearsOver 36 Years O-3E$9,257.70$9,257.70$9,257.70$9,257.70$9,257.70 O-2E7,383.007,383.007,383.007,383.007,383.00 O-1E6,247.206,247.206,247.206,247.206,247.20 Over 38 YearsOver 40 Years O-3E$9,257.70$9,257.70 O-2E7,383.007,383.00 O-1E6,247.206,247.20 Warrant Officers Pay Grade2 Years or LessOver 2 YearsOver 3 YearsOver 4 YearsOver 6 Years 1 Basic pay for warrant officers may not exceed the rate of pay for level V of the Executive Schedule. W-4$5,510.40$5,926.80$6,096.90$6,264.30$6,552.90 W-35,032.205,241.305,457.005,526.905,752.20 W-24,452.604,873.805,003.105,092.505,380.80 W-13,908.104,329.304,442.104,681.204,963.50 Over 8 YearsOver 10 YearsOver 12 YearsOver 14 YearsOver 16 Years W-4$6,838.20$7,127.10$7,560.90$7,941.90$8,304.30 W-36,195.606,657.606,875.107,126.807,385.40 W-25,829.606,052.506,271.206,539.106,748.50 W-15,379.905,574.305,847.006,114.306,324.60 Over 18 YearsOver 20 YearsOver 22 YearsOver 24 YearsOver 26 Years W-5$0.00$9,797.40$10,294.50$10,665.00$11,074.20 W-48,601.608,891.109,315.609,664.8010,062.90 W-37,851.908,166.308,354.408,554.508,827.20 W-26,937.807,164.607,313.707,431.907,431.90 W-16,518.406,753.606,753.606,753.606,753.60 Over 28 YearsOver 30 YearsOver 32 YearsOver 34 YearsOver 36 Years W-5$11,074.20$11,628.90$11,628.90$12,209.40$12,209.40 W-410,062.9010,263.6010,263.6010,263.6010,263.60 W-38,827.208,827.208,827.208,827.208,827.20 W-27,431.907,431.907,431.907,431.907,431.90 W-16,753.606,753.606,753.606,753.606,753.60 Over 38 YearsOver 40 Years W-5$12,821.10$12,821.10 W-410,263.6010,263.60 W-38,827.208,827.20 W-27,431.907,431.90 W-16,753.606,753.60 Enlisted Members Pay Grade2 Years or LessOver 2 YearsOver 3 YearsOver 4 YearsOver 6 Years 1 Basic pay for enlisted members may not exceed the rate of pay for level V of the Executive Schedule. 2 Subject to the preceding footnote, the rate of basic pay for noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, Chief Master Sergeant of the Space Force, Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or Senior Enlisted Advisor to the Chief of the National Guard Bureau, basic pay for this grade is $10,758.00 per month, regardless of cumulative years of service under [section 205 of title 37](./chapter-003-basic-pay.md#section-205), United States Code. 3 In the case of members in pay grade E-1 who have served fewer than 4 months on active duty, the rate of basic pay is $2,144.10.” E-7$3,788.10$4,134.30$4,293.00$4,502.10$4,666.50 E-63,276.603,606.003,765.003,919.804,080.60 E-53,220.503,466.503,637.503,802.203,959.40 E-43,027.303,182.103,354.903,524.70 3,675.60 E-32,733.002,904.603,081.003,081.003,081.00 E-22,599.202,599.202,599.202,599.202,599.20 E-12,319.002,319.002,319.002,319.002,319.00 Over 8 YearsOver 10 YearsOver 12 YearsOver 14 YearsOver 16 Years E-9$0.00$6,657.30$6,807.90$6,997.80$7,221.60 E-8 5,449.505,690.705,839.806,018.606,212.10 E-74,947.605,106.305,387.105,621.405,781.30 E-64,443.904,585.204,858.804,942.505,003.40 E-54,142.404,234.504,259.704,259.704,259.70 E-43,675.603,675.603,675.603,675.603,675.60 E-33,081.003,081.003,081.003,081.003,081.00 E-22,599.202,599.202,599.202,599.202,599.20 E-12,319.002,319.002,319.002,319.002,319.00 Over 18 YearsOver 20 YearsOver 22 YearsOver 24 YearsOver 26 Years E-9$7,447.80$7,808.40$8,114.70$8,436.00$8,928.60 E-86,561.906,739.207,040.707,207.807,619.40 E-75,951.106,017.106,238.206,356.706,808.80 E-65,074.805,074.805,074.805,074.805,074.80 E-54,259.704,259.704,259.704,259.704,259.70 E-43,675.603,675.603,675.603,675.603,675.60 E-33,081.003,081.003,081.003,081.003,081.00 E-22,599.202,599.202,599.202,599.202,599.20 E-12,319.002,319.002,319.002,319.002,319.00 Over 28 YearsOver 30 YearsOver 32 YearsOver 34 YearsOver 36 Years E-9$8,928.60$9,374.10$9,374.10$9,843.30$9,843.30 E-87,619.407,772.107,772.107,772.107,772.10 E-76,808.806,808.806,808.806,808.806,808.80 E-65,074.805,074.805,074.805,074.805,074.80 E-54,259.704,259.704,259.704,259.704,259.70 E-43,675.603,675.603,675.603,675.603,675.60 E-33,081.003,081.003,081.003,081.003,081.00 E-22,599.202,599.202,599.202,599.202,599.20 E-12,319.002,319.002,319.002,319.002,319.00 Over 38 YearsOver 40 Years E-9$10,336.50$10,336.50 E-87,772.107,772.10 E-76,808.806,808.80 E-65,074.805,074.80 E-54,259.704,259.70 E-43,675.603,675.60 E-33,081.003,081.00 E-22,599.202,599.20 E-12,319.002,319.00 [See also Schedule 8 of Ex. Ord. No. 14132, Dec. 23, 2024, 89 F.R. 106969, set out as a note under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees, which lists pay of the uniformed services effective Jan. 1, 2025, but subject to the tables set out above.]
+
 #### Publication by Department of Defense of Actual Rates of Basic Pay Payable to Members of the Armed Forces by Pay Grade for Annual or Other Pay Periods
 Pub. L. 114–328, div. A, title VI, § 602, Dec. 23, 2016, 130 Stat. 2156, provided that: “Any pay table published or otherwise issued by the Department of Defense to indicate the rates of basic pay of the Armed Forces in effect for members of the Armed Forces for a calendar year or other period shall state the rate of basic pay to be received by members in each pay grade for such year or period as specified or otherwise provided by applicable law, including any rate to be so received pursuant during such year or period by the operation of a ceiling under [section 203(a)(2) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203/a/2&num=0&edition=prelim), United States Code, or a similar provision in an annual defense authorization Act.”
 
@@ -497,7 +498,7 @@ Ex. Ord. No. 11414, June 11, 1968, 33 F.R. 8645, provided for adjustment of pay 
 
 **(g)**
 
-(1) A member of a reserve component of a uniformed service is entitled to the pay and allowances provided by law or regulation for a member of a regular component of a uniformed service of corresponding grade and length of service whenever such member is physically disabled as the result of an injury, illness, or disease incurred or aggravated—
+(1) A member of a reserve component of a uniformed service, or a member of the Space Force in space force active status not on sustained duty, is entitled to the pay and allowances provided by law or regulation for a member of a regular component of a uniformed service of corresponding grade and length of service whenever such member is physically disabled as the result of an injury, illness, or disease incurred or aggravated—
 
   (A) in line of duty while performing active duty;
 
@@ -519,7 +520,7 @@ Ex. Ord. No. 11414, June 11, 1968, 33 F.R. 8645, provided for adjustment of pay 
 
 **(h)**
 
-(1) A member of a reserve component of a uniformed service who is physically able to perform his military duties, is entitled, upon request, to a portion of the monthly pay and allowances provided by law or regulation for a member of a regular component of a uniformed service of corresponding grade and length of service for each month for which the member demonstrates a loss of earned income from nonmilitary employment or self-employment as a result of an injury, illness, or disease incurred or aggravated—
+(1) A member of a reserve component of a uniformed service who is physically able to perform his military duties, is entitled, upon request, to a portion of the monthly pay and allowances provided by law or regulation for a member of a regular component of a uniformed service, or a member of the Space Force in space force active status not on sustained duty, of corresponding grade and length of service for each month for which the member demonstrates a loss of earned income from nonmilitary employment or self-employment as a result of an injury, illness, or disease incurred or aggravated—
 
   (A) in line of duty while performing active duty;
 
@@ -585,6 +586,8 @@ In subsection (f), the words “is appointed” are substituted for the words �
 In subsection (i), the inclusion of the Coast Guard Reserve is based on the authority contained in [section 755(c) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section755/c&num=0&edition=prelim).
 
 #### Amendments
+2025—Subsecs. (g)(1), (h)(1). Pub. L. 119–60 inserted “, or a member of the Space Force in space force active status not on sustained duty,” after “of a reserve component of a uniformed service”.
+
 2013—Subsec. (c). Pub. L. 113–66 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A member of the National Guard who is called into Federal service for a period of 30 days or less is entitled to basic pay from the date when he appears at the place of company rendezvous. However, this subsection does not authorize any expenditure before arriving at the place of rendezvous that is not authorized by law to be paid after arrival at that place.”
 
 2002—Subsec. (i)(4)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
@@ -664,15 +667,15 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
   (A) a regular component of a uniformed service;
 
-  (B) the Regular Army Reserve;
+  (B) a reserve component of a uniformed service;
 
-  (C) the Organized Militia before July 1, 1916;
+  (C) the Space Force;
 
-  (D) the National Guard;
+  (D) the Regular Army Reserve;
 
-  (E) the National Guard Reserve;
+  (E) the National Guard;
 
-  (F) a reserve component of a uniformed service;
+  (F) the National Guard Reserve;
 
   (G) the Naval Militia;
 
@@ -742,6 +745,8 @@ In subsection (b), the first 33 words of section 233(d) of existing title 37 are
 In subsection (c)(3), the words “chapter 67 of title 10” are substituted for the words “title III of the Army and Air Force Vitalization and Retirement Equalization Act of 1948,” since that title was repealed by section 53 of the Act of August 10, 1956, ch. 1041 (70A Stat. 641), and is now codified as chapter 67 of title 10 by section 1 of that Act.
 
 #### Amendments
+2025—Subsec. (a)(2)(B) to (F). Pub. L. 119–60 transferred subpar. (F) to appear after subpar. (A) and redesignated it as subpar. (B); redesignated former subpars. (B), (D), and (E) as (D), (E), and (F), respectively; added subpar. (C) and struck out former subpar. (C) which read as follows: “the Organized Militia before July 1, 1916;”.
+
 2006—Subsec. (a)(2)(I). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 2000—Subsec. (f). Pub. L. 106–398 substituted “that the officer performed concurrently as an enlisted member” for “that the officer performed concurrently as a member” and “section 12203” for “section 12209”.
@@ -818,8 +823,8 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 
 <a id="section-206"></a>
-## § 206. Reserves; members of National Guard: inactive-duty training
-**(a)** Under regulations prescribed by the Secretary concerned, and to the extent provided for by appropriations, a member of the National Guard or a member of a reserve component of a uniformed service who is not entitled to basic pay under [section 204 of this title](./chapter-003-basic-pay.md#section-204), is entitled to compensation, at the rate of 1⁄30 of the basic pay authorized for a member of a uniformed service of a corresponding grade entitled to basic pay—
+## § 206. Reserves; members of National Guard; members of the Space Force: inactive-duty training
+**(a)** Under regulations prescribed by the Secretary concerned, and to the extent provided for by appropriations, a member of the National Guard, a member of a reserve component of a uniformed service, or a member of the Space Force who is not entitled to basic pay under [section 204 of this title](./chapter-003-basic-pay.md#section-204), is entitled to compensation, at the rate of 1⁄30 of the basic pay authorized for a member of a uniformed service of a corresponding grade entitled to basic pay—
 
 (1) for each regular period of instruction, or period of appropriate duty, at which the member is engaged for at least two hours, including that performed on a Sunday or holiday;
 
@@ -837,7 +842,7 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
   (C) in line of duty while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training; or
 
-(4) for each of six days for each period during which the member is on maternity leave.
+(4) for a regular period of instruction, period of appropriate duty, or such other equivalent training that a member would be required to perform but does not perform because such member was authorized to take parental leave pursuant to [section 711 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section711&num=0&edition=prelim) or family leave under [section 2512 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2512&num=0&edition=prelim).
 
 **(b)** The regulations prescribed under subsection (a) for each uniformed service, the National Guard, and each of the classes of organization of the reserve components within each uniformed service, may be different. The Secretary concerned shall, for the National Guard and each of the classes of organization within each uniformed service, prescribe—
 
@@ -851,9 +856,9 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 **(d)**
 
-(1) Except as provided in paragraph (2), this section does not authorize compensation for work or study performed by a member of a reserve component or by a member of the National Guard while not in Federal service in connection with correspondence courses of a uniformed service.
+(1) Except as provided in paragraph (2), this section does not authorize compensation for work or study performed by a member of a reserve component, by a member of the Space Force, or by a member of the National Guard while not in Federal service in connection with correspondence courses of a uniformed service.
 
-(2) A member of the Selected Reserve of the Ready Reserve may be paid compensation under this section at a rate and under terms determined by the Secretary of Defense, but not to exceed the rate otherwise applicable to the member under subsection (a), upon the member’s successful completion of a course of instruction undertaken by the member using electronic-based distributed learning methodologies to accomplish training requirements related to unit readiness or mobilization, as directed for the member by the Secretary concerned. The compensation may be paid regardless of whether the course of instruction was under the direct control of the Secretary concerned or included the presence of an instructor.
+(2) A member of the Selected Reserve of the Ready Reserve or the Space Force, 11 So in original. may be paid compensation under this section at a rate and under terms determined by the Secretary of Defense, but not to exceed the rate otherwise applicable to the member under subsection (a), upon the member’s successful completion of a course of instruction undertaken by the member using electronic-based distributed learning methodologies to accomplish training requirements related to unit readiness or mobilization, as directed for the member by the Secretary concerned. The compensation may be paid regardless of whether the course of instruction was under the direct control of the Secretary concerned or included the presence of an instructor.
 
 (3) The prohibition in paragraph (1), including the prohibition as it relates to a member of the National Guard while not in Federal service, applies to—
 
@@ -861,18 +866,11 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
   (B) any claim based on that work or study arising after that date.
 
-**(e)** A member of the National Guard or of a reserve component of the uniformed services may not be paid under this section for more than four periods of equivalent training, instruction, duty, or appropriate duties performed during a fiscal year instead of the member’s regular period of instruction or regular period of appropriate duty during that fiscal year.
+**(e)** A member of the National Guard, a reserve component of the uniformed services, or the Space Force may not be paid under this section for more than four periods of equivalent training, instruction, duty, or appropriate duties performed during a fiscal year instead of the member’s regular period of instruction or regular period of appropriate duty during that fiscal year.
 
 **(f)** A member of the Individual Ready Reserve is not entitled to compensation under this section for participation in screening for which the member is paid a stipend under [section 433a of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-433a).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(4)
-Pub. L. 118–31, div. A, title VI, § 601(b), (e), Dec. 22, 2023, 137 Stat. 288, 289, provided that, effective on Oct. 1, 2024, and applicable with respect to periods of parental leave that commence on or after such date, subsection (a)(4) of this section is amended to read as follows:
-
-“(4) for a regular period of instruction, period of appropriate duty, or such other equivalent training that a member would be required to perform but does not perform because such member was authorized to take parental leave pursuant to [section 711 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section711&num=0&edition=prelim).”
-
-See 2023 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -904,6 +902,18 @@ Pub. L. 96–154, title VII, § 726, Dec. 21, 1979, 93 Stat. 1157.
 Pub. L. 95–457, title VIII, § 826, Oct. 13, 1978, 92 Stat. 1248.
 
 #### Amendments
+2025—Pub. L. 119–60, § 601(b)(4)(A), inserted “; members of the Space Force” after “National Guard” in section catchline. Catchline text was editorially conformed to the style used in this title.
+
+Subsec. (a). Pub. L. 119–60, § 601(b)(4)(B), in introductory provisions, substituted “Guard, a” for “Guard or a” and inserted “, or a member of the Space Force” after “uniformed service” the first place it appears.
+
+Subsec. (a)(4). Pub. L. 119–60, § 7225(c), inserted “or family leave under [section 2512 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2512&num=0&edition=prelim)” before period at end.
+
+Subsec. (d)(1). Pub. L. 119–60, § 601(b)(4)(C)(i), inserted “, by a member of the Space Force,” after “reserve component”.
+
+Subsec. (d)(2). Pub. L. 119–60, § 601(b)(4)(C)(ii), inserted “or the Space Force,” after “Ready Reserve”.
+
+Subsec. (e). Pub. L. 119–60, § 601(b)(4)(D), substituted “Guard, a” for “Guard or of a” and inserted “, or the Space Force” after “uniformed services”.
+
 2023—Subsec. (a)(4). Pub. L. 118–31 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “for each of six days for each period during which the member is on maternity leave.”
 
 2021—Subsec. (a)(4). Pub. L. 116–283 added par. (4).
@@ -1138,13 +1148,15 @@ Pub. L. 92–172, Nov. 24, 1971, 85 Stat. 491, as amended by Pub. L. 94–361, t
 
 (4) The Sergeant Major of the Marine Corps.
 
-(5) The senior enlisted advisor of the Space Force.
+(5) The Chief Master Sergeant of the Space Force.
 
 (6) The Master Chief Petty Officer of the Coast Guard.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (c)(5). Pub. L. 118–159 substituted “The Chief Master Sergeant of the Space Force” for “The senior enlisted advisor of the Space Force”.
+
 2021—Subsec. (c)(5), (6). Pub. L. 116–283 added par. (5) and redesignated former par. (5) as (6).
 
 2014—Subsec. (a). Pub. L. 113–291, § 603(b)(1), inserted “or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau” after “that armed force” the first place appearing.
@@ -1172,7 +1184,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (1) a member of the uniformed services serving on active duty; and
 
-(2) a member of the Ready Reserve in any pay status.
+(2) a member of the Ready Reserve or the Space Force in any pay status.
 
 **(b) Authority.—** Any member may participate in the Thrift Savings Plan in accordance with [section 8440e of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8440e&num=0&edition=prelim).
 
@@ -1191,6 +1203,8 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a)(2). Pub. L. 119–60 inserted “or the Space Force” after “member of the Ready Reserve”.
+
 2015—Subsecs. (d), (e). Pub. L. 114–92 redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to agency contributions for retention in critical specialties and first-time enlistees.
 
 2008—Subsec. (e). Pub. L. 110–181 added subsec. (e).

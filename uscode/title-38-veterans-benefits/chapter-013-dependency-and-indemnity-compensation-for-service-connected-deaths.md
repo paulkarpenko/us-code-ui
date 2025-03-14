@@ -274,6 +274,9 @@ Pub. L. 93–295, title II, § 207, May 31, 1974, 88 Stat. 183, directed Adminis
 
 ### Statutory Notes
 
+#### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
+For increases in rates of Department of Veterans Affairs disability compensation and dependency and indemnity compensation, see notes set out under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
+
 #### References in Text
 The Social Security Act, referred to in subsec. (f)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
@@ -723,9 +726,6 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 #### Retroactive Benefits Prohibited
 For provisions relating to prohibition of retroactive benefits by reason of amendments to this section by Pub. L. 108–183, see section 101(d) of Pub. L. 108–183, set out as a note under [section 103 of this title](./chapter-001-general.md#section-103).
 
-#### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
-For increases in rates and limitations on Department of Veterans Affairs disability compensation and dependency and indemnity compensation, see notes set out under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
-
 #### Payment for Implementation of Revisions
 Pub. L. 102–568, title I, § 102(d), Oct. 29, 1992, 106 Stat. 4322, provided that the costs of implementing, during fiscal years 1993 and 1994, any revisions in the payment of dependency and indemnity compensation to surviving spouses under this section that result from the amendments made by section 102(a) and (b) of Pub. L. 102–568 to this section, were to be paid from amounts available to the Department of Veterans Affairs for the payment of compensation and pension.
 
@@ -796,6 +796,9 @@ Pub. L. 87–268, § 2, Sept. 21, 1961, 75 Stat. 566, provided that the increase
 **(b)** If dependency and indemnity compensation has been awarded under this section to a veteran’s child or children and the entitlement to dependency and indemnity compensation under this section of an additional child of that veteran who is over the age of eighteen years and who had previously been entitled to depend­ency and indemnity compensation under this section before becoming eighteen years of age is later reestablished effective retroactively upon determination that such child is pursuing a course of instruction at an approved educational institution, the amount payable retroactively to the additional child is the amount equal to the difference between the total of the increased award payable under this section to the children of the deceased veteran for the retroactive period and the prior total award for such purpose for that period.
 
 ### Statutory Notes
+
+#### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
+For increases in rates of Department of Veterans Affairs disability compensation and dependency and indemnity compensation, see notes set out under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
 
 #### Codification
 Amendments by section 105 of Pub. L. 99–576, section 105 of Pub. L. 99–238, and section 105 of Pub. L. 98–223, which directed that cls. (1) to (4) of this section be amended, were executed by amending subsec. (a) of this section, as the probable intent of Congress, in view of subsec. (a) containing cls. (1) to (4).
@@ -1106,9 +1109,6 @@ Amendment by Pub. L. 88–21 effective first day of second calendar month beginn
 #### Repeal
 Pub. L. 97–253, title IV, § 405(f), Sept. 8, 1982, 96 Stat. 804, cited as a credit to this section, was repealed by Pub. L. 97–306, §§ 107, 108, Oct. 14, 1982, 96 Stat. 1431, 1432, eff. Oct. 1, 1982.
 
-#### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
-For increases in rates and limitations on Department of Veterans Affairs disability compensation and dependency and indemnity compensation, see notes set out under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
-
 
 <a id="section-1314"></a>
 ## § 1314. Supplemental dependency and indemnity compensation to children
@@ -1119,6 +1119,9 @@ For increases in rates and limitations on Department of Veterans Affairs disabil
 **(c)** If dependency and indemnity compensation is payable monthly to a person as a surviving spouse and there is a child (of such person’s deceased spouse), who has attained the age of eighteen and who, while under the age of twenty-three, is pursuing a course of instruction at an educational institution approved under [section 104 of this title](./chapter-001-general.md#section-104), dependency and indemnity compensation shall be paid monthly to each such child, concurrently with the payment of dependency and indemnity compensation to the surviving spouse, in the amount of $243.
 
 ### Statutory Notes
+
+#### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
+For increases in rates of Department of Veterans Affairs disability compensation and dependency and indemnity compensation, see notes set out under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
 
 #### Amendments
 2009—Subsec. (a). Pub. L. 111–37, § 3(e)(2)(A), substituted “$286” for “$271”.
@@ -1426,9 +1429,6 @@ Amendment by Pub. L. 88–21 effective first day of second calendar month beginn
 
 #### Repeal
 Section 405(g) of Pub. L. 97–253, cited as a credit to this section, was repealed by Pub. L. 97–306, §§ 107, 108, Oct. 14, 1982, 96 Stat. 1431, 1432, eff. Oct. 1, 1982.
-
-#### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
-For increases in rates and limitations on Department of Veterans Affairs disability compensation and dependency and indemnity compensation, see notes set out under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
 
 
 <a id="section-1315"></a>

@@ -2,7 +2,7 @@
 title: 7
 chapter: '55'
 heading: DEPARTMENT OF AGRICULTURE
-section_count: 162
+section_count: 163
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -25,6 +25,9 @@ Section was formerly classified to [section 511 of Title 5](https://uscode.house
 
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
+#### Short Title of 2024 Amendment
+Pub. L. 118–191, § 1, Dec. 23, 2024, 138 Stat. 2658, provided that: “This Act [enacting section 2279l of this title] may be cited as the ‘Beagle Brigade Act of 2023’.”
 
 #### Short Title of 1997 Amendment
 Pub. L. 105–113, § 1, Nov. 21, 1997, 111 Stat. 2274, provided that: “This Act [enacting [section 2204g of this title](./chapter-055-department-of-agriculture.md#section-2204g), amending sections 1991 and 2276 of this title and [section 9 of Title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section9&num=0&edition=prelim), Census, repealing [section 142 of Title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section142&num=0&edition=prelim), and enacting provisions set out as a note under [section 1991 of this title](./chapter-050-agricultural-credit.md#section-1991)] may be cited as the ‘Census of Agriculture Act of 1997’.”
@@ -2462,6 +2465,8 @@ Section was formerly classified to [section 568a of Title 5](https://uscode.hous
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
+Pub. L. 118–42, div. B, title I, Mar. 9, 2024, 138 Stat. 69.
+
 Pub. L. 117–328, div. A, title I, Dec. 29, 2022, 136 Stat. 4466.
 
 Pub. L. 117–103, div. A, title I, Mar. 15, 2022, 136 Stat. 55.
@@ -4207,6 +4212,32 @@ The Secretary may, notwithstanding subchapter I of chapter 33 of title 5, govern
 
 #### Definition of “Secretary”
 “Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
+
+<a id="section-2279l"></a>
+## § 2279l. National Detector Dog Training Center
+**(a) In general** There is established a National Detector Dog Training Center (referred to in this section as the “Center”).
+
+**(b) Duties** The Center shall have the following duties:
+
+(1) Training dogs for the purpose of safeguarding domestic agricultural and natural resources from foreign and invasive pests and diseases.
+
+(2) Training human handlers to successfully select and train dogs for the purpose described in paragraph (1).
+
+(3) Collaborating with relevant Federal agencies, including U.S. Customs and Border Protection, to safeguard domestic agricultural and natural resources.
+
+(4) Collaborating with external stakeholders, including State departments of agriculture, local and county agricultural officials, private sector entities, and other relevant non-Federal partners.
+
+(5) Ensuring the health and welfare of all dogs under the care of the Center, including by ensuring access to necessary veterinary care, adequate shelter, and proper nutrition.
+
+(6) Providing opportunities for private adoption of retirement-age trained dogs and dogs that do not complete training.
+
+(7) Any other duties necessary to safeguard domestic agricultural and natural resources from foreign and invasive pests and diseases, as determined by the Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service.
+
+### Statutory Notes
+
+#### References in Text
+This section, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 118–191, Dec. 23, 2024, 138 Stat. 2658, which enacted this section, provisions set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201), and provisions relating to reporting requirements that are not set out in the Code. For complete classification of this Act to the Code, see Short Title of 2024 note set out under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201) and Tables.
 
 
 <a id="section-2279-1"></a>

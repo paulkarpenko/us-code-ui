@@ -377,7 +377,7 @@ Amendment by Pub. L. 93–371 effective on and after July 1, 1974, see [section 
 Pub. L. 93–145, § 101, Nov. 1, 1973, 87 Stat. 532, provided that the amendment made by Pub. L. 93–145 is effective Jan. 1, 1973.
 
 #### Senate Democratic Leadership Offices Funding and Authorities
-Reference to the Office of the Secretary of the majority or minority conference of the Senate, as applicable, that represents the Democratic party deemed to be a reference to the Office of the Assistant Leader of the applicable conference, under certain conditions during the 117th Congress, see section 104 of div. I of Pub. L. 116–260, set out as a note under [section 6154 of this title](./chapter-061-senate-leadership.md#section-6154).
+Reference to the Office of the Secretary of the majority or minority conference of the Senate, as applicable, that represents the Democratic party deemed to be a reference to the office of the designated officer of the applicable conference, under certain conditions during the 118th and any subsequent Congress, see [section 6161 of this title](./chapter-061-senate-leadership.md#section-6161).
 
 #### Increase in Certain Authorized Expense Limits Effective October 1, 1994
 For provisions increasing each of the figures contained in subsec. (b)(3)(A)(iii) of this section by $50,000 effective Oct. 1, 1994, see section 5 of Pub. L. 103–283, set out as a Mass Mailings by Senators note under [section 3210 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3210&num=0&edition=prelim), Postal Service.

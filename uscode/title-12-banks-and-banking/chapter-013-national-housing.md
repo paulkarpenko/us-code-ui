@@ -3422,6 +3422,28 @@ The Secretary shall not reject an application on technical grounds without givin
 
   (B) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
 
+(10) **Qualifying smoke alarms**
+
+  (A) *In general* — Each owner of a dwelling unit assisted under this section shall ensure that qualifying smoke alarms are installed in accordance with the requirements of applicable codes and standards and the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
+
+  (B) *Definitions* — For purposes of this paragraph, the following definitions shall apply:
+
+    (i) *Smoke alarm defined* — The term “smoke alarm” has the meaning given the term “smoke detector” in [section 2225(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2225/d&num=0&edition=prelim).
+
+    (ii) *Qualifying smoke alarm defined* — The term “qualifying smoke alarm” means a smoke alarm that—
+
+      (I) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
+
+        (aa)
+
+          (AA) is hardwired; or
+
+          (BB) uses 10-year non rechargeable, nonreplaceable primary batteries and is sealed, is tamper resistant, and contains silencing means; and
+
+        (bb) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
+
+      (II) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.
+
 **(k) Definitions**
 
 (1) The term “elderly person” means a household composed of one or more persons at least one of whom is 62 years of age or more at the time of initial occupancy.
@@ -3473,39 +3495,6 @@ The Secretary shall not reject an application on technical grounds without givin
 **(m) 11 So in original. Probably should be “(n)”. Authorization of appropriations** There are authorized to be appropriated for providing assistance under this section such sums as may be necessary for each of fiscal years 2001, 2002, and 2003.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (j)
-Pub. L. 117–328, div. AA, title VI, § 601(b), (h), Dec. 29, 2022, 136 Stat. 5544, 5548, provided that, effective two years after Dec. 29, 2022, subsection (j) of this section is amended by adding at the end the following:
-
-(10) Qualifying smoke alarms
-
-(A) In general
-
-Each owner of a dwelling unit assisted under this section shall ensure that qualifying smoke alarms are installed in accordance with the requirements of applicable codes and standards and the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
-
-(B) Definitions
-
-For purposes of this paragraph, the following definitions shall apply:
-
-(i) Smoke alarm defined
-
-The term “smoke alarm” has the meaning given the term “smoke detector” in [section 2225(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2225/d&num=0&edition=prelim).
-
-(ii) Qualifying smoke alarm defined
-
-The term “qualifying smoke alarm” means a smoke alarm that—
-
-(I) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
-
-(aa)(AA) is hardwired; or
-
-(BB) uses 10-year non rechargeable, nonreplaceable primary batteries and is sealed, is tamper resistant, and contains silencing means; and
-
-(bb) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
-
-(II) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.
-
-See 2022 Amendment note below.
 
 #### References in Text
 This Act, referred to in subsec. (g)(1), is Pub. L. 86–372, Sept. 23, 1959, 73 Stat. 654, known as the Housing Act of 1959. For complete classification of this Act to the Code, see Short Title of 1959 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
@@ -3879,7 +3868,7 @@ Pub. L. 98–371, title I, July 18, 1984, 98 Stat. 1216.
 
 Pub. L. 98–45, title I, as added Pub. L. 98–181, title I, Nov. 30, 1983, 97 Stat. 1153.
 
-#### Reports Respecting Elderly and Handicapped Housing Programs in Rural Areas, Etc.
+#### Reports Respecting Elderly and Handicapped Housing Programs in Rural Areas, etc.
 Pub. L. 96–153, title III, § 306(e), (f), Dec. 21, 1979, 93 Stat. 1113, required Secretary of Housing and Urban Development, not later than six months after Dec. 21, 1979, to report to Congress on housing needs of elderly and handicapped in rural areas and recommend to Congress on means to reduce costs of program carried out under this section.
 
 #### Feasibility and Marketability of Projects; Assistance for Projects Servicing Low- and Moderate-Income Families
@@ -4270,7 +4259,7 @@ Subsec. (l). Pub. L. 97–35, § 327(a), substituted provisions relating to addi
 
 1980—Subsec. (l). Pub. L. 96–399 substituted “shall, not later than 4 years after October 8, 1980,” for “may” in first sentence; inserted second sentence relating to amending of contracts; and substituted “the first sentence of this paragraph” for “preceding” in last sentence.
 
-1979—Subsec. (c). Pub. L. 96–153, § 203(a)(l), revised definition of “qualified tenant” and inserted definition of “income”.
+1979—Subsec. (c). Pub. L. 96–153, § 203(a)(1), revised definition of “qualified tenant” and inserted definition of “income”.
 
 Subsec. (d). Pub. L. 96–153, § 203(a)(2), struck out provisions that in determining the income of tenants, an amount equal to $300 for each minor person shall be deducted and that the earnings of minor persons shall not be included in the income of the tenant, and inserted provisions relating to the determination of amount of payments under contracts amended pursuant to subsec. (j) of this section by reference to [section 1437f of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437f&num=0&edition=prelim).
 
@@ -6064,7 +6053,7 @@ Pub. L. 110–289, div. B, title I, § 2148(b), July 30, 2008, 122 Stat. 2847, p
 
 Pub. L. 97–35, title III, § 339B(c), Aug. 13, 1981, 95 Stat. 417, provided that: “For purposes of paragraphs (1) and (4) of section 308(c) of the Housing and Community Development Act of 1980 [amending sections 1703 and 1713 of this title, and section 5401 et seq. of Title 42, The Public Health and Welfare], the term ‘mobile home’ and the term ‘manufactured home’ shall be deemed to include the term ‘mobile homes’ and the term ‘manufactured homes’, respectively.”
 
-#### Data Collection and Reporting Procedures Respecting Mean and Median Sales Prices on Manufactured Homes and Lots; Development, Contents, Etc.
+#### Data Collection and Reporting Procedures Respecting Mean and Median Sales Prices on Manufactured Homes and Lots; Development, Contents, etc.
 Pub. L. 96–399, title III, § 308(e), Oct. 8, 1980, 94 Stat. 1641, provided that: “Not later than January 1, 1982, the Secretary of Housing and Urban Development shall develop a procedure for collecting and regularly reporting data on the mean and median sales price for new manufactured homes, and, where available, data on the mean and median sales price for manufactured home lots and combination new manufactured home and lot packages. Such reports shall contain, to the maximum extent feasible, sales price information for the Nation, each census region, each State on an annual basis, and selected standard metropolitan statistical areas having sufficient activity on an annual basis.”
 
 #### Report Respecting Ownership of Mobile Home Sites
@@ -9437,7 +9426,7 @@ Act June 30, 1953, § 25(c), substituted in fourth sentence “Upon application 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–242 applicable only with respect to mortgages insured pursuant to conditional commitment issued on or after Feb. 5, 1988, or in accordance with direct endorsement program (24 CFR 200.163), if approved underwriter of mortgagee signs appraisal report for property on or after Feb. 5, 1988, see section 406(d) of Pub. L. 100–242, set out as a note under [section 1709 of this title](./chapter-013-national-housing.md#section-1709).
 
-#### Study and Report Respecting Utilization of Factory-Built and Other Appropriate Types of Housing for Indian, Etc., Housing Programs
+#### Study and Report Respecting Utilization of Factory-Built and Other Appropriate Types of Housing for Indian, etc., Housing Programs
 Pub. L. 96–399, title III, § 323, Oct. 8, 1980, 94 Stat. 1647, directed Secretary of Housing and Urban Development to study feasibility of utilizing factory-built and other appropriate types of housing (other than the traditional type of site-built housing), to the extent practicable, in carrying out housing programs for Indians and Alaskan Natives, and not later than eighteen months after Oct. 8, 1980, to transmit a report to Congress containing the findings and conclusions of such study, including a comparison of costs and benefits of utilizing the traditional type of site-built housing and of utilizing other types of housing in situations in which either type of housing could be used.
 
 #### Termination of Purchases of Obligations
@@ -9533,7 +9522,7 @@ This chapter, referred to in subsecs. (g), (i), (n) and (o), was in the original
 #### Amendments
 2007—Subsec. (b)(2)(B)(i). Pub. L. 110–161 substituted “170 percent” for “140 percent” after “not to exceed” in two places and “215 percent in high cost areas” for “170 percent in high cost areas”.
 
-2003—Subsec. (b)(2)(A). Pub. L. 108–186, § 302(c)(2), substituted “$41,207”, “$47,511”, “$57,300”, “$73,343”, “$81,708”, “$49,710”, “$60,446”, “$78,197”, and “$85,836” for “$38,025”, “$42,120”, “$50,310”, “$62,010”, “$70,200”, “$49,140”, “$60,255”, “ $75,465”, and “$85,328”, respectively.
+2003—Subsec. (b)(2)(A). Pub. L. 108–186, § 302(c)(2), substituted “$41,207”, “$47,511”, “$57,300”, “$73,343”, “$81,708”, “$49,710”, “$60,446”, “$78,197”, and “$85,836” for “$38,025”, “$42,120”, “$50,310”, “$62,010”, “$70,200”, “$49,140”, “$60,255”, “$75,465”, and “$85,328”, respectively.
 
 Subsec. (b)(2)(B)(i). Pub. L. 108–186, § 302(b), substituted “140 percent in” for “110 percent in” and inserted “, or 170 percent in high cost areas,” after “and by not to exceed 140 percent”.
 
@@ -16106,12 +16095,12 @@ Section 1716a, act Sept. 1, 1951, ch. 378, title VI, § 608(a), 65 Stat. 315, re
 <a id="section-1746"></a>
 ## § 1746. Partition of Federal National Mortgage Association into Federal National Mortgage Association and Government National Mortgage Association; assets and liabilities; operations
 
-The purposes of this title include the partition of the Federal National Mortgage Association as heretofore existing into two separate and distinct corporations, each of which shall have continuity and corporate succession as a separated portion of the previously existing corporation. One of such corporations, to be known as Federal National Mortgage Association, will be a Government-sponsored private corporation, will retain the assets and liabilities of the previously existing corporation accounted for under [section 1719 of this title](./chapter-013-national-housing.md#section-1719), and will continue to operate the secondary market operations authorized by such section 1719. The other, to be known as Government National Mortgage Association, will remain in the Government, will retain the assets and liabilities of the previously existing corporation accounted for under sections 1720 11 See References in Text note below. and 1721 of this title, and will continue to operate the special assistance functions and management and liquidating functions authorized by such sections 1720 1 and 1721.
+The purposes of this title 11 See References in Text note below. include the partition of the Federal National Mortgage Association as heretofore existing into two separate and distinct corporations, each of which shall have continuity and corporate succession as a separated portion of the previously existing corporation. One of such corporations, to be known as Federal National Mortgage Association, will be a Government-sponsored private corporation, will retain the assets and liabilities of the previously existing corporation accounted for under [section 1719 of this title](./chapter-013-national-housing.md#section-1719), and will continue to operate the secondary market operations authorized by such section 1719. The other, to be known as Government National Mortgage Association, will remain in the Government, will retain the assets and liabilities of the previously existing corporation accounted for under sections 1720 1 and 1721 of this title, and will continue to operate the special assistance functions and management and liquidating functions authorized by such sections 1720 1 and 1721.
 
 ### Statutory Notes
 
 #### References in Text
-This title, referred to in text, means title VIII of Pub. L. 90–448, which enacted this section, amended sections 24, 378, 1431, 1436, 1464, 1716, 1717 to 1723a, 1723c and 1757 of this title, [section 709 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section709&num=0&edition=prelim), Crimes and Criminal Procedure, section 846 of former Title 31, Money and Finance, section 1820 [now 3720] of Title 38, Veterans’ Benefits, section 612 of former Title 40, Public Buildings, Property, and Works, and sections 1452b, 3534 and 3535 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under this section and [section 1721 of this title](./chapter-013-national-housing.md#section-1721).
+This title, referred to first time appearing in text, means title VIII of Pub. L. 90–448, which enacted this section, amended sections 24, 378, 1431, 1436, 1464, 1716, 1717 to 1723a, 1723c and 1757 of this title, [section 709 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section709&num=0&edition=prelim), Crimes and Criminal Procedure, section 846 of former Title 31, Money and Finance, section 1820 [now 3720] of Title 38, Veterans’ Benefits, section 612 of former Title 40, Public Buildings, Property, and Works, and sections 1452b, 3534 and 3535 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under this section and [section 1721 of this title](./chapter-013-national-housing.md#section-1721).
 
 [Section 1720 of this title](./chapter-013-national-housing.md#section-1720), referred to in text, was repealed by Pub. L. 98–181, title I [title IV, § 483(a)], Nov. 30, 1983, 97 Stat. 1240.
 
@@ -16426,7 +16415,7 @@ For effective date of amendment by Pub. L. 85–857, see section 2 of Pub. L. 85
 #### Transfer of Functions
 For retransfer of functions described in section 2 of Reorg. Plan No. 22 of 1950, set out below, from Housing and Home Finance Administrator to Federal National Mortgage Association, see [section 1723d of this title](./chapter-013-national-housing.md#section-1723d).
 
-#### Proposal by Federal National Mortgage Association Respecting Authority To Implement Section 339(a)(1), (b)(1) of Pub. L. 96–399; Approval, Etc.
+#### Proposal by Federal National Mortgage Association Respecting Authority To Implement Section 339(a)(1), (b)(1) of Pub. L. 96–399; Approval, etc.
 Pub. L. 96–399, title III, § 339(a)(2), (b)(2), Oct. 8, 1980, 94 Stat. 1657, provided that when Federal National Mortgage Association submits its proposal to Secretary of Housing and Urban Development to implement authority granted by amendment of this section, Secretary of Housing and Urban Development shall, within 75 days, approve such proposal or transmit to Congress a report explaining why such proposal has not been approved.
 
 #### Waiver of Certain Limitations Applicable to the Purchase of Mortgages by the Government National Mortgage Association Until October 1, 1974
@@ -16436,7 +16425,7 @@ Pub. L. 92–213, § 3, Dec. 22, 1971, 85 Stat. 775, as amended by Pub. L. 92–
 Pub. L. 89–429, § 9, May 24, 1966, 80 Stat. 168, authorized Federal National Mortgage Association during fiscal year 1966 to sell (1) additional participations in Government Mortgage Liquidation Trust, and (2) participations in a trust to be established by Small Business Administration, each without regard to the provisions of subsec. (c)(4) of this section.
 
 #### Trust Agreements With Administrator of Veterans’ Affairs
-Pub. L. 89–429, § 6(a), May 24, 1966, 80 Stat. 167, provided that: “Nothing in this Act [enacting [section 1717a of this title](./chapter-013-national-housing.md#section-1717a) and [section 745 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section745&num=0&edition=prelim), Education, amending this section and sections 1720, 1749, and 1757 of this title, [section 1988 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1988&num=0&edition=prelim), Agriculture, and [section 743 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section743&num=0&edition=prelim), and enacting material set out as notes under this section] shall be construed to repeal or modify the provisions of section 1820(e) [now 3720(e)] of title 38, United States Code, respecting the authority of the Administrator of Veterans’ Affairs [now Secretary of Veterans Affairs].”
+Pub. L. 89–429, § 6(a), May 24, 1966, 80 Stat. 167, provided that: “Nothing in this Act [enacting [section 1717a of this title](./chapter-013-national-housing.md#section-1717a) and [section 745 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section745&num=0&edition=prelim), Education, amending this section and sections 1720, 1749, and 1757 of this title, [section 1988 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1988&num=0&edition=prelim), Agriculture, and [section 743 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section743&num=0&edition=prelim), and enacting material set out as notes under this section] shall be construed to repeal or modify the provisions of [former] section 1820(e) [renumbered 3720(e), repealed by Pub. L. 105–368] of title 38, United States Code, respecting the authority of the Administrator of Veterans’ Affairs [now Secretary of Veterans Affairs].”
 
 #### REORGANIZATION PLAN NO. 22 OF 1950Eff. July 9, 1950, 15 F.R. 4365, 64 Stat. 1277
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, May 9, 1950, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949 [see [5 U.S.C. 901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim) et seq.].
@@ -17222,7 +17211,7 @@ For effective date of amendment by title VIII of Pub. L. 90–448, see section 8
 #### Termination of Advisory Councils
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-#### Proposal by Federal National Mortgage Association Respecting Mortgage-Backed Securities Program; Approval, Etc.
+#### Proposal by Federal National Mortgage Association Respecting Mortgage-Backed Securities Program; Approval, etc.
 Pub. L. 96–399, title III, § 330, Oct. 8, 1980, 94 Stat. 1652, provided that: “If the Federal National Mortgage Association submits to the Secretary of Housing and Urban Development or the Secretary of the Treasury, after the date of enactment of this section [Oct. 8, 1980], a proposal with respect to undertaking a mortgage-backed securities program, the Secretary of Housing and Urban Development or the Secretary of the Treasury, as the case may be, shall, within 90 days after submission of such proposal, approve the proposal or transmit to the Congress a report explaining why the proposal has not been approved.”
 
 #### Transfer of Functions

@@ -2,7 +2,7 @@
 title: 40
 chapter: '153'
 heading: REGIONAL COMMISSIONS
-section_count: 8
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40&num=0&edition=prelim
 ---
@@ -18,6 +18,10 @@ source: >-
 
 (4) The Great Lakes Authority.
 
+(5) The Mid-Atlantic Regional Commission.
+
+(6) The Southern New England Regional Commission.
+
 **(b) Membership.—**
 
 (1) **Federal and state members.—** — Each Commission shall be composed of the following members:
@@ -32,7 +36,11 @@ source: >-
 
   (B) *State alternates.—* — The State member of a participating State may have a single alternate, who shall be appointed by the Governor of the State from among the members of the Governor’s cabinet or personal staff.
 
-  (C) *Voting.—* — An alternate member shall vote in the case of the absence, death, disability, removal, or resignation of the Federal or State member for which the alternate member is an alternate.
+  (C) *Voting.—*
+
+    (i) *In general.—* — An alternate member shall vote in the case of the absence, death, disability, removal, or resignation of the Federal or State member for which the alternate member is an alternate.
+
+    (ii) *State alternates.—* — If the alternate State member is unable to vote in accordance with clause (i), the alternate State member may delegate voting authority to a designee, subject to the condition that the executive director shall be notified, in writing, of the designation not less than 1 week before the applicable vote is to take place.
 
 (3) **Cochairpersons.—** — A Commission shall be headed by—
 
@@ -58,7 +66,7 @@ source: >-
 
 **(e) No Federal Employee Status.—** No member, alternate, officer, or employee of a Commission (other than the Federal Cochairperson, the alternate Federal Cochairperson, staff of the Federal Cochairperson, and any Federal employee detailed to the Commission) shall be considered to be a Federal employee for any purpose.
 
-**(f) Succession.—** Subject to the time limitations under [section 3346 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3346&num=0&edition=prelim), the Federal Cochairperson may designate a Federal employee of the Commission to perform the functions and duties of the office of the Federal Cochairperson temporarily in an acting capacity if both the Federal Cochairperson and the alternate Federal Cochairperson die, resign, or otherwise are unable to perform the functions and duties of their offices.
+**(f) Succession.—** Subject to the time limitations under [section 3346 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3346&num=0&edition=prelim), the Federal Cochairperson may designate an employee of the Commission to perform the functions and duties of the office of the Federal Cochairperson temporarily in an acting capacity if both the Federal Cochairperson and the alternate Federal Cochairperson die, resign, or otherwise are unable to perform the functions and duties of their offices.
 
 ### Statutory Notes
 
@@ -66,6 +74,14 @@ source: >-
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (a)(5). Pub. L. 118–272, § 2249(a), added par. (5).
+
+Subsec. (a)(6). Pub. L. 118–272, § 2250(a), added par. (6).
+
+Subsec. (b)(2)(C). Pub. L. 118–272, § 2242(a)(1), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+Subsec. (f). Pub. L. 118–272, § 2242(a)(2), substituted “an employee” for “a Federal employee”.
+
 2022—Subsec. (a)(4). Pub. L. 117–328 added par. (4).
 
 2018—Subsec. (f). Pub. L. 115–334 added subsec. (f).
@@ -76,15 +92,19 @@ Section effective on the first day of the first fiscal year beginning after June
 
 <a id="section-15302"></a>
 ## § 15302. Decisions
-**(a) Requirements for Approval.—** Except as provided in section 15304(c)(3), decisions by the Commission shall require the affirmative vote of the Federal Cochairperson and a majority of the State members (exclusive of members representing States delinquent under section 15304(c)(3)(C)).
+**(a) Requirements for Approval.—** Except as provided in section 15304(c)(3), decisions by the Commission shall require the affirmative vote of the Federal Cochairperson and a majority of the State members or alternate State members, including designees (exclusive of members representing States delinquent under section 15304(c)(3)(C)).
 
 **(b) Consultation.—** In matters coming before the Commission, the Federal Cochairperson shall, to the extent practicable, consult with the Federal departments and agencies having an interest in the subject matter.
 
-**(c) Quorums.—** A Commission shall determine what constitutes a quorum for Commission meetings; except that—
+**(c) Quorums.—**
 
-(1) any quorum shall include the Federal Cochairperson or the alternate Federal Cochairperson; and
+(1) **In general.—** — Subject to paragraph (2), a Commission shall determine what constitutes a quorum for meetings of the Commission.
 
-(2) a State alternate member shall not be counted toward the establishment of a quorum.
+(2) **Requirements.—** — Any quorum for meetings of a Commission shall include—
+
+  (A) the Federal Cochairperson or the alternate Federal Cochairperson; and
+
+  (B) a majority of State members or alternate State members, including designees (exclusive of members representing States delinquent under section 15304(c)(3)(C)).
 
 **(d) Projects and Grant Proposals.—** The approval of project and grant proposals shall be a responsibility of each Commission and shall be carried out in accordance with section 15503.
 
@@ -92,6 +112,15 @@ Section effective on the first day of the first fiscal year beginning after June
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+2025—Subsec. (a). Pub. L. 118–272, § 2242(b)(1), inserted “or alternate State members, including designees” after “State members”.
+
+Subsec. (c). Pub. L. 118–272, § 2242(b)(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “A Commission shall determine what constitutes a quorum for Commission meetings; except that—
+
+“(1) any quorum shall include the Federal Cochairperson or the alternate Federal Cochairperson; and
+
+“(2) a State alternate member shall not be counted toward the establishment of a quorum.”
 
 #### Effective Date
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under [section 15101 of this title](./chapter-151-general-provisions.md#section-15101).
@@ -146,15 +175,17 @@ Section effective on the first day of the first fiscal year beginning after June
 
 (4) adopt, amend, and repeal bylaws and rules governing the conduct of business and the performance of duties by the Commission;
 
-(5) request the head of any Federal agency, State agency, or local government to detail to the Commission such personnel as the Commission requires to carry out its duties, each such detail to be without loss of seniority, pay, or other employee status;
+(5) request the head of any Federal agency, State agency, or local government to detail to the Commission such personnel as the Commission requires to carry out its duties, each such detail to be without loss of seniority, pay, or other employee status, which may be done without a requirement for the Commission to reimburse the agency or local government;
 
 (6) provide for coverage of Commission employees in a suitable retirement and employee benefit system by making arrangements or entering into contracts with any participating State government or otherwise providing retirement and other employee coverage;
 
 (7) accept, use, and dispose of gifts or donations or services or real, personal, tangible, or intangible property;
 
-(8) enter into and perform such contracts, cooperative agreements, or other transactions as are necessary to carry out Commission duties, including any contracts or cooperative agreements with a department, agency, or instrumentality of the United States, a State (including a political subdivision, agency, or instrumentality of the State), or a person, firm, association, or corporation; and
+(8) collect fees for services provided and retain and expend such fees;
 
-(9) maintain a government relations office in the District of Columbia and establish and maintain a central office at such location in its region as the Commission may select.
+(9) enter into and perform such contracts, cooperative agreements, or other transactions as are necessary to carry out Commission duties, including any contracts or cooperative agreements with a department, agency, or instrumentality of the United States, a State (including a political subdivision, agency, or instrumentality of the State), or a person, firm, association, or corporation; and
+
+(10) establish and maintain a central office at such location in its region as the Commission may select.
 
 **(b) Federal Agency Cooperation.—** A Federal agency shall—
 
@@ -192,6 +223,12 @@ Section effective on the first day of the first fiscal year beginning after June
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (a)(5). Pub. L. 118–272, § 2242(c)(1), inserted “, which may be done without a requirement for the Commission to reimburse the agency or local government” after “status”.
+
+Subsec. (a)(8), (9). Pub. L. 118–272, § 2242(c)(2), (3), added par. (8) and redesignated former par. (8) as (9). Former par. (9) redesignated (10).
+
+Subsec. (a)(10). Pub. L. 118–272, § 2242(c)(2), (4), redesignated par. (9) as (10) and struck out “maintain a government relations office in the District of Columbia and” before “establish and maintain a central office”.
+
 2018—Subsec. (c)(3)(A). Pub. L. 115–334 substituted “majority” for “unanimous”.
 
 #### Effective Date
@@ -202,7 +239,11 @@ Section effective on the first day of the first fiscal year beginning after June
 ## § 15305. Meetings
 **(a) Initial Meeting.—** Each Commission shall hold an initial meeting not later than 180 days after the date of the enactment of this section.
 
-**(b) Annual Meeting.—** Each Commission shall conduct at least 1 meeting each year with the Federal Cochairperson and at least a majority of the State members present.
+**(b) Annual Meeting.—** Each Commission shall conduct at least 1 meeting each year with—
+
+(1) the Federal Cochairperson; and
+
+(2) at least a majority of the State members or alternate State members (including designees) present in-person or via electronic means.
 
 **(c) Additional Meetings.—** Each Commission shall conduct additional meetings at such times as it determines and may conduct such meetings by electronic means.
 
@@ -213,6 +254,9 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+2025—Subsec. (b). Pub. L. 118–272 substituted “with—” and pars. (1) and (2) for “with the Federal Cochairperson and at least a majority of the State members present.”
 
 #### Effective Date
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under [section 15101 of this title](./chapter-151-general-provisions.md#section-15101).
@@ -278,8 +322,26 @@ Section effective on the first day of the first fiscal year beginning after June
 
 
 <a id="section-15308"></a>
-## § 15308. Annual report
-**(a) In General.—** Not later than 90 days after the last day of each fiscal year, each Commission shall submit to the President and Congress a report on the activities carried out by the Commission under this subtitle in the fiscal year.
+## § 15308. Transfer of funds among Federal agencies
+**(a) In General.—** Subject to subsection (c), for purposes of this subtitle, each Commission may transfer funds to and accept transfers of funds from other Federal agencies.
+
+**(b) Transfer of Funds to Other Federal Agencies.—** Funds made available to a Commission may be transferred to other Federal agencies if the funds are used consistently with the purposes for which the funds were specifically authorized and appropriated.
+
+**(c) Transfer of Funds From Other Federal Agencies.—** Funds may be transferred to any Commission under this section if—
+
+(1) the statutory authority for the funds provided by the Federal agency does not expressly prohibit use of funds for authorities being carried out by a Commission; and
+
+(2) the Federal agency that provides the funds determines that the activities for which the funds are to be used are otherwise eligible for funding under such a statutory authority.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 15308 was renumbered [section 15309 of this title](./chapter-153-regional-commissions.md#section-15309).
+
+
+<a id="section-15309"></a>
+## § 15309. Annual report
+**(a) In General.—** Not later than 180 days after the last day of each fiscal year, each Commission shall submit to the President and Congress a report on the activities carried out by the Commission under this subtitle in the fiscal year.
 
 **(b) Contents.—** The report shall include—
 
@@ -293,6 +355,11 @@ Section effective on the first day of the first fiscal year beginning after June
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+2025—Pub. L. 118–272, § 2243(a)(1), renumbered [section 15308 of this title](./chapter-153-regional-commissions.md#section-15308) as this section.
+
+Subsec. (a). Pub. L. 118–272, § 2242(e), substituted “180” for “90”.
 
 #### Effective Date
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under [section 15101 of this title](./chapter-151-general-provisions.md#section-15101).

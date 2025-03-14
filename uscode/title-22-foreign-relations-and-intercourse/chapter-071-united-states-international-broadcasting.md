@@ -259,7 +259,7 @@ The Radio Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is Pub. 
 
 The Television Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, which is classified principally to subchapter V–B (§ 1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1465aa of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) and Tables.
 
-This chapter, referred to in subsecs. (a)(5), (14), and (c)(1) the second place appearing, was in the original “this Act”, and was translated, to reflect the probable intent of Congress, as reading “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+This chapter, referred to in subsecs. (a)(5), (14) and (c)(1) the second place appearing, was in the original “this Act”, and was translated, to reflect the probable intent of Congress, as reading “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
 The United States Information and Educational Exchange Act of 1948, referred to in subsec. (a)(17), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1431) and Tables.
 
@@ -466,7 +466,23 @@ Pub. L. 110–53, title XX, § 2032, Aug. 3, 2007, 121 Stat. 516, provided that:
 
   (C) *Closed sessions* — The Advisory Board may meet in closed sessions in accordance with [section 552b of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim).
 
-**(f) Compensation**
+**(f) Suspension and debarment of grantees**
+
+(1) **In general** — Subject to paragraphs (2) and (3), a grantee may not be debarred or suspended without consultation with the Chief Executive Officer and a three-fourths majority vote of the Advisory Board in support of such action.
+
+(2) **Suspension**
+
+  (A) *Criteria for suspension* — A grantee may not be suspended unless the Advisory Board determines that the criteria described in section 513.405 of title 22, Code of Federal Regulations, have been met.
+
+  (B) *Suspending official* — The Advisory Board shall collectively serve as the suspending official (as described in section 513.105 of title 22, Code of Federal Regulations).
+
+(3) **Debarment**
+
+  (A) *Criteria for debarment* — A grantee may not be debarred unless the Advisory Board determines that one or more of the causes described in section 513.305 of title 22, Code of Federal Regulations, has been established.
+
+  (B) *Debarring official* — The Advisory Board shall collectively serve as the debarring official (as described in section 513.105 of title 22, Code of Federal Regulations).
+
+**(g) Compensation**
 
 (1) **In general** — Members of the Advisory Board, while attending meetings of the Advisory Board or while engaged in duties relating to such meetings or in other activities of the Advisory Board under this section (including travel time) shall be entitled to receive compensation equal to the daily equivalent of the compensation prescribed for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim).
 
@@ -474,7 +490,7 @@ Pub. L. 110–53, title XX, § 2032, Aug. 3, 2007, 121 Stat. 516, provided that:
 
 (3) **Secretary of State** — The Secretary of State is not entitled to any compensation under this chapter, but may be allowed travel expenses in accordance with paragraph (2).
 
-**(g) Support staff** The Chief Executive Officer shall, from within existing United States Agency for Global Media personnel, provide the Advisory Board with an Executive Secretary and such administrative staff and support as may be necessary to enable the Advisory Board to carry out subsections (d) and (e).
+**(h) Support staff** The Chief Executive Officer shall, from within existing United States Agency for Global Media personnel, provide the Advisory Board with an Executive Secretary and such administrative staff and support as may be necessary to enable the Advisory Board to carry out subsections (d) and (e).
 
 ### Statutory Notes
 
@@ -487,6 +503,8 @@ This chapter, referred to in subsecs. (e)(1) and (f)(3), was in the original “
 Pub. L. 116–283, div. A, title XII, § 1299Q(d), Jan. 1, 2021, 134 Stat. 4022, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, § 1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
 
 #### Amendments
+2024—Subsecs. (f) to (h). Pub. L. 118–159 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+
 2021—Subsec. (a). Pub. L. 116–283, § 1299Q(d)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Except as provided in subsection (b)(2), the International Broadcasting Advisory Board (referred to in this section as the ‘Advisory Board’) shall consist of five members, including the Secretary of State, appointed by the President and in accordance with subsection (d), to advise the Chief Executive Officer of the Broadcasting Board of Governors, as appropriate.”
 
 Subsec. (b). Pub. L. 116–283, § 1299Q(d)(1), added subsec. (b) and struck out former subsec. (b) which related to retention of existing BBG Board Members.

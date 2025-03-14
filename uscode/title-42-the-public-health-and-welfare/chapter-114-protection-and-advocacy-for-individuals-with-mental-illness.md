@@ -663,7 +663,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 ### Statutory Notes
 
 #### References in Text
-The Mental Health Systems Act, referred to in introductory text, is Pub. L. 96–398, Oct. 7, 1980, 94 Stat. 1564, as amended. Title V of the Mental Health Systems Act is classified generally to subchapter IV (§ 9501 et seq.) of chapter 102 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9401 of this title](./chapter-102-mental-health-systems.md#section-9401) and Tables.
+The Mental Health Systems Act, referred to in introductory text, is Pub. L. 96–398, Oct. 7, 1980, 94 Stat. 1564. Title V of the Mental Health Systems Act is classified generally to subchapter IV (§ 9501 et seq.) of chapter 102 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9401 of this title](./chapter-102-mental-health-systems.md#section-9401) and Tables.
 
 #### Amendments
 1991—Par. (1)(M)(iii). Pub. L. 102–173 substituted “individuals with mental illness” for “mentally ill individuals”.

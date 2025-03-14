@@ -285,7 +285,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 (5) **Service acquisition portfolio groups.—** — The term “service acquisition portfolio groups” means the groups identified in Department of Defense Instruction 5000.74, Defense Acquisition of Services (January 5, 2016) or successor guidance.
 
-(6) **Staff augmentation contracts.—** — The term “staff augmentation contracts” means services contracts for personnel who are physically present in a Government work space on a full-time or permanent part-time basis, for the purpose of advising on, providing support to, or assisting a Government agency in the performance of the agency’s missions, including authorized personal services contracts (as that term is defined in section 4505(g)(5) 1 of this title).
+(6) **Staff augmentation contracts.—** — The term “staff augmentation contracts” means services contracts for personnel who are physically present in a Government work space on a full-time or permanent part-time basis, for the purpose of advising on, providing support to, or assisting a Government agency in the performance of the agency’s missions, including authorized personal services contracts.
 
 (7) **Simplified acquisition threshold.—** — The term “simplified acquisition threshold” has the meaning given the term in [section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim).
 
@@ -300,12 +300,12 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 #### References in Text
 [Section 235 of this title](./chapter-009-defense-budget-matters.md#section-235), referred to in subsec. (e)(3), was repealed by Pub. L. 117–81, div. A, title VIII, § 815(b)(1), Dec. 27, 2021, 135 Stat 1825.
 
-[Section 4505(g)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4505/g/5&num=0&edition=prelim), referred to in subsec. (h)(6), meaning subsec. (g)(5) of this section, was redesignated through a series of amendments as subsec. (h)(4) of this section.
-
 #### Prior Provisions
 A prior section 4505, act Aug. 10, 1956, ch. 1041, 70A Stat. 252, which related to procurement by Secretary of the Army of production equipment, was repealed by Pub. L. 103–160, div. A, title VIII, § 823(1), Nov. 30, 1993, 107 Stat. 1707.
 
 #### Amendments
+2024—Subsec. (h)(6). Pub. L. 118–159 struck out “(as that term is defined in [section 4505(g)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4505/g/5&num=0&edition=prelim))” after “personal services contracts”.
+
 2021—Pub. L. 116–283, § 1856(g), renumbered [section 2330a of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2330a) as this section.
 
 Subsec. (h)(2). Pub. L. 117–81, § 1701(d)(13), which directed the substitution of “section 4508(b)(3)” for “section 2383(b)(3)”, could not be executed because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2). See note below.
@@ -478,33 +478,13 @@ Pub. L. 110–181, div. A, title VIII, § 807(b), Jan. 28, 2008, 122 Stat. 215, 
 
 (4) The Inspector General of the Department of Defense may conduct annual audits to ensure compliance with this subsection.
 
-**(e) Timely Planning to Avoid Bridge Contracts.—**
-
-(1) Effective October 1, 2018, the Secretary of Defense shall ensure that a requirements owner shall, to the extent practicable, plan appropriately before the date of need of a service at a Defense Agency, Department of Defense Field Activity, command, or military installation to avoid the use of a bridge contract to provide for continuation of a service to be performed through a services contract. Such planning shall include allowing time for a requirement to be validated, a services contract to be entered into, and funding for the services contract to be secured.
-
-(2)
-
-  (A) Upon the first use, due to inadequate planning (as determined by the Secretary of Defense), of a bridge contract to provide for continuation of a service to be performed through a services contract, the requirements owner, along with the contracting officer or a designee of the contracting officer for the contract, shall—
-
-    (i) for a services contract in an amount less than $10,000,000, provide an update on the status of the bridge contract (including the rationale for using the bridge contract) to the commander or the senior civilian official of the Defense Agency concerned, Department of Defense Field Activity concerned, command concerned, or military installation concerned, as applicable; or
-
-    (ii) for a services contract in an amount equal to or greater than $10,000,000, provide an update on the status of the bridge contract (including the rationale for using the bridge contract) to the service acquisition executive for the military department concerned, the head of the Defense Agency concerned, the combatant commander concerned, or the Under Secretary of Defense for Acquisition and Sustainment, as applicable.
-
-  (B) Upon the second use, due to inadequate planning (as determined by the Secretary of Defense), of a bridge contract to provide for continuation of a service to be performed through a services contract in an amount less than $10,000,000, the commander or senior civilian official referred to in subparagraph (A)(i) shall provide notification of such second use to the Vice Chief of Staff of the armed force concerned and the service acquisition executive of the military department concerned, the head of the Defense Agency concerned, the combatant commander concerned, or the Under Secretary of Defense for Acquisition and Sustainment, as applicable.
+**(e)** Repealed. Pub. L. 119–60, div. A, title VIII, § 815(1), Dec. 18, 2025, 139 Stat. 953.]
 
 **(f) Definitions.—** In this section:
 
-(1) The term “bridge contract” means—
+(1) The term “Services Requirements Review Board” has the meaning given in Department of Defense Instruction 5000.74, titled “Defense Acquisition of Services” and dated January 10, 2020, or a successor instruction.
 
-  (A) an extension to an existing contract beyond the period of performance to avoid a lapse in service caused by a delay in awarding a subsequent contract; or
-
-  (B) a new short-term contract awarded on a sole-source basis to avoid a lapse in service caused by a delay in awarding a subsequent contract.
-
-(2) The term “requirements owner” means a member of the armed forces (other than the Coast Guard) or a civilian employee of the Department of Defense responsible for a requirement for a service to be performed through a services contract.
-
-(3) The term “Services Requirements Review Board” has the meaning given in Department of Defense Instruction 5000.74, titled “Defense Acquisition of Services” and dated January 10, 2020, or a successor instruction.
-
-(4) The term “acquisition decision authority” means the designated decision authority for each designated special interest services acquisition category, described in such Department of Defense Instruction.
+(2) The term “acquisition decision authority” means the designated decision authority for each designated special interest services acquisition category, described in such Department of Defense Instruction.
 
 ### Statutory Notes
 
@@ -515,6 +495,10 @@ The date of the enactment of this subsection, referred to in subsec. (c)(3)(C), 
 A prior section 4506, act Aug. 10, 1956, ch. 1041, 70A Stat. 253, which related to sale, loan, or gift of samples, drawings, and information to contractors, was repealed by Pub. L. 103–160, div. A, title VIII, § 822(b)(3), Nov. 30, 1993, 107 Stat. 1706.
 
 #### Amendments
+2025—Subsec. (e). Pub. L. 119–60, § 815(1), struck out subsec. (e) which related to timely planning to avoid bridge contracts.
+
+Subsec. (f). Pub. L. 119–60, § 815(2), redesignated pars. (3) and (4) as (1) and (2), respectively, and struck out former pars. (1) and (2) which defined the terms “bridge contract” and “requirements owner”, respectively, for purposes of this section.
+
 2021—Pub. L. 116–283, § 1856(g), renumbered [section 2329 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2329) as this section.
 
 Subsec. (b). Pub. L. 117–81, § 815(a)(1)(A), substituted “February 1, 2023” for “October 1, 2021” in introductory provisions.

@@ -2,7 +2,7 @@
 title: 10
 chapter: '281'
 heading: CLAIMS AND DISPUTES
-section_count: 3
+section_count: 4
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -130,31 +130,6 @@ Pub. L. 117–263, div. A, title VIII, § 805(d), Dec. 23, 2022, 136 Stat. 2702,
 
 ### Statutory Notes
 
-#### Prior Provisions
-Prior sections 3881 and 3882 were repealed by Pub. L. 85–155, title IV, § 401(1), Aug. 21, 1957, 71 Stat. 390.
-
-Section 3881, act Aug. 10, 1956, ch. 1041, 70A Stat. 222, authorized Secretary of the Army to retire regular commissioned officers of Army Nurse Corps or Women’s Medical Specialist Corps whose regular grade is below major.
-
-Section 3882, act Aug. 10, 1956, ch. 1041, 70A Stat. 222, authorized Secretary of the Army to retire regular commissioned officers of Army Nurse Corps or Women’s Medical Specialist Corps whose regular grade is above captain.
-
-Prior sections 3883 to 3886 were repealed by Pub. L. 96–513, title II, § 216, title VII, § 701, Dec. 12, 1980, 94 Stat. 2886, 2955, effective Sept. 15, 1981.
-
-Section 3883, acts Aug. 10, 1956, ch. 1041, 70A Stat. 222; Aug. 6, 1958, Pub. L. 85–600, § 1(6), 72 Stat. 522; Nov. 2, 1966, Pub. L. 89–718, § 3, 80 Stat. 1115; Oct. 30, 1978, Pub. L. 95–551, § 2, 92 Stat. 2069, provided that, unless retired or separated at an earlier date, each commissioned officer whose regular grade is below major general, other than a professor or the director of admissions of the United States Military Academy, be retired when he becomes 60 years of age, except as provided by [section 8301 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8301&num=0&edition=prelim). See [section 1251 of this title](./chapter-063-retirement-for-age.md#section-1251).
-
-Section 3884, acts Aug. 10, 1956, ch. 1041, 70A Stat. 222; Nov. 2, 1966, Pub. L. 89–718, § 3, 80 Stat. 1115, provided that, unless retired or separated at an earlier date, each commissioned officer whose regular grade is major general, and whose retirement under [section 3923 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3923&num=0&edition=prelim) has been deferred under cl. (1) of that section, be retired when he becomes 60 years of age, except as provided by [section 8301 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8301&num=0&edition=prelim). See [section 1251 of this title](./chapter-063-retirement-for-age.md#section-1251).
-
-Section 3885, acts Aug. 10, 1956, ch. 1041, 70A Stat. 222; Nov. 2, 1966, Pub. L. 89–718, § 3, 80 Stat. 1115, provided that, unless retired or separated at an earlier date or unless retained under [section 3923(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3923/2&num=0&edition=prelim), each commissioned officer whose regular grade is major general be retired when he becomes 62 years of age, except as provided by [section 8301 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8301&num=0&edition=prelim). See [section 1251 of this title](./chapter-063-retirement-for-age.md#section-1251).
-
-Section 3886, acts Aug. 10, 1956, ch. 1041, 70A Stat. 222; Aug. 6, 1958, Pub. L. 85–600, § 1(7), 72 Stat. 522; Nov. 2, 1966, Pub. L. 89–718, § 3, 80 Stat. 1115; Oct. 30, 1978, Pub. L. 95–551, § 2, 92 Stat. 2069, provided that, unless retired or separated at an earlier date, each commissioned officer whose regular grade is major general, and whose retirement under [section 3923 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3923&num=0&edition=prelim) has been deferred under cl. (2) of that section, and each permanent professor and the director of admissions of the United States Military Academy, be retired when he becomes 64 years of age, except as provided by [section 8301 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8301&num=0&edition=prelim). See [section 1251 of this title](./chapter-063-retirement-for-age.md#section-1251).
-
-A prior section 3887, act Aug. 10, 1956, ch. 1041, 70A Stat. 223, related to computation of years of service of commissioned officers of Army Nurse Corps or Women’s Medical Specialist Corps for purposes of retirement under former sections 3881 or 3882 of this title, or retirement pay under [section 3991 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3991&num=0&edition=prelim), prior to repeal by Pub. L. 85–155, title IV, § 401(1), Aug. 21, 1957, 71 Stat. 390.
-
-Prior sections 3888 and 3889 were repealed by Pub. L. 96–513, title II, § 216, title VII, § 701, Dec. 12, 1980, 94 Stat. 2886, 2955, effective Sept. 15, 1981.
-
-Section 3888, acts Aug. 10, 1956, ch. 1041, 70A Stat. 223; Aug. 21, 1957, Pub. L. 85–155, title I, § 101(18), 71 Stat. 379; May 20, 1958, Pub. L. 85–422, § 11(a)(3), 72 Stat. 131; Sept. 2, 1958, Pub. L. 85–861, § 1(96), 72 Stat. 1487, related to computation of service for determining retired pay of a commissioned officer of Regular Army retired under former section 3883, 3884, 3885, or 3886 of this title.
-
-Section 3889, act Aug. 10, 1956, ch. 1041, 70A Stat. 224, provided that a member of Army retired under this chapter be entitled to retired pay computed under chapter 745 of this title.
-
 #### Amendments
 2021—Pub. L. 116–283 renumbered [section 2410m of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410m) as this section.
 
@@ -182,3 +157,61 @@ Subsec. (c)(4). Pub. L. 108–136, § 1031(a)(21)(E), substituted “under this 
 
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
+<a id="section-3864"></a>
+## § 3864. Assumption of uninsurable risk on certain contracts
+**(a) In General.—** The Secretary of Defense shall ensure that a contractor is not required to assume the risk of loss for work in process under a covered contract if, due to the classified nature of the performance of such contractor under such covered contract—
+
+(1) such contractor is unable to obtain insurance for such risk of loss from a commercial provider; or
+
+(2) a commercial provider is unable to process a claim of such contractor for loss of work in process under such covered contract.
+
+**(b) Limitations.—** Subsection (a) shall not apply with respect to a loss of work in process under a covered contract to the extent that such loss—
+
+(1) is the result of willful misconduct or lack of good faith on the part of the managerial personnel of the contractor, including with respect to the oversight of subcontractors by the contractor; or
+
+(2) is the result of workmanship error by the contractor.
+
+**(c) Definitions.—** In this section:
+
+(1) The term “classified contract” means a contract the performance of which requires a contractor performing under such contract, or an employee of such contractor, to have access to classified information.
+
+(2) The term “covered contract” means a classified, fixed-price type contract for the acquisition of a product entered into by the Department of Defense after the enactment of this Act.
+
+(3) The term “work in process” means an item at any stage of production or manufacture at any time from the initiation of contract performance until delivery to and acceptance by the Government.
+
+(4) The term “workmanship error” means damage to work in process that is a result of an incorrectly performed skill-based task, operation, or action that was originally planned or intended.
+
+### Statutory Notes
+
+#### References in Text
+The enactment of this Act, referred to in subsec. (c)(2), probably means the date of enactment of Pub. L. 119–60, which added this section and was approved Dec. 18, 2025.
+
+#### Prior Provisions
+Prior sections 3881 and 3882 were repealed by Pub. L. 85–155, title IV, § 401(1), Aug. 21, 1957, 71 Stat. 390.
+
+Section 3881, act Aug. 10, 1956, ch. 1041, 70A Stat. 222, authorized Secretary of the Army to retire regular commissioned officers of Army Nurse Corps or Women’s Medical Specialist Corps whose regular grade is below major.
+
+Section 3882, act Aug. 10, 1956, ch. 1041, 70A Stat. 222, authorized Secretary of the Army to retire regular commissioned officers of Army Nurse Corps or Women’s Medical Specialist Corps whose regular grade is above captain.
+
+Prior sections 3883 to 3886 were repealed by Pub. L. 96–513, title II, § 216, title VII, § 701, Dec. 12, 1980, 94 Stat. 2886, 2955, effective Sept. 15, 1981.
+
+Section 3883, acts Aug. 10, 1956, ch. 1041, 70A Stat. 222; Aug. 6, 1958, Pub. L. 85–600, § 1(6), 72 Stat. 522; Nov. 2, 1966, Pub. L. 89–718, § 3, 80 Stat. 1115; Oct. 30, 1978, Pub. L. 95–551, § 2, 92 Stat. 2069, provided that, unless retired or separated at an earlier date, each commissioned officer whose regular grade is below major general, other than a professor or the director of admissions of the United States Military Academy, be retired when he becomes 60 years of age, except as provided by [section 8301 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8301&num=0&edition=prelim). See [section 1251 of this title](./chapter-063-retirement-for-age.md#section-1251).
+
+Section 3884, acts Aug. 10, 1956, ch. 1041, 70A Stat. 222; Nov. 2, 1966, Pub. L. 89–718, § 3, 80 Stat. 1115, provided that, unless retired or separated at an earlier date, each commissioned officer whose regular grade is major general, and whose retirement under [section 3923 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3923&num=0&edition=prelim) has been deferred under cl. (1) of that section, be retired when he becomes 60 years of age, except as provided by [section 8301 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8301&num=0&edition=prelim). See [section 1251 of this title](./chapter-063-retirement-for-age.md#section-1251).
+
+Section 3885, acts Aug. 10, 1956, ch. 1041, 70A Stat. 222; Nov. 2, 1966, Pub. L. 89–718, § 3, 80 Stat. 1115, provided that, unless retired or separated at an earlier date or unless retained under [section 3923(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3923/2&num=0&edition=prelim), each commissioned officer whose regular grade is major general be retired when he becomes 62 years of age, except as provided by [section 8301 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8301&num=0&edition=prelim). See [section 1251 of this title](./chapter-063-retirement-for-age.md#section-1251).
+
+Section 3886, acts Aug. 10, 1956, ch. 1041, 70A Stat. 222; Aug. 6, 1958, Pub. L. 85–600, § 1(7), 72 Stat. 522; Nov. 2, 1966, Pub. L. 89–718, § 3, 80 Stat. 1115; Oct. 30, 1978, Pub. L. 95–551, § 2, 92 Stat. 2069, provided that, unless retired or separated at an earlier date, each commissioned officer whose regular grade is major general, and whose retirement under [section 3923 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3923&num=0&edition=prelim) has been deferred under cl. (2) of that section, and each permanent professor and the director of admissions of the United States Military Academy, be retired when he becomes 64 years of age, except as provided by [section 8301 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8301&num=0&edition=prelim). See [section 1251 of this title](./chapter-063-retirement-for-age.md#section-1251).
+
+A prior section 3887, act Aug. 10, 1956, ch. 1041, 70A Stat. 223, related to computation of years of service of commissioned officers of Army Nurse Corps or Women’s Medical Specialist Corps for purposes of retirement under former sections 3881 or 3882 of this title, or retirement pay under [section 3991 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3991&num=0&edition=prelim), prior to repeal by Pub. L. 85–155, title IV, § 401(1), Aug. 21, 1957, 71 Stat. 390.
+
+Prior sections 3888 and 3889 were repealed by Pub. L. 96–513, title II, § 216, title VII, § 701, Dec. 12, 1980, 94 Stat. 2886, 2955, effective Sept. 15, 1981.
+
+Section 3888, acts Aug. 10, 1956, ch. 1041, 70A Stat. 223; Aug. 21, 1957, Pub. L. 85–155, title I, § 101(18), 71 Stat. 379; May 20, 1958, Pub. L. 85–422, § 11(a)(3), 72 Stat. 131; Sept. 2, 1958, Pub. L. 85–861, § 1(96), 72 Stat. 1487, related to computation of service for determining retired pay of a commissioned officer of Regular Army retired under former section 3883, 3884, 3885, or 3886 of this title.
+
+Section 3889, act Aug. 10, 1956, ch. 1041, 70A Stat. 224, provided that a member of Army retired under this chapter be entitled to retired pay computed under chapter 745 of this title.
+
+#### Regulations
+Pub. L. 119–60, div. A, title VIII, § 801(b), Dec. 18, 2025, 139 Stat. 940, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall revise the Defense Federal Acquisition Regulation Supplement to carry out [section 3864 of title 10](./chapter-281-claims-and-disputes.md#section-3864), United States Code, as added by subsection (a).”

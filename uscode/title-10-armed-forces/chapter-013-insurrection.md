@@ -121,7 +121,7 @@ The words “militia or the armed forces” are substituted for the words “mil
 Act July 29, 1861, ch. 25, § 2, 12 Stat. 282.
 
 #### Codification
-Another section 254 was renumbered [section 240d of this title](./chapter-9a-audit.md#section-240d).
+Other sections 254 to 254b were renumbered sections 240d to 240f, respectively, of this title.
 
 #### Amendments
 2016—Pub. L. 114–328 renumbered [section 334 of this title](./chapter-016-security-cooperation.md#section-334) as this section.

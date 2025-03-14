@@ -839,9 +839,11 @@ A prior section 5 of Pub. L. 88–74 was classified to [section 390d of this tit
 
 **(b) Allowable administrative costs** Not more than 3 percent of the funds made available for any project for an agricultural research facility shall be available for administration of the project.
 
-**(c) Maximum amount** Not more than 25 percent of the funds made available pursuant to subsection (a) for any fiscal year shall be used for any single agricultural research facility project.
+**(c) Maximum amount** Not more than 25 percent of the funds made available pursuant to subsections (a) and (e) for any fiscal year shall be used for any single agricultural research facility project.
 
 **(d) Project limitation** An entity eligible to receive funds under this subchapter may receive funds for only one project at a time.
+
+**(e) Mandatory funding** Subject to subsections (b), (c), and (d), of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out the competitive grant program under [section 390b of this title](./chapter-014-agricultural-experiment-stations.md#section-390b) $125,000,000 for fiscal year 2026 and each fiscal year thereafter.
 
 ### Statutory Notes
 
@@ -878,6 +880,10 @@ A prior section 9 of Pub. L. 88–74 was renumbered section 7 and was classified
 A prior section 390k, Pub. L. 88–74, § 12, July 22, 1963, 77 Stat. 92, authorized appropriation of such sums as might be necessary for proper administration of this subchapter, prior to repeal by Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 994, effective Oct. 1, 1977.
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 119–21, § 10604(f)(1), substituted “subsections (a) and (e)” for “subsection (a)”.
+
+Subsec. (e). Pub. L. 119–21, § 10604(f)(2), added subsec. (e).
+
 2018—Subsec. (a). Pub. L. 115–334, § 7503(d)(1), substituted “subsections (b), (c), and (d),” for “subsection (b),” and “2023” for “2018” and inserted at end “Funds appropriated pursuant to the preceding sentence shall be available until expended.”
 
 Subsecs. (c), (d). Pub. L. 115–334, § 7503(d)(2), added subsecs. (c) and (d).

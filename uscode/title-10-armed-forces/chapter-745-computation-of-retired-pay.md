@@ -16,7 +16,7 @@ source: >-
 
   (B) the retired pay multiplier prescribed in [section 1409 of this title](./chapter-071-computation-of-retired-pay.md#section-1409) for the number of years credited to the member under [section 1405 of this title](./chapter-071-computation-of-retired-pay.md#section-1405).
 
-(2) **Additional 10 percent for certain enlisted members credited with extraordinary heroism.—** — If a member who is retired under [section 7314 of this title](./chapter-741-retirement-for-length-of-service.md#section-7314) has been credited by the Secretary of the Army with extraordinary heroism in the line of duty, the member’s retired pay shall be increased by 10 percent of the amount determined under paragraph (1) (but to not more than 75 percent of the retired pay base upon which the computation of such retired pay is based). The Secretary’s determination as to extraordinary heroism is conclusive for all purposes.
+(2) **Additional 10 percent for certain enlisted members credited with extraordinary heroism.—** — If a member who is retired under [section 7314 of this title](./chapter-741-retirement-for-length-of-service.md#section-7314) has been credited by the Secretary of the Army with extraordinary heroism in the line of duty, the member’s retired pay shall be increased by 10 percent of the amount determined under paragraph (1) (but to not more than 75 percent of the retired pay base upon which the computation of such retired pay is based (except in the case of a member who served during the Vietnam era, as that term is defined in [section 12731 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12731))). The Secretary’s determination as to extraordinary heroism is conclusive for all purposes.
 
 **(b) General Rules.—**
 
@@ -69,6 +69,10 @@ A prior section 7361 was renumbered [section 8701 of this title](./chapter-865-s
 Another prior section 7361, acts Aug. 10, 1956, ch. 1041, 70A Stat. 455; Aug. 6, 1981, Pub. L. 97–31, § 12(3)(D), 95 Stat. 154, authorized Secretary of the Navy to provide for necessary salvage facilities for public and private vessels, prior to the general amendment of this chapter by Pub. L. 104–106.
 
 #### Amendments
+2025—Subsec. (a)(2). Pub. L. 119–60 substituted “Vietnam era” for “Vietnam Era”.
+
+2024—Subsec. (a)(2). Pub. L. 118–159 inserted “(except in the case of a member who served during the Vietnam Era, as that term is defined in [section 12731 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12731))” after “based”.
+
 2018—Pub. L. 115–232, § 808(b)(14), renumbered [section 3991 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3991&num=0&edition=prelim) as this section.
 
 Subsec. (a)(2). Pub. L. 115–232, § 809(a), substituted “section 7314” for “section 3914”.

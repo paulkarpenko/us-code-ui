@@ -86,6 +86,9 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
+#### Cost Growth Reports for Major Acquisition Programs That Are Highly Sensitive Classified Programs
+Pub. L. 118–159, div. A, title VIII, § 809, Dec. 23, 2024, 138 Stat. 1978, provided that: “(a) Guidance Required.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Under Secretary of Defense for Acquisition and Sustainment, in consultation [sic] each Secretary of a military department, shall establish guidance requiring that each service acquisition executive (as defined in [section 101 of title 10](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101), United States Code) submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a cost growth report for a covered program each time the estimated unit cost for such covered program has increased by a percentage equal to or greater than any of the significant cost growth thresholds or critical cost growth thresholds under [section 4371 of title 10](./chapter-325-cost-growth-unit-cost-reports-nunn-mccurdy.md#section-4371), United States Code. “(b) Elements of Report.—A cost growth report required under this section shall include, with respect to a covered program, the following:“(1) The name of the covered program. “(2) The date of the preparation of the report. “(3) The program phase of the covered program. “(4) The unit cost estimates for the covered program in constant base-year dollars and in current dollars. “(5) A statement of the reasons for cost increases that resulted in the submission of a report under this section. “(6) A list of major program milestones, including the dates for each program milestone according to the original baseline, current baseline, and current estimate. “(7) Annualized funding for the program by appropriation account from the date on which the program commenced to the current estimated year of completion. “(8) Any actions taken or proposed to be taken to control future cost growth of the covered program. “(9) Any changes made in the performance or milestones of the covered program and the extent to which such changes have contributed to the cost increase. “(c) Critical Breach.—With respect to a covered program for which the cost growth meets the threshold for a critical cost growth threshold (as defined in [section 4371 of title 10](./chapter-325-cost-growth-unit-cost-reports-nunn-mccurdy.md#section-4371), United States Code), the applicable service acquisition executive shall—“(1) treat such covered program as if the unit cost of such a covered program has increased by a percentage equal to or greater than any of the critical cost growth thresholds for the covered program; and “(2) follow applicable procedures in sections 4376 and 4377 of title 10, United States Code. “(d) Definitions.—In this section:“(1) The term ‘covered program’ means a Department of Defense program—“(A) that is a highly sensitive classified program (as determined by the Secretary of Defense); “(B) that would be a major defense acquisition program under [section 4201 of title 10](./chapter-321-general-matters.md#section-4201), United States Code, except for the exclusion from the applicability of that section of such a highly sensitive classified program; and “(C) that has entered the engineering and manufacturing design phase, or equivalent phase. “(2) The term ‘unit cost’ means, with respect to a covered program, as applicable—“(A) the program acquisition unit cost (as defined in [section 4351 of title 10](./chapter-324-selected-acquisition-reports.md#section-4351), United States Code); or “(B) the procurement unit cost (as defined in such section).”
+
 
 <a id="section-4372"></a>
 ## § 4372. Unit cost reports: quarterly report from program manager to service acquisition executive
@@ -330,7 +333,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 <a id="section-4376"></a>
 ## § 4376. Breach of critical cost growth threshold: reassessment of program; presumption of program termination
-**(a) Reassessment of Program.—** If the program acquisition unit cost or procurement unit cost of a major defense acquisition program or designated subprogram (as determined by the Secretary under [section 4374 of this title](./chapter-325-cost-growth-unit-cost-reports-nunn-mccurdy.md#section-4374)) increases by a percentage equal to or greater than the critical cost growth threshold for the program or subprogram, the Secretary of Defense, after consultation with the Joint Requirements Oversight Council regarding program requirements, shall—
+**(a) Reassessment of Program.—** If the program acquisition unit cost or procurement unit cost of a major defense acquisition program or designated subprogram (as determined by the Secretary under [section 4374 of this title](./chapter-325-cost-growth-unit-cost-reports-nunn-mccurdy.md#section-4374)) increases by a percentage equal to or greater than the critical cost growth threshold for the program or subprogram, the Secretary of Defense shall—
 
 (1) determine the root cause or causes of the critical cost growth in accordance with applicable statutory requirements and Department of Defense policies, procedures, and guidance; and
 
@@ -352,7 +355,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
   (A) the continuation of the program is essential to the national security;
 
-  (B) there are no alternatives to the program which will provide acceptable capability to meet the joint military requirement (as defined in [section 181(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section181/g/1&num=0&edition=prelim)) at less cost;
+  (B) there are no alternatives to the program which will provide acceptable capability at less cost;
 
   (C) the new estimates of the program acquisition unit cost or procurement unit cost have been determined by the Director of Cost Assessment and Program Evaluation to be reasonable;
 
@@ -368,7 +371,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 (2) the alternatives considered to address any problems in the program; and
 
-(3) the course the Department plans to pursue to meet any continuing joint military requirements otherwise intended to be met by the program.
+(3) the course the Department plans to pursue to meet any continuing military requirements otherwise intended to be met by the program.
 
 ### Statutory Notes
 
@@ -378,6 +381,12 @@ The text of subsecs. (a) and (b) of [section 2433a of this title](./chapter-chap
 The text of subsec. (d) of [section 2433a of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2433a), which was transferred to this section and redesignated subsec. (c) by Pub. L. 116–283, § 1850(j)(2), was based on Pub. L. 111–23, title II, § 206(a)(1), May 22, 2009, 123 Stat. 1726.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 1811(g)(4)(A), struck out “, after consultation with the Joint Requirements Oversight Council regarding program requirements,” after “Secretary of Defense” in introductory provisions.
+
+Subsec. (b)(2)(B). Pub. L. 119–60, § 1811(g)(4)(B), struck out “to meet the joint military requirement (as defined in [section 181(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section181/g/1&num=0&edition=prelim))” after “capability”.
+
+Subsec. (c)(3). Pub. L. 119–60, § 1811(g)(4)(C), struck out “joint” before “military requirements”.
+
 2021—Pub. L. 116–283, § 1850(j)(1), (2), transferred subsecs. (a), (b), and (d) of [section 2433a of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2433a) to this section and redesignated subsec. (d) as (c).
 
 Subsec. (a). Pub. L. 116–283, § 1850(j)(3)(A), substituted “section 4374” for “section 2433(d)” in introductory provisions.

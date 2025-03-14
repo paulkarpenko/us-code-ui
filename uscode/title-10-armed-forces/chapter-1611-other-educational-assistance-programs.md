@@ -40,13 +40,13 @@ source: >-
 
 (3) in the case of a program of education leading to a baccalaureate degree, laboratory expenses.
 
-**(d) Amount.—** The amount of financial assistance provided to a member under this section shall be prescribed by the Secretary, but may not exceed $5,200 for any academic year.
+**(d) Amount.—** The amount of financial assistance provided to a member under this section shall be prescribed by the Secretary, but may not exceed $13,800 for any academic year.
 
 **(e) Limitations.—**
 
 (1) Financial assistance may be provided to a member under this section only for three consecutive academic years.
 
-(2) Not more than 1,200 members may participate in the financial assistance program under this section in any academic year.
+(2) Not more than 450 members may participate in the financial assistance program under this section in any academic year.
 
 **(f) Failure To Complete Program.—**
 
@@ -71,6 +71,10 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (d). Pub. L. 118–159, § 559(1), substituted “$13,800” for “$5,200”.
+
+Subsec. (e)(2). Pub. L. 118–159, § 559(2), substituted “450” for “1,200”.
+
 2017—Subsec. (f). Pub. L. 115–91 inserted “or 373” before “of title 37” in introductory provisions of par. (1) and in par. (2).
 
 2006—Subsec. (f)(1). Pub. L. 109–163, § 687(c)(15)(A), substituted “shall be subject to the repayment provisions of [section 303a(e) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim)” for “may be required to repay the full amount of financial assistance” in introductory provisions.

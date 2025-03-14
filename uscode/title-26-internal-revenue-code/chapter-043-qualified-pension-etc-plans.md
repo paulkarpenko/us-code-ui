@@ -584,13 +584,15 @@ For purposes of this subsection, any contribution which is distributed out of th
 
 **(h) Excess contributions to ABLE account** For purposes of this section—
 
-(1) **In general** — In the case of an ABLE account (within the meaning of section 529A), the term “excess contributions” means the amount by which the amount contributed for the taxable year to such account (other than contributions under section 529A(c)(1)(C)) exceeds the contribution limit under section 529A(b)(2)(B).
+(1) **In general** — In the case of an ABLE account (within the meaning of section 529A), the term “excess contributions” means the amount by which the amount contributed for the taxable year to such account (other than contributions under section 529A(c)(1)(C) or contributions received in a qualified ABLE rollover contribution described in section 530A(d)(4)(B)) exceeds the contribution limit under section 529A(b)(2)(B).
 
 (2) **Special rule** — For purposes of this subsection, any contribution which is distributed out of the ABLE account in a distribution to which the last sentence of section 529A(b)(2) applies shall be treated as an amount not contributed.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (h)(1). Pub. L. 119–21 inserted “or contributions received in a qualified ABLE rollover contribution described in section 530A(d)(4)(B)” after “other than contributions under section 529A(c)(1)(C)”.
+
 2022—Subsec. (b). Pub. L. 117–328 inserted at end of concluding provisions: “Such term shall not include any designated nondeductible contribution (as defined in subparagraph (C) of section 408(o)(2)) which does not exceed the nondeductible limit under subparagraph (B) thereof by reason of an election under section 408(o)(5).”
 
 2014—Subsec. (a)(6). Pub. L. 113–295, § 102(b)(1), added par. (6).
@@ -708,6 +710,9 @@ Subsec. (b)(1)(B). Pub. L. 94–455, § 1501(b)(8)(B), inserted “or 220” aft
 Subsec. (b)(2). Pub. L. 94–455, § 1501(b)(8)(C), inserted “or 220” after “under section 219” and “the taxable year and” before “all prior taxable years” and struck out provisions relating to the treatment of contributions out of individual retirement accounts, annuities or bonds to which section 408(d)(4) applied.
 
 Subsec. (c). Pub. L. 94–455, § 1904(a)(22)(B), substituted “subsection (a)(2)” for “subsection (a)(3)” in provisions preceding par. (1).
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2025, see section 70204(e) of Pub. L. 119–21, set out as an Effective Date note under [section 128 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-128).
 
 #### Effective Date of 2022 Amendment
 Amendment by Pub. L. 117–328 effective as if included in the section of div. O of Pub. L. 116–94 to which the amendment relates, see section 401(c) of Pub. L. 117–328, set out as a note under [section 72 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-72).
@@ -2741,7 +2746,7 @@ Pub. L. 105–34, title X, § 1073(c), Aug. 5, 1997, 111 Stat. 948, provided tha
 #### References in Text
 The Social Security Act, referred to in subsec. (f)(2)(B)(i)(IV), (VII), (VIII), (iv)(II), (v), (3)(D), (6)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(2)(B)(i)(V), (iv)(I), (5)(C)(iii), and (g)(3), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§ 1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Sections 3(16)(A) and 701(c)(2) of the Act are classified to sections 1002(16)(A) and 1181(c)(2), respectively, of Title 29. Title IV of the Act is classified principally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(2)(B)(i)(V), (iv)(I), (5)(C)(iii) and (g)(3), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§ 1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Sections 3(16)(A) and 701(c)(2) of the Act are classified to sections 1002(16)(A) and 1181(c)(2), respectively, of Title 29. Title IV of the Act is classified principally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 The Public Health Service Act, referred to in subsec. (f)(2)(B)(iv)(I), (5)(C)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§ 300gg et seq.) of chapter 6A of Title 42, The Public Health and Welfare. Section 2704(c)(2) of the Act is classified to [section 300gg–3(c)(2) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–3/c/2&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
@@ -3464,12 +3469,16 @@ then there is hereby imposed on the employer an assessable payment equal to the 
 
 (3) **Coordination with credits, etc.** — The Secretary shall prescribe rules, regulations, or guidance for the repayment of any assessable payment (including interest) if such payment is based on the allowance or payment of an applicable premium tax credit or cost-sharing reduction with respect to an employee, such allowance or payment is subsequently disallowed, and the assessable payment would not have been required to be made but for such allowance or payment.
 
+(4) **Time for response** — The Secretary shall allow an applicable large employer at least 90 days from the date of the first letter which informs the employer of a proposed assessment of the employer shared responsibility payment under this section to respond to the proposed assessment before taking any further action with respect to such proposed assessment.
+
 ### Statutory Notes
 
 #### References in Text
 The Patient Protection and Affordable Care Act, referred to in subsecs. (a)(2), (b)(1)(B), and (c)(3)(B), (C), (5)(A)(ii), (6), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Sections 1302(c)(4), 1402, 1411, and 1412 of the Act are classified to sections 18022(c)(4), 18071, 18081, and 18082, respectively, of Title 42, The Public Health and Welfare. Section 10108 of the Act enacted former [section 139D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-139d) and [section 18101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18101&num=0&edition=prelim), amended sections 36B, 162, 4980H, 6056, and 6724 of this title and [section 218b of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section218b&num=0&edition=prelim), Labor, and enacted provisions set out as notes under sections 36B, 162, 4980H, and 6056 of this title and former [section 139D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-139d). For complete classification of this Act to the Code, see Short Title note set out under [section 18001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2024—Subsec. (d)(4). Pub. L. 118–168 added par. (4).
+
 2018—Subsec. (c)(2)(F). Pub. L. 115–141 substituted “Department of Veterans Affairs” for “Veterans Administration” in heading.
 
 2015—Subsec. (c)(2)(F). Pub. L. 114–41 added subpar. (F).
@@ -3505,6 +3514,9 @@ Subsec. (d)(4)(A). Pub. L. 111–148, § 10106(f)(1), inserted “, with respect
 Subsec. (d)(5)(A). Pub. L. 111–152, § 1003(b)(3), substituted “subsection (b) and paragraph (1)” for “subsection (b)(2) and (d)(1)” in introductory provisions.
 
 Subsec. (e). Pub. L. 111–152, § 1003(d), redesignated subsec. (e) as (d).
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–168, § 4(b), Dec. 23, 2024, 138 Stat. 2587, provided that: “The amendment made by this section [amending this section] shall apply to assessments proposed in taxable years beginning after the date of the enactment of this Act [Dec. 23, 2024].”
 
 #### Effective Date of 2015 Amendment
 Pub. L. 114–41, title IV, § 4007(a)(2), July 31, 2015, 129 Stat. 466, provided that: “The amendment made by this subsection [amending this section] shall apply to months beginning after December 31, 2013.”

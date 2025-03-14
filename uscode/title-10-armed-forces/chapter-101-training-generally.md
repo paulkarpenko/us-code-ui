@@ -2,7 +2,7 @@
 title: 10
 chapter: '101'
 heading: TRAINING GENERALLY
-section_count: 20
+section_count: 21
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -81,15 +81,29 @@ To be eligible to receive an aeronautical rating as a pilot in the Army or Air F
 
 <a id="section-2004"></a>
 ## § 2004. Detail as students at law schools; commissioned officers; certain enlisted members
-**(a)** The Secretary of each military department may, under regulations prescribed by the Secretary of Defense, detail commissioned officers and enlisted members of the armed forces as students at accredited law schools, located in the United States, for a period of training leading to the degree of juris doctor. No more than twenty-five officers and enlisted members from each military department may commence such training in any single fiscal year.
+**(a)**
+
+(1) The Secretary of each military department may, under regulations prescribed by the Secretary of Defense, detail commissioned officers and enlisted members of the armed forces as students at accredited law schools, located in the United States, for a period of training leading to the degree of juris doctor.
+
+(2) Pursuant to regulations prescribed by the Secretary concerned, the Secretary of a military department may fund educational expenses for members of the armed forces detailed under paragraph (1). Not more than 25 officers and enlisted members from each military department may commence such training in any single fiscal year.
+
+(3) Pursuant to regulations prescribed by the Secretary concerned, the Secretary of a military department may also detail members under paragraph (1) without funding any educational expenses. A member detailed pursuant to this paragraph shall not count against the limitation in paragraph (2).
 
 **(b)** To be eligible for detail under subsection (a), an officer or enlisted member must be a citizen of the United States and must—
 
-(1) either—
+(1)
 
-  (A) have served on active duty for a period of not less than two years nor more than six years and be an officer in the pay grade O–3 or below as of the time the training is to begin; or
+  (A) in the case of a member with respect to whom the Secretary of a military department is providing funding for educational expenses in accordance with subsection (a)(2), either—
 
-  (B) have served on active duty for a period of not less than four years nor more than eight years and be an enlisted member in the pay grade E–5, E–6, or E–7 as of the time the training is to begin;
+    (i) have served on active duty for a period of not less than two years nor more than six years and be an officer in the pay grade O–3 or below as of the time the training is to begin; or
+
+    (ii) have served on active duty for a period of not less than four years nor more than 10 years and be an enlisted member in the pay grade E–5, E–6, or E–7 as of the time the training is to begin; or
+
+  (B) in the case of a member with respect to whom the Secretary of a military department is not providing funding for educational expenses in accordance with subsection (a)(3), either—
+
+    (i) have served on active duty for a period of not less than two years nor more than eight years and be an officer in the pay grade O-3 or below when the training is to begin; or
+
+    (ii) have served on active duty for a period of not less than four years nor more than ten years and be an enlisted member in the pay grade of E-5, E-6, or E-7 when the training is to begin;
 
 (2) in the case of an enlisted member, meet all requirements for acceptance of a commission as a commissioned officer in the armed forces; and
 
@@ -99,7 +113,11 @@ To be eligible to receive an aeronautical rating as a pilot in the Army or Air F
 
   (B) accept transfer or detail as a judge advocate within the department concerned when his legal training is completed; and
 
-  (C) agree to serve on active duty following completion or other termination of training for a period of two years for each year or part thereof of his legal training under subsection (a).
+  (C) agree to serve on active duty following completion or other termination of training for a period of—
+
+    (i) two years for each year or part thereof of legal training under subsection (a)(2); or
+
+    (ii) one year for each year or part thereof of legal training under subsection (a)(3).
 
 **(c)** Officers and enlisted members detailed for legal training under subsection (a) shall be selected on a competitive basis by the Secretary of the military department concerned, under regulations prescribed by the Secretary of Defense. Any service obligation incurred by an officer or enlisted member under an agreement entered into under subsection (b) shall be in addition to any service obligation incurred by any such officer or enlisted member under any other provision of law or agreement.
 
@@ -112,6 +130,22 @@ To be eligible to receive an aeronautical rating as a pilot in the Army or Air F
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b)(1)(A). Pub. L. 119–60, § 551(a)(1)(A), substituted “with respect to whom the Secretary of a military department is providing funding for educational expenses in accordance with subsection (a)(2)” for “detailed pursuant to subsection (a)(1)” in introductory provisions.
+
+Subsec. (b)(1)(A)(ii). Pub. L. 119–60, § 551(a)(1)(B), substituted “10 years” for “eight years”.
+
+Subsec. (b)(1)(B). Pub. L. 119–60, § 551(a)(2), substituted “with respect to whom the Secretary of a military department is not providing funding for educational expenses in accordance with subsection (a)(3)” for “detailed pursuant to subsection (a)(2)” in introductory provisions.
+
+Subsec. (b)(3)(C)(i). Pub. L. 119–60, § 551(b)(1), substituted “subsection (a)(2)” for “subsection (a)(1)”.
+
+Subsec. (b)(3)(C)(ii). Pub. L. 119–60, § 551(b)(2), substituted “subsection (a)(3)” for “subsection (a)(2)”.
+
+2024—Subsec. (a). Pub. L. 118–159, § 552(a)(1), designated first sentence as par. (1), added pars. (2) and (3), and struck out former second sentence which read as follows: “No more than twenty-five officers and enlisted members from each military department may commence such training in any single fiscal year.”
+
+Subsec. (b)(1). Pub. L. 118–159, § 552(a)(2)(A), inserted “(A) in the case of a member detailed pursuant to subsection (a)(1),” after “(1)”, redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+
+Subsec. (b)(3)(C). Pub. L. 118–159, § 552(a)(2)(B), which directed substitution of “period of—” and cls. (i) and (ii) for “period of two years”, was executed by making the substitution for “period of two years for each year or part thereof of his legal training under subsection (a).”, to reflect the probable intent of Congress.
+
 2021—Subsecs. (d), (e). Pub. L. 116–283 substituted “enlisted” for “enlistment”.
 
 2019—Pub. L. 116–92, § 551(b)(1), substituted “Detail as students at law schools; commissioned officers; certain enlisted members” for “Detail of commissioned officers as students at law schools” in section catchline.
@@ -135,6 +169,9 @@ Subsec. (e). Pub. L. 116–92, § 551(a)(5), inserted “or enlistment member”
 Subsec. (f). Pub. L. 116–92, § 551(a)(6), inserted “or enlisted member” after “officer”.
 
 1990—Pub. L. 101–510 struck out “of the military departments” after “officers” in section catchline.
+
+#### Temporary Expansion
+Pub. L. 118–159, div. A, title V, § 552(b), Dec. 23, 2024, 138 Stat. 1894, provided that: “During each of the three years after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of a military department may fund educational expenses under section 2004(a) of such title [[10 U.S.C. 2004(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2004/a&num=0&edition=prelim)], as amended by subsection (a), for 35 members of such military department.”
 
 #### Selection of Officers in Missing Status for Legal Training on a Noncompetitive Basis; Exemption From Numerical Limitations
 Pub. L. 94–106, title VIII, § 821, Oct. 7, 1975, 89 Stat. 545, provided that: “Notwithstanding any provision of [section 2004 of title 10](./chapter-101-training-generally.md#section-2004) United States Code, an officer in any pay grade who was in a missing status (as defined in [section 551(2) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section551/2&num=0&edition=prelim), United States Code) after August 4, 1964, and before May 8, 1975, may be selected for detail for legal training under that section 2004 on other than a competitive basis and, if selected for that training, is not counted in computing, for the purpose of subsection (a) of that section 2004, the number of officers who may commence that training in any single fiscal year. For the purposes of determining eligibility under that section 2004, the period of time during which an officer was in that missing status may be disregarded in computing the period he has served on active duty.”
@@ -230,6 +267,79 @@ Subsecs. (e) to (i). Pub. L. 110–181, § 524(c)(1), added subsec. (e) and rede
 
 #### Amendments
 2011—Subsec. (b)(1). Pub. L. 111–383 substituted “pay grade O–3” for “pay grade 0–3”.
+
+
+<a id="section-2004c"></a>
+## § 2004c. Detail as students at schools for education required for appointment as a chaplain: commissioned officers; certain enlisted members
+**(a) Detail Authorized.—**
+
+(1) The Secretary of each military department may detail commissioned officers and enlisted members of the armed forces as students at accredited colleges, universities, and schools of theology, located in the United States, for a period of training leading to a graduate degree that meets the educational requirements for appointment as a chaplain in the armed forces.
+
+(2) Pursuant to regulations prescribed by the Secretary concerned, the Secretary of a military department may fund educational expenses for members of the armed forces detailed under paragraph (1). Not more than 25 officers and enlisted members from each military department may commence such training in any single fiscal year.
+
+(3) Pursuant to regulations prescribed by the Secretary concerned, the Secretary of a military department may also detail members under paragraph (1) without funding any educational expenses. A member detailed pursuant to this paragraph shall not count against the limitation in paragraph (2).
+
+**(b) Eligibility for Detail.—** To be eligible for detail under subsection (a), an officer or enlisted member must be a citizen of the United States and must—
+
+(1)
+
+  (A) have served on active duty for a period of not less than two years nor more than eight years and be an officer in the pay grade O–3 or below as of the time the training is to begin; or
+
+  (B) have served on active duty for a period of not less than four years nor more than ten years and be an enlisted member in the pay grade E–5 or above as of the time the training is to begin;
+
+(2) in the case of an enlisted member, meet all requirements for acceptance of a commission as a commissioned officer in the armed forces; and
+
+(3) sign an agreement that unless sooner separated the officer or enlisted member will—
+
+  (A) complete the educational course of chaplaincy training; and
+
+  (B) if the Secretary of the military department concerned carries out a program under [section 710 of this title](./chapter-040-leave.md#section-710)—
+
+    (i) agree to be inactivated for a period of time under subsection (a)(2) of such section upon completion of a detail under this section; and
+
+    (ii) accept transfer or detail as a chaplain in the military department concerned upon completion of the period described in clause (i).
+
+**(c) Limitation on Service Credit.—** Notwithstanding [section 533 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-533), a commissioned officer of the armed forces who completes a detail under this section may not be credited with more than four years of constructive service under such section 533 upon original appointment to the armed forces as a chaplain.
+
+**(d) Service Obligation.—**
+
+(1) Subject to paragraph (2), the agreement of an officer or enlisted member under subsection (b) shall provide that the officer or enlisted member shall serve on active duty for two years for each year or part thereof of chaplaincy training completed under subsection (a), except that such agreement may not require more than a total of six years of service on active duty.
+
+(2) The agreement of an officer or enlisted member under subsection (b) may authorize the officer or enlisted member to serve a portion of a service obligation on active duty and to complete the service obligation that remains upon separation from active duty in the Selected Reserve, in which case the officer or enlisted member shall serve three years in the Selected Reserve for each year or part thereof of the chaplaincy training of such officer or enlisted member under subsection (a) for any service obligation that was not completed before separation from active duty, except that such agreement may not require more than a total of nine years of service in the Selected Reserve.
+
+**(e) Selection of Officers and Enlisted Members for Detail.—** The Secretary of the military department concerned shall select officers and enlisted members for detail for chaplaincy training under subsection (a)—
+
+(1) on a competitive basis;
+
+(2) without regard to the duration of ordination or seminary requirements for the chaplaincy training in which an officer or enlisted member seeks to enroll; and
+
+(3) based on the needs of the armed forces under the jurisdiction of the Secretary.
+
+**(f) Relation of Service Obligations to Other Service Obligations.—** Any service obligation incurred by an officer or enlisted member under an agreement entered into under subsection (b) shall be in addition to any service obligation incurred by such officer or enlisted member under any other provision of law or agreement, except that the total service obligation under this section and any other provision of law or agreement shall not exceed nine years.
+
+**(g) Expenses.—** Expenses incident to the detail of officers and enlisted members under this section shall be paid from any funds appropriated for the military department concerned.
+
+**(h) Failure to Complete Program.—** An officer or enlisted member who is dropped from a program of chaplaincy training to which detailed under subsection (a) for deficiency in conduct or studies, or for other reasons, may be required to—
+
+(1) perform active duty in an appropriate military capacity in accordance with the active duty obligation imposed by regulations issued by the Secretary of Defense, except that in no case shall an officer or enlisted member be required to serve on active duty for any period in excess of one year for each year or part thereof he participated in the program; or
+
+(2) repay the expenses incident to the detail of such officer or enlisted member and paid under subsection (f).11 So in original. Probably should be “subsection (g).”.
+
+**(i) Limitation on Details.—** No agreement detailing an officer or enlisted member of the armed forces to a chaplaincy school may be entered into during any period in which the President is authorized by law to induct persons into the armed forces involuntarily. Nothing in this subsection shall affect any agreement entered into during any period when the President is not authorized by law to so induct persons into the armed forces.
+
+**(j) Reports.—** Not later than March 31, 2027, and annually thereafter for five years, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the detail of commissioned officers and enlisted members of the armed forces under this section during the preceding fiscal year, including—
+
+(1) the number of members of the armed forces detailed under this section, disagreggated by military department and religious faith of the members;
+
+(2) the number of members of the armed forces who completed a detail under this section, disaggregated by military department and religious faith of the members;
+
+(3) the number of members of the armed forces who have completed a detail under this section and been appointed as a chaplain in the armed forces, disaggregated by military department and religious faith of the members;
+
+(4) the length of detail and total cost of participation, including pay, benefits, and educational expenses, for each member of the armed forces detailed under this section;
+
+(5) a description of any barriers to participation in details under this section by religious faiths with lengthier or nontraditional formation requirements and any efforts by the Secretary to address any shortages of chaplains in the armed forces for particular religious faiths; and
+
+(6) any recommendations of the Secretary for legislative or administrative changes to improve the equity, effectiveness, or fiscal management of the detail of members of the armed forces under this section.
 
 
 <a id="section-2005"></a>
@@ -747,7 +857,17 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 
 <a id="section-2010"></a>
-## § 2010. Renumbered § 321]
+## § 2010. Requirements with respect to motorcycle safety training
+
+The Secretaries of the military departments shall ensure that all beginner motorcycle safety training provided to members of the Armed Forces meets the motorcycle safety training requirements for licensing of the State in which the permanent station of the member receiving the training is located.
+
+### Statutory Notes
+
+#### Codification
+Pub. L. 119–60, § 543, which directed amendment of chapter 21 of this title by adding this section after [section 2009 of this title](./chapter-101-training-generally.md#section-2009), was executed by adding this section to chapter 101 of this title to reflect the probable intent of Congress.
+
+#### Prior Provisions
+A prior section 2010 was renumbered [section 321 of this title](./chapter-016-security-cooperation.md#section-321).
 
 
 <a id="section-2011"></a>
@@ -756,7 +876,7 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 <a id="section-2012"></a>
 ## § 2012. Support and services for eligible organizations and activities outside Department of Defense
-**(a) Authority To Provide Services and Support.—** Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may in accordance with this section authorize units or individual members of the armed forces under that Secretary’s jurisdiction to provide support and services to non-Department of Defense organizations and activities specified in subsection (e), but only if—
+**(a) Authority To Provide Services and Support.—** Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may in accordance with this section authorize units or individual members of the armed forces under that Secretary’s jurisdiction to provide support and services, including supplies incidental to such support and services, to non-Department of Defense organizations and activities specified in subsection (e), but only if—
 
 (1) such assistance is authorized by a provision of law (other than this section); or
 
@@ -858,6 +978,8 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 The Homeland Security Act of 2002, referred to in subsec. (f)(5), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XXII of the Act is classified principally to subchapter XVIII (§ 651 et seq.) of chapter 1 of Title 6. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 inserted “, including supplies incidental to such support and services,” after “and services” in introductory provisions.
+
 2023—Subsec. (i). Pub. L. 118–31 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), inserted “, except as provided in paragraph (2),” before “for response” in subpar. (A), and added par. (2).
 
 2022—Subsec. (h)(3). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.

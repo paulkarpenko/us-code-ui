@@ -38,7 +38,15 @@ Amendment by Pub. L. 98–498 effective 180 days after Oct. 19, 1984, see sectio
 ## § 2302. Penalties for negligent operations and interfering with safe operation
 **(a)** A person operating a vessel in a negligent manner or interfering with the safe operation of a vessel, so as to endanger the life, limb, or property of a person is liable to the United States Government for a civil penalty of not more than $5,000 in the case of a recreational vessel, or $25,000 in the case of any other vessel.
 
-**(b)** A person operating a vessel in a grossly negligent manner that endangers the life, limb, or property of a person commits a class A misdemeanor.
+**(b) Grossly Negligent Operation.—**
+
+(1) **Misdemeanor.—** — A person operating a vessel in a grossly negligent manner that endangers the life, limb, or property of a person commits a class A misdemeanor.
+
+(2) **Felony.—** — A person operating a vessel in a grossly negligent manner that results in serious bodily injury, as defined in [section 1365(h)(3) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1365/h/3&num=0&edition=prelim)—
+
+  (A) commits a class E felony; and
+
+  (B) may be assessed a civil penalty of not more than $35,000.
 
 **(c)** An individual who is under the influence of alcohol, or a dangerous drug in violation of a law of the United States when operating a vessel, as determined under standards prescribed by the Secretary by regulation—
 
@@ -82,6 +90,8 @@ Amendment by Pub. L. 98–498 effective 180 days after Oct. 19, 1984, see sectio
 Section 2302 states that the negligent operation of a vessel is prohibited. These acts are subject to civil and criminal penalties and the involved vessel is subject to an in rem action. The negligent operation provisions have their genesis in the Act of April 25, 1940, 54 Stat. 167, when Congress prescribed that no person shall operate any motorboat or any vessel in a reckless or negligent manner. This provision was directed at all vessels and not those solely engaged in recreational boating. When the Federal Boat Safety Act of 1971, P.L. 92–75, 85 Stat. 217 ([46 U.S.C. 1461](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section1461&num=0&edition=prelim)) was enacted it adopted the reckless or negligent operation provisions of the 1940 Act. It adopted for the first time a provision for assessing civil penalties in addition to criminal penalties. It dropped the word “reckless” because of redundancy. It also combined the two classes of vessels; “any motorboat or any vessel” into one class by using the word “vessel” and defined vessel as including every description of watercraft.
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–60 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A person operating a vessel in a grossly negligent manner that endangers the life, limb, or property of a person commits a class A misdemeanor.”
+
 2002—Subsec. (a). Pub. L. 107–295 substituted “$5,000 in the case of a recreational vessel, or $25,000 in the case of any other vessel” for “$1,000”
 
 1998—Pub. L. 105–383, § 302(a)(1), substituted “Penalties for negligent operations and interfering with safe operation” for “Penalties for negligent operations” in section catchline.

@@ -20,6 +20,9 @@ The purpose of this chapter is to promote safety in every area of railroad opera
 
 The words “The Congress declares that” are omitted as surplus. The words “accidents and incidents” are substituted for “accidents” for consistency with the source provisions restated in section 20105(b)(1)(B) of the revised title. The words “and to reduce deaths and injuries to persons and to reduce damage to property caused by accidents involving any carrier of hazardous materials” are omitted as obsolete because they applied to 49 App.:1761 and 1762, that were repealed by section 113(g) of the Hazardous Materials Transportation Act (Public Law 93–633, 88 Stat. 2163).
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–205, § 1, Dec. 23, 2024, 138 Stat. 2697, provided that: “This Act [amending [section 24315 of this title](./chapter-243-amtrak.md#section-24315)] may be cited as the ‘Think Differently Transportation Act’.”
+
 #### Short Title of 2021 Amendment
 Pub. L. 117–58, div. B, title II, § 22001, Nov. 15, 2021, 135 Stat. 694, provided that: “This title [see Tables for classification] may be cited as the ‘Passenger Rail Expansion and Rail Safety Act of 2021’.”
 

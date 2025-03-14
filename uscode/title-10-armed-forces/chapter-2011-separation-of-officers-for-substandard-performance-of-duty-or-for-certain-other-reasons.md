@@ -41,7 +41,7 @@ source: >-
 
 **(b) Fair and Impartial Hearing.—** A retention board shall give a fair and impartial hearing to each officer required under [section 20501 of this title](./chapter-2011-separation-of-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-20501) to show cause for retention in a space force active status.
 
-**(c) Effect of Board Determination Than 11 So in original. Probably should be “That”. an Officer Has Failed to Establish That the Officer Should Be Retained.—**
+**(c) Effect of Board Determination That an Officer Has Failed to Establish That the Officer Should Be Retained.—**
 
 (1) If a retention board determines that the officer has failed to establish that the officer should be retained in a space force active status, the board shall recommend to the Secretary of the Air Force one of the following:
 
@@ -53,7 +53,7 @@ source: >-
 
 (2) Under regulations prescribed by the Secretary of the Air Force, an officer as to whom a retention board makes a recommendation under paragraph (1) that the officer not be retained in a space force active status may be required to take leave pending the completion of the officer’s case under this chapter. The officer may be required to begin such leave at any time following the officer’s receipt of the report of the retention board, including the board’s recommendation for removal from a space force active status, and the expiration of any period allowed for submission by the officer of a rebuttal to that report. The leave may be continued until the date on which action by the Secretary of the Air Force on the officer’s case is completed or may be terminated at any earlier time.
 
-**(d) Effect of Board Determination Than 1 an Officer Has Established That the Officer Should Be Retained.—**
+**(d) Effect of Board Determination That an Officer Has Established That the Officer Should Be Retained.—**
 
 (1) If a retention board determines that the officer has established that the officer should be retained in a space force active status, the officer’s case is closed.
 
@@ -66,6 +66,13 @@ source: >-
   (B) An officer who has been required to show cause for retention in a space force active status under subsection (b) of [section 20501 of this title](./chapter-2011-separation-of-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-20501) and who is thereafter retained in an active status may not again be required to show cause for retention in a space force active status under such subsection solely because of conduct which was the subject of the previous proceedings, unless the findings or recommendations of the retention board that considered the officer’s previous case are determined to have been obtained by fraud or collusion.
 
 (4) In the case of an officer described in paragraph (2) or paragraph (3)(A), the retention board may recommend that the officer be required to complete additional training, professional education, or such other developmental programs as may be available to correct any identified deficiencies and improve the officer’s performance within the Space Force.
+
+### Statutory Notes
+
+#### Amendments
+2024—Subsec. (c). Pub. L. 118–159, § 521(x)(1), substituted “That an Officer Has Failed to Establish That the Officer Should Be Retained” for “Than an Officer Has Failed to Establish That the Officer Should Be Retained” in heading and realigned margins.
+
+Subsec. (d). Pub. L. 118–159, § 521(x)(2), substituted “That” for “Than” in heading.
 
 
 <a id="section-20503"></a>

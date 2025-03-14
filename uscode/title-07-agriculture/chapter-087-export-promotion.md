@@ -2,7 +2,7 @@
 title: 7
 chapter: '87'
 heading: EXPORT PROMOTION
-section_count: 41
+section_count: 42
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -761,6 +761,18 @@ Pub. L. 105–277, div. A, § 101(a) [title VII, § 718], Oct. 21, 1998, 112 Sta
 Pub. L. 103–66, title I, § 1302(b), (c), Aug. 10, 1993, 107 Stat. 330, 331, as amended by Pub. L. 104–127, title II, § 244(a)(2)(A)(ii), Apr. 4, 1996, 110 Stat. 968, which directed the Secretary of Agriculture to implement changes in the market access program beginning with fiscal year 1994 in order to improve the effectiveness of the program and to meet stated objectives, and required issuance of regulations not later than 90 days after Aug. 10, 1993, was repealed by Pub. L. 115–334, title III, § 3201(b)(1)(E), Dec. 20, 2018, 132 Stat. 4616.
 
 
+<a id="section-5623a"></a>
+## § 5623a. Supplemental agricultural trade promotion program
+**(a) In general** The Secretary of Agriculture shall carry out a program to encourage the accessibility, development, maintenance, and expansion of commercial export markets for United States agricultural commodities.
+
+**(b) Funding** Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall make available to carry out this section $285,000,000 for fiscal year 2027 and each fiscal year thereafter.
+
+### Statutory Notes
+
+#### Codification
+Section was not enacted as part of the Agricultural Trade Act of 1978 which comprises this chapter.
+
+
 <a id="section-5624"></a>
 ## § 5624. Barter of agricultural commodities
 **(a) In general** The Secretary or the Commodity Credit Corporation may provide eligible commodities in barter for foreign products under such terms and conditions as the Secretary or the Corporation shall prescribe.
@@ -1395,7 +1407,7 @@ A prior section 602 of Pub. L. 95–501 enacted [section 1765b–1 of this title
 Subsec. (a)(2). Pub. L. 102–237, § 327(2), struck out “in accordance with subsection (c)” after “shall remain confidential”.
 
 #### Termination Date of 1999 Amendment
-Amendment by Pub. L. 106–78 to terminate Dec. 20, 2024, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
+Amendment by Pub. L. 106–78 to terminate Mar. 14, 2025, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 
 <a id="section-5713"></a>

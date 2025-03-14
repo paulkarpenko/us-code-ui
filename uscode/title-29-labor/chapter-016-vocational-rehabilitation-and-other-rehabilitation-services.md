@@ -7230,7 +7230,7 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 (1) **Eligible system** — The term “eligible system” means a protection and advocacy system that is established under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [[42 U.S.C. 15041](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15041&num=0&edition=prelim) et seq.] and that meets the requirements of subsection (f).
 
-(2) **American Indian consortium** — The term “American Indian consortium” means a consortium established as described in section 142 2 of the Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6042](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6042&num=0&edition=prelim)).
+(2) **American Indian consortium** — The term “American Indian consortium” means a consortium established as described in section 142 1 of the Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6042](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6042&num=0&edition=prelim)).
 
 ### Statutory Notes
 

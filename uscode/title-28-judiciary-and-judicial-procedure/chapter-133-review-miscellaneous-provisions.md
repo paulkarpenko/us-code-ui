@@ -20,16 +20,9 @@ source: >-
 
 **(f)** In any case in which the final judgment or decree of any court is subject to review by the Supreme Court on writ of certiorari, the execution and enforcement of such judgment or decree may be stayed for a reasonable time to enable the party aggrieved to obtain a writ of certiorari from the Supreme Court. The stay may be granted by a judge of the court rendering the judgment or decree or by a justice of the Supreme Court, and may be conditioned on the giving of security, approved by such judge or justice, that if the aggrieved party fails to make application for such writ within the period allotted therefor, or fails to obtain an order granting his application, or fails to make his plea good in the Supreme Court, he shall answer for all damages and costs which the other party may sustain by reason of the stay.
 
-**(g)** The time for application for a writ of certiorari to review a decision of the United States Court of Appeals for the Armed Forces shall be as prescribed by rules of the Supreme Court.
+**(g)** The time for application for a writ of certiorari to review a decision of the United States Court of Appeals for the Armed Forces, or the decision of a Court of Criminal Appeals that the United States Court of Appeals for the Armed Forces refuses to grant a petition to review, shall be as prescribed by rules of the Supreme Court.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (g)
-Pub. L. 118–31, div. A, title V, § 533(a)(2)(B), (b), Dec. 22, 2023, 137 Stat. 261, provided that, effective on the date that is one year after Dec. 22, 2023, and applicable with respect to any action of the United States Court of Appeals for the Armed Forces in granting or refusing to grant a petition for review submitted to such Court for the first time on or after Dec. 22, 2023, with certain provisos, subsection (g) of this section is amended to read as follows:
-
-“(g) The time for application for a writ of certiorari to review a decision of the United States Court of Appeals for the Armed Forces, or the decision of a Court of Criminal Appeals that the United States Court of Appeals for the Armed Forces refuses to grant a petition to review, shall be as prescribed by rules of the Supreme Court.”
-
-See 2023 Amendment note below.
 
 #### 1948 Act
 Based on title 28, U.S.C., 1940 ed., §§ 47, 47a, 349a, 350, 380, 380a, [section 29 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section29&num=0&edition=prelim), U.S.C., 1940 ed., Commerce and Trade, and [section 45 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section45&num=0&edition=prelim), U.S.C., 1940 ed., Transportation (Feb. 11, 1903, ch. 544, § 2, 32 Stat. 1167; Mar. 3, 1911, ch. 231, §§ 210, 266, 291, 36 Stat. 1150, 1162, 1167; Mar. 4, 1913, ch. 160, 37 Stat. 1013; Oct. 22, 1913, ch. 32, 38 Stat. 220; Sept. 6, 1916, ch. 448, § 6, 39 Stat. 727; Feb. 13, 1925, ch. 229, §§ 1, 8 (a, b, d), 43 Stat. 938, 940; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; June 7, 1934, ch. 426, 48 Stat. 936; Aug. 24, 1937, ch. 754, §§ 2, 3, 50 Stat. 752; June 9, 1944, ch. 239, 58 Stat. 272).

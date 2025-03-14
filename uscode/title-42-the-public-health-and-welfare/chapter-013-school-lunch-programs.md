@@ -22,6 +22,9 @@ Pub. L. 111–296, title IV, § 445, Dec. 13, 2010, 124 Stat. 3266, provided tha
 #### Effective Date of 1989 Amendment
 Pub. L. 101–147, § 2, Nov. 10, 1989, 103 Stat. 878, provided that: “Except as otherwise provided in this Act, the amendments made by this Act [see Short Title of 1989 Amendment note below] shall take effect on the date of the enactment of this Act [Nov. 10, 1989].”
 
+#### Short Title of 2026 Amendment
+Pub. L. 119–69, § 1, Jan. 14, 2026, 139 Stat. 1997, provided that: “This Act [amending sections 1758, 1762a, 1769b, and 1776 of this title] may be cited as the ‘Whole Milk for Healthy Kids Act of 2025’.”
+
 #### Short Title of 2022 Amendment
 Pub. L. 117–158, § 1, June 25, 2022, 136 Stat. 1309, provided that: “This Act [amending [section 2254c of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2254c&num=0&edition=prelim), Agriculture, enacting provisions set out as notes under sections 1753, 1760, and 1766 of this title, and amending provisions set out as a note under [section 1760 of this title](./chapter-013-school-lunch-programs.md#section-1760)] may be cited as the ‘Keep Kids Fed Act of 2022’.”
 
@@ -711,11 +714,11 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
   (A) *In general.—* — Lunches served by schools participating in the school lunch program under this chapter—
 
-    (i) shall offer students a variety of fluid milk. Such milk shall be consistent with the most recent Dietary Guidelines for Americans published under [section 5341 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5341&num=0&edition=prelim);
+    (i) shall offer students a variety of fluid milk;
 
-    (ii) may offer students flavored and unflavored fluid milk and lactose-free fluid milk; and
+    (ii) may offer students options which may include flavored and unflavored organic or nonorganic whole, reduced-fat, low-fat, and fat-free fluid milk and lactose-free fluid milk, and nondairy beverages that are nutritionally equivalent to fluid milk and meet the nutritional standards established by the Secretary (which shall, among other requirements to be determined by the Secretary, include fortification of calcium, protein, vitamin A, and vitamin D to levels found in cow’s milk); and
 
-    (iii) shall provide a substitute for fluid milk for students whose disability restricts their diet, on receipt of a written statement from a licensed physician that identifies the disability that restricts the student’s diet and that specifies the substitute for fluid milk.
+    (iii) shall provide a substitute for fluid milk for students whose disability restricts their diet, on receipt of a written statement from a licensed physician, parent, or legal guardian that identifies the disability that restricts the student’s diet and that specifies the substitute for fluid milk.
 
   (B) *Substitutes.—*
 
@@ -725,11 +728,15 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
     (iii) *Excess expenses borne by school food authority.—* — Expenses incurred in providing substitutions under this subparagraph that are in excess of expenses covered by reimbursements under this chapter shall be paid by the school food authority.
 
-  (C) *Restrictions on sale of milk prohibited.—* — A school that participates in the school lunch program under this chapter shall not directly or indirectly restrict the sale or marketing of fluid milk products by the school (or by a person approved by the school) at any time or any place—
+  (C) *Restrictions on sale of milk prohibited.—* — A school that participates in the school lunch program under this chapter shall not directly or indirectly restrict the sale or marketing of products described in subparagraph (A)(ii) by the school (or by a person approved by the school) at any time or any place—
 
     (i) on the school premises; or
 
     (ii) at any school-sponsored event.
+
+  (D) *Saturated fat.—* — Milk fat included in any fluid milk provided under subparagraph (A) shall not be considered saturated fat for purposes of measuring compliance with the allowable average saturated fat content of a meal under section 210.10 of title 7, Code of Federal Regulations (or successor regulations).
+
+  (E) *Application.—* — Subparagraph (B)(ii) is not applicable to a school that offers nondairy beverages under subparagraph (A)(ii).
 
 (3) Students in senior high schools that participate in the school lunch program under this chapter (and, when approved by the local school district or nonprofit private schools, students in any other grade level) shall not be required to accept offered foods they do not intend to consume, and any such failure to accept offered foods shall not affect the full charge to the student for a lunch meeting the requirements of this subsection or the amount of payments made under this chapter to any such school for such lunch.
 
@@ -1358,13 +1365,13 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
 (2) **State and local government inspections** — Nothing in paragraph (1) prevents any State or local government from adopting or enforcing any requirement for more frequent food safety inspections of schools.
 
-(3) **Audits and reports by States** — For fiscal year 2024, each State shall annually—
+(3) **Audits and reports by States** — For fiscal year 2026, each State shall annually—
 
   (A) audit food safety inspections of schools conducted under paragraphs (1) and (2); and
 
   (B) submit to the Secretary a report of the results of the audit.
 
-(4) **Audit by the Secretary** — For fiscal year 2024, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
+(4) **Audit by the Secretary** — For fiscal year 2026, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
 
 (5) **School food safety program**
 
@@ -1439,6 +1446,22 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2026—Subsec. (a)(2)(A)(i), (ii). Pub. L. 119–69, § 2(a)(1)(A), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) shall offer students a variety of fluid milk. Such milk shall be consistent with the most recent Dietary Guidelines for Americans published under [section 5341 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5341&num=0&edition=prelim);
+
+“(ii) may offer students flavored and unflavored fluid milk and lactose-free fluid milk; and”.
+
+Subsec. (a)(2)(A)(iii). Pub. L. 119–69, § 2(a)(1)(B), substituted “physician, parent, or legal guardian” for “physician”.
+
+Subsec. (a)(2)(C). Pub. L. 119–69, § 2(a)(2), substituted “products described in subparagraph (A)(ii)” for “fluid milk products” in introductory provisions.
+
+Subsec. (a)(2)(D), (E). Pub. L. 119–69, § 2(a)(3), added subpars. (D) and (E).
+
+2025—Subsec. (h)(3). Pub. L. 119–37 substituted “For fiscal year 2026” for “For fiscal year 2024” in introductory provisions.
+
+Subsec. (h)(4). Pub. L. 119–37 substituted “For fiscal year 2026” for “For fiscal year 2024”.
+
 2024—Subsec. (h)(3). Pub. L. 118–42 substituted “For fiscal year 2024” for “For fiscal year 2023” in introductory provisions.
 
 Subsec. (h)(4). Pub. L. 118–42 substituted “For fiscal year 2024” for “For fiscal year 2023”.
@@ -1517,7 +1540,7 @@ Subsec. (f)(5). Pub. L. 111–80, § 749(b), substituted “2010” for “2009�
 
 Subsec. (h)(3), (4). Pub. L. 111–80, § 749(c), substituted “2010” for “2009”.
 
-2008—Subsec. (b)(2)–(4). Pub. L. 110–246, § 4002(b)(1)(A), (B), (2)(Z), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” wherever appearing.
+2008—Subsec. (b)(2) to (4). Pub. L. 110–246, § 4002(b)(1)(A), (B), (2)(Z), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” wherever appearing.
 
 Subsec. (b)(12)(A)(i). Pub. L. 110–246, § 4002(b)(1)(A), (B), (2)(Z), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
@@ -3966,7 +3989,7 @@ Pub. L. 117–328, div. HH, title IV, § 502(e), Dec. 29, 2022, 136 Stat. 5994, 
 
 **(e) Consultation with school representatives** Each State agency that receives food assistance payments under this section for any school year shall consult with representatives of schools in the State that participate in the school lunch program with respect to the needs of such schools relating to the manner of selection and distribution of commodity assistance for such program.
 
-**(f) Commodity only schools** Commodity only schools shall be eligible to receive donated commodities equal in value to the sum of the national average value of donated foods established under [section 1755(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1755/c&num=0&edition=prelim) and the national average payment established under [section 1753 of this title](./chapter-013-school-lunch-programs.md#section-1753). Such schools shall be eligible to receive up to 5 cents per meal of such value in cash for processing and handling expenses related to the use of such commodities. Lunches served in such schools shall consist of a combination of foods which meet the minimum nutritional requirements prescribed by the Secretary under [section 1758(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1758/a&num=0&edition=prelim), and shall represent the four basic food groups, including a serving of fluid milk.
+**(f) Commodity only schools** Commodity only schools shall be eligible to receive donated commodities equal in value to the sum of the national average value of donated foods established under [section 1755(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1755/c&num=0&edition=prelim) and the national average payment established under [section 1753 of this title](./chapter-013-school-lunch-programs.md#section-1753). Such schools shall be eligible to receive up to 5 cents per meal of such value in cash for processing and handling expenses related to the use of such commodities. Lunches served in such schools shall consist of a combination of foods which meet the minimum nutritional requirements prescribed by the Secretary under [section 1758(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1758/a&num=0&edition=prelim), and shall represent the four basic food groups, including a serving of fluid milk or a nondairy beverage that meets the nutritional standards described in [section 1758(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1758/a/2/B&num=0&edition=prelim).
 
 **(g) Extension of alternative means of assistance**
 
@@ -4019,6 +4042,8 @@ Section 1581 of the Food Security Act, referred to in subsec. (g), is section 15
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2026—Subsec. (f). Pub. L. 119–69 inserted “or a nondairy beverage that meets the nutritional standards described in [section 1758(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1758/a/2/B&num=0&edition=prelim)” after “milk”.
+
 2010—Subsec. (d). Pub. L. 111–296 struck out concluding provisions which read as follows: “Within eighteen months after November 10, 1977, the Secretary shall report to Congress on the impact of procedures established under this subsection, including the nutritional, economic, and administrative benefits of such procedures. In purchasing commodities for programs carried out under this chapter and the Child Nutrition Act of 1966, the Secretary shall establish procedures to ensure that contracts for the purchase of such commodities shall not be entered into unless the previous history and current patterns of the contracting party with respect to compliance with applicable meat inspection laws and with other appropriate standards relating to the wholesomeness of food for human consumption are taken into account.”
 
 2004—Subsec. (a). Pub. L. 108–265, § 117, struck out “, during the period beginning July 1, 1974, and ending June 30, 2004,” before “shall—” in introductory provisions.
@@ -5288,19 +5313,16 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 #### Effective Date of 1977 Amendment
 Pub. L. 95–166, § 19, Nov. 10, 1977, 91 Stat. 1345, provided that the amendment made by that section is effective July 1, 1977.
 
+#### Regulations
+Pub. L. 104–193, title VII, § 708(k)(3), Aug. 22, 1996, 110 Stat. 2300, provided that: “(A) Interim regulations.—Not later than January 1, 1997, the Secretary of Agriculture shall issue interim regulations to implement—“(i) the amendments made by paragraphs (1), (3), and (4) of subsection (e) [amending this section]; and “(ii) section 17(f)(3)(C) of the [Richard B. Russell] National School Lunch Act ([42 U.S.C. 1766(f)(3)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1766/f/3/C&num=0&edition=prelim)). “(B) Final regulations.—Not later than July 1, 1997, the Secretary of Agriculture shall issue final regulations to implement the provisions of law referred to in subparagraph (A).”
+
+Pub. L. 101–147, title II, § 204(b), Nov. 10, 1989, 103 Stat. 910, provided that: “Not later than July 1, 1990, the Secretary shall issue final regulations to implement the amendments made by subsection (a) [amending this section].”
+
 #### Child and Adult Care Food Program
 Pub. L. 117–158, § 3, June 25, 2022, 136 Stat. 1311, provided that: “(a) In General.—“(1) Temporary additional reimbursement for 2022-2023 school year.—Each meal and supplement served under the program authorized by section 17 of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1766](./chapter-013-school-lunch-programs.md#section-1766)) shall receive additional reimbursement in the amount of 10 cents. “(2) Limitation.—The additional reimbursement amount authorized under paragraph (1) shall only be available for the school year beginning July 2022. “(b) Tier Determinations for 2022-2023 School Year.—For the school year beginning July 2022, a tier II family or group day care home described in subsection (f)(3)(A)(iii) of section 17 of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1766](./chapter-013-school-lunch-programs.md#section-1766)) shall be considered a tier I family or group day care home for purposes of the program authorized under that section. “(c) Appropriations.—There are appropriated, out of any funds in the Treasury not otherwise appropriated, such sums as are necessary to carry out this section.”
 
 #### Meals and Supplements Reimbursements for Individuals Who Have Not Attained the Age of 25
 Pub. L. 117–2, title I, § 1107, Mar. 11, 2021, 135 Stat. 18, provided that: “(a) Program for At-risk School Children.—Beginning on the date of enactment of this section [Mar. 11, 2021], notwithstanding paragraph (1)(A) of section 17(r) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1766(r)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1766/r&num=0&edition=prelim)), during the COVID–19 public health emergency declared under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)), the Secretary shall reimburse institutions that are emergency shelters under such section 17(r) ([42 U.S.C. 1766(r)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1766/r&num=0&edition=prelim)) for meals and supplements served to individuals who, at the time of such service—“(1) have not attained the age of 25; and “(2) are receiving assistance, including non-residential assistance, from such emergency shelter. “(b) Participation by Emergency Shelters.—Beginning on the date of enactment of this section, notwithstanding paragraph (5)(A) of section 17(t) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1766(t)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1766/t&num=0&edition=prelim)), during the COVID–19 public health emergency declared under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)), the Secretary shall reimburse emergency shelters under such section 17(t) ([42 U.S.C. 1766(t)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1766/t&num=0&edition=prelim)) for meals and supplements served to individuals who, at the time of such service have not attained the age of 25. “(c) Definitions.—In this section:“(1) Emergency shelter.—The term ‘emergency shelter’ has the meaning given the term under section 17(t)(1) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1766(t)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1766/t/1&num=0&edition=prelim)). “(2) Secretary.—The term ‘Secretary’ means the Secretary of Agriculture.”
-
-#### Implementation of 1989 Amendments
-Pub. L. 101–147, title I, § 105(d), Nov. 10, 1989, 103 Stat. 885, provided that: “(1) Expansion; demonstration project.—The Secretary of Agriculture shall implement the amendments made by subsections (b)(1) and (b)(2) [amending this section] not later than July 1, 1990. “(2) Dietary requirements for adult day care food program.—Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement the amendments made by subsection (b)(3) [amending this section].”
-
-#### Regulations
-Pub. L. 104–193, title VII, § 708(k)(3), Aug. 22, 1996, 110 Stat. 2300, provided that: “(A) Interim regulations.—Not later than January 1, 1997, the Secretary of Agriculture shall issue interim regulations to implement—“(i) the amendments made by paragraphs (1), (3), and (4) of subsection (e) [amending this section]; and “(ii) section 17(f)(3)(C) of the [Richard B. Russell] National School Lunch Act ([42 U.S.C. 1766(f)(3)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1766/f/3/C&num=0&edition=prelim)). “(B) Final regulations.—Not later than July 1, 1997, the Secretary of Agriculture shall issue final regulations to implement the provisions of law referred to in subparagraph (A).”
-
-Pub. L. 101–147, title II, § 204(b), Nov. 10, 1989, 103 Stat. 910, provided that: “Not later than July 1, 1990, the Secretary shall issue final regulations to implement the amendments made by subsection (a) [amending this section].”
 
 #### Interagency Coordination To Promote Health and Wellness in Child Care Licensing
 Pub. L. 111–296, title II, § 222, Dec. 13, 2010, 124 Stat. 3228, provided that: “The Secretary [of Agriculture] shall coordinate with the Secretary of Health and Human Services to encourage State licensing agencies to include nutrition and wellness standards within State licensing standards that ensure, to the maximum extent practicable, that licensed child care centers and family or group day care homes— “(1) provide to all children under the supervision of the child care centers and family or group day care homes daily opportunities for age-appropriate physical activity; “(2) limit among children under the supervision of the child care centers and family or group day care homes the use of electronic media and the quantity of time spent in sedentary activity to an appropriate level; “(3) serve meals and snacks that are consistent with the requirements of the child and adult care food program established under section 17 of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1766](./chapter-013-school-lunch-programs.md#section-1766)); and “(4) promote such other nutrition and wellness goals as the Secretaries determine to be necessary.”
@@ -5323,6 +5345,9 @@ Pub. L. 108–265, title I, § 119(j), June 30, 2004, 118 Stat. 755, provided th
 
 #### Study of Impact of Amendments by Pub. L. 104–193 on Program Participation and Family Day Care Licensing
 Pub. L. 104–193, title VII, § 708(l), Aug. 22, 1996, 110 Stat. 2300, directed Secretary of Agriculture, in conjunction with Secretary of Health and Human Services, to conduct study and report to Congress not later than 2 years after Aug. 22, 1996, on impact of the amendments made by section 708 of Pub. L. 104–193, amending this section, on the number of family day care homes and day care home sponsoring organizations participating in the child and adult care food program established under this section, the number of day care homes that are licensed, certified, registered, or approved by each State in accordance with regulations issued by the Secretary, the rate of growth of such numbers, the nutritional adequacy and quality of meals served in family day care homes, and the proportion of low-income children participating in the program prior to such amendments to this section and the proportion of low-income children participating in the program after such amendments to this section, and further required each State agency participating in the child and adult care food program under this section to submit to the Secretary of Agriculture data necessary to carry out this study.
+
+#### Implementation of 1989 Amendments
+Pub. L. 101–147, title I, § 105(d), Nov. 10, 1989, 103 Stat. 885, provided that: “(1) Expansion; demonstration project.—The Secretary of Agriculture shall implement the amendments made by subsections (b)(1) and (b)(2) [amending this section] not later than July 1, 1990. “(2) Dietary requirements for adult day care food program.—Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement the amendments made by subsection (b)(3) [amending this section].”
 
 #### Family or Group Day Care Home Demonstration Project
 Pub. L. 100–435, title V, § 503, Sept. 19, 1988, 102 Stat. 1672, as amended by Pub. L. 101–147, title I, § 105(c)(1), Nov. 10, 1989, 103 Stat. 885, directed Secretary of Agriculture to conduct a demonstration project to begin 30 days after Sept. 19, 1988, but in no event earlier than Oct. 1, 1988, in one State (selected by the Secretary) regarding the Child Care Food Program authorized under [42 U.S.C. 1766](./chapter-013-school-lunch-programs.md#section-1766) in which day care institutions and family or group day care sponsoring organizations shall receive a reimbursement (in addition to that received under [42 U.S.C. 1766(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1766/d&num=0&edition=prelim) and (f)) for providing one additional meal or supplement for children that are maintained in a day care institution or in a family or group day care home setting for eight or more hours per day, directed Secretary to submit a preliminary report to Congress not later than Aug. 1, 1989, and a final report after the conclusion of such project, with project to terminate Sept. 30, 1990.
@@ -5976,7 +6001,7 @@ Pub. L. 110–234, title IV, § 4304(a)(2), May 22, 2008, 122 Stat. 1130, and Pu
 
 **(b) Administration of program; eligibility determinations and regulations** The Secretary of Defense shall administer lunch programs authorized by this section and shall determine eligibility for free and reduced price lunches under the criteria published by the Secretary of Agriculture, except that the Secretary of Defense shall prescribe regulations governing computation of income eligibility standards for families of students participating in the National School Lunch Program under this section.
 
-**(c) Nutritional standards for meals; noncompliance with standards** The Secretary of Defense shall be required to offer meals meeting nutritional standards prescribed by the Secretary of Agriculture; however, the Secretary of Defense may authorize deviations from Department of Agriculture prescribed meal patterns and fluid milk requirements when local conditions preclude strict compliance or when such compliance is impracticable.
+**(c) Nutritional standards for meals; noncompliance with standards** The Secretary of Defense shall be required to offer meals meeting nutritional standards prescribed by the Secretary of Agriculture; however, the Secretary of Defense may authorize deviations from Department of Agriculture prescribed meal patterns, fluid milk requirements, and nutritional standards for nondairy beverages when local conditions preclude strict compliance or when such compliance is impracticable.
 
 **(d) Authorization of appropriations** Funds are hereby authorized to be appropriated for any fiscal year in such amounts as may be necessary for the administrative expenses of the Department of Defense under this section.
 
@@ -5991,6 +6016,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 A prior section 20 of act June 4, 1946, was renumbered section 18 of act June 4, 1946, and is classified to [section 1769 of this title](./chapter-013-school-lunch-programs.md#section-1769).
 
 #### Amendments
+2026—Subsec. (c). Pub. L. 119–69 substituted “patterns, fluid milk requirements, and nutritional standards for nondairy beverages” for “patterns and fluid milk requirements”.
+
 1989—Subsec. (b). Pub. L. 101–147 substituted “reduced price” for “reduced-price”.
 
 1986—Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591, § 328(a), and Pub. L. 99–661, § 4208(a), amended subsec. (d) identically, striking out “and for payment of the difference between the value of commodities and payments received from the Secretary of Agriculture and (1) the full cost of each lunch for each student eligible for a free lunch, and (2) the full cost of each lunch, less any amounts required by law or regulation to be paid by each student eligible for a reduced-price lunch” after “this section”.
@@ -6869,11 +6896,13 @@ Pub. L. 103–448, title I, § 122(c), Nov. 2, 1994, 108 Stat. 4731, provided th
 
 **(c) Audits** The Secretary shall establish fair and reasonable auditing procedures regarding the expenditures of funds to carry out this section.
 
-**(d) Funding** Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2010 through 2025. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
+**(d) Funding** Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2010 through 2027. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (d). Pub. L. 119–37 substituted “2010 through 2027” for “2010 through 2025”.
+
 2024—Subsec. (d). Pub. L. 118–42 substituted “2010 through 2025” for “2010 through 2024”.
 
 2022—Subsec. (d). Pub. L. 117–328 substituted “2010 through 2024” for “2010 through 2023”.

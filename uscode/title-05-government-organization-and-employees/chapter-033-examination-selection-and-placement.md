@@ -2,20 +2,21 @@
 title: 5
 chapter: '33'
 heading: 'EXAMINATION, SELECTION, AND PLACEMENT'
-section_count: 80
+section_count: 81
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5&num=0&edition=prelim
 ---
 <a id="section-3301"></a>
 ## § 3301. Civil service; generally
-
-The President may—
+**(a) In General.—** The President may—
 
 (1) prescribe such regulations for the admission of individuals into the civil service in the executive branch as will best promote the efficiency of that service;
 
 (2) ascertain the fitness of applicants as to age, health, character, knowledge, and ability for the employment sought; and
 
 (3) appoint and prescribe the duties of individuals to make inquiries for the purpose of this section.
+
+**(b) DOD Procedures.—** The President may authorize the Department of Defense to determine the qualification, examination, and assessment procedures for positions in the competitive service based primarily on job-related competencies and skills, including the use of structured interviews, technical evaluations, or skills-based assessments, and alternative assessments.
 
 ### Statutory Notes
 
@@ -27,6 +28,9 @@ The President may—
 The words “civil service in the executive branch” are substituted for “civil service of the United States” to confirm the grant of authority in view of the definition of “civil service” in section 2101. The word “will” is substituted for “may”. The words “for the employment sought” are substituted for “for the branch of service into which he seeks to enter” as the latter are archaic since there are no “branches” within the executive branch. The word “applicant” is substituted for “candidate”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+2025—Pub. L. 119–60 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Short Title of 1998 Amendment
 Pub. L. 105–277, div. C, title I, § 151(a), Oct. 21, 1998, 112 Stat. 2681–611, provided that: “This section [enacting sections 3345 to 3349d of this title, repealing former sections 3345 to 3349 of this title, and enacting provisions set out as a note under [section 3345 of this title](./chapter-033-examination-selection-and-placement.md#section-3345)] may be cited as the ‘Federal Vacancies Reform Act of 1998’.”
@@ -131,6 +135,8 @@ Ex. Ord. No. 13764, § 1, Jan. 17, 2017, 82 F.R. 8115.
 Ex. Ord. No. 13843, § 3(a), July 10, 2018, 83 F.R. 32756.
 
 Ex. Ord. No. 14029, § 3, May 14, 2021, 86 F.R. 27025.
+
+Ex. Ord. No. 14171, § 4, Jan. 20, 2025, 90 F.R. 8626.
 
 #### Executive Order No. 10590
 Ex. Ord. No. 10590, Jan. 18, 1955, 20 F.R. 409, as amended by Ex. Ord. No. 10722, Aug. 7, 1957, 22 F.R. 6287; Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 8, 1958, 23 F.R. 6971, which established the President’s Committee on Government Employment Policy, was superseded by Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, set out as a note under [section 2000e of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e&num=0&edition=prelim), The Public Health and Welfare.
@@ -383,7 +389,7 @@ William J. Clinton.
 Ex. Ord. No. 13162, July 6, 2000, 65 F.R. 43211, which established the Federal Career Intern Program and provided for its oversight by the Office of Personnel Management, was revoked, effective Mar. 1, 2011, by Ex. Ord. No. 13562, § 8(a), Dec. 27, 2010, 75 F.R. 82588, set out as a note below.
 
 #### Executive Order No. 13318
-Ex. Ord. No. 13318, Nov. 21, 2003, 68 F.R. 66317, which related to the Presidential Management Fellows Program, was revoked by Ex. Ord. No. 13562, § 8(c), Dec. 27, 2010, 75 F.R. 82588, set out below, on the effective date of final regulations promulgated by the Director of OPM to implement required changes to the PMF Program [July 10, 2012, see 77 F.R. 28194].
+Ex. Ord. No. 13318, Nov. 21, 2003, 68 F.R. 66317, which related to the Presidential Management Fellows Program, was revoked by Ex. Ord. No. 13562, § 7(c), formerly § 8(c), Dec. 27, 2010, 75 F.R. 82588, as renumbered by Ex. Ord. No. 14217, § 2(e), Feb. 19, 2025, 90 F.R. 10577, set out below, on the effective date of final regulations promulgated by the Director of OPM to implement required changes to the PMF Program [July 10, 2012, see 77 F.R. 28194].
 
 #### Ex. Ord. No. 13473. To Authorize Certain Noncompetitive Appointments in the Civil Service for Spouses of Certain Members of the Armed Forces
 Ex. Ord. No. 13473, Sept. 25, 2008, 73 F.R. 56703, provided:
@@ -570,7 +576,7 @@ Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impa
 Barack Obama.
 
 #### Ex. Ord. No. 13562. Recruiting and Hiring Students and Recent Graduates
-Ex. Ord. No. 13562, Dec. 27, 2010, 75 F.R. 82585, provided:
+Ex. Ord. No. 13562, Dec. 27, 2010, 75 F.R. 82585, as amended by Ex. Ord. No. 14217, § 2(e), Feb. 19, 2025, 90 F.R. 10577, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, it is hereby ordered as follows:
 
@@ -580,7 +586,7 @@ To compete effectively for students and recent graduates, the Federal Government
 
 Accordingly, pursuant to my authority under [5 U.S.C. 3302(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3302/1&num=0&edition=prelim), and in order to achieve a workforce that represents all segments of society as provided in [5 U.S.C. 2301(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2301/b/1&num=0&edition=prelim), I find that conditions of good administration (specifically, the need to promote employment opportunities for students and recent graduates in the Federal workforce) make necessary an exception to the competitive hiring rules for certain positions in the Federal civil service.
 
-Sec. 2. Establishment. There are hereby established the Internship Program and the Recent Graduates Program, which, along with the Presidential Management Fellows Program, as modified herein, shall collectively be known as the Pathways Programs. I therefore direct the Director of the Office of Personnel Management (OPM) to issue regulations implementing the Pathways Programs consistent with this order, including:
+Sec. 2. Establishment. There are hereby established the Internship Program and the Recent Graduates Program, which, shall collectively be known as the Pathways Programs. I therefore direct the Director of the Office of Personnel Management (OPM) to issue regulations implementing the Pathways Programs consistent with this order, including:
 
 (a) a description of the positions that executive departments and agencies (agencies) may fill through the Pathways Programs because conditions of good administration necessitate excepting those positions from the competitive hiring rules;
 
@@ -610,21 +616,13 @@ Sec. 4. Recent Graduates Program. The Recent Graduates Program shall provide ind
 
 (b) Responsibilities assigned to a Recent Graduate shall be consistent with his or her qualifications, educational background, and career interests, the purpose of the Recent Graduates Program, and agency needs.
 
-Sec. 5. Presidential Management Fellows Program. The Presidential Management Fellows (PMF) Program is an existing program established pursuant to Executive Order 13318 of November 21, 2003, that aims to attract to the Federal service outstanding men and women from a variety of academic disciplines at the graduate level who have a clear interest in, and commitment to, the leadership and management of public policies and programs. The following requirements shall govern the PMF Program upon the revocation of Executive Order 13318, as provided in section 8 of this order:
+Sec. 5. Appointment and Conversion. (a) Appointments to any of the Pathways Programs shall be under Schedule D of the excepted service, as established by section 7 of this order.
 
-(a) Participants in this program shall continue to be known as Presidential Management Fellows (PMFs or Fellows) and must have received, within the preceding 2 years, a qualifying advanced degree, as determined by OPM.
-
-(b) Responsibilities assigned to a PMF shall be consistent with the PMF’s qualifications, educational background, and career interests, the purposes of the PMF Program, and agency needs.
-
-(c) OPM shall establish the eligibility requirements and minimum qualifications for the program, as well as a process for assessing eligible individuals for consideration for appointment as PMFs.
-
-Sec. 6. Appointment and Conversion. (a) Appointments to any of the Pathways Programs shall be under Schedule D of the excepted service, as established by section 7 of this order.
-
-(b) Appointments to the Recent Graduates or PMF Programs shall not exceed 2 years, unless extended by the employing agency for up to 120 days thereafter.
+(b) Appointments to the Recent Graduates program shall not exceed 2 years, unless extended by the employing agency for up to 120 days thereafter.
 
 (c) Appointment to a Pathways Program shall confer no right to further Federal employment in either the competitive or excepted service upon the expiration of the appointment, except that agencies may convert eligible participants noncompetitively to term, career, or career conditional appointments after satisfying requirements to be established by OPM, and agencies may noncompetitively convert participants who were initially converted to a term appointment under this section to a career or career-conditional appointment before the term appointment expires.
 
-Sec. 7. Implementation. (a) [Amended Civil Service Rule VI.]
+Sec. 6. Implementation. (a) [Amended Civil Service Rule VI.]
 
 (b) The Director of OPM shall:
 
@@ -632,7 +630,7 @@ Sec. 7. Implementation. (a) [Amended Civil Service Rule VI.]
 
 (ii) provide oversight of the Pathways Programs;
 
-(iii) establish, if appropriate, a Government-wide cap on the number of noncompetitive conversions to the competitive service of Interns, Recent Graduates, or PMFs (or a Government-wide combined conversion cap applicable to all three categories together);
+(iii) establish, if appropriate, a Government-wide cap on the number of noncompetitive conversions to the competitive service of Interns or Recent Graduates (or a Government-wide combined conversion cap applicable to both categories together);
 
 (iv) administer, and review and revise annually or as needed, any Government-wide cap established pursuant to this subsection;
 
@@ -650,13 +648,13 @@ Sec. 7. Implementation. (a) [Amended Civil Service Rule VI.]
 
 (iv) within 45 days of the date of this order, designate a Pathways Programs Officer (at the agency level, or at bureaus or components within the agency) to administer Pathways Programs, to serve as liaison with OPM, and to report to OPM on the implementation of the Pathways Programs and the individuals hired under them.
 
-Sec. 8. Prior Executive Orders. (a) Effective March 1, 2011, Executive Order 13162 (Federal Career Intern Program) is superseded and revoked. Any individuals serving in appointments under that order on March 1, 2011, shall be converted to the competitive service, effective on that date, with no loss of pay or benefits.
+Sec. 7. Prior Executive Orders. (a) Effective March 1, 2011, Executive Order 13162 (Federal Career Intern Program) is superseded and revoked. Any individuals serving in appointments under that order on March 1, 2011, shall be converted to the competitive service, effective on that date, with no loss of pay or benefits.
 
 (b) On the effective date of final regulations promulgated by the Director of OPM to implement the Internship Program, Executive Order 12015 (pursuant to which the Student Career Experience Program was established), as amended, is superseded and revoked.
 
 (c) On the effective date of final regulations promulgated by the Director of OPM to implement changes to the PMF Program required by this order, Executive Order 13318 (Presidential Management Fellows Program), as amended, is superseded and revoked.
 
-Sec. 9. General Provisions. (a) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+Sec. 8. General Provisions. (a) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
 (b) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -665,8 +663,6 @@ Sec. 9. General Provisions. (a) This order shall be implemented consistent with 
 (ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Barack Obama.
 
 #### Ex. Ord. No. 13678. Conversion Authority for Criminal Investigators (Special Agents) of the Bureau of Alcohol, Tobacco, Firearms, and Explosives
 Ex. Ord. No. 13678, Oct. 3, 2014, 79 F.R. 60949, provided:
@@ -923,49 +919,96 @@ Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impa
 
 Donald J. Trump.
 
-#### Executive Order No. 13957
-Ex. Ord. No. 13957, Oct. 21, 2020, 85 F.R. 67631, which created Schedule F in the Excepted Service for positions of a confidential, policy-determining, policy-making, or policy-advocating character not normally subject to change as a result of a Presidential transition, was revoked by Ex. Ord. No. 14003, § 2(a), Jan. 22, 2021, 86 F.R. 7231, set out below.
+#### Ex. Ord. No. 13957. Creating Schedule Policy/Career in the Excepted Service
+Ex. Ord. No. 13957, Oct. 21, 2020, 85 F.R. 67631, revoked by Ex. Ord. No. 14003, § 2(a), Jan. 22, 2021, 86 F.R. 7231, reinstated and amended by Ex. Ord. No. 14171, §§ 2, 3, Jan. 20, 2025, 90 F.R. 8625, provided:
 
-#### Ex. Ord. No. 14003. Protecting the Federal Workforce
-Ex. Ord. No. 14003, Jan. 22, 2021, 86 F.R. 7231, provided:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301, 3302, and 7511 of title 5, United States Code, it is hereby ordered as follows:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+Section 1. Policy. To effectively carry out the broad array of activities assigned to the executive branch under law, the President and his appointees must rely on men and women in the Federal service employed in positions of a confidential, policy-determining, policy-making, or policy-advocating character. Faithful execution of the law requires that the President have appropriate management oversight regarding this select cadre of professionals.
 
-Section 1. Policy. Career civil servants are the backbone of the Federal workforce, providing the expertise and experience necessary for the critical functioning of the Federal Government. It is the policy of the United States to protect, empower, and rebuild the career Federal workforce. It is also the policy of the United States to encourage union organizing and collective bargaining. The Federal Government should serve as a model employer.
+The Federal Government benefits from career professionals in positions that are not normally subject to change as a result of a Presidential transition but who discharge significant duties and exercise significant discretion in formulating and implementing executive branch policy and programs under the laws of the United States. The heads of executive departments and agencies (agencies) and the American people also entrust these career professionals with non-public information that must be kept confidential.
 
-Sec. 2. Revocation of Schedule F. (a) The creation of a new Schedule F excepted service category in Executive Order 13957 of October 21, 2020 (Creating Schedule F in the Excepted Service) [formerly set out above], not only was unnecessary to the conditions of good administration, but also undermined the foundations of the civil service and its merit system principles, which were essential to the Pendleton Civil Service Reform Act of 1883’s [22 Stat. 403] repudiation of the spoils system. Accordingly, to enhance the efficiency of the civil service and to promote good administration and systematic application of merit system principles, Executive Order 13957 is hereby revoked.
+With the exception of attorneys in the Federal service who are appointed pursuant to Schedule A of the excepted service and members of the Senior Executive Service, appointments to these positions are generally made through the competitive service. Given the importance of the functions they discharge, employees in such positions must display appropriate temperament, acumen, impartiality, and sound judgment.
 
-(b) The heads of all executive departments and agencies (agencies) shall, consistent with law, immediately suspend, revise, or rescind proposed actions, decisions, petitions, rules, regulations or other guidance pursuant to, or to effectuate, Executive Order 13957. The Director of the Office of Personnel Management (OPM) shall immediately cease processing or granting any petitions that seek to convert positions to Schedule F or to create new positions in Schedule F.
+Due to these requirements, agencies should have a greater degree of appointment flexibility with respect to these employees than is afforded by the existing competitive service process.
 
-Sec. 3. Revocation of Certain Presidential and Regulatory Actions. (a) Executive Order 13836 of May 25, 2018 (Developing Efficient, Effective, and Cost-Reducing Approaches to Federal Sector Collective Bargaining) [former [5 U.S.C. 7101](./chapter-071-labor-management-relations.md#section-7101) note], is hereby revoked. The Interagency Labor Relations Working Group is hereby disbanded and the Director of OPM shall withdraw all materials issued by this working group that are inconsistent with the policy set forth in section 1 of this order.
+Further, effective performance management of employees in confidential, policy-determining, policy-making, or policy-advocating positions is of the utmost importance. Unfortunately, the Government’s current performance management is inadequate, as recognized by Federal workers themselves. For instance, the 2016 Merit Principles Survey reveals that less than a quarter of Federal employees believe their agency addresses poor performers effectively.
 
-(b) Executive Order 13837 of May 25, 2018 (Ensuring Transparency, Accountability, and Efficiency in Taxpayer-Funded Union Time Use) [former [5 U.S.C. 7131](./chapter-071-labor-management-relations.md#section-7131) note], is hereby revoked.
+Separating employees who cannot or will not meet required performance standards is important, and it is particularly important with regard to employees in confidential, policy-determining, policy-making, or policy-advocating positions. High performance by such employees can meaningfully enhance agency operations, while poor performance can significantly hinder them. Senior agency officials report that poor performance by career employees in policy-relevant positions has resulted in long delays and substandard-quality work for important agency projects, such as drafting and issuing regulations.
 
-(c) Executive Order 13839 of May 25, 2018 (Promoting Accountability and Streamlining Removal Procedures Consistent with Merit System Principles) [former [5 U.S.C. 7501](./chapter-075-adverse-actions.md#section-7501) note prec.], is hereby revoked.
+Pursuant to my authority under [section 3302(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3302/1&num=0&edition=prelim), United States Code, I find that conditions of good administration make necessary excepting such positions from the competitive service and the adverse action procedures set forth in chapter 75 of title 5, United States Code. Chapter 75 of title 5, United States Code, requires agencies to comply with extensive procedures before taking adverse action against an employee. These requirements can make removing poorly performing employees difficult. Only a quarter of Federal supervisors are confident that they could remove a poor performer. Career employees in confidential, policy-determining, policy-making, and policy-advocating positions wield significant influence over Government operations and effectiveness. Agencies need the flexibility to expeditiously remove poorly performing employees from these positions without facing extensive delays or litigation.
 
-(d) The Presidential Memorandum of October 11, 2019 (Executive Orders 13836, 13837, and 13839) [former [5 U.S.C. 7101](./chapter-071-labor-management-relations.md#section-7101) note], is hereby revoked.
+Sec. 2. Definition. The phrase “normally subject to change as a result of a Presidential transition” refers to positions whose occupants are, as a matter of practice, expected to resign upon a Presidential transition and includes all positions whose appointment requires the assent of the White House Office of Presidential Personnel.
 
-(e) The heads of agencies whose practices were covered by Executive Orders 13836, 13837, and 13839 (affected agencies) shall review and identify existing agency actions related to or arising from those orders. Such actions include:
+Sec. 3. Excepted Service. Appointments of individuals to positions of a confidential, policy-determining, policy-making, or policy-advocating character that are not normally subject to change as a result of a Presidential transition shall be made under Schedule Policy/Career of the excepted service, as established by section 4 of this order.
 
-(i) Actions related to the authorization of union time described in sections 4(b) and 5(b) of Executive Order 13837;
+Sec. 4. Schedule Policy/Career of the Excepted Service. (a) Civil Service Rule VI is amended as follows:
 
-(ii) Actions related to the system for monitoring the use of union time described in section 5(c) of Executive Order 13837;
+(i) 5 CFR 6.2 is amended to read:
 
-(iii) Guidance promulgated pursuant to section 7(d) of Executive Order 13837;
+“OPM shall list positions that it excepts from the competitive service in Schedules A, B, C, D, E, and Policy/Career, which schedules shall constitute parts of this rule, as follows:
 
-(iv) Actions taken pursuant to section 8 of Executive Order 13837;
+[“]Schedule A. Positions other than those of a confidential or policy-determining character for which it is not practicable to examine shall be listed in Schedule A.
 
-(v) Revisions to discipline and unacceptable performance policies, including ones codified in bargaining agreements, issued pursuant to section 7(b) of Executive Order 13839; and
+[“]Schedule B. Positions other than those of a confidential or policy-determining character for which it is not practicable to hold a competitive examination shall be listed in Schedule B. Appointments to these positions shall be subject to such noncompetitive examination as may be prescribed by OPM.
 
-(vii) The final rule entitled “Probation on Initial Appointment to a Competitive Position, Performance-Based Reduction in Grade and Removal Actions and Adverse Actions,” 85 Fed. Reg. 65940 (October 16, 2020).
+[“]Schedule C. Positions of a confidential or policy-determining character normally subject to change as a result of a Presidential transition shall be listed in Schedule C.
 
-(f) The heads of affected agencies shall, as soon as practicable, suspend, revise, or rescind, or publish for notice and comment proposed rules suspending, revising, or rescinding, the actions identified in the review described in subsection (e) of this section, as appropriate and consistent with applicable law and the policy set forth in section 1 of this order.
+[“]Schedule D. Positions other than those of a confidential or policy-determining character for which the competitive service requirements make impracticable the adequate recruitment of sufficient numbers of students attending qualifying educational institutions or individuals who have recently completed qualifying educational programs. These positions, which are temporarily placed in the excepted service to enable more effective recruitment from all segments of society by using means of recruiting and assessing candidates that diverge from the rules generally applicable to the competitive service, shall be listed in Schedule D.
 
-Sec. 4. Ensuring the Right to Engage in Collective Bargaining. The head of each agency subject to the provisions of chapter 71 of title 5, United States Code, shall elect to negotiate over the subjects set forth in [5 U.S.C. 7106(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7106/b/1&num=0&edition=prelim) and shall instruct subordinate officials to do the same.
+[“]Schedule E. Position of administrative law judge appointed under [5 U.S.C. 3105](./chapter-031-authority-for-employment.md#section-3105). Conditions of good administration warrant that the position of administrative law judge be placed in the excepted service and that appointment to this position not be subject to the requirements of 5 CFR, part 302, including examination and rating requirements, though each agency shall follow the principle of veteran preference as far as administratively feasible.
 
-Sec. 5. Progress Toward a Living Wage for Federal Employees. The Director of OPM shall provide a report to the President with recommendations to promote a $15/hour minimum wage for Federal employees.
+[“]Schedule Policy/Career. Career positions of a confidential, policy-determining, policy-making, or policy-advocating character not normally subject to change as a result of a Presidential transition shall be listed in Schedule Policy/Career. In appointing an individual to a position in Schedule Policy/Career, each agency shall follow the principle of veteran preference as far as administratively feasible.”
 
-Sec. 6. Severability. If any provision of this order, or the application of such provision to any person or circumstance, is held to be invalid, the remainder of this order and the application of such provision to other persons or circumstances shall not be affected thereby.
+(ii) 5 CFR 6.4 is amended to read:
+
+“Except as required by statute, the Civil Service Rules and Regulations shall not apply to removals from positions listed in Schedules A, C, D, E, or Policy/Career, or from positions excepted from the competitive service by statute. The Civil Service Rules and Regulations shall apply to removals from positions listed in Schedule B of persons who have competitive status.”
+
+(b) The Director of the Office of Personnel Management (Director) shall:
+
+(i) adopt such regulations as the Director determines may be necessary to implement this order, including, as appropriate[,] providing for the application of Civil Service Rule 6.3(a) to Schedule Policy/Career positions and, [sic] amendments to or rescissions of regulations that are inconsistent with, or that would impede the implementation of, this order, giving particular attention to 5 CFR, part 212, subpart D; 5 CFR, part 213, subparts A and C; and 5 CFR 302.101; and
+
+(ii) provide guidance on conducting a swift, orderly transition from existing appointment processes to the Schedule Policy/Career process established by this order.
+
+Sec. 5. Agency Actions. (a) Each head of an executive agency (as defined in [section 105 of title 5](./chapter-001-organization.md#section-105), United States Code, but excluding the Government Accountability Office) shall conduct, within 90 days of the date of this order [Oct. 21, 2020], a preliminary review of agency positions covered by subchapter II of chapter 75 of title 5, United States Code, and shall conduct a complete review of such positions within 210 days of the date of this order. Thereafter, each agency head shall conduct a review of agency positions covered by subchapter II of chapter 75 of title 5, United States Code, on at least an annual basis. Following such reviews each agency head shall:
+
+(i) for positions not excepted from the competitive service by statute, petition the Director to recommend that the President place in Schedule Policy/Career any such competitive service, Schedule A, Schedule B, or Schedule D positions within the agency that the agency head determines to be of a confidential, policy-determining, policy-making, or policy-advocating character and that are not normally subject to change as a result of a Presidential transition. Any such petition shall include a written explanation documenting the basis for the agency head’s determination that such position should be placed in Schedule Policy/Career; and
+
+(ii) for positions excepted from the competitive service by statute, determine which such positions are of a confidential, policy-determining, policy-making, or policy-advocating character and are not normally subject to change as a result of a Presidential transition. The agency head shall publish this determination in the Federal Register. Such positions shall be considered Schedule Policy/Career positions for the purposes of agency actions under sections 5(d) and 6 of this order.
+
+(b) The requirements set forth in subsection (a) of this section shall apply to currently existing positions and newly created positions.
+
+(c) When conducting the review required by subsection (a) of this section, each agency head should give particular consideration to the appropriateness of either petitioning the Director to place in Schedule Policy/Career or including in the determination published in the Federal Register, as applicable, positions whose duties include the following:
+
+(i) substantive participation in the advocacy for or development or formulation of policy, especially:
+
+(A) substantive participation in the development or drafting of regulations and guidance; or
+
+(B) substantive policy-related work in an agency or agency component that primarily focuses on policy;
+
+(ii) the supervision of attorneys;
+
+(iii) substantial discretion to determine the manner in which the agency exercises functions committed to the agency by law;
+
+(iv) viewing, circulating, or otherwise working with proposed regulations, guidance, executive orders, or other non-public policy proposals or deliberations generally covered by deliberative process privilege and either:
+
+(A) directly reporting to or regularly working with an individual appointed by either the President or an agency head who is paid at a rate not less than that earned by employees at Grade 13 of the General Schedule; or
+
+(B) working in the agency or agency component executive secretariat (or equivalent); or
+
+(v) conducting, on the agency’s behalf, collective bargaining negotiations under chapter 71 of title 5, United States Code. [sic]
+
+(vi) directly or indirectly supervising employees in Schedule Policy/Career positions; or
+
+(vii) duties that the Director otherwise indicates may be appropriate for inclusion in Schedule Policy/Career.
+
+(d) The Director shall promptly recommend to the President which positions should be placed in Schedule Policy/Career.
+
+(e) Each agency head shall, as necessary and appropriate, expeditiously petition the Federal Labor Relations Authority to determine whether any Schedule Policy/Career position must be excluded from a collective bargaining unit under [section 7112(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7112/b&num=0&edition=prelim), United States Code, paying particular attention to the question of whether incumbents in such positions are required or authorized to formulate, determine, or influence the policies of the agency.
+
+Sec. 6. Prohibited Personnel Practices Prohibited. (a) Agencies shall establish rules to prohibit the same personnel practices prohibited by [section 2302(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/b&num=0&edition=prelim), United States Code, with respect to any employee or applicant for employment in Schedule Policy/Career of the excepted service.
+
+(b) Employees in or applicants for Schedule Policy/Career positions are not required to personally or politically support the current President or the policies of the current administration. They are required to faithfully implement administration policies to the best of their ability, consistent with their constitutional oath and the vesting of executive authority solely in the President. Failure to do so is grounds for dismissal.
 
 Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -977,7 +1020,15 @@ Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impa
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-J.R. Biden, Jr.
+(d) If any provision of this order, or the application of any provision to any person or circumstances, is held to be invalid, the remainder of this order and the application of any of its other provisions to any other persons or circumstances shall not be affected thereby.
+
+(e) Nothing in this order shall be construed to limit or narrow the positions that are or may be listed in Schedule C.
+
+#### Executive Order No. 14003
+Ex. Ord. No. 14003, Jan. 22, 2021, 86 F.R. 7231, protecting the Federal workforce and revoking certain presidential and regulatory actions, was revoked by Ex. Ord. No. 14148, § 2(o), Jan. 20, 2025, 90 F.R. 8238, and Ex. Ord. No. 14171, § 6, Jan. 20, 2025, 90 F.R. 8626.
+
+#### Executive Order No. 14143
+Ex. Ord. No. 14143, Jan. 16, 2025, 90 F.R. 6751, which related to the appointment of alumni of AmeriCorps to the competitive service, was repealed by Ex. Ord. No. 14148, § 2(zzz), Jan. 20, 2025, 90 F.R. 8240.
 
 #### Improving the Federal Recruitment and Hiring Process
 Memorandum of President of the United States, May 11, 2010, 75 F.R. 27157, provided:
@@ -1113,7 +1164,7 @@ The President may prescribe rules governing the competitive service. The rules s
 
 (1) necessary exceptions of positions from the competitive service; and
 
-(2) necessary exceptions from the provisions of sections 2951, 3304(a), 3321, 7202, and 7203 of this title.
+(2) necessary exceptions from the provisions of sections 2951, 3304(b), 3321, 7202, and 7203 of this title.
 Each officer and individual employed in an agency to which the rules apply shall aid in carrying out the rules.
 
 ### Statutory Notes
@@ -1128,6 +1179,8 @@ The reference to the competitive service is substituted for the reference to the
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+2024—Par. (2). Pub. L. 118–188 substituted “3304(b)” for “3304(a)”.
+
 1993—Par. (2). Pub. L. 103–94 substituted “and 7203” for “7203, 7321, and 7322”.
 
 1979—Par. (2). Pub. L. 96–54 amended par. (2) in same manner as amendment by section 703(c)(1) of Pub. L. 95–454. See 1978 Amendment note below.
@@ -1233,7 +1286,45 @@ Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to 
 
 <a id="section-3304"></a>
 ## § 3304. Competitive service; examinations
-**(a)** The President may prescribe rules which shall provide, as nearly as conditions of good administration warrant, for—
+**(a) Definitions.—** In this section:
+
+(1) **Agency.—** — The term “agency” means an Executive agency.
+
+(2) **Director.—** — The term “Director” means the Director of the Office.
+
+(3) **Examination.—** — The term “examination” means the process by which an applicant demonstrates knowledge, skills, abilities, and competencies.
+
+(4) **Examining agency.—** — The term “examining agency” means—
+
+  (A) the Office; or
+
+  (B) an agency to which the Director has delegated examining authority under section 1104(a)(2).
+
+(5) **Office.—** — The term “Office” means the Office of Personnel Management.
+
+(6) **Passing score.—** — The term “passing score” means a minimum acceptable score or rating, consistent with applicable law, that may include a quantitative or qualitative assessment that an applicant can pass or fail.
+
+(7) **Relevant committees.—** — The term “relevant committees” means—
+
+  (A) the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+  (B) the Committee on Oversight and Accountability of the House of Representatives.
+
+(8) **Subject matter expert.—** — The term “subject matter expert” means an employee or selecting official—
+
+  (A) who possesses an understanding of the duties of, and knowledge, skills, and abilities required for, the position for which the employee or selecting official is developing or administering an examination; and
+
+  (B) whom the delegated examining unit of the examining agency that employs the employee or selecting official designates to assist in the development and administration of technical assessments.
+
+(9) **Technical assessment.—** — The term “technical assessment” means a position-specific tool that is relevant to the position for which the tool is developed that—
+
+  (A) allows for the demonstration of job-related skills, abilities, knowledge, and competencies;
+
+  (B) is based upon a job analysis; and
+
+  (C) does not solely include or principally rely upon a self-assessment from an automated examination.
+
+**(b) Rules.—** The President may prescribe rules which shall provide, as nearly as conditions of good administration warrant, for—
 
 (1) open, competitive examinations for testing applicants for appointment in the competitive service which are practical in character and as far as possible relate to matters that fairly test the relative capacity and fitness of the applicants for the appointment sought;
 
@@ -1246,9 +1337,133 @@ Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to 
   (B) the Office of Personnel Management has determined that there exists a severe shortage of candidates (or, with respect to the Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates) or that there is a critical hiring need.
 The Office shall prescribe, by regulation, criteria for identifying such positions and may delegate authority to make determinations under such criteria.
 
-**(b)** An individual may be appointed in the competitive service only if he has passed an examination or is specifically excepted from examination under [section 3302 of this title](./chapter-033-examination-selection-and-placement.md#section-3302). This subsection does not take from the President any authority conferred by [section 3301 of this title](./chapter-033-examination-selection-and-placement.md#section-3301) that is consistent with the provisions of this title governing the competitive service.
+**(c) Examinations.—**
 
-**(c)**
+(1) **In general.—** — For the purpose of testing applicants for appointment for a position, or class of positions, in the competitive service, an examining agency shall conduct an examination pursuant to subsection (b).
+
+(2) **Interim examination period.—**
+
+  (A) *Preference for technical assessment.—* — During the 3-year period beginning on the date of enactment of the Chance to Compete Act of 2024, an examining agency shall preference the use of a technical assessment, to the maximum extent practicable, to assess the job-related skills, abilities, knowledge, and competencies of an applicant for a position in the competitive service.
+
+  (B) *Use of alternative assessment.—* — During the 3-year period beginning on the date of enactment of the Chance to Compete Act of 2024, if an examining agency determines that the use of a technical assessment to assess the job-related skills, abilities, knowledge, and competencies of an applicant for a position in the competitive service is not practicable, the examining agency may use an alternative assessment for that purpose if the examining agency includes a brief description of the rationale for the use of the alternative assessment in the job posting.
+
+(3) **Transition planning.—**
+
+  (A) *In general.—* — Not later 11 So in original. Probably should be followed by “than”. 18 months after the date of enactment of the Chance to Compete Act of 2024, the Director shall submit to the relevant committees a plan to transition Federal hiring practices to adopt technical assessments in accordance with subsection (d), which shall include—
+
+    (i) the prioritization of—
+
+      (I) job classifications; and
+
+      (II) resource requirements; and
+
+    (ii) a timeline for full implementation of the transition.
+
+  (B) *Additional consultation.—* — In developing the plan under subparagraph (A), the Director shall consult with, at minimum—
+
+    (i) the Director of the Office of Management and Budget;
+
+    (ii) the Chair of the Chief Human Capital Officers Council;
+
+    (iii) employee representatives; and
+
+    (iv) relevant external stakeholders.
+
+(4) **Implementation of technical assessments.—**
+
+  (A) *Implementation of plan.—* — Not later than 3 years after the date of enactment of the Chance to Compete Act of 2024, the Director shall implement the plan submitted under paragraph (3).
+
+  (B) *Adoption of technical assessments.—* — On and after the date that is 3 years after the date of enactment of the Chance to Compete Act of 2024, an examining agency shall use a technical assessment to examine applicants for positions in the competitive service in accordance with subsection (d).
+
+  (C) *Waiver.—*
+
+    (i) *In general.—* — The requirement under subparagraph (B) shall not apply to an examining agency with respect to a particular job series if—
+
+      (I) the examining agency determines that use of a technical assessment is impracticable for the job series; and
+
+      (II) the head of the examining agency submits to the Director and the relevant committees a certification that use of the technical assessment is impracticable, which certification shall include—
+
+        (aa) identification of the job series;
+
+        (bb) identification of the number of positions that are included in the job series within the agency for which the examining agency is conducting examinations; and
+
+        (cc) a description of the rationale for the determination.
+
+    (ii) *Effectiveness of waiver.—* — A waiver under this subparagraph shall be effective for the period—
+
+      (I) beginning on the date that is 1 day after the date on which the applicable certification is submitted under clause (i)(II); and
+
+      (II) ending on the date that is 3 years after the date on which the applicable certification is submitted under clause (i)(II).
+
+    (iii) *No delegation of certification authority.—* — The head of an examining agency may not delegate the authority to submit a certification under clause (i)(II).
+
+**(d) Technical Assessment.—**
+
+(1) **In general.—** — For the purpose of conducting an examination for a position in the competitive service, an individual who is determined by an examining agency to be a subject matter expert in the subject and job field of the position may—
+
+  (A) develop, in partnership with human resources employees of the examining agency, a position-specific assessment that is relevant to the position, based on job analysis, which may include—
+
+    (i) a structured interview;
+
+    (ii) a work-related exercise;
+
+    (iii) a custom or generic procedure used to measure an applicant’s employment or career-related qualifications and interests; or
+
+    (iv) another assessment that—
+
+      (I) allows for the demonstration of job-related technical skills, abilities, and knowledge; and
+
+      (II) is relevant to the position for which the assessment is developed; and
+
+  (B) administer the assessment developed under subparagraph (A) to—
+
+    (i) determine whether an applicant for the position has a passing score to be qualified for the position; or
+
+    (ii) rank applicants for the position for category rating purposes under section 3319.
+
+(2) **Feasibility study on sharing and customization of assessment.—** — Not later than 1 year after the date of enactment of the Chance to Compete Act of 2024, the Director shall—
+
+  (A) conduct a feasibility study that examines the practicability, including a cost benefit analysis, of—
+
+    (i) the sharing of technical assessments by an examining agency with another examining agency;
+
+    (ii) mechanisms for each examining agency to maintain appropriate control over examination material that is shared by the examining agency as described in clause (i);
+
+    (iii) limits on customization of a technical assessment that is shared as described in clause (i) and mechanisms to ensure that the resulting technical assessment satisfies the requirements under part 300 of title 5, Code of Federal Regulations (or any successor regulation); and
+
+    (iv) the development of an online platform on which examining agencies can share and customize technical assessments as described in this subparagraph; and
+
+  (B) submit to the relevant committees a report on the study conducted under subparagraph (A).
+
+**(e) Federal Agency Talent Teams.—**
+
+(1) **In general.—** — An agency may establish 1 or more agency talent teams, including at the component level.
+
+(2) **Duties.—** — An agency talent team shall provide hiring support to the agency, including by—
+
+  (A) improving examinations;
+
+  (B) facilitating the writing of job announcements for the competitive service;
+
+  (C) sharing high-quality certificates of eligible applicants; and
+
+  (D) facilitating hiring for the competitive service using examinations.
+
+**(f) Office of Personnel Management Talent Team.—** The Director may establish a Federal talent team to support agency talent teams by—
+
+(1) facilitating hiring actions across the Federal Government;
+
+(2) providing training;
+
+(3) creating tools and guides to facilitate hiring for the competitive service; and
+
+(4) developing technical assessments.
+
+**(g) Rulemaking.—** The Director shall promulgate such regulations as are necessary to implement and interpret this section.
+
+**(h) Examination or Exception Required.—** An individual may be appointed in the competitive service only if he has passed an examination or is specifically excepted from examination under [section 3302 of this title](./chapter-033-examination-selection-and-placement.md#section-3302). This subsection does not take from the President any authority conferred by [section 3301 of this title](./chapter-033-examination-selection-and-placement.md#section-3301) that is consistent with the provisions of this title governing the competitive service.
+
+**(i) Technicians.—**
 
 (1) For the purpose of this subsection, the term “technician” has the meaning given such term by [section 8337(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8337/h/1&num=0&edition=prelim).
 
@@ -1260,11 +1475,11 @@ The Office shall prescribe, by regulation, criteria for identifying such positio
 
   (C) transfers to the competitive service within 1 year after separating from service as a technician.
 
-**(d)** The Office of Personnel Management shall promulgate regulations on the manner and extent that experience of an individual in a position other than the competitive service, such as the excepted service (as defined under section 2103) in the legislative or judicial branch, or in any private or nonprofit enterprise, may be considered in making appointments to a position in the competitive service (as defined under section 2102). In promulgating such regulations OPM shall not grant any preference based on the fact of service in the legislative or judicial branch. The regulations shall be consistent with the principles of equitable competition and merit based appointments.
+**(j) Consideration of Experience.—** The office 22 So in original. Probably should be capitalized. of Personnel Management shall promulgate regulations on the manner and extent that experience of an individual in a position other than the competitive service, such as the excepted service (as defined under section 2103) in the legislative or judicial branch, or in any private or nonprofit enterprise, may be considered in making appointments to a position in the competitive service (as defined under section 2102). In promulgating such regulations OPM shall not grant any preference based on the fact of service in the legislative or judicial branch. The regulations shall be consistent with the principles of equitable competition and merit based appointments.
 
-**(e)** Employees at any place outside the District of Columbia where the President or the Office of Personnel Management directs that examinations be held shall allow the reasonable use of public buildings for, and in all proper ways facilitate, holding the examinations.
+**(k) Use of Public Buildings.—** Employees at any place outside the District of Columbia where the President or the Office of Personnel Management directs that examinations be held shall allow the reasonable use of public buildings for, and in all proper ways facilitate, holding the examinations.
 
-**(f)**
+**(l) Preference Eligibles and Veterans.—**
 
 (1) Preference eligibles or veterans who have been separated from the armed forces under honorable conditions after 3 years or more of active service may not be denied the opportunity to compete for vacant positions for which the agency making the announcement will accept applications from individuals outside its own workforce under merit promotion procedures.
 
@@ -1276,7 +1491,7 @@ The Office shall prescribe, by regulation, criteria for identifying such positio
 
 (5) The Office of Personnel Management shall prescribe regulations necessary for the administration of this subsection. The regulations shall ensure that an individual who has completed an initial tour of active duty is not excluded from the application of this subsection because of having been released from such tour of duty shortly before completing 3 years of active service, having been honorably released from such duty.
 
-**(g) Eligibility of Department of Defense Employees in Time-limited Appointments to Compete for Permanent Appointments.—**
+**(m) Eligibility of Department of Defense Employees in Time-limited Appointments to Compete for Permanent Appointments.—**
 
 (1) **Definitions.—** — In this subsection—
 
@@ -1328,7 +1543,24 @@ In subsection (d), the word “Employees” is substituted for “collector, pos
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### References in Text
+The date of enactment of the Chance to Compete Act of 2024, referred to in subsecs. (c)(2), (3)(A), (4)(A), (B) and (d)(2), is the date of enactment of Pub. L. 118–188, which was approved Dec. 23, 2024.
+
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–188, § 2(a)(1)(C), added subsec. (a). Former subsec. (a) redesignated (b).
+
+Subsec. (b). Pub. L. 118–188, § 2(a)(1)(B), (2)(E)(i), redesignated subsec. (a) as (b) and inserted heading. Former subsec. (b) redesignated (h).
+
+Subsecs. (c) to (g). Pub. L. 118–188, § 3, added subsecs. (c) to (g). Former subsecs. (c) to (g) redesignated (i) to (m), respectively.
+
+Subsecs. (h), (i). Pub. L. 118–188, § 2(a)(1)(A), (2)(E)(ii), (iii), redesignated subsecs. (b) and (c) as (h) and (i), respectively, and inserted headings.
+
+Subsec. (j). Pub. L. 118–188, § 2(a)(1)(A), (2)(E)(iv), redesignated subsec. (d) as (j), inserted heading, and substituted “The office” for “The Office”.
+
+Subsecs. (k), (l). Pub. L. 118–188, § 2(a)(1)(A), (2)(E)(v), (vi), redesignated subsecs. (e) and (f) as (k) and (l), respectively, and inserted headings.
+
+Subsec. (m). Pub. L. 118–188, § 2(a)(1)(A), redesignated subsec. (g) as (m).
+
 2022—Subsec. (g). Pub. L. 117–263 added subsec. (g).
 
 2017—Subsec. (a)(3)(B). Pub. L. 115–46 inserted “(or, with respect to the Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates)” after “severe shortage of candidates”.
@@ -1375,7 +1607,7 @@ Pub. L. 104–65, § 16(b), redesignated subsec. (d) as (c).
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1999 Amendment
-Pub. L. 106–117, title V, § 511(d)(2), Nov. 30, 1999, 113 Stat. 1576, provided that: “If pursuant to subsection (a) [113 Stat. 1575] the amendments specified in subsection (c) [amending this section] are made, those amendments shall take effect as of October 31, 1998, as if included in subsection (f) of [section 3304 of title 5](./chapter-033-examination-selection-and-placement.md#section-3304), United States Code, as enacted by section 2 of the Veterans Employment Opportunities Act of 1998 (Public Law 105–339; 112 Stat. 3182).”
+Pub. L. 106–117, title V, § 511(d)(2), Nov. 30, 1999, 113 Stat. 1576, provided that: “If pursuant to subsection (a) [113 Stat. 1575] the amendments specified in subsection (c) [amending this section] are made, those amendments shall take effect as of October 31, 1998, as if included in subsection (f) [now (l)] of [section 3304 of title 5](./chapter-033-examination-selection-and-placement.md#section-3304), United States Code, as enacted by section 2 of the Veterans Employment Opportunities Act of 1998 (Public Law 105–339; 112 Stat. 3182).”
 
 #### Effective Date of 1995 Amendment
 Pub. L. 104–65, § 16(c), Dec. 19, 1995, 109 Stat. 703, provided that: “The repeal and amendment made by this section [amending this section] shall take effect 2 years after the date of the enactment of this Act [Dec. 19, 1995].”
@@ -1385,8 +1617,19 @@ Pub. L. 104–65, § 17(b), Dec. 19, 1995, 109 Stat. 703, provided that: “The 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
+#### Reports
+Pub. L. 118–188, § 5, Dec. 23, 2024, 138 Stat. 2649, provided that: “(a) Implementation Reports.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [Dec. 23, 2024], and each year thereafter ending with the fifth publication and submission of the report, the Director shall publish on a public-facing website, and submit to the relevant committees, a report that—“(A) examines the progress of examining agencies in implementing the requirements of this Act [see Short Title of 2024 Amendment note set out under [section 101 of this title](./chapter-001-organization.md#section-101)] and the amendments made by this Act; and “(B) identifies any significant difficulties encountered in the implementation described in subparagraph (A). “(2) Inclusion in annual report.—The Director may include the report required under paragraph (1) as an addendum to the report required under subsection (b). “(3) Delayed reporting.—If the Director is unable to publish and submit the report within the timeline required under paragraph (1), the Director shall publish on a public-facing website, and submit to the relevant committees, a notification of the delay that—“(A) provides a reason for the delay; and “(B) advises the public and the relevant committees of the anticipated date of publication and submission of the report. “(b) Annual Report.—“(1) In general.—Not later than 1 year after the date of enactment of this Act, and each year thereafter, the Director shall publish on a public-facing website and submit to the relevant committees a report that, with respect to categories of positions in the competitive service for which an examining agency examined applicants during the applicable period, includes—“(A) the type of examination used; and “(B) summary data from examinations that are closed, audited, and anonymous on the use of examinations for the competitive service, including technical assessments. “(2) Demographic indicators.—In carrying out paragraph (1), the Director shall break the data down by applicant demographic indicators to facilitate direct comparability and trendline comparisons to data available as of October 1, 2020, as a baseline. “(3) Limitations.—In carrying out this subsection, the Director may only publish and submit to the relevant committees data relating to examinations for which—“(A) the related announcement is closed; “(B) certificates have been audited; and “(C) all hiring processes are completed. “(4) Delayed reporting.—If the Director is unable to publish and submit the report within the timeline required under paragraph (1), the Director shall publish on a public-facing website, and submit to the relevant committees, a notification of the delay that—“(A) provides a reason for the delay; and “(B) advises the public and the relevant committees of the anticipated date of publication and submission of the report. “(c) Provision of Data by Agencies.—“(1) In general.—Not later than 180 days after the date of enactment of this Act, the Director shall issue guidance to examining agencies regarding the data that the Director needs from the examining agencies in order to comply with subsections (a) and (b). “(2) Reporting timelines.—Each examining agency shall provide the data outlined in the guidance issued by the Director under paragraph (1) on a quarterly basis.”
+
+[For definitions of terms used in section 5 of Pub. L. 118–188, set out above, see section 2(b) of Pub. L. 118–188, set out below.]
+
+#### Evaluation for Potential Updates or Revisions to Government-Wide Systems of Records at the Office of Personnel Management
+Pub. L. 118–188, § 7, Dec. 23, 2024, 138 Stat. 2651, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Dec. 23, 2024], the Director [of the Office of Personnel Management] shall evaluate whether the Government-wide system of records notices, the OPM/GOVT–5 Recruiting, Examining, and Placement Records, and the OPM/GOVT–6 Personnel Research and Test Validation Records, or any successor materials thereto, require updating or revision in order to support the implementation of this Act [see Short Title of 2024 Amendment set out under [section 101 of this title](./chapter-001-organization.md#section-101)] and the amendments made by this Act. “(b) Issuance of Updates or Revisions; Notice to Congress.—If the Director determines under subsection (a) that any updates or revisions are necessary, the Director, in accordance with [section 552a of title 5](./chapter-005-administrative-procedure.md#section-552a), United States Code (commonly known as the ‘Privacy Act’), shall promptly—“(1) issue the updates or revisions; and “(2) notify the relevant committees [Committee on Homeland Security and Governmental Affairs of the Senate and Committee on Oversight and Accountability of the House of Representatives].”
+
 #### Direct Hiring for Federal Wage Schedule Employees
-Pub. L. 114–328, div. A, title XI, § 1139, Dec. 23, 2016, 130 Stat. 2470, provided that: “The Director of the Office of Personnel Management shall permit an agency with delegated examining authority under 1104(a)(2) of title 5, United States Code, to use direct-hire authority under section 3304(a)(3) of such title for a permanent or non-permanent position or group of positions in the competitive services at GS–15 (or equivalent) and below, or for prevailing rate employees, if the Director determines that there is either a severe shortage of candidates or a critical hiring need for such positions.”
+Pub. L. 114–328, div. A, title XI, § 1139, Dec. 23, 2016, 130 Stat. 2470, provided that: “The Director of the Office of Personnel Management shall permit an agency with delegated examining authority under [section] 1104(a)(2) of title 5, United States Code, to use direct-hire authority under section 3304(a)(3) [now 3304(b)(3)] of such title for a permanent or non-permanent position or group of positions in the competitive services at GS–15 (or equivalent) and below, or for prevailing rate employees, if the Director determines that there is either a severe shortage of candidates or a critical hiring need for such positions.”
+
+#### Definitions in Pub. L. 118–188
+Pub. L. 118–188, § 2(b), Dec. 23, 2024, 138 Stat. 2646, provided that: “In this Act [see sections 5 and 7 of Pub. L. 118–188, set out as notes above]— “(1) each term that is defined in [section 3304(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304/a&num=0&edition=prelim), United States Code, as added by subsection (a) of this section, shall have the meaning given the term in such section 3304(a); and “(2) the term ‘competitive service’ has the meaning given the term in [section 2102 of title 5](./chapter-021-definitions.md#section-2102), United States Code.”
 
 
 <a id="section-3304a"></a>
@@ -2407,10 +2650,15 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 (2) the period during which applications will be accepted.
 As used in this subsection, “agency” means an agency as defined in [section 5102(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5102/a/1&num=0&edition=prelim) other than an agency all the positions in which are excepted by statute from the competitive service.
 
+**(c)** The Office of Personnel Management may authorize the Department of Defense to use flexible outreach methods, including curated prospect sourcing, provided that all hiring opportunities remain publicly accessible and merit-based.
+
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 3327, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 424, which prescribed standards for determination of qualifications of postmasters, including experience in postal field service, seniority, length of service, level of difficulty and responsibility of work, attendance, awards and commendations, and performance rating, was repealed by Pub. L. 91–375, § 6(c)(7)(A), Aug. 12, 1970, 84 Stat. 776. See [section 1001 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section1001&num=0&edition=prelim), Postal Service.
+
+#### Amendments
+2025—Subsec. (c). Pub. L. 119–60 added subsec. (c).
 
 #### Effective Date
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
@@ -2420,19 +2668,32 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 ## § 3328. Selective Service registration
 **(a)** An individual—
 
-(1) who was born after December 31, 1959, and is or was required to register under section 3 of the Military Selective Service Act (50 U.S.C. App. 453); 11 See References in Text note below. and
+(1) who was born after December 31, 1959, and is or was required to register under section 3 of the Military Selective Service Act ([50 U.S.C. 3802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3802&num=0&edition=prelim)) and
 
 (2) who is not so registered or knowingly and willfully did not so register before the requirement terminated or became inapplicable to the individual,
 shall be ineligible for appointment to a position in an Executive agency.
 
-**(b)** The Office of Personnel Management, in consultation with the Director of the Selective Service System, shall prescribe regulations to carry out this section. Such regulations shall include provisions prescribing procedures for the adjudication of determinations of whether a failure to register was knowing and willful. Such procedures shall require that such a determination may not be made if the individual concerned shows by a preponderance of the evidence that the failure to register was neither knowing nor willful. Such procedures may provide that determinations of eligibility under the requirements of this section shall be adjudicated by the Executive agency making the appointment for which the eligibility is determined.
+**(b)** Subsection (a) shall not apply to an individual—
+
+(1) who is a veteran;
+
+(2) who provides evidence of active duty service to the Executive agency in which the individual seeks an appointment; and
+
+(3) for whom the requirement to register under section 3 of the Military Selective Service Act ([50 U.S.C. 3802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3802&num=0&edition=prelim)) has terminated or is now inapplicable due to age.
+
+**(c)** The Office of Personnel Management, in consultation with the Director of the Selective Service System, shall prescribe regulations to carry out this section. Such regulations shall include provisions prescribing procedures for the adjudication of determinations of whether a failure to register was knowing and willful. Such procedures shall require that such a determination may not be made if the individual concerned shows by a preponderance of the evidence that the failure to register was neither knowing nor willful. Such procedures may provide that determinations of eligibility under the requirements of this section shall be adjudicated by the Executive agency making the appointment for which the eligibility is determined.
+
+**(d)** In this section, the terms “active duty” and “veteran” have the meaning given those terms in [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim).
 
 ### Statutory Notes
 
-#### References in Text
-Section 3 of the Military Selective Service Act, referred to in subsec. (a)(1), was classified to section 453 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 3802 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3802&num=0&edition=prelim).
-
 #### Amendments
+2024—Subsec. (a)(1). Pub. L. 118–159, § 1108(1), substituted “([50 U.S.C. 3802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3802&num=0&edition=prelim))” for “(50 U.S.C. App. 453)”.
+
+Subsecs. (b), (c). Pub. L. 118–159, § 1108(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
+
+Subsec. (d). Pub. L. 118–159, § 1108(4), added subsec. (d).
+
 1987—Subsec. (b). Pub. L. 100–180 struck out “within the Office” after “for the adjudication” in second sentence and inserted at end “Such procedures may provide that determinations of eligibility under the requirements of this section shall be adjudicated by the Executive agency making the appointment for which the eligibility is determined.”
 
 
@@ -2530,7 +2791,7 @@ Subsec. (f). Pub. L. 104–52, § 4(1)(B), added subsec. (f).
 
   (A) A preference eligible who alleges that an agency has violated such individual’s rights under any statute or regulation relating to veterans’ preference may file a complaint with the Secretary of Labor.
 
-  (B) A veteran described in section 3304(f)(1) who alleges that an agency has violated such section with respect to such veteran may file a complaint with the Secretary of Labor.
+  (B) A veteran described in section 3304(l)(1) who alleges that an agency has violated such section with respect to such veteran may file a complaint with the Secretary of Labor.
 
 (2)
 
@@ -2585,6 +2846,8 @@ Subsec. (f). Pub. L. 104–52, § 4(1)(B), added subsec. (f).
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a)(1)(B). Pub. L. 118–188 substituted “3304(l)(1)” for “3304(f)(1)”.
+
 2004—Subsec. (a)(1). Pub. L. 108–454 designated existing provisions as subpar. (A) and added subpar. (B).
 
 
@@ -2614,7 +2877,7 @@ Subsec. (f). Pub. L. 104–52, § 4(1)(B), added subsec. (f).
 
 
 <a id="section-3330d"></a>
-## § 3330d. Appointment of military and Department of Defense civilian spouses
+## § 3330d. Appointment of military and Department of Defense, Department of State, and intelligence community spouses
 **(a) Definitions.—** In this section:
 
 (1) The term “active duty”—
@@ -2631,9 +2894,31 @@ Subsec. (f). Pub. L. 104–52, § 4(1)(B), added subsec. (f).
 
   (B) does not include the Government Accountability Office.
 
-(3) The term “remote work” refers to a particular type of telework under which an employee is not expected to report to an officially established agency location on a regular and recurring basis.
+(3) The term “covered spouse” means an individual who is married to an individual who—
 
-(4) 11 So in original. Two pars. (4) have been enacted. The term “spouse of a disabled or deceased member of the Armed Forces” means an individual—
+  (A)
+
+    (i) is an employee of the Department of State or an element of the intelligence community; or
+
+    (ii) is a member of the Armed Forces who is assigned to an element of the intelligence community; and
+
+  (B) is transferred in the interest of the Government from one official station within the applicable agency to another within the agency (that is outside of normal commuting distance) for permanent duty.
+
+(4) The term “intelligence community” has the meaning given the term in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim)).
+
+(5) The term “remote work” refers to a work flexibility arrangement under which an employee—
+
+  (A) is not expected to physically report to the location from which the employee would otherwise work, considering the position of the employee; and
+
+  (B) performs the duties and responsibilities of such employee’s position, and other authorized activities, from an approved worksite—
+
+    (i) other than the location from which the employee would otherwise work;
+
+    (ii) that may be inside or outside the local commuting area of the location from which the employee would otherwise work; and
+
+    (iii) that is typically the residence of the employee.
+
+(6) The term “spouse of a disabled or deceased member of the Armed Forces” means an individual—
 
   (A) who is married to a member of the Armed Forces who—
 
@@ -2647,19 +2932,21 @@ Subsec. (f). Pub. L. 104–52, § 4(1)(B), added subsec. (f).
 
     (ii) has not remarried.
 
-(5) The term “telework” has the meaning given the term in section 6501.
+(7) The term “spouse of an employee of the Department of Defense” means an individual who is married to an employee of the Department of Defense who is transferred in the interest of the Government from one official station within the Department to another within the Department (that is outside of normal commuting distance) for permanent duty.
 
-(4) 1 The term “spouse of an employee of the Department of Defense” means an individual who is married to an employee of the Department of Defense who is transferred in the interest of the Government from one official station within the Department to another within the Department (that is outside of normal commuting distance) for permanent duty.
+(8) The term “telework” has the meaning given the term in section 6501.
 
 **(b) Appointment Authority.—** The head of an agency may appoint noncompetitively—
 
 (1) a spouse of a member of the Armed Forces on active duty;
 
-(2) a spouse of a disabled or deceased member of the Armed Forces; or
+(2) a spouse of a disabled or deceased member of the Armed Forces;
 
-(3) 22 So in original. Two pars. (3) have been enacted. a spouse of a member of the Armed Forces on active duty, or a spouse of a disabled or deceased member of the Armed Forces, to a position in which the spouse will engage in remote work.
+(3) a spouse of a member of the Armed Forces on active duty, or a spouse of a disabled or deceased member of the Armed Forces, to a position in which the spouse will engage in remote work;
 
-(3) 2 a spouse of an employee of the Department of Defense.
+(4) a spouse of an employee of the Department of Defense, including to a position in which the spouse will engage in remote work; or
+
+(5) a covered spouse to a position in which the covered spouse will engage in remote work.
 
 **(c) Special Rules Regarding Spouse of a Disabled or Deceased Member of the Armed Forces.—**
 
@@ -2670,41 +2957,83 @@ Subsec. (f). Pub. L. 104–52, § 4(1)(B), added subsec. (f).
 ### Statutory Notes
 
 #### Amendment of Section
-For expiration of amendments by Pub. L. 115–232 and Pub. L. 118–31 and revival of section, see Termination Date of 2018 Amendment and Termination Date of 2023 Amendment notes below.
+For revival of section by Pub. L. 118–159, see Effective and Termination Dates of 2024 Amendment note below.
+
+For expiration of amendments and revival of section by Pub. L. 118–31, see Termination Date of 2023 Amendment note below.
 
 #### Amendments
+2024—Pub. L. 118–159, § 6612(a)(1), (e)(1), temporarily substituted “military and Department of Defense, Department of State, and intelligence community spouses” for “Appointment of military and Department of Defense civilian spouses” in section catchline. See Effective and Termination Dates of 2024 Amendment note below.
+
+Pub. L. 118–159, § 1102(c)(1), amended Pub. L. 118–31, § 1119(a)(2), (3). See 2023 Amendment notes below.
+
+Subsec. (a)(3). Pub. L. 118–159, § 6612(a)(2)(D), (e)(1), temporarily added par. (3) and struck out former par. (3) which defined “remote work”. See Effective and Termination Dates of 2024 Amendment note below.
+
+Subsec. (a)(4). Pub. L. 118–159, § 6612(a)(2)(D), (e)(1), temporarily added par. (4). See Effective and Termination Dates of 2024 Amendment note below. Former par. (4) temporarily redesignated (6).
+
+Subsec. (a)(5). Pub. L. 118–159, § 6612(a)(2)(D), (e)(1), temporarily added par. (5). See Effective and Termination Dates of 2024 Amendment note below. Former par. (5) temporarily redesignated (7) as probable intent.
+
+Subsec. (a)(6). Pub. L. 118–159, § 6612(a)(2)(C), (e)(1), temporarily redesignated par. (4) as (6). See Effective and Termination Dates of 2024 Amendment note below. Former par. (6) temporarily struck out as probable intent.
+
+Pub. L. 118–159, § 6612(a)(2)(B), (e)(1), which directed the temporary striking out of par. (5), was executed by temporarily striking out par. (6) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 118–159, § 1102(c)(1)(A)(i), which retroactively amended Pub. L. 118–31, § 1119(a)(2)(A), so as to redesignate par. (5) as (6). See 2023 Amendment note below and Effective and Termination Dates of 2024 Amendment note below.
+
+Subsec. (a)(7). Pub. L. 118–159, § 6612(a)(2)(A), (e)(1), which directed the temporary redesignation of the second par. (4) relating to a spouse of an employee of the Department of Defense as (7), was executed by temporarily redesignating par. (5) as (7) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 118–159, § 1102(c)(1)(A)(ii), which retroactively amended Pub. L. 118–31, § 1119(a)(2)(B), so as to add such paragraph as par. (5) instead of a second par. (4). See 2023 Amendment note below and Effective and Termination Dates of 2024 Amendment note below.
+
+Subsec. (a)(8). Pub. L. 118–159, § 6612(a)(2)(E), (e)(1), temporarily added par. (8). See Effective and Termination Dates of 2024 Amendment note below.
+
+Subsec. (b)(2). Pub. L. 118–159, § 6612(a)(3)(A), (e)(1), which directed the temporary striking out of “or” at end, could not be executed after the intervening amendment by Pub. L. 118–159, § 1102(c)(1)(B)(ii), which retroactively amended Pub. L. 118–31, § 1119(a)(3)(A), so as to direct the same amendment. See 2023 Amendment note below.
+
+Subsec. (b)(3). Pub. L. 118–159, § 6612(a)(3)(B), (e)(1), which directed the temporary substitution of a semicolon for the period at the end of the first par. (3) relating to a spouse of a member of the Armed Forces on active duty, was executed by temporarily substituting a semicolon for “; or” at the end of the only par. (3), to reflect the probable intent of Congress and the intervening amendments by Pub. L. 118–159, § 1102(c)(1)(B)(iii), (iv), which retroactively amended Pub. L. 118–31, § 1119(a)(3)(B), (C), so as to substitute “; or” for the period at the end of par. (3) and add par. (4) instead of a second par. (3). See 2023 Amendment note below and Effective and Termination Dates of 2024 Amendment note below.
+
+Subsec. (b)(4). Pub. L. 118–159, § 6612(a)(3)(D), (e)(1), temporarily inserted “, including to a position in which the spouse will engage in remote work” after “Department of Defense” and substituted “; or” for period at end. See Effective and Termination Dates of 2024 Amendment note below.
+
+Pub. L. 118–159, § 6612(a)(3)(C), (e)(1), which directed the temporary redesignation of the second par. (3) relating to a spouse of an employee of the Department of Defense as (4), could not be executed after the intervening amendment by Pub. L. 118–159, § 1102(c)(1)(B)(iv), which retroactively amended Pub. L. 118–31, § 1119(a)(3)(C), so as to add such paragraph as par. (4) instead of par. (3). See 2023 Amendment note below.
+
+Subsec. (b)(5). Pub. L. 118–159, § 6612(a)(3)(E), (e)(1), temporarily added par. (5). See Effective and Termination Dates of 2024 Amendment note below.
+
 2023—Pub. L. 118–31, § 1119(a)(1), (d), temporarily amended section catchline, inserting “and Department of Defense civilian” after “military”. See Termination Date of 2023 Amendment note below.
 
-Subsec. (a)(3). Pub. L. 118–31, § 1112(a)(1)(B), added par. (3). Former par. (3) redesignated (4) defining spouse of a disabled or deceased member of the Armed Forces.
+Subsec. (a)(3), (4). Pub. L. 118–31, § 1112(a)(1)(A), (B), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (a)(4). Pub. L. 118–31, § 1119(a)(2), (d), temporarily added par. (4), defining spouse of an employee of the Department of Defense, at end of subsec. (a). See Termination Date of 2023 Amendment note below.
+Subsec. (a)(5). Pub. L. 118–31, § 1119(a)(2)(B), (d), as amended by Pub. L. 118–159, § 1102(c)(1)(A)(ii), temporarily added par. (5). See Termination Date of 2023 Amendment note below. Former par. (5) temporarily redesignated (6).
 
-Pub. L. 118–31, § 1112(a)(1)(A) redesignated par. (3) as (4) defining spouse of a disabled or deceased member of the Armed Forces.
+Pub. L. 118–31, § 1112(a)(1)(C), added par. (5).
 
-Subsec. (a)(5). Pub. L. 118–31, § 1112(a)(1)(C), added par. (5).
+Subsec. (a)(6). Pub. L. 118–31, § 1119(a)(2)(A), (d), as amended by Pub. L. 118–159, § 1102(c)(1)(A)(i), temporarily redesignated par. (5) as (6). See Termination Date of 2023 Amendment note below.
 
-Subsec. (b)(3). Pub. L. 118–31, § 1119(a)(3), (d), temporarily added par. (3) relating to a spouse of an employee of the Department of Defense. See Termination Date of 2023 Amendment note below.
+Subsec. (b)(2). Pub. L. 118–31, § 1119(a)(3)(A), (d), as amended by Pub. L. 118–159, § 1102(c)(1)(B)(ii), temporarily struck out “or” at end. See Termination Date of 2023 Amendment note below.
 
-Pub. L. 118–31, § 1112(a)(2), added par. (3) relating to appointment of a spouse to a position in which the spouse will engage in remote work.
+Subsec. (b)(3). Pub. L. 118–31, § 1119(a)(3)(B), (d), as amended by Pub. L. 118–159, § 1102(c)(1)(B)(iii), temporarily substituted “; or” for period at end. See Termination Date of 2023 Amendment note below.
+
+Pub. L. 118–31, § 1112(a)(2), added par. (3).
+
+Subsec. (b)(4). Pub. L. 118–31, § 1119(a)(3)(C), (d), as amended by Pub. L. 118–159, § 1102(c)(1)(B)(iv), temporarily added par. (4). See Termination Date of 2023 Amendment note below.
 
 Subsec. (c)(1). Pub. L. 118–31, § 1112(a)(3), substituted “subsection (a)(4)” for “subsection (a)(3)”.
 
-2018—Pub. L. 115–232, § 573(c), (e), temporarily amended section catchline generally, substituting “Appointment of military spouses” for “Appointment of certain military spouses”. See Termination Date of 2018 Amendment note below.
+2018—Pub. L. 115–232, § 573(c), amended section catchline generally, substituting “Appointment of military spouses” for “Appointment of certain military spouses”.
 
-Subsec. (a)(3) to (6). Pub. L. 115–232, § 573(a)(1), (e), temporarily redesignated par. (6) as (3) and temporarily struck out former pars. (3) to (5) which defined geographic area of the permanent duty station, permanent change of station, and relocating spouse of a member of the Armed Forces, respectively. See Termination Date of 2018 Amendment note below.
+Subsec. (a)(3) to (6). Pub. L. 115–232, § 573(a)(1), redesignated par. (6) as (3) and struck out former pars. (3) to (5) which defined geographic area of the permanent duty station, permanent change of station, and relocating spouse of a member of the Armed Forces, respectively.
 
-Subsecs. (b) to (d). Pub. L. 115–232, § 573(a)(2)–(4), (e), temporarily added subsec. (b) relating to appointment authority, temporarily redesignated subsec. (d) as (c) and substituted “subsection (a)(3)” for “subsection (a)(6)” in par. (1), and temporarily struck out former subsecs. (b) and (c) relating to appointment authority and special rules regarding relocating spouse, respectively. See Termination Date of 2018 Amendment note below.
+Subsecs. (b) to (d). Pub. L. 115–232, § 573(a)(2)–(4), added subsec. (b), redesignated subsec. (d) as (c) and substituted “subsection (a)(3)” for “subsection (a)(6)” in par. (1), and struck out former subsecs. (b) and (c) relating to appointment authority and special rules regarding relocating spouse, respectively.
 
 2016—Subsec. (c)(3). Pub. L. 114–328 added par. (3).
 
+#### Effective and Termination Dates of 2024 Amendment
+Pub. L. 118–159, div. A, title XI, § 1102(c)(2), Dec. 23, 2024, 138 Stat. 2087, provided that: “The amendments made by paragraph (1) [amending section 1119(a)(2), (3) of Pub. L. 118–31, which had amended this section] shall take effect as if included in the enactment of section 1119 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31).”
+
+Pub. L. 118–159, div. F, title LXVI, § 6612(e), Dec. 23, 2024, 138 Stat. 2505, provided that: “On the date that is 5 years after the date of the enactment of this Act [Dec. 23, 2024]— “(1) [section 3330d of title 5](./chapter-033-examination-selection-and-placement.md#section-3330d), United States Code, as amended by subsection (a), is amended to read as it read on the day before the date of the enactment of this Act; and “(2) the item for such section in the table of sections for subchapter I of chapter 33 [probably should be “for chapter 33”] of title 5, United States Code [[5 U.S.C. 3301](./chapter-033-examination-selection-and-placement.md#section-3301) prec.], as amended by subsection (b), is amended to read as it read on the day before the date of the enactment of this Act.”
+
 #### Termination Date of 2023 Amendment
-Pub. L. 118–31, div. A, title XI, § 1119(d), Dec. 22, 2023, 137 Stat. 435, provided that: “Effective on December 31, 2028— “(1) the authority provided by this section [amending this section and enacting provisions set out as a note below], and the amendments made by this section [amending this section], shall expire; and “(2) the provisions of [section 3330d of title 5](./chapter-033-examination-selection-and-placement.md#section-3330d), United States Code, amended or repealed by this section are restored or revived as if this section had not been enacted.”
+Pub. L. 118–31, div. A, title XI, § 1119(d), Dec. 22, 2023, 137 Stat. 435, as amended by Pub. L. 118–159, div. A, title XI, § 1102(b)(1), Dec. 23, 2024, 138 Stat. 2086, provided that: “Effective on December 31, 2033— “(1) the authority provided by this section [amending this section and enacting provisions set out as a note below], and the amendments made by this section [amending this section], shall expire; and “(2) the provisions of [section 3330d of title 5](./chapter-033-examination-selection-and-placement.md#section-3330d), United States Code, amended or repealed by this section are restored or revived as if this section had not been enacted.”
 
 #### Termination Date of 2018 Amendment
-Pub. L. 115–232, div. A, title V, § 573(e), Aug. 13, 2018, 132 Stat. 1779, as amended by Pub. L. 117–263, div. A, title XI, § 1111(a), Dec. 23, 2022, 136 Stat. 2820, provided that: “Effective on December 31, 2028— “(1) the authority provided by this section [amending this section and enacting provisions set out as a note below], and the amendments made by this section [amending this section], shall expire; and “(2) the provisions of [section 3330d of title 5](./chapter-033-examination-selection-and-placement.md#section-3330d), United States Code, amended or repealed by such section are restored or revived as if such section had not been enacted.”
+Pub. L. 115–232, div. A, title V, § 573(e), Aug. 13, 2018, 132 Stat. 1779, as amended by Pub. L. 117–263, div. A, title XI, § 1111(a), Dec. 23, 2022, 136 Stat. 2820, which provided that, effective on Dec. 31, 2028, the authority provided by and the amendments made by section 573 of Pub. L. 115–232 would expire, and the provisions of this section amended or repealed by section 573 of Pub. L. 115–232 would be restored or revived as if such section had not been enacted, was repealed by Pub. L. 118–159, div. A, title XI, § 1102(a), Dec. 23, 2024, 138 Stat. 2086.
 
 #### Regulations
 Pub. L. 112–239, div. A, title V, § 566(b), Jan. 2, 2013, 126 Stat. 1751, provided that: “Not later than 180 after the date of the enactment of this Act [Jan. 2, 2013], the Director of the Office of Personnel Management shall amend section 315.612 of title 5, Code of Federal Regulations (relating to noncompetitive appointment of certain military spouses), in accordance with the amendment made by subsection (a) [enacting this section] and promulgate or amend any other regulations necessary to carry out the amendment made by subsection (a).”
+
+#### Rule of Construction
+Pub. L. 118–159, div. F, title LXVI, § 6612(d), Dec. 23, 2024, 138 Stat. 2505, provided that: “Nothing in this section [amending this section and enacting provisions set out as a note above] or an amendment made by this section shall be construed to revoke or diminish any right of an individual provided by title 5, United States Code.”
 
 #### OPM Limitation and Reports
 Pub. L. 118–31, div. A, title XI, § 1119(c), Dec. 22, 2023, 137 Stat. 434, provided that: “(1) Relocating spouses.—With respect to the noncompetitive appointment of a relocating spouse of an employee of the Department of Defense under paragraph (3) of [section 3330d(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3330d/b&num=0&edition=prelim), United States Code, as added by subsection (a), the Director of the Office of Personnel Management shall—“(A) monitor the number of those appointments; “(B) require the head of each agency with the authority to make those appointments under that provision to submit to the Director an annual report on those appointments, including information on the number of individuals so appointed, the types of positions filled, and the effectiveness of the authority for those appointments; and “(C) not later than 18 months after the date of enactment of this Act [Dec. 22, 2023], submit, to the Committees on Armed Services and Homeland Security and Governmental Affairs of the Senate and the Committees on Armed Services and Oversight and Accountability of the House of Representatives, a report on the use and effectiveness of the authority described in subparagraph (B). “(2) Non-relocating spouses.—With respect to the noncompetitive appointment of a spouse of an employee of the Department of Defense other than a relocating spouse described in paragraph (1), the Director of the Office of Personnel Management—“(A) shall treat the spouse as a relocating spouse under paragraph (1); and “(B) may limit the number of those appointments.”
@@ -3099,6 +3428,13 @@ The date of enactment of the PLUM Act of 2022, referred to in subsecs. (b) and (
 Pub. L. 117–263, div. E, title LIII, § 5322(b), Dec. 23, 2022, 136 Stat. 3259, provided that: “(1) Definitions.—In this subsection, the terms ‘agency’, ‘covered website’, ‘Director’, and ‘policy and supporting position’ have the meanings given those terms in [section 3330f of title 5](./chapter-033-examination-selection-and-placement.md#section-3330f), United States Code, as added by subsection (a). “(2) Gao review and report.—Not later than 1 year after the date on which the Director establishes the covered website, the Comptroller General of the United States shall conduct a review of, and issue a briefing or report on, the implementation of this subtitle [subtitle B (§§ 5321, 5322) of title LIII of div. E of Pub. L. 117–263, enacting this section and provisions set out as a note under [section 101 of this title](./chapter-001-organization.md#section-101)] and the amendments made by this subtitle, which shall include—“(A) the quality of data required to be collected and whether the data is complete, accurate, timely, and reliable; “(B) any challenges experienced by agencies in implementing this subtitle and the amendments made by this subtitle; and “(C) any suggestions or modifications to enhance compliance with this subtitle and the amendments made by this subtitle, including best practices for agencies to follow. “(3) Sunset of plum book.—Beginning on January 1, 2026—“(A) the covered website shall serve as the public directory for policy and supporting positions in the Government; and “(B) the publication entitled ‘United States Government Policy and Supporting Positions’, commonly referred to as the ‘Plum Book’, shall no longer be issued or published. “(4) Funding.—“(A) In general.—No additional amounts are authorized to be appropriated to carry out this subtitle or the amendments made by this subtitle. “(B) Other funding.—The Director shall carry out this subtitle and the amendments made by this subtitle using amounts otherwise available to the Director.”
 
 
+<a id="section-3330g"></a>
+## § 3330g. DOD use of shared talent pools and structured assessments
+**(a) Shared Talent Pools.—** The Department of Defense may share certificates of eligibles and curated prospect pools within the Department. Certificates issued under this authority shall remain valid for not less than one year from the date of issuance, subject to agency-specific qualification checks.
+
+**(b) Structured Assessments.—** The Department of Defense shall use validated structured interviews, technical evaluations, or other skills-based assessments as part of the hiring process for competitive service positions at the Department, in accordance with regulations prescribed by the Office of Personnel Management.
+
+
 <a id="section-3331"></a>
 ## § 3331. Oath of office
 
@@ -3383,7 +3719,9 @@ George W. Bush.
 Provisions relating to the exercise of Presidential authorities to designate an order of succession for executive agencies and offices are contained in the following:
 
 #### Council on Environmental Quality
-Memorandum of President of the United States, Sept. 6, 2019, 84 F.R. 48227, as corrected Sept. 16, 2019, 84 F.R. 48549.
+Memorandum of President of the United States, Jan. 3, 2025, 90 F.R. 2593, revoked by Ex. Ord. No. 14148, § 2(ppp), Jan. 20, 2025, 90 F.R. 8240.
+
+Memorandum of President of the United States, Sept. 6, 2019, 84 F.R. 48227, as corrected Sept. 16, 2019, 84 F.R. 48549, revoked by Memorandum of President of the United States, § 3, Jan. 3, 2025, 90 F.R. 2593.
 
 Memorandum of President of the United States, Jan. 13, 2017, 82 F.R. 7627, revoked by Memorandum of President of the United States, § 3, Sept. 6, 2019, 84 F.R. 48227.
 
@@ -3392,7 +3730,9 @@ Memorandum of President of the United States, Mar. 13, 2015, 80 F.R. 14289, revo
 Memorandum of President of the United States, Sept. 18, 2008, 73 F.R. 54487, revoked by Memorandum of President of the United States, § 3, Mar. 13, 2015, 80 F.R. 14289.
 
 #### Department of Agriculture
-Ex. Ord. No. 13612, May 21, 2012, 77 F.R. 31153.
+Ex. Ord. No. 14134, Jan. 3, 2025, 90 F.R. 2577, revoked by Ex. Ord. No. 14148, § 2(jjj), Jan. 20, 2025, 90 F.R. 8240.
+
+Ex. Ord. No. 13612, May 21, 2012, 77 F.R. 31153, revoked by Ex. Ord. No. 14134, § 3, Jan. 3, 2025, 90 F.R. 2578.
 
 Ex. Ord. No. 13542, May 13, 2010, 75 F.R. 27921, revoked by Ex. Ord. No. 13612, § 3, May 21, 2012, 77 F.R. 31154.
 
@@ -3422,7 +3762,7 @@ Ex. Ord. No. 13461, Feb. 15, 2008, 73 F.R. 9437.
 Ex. Ord. No. 13250, Dec. 28, 2001, 67 F.R. 1597, as amended by Ex. Ord. No. 13261, § 4(h), Mar. 19, 2002, 67 F.R. 13244, revoked by Ex. Ord. No. 13461, § 4, Feb. 15, 2008, 73 F.R. 9438.
 
 #### Department of Homeland Security
-For order of succession within the Department of Homeland Security, see Ex. Ord. No. 13286, § 88, Feb. 28, 2003, 68 F.R. 10632, as amended, set out as a note under [section 111 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section111&num=0&edition=prelim), Domestic Security.
+Ex. Ord. No. 14135, Jan. 3, 2025, 90 F.R. 2579, revoked by Ex. Ord. No. 14148, § 2(kkk), Jan. 20, 2025, 90 F.R. 8240.
 
 #### Department of Housing and Urban Development
 Ex. Ord. No. 13243, Dec. 18, 2001, 66 F.R. 66262, as amended by Ex. Ord. No. 13261, § 4(c), Mar. 19, 2002, 67 F.R. 13244.
@@ -3430,7 +3770,9 @@ Ex. Ord. No. 13243, Dec. 18, 2001, 66 F.R. 66262, as amended by Ex. Ord. No. 132
 Ex. Ord. No. 11274, Mar. 30, 1966, 31 F.R. 5243, as amended by Pub. L. 101–509, title V, § 529 [title I, § 112(c)], Nov. 5, 1990, 104 Stat. 1427, 1454, revoked by Ex. Ord. No. 13243, § 4, Dec. 18, 2001, 66 F.R. 66263.
 
 #### Department of Justice
-Ex. Ord. No. 13787, Mar. 31, 2017, 82 F.R. 16723.
+Ex. Ord. No. 14136, Jan. 3, 2025, 90 F.R. 2581, revoked by Ex. Ord. No. 14148, § 2(lll), Jan. 20, 2025, 90 F.R. 8240.
+
+Ex. Ord. No. 13787, Mar. 31, 2017, 82 F.R. 16723, revoked by Ex. Ord. No. 14136, § 3, Jan. 3, 2025, 90 F.R. 2581.
 
 Ex. Ord. No. 13775, Feb. 9, 2017, 82 F.R. 10697, revoked by Ex. Ord. No. 13787, § 3, Mar. 31, 2017, 82 F.R. 16723.
 
@@ -3471,7 +3813,9 @@ Ex. Ord. No. 11487, Oct. 6, 1969, 34 F.R. 15593, as amended by Pub. L. 101–509
 Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929.
 
 #### Department of the Treasury
-Ex. Ord. No. 13735, Aug. 12, 2016, 81 F.R. 54709.
+Ex. Ord. No. 14137, Jan. 3, 2025, 90 F.R. 2583, revoked by Ex. Ord. No. 14148, § 2(mmm), Jan. 20, 2025, 90 F.R. 8240.
+
+Ex. Ord. No. 13735, Aug. 12, 2016, 81 F.R. 54709, revoked by Ex. Ord. No. 14137, § 3, Jan. 3, 2025, 90 F.R. 2583.
 
 Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, as amended by Ex. Ord. No. 13261, § 4(f), Mar. 19, 2002, 67 F.R. 13244, revoked by Ex. Ord. No. 13735, § 4, Aug. 12, 2016, 81 F.R. 54709.
 
@@ -3534,12 +3878,19 @@ Memorandum of President of the United States, Dec. 23, 2016, 81 F.R. 96335.
 Memorandum of President of the United States, Aug. 12, 2016, 81 F.R. 54717.
 
 #### Office of Management and Budget
-Ex. Ord. No. 13615, May 21, 2012, 77 F.R. 31159.
+Ex. Ord. No. 14138, Jan. 3, 2025, 90 F.R. 2585, revoked by Ex. Ord. No. 14148, § 2(nnn), Jan. 20, 2025, 90 F.R. 8240.
+
+Ex. Ord. No. 13615, May 21, 2012, 77 F.R. 31159, revoked by Ex. Ord. No. 14138, § 3, Jan. 3, 2025, 90 F.R. 2585.
 
 Ex. Ord. No. 13370, Jan. 13, 2005, 70 F.R. 3137, revoked by Ex. Ord. No. 13615, § 3, May 21, 2012, 77 F.R. 31159.
 
+#### Office of the National Cyber Director
+Ex. Ord. No. 14139, Jan. 3, 2025, 90 F.R. 2587, revoked by Ex. Ord. No. 14148, § 2(ooo), Jan. 20, 2025, 90 F.R. 8240.
+
 #### Office of Personnel Management
-Memorandum of President of the United States, Dec. 10, 2020, 85 F.R. 81775.
+Memorandum of President of the United States, Jan. 3, 2025, 90 F.R. 2595, revoked by Ex. Ord. No. 14148, § 2(qqq), Jan. 20, 2025, 90 F.R. 8240.
+
+Memorandum of President of the United States, Dec. 10, 2020, 85 F.R. 81775, revoked by Memorandum of President of the United States, § 3, Jan. 3, 2025, 90 F.R. 2595.
 
 Memorandum of President of the United States, Aug. 12, 2016, 81 F.R. 54715, revoked by Memorandum of President of the United States, § 3, Dec. 10, 2020, 85 F.R. 81775.
 
@@ -3550,7 +3901,9 @@ Memorandum of President of the United States, May 5, 2005, 70 F.R. 28773, supers
 Memorandum of President of the United States, Mar. 11, 2003, 68 F.R. 12281, superseded by Memorandum of President of the United States, May 5, 2005, 70 F.R. 28773.
 
 #### Office of Science and Technology Policy
-Memorandum of President of the United States, Jan. 13, 2017, 82 F.R. 7625.
+Memorandum of President of the United States, Jan. 3, 2025, 90 F.R. 2597, revoked by Ex. Ord. No. 14148, § 2(rrr), Jan. 20, 2025, 90 F.R. 8240.
+
+Memorandum of President of the United States, Jan. 13, 2017, 82 F.R. 7625, revoked by Memorandum of President of the United States, § 3, Jan. 3, 2025, 90 F.R. 2597.
 
 Memorandum of President of the United States, Aug. 5, 2009, 74 F.R. 39871, revoked by Memorandum of President of the United States, § 3, Jan. 13, 2017, 82 F.R. 7625.
 
@@ -3587,14 +3940,21 @@ Memorandum of President of the United States, Oct. 17, 2008, 73 F.R. 62845, revo
 
 Memorandum of President of the United States, Apr. 17, 2006, 71 F.R. 20333, superseded by Memorandum of President of the United States, § 3, Oct. 17, 2008, 73 F.R. 62845.
 
+#### United States Agency for Global Media
+Memorandum of President of the United States, Jan. 3, 2025, 90 F.R. 2599, revoked by Ex. Ord. No. 14148, § 2(sss), Jan. 20, 2025, 90 F.R. 8240.
+
 #### United States Agency for International Development
-Memorandum of President of the United States, Dec. 9, 2008, 73 F.R. 75535.
+Memorandum of President of the United States, Jan. 3, 2025, 90 F.R. 2601, revoked by Ex. Ord. No. 14148, § 2(ttt), Jan. 20, 2025, 90 F.R. 8240.
+
+Memorandum of President of the United States, Dec. 9, 2008, 73 F.R. 75535, revoked by Memorandum of President of the United States, § 3, Jan. 3, 2025, 90 F.R. 2601.
 
 #### United States Section, International Boundary and Water Commission, United States and Mexico
 Memorandum of President of the United States, Aug. 31, 2009, 74 F.R. 45533.
 
 #### United States International Development Finance Corporation
-Memorandum of President of the United States, Jan. 8, 2021, 86 F.R. 2949.
+Memorandum of President of the United States, Jan. 3, 2025, 90 F.R. 2603, revoked by Ex. Ord. No. 14148, § 2(uuu), Jan. 20, 2025, 90 F.R. 8240.
+
+Memorandum of President of the United States, Jan. 8, 2021, 86 F.R. 2949, revoked by Memorandum of President of the United States, § 3, Jan. 3, 2025, 90 F.R. 2603.
 
 
 <a id="section-3346"></a>
@@ -3911,8 +4271,9 @@ Section effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101
 
 <a id="section-3361"></a>
 ## § 3361. Promotion; competitive service; examination
+**(a) In General.—** An individual may be promoted in the competitive service only if he has passed an examination or is specifically excepted from examination under [section 3302 of this title](./chapter-033-examination-selection-and-placement.md#section-3302). This section does not take from the President any authority conferred by [section 3301 of this title](./chapter-033-examination-selection-and-placement.md#section-3301) that is consistent with the provisions of this title governing the competitive service.
 
-An individual may be promoted in the competitive service only if he has passed an examination or is specifically excepted from examination under [section 3302 of this title](./chapter-033-examination-selection-and-placement.md#section-3302). This section does not take from the President any authority conferred by [section 3301 of this title](./chapter-033-examination-selection-and-placement.md#section-3301) that is consistent with the provisions of this title governing the competitive service.
+**(b) DOD Promotions.—** Promotions in the competitive service within the Department of Defense may be made based on demonstrated skills and qualifications without regard to minimum time-in-grade requirements, subject to agency policies and applicable merit system principles.
 
 ### Statutory Notes
 
@@ -3924,6 +4285,9 @@ An individual may be promoted in the competitive service only if he has passed a
 The words “That after the expiration of six months from the passage of this act” are omitted as executed. The words “in the competitive service” are substituted for “in either of the said classes now existing, or that may be arranged hereunder pursuant to said rules” because of the definition of “competitive service” in section 2102. In the second sentence, the words “the provisions of this title governing the competitive service” are substituted for “this act”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+2025—Pub. L. 119–60 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 
 <a id="section-3362"></a>

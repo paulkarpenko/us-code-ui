@@ -447,7 +447,7 @@ This Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known
 
 **(o) Coordination with affected local governments** Each project and activity carried out pursuant to this section shall be coordinated with affected local governments in a manner that is consistent with [section 1712(c)(9) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1712/c/9&num=0&edition=prelim).
 
-**(p) Authorization of appropriations** There are authorized to be appropriated to carry out this section for each of fiscal years 2021 through 2025—
+**(p) Authorization of appropriations** There are authorized to be appropriated to carry out this section for each of fiscal years 2021 through 2030—
 
 (1) $2,500,000 to the Secretary of the Army, acting through the Chief of Engineers; and
 
@@ -459,6 +459,8 @@ This Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(2), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, § 2, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2024—Subsec. (p). Pub. L. 118–198 substituted “2030” for “2025” in introductory provisions.
+
 2020—Subsec. (c)(2)(A). Pub. L. 116–188, § 105(1)(A), added cl. (i) and redesignated former cls. (i) and (ii) as (ii) and (iii), respectively.
 
 Subsec. (c)(2)(B) to (D). Pub. L. 116–188, § 105(1)(B), (C), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
@@ -675,7 +677,7 @@ Section was formerly classified to [section 449 of Title 7](https://uscode.house
 
 **(b) Establishment**
 
-(1) **In general** — The Secretaries shall establish within the United States Fish and Wildlife Service a task force, to be known as the “Chronic Wasting Disease Task Force” (referred to in this subsection as the “Task Force”) after the completion of the study required by subsection (c).
+(1) **In general** — The Secretaries shall establish within the United States Fish and Wildlife Service a task force, to be known as the “Chronic Wasting Disease Task Force” (referred to in this subsection as the “Task Force”).
 
 (2) **Duties** — The Task Force shall—
 
@@ -731,7 +733,7 @@ Section was formerly classified to [section 449 of Title 7](https://uscode.house
 
 (5) **Date of initial appointment**
 
-  (A) *In general* — The members of the Task Force shall be appointed not later than 180 days after the date on which the study is completed under subsection (c).
+  (A) *In general* — The members of the Task Force shall be appointed not later than 90 days after December 23, 2024. The efforts of the Task Force shall not be contingent on the completion of the study required by subsection (c).
 
   (B) *Notification* — On appointment of the members of the Task Force, the Co-Chairs of the Task Force shall notify the Chairs and Ranking Members of the Committees on Environment and Public Works and Agriculture, Nutrition, and Forestry of the Senate and Natural Resources and Agriculture of the House of Representatives.
 
@@ -841,11 +843,20 @@ Section was formerly classified to [section 449 of Title 7](https://uscode.house
 
 **(d) Authorization of appropriations** There are authorized to be appropriated to carry out this section—
 
-(1) for the period of fiscal years 2021 through 2025, $5,000,000 to the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, to carry out administrative activities under subsection (b);
+(1) for the period of fiscal years 2021 through 2030, $5,000,000 to the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, to carry out administrative activities under subsection (b);
 
 (2) for fiscal year 2021, $1,200,000 to the Secretary of the Interior, acting through the Director of the United States Geological Survey, to carry out activities to fund research under subsection (c); and
 
 (3) for fiscal year 2021, $1,200,000 to the Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, to carry out activities to fund research under subsection (c).
+
+### Statutory Notes
+
+#### Amendments
+2024—Subsec. (b)(1). Pub. L. 118–198, § 103(1)(A), struck out “after the completion of the study required by subsection (c)” before period at end.
+
+Subsec. (b)(5)(A). Pub. L. 118–198, § 103(1)(B), substituted “90 days after December 23, 2024. The efforts of the Task Force shall not be contingent on the completion of the study required by subsection (c)” for “180 days after the date on which the study is completed under subsection (c)”.
+
+Subsec. (d)(1). Pub. L. 118–198, § 103(2), substituted “2030” for “2025”.
 
 
 <a id="section-667i"></a>
@@ -1491,6 +1502,7 @@ Pub. L. 102–154, title III, § 319, Nov. 13, 1991, 105 Stat. 1036, provided th
 | Innoko National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(3), Dec. 2, 1980, 94 Stat. 2386. |
 | Izembek National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 303(3), Dec. 2, 1980, 94 Stat. 2390; Pub. L. 111–11, title VI, §§ 6401–6406, Mar. 30, 2009, 123 Stat. 1177–1182. |
 | James Campbell National Wildlife Refuge, Hawaii.—Pub. L. 109–225, May 25, 2006, 120 Stat. 378. |
+| Jocelyn Nungaray National Wildlife Refuge, Texas.—Ex. Ord. No. 14229, Mar. 4, 2025, 90 F.R. 11585; Pub. L. 119–30, July 24, 2025, 139 Stat. 473. |
 | John H. Chafee National Wildlife Refuge (former Pettaquamscutt Cove National Wildlife Refuge), Rhode Island.—Pub. L. 100–610, title II, Nov. 5, 1988, 102 Stat. 3176; Pub. L. 102–212, title II, § 202, Dec. 11, 1991, 105 Stat. 1660; Pub. L. 104–212, title II, Oct. 1, 1996, 110 Stat. 3014; Pub. L. 106–53, title V, § 565(c), Aug. 17, 1999, 113 Stat. 367. |
 | John Heinz National Wildlife Refuge at Tinicum (former Tinicum National Environmental Center), Pennsylvania.—Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 995; Pub. L. 103–340, § 7, formerly § 6, Oct. 6, 1994, 108 Stat. 3120, renumbered § 7, Pub. L. 106–369, § 9(a), Oct. 27, 2000, 114 Stat. 1419; Pub. L. 109–166, § 4, Jan. 10, 2006, 119 Stat. 3577. |
 | Kanuti National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(4), Dec. 2, 1980, 94 Stat. 2386. |

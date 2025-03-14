@@ -137,6 +137,9 @@ Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided th
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under [section 773 of this title](./chapter-010-northern-pacific-halibut-fishing.md#section-773).
 
+#### Short Title of 2025 Amendment
+Pub. L. 118–229, § 1, Jan. 4, 2025, 138 Stat. 2824, provided that: “This Act [amending [section 1861a of this title](./chapter-038-fishery-conservation-and-management.md#section-1861a)] may be cited as the ‘Fishery Improvement to Streamline untimely regulatory Hurdles post Emergency Situation Act’ or the ‘FISHES Act’.”
+
 #### Short Title of 2022 Amendment
 Pub. L. 117–328, div. S, title I, § 101, Dec. 29, 2022, 136 Stat. 5259, provided that: “This title [amending sections 1802, 1826, and 1857 of this title and enacting provisions set out as a note under [section 1862 of this title](./chapter-038-fishery-conservation-and-management.md#section-1862)] may be cited as the ‘Driftnet Modernization and Bycatch Reduction Act’.”
 
@@ -425,7 +428,7 @@ As used in this chapter, unless the context otherwise requires—
 
 (2) The term “bycatch” means fish which are harvested in a fishery, but which are not sold or kept for personal use, and includes economic discards and regulatory discards. Such term does not include fish released alive under a recreational catch and release fishery management program.
 
-(3) The term “charter fishing” means fishing from a vessel carrying a passenger for hire (as defined in [section 2101(30) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/30&num=0&edition=prelim)) who is engaged in recreational fishing.
+(3) The term “charter fishing” means fishing from a vessel carrying a passenger for hire (as defined in [section 2101 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101&num=0&edition=prelim)) who is engaged in recreational fishing.
 
 (4) The term “commercial fishing” means fishing in which the fish harvested, either in whole or in part, are intended to enter commerce or enter commerce through sale, barter or trade.
 
@@ -626,6 +629,8 @@ In par. (49), “[section 70502(c) of title 46](https://uscode.house.gov/view.xh
 Pub. L. 102–251, § 301(b), which directed amendment of this section by adding a new par. (24) defining “special areas” and redesignating former pars. (24) to (32) as (25) to (33), respectively, was to be effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, but will not be executed, to reflect the probable intent of Congress, because the amendments would be inconsistent with the amendments by Pub. L. 104–297 which added par. (36) (now par. (41)) which is substantially identical to the par. (24) added by Pub. L. 102–251, made successive redesignations of pars. (2) to (44), and added and amended various other pars. See 1996 Amendment notes below and section 308 of Pub. L. 102–251, set out as an Effective Date of 1992 Amendment note under [section 773 of this title](./chapter-010-northern-pacific-halibut-fishing.md#section-773).
 
 #### Amendments
+2025—Par. (3). Pub. L. 119–60 substituted “2101 of title 46” for “2101(30) of title 46”.
+
 2022—Par. (25). Pub. L. 117–328 inserted “, or with a mesh size of 14 inches or greater,” after “kilometers or more”.
 
 2018—Par. (3). Pub. L. 115–232 substituted “section 2101(30)” for “section 2101(21a)”.
@@ -5689,19 +5694,31 @@ Pub. L. 102–582, title II, § 202, Nov. 2, 1992, 106 Stat. 4905, provided that
 
     (vii) Other economic impacts.
 
-  (D) *Spend plans* — To receive an allocation from funds available under paragraph (9), a requester with an affirmative fishery resource disaster determination shall submit a spend plan to the Secretary, not more than 120 days after receiving notification that funds are available, that shall include the following information, if applicable:
+  (D) *Spend plans*
 
-    (i) Objectives and outcomes, with an emphasis on addressing the factors contributing to the fishery resource disaster and minimizing future uninsured losses, if applicable.
+    (i) *In general* — To receive an allocation from funds available under paragraph (9), a requester with an affirmative fishery resource disaster determination shall submit a spend plan to the Secretary, not more than 120 days after receiving notification that funds are available, that shall include the following information, if applicable:
 
-    (ii) Statement of work.
+      (I) Objectives and outcomes, with an emphasis on addressing the factors contributing to the fishery resource disaster and minimizing future uninsured losses, if applicable.
 
-    (iii) Budget details.
+      (II) Statement of work.
+
+      (III) Budget details.
+
+    (ii) *Review*
+
+      (I) *In general* — The Secretary shall review a spend plan submitted under clause (i) to determine if it is complete and provide notice within 10 days.
+
+      (II) *Incomplete spend plan* — If the Secretary determines that a spend plan submitted under clause (i) is not complete, when providing the notice required by subclause (I), the Secretary shall provide a detailed description of the information that is necessary for the spend plan to be determined complete.
 
   (E) *Regional contact* — If so requested, the Secretary shall provide a regional contact within the National Oceanic and Atmospheric Administration to facilitate review of spend plans and disbursal of funds.
 
   (F) *Disbursal of funds*
 
-    (i) *Availability* — Funds shall be made available to grantees not later than 90 days after the date the Secretary receives a complete spend plan.
+    (i) *Availability*
+
+      (I) *Timeline* — Funds shall be made available to grantees not later than 90 days after the date the Secretary receives a complete spend plan.
+
+      (II) *Review of completed spend plan and apportionment of funds* — If so requested, the Director of the Office of Management and Budget may review a completed spend plan concurrently with the Secretary. The Director of the Office of Management and Budget may not delay the timeline described in subclause (I).
 
     (ii) *Method* — The Secretary may provide an allocation of funds under this subsection in the form of a grant, direct payment, cooperative agreement, loan, or contract.
 
@@ -5897,6 +5914,10 @@ In subsecs. (b)(1)(C), (c)(1)(C), (2), and (d)(2), “[section 53735 of title 46
 A prior section 312 of Pub. L. 94–265, title III, Apr. 13, 1976, 90 Stat. 359, was set out as an Effective Date note under [section 1857 of this title](./chapter-038-fishery-conservation-and-management.md#section-1857), prior to being amended generally by Pub. L. 104–297.
 
 #### Amendments
+2025—Subsec. (a)(6)(D). Pub. L. 118–229, § 2(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) related to spend plans.
+
+Subsec. (a)(6)(F)(i). Pub. L. 118–229, § 2(2), amended cl. (i) generally. Prior to amendment, text read as follows: “Funds shall be made available to grantees not later than 90 days after the date the Secretary receives a complete spend plan.”
+
 2022—Subsec. (a). Pub. L. 117–328 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to fisheries disaster relief.
 
 2007—Subsec. (a)(1)(B). Pub. L. 109–479, § 112(a)(1), substituted “measures, including regulatory restrictions (including those imposed as a result of judicial action) imposed to protect human health or the marine environment;” for “measures;”.

@@ -158,6 +158,8 @@ The assimilation is made in general terms, rather than by reference to the appli
 
 **(b)** The Coast Guard may purchase uniform clothing for sale to enlisted personnel of the Coast Guard. The actual cost of the clothing thus sold to enlisted personnel may be withheld from their pay.
 
+**(c)** The Coast Guard may provide a cash allowance, in such amount as the Secretary shall determine by policy, to be paid to pregnant officer personnel for the purchase of maternity-related uniform items, if such uniform items are not so furnished to the member by the Coast Guard.
+
 ### Statutory Notes
 
 #### Historical and Revision Notes
@@ -170,6 +172,8 @@ Subsection (b) is based on title 14, U.S.C., 1946, ed., § 13, and on title 33, 
 Subsection (c) is new. Title 37, U.S.C., 1946 ed., § 110 authorizes the payment of a cash allowance in case clothing is not furnished to enlisted persons of the Coast Guard. Clearly this presumes the authority to issue clothing to enlisted persons; this section makes the authority statutory. 81st Congress, House Report No. 557.
 
 #### Amendments
+2025—Subsec. (c). Pub. L. 119–60 added subsec. (c).
+
 2018—Pub. L. 115–282 renumbered [section 485 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section485&num=0&edition=prelim) as this section.
 
 1962—Subsec. (c). Pub. L. 87–649 repealed subsec. (c) which permitted the Coast Guard to purchase uniform clothing for distribution to enlisted personnel or to pay such enlisted personnel a cash clothing allowance.
@@ -699,7 +703,7 @@ The Secretary may grant compensatory absence from duty to military personnel of 
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–282 renumbered [section 511 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section511&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–282 renumbered [section 511 of this title](./chapter-005-functions-and-powers.md#section-511) as this section.
 
 2002—Pub. L. 107–295 substituted “Compensatory absence from duty for military personnel at isolated duty stations” for “Compensatory absence of military personnel at isolated aids to navigation” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary, under regulations prescribed by him, may grant compensatory absence from duty to military personnel of the Coast Guard serving in lightships and at lighthouses and other isolated aids to navigation of the Coast Guard when conditions of duty result in confinement because of isolations or in long periods of continuous duty.”
 

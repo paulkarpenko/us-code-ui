@@ -163,7 +163,7 @@ Provisions similar to those in this section were contained in Pub. L. 91–121, 
 <a id="section-1517"></a>
 ## § 1517. Immediate disposal when health or safety are endangered
 
-Nothing contained in this section 11 See References in Text note below. [[50 U.S.C. 1512](./chapter-032-chemical-and-biological-warfare-program.md#section-1512), 1513–1515, 1517] shall be deemed to restrict the transportation or disposal of research quantities of any lethal chemical or any biological warfare agent, or to delay or prevent, in emergency situations either within or outside the United States, the immediate disposal together with any necessary associated transportation, of any lethal chemical or any biological warfare agent when compliance with the procedures and requirements of this chapter would clearly endanger the health or safety of any person.
+Nothing contained in this section 11 See References in Text note below. [[50 U.S.C. 1512](./chapter-032-chemical-and-biological-warfare-program.md#section-1512), 1513–1515, 1517] shall be deemed to restrict the transportation or disposal of research quantities of any lethal chemical or any biological warfare agent, or to delay or prevent, in emergency situations either within or outside the United States, the immediate disposal together with any necessary associated transportation, of any lethal chemical or any biological warfare agent when compliance with the procedures and requirements of this section 1 would clearly endanger the health or safety of any person.
 
 ### Statutory Notes
 
@@ -426,7 +426,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
   (A) The Secretary of the Army shall establish a citizens’ commission for each State in which there is a chemical demilitarization facility under Army management.
 
-  (B) The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs shall establish a chemical demilitarization citizens’ commission in Colorado and in Kentucky.
+  (B) The Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs shall establish a chemical demilitarization citizens’ commission in Colorado and in Kentucky.
 
   (C) Each commission under this subsection shall be known as the “Chemical Demilitarization Citizens’ Advisory Commission” for the State concerned.
 
@@ -436,7 +436,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
   (B) The Secretary of the Army shall provide for a representative from the Office of the Assistant Secretary of the Army (Acquisition, Logistics, and Technology) to meet with each commission under Army management.
 
-  (C) The Department of Defense shall provide for a representative from the Office of the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs to meet with the commissions in Colorado and Kentucky.
+  (C) The Department of Defense shall provide for a representative from the Office of the Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs to meet with the commissions in Colorado and Kentucky.
 
 (3)
 
@@ -452,9 +452,9 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 (5) The members of each commission under this subsection shall designate the chair of such commission from among the members of such commission.
 
-(6) Each commission under this subsection shall meet with a representative from the Army, or the Office of the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs with respect to the commissions in Colorado and Kentucky, upon joint agreement between the chair of such commission and that representative. The two parties shall meet not less often than twice a year and may meet more often at their discretion.
+(6) Each commission under this subsection shall meet with a representative from the Army, or the Office of the Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs with respect to the commissions in Colorado and Kentucky, upon joint agreement between the chair of such commission and that representative. The two parties shall meet not less often than twice a year and may meet more often at their discretion.
 
-(7) Members of each commission under this subsection shall receive no pay for their involvement in the activities of their commissions. Funds appropriated for the Chemical Stockpile Demilitarization Program may be used for travel and associated travel costs for commissioners of commissions under this subsection when such travel is conducted at the invitation of the Assistant Secretary of the Army (Acquisition, Logistics, and Technology) or the invitation of the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs for the commissions in Colorado and Kentucky.
+(7) Members of each commission under this subsection shall receive no pay for their involvement in the activities of their commissions. Funds appropriated for the Chemical Stockpile Demilitarization Program may be used for travel and associated travel costs for commissioners of commissions under this subsection when such travel is conducted at the invitation of the Assistant Secretary of the Army (Acquisition, Logistics, and Technology) or the invitation of the Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs for the commissions in Colorado and Kentucky.
 
 (8) Each commission under this subsection shall be terminated after the closure activities required pursuant to regulations prescribed by the Administrator of the Environmental Protection Agency pursuant to the Solid Waste Disposal Act ([42 U.S.C. 6901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6901&num=0&edition=prelim) et seq.) have been completed for the chemical agent destruction facility in such commission’s State, or upon the request of the Governor of such commission’s State, whichever occurs first.
 
@@ -525,6 +525,8 @@ Pub. L. 109–163, § 921, which directed amendment of subsec. (c)(4) of this se
 Section was enacted as part of the Department of Defense Authorization Act, 1986, and not as part of Pub. L. 91–121, title IV, § 409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
 #### Amendments
+2024—Subsec. (m). Pub. L. 118–159 substituted “Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs” for “Nuclear, Chemical, and Biological Defense Programs” wherever appearing.
+
 2019—Subsec. (f)(1). Pub. L. 116–92, § 902(91)(A), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”. See Codification note above.
 
 Subsec. (g)(2). Pub. L. 116–92, § 902(91)(B), substituted “Under Secretary of Defense for Acquisition and Sustainment.” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”. See Codification note above.
@@ -988,7 +990,7 @@ Congressional defense committees means the Committees on Armed Services and Appr
 ## § 1528. Congressional notification of biological select agent and toxin theft, loss, or release involving the Department of Defense
 **(a) Notification**
 
-(1) Subject to paragraph (2), not later than 45 days after a covered report of any theft, loss, or release of a biological select agent or toxin involving the Department of Defense is filed with the Centers for Disease Control and Prevention or the Animal and Plant Health Inspection Service, the Secretary of Defense, acting through the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs, shall provide to the congressional defense committees notice of such theft, loss, or release.
+(1) Subject to paragraph (2), not later than 45 days after a covered report of any theft, loss, or release of a biological select agent or toxin involving the Department of Defense is filed with the Centers for Disease Control and Prevention or the Animal and Plant Health Inspection Service, the Secretary of Defense, acting through the Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs, shall provide to the congressional defense committees notice of such theft, loss, or release.
 
 (2) The Secretary shall provide to the congressional defense committees notice of a release under paragraph (1) only if the Secretary, acting through the Assistant Secretary, determines that the release is outside the barriers of secondary containment into the ambient air or environment or is causing occupational exposure that presents a threat to public safety.
 
@@ -1018,6 +1020,8 @@ Congressional defense committees means the Committees on Armed Services and Appr
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2017, and not as part of Pub. L. 91–121, title IV, § 409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
 #### Amendments
+2024—Subsec. (a)(1). Pub. L. 118–159 substituted “Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs” for “Nuclear, Chemical, and Biological Defense Programs”.
+
 2023—Subsec. (a). Pub. L. 118–31 amended subsec. (a) generally. Prior to amendment, text read as follows: “Not later than 15 days after notice of any theft, loss, or release of a biological select agent or toxin involving the Department of Defense is provided to the Centers for Disease Control and Prevention or the Animal and Plant Health Inspection Service, as specified by section 331.19 of part 7 of the Code of Federal Regulations, the Secretary of Defense shall provide to the congressional defense committees notice of such theft, loss, or release.”
 
 #### “Congressional Defense Committees” Defined

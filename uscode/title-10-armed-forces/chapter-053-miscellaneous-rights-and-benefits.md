@@ -2182,13 +2182,41 @@ Pub. L. 100–456, div. A, title VI, § 621(b), Sept. 29, 1988, 102 Stat. 1983, 
 
 (2) The relocation assistance provided shall include the following:
 
-  (A) Provision of destination area information and preparation (to be provided before the change of permanent station takes effect), with emphasis on information with regard to moving costs, housing costs and availability, child care, spouse employment opportunities, cultural adaptation, and community orientation.
+  (A) Provision of destination area information and preparation (to be provided before the change of permanent station takes effect), with emphasis on information with regard to moving costs, housing costs and availability, child care, spouse employment opportunities, cultural adaptation, community orientation, education systems, school enrollment procedures, and State-specific provisions under the Interstate Compact on Educational Opportunity for Military Children.
 
   (B) Provision of counseling about financial management, home buying and selling, renting, stress management aimed at intervention and prevention of abuse, property management, and shipment and storage of household goods (including motor vehicles and pets).
 
-  (C) Provision of settling-in services, with emphasis on available government living quarters, private housing, child care, spouse employment assistance information, cultural adaptation, and community orientation.
+  (C) Provision of settling-in services, with emphasis on available government living quarters, private housing, child care, spouse employment assistance information, cultural adaptation, community orientation, and educational resources for dependent children, including school transition assistance, academic continuity, and special education services.
 
   (D) Provision of home finding services, with emphasis on services for locating adequate, affordable temporary and permanent housing.
+
+  (E) Educational planning and support services for dependent children with disabilities, including procedures for transferring individualized education programs and coordinating with the Exceptional Family Member Program.
+
+  (F) Provision of information regarding available assistance under this section and any other assistance relating to a change of permanent station available under any other provision of law, including—
+
+    (i) information on family assistance programs authorized under [section 1788 of this title](./chapter-088-military-family-programs-and-military-child-care.md#section-1788), including financial planning resources, spouse employment support, and community integration services;
+
+    (ii) guidance on available housing assistance, including on-base housing options, rental protections, and resources for off-base relocation;
+
+    (iii) mental health and well-being support services, including those accessible during the period of transition for a change of permanent station;
+
+    (iv) educational resources for dependent children, including school transition assistance and special education services;
+
+    (v) information on available legal and financial counseling programs; and
+
+    (vi) any other assistance programs that support members of the armed forces and their families during relocation.
+
+(3) The Secretary of each military department shall ensure that relocation assistance required to be provided under this subsection is provided not later than 45 days before the date on which a change of permanent station takes effect for a member of the armed forces under the jurisdiction of such Secretary.
+
+(4) The Secretary of each military department shall—
+
+  (A) incorporate the information required to be provided under this subsection into accessible materials and briefings provided to members of the armed forces relating to a change of permanent station;
+
+  (B) ensure that the program under this section provides accessible materials and briefings at military installations and through online resources;
+
+  (C) develop a communication strategy, including digital outreach and printed materials, to increase awareness of the program under this section and assistance available under other provisions of law relating to a change of permanent station; and
+
+  (D) assess the satisfaction of members of the armed forces with the information provided under this subsection.
 
 **(c) Military Relocation Assistance Programs.—**
 
@@ -2210,6 +2238,14 @@ Pub. L. 100–456, div. A, title VI, § 621(b), Sept. 29, 1988, 102 Stat. 1983, 
 Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title VI, § 661(a)–(g), Nov. 29, 1989, 103 Stat. 1463, which was set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113), prior to repeal by Pub. L. 101–510, § 1481(c)(3).
 
 #### Amendments
+2025—Subsec. (b)(2)(A). Pub. L. 119–60, § 662(a)(1)(A), substituted “community orientation, education systems, school enrollment procedures, and State-specific provisions under the Interstate Compact on Educational Opportunity for Military Children” for “and community orientation”.
+
+Subsec. (b)(2)(C). Pub. L. 119–60, § 662(a)(1)(B), substituted “community orientation, and educational resources for dependent children, including school transition assistance, academic continuity, and special education services” for “and community orientation”.
+
+Subsec. (b)(2)(E), (F). Pub. L. 119–60, § 662(a)(1)(C), added subpars. (E) and (F).
+
+Subsec. (b)(3), (4). Pub. L. 119–60, § 662(a)(2), added pars. (3) and (4).
+
 2001—Subsec. (c)(2). Pub. L. 107–107 struck out “, not later than September 30, 1991,” before “information available”.
 
 1996—Subsec. (d). Pub. L. 104–106, § 903(a), (d), which directed repeal of subsec. (d), eff. Jan. 31, 1997, was repealed by Pub. L. 104–201.
@@ -2229,6 +2265,9 @@ Pub. L. 101–510, div. A, title XIV, § 1481(c)(4), Nov. 5, 1990, 104 Stat. 170
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Oversight Requirements for Contracts Relating to Relocation Logistics for Household Goods
+Pub. L. 119–60, div. A, title III, § 346, Dec. 18, 2025, 139 Stat. 827, provided that: “(a) Requirements.—The Secretary of Defense shall ensure that any covered contract includes the following oversight requirements:“(1) The prime contractor shall submit to the Secretary a document summarizing the key terms and conditions of each subcontract relating to capacity, performance, or compliance with the requirements of the subcontract, which shall include the following:“(A) The guaranteed capacity of each subcontractor to perform the work required under the subcontract (including with respect to location, volume, and peak season commitment). “(B) Performance metrics and service level agreements applicable to each subcontractor. “(C) Provisions for monitoring and enforcing subcontractor performance. “(D) Termination clauses and penalties for noncompliance. “(E) Data sharing and security requirements. “(2) Each subcontractor shall provide to the prime contractor, upon request, certifications and copies of training completion relating to compliance with the requirements under the subcontract. “(3) The prime contractor shall submit to the Secretary regular performance reports on each subcontractor, including metrics relating to on-time pickup, on-time delivery, damage claim rates, customer satisfaction, and compliance with the requirements of the subcontract. “(4) The prime contractor shall submit to the Secretary a subcontractor management plan outlining the processes of the prime contractor for selecting, monitoring, and managing subcontractors, including a description of how the prime contractor ensures subcontractor compliance with applicable laws, regulations, and the requirements of the subcontract. “(5) The prime contractor shall maintain a comprehensive risk management plan that addresses potential disruptions to the performance of work by subcontractors of the prime contractor, such as financial instability, natural disasters, or labor disputes. “(6) Not less frequently than on a monthly basis for the duration of the covered contract, the prime contractor shall submit to the Secretary the subcontractor rating system used by the prime contractor, with current scoring results under such system. “(7) The prime contractor shall submit to the Secretary the subcontractor rates for each move to be performed under the subcontract. “(8) The prime contractor shall establish clear escalation procedures for addressing subcontractor performance issues, including steps for resolving disputes, implementing corrective actions, and terminating non-performing subcontractors. “(9) The Federal Government may audit subcontractor records with reasonable notice to the prime contractor. “(10) The covered contract shall include a fixed-price line item for monthly overhead costs, separate from the rates associated with the costs of individual moves performed under the covered contract. “(11) The prime contractor shall establish a database that the Secretary may access on a real-time basis to ensure compliance with this section. “(b) Additional Considerations.—During the development of an acquisition strategy and execution strategy for any covered contract, the Secretary shall consider, in addition to the requirements under subsection (a), the following:“(1) Entering into a single contract pursuant to the requirements of the Federal Acquisition Regulation if the move to be performed under such contract would involve the use of a shipping lane that accounts for more than one percent of the total volume of permanent change of station moves and entering into a services contract if the move to be performed under such contract would not involve the use of such a lane. “(2) Tiered incentive awards for higher levels of capacity. “(c) Covered Contract.—In this section, the term ‘covered contract’—“(1) means a contract with an entity that provides relocation logistics for the household goods of members of the Armed Forces undergoing a permanent change of station (commonly referred to as a ‘single move manager’); and “(2) does not include a contract or other agreement for the relocation of a private vehicle owned or leased by a member of the Armed Forces.”
 
 
 <a id="section-1056a"></a>
@@ -2697,6 +2736,9 @@ Subsec. (f)(4). Pub. L. 106–65, § 674(d), added par. (4).
 
 1996—Subsec. (f)(2)(B). Pub. L. 104–106 substituted “, as determined in accordance with the Immigration and Nationality Act ([8 U.S.C. 1101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) et seq.)” for “(as defined in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/22&num=0&edition=prelim)))”.
 
+#### Pilot Program To Increase Access to Food on Military Installations of the Army
+Pub. L. 118–159, div. A, title VI, § 654, Dec. 23, 2024, 138 Stat. 1939, as amended by Pub. L. 119–60, div. A, title VI, § 663, Dec. 18, 2025, 139 Stat. 915, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of a military department shall implement a pilot program to increase access to food on military installations under the jurisdiction of the Secretary for members of the Armed Forces who reside on such military installations. “(b) Access.—Food made available under the program under this section shall be accessible with a common access card (or other means determined appropriate by the Secretary of the military department concerned) at dining facilities, commissaries, exchanges, restaurants, and other locations where such members can obtain food. “(c) Termination.—The pilot program under this section shall terminate five years after the date of the enactment of this Act. “(d) Reporting.—“(1) Progress reports.—At the end of each calendar quarter until the pilot program terminates, the Secretary of a military department shall submit to the Committees on Armed Services of the Senate and House of Representatives a progress report regarding implementation of the pilot program. “(2) Final report.—Not later than 90 days after the pilot program terminates, the Secretary of a military department shall submit to the Committees on Armed Services of the Senate and House of Representatives a final report regarding the pilot program. Such report shall include the following elements:“(A) Lessons learned from the pilot program. “(B) The recommendation of the Secretary whether to expand or make permanent the pilot program. “(C) If the Secretary recommends expansion, the military installations covered by such recommended expansion. “(D) Limitations to the operation or expansion of the pilot program. “(E) Any information the Secretary determines appropriate.”
+
 #### Food Insecurity Among Military Families: Data Collection; Training; Report
 Pub. L. 117–263, div. A, title VI, § 645, Dec. 23, 2022, 136 Stat. 2637, provided that: “(a) Data Collection.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Under Secretary of Defense for Personnel and Readiness, in coordination with the Under Secretary for Food, Nutrition, and Consumer Services of the Department of Agriculture, shall—“(1) develop a survey, in collaboration with the Department of Agriculture, to determine how many members of the Armed Forces serving on active duty, and dependents of such members, are food insecure; “(2) issue the survey to such members and dependents; “(3) collect data related to the number of such members and dependents who—“(A) are eligible for the basic needs allowance under [section 402b of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section402b&num=0&edition=prelim), United States Code; “(B) receive such basic needs allowance; and “(C) are surveyed on the use, by such members and dependents, of Federal nutrition assistance programs, including—“(i) the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) et seq.); “(ii) the special supplemental nutrition program for women, infants, and children under section 17 of the Child Nutrition Act of 1966 ([42 U.S.C. 1786](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1786&num=0&edition=prelim)); and “(iii) the school lunch program under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) et seq.), and the school breakfast program under section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1773&num=0&edition=prelim)); “(4) develop and carry out a plan to train and designate an individual who will assist members at military installations on how and where to refer such members and their dependents for participation in Federal nutrition assistance programs described in paragraph (3)(C); and “(5) coordinate efforts of the Department of Defense to address food insecurity and nutrition. “(b) Report.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], and annually thereafter for the four subsequent years, the Under Secretary of Defense for Personnel & Readiness shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], the Committees on Agriculture and Education and Labor [now Committee on Education and the Workforce] of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report including the following:“(1) The number of members of the Armed Forces serving on active duty and their dependents who are food insecure. “(2) The number of such members and their dependents who use the Federal nutrition assistance programs described in subsection (a)(3). “(3) The number of such members and their dependents described in subsection (a)(3). “(4) The status of implementation of the plan under subsection (a)(5) [sic; probably should be “subsection (a)(4)”].”
 
@@ -2734,8 +2776,8 @@ Pub. L. 108–375, div. A, title V, § 583(b), Oct. 28, 2004, 118 Stat. 1929, pr
 
 
 <a id="section-1060c"></a>
-## § 1060c. Provision of veterinary services in emergencies
-**(a) In General.—** A veterinary professional described in subsection (b) may provide veterinary services for the purposes described in subsection (c) in any State, the District of Columbia, or a territory or possession of the United States, without regard to where such veterinary professional or the patient animal are located, if the provision of such services is within the scope of the authorized duties of such veterinary professional for the Department of Defense.
+## § 1060c. Provision of veterinary services
+**(a) In General.—** A veterinary professional described in subsection (b) may provide veterinary services in any State, the District of Columbia, or a territory or possession of the United States, without regard to where such veterinary professional or the patient animal are located, if the provision of such services is within the scope of the authorized duties of such veterinary professional for the Department of Defense.
 
 **(b) Veterinary Professional Described.—** A veterinary professional described in this subsection is an individual who is—
 
@@ -2749,17 +2791,11 @@ Pub. L. 108–375, div. A, title V, § 583(b), Oct. 28, 2004, 118 Stat. 1929, pr
 
 (3) currently licensed by a State, the District of Columbia, or a territory or possession of the United States to provide veterinary services.
 
-**(c) Purposes Described.—** The purposes described in this subsection are veterinary services in response to any of the following:
-
-(1) A national emergency declared by the President pursuant to the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.).
-
-(2) A major disaster or an emergency (as those terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5122](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5122&num=0&edition=prelim))).
-
-(3) A public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)).
-
-(4) An extraordinary emergency, as determined by the Secretary of Agriculture under section 10407(b) of the Animal Health Protection Act ([7 U.S.C. 8306(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8306/b&num=0&edition=prelim)).
-
 ### Statutory Notes
 
-#### References in Text
-The National Emergencies Act, referred to in subsec. (c)(1), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
+#### Amendments
+2024—Pub. L. 118–159, § 733(1), struck out “in emergencies” after “veterinary services” in section catchline.
+
+Subsec. (a). Pub. L. 118–159, § 733(2), struck out “for the purposes described in subsection (c)” after “veterinary services”.
+
+Subsec. (c). Pub. L. 118–159, § 733(3), struck out subsec. (c) which described the purposes of veterinary services in response to certain emergencies.

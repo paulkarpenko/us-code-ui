@@ -2,7 +2,7 @@
 title: 47
 chapter: '5'
 heading: WIRE OR RADIO COMMUNICATION
-section_count: 251
+section_count: 252
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47&num=0&edition=prelim
 ---
@@ -1974,7 +1974,7 @@ shall be fined under title 18 or imprisoned not more than two years, or both.
 
 **(e) Defenses** In addition to any other defenses available by law:
 
-(1) No person shall be held to have violated subsection (a) or (d) solely for providing access or connection to or from a facility, system, or network not under that person’s control, including transmission, downloading, intermediate storage, access software, or other related capabilities that are incidental to providing such access or connection that does not include the creation of the content of the communication.
+(1) No person shall be held to have violated subsection (a), (d), or (h) solely for providing access or connection to or from a facility, system, or network not under that person’s control, including transmission, downloading, intermediate storage, access software, or other related capabilities that are incidental to providing such access or connection that does not include the creation of the content of the communication.
 
 (2) The defenses provided by paragraph (1) of this subsection shall not be applicable to a person who is a conspirator with an entity actively involved in the creation or knowing distribution of communications that violate this section, or who knowingly advertises the availability of such communications.
 
@@ -1998,7 +1998,169 @@ shall be fined under title 18 or imprisoned not more than two years, or both.
 
 **(g) Application and enforcement of other Federal law** Nothing in subsection (a), (d), (e), or (f) or in the defenses to prosecution under subsection (a) or (d) shall be construed to affect or limit the application or enforcement of any other Federal law.
 
-**(h) Definitions** For purposes of this section—
+**(h) Intentional disclosure of nonconsensual intimate visual depictions**
+
+(1) **Definitions** — In this subsection:
+
+  (A) *Consent* — The term “consent” means an affirmative, conscious, and voluntary authorization made by an individual free from force, fraud, duress, misrepresentation, or coercion.
+
+  (B) *Digital forgery* — The term “digital forgery” means any intimate visual depiction of an identifiable individual created through the use of software, machine learning, artificial intelligence, or any other computer-generated or technological means, including by adapting, modifying, manipulating, or altering an authentic visual depiction, that, when viewed as a whole by a reasonable person, is indistinguishable from an authentic visual depiction of the individual.
+
+  (C) *Identifiable individual* — The term “identifiable individual” means an individual—
+
+    (i) who appears in whole or in part in an intimate visual depiction; and
+
+    (ii) whose face, likeness, or other distinguishing characteristic (including a unique birthmark or other recognizable feature) is displayed in connection with such intimate visual depiction.
+
+  (D) *Interactive computer service* — The term “interactive computer service” has the meaning given the term in [section 230 of this title](./chapter-005-wire-or-radio-communication.md#section-230).
+
+  (E) *Intimate visual depiction* — The term “intimate visual depiction” has the meaning given such term in [section 6851 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim).
+
+  (F) *Minor* — The term “minor” means any individual under the age of 18 years.
+
+(2) **Offense involving authentic intimate visual depictions**
+
+  (A) *Involving adults* — Except as provided in subparagraph (C), it shall be unlawful for any person, in interstate or foreign commerce, to use an interactive computer service to knowingly publish an intimate visual depiction of an identifiable individual who is not a minor if—
+
+    (i) the intimate visual depiction was obtained or created under circumstances in which the person knew or reasonably should have known the identifiable individual had a reasonable expectation of privacy;
+
+    (ii) what is depicted was not voluntarily exposed by the identifiable individual in a public or commercial setting;
+
+    (iii) what is depicted is not a matter of public concern; and
+
+    (iv) publication of the intimate visual depiction—
+
+      (I) is intended to cause harm; or
+
+      (II) causes harm, including psychological, financial, or reputational harm, to the identifiable individual.
+
+  (B) *Involving minors* — Except as provided in subparagraph (C), it shall be unlawful for any person, in interstate or foreign commerce, to use an interactive computer service to knowingly publish an intimate visual depiction of an identifiable individual who is a minor with intent to—
+
+    (i) abuse, humiliate, harass, or degrade the minor; or
+
+    (ii) arouse or gratify the sexual desire of any person.
+
+  (C) *Exceptions* — Subparagraphs (A) and (B) shall not apply to—
+
+    (i) a lawfully authorized investigative, protective, or intelligence activity of—
+
+      (I) a law enforcement agency of the United States, a State, or a political subdivision of a State; or
+
+      (II) an intelligence agency of the United States;
+
+    (ii) a disclosure made reasonably and in good faith—
+
+      (I) to a law enforcement officer or agency;
+
+      (II) as part of a document production or filing associated with a legal proceeding;
+
+      (III) as part of medical education, diagnosis, or treatment or for a legitimate medical, scientific, or education purpose;
+
+      (IV) in the reporting of unlawful content or unsolicited or unwelcome conduct or in pursuance of a legal, professional, or other lawful obligation; or
+
+      (V) to seek support or help with respect to the receipt of an unsolicited intimate visual depiction;
+
+    (iii) a disclosure reasonably intended to assist the identifiable individual;
+
+    (iv) a person who possesses or publishes an intimate visual depiction of himself or herself engaged in nudity or sexually explicit conduct (as that term is defined in [section 2256(2)(A) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2256/2/A&num=0&edition=prelim)); or
+
+    (v) the publication of an intimate visual depiction that constitutes—
+
+      (I) child pornography (as that term is defined in [section 2256 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2256&num=0&edition=prelim)); or
+
+      (II) a visual depiction described in subsection (a) or (b) of [section 1466A of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1466A&num=0&edition=prelim) (relating to obscene visual representations of the sexual abuse of children).
+
+(3) **Offense involving digital forgeries**
+
+  (A) *Involving adults* — Except as provided in subparagraph (C), it shall be unlawful for any person, in interstate or foreign commerce, to use an interactive computer service to knowingly publish a digital forgery of an identifiable individual who is not a minor if—
+
+    (i) the digital forgery was published without the consent of the identifiable individual;
+
+    (ii) what is depicted was not voluntarily exposed by the identifiable individual in a public or commercial setting;
+
+    (iii) what is depicted is not a matter of public concern; and
+
+    (iv) publication of the digital forgery—
+
+      (I) is intended to cause harm; or
+
+      (II) causes harm, including psychological, financial, or reputational harm, to the identifiable individual.
+
+  (B) *Involving minors* — Except as provided in subparagraph (C), it shall be unlawful for any person, in interstate or foreign commerce, to use an interactive computer service to knowingly publish a digital forgery of an identifiable individual who is a minor with intent to—
+
+    (i) abuse, humiliate, harass, or degrade the minor; or
+
+    (ii) arouse or gratify the sexual desire of any person.
+
+  (C) *Exceptions* — Subparagraphs (A) and (B) shall not apply to—
+
+    (i) a lawfully authorized investigative, protective, or intelligence activity of—
+
+      (I) a law enforcement agency of the United States, a State, or a political subdivision of a State; or
+
+      (II) an intelligence agency of the United States;
+
+    (ii) a disclosure made reasonably and in good faith—
+
+      (I) to a law enforcement officer or agency;
+
+      (II) as part of a document production or filing associated with a legal proceeding;
+
+      (III) as part of medical education, diagnosis, or treatment or for a legitimate medical, scientific, or education purpose;
+
+      (IV) in the reporting of unlawful content or unsolicited or unwelcome conduct or in pursuance of a legal, professional, or other lawful obligation; or
+
+      (V) to seek support or help with respect to the receipt of an unsolicited intimate visual depiction;
+
+    (iii) a disclosure reasonably intended to assist the identifiable individual;
+
+    (iv) a person who possesses or publishes a digital forgery of himself or herself engaged in nudity or sexually explicit conduct (as that term is defined in [section 2256(2)(A) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2256/2/A&num=0&edition=prelim)); or
+
+    (v) the publication of an intimate visual depiction that constitutes—
+
+      (I) child pornography (as that term is defined in [section 2256 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2256&num=0&edition=prelim)); or
+
+      (II) a visual depiction described in subsection (a) or (b) of [section 1466A of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1466A&num=0&edition=prelim) (relating to obscene visual representations of the sexual abuse of children).
+
+(4) **Penalties**
+
+  (A) *Offenses involving adults* — Any person who violates paragraph (2)(A) or (3)(A) shall be fined under title 18, imprisoned not more than 2 years, or both.
+
+  (B) *Offenses involving minors* — Any person who violates paragraph (2)(B) or (3)(B) shall be fined under title 18, imprisoned not more than 3 years, or both.
+
+(5) **Rules of construction** — For purposes of paragraphs (2) and (3)—
+
+  (A) the fact that the identifiable individual provided consent for the creation of the intimate visual depiction shall not establish that the individual provided consent for the publication of the intimate visual depiction; and
+
+  (B) the fact that the identifiable individual disclosed the intimate visual depiction to another individual shall not establish that the identifiable individual provided consent for the publication of the intimate visual depiction by the person alleged to have violated paragraph (2) or (3), respectively.
+
+(6) **Threats**
+
+  (A) *Threats involving authentic intimate visual depictions* — Any person who intentionally threatens to commit an offense under paragraph (2) for the purpose of intimidation, coercion, extortion, or to create mental distress shall be punished as provided in paragraph (4).
+
+  (B) *Threats involving digital forgeries*
+
+    (i) *Threats involving adults* — Any person who intentionally threatens to commit an offense under paragraph (3)(A) for the purpose of intimidation, coercion, extortion, or to create mental distress shall be fined under title 18, imprisoned not more than 18 months, or both.
+
+    (ii) *Threats involving minors* — Any person who intentionally threatens to commit an offense under paragraph (3)(B) for the purpose of intimidation, coercion, extortion, or to create mental distress shall be fined under title 18, imprisoned not more than 30 months, or both.
+
+(7) **Forfeiture**
+
+  (A) *In general* — The court, in imposing a sentence on any person convicted of a violation of paragraph (2) or (3), shall order, in addition to any other sentence imposed and irrespective of any provision of State law, that the person forfeit to the United States—
+
+    (i) any material distributed in violation of that paragraph;
+
+    (ii) the person’s interest in property, real or personal, constituting or derived from any gross proceeds of the violation, or any property traceable to such property, obtained or retained directly or indirectly as a result of the violation; and
+
+    (iii) any personal property of the person used, or intended to be used, in any manner or part, to commit or to facilitate the commission of the violation.
+
+  (B) *Procedures* — [Section 853 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section853&num=0&edition=prelim), with the exception of subsections (a) and (d), shall apply to the criminal forfeiture of property under subparagraph (A).
+
+(8) **Restitution** — The court shall order restitution for an offense under paragraph (2) or (3) in the same manner as under [section 2264 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2264&num=0&edition=prelim).
+
+(9) **Rule of construction** — Nothing in this subsection shall be construed to limit the application of any other relevant law, including [section 2252 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2252&num=0&edition=prelim).
+
+**(i) Definitions** For purposes of this section—
 
 (1) The use of the term “telecommunications device” in this section—
 
@@ -2034,6 +2196,12 @@ Section 1104 of the Internet Tax Freedom Act, referred to in subsec. (h)(1)(C), 
 The Library Services and Construction Act, referred to in subsec. (h)(5), is act June 19, 1956, ch. 407, 70 Stat. 293. Title III of the Act was classified generally to subchapter III (§ 355e et seq.) of chapter 16 of Title 20, Education, and was repealed by Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 708(a)], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
 #### Amendments
+2025—Subsec. (e)(1). Pub. L. 119–12, § 2(b), substituted “, (d), or (h)” for “or (d)”.
+
+Subsec. (h). Pub. L. 119–12, § 2(a)(2), added subsec. (h). Former subsec. (h) redesignated (i).
+
+Subsec. (i). Pub. L. 119–12, § 2(a)(1), (c), redesignated subsec. (h) as (i) and inserted heading.
+
 2013—Subsec. (a)(1)(A). Pub. L. 113–4, § 1102(1), struck out “annoy,” after “intent to” in concluding provisions.
 
 Subsec. (a)(1)(C). Pub. L. 113–4, § 1102(2)(B), which directed the substitution of “harass any specific person” for “harass any person at the called number or who receives the communication”, was executed by making the substitution for “harass any person at the called number or who receives the communications”, to reflect the probable intent of Congress.
@@ -2133,6 +2301,9 @@ Amendment by Pub. L. 101–166 effective 120 days after Nov. 21, 1989, see secti
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–297 effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as a note under [section 1071 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1071&num=0&edition=prelim), Education.
 
+#### Severability
+Pub. L. 119–12, § 5, May 19, 2025, 139 Stat. 62, provided that: “If any provision of this Act [see Short Title of 2025 Amendment note set out under [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609)], or an amendment made by this Act, is determined to be unenforceable or invalid, the remaining provisions of this Act and the amendments made by this Act shall not be affected.”
+
 #### Construction of 2006 Amendment
 Pub. L. 109–162, title I, § 113(b), Jan. 5, 2006, 119 Stat. 2987, provided that: “This section [amending this section] and the amendment made by this section may not be construed to affect the meaning given the term ‘telecommunications device’ in section 223(h)(1) of the Communications Act of 1934 [[47 U.S.C. 223(h)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section223/h/1&num=0&edition=prelim)], as in effect before the date of the enactment of this section [Jan. 5, 2006].”
 
@@ -2141,6 +2312,74 @@ Pub. L. 104–104, title V, § 561, Feb. 8, 1996, 110 Stat. 142, provided that: 
 
 #### Regulations; Disposition of Complaints Pending on December 8, 1983
 Pub. L. 98–214, § 8(c), (d), Dec. 8, 1983, 97 Stat. 1470, provided that the Federal Communications Commission (FCC) issue regulations pursuant to subsec. (b)(2) of this section not later than 180 days after Dec. 8, 1983, and that the FCC was to act on all complaints alleging violation of this section pending on Dec. 8, 1983, within 90 days of that date.
+
+
+<a id="section-223a"></a>
+## § 223a. Notice and removal of nonconsensual intimate visual depictions
+**(a) In general**
+
+(1) **Notice and removal process**
+
+  (A) *Establishment* — Not later than 1 year after May 19, 2025, a covered platform shall establish a process whereby an identifiable individual (or an authorized person acting on behalf of such individual) may—
+
+    (i) notify the covered platform of an intimate visual depiction published on the covered platform that—
+
+      (I) includes a depiction of the identifiable individual; and
+
+      (II) was published without the consent of the identifiable individual; and
+
+    (ii) submit a request for the covered platform to remove such intimate visual depiction.
+
+  (B) *Requirements* — A notification and request for removal of an intimate visual depiction submitted under the process established under subparagraph (A) shall include, in writing—
+
+    (i) a physical or electronic signature of the identifiable individual (or an authorized person acting on behalf of such individual);
+
+    (ii) an identification of, and information reasonably sufficient for the covered platform to locate, the intimate visual depiction of the identifiable individual;
+
+    (iii) a brief statement that the identifiable individual has a good faith belief that any intimate visual depiction identified under clause (ii) is not consensual, including any relevant information for the covered platform to determine the intimate visual depiction was published without the consent of the identifiable individual; and
+
+    (iv) information sufficient to enable the covered platform to contact the identifiable individual (or an authorized person acting on behalf of such individual).
+
+(2) **Notice of process** — A covered platform shall provide on the platform a clear and conspicuous notice, which may be provided through a clear and conspicuous link to another web page or disclosure, of the notice and removal process established under paragraph (1)(A) that—
+
+  (A) is easy to read and in plain language; and
+
+  (B) provides information regarding the responsibilities of the covered platform under this section, including a description of how an individual can submit a notification and request for removal.
+
+(3) **Removal of nonconsensual intimate visual depictions** — Upon receiving a valid removal request from an identifiable individual (or an authorized person acting on behalf of such individual) using the process described in paragraph (1)(A)(ii), a covered platform shall, as soon as possible, but not later than 48 hours after receiving such request—
+
+  (A) remove the intimate visual depiction; and
+
+  (B) make reasonable efforts to identify and remove any known identical copies of such depiction.
+
+(4) **Limitation on liability** — A covered platform shall not be liable for any claim based on the covered platform’s good faith disabling of access to, or removal of, material claimed to be a nonconsensual intimate visual depiction based on facts or circumstances from which the unlawful publishing of an intimate visual depiction is apparent, regardless of whether the intimate visual depiction is ultimately determined to be unlawful or not.
+
+**(b) Enforcement by the Commission**
+
+(1) **Unfair or deceptive acts or practices** — A failure to reasonably comply with the notice and takedown obligations under subsection (a) shall be treated as a violation of a rule defining an unfair or a deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act ([15 U.S.C. 57a(a)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a/a/1/B&num=0&edition=prelim)).
+
+(2) **Powers of the Commission**
+
+  (A) *In general* — Except as provided in subparagraph (D), the Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act ([15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.) were incorporated into and made a part of this section.
+
+  (B) *Privileges and immunities* — Any person who violates this section shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act ([15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.).
+
+  (C) *Authority preserved* — Nothing in this Act shall be construed to limit the authority of the Federal Trade Commission under any other provision of law.
+
+  (D) *Scope of jurisdiction* — Notwithstanding sections 4, 5(a)(2), or 6 of the Federal Trade Commission Act ([15 U.S.C. 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section44&num=0&edition=prelim), 45(a)(2), 46), or any jurisdictional limitation of the Commission, the Commission shall also enforce this section in the same manner provided in subparagraph (A), with respect to organizations that are not organized to carry on business for their own profit or that of their members.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Trade Commission Act, referred to in subsec. (b)(2)(A), (B), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
+
+This Act, referred to in subsec. (b)(2)(C), is Pub. L. 119—12, May 19, 2025, 139 Stat. 55, which enacted this section, amended [section 223 of this title](./chapter-005-wire-or-radio-communication.md#section-223), and enacted provisions set out as notes under this section and sections 223 and 609 of this title. For complete classification of this Act to the Code, see Short Title of 2025 Amendment note set out under [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609).
+
+#### Codification
+Section was enacted as part of the Tools to Address Known Exploitation by Immobilizing Technological Deepfakes on Websites and Networks Act, also known as the TAKE IT DOWN Act, and not as part of the Communications Act of 1934 which comprises this chapter.
+
+#### Definitions
+Pub. L. 119–12, § 4, May 19, 2025, 139 Stat. 61, provided that: “In this Act [see Short Title of 2025 Amendment note set out under [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609)]: “(1) Commission.—The term ‘Commission’ means the Federal Trade Commission. “(2) Consent; digital forgery; identifiable individual; intimate visual depiction.—The terms ‘consent’, ‘digital forgery’, ‘identifiable individual’, ‘intimate visual depiction’, and ‘minor’ have the meaning given such terms in section 223(h) of the Communications Act of 1934 ([47 U.S.C. 223](./chapter-005-wire-or-radio-communication.md#section-223)[(h)]), as added by section 2. “(3) Covered platform.—“(A) In general.—The term ‘covered platform’ means a website, online service, online application, or mobile application—“(i) that serves the public; and “(ii)(I) that primarily provides a forum for user-generated content, including messages, videos, images, games, and audio files; or “(II) for which it is in the regular course of trade or business of the website, online service, online application, or mobile application to publish, curate, host, or make available content of nonconsensual intimate visual depictions. “(B) Exclusions.—The term ‘covered platform’ shall not include the following:“(i) A provider of broadband internet access service (as described in section 8.1(b) of title 47, Code of Federal Regulations, or successor regulation). “(ii) Electronic mail. “(iii) Except as provided in subparagraph (A)(ii)(II), an online service, application, or website— “(I) that consists primarily of content that is not user generated but is preselected by the provider of such online service, application, or website; and “(II) for which any chat, comment, or interactive functionality is incidental to, directly related to, or dependent on the provision of the content described in subclause (I).”
 
 
 <a id="section-224"></a>
@@ -6299,7 +6538,11 @@ shall be granted by the Commission earlier than thirty days following issuance o
     (v) the Commission has failed under [section 332(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section332/c/3&num=0&edition=prelim) to grant or deny within the time required by such section any petition that a State has filed within 90 days after August 10, 1993;
     until such failure has been corrected.
 
-(11) **Termination** — The authority of the Commission to grant a license or permit under this subsection shall expire March 9, 2023, except that, with respect to the electromagnetic spectrum identified under section 1004(a) of the Spectrum Pipeline Act of 2015, such authority shall expire on September 30, 2025, and with respect to the electromagnetic spectrum identified under section 90008(b)(2)(A)(ii) of the Infrastructure Investment and Jobs Act, such authority shall expire on the date that is 7 years after November 15, 2021.
+(11) **Termination** — The authority of the Commission to complete a system of competitive bidding under this subsection shall expire September 30, 2034, except that, with respect to the electromagnetic spectrum—
+
+  (A) between the frequencies of 3.1 gigahertz and 3.45 gigahertz, such authority shall not apply; and
+
+  (B) between the frequencies of 7.4 gigahertz and 8.4 gigahertz, such authority shall not apply.
 
 (12) **Repealed. Pub. L. 115–141, div. P, title IV, § 402(i)(4)(A), Mar. 23, 2018, 132 Stat. 1089**
 
@@ -6471,11 +6714,9 @@ This chapter, referred to in subsecs. (h), (j)(4)(C), (6), and (k)(1), was in th
 
 The National Telecommunications and Information Administration Organization Act, referred to in subsec. (j)(9)(B), is title I of Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533. Part B of the Act is classified generally to subchapter II (§ 921 et seq.) of chapter 8 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 901 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-901) and Tables.
 
-Section 1004(a) of the Spectrum Pipeline Act of 2015, referred to in subsec. (j)(11), is section 1004(a) of Pub. L. 114–74, which is set out as a note under [section 921 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-921).
-
-Section 90008(b)(2)(A)(ii) of the Infrastructure Investment and Jobs Act, referred to in subsec. (j)(11), is section 90008(b)(2)(A)(ii) of Pub. L. 117–58, which is set out in a note under [section 921 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-921).
-
 #### Amendments
+2025—Subsec. (j)(11). Pub. L. 119–21 substituted “complete a system of competitive bidding under this subsection shall expire September 30, 2034, except that, with respect to the electromagnetic spectrum—” and subpars. (A) and (B) for “grant a license or permit under this subsection shall expire March 9, 2023, except that, with respect to the electromagnetic spectrum identified under section 1004(a) of the Spectrum Pipeline Act of 2015, such authority shall expire on September 30, 2025, and with respect to the electromagnetic spectrum identified under section 90008(b)(2)(A)(ii) of the Infrastructure Investment and Jobs Act, such authority shall expire on the date that is 7 years after November 15, 2021.”
+
 2022—Subsec. (j)(11). Pub. L. 117–328 substituted “March 9, 2023” for “December 23, 2022”.
 
 Pub. L. 117–229 substituted “December 23, 2022” for “December 16, 2022”.
@@ -6668,6 +6909,12 @@ Amendment by Pub. L. 98–549 effective 60 days after Oct. 30, 1984, except wher
 
 #### Effective Date of 1960 Amendment
 Pub. L. 86–752, § 4(d)(1)–(3), Sept. 13, 1960, 74 Stat. 892, provided that: “(1) Subsections (a) and (b) of this section [amending this section and [section 319 of this title](./chapter-005-wire-or-radio-communication.md#section-319)] shall take effect ninety days after the date of the enactment of this Act [Sept. 13, 1960]. “(2) Section 309 of the Communications Act of 1934 [this section] (as amended by subsection (a) of this section) shall apply to any application to which section 308 of such Act [[section 308 of this title](./chapter-005-wire-or-radio-communication.md#section-308)] applies (A) which is filed on or after the effective date of subsection (a) of this section, (B) which is filed before such effective date, but is substantially amended on or after such effective date, or (C) which is filed before such effective date and is not substantially amended on or after such effective date, but with respect to which the Commission by rule provides reasonable opportunity to file petitions to deny in accordance with section 309 of such Act (as amended by subsection (a) of this section) [this section]. “(3) Section 309 of the Communications Act of 1934 [this section], as in effect immediately before the effective date of subsection (a) of this section, shall, on and after such effective date, apply only to applications to which section 308 of such Act [[section 308 of this title](./chapter-005-wire-or-radio-communication.md#section-308)] apply which are filed before such effective date and not substantially amended on or after such effective date and with respect to which the Commission does not permit petitions to deny to be filed as provided in clause (C) of paragraph (2) of this subsection.”
+
+#### Spectrum Auctions
+Pub. L. 119–21, title IV, § 40002, July 4, 2025, 139 Stat. 128, provided that: “(a) Definitions.—In this section:“(1) Assistant secretary.—The term ‘Assistant Secretary’ means the Assistant Secretary of Commerce for Communications and Information. “(2) Commission.—The term ‘Commission’ means the Federal Communications Commission. “(3) Covered band.—The term ‘covered band’—“(A) except as provided in subparagraph (B), means the band of frequencies between 1.3 gigahertz and 10.5 gigahertz; and “(B) does not include—“(i) the band of frequencies between 3.1 gigahertz and 3.45 gigahertz for purposes of auction, reallocation, modification, or withdrawal; or “(ii) the band of frequencies between 7.4 gigahertz and 8.4 gigahertz for purposes of auction, reallocation, modification, or withdrawal. “(4) Full-power commercial licensed use cases.—The term ‘full-power commercial licensed use cases’ means flexible use wireless broadband services with base station power levels sufficient for high-power, high-density, and wide-area commercial mobile services, consistent with the service rules under part 27 of title 47, Code of Federal Regulations, or any successor regulations, for wireless broadband deployments throughout the covered band. “(b) General Auction Authority.—“(1) Amendment.— [Amended this section.] “(2) Spectrum auctions.—The Commission shall grant licenses through systems of competitive bidding, before the expiration of the general auction authority of the Commission under section 309(j)(11) of the Communications Act of 1934 ([47 U.S.C. 309(j)(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j/11&num=0&edition=prelim)), as amended by paragraph (1) of this subsection, for not less than 300 megahertz, including by completing a system of competitive bidding not later than 2 years after the date of enactment of this Act [July 4, 2025] for not less than 100 megahertz in the band between 3.98 gigahertz and 4.2 gigahertz. “(c) Identification for Reallocation.—“(1) In general.—The Assistant Secretary, in consultation with the Commission, shall identify 500 megahertz of frequencies in the covered band for reallocation to non-Federal use, shared Federal and non-Federal use, or a combination thereof, for full-power commercial licensed use cases, that—“(A) as of the date of enactment of this Act, are allocated for Federal use; and “(B) shall be in addition to the 300 megahertz of frequencies for which the Commission grants licenses under subsection (b)(2). “(2) Schedule.—The Assistant Secretary shall identify the frequencies under paragraph (1) according to the following schedule:“(A) Not later than 2 years after the date of enactment of this Act, the Assistant Secretary shall identify not less than 200 megahertz of frequencies within the covered band. “(B) Not later than 4 years after the date of enactment of this Act, the Assistant Secretary shall identify any remaining bandwidth required to be identified under paragraph (1). “(3) Required analysis.—“(A) In general.—In determining under paragraph (1) which specific frequencies within the covered band to reallocate, the Assistant Secretary shall determine the feasibility of the reallocation of frequencies. “(B) Requirements.—In conducting the analysis under subparagraph (A), the Assistant Secretary shall assess net revenue potential, relocation or sharing costs, as applicable, and the feasibility of reallocating specific frequencies, with the goal of identifying the best approach to maximize net proceeds of systems of competitive bidding for the Treasury, consistent with section 309(j) of the Communications Act of 1934 ([47 U.S.C. 309(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim)). “(d) Auctions.—The Commission shall grant licenses for the frequencies identified for reallocation under subsection (c) through systems of competitive bidding in accordance with the following schedule:“(1) Not later than 4 years after the date of enactment of this Act [July 4, 2025], the Commission shall, after notifying the Assistant Secretary, complete 1 or more systems of competitive bidding for not less than 200 megahertz of the frequencies. “(2) Not later than 8 years after the date of enactment of this Act, the Commission shall, after notifying the Assistant Secretary, complete 1 or more systems of competitive bidding for any frequencies identified under subsection (c) that remain to be auctioned after compliance with paragraph (1) of this subsection. “(e) Limitation.—The President shall modify or withdraw any frequency proposed for reallocation under this section not later than 60 days before the commencement of a system of competitive bidding scheduled by the Commission with respect to that frequency, if the President determines that such modification or withdrawal is necessary to protect the national security of the United States. “(f) Appropriation.—In addition to amounts otherwise available, there is appropriated to the Department of Commerce for fiscal year 2025, out of any money in the Treasury not otherwise appropriated, $50,000,000, to remain available through September 30, 2034, to provide additional support to the Assistant Secretary to—“(1) conduct a timely spectrum analysis of the bands of frequencies—“(A) between 2.7 gigahertz and 2.9 gigahertz; “(B) between 4.4 gigahertz and 4.9 gigahertz; and “(C) between 7.25 gigahertz and 7.4 gigahertz; and “(2) publish a biennial report, with the last report to be published not later than June 30, 2034, on the value of all spectrum used by Federal entities (as defined in section 113(l) of the National Telecommunications and Information Administration Organization Act ([47 U.S.C. 923](./chapter-008-national-telecommunications-and-information-administration.md#section-923)(l))), that assesses the value of bands of frequencies in increments of not more than 100 megahertz.”
+
+#### Auction of AWS–3 Bands
+Pub. L. 118–159, div. E, title LIV, §§ 5402–5404, Dec. 23, 2024, 138 Stat. 2449, 2450, provided that: “SEC. 5402. DEFINITIONS.“In this title [amending [section 1603 of this title](./chapter-015-secure-and-trusted-communications-networks.md#section-1603) and enacting provisions set out as a note under [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609)]:“(1) Commission.—The term ‘Commission’ means the Federal Communications Commission. “(2) Covered auction.—The term ‘covered auction’ means a system of competitive bidding conducted under section 5403 [of Pub. L. 118–159, set out below]. “SEC. 5403. FCC AUCTION OF CERTAIN LICENSES.“(a) FCC Auction of Certain Licenses.—Not later than 18 months after the date of enactment of this Act [Dec. 23, 2024], the Commission shall initiate systems of competitive bidding under section 309(j) of the Communications Act of 1934 ([47 U.S.C. 309(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim)) to grant licenses for spectrum in the inventory of the Commission as of the date of enactment of this Act in the bands of frequencies referred to by the Commission as the ‘AWS–3 bands’, consistent with existing regulations to protect Federal Government operations. “(b) Completion of Auctions.—The Commission shall complete the systems of competitive bidding described in subsection (a), including receiving payments, processing applications, and granting licenses, without regard to whether the authority of the Commission under paragraph (11) of section 309(j) of the Communications Act of 1934 ([47 U.S.C. 309(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim)) has expired. “SEC. 5404. SPECTRUM AUCTION TRUST FUND.“(a) Establishment.—“(1) In general.—There is established in the Treasury of the United States a fund to be known as the ‘Spectrum Auction Trust Fund’ (referred to in this section as the ‘Fund’) for the purposes described in subsection (b). “(2) Amounts available until expended.—Amounts deposited in the Fund shall remain available until expended. “(b) Deposit of Proceeds.—“(1) In general.—Notwithstanding any other provision of law, except section 309(j)(8)(B) of the Communications Act of 1934 ([47 U.S.C. 309(j)(8)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j/8/B&num=0&edition=prelim)), the proceeds (including deposits and upfront payments from successful bidders) from any covered auction shall be deposited or available in accordance with this subsection. “(2) Treasury reimbursement.—Notwithstanding any other provision of law, an aggregate total amount of $3,300,000,000 of the proceeds of covered auctions shall be deposited in the Fund as follows:“(A) 50 percent of those amounts, but not more than $3,080,000,000 cumulatively, shall be transferred to the general fund of the Treasury to reimburse the amount borrowed under subsection (c)(1). “(B) 50 percent of those amounts, but not more than $220,000,000 cumulatively, shall be transferred to the general fund of the Treasury to reimburse the amount borrowed under subsection (d)(1). “(3) Distribution.—If the maximum amount permitted under any subparagraph of paragraph (2) is reached, whether through covered auction proceeds or appropriations to the program specified in that subparagraph, any remaining proceeds from the amount of proceeds of covered auctions described in that paragraph shall be deposited pro rata based on the original distribution to all subparagraphs of paragraph (2) for which the maximum amount permitted has not been met. “(4) Extra amounts.—“(A) In general.—After the amounts required to be made available by paragraphs (2) and (3) are so made available, any remaining amounts up to $280,000,000 shall be made available to the Secretary of Commerce to carry out section 28 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3722a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3722a&num=0&edition=prelim)). “(B) Limitation.—The Secretary of Commerce may not use any funds made available under subparagraph (A) in a manner that may result in outlays on or after December 31, 2033. “(C) Deficit reduction.—After the amounts required to be made available by subparagraph (A) are so made available, any remaining amounts shall be deposited in the general fund of the Treasury, where such amounts shall be dedicated for the sole purpose of deficit reduction. “(c) FCC Borrowing Authority.—“(1) In general.—Subject to the limitation under paragraph (2), not later than 90 days after the date of enactment of this Act [Dec. 23, 2024], the Commission may borrow from the Treasury of the United States an amount not to exceed $3,080,000,000 to carry out the Secure and Trusted Communications Networks Act of 2019 ([47 U.S.C. 1601](./chapter-015-secure-and-trusted-communications-networks.md#section-1601) et seq.). “(2) Limitation.—The Commission may not use any funds borrowed under this subsection in a manner that may result in outlays on or after December 31, 2033. “(d) Department of Commerce Borrowing Authority.—“(1) In general.—Subject to the limitation under paragraph (2), not later than 90 days after the date of enactment of this Act, the Secretary of Commerce may borrow from the Treasury of the United States an amount not to exceed $220,000,000 to carry out section 28 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3722a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3722a&num=0&edition=prelim)). “(2) Limitation.—The Secretary of Commerce may not use any funds borrowed under this subsection in a manner that may result in outlays on or after December 31, 2033. “(e) Reporting Requirement.—Not later than 2 years after the date of enactment of this Act, and annually thereafter until funds are fully expended, the head of an agency that receives funds under subsection (b)(4)(A), (c)(1), or (d)(1) shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the uses of the amounts received by that agency head under the applicable subsection.”
 
 #### 5G Spectrum Authority Licensing Enforcement
 Pub. L. 118–27, Dec. 19, 2023, 137 Stat. 132, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘5G Spectrum Authority Licensing Enforcement Act’ or the ‘5G SALE Act’. “SEC. 2. FCC PROCESSING OF APPLICATIONS FOR SPECTRUM LICENSES AWARDED BY AUCTION.“In the case of any applicant for a license or permit for the use of spectrum in the band of frequencies between 2496 megahertz and 2690 megahertz, inclusive, that the Federal Communications Commission selected through a system of competitive bidding conducted under section 309(j) of the Communications Act of 1934 ([47 U.S.C. 309(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim)) on or before March 9, 2023, and to whom the Commission has not granted the license or permit as of the date of enactment of this Act [Dec. 19, 2023], the Commission may process the application of the applicant during the 90-day period beginning on the date of enactment of this Act.”
@@ -9204,11 +9451,8 @@ Pub. L. 117–58, div. F, title VI, § 60602(b), Nov. 15, 2021, 135 Stat. 1249, 
 
 ### Statutory Notes
 
-#### Delayed Effective Date
-For delayed effective date of section, see Effective Date note below.
-
 #### Effective Date
-Pub. L. 117–223, § 6, Dec. 7, 2022, 136 Stat. 2288, provided that: “The requirements under section 345 of the Communications Act of 1934 [[47 U.S.C. 345](./chapter-005-wire-or-radio-communication.md#section-345)], as added by section 4 of this Act, shall take effect 60 days after the date on which the Federal Communications Commission adopts the rules implementing that section pursuant to section 5(b)(1) of this Act [section 5(b)(1) of Pub. L. 117–223, set out below].”
+Pub. L. 117–223, § 6, Dec. 7, 2022, 136 Stat. 2288, provided that: “The requirements under section 345 of the Communications Act of 1934 [[47 U.S.C. 345](./chapter-005-wire-or-radio-communication.md#section-345)], as added by section 4 of this Act, shall take effect 60 days after the date on which the Federal Communications Commission adopts the rules implementing that section pursuant to section 5(b)(1) of this Act [section 5(b)(1) of Pub. L. 117–223, set out below].” [Rules adopted by Order of the Federal Communications Commission released Nov. 16, 2023, with final rules effective Jan. 14, 2024, see 88 F.R. 84406.]
 
 #### Savings Clause
 Pub. L. 117–223, § 7, Dec. 7, 2022, 136 Stat. 2288, provided that: “Nothing in this Act [enacting this section and provisions set out as notes under this section] or the amendments made by this Act shall be construed to abrogate, limit, or otherwise affect the provisions set forth in the Communications Assistance for Law Enforcement Act ([title I of] Public Law 103–414; 108 Stat. 4279) [[47 U.S.C. 1001](./chapter-009-interception-of-digital-and-other-communications.md#section-1001) et seq.] and the amendments made by that Act, any authority granted to the Federal Communications Commission pursuant to that Act or the amendments made by that Act, or any regulations promulgated by the Federal Communications Commission pursuant to that Act or the amendments made by that Act.”
@@ -13647,7 +13891,7 @@ Pub. L. 104–104, title V, § 505(b), Feb. 8, 1996, 110 Stat. 136, provided tha
 
 (2) **Covered equipment** — The term “covered equipment” means equipment (such as a router) employed on the premises of a person (other than a provider of a covered service or fixed broadband internet access service) to provide a covered service or to provide fixed broadband internet access service.
 
-(3) **Covered service** — The term “covered service” means service provided by a multichannel video programming distributer, 11 So in original. Probably should be “distributor,”. to the extent such distributor is acting as a multichannel video programming distributor.
+(3) **Covered service** — The term “covered service” means service provided by a multichannel video programming distributer,11 So in original. Probably should be “distributor,”. to the extent such distributor is acting as a multichannel video programming distributor.
 
 ### Statutory Notes
 
@@ -14094,6 +14338,12 @@ This chapter may be cited as the “Communications Act of 1934.”
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which enacted this chapter, amended [section 35 of this title](./chapter-002-submarine-cables.md#section-35), [section 21 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section21&num=0&edition=prelim), Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
+
+#### Short Title of 2025 Amendment
+Pub. L. 119–12, § 1, May 19, 2025, 139 Stat. 55, provided that: “This Act [enacting [section 223a of this title](./chapter-005-wire-or-radio-communication.md#section-223a), amending [section 223 of this title](./chapter-005-wire-or-radio-communication.md#section-223), and enacting provisions set out as notes under sections 223 and 223a of this title] may be cited as the ‘Tools to Address Known Exploitation by Immobilizing Technological Deepfakes on Websites and Networks Act’ or the ‘TAKE IT DOWN Act’.”
+
+#### Short Title of 2024 Amendment
+Pub. L. 118–159, div. E, title LIV, § 5401, Dec. 23, 2024, 138 Stat. 2449, provided that: “This title [amending [section 1603 of this title](./chapter-015-secure-and-trusted-communications-networks.md#section-1603) and enacting provisions set out as a note under [section 309 of this title](./chapter-005-wire-or-radio-communication.md#section-309)] may be cited as the ‘Spectrum and Secure Technology and Innovation Act of 2024’.”
 
 #### Short Title of 2023 Amendment
 Pub. L. 117–338, § 1, Jan. 5, 2023, 136 Stat. 6156, provided that: “This Act [amending sections 152, 153, and 276 of this title and enacting provisions set out as notes under [section 152 of this title](./chapter-005-wire-or-radio-communication.md#section-152)] may be cited as the ‘Martha Wright-Reed Just and Reasonable Communications Act of 2022’.”

@@ -190,13 +190,13 @@ For the purpose of this chapter—
 
 (1) any meat or meat product, poultry or poultry product, or tobacco or tobacco product;
 
-(2) any commodity subject to packaging or labeling requirements imposed by the Secretary of Agriculture pursuant to the Federal Insecticide, Fungicide, and Rodenticide Act [[7 U.S.C. 136](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) et seq.], or the provisions of the eighth paragraph under the heading “Bureau of Animal Industry” of the Act of March 4, 1913 [[21 U.S.C. 151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section151&num=0&edition=prelim) et seq.], commonly known as the Virus-Serum-Toxin Act;
+(2) any commodity subject to packaging or labeling requirements imposed by the Secretary of Agriculture pursuant to the Federal Insecticide, Fungicide, and Rodenticide Act [[7 U.S.C. 136](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) et seq.], or the provisions of the eighth paragraph under the heading “Bureau of Animal Industry” of the Act of March 4, 1913 (37 Stat. 832–833; [21 U.S.C. 151–157](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section151–157&num=0&edition=prelim)),11 See References in Text note below. commonly known as the Virus-Serum-Toxin Act;
 
-(3) any drug subject to the provisions of section 503(b)(1) or 506 of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 353(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b/1&num=0&edition=prelim) and 356];
+(3) any drug subject to the provisions of section 503(b)(1) or 506 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 353(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b/1&num=0&edition=prelim) and 356);
 
-(4) any beverage subject to or complying with packaging or labeling requirements imposed under the Federal Alcohol Administration Act [[27 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title27-section201&num=0&edition=prelim) et seq.]; or
+(4) any beverage subject to or complying with packaging or labeling requirements imposed under the Federal Alcohol Administration Act ([27 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title27-section201&num=0&edition=prelim) et seq.); or
 
-(5) any commodity subject to the provisions of the Federal Seed Act [[7 U.S.C. 1551](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1551&num=0&edition=prelim) et seq.].
+(5) any commodity subject to the provisions of the Federal Seed Act ([7 U.S.C. 1551–161](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1551–161&num=0&edition=prelim)0).1
 
 **(b)** The term “package” means any container or wrapping in which any consumer commodity is enclosed for use in the delivery or display of that consumer commodity to retail purchasers, but does not include—
 

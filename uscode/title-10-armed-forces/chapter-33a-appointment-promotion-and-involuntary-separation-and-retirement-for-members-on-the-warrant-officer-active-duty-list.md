@@ -282,12 +282,15 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 <a id="section-577"></a>
 ## § 577. Promotions: effect of failure of selection for
 
-A warrant officer who has been considered for promotion by a selection board convened under [section 573 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-573), but not selected, shall be considered for promotion by each subsequent selection board that considers officers in his grade (or grade and competitive category) until he is retired or separated or he is selected for promotion. However, the Secretary concerned may, by regulation, preclude from consideration by a selection board by which he would otherwise be eligible to be considered, a warrant officer who has an established separation date that is within 90 days after the date on which the board is convened.
+A warrant officer who has been considered for promotion by a selection board convened under [section 573 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-573), but not selected, shall be considered for promotion by each subsequent selection board that considers officers in his grade (or grade and competitive category) until he is retired or separated or he is selected for promotion. However, the Secretary concerned may, by regulation, preclude from consideration by a selection board by which he would otherwise be eligible to be considered, a warrant officer who has an established separation date that is within 90 days after the date on which the board is convened or an approved retirement date.
 
 ### Statutory Notes
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 561 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section561&num=0&edition=prelim) prior to repeal by Pub. L. 102–190, § 1112(a).
+
+#### Amendments
+2024—Pub. L. 118–159 inserted “or an approved retirement date” after “an established separation date that is within 90 days after the date on which the board is convened”.
 
 #### Effective Date
 Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
@@ -307,11 +310,13 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 **(f)** A warrant officer who has served continuously as an officer since subscribing to the oath of office prescribed in [section 3331 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3331&num=0&edition=prelim) is not required to take a new oath upon appointment to a higher grade under this section.
 
-**(g)** Notwithstanding subsection (d), and subject to regulations prescribed by the Secretary of Defense, in the case of a warrant officer who is selected for promotion by a selection board convened under this chapter, and prior to the placement of the warrant officer’s name on the applicable promotion list is approved 11 So in original. for transfer to a new component within the same or a different armed force, the Secretary concerned may place the warrant officer’s name on a corresponding promotion list of the new component without regard to the warrant officer’s competitive category. A warrant officer’s promotion under this subsection shall be made pursuant to [section 12242 of this title](./chapter-1207-warrant-officers.md#section-12242).
+**(g)** Notwithstanding subsection (d), and subject to regulations prescribed by the Secretary of Defense, in the case of a warrant officer who is selected for promotion by a selection board convened under this chapter, and prior to the placement of the warrant officer’s name on the applicable promotion list as approved for transfer to a new component within the same or a different armed force, the Secretary concerned may place the warrant officer’s name on a corresponding promotion list of the new component without regard to the warrant officer’s competitive category. A warrant officer’s promotion under this subsection shall be made pursuant to [section 12242 of this title](./chapter-1207-warrant-officers.md#section-12242).
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (g). Pub. L. 118–159 substituted “as approved” for “is approved”.
+
 2023—Subsec. (g). Pub. L. 118–31 added subsec. (g).
 
 2022—Subsec. (a). Pub. L. 117–263 substituted “set forth in [section 576(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section576/c&num=0&edition=prelim)” for “of the seniority of such officers on the warrant officer active-duty list”.

@@ -204,9 +204,9 @@ All functions, powers, and duties of the Foreign Claims Settlement Commission es
 #### References in Text
 Reorganization Plan Numbered 1 of 1954, referred to in text, is Reorg. Plan. No. 1 of 1954, July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, which is set out as a note under [section 1622 of this title](./chapter-021-settlement-of-international-claims.md#section-1622).
 
-The War Claims Act of 1948, as amended, referred to in text, is act July 3, 1948, ch. 826, 62 Stat. 1240, as amended, which is classified generally to chapter 51 (§ 4101 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The War Claims Act of 1948, as amended, referred to in text, is act July 3, 1948, ch. 826, 62 Stat. 1240, which is classified generally to chapter 51 (§ 4101 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-The International Claims Settlement Act of 1949, as amended, referred to in text, is act Mar. 10, 1950, ch. 54, 64 Stat. 12, as amended, which is classified generally to this chapter (§ 1621 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1621 of this title](./chapter-021-settlement-of-international-claims.md#section-1621) and Tables.
+The International Claims Settlement Act of 1949, as amended, referred to in text, is act Mar. 10, 1950, ch. 54, 64 Stat. 12, which is classified generally to this chapter (§ 1621 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1621 of this title](./chapter-021-settlement-of-international-claims.md#section-1621) and Tables.
 
 #### Codification
 Section was not enacted as part of the International Claims Settlement Act of 1949 which comprises this chapter.
@@ -242,7 +242,7 @@ The Commission is authorized, in accordance with civil service laws and in accor
 ### Statutory Notes
 
 #### References in Text
-Title IX of the Foreign Service Act of 1946, as amended, referred to in text, is title IX of act Aug. 13, 1946, ch. 957, 60 Stat. 1025, as amended, which was classified generally to subchapter IX (§§ 1131–1160) of chapter 14 of this title, and was repealed by section 2205(1) of the Foreign Service Act of 1980, Pub. L. 96–465, title II, Oct. 17, 1980, 94 Stat. 2159. The Foreign Service Act of 1980 is classified principally to chapter 52 (§ 3901 et seq.) of this title. Section 2401(c) of the 1980 Act ([22 U.S.C. 4172(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4172/c&num=0&edition=prelim)) provides in part that references in law to provisions of the Foreign Service Act of 1946 shall be deemed to include reference to the corresponding provisions of the 1980 Act. For provisions corresponding to title IX of the Foreign Service Act of 1946, see Table preceding [section 801 of this title](./chapter-014-foreign-service.md#section-801).
+Title IX of the Foreign Service Act of 1946, as amended, referred to in text, is title IX of act Aug. 13, 1946, ch. 957, 60 Stat. 1025, which was classified generally to subchapter IX (§§ 1131–1160) of chapter 14 of this title, and was repealed by section 2205(1) of the Foreign Service Act of 1980, Pub. L. 96–465, title II, Oct. 17, 1980, 94 Stat. 2159. The Foreign Service Act of 1980 is classified principally to chapter 52 (§ 3901 et seq.) of this title. Section 2401(c) of the 1980 Act ([22 U.S.C. 4172(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4172/c&num=0&edition=prelim)) provides in part that references in law to provisions of the Foreign Service Act of 1946 shall be deemed to include reference to the corresponding provisions of the 1980 Act. For provisions corresponding to title IX of the Foreign Service Act of 1946, see Table preceding [section 801 of this title](./chapter-014-foreign-service.md#section-801).
 
 #### Codification
 Section was not enacted as part of the International Claims Settlement Act of 1949 which comprises this chapter.
@@ -298,9 +298,9 @@ Nothing in this Act shall be construed to diminish the independence of the Commi
 #### References in Text
 This Act, referred to in text, is Pub. L. 96–209, Mar. 14, 1980, 94 Stat. 96, which enacted sections 1622a to 1622g of this title, amended [section 5316 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim), Government Organization and Employees, and [section 4101 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4101&num=0&edition=prelim), War and National Defense, and enacted provisions set out as notes under [section 1622a of this title](./chapter-021-settlement-of-international-claims.md#section-1622a), section 363 of former Title 31, Money and Finance, and [section 7546 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7546&num=0&edition=prelim), The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
-The War Claims Act of 1948, as amended, referred to in text, is act July 3, 1948, ch. 826, 62 Stat. 1240, as amended, which is classified generally to chapter 51 (§ 4101 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The War Claims Act of 1948, as amended, referred to in text, is act July 3, 1948, ch. 826, 62 Stat. 1240, which is classified generally to chapter 51 (§ 4101 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-The International Claims Settlement Act of 1949, as amended, referred to in text, is act Mar. 10, 1950, ch. 54, 64 Stat. 12, as amended, which is classified generally to this chapter (§ 1621 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1621 of this title](./chapter-021-settlement-of-international-claims.md#section-1621) and Tables.
+The International Claims Settlement Act of 1949, as amended, referred to in text, is act Mar. 10, 1950, ch. 54, 64 Stat. 12, which is classified generally to this chapter (§ 1621 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1621 of this title](./chapter-021-settlement-of-international-claims.md#section-1621) and Tables.
 
 Reorganization Plan Numbered 1 of 1954, referred to in text, is Reorg. Plan No. 1 of 1954, July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, which is set out as a note under [section 1622 of this title](./chapter-021-settlement-of-international-claims.md#section-1622).
 
@@ -374,7 +374,7 @@ Subsec. (k). Pub. L. 99–451, § 1(b), added subsec. (k).
 
 1955—Act Aug. 9, 1955, § 1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
 
-Subsecs. (a), (b), (e) to (h) and (j). Act Aug. 9, 1955, § 2, substituted “subchapter” for “chapter”.
+Subsecs. (a), (b), (e) to (h), (j). Act Aug. 9, 1955, § 2, substituted “subchapter” for “chapter”.
 
 #### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
 References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under [section 1644 of this title](./chapter-021-settlement-of-international-claims.md#section-1644).

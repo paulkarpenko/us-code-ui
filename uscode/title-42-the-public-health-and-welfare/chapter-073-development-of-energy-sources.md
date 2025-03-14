@@ -948,7 +948,7 @@ The effective date of this chapter, referred to in par. (2), refers to the effec
 1998—Par. (5). Pub. L. 105–261 added par. (5).
 
 #### Availability of Funds for Licensing by NRC
-Pub. L. 105–261, div. C, title XXXI, § 3134(b), Oct. 17, 1998, 112 Stat. 2247, provided that: “Section 210 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 ([42 U.S.C. 7272](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7272&num=0&edition=prelim) [now [50 U.S.C. 2513](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2513&num=0&edition=prelim)]) shall not apply to any licensing activities required pursuant to section 202(5) of the Energy Reorganization Act of 1974 ([42 U.S.C. 5842](./chapter-073-development-of-energy-sources.md#section-5842)), as added by subsection (a).”
+Pub. L. 105–261, div. C, title XXXI, § 3134(b), Oct. 17, 1998, 112 Stat. 2247, provided that: “[Former] Section 210 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 ([former] [42 U.S.C. 7272](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7272&num=0&edition=prelim) [see [10 U.S.C. 6106](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6106&num=0&edition=prelim)]) shall not apply to any licensing activities required pursuant to section 202(5) of the Energy Reorganization Act of 1974 ([42 U.S.C. 5842](./chapter-073-development-of-energy-sources.md#section-5842)), as added by subsection (a).”
 
 #### Applicability of Occupational Safety and Health Requirements to Activities Under License
 Pub. L. 105–261, div. C, title XXXI, § 3134(c), Oct. 17, 1998, 112 Stat. 2247, provided that: “Any activities carried out under a license required pursuant to section 202(5) of the Energy Reorganization Act of 1974 ([42 U.S.C. 5842](./chapter-073-development-of-energy-sources.md#section-5842)), as added by subsection (a), shall be subject to regulation under the Occupational Safety and Health Act of 1970 ([29 U.S.C. 651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) et seq.).”
@@ -1003,7 +1003,7 @@ Subsec. (b). Pub. L. 118–67, § 505(a)(2)(A), inserted heading and substituted
 
 Subsec. (b)(3). Pub. L. 118–67, § 505(a)(2)(B), substituted “to fulfill the licensing and regulatory oversight” for “for the discharge of the”.
 
-Subsecs. (c), (d). Pub. L. 118–67, § 505(a)(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d) and inserted heading.
+Subsecs. (c), (d). Pub. L. 118–67, § 505(a)(3), (4), added subsec. (c), redesignated former subsec. (c) as (d), and inserted heading in subsec. (d).
 
 #### Transfer of Functions
 For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under [section 5841 of this title](./chapter-073-development-of-energy-sources.md#section-5841).
@@ -1304,7 +1304,7 @@ This chapter, referred to in subsecs. (a)(1) and (g), was in the original “thi
 
 The Atomic Energy Act of 1954, referred to in subsecs. (a)(1) and (g), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification on this Act to the Code, see Short Title note set out under [section 2011 of Title 42](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
-Executive Order No. 12344, referred to in subsec. (a)(2)(D), is Ex. Ord. No. 12344, Feb. 1, 1982, 47 F.R. 4979, which is set out as a note under [section 2511 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2511&num=0&edition=prelim), War and National Defense.
+Executive Order No. 12344, referred to in subsec. (a)(2)(D), is Ex. Ord. No. 12344, Feb. 1, 1982, 47 F.R. 4979, which is set out as a note under [section 6102 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6102&num=0&edition=prelim), Armed Forces.
 
 #### Amendments
 2005—Subsec. (a)(2)(E) to (G). Pub. L. 109–58, § 629(a), added subpars. (E) to (G).
@@ -1618,7 +1618,7 @@ The Secretary of Energy shall,11 So in original. The comma probably should not a
 ### Statutory Notes
 
 #### References in Text
-Section 204(b) of the Department of Energy Act 1978—Civilian Applications ([42 U.S.C. 7256](./chapter-084-department-of-energy.md#section-7256), note; 92 Stat. 60), referred to in text, is section 204(b) of Pub. L. 95–238, title II, Feb. 25, 1978, 92 Stat. 59, as amended, which is set out as a note under [section 7256 of this title](./chapter-084-department-of-energy.md#section-7256).
+Section 204(b) of the Department of Energy Act 1978—Civilian Applications ([42 U.S.C. 7256](./chapter-084-department-of-energy.md#section-7256), note; 92 Stat. 60), referred to in text, is section 204(b) of Pub. L. 95–238, title II, Feb. 25, 1978, 92 Stat. 59, which is set out as a note under [section 7256 of this title](./chapter-084-department-of-energy.md#section-7256).
 
 #### Codification
 Section was not enacted as a part of the Energy Reorganization Act of 1974 which comprises this chapter.

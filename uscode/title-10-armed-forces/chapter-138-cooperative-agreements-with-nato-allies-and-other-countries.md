@@ -2,7 +2,7 @@
 title: 10
 chapter: '138'
 heading: COOPERATIVE AGREEMENTS WITH NATO ALLIES AND OTHER COUNTRIES
-section_count: 29
+section_count: 31
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -50,7 +50,7 @@ Pub. L. 102–484, div. A, title XIII, § 1312(c), Oct. 23, 1992, 106 Stat. 2548
 Pub. L. 96–323, § 1, Aug. 4, 1980, 94 Stat. 1016, provided: “That this Act [enacting this chapter] may be cited as the ‘North Atlantic Treaty Organization Mutual Support Act of 1979’.”
 
 #### Demonstration and Prototyping Program To Advance International Product Support Capabilities in a Contested Logistics Environment
-Pub. L. 118–31, div. A, title VIII, § 842, Dec. 22, 2023, 137 Stat. 340, provided that: “(a) Contested Logistics Demonstration and Prototyping Program Required.—The Secretary of Defense shall establish a contested logistics demonstration and prototyping program to identify, develop, demonstrate, and field capabilities for product support in order to reduce or mitigate the risks associated with operations in a contested logistics environment. “(b) Elements.—In carrying out the Program, the Secretary shall do the following:“(1) Identify ways to capitalize on the inherent interoperability, commonality, and interchangeability of platforms and information systems operated by the United States and one or more covered nations, including to enable effective maintenance and repair activities in a contested logistics environment. “(2) Determine, develop, or establish best practices to reduce time needed to return repaired equipment to service, including the use of—“(A) commercial best practices for rapid supply support; and “(B) common or shared parts pools. “(3) Explore opportunities to expand the ability to preposition or store materials needed to enable rapid surge capability or to support operations in a contested logistics environment. “(4) Identify, develop, demonstrate, and field effective and efficient means of conducting repairs of equipment away from permanent repair facilities. “(5) Explore flexible approaches to contracting and use of partnership agreements to enable use or development of the capabilities of covered product support providers to effectively, efficiently, and timely satisfy the product support requirements of a combat commander and any applicable covered nation in a contested logistics environment. “(6) Identify the resources, including any additional authorizations, required by the Secretary of Defense to reduce or mitigate the risks associated with operations in a contested logistics environment. “(7) Identify and document impediments to the performance of product support by covered product support providers in a contested logistics environment, including impediments created by statute, regulation, policy, agency guidance, or limitations on expenditure, transfer, or receipt of funds for product support in contested logistics environments. “(8) Identify and document any statutory or regulatory waivers or exemptions that may be applicable or necessary to enable the United States and covered nations to jointly carry out product support activities in contested logistics environments located outside of the United States, including, for each such waiver and exemption—“(A) the person responsible for requesting such waiver or exemption; “(B) the criteria for approval of such waiver or exemption; and “(C) the person responsible for approving such waiver or exemption. “(c) Advance Planning and Preparation.—The Secretary may establish a product support arrangement, including an agreement for prepositioning or storage of materials, with a covered product support provider to enable a rapid response in a contingency operation (as defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim), United States Code) to the product support requirements of such contingency operation. “(d) Authorities.—In carrying out the Program, the Secretary may, in accordance with section 3 of the Arms Export Control Act ([22 U.S.C. 2753](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2753&num=0&edition=prelim)), use the authorities under sections 2342, 2474, 3601, 4021, and 4022 of title 10, United States Code. “(e) Report.—Not later than 24 months after the date of the enactment of this Act [Dec. 22, 2023], the Secretary shall submit to Congress a report summarizing Program activities, including—“(1) any recommendations to reduce impediments to meeting the requirements of a combatant command or covered nation for product support in a contested logistics environment; “(2) a summary of impediments identified under subsection (b)(7) and specific recommendations for necessary changes to statutory, regulatory, policy, agency guidance, or current limitations on expenditure, transfer, or receipt of funds to carry out the product support activities under this pilot indefinitely; “(3) a summary of waivers or exemptions identified under subsection (b)(8), along with any recommendations for changes to the processes for obtaining such waivers or exemptions; and “(4) recommendations for improving the Program, including whether to extend or make the Program permanent. “(f) Development and Promulgation of Department of Defense Guidance.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall issue guidance implementing the Program. “(g) Sunset.—The authority under this section shall terminate on the date that is three years after the date of the enactment of this Act. “(h) Definitions.—In this section:“(1) Contested logistics environment.—The term ‘contested logistics environment’ has the meaning given such term in [section 2926 of title 10](./chapter-173-energy-security.md#section-2926), United States Code. “(2) Covered nations.—The term ‘covered nation’ means—“(A) Australia; “(B) Canada; “(C) New Zealand; “(D) the United Kingdom of Great Britain and Northern Ireland; or “(E) other nations as designated as a covered nation for the purposes of this Program by the Secretary. “(3) Covered product support provider.—The term ‘covered product support provider’ means—“(A) a product support provider that includes an entity within the government of a covered nation; “(B) a private sector product support provider; or “(C) a product support integrator domiciled in the United States or a covered nation. “(4) Product support; product support integrator; product support provider.—The terms ‘product support’, ‘product support integrator’, and ‘product support provider’ have the meanings given, respectively, in [section 4324 of title 10](./chapter-323-life-cycle-and-sustainment.md#section-4324), United States Code. “(5) Product support arrangement.—“(A) In general.—The term ‘product support arrangement’ means a contract, task order, or any other type of agreement or arrangement, between the United States and a covered product support provider, for the performance of the functions described in subparagraph (B) with respect to—“(i) a platform or information system operated by the United States and the covered nation of such covered product support provider; or “(ii) a subsystem or components of such a platform or information system. “(B) Functions described.—The functions described in this subparagraph, with respect to a platform, information system, subsystem, or component described in subparagraph (A), are the following:“(i) Performance-based logistics. “(ii) Sustainment support. “(iii) Contractor logistics support. “(iv) Life-cycle product support. “(v) Weapon system product support. “(6) Program.—The term ‘Program’ means the demonstration and prototyping program established under subsection (a). “(7) Secretary.—The term ‘Secretary’ means the Secretary of Defense.”
+Pub. L. 118–31, div. A, title VIII, § 842, Dec. 22, 2023, 137 Stat. 340, as amended by Pub. L. 118–159, div. A, title VIII, § 821, Dec. 23, 2024, 138 Stat. 1983; Pub. L. 119–60, div. A, title VIII, §§ 871, 872, Dec. 18, 2025, 139 Stat. 1002, provided that: “(a) Contested Logistics Demonstration and Prototyping Program Required.—The Secretary of Defense shall establish a contested logistics demonstration and prototyping program to identify, develop, demonstrate, and field capabilities for product support in order to reduce or mitigate the risks associated with operations in a contested logistics environment. “(b) Elements.—In carrying out the Program, the Secretary shall do the following:“(1) Identify ways to capitalize on the inherent interoperability, commonality, and interchangeability of platforms and information systems operated by the United States and one or more covered nations, including to enable effective maintenance and repair activities in a contested logistics environment. “(2) Determine, develop, or establish best practices to reduce time needed to return repaired equipment to service, including the use of—“(A) commercial best practices for rapid supply support; “(B) advanced manufacturing (as defined in [section 4841(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4841/f&num=0&edition=prelim), United States Code) facilities for rapid, distributed production of parts closer to the point of use; and “(C) common or shared parts pools. “(3) Explore opportunities to expand the ability to preposition or store materials needed to enable rapid surge capability or to support operations in a contested logistics environment. “(4) Identify, develop, demonstrate, and field effective and efficient means of conducting repairs of equipment away from permanent repair facilities. “(5) Explore flexible approaches to contracting and use of partnership agreements to enable use or development of the capabilities of covered product support providers to effectively, efficiently, and timely satisfy the product support requirements of a combat commander and any applicable covered nation in a contested logistics environment. “(6) Identify the resources, including any additional authorizations, required by the Secretary of Defense to reduce or mitigate the risks associated with operations in a contested logistics environment. “(7) Identify and document impediments to the performance of product support by covered product support providers in a contested logistics environment, including impediments created by statute, regulation, policy, agency guidance, or limitations on expenditure, transfer, or receipt of funds for product support in contested logistics environments. “(8) Identify and document any statutory or regulatory waivers or exemptions that may be applicable or necessary to enable the United States and covered nations to jointly carry out product support activities in contested logistics environments located outside of the United States, including, for each such waiver and exemption—“(A) the person responsible for requesting such waiver or exemption; “(B) the criteria for approval of such waiver or exemption; and “(C) the person responsible for approving such waiver or exemption. “(c) Advance Planning and Preparation.—The Secretary may establish a product support arrangement, including an agreement for prepositioning or storage of materials, with a covered product support provider to enable a rapid response in a contingency operation (as defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim), United States Code) to the product support requirements of such contingency operation. “(d) Authorities.—In carrying out the Program, the Secretary may, in accordance with section 3 of the Arms Export Control Act ([22 U.S.C. 2753](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2753&num=0&edition=prelim)), use the authorities under sections 2342, 2474, 3601, 4021, and 4022 of title 10, United States Code. “(e) Report.—Not later than 24 months after the date of the enactment of this Act [Dec. 22, 2023], the Secretary shall submit to Congress a report summarizing Program activities, including—“(1) any recommendations to reduce impediments to meeting the requirements of a combatant command or covered nation for product support in a contested logistics environment; “(2) a summary of impediments identified under subsection (b)(7) and specific recommendations for necessary changes to statutory, regulatory, policy, agency guidance, or current limitations on expenditure, transfer, or receipt of funds to carry out the product support activities under this pilot indefinitely; “(3) a summary of waivers or exemptions identified under subsection (b)(8), along with any recommendations for changes to the processes for obtaining such waivers or exemptions; and “(4) recommendations for improving the Program, including whether to extend or make the Program permanent. “(f) Development and Promulgation of Department of Defense Guidance.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall issue guidance implementing the Program. “(g) Sunset.—The authority under this section shall terminate December 31, 2030. “(h) Contested Logistics Exercise Requirement.—Not later than September 30, 2027, and biannually thereafter until the termination date in subsection (g), the Secretary of Defense, in coordination with the senior official responsible for integration of global logistics (as designated in [section 2229b of this title](./chapter-131-planning-and-coordination.md#section-2229b)), shall incorporate the requirements of the Program into a joint exercise that focuses on the contested logistics environment. “(i) Definitions.—In this section:“(1) Contested logistics environment.—The term ‘contested logistics environment’ has the meaning given such term in [section 2926 of title 10](./chapter-173-energy-security.md#section-2926), United States Code. “(2) Covered nations.—The term ‘covered nation’ means—“(A) Australia; “(B) Canada; “(C) Japan; “(D) New Zealand; “(E) the Republic of Korea; “(F) the United Kingdom of Great Britain and Northern Ireland; or “(G) other nations as designated as a covered nation for the purposes of this Program by the Secretary. “(3) Covered product support provider.—The term ‘covered product support provider’ means—“(A) a product support provider that includes an entity within the government of a covered nation; “(B) a private sector product support provider; or “(C) a product support integrator domiciled in the United States or a covered nation. “(4) Product support; product support integrator; product support provider.—The terms ‘product support’, ‘product support integrator’, and ‘product support provider’ have the meanings given, respectively, in [section 4324 of title 10](./chapter-323-life-cycle-and-sustainment.md#section-4324), United States Code. “(5) Product support arrangement.—“(A) In general.—The term ‘product support arrangement’ means a contract, task order, or any other type of agreement or arrangement, between the United States and a covered product support provider, for the performance of the functions described in subparagraph (B) with respect to—“(i) a platform or information system operated by the United States and the covered nation of such covered product support provider; or “(ii) a subsystem or components of such a platform or information system. “(B) Functions described.—The functions described in this subparagraph, with respect to a platform, information system, subsystem, or component described in subparagraph (A), are the following:“(i) Performance-based logistics. “(ii) Sustainment support. “(iii) Contractor logistics support. “(iv) Life-cycle product support. “(v) Weapon system product support. “(6) Program.—The term ‘Program’ means the demonstration and prototyping program established under subsection (a). “(7) Secretary.—The term ‘Secretary’ means the Secretary of Defense.”
 
 #### Acceptance of Real Property, Services, and Commodities From Foreign Countries by Agencies of Department of Defense
 Pub. L. 101–165, title IX, § 9008, Nov. 21, 1989, 103 Stat. 1130, which authorized agencies of Department of Defense to accept use of real property from foreign countries for United States in accordance with mutual defense agreements or occupational arrangements and to accept services furnished by foreign countries as reciprocal international courtesies or as services customarily made available without charge and to use same for support of United States forces in such areas without specific appropriation therefor, was repealed and restated in [section 2350g of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2350g) by Pub. L. 101–510, div. A, title XIV, § 1451(b)(1), (c), Nov. 5, 1990, 104 Stat. 1692, 1693.
@@ -1229,15 +1229,17 @@ Pub. L. 101–510, div. A, title XIV, § 1452(b), Nov. 5, 1990, 104 Stat. 1694, 
 ## § 2350j. Burden sharing contributions by designated countries and regional organizations
 **(a) Authority To Accept Contributions.—** The Secretary of Defense, after consultation with the Secretary of State, may accept cash contributions from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State, for the purposes specified in subsection (c).
 
-**(b) Accounting.—** Contributions accepted under subsection (a) which are not related to security assistance may be accepted, managed, and expended in dollars or in the currency of the host nation (or, in the case of a contribution from a regional organization, in the currency in which the contribution was provided). Any such contribution shall be placed in an account established for such purpose and shall remain available until expended for the purposes specified in subsection (c). The Secretary of Defense shall establish a separate account for such purpose for each country or regional organization from which such contributions are accepted under subsection (a).
+**(b) Accounting.—** Contributions accepted under subsection (a) which are not related to security assistance may be accepted, managed, and expended in dollars or in the currency of the host nation (or, in the case of a contribution from another country or a regional organization, in the currency in which the contribution was provided). Any such contribution shall be placed in an account established for such purpose and shall remain available until expended for the purposes specified in subsection (c). The Secretary of Defense shall establish a separate account for such purpose for each country or regional organization from which such contributions are accepted under subsection (a).
 
 **(c) Availability of Contributions.—** Contributions accepted under subsection (a) shall be available only for the payment of the following costs:
 
-(1) Compensation for local national employees of the Department of Defense.
+(1) Compensation for local national employees of the Department of Defense in the host nation or another country.
 
-(2) Military construction projects of the Department of Defense.
+(2) Military construction projects of the Department of Defense in the host nation or another country.
 
-(3) Supplies and services of the Department of Defense.
+(3) Supplies and services of the Department of Defense in the host nation or another country.
+
+(4) Other logistical and operational support for the armed forces in a deployed or rotational status in a country that is a member of the North Atlantic Treaty Organization.
 
 **(d) Authorization of Military Construction.—** Contributions placed in an account established under subsection (b) may be used—
 
@@ -1285,7 +1287,15 @@ Pub. L. 101–510, div. A, title XIV, § 1452(b), Nov. 5, 1990, 104 Stat. 1694, 
 
     (ii) the amount of any remaining unobligated balance.
 
-  (E) The amount of such burden sharing contributions expended, by eligible category, including compensation for local national employees, military construction projects, and supplies and services of the Department of Defense.
+  (E) The amount of such burden sharing contributions expended, by eligible category, including compensation for—
+
+    (i) local national employees;
+
+    (ii) military construction projects;
+
+    (iii) supplies and services of the Department of Defense; and
+
+    (iv) other logistical and operational support for the armed forces in a deployed or rotational status in a country that is a member of the North Atlantic Treaty Organization.
 
   (F) Any other matter the Secretary of Defense considers relevant.
 
@@ -1294,6 +1304,12 @@ Pub. L. 101–510, div. A, title XIV, § 1452(b), Nov. 5, 1990, 104 Stat. 1694, 
   (A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
 
   (B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
+
+**(g) Other Logistical and Operational Support for the Armed Forces Defined.—** In this section, the term “other logistical and operational support for the armed forces”—
+
+(1) means the reasonable and proper costs of the armed forces for fuel, transportation, force protection (including cyber protection), training ammunition, utilities, and medical and maintenance services, including services required to maintain infrastructure, pre-positioned stocks, and equipment in good working order; and
+
+(2) does not include pay, allowances, and other normal benefits to which members of the United States armed forces are entitled.
 
 ### Statutory Notes
 
@@ -1304,6 +1320,16 @@ The National Emergencies Act, referred to in subsec. (e)(3), is Pub. L. 94–412
 Section, as added by Pub. L. 103–160, consists of text of Pub. L. 102–190, div. A, title X, § 1045, Dec. 5, 1991, 105 Stat. 1465, as amended by Pub. L. 102–484, div. A, title XIII, § 1305(a), (b), Oct. 23, 1992, 106 Stat. 2546, and revised by Pub. L. 103–160, in subsec. (a), by substituting “The Secretary” for “During fiscal years 1992 and 1993, the Secretary”, inserting “, after consultation with the Secretary of State,” after “Secretary of Defense”, and substituting “from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State” for “from Japan, Kuwait, and the Republic of Korea”, and in former subsec. (f), by substituting “each fiscal year” for “each quarter of fiscal years 1992 and 1993”, “Congress” for “congressional defense committees”, “each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)” for “Japan, Kuwait, and the Republic of Korea”, and “the preceding fiscal year” for “the preceding quarter” in pars. (1) and (2).
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–60, § 1246(1), inserted “another country or” before “a regional organization”.
+
+Subsec. (c)(1) to (3). Pub. L. 119–60, § 1246(2)(A)–(C), inserted “in the host nation or another country” before period at end.
+
+Subsec. (c)(4). Pub. L. 119–60, § 1246(2)(D), added par. (4).
+
+Subsec. (f)(2)(E). Pub. L. 119–60, § 1246(3), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “The amount of such burden sharing contributions expended, by eligible category, including compensation for local national employees, military construction projects, and supplies and services of the Department of Defense.”
+
+Subsec. (g). Pub. L. 119–60, § 1246(4), added subsec. (g).
+
 2021—Subsec. (f). Pub. L. 116–283 added subsec. (f).
 
 2017—Subsec. (e)(2). Pub. L. 115–91, § 2801(f)(2), which directed striking out “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided”, was executed by striking out “or, if earlier, the end of the 14-day period beginning on the date on which a copy of that report is provided” after “regarding the project”, to reflect the probable intent of Congress.
@@ -1430,7 +1456,7 @@ Pub. L. 104–106, div. A, title XIII, § 1332(b), Feb. 10, 1996, 110 Stat. 484,
 ### Statutory Notes
 
 #### Amendments
-2021—Pub. L. 116–283, § 1844(b)(1), which directed the renumbering of this section as [section 4145 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4145&num=0&edition=prelim), was repealed by Pub. L. 117–81, § 1701(u)(5)(B).
+2021—Pub. L. 116–283, § 1844(b)(1), which directed the renumbering of this section as [section 4145 of this title](./chapter-305-universities.md#section-4145), was repealed by Pub. L. 117–81, § 1701(u)(5)(B).
 
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
@@ -1637,10 +1663,10 @@ Pub. L. 116–283, div. B, § 2003, Jan. 1, 2021, 134 Stat. 4295, provided that:
 
 
 <a id="section-2350r"></a>
-## § 2350r. North Atlantic Treaty Organization Special Operations Headquarters
-**(a) Authorization.—** Of the amounts authorized to be appropriated for each fiscal year for operation and maintenance for the Army, the Secretary of Defense is authorized to use up to $50,000,000, to be derived from amounts made available for support of North Atlantic Treaty Organization (referred to in this section as “NATO”) operations, for each such fiscal year for the purposes set forth in subsection (b).
+## § 2350r. North Atlantic Treaty Organization Allied Special Operations Forces Command
+**(a) Authorization.—** Of the amounts authorized to be appropriated for each fiscal year for operation and maintenance for the Army, the Secretary of Defense is authorized to use up to $55,000,000, to be derived from amounts made available for support of North Atlantic Treaty Organization (referred to in this section as “NATO”) operations, for each such fiscal year for the purposes set forth in subsection (b).
 
-**(b) Purposes.—** The Secretary shall provide funds for the NATO Special Operations Headquarters—
+**(b) Purposes.—** The Secretary shall provide funds for the NATO Allied Special Operations Forces Command—
 
 (1) to improve coordination and cooperation between the special operations forces of NATO countries and countries approved by the North Atlantic Council as NATO partners;
 
@@ -1651,3 +1677,88 @@ Pub. L. 116–283, div. B, § 2003, Jan. 1, 2021, 134 Stat. 4295, provided that:
 (4) to promote special operations forces intelligence and informational requirements within the NATO structure; and
 
 (5) to promote interoperability through the development of common equipment standards, tactics, techniques, and procedures, and through execution of a multinational education and training program.
+
+### Statutory Notes
+
+#### Amendments
+2024—Pub. L. 118–159, § 1301(a)(1), substituted “Allied Special Operations Forces Command” for “Special Operations Headquarters” in section catchline.
+
+Subsec. (a). Pub. L. 118–159, § 1301(a)(2), substituted “$55,000,000” for “$50,000,000”.
+
+Subsec. (b). Pub. L. 118–159, § 1301(a)(3), substituted “Allied Special Operations Forces Command” for “Special Operations Headquarters” in introductory provisions.
+
+#### Change of Name
+Pub. L. 118–159, div. A, title XIII, § 1301(b), Dec. 23, 2024, 138 Stat. 2110, provided that: “Any reference to the North Atlantic Treaty Organization Special Operations Headquarters or NATO Special Operations Headquarters in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the North Atlantic Treaty Organization Allied Special Operations Forces Command.”
+
+
+<a id="section-2350s"></a>
+## § 2350s. Authority to contribute to innovation fund
+**(a) Authority to Contribute to NATO Innovation Fund.—** Within amounts authorized by law for such purpose during the five-year period following the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025, the Secretary of Defense may contribute to the NATO Innovation Fund a total amount of no more than $200,000,000.
+
+**(b) Definitions.—** In this section:
+
+(1) The term “NATO” means the North Atlantic Treaty Organization.
+
+(2) The term “NATO Innovation Fund” means the multi-sovereign, investment venture capital fund of NATO that provides secure investment in dual-use, high-impact technology.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2025, referred to in subsec. (a), is the date of enactment of Pub. L. 118–159, which was approved Dec. 23, 2024.
+
+
+<a id="section-2350t"></a>
+## § 2350t. Military medical cooperation arrangements among Five Eyes countries
+**(a) Authority.—** The Secretary of Defense may enter into a bilateral or multilateral memorandum of understanding or other formal agreement with one or more governments of the Five Eyes countries to support military medical cooperation or improve operational medical interoperability.
+
+**(b) Definitions.—** In this section:
+
+(1) The term “Five Eyes countries” means the following:
+
+  (A) Australia.
+
+  (B) Canada.
+
+  (C) New Zealand.
+
+  (D) The United Kingdom.
+
+(2) The term “military medical cooperation” means any of the following:
+
+  (A) Information exchange.
+
+  (B) Medical interoperability, including credentialing of health care personnel.
+
+  (C) Medical education, training, exercises, and evaluation.
+
+  (D) Medical research, development, trials, and evaluation.
+
+  (E) Biodefense, including with respect to prevention, preparation, response, and investigation.
+
+  (F) Medical logistics, including the recognition of MedCM, drugs and medical equipment.
+
+  (G) Patient movement.
+
+  (H) Any other areas for cooperation designated by the Secretary of Defense.
+
+(3) The term “military medicine” means any of the following:
+
+  (A) Combat casualty care including trauma.
+
+  (B) Military infectious disease.
+
+  (C) Chemical, biological, radiological, and nuclear medical support.
+
+  (D) Deployed health care delivery.
+
+  (E) Public health, health readiness, and force health protection.
+
+  (F) Mental health.
+
+  (G) Humanitarian response.
+
+  (H) Anomalous health incidents.
+
+  (I) Mass casualty management.
+
+  (J) Any other areas of military medicine designated by the Secretary of Defense.

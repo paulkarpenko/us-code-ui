@@ -27,6 +27,8 @@ The purpose of this subtitle is to provide the Federal Government with an econom
 | 101 | 40:471. | June 30, 1949, ch. 288, § 2, 63 Stat. 378; Sept. 1, 1954, ch. 1211, § 1, 68 Stat. 1126. |
 
 #### Short Title of 2024 Amendment
+Pub. L. 118–182, § 1, Dec. 23, 2024, 138 Stat. 2623, provided that: “This Act [amending sections 321 and 323 of this title] may be cited as the ‘GSA Technology Accountability Act’.”
+
 Pub. L. 118–99, § 1, Oct. 1, 2024, 138 Stat. 1578, provided that: “This Act [enacting [section 530 of this title](./chapter-005-property-management.md#section-530), amending sections 529 and 530 of this title, and enacting provisions set out as a note under [section 529 of this title](./chapter-005-property-management.md#section-529)] may be cited as the ‘Reuse Excess Property Act’.”
 
 #### Short Title of 2022 Amendment

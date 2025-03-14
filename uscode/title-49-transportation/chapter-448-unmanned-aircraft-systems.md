@@ -585,7 +585,7 @@ The date of enactment of the FAA Reauthorization Act of 2018, referred to in sub
 
 Section 2201(b) of the FAA Extension, Safety, and Security Act of 2016, referred to in subsec. (a)(2)(A)(ii), is section 2201(b) of Pub. L. 114–190, which is set out as a note under [section 40101 of this title](./chapter-401-general-provisions.md#section-40101).
 
-the date of enactment of such Act, referred to in subsec. (a)(2)(A)(ii), is the date of enactment of Pub. L. 114–190, which was approved July 15, 2016.
+The date of enactment of such Act, referred to in subsec. (a)(2)(A)(ii), is the date of enactment of Pub. L. 114–190, which was approved July 15, 2016.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (b)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
@@ -622,7 +622,7 @@ Pub. L. 118–63, title IX, § 937, May 16, 2024, 138 Stat. 1374, provided that:
 Provisions similar to those in this section were contained in section 332(d) of Pub. L. 112–95, which was set out in a note under [section 40101 of this title](./chapter-401-general-provisions.md#section-40101), prior to repeal by Pub. L. 115–254, div. B, title III, § 341(b)(2), Oct. 5, 2018, 132 Stat. 3287. The remainder of the note comprised of subtitle B of title III of Pub. L. 112–95 was transferred and is set out under [section 44802 of this title](./chapter-448-unmanned-aircraft-systems.md#section-44802).
 
 #### Amendments
-2024—Pub. L. 118–63, § 902(a)(1), substituted “Unmanned” for “Small unmanned” in section catchline.
+2024—Pub. L. 118–63, § 902(a)(1), substituted “Unmanned” for “Small unmanned” in section catchline. Catchline was editorially conformed to the style used in this title.
 
 Subsecs. (a), (b), (e)(1). Pub. L. 118–63, § 902(a)(2), struck out “small” before “unmanned aircraft” wherever appearing.
 
@@ -725,7 +725,7 @@ Subsecs. (a), (b), (e)(1). Pub. L. 118–63, § 902(a)(2), struck out “small�
 Section 2202 of the FAA Extension, Safety, and Security Act of 2016, referred to in subsec. (b)(7), is section 2202 of Pub. L. 114–190, which is set out in a note under [section 44802 of this title](./chapter-448-unmanned-aircraft-systems.md#section-44802).
 
 #### Amendments
-2024—Pub. L. 118–63, § 903(1), substituted “Small unmanned” for “Small Unmanned” in section catchline.
+2024—Pub. L. 118–63, § 903(1), substituted “Small unmanned” for “Small Unmanned” in section catchline. Catchline was editorially conformed to the style used in this title.
 
 Subsec. (a)(2). Pub. L. 118–63, § 903(2), substituted “operation of a small” for “operation of small”.
 
@@ -1207,7 +1207,7 @@ Section 931 of the FAA Reauthorization Act of 2024, referred to in subsec. (b)(1
 
   (A) be hosted in a stadium or other venue that—
 
-    (i) has previously hosted events qualifying for the application of special security instructions in accordance with section 521 of the Transportation, Treasury, and Independent Agencies Appropriations Act, 2004 (Public Law 108–199);11 See References in Text note below. and
+    (i) has previously hosted events qualifying for the application of special security instructions in accordance with section 521 of the Transportation, Treasury, and Independent Agencies Appropriations Act, 2004 (Public Law 108–199); 11 See References in Text note below. and
 
     (ii) is not enclosed;
 

@@ -78,13 +78,20 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 (2) shall be allowed a reasonable time, as determined by the board of inquiry, to prepare for showing of cause for retention in an active status;
 
-(3) shall be allowed to appear in person and to be represented by counsel at proceedings before the board of inquiry; and
+(3) subject to subsection (c), shall be allowed to appear in person and to be represented by counsel at proceedings before the board of inquiry; and
 
 (4) shall be allowed full access to, and shall be furnished copies of, records relevant to the case, except that the board of inquiry shall withhold any record that the Secretary concerned determines should be withheld in the interest of national security.
 
 **(b) Summary of Records Withheld.—** When a record is withheld under subsection (a)(4), the officer whose case is under consideration shall, to the extent that the interest of national security permits, be furnished a summary of the record so withheld.
 
+**(c) Remote Appearance.—** The Secretary concerned may determine that, in exceptional circumstances, the appearance of an officer before the proceedings of a board of inquiry may be via means other than in person.
+
 ### Statutory Notes
+
+#### Amendments
+2024—Subsec. (a)(3). Pub. L. 118–159, § 509(b)(1), substituted “subject to subsection (c), shall be” for “shall be”.
+
+Subsec. (c). Pub. L. 118–159, § 509(b)(2), added subsec. (c).
 
 #### Effective Date
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).

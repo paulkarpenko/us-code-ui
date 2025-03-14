@@ -4317,15 +4317,17 @@ Pub. L. 113–79, title II, § 2707, Feb. 7, 2014, 128 Stat. 769, provided that:
 
 **(b) Funding**
 
-(1) **Authorization of appropriations** — There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2008 through 2023.
+(1) **Authorization of appropriations** — There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2008 through 2031.
 
 (2) **Availability of funds** — In addition to funds made available under paragraph (1), of the funds of the Commodity Credit Corporation, the Secretary shall use $5,000,000, to remain available until expended.
 
 (3) **Additional funding** — In addition to any other funds made available under this subsection, of the funds of the Commodity Credit Corporation, the Secretary shall use—
 
-  (A) $5,000,000 beginning in fiscal year 2019, to remain available until expended; and
+  (A) $5,000,000 beginning in fiscal year 2019, to remain available until expended;
 
-  (B) $1,000,000 beginning in fiscal year 2024, to remain available until expended.
+  (B) $1,000,000 beginning in fiscal year 2024, to remain available until expended; and
+
+  (C) $1,000,000 beginning in fiscal year 2026, to remain available until expended.
 
 ### Statutory Notes
 
@@ -4333,6 +4335,10 @@ Pub. L. 113–79, title II, § 2707, Feb. 7, 2014, 128 Stat. 769, provided that:
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (b)(1). Pub. L. 119–21, § 10601(c)(1), substituted “2031” for “2023”.
+
+Subsec. (b)(3)(C). Pub. L. 119–21, § 10601(c)(2), added subpar. (C).
+
 2023—Subsec. (b)(3). Pub. L. 118–22 inserted dash after “use”, designated remainder of existing provisions as subpar. (A), and added subpar. (B).
 
 2018—Subsec. (b)(1). Pub. L. 115–334, § 2405(a), substituted “2023” for “2018”.
@@ -4405,7 +4411,7 @@ Pub. L. 113–79, title II, § 2709, Feb. 7, 2014, 128 Stat. 770, provided that:
 
 **(f) Funding**
 
-(1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to the maximum extent practicable, $50,000,000 for the period of fiscal years 2009 through 2012, $40,000,000 for the period of fiscal years 2014 through 2018, $50,000,000 for the period of fiscal years 2019 through 2023, and $10,000,000 for fiscal year 2024.
+(1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to the maximum extent practicable, $50,000,000 for the period of fiscal years 2009 through 2012, $40,000,000 for the period of fiscal years 2014 through 2018, $50,000,000 for the period of fiscal years 2019 through 2023, $10,000,000 for fiscal year 2024, and $70,000,000 for the period of fiscal years 2025 through 2031.
 
 (2) **Enhanced public access to wetland reserve easements** — To the maximum extent practicable, of the funds made available under paragraph (1), the Secretary shall use $3,000,000 for the period of fiscal years 2019 through 2023 to encourage public access to land covered by wetland reserve easements under [section 3865c of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3865c) through agreements with States and tribal governments under this section.
 
@@ -4420,6 +4426,8 @@ Pub. L. 113–79, title II, § 2709, Feb. 7, 2014, 128 Stat. 770, provided that:
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (f)(1). Pub. L. 119–21 substituted “2023,” for “2023, and” and inserted “, and $70,000,000 for the period of fiscal years 2025 through 2031” before period at end.
+
 2023—Subsec. (f)(1). Pub. L. 118–22 struck out “and” after “through 2018,” and inserted “, and $10,000,000 for fiscal year 2024” after “through 2023”.
 
 2018—Subsec. (a). Pub. L. 115–334, § 2406(1), substituted “funding” for “grants”.
@@ -4637,43 +4645,47 @@ Pub. L. 107–206, title I, § 103, Aug. 2, 2002, 116 Stat. 823, provided that n
 
 (2) The agricultural conservation easement program under subchapter VII using to the maximum extent practicable—
 
-  (A) $400,000,000 for fiscal year 2014;
+  (A) $625,000,000 for fiscal year 2026;
 
-  (B) $425,000,000 for fiscal year 2015;
+  (B) $650,000,000 for fiscal year 2027;
 
-  (C) $450,000,000 for fiscal year 2016;
+  (C) $675,000,000 for fiscal year 2028;
 
-  (D) $500,000,000 for fiscal year 2017;
+  (D) $700,000,000 for fiscal year 2029;
 
-  (E) $250,000,000 for fiscal year 2018; and
+  (E) $700,000,000 for fiscal year 2030; and
 
-  (F) $450,000,000 for each of fiscal years 2019 through 2031.
+  (F) $700,000,000 for fiscal year 2031.
 
 (3) The programs under part IV of subchapter IV, using, to the maximum extent practicable—
 
   (A) for the environmental quality incentives program under subpart A of part IV of subchapter IV—
 
-    (i) $1,750,000,000 for fiscal year 2019;
+    (i) $2,655,000,000 for fiscal year 2026;
 
-    (ii) $1,750,000,000 for fiscal year 2020;
+    (ii) $2,855,000,000 for fiscal year 2027;
 
-    (iii) $1,800,000,000 for fiscal year 2021;
+    (iii) $3,255,000,000 for fiscal year 2028;
 
-    (iv) $1,850,000,000 for fiscal year 2022; and
+    (iv) $3,255,000,000 for fiscal year 2029;
 
-    (v) $2,025,000,000 for each of fiscal years 2023 through 2031; and
+    (v) $3,255,000,000 for fiscal year 2030; and
+
+    (vi) $3,255,000,000 for fiscal year 2031; and
 
   (B) for the conservation stewardship program under subpart B of part IV of subchapter IV—
 
-    (i) $700,000,000 for fiscal year 2019;
+    (i) $1,300,000,000 for fiscal year 2026;
 
-    (ii) $725,000,000 for fiscal year 2020;
+    (ii) $1,325,000,000 for fiscal year 2027;
 
-    (iii) $750,000,000 for fiscal year 2021;
+    (iii) $1,350,000,000 for fiscal year 2028;
 
-    (iv) $800,000,000 for fiscal year 2022; and
+    (iv) $1,375,000,000 for fiscal year 2029;
 
-    (v) $1,000,000,000 for each of fiscal years 2023 through 2031.
+    (v) $1,375,000,000 for fiscal year 2030; and
+
+    (vi) $1,375,000,000 for fiscal year 2031.
 
 (4) The conservation stewardship program under subpart B of part II of subchapter IV (as in effect on the day before December 20, 2018), using such sums as are necessary to administer contracts entered into before December 20, 2018.
 
@@ -4913,6 +4925,12 @@ A prior section 3841, Pub. L. 99–198, title XII, § 1241, as added Pub. L. 104
 Another prior section 3841, Pub. L. 99–198, title XII, § 1241, Dec. 23, 1985, 99 Stat. 1514, related to use of Commodity Credit Corporation, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 #### Amendments
+2025—Subsec. (a)(2)(A) to (F). Pub. L. 119–21, § 10601(a)(1), added subpars. (A) to (F) and struck out former subpars. (A) to (F) which related to funding amounts under the agricultural conservation easement program for fiscal years 2014 to 2031.
+
+Subsec. (a)(3)(A)(i) to (vi). Pub. L. 119–21, § 10601(a)(2)(A), added cls. (i) to (vi) and struck out former cls. (i) to (v) which related to funding amounts for the environmental quality incentives program for fiscal years 2019 to 2031.
+
+Subsec. (a)(3)(B)(i) to (vi). Pub. L. 119–21, § 10601(a)(2)(B), added cls. (i) to (vi) and struck out former cls. (i) to (v) which related to funding amounts for the conservation stewardship program for fiscal years 2019 to 2031.
+
 2022—Subsec. (a). Pub. L. 117–169, § 21001(c)(5)(A)(i), substituted “2031” for “2023” in introductory provisions.
 
 Subsec. (a)(2)(F). Pub. L. 117–169, § 21001(c)(5)(A)(ii), substituted “2031” for “2023”.
@@ -7090,7 +7108,19 @@ Subsec. (d). Pub. L. 115–334, § 2704(3), added subsec. (d).
 
 <a id="section-3871d"></a>
 ## § 3871d. Funding
-**(a) Availability of funds** The Secretary shall use $300,000,000 of the funds of the Commodity Credit Corporation for each of fiscal years 2019 through 2031 to carry out the program.
+**(a) Availability of funding** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out the program, to the maximum extent practicable—
+
+(1) $425,000,000 for fiscal year 2026;
+
+(2) $450,000,000 for fiscal year 2027;
+
+(3) $450,000,000 for fiscal year 2028;
+
+(4) $450,000,000 for fiscal year 2029;
+
+(5) $450,000,000 for fiscal year 2030; and
+
+(6) $450,000,000 for fiscal year 2031.
 
 **(b) Duration of availability** Funds made available under subsection (a) shall remain available until expended.
 
@@ -7123,6 +7153,8 @@ Subsec. (d). Pub. L. 115–334, § 2704(3), added subsec. (d).
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–21 added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall use $300,000,000 of the funds of the Commodity Credit Corporation for each of fiscal years 2019 through 2031 to carry out the program.”
+
 2022—Subsec. (a). Pub. L. 117–169 substituted “2031” for “2023”.
 
 2018—Subsec. (a). Pub. L. 115–334, § 2705(1), substituted “$300,000,000” for “$100,000,000” and “2019 through 2023” for “2014 through 2018”.

@@ -2,7 +2,7 @@
 title: 10
 chapter: '861'
 heading: 'SECRETARY OF THE NAVY: MISCELLANEOUS POWERS AND DUTIES'
-section_count: 24
+section_count: 25
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -344,6 +344,59 @@ Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 #### Lease or License of United States Navy Museum Facilities
 Pub. L. 109–163, div. B, title XXVIII, § 2852, Jan. 6, 2006, 119 Stat. 3530, as amended by Pub. L. 117–81, div. B, title XXVIII, § 2822, Dec. 27, 2021, 135 Stat. 2197, provided that: “(a) Leases and Licenses Authorized.—The Secretary of the Navy may lease or license any portion of the facilities of a United States Navy museum to a foundation established to support that museum for the purpose of permitting the foundation to carry out the following activities:“(1) Generation of revenue for that United States Navy museum through the rental of facilities to the public, commercial and non-profit entities, State and local governments, and other Federal agencies. “(2) Performance of administrative activities in support of that United States Navy museum. “(b) Limitation.—Activities carried out at a facility subject to a lease or license under subsection (a) must be consistent with the operations of the United States Navy museum of which the facility is a part. “(c) Consideration.—The amount of consideration paid in a year by a foundation described in subsection (a) to the United States for the lease or license of facilities under subsection (a) may not exceed the actual cost, as determined by the Secretary, of the annual operation and maintenance of the facilities. “(d) Deposit and Use of Proceeds.—Consideration paid under subsection (c) shall be deposited into the appropriations account available for the operation and maintenance of the applicable United States Navy museum. The Secretary may use the amounts so deposited to cover costs associated with the operation and maintenance of that museum and its exhibits. “(e) Additional Terms and Conditions.—The Secretary may require such additional terms and conditions in connection with a lease or license under subsection (a) as the Secretary considers appropriate to protect the interests of the United States. “(f) United States Navy Museum.—In this section, the term ‘United States Navy museum’ means a museum under the jurisdiction of the Secretary of Defense and operated through the Naval History and Heritage Command.”
+
+
+<a id="section-8617a"></a>
+## § 8617A. United States Navy Museum System
+**(a) In General.—** The Secretary of the Navy shall support a system of official Navy museums, which shall collectively be known as the “United States Navy Museum System”. Such system shall include the following museums:
+
+(1) The National Museum of the United States Navy.
+
+(2) The United States Naval Academy Museum.
+
+(3) The Naval War College Museum.
+
+(4) The Submarine Force Museum.
+
+(5) The National Naval Aviation Museum.
+
+(6) The USS Constitution Naval History and Heritage Command, Detachment Boston.
+
+(7) The United States Navy Seabee Museum.
+
+(8) The Puget Sound Navy Museum.
+
+(9) The Naval Undersea Museum.
+
+(10) The National Museum of the American Sailor.
+
+(11) The Hampton Roads Naval Museum.
+
+(12) Such other museums as may be designated by the Secretary of the Navy that meet criteria established under subsection (b).
+
+**(b) Criteria for Designation.—** The Secretary of the Navy shall establish criteria for designating museums other than museums identified in paragraphs (1) through (11) of subsection (a) for inclusion in the United States Navy Museum System. Such criteria shall include—
+
+(1) historical significance to naval operations, technology, or personnel;
+
+(2) public accessibility and educational outreach programs; and
+
+(3) alignment with the mission of the Navy to preserve its heritage.
+
+**(c) Criteria for Closure.—** The Secretary of the Navy shall establish criteria for the closure of museums within the United States Navy Museum System. No museum within such system may be closed until—
+
+(1) the Secretary of the Navy submits to the Committees on Armed Services of the House of Representatives and the Senate notice that includes—
+
+  (A) a plan for the preservation, storage, or alternate display of historical collections contained in the museum;
+
+  (B) how any issues relating to museum personnel will be resolved;
+
+  (C) an identification of any efforts to maintain museum operations through public-private partnerships; and
+
+  (D) an analysis of the cost to transport, consolidate, and preserve the historical collections contained in the museum; and
+
+(2) a period of 90 days has elapsed after the date on which such notice is received by such committees.
+
+**(d) Funding and Support.—** Consistent with applicable law, the Secretary of the Navy may enter into partnerships, including with nonprofit organizations, to enhance the financial sustainability and public engagement of the museums in the United States Museum System.
 
 
 <a id="section-8618"></a>
@@ -783,7 +836,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Pub. L. 106–65, div. A, title X, § 1014(c), Oct. 5, 1999, 113 Stat. 742, provided that: “[Section 7233 of title 10](./chapter-725-rank-and-command.md#section-7233), United States Code, as added by subsection (a), shall take effect on October 1, 1999.”
 
 #### Long-Term Lease or Charter Authority for Certain Double-Hull Tankers and Oceanographic Vessels
-Pub. L. 103–160, div. A, title I, § 126, Nov. 30, 1993, 107 Stat. 1567, as amended by Pub. L. 104–106, div. D, title XLIII, § 4321(i)(1)(A), Feb. 10, 1996, 110 Stat. 676, provided that: “(a) Authority.—The Secretary of the Navy may enter into a long-term lease or charter for any double-hull tanker or oceanographic vessel constructed in a United States shipyard after the date of the enactment of this Act [Nov. 30, 1993] using assistance provided under the National Shipbuilding Initiative. “(b) Conditions on Obligation of Funds.—Unless budget authority is specifically provided in an appropriations Act for the lease or charter of vessels pursuant to subsection (a), the Secretary may not enter into a contract for a lease or charter pursuant to that subsection unless the contract includes the following provisions:“(1) A statement that the obligation of the United States to make payments under the contract in any fiscal year is subject to appropriations being provided specifically for that fiscal year and specifically for that lease or charter or that kind of vessel lease or charter. “(2) A commitment to obligate the necessary amount for each fiscal year covered by the contract when and to the extent that funds are appropriated for that lease or charter, or that kind of lease or charter, for that fiscal year. “(3) A statement that such a commitment given under paragraph (2) does not constitute an obligation of the United States. “(c) Inapplicability of Certain Laws.—A long-term lease or charter authorized by subsection (a) may be entered into without regard to the provisions of section 2401 [see [10 U.S.C. 3671](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3671) et seq.] or 2401a [see [10 U.S.C. 3678](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3678), 3681] of title 10, United States Code. “(d) Definition.—For purposes of subsection (a), the term ‘long-term lease or charter’ has the meaning given that term in subparagraph (A) of [section 2401(d)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2401/d/1&num=0&edition=prelim), United States Code [now [10 U.S.C. 3674(a)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3674/a/1/A&num=0&edition=prelim)].”
+Pub. L. 103–160, div. A, title I, § 126, Nov. 30, 1993, 107 Stat. 1567, as amended by Pub. L. 104–106, div. D, title XLIII, § 4321(i)(1)(A), Feb. 10, 1996, 110 Stat. 676, provided that: “(a) Authority.—The Secretary of the Navy may enter into a long-term lease or charter for any double-hull tanker or oceanographic vessel constructed in a United States shipyard after the date of the enactment of this Act [Nov. 30, 1993] using assistance provided under the National Shipbuilding Initiative. “(b) Conditions on Obligation of Funds.—Unless budget authority is specifically provided in an appropriations Act for the lease or charter of vessels pursuant to subsection (a), the Secretary may not enter into a contract for a lease or charter pursuant to that subsection unless the contract includes the following provisions:“(1) A statement that the obligation of the United States to make payments under the contract in any fiscal year is subject to appropriations being provided specifically for that fiscal year and specifically for that lease or charter or that kind of vessel lease or charter. “(2) A commitment to obligate the necessary amount for each fiscal year covered by the contract when and to the extent that funds are appropriated for that lease or charter, or that kind of lease or charter, for that fiscal year. “(3) A statement that such a commitment given under paragraph (2) does not constitute an obligation of the United States. “(c) Inapplicability of Certain Laws.—A long-term lease or charter authorized by subsection (a) may be entered into without regard to the provisions of section 2401 [see [10 U.S.C. 3671](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3671) et seq.] or 2401a [see former [10 U.S.C. 3678](./chapter-257-contracts-for-long-term-lease-or-charter-of-vessels-aircraft-and-combat-vehicles.md#section-3678), [10 U.S.C. 3681](./chapter-258-other-types-of-contracts-used-for-procurements-for-particular-purposes.md#section-3681)] of title 10, United States Code. “(d) Definition.—For purposes of subsection (a), the term ‘long-term lease or charter’ has the meaning given that term in subparagraph (A) of [section 2401(d)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2401/d/1&num=0&edition=prelim), United States Code [now [10 U.S.C. 3674(a)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3674/a/1/A&num=0&edition=prelim)].”
 
 
 <a id="section-8634"></a>

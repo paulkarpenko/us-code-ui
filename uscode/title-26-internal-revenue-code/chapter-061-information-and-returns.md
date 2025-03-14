@@ -2,7 +2,7 @@
 title: 26
 chapter: '61'
 heading: INFORMATION AND RETURNS
-section_count: 119
+section_count: 122
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -95,6 +95,8 @@ Pub. L. 95–600, title V, § 501(c), Nov. 6, 1978, 92 Stat. 2878, provided that
 
 (6) **1 Application of numerical limitation to returns relating to deferred compensation plans** — For purposes of applying the numerical limitation under paragraph (2)(A) to any return required under section 6058, information regarding each plan for which information is provided on such return shall be treated as a separate return.
 
+(8) **Qualified opportunity funds and qualified rural opportunity funds** — Notwithstanding paragraphs (1) and (2), any return filed by a qualified opportunity fund or qualified rural opportunity fund under section 6039K shall be filed on magnetic media or other machine-readable form.
+
 **(f) Promotion of electronic filing**
 
 (1) **In general** — The Secretary is authorized to promote the benefits of and encourage the use of electronic tax administration programs, as they become available, through the use of mass communications and other means.
@@ -113,6 +115,8 @@ Pub. L. 95–600, title V, § 501(c), Nov. 6, 1978, 92 Stat. 2878, provided that
 The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in subsec. (c)(1), is Pub. L. 106–519, Nov. 15, 2000, 114 Stat. 2423. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Tables.
 
 #### Amendments
+2025—Subsec. (e)(8). Pub. L. 119–21 added par. (8).
+
 2019—Subsec. (e)(2)(A). Pub. L. 116–25, § 2301(a), substituted “the applicable number of” for “250”.
 
 Subsec. (e)(3)(D). Pub. L. 116–25, § 2301(c), added subpar. (D).
@@ -182,6 +186,9 @@ Subsec. (d)(3). Pub. L. 91–128, § 4(g), eased recordkeeping requirements by p
 1964—Subsecs. (d), (e). Pub. L. 88–563 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1958—Subsecs. (c), (d). Pub. L. 85–859 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VII, § 70421(d)(5), July 4, 2025, 139 Stat. 231, provided that: “The amendments made by this subsection [enacting sections 6039K, 6039L, and 6726 of this title and amending this section and [section 6724 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6724)] shall apply to taxable years beginning after the date of the enactment of this Act [July 4, 2025].”
 
 #### Effective Date of 2019 Amendment
 Pub. L. 116–94, div. O, title II, § 202(d)(2), Dec. 20, 2019, 133 Stat. 3163, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to returns required to be filed with respect to plan years beginning after December 31, 2019.”
@@ -1690,7 +1697,13 @@ Nothing in paragraph (1) shall require the inclusion of the name and address of 
 
 **(n) Mandatory electronic filing** Any organization required to file a return under this section shall file such return in electronic form.
 
-**(o) Cross references** For provisions relating to statements, etc., regarding exempt status of organizations, see section 6001. For reporting requirements as to certain liquidations, dissolutions, terminations, and contractions, see section 6043(b). For provisions relating to penalties for failure to file a return required by this section, see section 6652(c). For provisions relating to information required in connection with certain plans of deferred compensation, see section 6058.
+**(o) Requirement to report certain information with respect to excise tax based on investment income of private colleges and universities** Each applicable educational institution described in section 4968(c) which is subject to the requirements of subsection (a) shall include on the return required under subsection (a)—
+
+(1) the number of tuition-paying students taken into account under section 4968(c), and
+
+(2) the number of students of such institution (determined under the rules of section 4968(e)).
+
+**(p) Cross references** For provisions relating to statements, etc., regarding exempt status of organizations, see section 6001. For reporting requirements as to certain liquidations, dissolutions, terminations, and contractions, see section 6043(b). For provisions relating to penalties for failure to file a return required by this section, see section 6652(c). For provisions relating to information required in connection with certain plans of deferred compensation, see section 6058.
 
 ### Statutory Notes
 
@@ -1706,6 +1719,8 @@ The Federal Election Campaign Act of 1971, referred to in subsec. (g)(3)(F), is 
 Sections 1205(b)(1), 1223(a), (b), 1235(a)(1), and 1245(a), (b) of Pub. L. 109–280, which directed the amendment of section 6033 without specifying the act to be amended, were executed to this section, which is section 6033 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2025—Subsecs. (o), (p). Pub. L. 119–21 added subsec. (o) and redesignated former subsec. (o) as (p).
+
 2019—Subsec. (j)(1). Pub. L. 116–25, § 3102(a), added subpar. (A), redesignated existing provisions as subpar. (B), and inserted subpar. (B) heading.
 
 Subsecs. (n), (o). Pub. L. 116–25, § 3101(a), added subsec. (n) and redesignated former subsec. (n) as (o).
@@ -1813,6 +1828,9 @@ Subsec. (b)(8). Pub. L. 91–172, § 101(d)(2)(B), struck out par. (8) which mad
 Subsec. (c). Pub. L. 91–172, § 101(j)(31), inserted cross references to section 6043(b) and 6652(d).
 
 1958—Subsec. (b)(8). Pub. L. 85–866 added par. (8).
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2025, see section 70415(c) of Pub. L. 119–21, set out as a note under [section 4968 of this title](./chapter-042-private-foundations-and-certain-other-tax-exempt-organizations.md#section-4968).
 
 #### Effective Date of 2019 Amendment
 Amendment by section 3101(a) of Pub. L. 116–25 applicable to taxable years beginning after July 1, 2019, with certain transitional relief permitted, see section 3101(d) of Pub. L. 116–25, set out as a note under [section 527 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-527).
@@ -3261,6 +3279,121 @@ Pub. L. 110–234, title XV, § 15353(c), May 22, 2008, 122 Stat. 1527, and Pub.
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.]
 
 
+<a id="section-6039k"></a>
+## § 6039K. Returns with respect to qualified opportunity funds and qualified rural opportunity funds
+**(a) In general** Every qualified opportunity fund shall file an annual return (at such time and in such manner as the Secretary may prescribe) containing the information described in subsection (b).
+
+**(b) Information from qualified opportunity funds** The information described in this subsection is—
+
+(1) the name, address, and taxpayer identification number of the qualified opportunity fund,
+
+(2) whether the qualified opportunity fund is organized as a corporation or a partnership,
+
+(3) the value of the total assets held by the qualified opportunity fund as of each date described in section 1400Z–2(d)(1),
+
+(4) the value of all qualified opportunity zone property held by the qualified opportunity fund on each such date,
+
+(5) with respect to each investment held by the qualified opportunity fund in qualified opportunity zone stock or a qualified opportunity zone partnership interest—
+
+  (A) the name, address, and taxpayer identification number of the corporation in which such stock is held or the partnership in which such interest is held, as the case may be,
+
+  (B) each North American Industry Classification System (NAICS) code that applies to the trades or businesses conducted by such corporation or partnership,
+
+  (C) the population census tract or population census tracts in which the qualified opportunity zone business property of such corporation or partnership is located,
+
+  (D) the amount of the investment in such stock or partnership interest as of each date described in section 1400Z–2(d)(1),
+
+  (E) the value of tangible property held by such corporation or partnership on each such date which is owned by such corporation or partnership,
+
+  (F) the value of tangible property held by such corporation or partnership on each such date which is leased by such corporation or partnership,
+
+  (G) the approximate number of residential units (if any) for any real property held by such corporation or partnership, and
+
+  (H) the approximate average monthly number of full-time equivalent employees of such corporation or partnership for the year (within numerical ranges identified by the Secretary) or such other indication of the employment impact of such corporation or partnership as determined appropriate by the Secretary,
+
+(6) with respect to the items of qualified opportunity zone business property held by the qualified opportunity fund—
+
+  (A) the North American Industry Classification System (NAICS) code that applies to the trades or businesses in which such property is held,
+
+  (B) the population census tract in which the property is located,
+
+  (C) whether the property is owned or leased,
+
+  (D) the aggregate value of the items of qualified opportunity zone property held by the qualified opportunity fund as of each date described in section 1400Z–2(d)(1), and
+
+  (E) in the case of real property, the number of residential units (if any),
+
+(7) the approximate average monthly number of full-time equivalent employees for the year of the trades or businesses of the qualified opportunity fund in which qualified opportunity zone business property is held (within numerical ranges identified by the Secretary) or such other indication of the employment impact of such trades or businesses as determined appropriate by the Secretary,
+
+(8) with respect to each person who disposed of an investment in the qualified opportunity fund during the year—
+
+  (A) the name, address, and taxpayer identification number of such person,
+
+  (B) the date or dates on which the investment disposed was acquired, and
+
+  (C) the date or dates on which any such investment was disposed and the amount of the investment disposed, and
+
+(9) such other information as the Secretary may require.
+
+**(c) Statement required to be furnished to investors** Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return by reason of subsection (b)(8) (at such time and in such manner as the Secretary may prescribe) a written statement showing—
+
+(1) the name, address, and phone number of the information contact of the person required to make such return, and
+
+(2) the information required to be shown on such return by reason of subsection (b)(8) with respect to the person whose name is required to be so set forth.
+
+**(d) Definitions** For purposes of this section—
+
+(1) **In general** — Any term used in this section which is also used in subchapter Z of chapter 1 shall have the meaning given such term under such subchapter.
+
+(2) **Full-time equivalent employees** — The term “full-time equivalent employees” means, with respect to any month, the sum of—
+
+  (A) the number of full-time employees (as defined in section 4980H(c)(4)) for the month, plus
+
+  (B) the number of employees determined (under rules similar to the rules of section 4980H(c)(2)(E)) by dividing the aggregate number of hours of service of employees who are not full-time employees for the month by 120.
+
+**(e) Application to qualified rural opportunity funds** Every qualified rural opportunity fund (as defined in section 1400Z–2(b)(2)(C)) shall file the annual return required under subsection (a), and the statements required under subsection (c), applied—
+
+(1) by substituting “qualified rural opportunity” for “qualified opportunity” each place it appears,
+
+(2) by substituting “section 1400Z–2(b)(2)(C)” for “section 1400Z–2(d)(1)” each place it appears, and
+
+(3) by treating any reference (after the application of paragraph (1)) to qualified rural opportunity zone stock, a qualified rural opportunity zone partnership interest, a qualified rural opportunity zone business, or qualified opportunity zone business property as stock, an interest, a business, or property, respectively, described in subclause (I) or (II), as the case may be, of section 1400Z–2(b)(2)(C)(i).
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to taxable years beginning after July 4, 2025, see section 70421(d)(5) of Pub. L. 119–21, set out as an Effective Date of 2025 Amendment note under [section 6011 of this title](./chapter-061-information-and-returns.md#section-6011).
+
+#### Secretary Reporting of Data on Opportunity Zone and Rural Opportunity Zone Tax Incentives
+Pub. L. 119–21, title VII, § 70421(e), July 4, 2025, 139 Stat. 231, provided that: “(1) In general.—In addition to amounts otherwise available, there is appropriated, out of any money in the Treasury not otherwise appropriated, $15,000,000, to remain available until September 30, 2028, for necessary expenses of the Internal Revenue Service to make the reports described in paragraph (2). “(2) Reports.—As soon as practical after the date of the enactment of this Act [July 4, 2025], and annually thereafter, the Secretary of the Treasury, or the Secretary’s delegate (referred to in this section as the ‘Secretary’) shall make publicly available a report on qualified opportunity funds. “(3) Information included.—The report required under paragraph (2) shall include, to the extent available, the following information:“(A) The number of qualified opportunity funds. “(B) The aggregate dollar amount of assets held in qualified opportunity funds. “(C) The aggregate dollar amount of investments made by qualified opportunity funds in qualified opportunity fund property, stated separately for each North American Industry Classification System (NAICS) code. “(D) The percentage of population census tracts designated as qualified opportunity zones that have received qualified opportunity fund investments. “(E) For each population census tract designated as a qualified opportunity zone, the approximate average monthly number of full-time equivalent employees of the qualified opportunity zone businesses in such qualified opportunity zone for the preceding 12-month period (within numerical ranges identified by the Secretary) or such other indication of the employment impact of such qualified opportunity fund businesses as determined appropriate by the Secretary. “(F) The percentage of the total amount of investments made by qualified opportunity funds in—“(i) qualified opportunity zone property which is real property; and “(ii) other qualified opportunity zone property. “(G) For each population census tract, the aggregate approximate number of residential units resulting from investments made by qualified opportunity funds in real property. “(H) The aggregate dollar amount of investments made by qualified opportunity funds in each population census tract. “(4) Additional information.—“(A) In general.—Beginning with the report submitted under paragraph (2) for the 6th year after the date of the enactment of this Act, the Secretary shall include in such report the impacts and outcomes of a designation of a population census tract as a qualified opportunity zone as measured by economic indicators, such as job creation, poverty reduction, new business starts, and other metrics as determined by the Secretary. “(B) Semi-decennial information.—“(i) In general.—In the case of any report submitted under paragraph (2) in the 6th year or the 11th year after the date of the enactment of this Act, the Secretary shall include the following information:“(I) For population census tracts designated as a qualified opportunity zone, a comparison (based on aggregate information) of the factors listed in clause (iii) between the 5-year period ending on the date of the enactment of Public Law 115–97 [Dec. 22, 2017] and the most recent 5-year period for which data is available. “(II) For population census tracts designated as a qualified opportunity zone, a comparison (based on aggregate information) of the factors listed in clause (iii) for the most recent 5-year period for which data is available between such population census tracts and similar population census tracts that were not designated as a qualified opportunity zone. “(ii) Control groups.—For purposes of clause (i), the Secretary may combine population census tracts into such groups as the Secretary determines appropriate for purposes of making comparisons. “(iii) Factors listed.—The factors listed in this clause are the following:“(I) The unemployment rate. “(II) The number of persons working in the population census tract, including the percentage of such persons who were not residents in the population census tract in the preceding year. “(III) Individual, family, and household poverty rates. “(IV) Median family income of residents of the population census tract. “(V) Demographic information on residents of the population census tract, including age, income, education, race, and employment. “(VI) The average percentage of income of residents of the population census tract spent on rent annually. “(VII) The number of residences in the population census tract. “(VIII) The rate of home ownership in the population census tract. “(IX) The average value of residential property in the population census tract. “(X) The number of affordable housing units in the population census tract. “(XI) The number of new business starts in the population census tract. “(XII) The distribution of employees in the population census tract by North American Industry Classification System (NAICS) code. “(5) Protection of identifiable return information.—In making reports required under this subsection, the Secretary—“(A) shall establish appropriate procedures to ensure that any amounts reported do not disclose taxpayer return information that can be associated with any particular taxpayer or competitive or proprietary information, and “(B) if necessary to protect taxpayer return information, may combine information required with respect to individual population census tracts into larger geographic areas. “(6) Definitions.—Any term used in this subsection which is also used in subchapter Z of chapter 1 of the Internal Revenue Code of 1986 [[26 U.S.C. 1400Z–1](./chapter-001-normal-taxes-and-surtaxes.md#section-1400z-1) et seq.] shall have the meaning given such term under such subchapter. “(7) Reports on qualified rural opportunity funds.—The Secretary shall make publicly available, with respect to qualified rural opportunity funds, separate reports as required under this subsection, applied—“(A) by substituting ‘qualified rural opportunity’ for ‘qualified opportunity’ each place it appears, “(B) by substituting a reference to this Act [Pub. L. 119–21, see Tables for classification] for ‘Public Law 115–97’, and “(C) by treating any reference (after the application of subparagraph (A)) to qualified rural opportunity zone stock, qualified rural opportunity zone partnership interest, qualified rural opportunity zone business, or qualified opportunity zone business property as stock, interest, business, or property, respectively, described in subclause (I) or (II), as the case may be, of section 1400Z–2(b)(2)(C)(i) of the Internal Revenue Code of 1986.”
+
+
+<a id="section-6039l"></a>
+## § 6039L. Information required from qualified opportunity zone businesses and qualified rural opportunity zone businesses
+**(a) In general** Every applicable qualified opportunity zone business shall furnish to the qualified opportunity fund described in subsection (b) a written statement at such time, in such manner, and setting forth such information as the Secretary may by regulations prescribe for purposes of enabling such qualified opportunity fund to meet the requirements of section 6039K(b)(5).
+
+**(b) Applicable qualified opportunity zone business** For purposes of subsection (a), the term “applicable qualified opportunity zone business” means any qualified opportunity zone business—
+
+(1) which is a trade or business of a qualified opportunity fund,
+
+(2) in which a qualified opportunity fund holds qualified opportunity zone stock, or
+
+(3) in which a qualified opportunity fund holds a qualified opportunity zone partnership interest.
+
+**(c) Other terms** Any term used in this section which is also used in subchapter Z of chapter 1 shall have the meaning given such term under such subchapter.
+
+**(d) Application to qualified rural opportunity businesses** Every applicable qualified rural opportunity zone business (as defined in subsection (b) determined after application of the substitutions described in this sentence) shall furnish the written statement required under subsection (a), applied—
+
+(1) by substituting “qualified rural opportunity” for “qualified opportunity” each place it appears, and
+
+(2) by treating any reference (after the application of paragraph (1)) to qualified rural opportunity zone stock, a qualified rural opportunity zone partnership interest, or a qualified rural opportunity zone business as stock, an interest, or a business, respectively, described in subclause (I) or (II), as the case may be, of section 1400Z–2(b)(2)(C)(i).
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to taxable years beginning after July 4, 2025, see section 70421(d)(5) of Pub. L. 119–21, set out as an Effective Date of 2025 Amendment note under [section 6011 of this title](./chapter-061-information-and-returns.md#section-6011).
+
+
 <a id="section-6040"></a>
 ## § 6040. Cross references
 (1) For the notice required of persons acting in a fiduciary capacity for taxpayers or for transferees, see sections 6212, 6901(g), and 6903.
@@ -3297,7 +3430,7 @@ Amendment by Pub. L. 89–44 applicable with respect to admissions, services, an
 
 <a id="section-6041"></a>
 ## § 6041. Information at source
-**(a) Payments of $600 or more** All persons engaged in a trade or business and making payment in the course of such trade or business to another person, of rent, salaries, wages, premiums, annuities, compensations, remunerations, emoluments, or other fixed or determinable gains, profits, and income (other than payments to which section 6042(a)(1), 6044(a)(1), 6047(e), 6049(a), or 6050N(a) applies, and other than payments with respect to which a statement is required under the authority of section 6042(a)(2), 6044(a)(2), or 6045), of $600 or more in any taxable year, or, in the case of such payments made by the United States, the officers or employees of the United States having information as to such payments and required to make returns in regard thereto by the regulations hereinafter provided for, shall render a true and accurate return to the Secretary, under such regulations and in such form and manner and to such extent as may be prescribed by the Secretary, setting forth the amount of such gains, profits, and income, and the name and address of the recipient of such payment.
+**(a) Payments exceeding threshold** All persons engaged in a trade or business and making payment in the course of such trade or business to another person, of rent, salaries, wages, premiums, annuities, compensations, remunerations, emoluments, or other fixed or determinable gains, profits, and income (other than payments to which section 6042(a)(1), 6044(a)(1), 6047(e), 6049(a), or 6050N(a) applies, and other than payments with respect to which a statement is required under the authority of section 6042(a)(2), 6044(a)(2), or 6045), of $2,000 or more in any calendar year, or, in the case of such payments made by the United States, the officers or employees of the United States having information as to such payments and required to make returns in regard thereto by the regulations hereinafter provided for, shall render a true and accurate return to the Secretary, under such regulations and in such form and manner and to such extent as may be prescribed by the Secretary, setting forth the amount of such gains, profits, and income (including a separate accounting of any such amounts reasonably designated as cash tips and the occupation described in section 224(d)(1) of the person receiving such tips and a separate accounting of any amount of qualified overtime compensation (as defined in section 225(c))), and the name and address of the recipient of such payment.
 
 **(b) Collection of foreign items** In the case of collections of items (not payable in the United States) of interest upon the bonds of foreign countries and interest upon the bonds of and dividends from foreign corporations by any person undertaking as a matter of business or for profit the collection of foreign payments of such interest or dividends by means of coupons, checks, or bills of exchange, such person shall make a return according to the forms or regulations prescribed by the Secretary, setting forth the amount paid and the name and address of the recipient of each such payment.
 
@@ -3305,9 +3438,13 @@ Amendment by Pub. L. 89–44 applicable with respect to admissions, services, an
 
 **(d) Statements to be furnished to persons with respect to whom information is required** Every person required to make a return under subsection (a) shall furnish to each person with respect to whom such a return is required a written statement showing—
 
-(1) the name, address, and phone number of the information contact of the person required to make such return, and
+(1) the name, address, and phone number of the information contact of the person required to make such return,
 
-(2) the aggregate amount of payments to the person required to be shown on the return.
+(2) the aggregate amount of payments to the person required to be shown on the return,
+
+(3) in the case of compensation to non-employees, the portion of payments that have been reasonably designated as cash tips and the occupation described in section 224(d)(1) of the person receiving such tips, and
+
+(4) the portion of payments that are qualified overtime compensation (as defined in section 225(c)).
 The written statement required under the preceding sentence shall be furnished to the person on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made. To the extent provided in regulations prescribed by the Secretary, this subsection shall also apply to persons required to make returns under subsection (b).
 
 **(e) Section does not apply to certain tips** This section shall not apply to tips with respect to which section 6053(a) (relating to reporting of tips) applies.
@@ -3324,9 +3461,30 @@ The written statement required under the preceding sentence shall be furnished t
 
 (2) any amount includible under section 409A and which is not treated as wages under section 3401(a).
 
+**(h) Inflation adjustment** In the case of any calendar year after 2026, the dollar amount in subsection (a) shall be increased by an amount equal to—
+
+(1) such dollar amount, multiplied by
+
+(2) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting “calendar year 2025” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+If any increase under the preceding sentence is not a multiple of $100, such increase shall be rounded to the nearest multiple of $100.
+
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–21, § 70433(e), substituted “exceeding threshold” for “of $600 or more” in heading and “calendar year” for “taxable year” in text.
+
+Pub. L. 119–21, § 70433(a), substituted “$2,000” for “$600”.
+
+Pub. L. 119–21, § 70202(c)(2)(A), which directed the insertion of “and a separate accounting of any amount of qualified overtime compensation (as defined in section 225(c))” after “occupation of the person receiving such tips”, was executed by making the insertion after “occupation described in section 224(d)(1) of the person receiving such tips”, to reflect the probable intent of Congress.
+
+Pub. L. 119–21, § 70201(f)(1)(A), inserted “(including a separate accounting of any such amounts reasonably designated as cash tips and the occupation described in section 224(d)(1) of the person receiving such tips)” after “such gains, profits, and income”.
+
+Subsec. (d)(3). Pub. L. 119–21, § 70201(f)(1)(B), added par. (3).
+
+Subsec. (d)(4). Pub. L. 119–21, § 70202(c)(2)(B), added par. (4).
+
+Subsec. (h). Pub. L. 119–21, § 70433(b), added subsec. (h).
+
 2011—Subsec. (a). Pub. L. 112–9, § 2(b), struck out “amounts in consideration for property,” after “salaries, wages,”, “gross proceeds,” after “emoluments, or other”, and “gross proceeds,” after “setting forth the amount of such”.
 
 Subsec. (h). Pub. L. 112–9, § 3(a), struck out subsec. (h) which related to treatment of rental property expense payments.
@@ -3373,6 +3531,13 @@ Subsec. (d). Pub. L. 99–514, § 1501(c)(1), in amending subsec. (d) generally,
 
 Subsec. (c). Pub. L. 87–834, § 19(f)(2), repealed subsec. (c) which related to returns of payments of interest by corporations.
 
+#### Effective Date of 2025 Amendment
+Amendment by section 70201(f)(1) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2024, see section 70201(j) of Pub. L. 119–21, set out as a note under [section 45B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45b).
+
+Amendment by section 70202(c)(2) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2024, see section 70202(g) of Pub. L. 119–21, set out as a note under [section 63 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-63).
+
+Amendment by section 70433(a), (b), (e) of Pub. L. 119–21 applicable with respect to payments made after Dec. 31, 2025, see section 70433(f) of Pub. L. 119–21, set out as a note under [section 3406 of this title](./chapter-024-collection-of-income-tax-at-source-on-wages.md#section-3406).
+
 #### Effective Date of 2011 Amendment
 Pub. L. 112–9, § 2(c), Apr. 14, 2011, 125 Stat. 36, provided that: “The amendments made by this section [amending this section] shall apply to payments made after December 31, 2011.”
 
@@ -3412,6 +3577,11 @@ Amendment by Pub. L. 95–600 applicable to payments made after Dec. 31, 1978, s
 #### Effective Date of 1962 Amendment
 Amendment by Pub. L. 87–834 applicable to payments of dividends and interest made on or after Jan. 1, 1963, and to payments of amounts described in [section 6044(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6044/b&num=0&edition=prelim) made on or after Jan. 1, 1963. with respect to patronage occurring on or after the first day of the first taxable year of the cooperative beginning on or after Jan. 1, 1963, see section 19(h) of Pub. L. 87–834, set out as a note under [section 6042 of this title](./chapter-061-information-and-returns.md#section-6042).
 
+#### Transition Rule
+Pub. L. 119–21, title VII, § 70201(k), July 4, 2025, 139 Stat. 173, provided that: “In the case of any cash tips required to be reported for periods before January 1, 2026, persons required to file returns or statements under section 6041(a), 6041(d)(3), 6041A(a), 6041A(e)(3), 6050W(a), or 6050W(f)(2) of the Internal Revenue Code of 1986 (as amended by this section) may approximate a separate accounting of amounts designated as cash tips by any reasonable method specified by the Secretary.”
+
+Pub. L. 119–21, title VII, § 70202(h), July 4, 2025, 139 Stat. 175, provided that: “In the case of qualified overtime compensation required to be reported for periods before January 1, 2026, persons required to file returns or statements under section 6051(a)(19), 6041(a), or 6041(d)(4) of the Internal Revenue Code of 1986 (as amended by this section) may approximate a separate accounting of amounts designated as qualified overtime compensation by any reasonable method specified by the Secretary.”
+
 #### Allowance of Electronic 1099’s
 Pub. L. 107–147, title IV, § 401, Mar. 9, 2002, 116 Stat. 40, provided that: “Any person required to furnish a statement under any section of subpart B of part III of subchapter A of chapter 61 of the Internal Revenue Code of 1986 for any taxable year ending after the date of the enactment of this Act [Mar. 9, 2002], may electronically furnish such statement (without regard to any first class mailing requirement) to any recipient who has consented to the electronic provision of the statement in a manner similar to the one permitted under regulations issued under section 6051 of such Code or in such other manner as provided by the Secretary.”
 
@@ -3425,8 +3595,8 @@ Pub. L. 94–455, title XXI, § 2211, Oct. 4, 1976, 90 Stat. 1905, as amended by
 
 (1) any service-recipient engaged in a trade or business pays in the course of such trade or business during any calendar year remuneration to any person for services performed by such person, and
 
-(2) the aggregate of such remuneration paid to such person during such calendar year is $600 or more,
-then the service-recipient shall make a return, according to the forms or regulations prescribed by the Secretary, setting forth the aggregate amount of such payments and the name and address of the recipient of such payments. For purposes of the preceding sentence, the term “service-recipient” means the person for whom the service is performed.
+(2) the aggregate of such remuneration paid to such person during such calendar year equals or exceeds the dollar amount in effect for such calendar year under section 6041(a),
+then the service-recipient shall make a return, according to the forms or regulations prescribed by the Secretary, setting forth the aggregate amount of such payments (including a separate accounting of any such amounts reasonably designated as cash tips and the occupation described in section 224(d)(1) of the person receiving such tips) and the name and address of the recipient of such payments. For purposes of the preceding sentence, the term “service-recipient” means the person for whom the service is performed.
 
 **(b) Direct sales of $5,000 or more**
 
@@ -3467,9 +3637,11 @@ then the service-recipient shall make a return, according to the forms or regula
 
 **(e) Statements to be furnished to persons with respect to whom information is required to be furnished** Every person required to make a return under subsection (a) or (b) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
 
-(1) the name, address, and phone number of the information contact of the person required to make such return, and
+(1) the name, address, and phone number of the information contact of the person required to make such return,
 
-(2) in the case of subsection (a), the aggregate amount of payments to the person required to be shown on such return.
+(2) in the case of subsection (a), the aggregate amount of payments to the person required to be shown on such return, and
+
+(3) in the case of subsection (a), the portion of payments that have been reasonably designated as cash tips and the occupation described in section 224(d)(1) of the person receiving such tips.
 The written statement required under the preceding sentence shall be furnished to the person on or before January 31 of the year following the calendar year for which the return under subsection (a) was made.
 
 **(f) Recipient to furnish name, address, and identification number; inclusion on return**
@@ -3484,9 +3656,20 @@ The written statement required under the preceding sentence shall be furnished t
 The date of the enactment of this paragraph, referred to in subsec. (d)(3), is the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–21, § 70201(f)(2)(A), inserted “(including a separate accounting of any such amounts reasonably designated as cash tips and the occupation described in section 224(d)(1) of the person receiving such tips)” after “amount of such payments” in concluding provisions.
+
+Subsec. (a)(2). Pub. L. 119–21, § 70433(c), substituted “equals or exceeds the dollar amount in effect for such calendar year under section 6041(a)” for “is $600 or more”.
+
+Subsec. (e)(3). Pub. L. 119–21, § 70201(f)(2)(B), added par. (3).
+
 1997—Subsec. (d)(3). Pub. L. 105–34 added par. (3).
 
 1996—Subsec. (e)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
+
+#### Effective Date of 2025 Amendment
+Amendment by section 70201(f)(2) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2024, see section 70201(j) of Pub. L. 119–21, set out as a note under [section 45B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45b).
+
+Amendment by section 70433(c) of Pub. L. 119–21 applicable with respect to payments made after Dec. 31, 2025, see section 70433(f) of Pub. L. 119–21, set out as a note under [section 3406 of this title](./chapter-024-collection-of-income-tax-at-source-on-wages.md#section-3406).
 
 #### Effective Date of 1997 Amendment
 Pub. L. 105–34, title X, § 1022(b), Aug. 5, 1997, 111 Stat. 923, provided that: “The amendment made by this section [amending this section] shall apply to returns the due date for which (determined without regard to any extension) is more than 90 days after the date of the enactment of this Act [Aug. 5, 1997].”
@@ -4899,6 +5082,56 @@ Amendment by Pub. L. 99–514 applicable to returns the due date for which (dete
 Section effective for calendar years beginning after Oct. 4, 1976, see section 1207(f)(4)(A) of Pub. L. 94–455, set out as a note under [section 3121 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3121).
 
 
+<a id="section-6050aa"></a>
+## § 6050AA. Returns relating to applicable passenger vehicle loan interest received in trade or business from individuals
+**(a) In general** Any person—
+
+(1) who is engaged in a trade or business, and
+
+(2) who, in the course of such trade or business, receives from any individual interest aggregating $600 or more for any calendar year on a specified passenger vehicle loan,
+shall make the return described in subsection (b) with respect to each individual from whom such interest was received at such time as the Secretary may provide.
+
+**(b) Form and manner of returns** A return is described in this subsection if such return—
+
+(1) is in such form as the Secretary may prescribe, and
+
+(2) contains—
+
+  (A) the name and address of the individual from whom the interest described in subsection (a)(2) was received,
+
+  (B) the amount of such interest received for the calendar year,
+
+  (C) the amount of outstanding principal on the specified passenger vehicle loan as of the beginning of such calendar year,
+
+  (D) the date of the origination of such loan,
+
+  (E) the year, make, model, and vehicle identification number of the applicable passenger vehicle which secures such loan (or such other description of such vehicle as the Secretary may prescribe), and
+
+  (F) such other information as the Secretary may prescribe.
+
+**(c) Statements to be furnished to individuals with respect to whom information is required** Every person required to make a return under subsection (a) shall furnish to each individual whose name is required to be set forth in such return a written statement showing—
+
+(1) the name, address, and phone number of the information contact of the person required to make such return, and
+
+(2) the information described in subparagraphs (B), (C), (D), and (E) of subsection (b)(2) with respect to such individual (and such information as is described in subsection (b)(2)(F) with respect to such individual as the Secretary may provide for purposes of this subsection).
+The written statement required under the preceding sentence shall be furnished on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
+
+**(d) Definitions** For purposes of this section—
+
+(1) **In general** — Terms used in this section which are also used in paragraph (4) of section 163(h) shall have the same meaning as when used in such paragraph.
+
+(2) **Specified passenger vehicle loan** — The term “specified passenger vehicle loan” means the indebtedness described in section 163(h)(4)(B) with respect to any applicable passenger vehicle.
+
+**(e) Regulations** The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this section, including regulations or other guidance to prevent the duplicate reporting of information under this section.
+
+**(f) Applicability** No return shall be required under this section for any period to which section 163(h)(4) does not apply.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to indebtedness incurred after Dec. 31, 2024, see section 70203(e) of Pub. L. 119–21, set out as an Effective Date of 2025 Amendment note under [section 56 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-56).
+
+
 <a id="section-6050b"></a>
 ## § 6050B. Returns relating to unemployment compensation
 **(a) Requirement of reporting** Every person who makes payments of unemployment compensation aggregating $10 or more to any individual during any calendar year shall make a return according to the forms or regulations prescribed by the Secretary, setting forth the aggregate amounts of such payments and the name and address of the individual to whom paid.
@@ -6047,9 +6280,11 @@ Pub. L. 109–280, title XII, § 1211(d), Aug. 17, 2006, 120 Stat. 1074, provide
 ## § 6050W. Returns relating to payments made in settlement of payment card and third party network transactions
 **(a) In general** Each payment settlement entity shall make a return for each calendar year setting forth—
 
-(1) the name, address, and TIN of each participating payee to whom one or more payments in settlement of reportable payment transactions are made, and
+(1) the name, address, and TIN of each participating payee to whom one or more payments in settlement of reportable payment transactions are made,
 
-(2) the gross amount of the reportable payment transactions with respect to each such participating payee.
+(2) the gross amount of the reportable payment transactions with respect to each such participating payee and 11 So in original. Probably should be preceded by a comma.
+
+(3) in the case of a third party settlement organization, the portion of reportable payment transactions that have been reasonably designated by payors as cash tips and the occupation described in section 224(d)(1) of the person receiving such tips.
 Such return shall be made at such time and in such form and manner as the Secretary may require by regulations.
 
 **(b) Payment settlement entity** For purposes of this section—
@@ -6120,13 +6355,17 @@ Such return shall be made at such time and in such form and manner as the Secret
   (C) which guarantees persons providing goods or services pursuant to such agreement or arrangement that such persons will be paid for providing such goods or services.
   Such term shall not include any agreement or arrangement which provides for the issuance of payment cards.
 
-**(e) De minimis exception for third party settlement organizations** A third party settlement organization shall not be required to report any information under subsection (a) with respect to third party network transactions of any participating payee if the amount which would otherwise be reported under subsection (a)(2) with respect to such transactions does not exceed $600.
+**(e) Exception for de minimis payments by third party settlement organizations** A third party settlement organization shall be required to report any information under subsection (a) with respect to third party network transactions of any participating payee only if—
+
+(1) the amount which would otherwise be reported under subsection (a)(2) with respect to such transactions exceeds $20,000, and
+
+(2) the aggregate number of such transactions exceeds 200.
 
 **(f) Statements to be furnished to persons with respect to whom information is required** Every person required to make a return under subsection (a) shall furnish to each person with respect to whom such a return is required a written statement showing—
 
 (1) the name, address, and phone number of the information contact of the person required to make such return, and
 
-(2) the gross amount of the reportable payment transactions with respect to the person required to be shown on the return.
+(2) the gross amount of the reportable payment transactions (including a separate accounting of any such amounts that have been reasonably designated by payors as cash tips and the occupation described in section 224(d)(1) of the person receiving such tips) with respect to the person required to be shown on the return.
 The written statement required under the preceding sentence shall be furnished to the person on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made. Such statement may be furnished electronically, and if so, the email address of the person required to make such return may be shown in lieu of the phone number.
 
 **(g) Regulations** The Secretary may prescribe such regulations or other guidance as may be necessary or appropriate to carry out this section, including rules to prevent the reporting of the same transaction more than once.
@@ -6134,11 +6373,22 @@ The written statement required under the preceding sentence shall be furnished t
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a)(3). Pub. L. 119–21, § 70201(f)(3)(A), added par. (3).
+
+Subsec. (e). Pub. L. 119–21, § 70432(a)(1), amended subsec. (e) generally. Prior to amendment, text read as follows: “A third party settlement organization shall not be required to report any information under subsection (a) with respect to third party network transactions of any participating payee if the amount which would otherwise be reported under subsection (a)(2) with respect to such transactions does not exceed $600.”
+
+Subsec. (f)(2). Pub. L. 119–21, § 70201(f)(3)(B), inserted “(including a separate accounting of any such amounts that have been reasonably designated by payors as cash tips and the occupation described in section 224(d)(1) of the person receiving such tips)” after “reportable payment transactions”.
+
 2021—Subsec. (c)(3). Pub. L. 117–2, § 9674(b), inserted “described in subsection (d)(3)(A)(iii)” after “any transaction”.
 
 Subsec. (e). Pub. L. 117–2, § 9674(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to an exception for de minimis payments by third party settlement organizations.
 
 2018—Subsec. (d)(1)(B). Pub. L. 115–123 inserted at end “Notwithstanding the preceding sentence, a person with only a foreign address shall not be treated as a participating payee with respect to any payment settlement entity solely because such person receives payments from such payment settlement entity in dollars.”
+
+#### Effective Date of 2025 Amendment
+Amendment by section 70201(f)(3) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2024, see section 70201(j) of Pub. L. 119–21, set out as a note under [section 45B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45b).
+
+Pub. L. 119–21, title VII, § 70432(a)(2), July 4, 2025, 139 Stat. 243, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in section 9674 of the American Rescue Plan Act [of 2021, Pub. L. 117–2].”
 
 #### Effective Date of 2021 Amendment
 Pub. L. 117–2, title IX, § 9674(c), Mar. 11, 2021, 135 Stat. 185, provided that: “(1) In general.—The amendment made by subsection (a) [amending this section] shall apply to returns for calendar years beginning after December 31, 2021. “(2) Clarification.—The amendment made by subsection (b) [amending this section] shall apply to transactions after the date of the enactment of this Act [Mar. 11, 2021].”
@@ -6338,9 +6588,13 @@ Section applicable to distributions made after the date which is 3 years after D
 
 (15) the total amount of permitted benefit (as defined in section 9831(d)(3)(C)) for the year under a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2)) with respect to the employee,
 
-(16) the amount includible in gross income under subparagraph (A) of section 83(i)(1) with respect to an event described in subparagraph (B) of such section which occurs in such calendar year, and
+(16) the amount includible in gross income under subparagraph (A) of section 83(i)(1) with respect to an event described in subparagraph (B) of such section which occurs in such calendar year,
 
-(17) the aggregate amount of income which is being deferred pursuant to elections under section 83(i), determined as of the close of the calendar year.
+(17) the aggregate amount of income which is being deferred pursuant to elections under section 83(i), determined as of the close of the calendar year,
+
+(18) the total amount of cash tips reported by the employee under section 6053(a) and the occupation described in section 224(d)(1) such person, and
+
+(19) the total amount of qualified overtime compensation (as defined in section 225(c)).
 In the case of compensation paid for service as a member of a uniformed service, the statement shall show, in lieu of the amount required to be shown by paragraph (5), the total amount of wages as defined in section 3121(a), computed in accordance with such section and section 3121(i)(2). In the case of compensation paid for service as a volunteer or volunteer leader within the meaning of the Peace Corps Act, the statement shall show, in lieu of the amount required to be shown by paragraph (5), the total amount of wages as defined in section 3121(a), computed in accordance with such section and section 3121(i)(3). In the case of tips received by an employee in the course of his employment, the amounts required to be shown by paragraphs (3) and (5) shall include only such tips as are included in statements furnished to the employer pursuant to section 6053(a). The amounts required to be shown by paragraph (5) shall not include wages which are exempted pursuant to sections 3101(c) and 3111(c) from the taxes imposed by sections 3101 and 3111. In the case of the amounts required to be shown by paragraph (13), the Secretary may (by regulation) establish a minimum amount of deferrals below which paragraph (13) does not apply.
 
 **(b) Special rule as to compensation of members of Armed Forces** In the case of compensation paid for service as a member of the Armed Forces, the statement required by subsection (a) shall be furnished if any tax was withheld during the calendar year under section 3402, or if any of the compensation paid during such year is includible in gross income under chapter 1, or if during the calendar year any amount was required to be withheld as tax under section 3101. In lieu of the amount required to be shown by paragraph (3) of subsection (a), such statement shall show as wages paid during the calendar year the amount of such compensation paid during the calendar year which is not excluded from gross income under chapter 1 (whether or not such compensation constituted wages as defined in section 3401(a)).
@@ -6411,6 +6665,10 @@ The Peace Corps Act, referred to in subsec. (a), is Pub. L. 87–293, Sept. 22, 
 The Social Security Act, referred to in subsecs. (c) and (e)(2)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Part A of title XVIII of the Social Security Act is classified to part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2025—Subsec. (a)(18). Pub. L. 119–21, § 70201(f)(4), added par. (18).
+
+Subsec. (a)(19). Pub. L. 119–21, § 70202(c)(1), added par. (19).
+
 2019—Subsec. (a)(14). Pub. L. 116–94, § 503(b)(1)(A), substituted “subsection (g)” for “section 4980I(d)(1)” in introductory provisions.
 
 Subsec. (g). Pub. L. 116–94, § 503(b)(1)(B), added subsec. (g).
@@ -6484,6 +6742,11 @@ Subsec. (c). Pub. L. 89–97, § 107, required the statements to show the propor
 1956—Subsec. (a). Act Aug. 1, 1956, § 412(a), inserted provisions prescribing contents of statement in the case of compensation paid for service as a member of the uniformed services.
 
 Subsec. (b). Act Aug. 1, 1956, § 412(b), required the furnishing of a statement if during the calendar year any amount was required to be withheld as tax under [section 3101 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3101).
+
+#### Effective Date of 2025 Amendment
+Amendment by section 70201(f)(4) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2024, see section 70201(j) of Pub. L. 119–21, set out as a note under [section 45B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45b).
+
+Amendment by section 70202(c)(1) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2024, see section 70202(g) of Pub. L. 119–21, set out as a note under [section 63 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-63).
 
 #### Effective Date of 2019 Amendment
 Pub. L. 116–94, div. N, title I, § 503(c), Dec. 20, 2019, 133 Stat. 3120, provided that: “The amendments made by this section [amending this section and [section 9831 of this title](./chapter-100-group-health-plan-requirements.md#section-9831) and repealing [section 4980I of this title](./chapter-043-qualified-pension-etc-plans.md#section-4980i)] shall apply to taxable years beginning after December 31, 2019.”
@@ -6720,6 +6983,7 @@ Pub. L. 97–248, title III, § 314(c), Sept. 3, 1982, 96 Stat. 605, directed Se
       (II) in the case of a qualified health plan, the amount (if any) of any advance payment under section 1412 of the Patient Protection and Affordable Care Act of any cost-sharing reduction under section 1402 of such Act or of any premium tax credit under section 36B with respect to such coverage, and
 
     (iv) such other information as the Secretary may require.
+  For purposes of subparagraph (B)(i), in the case of any individual whose name is required to be set forth in a return under subsection (a), if the person required to make a return under such subsection is unable to collect information on the TINs of such individuals, the Secretary may allow the individual’s full name and date of birth to be substituted for the name and TIN.
 
 (2) **Information relating to employer-provided coverage** — If minimum essential coverage provided to an individual under subsection (a) consists of health insurance coverage of a health insurance issuer provided through a group health plan of an employer, a return described in this subsection shall include—
 
@@ -6739,6 +7003,18 @@ Pub. L. 97–248, title III, § 314(c), Sept. 3, 1982, 96 Stat. 605, directed Se
 
 (2) **Time for furnishing statements** — The written statement required under paragraph (1) shall be furnished on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
 
+(3) **11 So in original. Two pars. (3) have been enacted. Alternative manner of furnishing statements** — For purposes of this subsection, any person required to make a return under subsection (a) shall be treated as timely furnishing the written statement required under paragraph (1) if—
+
+  (A) such person provides clear, conspicuous, and accessible notice (at such time and in such manner as the Secretary may provide) that any individual to whom a statement would otherwise be required to be furnished under paragraph (1) may request a copy of such statement, and
+
+  (B) such person, on request of any such individual, furnishes a copy of such statement to such individual not later than the later of—
+
+    (i) January 31 of the year following the calendar year for which the return under subsection (a) was required to be made, or
+
+    (ii) 30 days after the date of such request.
+
+(3) **1 Electronic delivery** — An individual shall be deemed to have consented to receive the statement under this subsection in electronic form if such individual has affirmatively consented at any prior time, to the person required to make such statement, to receive such statement in electronic form. The preceding sentence shall not apply if the individual revokes such consent in writing.
+
 **(d) Coverage provided by governmental units** In the case of coverage provided by any governmental unit or any agency or instrumentality thereof, the officer or employee who enters into the agreement to provide such coverage (or the person appropriately designated for purposes of this section) shall make the returns and statements required by this section.
 
 **(e) Minimum essential coverage** For purposes of this section, the term “minimum essential coverage” has the meaning given such term by section 5000A(f).
@@ -6747,6 +7023,20 @@ Pub. L. 97–248, title III, § 314(c), Sept. 3, 1982, 96 Stat. 605, directed Se
 
 #### References in Text
 Sections 1311, 1402, and 1412 of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(1)(B)(iii), are classified to sections 18031, 18071, and 18082, respectively, of Title 42, The Public Health and Welfare.
+
+#### Amendments
+2024—Subsec. (b)(1). Pub. L. 118–168, § 2(a), inserted concluding provisions.
+
+Subsec. (c)(3). Pub. L. 118–168, § 3(b), added par. (3) relating to electronic delivery.
+
+Pub. L. 118–167 added par. (3) relating to alternative manner of furnishing statements.
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–168, § 2(b), Dec. 23, 2024, 138 Stat. 2586, provided that: “The amendment made by this section [amending this section] shall apply to returns the due date for which is after December 31, 2024.”
+
+Pub. L. 118–168, § 3(c), Dec. 23, 2024, 138 Stat. 2587, provided that: “The amendments made by this section [amending this section and [section 6056 of this title](./chapter-061-information-and-returns.md#section-6056)] shall apply to statements the due date for which is after December 31, 2024.”
+
+Pub. L. 118–167, § 2(c), Dec. 23, 2024, 138 Stat. 2585, provided that: “The amendments made by this section [amending this section and [section 6056 of this title](./chapter-061-information-and-returns.md#section-6056)] shall apply to statements with respect to returns for calendar years after 2023.”
 
 #### Effective Date
 Pub. L. 111–148, title I, § 1502(e), Mar. 23, 2010, 124 Stat. 252, provided that: “The amendments made by this section [enacting this section and [section 18092 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18092&num=0&edition=prelim), The Public Health and Welfare, and amending [section 6724 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6724)] shall apply to calendar years beginning after 2013.”
@@ -6793,6 +7083,18 @@ The Secretary shall have the authority to review the accuracy of the information
 
 (2) **Time for furnishing statements** — The written statement required under paragraph (1) shall be furnished on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
 
+(3) **11 So in original. Two pars. (3) have been enacted. Alternative manner of furnishing statements** — For purposes of this subsection, any person required to make a return under subsection (a) shall be treated as timely furnishing the written statement required under paragraph (1) if—
+
+  (A) such person provides clear, conspicuous, and accessible notice (at such time and in such manner as the Secretary may provide) that any individual to whom a statement would otherwise be required to be furnished under paragraph (1) may request a copy of such statement, and
+
+  (B) such person, on request of any such individual, furnishes a copy of such statement to such individual not later than the later of—
+
+    (i) January 31 of the year following the calendar year for which the return under subsection (a) was required to be made, or
+
+    (ii) 30 days after the date of such request.
+
+(3) **1 Electronic delivery** — An individual shall be deemed to have consented to receive the statement under this subsection in electronic form if such individual has affirmatively consented at any prior time, to the person who is the employer of the individual during the calendar year to which the statement relates, to receive such statement in electronic form. The preceding sentence shall not apply if the individual revokes such consent in writing.
+
 **(d) Coordination with other requirements** To the maximum extent feasible, the Secretary may provide that—
 
 (1) any return or statement required to be provided under this section may be provided as part of any return or statement required under section 6051 or 6055, and
@@ -6812,6 +7114,10 @@ Section 2701 of the Public Health Service Act, referred to in subsec. (b)(2)(C)(
 A prior section 6056, added Pub. L. 91–172, title I, § 101(d)(3), Dec. 30, 1969, 83 Stat. 521; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, required an annual report by private foundations having at least $5,000 of assets at any time during a taxable year, and prescribed contents, form and availability of the report, prior to repeal by Pub. L. 96–603, § 1(c), Dec. 28, 1980, 94 Stat. 3504.
 
 #### Amendments
+2024—Subsec. (c)(3). Pub. L. 118–168 added par. (3) relating to electronic delivery.
+
+Pub. L. 118–167 added par. (3) relating to alternative manner of furnishing statements.
+
 2011—Subsec. (a). Pub. L. 112–10, § 1858(b)(5)(A), struck out “and every offering employer” after “calendar year”.
 
 Subsec. (b)(2)(C). Pub. L. 112–10, § 1858(b)(5)(B), struck out “in the case of an applicable large employer,” before “the length” in cl. (i), inserted “and” at the end of cl. (iii), struck out “and” after “plan,” at the end of cl. (iv), and struck out cl. (v) which read as follows: “in the case of an offering employer, the option for which the employer pays the largest portion of the cost of the plan and the portion of the cost paid by the employer in each of the enrollment categories under such option,”.
@@ -6839,6 +7145,11 @@ Subsec. (b)(2)(C)(v). Pub. L. 111–148, § 10108(j)(3)(B)(v), added cl. (v).
 Subsecs. (d)(2), (e). Pub. L. 111–148, § 10108(j)(3)(C), (D), inserted “or offering employer” after “applicable large employer”.
 
 Subsec. (f). Pub. L. 111–148, § 10108(j)(2), amended subsec. (f) generally. Prior to amendment, text read as follows: “For purposes of this section, any term used in this section which is also used in section 4980H shall have the meaning given such term by section 4980H.”
+
+#### Effective Date of 2024 Amendment
+Amendment by Pub. L. 118–168 applicable to statements the due date for which is after Dec. 31, 2024, see section 3(c) of Pub. L. 118–168, set out as a note under [section 6055 of this title](./chapter-061-information-and-returns.md#section-6055).
+
+Amendment by Pub. L. 118–167 applicable to statements with respect to returns for calendar years after 2023, see section 2(c) of Pub. L. 118–167, set out as a note under [section 6055 of this title](./chapter-061-information-and-returns.md#section-6055).
 
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 112–10 effective as if included in the provisions of, and the amendments made by, the provisions of Pub. L. 111–148 to which it relates, see section 1858(d) of Pub. L. 112–10, set out as a note under [section 36B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-36b).
@@ -7675,9 +7986,9 @@ When not otherwise provided for by this title, the Secretary may by regulations 
 
 (1) no officer or employee of the United States,
 
-(2) no officer or employee of any State, any local law enforcement agency receiving information under subsection (i)(1)(C) or (7)(A), any local child support enforcement agency, or any local agency administering a program listed in subsection (l)(7)(D) who has or had access to returns or return information under this section or section 6104(c), and
+(2) no officer or employee of any State, any local law enforcement agency receiving information under subsection (i)(1)(C) or (7)(A), any tribal or local child support enforcement agency, or any local agency administering a program listed in subsection (l)(7)(D) who has or had access to returns or return information under this section or section 6104(c), and
 
-(3) no other person (or officer or employee thereof) who has or had access to returns or return information under subsection (c), subsection (e)(1)(D)(iii), paragraph (10), (13), (14), or (15) of subsection (k), paragraph (6), (10), (12), (13) (other than subparagraphs (D)(v) and (D)(vi) thereof), (16), (19), (20), or (21) of subsection (l), paragraph (2) or (4)(B) of subsection (m), or subsection (n),
+(3) no other person (or officer or employee thereof) who has or had access to returns or return information under subsection (c), subsection (e)(1)(D)(iii), paragraph (10), (13), (14), or (15) of subsection (k), paragraph (6), (8), (10), (12), (13) (other than subparagraphs (D)(v) and (D)(vi) thereof), (16), (19), (20), or (21) of subsection (l), paragraph (2) or (4)(B) of subsection (m), or subsection (n),
 shall disclose any return or return information obtained by him in any manner in connection with his service as such an officer or an employee or otherwise or under the provisions of this section. For purposes of this subsection, the term “officer or employee” includes a former officer or employee.
 
 **(b) Definitions** For purposes of this section—
@@ -8351,21 +8662,23 @@ shall disclose any return or return information obtained by him in any manner in
 
   (B) providing information regarding the mortality status of individuals for epidemiological and similar research in accordance with section 1106(d) of the Social Security Act.
 
-(6) **Disclosure of return information to Federal, State, and local child support enforcement agencies**
+(6) **Disclosure of return information to Federal, State, tribal, and local child support enforcement agencies**
 
-  (A) *Return information from Internal Revenue Service* — The Secretary may, upon written request, disclose to the appropriate Federal, State, or local child support enforcement agency—
+  (A) *Return information from Internal Revenue Service* — The Secretary may, upon written request, disclose to the appropriate Federal, State, tribal, or local child support enforcement agency—
 
     (i) available return information from the master files of the Internal Revenue Service relating to the social security account number (or numbers, if the individual involved has more than one such number), address, filing status, amounts and nature of income, and the number of dependents reported on any return filed by, or with respect to, any individual with respect to whom child support obligations are sought to be established or enforced pursuant to the provisions of part D of title IV of the Social Security Act and with respect to any individual to whom such support obligations are owing, and
 
     (ii) available return information reflected on any return filed by, or with respect to, any individual described in clause (i) relating to the amount of such individual’s gross income (as defined in section 61) or consisting of the names and addresses of payors of such income and the names of any dependents reported on such return, but only if such return information is not reasonably available from any other source.
 
-  (B) *Disclosure to certain agents* — The following information disclosed to any child support enforcement agency under subparagraph (A) with respect to any individual with respect to whom child support obligations are sought to be established or enforced may be disclosed by such agency to any agent of such agency which is under contract with such agency to carry out the purposes described in subparagraph (C):
-
-    (i) The address and social security account number (or numbers) of such individual.
-
-    (ii) The amount of any reduction under section 6402(c) (relating to offset of past-due support against overpayments) in any overpayment otherwise payable to such individual.
+  (B) *Disclosure to certain agents* — The information disclosed to any child support enforcement agency under subparagraph (A) with respect to any individual with respect to whom child support obligations are sought to be established or enforced may be disclosed by such agency to any agent of such agency which is under contract with such agency to carry out the purposes described in subparagraph (C).
 
   (C) *Restriction on disclosure* — Information may be disclosed under this paragraph only for purposes of, and to the extent necessary in, establishing and collecting child support obligations from, and locating, individuals owing such obligations.
+
+  (D) *State, tribal, or local child support enforcement agency* — For purposes of this paragraph, the following shall be treated as a State, tribal, or local child support enforcement agency:
+
+    (i) Any agency of a State or political subdivision thereof operating pursuant to a plan described in section 454 of the Social Security Act which has been approved by the Secretary of Health and Human Services under part D of title IV of such Act.
+
+    (ii) Any child support enforcement agency of an Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act.
 
 (7) **Disclosure of return information to Federal, State, and local agencies administering certain programs under the Social Security Act, the Food and Nutrition Act of 2008, or title 38, United States Code, or certain housing assistance programs**
 
@@ -8404,13 +8717,13 @@ shall disclose any return or return information obtained by him in any manner in
     (ix) any housing assistance program administered by the Department of Housing and Urban Development that involves initial and periodic review of an applicant’s or participant’s income, except that return information may be disclosed under this clause only on written request by the Secretary of Housing and Urban Development and only for use by officers and employees of the Department of Housing and Urban Development with respect to applicants for and participants in such programs.
     Only return information from returns with respect to net earnings from self-employment and wages may be disclosed under this paragraph for use with respect to any program described in clause (viii)(IV).
 
-(8) **Disclosure of certain return information by Social Security Administration to Federal, State, and local child support enforcement agencies**
+(8) **Disclosure of certain return information by Social Security Administration to Federal, State, tribal, and local child support enforcement agencies**
 
-  (A) *In general* — Upon written request, the Commissioner of Social Security shall disclose directly to officers and employees of a Federal or State or local child support enforcement agency return information from returns with respect to social security account numbers, net earnings from self-employment (as defined in section 1402), wages (as defined in section 3121(a) or 3401(a)), and payments of retirement income which have been disclosed to the Social Security Administration as provided by paragraph (1) or (5) of this subsection.
+  (A) *In general* — Upon written request, the Commissioner of Social Security shall disclose directly to officers and employees of a Federal, State, tribal, or local child support enforcement agency return information from returns with respect to social security account numbers, net earnings from self-employment (as defined in section 1402), wages (as defined in section 3121(a) or 3401(a)), and payments of retirement income which have been disclosed to the Social Security Administration as provided by paragraph (1) or (5) of this subsection.
 
-  (B) *Restriction on disclosure* — The Commissioner of Social Security shall disclose return information under subparagraph (A) only for purposes of, and to the extent necessary in, establishing and collecting child support obligations from, and locating, individuals owing such obligations. For purposes of the preceding sentence, the term “child support obligations” only includes obligations which are being enforced pursuant to a plan described in section 454 of the Social Security Act which has been approved by the Secretary of Health and Human Services under part D of title IV of such Act.
+  (B) *Restriction on disclosure* — The Commissioner of Social Security shall disclose return information under subparagraph (A) only for purposes of, and to the extent necessary in, establishing and collecting child support obligations from, and locating, individuals owing such obligations. For purposes of the preceding sentence, the term “child support obligations” only includes obligations which are being enforced pursuant to the provisions of part D of title IV of the Social Security Act. The information disclosed to any child support enforcement agency under subparagraph (A) with respect to any individual with respect to whom child support obligations are sought to be established or enforced may be disclosed by such agency to any agent of such agency which is under contract with such agency for purposes of, and to the extent necessary in, establishing and collecting child support obligations from, and locating, individuals owing such obligations.
 
-  (C) *State or local child support enforcement agency* — For purposes of this paragraph, the term “State or local child support enforcement agency” means any agency of a State or political subdivision thereof operating pursuant to a plan described in subparagraph (B).
+  (C) *State, tribal, or local child support enforcement agency* — For purposes of this paragraph, the term “State, tribal, or local child support enforcement agency” has the same meaning as when used in paragraph (6)(D).
 
 (9) **Disclosure of alcohol fuel producers to administrators of State alcohol laws** — Notwithstanding any other provision of this section, the Secretary may disclose—
 
@@ -8438,6 +8751,8 @@ shall disclose any return or return information obtained by him in any manner in
     (i) Any officers and employees of an agency receiving return information under subparagraph (A) shall use such information only for the purposes of, and to the extent necessary in, establishing appropriate agency records, locating any person with respect to whom a reduction under subsection (c), (d), (e), or (f) of section 6402 is sought for purposes of collecting the debt with respect to which the reduction is sought, or in the defense of any litigation or administrative procedure ensuing from a reduction made under subsection (c), (d), (e), or (f) of section 6402.
 
     (ii) Notwithstanding clause (i), return information disclosed to officers and employees of the Department of Labor may be accessed by agents who maintain and provide technological support to the Department of Labor’s Interstate Connection Network (ICON) solely for the purpose of providing such maintenance and support.
+
+    (iii) The information disclosed to any child support enforcement agency under subparagraph (A) with respect to any individual with respect to whom child support obligations are sought to be established or enforced may be disclosed by such agency to any agent of such agency which is under contract with such agency for purposes of, and to the extent necessary in, establishing and collecting child support obligations from, and locating, individuals owing such obligations.
 
 (11) **Disclosure of return information to carry out Federal Employees’ Retirement System**
 
@@ -8791,7 +9106,7 @@ shall disclose any return or return information obtained by him in any manner in
 
     (ii) describes the general purposes for which such requests were made.
 
-(4) **Safeguards** — Any Federal agency described in subsection (h)(2), (h)(5), (i)(1), (2), (3), (5), or (7), (j)(1), (2), or (5), (k)(8), (10), (11), or (15), (l)(1), (2), (3), (5), (10), (11), (13)(A), (13)(B), (13)(C), (13)(D)(i), (14), (17), or (22), (o)(1)(A), or (o)(3), the Government Accountability Office, the Congressional Budget Office, or any agency, body, or commission described in subsection (d), (i)(1)(C), (3)(B)(i), or (7)(A)(ii), or (k)(10), (l)(6), (7), (8), (9), (12), (15), or (16), any appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10) or (15), subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any entity described in subsection (l)(21), shall, as a condition for receiving returns or return information—
+(4) **Safeguards** — Any Federal agency described in subsection (h)(2), (h)(5), (i)(1), (2), (3), (5), or (7), (j)(1), (2), or (5), (k)(8), (10), (11), or (15), (l)(1), (2), (3), (5), (10), (11), (13)(A), (13)(B), (13)(C), (13)(D)(i), (14), (17), or (22), (o)(1)(A), or (o)(3), the Government Accountability Office, the Congressional Budget Office, or any agency, body, or commission described in subsection (d), (i)(1)(C), (3)(B)(i), or (7)(A)(ii), or (k)(10), (l)(6), (7), (8), (9), (12), (15), or (16), any appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10) or (15), subsection (l)(6), (8), (10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act, or any entity described in subsection (l)(21), shall, as a condition for receiving returns or return information—
 
   (A) establish and maintain, to the satisfaction of the Secretary, a permanent system of standardized records with respect to any request, the reason for such request, and the date of such request made by or of it and any disclosure of return or return information made by or to it;
 
@@ -8805,7 +9120,7 @@ shall disclose any return or return information obtained by him in any manner in
 
   (F) upon completion of use of such returns or return information—
 
-    (i) in the case of an agency, body, or commission described in subsection (d), (i)(3)(B)(i), (k)(10), or (l)(6), (7), (8), (9), or (16), any appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10) or (15) or subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20) return to the Secretary such returns or return information (along with any copies made therefrom) or make such returns or return information undisclosable in any manner and furnish a written report to the Secretary describing such manner,
+    (i) in the case of an agency, body, or commission described in subsection (d), (i)(3)(B)(i), (k)(10), or (l)(6), (7), (8), (9), or (16), any appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10) or (15) or subsection (l)(6), (8), (10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20) return to the Secretary such returns or return information (along with any copies made therefrom) or make such returns or return information undisclosable in any manner and furnish a written report to the Secretary describing such manner,
 
     (ii) in the case of an agency described in subsection (h)(2), (h)(5), (i)(1), (2), (3), (5) or (7), (j)(1), (2), or (5), (k)(8), (10), (11), or (15), (l)(1), (2), (3), (5), (10), (11), (12), (13)(A), (13)(B), (13)(C), (13)(D)(i), (14), (15), (17), or (22),,33 So in original. (o)(1)(A), or (o)(3) or any entity described in subsection (l)(21), the Government Accountability Office, or the Congressional Budget Office, either—
 
@@ -8816,7 +9131,7 @@ shall disclose any return or return information obtained by him in any manner in
       (III) to the extent not so returned or made undisclosable, ensure that the conditions of subparagraphs (A), (B), (C), (D), and (E) of this paragraph continue to be met with respect to such returns or return information, and
 
     (iii) in the case of the Department of Health and Human Services for purposes of subsection (m)(6), destroy all such return information upon completion of its use in providing the notification for which the information was obtained, so as to make such information undisclosable;
-  except that the conditions of subparagraphs (A), (B), (C), (D), and (E) shall cease to apply with respect to any return or return information if, and to the extent that, such return or return information is disclosed in the course of any judicial or administrative proceeding and made a part of the public record thereof. If the Secretary determines that any such agency, body, or commission, including an agency, an appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10) or (15) or subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20) or any entity described in subsection (l)(21), or the Government Accountability Office or the Congressional Budget Office, has failed to, or does not, meet the requirements of this paragraph, he may, after any proceedings for review established under paragraph (7), take such actions as are necessary to ensure such requirements are met, including refusing to disclose returns or return information to such agency, body, or commission, including an agency, an appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10) or (15) or subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20) or any entity described in subsection (l)(21), or the Government Accountability Office or the Congressional Budget Office, until he determines that such requirements have been or will be met. In the case of any agency which receives any mailing address under paragraph (2), (4), (6), or (7) of subsection (m) and which discloses any such mailing address to any agent or which receives any information under paragraph (6)(A), (10), (12)(B), or (16) of subsection (l) and which discloses any such information to any agent, or any person including an agent described in subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), or (16), this paragraph shall apply to such agency and each such agent or other person (except that, in the case of an agent, or any person including an agent described in subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), or (16), any report to the Secretary or other action with respect to the Secretary shall be made or taken through such agency). For purposes of applying this paragraph in any case to which subsection (m)(6) applies, the term “return information” includes related blood donor records (as defined in section 1141(h)(2) of the Social Security Act).
+  except that the conditions of subparagraphs (A), (B), (C), (D), and (E) shall cease to apply with respect to any return or return information if, and to the extent that, such return or return information is disclosed in the course of any judicial or administrative proceeding and made a part of the public record thereof. If the Secretary determines that any such agency, body, or commission, including an agency, an appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10) or (15) or subsection (l)(6), (8), (10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act, or any entity described in subsection (l)(21), or the Government Accountability Office or the Congressional Budget Office, has failed to, or does not, meet the requirements of this paragraph, he may, after any proceedings for review established under paragraph (7), take such actions as are necessary to ensure such requirements are met, including refusing to disclose returns or return information to such agency, body, or commission, including an agency, an appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10) or (15) or subsection (l)(6), (8), (10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act, or any entity described in subsection (l)(21), or the Government Accountability Office or the Congressional Budget Office, until he determines that such requirements have been or will be met. In the case of any agency which receives any mailing address under paragraph (2), (4), (6), or (7) of subsection (m) and which discloses any such mailing address to any agent or which receives any information under paragraph (6)(A), (8), (10), (12)(B), or (16) of subsection (l) and which discloses any such information to any agent, or any person including an agent described in subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), or (16), this paragraph shall apply to such agency and each such agent or other person (except that, in the case of an agent, or any person including an agent described in subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), or (16), any report to the Secretary or other action with respect to the Secretary shall be made or taken through such agency). For purposes of applying this paragraph in any case to which subsection (m)(6) applies, the term “return information” includes related blood donor records (as defined in section 1141(h)(2) of the Social Security Act).
 
 (5) **Report on procedures and safeguards** — After the close of each calendar year, the Secretary shall furnish to each committee described in subsection (f)(1) a report which describes the procedures and safeguards established and utilized by such agencies, bodies, or commissions, the Government Accountability Office, and the Congressional Budget Office for ensuring the confidentiality of returns and return information as required by this subsection. Such report shall also describe instances of deficiencies in, and failure to establish or utilize, such procedures.
 
@@ -8839,7 +9154,7 @@ shall disclose any return or return information obtained by him in any manner in
 
   (B) *Disclosure of returns or return information in State returns* — Nothing in subparagraph (A) or paragraph (9) shall be construed to prohibit the disclosure by an officer or employee of any State of any copy of any portion of a Federal return or any information on a Federal return which is required to be attached or included in a State return to another officer or employee of such State (or political subdivision of such State) if such disclosure is specifically authorized by State law.
 
-(9) **Disclosure to contractors and other agents** — Notwithstanding any other provision of this section, no return or return information shall be disclosed to any contractor or other agent of a Federal, State, or local agency unless such agency, to the satisfaction of the Secretary—
+(9) **Disclosure to contractors and other agents** — Notwithstanding any other provision of this section, no return or return information shall be disclosed to any contractor or other agent of a Federal, State, tribal, or local agency unless such agency, to the satisfaction of the Secretary—
 
   (A) has requirements in effect which require each such contractor or other agent which would have access to returns or return information to provide safeguards (within the meaning of paragraph (4)) to protect the confidentiality of such returns or return information,
 
@@ -8869,7 +9184,7 @@ Section 32101 of the FAST Act, referred to in subsec. (k)(11)(B), is section 321
 
 Section 2003(a) of the Taxpayer First Act, referred to in subsec. (k)(14)(B)(i)(I), is section 2003(a) of Pub. L. 116–25, which is set out in a note under [section 7529 of this title](./chapter-077-miscellaneous-provisions.md#section-7529).
 
-The Social Security Act, referred to in subsecs. (l)(1)(A), (B), (5), (6)(A)(i), (7), (8)(B), (12)(C)(ii)(I), (E)(i), (19)(A), (C), (20)(A), (B)(i), (21)(A), (22)(A), (B), (m)(6), (7), and (p)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Parts A and D of title IV and parts A and B of title XVIII of the Act are classified generally to parts A (§ 601 et seq.) and D (§ 651 et seq.) of subchapter IV and parts A (§ 1395c et seq.) and B (§ 1395j et seq.) of subchapter XVIII, respectively, of chapter 7 of Title 42. Titles I, X, XIV, XVI, XVIII, XIX, and XXI of the Act are classified generally to subchapters I (§ 301 et seq.), X (§ 1201 et seq.), XIV (§ 1351 et seq.), XVI (§ 1381 et seq.), XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42. Sections 232, 454, 1106, 1131, 1141, 1143, 1616, 1818, 1839, 1860D–13, 1860D–14, 1860D–31, 1862, and 1866 of the Act are classified to sections 432, 654, 1306, 1320b–1, 1320b–11, 1320b–13, 1382e, 1395i–2, 1395r, 1395w–113, 1395w–114, 1395w–141, 1395y, and 1395cc, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (l)(1)(A), (B), (5), (6)(A)(i), (D), (7), (8)(B), (12)(C)(ii)(I), (E)(i), (19)(A), (C), (20)(A), (B)(i), (21)(A), (22)(A), (B), (m)(6), (7), and (p)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Parts A and D of title IV and parts A and B of title XVIII of the Act are classified generally to parts A (§ 601 et seq.) and D (§ 651 et seq.) of subchapter IV and parts A (§ 1395c et seq.) and B (§ 1395j et seq.) of subchapter XVIII, respectively, of chapter 7 of Title 42. Titles I, X, XIV, XVI, XVIII, XIX, and XXI of the Act are classified generally to subchapters I (§ 301 et seq.), X (§ 1201 et seq.), XIV (§ 1351 et seq.), XVI (§ 1381 et seq.), XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42. Sections 232, 454, 455, 1106, 1131, 1141, 1143, 1616, 1818, 1839, 1860D–13, 1860D–14, 1860D–31, 1862, and 1866 of the Act are classified to sections 432, 654, 655, 1306, 1320b–1, 1320b–11, 1320b–13, 1382e, 1395i–2, 1395r, 1395w–113, 1395w–114, 1395w–141, 1395y, and 1395cc, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 The Railroad Retirement Act, referred to in subsec. (l)(1)(C), probably means the Railroad Retirement Act of 1974, which is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, and is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim), [section 231t of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231t&num=0&edition=prelim), and Tables.
 
@@ -8901,6 +9216,40 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section 1224(b)(1) to (3) of Pub. L. 109–280, which directed the amendment of section 6103 without specifying the act to be amended, was executed to this section, which is section 6103 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2025—Subsec. (a)(2). Pub. L. 118–258, § 202(a)(2)(A), substituted “any tribal or local child support enforcement agency” for “any local child support enforcement agency”.
+
+Subsec. (a)(3). Pub. L. 118–258, § 202(a)(2)(B), inserted “, (8)” after “paragraph (6)”.
+
+Subsec. (l)(6). Pub. L. 118–258, § 202(a)(2)(C)(i)(II), substituted “tribal, and local” for “and local” in heading.
+
+Subsec. (l)(6)(A). Pub. L. 118–258, § 202(a)(2)(C)(i)(I), substituted “tribal, or local” for “or local” in introductory provisions.
+
+Subsec. (l)(6)(B). Pub. L. 118–258, § 202(a)(2)(C)(i)(III), (IV), substituted “The information” for “The following information”, substituted period for colon at end, and struck out cls. (i) and (ii) which read as follows:
+
+“(i) The address and social security account number (or numbers) of such individual.
+
+“(ii) The amount of any reduction under section 6402(c) (relating to offset of past-due support against overpayments) in any overpayment otherwise payable to such individual.”
+
+Subsec. (l)(6)(D). Pub. L. 118–258, § 202(a)(2)(C)(i)(V), added subpar. (D).
+
+Subsec. (l)(8). Pub. L. 118–258, § 202(a)(2)(C)(ii)(V), substituted “tribal, and local” for “and local” in heading.
+
+Subsec. (l)(8)(A). Pub. L. 118–258, § 202(a)(2)(C)(ii)(I), substituted “, State, tribal, or local” for “or State or local”.
+
+Subsec. (l)(8)(B). Pub. L. 118–258, § 202(a)(2)(C)(ii)(II), (III), substituted “enforced pursuant to the provisions of part D of title IV of the Social Security Act” for “enforced pursuant to a plan described in section 454 of the Social Security Act which has been approved by the Secretary of Health and Human Services under part D of title IV of such Act” and inserted at end “The information disclosed to any child support enforcement agency under subparagraph (A) with respect to any individual with respect to whom child support obligations are sought to be established or enforced may be disclosed by such agency to any agent of such agency which is under contract with such agency for purposes of, and to the extent necessary in, establishing and collecting child support obligations from, and locating, individuals owing such obligations.”
+
+Subsec. (l)(8)(C). Pub. L. 118–258, § 202(a)(2)(C)(ii)(IV), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “For purposes of this paragraph, the term ‘State or local child support enforcement agency’ means any agency of a State or political subdivision thereof operating pursuant to a plan described in subparagraph (B).”
+
+Subsec. (l)(10)(B)(iii). Pub. L. 118–258, § 202(a)(2)(C)(iii), added cl. (iii).
+
+Subsec. (p)(4). Pub. L. 118–258, § 202(a)(2)(D)(iii), (iv), in concluding provisions, substituted “subsection (l)(6), (8), (10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act, or any entity” for “subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20) or any entity” in two places and inserted “, (8)” after “paragraph (6)(A)”.
+
+Pub. L. 118–258, § 202(a)(2)(D)(i), substituted “subsection (l)(6), (8), (10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act, or any entity” for “subsection (l)(10), (13)(A), (13)(B), (13)(C), (13)(D)(i), (16), (18), (19), or (20), or any entity” in introductory provisions.
+
+Subsec. (p)(4)(F)(i). Pub. L. 118–258, § 202(a)(2)(D)(ii), substituted “subsection (l)(6), (8), (10)” for “subsection (l)(10)”.
+
+Subsec. (p)(9). Pub. L. 118–258, § 202(a)(2)(E), substituted “tribal, or local” for “or local” in introductory provisions.
+
 2020—Subsec. (a)(3). Pub. L. 116–260, div. N, § 284(a)(3)(A), and div. FF, § 103(a)(3)(A), amended par. (3) identically, substituting “(13) (other than subparagraphs (D)(v) and (D)(vi) thereof),” for “(13)(A), (13)(B), (13)(C), (13)(D)(i),”.
 
 Pub. L. 116–260, div. N, § 283(b)(2)(A), and div. FF, § 102(b)(2)(A), amended par. (3) identically, substituting “(14), or (15)” for “or (14)”.

@@ -6504,7 +6504,7 @@ Section was formerly classified to [section 14213 of Title 42](https://uscode.ho
 
 (15) [section 12271 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12271); and
 
-(16) section 20201. 1
+(16) section 20201.1
 “prevention program” means a program authorized in any of the following sections:
 
 (1) section 50001; 1

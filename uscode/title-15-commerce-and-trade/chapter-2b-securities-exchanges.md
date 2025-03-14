@@ -16,6 +16,9 @@ This chapter may be cited as the “Securities Exchange Act of 1934.”
 #### References in Text
 This chapter, referred to in text, was in the original “This Act” meaning the Securities Exchange Act of 1934, act June 6, 1934, ch. 404. The act was divided into two titles as follows: “Title I—Regulation of Securities Exchanges” and “Title II—Amendments to Securities Act of 1933.” This section was section 1 of title I of the Act, which title, as amended, is set out as sections 78a to 78d–5, 78e to 78l, 78m, 78m–1, 78n to 78o, 78o–3, 78o–4, 78o–5 to 78o–7, 78o–10 to 78u–6, 78v to 78dd–1, 78ee to 78hh, 78mm, and 78pp to 78rr of this title. Sections 78kk, 78ll, 78nn, 78oo, and 78rr of this title, which were directed to be added at the end of the Securities Exchange Act of 1934, have been treated in the Code as added to title I of the Act to reflect the probable intent of Congress. See Codification notes set out under those sections. Title II of the act amended or repealed sections 77b, 77c, 77d, 77e, 77j, 77k, 77m, 77o, and 77s of this title, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
 
+#### Short Title of 2025 Amendment
+Pub. L. 119–60, div. H, title LXXXI, § 8103(a), Dec. 18, 2025, 139 Stat. 1838, provided that: “This section [amending [section 78p of this title](./chapter-2b-securities-exchanges.md#section-78p) and enacting provisions set out as notes under [section 78p of this title](./chapter-2b-securities-exchanges.md#section-78p)] may be cited as the ‘Holding Foreign Insiders Accountable Act’.”
+
 #### Short Title 2022 Amendment
 Pub. L. 117–263, div. E, title LVIII, § 5801, Dec. 23, 2022, 136 Stat. 3421, provided that: “This title [enacting sections 77z–4 and 78rr of this title and sections 14a, 253, 1772e, 1772f, 1831cc, 1831dd, 4527, 4528, 5334, 5335, 5498, and 5499 of Title 12, Banks and Banking, amending sections 77g, 78d, 78m, 78n, 78o–3, 78o–4, 78o–7, 80a–8, 80a–29, and 80b–4 of this title and sections 1467a, 1844, 5361, and 5468 of Title 12, enacting provisions set out as notes under sections 77g, 78o–3, 78o–4, and 78rr of this title and sections 14a, 253, 1772e, 1831cc, 4527, 5334, 5335, and 5498 of Title 12, and amending provisions set out as a note under [section 5491 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5491&num=0&edition=prelim)] may be cited as the ‘Financial Data Transparency Act of 2022’.”
 
@@ -1207,6 +1210,9 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(10)
+Pub. L. 119–27, §§ 17(d), 20, July 18, 2025, 139 Stat. 463, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, subsection (a)(10) of this section is amended by adding at the end the following: “The term ‘security’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in [section 5901 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim).” See 2025 Amendment note below.
+
 #### References in Text
 This chapter, referred to in subsecs. (a), (b), (c), (e)(1), (f), and (g), and (h)(1)(C), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
@@ -1256,6 +1262,8 @@ Section 206A of the Gramm-Leach-Bliley Act, referred to in subsec. (a)(78)(A), i
 Words “Philippine Islands” deleted from definition of term “State” in subsec. (a)(16) under authority of Proc. No. 2695, which granted independence to the Philippine Islands. Proc. No. 2695 was issued pursuant to [section 1394 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1394&num=0&edition=prelim), Foreign Relations and Intercourse, and is set out as a note under that section.
 
 #### Amendments
+2025—Subsec. (a)(10). Pub. L. 119–27 inserted at end “The term ‘security’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in [section 5901 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim).”
+
 2012—Subsec. (a)(77), (79). Pub. L. 112–106, § 101(b)(1), redesignated par. (77) defining “asset-backed security” as (79).
 
 Subsec. (a)(80). Pub. L. 112–106, § 304(b), added par. (80) defining “funding portal”.
@@ -1546,6 +1554,9 @@ Subsec. (a)(19). Pub. L. 91–547, § 28(b), provided for term “separate accou
 
 #### Change of Name
 Act Aug. 23, 1935, substituted “Board of Governors of the Federal Reserve System” for “Federal Reserve Board”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as an Effective Date note under [section 5901 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim), Banks and Banking.
 
 #### Effective Date of 2012 Amendment
 Notwithstanding subsec. (a)(80) of this section, issuer not to be an emerging growth company for purposes of the Securities Act of 1933 ([15 U.S.C. 77a](./chapter-2a-securities-and-trust-indentures.md#section-77a) et seq.) and the Securities Exchange Act of 1934 ([15 U.S.C. 78a](./chapter-2b-securities-exchanges.md#section-78a) et seq.) if the first sale of common equity securities of such issuer pursuant to an effective registration statement under the Securities Act of 1933 occurred on or before Dec. 8, 2011, see section 101(d) of Pub. L. 112–106, set out as a note under [section 77b of this title](./chapter-2a-securities-and-trust-indentures.md#section-77b).
@@ -2374,27 +2385,7 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
   (B) report to the Director of that Division.
 
-**(i) Securities and Exchange Commission Reserve Fund**
-
-(1) **Reserve Fund established** — There is established in the Treasury of the United States a separate fund, to be known as the “Securities and Exchange Commission Reserve Fund” (referred to in this subsection as the “Reserve Fund”).
-
-(2) **Reserve Fund amounts**
-
-  (A) *In general* — Except as provided in subparagraph (B), any registration fees collected by the Commission under [section 77f(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77f/b&num=0&edition=prelim) or [section 80a–24(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–24/f&num=0&edition=prelim) shall be deposited into the Reserve Fund.
-
-  (B) *Limitations* — For any 1 fiscal year—
-
-    (i) the amount deposited in the Fund may not exceed $50,000,000; and
-
-    (ii) the balance in the Fund may not exceed $100,000,000.
-
-  (C) *Excess fees* — Any amounts in excess of the limitations described in subparagraph (B) that the Commission collects from registration fees under [section 77f(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77f/b&num=0&edition=prelim) or [section 80a–24(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–24/f&num=0&edition=prelim) shall be deposited in the General Fund of the Treasury of the United States and shall not be available for obligation by the Commission.
-
-(3) **Use of amounts in Reserve Fund** — The Commission may obligate amounts in the Reserve Fund, not to exceed a total of $100,000,000 in any 1 fiscal year, as the Commission determines is necessary to carry out the functions of the Commission. Any amounts in the reserve fund shall remain available until expended. Not later than 10 days after the date on which the Commission obligates amounts under this paragraph, the Commission shall notify Congress of the date, amount, and purpose of the obligation.
-
-(4) **Rule of construction** — Amounts collected and deposited in the Reserve Fund shall not be construed to be Government funds or appropriated monies and shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority.
-
-**(j) Office of the Advocate for Small Business Capital Formation**
+**(i) Office of the Advocate for Small Business Capital Formation**
 
 (1) **Office established** — There is established within the Commission the Office of the Advocate for Small Business Capital Formation (hereafter in this subsection referred to as the “Office”).
 
@@ -2470,7 +2461,7 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
 (9) **Rule of construction** — Nothing in this subsection may be construed as replacing or reducing the responsibilities of the Investor Advocate with respect to small business investors.
 
-**(k) Open data publication** All public data assets published by the Commission under the securities laws and the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203; 124 Stat. 1376) shall be—
+**(j) Open data publication** All public data assets published by the Commission under the securities laws and the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203; 124 Stat. 1376) shall be—
 
 (1) made available as an open Government data asset (as defined in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim));
 
@@ -2483,11 +2474,13 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a), (g)(4)(D)(ii), and (j)(4)(D)(ii), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
+This chapter, referred to in subsecs. (a), (g)(4)(D)(ii), and (i)(4)(D)(ii), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
-The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (k), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, which enacted chapter 53 (§ 5301 et seq.) of Title 12, Banks and Banking, and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of this title, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim) and Tables.
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (j), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, which enacted chapter 53 (§ 5301 et seq.) of Title 12, Banks and Banking, and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of this title, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2025—Subsecs. (i) to (k). Pub. L. 119–21 redesignated subsecs. (j) and (k) as (i) and (j), respectively, and struck out former subsec. (i) which related to the establishment of the Securities and Exchange Commission Reserve Fund and amounts therein.
+
 2022—Subsec. (k). Pub. L. 117–263 added subsec. (k).
 
 2018—Subsec. (j)(4)(C), (6)(B)(iii). Pub. L. 115–141 substituted “minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters” for “minority-owned and women-owned small businesses”.
@@ -2540,6 +2533,9 @@ Act Oct. 28, 1949, ch. 782, set out in the credit of this section, was repealed 
 
 #### Rule of Construction—No New Disclosure Requirements
 Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under [section 77g of this title](./chapter-2a-securities-and-trust-indentures.md#section-77g).
+
+#### Expenditure of Funds in and Closure of the Securities and Exchange Commission Reserve Fund
+Pub. L. 119–21, title III, § 30003(c)–(e), July 4, 2025, 139 Stat. 126, provided that: “(c) Transition Provision.—During the period beginning on the date of enactment of this Act [July 4, 2025] and ending on October 1, 2025, the Securities and Exchange Commission may expend amounts in the Securities and Exchange Commission Reserve Fund that were obligated before the date of enactment of this Act for any program, project, or activity that is ongoing (as of the day before the date of enactment of this Act) in accordance with [former] subsection (i) of section 4 of the Securities Exchange Act of 1934 ([15 U.S.C. 78d](./chapter-2b-securities-exchanges.md#section-78d)), as in effect on the day before the date of enactment of this Act. “(d) Transfer of Remaining Amounts.—Effective on October 1, 2025, the obligated and unobligated balances of amounts in the Securities and Exchange Commission Reserve Fund shall be transferred to the general fund of the Treasury. “(e) Closing of Account.—For the purposes of [section 1555 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1555&num=0&edition=prelim), United States Code, the Securities and Exchange Commission Reserve Fund shall be considered closed, and thereafter shall not be available for obligation or expenditure for any purpose, upon execution of the transfer required under subsection (d).”
 
 #### Outreach by the Commission
 Pub. L. 112–106, title VII, § 701, Apr. 5, 2012, 126 Stat. 327, provided that: “The Securities and Exchange Commission shall provide online information and conduct outreach to inform small and medium sized businesses, women owned businesses, veteran owned businesses, and minority owned businesses of the changes made by this Act [see Short Title of 2012 Amendment note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a)].”
@@ -2761,6 +2757,51 @@ By the authority vested in me as President by the Constitution and the laws of t
 Designation in this Executive Order is intended solely to further the purposes of the statutes mentioned above and is not determinative of whether an entity is a public international organization for the purpose of other statutes or regulations.
 
 George W. Bush.
+
+#### Ex. Ord. No. 14209. Pausing Foreign Corrupt Practices Act Enforcement To Further American Economic and National Security
+Ex. Ord. No. 14209, Feb. 10, 2025, 90 F.R. 9587, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:
+
+Section 1. Purpose and Policy. Since its enactment in 1977, the Foreign Corrupt Practices Act [of 1977] ([15 U.S.C. 78dd–1](./chapter-2b-securities-exchanges.md#section-78dd-1) et seq.) (FCPA) has been systematically, and to a steadily increasing degree, stretched beyond proper bounds and abused in a manner that harms the interests of the United States. Current FCPA enforcement impedes the United States’ foreign policy objectives and therefore implicates the President’s Article II authority over foreign affairs.
+
+The President’s foreign policy authority is inextricably linked with the global economic competitiveness of American companies. American national security depends in substantial part on the United States and its companies gaining strategic business advantages whether in critical minerals, deep-water ports, or other key infrastructure or assets.
+
+But overexpansive and unpredictable FCPA enforcement against American citizens and businesses–by our own Government–for routine business practices in other nations not only wastes limited prosecutorial resources that could be dedicated to preserving American freedoms, but actively harms American economic competitiveness and, therefore, national security.
+
+It is therefore the policy of my Administration to preserve the Presidential authority to conduct foreign affairs and advance American economic and national security by eliminating excessive barriers to American commerce abroad.
+
+Sec. 2. Policy of Enforcement Discretion. (a) For a period of 180 days following the date of this order [Feb. 10, 2025], the Attorney General shall review guidelines and policies governing investigations and enforcement actions under the FCPA. During the review period, the Attorney General shall:
+
+(i) cease initiation of any new FCPA investigations or enforcement actions, unless the Attorney General determines that an individual exception should be made;
+
+(ii) review in detail all existing FCPA investigations or enforcement actions and take appropriate action with respect to such matters to restore proper bounds on FCPA enforcement and preserve Presidential foreign policy prerogatives; and
+
+(iii) issue updated guidelines or policies, as appropriate, to adequately promote the President’s Article II authority to conduct foreign affairs and prioritize American interests, American economic competitiveness with respect to other nations, and the efficient use of Federal law enforcement resources.
+
+(b) The Attorney General may extend such review period for an additional 180 days as the Attorney General determines appropriate.
+
+(c) FCPA investigations and enforcement actions initiated or continued after the revised guidelines or policies are issued under subsection (a) of this section:
+
+(i) shall be governed by such guidelines or policies; and
+
+(ii) must be specifically authorized by the Attorney General.
+
+(d) After the revised guidelines or policies are issued under subsection (a) of this section, the Attorney General shall determine whether additional actions, including remedial measures with respect to inappropriate past FCPA investigations and enforcement actions, are warranted and shall take any such appropriate actions or, if Presidential action is required, recommend such actions to the President.
+
+Sec. 3. Severability. If any provision of this order, or the application of any provision to any person or circumstance, is held to be invalid, the remainder of this order and the application of its provisions to any other persons or circumstances shall not be affected thereby.
+
+Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 
 <a id="section-78dd-2"></a>
@@ -9976,7 +10017,7 @@ For definitions of terms used in this section, see [section 5301 of Title 12](ht
 ## § 78p. Directors, officers, and principal stockholders
 **(a) Disclosures required**
 
-(1) **Directors, officers, and principal stockholders required to file** — Every person who is directly or indirectly the beneficial owner of more than 10 percent of any class of any equity security (other than an exempted security) which is registered pursuant to section 78l of this title, or who is a director or an officer of the issuer of such security, shall file the statements required by this subsection with the Commission.
+(1) **Directors, officers, and principal stockholders required to file** — Every person who is directly or indirectly the beneficial owner of more than 10 percent of any class of any equity security (other than an exempted security) which is registered pursuant to section 78l of this title, or who is a director or an officer of the issuer of such security (including, solely for the purposes of this subsection, every person who is a director or an officer of a foreign private issuer, as that term is defined in section 240.3b–4 of title 17, Code of Federal Regulations, or any successor regulation), shall file the statements required by this subsection with the Commission.
 
 (2) **Time of filing** — The statements required by this subsection shall be filed—
 
@@ -9984,7 +10025,9 @@ For definitions of terms used in this section, see [section 5301 of Title 12](ht
 
   (B) within 10 days after he or she becomes such beneficial owner, director, or officer, or within such shorter time as the Commission may establish by rule;
 
-  (C) if there has been a change in such ownership, or if such person shall have purchased or sold a security-based swap agreement involving such equity security, before the end of the second business day following the day on which the subject transaction has been executed, or at such other time as the Commission shall establish, by rule, in any case in which the Commission determines that such 2-day period is not feasible.
+  (C) if there has been a change in such ownership, or if such person shall have purchased or sold a security-based swap agreement involving such equity security, before the end of the second business day following the day on which the subject transaction has been executed, or at such other time as the Commission shall establish, by rule, in any case in which the Commission determines that such 2-day period is not feasible; or
+
+  (D) with respect to a foreign private issuer, the securities of which are, as of December 18, 2025, registered pursuant to subsection (b) or (g) of section 78l of this title, on the date that is 90 days after December 18, 2025.
 
 (3) **Contents of statements** — A statement filed—
 
@@ -9994,11 +10037,13 @@ For definitions of terms used in this section, see [section 5301 of Title 12](ht
 
 (4) **Electronic filing and availability** — Beginning not later than 1 year after July 30, 2002—
 
-  (A) a statement filed under subparagraph (C) of paragraph (2) shall be filed electronically;
+  (A) a statement filed under subparagraph (C) of paragraph (2) shall be filed electronically and in English;
 
   (B) the Commission shall provide each such statement on a publicly accessible Internet site not later than the end of the business day following that filing; and
 
   (C) the issuer (if the issuer maintains a corporate website) shall provide that statement on that corporate website, not later than the end of the business day following that filing.
+
+(5) **Authority to exempt** — The Commission by rule, regulation, or order, may conditionally or unconditionally exempt any person, security, or transaction, or any class or classes of persons, securities, or transactions, from the requirements of this section if the Commission determines that the laws of a foreign jurisdiction apply substantially similar requirements to such person, security, or transaction.
 
 **(b) Profits from purchase and sale of security within six months** For the purpose of preventing the unfair use of information which may have been obtained by such beneficial owner, director, or officer by reason of his relationship to the issuer, any profit realized by him from any purchase and sale, or any sale and purchase, of any equity security of such issuer (other than an exempted security) or a security-based swap agreement involving any such equity security within any period of less than six months, unless such security or security-based swap agreement was acquired in good faith in connection with a debt previously contracted, shall inure to and be recoverable by the issuer, irrespective of any intention on the part of such beneficial owner, director, or officer in entering into such transaction of holding the security or security-based swap agreement purchased or of not repurchasing the security or security-based swap agreement sold for a period exceeding six months. Suit to recover such profit may be instituted at law or in equity in any court of competent jurisdiction by the issuer, or by the owner of any security of the issuer in the name and in behalf of the issuer if the issuer shall fail or refuse to bring such suit within sixty days after request or shall fail diligently to prosecute the same thereafter; but no such suit shall be brought more than two years after the date such profit was realized. This subsection shall not be construed to cover any transaction where such beneficial owner was not such both at the time of the purchase and sale, or the sale and purchase, of the security or security-based swap agreement or a security-based swap involved, or any transaction or transactions which the Commission by rules and regulations may exempt as not comprehended within the purpose of this subsection.
 
@@ -10015,6 +10060,14 @@ For definitions of terms used in this section, see [section 5301 of Title 12](ht
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–60, § 8103(b)(1)(A), inserted “(including, solely for the purposes of this subsection, every person who is a director or an officer of a foreign private issuer, as that term is defined in section 240.3b–4 of title 17, Code of Federal Regulations, or any successor regulation)” after “an officer of the issuer of such security”.
+
+Subsec. (a)(2)(D). Pub. L. 119–60, § 8103(b)(1)(B), added subpar. (D).
+
+Subsec. (a)(4)(A). Pub. L. 119–60, § 8103(b)(1)(C), inserted “and in English” after “electronically”.
+
+Subsec. (a)(5). Pub. L. 119–60, § 8103(b)(1)(D), added par. (5).
+
 2010—Subsec. (a)(1). Pub. L. 111–203, § 929R(b)(1), struck out “(and, if such security is registered on a national securities exchange, also with the exchange)” after “Commission”.
 
 Subsec. (a)(2)(B). Pub. L. 111–203, § 929R(b)(2), inserted “, or within such shorter time as the Commission may establish by rule” after “officer”.
@@ -10041,6 +10094,9 @@ Subsec. (g). Pub. L. 106–554, § 1(a)(5) [title III, § 303(h)], added subsec.
 
 Subsecs. (d), (e). Pub. L. 88–467, § 8(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
+#### Effective Date of 2025 Amendment
+Pub. L. 119–60, div. H, title LXXXI, § 8103(b)(2), Dec. 18, 2025, 139 Stat. 1839, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on the date that is 90 days after the date of enactment of this Act [Dec. 18, 2025].”
+
 #### Effective Date of 2010 Amendment
 Amendment by section 929R(b) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.
 
@@ -10051,6 +10107,9 @@ Pub. L. 107–204, title IV, § 403(b), July 30, 2002, 116 Stat. 789, provided t
 
 #### Effective Date of 1964 Amendment
 Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L. 88–467, set out as a note under [section 78c of this title](./chapter-2b-securities-exchanges.md#section-78c).
+
+#### Effect on Regulation; Issuance or Amendment of Regulations
+Pub. L. 119–60, div. H, title LXXXI, § 8103(c), (d), Dec. 18, 2025, 139 Stat. 1839, provided that: “(c) Effect on Regulation.—If any provision of section 240.3a12–3(b) of title 17, Code of Federal Regulations, or any successor regulation, is inconsistent with the amendments made by subsection (b) [amending this section], that provision of such section 240.3a12–3(b) (or such successor) shall have no force or effect beginning on the effective date described in subsection (b)(2) [see Effective Date of 2025 Amendment note above]. “(d) Issuance or Amendment of Regulations.—“(1) In general.—Not later than 90 days after the date of enactment of this Act [Dec. 18, 2025], the Securities and Exchange Commission shall issue final regulations (or amend or rescind, in whole or in part, existing regulations of the Commission) to carry out the amendments made by subsection (b). “(2) Additional rulemaking.—The Securities and Exchange Commission may issue such additional regulations (or amend or rescind, in whole or in part, existing regulations of the Commission) as necessary to implement the intent of this section.”
 
 #### Transfer of Functions
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
@@ -12410,11 +12469,7 @@ Nothing in section to be deemed to create or ratify any implied right of action,
 
 (1) **Fund established** — There is established in the Treasury of the United States a fund to be known as the “Securities and Exchange Commission Investor Protection Fund”.
 
-(2) **Use of Fund** — The Fund shall be available to the Commission, without further appropriation or fiscal year limitation, for—
-
-  (A) paying awards to whistleblowers as provided in subsection (b); and
-
-  (B) funding the activities of the Inspector General of the Commission under [section 78d(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78d/i&num=0&edition=prelim).
+**(a) Use of Fund 11 So in original. Probably should be designated “(2)”.** The Fund shall be available to the Commission, without further appropriation or fiscal year limitation, for paying awards to whistleblowers as provided in subsection (b).
 
 (3) **Deposits and credits**
 
@@ -12548,6 +12603,13 @@ Nothing in section to be deemed to create or ratify any implied right of action,
 The Sarbanes-Oxley Act of 2002, referred to in subsec. (h)(1)(A)(iii), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745. For complete classification of this Act to the Code, see Short Title note set out under [section 7201 of this title](./chapter-098-public-company-accounting-reform-and-corporate-responsibility.md#section-7201) and Tables.
 
 This chapter, referred to in subsec. (h)(1)(A)(iii), was in the original “the Securities Exchange Act of 1934 ([15 U.S.C. 78a](./chapter-2b-securities-exchanges.md#section-78a) et seq.)”. This chapter, referred to in subsec. (h)(2)(D)(i), was in the original “this Act”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
+
+#### Amendments
+2025—Subsec. (g)(2). Pub. L. 119–21, which directed that subsec. (g)(2) of this section be “amended to read as follows:” with a designation and heading of “(a) Use of Fund”, was executed to par. (2) of subsec. (g) as directed, to reflect the probable intent of Congress. Prior to amendment, text read as follows: “The Fund shall be available to the Commission, without further appropriation or fiscal year limitation, for—
+
+“(A) paying awards to whistleblowers as provided in subsection (b); and
+
+“(B) funding the activities of the Inspector General of the Commission under [section 78d(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78d/i&num=0&edition=prelim).”
 
 #### Effective Date
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.

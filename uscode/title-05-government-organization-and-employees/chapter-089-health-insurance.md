@@ -1289,6 +1289,9 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 #### Regulations
 Regulations to carry out amendment by Pub. L. 116–92 to be prescribed no later than 90 days after Dec. 20, 2019, and to contain provision related to pay status for furloughed employees, see section 1110(c) of Pub. L. 116–92, set out as a note under [section 8702 of this title](./chapter-087-life-insurance.md#section-8702).
 
+#### FEHB Improvements
+Pub. L. 119–21, title IX, § 90101(a)–(f), July 4, 2025, 139 Stat. 362, provided that: “(a) Short Title.—This section may be cited as the ‘FEHB Protection Act of 2025’. “(b) Definitions.—In this section:“(1) Director.—The term ‘Director’ means the Director of the Office of Personnel Management. “(2) Health benefits plan; member of family.—The terms ‘health benefits plan’ and ‘member of family’ have the meanings given those terms in [section 8901 of title 5](./chapter-089-health-insurance.md#section-8901), United States Code. “(3) Open season.—The term ‘open season’ means an open season described in section 890.301(f) of title 5, Code of Federal Regulations, or any successor regulation. “(4) Program.—The term ‘Program’ means the health insurance programs carried out under chapter 89 of title 5, United States Code, including the program carried out under section 8903c of that title. “(5) Qualifying life event.—The term ‘qualifying life event’ has the meaning given the term in section 892.101 of title 5, Code of Federal Regulations, or any successor regulation. “(c) Verification Requirements.—Not later than 1 year after the date of enactment of this Act [July 4, 2025], the Director shall issue regulations and implement a process to verify—“(1) the veracity of any qualifying life event through which an enrollee in the Program seeks to add a member of family with respect to the enrollee to a health benefits plan under the Program; and “(2) that, when an enrollee in the Program seeks to add a member of family with respect to the enrollee to the health benefits plan of the enrollee under the Program, including during any open season, the individual so added is a qualifying member of family with respect to the enrollee. “(d) Fraud Risk Assessment.—In any fraud risk assessment conducted with respect to the Program on or after the date of enactment of this Act, the Director shall include an assessment of individuals who are enrolled in, or covered under, a health benefits plan under the Program even though those individuals are not eligible to be so enrolled or covered. “(e) Family Member Eligibility Verification Audit.—“(1) In general.—During the 3-year period beginning on the date that is 1 year after the date of enactment of this Act, the Director shall carry out a comprehensive audit regarding members of family who are covered under an enrollment in a health benefits plan under the Program. “(2) Contents.—With respect to the audit carried out under paragraph (1), the Director shall review marriage certificates, birth certificates, and other appropriate documents that are necessary to determine eligibility to enroll in a health benefits plan under the Program. “(f) Disenrollment or Removal.—Not later than 180 days after the date of enactment of this Act, the Director shall develop a process by which any individual enrolled in, or covered under, a health benefits plan under the Program who is not eligible to be so enrolled or covered shall be disenrolled or removed from enrollment in, or coverage under, that health benefits plan.”
+
 #### Weighted Average for First Year
 Pub. L. 113–67, div. A, title VII, § 706(d), Dec. 26, 2013, 127 Stat. 1194, provided that: “For the first contract year for which an employee may enroll for self plus one coverage under chapter 89 of title 5, United States Code, the Office of Personnel Management shall determine the weighted average of the subscription charges that will be in effect for the contract year for enrollments for self plus one under such chapter based on an actuarial analysis.”
 
@@ -1928,14 +1931,16 @@ For provisions directing that subsec. (c) of this section shall apply with respe
 
 (1) without fiscal year limitation for all payments to approved health benefits plans; and
 
-(2) to pay expenses for administering this chapter within the limitations that may be specified annually by Congress.
+(2) to pay expenses for administering this chapter within the limitations that may be specified annually by Congress, except that the amounts required to be set aside under subsection (b)(2) shall not be subject to the limitations that may be specified annually by Congress.
 Payments from the Fund to a plan participating in a letter-of-credit arrangement under this chapter shall, in connection with any payment or reimbursement to be made by such plan for a health service or supply, be made, to the maximum extent practicable, on a checks-presented basis (as defined under regulations of the Department of the Treasury).
 
 **(b)** Portions of the contributions made by enrollees and the Government shall be regularly set aside in the Fund as follows:
 
 (1) A percentage, not to exceed 1 percent of all contributions, determined by the Office to be reasonably adequate to pay the administrative expenses made available by subsection (a) of this section.
 
-(2) For each health benefits plan, a percentage, not to exceed 3 percent of the contributions toward the plan, determined by the Office to be reasonably adequate to provide a contingency reserve.
+(2) In fiscal year 2026, $66,000,000, to be derived from all contributions, and to remain available until the end of fiscal year 2035, for the Director of the Office to carry out subsections (c) through (f) of the FEHB Protection Act of 2025.
+
+(3) For each health benefits plan, a percentage, not to exceed 3 percent of the contributions toward the plan, determined by the Office to be reasonably adequate to provide a contingency reserve.
 The Office, from time to time and in amounts it considers appropriate, may transfer unused funds for administrative expenses to the contingency reserves of the plans then under contract with the Office. When funds are so transferred, each contingency reserve shall be credited in proportion to the total amount of the subscription charges paid and accrued to the plan for the contract term immediately before the contract term in which the transfer is made. The income derived from dividends, rate adjustments, or other refunds made by a plan shall be credited to its contingency reserve. The contingency reserves may be used to defray increases in future rates, or may be applied to reduce the contributions of enrollees and the Government to, or to increase the benefits provided by, the plan from which the reserves are derived, as the Office from time to time shall determine.
 
 **(c)** The Secretary of the Treasury may invest and reinvest any of the money in the Fund in interest-bearing obligations of the United States, and may sell these obligations for the purposes of the Fund. The interest on and the proceeds from the sale of these obligations become a part of the Fund.
@@ -1975,7 +1980,14 @@ In subsection (e), the word “is” is substituted for “is or has been” as 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface of the report.
 
+#### References in Text
+The FEHB Protection Act of 2025, referred to in subsec. (b)(2), is section 90101(a)–(f) of title IX of Pub. L. 119–21, which is set out as a note under [section 8905 of this title](./chapter-089-health-insurance.md#section-8905).
+
 #### Amendments
+2025—Subsec. (a)(2). Pub. L. 119–21, § 90101(g)(1), inserted “, except that the amounts required to be set aside under subsection (b)(2) shall not be subject to the limitations that may be specified annually by Congress” before period at end.
+
+Subsec. (b)(2), (3). Pub. L. 119–21, § 90101(g)(2), added par. (2) and redesignated former par. (2) as (3).
+
 1998—Subsec. (e). Pub. L. 105–266 designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Subsec. (g). Pub. L. 105–261 added subsec. (g).

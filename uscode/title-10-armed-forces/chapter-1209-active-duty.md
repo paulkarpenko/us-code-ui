@@ -655,12 +655,14 @@ Donald J. Trump.
 
 **(h) Policies and Procedures.—** The Secretaries of the military departments shall prescribe policies and procedures to carry out this section, including on determinations with respect to orders to active duty under subsection (g). Such policies and procedures shall not go into effect until approved by the Secretary of Defense.
 
-**(i) Defense Budget Materials Defined.—** In this section, the term “defense budget materials” has the meaning given that term in [section 231(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/f/2&num=0&edition=prelim).
+**(i) Defense Budget Materials Defined.—** In this section, the term “defense budget materials” has the meaning given that term in section 231(f)(2) 11 See References in Text note below. of this title.
 
 ### Statutory Notes
 
 #### References in Text
 The War Powers Resolution, referred to in subsec. (f), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1541 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) and Tables.
+
+[Section 231(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/f/2&num=0&edition=prelim), referred to in subsec. (i), was redesignated as [section 231(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/g/2&num=0&edition=prelim) by Pub. L. 117–263, div. A, title III, § 352(a)(2), Dec. 23, 2022, 136 Stat. 2533, and subsequently was redesignated as [section 231(h)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/h/2&num=0&edition=prelim) by Pub. L. 118–159, div. A, title X, § 1021(1), Dec. 23, 2024, 138 Stat. 2052.
 
 #### Amendments
 2023—Subsec. (b)(1). Pub. L. 118–31 substituted “(A) Except as provided under subparagraph (B), units” for “Units”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).

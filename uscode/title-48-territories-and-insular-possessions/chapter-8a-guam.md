@@ -229,22 +229,22 @@ NOW, THEREFORE, by virtue of the authority vested in me by the said section 28 o
 | 16–50 | 4,562.107 | Northwest Air Force Base. |
 | 18–50 | 60.480 | Marbo Base Command Area—Sewage Disposal. |
 | 19–50 | 21.695 | Loran Station, Cocos Island. |
-| 20–50 | 15.322 | Av-Gas Tank Farm 1B12. |
-| 21–50 | 1,820.148 | Proposed Boundary of NAS Agana, Housing Area 1B7. |
-| 22–50 | 37.519 | C. A. A. Site (Area 1B90.) |
+| 20–50 | 15.322 | Av-Gas Tank Farm #12. |
+| 21–50 | 1,820.148 | Proposed Boundary of NAS Agana, Housing Area #7. |
+| 22–50 | 37.519 | C. A. A. Site (Area #90). |
 | 23–50 | 3.575 | Tumon Maui Well (Water Tunnel). |
-| 24–50 | 49.277 | Tumon Bay Recreation Area (Road and AV-Gas Fuel Line Parcel 1B1. |
-| 25–50 | 0.208 | Utility Easement from Rt. 1B1 to Rt. 1B6 Coontz Junction). |
-| 26–50 | 65.300 | Tumon Bay Recreation Area (Area 1B78). |
+| 24–50 | 49.277 | Tumon Bay Recreation Area (Road and AV-Gas Fuel Line Parcel #1). |
+| 25–50 | 0.208 | Utility Easement from Rt. #1 to Rt. #6 (Coontz Junction). |
+| 26–50 | 65.300 | Tumon Bay Recreation Area (Area #78). |
 | 27–50 | 2,497.400 | Marbo Base Command. |
 | 28–50 | 0.918 | Mt. Tenjo VHF Station Site. |
-| 29–50 | 285.237 | Sasa Valley Tank Farm (Area 1B78). |
+| 29–50 | 285.237 | Sasa Valley Tank Farm (Area #26). |
 | 30–50 | 17.793 | Sub Transmission System Piti Steam Plant to Command Center. |
-| 31–50 | 28.888 | Route 1B1 (Marine Drive) (Portion). |
+| 31–50 | 28.888 | Route #1 (Marine Drive) (Portion). |
 | 32–50 | 94.000 | Sub Transmission System (34 KV Line) Piti Steam Plant to Agana Diesel Plant and POL System Sasa Valley Tank Farm to NAS Agana. |
 | 33–50 | 953.000 | Harmon Air Force Base. |
 | 34–50 | 2,922.000 | Radio Barrigada. |
-| 35–50 | 25.000 | AACS Radio Range (Area 1B30). |
+| 35–50 | 25.000 | AACS Radio Range (Area #30). |
 | 36–50 | 37.000 | Water Line Apra Heights Reservoir to Fena Pump Station and Av-Gas Fuel System. |
 | 37–50 | 2,185.000 | Fena River Reservoir. |
 

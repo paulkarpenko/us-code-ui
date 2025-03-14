@@ -86,6 +86,9 @@ The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(9), probabl
 #### Amendments
 1996—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions defining terms used in this chapter.
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–207, § 1, Dec. 23, 2024, 138 Stat. 2701, provided that: “This Act [amending [section 7504 of this title](./chapter-075-requirements-for-single-audits.md#section-7504)] may be cited as the ‘Financial Management Risk Reduction Act’.”
+
 #### Short Title of 2016 Amendment
 Pub. L. 114–301, § 1, Dec. 16, 2016, 130 Stat. 1514, provided that: “This Act [amending [section 5226 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5226&num=0&edition=prelim), Banks and Banking, [section 280g–15 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280g–15&num=0&edition=prelim), The Public Health and Welfare, and [section 114 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114&num=0&edition=prelim), Transportation, renumbering [section 7507 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section7507&num=0&edition=prelim) as section 7506, repealing [section 7506 of this title](./chapter-075-requirements-for-single-audits.md#section-7506), amending provisions set out as notes under [section 78m of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m&num=0&edition=prelim), Commerce and Trade, and [section 5189a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5189a&num=0&edition=prelim), and repealing provisions set out as a note under section 1395l of Title 42] may be cited as the ‘GAO Mandates Revision Act of 2016’.”
 
@@ -252,23 +255,66 @@ Committee on Government Reform and Oversight of House of Representatives changed
 ## § 7504. Federal agency responsibilities and relations with non-Federal entities
 **(a)** Each Federal agency shall, in accordance with guidance issued by the Director under section 7505, with regard to Federal awards provided by the agency—
 
-(1) monitor non-Federal entity use of Federal awards, and
+(1) monitor non-Federal entity use of Federal awards;
 
-(2) assess the quality of audits conducted under this chapter for audits of entities for which the agency is the single Federal agency determined under subsection (b).
+(2) assess the quality of audits conducted under this chapter for audits of entities for which the agency is the single Federal agency determined under subsection (b);
+
+(3) participate in and furnish information for the review under subsection (e); and
+
+(4) identify recipients that expend $300,000 or more in Federal awards or such other amount specified by the Director under section 7502(a)(3) during the recipient’s fiscal year but did not undergo an audit in accordance with this chapter.
 
 **(b)** Each non-Federal entity shall have a single Federal agency, determined in accordance with criteria established by the Director, to provide the non-Federal entity with technical assistance and assist with implementation of this chapter.
 
 **(c)** The Director shall designate a Federal clearinghouse to—
 
-(1) receive copies of all reporting packages developed in accordance with this chapter;
+(1) receive copies of all reporting packages developed in accordance with this chapter; and
 
-(2) identify recipients that expend $300,000 or more in Federal awards or such other amount specified by the Director under section 7502(a)(3) during the recipient’s fiscal year but did not undergo an audit in accordance with this chapter; and
+(2) perform analyses to assist the Director in carrying out responsibilities under this chapter.
 
-(3) perform analyses to assist the Director in carrying out responsibilities under this chapter.
+**(d)** Not later than 2 years after the date of enactment of this subsection, and every 2 years thereafter, the Director shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives a report listing the recipients identified under subsection (a)(4).
+
+**(e)**
+
+(1) The Director shall designate 1 or more Federal agencies to conduct a Government-wide analysis of single audit quality, which may include a consideration of the results of reviews of single audit quality by—
+
+  (A) Federal agencies;
+
+  (B) inspectors general of Federal agencies;
+
+  (C) State auditors; and
+
+  (D) external peer reviews conducted in accordance with generally accepted government auditing standards.
+
+(2) Not later than 3 years after the date of enactment of this subsection, and every 6 years thereafter, the Federal agencies designated under paragraph (1) shall complete a Government-wide analysis of single audit quality.
+
+(3) The Director shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives and make publicly available a summary of the results of each review under paragraph (2).
+
+**(f)** Not later than 2 years after the date of enactment of this subsection—
+
+(1) the Administrator of General Services, in coordination with the Director, the Council on Federal Financial Assistance (or any successor thereto), and key management single audit liaisons of Federal agencies designated as described in section 200.513 of title 2, Code of Federal Regulations (or any successor thereto), shall develop analytic tools to use audit data in the Federal clearinghouse to identify cross-Governmental risks to Federal award funds; and
+
+(2) the Director, in coordination with the Administrator of General Services, the Council on Federal Financial Assistance (or any successor thereto), and key management single audit liaisons of Federal agencies designated as described in section 200.513 of title 2, Code of Federal Regulations (or any successor thereto), shall develop a strategy to use audit data in the Federal clearinghouse to identify cross-Governmental risks to Federal award funds.
+
+**(g)** Not later than 4 years after the date of enactment of this subsection, the Comptroller General of the United States shall complete an evaluation of—
+
+(1) the effectiveness of the strategy and analytic tools developed under subsection (f);
+
+(2) reporting burdens for auditors and audited entities and the capacity of auditors and audited entities to fulfill the requirements under this chapter; and
+
+(3) the responsiveness of Federal agencies to repeat single audit findings and corrective action plans.
 
 ### Statutory Notes
 
+#### References in Text
+The date of enactment of this subsection, referred to in subsecs. (d), (e)(2), (f), and (g), is the date of enactment of Pub. L. 118–207, which was approved Dec. 23, 2024.
+
 #### Amendments
+2024—Subsec. (a)(3), (4). Pub. L. 118–207, § 2(1), added pars. (3) and (4).
+
+Subsec. (c)(2), (3). Pub. L. 118–207, § 2(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “identify recipients that expend $300,000 or more in Federal awards or such other amount specified by the Director under section 7502(a)(3) during the recipient’s fiscal year but did not undergo an audit in accordance with this chapter; and”.
+
+Subsecs. (d) to (g). Pub. L. 118–207, § 2(3), added subsecs. (d) to (g).
+
 1996—Pub. L. 104–156 substituted “Federal agency responsibilities and relations with non-Federal entities” for “Cognizant agency responsibilities” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) The Director shall designate cognizant agencies for audits conducted pursuant to this chapter.

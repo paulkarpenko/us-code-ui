@@ -28,6 +28,8 @@ Another prior section 101 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 
 Pub. L. 98–473, title II, § 609AA, Oct. 12, 1984, 98 Stat. 2107, provided that: “(a) Except as provided in subsection (b), this division and the amendments made by this title [probably means division, see Short Title of 1984 Act note below] shall take effect on the date of the enactment of this joint resolution [Oct. 12, 1984] or October 1, 1984, whichever is later. “(b)(1) The amendment made by section 609F [amending sections 10281, 10282, 10284, and 10285 of this title] shall take effect on October 1, 1984, and shall not apply with respect to injuries sustained before October 1, 1984. “(2) Section 609Z [repealing section 204 of Pub. L. 98–411, which had amended sections 10281, 10282, and 10284 of this title and enacted provisions set out as a note under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281)] shall take effect on October 1, 1984.”
 
 #### Short Title of 2024 Amendment
+Pub. L. 118–159, div. E, title LII, § 5201, Dec. 23, 2024, 138 Stat. 2433, provided that: “This subtitle [subtitle A (§§ 5201–5203) of title LII of div. E of Pub. L. 118–159, amending [section 20942 of this title](./chapter-209-child-protection-and-safety.md#section-20942), [section 405 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section405&num=0&edition=prelim), Government Organization and Employees, sections 3801 to 3803, 3806, and 3808 of Title 31, Money and Finance, and [section 7105 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section7105&num=0&edition=prelim), Public Contracts, and enacting and amending provisions set out as notes under [section 3801 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3801&num=0&edition=prelim)] may be cited as the ‘Law Enforcement And [sic] Victim Support Act of 2024’.”
+
 Pub. L. 118–72, § 1, July 30, 2024, 138 Stat. 1503, provided that: “This Act [amending [section 40701 of this title](./chapter-407-dna-identification.md#section-40701)] may be cited as the ‘Debbie Smith Act of 2023’.”
 
 Pub. L. 118–65, § 1, June 17, 2024, 138 Stat. 1439, provided that: “This Act [amending sections 11292, 11293, 11295a, and 11297 of this title] may be cited as the ‘Missing Children’s Assistance Reauthorization Act of 2023’.”
@@ -758,6 +760,9 @@ Section was also formerly classified as a note under [section 3712 of Title 42](
 
 Par. (2). Pub. L. 107–56, § 614, inserted “functions, including any” after “all” and “(including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351)” after “that Office”.
 
+#### Use of Grants for Post-Conviction Relief Representation
+Pub. L. 119–73, § 4, Jan. 23, 2026, 139 Stat. 2008, provided that: “The Office of Justice Programs or the Office on Violence Against Women, in awarding a grant that may be used for legal representation, may not prohibit a recipient from using the grant for legal representation for post-conviction relief.”
+
 #### Office of Justice Programs Grants, Cooperative Agreements, and Contracts
 Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 108(a)], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, as amended by Pub. L. 107–56, title VI, § 614, Oct. 26, 2001, 115 Stat. 370, provided that: “Notwithstanding any other provision of law, for fiscal year 2000, the Assistant Attorney General for the Office of Justice Programs of the Department of Justice— “(1) may make grants, or enter into cooperative agreements and contracts, for the Office of Justice Programs and the component organizations of that Office (including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351 [see References in Text note above]); and “(2) shall have final authority over all functions, including any grants, cooperative agreements and contracts made, or entered into, for the Office of Justice Programs and the component organizations of that Office (including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351 [see References in Text note above]), except for grants made under the provisions of sections 201, 202, 301, and 302 of the Omnibus Crime Control and Safe Streets Act of 1968 [[34 U.S.C. 10121](./chapter-101-justice-system-improvement.md#section-10121), 10122, 10131, 10132], as amended; and sections 204(b)(3), 241(e)(1), 243(a)(1), 243(a)(14) and 287A(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 [[34 U.S.C. 11114(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11114/b/3&num=0&edition=prelim) and former [42 U.S.C. 5651(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5651/e/1&num=0&edition=prelim), 5653(a)(1), (14), 5667d–1(3)], as amended.”
 
@@ -1344,6 +1349,10 @@ Pub. L. 109–162, title XI, § 1111(d), Jan. 5, 2006, 119 Stat. 3102, provided 
 
       (IV) penalties for abuse of the program.
 
+  (J) Programs to purchase and operate unmanned aircraft systems (as defined in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim)) to benefit public safety.
+
+  (K) Programs to purchase and operate counter-UAS systems (as defined in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim)) included on the list of technologies established by subsection (d)(2)(A)(iii) [section 124n(d)(2)(A)(iii) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section124n/d/2/A/iii&num=0&edition=prelim) to exercise the authority granted under subsection (a)(2) of such section.
+
 (2) **Rule of construction** — Paragraph (1) shall be construed to ensure that a grant under that paragraph may be used for any purpose for which a grant was authorized to be used under either or both of the programs specified in [section 10151(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10151/b&num=0&edition=prelim), as those programs were in effect immediately before January 5, 2006.
 
 **(b) Contracts and subawards** A State or unit of local government may, in using a grant under this part for purposes authorized by subsection (a), use all or a portion of that grant to contract with or make one or more subawards to one or more—
@@ -1408,6 +1417,8 @@ Another prior section 501 of title I of Pub. L. 90–351, as added Pub. L. 96–
 Another prior section 501 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 94–503, title I, § 120, Oct. 15, 1976, 90 Stat. 2418, related to administrative rules, regulations, and procedures, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 #### Amendments
+2025—Subsec. (a)(1)(J), (K). Pub. L. 119–60 added subpars. (J) and (K).
+
 2022—Subsec. (a)(1). Pub. L. 117–159, § 12003(a)(1), inserted “or civil proceedings” after “criminal justice” in introductory provisions.
 
 Subsec. (a)(1)(I). Pub. L. 117–159, § 12003(a)(2), added subpar. (I).
@@ -2198,6 +2209,58 @@ Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year 
 
 (2) In this subsection, the terms “armor vest”and “body armor” have the meanings given such terms in [section 10533 of this title](./chapter-101-justice-system-improvement.md#section-10533).
 
+**(d) Trauma Kits.—**
+
+(1) **Definition.—** — In this subsection, the term “trauma kit” means a first aid response kit, which includes a bleeding control kit that can be used for controlling a life-threatening hemorrhage.
+
+(2) **Requirement for trauma kits.—**
+
+  (A) *In general.—* — Notwithstanding any other provision of law, a grantee may only purchase a trauma kit using funds made available under this subchapter if the trauma kit meets the performance standards established by the Director of the Bureau of Justice Assistance under paragraph (3)(A).
+
+  (B) *Authority to separately acquire.—* — Nothing in subparagraph (A) shall prohibit a grantee from separately acquiring the components of a trauma kit and assembling complete trauma kits that meet the performance standards.
+
+(3) **Performance standards and optional agency best practices.—** — Not later than 180 days after December 18, 2025, the Director of the Bureau of Justice Assistance, in consultation with organizations representing trauma surgeons, emergency medical response professionals, emergency physicians, other medical professionals, relevant law enforcement agencies of States and units of local government, professional law enforcement organizations, local law enforcement labor or representative organizations, and law enforcement trade associations, shall—
+
+  (A) develop and publish performance standards for trauma kits that are eligible for purchase using funds made available under this subchapter that, at a minimum, require the components described in paragraph (4) to be included in a trauma kit; and
+
+  (B) develop and publish optional best practices for law enforcement agencies regarding—
+
+    (i) training law enforcement officers in the use of trauma kits;
+
+    (ii) the deployment and maintenance of trauma kits in law enforcement vehicles; and
+
+    (iii) the deployment, location, and maintenance of trauma kits in law enforcement agency or other government facilities.
+
+(4) **Components.—** — The components of a trauma kit described in this paragraph are—
+
+  (A) a tourniquet recommended by the Committee on Tactical Combat Casualty Care;
+
+  (B) a bleeding control bandage;
+
+  (C) a pair of nonlatex protective gloves and a pen-type marker;
+
+  (D) a pair of blunt-ended scissors;
+
+  (E) instructional documents developed—
+
+    (i) under the “Stop the Bleed” national awareness campaign of the Department of Homeland Security, or any successor thereto;
+
+    (ii) by the American College of Surgeons Committee on Trauma;
+
+    (iii) by the American Red Cross; or
+
+    (iv) by any partner of the Department of Defense;
+
+  (F) a bag or other container adequately designed to hold the contents of the kit; and
+
+  (G) any additional trauma kit supplies that—
+
+    (i) are approved by a State, local, or Tribal law enforcement agency or first responders;
+
+    (ii) can adequately treat a traumatic injury; and
+
+    (iii) can be stored in a readily available kit.
+
 ### Statutory Notes
 
 #### Codification
@@ -2207,6 +2270,8 @@ Section was formerly classified to [section 3766a of Title 42](https://uscode.ho
 A prior section 521 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 208; Pub. L. 91–644, title I, § 7(9), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 215; Pub. L. 94–503, title I, §§ 127, 128(a), Oct. 15, 1976, 90 Stat. 2424, related to recordkeeping requirements, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 #### Amendments
+2025—Subsec. (d). Pub. L. 119–60 added subsec. (d).
+
 2016—Subsec. (c). Pub. L. 114–155 added subsec. (c).
 
 
@@ -2707,7 +2772,7 @@ Amendment by section 609B(j) of Pub. L. 98–473 effective Oct. 12, 1984, see se
 
 <a id="section-10231"></a>
 ## § 10231. Confidentiality of information
-**(a) Research or statistical information; immunity from process; prohibition against admission as evidence or use in any proceedings** No officer or employee of the Federal Government, and no recipient of assistance under the provisions of this chapter shall use or reveal any research or statistical information furnished under this chapter by any person and identifiable to any specific private person for any purpose other than the purpose for which it was obtained in accordance with this chapter. Such information and copies thereof shall be immune from legal process, and shall not, without the consent of the person furnishing such information, be admitted as evidence or used for any purpose in any action, suit, or other judicial, legislative, or administrative proceedings.
+**(a) Research or statistical information; immunity from process; prohibition against admission as evidence or use in any proceedings** No officer or employee of the Federal Government, and no recipient of assistance under the provisions of this chapter shall use or reveal any research or statistical information furnished under any law to any component of the Office of Justice Programs, or furnished otherwise under this chapter, by any entity or person, including any information identifiable to any specific private person, for any purpose other than the purpose for which it was obtained in accordance with this chapter. Such information and copies thereof shall be immune from legal process, and shall not, without the consent of the entity or person furnishing such information or to whom such information pertains, be admitted as evidence or used for any purpose in any action, suit, or other judicial, legislative, or administrative proceedings.
 
 **(b) Criminal history information; disposition and arrest data; procedures for collection, storage, dissemination, and current status; security and privacy; availability for law enforcement, criminal justice, and other lawful purposes; automated systems: review, challenge, and correction of information** All criminal history information collected, stored, or disseminated through support under this chapter shall contain, to the maximum extent feasible, disposition as well as arrest data where arrest data is included therein. The collection, storage, and dissemination of such information shall take place under procedures reasonably designed to insure that all such information is kept current therein; the Office of Justice Programs shall assure that the security and privacy of all information is adequately provided for and that information shall only be used for law enforcement and criminal justice and other lawful purposes. In addition, an individual who believes that criminal history information concerning him contained in an automated system is inaccurate, incomplete, or maintained in violation of this chapter, shall, upon satisfactory verification of his identity, be entitled to review such information and to obtain a copy of it for the purpose of challenge or correction.
 
@@ -2724,9 +2789,14 @@ Section was formerly classified to [section 3789g of Title 42](https://uscode.ho
 A prior section 812 of Pub. L. 90–351 was classified to [section 3789a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3789a&num=0&edition=prelim), The Public Health and Welfare, prior to repeal by section 609B(e) of Pub. L. 98–473.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 substituted “furnished under any law to any component of the Office of Justice Programs, or furnished otherwise under this chapter, by any entity or person, including any information identifiable to any specific private person,” for “furnished under this chapter by any person and identifiable to any specific private person” in first sentence, and “entity or person furnishing such information or to whom such information pertains” for “person furnishing such information” in second sentence.
+
 2006—Subsec. (a). Pub. L. 109–162 substituted “No” for “Except as provided by Federal law other than this chapter, no”.
 
 1984—Subsecs. (b), (c). Pub. L. 98–473, 609B(k), substituted “Office of Justice Programs” for “Office of Justice Assistance, Research, and Statistics”.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–60, div. H, title LXXXII, § 8205(b)(2), Dec. 18, 2025, 139 Stat. 1849, provided that: “The amendments made by paragraph (1) [amending this section] shall— “(A) shall take effect for all purposes as if enacted on December 27, 1979; and “(B) apply to any matter pending, before the Department of Justice or otherwise, as of the date of enactment of this Act [Dec. 18, 2025].”
 
 #### Effective Date of 1984 Amendment
 Amendment by section 609B(k) of Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
@@ -3692,11 +3762,11 @@ unless competent medical evidence establishes that the heart attack, stroke, or 
 
 (2) **Personal injury sustained in line of duty** — As determined by the Bureau—
 
-  (A) post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders suffered by a public safety officer and diagnosed by a licensed medical or mental health professional, shall be presumed to constitute a personal injury within the meaning of subsection (a), sustained in the line of duty by the officer, if the officer was exposed, while on duty, to one or more traumatic events and such exposure was a substantial factor in the disorder;
+  (A) post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders suffered by a public safety officer and diagnosed by a licensed medical or mental health professional, shall be presumed to constitute a personal injury within the meaning of subsection (a) or (b), sustained in the line of duty by the officer, if the officer was exposed, while on duty, to one or more traumatic events and such exposure was a substantial factor in the disorder;
 
-  (B) post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders, suffered by a public safety officer who has contacted or attempted to contact the employee assistance program of the agency or entity that the officer serves, a licensed medical or mental health professional, suicide prevention services, or another mental health assistance service in order to receive help, treatment, or diagnosis for post-traumatic stress disorder or acute stress disorder, shall be presumed to constitute a personal injury within the meaning of subsection (a), sustained in the line of duty by the officer, if the officer, was exposed, while on duty, to one or more traumatic events and such exposure was a substantial factor in the disorder; and
+  (B) post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders, suffered by a public safety officer who has contacted or attempted to contact the employee assistance program of the agency or entity that the officer serves, a licensed medical or mental health professional, suicide prevention services, or another mental health assistance service in order to receive help, treatment, or diagnosis for post-traumatic stress disorder or acute stress disorder, shall be presumed to constitute a personal injury within the meaning of subsection (a) or (b), sustained in the line of duty by the officer, if the officer, was exposed, while on duty, to one or more traumatic events and such exposure was a substantial factor in the disorder; and
 
-  (C) post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders, suffered by a public safety officer who was exposed, while on duty, to one or more traumatic events shall be presumed to constitute a personal injury within the meaning of subsection (a), sustained in the line of duty by the officer if such exposure was a substantial factor in the disorder.
+  (C) post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders, suffered by a public safety officer who was exposed, while on duty, to one or more traumatic events shall be presumed to constitute a personal injury within the meaning of subsection (a) or (b), sustained in the line of duty by the officer if such exposure was a substantial factor in the disorder.
 
 (3) **Presumption of death or total disability** — A public safety officer shall be presumed to have died or become permanently and totally disabled (within the meaning of subsection (a) or (b)) as the direct and proximate result of a personal injury sustained in the line of duty, if (as determined by the Bureau) the officer either—
 
@@ -3709,6 +3779,124 @@ unless competent medical evidence establishes that the heart attack, stroke, or 
   (A) *Intentional actions* — [Section 10282(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10282/a/1&num=0&edition=prelim) shall not apply to any claim for a benefit under this part that is payable in accordance with this subsection.
 
   (B) *Substance use* — [Section 10282(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10282/a/2&num=0&edition=prelim) shall not preclude the payment of a benefit under this part if the benefit is otherwise payable in accordance with this subsection.
+
+**(p) Personal injury to retired law enforcement officer**
+
+(1) **Definition** — In this subsection, the term “retired law enforcement officer” means an individual who separated from service in good standing as a law enforcement officer in an official capacity at a public agency with or without compensation.
+
+(2) **Eligibility** — A retired law enforcement officer shall be eligible for a benefit under this subchapter if the officer died or became permanently and totally disabled as the direct and proximate result of a personal injury resulting from a targeted attack because of the retired law enforcement officer’s service as a law enforcement officer.
+
+**(q) Exposure-related cancers**
+
+(1) **Definitions** — In this subsection:
+
+  (A) *Carcinogen* — The term “carcinogen” means an agent that is—
+
+    (i) classified by the International Agency for Research on Cancer under Group 1 or Group 2A; and
+
+    (ii) reasonably linked to an exposure-related cancer.
+
+  (B) *Director* — The term “Director” means the Director of the Bureau.
+
+  (C) *Exposure-related cancer* — As updated from time to time in accordance with paragraph (3), the term “exposure-related cancer” means—
+
+    (i) bladder cancer;
+
+    (ii) brain cancer;
+
+    (iii) breast cancer;
+
+    (iv) cervical cancer;
+
+    (v) colon cancer;
+
+    (vi) colorectal cancer;
+
+    (vii) esophageal cancer;
+
+    (viii) kidney cancer;
+
+    (ix) leukemia;
+
+    (x) lung cancer;
+
+    (xi) malignant melanoma;
+
+    (xii) mesothelioma;
+
+    (xiii) multiple myeloma;
+
+    (xiv) non-Hodgkins lymphoma;
+
+    (xv) ovarian cancer;
+
+    (xvi) prostate cancer;
+
+    (xvii) skin cancer;
+
+    (xviii) stomach cancer;
+
+    (xix) testicular cancer;
+
+    (xx) thyroid cancer;
+
+    (xxi) any form of cancer that is considered a WTC-related health condition under [section 300mm–22(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300mm–22/a&num=0&edition=prelim); and
+
+    (xxii) any form of cancer added to this definition pursuant to an update in accordance with paragraph (3).
+
+(2) **Personal injury sustained in the line of duty**
+
+  (A) *In general* — Subject to subparagraph (B), as determined by the Bureau, the exposure of a public safety officer to a carcinogen shall be presumed to constitute a personal injury within the meaning of subsection (a) or (b) sustained in the line of duty by the officer and directly and proximately resulting in death or permanent and total disability, if—
+
+    (i) the exposure occurred while the public safety officer was engaged in line of duty action or activity;
+
+    (ii) the public safety officer began serving as a public safety officer not fewer than 5 years before the date of the diagnosis of the public safety officer with an exposure-related cancer;
+
+    (iii) the public safety officer was diagnosed with the exposure-related cancer not more than 15 years after the public safety officer’s last date of active service as a public safety officer; and
+
+    (iv) the exposure-related cancer directly and proximately results in the death or permanent and total disability of the public safety officer.
+
+  (B) *Exception* — The presumption under subparagraph (A) shall not apply if competent medical evidence establishes that the exposure of the public safety officer to the carcinogen was not a substantial contributing factor in the death or disability of the public safety officer.
+
+(3) **Additional exposure-related cancers**
+
+  (A) *In general* — From time to time but not less frequently than once every 3 years, the Director shall—
+
+    (i) review the definition of ‘exposure-related cancer’ under paragraph (1); and
+
+    (ii) if appropriate, update the definition, in accordance with this paragraph—
+
+      (I) by rule; or
+
+      (II) by publication in the Federal Register or on the public website of the Bureau.
+
+  (B) *Basis for updates*
+
+    (i) *In general* — The Director shall make an update under subparagraph (A)(ii) in any case in which the Director finds such an update to be appropriate based on competent medical evidence of significant risk to public safety officers of developing the form of exposure-related cancer that is the subject of the update from engagement in their public safety activities.
+
+    (ii) *Evidence* — The competent medical evidence described in clause (i) may include recommendations, risk assessments, and scientific studies by—
+
+      (I) the National Institute for Occupational Safety and Health;
+
+      (II) the National Toxicology Program;
+
+      (III) the National Academies of Sciences, Engineering, and Medicine; or
+
+      (IV) the International Agency for Research on Cancer.
+
+  (C) *Petitions to add to the list of exposure-related cancers*
+
+    (i) *In general* — Any person may petition the Director to add a form of cancer to the definition of “exposure-related cancer” under paragraph (1).
+
+    (ii) *Content of petition* — A petition under clause (i) shall provide information to show that there is sufficient competent medical evidence of significant risk to public safety officers of developing the cancer from engagement in their public safety activities.
+
+    (iii) *Timely and substantive decisions*
+
+      (I) *Referral* — Not later than 180 days after receipt of a petition satisfying clause (ii), the Director shall refer the petition to appropriate medical experts for review, analysis (including risk assessment and scientific study), and recommendation.
+
+      (II) *Consideration* — The Director shall consider each recommendation under subclause (I) and promptly take appropriate action in connection with the recommendation pursuant to subparagraph (B).
+
+    (iv) *Notification to Congress* — Not later than 30 days after taking any substantive action in connection with a recommendation under clause (iii)(II), the Director shall notify the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives of the substantive action.
 
 ### Statutory Notes
 
@@ -3726,6 +3914,12 @@ A prior section 1201 of title I of Pub. L. 90–351, as added Pub. L. 96–157, 
 Another prior section 1201 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236, was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 99–308, § 104(b), May 19, 1986, 100 Stat. 459.
 
 #### Amendments
+2025—Subsec. (o)(2). Pub. L. 119–60, § 8205(c)(1), inserted “or (b)” after “subsection (a)” in pars. (A) to (C).
+
+Subsec. (p). Pub. L. 119–60, § 8204(a), added subsec. (p).
+
+Subsec. (q). Pub. L. 119–60, § 8205(a)(1), added subsec. (q).
+
 2022—Subsec. (o). Pub. L. 117–172 added subsec. (o).
 
 2021—Subsec. (a). Pub. L. 117–61, § 2(1), in introductory provisions, struck out “the Bureau shall pay” before “a benefit of $250,000,” and inserted “, and calculated in accordance with subsection (i), shall be payable by the Bureau” after “ subsection (h)”.
@@ -3788,6 +3982,9 @@ Subsec. (a)(4). Pub. L. 100–690, § 6105(c), struck out “dependent” before
 
 Subsecs. (g), (h). Pub. L. 100–690, § 6105(b), added subsecs. (g) and (h).
 
+#### Effective Date of 2025 Amendment
+Pub. L. 119–60, div. H, title LXXXII, § 8204(b), Dec. 18, 2025, 139 Stat. 1846, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section] shall—“(A) take effect on the date of enactment of this Act [Dec. 18, 2025] ; and “(B) apply to any matter—“(i) pending before the Bureau of Justice Assistance or otherwise on the date of enactment of this Act; or “(ii) filed (consistent with pre-existing effective dates) or accruing after the date of enactment of this Act. “(2) Exceptions.—The amendment made by this section shall apply to any action taken against a retired law enforcement officer described in section 1201(p) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [[34 U.S.C. 10281(p)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/p/3&num=0&edition=prelim)] (as added by this Act) on or after January 1, 2012.”
+
 #### Effective Date of 2022 Amendment
 Pub. L. 117–172, § 3(b), Aug. 16, 2022, 136 Stat. 2099, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section] shall—“(A) take effect on the date of enactment of this Act [Aug. 16, 2022]; and “(B) apply to any matter pending, before the Bureau of Justice Assistance or otherwise, on the date of enactment of this Act, or filed (consistent with pre-existing effective dates) or accruing after that date. “(2) Exceptions.—The amendments made by this section shall apply to any action taken by a public safety officer described in paragraph (3) of section 1201(o) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [[34 U.S.C. 10281](./chapter-101-justice-system-improvement.md#section-10281)(o)(3)] (as added by this Act) that occurred on or after January 1, 2019.”
 
@@ -3815,11 +4012,18 @@ Pub. L. 100–690, title VI, § 6105(e), Nov. 18, 1988, 102 Stat. 4341, provided
 #### Effective Date
 Subchapter effective Oct. 1, 1984, and inapplicable with respect to injuries sustained before Oct. 1, 1984, see section 609AA(b)(1) of Pub. L. 98–473, set out as a note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
 
+#### Applicability
+Pub. L. 119–60, div. H, title LXXXII, § 8205(a)(2), (3), Dec. 18, 2025, 139 Stat. 1849, provided that: “(2) Applicability.—The amendment made by paragraph (1) [amending this section] shall apply to any claim under—“(A) section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/a&num=0&edition=prelim)) that is predicated upon the death of a public safety officer on or after January 1, 2020, that is the direct and proximate result of an exposure-related cancer; or “(B) section 1201(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/b&num=0&edition=prelim)) that is filed on or after January 1, 2020, and predicated upon a disability that is the direct and proximate result of an exposure-related cancer. “(3) Time for filing claim.—Notwithstanding any other provision of law, an individual who desires to file a claim that is predicated upon the amendment made by paragraph (1) shall not be precluded from filing such a claim within 3 years of the date of enactment of this Act [Dec. 18, 2025].”
+
+Pub. L. 119–60, div. H, title LXXXII, § 8205(c)(2), Dec. 18, 2025, 139 Stat. 1849, provided that: “The amendments made by paragraph (1) [amending this section] shall apply to any matter pending before the Department of Justice as of the date of enactment of this Act [Dec. 18, 2025].”
+
+Pub. L. 119–60, div. H, title LXXXII, § 8205(d)(2), Dec. 18, 2025, 139 Stat. 1850, provided that: “(A) In general.—The amendment made by paragraph (1) [amending this section] shall apply to any claim under section 3 of the Safeguarding America’s First Responders Act of 2020 ([34 U.S.C. 10281](./chapter-101-justice-system-improvement.md#section-10281) note)—“(i) that is predicated upon the death of a public safety officer on or after January 1, 2020; or “(ii) that is—“(I) predicated upon the disability of a public safety officer; and “(II) filed on or after January 1, 2020. “(B) Time for filing claim.—Notwithstanding any other provision of law, an individual who desires to file a claim that is predicated upon the amendment made by paragraph (1) shall not be precluded from filing such a claim within 3 years of the date of enactment of this Act [Dec. 18, 2025].”
+
 #### Findings
 Pub. L. 117–172, § 2, Aug. 16, 2022, 136 Stat. 2098, provided that: “Congress finds the following: “(1) Every day, public safety officers, including police officers, firefighters, emergency medical technicians, and others, work to maintain the safety, health, and well-being of the communities they serve. “(2) This means public safety officers are routinely called to respond to stressful and potentially traumatic situations, often putting their own lives in danger. “(3) This work not only puts public safety officers at-risk for experiencing harm, serious injury, and cumulative and acute trauma, but also places them at up to 25.6 times higher risk for developing post-traumatic stress disorder when compared to individuals without such experiences. “(4) Psychological evidence indicates that law enforcement officers experience significant job-related stressors and exposures that may confer increased risk for mental health morbidities (such as post-traumatic stress disorder and suicidal thoughts, ideation, intents, and behaviors) and hastened mortality. “(5) Public safety officers often do not have the resources or support they need, leaving them at higher risk for long-term mental health consequences. “(6) Whereas, although the Department of Defense already considers servicemember suicides to be line-of-duty deaths and provides Federal support to eligible surviving families, the Federal Government does not recognize public safety officer suicides as deaths in the line of duty. “(7) In 2017, the Department of Justice approved 481 claims under the Public Safety Officers’ Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281](./chapter-101-justice-system-improvement.md#section-10281) et seq.), but not one of them for the more than 240 public safety officers who died by suicide that year. “(8) Public safety officers who have died or are disabled as a result of suicide or post-traumatic stress disorder do not qualify for the Public Safety Officers’ Benefits Program, despite the fact that public safety officers are more likely to die by suicide than from any other line-of-duty cause of death.”
 
 #### Safeguarding America’s First Responders
-Pub. L. 116–157, Aug. 14, 2020, 134 Stat. 704, as amended by Pub. L. 117–61, § 9, Nov. 18, 2021, 135 Stat. 1481, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Safeguarding America’s First Responders Act of 2020’. “SEC. 2. SENSE OF CONGRESS; PURPOSE.“(a) Sense of Congress.—It is the sense of Congress that—“(1) an infectious disease pandemic known as COVID–19 exists; “(2) to date, there is much still unknown about COVID–19, but it is known that COVID–19 and related complications may be fatal; “(3) services provided by public safety officers are nonetheless essential during this pandemic; “(4) due to the COVID–19 pandemic and what is currently known about how the disease is spread, public safety officers are uncharacteristically at risk of contracting the disease; and “(5) although the Public Safety Officers’ Benefits program currently covers deaths and permanent and total disabilities resulting from infectious disease sustained by public safety officers in carrying out their duties, the determination of claims involving personal injuries believed to have resulted from COVID–19 or its complications may be uniquely challenging or delayed given the lack of—“(A) definitive testing and medical records at this time; and “(B) a definitive uniform body of medical information about how the disease is spread or its effects. “(b) Purpose.—The purpose of this Act is to establish a carefully drawn framework wherein claims under the Public Safety Officers’ Benefits program, arising under the unique circumstances described in subsection (a), can be processed expeditiously and under fair and clear standards. “SEC. 3. PUBLIC SAFETY OFFICER BENEFITS.“(a) Death Benefits.—As determined by the Bureau of Justice Assistance, unless competent medical evidence establishes that the death of a public safety officer (as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10284](./chapter-101-justice-system-improvement.md#section-10284))) was directly and proximately caused by something other than COVID–19, COVID–19 (or complications therefrom) suffered by the public safety officer shall be presumed to constitute a personal injury within the meaning of section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/a&num=0&edition=prelim)), sustained in the line of duty by the officer and directly and proximately resulting in death, if—“(1) the officer engaged in a line of duty action or activity during the period beginning on January 1, 2020, and ending on the termination date; “(2) the officer was diagnosed with COVID–19 (or evidence indicates that the officer had COVID–19) during the 45-day period beginning on the last day of duty of the officer; and “(3) evidence indicates that the officer had COVID–19 (or complications therefrom) at the time of the officer’s death. “(b) Disability Benefits.—As determined by the Bureau of Justice Assistance, COVID–19 (or complications therefrom) suffered by a public safety officer shall be presumed to constitute a personal injury within the meaning of section 1201(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/b&num=0&edition=prelim)), sustained in the line of duty by the officer, if—“(1) the officer engaged in a line of duty action or activity during the period beginning on January 1, 2020, and ending on the termination date; and “(2) the officer was diagnosed with COVID–19 (or evidence indicates that the officer had COVID–19) during the 45-day period beginning on the last day of duty of the officer. “(c) Termination Date.—For purposes of this section, the term ‘termination date’ means the earlier of—“(1) the date on which the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)) on January 31, 2020, with respect to the Coronavirus Disease (COVID–19), expires; and “(2) December 31, 2023.”
+Pub. L. 116–157, Aug. 14, 2020, 134 Stat. 704, as amended by Pub. L. 117–61, § 9, Nov. 18, 2021, 135 Stat. 1481; Pub. L. 119–60, div. H, title LXXXII, § 8205(d)(1), Dec. 18, 2025, 139 Stat. 1850, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Safeguarding America’s First Responders Act of 2020’. “SEC. 2. SENSE OF CONGRESS; PURPOSE.“(a) Sense of Congress.—It is the sense of Congress that—“(1) an infectious disease pandemic known as COVID–19 exists; “(2) to date, there is much still unknown about COVID–19, but it is known that COVID–19 and related complications may be fatal; “(3) services provided by public safety officers are nonetheless essential during this pandemic; “(4) due to the COVID–19 pandemic and what is currently known about how the disease is spread, public safety officers are uncharacteristically at risk of contracting the disease; and “(5) although the Public Safety Officers’ Benefits program currently covers deaths and permanent and total disabilities resulting from infectious disease sustained by public safety officers in carrying out their duties, the determination of claims involving personal injuries believed to have resulted from COVID–19 or its complications may be uniquely challenging or delayed given the lack of—“(A) definitive testing and medical records at this time; and “(B) a definitive uniform body of medical information about how the disease is spread or its effects. “(b) Purpose.—The purpose of this Act is to establish a carefully drawn framework wherein claims under the Public Safety Officers’ Benefits program, arising under the unique circumstances described in subsection (a), can be processed expeditiously and under fair and clear standards. “SEC. 3. PUBLIC SAFETY OFFICER BENEFITS.“(a) Death Benefits.—As determined by the Bureau of Justice Assistance, unless competent medical evidence establishes that the death of a public safety officer (as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10284](./chapter-101-justice-system-improvement.md#section-10284))) was directly and proximately caused by something other than COVID–19, COVID–19 (or complications therefrom) suffered by the public safety officer shall be presumed to constitute a personal injury within the meaning of section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/a&num=0&edition=prelim)), sustained in the line of duty by the officer and directly and proximately resulting in death, if—“(1) the officer engaged in a line of duty action or activity during the period beginning on January 1, 2020, and ending on the termination date; “(2) the officer was diagnosed with COVID–19 (or evidence indicates that the officer had COVID–19) during the 45-day period beginning on the last day of duty of the officer; and “(3) evidence indicates that the officer had COVID–19 (or complications therefrom) at the time of the officer’s death. “(b) Disability Benefits.—As determined by the Bureau of Justice Assistance, COVID–19 (or complications therefrom) suffered by a public safety officer shall be presumed to constitute a personal injury within the meaning of section 1201(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/b&num=0&edition=prelim)), sustained in the line of duty by the officer, if—“(1) the officer engaged in a line of duty action or activity during the period beginning on January 1, 2020, and ending on the termination date; and “(2) the officer was diagnosed with COVID–19 (or evidence indicates that the officer had COVID–19) during the 45-day period beginning on the last day of duty of the officer. “(c) Termination Date.—For purposes of this section, the term ‘termination date’ means the earlier of—“(1) the date on which the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)) on January 31, 2020, with respect to the Coronavirus Disease (COVID–19), expires; and “(2) December 31, 2023. “(d) Definition.—In this section, the term ‘line of duty action’ includes any action—“(1) in which a public safety officer engaged at the direction of the agency served by the public safety officer; or “(2) the public safety officer is authorized or obligated to perform.”
 
 
 <a id="section-10282"></a>
@@ -5117,9 +5321,11 @@ Section was formerly classified to [section 3796cc–6 of Title 42](https://usco
 
 (22) to enhance the ability of corrections officers to address the mental health of individuals under the care and custody of jails and prisons, including specialized training and strategies for verbal de-escalation of crises;
 
-(23) to permit tribal governments receiving direct law enforcement services from the Bureau of Indian Affairs to access the program under this section for use in accordance with paragraphs (1) through (22); and
+(23) to purchase and operate unmanned aircraft systems (as such term is defined in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim)) to benefit public safety;
 
-(24) to establish peer mentoring mental health and wellness pilot programs within State, tribal, and local law enforcement agencies.
+(24) to permit tribal governments receiving direct law enforcement services from the Bureau of Indian Affairs to access the program under this section for use in accordance with paragraphs (1) through (23); and
+
+(25) to establish peer mentoring mental health and wellness pilot programs within State, tribal, and local law enforcement agencies.
 
 **(c) Preferential consideration of applications for certain grants** In awarding grants under this subchapter, the Attorney General may give preferential consideration, where feasible, to an application—
 
@@ -5307,13 +5513,15 @@ Section was formerly classified to [section 3796dd of Title 42](https://uscode.h
 A prior section 1701 of Pub. L. 90–351 was renumbered section 2601 and is classified to [section 10541 of this title](./chapter-101-justice-system-improvement.md#section-10541).
 
 #### Amendments
+2025—Subsec. (b)(23) to (25). Pub. L. 119–60 added par. (23), redesignated former pars. (23) and (24) as (24) and (25), respectively, and, in par. (24) as so redesignated, substituted “through (23)” for “through (22)”.
+
 2024—Subsec. (b)(5) to (22). Pub. L. 118–64, § 2(a), added par. (5) and redesignated former pars. (5) to (21) as (6) to (22), respectively. Former par. (22) redesignated (23).
 
 Subsec. (b)(23). Pub. L. 118–64, § 2, redesignated par. (22) as (23) and substituted “(22)” for “(21)”. Former par. (23) redesignated (24).
 
 Subsec. (b)(24). Pub. L. 118–64, § 2(a), redesignated par. (23) as (24).
 
-Subsecs. (i) to (o). Pub. L. 118–64, § 3, added subsec. (i) and redesignated former subsecs. (i) to (n) as (j) to (o) respectively.
+Subsecs. (i) to (o). Pub. L. 118–64, § 3, added subsec. (i) and redesignated former subsecs. (i) to (n) as (j) to (o), respectively.
 
 Subsec. (p). Pub. L. 118–64, § 4, added subsec. (p).
 

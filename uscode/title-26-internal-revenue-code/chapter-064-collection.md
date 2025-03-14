@@ -240,12 +240,21 @@ Pub. L. 98–76, title II, § 227(c), Aug. 12, 1983, 97 Stat. 426, provided that
 ## § 6303. Notice and demand for tax
 **(a) General rule** Where it is not otherwise provided by this title, the Secretary shall, as soon as practicable, and within 60 days, after the making of an assessment of a tax pursuant to section 6203, give notice to each person liable for the unpaid tax, stating the amount and demanding payment thereof. Such notice shall be left at the dwelling or usual place of business of such person, or shall be sent by mail to such person’s last known address.
 
-**(b) Assessment prior to last date for payment** Except where the Secretary believes collection would be jeopardized by delay, if any tax is assessed prior to the last date prescribed for payment of such tax, payment of such tax shall not be demanded under subsection (a) until after such date.
+**(b) Assessment prior to last date for payment**
+
+(1) **In general** — Except where the Secretary believes collection would be jeopardized by delay, if any tax is assessed prior to the last date prescribed for payment of such tax, payment of such tax shall not be demanded under subsection (a) until after such date.
+
+(2) **Postponement by reason of disaster, significant fire, or terroristic or military actions** — For purposes of paragraph (1), the last date prescribed for payment of any tax shall be determined after taking into account any period disregarded under section 7508A.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–64 designated existing provisions as par. (1), inserted heading, and added par. (2).
+
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–64, § 2(b)(2), Dec. 26, 2025, 139 Stat. 1985, provided that: “The amendments made by this subsection [amending this section] shall apply to notices issued after the date of the enactment of this Act [Dec. 26, 2025].”
 
 
 <a id="section-6304"></a>
@@ -526,7 +535,7 @@ Pub. L. 108–357, title VIII, § 881(e), Oct. 22, 2004, 118 Stat. 1627, directe
 #### Amendments
 2019—Subsec. (b)(2). Pub. L. 116–25, § 1205(d)(1)(A), substituted period for “, and no funds from such account shall be expended for the hiring of any personnel other than special compliance personnel.”
 
-Subsec. (b)(3). Pub. L. 116–25, § 1205(d)(1)(B), substituted “for other than program costs.” for “for any purpose other than for costs under such program associated with the employment of special compliance personnel and the retraining and reassignment of current noncollections personnel as special compliance personnel, and to reimburse the Internal Revenue Service or other government agencies for the cost of administering qualified tax collection contracts under section 6306.”.
+Subsec. (b)(3). Pub. L. 116–25, § 1205(d)(1)(B), substituted “for other than program costs.” for “for any purpose other than for costs under such program associated with the employment of special compliance personnel and the retraining and reassignment of current noncollections personnel as special compliance personnel, and to reimburse the Internal Revenue Service or other government agencies for the cost of administering qualified tax collection contracts under section 6306.”
 
 Subsec. (d)(2)(B). Pub. L. 116–25, § 1205(d)(2), substituted “communications, software, technology” for “telecommunications”.
 

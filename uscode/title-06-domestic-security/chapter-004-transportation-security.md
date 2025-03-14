@@ -597,7 +597,7 @@ For definitions of “Administrator”, “appropriate committees of Congress”
 
   (A) because of employment is regulated by the Transportation Security Administration, Department of Transportation, or Coast Guard and is required to have a background records check to obtain a hazardous materials endorsement on a commercial driver’s license issued by a State under [section 5103a of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5103a&num=0&edition=prelim); or
 
-  (B) is required to have a credential and background records check under [section 622(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section622/d/2&num=0&edition=prelim) at a facility with activities that are regulated by the Transportation Security Administration, Department of Transportation, or Coast Guard.
+  (B) is required to have a credential and background records check under section 622(d)(2) 11 See References in Text note below. of this title at a facility with activities that are regulated by the Transportation Security Administration, Department of Transportation, or Coast Guard.
 
 (2) **Valid transportation security card** — The term “valid transportation security card” means a transportation security card that is—
 
@@ -605,11 +605,14 @@ For definitions of “Administrator”, “appropriate committees of Congress”
 
   (B) not expired;
 
-  (C) shows 11 So in original. no signs of tampering; and
+  (C) shows 22 So in original. no signs of tampering; and
 
-  (D) bears 1 a photograph of the individual representing such card.
+  (D) bears 2 a photograph of the individual representing such card.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 622 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section622&num=0&edition=prelim), referred to in subsec. (d)(1)(B), was omitted from the Code.
 
 #### Codification
 Section was enacted as part of the TSA Modernization Act and also as part of the FAA Reauthorization Act of 2018, and not as part of the Implementing Recommendations of the 9/11 Commission Act of 2007 which comprises this chapter.
@@ -2844,13 +2847,18 @@ Not later than 1 year after August 3, 2007, the Secretary of Transportation and 
 
   (B) ensure that the program is consistent with recommendations and findings of the Department of Homeland Security’s hazardous material railroad tank car tracking pilot programs.
 
-**(b) Funding** From the amounts appropriated pursuant to 114(w) of title 49, there shall be made available to the Secretary to carry out this section—
+**(b) Funding** From the amounts appropriated pursuant to 11 So in original. Probably should be followed by “section”. 114(w) 22 See References in Text note below. of title 49, there shall be made available to the Secretary to carry out this section—
 
 (1) $3,000,000 for fiscal year 2008;
 
 (2) $3,000,000 for fiscal year 2009; and
 
 (3) $3,000,000 for fiscal year 2010.
+
+### Statutory Notes
+
+#### References in Text
+[Section 114(w) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/w&num=0&edition=prelim), referred to in subsec. (b), was redesignated [section 114(v) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/v&num=0&edition=prelim) by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
 
 
 <a id="section-1203"></a>

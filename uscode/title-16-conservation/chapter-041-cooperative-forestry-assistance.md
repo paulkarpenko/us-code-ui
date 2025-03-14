@@ -1772,13 +1772,17 @@ Amendment by section 7511(c)(37) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
   (C) *Treatment of revenue*
 
-    (i) *In general* — Funds received from the sale of timber by a Governor of a State under a good neighbor agreement shall be retained and used by the Governor—
+    (i) *In general* — Funds received from the sale of timber by a Governor, Indian Tribe, or county under a good neighbor agreement shall be retained and used by the Governor, Indian Tribe, or county, as applicable—
 
-      (I) to carry out authorized restoration services on Federal land under the good neighbor agreement; and
+      (I) to carry out authorized restoration services on 11 So in original. under the good neighbor agreement; and
 
-      (II) if there are funds remaining after carrying out subclause (I), to carry out authorized restoration services on Federal land within the State under other good neighbor agreements.
+      (II) if there are funds remaining after carrying out clause (i),22 So in original. Probably should be “subclause (I)”. to carry out—
 
-    (ii) *Termination of effectiveness* — The authority provided by this subparagraph terminates effective October 1, 2024.
+        (aa) authorized restoration services under other good neighbor agreements; or
+
+        (bb) authorized recreation services under the Good Neighbor Authority for Recreation Act.
+
+    (ii) *Termination of effectiveness* — The authority provided under this subparagraph terminates effective October 1, 2028.
 
 (3) **Retention of NEPA responsibilities** — Any decision required to be made under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) with respect to any authorized restoration services to be provided under this section on Federal land shall not be delegated to a Governor or county.
 
@@ -1787,6 +1791,8 @@ Amendment by section 7511(c)(37) of Pub. L. 110–246 effective Oct. 1, 2009, se
 ### Statutory Notes
 
 #### References in Text
+The Good Neighbor Authority for Recreation Act, referred to in subsec. (b)(2)(C)(i)(II)(bb), probably means section 351 of Pub. L. 118–234, which is classified to [section 8571 of this title](./chapter-103-expanding-public-lands-outdoor-recreation-experiences.md#section-8571) and defines “authorized recreation services”. Section 351 of Pub. L. 118–234 contains the heading “Good neighbor authority for recreation”, but no Short Title was enacted.
+
 The National Environmental Policy Act of 1969, referred to in subsec. (b)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Codification
@@ -1795,6 +1801,8 @@ Pub. L. 118–42, § 443, which directed amendment of section 8206 of the “Agr
 Section was enacted as part of the Agricultural Act of 2014, and not as part of the Cooperative Forestry Assistance Act of 1978 which comprises this chapter.
 
 #### Amendments
+2025—Subsec. (b)(2)(C). Pub. L. 118–234 amended subpar. (C) generally. Prior to amendment, subpar. (C) related to treatment of revenue received from sale of timber by a Governor of a State under a good neighbor agreement, and such authority terminated Oct. 1, 2024.
+
 2024—Subsec. (a)(3)(A)(iii), (iv). Pub. L. 118–42, § 443(1), added cls. (iii) and (iv). See Codification note above.
 
 Subsec. (a)(4)(B)(i). Pub. L. 118–42, § 443(2), (3), in introductory provisions, substituted a comma for “or” before “Bureau of Land Management” and inserted “, National Park Service, or National Wildlife Refuge” after “Bureau of Land Management”. See Codification note above.

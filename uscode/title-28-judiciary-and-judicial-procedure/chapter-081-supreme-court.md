@@ -213,14 +213,11 @@ Decisions of the United States Court of Appeals for the Armed Forces may be revi
 
 (2) Cases certified to the Court of Appeals for the Armed Forces by the Judge Advocate General under [section 867(a)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section867/a/2&num=0&edition=prelim).
 
-(3) Cases in which the Court of Appeals for the Armed Forces granted a petition for review under [section 867(a)(3) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section867/a/3&num=0&edition=prelim).
+(3) Cases in which the Court of Appeals for the Armed Forces granted or refused to grant a petition for review under [section 867(a)(3) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section867/a/3&num=0&edition=prelim).
 
-(4) Cases, other than those described in paragraphs (1), (2), and (3) of this subsection, in which the Court of Appeals for the Armed Forces granted relief.
+(4) Cases, other than those described in paragraphs (1), (2), and (3) of this subsection, in which the Court of Appeals for the Armed Forces granted or refused to grant relief.
 
 ### Statutory Notes
-
-#### Amendment of Paragraphs (3) and (4)
-Pub. L. 118–31, div. A, title V, § 533(a)(1), (b), Dec. 22, 2023, 137 Stat. 261 provided that, effective on the date that is one year after Dec. 22, 2023, and applicable with respect to any action of the United States Court of Appeals for the Armed Forces in granting or refusing to grant a petition for review submitted to such Court for the first time on or after Dec. 22, 2023, with certain provisos, paragraphs (3) and (4) of this section are amended by inserting “or refused to grant” after “granted”. See 2023 Amendment note below.
 
 #### Amendments
 2023—Pars. (3), (4). Pub. L. 118–31 inserted “or refused to grant” after “granted”.

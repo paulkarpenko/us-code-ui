@@ -2533,7 +2533,7 @@ The Toxic Substances Control Act, referred to in subsec. (k)(3)(C), is Pub. L. 9
 
 The Federal Insecticide, Fungicide and Rodenticide Act, referred to in subsec. (k)(3)(C), probably means the Federal Insecticide, Fungicide, and Rodenticide Act, act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) and Tables.
 
-The Resource Conservation and Recovery Act, referred to in subsec. (k)(3)(C), probably means the Resource Conservation and Recovery Act of 1976, Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2796, as amended, which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 6901 of this title](./chapter-082-solid-waste-disposal.md#section-6901) and Tables.
+The Resource Conservation and Recovery Act, referred to in subsec. (k)(3)(C), probably means the Resource Conservation and Recovery Act of 1976, Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2796, which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 6901 of this title](./chapter-082-solid-waste-disposal.md#section-6901) and Tables.
 
 The Safe Drinking Water Act, referred to in subsec. (m)(1)(D), (5)(D), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
@@ -2545,7 +2545,7 @@ The Clean Air Act Amendments of 1990, referred to in subsec. (q)(1)–(3), proba
 
 The Emergency Planning and Community Right-To-Know Act of 1986, referred to in subsec. (r)(3), is title III of Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1728, which is classified generally to chapter 116 (§ 11001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 11001 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11001) and Tables.
 
-The Occupational Safety and Health Act, referred to in subsec. (r)(6)(C)(ii), (K), (L), probably means the Occupational Safety and Health Act of 1970, Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
+The Occupational Safety and Health Act, referred to in subsec. (r)(6)(C)(ii), (K), (L), probably means the Occupational Safety and Health Act of 1970, Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
 
 #### Codification
 In subsec. (r)(6)(N), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “[section 5 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim) of the United States Code” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -2673,6 +2673,87 @@ This memorandum is not intended to, and does not, create any right or benefit, s
 You are hereby authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.
+
+#### Orderly Implementation of the Air Toxics Standards for Ethylene Oxide Commercial Sterilizers
+Memorandum of President of the United States, Jan. 16, 2025, 90 F.R. 6773, provided:
+
+Memorandum for the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. The strengthened and updated Clean Air Act standards for ethylene oxide (EtO) emitted into the air from commercial sterilizing facilities issued by the Environmental Protection Agency (EPA) on April 5, 2024, National Emission Standards for Hazardous Air Pollutants: Ethylene Oxide Emissions Standards for Sterilization Facilities Residual Risk and Technology Review, Final Rule, 89 FR 24,090 (Apr. 5, 2024) (“EtO Rule”), achieved a new milestone in my Administration’s efforts to protect public health for all Americans and to advance the objective of my Administration’s Cancer Moonshot initiative to prevent cancer before it starts. EtO has been associated with elevated cancer risks in communities around the United States and can be particularly harmful to children. The loss of loved ones from environmentally related cancer is a tragedy that the Nation can and must work together to end, once and for all.
+
+The EtO Rule was issued after careful consideration of public comments and public hearings. In this rule, EPA set standards under section 112 of the Clean Air Act [[42 U.S.C. 7412](./chapter-085-air-pollution-prevention-and-control.md#section-7412)], as amended (the “Act”) ([42 U.S.C. 7401](./chapter-085-air-pollution-prevention-and-control.md#section-7401) et seq.), to control emissions from commercial sterilizers through the use of demonstrated and achievable pollution control technologies and practices. These standards will significantly reduce emissions of the toxic air pollutant EtO.
+
+The EtO Rule applies to facilities that sterilize medical products, including medical devices and pharmaceuticals. Sterilization is critical to maintaining a safe supply of medical devices for patients and hospitals and providing health care to millions of Americans to help them stay healthy and fight diseases, including cancer. Consequently, EPA worked closely with the Department of Health and Human Services, including the Food and Drug Administration, to develop a final rule that protects communities exposed to pollution from sterilization facilities while also mitigating and managing the potential risk of any medical device supply disruptions.
+
+EPA concluded that sterilization facilities will be able to install the appropriate technology to meet the standards of the EtO Rule before the compliance deadlines mandated by the Act. The EtO Rule also recognized that the President’s authority under section 112(i)(4) of the Clean Air Act, [42 U.S.C. 7412(i)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7412/i/4&num=0&edition=prelim), to exempt individual facilities from compliance for a set period of time may provide an important mechanism to address the possibility that a facility may be unable to install all appropriate technology before the compliance deadline. 89 FR at 24,103. It is of vital national importance to ensure the reduction of EtO emissions to the level that EPA determined is required to protect public health pursuant to the Clean Air Act, while also avoiding the national security and public health effects that could result from a significant disruption to the medical device supply chain.
+
+It is the policy of my Administration to safeguard the reliability of our Nation’s supply of safe medical products. To advance orderly implementation of the EtO Rule, I am therefore establishing a process, provided below, for considering requests for Presidential exemptions, the duration of which shall be as short as possible and no longer than two years. This process will ensure consideration of such requests in the exceptional circumstances in which a commercial sterilizer can demonstrate that, notwithstanding due diligence and best efforts, it will be unable to meet a covered standard or limitation required by the EtO Rule before the compliance deadline due to the unavailability of control technology for the facility, leading to likely shutdown of the facility, and the best available information demonstrates that the shutdown of the facility will likely lead to a serious disruption to the supply of medical products, such as medical devices and pharmaceuticals, necessary for America’s national security and public health.
+
+To achieve the EtO Rule’s critical health protections as soon as practicable, while safeguarding the supply of safe medical products from disruption that would compromise the health and welfare of the American people, I direct you to take the following actions:
+
+Sec. 2. Implementation of a Process for Considering Presidential Exemptions. The Administrator of the EPA (Administrator) shall receive requests for a Presidential exemption from a standard or limitation in the EtO Rule under section 112(i)(4) of the Act ([42 U.S.C. 7412(i)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7412/i/4&num=0&edition=prelim)), review them, and advise the President regarding whether to grant them through the following process:
+
+(a) Any commercial sterilizer seeking such an exemption shall submit a request to the Administrator no earlier than 12 months and no later than 4 months before the compliance deadline for which an exemption is sought. The request shall include:
+
+(i) specific information of sufficient detail to enable verification of the reason or reasons that the technology to implement the applicable standard or limitation is unavailable for installation and that, notwithstanding its due diligence and best efforts, the facility cannot be brought into compliance before the compliance deadline for the covered standard or limitation (e.g., contracts, documentation of communication with vendors or suppliers);
+
+(ii) a plan for procuring, installing, and operating the technology as soon as feasible in order to achieve compliance with the EtO Rule, and an assurance as described in subsection (h)(ii) of this section;
+
+(iii) a list of all available practicable measures (i.e., technological and operational) that have already been taken or that are planned to advance compliance and additional measures, if any, that will be implemented to reduce the emissions of EtO and resulting risks during the exemption period;
+
+(iv) a list of any alternative steps available, in progress, or already taken to try to avoid the need for additional time for compliance;
+
+(v) the type or types of products sterilized at the facility, the volume of products sterilized at the facility, and the facility’s annual sterilization capacity; and
+
+(vi) the name, title, and signature of the responsible official who is certifying the accuracy of the request.
+
+(b) In reviewing an exemption request, and the information provided pursuant to this section, the Administrator, in consultation with the Secretary of Health and Human Services (Secretary), shall consider:
+
+(i) whether the technology to implement a covered standard or limitation will be unavailable in time for installation and operation of the technology at a specific facility before the compliance deadline for such standard or limitation, due, for example, to shortages of labor, parts, control technology supply, supply-chain disruption, or other factors out of the facility’s control;
+
+(ii) the amount of time needed for installation and operation to occur in order to achieve compliance with the EtO Rule;
+
+(iii) the risk of a serious disruption to the supply of medical products (including pharmaceuticals and medical devices) should the facility be required to temporarily pause sterilization activities or reduce capacity until installation and operation can occur (including any potential alternatives to assure a sufficient supply of sterilization and sterilized medical products);
+
+(iv) the potential effect of any such disruption on public health and welfare, and any other information that may be relevant to an evaluation of whether granting an exemption is in the national security interests of the United States; and
+
+(vi) [sic] any other information that the Administrator, in consultation with the Secretary, deems relevant.
+
+(c) No later than 30 days after receiving a request pursuant to subsection (a) of this section, the Administrator shall confirm receipt of the request, notify the requester of any additional information needed to evaluate the request, set a deadline of no later than 15 days for the requester to provide the requested information, and provide public notification that the request was submitted (including the name of, the location of, and any other information regarding the facility requesting the exemption that the Administrator, in consultation with the Secretary, deems relevant and appropriate to publish).
+
+(d) As soon as practicable and no later than 30 days after receiving all necessary information to evaluate a request pursuant to this section, the Administrator, in consultation with the Secretary, shall provide the Chairman of the Council on Environmental Quality (CEQ) with the request and accompanying information from the requester, any additional information that the Administrator deems relevant, and a recommendation regarding whether an exemption is warranted, including the basis for the recommendation, and if recommending that the President grant an exemption: the recommended duration, and any other accompanying terms or conditions (such as a schedule for status reports regarding planned steps and progress to achieve compliance with the EtO Rule).
+
+(e) As soon as practicable and generally within 45 days after receiving a recommendation from the Administrator pursuant to subsection (d) of this section, the Chairman of CEQ, in consultation with the Assistant to the President for National Security Affairs, the Assistant to the President for Economic Policy, the Assistant to the President for Domestic Policy, the Director of the Office of Pandemic Preparedness and Response Policy, and the Director of the Office of Science and Technology Policy, shall advise the President concerning the request for an exemption.
+
+(f) As expeditiously as practicable after the grant or denial of any exemption by the President under this process, and no later than 10 days after such a grant or denial, the Administrator shall notify the applicant.
+
+(g) Within 60 days of the grant of any exemption by the President under this process, the Administrator shall make publicly available online the name of, location of, and any other appropriate and relevant information regarding the facility receiving the exemption and the duration of any exemption, and shall submit to Congress the report required by section 112(i)(4) of the Act ([42 U.S.C. 7412(i)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7412/i/4&num=0&edition=prelim)) on behalf of the President.
+
+(h) The Administrator shall, as appropriate:
+
+(i) provide technical assistance to any facility that receives an exemption to promote compliance with the EtO Rule;
+
+(ii) seek information and assurance from any facility that requests an exemption that the facility will use its best efforts and will take reasonable and appropriate steps to demonstrate diligent action to install and operate necessary technology as expeditiously as practicable (including to fulfill any accompanying terms or conditions) to achieve compliance with the EtO Rule; and
+
+(iii) inform the Chairman of CEQ when installation of such technology is complete.
+
+Sec. 3. Federal Coordination. The Secretary, in consultation with the Administrator, shall consider taking additional steps, as appropriate, to further advance the goal of protecting the public from cancer and other harms from EtO exposure, including spurring innovation to reduce exposure to EtO and other carcinogenic air pollutants and to expand access to safe, effective, and reliable alternative methods for sterilization of medical equipment and pharmaceuticals that do not depend on EtO, and continuing to strengthen the resilience of our Nation’s medical supply chain. Within 2 years of the date of this memorandum, the Secretary shall provide a report to the Chairman of CEQ regarding progress toward this directive and any steps taken or planned.
+
+Sec. 4. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Administrator is authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.
 
 
 <a id="section-7413"></a>
@@ -2895,7 +2976,7 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
   (A) shall have a right of entry to, upon, or through any premises of such person or in which any records required to be maintained under paragraph (1) of this section are located, and
 
-  (B) may at reasonable times have access to and copy any records, inspect any monitoring equipment or method required under paragraph (1), and sample any emissions which such person is required to sample under paragraph (1).33 The period probably should be “; and”.
+  (B) may at reasonable times have access to and copy any records, inspect any monitoring equipment or method required under paragraph (1), and sample any emissions which such person is required to sample under paragraph (1).33 So in original. The period probably should be “; and”.
 
 (3) The 44 So in original. Probably should not be capitalized. Administrator shall in the case of any person which is the owner or operator of a major stationary source, and may, in the case of any other person, require enhanced monitoring and submission of compliance certifications. Compliance certifications shall include (A) identification of the applicable requirement that is the basis of the certification, (B) the method used for determining the compliance status of the source, (C) the compliance status, (D) whether compliance is continuous or intermittent, (E) such other facts as the Administrator may require. Compliance certifications and monitoring data shall be subject to subsection (c) of this section. Submission of a compliance certification shall in no way limit the Administrator’s authorities to investigate or otherwise implement this chapter. The Administrator shall promulgate rules to provide guidance and to implement this paragraph within 2 years after November 15, 1990.
 
@@ -3852,54 +3933,11 @@ Nothing in this chapter constitutes an infringement on the existing authority of
 
 
 <a id="section-7434"></a>
-## § 7434. Greenhouse gas reduction fund
-**(a) Appropriations**
+## § 7434. Repealed. Pub. L. 119–21, title VI, § 60002, July 4, 2025, 139 Stat. 154
 
-(1) **Zero-emission technologies** — In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $7,000,000,000, to remain available until September 30, 2024, to make grants, on a competitive basis and beginning not later than 180 calendar days after August 16, 2022, to States, municipalities, Tribal governments, and eligible recipients for the purposes of providing grants, loans, or other forms of financial assistance, as well as technical assistance, to enable low-income and disadvantaged communities to deploy or benefit from zero-emission technologies, including distributed technologies on residential rooftops, and to carry out other greenhouse gas emission reduction activities, as determined appropriate by the Administrator in accordance with this section.
+### Statutory Notes
 
-(2) **General assistance** — In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $11,970,000,000, to remain available until September 30, 2024, to make grants, on a competitive basis and beginning not later than 180 calendar days after August 16, 2022, to eligible recipients for the purposes of providing financial assistance and technical assistance in accordance with subsection (b).
-
-(3) **Low-income and disadvantaged communities** — In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $8,000,000,000, to remain available until September 30, 2024, to make grants, on a competitive basis and beginning not later than 180 calendar days after August 16, 2022, to eligible recipients for the purposes of providing financial assistance and technical assistance in low-income and disadvantaged communities in accordance with subsection (b).
-
-(4) **Administrative costs** — In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $30,000,000, to remain available until September 30, 2031, for the administrative costs necessary to carry out activities under this section.
-
-**(b) Use of funds** An eligible recipient that receives a grant pursuant to subsection (a) shall use the grant in accordance with the following:
-
-(1) **Direct investment** — The eligible recipient shall—
-
-  (A) provide financial assistance to qualified projects at the national, regional, State, and local levels;
-
-  (B) prioritize investment in qualified projects that would otherwise lack access to financing; and
-
-  (C) retain, manage, recycle, and monetize all repayments and other revenue received from fees, interest, repaid loans, and all other types of financial assistance provided using grant funds under this section to ensure continued operability.
-
-(2) **Indirect investment** — The eligible recipient shall provide funding and technical assistance to establish new or support existing public, quasi-public, not-for-profit, or nonprofit entities that provide financial assistance to qualified projects at the State, local, territorial, or Tribal level or in the District of Columbia, including community- and low-income-focused lenders and capital providers.
-
-**(c) Definitions** In this section:
-
-(1) **Eligible recipient** — The term “eligible recipient” means a nonprofit organization that—
-
-  (A) is designed to provide capital, leverage private capital, and provide other forms of financial assistance for the rapid deployment of low- and zero-emission products, technologies, and services;
-
-  (B) does not take deposits other than deposits from repayments and other revenue received from financial assistance provided using grant funds under this section;
-
-  (C) is funded by public or charitable contributions; and
-
-  (D) invests in or finances projects alone or in conjunction with other investors.
-
-(2) **Greenhouse gas** — The term “greenhouse gas” means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.
-
-(3) **Qualified project** — The term “qualified project” includes any project, activity, or technology that—
-
-  (A) reduces or avoids greenhouse gas emissions and other forms of air pollution in partnership with, and by leveraging investment from, the private sector; or
-
-  (B) assists communities in the efforts of those communities to reduce or avoid greenhouse gas emissions and other forms of air pollution.
-
-(4) **Zero-emission technology** — The term “zero-emission technology” means any technology that produces zero emissions of—
-
-  (A) any air pollutant that is listed pursuant to [section 7408(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7408/a&num=0&edition=prelim) (or any precursor to such an air pollutant); and
-
-  (B) any greenhouse gas.
+Section, act July 14, 1955, ch. 360, title I, § 134, as added Pub. L. 117–169, title VI, § 60103, Aug. 16, 2022, 136 Stat. 2066, provided appropriations and fundings standards for a greenhouse gas reduction fund.
 
 
 <a id="section-7435"></a>
@@ -4011,11 +4049,16 @@ Nothing in this chapter constitutes an infringement on the existing authority of
 
 (7) **Plugged wells** — Charges shall not be imposed with respect to the emissions rate from any well that has been permanently shut-in and plugged in the previous year in accordance with all applicable closure requirements, as determined by the Administrator.
 
-**(g) Period** The charge under subsection (c) shall be imposed and collected beginning with respect to emissions reported for calendar year 2024 and for each year thereafter.
+**(g) Period** The charge under subsection (c) shall be imposed and collected beginning with respect to emissions reported for calendar year 2034 and for each year thereafter.
 
 **(h) Reporting** Not later than 2 years after August 16, 2022, the Administrator shall revise the requirements of subpart W of part 98 of title 40, Code of Federal Regulations, to ensure the reporting under such subpart, and calculation of charges under subsections (e) and (f) of this section, are based on empirical data, including data collected pursuant to subsection (a)(4), accurately reflect the total methane emissions and waste emissions from the applicable facilities, and allow owners and operators of applicable facilities to submit empirical emissions data, in a manner to be prescribed by the Administrator, to demonstrate the extent to which a charge under subsection (c) is owed.
 
 **(i) Definition of greenhouse gas** In this section, the term “greenhouse gas” means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.
+
+### Statutory Notes
+
+#### Amendments
+2025—Subsec. (g). Pub. L. 119–21 substituted “calendar year 2034” for “calendar year 2024”.
 
 
 <a id="section-7437"></a>
@@ -6304,54 +6347,8 @@ Sec. 6. General Provisions. (a) This order shall be implemented in accordance wi
 
 (c) This order is not intended to, and does not, create any right, benefit or privilege, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
 
-#### Ex. Ord. No. 14037. Strengthening American Leadership in Clean Cars and Trucks
-Ex. Ord. No. 14037, Aug. 5, 2021, 86 F.R. 43583, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to promote the interests of American workers, businesses, consumers, and communities, it is hereby ordered as follows:
-
-Section 1. Policy. America must lead the world on clean and efficient cars and trucks. That means bolstering our domestic market by setting a goal that 50 percent of all new passenger cars and light trucks sold in 2030 be zero-emission vehicles, including battery electric, plug-in hybrid electric, or fuel cell electric vehicles. My Administration will prioritize setting clear standards, expanding key infrastructure, spurring critical innovation, and investing in the American autoworker. This will allow us to boost jobs—with good pay and benefits—across the United States along the full supply chain for the automotive sector, from parts and equipment manufacturing to final assembly.
-
-It is the policy of my Administration to advance these objectives in order to improve our economy and public health, boost energy security, secure consumer savings, advance environmental justice, and address the climate crisis.
-
-Sec. 2. Light-, Medium-, and Certain Heavy-Duty Vehicles Multi-Pollutant and Fuel Economy Standards for 2027 and Later.
-
-(a) The Administrator of the Environmental Protection Agency (EPA) shall, as appropriate and consistent with applicable law, consider beginning work on a rulemaking under the Clean Air Act ([42 U.S.C. 7401–767](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401–767&num=0&edition=prelim)1q) to establish new multi-pollutant emissions standards, including for greenhouse gas emissions, for light- and medium-duty vehicles beginning with model year 2027 and extending through and including at least model year 2030.
-
-(b) The Secretary of Transportation shall, as appropriate and consistent with applicable law, consider beginning work on a rulemaking under the Energy Independence and Security Act of 2007 (Public Law 110–140, 121 Stat. 1492) (EISA) [see Tables for classification] to establish new fuel economy standards for passenger cars and light-duty trucks beginning with model year 2027 and extending through and including at least model year 2030.
-
-(c) The Secretary of Transportation shall, as appropriate and consistent with applicable law, consider beginning work on a rulemaking under EISA to establish new fuel efficiency standards for heavy-duty pickup trucks and vans beginning with model year 2028 and extending through and including at least model year 2030.
-
-Sec. 3. Heavy-Duty Engines and Vehicles Multi-Pollutant Standards for 2027 and Later. (a) The Administrator of the EPA shall, as appropriate and consistent with applicable law, consider beginning work on a rulemaking under the Clean Air Act to establish new oxides of nitrogen standards for heavy-duty engines and vehicles beginning with model year 2027 and extending through and including at least model year 2030.
-
-(b) The Administrator of the EPA shall, as appropriate and consistent with applicable law, and in consideration of the role that zero-emission heavy-duty vehicles might have in reducing emissions from certain market segments, consider updating the existing greenhouse gas emissions standards for heavy-duty engines and vehicles beginning with model year 2027 and extending through and including at least model year 2029.
-
-Sec. 4. Medium- and Heavy-Duty Engines and Vehicles Greenhouse Gas and Fuel Efficiency Standards as Soon as 2030 and Later. (a) The Administrator of the EPA shall, as appropriate and consistent with applicable law, consider beginning work on a rulemaking under the Clean Air Act to establish new greenhouse gas emissions standards for heavy-duty engines and vehicles to begin as soon as model year 2030.
-
-(b) The Secretary of Transportation shall, as appropriate and consistent with applicable law, consider beginning work on a rulemaking under EISA to establish new fuel efficiency standards for medium- and heavy-duty engines and vehicles to begin as soon as model year 2030.
-
-Sec. 5. Rulemaking Targets. (a) With respect to the rulemaking described in section 3(a) of this order, the Administrator of the EPA shall, as appropriate and consistent with applicable law, consider issuing a notice of proposed rulemaking by January 2022 and any final rulemaking by December 2022.
-
-(b) With respect to the other rulemakings described in section 2 and section 4 of this order, the Secretary of Transportation and the Administrator of the EPA shall, as appropriate and consistent with applicable law, consider issuing any final rulemakings no later than July 2024.
-
-Sec. 6. Coordination and Engagement. (a) The Secretary of Transportation and the Administrator of the EPA shall coordinate, as appropriate and consistent with applicable law, during the consideration of any rulemakings pursuant to this order.
-
-(b) The Secretary of Transportation and the Administrator of the EPA shall consult with the Secretaries of Commerce, Labor, and Energy on ways to achieve the goals laid out in section 1 of this order, to accelerate innovation and manufacturing in the automotive sector, to strengthen the domestic supply chain for that sector, and to grow jobs that provide good pay and benefits.
-
-(c) Given the significant expertise and historical leadership demonstrated by the State of California with respect to establishing emissions standards for light-, medium-, and heavy-duty vehicles, the Administrator of the EPA shall coordinate the agency’s activities pursuant to sections 2 through 4 of this order, as appropriate and consistent with applicable law, with the State of California as well as other States that are leading the way in reducing vehicle emissions, including by adopting California’s standards.
-
-(d) In carrying out any of the actions described in this order, the Secretary of Transportation and the Administrator of the EPA shall seek input from a diverse range of stakeholders, including representatives from labor unions, States, industry, environmental justice organizations, and public health experts.
-
-Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.
+#### Executive Order No. 14037
+Ex. Ord. No. 14037, Aug. 5, 2021, 86 F.R. 43583, which related to vehicle emission standards for 2027 and later, was revoked by Ex. Ord. No. 14148, § 2(kk), Jan. 20, 2025, 90 F.R. 8239, and Ex. Ord. No. 14154, § 4(a)(viii), Jan. 20, 2025, 90 F.R. 8355.
 
 
 <a id="section-7522"></a>

@@ -2,7 +2,7 @@
 title: 10
 chapter: '271'
 heading: TRUTHFUL COST OR PRICING DATA (TRUTH IN NEGOTIATIONS)
-section_count: 8
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -36,13 +36,33 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 (1) **Offeror for prime contract.—** — An offeror for a prime contract under a chapter 137 legacy provision to be entered into using procedures other than sealed-bid procedures that is only expected to receive one bid shall be required to submit cost or pricing data before the award of a contract if—
 
-  (A) in the case of a prime contract entered into after June 30, 2018, the price of the contract to the United States is expected to exceed $2,000,000; and
+  (A) in the case of a prime contract entered into after June 30, 2026, the price of the contract to the United States is expected to exceed $10,000,000; and
 
-  (B) in the case of a prime contract entered into on or before June 30, 2018, the price of the contract to the United States is expected to exceed $750,000.
+  (B) in the case of a prime contract entered into on or before June 30, 2026, the price of the contract to the United States is expected to exceed $2,000,000.
 
-(2) **Contractor.—** — The contractor for a prime contract under a chapter 137 legacy provision shall be required to submit cost or pricing data before the pricing of a change or modification to the contract if the price adjustment is expected to exceed $2,000,000.
+(2) **Contractor.—** — The contractor for a prime contract under a chapter 137 legacy provision shall be required to submit cost or pricing data before the pricing of a change or modification to the contract if the price adjustment is expected to exceed $10,000,000.
 
-(3) **Offeror for subcontract.—** — An offeror for a subcontract (at any tier) of a contract under this chapter shall be required to submit cost or pricing data before the award of the subcontract if the prime contractor and each higher-tier subcontractor have been required to make available cost or pricing data under this chapter and the price of the subcontract is expected to exceed $2,000,000.
+(3) **Offeror for subcontract.—**
+
+  (A) An offeror for a subcontract (at any tier) of a contract under this chapter shall be required to submit cost or pricing data before the award of the subcontract if the prime contractor and each higher-tier subcontractor have been required to make available cost or pricing data under this chapter and—
+
+    (i) in the case of a prime contract entered into after June 30, 2026, the price of the subcontract is expected to exceed $10,000,000; or
+
+    (ii) in the case of a prime contract entered into on or before June 30, 2026, the price of the subcontract is expected to exceed $2,000,000..11 So in original.
+
+  (B)
+
+    (i) An offeror for a subcontract (at any tier) of a contract under this chapter that is required to submit cost or pricing data under subparagraph (A) with respect to such subcontract may submit prices paid for the covered goods and services of such offeror for such subcontract under this clause if—
+
+      (I) such offeror is a nontraditional defense contractor (as defined in [section 3014 of this title](./chapter-201-definitions.md#section-3014));
+
+      (II) the prices to be submitted are prices that were paid for the same goods and services as such covered goods and services; and
+
+      (III) the price of such subcontract is not expected to exceed $5,000,000.
+
+    (ii) The submission of prices paid under clause (i) by an offeror with respect to a subcontract shall be deemed to be the submission of cost or pricing data by such offeror with respect to such subcontract as required by subparagraph (A) if a contracting officer of the Department of Defense determines that the prices submitted under such clause are fair and reasonable based on supported cost or pricing data within the last 12 months.
+
+    (iii) In this subparagraph, the term “covered goods and services” means, with respect to an offeror for a subcontract (at any tier), the goods and services such offeror would provide under such subcontract.
 
 (4) **Subcontractor.—** — The subcontractor for a subcontract covered by paragraph (3) shall be required to submit cost or pricing data before the pricing of a change or modification to the subcontract if the price adjustment is expected to exceed $2,000,000.
 
@@ -68,6 +88,22 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 The text of subsec. (a) of [section 2306a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1831(c), was based on Pub. L. 99–500, § 101(c) [title X, § 952(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, § 101(c) [title X, § 952(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, § 952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, § 804(b)(1), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, § 803(a)(1), Nov. 5, 1990, 104 Stat. 1589; Pub. L. 102–25, title VII, § 701(b), Apr. 6, 1991, 105 Stat. 113; Pub. L. 102–190, div. A, title VIII, § 804(a)–(c)(1), Dec. 5, 1991, 105 Stat. 1415, 1416; Pub. L. 103–355, title I, §§ 1201, 1202(b), Oct. 13, 1994, 108 Stat. 3273, 3274; Pub. L. 105–85, div. A, title X, § 1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, § 805(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 114–328, div. A, title VIII, § 822(1), Dec. 23, 2016, 130 Stat. 2276; Pub. L. 115–91, div. A, title VIII, § 811(a)(1), Dec. 12, 2017, 131 Stat. 1459; Pub. L. 116–283, div. A, § 814(a)(1), Jan. 1, 2021, 134 Stat. 3479; Pub. L. 117–81, div. A, title VIII, § 804(a), Dec. 27, 2021, 135 Stat. 1816. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2025—Subsec. (a)(1)(A). Pub. L. 119–60, § 1804(c)(1)(B), substituted “$10,000,000” for “$2,000,000”.
+
+Pub. L. 119–60, § 1804(c)(1)(A), substituted “June 30, 2026” for “June 30, 2018”.
+
+Subsec. (a)(1)(B). Pub. L. 119–60, § 1804(c)(1)(C), substituted “$2,000,000” for “$750,000”.
+
+Pub. L. 119–60, § 1804(c)(1)(A), substituted “June 30, 2026” for “June 30, 2018”.
+
+Subsec. (a)(2). Pub. L. 119–60, § 1804(c)(2), substituted “$10,000,000” for “$2,000,000”.
+
+Subsec. (a)(3)(A). Pub. L. 119–60, § 1804(c)(3), substituted “chapter and—” and cls. (i) and (ii) for “chapter and the price of the subcontract is expected to exceed $2,000,000”.
+
+Subsec. (a)(3)(B)(ii). Pub. L. 119–60, § 1701(a)(25), substituted “offeror” for “offereor”.
+
+2024—Subsec. (a)(3). Pub. L. 118–159 designated existing provisions as subpar. (A) and added subpar. (B).
+
 2023—Subsec. (a)(4). Pub. L. 118–31, § 1801(a)(29)(A), substituted “paragraph (3)” for “subparagraph (C)”.
 
 Subsec. (f). Pub. L. 118–31, § 1801(a)(29)(B), substituted “paragraphs (1) and (2) of such subsection” for “subparagraphs (B) and (C) of such paragraph”.
@@ -126,7 +162,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 Pub. L. 117–81, div. A, title VIII, § 862(b), Dec. 27, 2021, 135 Stat. 1852, provided that: “The Secretary of Defense shall develop and implement a plan to collect and analyze data on the use of authority under such section 873 [of Pub. L. 114–92, set out below] for the purposes of— “(1) developing and sharing best practices; and “(2) providing information to the Secretary of Defense and Congress on the use of authority under such section 873 and related policy issues.”
 
 #### Pilot Program for Streamlining Awards for Innovative Technology Projects
-Pub. L. 114–92, div. A, title VIII, § 873(a)–(g), Nov. 25, 2015, 129 Stat. 939, 940, as amended by Pub. L. 114–328, div. A, title VIII, § 896, Dec. 23, 2016, 130 Stat. 2326; Pub. L. 116–283, div. A, title VIII, § 832, Jan. 1, 2021, 134 Stat. 3753; Pub. L. 117–81, div. A, title VIII, § 862(a), Dec. 27, 2021, 135 Stat. 1852, provided that: “(a) Exception From Certified Cost and Pricing Data Requirements.—The requirements under [section 2306a(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a/a&num=0&edition=prelim), United States Code [now [10 U.S.C. 3702](./chapter-271-truthful-cost-or-pricing-data-truth-in-negotiations.md#section-3702)], shall not apply to a contract, subcontract, or modification of a contract or subcontract valued at less than $7,500,000 awarded to a small business or nontraditional defense contractor pursuant to—“(1) a technical, merit-based selection procedure, such as a broad agency announcement, or “(2) the Small Business Innovation Research Program or Small Business Technology Transfer Program, unless the head of the agency determines that submission of cost and pricing data should be required based on past performance of the specific small business or nontraditional defense contractor, or based on analysis of other information specific to the award. “(b) Exception From Records Examination Requirement.—The requirements under subparagraphs (A), (B), and (C) of [section 2313(a)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2313/a/2&num=0&edition=prelim), United States Code [now [10 U.S.C. 3841(b)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3841/b/2/A&num=0&edition=prelim)–(C)], and subsection (b) of [section 2313 of title 10](./chapter-chapter-137-chapter-chapter-137.md#section-2313), United States Code [now [10 U.S.C. 3841(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3841/c&num=0&edition=prelim)], shall not apply to a contract valued at less than $7,500,000 awarded to a small business or nontraditional defense contractor pursuant to—“(1) a technical, merit-based selection procedure, such as a broad agency announcement, or “(2) the Small Business Innovation Research Program, unless the head of the agency determines that auditing of records should be required based on past performance of the specific small business or nontraditional defense contractor, or based on analysis of other information specific to the award, and if such performance audit is initiated within 18 months of the contract completion. “(c) Treatment as Competitive Procedures.—Use of a technical, merit-based selection procedure or the Small Business Innovation Research Program or Small Business Technology Transfer Program for the pilot program under this section shall be considered to be use of competitive procedures for purposes of [former] chapter 137 of title 10, United States Code. “(d) Discretion To Use Non-certified Accounting Systems.—In executing programs under this pilot program, the Secretary of Defense shall establish procedures under which a small business or nontraditional contractor may engage an independent certified public accountant for the review and certification of its accounting system for the purposes of any audits required by regulation, unless the head of the agency determines that this is not appropriate based on past performance of the specific small business or nontraditional defense contractor, or based on analysis of other information specific to the award. “(e) Guidance and Training.—The Secretary of Defense shall ensure that acquisition and auditing officials are provided guidance and training on the flexible use and tailoring of authorities under the pilot program to maximize efficiency and effectiveness. “(f) Sunset.—The exceptions under subsections (a) and (b) shall terminate on October 1, 2024. “(g) Definitions.—In this section [enacting this note and amending [section 638 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638&num=0&edition=prelim), Commerce and Trade]:“(1) Small business.—The term ‘small business’ has the meaning given the term ‘small business concern’ under section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)). “(2) Nontraditional defense contractor.—The term ‘nontraditional defense contractor’ has the meaning given that term in [section 2302(9) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302/9&num=0&edition=prelim), United States Code [now [10 U.S.C. 3014](./chapter-201-definitions.md#section-3014)].”
+Pub. L. 114–92, div. A, title VIII, § 873(a)–(g), Nov. 25, 2015, 129 Stat. 939, 940, as amended by Pub. L. 114–328, div. A, title VIII, § 896, Dec. 23, 2016, 130 Stat. 2326; Pub. L. 116–283, div. A, title VIII, § 832, Jan. 1, 2021, 134 Stat. 3753; Pub. L. 117–81, div. A, title VIII, § 862(a), Dec. 27, 2021, 135 Stat. 1852; Pub. L. 118–159, div. A, title VIII, § 863, Dec. 23, 2024, 138 Stat. 2001, provided that: “(a) Exception From Certified Cost and Pricing Data Requirements.—The requirements under [section 2306a(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a/a&num=0&edition=prelim), United States Code [now [10 U.S.C. 3702](./chapter-271-truthful-cost-or-pricing-data-truth-in-negotiations.md#section-3702)], shall not apply to a contract, subcontract, or modification of a contract or subcontract valued at less than $7,500,000 awarded to a small business or nontraditional defense contractor pursuant to—“(1) a technical, merit-based selection procedure, such as a broad agency announcement, or “(2) the Small Business Innovation Research Program, a multiyear contract (as defined in [section 3501 of title 10](./chapter-249-multiyear-contracts.md#section-3501), United States Code), a block buy or multi-ship buy authorized by Congress, or the or [sic] Small Business Technology Transfer Program, unless the head of the agency determines that submission of cost and pricing data should be required based on past performance of the specific small business or nontraditional defense contractor, or based on analysis of other information specific to the award. “(b) Exception From Records Examination Requirement.—The requirements under subparagraphs (A), (B), and (C) of [section 2313(a)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2313/a/2&num=0&edition=prelim), United States Code [now [10 U.S.C. 3841(b)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3841/b/2/A&num=0&edition=prelim)–(C)], and subsection (b) of [section 2313 of title 10](./chapter-chapter-137-chapter-chapter-137.md#section-2313), United States Code [now [10 U.S.C. 3841(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3841/c&num=0&edition=prelim)], shall not apply to a contract valued at less than $7,500,000 awarded to a small business or nontraditional defense contractor pursuant to—“(1) a technical, merit-based selection procedure, such as a broad agency announcement, or “(2) the Small Business Innovation Research Program, unless the head of the agency determines that auditing of records should be required based on past performance of the specific small business or nontraditional defense contractor, or based on analysis of other information specific to the award, and if such performance audit is initiated within 18 months of the contract completion. “(c) Treatment as Competitive Procedures.—Use of a technical, merit-based selection procedure or the Small Business Innovation Research Program or Small Business Technology Transfer Program for the pilot program under this section shall be considered to be use of competitive procedures for purposes of [former] chapter 137 of title 10, United States Code. “(d) Discretion To Use Non-certified Accounting Systems.—In executing programs under this pilot program, the Secretary of Defense shall establish procedures under which a small business or nontraditional contractor may engage an independent certified public accountant for the review and certification of its accounting system for the purposes of any audits required by regulation, unless the head of the agency determines that this is not appropriate based on past performance of the specific small business or nontraditional defense contractor, or based on analysis of other information specific to the award. “(e) Guidance and Training.—The Secretary of Defense shall ensure that acquisition and auditing officials are provided guidance and training on the flexible use and tailoring of authorities under the pilot program to maximize efficiency and effectiveness. “(f) Sunset.—The exceptions under subsections (a) and (b) shall terminate on October 1, 2029. “(g) Definitions.—In this section [enacting this note and amending [section 638 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638&num=0&edition=prelim), Commerce and Trade]:“(1) Small business.—The term ‘small business’ has the meaning given the term ‘small business concern’ under section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)). “(2) Nontraditional defense contractor.—The term ‘nontraditional defense contractor’ has the meaning given that term in [section 2302(9) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302/9&num=0&edition=prelim), United States Code [now [10 U.S.C. 3014](./chapter-201-definitions.md#section-3014)].”
 
 [Section 896(2)(B) of Pub. L. 114–328, which directed amendment of par. (2) of subsec. (b) of section 873 of Pub. L. 114–92, set out above, by inserting “, and if such performance audit is initiated within 18 months of the contract completion” before the period at the end, was executed by making the insertion before the period at the end of the concluding provisions of subsec. (b), to reflect the probable intent of Congress.]
 
@@ -137,7 +173,7 @@ Pub. L. 114–92, div. A, title VIII, § 873(a)–(g), Nov. 25, 2015, 129 Stat. 
 
 (1) for which the price agreed upon is based on—
 
-  (A) adequate competition that results in at least two or more responsive and viable competing bids; or
+  (A) adequate price competition; or
 
   (B) prices set by law or regulation;
 
@@ -191,6 +227,8 @@ Pub. L. 114–92, div. A, title VIII, § 873(a)–(g), Nov. 25, 2015, 129 Stat. 
 The text of subsec. (b) of [section 2306a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1831(d), was based on Pub. L. 99–500, § 101(c) [title X, § 952(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, § 101(c) [title X, § 952(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, § 952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–355, title I, § 1202(a), Oct. 13, 1994, 108 Stat. 3274, as amended by Pub. L. 104–106, div. D, title XLIII, § 4321(a)(2), Feb. 10, 1996, 110 Stat. 671; Pub. L. 104–106, div. D, title XLII, § 4201(a)(1), Feb. 10, 1996, 110 Stat. 649; Pub. L. 108–375, div. A, title VIII, § 818(a), Oct. 28, 2004, 118 Stat. 2015; Pub. L. 110–181, div. A, title VIII, § 814, Jan. 28, 2008, 122 Stat. 222; Pub. L. 113–291, div. A, title X, § 1071(a)(3), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, §§ 812, 851(b), 853, Nov. 25, 2015, 129 Stat. 891, 916, 919; Pub. L. 114–328, div. A, title VIII, § 822(2), Dec. 23, 2016, 130 Stat. 2276; Pub. L. 115–232, div. A, title VIII, § 836(c)(5)(A), Aug. 13, 2018, 132 Stat. 1865. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2025—Subsec. (a)(1)(A). Pub. L. 119–60 substituted “price competition” for “competition that results in at least two or more responsive and viable competing bids”.
+
 2021—Pub. L. 116–283, § 1831(d)(1), transferred subsec. (b) of [section 2306a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a&num=0&edition=prelim) to this section, struck out subsec. (b) designation and heading “Exceptions” at beginning, and redesignated pars. (1) to (6) as subsecs. (a) to (f), respectively, and realigned margins.
 
 Subsec. (a). Pub. L. 116–283, § 1831(d)(2)(A), (B), (C), (E), after redesignation of [section 2306a(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a/b/1&num=0&edition=prelim) as subsec. (a) of this section, substituted “under [section 3702 of this title](./chapter-271-truthful-cost-or-pricing-data-truth-in-negotiations.md#section-3702)” for “under subsection (a)” in introductory provisions, redesignated subpar. (A) and its cls. (i) and (ii) as par. (1) and subpars. (A) and (B), respectively, redesignated subpars. (B) and (C) as pars. (2) and (3), respectively, and redesignated subpar. (D) and its cls. (i) and (ii) as par. (4) and subpars. (A) and (B), respectively.
@@ -283,6 +321,8 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
     (iii) developing an appropriate timeframe for requiring submission of uncertified cost or pricing data before a request for such data is considered a denial, including a standardized determination of a starting point and conclusion for such requests.
 
+(3) **Alternative Sources Required.—** — If the head of contracting activity, or the designee of the head of contracting activity, determines it is in the best interest of the Government to make the award under subsection (b)(1), the head of the agency shall conduct an assessment of alternative offerors as a source of supply using authorities provided by sections 865 and 882 of the National Defense Authorization Act for Fiscal Year 2025 (Public Law 118–159).
+
 **(c) Limitations on authority.—** The Federal Acquisition Regulation shall include the following provisions regarding the types of information that contracting officers may require under subsection (a):
 
 (1) Reasonable limitations on requests for sales data relating to commercial products or commercial services.
@@ -293,10 +333,15 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 ### Statutory Notes
 
+#### References in Text
+Sections 865 and 882 of the National Defense Authorization Act for Fiscal Year 2025, referred to in subsec. (b)(3), are sections 865 and 882 of Pub. L. 118–159, which are set out as notes under sections 4811 and 3771 of this title, respectively.
+
 #### Codification
 The text of subsec. (d) of [section 2306a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1831(f), was based on Pub. L. 103–355, title I, § 1204, Oct. 13, 1994, 108 Stat. 3275; Pub. L. 104–106, div. D, title XLII, § 4201(a)(1) ,Feb. 10, 1996, 110 Stat. 650; Pub. L. 105–261, div. A, title VIII, § 808(a), Oct. 17, 1998, 112 Stat. 2085; Pub. L. 114–92, div. A, title VIII, § 852(e), 853, Nov. 25, 2015, 129 Stat. 918; Pub. L. 115–91, div. A, title VIII, § 811(b), Dec. 12, 2017, 131 Stat. 1459; Pub. L. 115–232, div. A, title VIII, § 836(c)(5)(B), Aug. 13, 2018, 132 Stat. 1865, as amended by Pub. L. 116–283, div. A, title X, § 1081(d)(4)(B)(i), Jan. 1, 2021, 134 Stat. 3874; Pub. L. 116–92, div. A, title VIII, § 803, Dec. 20, 2019, 133 Stat. 1483.
 
 #### Amendments
+2025—Subsec. (b)(3). Pub. L. 119–60 added par. (3).
+
 2023—Subsec. (b)(2)(B). Pub. L. 118–31, § 802(1), inserted at end “The Under Secretary shall make appropriate portions of the report available to the leadership of the offerors named in such report.”
 
 Subsec. (b)(2)(C). Pub. L. 118–31, § 802(2), added subpar. (C).
@@ -438,3 +483,34 @@ The text of subsec. (g) of [section 2306a of this title](https://uscode.house.go
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
+<a id="section-3709"></a>
+## § 3709. Program to accelerate contracting and pricing processes
+**(a) In General.—** The Secretary of Defense shall establish a program to reform and accelerate the contracting and pricing processes associated with contracts in excess of $50,000,000 by—
+
+(1) basing price reasonableness determinations on actual cost and pricing data for purchases of the same or similar products for the Department of Defense; and
+
+(2) reducing the cost and pricing data to be submitted in accordance with this chapter.
+
+**(b) Implementation Guidance.—** The Secretary, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall ensure that each senior contracting official (as defined in [section 1737 of this title](./chapter-087-defense-acquisition-workforce.md#section-1737)) for a contract described in subsection (a) has the discretion to implement the program under this section efficiently and effectively by ensuring the following:
+
+(1) That the program does not include any preferences for contract type or specific contract requirements.
+
+(2) That each Secretary of a military department has no unique reporting requirements to the Under Secretary of Defense for Acquisition and Sustainment with respect to the program.
+
+### Statutory Notes
+
+#### Codification
+Section is based on Pub. L. 115–232, div. A, title VIII, § 890, Aug. 13, 2018, 132 Stat. 1919, as amended by Pub. L. 116–92, div. A, title VIII, § 825, Dec. 20, 2019, 133 Stat. 1491; Pub. L. 116–283, div. A, title XVIII, § 1831(j)(7), Jan. 1, 2021, 134 Stat. 4217; Pub. L. 117–263, div. A, title VIII, § 818, Dec. 23, 2022, 136 Stat. 2708; Pub. L. 118–31, div. A, title VIII, § 841, Dec. 22, 2023, 137 Stat. 339, which was formerly set out as a note preceding [section 3701 of this title](./chapter-271-truthful-cost-or-pricing-data-truth-in-negotiations.md#section-3701) before being transferred to this chapter and renumbered as this section by Pub. L. 119–60, div. A, title VIII, § 812(c)(1), Dec. 18, 2025, 139 Stat. 952.
+
+#### Amendments
+2025—Pub. L. 119–60, § 812(c)(2)(A), (B), struck out “Pilot” before “program” in section catchline and “pilot” before “program” wherever appearing in text.
+
+Subsec. (a)(2). Pub. L. 119–60, § 812(c)(2)(C), substituted “this chapter” for “chapter 271 of title 10, United States Code”.
+
+Subsec. (b). Pub. L. 119–60, § 812(c)(2)(D)(i), substituted “[section 1737 of this title](./chapter-087-defense-acquisition-workforce.md#section-1737)” for “[section 1737 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1737), United States Code” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 119–60, § 812(c)(2)(D)(ii), substituted “no unique reporting” for “minimal reporting”.
+
+Subsecs. (c), (d). Pub. L. 119–60, § 812(c)(2)(E), struck out subsecs. (c) and (d), which, respectively, required submission of report on pilot program and provided that pilot program would expire on Jan. 2, 2028.

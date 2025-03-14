@@ -135,7 +135,7 @@ Any person who—
 
   (A) *Concealment of property* — Conceals from any officer or employee of the United States any property belonging to the estate of a taxpayer or other person liable in respect of the tax, or
 
-  (B) *Withholding, falsifying, and destroying rec­ords* — Receives, withholds, destroys, mutilates, or falsifies any book, document, or record, or makes any false statement, relating to the estate or financial condition of the taxpayer or other person liable in respect of the tax;
+  (B) *Withholding, falsifying, and destroying records* — Receives, withholds, destroys, mutilates, or falsifies any book, document, or record, or makes any false statement, relating to the estate or financial condition of the taxpayer or other person liable in respect of the tax;
 shall be guilty of a felony and, upon conviction thereof, shall be fined not more than $100,000 ($500,000 in the case of a corporation), or imprisoned not more than 3 years, or both, together with the costs of prosecution.
 
 ### Statutory Notes

@@ -3378,9 +3378,9 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 (2) Wherever appropriate in furtherance of this chapter, the Secretary of Agriculture and the Secretary of the Interior are authorized and encouraged to utilize the following:
 
-  (A) For activities on federally owned land, [section 102301 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section102301&num=0&edition=prelim) and the Volunteers in the Forest Act of 1972 ([16 U.S.C. 558a–558d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section558a–558d&num=0&edition=prelim)).
+  (A) For activities on federally owned land, [section 102301 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section102301&num=0&edition=prelim) and the Volunteers in the Forest Act of 1972 ([16 U.S.C. 558a–558d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section558a–558d&num=0&edition=prelim)).22 See References in Text note below.
 
-  (B) For activities on all other lands, section 6 22 So in original. Probably should be “section 200305”. of chapter 2003 of title 54 (relating to the development of statewide comprehensive outdoor recreation plans).
+  (B) For activities on all other lands, section 6 33 So in original. Probably should be “section 200305”. of chapter 2003 of title 54 (relating to the development of statewide comprehensive outdoor recreation plans).
 
 (3) For purposes of this subsection, the appropriate Secretary or the head of any Federal agency may utilize and make available Federal facilities, equipment, tools and technical assistance to volunteers and volunteer organizations, subject to such limitations and restrictions as the appropriate Secretary or the head of any Federal agency deems necessary or desirable.
 
@@ -3389,7 +3389,7 @@ For transfer of certain enforcement functions of Secretary or other official in 
 ### Statutory Notes
 
 #### References in Text
-The Volunteers in the Forest Act of 1972, referred to in subsec. (b)(2)(A), probably means the Volunteers in the National Forests Act of 1972, Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which is classified generally to section 558a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 558a of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) and Tables.
+The Volunteers in the Forest Act of 1972, referred to in subsec. (b)(2)(A), probably means the Volunteers in the National Forests Act of 1972, Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which was classified generally to former sections 558a to 558d of this title, prior to being amended generally and renamed the Volunteers in the National Forests and Public Lands Act by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913. Section 342 of Pub. L. 118–234, set out as a note under [section 558a of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558a), provides that a reference in any law to the Volunteers in National Forests Act of 1972 shall be deemed to be a reference to the Volunteers in the National Forests and Public Lands Act. For complete classification of this Act to the Code, see Short Title note set out under [section 558a of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) and Tables.
 
 #### Codification
 In subsec. (b)(2)(A), the words “([16 U.S.C. 18g](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-18g)–j)” were omitted following “[section 102301 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section102301&num=0&edition=prelim)” in view of the amendment by Pub. L. 113–287, § 5(d)(31)(B)(i). See 2014 Amendment note below.

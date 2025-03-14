@@ -2,7 +2,7 @@
 title: 18
 chapter: '37'
 heading: ESPIONAGE AND CENSORSHIP
-section_count: 10
+section_count: 11
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -338,6 +338,27 @@ Proc. 2912, 3 C.F.R., 1950 Supp., p. 71, referred to in text, probably should re
 
 #### Termination of National Emergency
 Declaration of national emergency in effect on Sept. 14, 1976, was terminated two years from that date by [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim), War and National Defense.
+
+
+<a id="section-798b"></a>
+## § 798B. Unauthorized access to intelligence community property
+**(a) Prohibited Activity.—** It shall be unlawful, within the jurisdiction of the United States, without authorization to willfully go upon any property—
+
+(1) with intent to gather intelligence or information to the detriment of the United States; and
+
+(2) while knowing that such property is—
+
+  (A) under the jurisdiction of an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)); and
+
+  (B) closed or restricted.
+
+**(b) Penalties.—** Any person who violates subsection (a) shall—
+
+(1) in the case of the first offense, be fined under [section 3571 of this title](./chapter-227-sentences.md#section-3571), imprisoned not more than 6 months, or both;
+
+(2) in the case of a second offense after a prior conviction under subsection (a) has become final, be fined under this title, imprisoned not more than 2 years, or both; and
+
+(3) in the case of a third or subsequent offense after a prior conviction under subsection (a) has become final, be fined under this title, imprisoned not more than 5 years, or both.
 
 
 <a id="section-799"></a>

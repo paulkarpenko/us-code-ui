@@ -2,7 +2,7 @@
 title: 10
 chapter: '157'
 heading: TRANSPORTATION
-section_count: 26
+section_count: 29
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -357,6 +357,31 @@ Subsec. (b). Pub. L. 109–364, § 363(b)(2), substituted “shall be deducted�
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–364, div. A, title III, § 363(b), Oct. 17, 2006, 120 Stat. 2167, provided that the amendment made by section 363(b) is effective Mar. 1, 2008.
+
+
+<a id="section-2636b"></a>
+## § 2636b. Responsibilities for oversight of personal property transportation
+**(a) Responsibilities.—** Subject to subsection (b), not later than one year after the date of the enactment of this section, the Secretary of Defense shall assign to a single office or other organizational element within the Department of Defense the following responsibilities:
+
+(1) Overseeing the activities and personnel of, and any other matter relating to, the following:
+
+  (A) Any office or other organizational element of a military department responsible for shipping baggage or household effects, scheduling or processing orders for such shipments, providing storage services for such baggage or household effects, or providing privately owned vehicle transportation services in connection with a permanent change of station, on behalf of members of the armed forces, including any personal property shipping office, joint or consolidated personal property shipping office, or personal property processing office of such military department.
+
+  (B) The Defense Personal Property Management Office, or any such successor office.
+
+(2) Overseeing the adjudication of any claim filed with respect to the defense personal property program (including the adjudication of such claims under [section 2636(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2636/a&num=0&edition=prelim) or [section 3721 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3721&num=0&edition=prelim)) and any other matter relating to such program.
+
+**(b) Exclusion.—** The responsibilities under subsection (a) may not be assigned to any combatant command or component thereof.
+
+**(c) Defense Personal Property Program Defined.—** In this section, the term “defense personal property program” means the program of the Department of Defense for managing the shipment of the baggage and household effects for members of the armed forces or civilian employees of the Department, or any such successor program.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
+
+#### Regulations; Briefing
+Pub. L. 119–60, div. A, title III, § 336(b), (c), Dec. 18, 2025, 139 Stat. 819, provided that: “(b) Briefing.—Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on the plan and timeline for the implementation of [section 2636b of title 10](./chapter-157-transportation.md#section-2636b), United States Code, as added by subsection (a). Such briefing shall include—“(1) an identification of the office or other organizational element within the Department of Defense to which the Secretary plans to assign the responsibilities specified in such section 2636b; “(2) details relating to any changes to requirements, authorities, or processes necessary to implement such section 2636b; “(3) an estimate of the resources required to implement such section 2636b; “(4) a plan to improve the business systems supporting the office or other organizational element identified pursuant to paragraph (1) with respect to the conduct of the responsibilities specified in such section 2636b; “(5) a plan to provide the necessary staffing and resourcing for such office or other organizational element with respect to the conduct of such responsibilities; and “(6) a plan for partnership with commercial service household goods providers. “(c) Regulations.—Not later than 90 days after the date on which the briefing is provided under subsection (b), the Secretary of Defense shall prescribe regulations to implement [section 2636b of title 10](./chapter-157-transportation.md#section-2636b), United States Code, as added by subsection (a).”
 
 
 <a id="section-2637"></a>
@@ -815,13 +840,15 @@ Pub. L. 114–328, div. A, title III, § 352, Dec. 23, 2016, 130 Stat. 2089, pro
 
 (6) For military transportation services provided to a Department of Defense contractor when transporting supplies that are for, or destined for, a Department of Defense entity.
 
-**(b) Termination of Authority for Certain Categories of Transportation.—** The provisions of paragraphs (3), (4), (5), and (6) of subsection (a) shall apply only to military transportation services provided before October 1, 2024.
+**(b) Termination of Authority for Certain Categories of Transportation.—** The provisions of paragraphs (3), (4), (5), and (6) of subsection (a) shall apply only to military transportation services provided before October 1, 2026.
 
 **(c) Definition.—** In this section, the term “Department of Defense reimbursement rate” means the amount charged a component of the Department of Defense by another component of the Department of Defense.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (b). Pub. L. 118–159 substituted “October 1, 2026” for “October 1, 2024”.
+
 2019—Subsec. (b). Pub. L. 116–92 substituted “October 1, 2024” for “October 1, 2019”.
 
 2017—Subsec. (a)(3). Pub. L. 115–91, § 1081(f), which directed substitution of “September 30” for “October 28” in the amendment made by Pub. L. 113–291, § 1044(a)(2)(A), was executed by making the substitution the second place appearing in the quoted language to be stricken by that amendment, to reflect the probable intent of Congress. See 2014 Amendment note below.
@@ -1211,3 +1238,47 @@ Pub. L. 111–383, div. A, title X, § 1075(h), Jan. 7, 2011, 124 Stat. 4377, pr
 ## § 2652. Prohibition on charge of certain tariffs on aircraft traveling through channel routes
 
 The United States Transportation Command may not charge a tariff by reason of the use by a military service of an aircraft of that military service on a route designated by the United States Transportation Command as a channel route.
+
+
+<a id="section-2653"></a>
+## § 2653. Evacuation of family pets and contract working dogs during noncombatant evacuations of foreign countries
+**(a) Authority to Evacuate.—** Subject to the limitations under subsection (b), in the event of a situation during which the Department of Defense evacuates noncombatants from a foreign country, the Secretary of Defense may enter into agreements with appropriate nonprofit entities under which such entities provide for the evacuation of—
+
+(1) the family pets of citizens of the United States who are evacuated by the Department; and
+
+(2) contract working dogs located in such country.
+
+**(b) Limitations.—** The limitations under this subsection are as follows:
+
+(1) The Department of Defense is not responsible for providing veterinary care for a family pet or contract working dog by reason of the evacuation of the pet or dog pursuant to subsection (a).
+
+(2) The Secretary may not exercise the authority under subsection (a) if the exercise of such authority would result in a reduction in the number of individuals who would otherwise be evacuated.
+
+(3) The operator of a vehicle used for evacuation may refuse to evacuate a family pet or contract working dog if the operator determines that the evacuation would create a safety risk to other passengers or personnel.
+
+
+<a id="section-2654"></a>
+## § 2654. Aircraft safety: requirements for certain highly trafficked domestic airspace
+**(a) Limitation on Operation.—** Notwithstanding section 1046 of the National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232, [49 U.S.C. 40101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) note), except as provided in subsection (b), the Secretary of a military department may not authorize any manned rotary wing aircraft of the Department of Defense to operate a training mission in a covered airspace unless such aircraft, while being operated, is actively providing warning of the proximity of such aircraft to nearby commercial aircraft in a manner compatible with the traffic alert and collision avoidance system of such commercial aircraft.
+
+**(b) Waiver Authority.—** The Secretary of a military department, with the concurrence of the Secretary of Transportation, may waive the limitation under subsection (a) with respect to the operation of an aircraft if that Secretary—
+
+(1) determines that—
+
+  (A) such waiver is in the national security interests of the United States; and
+
+  (B) a commercial aviation compatibility risk assessment has been conducted with respect to the operation of the aircraft pursuant to the waiver to mitigate the risk associated with such operation; and
+
+(2) in the case of a waiver to be in effect for a period exceeding 30 days, submits to appropriate congressional committees notice of such waiver, including a copy of the applicable commercial aviation compatibility risk assessment specified in paragraph (1)(B).
+
+**(c) Limitation on Delegation.—** The Secretary of a military department may not delegate the waiver authority under subsection (b) to an official whose rank is below a general or flag officer.
+
+**(d) Definitions.—**
+
+(1) The term “appropriate congressional committees” means—
+
+  (A) the Committee on Armed Services and the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+  (B) the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate.
+
+(2) The term “covered airspace” means the Washington, DC Metropolitan Area Special Flight Rules Area, as such term is defined in section 93.335 of title 14, Code of Federal Regulations, or any successor regulation.

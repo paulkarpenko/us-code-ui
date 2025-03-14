@@ -290,7 +290,7 @@ This subsection shall not be construed to authorize the withholding of informati
 
   (D) Section 301(c) of the Foreign Service Act of 1980.
 
-  (E) Sections 106(f),11 See References in Text note below. 7281(e), and 7802(5) 1 of title 38.
+  (E) Sections 106(f),22 See References in Text note below. 7281(e), and 7802(5) 2 of title 38.
 
   (F) [Section 1005(a) of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section1005/a&num=0&edition=prelim).
 

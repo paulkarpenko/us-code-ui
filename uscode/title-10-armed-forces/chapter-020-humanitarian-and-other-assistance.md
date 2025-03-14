@@ -471,7 +471,7 @@ Pub. L. 112–239, div. A, title X, § 1053, Jan. 2, 2013, 126 Stat. 1937, provi
 
 <a id="section-408"></a>
 ## § 408. Assistance in support of Department of Defense accounting for missing United States Government personnel
-**(a) In General.—** The Secretary of Defense may provide assistance to any foreign nation to assist the Department of Defense with recovery of and accounting for missing United States Government personnel.
+**(a) In General.—** The Secretary of Defense may provide assistance to and procure goods and services from any foreign nation to assist the Department of Defense with recovery of and accounting for missing United States Government personnel.
 
 **(b) Types of Assistance.—** The assistance provided under subsection (a) may include the following:
 
@@ -489,7 +489,7 @@ Pub. L. 112–239, div. A, title X, § 1053, Jan. 2, 2013, 126 Stat. 1937, provi
 
 **(d) Limitations.—**
 
-(1) Except as provided in paragraph (2), the amount of assistance provided under this section in any fiscal year may not exceed $5,000,000.
+(1) Except as provided in paragraph (2), the amount of assistance provided under this section in any fiscal year may not exceed $15,000,000.
 
 (2) The Secretary may waive the limitation under paragraph (1) if the Secretary submits to the congressional defense committees notice of the waiver together with the reasons why the waiver is necessary.
 
@@ -508,6 +508,10 @@ Pub. L. 112–239, div. A, title X, § 1053, Jan. 2, 2013, 126 Stat. 1937, provi
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 1041(1), inserted “and procure goods and services from” after “assistance to”.
+
+Subsec. (d)(1). Pub. L. 119–60, § 1041(2), substituted “$15,000,000” for “$5,000,000”.
+
 2023—Pub. L. 118–31, § 1042(a)(1), substituted “Assistance in support of” for “Equipment and training of foreign personnel to assist in” in section catchline.
 
 Subsec. (b)(5). Pub. L. 118–31, § 1042(a)(2), added par. (5).

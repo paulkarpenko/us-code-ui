@@ -2,7 +2,7 @@
 title: 54
 heading: NATIONAL PARK SERVICE AND RELATED PROGRAMS
 positive_law: true
-sections: 363
+sections: 366
 chapters: 4
 ---
 # Title 54. NATIONAL PARK SERVICE AND RELATED PROGRAMS

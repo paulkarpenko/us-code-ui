@@ -502,11 +502,13 @@ Pub. L. 112–154, title II, § 204(c), Aug. 6, 2012, 126 Stat. 1177, provided t
 
 **(d) Regulations.—** Assistance under this section shall be provided in accordance with such regulations as the Secretary may prescribe.
 
-**(e) Termination.—** No assistance may be provided under this section after September 30, 2025.
+**(e) Termination.—** No assistance may be provided under this section after September 30, 2026.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (e). Pub. L. 119–37 substituted “September 30, 2026” for “September 30, 2025”.
+
 2024—Subsec. (e). Pub. L. 118–83 substituted “September 30, 2025” for “December 31, 2024”.
 
 2022—Subsec. (e). Pub. L. 117–180 substituted “December 31, 2024” for “December 31, 2022”.
@@ -530,6 +532,9 @@ Subsec. (b). Pub. L. 110–289, § 2602(b)(3)(C), substituted “an individual�
 Subsec. (c). Pub. L. 110–289, § 2602(b)(3)(A), substituted “individual” for “veteran”.
 
 Subsec. (e). Pub. L. 110–289, § 2604, substituted “after December 31, 2011” for “after the end of the five-year period that begins on the date of the enactment of the Veterans’ Housing Opportunity and Benefits Improvement Act of 2006”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under [section 111A of this title](./chapter-001-general.md#section-111a).
 
 #### Effective Date of 2012 Amendment
 Pub. L. 112–154, title II, § 205(d), Aug. 6, 2012, 126 Stat. 1178, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 6, 2012] and shall apply with respect to assistance furnished in accordance with [section 2102A of title 38](./chapter-021-specially-adapted-housing-for-disabled-veterans.md#section-2102a), United States Code, on or after that date.”
@@ -777,11 +782,13 @@ The Secretary shall provide for the coordination of the administration of progra
 
 **(f) Funding.—** From amounts appropriated to the Department for readjustment benefits for each fiscal year for which the Secretary is authorized to make a grant under this section, $1,000,000 shall be available for that fiscal year for the purposes of the program under this section.
 
-**(g) Duration.—** The authority to make a grant under this section shall begin on October 1, 2011, and shall terminate on September 30, 2025.
+**(g) Duration.—** The authority to make a grant under this section shall begin on October 1, 2011, and shall terminate on September 30, 2026.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (g). Pub. L. 119–37 substituted “September 30, 2026” for “September 30, 2025”.
+
 2024—Subsec. (g). Pub. L. 118–83 substituted “September 30, 2025” for “September 30, 2024”.
 
 2022—Subsec. (g). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”.
@@ -793,6 +800,9 @@ The Secretary shall provide for the coordination of the administration of progra
 2017—Subsec. (g). Pub. L. 115–62 substituted “September 30, 2018” for “September 30, 2017”.
 
 2016—Subsec. (g). Pub. L. 114–228 substituted “September 30, 2017” for “September 30, 2016”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under [section 111A of this title](./chapter-001-general.md#section-111a).
 
 
 <a id="section-2109"></a>

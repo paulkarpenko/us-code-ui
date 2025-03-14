@@ -402,7 +402,32 @@ In subsection (b), the word “contemplated” is omitted as unnecessary.
 
 **(g) Audits.—** The Comptroller General shall audit the Fund in accordance with the provisions of chapter 35 of title 31 and report the results of the audits.
 
+**(h) 11 See Delayed Effective Date of Amendment note below. Requirement for Annual Report to Congress.—** Not later than September 30 of each year, the Administrator shall submit to the Committee on Oversight and Accountability of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes, at a minimum, a list of each program within the Technology Transformation Services funded by expenditures during the previous fiscal year, or that have been funded by expenditures in the previous 5-year period, including the following:
+
+(1) An explanation of the program.
+
+(2) Information about how the program is funded, including the amount of expenditures the program received in the previous fiscal year and total amount.
+
+(3) The amount of reimbursements associated with or anticipated to be associated with the program from another source of funds or another agency, if applicable.
+
+(4) A description of projects or initiatives associated with the program, including—
+
+  (A) information about when the projects or initiatives were initiated and completed; and
+
+  (B) funding information, to the extent practicable.
+
+(5) Any additional information, data, or analysis used to determine the information estimated within the report, if applicable.
+
+**(i) 1 Definitions.—** In this section:
+
+(1) **Administrator.—** — The term “Administrator” means the Administrator of General Services.
+
+(2) **Expenditure.—** — The term “expenditure” means any obligation of funds from the Acquisition Services Fund for programs referenced in subsection (h).
+
 ### Statutory Notes
+
+#### Delayed Effective Date of Amendment
+Amendment by section 2(b) of Pub. L. 118–182 adding subsecs. (h) and (i) of this section effective on the commencement of the first fiscal year after Dec. 23, 2024. See 2024 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -434,6 +459,8 @@ In subsection (e), the text of 40:756b(b) and the words “Notwithstanding any o
 In subsection (f)(2), the words “on and after June 5, 1981” are omitted as obsolete.
 
 #### Amendments
+2024—Subsecs. (h), (i). Pub. L. 118–182 added subsecs. (h) and (i).
+
 2006—Pub. L. 109–313, § 3(h)(2), substituted “Acquisition Services Fund” for “General Supply Fund” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 109–313, § 3(d), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) related to the existence and composition, respectively, of the General Supply Fund.
@@ -450,6 +477,9 @@ Subsec. (f). Pub. L. 109–313, § 3(g), amended heading and text of subsec. (f)
 
 #### Change of Name
 “Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (c)(1)(A)(i) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–182, § 2(c), Dec. 23, 2024, 138 Stat. 2624, provided that: “The amendment made by this Act [amending this section and [section 323 of this title](./chapter-003-organization-of-general-services-administration.md#section-323)] shall take effect on the commencement of the first fiscal year after the date of the enactment of this Act [Dec. 23, 2024].”
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section 6 of Pub. L. 109–313, set out as a note under [section 5316 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim), Government Organization and Employees.
@@ -491,6 +521,28 @@ Repeal effective 60 days after Oct. 6, 2006, see section 6 of Pub. L. 109–313,
 
 **(f)** The Administrator may enter into agreements with federal agencies to provide services through the Fund on a fully reimbursable basis.
 
+**(g) 33 See Delayed Effective Date of Amendment note below. Requirement for Annual Report to Congress.—** Not later than September 30 of each year, the Administrator shall submit to the Committee on Oversight and Accountability of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes, at a minimum, a list of each program funded by expenditures during the previous fiscal year, or that have been funded by expenditures in the previous 5-year period, including the following:
+
+(1) An explanation of the program.
+
+(2) Information about how the program is funded, including the amount of expenditures the program received in the previous fiscal year and total amount.
+
+(3) The amount of reimbursements associated with or anticipated to be associated with the program from another source of funds or another agency, if applicable.
+
+(4) A description of projects or initiatives associated with the program, including—
+
+  (A) information about when the projects or initiatives were initiated and completed; and
+
+  (B) funding information, to the extent practicable.
+
+(5) Any additional information, data, or analysis used to determine the information estimated within the report, if applicable.
+
+**(h) 3 Definitions.—** In this section:
+
+(1) **Administrator.—** — The term “Administrator” means the Administrator of General Services.
+
+(2) **Expenditure.—** — The term “expenditure” means any obligation of funds from the Fund.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -508,8 +560,13 @@ In subsection (b), the words “for fiscal year 1983 and subsequent fiscal years
 In subsection (e), the words “Notwithstanding any other provision of law” and “during fiscal year 1998 and hereafter” are omitted as unnecessary.
 
 #### Amendments
+2024—Subsecs. (g), (h). Pub. L. 118–182 added subsecs. (g) and (h).
+
 2022—Subsec. (f). Pub. L. 117–103 added subsec. (f).
 
 2009—Subsec. (a). Pub. L. 111–8 substituted “Federal Citizen Services” for “Consumer Information Center” and struck out “consumer” after “Federal Government”.
 
 Subsec. (b)(1). Pub. L. 111–8 substituted “Federal Citizen Services” for “Consumer Information Center”.
+
+#### Effective Date of 2024 Amendment
+Amendment by Pub. L. 118–182 effective on the commencement of the first fiscal year after Dec. 23, 2024, see section 2(c) of Pub. L. 118–182, set out as a note under [section 321 of this title](./chapter-003-organization-of-general-services-administration.md#section-321).

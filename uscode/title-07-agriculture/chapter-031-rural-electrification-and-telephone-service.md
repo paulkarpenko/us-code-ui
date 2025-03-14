@@ -1748,7 +1748,7 @@ Pub. L. 115–334, title VI, § 6505(b), Dec. 20, 2018, 132 Stat. 4775, provided
 
 <a id="section-940c-2"></a>
 ## § 940c–2. Rural development loans and grants
-**(a) In general** The Secretary shall provide grants or zero interest loans to borrowers under this chapter for the purpose of promoting rural economic development and job creation projects, including funding for project feasibility studies, start-up costs, incubator projects, and other reasonable expenses for the purpose of fostering rural development.
+**(a) In general** The Secretary shall provide grants or zero interest loans to borrowers under this chapter for the purpose of promoting rural economic development and job creation projects, including funding for project feasibility studies, start-up costs, incubator projects, and other reasonable expenses for the purpose of fostering rural development.11 See Additional Funding for Fiscal Year 2024 note below.
 
 **(b) Repayments** In the case of zero interest loans, the Secretary shall establish such reasonable repayment terms as will encourage borrower participation.
 
@@ -1778,8 +1778,14 @@ Pub. L. 115–334, title VI, § 6505(b), Dec. 20, 2018, 132 Stat. 4775, provided
 #### Effective Date of 2023 Amendment
 Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
-#### Additional Funding for Fiscal Year 2024
-Pub. L. 118–42, div. B, title VII, § 780, Mar. 9, 2024, 138 Stat. 118, provided that: “Section 313B(a) of the Rural Electrification Act of 1936 ([7 U.S.C. 940c–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section940c–2/a&num=0&edition=prelim)), shall be applied for fiscal year 2024 and each fiscal year thereafter until the specified funding has been expended as if the following were inserted after the final period: ‘In addition, the Secretary shall use $9,465,000 of the funds available to carry out this section in fiscal year 2024 for an additional amount for the same purpose and under the same terms and conditions as the Rural Business Development Grants authorized by section 310B of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1932(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1932/c&num=0&edition=prelim)).’.”
+#### Additional Funding for Fiscal Year 2026
+Pub. L. 119–37, div. B, title VII, § 760, Nov. 12, 2025, 139 Stat. 554, provided that: “(a) Section 313B(a) of the Rural Electrification Act of 1936 ([7 U.S.C. 940c–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section940c–2/a&num=0&edition=prelim)), shall be applied for fiscal year 2026 and each fiscal year thereafter until the specified funding has been expended as if the following were inserted after the final period: ‘In addition, the Secretary shall use $9,465,000 of the funds available to carry out this section in fiscal year 2024 for an additional amount for the same purpose and under the same terms and conditions as the Rural Business Development Grants authorized by section 310B of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1932(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1932/c&num=0&edition=prelim)) and shall use $9,953,000 of the funds available to carry out this section in fiscal year 2026 for an additional amount for the same purpose and under the same terms and conditions as the Rural Business Development Grants authorized by section 310B of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1932(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1932/c&num=0&edition=prelim)).’.”
+
+“(b) Section 780 of division B of Public Law 118–42 [see below] and such section as continued in effect as an authority and condition under section 1101(a)(1) of Public Law 119–4 [139 Stat. 10] shall no longer apply.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 118–42, div. B, title VII, § 780, Mar. 9, 2024, 138 Stat. 118.
 
 #### Implementation of Loan and Grant Program
 Pub. L. 115–334, title VI, § 6504(e), Dec. 20, 2018, 132 Stat. 4774, provided that: “(1) Subject to section 313B(e) of the Rural Electrification Act of 1936 (as added by this section) [[7 U.S.C. 940c–2(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section940c–2/e&num=0&edition=prelim)], the Secretary of Agriculture shall carry out the loan and grant program required under such section in the same manner as the loan and grant program under section 313(b)(2) of such Act [[7 U.S.C. 940c(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section940c/b/2&num=0&edition=prelim)] is carried out on the day before the date of the enactment of this Act [Dec. 20, 2018], until such time as any regulations necessary to carry out the amendments made by this section [enacting this section and amending sections 912, 940c, and 940c–1 of this title] are fully implemented. “(2) Paragraph (1) shall take effect on the date of the enactment of this Act.”
@@ -2698,7 +2704,7 @@ Section was enacted as part of the Agriculture Improvement Act of 2018, and not 
 
 <a id="section-950cc"></a>
 ## § 950cc. Public notice, assessments, and reporting requirements
-**(a) Notice requirements** The Secretary shall promptly make available to the public, 11 So in original. The comma probably should not appear. a fully searchable database on the website of the Rural Utilities Service that contains information on all retail broadband projects provided assistance or for which assistance is sought that are administered by the Secretary, including, at a minimum—
+**(a) Notice requirements** The Secretary shall promptly make available to the public,11 So in original. The comma probably should not appear. a fully searchable database on the website of the Rural Utilities Service that contains information on all retail broadband projects provided assistance or for which assistance is sought that are administered by the Secretary, including, at a minimum—
 
 (1) notice of each application for assistance describing the application, including—
 

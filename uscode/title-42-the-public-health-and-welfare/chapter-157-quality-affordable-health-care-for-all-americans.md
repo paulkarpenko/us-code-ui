@@ -112,7 +112,7 @@ Pub. L. 113–235, div. M, § 1, Dec. 16, 2014, 128 Stat. 2767, provided that: �
 Pub. L. 111–148, § 1(a), Mar. 23, 2010, 124 Stat. 119, provided that: “This Act [see Tables for classification] may be cited as the ‘Patient Protection and Affordable Care Act’.”
 
 #### Executive Order No. 13765
-Ex. Ord. No. 13765, Jan. 20, 2017, 82 F.R. 8351, which related to minimizing the economic burden of the Patient Protection and Affordable Care Act (Pub. L. 111–148) pending repeal, was revoked by Ex. Ord. No. 14009, § 4(a), Jan. 28, 2021, 86 F.R. 7794, set out below.
+Ex. Ord. No. 13765, Jan. 20, 2017, 82 F.R. 8351, which related to minimizing the economic burden of the Patient Protection and Affordable Care Act (Pub. L. 111–148) pending repeal, was revoked by Ex. Ord. No. 14009, § 4(a), Jan. 28, 2021, 86 F.R. 7794, formerly set out below.
 
 #### Executive Order No. 13813
 Ex. Ord. No. 13813, Oct. 12, 2017, 82 F.R. 48385, which related to promoting association health plans, short-term, limited-duration insurance, and health reimbursement arrangements, was revoked by Ex. Ord. No. 14009, § 4(a), Jan. 28, 2021, 86 F.R. 7794, set out below.
@@ -285,99 +285,38 @@ Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impa
 
 Donald J. Trump.
 
-#### Ex. Ord. No. 14009. Strengthening Medicaid and the Affordable Care Act
-Ex. Ord. No. 14009, Jan. 28, 2021, 86 F.R. 7793, provided:
+#### Executive Order No. 14009
+Ex. Ord. No. 14009, Jan. 28, 2021, 86 F.R. 7793, which related to a special enrollment period in response to the COVID–19 pandemic and increasing access and affordability of healthcare under and the Patient Protection and Affordable Care Act (Pub. L. 111–148), was revoked by Ex. Ord. No. 14148, § 2(t), Jan. 20, 2025, 90 F.R. 8238.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+#### Executive Order No. 14070
+Ex. Ord. No. 14070, Apr. 5, 2022, 87 F.R. 20689, which related to expanding the availability of affordable health coverage, improving the quality of coverage, strengthening benefits, and helping more Americans enroll in quality health coverage, was revoked by Ex. Ord. No. 14148, § 2(uu), Jan. 20, 2025, 90 F.R. 8239.
 
-Section 1. Policy. In the 10 years since its enactment, the [Patient Protection and] Affordable Care Act (ACA) [Pub. L. 111–148] has reduced the number of uninsured Americans by more than 20 million, extended critical consumer protections to more than 100 million people, and strengthened and improved the Nation’s healthcare system. At the same time, millions of people who are potentially eligible for coverage under the ACA or other laws remain uninsured, and obtaining insurance benefits is more difficult than necessary. For these reasons, it is the policy of my Administration to protect and strengthen Medicaid and the ACA and to make high-quality healthcare accessible and affordable for every American.
+#### Ex. Ord. No. 14221. Making America Healthy Again by Empowering Patients With Clear, Accurate, and Actionable Healthcare Pricing Information
+Ex. Ord. No. 14221, Feb. 25, 2025, 90 F.R. 11005, provided:
 
-Sec. 2. Special Enrollment Period. The coronavirus disease 2019 (COVID–19) pandemic has triggered a historic public health and economic crisis. In January of 2020, as the COVID–19 pandemic was spreading, the Secretary of Health and Human Services declared a public health emergency. In March of 2020, the President declared a national emergency. Although almost a year has passed, the emergency continues—over 5 million Americans have contracted the disease in January 2021, and thousands are dying every week. Over 30 million Americans remain uninsured, preventing many from obtaining necessary health services and treatment. Black, Latino, and Native American persons are more likely to be uninsured, and communities of color have been especially hard hit by both the COVID–19 pandemic and the economic downturn. In light of the exceptional circumstances caused by the ongoing COVID–19 pandemic, the Secretary of Health and Human Services shall consider establishing a Special Enrollment Period for uninsured and under-insured Americans to seek coverage through the Federally Facilitated Marketplace, pursuant to existing authorities, including sections 18031 and 18041 of title 42, United States Code, and section 155.420(d)(9) of title 45, Code of Federal Regulations, and consistent with applicable law.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:
 
-Sec. 3. Immediate Review of Agency Actions. (a) The Secretary of the Treasury, the Secretary of Labor, the Secretary of Health and Human Services, and the heads of all other executive departments and agencies with authorities and responsibilities related to Medicaid and the ACA (collectively, heads of agencies) shall, as soon as practicable, review all existing regulations, orders, guidance documents, policies, and any other similar agency actions (collectively, agency actions) to determine whether such agency actions are inconsistent with the policy set forth in section 1 of this order. As part of this review, the heads of agencies shall examine the following:
+Section 1. Purpose. During my first term, my Administration took historic steps to correct a fundamental wrong within the American healthcare system. For far too long, prices were hidden from patients and employers, with inadequate recourse available to individuals looking to shop for care or obtain pricing information from a healthcare provider in advance of a visit or procedure. These opaque pricing arrangements allowed powerful entities, such as hospitals and insurance companies, to operate with insufficient accountability regarding their pricing practices, resulting in patients, employers, and taxpayers shouldering the burden of inflated healthcare costs.
 
-(i) policies or practices that may undermine protections for people with pre-existing conditions, including complications related to COVID–19, under the ACA;
+Pursuant to Executive Order 13877 of June 24, 2019 (Improving Price and Quality Transparency in American Healthcare to Put Patients First) [set out above], my Administration issued paradigm-shifting regulations to put patients first by requiring hospitals and health plans to deliver meaningful price information to the American people. These regulations require hospitals to maintain a consumer-friendly display of pricing information for up to 300 shoppable services and a machine-readable file with negotiated rates for every single service the hospital provides; health plans to post their negotiated rates with providers as well as their out-of-network payments to providers and the actual prices they or their pharmacy benefit manager pay for prescription drugs; and health plans to maintain a consumer-facing internet tool through which individuals can access price information.
 
-(ii) demonstrations and waivers, as well as demonstration and waiver policies, that may reduce coverage under or otherwise undermine Medicaid or the ACA;
+One economic analysis from 2023 estimated the impact of these regulations, if fully implemented, could result in as much as $80 billion in healthcare savings for consumers, employers, and insurers by 2025. Another report from 2024 suggested healthcare price transparency could help employers reduce healthcare costs by 27 percent across 500 common healthcare services. Recent data has found the top 25 percent of most expensive healthcare service prices have dropped by 6.3 percent per year following the initial implementation of price transparency during my first term.
 
-(iii) policies or practices that may undermine the Health Insurance Marketplace or the individual, small group, or large group markets for health insurance in the United States;
+Unfortunately, progress on price transparency at the Federal level has stalled since the end of my first term. Hospitals and health plans were not adequately held to account when their price transparency data was incomplete or not even posted at all. The Biden Administration failed to take sufficient steps to fully enforce my Administration’s requirement that would end the opaque nature of drug prices by ensuring health plans publicly post the true prices they pay for prescription drugs.
 
-(iv) policies or practices that may present unnecessary barriers to individuals and families attempting to access Medicaid or ACA coverage, including for mid-year enrollment; and
+The American people deserve better. Making America healthy again will require empowering individuals with the best information possible to inform their life and healthcare choices. By building on the historic efforts of my first term, my Administration will make more meaningful price information available to patients to support a more competitive, innovative, affordable, and higher quality healthcare system.
 
-(v) policies or practices that may reduce the affordability of coverage or financial assistance for coverage, including for dependents.
+Sec. 2. Policy. It is the policy of the United States to put patients first and ensure they have the information they need to make well-informed healthcare decisions. The Federal Government will continue to promote universal access to clear and accurate healthcare prices and will take all necessary steps to improve existing price transparency requirements; increase enforcement of price transparency requirements; and identify opportunities to further empower patients with meaningful price information, potentially including through the expansion of existing price transparency requirements.
 
-(b) Heads of agencies shall, as soon as practicable and as appropriate and consistent with applicable law, consider whether to suspend, revise, or rescind—and, as applicable, publish for notice and comment proposed rules suspending, revising, or rescinding—those agency actions identified as inconsistent with the policy set forth in section 1 of this order.
+Sec. 3. Fulfilling the Promise of Radical Transparency. The Secretary of the Treasury, the Secretary of Labor, and the Secretary of Health and Human Services shall take all necessary and appropriate action to rapidly implement and enforce the healthcare price transparency regulations issued pursuant to Executive Order 13877, including, within 90 days of the date of this order [Feb. 25, 2025], action to:
 
-(c) Heads of agencies shall, as soon as practicable and as appropriate and consistent with applicable law, consider whether to take any additional agency actions to more fully enforce the policy set forth in section 1 of this order.
+(a) require the disclosure of the actual prices of items and services, not estimates;
 
-Sec. 4. Revocation of Certain Presidential Actions and Review of Associated Agency Actions. (a) Executive Order 13765 of January 20, 2017 (Minimizing the Economic Burden of the Patient Protection and Affordable Care Act Pending Repeal) [formerly set out above], and Executive Order 13813 of October 12, 2017 (Promoting Healthcare Choice and Competition Across the United States) [formerly set out above], are revoked.
+(b) issue updated guidance or proposed regulatory action ensuring pricing information is standardized and easily comparable across hospitals and health plans; and
 
-(b) As part of the review required under section 3 of this order, heads of agencies shall identify existing agency actions related to or arising from Executive Orders 13765 and 13813. Heads of agencies shall, as soon as practicable, consider whether to suspend, revise, or rescind—and, as applicable, publish for notice and comment proposed rules suspending, revising, or rescinding—any such agency actions, as appropriate and consistent with applicable law and the policy set forth in section 1 of this order.
+(c) issue guidance or proposed regulatory action updating enforcement policies designed to ensure compliance with the transparent reporting of complete, accurate, and meaningful data.
 
-Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.
-
-#### Ex. Ord. No. 14070. Continuing To Strengthen Americans’ Access to Affordable, Quality Health Coverage
-Ex. Ord. No. 14070, Apr. 5, 2022, 87 F.R. 20689, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. Policy. On January 28, 2021, I signed Executive Order 14009 (Strengthening Medicaid and the Affordable Care Act) [set out above], establishing that it is the policy of my Administration to protect and strengthen Medicaid and the Affordable Care Act (ACA) and to make high-quality healthcare accessible and affordable for every American. It directs executive departments and agencies (agencies) with authorities and responsibilities related to Medicaid and the ACA to review existing regulations, orders, guidance documents, policies, and any other similar agency actions (collectively, agency actions) to determine whether such agency actions are inconsistent with this policy.
-
-Consistent with Executive Order 14009, agencies have taken numerous actions to protect and strengthen Medicaid and the ACA, including:
-
-(a) facilitating the expansion of Medicaid in Missouri and Oklahoma to individuals below 138 percent of the Federal poverty level, which is projected to cover nearly half a million people;
-
-(b) extending Medicaid eligibility to new populations in order to allow pregnant individuals to retain their Medicaid coverage for up to 1 year postpartum, including through initiatives in Illinois, New Jersey, Virginia, and Louisiana;
-
-(c) operating a Special Enrollment Period during 2021 that allowed 2.8 million Americans to newly enroll in coverage under the ACA;
-
-(d) extending the length of the HealthCare.gov Open Enrollment Period by 1 month and operating the most successful Open Enrollment Period ever, with a historic 14.5 million Americans enrolling in coverage through the ACA Marketplaces and an additional 1 million people enrolling in Basic Health Program coverage, resulting in a 20 percent increase over the prior year across both programs combined;
-
-(e) increasing outreach and enrollment funding for organizations that help Americans apply for ACA and Medicaid coverage, including quadrupling the number of trained Navigators to more than 1,500 people in States using HealthCare.gov;
-
-(f) lowering maximum out-of-pocket costs for consumers with employer and ACA coverage by $400 in 2022;
-
-(g) reducing paperwork burdens for people enrolling in Medicaid and the ACA by eliminating unnecessary documentation requirements;
-
-(h) allowing low-income Americans to enroll in affordable ACA coverage year-round;
-
-(i) strengthening Medicaid and ACA section 1332 [[42 U.S.C. 18052](./chapter-157-quality-affordable-health-care-for-all-americans.md#section-18052)] waiver policies to partner with States to develop innovative coverage options, strengthen benefits, and lower costs;
-
-(j) proposing rules that would better ensure comprehensive and standardized coverage and improve the adequacy of ACA provider networks; and
-
-(k) making efforts to improve the affordability of ACA coverage for families by proposing rules to correct a regulatory gap that prevents family members from accessing ACA subsidies despite very high premiums for coverage through an employer.
-
-On March 11, 2021, I signed into law the American Rescue Plan Act of 2021 (Public Law 117–2), which will further strengthen Medicaid and the ACA in numerous ways, including by making ACA coverage more affordable for 9 million Americans through enhanced ACA subsidies, incentivizing States to adopt the ACA’s Medicaid expansion, making it easier for States to extend postpartum Medicaid coverage, establishing new options for States to establish mobile crisis intervention services teams to help provide services to Medicaid beneficiaries experiencing a behavioral health crisis, and increasing Medicaid funding for home- and community-based services to strengthen and expand access to services for millions of seniors and people with disabilities who need care as well as to help States strengthen their programs.
-
-My Administration has made significant progress in making healthcare more affordable and accessible to millions of Americans. From the end of 2020 to September 2021, one in seven uninsured Americans gained coverage, leaving the uninsured rate at nearly an all-time low. Despite this progress, nearly 4 million Americans continue to be locked out of Medicaid expansion because they reside in 1 of the 12 States that have failed to adopt the ACA’s Medicaid expansion. In addition, millions more continue to struggle to obtain the care they need, to go without health coverage, or to be enrolled in coverage that is insufficient to meet their needs. The effects of being uninsured or underinsured can be devastating financially, as families without access to affordable coverage may accrue high levels of medical debt.
-
-It remains the policy of my Administration to protect and strengthen Medicaid and the ACA and to make high-quality healthcare accessible and affordable for every American. Agencies with authorities and responsibilities related to Medicaid and the ACA are continuing their review of existing agency actions under Executive Order 14009.
-
-Sec. 2. Agency Responsibilities. In addition to taking the actions directed pursuant to Executive Order 14009, agencies (as described in [section 3502(1) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/1&num=0&edition=prelim), United States Code, except for the agencies described in [section 3502(5) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/5&num=0&edition=prelim), United States Code) with responsibilities related to Americans’ access to health coverage shall review agency actions to identify ways to continue to expand the availability of affordable health coverage, to improve the quality of coverage, to strengthen benefits, and to help more Americans enroll in quality health coverage. As part of this review, the heads of such agencies shall examine the following:
-
-(a) policies or practices that make it easier for all consumers to enroll in and retain coverage, understand their coverage options, and select appropriate coverage;
-
-(b) policies or practices that strengthen benefits and improve access to healthcare providers;
-
-(c) policies or practices that improve the comprehensiveness of coverage and protect consumers from low-quality coverage;
-
-(d) policies or practices that expand eligibility and lower costs for coverage in the ACA Marketplaces, Medicaid, Medicare, and other programs;
-
-(e) policies or practices that help improve linkages between the healthcare system and other stakeholders to address health-related needs; and
-
-(f) policies or practices that help reduce the burden of medical debt on households.
-
-Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
 (i) the authority granted by law to an executive department or agency, or the head thereof; or
 
@@ -387,7 +326,7 @@ Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impa
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-J.R. Biden, Jr.
+Donald J. Trump.
 
 
 <a id="section-18002"></a>
@@ -945,7 +884,7 @@ This title, where footnoted in text, is title I of Pub. L. 111–148, Mar. 23, 2
 ### Statutory Notes
 
 #### References in Text
-This title, referred to in subsecs. (a), (b)(5), (d)(2)(C), (4), and (e)(2)(B), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
+This title, referred to in subsecs. (a), (b)(5), (c)(3), (d)(2)(C), (4), and (e)(2)(B), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
 The Public Health Service Act, referred to in subsec. (d)(2)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
@@ -2837,6 +2776,35 @@ Pub. L. 117–2, title II, § 2305(b), Mar. 11, 2021, 135 Stat. 40, provided tha
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 119–21, title VII, § 71301(c)(1), (3), July 4, 2025, 139 Stat. 322, provided that, applicable with respect to plan years beginning on or after Jan. 1, 2027, this section is amended as follows:
+
+(1) in subsection (a)—
+
+(A) in paragraph (1), by striking “and [section 36B(e) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36B/e&num=0&edition=prelim)”; and
+
+(B) in paragraph (2)—
+
+(I) in subparagraph (A), by striking “and” at the end;
+
+(II) in subparagraph (B), by adding “and” at the end; and
+
+(III) by adding at the end the following new subparagraph:
+
+“(C) in the case such individual is an alien lawfully present in the United States, whether such individual is an eligible alien (within the meaning of [section 36B(e)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36B/e/2&num=0&edition=prelim));”;
+
+(2) in subsection (b)(3), by adding at the end the following new subparagraph:
+
+(D) Immigration status
+
+“In the case the individual’s eligibility is based on an attestation of the enrollee’s immigration status, an attestation that such individual is an eligible alien (within the meaning of 36B(e)(2) of title 26).”; and
+
+(3) in subsection (c)(2)(B)(ii), by adding at the end the following new subclause:
+
+“(III) In the case of an individual described in clause (i)(I) with respect to whom a premium tax credit under [section 36B of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36B&num=0&edition=prelim) is being claimed, the attestation that the individual is an eligible alien (within the meaning of [section 36B(e)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36B/e/2&num=0&edition=prelim)).”
+
+See 2025 Amendment notes below.
+
 #### References in Text
 Sections 36B(c)(2)(C) and 5000A(e)(2) of title 26, section 6103(l)(21) of title 26, and [section 5000A of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section5000A&num=0&edition=prelim), referred to in subsecs. (a)(3) and (b)(3)(A), (5), were in the original “sections 36B(c)(2)(C) and 5000A(e)(2)”, “section 6103(l)(21)”, and “section 5000A”, respectively, and were translated as if they had been followed by “of the Internal Revenue Code of 1986”, to reflect the probable intent of Congress.
 
@@ -2845,10 +2813,21 @@ This title, referred to in subsecs. (f)(2)(B) and (i)(1), is title I of Pub. L. 
 Section 1513, referred to in subsec. (i)(1), means section 1513 of Pub. L. 111–148.
 
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–21, § 71301(c)(1)(A)(i), struck out “and [section 36B(e) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36B/e&num=0&edition=prelim)” before “that the individual be a citizen”.
+
+Subsec. (a)(2)(C). Pub. L. 119–21, § 71301(c)(1)(A)(ii), added subpar. (C).
+
+Subsec. (b)(3)(D). Pub. L. 119–21, § 71301(c)(1)(B), added subpar. (D).
+
+Subsec. (c)(2)(B)(ii)(III). Pub. L. 119–21, § 71301(c)(1)(C), added subcl. (III).
+
 2016—Subsec. (b)(3)(B), (C). Pub. L. 114–255 added subpar. (B) and redesignated former subpar. (B) as (C).
 
 #### Change of Name
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VII, § 71301(c)(3), July 4, 2025, 139 Stat. 322, provided that: “The amendments made by this subsection [amending this section and [section 18082 of this title](./chapter-157-quality-affordable-health-care-for-all-americans.md#section-18082)] shall apply with respect to plan years beginning on or after January 1, 2027.”
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–255 applicable to applications for enrollment made after Dec. 31, 2016, see section 18001(a)(7)(F) of Pub. L. 114–255, set out in a note under [section 36B of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36B&num=0&edition=prelim), Internal Revenue Code.
@@ -2919,8 +2898,17 @@ Pub. L. 113–46, div. B, § 1001, Oct. 17, 2013, 127 Stat. 566, provided that: 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)
+Pub. L. 119–21, title VII, § 71301(c)(2), (3), July 4, 2025, 139 Stat. 322, provided that, applicable with respect to plan years beginning on or after Jan. 1, 2027, subsection (d) of this section is amended by inserting before the period at the end “, or credits under [section 36B of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36B&num=0&edition=prelim) for aliens who are not eligible aliens (within the meaning of [section 36B(e)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36B/e/2&num=0&edition=prelim))”. See 2025 Amendment note below.
+
 #### References in Text
 This subtitle, referred to in subsecs. (d) and (e), is subtitle E (§§ 1401–1421) of title I of Pub. L. 111–148, which enacted this subchapter and sections 36B and 45R of Title 26, Internal Revenue Code, amended [section 405 of this title](./chapter-007-social-security.md#section-405), sections 38, 196, 280C, 6103, and 7213 of Title 26, and [section 1324 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), Money and Finance, and enacted provisions set out as notes under sections 36B and 38 of Title 26. For complete classification of subtitle E to the Code, see Tables.
+
+#### Amendments
+2025—Subsec. (d). Pub. L. 119–21 inserted “, or credits under [section 36B of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36B&num=0&edition=prelim) for aliens who are not eligible aliens (within the meaning of [section 36B(e)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36B/e/2&num=0&edition=prelim))” before period at end.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–21 applicable with respect to plan years beginning on or after Jan. 1, 2027, see section 71301(c)(3) of Pub. L. 119–21, set out as a note under [section 18081 of this title](./chapter-157-quality-affordable-health-care-for-all-americans.md#section-18081).
 
 
 <a id="section-18083"></a>

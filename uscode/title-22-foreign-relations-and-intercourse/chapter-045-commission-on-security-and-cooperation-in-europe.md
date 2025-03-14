@@ -166,16 +166,18 @@ The personnel and administration committee may appoint and fix the pay of such o
 
 (1) For purposes of pay and other employment benefits, rights, and privileges and for all other purposes, any employee of the Commission shall be considered to be a congressional employee as defined in [section 2107 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2107&num=0&edition=prelim).
 
-(2) For purposes of section 3304(c)(1) 11 See References in Text note below. of title 5, staff personnel of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives.
+(2) For purposes of section 3304(i)(1) 11 See References in Text note below. of title 5, staff personnel of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives.
 
 (3) The provisions of paragraphs (1) and (2) of this subsection shall be effective as of June 3, 1976.
 
 ### Statutory Notes
 
 #### References in Text
-[Section 3304(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304/c&num=0&edition=prelim), referred to in subsec. (d)(2), was repealed and section 3304(d) was redesignated 3304(c) by Pub. L. 104–65, § 16(a), (b), Dec. 19, 1995, 109 Stat. 703.
+[Section 3304(i)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304/i/1&num=0&edition=prelim), referred to in subsec. (d)(2), probably means [section 3304(c)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304/c/1&num=0&edition=prelim) prior to the amendments made by Pub. L. 104–65, § 16(a), (b), Dec. 19, 1995, 109 Stat. 703, which struck out [section 3304(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304/c&num=0&edition=prelim) and redesignated [section 3304(d) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304/d&num=0&edition=prelim) as section 3304(c), and by Pub. L. 118–188, § 2(a)(1)(A), Dec. 23, 2024, 138 Stat. 2644, which redesignated [section 3304(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304/c&num=0&edition=prelim) as section 3304(i). Prior to these amendments, section 3304(c)(1) related to acquisition of competitive status by an individual who served for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives. After amendment, [section 3304(i)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304/i/1&num=0&edition=prelim) defines “technician”.
 
 #### Amendments
+2024—Subsec. (d)(2). Pub. L. 118–188 substituted “3304(i)(1)” for “3304(c)(1)”.
+
 1996—Subsec. (d)(2). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
 1985—Subsecs. (a), (b). Pub. L. 99–7, in amending section generally, added subsecs. (a) and (b).

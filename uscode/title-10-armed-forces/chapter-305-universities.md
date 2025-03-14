@@ -2,7 +2,7 @@
 title: 10
 chapter: '305'
 heading: UNIVERSITIES
-section_count: 5
+section_count: 6
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -12,7 +12,7 @@ source: >-
 
 (1) in the case of a grant, the grant is made using competitive procedures; and
 
-(2) in the case of a contract, the contract is awarded in accordance with section 2304 11 See References in Text note below. of this title (other than pursuant to subsection (c)(5) 1 of that section).
+(2) in the case of a contract, the contract is awarded in accordance with [section 3204 of this title](./chapter-221-planning-and-solicitation-generally.md#section-3204) (other than pursuant to subsection (a)(5) of that section).
 
 **(b)**
 
@@ -32,10 +32,9 @@ source: >-
 
 ### Statutory Notes
 
-#### References in Text
-[Section 2304 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2304), referred to in subsec. (a)(2), was repealed by Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. Subsecs. (a) to (l) of section 2304 were transferred to various provisions in chapter 221 of this title, with the same effective date and conditions, by Pub. L. 116–283, div. A, title XVIII, § 1811(c)(2)–(5), (d)(2)–(9), Jan. 1, 2021, 134 Stat. 4165–4170. Subsection (c)(5) of section 2304 was transferred to [section 3204(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3204/a/5&num=0&edition=prelim).
-
 #### Amendments
+2024—Subsec. (a)(2). Pub. L. 118–159 substituted “section 3204” for “section 2304” and “subsection (a)(5)” for “subsection (c)(5)”.
+
 2021—Pub. L. 116–283, § 1844(b), as added by Pub. L. 117–81, § 1701(u)(5)(B), renumbered [section 2361 of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2361) as this section.
 
 Pub. L. 116–283, § 1841(c), which directed the renumbering of [section 2361 of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2361) as section 4015 instead of this section, was amended generally by Pub. L. 117–81, § 1701(u)(2)(D), effective as if included therein, so that such renumbering was no longer directed.
@@ -96,20 +95,17 @@ Pub. L. 101–189, div. A, title II, § 252(b)(2), Nov. 29, 1989, 103 Stat. 1405
 #### Effective Date
 Pub. L. 100–456, div. A, title II, § 220(c), Sept. 29, 1988, 102 Stat. 1941, provided that: “The limitation specified in [section 2361(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2361/a&num=0&edition=prelim), United States Code [now [10 U.S.C. 4141(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4141/a&num=0&edition=prelim)] (as added by subsection (a)), on the authority of the Secretary of Defense to make grants and award contracts shall take effect on October 1, 1989.”
 
+#### National Security and Defense Artificial Intelligence Institute
+Pub. L. 119–60, div. A, title II, § 224, Dec. 18, 2025, 139 Stat. 782, provided that: “(a) In General.—The Secretary of Defense may establish one or more National Security and Defense Artificial Intelligence Institutes (referred to in this section as ‘Institutes’) at eligible host institutions. “(b) Institute Described.—A National Security and Defense Artificial Intelligence Institute referred to in subsection (a) is an artificial intelligence research institute that—“(1) is focused on a cross-cutting challenge or foundational science for artificial intelligence systems in the national security and defense sector; “(2) establishes partnerships among public and private organizations, including, as appropriate, Federal agencies, institutions of higher education, including community colleges, nonprofit research organizations, Federal laboratories, State, local, and Tribal governments, and industry, including the Defense Industrial Base and startup companies; “(3) has the potential to create an innovation ecosystem, or enhance existing ecosystems, to translate Institute research into applications and products used to enhance national security and defense capabilities; “(4) supports interdisciplinary research and development across multiple institutions of higher education and organizations; and “(5) supports workforce development in artificial intelligence related disciplines in the United States. “(c) Financial Assistance Authorized.—“(1) In general.—The Secretary of Defense may award financial assistance to an eligible host institution, or consortia thereof, to establish and support one or more Institutes. “(2) Use of funds.—Financial assistance awarded under paragraph (1) may be used by an Institute for—“(A) managing and making available to researchers accessible, curated, standardized, secure, and privacy protected data sets from the public and private sectors for the purposes of training and testing artificial intelligence systems and for research using artificial intelligence systems with regard to national security and defense; “(B) developing and managing testbeds for artificial intelligence systems, including sector-specific test beds, designed to enable users to evaluate artificial intelligence systems prior to deployment; “(C) conducting research and education activities involving artificial intelligence systems to solve challenges with national security implications; “(D) providing or brokering access to computing resources, networking, and data facilities for artificial intelligence research and development relevant to the Institute’s research goals; “(E) providing technical assistance to users, including software engineering support, for artificial intelligence research and development relevant to the Institute’s research goals; “(F) engaging in outreach and engagement to broaden participation in artificial intelligence research and the artificial intelligence workforce; and “(G) such other activities as may determined by the Secretary of Defense. “(3) Duration.—Financial assistance under paragraph (1) shall be awarded for a five-year period, and may be renewed for not more than one additional five-year period. “(4) Application for financial assistance.—An eligible host institution or consortia thereof seeking financial assistance under paragraph (1) shall submit to the Secretary of Defense an application at such time, in such manner, and containing such information as the Secretary may require. “(5) Competitive, merit review.—In awarding financial assistance under paragraph (1), the Secretary of Defense shall use a competitive, merit-based review process. “(6) Collaboration.—In awarding financial assistance under paragraph (1), the Secretary of Defense may collaborate with other departments and agencies of the Federal Government with missions that relate to or have the potential to be affected by the national security implications of artificial intelligence systems. “(7) Limitation.—No financial assistance authorized in this section shall be awarded to an entity outside of the United States. All recipients of financial assistance under this section, including subgrantees, shall be based in the United States and shall meet such other eligibility criteria as may be established by the Secretary of Defense. “(d) Definition.—In this section, the term ‘eligible host institution’ means—“(1) an institution of higher education (as defined in section 102 of the Higher Education Act of 1965 ([20 U.S.C. 1002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002&num=0&edition=prelim))) in the United States that conducts research sponsored by the Department of Defense; or “(2) a senior military college (as defined in [section 2111a(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2111a/f&num=0&edition=prelim), United States Code).”
+
 
 <a id="section-4142"></a>
 ## § 4142. Extramural acquisition innovation and research activities
-**(a) Establishment.—** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment and in coordination with the Under Secretary of Defense for Research and Engineering, shall establish and maintain extramural acquisition innovation and research activities as described in subsection (d), which shall include an acquisition research organization within a civilian college or university that is not owned or operated by the Federal Government that is established to provide and maintain essential research and development capabilities through a long-term strategic relationship with the Department of Defense.
+**(a) Establishment.—** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment and in coordination with the Under Secretary of Defense for Research and Engineering, shall establish and maintain extramural acquisition innovation and research activities as described in subsection (c), which shall include an acquisition research organization within a civilian college or university that is not owned or operated by the Federal Government that is established to provide and maintain essential research and development capabilities through a long-term strategic relationship with the Department of Defense.
 
 **(b) Goals.—** The goal of any activity conducted pursuant to this section shall be to provide academic analyses and policy alternatives for innovation in defense acquisition policies and practices to policymakers in the Federal Government by using a variety of means intended to widely disseminate research findings from such an activity, in addition to executing demonstration and pilot programs of innovative acquisition policies and practices.
 
-**(c) Director.—**
-
-(1) **Appointment.—** — Not later than June 1, 2020, the Secretary of Defense shall appoint an individual from civilian life to serve as the director for the extramural acquisition innovation and research activities required by this section (referred to in this section as the “Director”).
-
-(2) **Term.—** — The Director shall serve a term of five years.
-
-**(d) Activities.—** The activities described in this subsection are as follows:
+**(c) Activities.—** The activities described in this subsection are as follows:
 
 (1) Research on past and current defense acquisition policies and practices, commercial and international best practices, and the application of new technologies and analytical capabilities to improve acquisition policies and practices.
 
@@ -135,13 +131,21 @@ Pub. L. 100–456, div. A, title II, § 220(c), Sept. 29, 1988, 102 Stat. 1941, 
 
 (6) Engagement with researchers and acquisition professionals in the Department of Defense, as appropriate.
 
-**(e) Funding.—** Subject to the availability of appropriations, the Secretary may use amounts available in the Defense Acquisition Workforce and Development Account to carry out the requirements of this section.
+**(d) Funding.—** Subject to the availability of appropriations, the Secretary may use amounts available in the Defense Acquisition Workforce and Development Account to carry out the requirements of this section.
 
-**(f) Annual Report.—** Not later than September 30, 2021, and annually thereafter, the Director shall submit to the Secretary of Defense and the congressional defense committees a report describing the activities conducted under this section during the previous year.
+**(e) Annual Report.—** Not later than September 30, 2021, and annually thereafter, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the Secretary of Defense and the congressional defense committees a report describing the activities conducted under this section during the previous year.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159, § 835(3), substituted “subsection (c)” for “subsection (d)”.
+
+Subsecs. (c), (d). Pub. L. 118–159, § 835(1), (2), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which authorized the Secretary of Defense to appoint an individual from civilian life to serve as the director for the extramural acquisition innovation and research to serve a term of five years.
+
+Subsec. (e). Pub. L. 118–159, § 835(2), (4), redesignated subsec. (f) as (e) and substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Director”. Former subsec. (e) redesignated (d).
+
+Subsec. (f). Pub. L. 118–159, § 835(2), redesignated subsec. (f) as (e).
+
 2021—Pub. L. 116–283, § 1844(b), as added by Pub. L. 117–81, § 1701(u)(5)(B), renumbered [section 2361a of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2361a) as this section.
 
 Pub. L. 116–283, § 1842(b), which directed the renumbering of [section 2361a of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2361a) as section 4063 instead of this section, was amended by Pub. L. 117–81, § 1701(q)(1), (u)(3)(B), effective as if included therein, so that such renumbering was no longer directed.
@@ -150,6 +154,12 @@ Pub. L. 116–283, § 1842(b), which directed the renumbering of [section 2361a 
 Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Catalyst Pathfinder Program
+Pub. L. 119–60, div. A, title II, § 222, Dec. 18, 2025, 139 Stat. 781, provided that: “(a) Establishment.—Not later than January 1, 2027, the Secretary of the Army shall establish a program that—“(1) creates partnerships between operational units of the Army and research universities to provide a platform for university-based researchers and small businesses to collaborate directly with soldiers on innovative applied research and development; and “(2) integrates soldiers into the problem identification process and early-stage development efforts to ensure technical solutions are meeting soldier needs and enhancing lethality. “(b) Activities.—In carrying out the program, the Secretary shall—“(1) establish activities at select divisions of the Army to accelerate the incorporation of soldier insights into capability development; “(2) establish policies that streamline collaboration between soldiers, Army Transformation and Training Command, research universities, and small businesses; “(3) establish a governance board that includes representatives from the research, development, test, and evaluation, acquisition, requirements, and research university communities; and “(4) promote transition of successful program projects to Army programs. “(c) Inclusion in Future-years Defense Program.—The program shall be treated as a research, development, test, and evaluation activity in the Army’s input to the future-years defense program submitted to Congress under [section 221 of title 10](./chapter-009-defense-budget-matters.md#section-221), United States Code.”
+
+#### Prohibition on Modification of Indirect Cost Rates for Institutions of Higher Education and Nonprofit Organizations
+Pub. L. 119–60, div. A, title II, § 230, Dec. 18, 2025, 139 Stat. 788, provided that: “(a) Prohibition.—The Secretary of Defense may not change or modify indirect cost rates (otherwise known as facilities and administration cost rates) for Department of Defense grants and contracts awarded to institutions of higher education and nonprofit organizations (as those terms are defined in part 200 of title 2, Code of Federal Regulations) until the Secretary makes the certification described under subsection (b). “(b) Certification.—A certification under this subsection is a certification to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that the Department of Defense—“(1) working with the extramural research community, including representatives from universities, university associations, independent research institutes, and private foundations, has developed an alternative indirect cost model that has—“(A) reduced the indirect cost rate for all applicable institutions of higher education and nonprofit organizations (compared to indirect rates for fiscal year 2025); and “(B) optimized payment of legitimate and essential indirect costs involved in conducting Department of Defense research to ensure transparency and efficiency for Department of Defense-funded grants and contracts; and “(2) established an implementation plan with adequate transition time to change budgeting and accounting processes for affected institutions of higher education and nonprofit organizations.”
 
 #### Implementation of Section
 Pub. L. 116–92, div. A, title VIII, § 835(a)(3), Dec. 20, 2019, 133 Stat. 1496, provided that: “(A) Deadline.—Not later than March 1, 2020, the Secretary of Defense shall establish the extramural acquisition innovation and research activities required by [section 2361a of title 10](./chapter-chapter-139-chapter-chapter-139.md#section-2361a), United States Code [now [10 U.S.C. 4142](./chapter-305-universities.md#section-4142)] (as added by this subsection). “(B) Report.—“(i) In general.—Not later than January 1, 2021, the Director of the extramural acquisition innovation and research activities appointed under such section shall submit to the Secretary of Defense a report setting forth a plan, proposed budget, and schedule for execution of such activities. “(ii) Transmittal.—Not later than February 1, 2021, the Secretary of Defense shall transmit the report required under clause (i), together with whatever comments the Secretary considers appropriate, to the Committees on Armed Services of the Senate and the House of Representatives.”
@@ -258,6 +268,9 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
+#### Modifications to Defense Research Capacity Building Program
+Pub. L. 119–60, div. A, title II, § 223, Dec. 18, 2025, 139 Stat. 782, provided that: “(a) In General.—For fiscal year 2026 and each fiscal year thereafter, the Secretary of Defense shall ensure that all funding opportunities executed in Program Element 0601228D8Z, or successor program element, shall include separate funding solicitations each focused toward—“(1) Historically Black Colleges and Universities and Tribal Colleges and Universities; and “(2) Minority-Serving Institutions that are not described in paragraph (1). “(b) Definitions.—In this section:“(1) The term ‘Historically Black College or University’ has the meaning given the term ‘part B institution’ in section 322 of the Higher Education Act of 1965 ([20 U.S.C. 1061](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1061&num=0&edition=prelim)). “(2) The term ‘Minority-Serving Institution’ means an eligible institution described in section 371(a) of the Higher Education Act of 1965 ([20 U.S.C. 1067q(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067q/a&num=0&edition=prelim)). “(3) The term ‘Tribal College or University’ has the meaning given the term in section 316(b) of the Higher Education Act of 1965 ([20 U.S.C. 1059c(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059c/b&num=0&edition=prelim)).”
+
 #### Outreach to Historically Black Colleges and Universities and Other Minority-Serving Institutions Regarding National Security Innovation Network Programs That Promote Entrepreneurship and Innovation at Institutions of Higher Education
 Pub. L. 117–263, div. A, title II, § 222, Dec. 23, 2022, 136 Stat. 2479, provided that: “(a) Pilot Program.—The Under Secretary of Defense for Research and Engineering, acting through the National Security Innovation Network, may carry out a pilot program under which the Under Secretary conducts activities, including outreach and technical assistance, to better connect historically Black colleges and universities and other minority-serving institutions to the commercialization, innovation, and entrepreneurial activities of the Department of Defense. “(b) Briefing.—Not later than one year after commencing a pilot program under subsection (a), the Under Secretary of Defense for Research and Engineering shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on the program, including—“(1) an explanation of—“(A) the results of any outreach efforts conducted under the pilot program; “(B) the success of the pilot program in expanding National Security Innovation Network programs to historically Black colleges and universities and other minority-serving institutions; and “(C) any potential barriers to the expansion of the pilot program; and “(2) recommendations for how the Department of Defense can support historically Black colleges and universities and other minority-serving institutions to enable such institutions to successfully participate in Department of Defense commercialization, innovation, and entrepreneurship programs. “(c) Termination.—The authority to carry out the pilot program under subsection (a) shall terminate on the date that is five years after the date of the enactment of this Act [Dec. 23, 2022]. “(d) Definitions.—In this section:“(1) The term ‘historically Black college or university’ means a part B institution (as defined in section 322 of the Higher Education Act of 1965 ([20 U.S.C. 1061](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1061&num=0&edition=prelim))). “(2) The term ‘other minority-serving institution’ means an institution of higher education specified in paragraphs (2) through (7) of section 371(a) of the Higher Education Act of 1965 ([20 U.S.C. 1067q(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067q/a&num=0&edition=prelim)).”
 
@@ -274,10 +287,64 @@ Pub. L. 116–92, div. A, title II, § 262, Dec. 20, 2019, 133 Stat. 1295, provi
 Pub. L. 114–92, div. A, title II, § 233, Nov. 25, 2015, 129 Stat. 779, provided that: “(a) Basic Research Entities.—“(1) Strategy.—The heads of each basic research entity shall each develop a strategy for how to engage with and support the development of scientific, technical, engineering, and mathematics capabilities of covered educational institutions in carrying out [section 2362 of title 10](./chapter-chapter-139-chapter-chapter-139.md#section-2362), United States Code [now [10 U.S.C. 4144](./chapter-305-universities.md#section-4144)]. “(2) Elements.—Each strategy under paragraph (1) shall include the following:“(A) Goals and vision for maintaining a credible and sustainable program relating to the engagement and support under the strategy. “(B) Metrics to enhance scientific, technical, engineering, and mathematics capabilities at covered educational institutions, including with respect to measuring progress toward increasing the success of such institutions to compete for broader research funding sources other than set-aside funds. “(C) Promotion of mentoring opportunities between covered educational institutions and other research institutions. “(D) Regular assessment of activities that are used to develop, maintain, and grow scientific, technical, engineering, and mathematics capabilities. “(E) Inclusion of faculty of covered educational institutions into program reviews, peer reviews, and other similar activities. “(F) Targeting of undergraduate, graduate, and postgraduate students at covered educational institutions for inclusion into research or internship opportunities within the military department. “(b) Office of the Secretary.—The Secretary of Defense shall develop and implement a strategy for how to engage with and support the development of scientific, technical, engineering, and mathematics capabilities of covered educational institutions pursuant to the strategies developed under subsection (a). “(c) Submission.—“(1) Basic research entities.—Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the heads of each basic research entity shall each submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the strategy developed by the head under subsection (a)(1). “(2) Office of the secretary.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees the strategy developed under subsection (b). “(d) Covered Institution Defined.—In this section:“(1) The term ‘basic research entity’ means an entity of the Department of Defense that executes research, development, test, and evaluation budget activity 1 funding, as described in the Department of Defense Financial Management Regulation. “(2) The term ‘covered educational institution’ has the meaning given that term in [section 2362(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2362/e&num=0&edition=prelim), United States Code [now [10 U.S.C. 4144(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4144/f&num=0&edition=prelim)].”
 
 
-<a id="section-4145-to-4147"></a>
-## § 4145 to 4147. Omitted]
+<a id="section-4145"></a>
+## § 4145. Program for the enhancement of the research, development, test, and evaluation centers of the Department of Defense
+**(a) In General.—** The Secretary of Defense and the Secretaries of the military departments shall jointly carry out a program to demonstrate methods for the more effective development of technology and management of functions at eligible centers.
+
+**(b) Eligible Centers.—** For purposes of the program, the eligible centers are—
+
+(1) the science and technology reinvention laboratories, as designated by [section 4121(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4121/b&num=0&edition=prelim);
+
+(2) the test and evaluation centers which are activities specified as part of the Major Range and Test Facility Base in Department of Defense Directive 3200.11 (or any successor document);
+
+(3) the Defense Advanced Research Projects Agency;
+
+(4) the Defense Innovation Unit; and
+
+(5) the Strategic Capabilities Office.
+
+**(c) Definition of Responsible Officials Concerned.—** For purposes of this section, the term “responsible official concerned” means—
+
+(1) the Assistant Secretary of the Army for Acquisition, Technology, and Logistics, with respect to matters concerning the Army;
+
+(2) the Assistant Secretary of the Navy for Research, Development, and Acquisition, with respect to matters concerning the Navy and the Marine Corps; or
+
+(3) the Assistant Secretary of the Air Force for Acquisition, with respect to matters concerning the Air Force and the Space Force;
+
+(4) the Deputy Secretary of Defense, with respect to matters concerning the Defense Advanced Research Projects Agency, the Defense Innovation Unit, and the Strategic Capabilities Office, and any other matters not covered by paragraphs (1), (2), and (3).
+
+**(d) Participation in Program.—**
+
+(1) **In general.—** — Subject to paragraph (2), the head of each eligible center shall submit to the responsible official concerned a proposal on, and implement, alternative and innovative methods of effective management and operations of eligible centers, rapid project delivery, support, experimentation, prototyping, and partnership with universities and private sector entities—
+
+  (A) to generate greater value and efficiencies in research and development activities;
+
+  (B) to enable more efficient and effective operations of supporting activities, such as—
+
+    (i) facility management, construction, and repair;
+
+    (ii) business operations;
+
+    (iii) personnel management policies and practices; and
+
+    (iv) intramural and public outreach; and
+
+  (C) to enable more rapid deployment of warfighter capabilities.
+
+(2) **Implementation.—** — The head of an eligible center shall implement each method proposed under paragraph (1) unless such method is disapproved in writing by the responsible official concerned within 60 days of receiving the proposal from the eligible center.
+
+**(e) Waiver Authority for Demonstration and Implementation.—** The head of an eligible center may waive any regulation, restriction, requirement, guidance, policy, procedure, or departmental instruction that would affect the implementation of a method proposed under subsection (d)(1), unless such implementation would be prohibited by a provision of a Federal statute or common law.
 
 ### Statutory Notes
 
 #### Codification
-Sections 4145 to 4147 were initially transferred from sections 2350l, 2368, and 2367 of this title, respectively, by Pub. L. 116–283, div. A, title XVIII, § 1844(b), Jan. 1, 2021, 134 Stat. 4246, to become effective Jan. 1, 2022. Subsequently, Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B), Dec. 27, 2021, 135 Stat. 2154, struck out and added a new section 1844(b) of Pub. L. 116–283, effective as if included therein. The new section 1844(b) did not direct any transfers to sections 4145 to 4147, thereby omitting these sections before they took effect. After other amendments by Pub. L. 117–81, section 2350l was not transferred, and sections 2368 and 2367 were transferred to sections 4124 and 4126 of this title, respectively.
+Section was initially transferred from section 2350l of this title by Pub. L. 116–283, div. A, title XVIII, § 1844(b), Jan. 1, 2021, 134 Stat. 4246, to become effective Jan. 1, 2022. Subsequently, Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B), Dec. 27, 2021, 135 Stat. 2154, struck out and added a new section 1844(b) of Pub. L. 116–283, effective as if included therein. The new section 1844(b) did not direct any transfers to section 4145 thereby omitting that section before it took effect. After other amendments by Pub. L. 117–81, section 2350l was not transferred.
+
+
+<a id="section-4146-4147"></a>
+## § 4146, 4147. Omitted]
+
+### Statutory Notes
+
+#### Codification
+Sections 4146 and 4147 were initially transferred from sections 2368 and 2367 of this title, respectively, by Pub. L. 116–283, div. A, title XVIII, § 1844(b), Jan. 1, 2021, 134 Stat. 4246, to become effective Jan. 1, 2022. Subsequently, Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B), Dec. 27, 2021, 135 Stat. 2154, struck out and added a new section 1844(b) of Pub. L. 116–283, effective as if included therein. The new section 1844(b) did not direct any transfers to sections 4146 and 4147, thereby omitting these sections before they took effect. After other amendments by Pub. L. 117–81, sections 2368 and 2367 were transferred to sections 4124 and 4126 of this title, respectively.

@@ -19,6 +19,9 @@ Act June 23, 1939, ch. 242, §§ 1, 2, 53 Stat. 853, 854, provided that: “[Sec
 #### Effective Date
 Act June 25, 1938, ch. 675, § 1002(a), formerly § 902(a), 52 Stat. 1059; renumbered § 1002(a), Pub. L. 111–31, div. A, title I, § 101(b)(2), June 22, 2009, 123 Stat. 1784, provided that: “This Act [enacting this chapter and repealing sections 1 to 5 and 7 to 15 of this title], shall take effect twelve months after the date of its enactment [June 25, 1938]. The Federal Food and Drugs Act of June 30, 1906, as amended (U.S.C., 1934 ed., title 21, secs. 1–15), shall remain in force until such effective date, and, except as otherwise provided in this subsection, is hereby repealed effective upon such date: Provided, That the provisions of section 701 [[section 371 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-371)] shall become effective on the enactment of this Act, and thereafter the Secretary is authorized hereby to (1) conduct hearings and to promulgate regulations which shall become effective on or after the effective date of this Act as the Secretary shall direct, and (2) designate prior to the effective date of this Act food having common or usual names and exempt such food from the requirements of clause (2) of section 403(i) [[section 343(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section343/i&num=0&edition=prelim)] for a reasonable time to permit the formulation, promulgation, and effective application of definitions and standards of identity therefor as provided by section 401 [[section 341 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-341)]: Provided further, That sections 502(j), 505, and 601(a) [sections 352(j), 355, 361(a), respectively of this title], and all other provisions of this Act to the extent that they may relate to the enforcement of such sections, shall take effect on the date of the enactment of this Act, except that in the case of a cosmetic to which the proviso of section 601(a) [[section 361(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section361/a&num=0&edition=prelim)], relates, such cosmetic shall not, prior to the ninetieth day after such date of enactment, be deemed adulterated by reason of the failure of its label to bear the legend prescribed in such proviso: Provided further, That the Act of March 4, 1923 (U.S.C., 1934 ed., title 21, sec. 6 [[section 321a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321a)]; 42 Stat. 1500, ch. 268), defining butter and providing a standard therefor; the Act of July 24, 1919 (U.S.C., 1934 ed., title 21, sec. 10 [[section 321b of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321b)]; 41 Stat. 271, ch. 26], defining wrapped meats as in package form; and the amendment to the Food and Drugs Act, section 10A, approved August 27, 1935 (U.S.C. 1934 ed., Sup. III, title 21, sec. 14a [[section 372a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-372a)]) shall remain in force and effect and be applicable to the provisions of this Act.”
 
+#### Short Title of 2025 Amendment
+Pub. L. 119–37, div. F, title V, § 6501, Nov. 12, 2025, 139 Stat. 637, provided that: “This title [amending sections 355, 355h, 379j–71, 379j–72, and 379j–73 of this title and enacting provisions set out as notes under sections 355, 360fff–3, 379j–71, and 379j–73 of this title] may be cited as the ‘Over-the-Counter Monograph Drug User Fee Amendments’.”
+
 #### Short Title of 2023 Amendment
 Pub. L. 118–15, div. B, title III, § 2301(a), Sept. 30, 2023, 137 Stat. 86, provided that: “This chapter [chapter 1 (§§ 2301–2307) of subtitle A of title III of div. B of Pub. L. 118–15, amending sections 379j–11 to 379j–13 of this title, enacting provisions set out as notes under sections 379j–11 to 379j–13 of this title, and repealing provisions set out as notes under sections 379j–12 and 379j–13 of this title] may be cited as the ‘Animal Drug User Fee Amendments of 2023’.”
 
@@ -3375,6 +3378,9 @@ Pub. L. 101–535, § 2(b), Nov. 8, 1990, 104 Stat. 2356, as amended by Pub. L. 
 Pub. L. 101–535, § 3(b), Nov. 8, 1990, 104 Stat. 2360, as amended by Pub. L. 102–571, title II, § 202(a)(2)(A), (B), Oct. 29, 1992, 106 Stat. 4500, 4501, provided that: “(1)(A) Within 12 months of the date of the enactment of this Act [Nov. 8, 1990], the Secretary of Health and Human Services shall issue proposed regulations to implement section 403(r) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 343(r)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section343/r&num=0&edition=prelim)], except that the Secretary shall issue, not later than June 15, 1993, proposed regulations that are applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances to implement such section. Such regulations—“(i) shall identify claims described in section 403(r)(1)(A) of such Act which comply with section 403(r)(2) of such Act, “(ii) shall identify claims described in section 403(r)(1)(B) of such Act which comply with section 403(r)(3) of such Act, “(iii) shall, in defining terms used to characterize the level of any nutrient in food under section 403(r)(2)(A)(i) of such Act, define—“(I) free, “(II) low, “(III) light or lite, “(IV) reduced, “(V) less, and “(VI) high, unless the Secretary finds that the use of any such term would be misleading, “(iv) shall permit statements describing the amount and percentage of nutrients in food which are not misleading and are consistent with the terms defined in section 403(r)(2)(A)(i) of such Act, “(v) shall provide that if multiple claims subject to section 403(r)(1)(A) of such Act are made on a single panel of the food label or page of a labeling brochure, a single statement may be made to satisfy section 403(r)(2)(B) of such Act, “(vi) shall determine whether claims respecting the following nutrients and diseases meet the requirements of section 403(r)(3) of such Act: Calcium and osteoporosis, dietary fiber and cancer, lipids and cardiovascular disease, lipids and cancer, sodium and hypertension, and dietary fiber and cardiovascular disease, “(vii) shall not require a person who proposes to make a claim described in section 403(r)(1)(B) of such Act which is in compliance with such regulations to secure the approval of the Secretary before making such claim, “(viii) may permit a claim described in section 403(r)(1)(A) of such Act to be made for butter, “(ix) may, in defining terms under section 403(r)(2)(A)(i), include similar terms which are commonly understood to have the same meaning, and “(x) shall establish, as required by section 403(r)(5)(D), the procedure and standard respecting the validity of claims made with respect to a dietary supplement of vitamins, minerals, herbs, or other similar nutritional substances and shall determine whether claims respecting the following nutrients and diseases meet the requirements of section 403(r)(5)(D) of such Act: folic acid and neural tube defects, antioxident [sic] vitamins and cancer, zinc and immune function in the elderly, and omega-3 fatty acids and heart disease. “(B) Not later than 24 months after the date of the enactment of this Act, the Secretary shall issue final regulations to implement section 403(r) of the Federal Food, Drug, and Cosmetic Act, except that the Secretary shall issue, not later than December 31, 1993, such a final regulation applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances..[sic] “(2) If the Secretary does not promulgate final regulations under paragraph (1)(B) upon the expiration of 24 months after the date of the enactment of this Act, the proposed regulations issued in accordance with paragraph (1)(A) shall be considered as the final regulations upon the expiration of such 24 months, except that the proposed regulations applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances shall not be considered to be final regulations until December 31, 1993. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations [see 57 F.R. 56347].”
 
 [For construction of amendment made by section 202(a)(2)(B) of Pub. L. 102–571 to section 3(b) of Pub. L. 101–535 set out above, see section 202(a)(2)(C) of Pub. L. 102–571 set out above following section 2(b) of Pub. L. 101–535.]
+
+#### Compliance With Requirements in Effect Before Effective Date of Final Rule
+Pub. L. 119–37, div. B, title VII, § 783, Nov. 12, 2025, 139 Stat. 561, provided that: “(a) During the period beginning on the effective date of the final rule entitled ‘Food Labeling: Nutrient Content Claims; Definition of Term “Healthy” ’ published in the Federal Register by the Food and Drug Administration on December 27, 2024 (89 Fed. Reg. 106064 et seq.) and ending on the compliance date specified in such final rule (referred to in this section as the ‘compliance period’), a manufacturer may also continue to comply with the requirements in effect on the day before such effective date relating to an implied nutrient content claim of ‘healthy’ made with respect to a food. “(b) In the case of a food that bears labeling making an implied nutrition content claim that the food is ‘healthy’ during the compliance period, the manufacturer of the food shall not be directly or indirectly subject to any State law requirement relating to labeling making an implied nutrient content claim that a food is ‘healthy’ during such period that is not identical to either—“(1) the Federal requirements for labeling to make an implied nutrition content claim that a food is ‘healthy’ that were in effect on the day before the effective date of such final rule; or “(2) the updated Federal requirements specified in the final rule for such a claim.”
 
 #### Labeling Exemption for Single Ingredient Foods and Products
 Pub. L. 115–334, title XII, § 12516, Dec. 20, 2018, 132 Stat. 5000, provided that: “The food labeling requirements under section 403(q) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 343(q)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section343/q&num=0&edition=prelim)) shall not require that the nutrition facts label of any single-ingredient sugar, honey, agave, or syrup, including maple syrup, that is packaged and offered for sale as a single-ingredient food bear the declaration ‘Includes X g Added Sugars.’.”
@@ -7890,6 +7896,42 @@ Subsecs. (a)(2)(B), (b). Pub. L. 108–282, § 102(b)(5)(H), substituted “360b
 
 (6) An application submitted under this subsection shall be accompanied by the certification required under [section 282(j)(5)(B) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282/j/5/B&num=0&edition=prelim). Such certification shall not be considered an element of such application.
 
+(7) **Rx-to-nonprescription switches.—**
+
+  (A) *Meetings.—* — Any person planning to submit an application for an Rx-to-nonprescription switch may submit to the Secretary a written request for a meeting, for purposes of developing a plan for such application that addresses the potential risks to public health of such switch and the evidence necessary to support such application, including the design of any necessary studies, and the format and content of the planned application. The Secretary may grant such a meeting, as appropriate, consistent with established procedures for granting meetings with, and providing written responses to, applications under this section. Each such meeting shall be documented in meeting minutes.
+
+  (B) *Guidance.—*
+
+    (i) *In general.—* — Not later than 18 months after November 12, 2025, the Secretary shall issue guidance to increase the clarity and predictability of the process and standards for approval of applications for nonprescription drugs under this section, including in the case of applications for an Rx-to-nonprescription switch, especially with respect to prescription drugs with well-established safety profiles for which an applicant may seek approval for nonprescription use.
+
+    (ii) *Contents.—* — The guidance under clause (i) shall—
+
+      (I) describe how published reports in medical literature, any previous finding of safety or effectiveness for the drug under this section, the results of significant human experience with the drug, unpublished studies and other data, and other sources of information may be used to support an application for a nonprescription drug, including in the context of an application for an Rx-to-nonprescription switch;
+
+      (II) set forth procedures for sponsors to request meetings described in subparagraph (A) and document the recommendations made in such meetings;
+
+      (III) describe evidentiary expectations to support approval of an application for a nonprescription drug, including in the context of an application for an Rx-to-nonprescription switch, including how sponsors can demonstrate that consumers can appropriately self-select and use the drug and comprehend the nonprescription drug label; and
+
+      (IV) provide recommendations for how mechanisms, in addition to the required Drug Facts Label, such as mobile applications and decisions aids, can be incorporated into the information submitted in support of an application for an Rx-to-nonprescription switch.
+
+  (C) *Plan to engage with stakeholders.—* — Not later than 1 year after November 12, 2025, the Secretary shall develop and make publicly available on the website of the Food and Drug Administration a plan to engage stakeholders on steps and factors for application holders and other stakeholders to consider in identifying approved prescription drugs that may be promising candidates for applications for an Rx-to-nonprescription switch.
+
+  (D) *Definition.—* — For purposes of this paragraph, the term “Rx-to-nonprescription switch” means the approval of an application, or supplemental application, as applicable, submitted under this section by the holder of an approved application for a prescription drug seeking approval to market such drug as a nonprescription drug, including for—
+
+    (i) a full Rx-to-nonprescription switch, under which a drug previously approved for prescription use only is—
+
+      (I) approved for nonprescription use under the same conditions as applied to the drug when approved for prescription use; or
+
+      (II) approved for nonprescription use subject to one or more additional conditions for nonprescription use; and
+
+    (ii) a partial Rx-to-nonprescription switch, under which the drug is approved for nonprescription use only under certain conditions described in the approved labeling, while the drug otherwise remains approved for prescription use only.
+
+  (E) *Rule of construction.—* — Nothing in this paragraph shall be construed to—
+
+    (i) supersede or modify the authority of the Secretary under [section 355h of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355h) with respect to the regulation of OTC monograph drugs; or
+
+    (ii) authorize the disclosure by the Secretary of confidential commercial information or trade secrets.
+
 **(c) Period for approval of application; period for, notice, and expedition of hearing; period for issuance of order**
 
 (1) Within one hundred and eighty days after the filing of an application under subsection (b), or such additional period as may be agreed upon by the Secretary and the applicant, the Secretary shall either—
@@ -9106,6 +9148,8 @@ The Controlled Substances Act, referred to in subsec. (x)(1), is title II of Pub
 In subsec. (k)(4)(H), “[section 132 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section132&num=0&edition=prelim)” substituted for “section 4(5) of the Federal Procurement Policy Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2025—Subsec. (b)(7). Pub. L. 119–37 added par. (7).
+
 2022—Subsec. (i)(1)(A). Pub. L. 117–328, § 3209(a)(1)(A), substituted “nonclinical tests” for “preclinical tests (including tests on animals)”.
 
 Subsec. (i)(2)(B). Pub. L. 117–328, § 3209(a)(1)(B), substituted “nonclinical tests” for “animal”.
@@ -9409,6 +9453,9 @@ Subsec. (i). Pub. L. 87–781, § 103(b), inserted “the foregoing subsections 
 Subsec. (j). Pub. L. 87–781, § 103(a), added subsec. (j).
 
 1960—Subsec. (g). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–37, div. F, title V, § 6510, Nov. 12, 2025, 139 Stat. 648, provided that: “The amendments made by this title [amending this section and sections 355h, 379j–71, 379j–72, and 379j–73 of this title] shall take effect on October 1, 2025, or the date of the enactment of this Act [Nov. 12, 2025], whichever is later, except that fees under part 10 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–71](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-71) et seq.) shall be assessed beginning October 1, 2025, regardless of the date of the enactment of this Act.”
 
 #### Effective Date of 2022 Amendment
 Pub. L. 117–328, div. FF, title III, § 3602(c), Dec. 29, 2022, 136 Stat. 5863, provided that: “Sections 505(z) and 520(g)(9) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(z)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/z&num=0&edition=prelim), 360j(g)(9)], as added by section 3601, shall apply only with respect to clinical investigations for which enrollment commences after the date that is 180 days after the publication of final guidance required under this section [see section 3602(a), (b) of Pub. L. 117–328, set out below].”
@@ -10909,7 +10956,7 @@ Subsec. (d). Pub. L. 115–52, § 901(d), substituted “3 years” for “2 yea
 
       (II) publish a notice of such final administrative order in the Federal Register;
 
-      (III) afford requestors of drugs that will be subject to such order the opportunity for formal dispute resolution up to the level of the Director of the Center for Drug Evaluation and Research, which initially must be requested within 45 calendar days of the issuance of the order, and, for subsequent levels of appeal, within 30 calendar days of the prior decision; and
+      (III) afford sponsors or requestors of drugs that will be subject to such order the opportunity for formal dispute resolution up to the level of the Director of the Center for Drug Evaluation and Research, which initially must be requested within 45 calendar days of the issuance of the order, and, for subsequent levels of appeal, within 30 calendar days of the prior decision; and
 
       (IV) except with respect to drugs described in paragraph (3)(B), upon completion of the formal dispute resolution procedure, inform the persons which sought such dispute resolution of their right to request a hearing.
 
@@ -11246,7 +11293,7 @@ Subsec. (d). Pub. L. 115–52, § 901(d), substituted “3 years” for “2 yea
 
   (B) the Secretary’s expectations, if resources permit, for issuance of proposed orders over a 3-year period.
 
-**(h) Development advice to sponsors or requestors** The Secretary shall establish procedures under which sponsors or requestors may meet with appropriate officials of the Food and Drug Administration to obtain advice on the studies and other information necessary to support submissions under this section and other matters relevant to the regulation of nonprescription drugs and the development of new nonprescription drugs under this section.
+**(h) Development advice to sponsors or requestors** The Secretary shall establish procedures under which sponsors, requestors, or organizations nominated by sponsors or requestors to represent their interests in a proceeding may meet with appropriate officials of the Food and Drug Administration to obtain advice on the studies and other information necessary to support submissions under this section and other matters relevant to the regulation of nonprescription drugs and the development of new nonprescription drugs under this section.
 
 **(i) Participation of multiple sponsors or requestors** The Secretary shall establish procedures to facilitate efficient participation by multiple sponsors or requestors in proceedings under this section, including provision for joint meetings with multiple sponsors or requestors or with organizations nominated by sponsors or requestors to represent their interests in a proceeding.
 
@@ -11320,7 +11367,30 @@ Subsec. (d). Pub. L. 115–52, § 901(d), substituted “3 years” for “2 yea
 
 (3) The term “requestor” refers to any person or group of persons marketing, manufacturing, processing, or developing a drug.
 
+**(r) Evidence and testing standards for active ingredients for topical administration**
+
+(1) **Evidence and testing standards for active ingredients for topical administration** — The Secretary shall—
+
+  (A) in evaluating the generally recognized as safe and effective status of active ingredients used in nonprescription drugs intended for topical administration for purposes of subsection (a), utilize standards that allow for the use of real world evidence (as defined in [section 355g(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355g/b&num=0&edition=prelim)), as appropriate, as part of a comprehensive evaluation of scientific evidence to demonstrate the safety and effectiveness of such active ingredients, to supplement evidence from traditional clinical trials, provided that such standards allow the Secretary to evaluate whether the benefits of such active ingredients outweigh the risks; and
+
+  (B) apply subsection (b)(6)(C) to the regulation of active ingredients used in drugs intended for topical administration.
+
+(2) **Non-animal testing methods for topical active ingredients**
+
+  (A) *In general* — The Secretary shall consider the types of nonclinical tests described in paragraphs (1) through (4) of the first subsection (z) of [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) (as inserted by section 3209(a)(2) of the Health Extenders, Improving Access to Medicare, Medicaid, and CHIP, and Strengthening Public Health Act of 2022 (division FF of Public Law 117–328)), or any other alternative to animal testing that the Secretary determines appropriate, in the consideration of drugs intended for topical administration under this section.
+
+  (B) *Guidance* — Not later than 1 year after November 12, 2025, the Secretary shall issue new draft guidance on how sponsors can use nonclinical testing alternatives to animal testing, as appropriate, to meet safety and efficacy standards under this section for drugs intended for topical administration.
+
+(3) **Clarification** — Nothing in this subsection shall be construed to alter, supersede, or limit the standards for making determinations of whether a drug is generally recognized as safe and effective under [section 321(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/p&num=0&edition=prelim) or the standards set forth under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) for determining the safety and effectiveness of drugs.
+
 ### Statutory Notes
+
+#### Amendments
+2025—Subsec. (b)(2)(A)(iv)(III). Pub. L. 119–37, § 6508(b), substituted “sponsors or requestors” for “requestors”.
+
+Subsec. (h). Pub. L. 119–37, § 6508(a), substituted “sponsors, requestors, or organizations nominated by sponsors or requestors to represent their interests in a proceeding” for “sponsors or requestors”.
+
+Subsec. (r). Pub. L. 119–37, § 6506(a), added subsec. (r).
 
 #### Drugs Excluded From the Over-the-Counter Drug Review
 Pub. L. 116–136, div. A, title III, § 3853, Mar. 27, 2020, 134 Stat. 454, provided that: “(a) In General.—Nothing in this Act [probably should be “this subtitle”, meaning subtitle F (§§ 3851–3862) of title III of div. A of Pub. L. 116–136, enacting this section, [section 360fff–8 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-8), and subpart 10 of part C of subchapter VII of this chapter, amending sections 352, 360fff–3, 379j–52, 379r, and 381 of this title, repealing [section 360fff–5 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-5), and enacting provisions set out as notes under this section and sections 360fff–3, 360fff–6, 379j–52, and 379j–71 of this title] (or the amendments made by this Act) shall apply to any nonprescription drug (as defined in section 505G(q) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355h(q)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355h/q&num=0&edition=prelim)], as added by section 3851 of this subtitle) which was excluded by the Food and Drug Administration from the Over-the-Counter Drug Review in accordance with the paragraph numbered 25 on page 9466 of volume 37 of the Federal Register, published on May 11, 1972. “(b) Rule of Construction.—Nothing in this section shall be construed to preclude or limit the applicability of any other provision of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.).”
@@ -19971,6 +20041,9 @@ Subsec. (e)(3). Pub. L. 116–136, § 3854(b)(1), amended par. (3) generally. Pr
 
 Subsec. (f). Pub. L. 116–136, § 3854(b)(3), added subsec. (f).
 
+#### Sunscreen Final Administrative Order
+Pub. L. 119–37, div. F, title V, § 6506(b), Nov. 12, 2025, 139 Stat. 645, provided that: “A final administrative order on nonprescription sunscreen active ingredients issued under section 3854 of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136; [21 U.S.C. 360fff–3](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-3) note) shall— “(1) account for historical data regarding the safety of sunscreen active ingredients that have previously been accepted for marketing in the United States; “(2) account for the role of broad spectrum sunscreens with a Sun Protection Factor of 15 or higher in effective skin cancer prevention; and “(3) incorporate the evidence and testing standards for sunscreen active ingredients detailed in section 505G(r) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355h](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355h)) (as added by subsection (a)).”
+
 #### Review of Nonprescription Sunscreen Active Ingredients
 Pub. L. 116–136, div. A, title III, § 3854(a), Mar. 27, 2020, 134 Stat. 454, provided that: “(1) Applicability of section 505g for pending submissions.—“(A) In general.—A sponsor of a nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients that, as of the date of enactment of this Act [Mar. 27, 2020], is subject to a proposed sunscreen order under section 586C of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360fff–3](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-3)) may elect, by means of giving written notification to the Secretary of Health and Human Services within 180 calendar days of the enactment of this Act, to transition into the review of such ingredient or combination of ingredients pursuant to the process set out in section 505G of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355h](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355h)], as added by section 3851 of this subtitle. “(B) Election exercised.—Upon receipt by the Secretary of Health and Human Services of a timely notification under subparagraph (A)—“(i) the proposed sunscreen order involved is deemed to be a request for an order under subsection (b) of section 505G of the Federal Food, Drug, and Cosmetic Act, as added by section 3851 of this subtitle; and “(ii) such order is deemed to have been accepted for filing under subsection (b)(6)(A)(i) of such section 505G. “(C) Election not exercised.—If a notification under subparagraph (A) is not received by the Secretary of Health and Human Services within 180 calendar days of the date of enactment of this Act, the review of the proposed sunscreen order described in subparagraph (A)—“(i) shall continue under section 586C of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360fff–3](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff-3)); and “(ii) shall not be eligible for review under section 505G, added by section 3851 of this subtitle. “(2) Definitions.—In this subsection, the terms ‘sponsor’, ‘nonprescription’, ‘sunscreen active ingredient’, and ‘proposed sunscreen order’ have the meanings given to those terms in section 586 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360fff](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360fff)).”
 
@@ -22774,9 +22847,6 @@ Pub. L. 117–328, div. FF, title III, § 3505, Dec. 29, 2022, 136 Stat. 5859, p
 
 ### Statutory Notes
 
-#### Delayed Effective Date of Subsection (a)
-For delayed effective date of subsection (a) of this section, see Effective Date of 2022 Amendment note below.
-
 #### Effective Date of 2022 Amendment
 Pub. L. 117–328, div. FF, title III, § 3503(b)(2), Dec. 29, 2022, 136 Stat. 5859, provided that: “Section 609(a) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 364e(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section364e/a&num=0&edition=prelim)], as added by section 802 [probably should be “section 3502”], shall take effect on the date that is 2 years after the date of enactment of this Act [Dec. 29, 2022].”
 
@@ -25225,13 +25295,6 @@ Pub. L. 102–571, title I, § 108, Oct. 29, 1992, 106 Stat. 4500, directed Secr
 
 #### Termination of Section
 For termination of section by section 1005(a) of Pub. L. 117–180, see Termination Date note below.
-
-#### References in Text
-[Section 357 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-357), referred to in subsec. (a)(2)(B)(iii), was repealed by Pub. L. 105–115, title I, § 125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
-
-The Drug Price Competition and Patent Term Restoration Act of 1984, referred to in subsec. (a)(2)(B)(iv), is Pub. L. 98–417, Sept. 24, 1984, 98 Stat. 1585. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
-
-Section 101(b) of the Prescription Drug User Fee Amendments of 2017, referred to in subsec. (c)(2)(B)(ii)(III), is section 101(b) of Pub. L. 115–52, set out as a note under [section 379g of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379g).
 
 #### Amendments
 2022—Subsec. (a). Pub. L. 117–180, § 1003(a)(1)(A), substituted “fiscal year 2023” for “fiscal year 2018” in introductory provisions.
@@ -30150,9 +30213,15 @@ In this subpart:
 
     (iv) the standardization of the concentration or dose of a specific finalized ingredient within a particular finalized monograph;
 
-    (v) a change to ingredient nomenclature to align with nomenclature of a standards-setting organization; or
+    (v) a change to ingredient nomenclature to align with nomenclature of a standards-setting organization;
 
-    (vi) addition of an interchangeable term in accordance with section 330.1 of title 21, Code of Federal Regulations (or any successor regulations).
+    (vi) the addition of an interchangeable term in accordance with section 330.1 of title 21, Code of Federal Regulations (or any successor regulations); or
+
+    (vii) the addition or modification of a testing procedure applicable to one or more OTC monograph drugs, provided that such additional or modified testing procedure reflects a voluntary consensus standard with respect to pharmaceutical quality that is—
+
+      (I) established by a national or international standards development organization; and
+
+      (II) recognized by the Secretary through a process described in guidance for industry, initially published in July 2023, or any successor guidance, publicly available on the website of the Food and Drug Administration, which addresses voluntary consensus standards for pharmaceutical quality.
 
   (B) The Secretary may, based on program implementation experience or other factors found appropriate by the Secretary, characterize any OTC monograph order request as a Tier 2 OTC monograph order request (including recharacterizing a request from Tier 1 to Tier 2) and publish such determination in a proposed order issued pursuant to [section 355h of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355h).
 
@@ -30188,7 +30257,26 @@ In this subpart:
 
 ### Statutory Notes
 
+#### Termination of Section
+For termination of section by section 6509(a) of Pub. L. 119–37, see Termination Date note below.
+
+#### Amendments
+2025—Par. (9)(A)(vi). Pub. L. 119–37, § 6503(2)(A), substituted “the addition” for “addition”.
+
+Par. (9)(A)(vii). Pub. L. 119–37, § 6503(1), (2)(B), (3), added cl. (vii)
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–37 effective Nov. 12, 2025, with fees under this subpart to be assessed beginning Oct. 1, 2025, see section 6510 of Pub. L. 119–37, set out as a note under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355).
+
+#### Termination Date
+Pub. L. 119–37, div. F, title V, § 6509(a), Nov. 12, 2025, 139 Stat. 648, provided that: “Sections 744L and 744M of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–71](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-71); 379j–72) shall cease to be effective October 1, 2030.”
+
+#### Savings Clause
+Pub. L. 119–37, div. F, title V, § 6511, Nov. 12, 2025, 139 Stat. 648, provided that: “Notwithstanding the amendments made by this title [amending this section and sections 355, 355h, 379j–72, and 379j–73 of this title], part 10 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–71](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-71) et seq.), as in effect on the day before the date of enactment of this Act [Nov. 12, 2025], shall continue to be in effect with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2026.”
+
 #### Finding
+Pub. L. 119–37, div. F, title V, § 6502, Nov. 12, 2025, 139 Stat. 637, provided that: “Congress finds that the fees authorized by the amendments made in this title [amending this section and sections 355, 355h, 379j–72, and 379j–73 of this title] will be dedicated to over-the-counter (OTC) monograph drug activities, as set forth in the goals identified for purposes of part 10 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–71](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-71) et seq.), in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate, as set forth in the Congressional Record.”
+
 Pub. L. 116–136, div. A, title III, § 3861, Mar. 27, 2020, 134 Stat. 458, provided that: “The Congress finds that the fees authorized by the amendments made in this part [part II of subtitle F of title III of div. A of Pub. L. 116–136, enacting this subpart] will be dedicated to OTC monograph drug activities, as set forth in the goals identified for purposes of part 10 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [this subpart], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
 
 
@@ -30198,13 +30286,29 @@ Pub. L. 116–136, div. A, title III, § 3861, Mar. 27, 2020, 134 Stat. 458, pro
 
 (1) **Facility fee**
 
-  (A) *In general* — Each person that owns a facility identified as an OTC monograph drug facility on December 31 of the fiscal year or at any time during the preceding 12-month period shall be assessed an annual fee for each such facility as determined under subsection (c).
+  (A) *In general*
+
+    (i) *Assessment of fees* — Each person that owns a facility identified as an OTC monograph drug facility at any time during the applicable period specified in clause (ii) for a fiscal year shall be assessed an annual fee for each such facility as determined under subsection (c).
+
+    (ii) *Applicable period* — For purposes of clause (i), the applicable period is—
+
+      (I) for fiscal year 2026, the 12-month period ending on December 31, 2025;
+
+      (II) for fiscal year 2027, the 9-month period ending on September 30, 2026; and
+
+      (III) for fiscal year 2028 and each subsequent fiscal year, the 12-month period ending on September 30 of the preceding fiscal year.
 
   (B) *Exceptions*
 
     (i) *Facilities that cease activities* — A fee shall not be assessed under subparagraph (A) if the identified OTC monograph drug facility—
 
-      (I) has ceased all activities related to OTC monograph drugs prior to December 31 of the year immediately preceding the applicable fiscal year; and
+      (I) has ceased all activities related to OTC monograph drugs prior to—
+
+        (aa) for purposes of fiscal year 2026, January 1, 2025;
+
+        (bb) for purposes of fiscal year 2027, January 1, 2026; and
+
+        (cc) for purposes of fiscal year 2028 and each subsequent fiscal year, October 1 of the preceding fiscal year; and
 
       (II) has updated its registration to reflect such change under the requirements for drug establishment registration set forth in [section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360).
 
@@ -30214,17 +30318,31 @@ Pub. L. 116–136, div. A, title III, § 3861, Mar. 27, 2020, 134 Stat. 458, pro
 
   (D) *Due date*
 
-    (i) *For first program year* — For fiscal year 2021, the facility fees required under subparagraph (A) shall be due on the later of—
-
-      (I) the first business day of July of 2020; or
-
-      (II) 45 calendar days after publication of the Federal Register notice provided for under subsection (c)(4)(A).
-
-    (ii) *Subsequent fiscal years* — For each fiscal year after fiscal year 2021, the facility fees required under subparagraph (A) shall be due on the later of—
+    (i) *Fiscal year 2026* — For fiscal year 2026, the facility fees required under subparagraph (A) shall be due on the later of—
 
       (I) the first business day of June of such year; or
 
       (II) the first business day after the enactment of an appropriations Act providing for the collection and obligation of fees under this section for such year.
+
+    (ii) *Fiscal year 2027* — For fiscal year 2027, the facility fees required under subparagraph (A) shall be due—
+
+      (I) in a first installment representing 50 percent of such fee, on the later of—
+
+        (aa) October 1, 2026; or
+
+        (bb) the first business day after the enactment of an appropriations Act providing for the collection and obligation of fees under this section for such year; and
+
+      (II) in a second installment representing the remaining 50 percent of such fee, on—
+
+        (aa) February 1, 2027; or
+
+        (bb) if an appropriations Act described in subclause (I)(bb) is not in effect on February 1, 2027, the first business day after enactment of such an appropriations Act.
+
+    (iii) *Subsequent fiscal years* — For fiscal year 2028 and each subsequent fiscal year, the facility fees required under subparagraph (A) shall be due on the later of—
+
+      (I) the first business day on or after October 1 of the fiscal year; or
+
+      (II) the first business day after the date of enactment of an appropriations Act providing for the collection and obligation of fees under this section for the fiscal year.
 
 (2) **OTC monograph order request fee**
 
@@ -30262,115 +30380,117 @@ Pub. L. 116–136, div. A, title III, § 3861, Mar. 27, 2020, 134 Stat. 458, pro
 
 **(b) Fee revenue amounts**
 
-(1) **Fiscal year 2021** — For fiscal year 2021, fees under subsection (a)(1) shall be established to generate a total facility fee revenue amount equal to the sum of—
+(1) **In general** — For each of the fiscal years 2026 through 2030, fees under subsection (a)(1) shall be established to generate a total facility fee revenue amount equal to the sum of—
 
-  (A) the annual base revenue for fiscal year 2021 (as determined under paragraph (3));
-
-  (B) the dollar amount equal to the operating reserve adjustment for the fiscal year, if applicable (as determined under subsection (c)(2)); and
-
-  (C) additional direct cost adjustments (as determined under subsection (c)(3)).
-
-(2) **Subsequent fiscal years** — For each of the fiscal years 2022 through 2025, fees under subsection (a)(1) shall be established to generate a total facility fee revenue amount equal to the sum of—
-
-  (A) the annual base revenue for the fiscal year (as determined under paragraph (3));
+  (A) the annual base revenue for the fiscal year (as determined under paragraph (2));
 
   (B) the dollar amount equal to the inflation adjustment for the fiscal year (as determined under subsection (c)(1));
 
   (C) the dollar amount equal to the operating reserve adjustment for the fiscal year, if applicable (as determined under subsection (c)(2));
 
-  (D) additional direct cost adjustments (as determined under subsection (c)(3)); and
+  (D) additional direct cost adjustments (as determined under subsection (c)(3));
 
-  (E) additional dollar amounts for each fiscal year as follows:
+  (E) an additional dollar amount equal to—
 
-    (i) $7,000,000 for fiscal year 2022.
+    (i) $2,373,000 for fiscal year 2026;
 
-    (ii) $6,000,000 for fiscal year 2023.
+    (ii) $1,233,000 for fiscal year 2027; and
 
-    (iii) $7,000,000 for fiscal year 2024.
+    (iii) $854,000 for fiscal year 2028; and
 
-    (iv) $3,000,000 for fiscal year 2025.
+  (F) in the case of a fiscal year for which the Secretary applies the one-time facility fee workload adjustment under subsection (c)(4), the dollar amount equal to such adjustment.
 
-(3) **Annual base revenue** — For purposes of paragraphs (1)(A) and (2)(A), the dollar amount of the annual base revenue for a fiscal year shall be—
+(2) **Annual base revenue** — For purposes of paragraph (1), the dollar amount of the annual base revenue for a fiscal year shall be—
 
-  (A) for fiscal year 2021, $8,000,000; and
+  (A) for fiscal year 2026, the dollar amount of the total revenue amount established for fiscal year 2025 under this subsection as in effect on the day before November 12, 2025, not including any adjustments made for such fiscal year 2025 under subsection (c)(2), as so in effect; and
 
-  (B) for fiscal years 2022 through 2025, the dollar amount of the total revenue amount established under this subsection for the previous fiscal year, not including any adjustments made under subsection (c)(2) or (c)(3).
+  (B) for fiscal years 2027 through 2030, the dollar amount of the total revenue amount established under this subsection for the previous fiscal year, not including any adjustments made for such previous fiscal year under subsection (c)(2) or (c)(3).
 
 **(c) Adjustments; annual fee setting**
 
 (1) **Inflation adjustment**
 
-  (A) *In general* — For purposes of subsection (b)(2)(B), the dollar amount of the inflation adjustment to the annual base revenue for fiscal year 2022 and each subsequent fiscal year shall be equal to the product of—
+  (A) *In general* — For purposes of subsection (b)(1)(B), the dollar amount of the inflation adjustment to the annual base revenue for each fiscal year shall be equal to the product of—
 
     (i) such annual base revenue for the fiscal year under subsection (b)(2); and
 
     (ii) the inflation adjustment percentage under subparagraph (C).
 
-  (B) *OTC monograph order request fees* — For purposes of subsection (a)(2), the dollar amount of the inflation adjustment to the fee for OTC monograph order requests for fiscal year 2022 and each subsequent fiscal year shall be equal to the product of—
+  (B) *OTC monograph order request fees* — For purposes of subsection (a)(2), the dollar amount of the inflation adjustment to the fee for OTC monograph order requests for a fiscal year shall be equal to the product of—
 
-    (i) the applicable fee under subsection (a)(2) for the preceding fiscal year; and
+    (i) for fiscal year 2026—
 
-    (ii) the inflation adjustment percentage under subparagraph (C).
+      (I) the fee for fiscal year 2025 under subsection (a)(2); and
 
-  (C) *Inflation adjustment percentage* — The inflation adjustment percentage under this subparagraph for a fiscal year is equal to—
+      (II) the inflation adjustment percentage under subparagraph (C); and
 
-    (i) for each of fiscal years 2022 and 2023, the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data; and
+    (ii) for each of fiscal years 2027 through 2030—
 
-    (ii) for each of fiscal years 2024 and 2025, the sum of—
+      (I) the applicable fee under subsection (a)(2) for the preceding fiscal year; and
 
-      (I) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years, multiplied by the proportion of personnel compensation and benefits costs to total costs of OTC monograph drug activities for the first 3 years of the preceding 4 fiscal years; and
+      (II) the inflation adjustment percentage under subparagraph (C).
 
-      (II) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by the proportion of all costs other than personnel compensation and benefits costs to total costs of OTC monograph drug activities for the first 3 years of the preceding 4 fiscal years.
+  (C) *Inflation adjustment percentage* — The inflation adjustment percentage under this subparagraph for a fiscal year is equal to the sum of—
+
+    (i) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years, multiplied by the proportion of personnel compensation and benefits costs to total costs of OTC monograph drug activities for the first 3 years of the preceding 4 fiscal years; and
+
+    (ii) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington–Arlington–Alexandria–DC–VA–MD–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by the proportion of all costs other than personnel compensation and benefits costs to total costs of OTC monograph drug activities for the first 3 years of the preceding 4 fiscal years.
 
 (2) **Operating reserve adjustment**
 
-  (A) *In general* — For fiscal year 2021 and subsequent fiscal years, for purposes of subsections (b)(1)(B) and (b)(2)(C), the Secretary may, in addition to adjustments under paragraph (1), further increase the fee revenue and fees if such an adjustment is necessary to provide operating reserves of carryover user fees for OTC monograph drug activities for not more than the number of weeks specified in subparagraph (B).
+  (A) *In general* — For each fiscal year, for purposes of subsection (b)(1)(C), the Secretary may, in addition to adjustments under paragraph (1), further increase the fee revenue and fees if such an adjustment is necessary to provide operating reserves of carryover user fees for OTC monograph drug activities for not more than 10 weeks.
 
-  (B) *Number of weeks* — The number of weeks specified in this subparagraph is—
+  (B) *Decrease* — If the Secretary has carryover balances for such process in excess of 10 weeks of the operating reserves referred to in subparagraph (A), the Secretary shall decrease the fee revenue and fees referred to in such subparagraph to provide for not more than 10 weeks of such operating reserves.
 
-    (i) 3 weeks for fiscal year 2021;
+  (C) *Rationale for adjustment* — If an adjustment under this paragraph is made, the rationale for the amount of the increase or decrease (as applicable) in fee revenue and fees shall be contained in the annual Federal Register notice under paragraph (5) publishing fee revenue and fees for the fiscal year involved.
 
-    (ii) 7 weeks for fiscal year 2022;
+(3) **Additional direct cost adjustment** — The Secretary shall, in addition to adjustments under paragraphs (1) and (2), further increase the fee revenue and fees for purposes of subsection (b)(1)(D) by an amount equal to—
 
-    (iii) 10 weeks for fiscal year 2023;
+  (A) $135,000 for fiscal year 2026;
 
-    (iv) 10 weeks for fiscal year 2024; and
+  (B) $300,000 for fiscal year 2027;
 
-    (v) 10 weeks for fiscal year 2025.
+  (C) $55,000 for fiscal year 2028;
 
-  (C) *Decrease* — If the Secretary has carryover balances for such process in excess of 10 weeks of the operating reserves referred to in subparagraph (A), the Secretary shall decrease the fee revenue and fees referred to in such subparagraph to provide for not more than 10 weeks of such operating reserves.
+  (D) $30,000 for fiscal year 2029; and
 
-  (D) *Rationale for adjustment* — If an adjustment under this paragraph is made, the rationale for the amount of the increase or decrease (as applicable) in fee revenue and fees shall be contained in the annual Federal Register notice under paragraph (4) establishing fee revenue and fees for the fiscal year involved.
+  (E) $0 for fiscal year 2030.
 
-(3) **Additional direct cost adjustment** — The Secretary shall, in addition to adjustments under paragraphs (1) and (2), further increase the fee revenue and fees for purposes of subsection (b)(2)(D) by an amount equal to—
+(4) **One-time facility fee workload adjustment**
 
-  (A) $14,000,000 for fiscal year 2021;
+  (A) *In general* — In addition to the adjustments under paragraphs (1), (2), and (3), the Secretary may further increase the fee revenues and fees through a one-time adjustment made for fiscal year 2028, 2029, or 2030, in accordance with this paragraph.
 
-  (B) $7,000,000 for fiscal year 2022;
+  (B) *Adjustment described*
 
-  (C) $4,000,000 for fiscal year 2023;
+    (i) *Conditions for adjustment* — An adjustment under this paragraph may be made for a fiscal year only if—
 
-  (D) $3,000,000 for fiscal year 2024; and
+      (I) an adjustment under this paragraph had not been made for any prior fiscal year;
 
-  (E) $3,000,000 for fiscal year 2025.
+      (II) the average number of OTC monograph drug facilities subject to a facility fee under subsection (a)(1) over the period of the preceding 3 fiscal years exceeds 1,625; and
 
-(4) **Annual fee setting**
+      (III) with respect to facilities described in subclause (II), the average number of such facilities (expressed as a percentage) that appeared on the arrears lists pursuant to subsection (e)(1)(A)(i) over the period of the preceding 3 fiscal years is less than 30 percent.
 
-  (A) *Fiscal year 2021* — The Secretary shall, not later than the second Monday in May of 2020—
+    (ii) *Amount of adjustment* — An adjustment under this paragraph for a fiscal year shall equal the product of—
 
-    (i) establish OTC monograph drug facility fees for fiscal year 2021 under subsection (a), based on the revenue amount for such year under subsection (b) and the adjustments provided under this subsection; and
+      (I) the total facility revenue amount determined under subsection (b) for the fiscal year, exclusive of the adjustment under this paragraph for such fiscal year; and
 
-    (ii) publish fee revenue, facility fees, and OTC monograph order requests in the Federal Register.
+      (II) the excess facility percentage described in clause (iii).
 
-  (B) *Subsequent fiscal years* — The Secretary shall, for each fiscal year that begins after September 30, 2021, not later than the second Monday in March that precedes such fiscal year—
+    (iii) *Excess facility percentage* — The excess facility percentage described in this clause is—
 
-    (i) establish for such fiscal year, based on the revenue amounts under subsection (b) and the adjustments provided under this subsection—
+      (I) the amount by which the average number of OTC monograph drug facilities subject to a facility fee under subsection (a)(1) over the preceding 3 fiscal years exceeds 1,625; divided by
 
-      (I) OTC monograph drug facility fees under subsection (a)(1); and
+      (II) 1,625.
 
-      (II) OTC monograph order request fees under subsection (a)(2); and
+(5) **Annual fee setting** — The Secretary shall, not later than 60 days before the first day of each fiscal year—
 
-    (ii) publish such fee revenue amounts, facility fees, and OTC monograph order request fees in the Federal Register.
+  (A) establish for such fiscal year, based on the revenue amounts under subsection (b) and the adjustments provided under this subsection—
+
+    (i) OTC monograph drug facility fees under subsection (a)(1); and
+
+    (ii) OTC monograph order request fees under subsection (a)(2); and
+
+  (B) publish such fee revenue amounts, facility fees, and OTC monograph order request fees in the Federal Register.
 
 **(d) Identification of facilities** Each person that owns an OTC monograph drug facility shall submit to the Secretary the information required under this subsection each year. Such information shall, for each fiscal year—
 
@@ -30406,26 +30526,128 @@ Pub. L. 116–136, div. A, title III, § 3861, Mar. 27, 2020, 134 Stat. 458, pro
 
   (C) *Compliance* — The Secretary shall be considered to have met the requirements of subparagraph (B) in any fiscal year if the costs funded by appropriations and allocated for OTC monograph drug activities are not more than 15 percent below the level specified in such subparagraph.
 
-  (D) *Provision for early payments in subsequent years* — Payment of fees authorized under this section for a fiscal year (after fiscal year 2021), prior to the due date for such fees, may be accepted by the Secretary in accordance with authority provided in advance in a prior year appropriations Act.
+  (D) *Provision for early payments* — Payment of fees authorized under this section for a fiscal year, prior to the due date for such fees, may be accepted by the Secretary in accordance with authority provided in advance in a prior year appropriations Act.
 
-(3) **Authorization of appropriations** — For each of the fiscal years 2021 through 2025, there is authorized to be appropriated for fees under this section an amount equal to the total amount of fees assessed for such fiscal year under this section.
+(3) **Authorization of appropriations** — For each of the fiscal years 2026 through 2030, there is authorized to be appropriated for fees under this section an amount equal to the total amount of fees assessed for such fiscal year under this section.
 
 **(g) Collection of unpaid fees** In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 calendar days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 
 **(h) Construction** This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employers, and advisory committees not engaged in OTC monograph drug activities, be reduced to offset the number of officers, employees, and advisory committees so engaged.
 
+### Statutory Notes
+
+#### Termination of Section
+For termination of section by section 6509(a) of Pub. L. 119–37, see Termination Date note below.
+
+#### Amendments
+2025—Subsec. (a)(1)(A). Pub. L. 119–37, § 6504(a)(1), designated existing provisions as cl. (i) and inserted heading, substituted “at any time during the applicable period specified in clause (ii) for a fiscal year” for “on December 31 of the fiscal year or at any time during the preceding 12-month period”, and added cl. (ii).
+
+Subsec. (a)(1)(B)(i)(I). Pub. L. 119–37, § 6504(a)(2), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “has ceased all activities related to OTC monograph drugs prior to December 31 of the year immediately preceding the applicable fiscal year; and”.
+
+Subsec. (a)(1)(D). Pub. L. 119–37, § 6504(a)(3), amended subpar. (D) generally. Prior to amendment, subpar. (D) related to due date in fiscal year 2021 and in each subsequent fiscal year for required facility fees.
+
+Subsec. (b). Pub. L. 119–37, § 6504(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to facility fee revenue amounts and annual base revenue amounts for fiscal years 2021 through 2025.
+
+Subsec. (c)(1)(A). Pub. L. 119–37, § 6504(c)(1)(A), substituted “subsection (b)(1)(B)” for “subsection (b)(2)(B)” and “each fiscal year” for “fiscal year 2022 and each subsequent fiscal year” in introductory provisions.
+
+Subsec. (c)(1)(B). Pub. L. 119–37, § 6504(c)(1)(B), substituted “a fiscal year shall be equal to the product of—” for “fiscal year 2022 and each subsequent fiscal year shall be equal to the product of—” in introductory provisions, added cls. (i) and (ii), and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) the applicable fee under subsection (a)(2) for the preceding fiscal year; and
+
+“(ii) the inflation adjustment percentage under subparagraph (C).”
+
+Subsec. (c)(1)(C). Pub. L. 119–37, § 6504(c)(1)(C), inserted “the sum of” after “is equal to” in introductory provisions, redesignated subcls. (I) and (II) of cl. (ii) as cls. (i) and (ii), respectively, and adjusted margins, substituted “Washington–Arlington–Alexandria–DC–VA–MD–WV” for “Washington-Baltimore, DC–MD–VA–WV” in cl. (ii), as redesignated, and struck out former cl. (i) and introductory provisions of former cl. (ii), which read as follows:
+
+“(i) for each of fiscal years 2022 and 2023, the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data; and
+
+“(ii) for each of fiscal years 2024 and 2025, the sum of—”.
+
+Subsec. (c)(2)(A). Pub. L. 119–37, § 6504(c)(2)(A), substituted “each fiscal year” for “fiscal year 2021 and subsequent fiscal years”, “subsection (b)(1)(C)” for “subsections (b)(1)(B) and (b)(2)(C)”, and “10 weeks” for “the number of weeks specified in subparagraph (B)”.
+
+Subsec. (c)(2)(B). Pub. L. 119–37, § 6504(c)(2)(B), (C), struck out subpar. (B) and redesignated former subpar. (C) as (B). Prior to amendment, text of subpar. (B) read as follows: “The number of weeks specified in this subparagraph is—
+
+“(i) 3 weeks for fiscal year 2021;
+
+“(ii) 7 weeks for fiscal year 2022;
+
+“(iii) 10 weeks for fiscal year 2023;
+
+“(iv) 10 weeks for fiscal year 2024; and
+
+“(v) 10 weeks for fiscal year 2025.”
+
+Subsec. (c)(2)(C). Pub. L. 119–37, § 6504(c)(2)(C), (D), redesignated subpar. (D) as (C) and substituted “paragraph (5) publishing” for “paragraph (4) establishing”. Former subpar. (C) redesignated (B).
+
+Subsec. (c)(2)(D). Pub. L. 119–37, § 6504(c)(2)(C), redesignated subpar. (D) as (C).
+
+Subsec. (c)(3). Pub. L. 119–37, § 6504(c)(3)(A), substituted “subsection (b)(1)(D)” for “subsection (b)(2)(D)” in introductory provisions.
+
+Subsec. (c)(3)(A) to (E). Pub. L. 119–37, § 6504(c)(3)(B), added subpars. (A) to (E) and struck out former subpars. (A) to (E) which provided additional direct cost adjustment amounts for fiscal years 2021 to 2025, respectively.
+
+Subsec. (c)(4), (5). Pub. L. 119–37, § 6504(c)(4), added pars. (4) and (5) and struck out former par. (4) which related to annual fee setting for fiscal year 2021 and subsequent fiscal years.
+
+Subsec. (f)(2)(D). Pub. L. 119–37, § 6504(d)(1), struck out “in subsequent years” after “payments” in heading and “(after fiscal year 2021)” after “a fiscal year” in text.
+
+Subsec. (f)(3). Pub. L. 119–37, § 6504(d)(2), substituted “2026 through 2030” for “2021 through 2025”.
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–37 effective Nov. 12, 2025, with fees under this subpart to be assessed beginning Oct. 1, 2025, see section 6510 of Pub. L. 119–37, set out as a note under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355).
+
+#### Termination Date
+Section ceases to be effective Oct. 1, 2030, see section 6509(a) of Pub. L. 119–37, set out as a note under [section 379j–71 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-71).
+
 
 <a id="section-379j-73"></a>
 ## § 379j–73. Reauthorization; reporting requirements
-**(a) Performance report** Beginning with fiscal year 2021, and not later than 120 calendar days after the end of each fiscal year thereafter for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 3861(b) 11 See References in Text note below. of the CARES Act during such fiscal year and the future plans of the Food and Drug Administration for meeting such goals.
+**(a) Performance report**
 
-**(b) Fiscal report** Not later than 120 calendar days after the end of fiscal year 2021 and each subsequent fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
+(1) **In general** — Not later than 120 calendar days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 6502 of the Over-the-Counter Monograph Drug User Fee Amendments during such fiscal year and the future plans of the Food and Drug Administration for meeting such goals.
+
+(2) **Additional information** — Beginning with fiscal year 2026, the annual report under this subsection shall include—
+
+  (A) the progress of the Food and Drug Administration in achieving the goals, and future plans for meeting the goals, including—
+
+    (i) the number of Tier 1 OTC monograph order requests for which a proposed order was issued, and the number of such requests for which a final order was issued, in the previous fiscal year;
+
+    (ii) the number of Tier 2 OTC monograph order requests for which a proposed order was issued, and the number of such requests for which a final order was issued, in the previous fiscal year;
+
+    (iii) the number of specified safety OTC monograph order requests for which a proposed order was issued, and the number of such requests for which a final order was issued, in the previous fiscal year;
+
+    (iv) the number of generally recognized as safe and effective finalization OTC monograph order requests for which a proposed order was issued, and the number of such requests for which a final order was issued, in the previous fiscal year;
+
+    (v) the average timeline for processing OTC monograph order requests, in the aggregate and by submission type, in the previous fiscal year; and
+
+    (vi) postmarket safety activities with respect to OTC monograph drugs, including—
+
+      (I) collecting, developing, and reviewing safety information on OTC monograph drugs, including adverse event reports;
+
+      (II) developing and using improved analytical tools, adverse event data-collection systems, including information technology systems, to assess potential safety problems, including access to external databases; and
+
+      (III) activities under [section 379aa of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379aa);
+
+  (B) information regarding registration of OTC monograph drug facilities and contract manufacturing organization facilities and payment of registration fees by such facilities, including—
+
+    (i) the OTC monograph drug facilities and contract manufacturing organization facilities that were first registered under section 360(c) or 360(i) of this title in the fiscal year; and
+
+    (ii) for each OTC monograph drug facility and contract manufacturing organization facility that was assessed a facility fee under [section 379j–72(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section379j–72/a&num=0&edition=prelim) in the fiscal year, whether the facility paid such fee;
+
+  (C) the status of implementation of evidence and testing standards under [section 355h(r) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355h/r&num=0&edition=prelim) for nonprescription drugs intended for topical administration, including—
+
+    (i) the application of evidence or testing standards; and
+
+    (ii) the number of active ingredient requests for nonprescription drugs intended for topical administration reviewed using the standards under [section 355h(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355h/b&num=0&edition=prelim); and
+
+  (D) the progress of the Food and Drug Administration in allowing nonclinical testing alternatives to animal testing for the consideration of sunscreen active ingredients.
+
+(3) **Confidentiality** — Nothing in paragraph (2) shall be construed to authorize the disclosure of information that is prohibited from disclosure under [section 331(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/j&num=0&edition=prelim) or [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim) or that is subject to withholding under [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim).
+
+**(b) Fiscal report** Not later than 120 calendar days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
 
 **(c) Public availability** The Secretary shall make the reports required under subsections (a) and (b) available to the public on the internet website of the Food and Drug Administration.
 
 **(d) Reauthorization**
 
-(1) **Consultation** — In developing recommendations to present to the Congress with respect to the goals described in subsection (a), and plans for meeting the goals, for OTC monograph drug activities for the first 5 fiscal years after fiscal year 2025, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
+(1) **Consultation** — In developing recommendations to present to the Congress with respect to the goals described in subsection (a), and plans for meeting the goals, for OTC monograph drug activities for the first 5 fiscal years after fiscal year 2030, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
 
   (A) the Committee on Energy and Commerce of the House of Representatives;
 
@@ -30451,12 +30673,36 @@ Pub. L. 116–136, div. A, title III, § 3861, Mar. 27, 2020, 134 Stat. 458, pro
 
   (E) after consideration of such public views and comments, revise such recommendations as necessary.
 
-(3) **Transmittal of recommendations** — Not later than January 15, 2025, the Secretary shall transmit to the Congress the revised recommendations under paragraph (2), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
+(3) **Transmittal of recommendations** — Not later than January 15, 2030, the Secretary shall transmit to the Congress the revised recommendations under paragraph (2), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
+
+(4) **Minutes of negotiation meetings**
+
+  (A) *Public availability* — The Secretary shall make publicly available, on the public website of the Food and Drug Administration, robust written minutes of all negotiation meetings conducted under this subsection between the Food and Drug Administration and the regulated industry, not later than 30 days after each such negotiation meeting.
+
+  (B) *Content* — The robust written minutes described under subparagraph (A) shall contain, in detail, any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
 
 ### Statutory Notes
 
+#### Termination of Section
+For termination of section by section 6509(b) of Pub. L. 119–37, see Termination Date note below.
+
 #### References in Text
-Section 3861(b) of the CARES Act, referred to in subsec. (a), probably means section 3861 of Pub. L. 116–136, div. A, title III, Mar. 27, 2020, 134 Stat. 458, which is set out as a note under [section 379j–71 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-71). Section 3861 of Pub. L. 116–136 does not contain subsecs.
+Section 6502 of the Over-the-Counter Monograph Drug User Fee Amendments, referred to in subsec. (a)(1), is section 6502 of title V of div. F of Pub. L. 119–37, which is set out as a note under [section 379j–71 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-71).
+
+#### Amendments
+2025—Subsec. (a). Pub. L. 119–37, § 6505(a)(1), designated existing provisions as par. (1), inserted heading, substituted “Not later than 120 calendar days after the end of each fiscal year” for “Beginning with fiscal year 2021, and not later than 120 calendar days after the end of each fiscal year thereafter” and “section 6502 of the Over-the-Counter Monograph Drug User Fee Amendments” for “section 3861(b) of the CARES Act”, and added pars. (2) and (3).
+
+Subsec. (b). Pub. L. 119–37, § 6505(a)(2), substituted “each fiscal year” for “fiscal year 2021 and each subsequent fiscal year”.
+
+Subsec. (d)(1), (3). Pub. L. 119–37, § 6505(a)(3)(A), substituted “2030” for “2025”.
+
+Subsec. (d)(4). Pub. L. 119–37, § 6505(a)(3)(B), added par. (4).
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–37 effective Nov. 12, 2025, with fees under this subpart to be assessed beginning Oct. 1, 2025, see section 6510 of Pub. L. 119–37, set out as a note under [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355).
+
+#### Termination Date
+Pub. L. 119–37, div. F, title V, § 6509(b), Nov. 12, 2025, 139 Stat. 648, provided that: “Section 744N of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379j–73](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-379j-73)) shall cease to be effective January 31, 2031.”
 
 
 <a id="section-379k"></a>
@@ -30659,7 +30905,7 @@ Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see
 
 <a id="section-381"></a>
 ## § 381. Imports and exports
-**(a) Imports; list of registered foreign establishments; samples from unregistered foreign establishments; examination and refusal of admission** The Secretary of the Treasury shall deliver to the Secretary of Health and Human Services, upon his request, samples of food, drugs, devices, tobacco products, and cosmetics which are being imported or offered for import into the United States, giving notice thereof to the owner or consignee, who may appear before the Secretary of Health and Human Services and have the right to introduce testimony. The Secretary of Health and Human Services shall furnish to the Secretary of the Treasury a list of establishments registered pursuant to subsection (i) of section 360 or [section 387e(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section387e/h&num=0&edition=prelim) and shall request that if any drugs, devices, or tobacco products manufactured, prepared, propagated, compounded, or processed in an establishment not so registered are imported or offered for import into the United States, samples of such drugs, devices, or tobacco products be delivered to the Secretary of Health and Human Services, with notice of such delivery to the owner or consignee, who may appear before the Secretary of Health and Human Services and have the right to introduce testimony. If it appears from the examination of such samples or otherwise that (1) such article has been manufactured, processed, or packed under insanitary conditions or, in the case of a device, the methods used in, or the facilities or controls used for, the manufacture, packing, storage, or installation of the device do not conform to the requirements of [section 360j(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360j/f&num=0&edition=prelim), or (2) such article is forbidden or restricted in sale in the country in which it was produced or from which it was exported, or (3) such article is adulterated, misbranded, or in violation of [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or the importer (as defined in [section 384a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384a)) is in violation of such [section 384a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384a), or prohibited from introduction or delivery for introduction into interstate commerce under section 331(ll) of this title, or is a controlled substance subject to an order under [section 360bbb–8d of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-8d), or (4) the recordkeeping requirements under [section 2223 of this title](./chapter-027-food-safety-modernization.md#section-2223) (other than the requirements under subsection (f) of such section) have not been complied with regarding such article or 11 So in original. Probably should be preceded by a comma. (5) such article is being imported or offered for import in violation of [section 331(cc) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/cc&num=0&edition=prelim), then any such article described in any of clauses (1) through (5) shall be refused admission, except as provided in subsection (b) of this section. If it appears from the examination of such samples or otherwise that the article is a counterfeit drug or counterfeit device, such article shall be refused admission. With respect to an article of food, if importation of such food is subject to, but not compliant with, the requirement under subsection (q) that such food be accompanied by a certification or other assurance that the food meets applicable requirements of this chapter, then such article shall be refused admission. If such article is subject to a requirement under section 364a, 379aa, or 379aa–1 of this title and if the Secretary has credible evidence or information indicating that the responsible person (as defined in section 364, 379aa, or 379aa–1 of this title) has not complied with a requirement of such section 364a, 379aa, or 379aa–1 of this title with respect to any such article, or has not allowed access to records described in such section 364a, 379aa, or 379aa–1 of this title, then such article shall be refused admission, except as provided in subsection (b) of this section. The Secretary of the Treasury shall cause the destruction of any such article refused admission unless such article is exported, under regulations prescribed by the Secretary of the Treasury, within 90 days of the date of notice of such refusal or within such additional time as may be permitted pursuant to such regulations, except that the Secretary of Health and Human Services may destroy, without the opportunity for export, any drug or device refused admission under this section, if such drug or device is valued at an amount that is $2,500 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to [section 1498(a)(1) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1498/a/1&num=0&edition=prelim)) and was not brought into compliance as described under subsection (b). The Secretary of Health and Human Services shall issue regulations providing for notice and an opportunity to appear before the Secretary of Health and Human Services and introduce testimony, as described in the first sentence of this subsection, on destruction of a drug or device under the seventh sentence of this subsection. The regulations shall provide that prior to destruction, appropriate due process is available to the owner or consignee seeking to challenge the decision to destroy the drug or device. Where the Secretary of Health and Human Services provides notice and an opportunity to appear and introduce testimony on the destruction of a drug or device, the Secretary of Health and Human Services shall store and, as applicable, dispose of the drug or device after the issuance of the notice, except that the owner and consignee shall remain liable for costs pursuant to subsection (c). Such process may be combined with the notice and opportunity to appear before the Secretary and introduce testimony, as described in the first sentence of this subsection, as long as appropriate notice is provided to the owner or consignee. Neither clause (2) nor clause (5) of the third sentence of this subsection shall be construed to prohibit the admission of narcotic drugs, the importation of which is permitted under the Controlled Substances Import and Export Act [[21 U.S.C. 951](./chapter-013-drug-abuse-prevention-and-control.md#section-951) et seq.].
+**(a) Imports; list of registered foreign establishments; samples from unregistered foreign establishments; examination and refusal of admission** The Secretary of the Treasury shall deliver to the Secretary of Health and Human Services, upon his request, samples of food, drugs, devices, tobacco products, and cosmetics which are being imported or offered for import into the United States, giving notice thereof to the owner or consignee, who may appear before the Secretary of Health and Human Services and have the right to introduce testimony. The Secretary of Health and Human Services shall furnish to the Secretary of the Treasury a list of establishments registered pursuant to subsection (i) of section 360 or [section 387e(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section387e/h&num=0&edition=prelim) and shall request that if any drugs, devices, or tobacco products manufactured, prepared, propagated, compounded, or processed in an establishment not so registered are imported or offered for import into the United States, samples of such drugs, devices, or tobacco products be delivered to the Secretary of Health and Human Services, with notice of such delivery to the owner or consignee, who may appear before the Secretary of Health and Human Services and have the right to introduce testimony. If it appears from the examination of such samples or otherwise that (1) such article has been manufactured, processed, or packed under insanitary conditions or, in the case of a device, the methods used in, or the facilities or controls used for, the manufacture, packing, storage, or installation of the device do not conform to the requirements of [section 360j(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360j/f&num=0&edition=prelim), or (2) such article is forbidden or restricted in sale in the country in which it was produced or from which it was exported, or (3) such article is adulterated, misbranded, or in violation of [section 355 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355) or the importer (as defined in [section 384a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384a)) is in violation of such [section 384a of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-384a), or prohibited from introduction or delivery for introduction into interstate commerce under section 331(ll) of this title, or is a controlled substance subject to an order under [section 360bbb–8d of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360bbb-8d), or (4) the recordkeeping requirements under [section 2223 of this title](./chapter-027-food-safety-modernization.md#section-2223) (other than the requirements under subsection (f) of such section) have not been complied with regarding such article or 11 So in original. Probably should be preceded by a comma. (5) such article is being imported or offered for import in violation of [section 331(cc) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section331/cc&num=0&edition=prelim), then any such article described in any of clauses (1) through (5) shall be refused admission, except as provided in subsection (b) of this section. If it appears from the examination of such samples or otherwise that the article is a counterfeit drug or counterfeit device, such article shall be refused admission. With respect to an article of food, if importation of such food is subject to, but not compliant with, the requirement under subsection (q) that such food be accompanied by a certification or other assurance that the food meets applicable requirements of this chapter, then such article shall be refused admission. If such article is subject to a requirement under section 364a, 379aa, or 379aa–1 of this title and if the Secretary has credible evidence or information indicating that the responsible person (as defined in section 364, 379aa, or 379aa–1 of this title) has not complied with a requirement of such section 364a, 379aa, or 379aa–1 of this title with respect to any such article, or has not allowed access to records described in such section 364a, 379aa, or 379aa–1 of this title, then such article shall be refused admission, except as provided in subsection (b) of this section. The Secretary of the Treasury shall cause the destruction of any such article refused admission unless such article is exported, under regulations prescribed by the Secretary of the Treasury, within 90 days of the date of notice of such refusal or within such additional time as may be permitted pursuant to such regulations, except that the Secretary of Health and Human Services may destroy, without the opportunity for export, any drug, device, or tobacco product refused admission under this section, if such drug, device, or tobacco product is valued at an amount that is $2,500 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to [section 1498(a)(1) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1498/a/1&num=0&edition=prelim)) and was not brought into compliance as described under subsection (b). The Secretary of Health and Human Services shall issue regulations providing for notice and an opportunity to appear before the Secretary of Health and Human Services and introduce testimony, as described in the first sentence of this subsection, on destruction of a drug, device, or tobacco product under the seventh sentence of this subsection. The regulations shall provide that prior to destruction, appropriate due process is available to the owner or consignee seeking to challenge the decision to destroy the drug, device, or tobacco product. Where the Secretary of Health and Human Services provides notice and an opportunity to appear and introduce testimony on the destruction of a drug, device, or tobacco product, the Secretary of Health and Human Services shall store and, as applicable, dispose of the drug, device, or tobacco product after the issuance of the notice, except that the owner and consignee shall remain liable for costs pursuant to subsection (c). Such process may be combined with the notice and opportunity to appear before the Secretary and introduce testimony, as described in the first sentence of this subsection, as long as appropriate notice is provided to the owner or consignee. Neither clause (2) nor clause (5) of the third sentence of this subsection shall be construed to prohibit the admission of narcotic drugs, the importation of which is permitted under the Controlled Substances Import and Export Act [[21 U.S.C. 951](./chapter-013-drug-abuse-prevention-and-control.md#section-951) et seq.].
 
 **(b) Disposition of refused articles** Pending decision as to the admission of an article being imported or offered for import, the Secretary of the Treasury may authorize delivery of such article to the owner or consignee upon the execution by him of a good and sufficient bond providing for the payment of such liquidated damages in the event of default as may be required pursuant to regulations of the Secretary of the Treasury. If it appears to the Secretary of Health and Human Services that (1) an article included within the provisions of clause (3) of subsection (a) of this section can, by relabeling or other action, be brought into compliance with this chapter or rendered other than a food, drug, device, or cosmetic, or (2) with respect to an article described in subsection (a) relating to the requirements of section 364a, 379aa, or 379aa–1 of this title, the responsible person (as defined in section 364, 379aa, or 379aa–1 of this title) can take action that would assure that the responsible person is in compliance with section 364a, 379aa, or 379aa–1 of this title, as the case may be, final determination as to admission of such article may be deferred and, upon filing of timely written application by the owner or consignee and the execution by him of a bond as provided in the preceding provisions of this subsection, the Secretary may, in accordance with regulations, authorize the applicant, or, with respect to clause (2), the responsible person, to perform such relabeling or other action specified in such authorization (including destruction or export of rejected articles or portions thereof, as may be specified in the Secretary’s authorization). All such relabeling or other action pursuant to such authorization shall in accordance with regulations be under the supervision of an officer or employee of the Department of Health and Human Services designated by the Secretary, or an officer or employee of the Department of the Treasury designated by the Secretary of the Treasury.
 
@@ -31033,6 +31279,8 @@ The Egg Products Inspection Act, referred to in subsec. (m)(3)(B), is Pub. L. 91
 The Public Health Service Act, referred to in subsec. (s)(2)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–37 substituted “drug, device, or tobacco product” for “drug or device” wherever appearing.
+
 2022—Subsec. (a). Pub. L. 117–328, § 3503(a)(4)(C), substituted “under section 364a, 379aa, or 379aa–1 of this title” for “under section 379aa or 379aa–1 of this title”, “defined in section 364, 379aa, or 379aa–1 of this title” for “defined in such section 379aa or 379aa–1 of this title”, “of such section 364a, 379aa, or 379aa–1 of this title” for “of such section 379aa or 379aa–1 of this title”, and “described in such section 364a, 379aa, or 379aa–1 of this title” for “described in such section 379aa or 379aa–1 of this title”.
 
 Subsec. (b). Pub. L. 117–328, § 3503(a)(4)(D), substituted “requirements of section 364a, 379aa, or 379aa–1 of this title” for “requirements of sections 379aa or 379aa–1 of this title,”, “as defined in section 364, 379aa, or 379aa–1 of this title” for “defined in section 379aa or 379aa–1 of this title”, and “with section 364a, 379aa, or 379aa–1 of this title” for “with section 379aa or 379aa–1 of this title”.
@@ -33801,6 +34049,9 @@ With respect to any time periods specified in div. A of Pub. L. 111–31 that be
 
 #### Codification
 Section was enacted as part of the Consolidated Appropriations Act, 2022, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+
+#### Report on Removal of All Illegal ENDS Products From the Market
+Pub. L. 119–37, div. B, title VII, § 772(c), Nov. 12, 2025, 139 Stat. 556, provided that: “The Commissioner of Food and Drugs shall submit a semi-annual written report to the Committees on Appropriations of both Houses of Congress on the progress that the Center for Tobacco Products is making in removing all illegal ENDS products from the market: Provided, That the initial report shall be submitted not later than 180 days after the date of enactment of this Act [Nov. 12, 2025].”
 
 
 <a id="section-391"></a>

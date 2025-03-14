@@ -828,7 +828,7 @@ Subsec. (o)(3). Pub. L. 96–601, § 4(b), substituted provision authorizing amo
 
 Subsec. (o)(4), (5). Pub. L. 96–601, § 4(b), added pars. (4) and (5).
 
-1978—Subsec. (a). Pub. L. 95–600, § 101(e)(1), substituted “With respect to wages paid after December 31, 1978, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1975, except that such tables shall be modified to the extent necessary to reflect the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977 and the amendments made by section 101 of the Revenue Act of 1978.” for “With respect to wages paid after May 31, 1977, and before January 1, 1979, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1976; except that such tables shall be modified to the extent necessary so that, had they been in effect for all of 1977, they would reflect the full year effect of the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977. With respect to wages paid after December 31, 1978, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1975, except that such tables shall be modified to the extent necessary to reflect the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977.”.
+1978—Subsec. (a). Pub. L. 95–600, § 101(e)(1), substituted “With respect to wages paid after December 31, 1978, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1975, except that such tables shall be modified to the extent necessary to reflect the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977 and the amendments made by section 101 of the Revenue Act of 1978.” for “With respect to wages paid after May 31, 1977, and before January 1, 1979, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1976; except that such tables shall be modified to the extent necessary so that, had they been in effect for all of 1977, they would reflect the full year effect of the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977. With respect to wages paid after December 31, 1978, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1975, except that such tables shall be modified to the extent necessary to reflect the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977.”
 
 Subsec. (b)(1). Pub. L. 95–600, § 102(c)(1), increased the amounts set out in the table for one withholding exemption for each of the payroll period categories from $14.40, $28.80, $31.30, $62.50, $187.50, $375.00, $750.00 and $2.10 to $19.23, $38.46, $41.66, $83.33, $250.00, $500.00, $1,000.00 and $2.74, respectively.
 
@@ -1092,6 +1092,11 @@ Act Aug. 9, 1955, ch. 666, § 3, 69 Stat. 605, provided that: “The amendment m
 
 #### Savings Provision
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under [section 45K of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45k).
+
+#### Withholding
+Pub. L. 119–21, title VII, § 70201(i), July 4, 2025, 139 Stat. 173, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall modify the procedures prescribed under section 3402(a) of the Internal Revenue Code of 1986 for taxable years beginning after December 31, 2025, to take into account the deduction allowed under section 224 of such Code (as added by this Act).”
+
+Pub. L. 119–21, title VII, § 70202(f), July 4, 2025, 139 Stat. 175, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall modify the procedures prescribed under section 3402(a) of the Internal Revenue Code of 1986 for taxable years beginning after December 31, 2025, to take into account the deduction allowed under section 225 of such Code (as added by this Act).”
 
 #### Plan Amendments Not Required Until January 1, 1994
 For provisions directing that if any amendments made by subtitle B [§§ 521–523] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
@@ -1441,9 +1446,9 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
   (B) if determined for a 1-year period, would not exceed $10.
 
-(6) **Other reportable payments include payments described in section 6041(a) or 6041A(a) only where aggregate for calendar year is $600 or more** — Any payment of a kind required to be shown on a return required under section 6041(a) or 6041A(a) which is made during any calendar year shall be treated as a reportable payment only if—
+(6) **Other reportable payments include payments described in section 6041(a) or 6041A(a) only where in excess of threshold** — Any payment of a kind required to be shown on a return required under section 6041(a) or 6041A(a) which is made during any calendar year shall be treated as a reportable payment only if—
 
-  (A) the aggregate amount of such payment and all previous payments described in such sections by the payor to the payee during such calendar year equals or exceeds $600,
+  (A) the aggregate amount of such payment and all previous payments described in such sections by the payor to the payee during such calendar year equals or exceeds the dollar amount in effect for such calendar year under section 6041(a),
 
   (B) the payor was required under section 6041(a) or 6041A(a) to file a return for the preceding calendar year with respect to payments to the payee, or
 
@@ -1455,6 +1460,16 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
   (B) to the extent provided in regulations, of interest on instruments similar to those described in subparagraph (A).
   The preceding sentence shall not apply for purposes of determining whether there is payee underreporting described in subsection (c).
+
+(8) **Other reportable payments include payments in settlement of third party network transactions only where aggregate transactions exceed reporting threshold for the calendar year**
+
+  (A) *In general* — Any payment in settlement of a third party network transaction required to be shown on a return required under section 6050W which is made during any calendar year shall be treated as a reportable payment only if—
+
+    (i) the aggregate number of transactions with respect to the participating payee during such calendar year exceeds the number of transactions specified in section 6050W(e)(2), and
+
+    (ii) the aggregate amount of transactions with respect to the participating payee during such calendar year exceeds the dollar amount specified in section 6050W(e)(1) at the time of such payment.
+
+  (B) *Exception if third party network transactions made in prior year were reportable* — Subparagraph (A) shall not apply with respect to payments to any participating payee during any calendar year if one or more payments in settlement of third party network transactions made by the payor to the participating payee during the preceding calendar year were reportable payments.
 
 **(c) Notified payee underreporting with respect to interest and dividends**
 
@@ -1674,6 +1689,12 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 Section 1(c), referred to in subsec. (a)(1), to be treated, for purposes of the rate of tax, as a reference to the corresponding rate bracket under [section 1(j)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1/j/2/C&num=0&edition=prelim), see [section 1(j)(2)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1/j/2/F&num=0&edition=prelim).
 
 #### Amendments
+2025—Subsec. (b)(6). Pub. L. 119–21, § 70433(d)(2), substituted “only where in excess of threshold” for “only where aggregate for calendar year is $600 or more” in heading.
+
+Subsec. (b)(6)(A). Pub. L. 119–21, § 70433(d)(1), substituted “the dollar amount in effect for such calendar year under section 6041(a)” for “$600”.
+
+Subsec. (b)(8). Pub. L. 119–21, § 70432(b)(1), added par. (8).
+
 2008—Subsec. (b)(3)(F). Pub. L. 110–289 added subpar. (F).
 
 2001—Subsec. (a)(1). Pub. L. 107–16 substituted “equal to the product of the fourth lowest rate of tax applicable under section 1(c) and such payment” for “equal to 31 percent of such payment” in concluding provisions.
@@ -1695,6 +1716,11 @@ Subsec. (d)(2)(A). Pub. L. 98–369, § 722(h)(1)(A), inserted “the payor was 
 Subsec. (d)(2)(B). Pub. L. 98–369, § 722(h)(1)(B), in amending subpar. (B) generally, reenacted cl. (i), in cl. (ii) inserted “with respect to such acquisition—”, added subcls. (I) and (II), redesignated former subcls. (I) and (II) as (III) and (IV), respectively, and in subcl. (III) substituted “the Secretary notifies such broker” for “such broker is notified by the Secretary”, and in provisions following cl. (ii) substituted “shall within such period as the Secretary may prescribe by regulations (but not later than 15 days after such acquisition), notify the payor that such payee is subject to withholding under subparagraph (A), (B), (C) or (D) of subsection (a)(1),” for “within 15 days after the date of the acquisition notify the payor that such payee is subject to withholding under subsection (a)(1)(D) (or subsection (a)(1)(C) in the case of a notification described in clause (ii)(II).”
 
 Subsec. (e)(1). Pub. L. 98–369, § 152(a), inserted provision that the Secretary may require that a TIN required to be furnished under subsection (a)(1)(A) be provided under penalties of perjury only with respect to interest, dividends, patronage dividends, and amounts subject to broker reporting.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VII, § 70432(b)(2), July 4, 2025, 139 Stat. 243, provided that: “The amendment made by this subsection [amending this section] shall apply to calendar years beginning after December 31, 2024.”
+
+Pub. L. 119–21, title VII, § 70433(f), July 4, 2025, 139 Stat. 244, provided that: “The amendments made by this section [amending this section and sections 6041 and 6041A of this title] shall apply with respect to payments made after December 31, 2025.”
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–289, div. C, title III, § 3091(e), July 30, 2008, 122 Stat. 2911, provided that: “(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [enacting [section 6050W of this title](./chapter-061-information-and-returns.md#section-6050w) and amending this section and [section 6724 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6724)] shall apply to returns for calendar years beginning after December 31, 2010. “(2) Application of backup withholding.—“(A) In general.—The amendment made by subsection (c) [amending this section] shall apply to amounts paid after December 31, 2011. “(B) Eligibility for tin matching program.—Solely for purposes of carrying out any TIN matching program established by the Secretary under section 3406(i) of the Internal Revenue Code of 1986—“(i) the amendments made this section shall be treated as taking effect on the date of the enactment of this Act [July 30, 2008], and “(ii) each person responsible for setting the standards and mechanisms referred to in section 6050W(d)(2)(C) of such Code, as added by this section, for settling transactions involving payment cards shall be treated in the same manner as a payment settlement entity.”

@@ -2010,9 +2010,11 @@ Pub. L. 107–171, title VII, § 7409, May 13, 2002, 116 Stat. 461, related to r
 
   (A) $5,000,000 for each of the periods of fiscal years 2008 through 2012 and 2014 through 2018;
 
-  (B) $5,000,000 for the period of fiscal years 2019 through 2023; and
+  (B) $5,000,000 for the period of fiscal years 2019 through 2023;
 
-  (C) $1,000,000 for fiscal year 2024.
+  (C) $1,000,000 for fiscal year 2024; and
+
+  (D) $10,000,000 for the period of fiscal years 2026 through 2031.
 
 (2) **Discretionary funding** — In addition to funds made available under paragraph (1), there are authorized to be appropriated to carry out this section not more than $5,000,000 for each of fiscal years 2008 through 2023, to remain available until expended.
 
@@ -2027,6 +2029,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
 
 #### Amendments
+2025—Subsec. (d)(1)(D). Pub. L. 119–21 added subpar. (D).
+
 2023—Subsec. (d)(1)(C). Pub. L. 118–22 added subpar. (C).
 
 2018—Subsec. (d)(1). Pub. L. 115–334, § 10103(1), struck out “through fiscal year 2012” after “funding” in heading, substituted “, to remain available until expended—” for “$5,000,000, to remain available until expended.”, and added subpars. (A) and (B).
@@ -2160,13 +2164,15 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (A) $10,000,000 for fiscal year 2019, to remain available until expended; and
 
-  (B) $2,000,000 for fiscal year 2024, to remain available until expended.
+  (B) $2,000,000 for each of fiscal years 2024 through 2031.
 
 (2) **Authorization of appropriations** — In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019 through 2023.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (d)(1)(B). Pub. L. 119–21 substituted “each of fiscal years 2024 through 2031” for “fiscal year 2024, to remain available until expended”.
+
 2023—Subsec. (d)(1). Pub. L. 118–22 inserted dash after “section”, designated remainder of existing provisions as subpar. (A), and added subpar. (B).
 
 #### Effective Date of 2023 Amendment
@@ -2350,7 +2356,9 @@ Section 5932, Pub. L. 101–624, title XVI, § 1679, Nov. 28, 1990, 104 Stat. 37
 
   (B) $5,000,000 for each of fiscal years 2014 through 2023.
 
-(2) **National grant** — Not more than 15 percent of the amounts made available under paragraph (1) for a fiscal year shall be used to carry out subsection (b).
+(2) **National grant** — Not more than 15 percent of the amounts made available under paragraph (1) and subsection (d) for a fiscal year shall be used to carry out subsection (b).
+
+**(d) Mandatory funding** Subject to subsection (c)(2), of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $8,000,000 for fiscal year 2026, to remain available until expended.
 
 ### Statutory Notes
 
@@ -2358,6 +2366,10 @@ Section 5932, Pub. L. 101–624, title XVI, § 1679, Nov. 28, 1990, 104 Stat. 37
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2025—Subsec. (c)(2). Pub. L. 119–21, § 10604(d)(1), inserted “and subsection (d)” after “paragraph (1)”.
+
+Subsec. (d). Pub. L. 119–21, § 10604(d)(2), added subsec. (d).
+
 2018—Subsec. (a)(7). Pub. L. 115–334, § 7214(1), added par. (7).
 
 Subsec. (b). Pub. L. 115–334, § 7214(2), inserted “(including veterans)” after “individuals” and “or, in the case of veterans with disabilities, who are pursuing new farming opportunities” before period at end.
@@ -2943,6 +2955,8 @@ Section, Pub. L. 110–234, title VII, § 7529, May 22, 2008, 122 Stat. 1278; Pu
 
     (iii) *Additional funding* — Not later than 30 days after November 17, 2023, of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $37,000,000, to remain available until expended.
 
+    (iv) *Further funding* — Not later than 30 days after July 4, 2025, of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $37,000,000, to remain available until expended.
+
   (B) *Conditions on expenditure*
 
     (i) *In general* — The Foundation may use the funds made available under subparagraph (A) to carry out the purposes, duties, and powers of the Foundation only to the extent that the Foundation secures an equal amount of matching funds from a non-Federal source, including an agricultural commodity promotion, research, and information program.
@@ -2959,6 +2973,8 @@ Section, Pub. L. 110–234, title VII, § 7529, May 22, 2008, 122 Stat. 1278; Pu
 Section was enacted as part of the Agricultural Act of 2014, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
 
 #### Amendments
+2025—Subsec. (g)(1)(A)(iv). Pub. L. 119–21 added cl. (iv).
+
 2023—Subsec. (g)(1)(A)(iii). Pub. L. 118–22 added cl. (iii).
 
 2022—Subsec. (f)(4)(B)(ii). Pub. L. 117–286 substituted “[section 13101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101&num=0&edition=prelim))” for “section 109 of the Ethics in Government Act of 1978 (5 U.S.C. App.))”.

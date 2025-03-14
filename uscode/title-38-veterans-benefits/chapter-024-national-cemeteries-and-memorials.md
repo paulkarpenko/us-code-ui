@@ -132,7 +132,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 (4) Any citizen of the United States who, during any war in which the United States is or has been engaged, served in the armed forces of any government allied with the United States during that war, and whose last such service terminated honorably.
 
-(5) The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7), and the spouse, minor child, and, in the discretion of the Secretary, unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s or child’s death if such death occurs before September 30, 2025.
+(5) The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7), and the spouse, minor child, and, in the discretion of the Secretary, unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s or child’s death if such death occurs before September 30, 2032.
 
 (6) Such other persons or classes of persons as may be designated by the Secretary.
 
@@ -188,6 +188,8 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 Section 2(1) of the Hmong Veterans’ Naturalization Act of 2000, referred to in subsec. (a)(10)(A)(i), is section 2(1) of Pub. L. 106–207, May 26, 2000, 114 Stat. 316, which is set out as a note under [section 1423 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1423&num=0&edition=prelim), Aliens and Nationality.
 
 #### Amendments
+2025—Subsec. (a)(5). Pub. L. 118–271 substituted “September 30, 2032” for “September 30, 2025”.
+
 2024—Subsec. (a)(5). Pub. L. 118–83 substituted “September 30, 2025” for “October 1, 2024”.
 
 2023—Subsec. (a)(2). Pub. L. 118–31 inserted “any member of the Space Force,” after “a Reserve component of the Armed Forces,”.
@@ -610,7 +612,23 @@ Subject to such restrictions as the Secretary may prescribe, the Secretary may a
 
 **(j)** The Secretary may not deny an application for a grant under this section solely on the basis that the State receiving such grant may use funds from such grant to expand, improve, operate, or maintain a veterans’ cemetery in which interment of individuals described in subsection (i)(2) is allowed.
 
-**(k)** For purposes of this section:
+**(k)**
+
+(1) The Secretary may not establish a condition for a grant under this section that restricts the ability of a State, county, or tribal organization receiving such a grant to allow the interment of any person described in paragraph (8) or (10) of [section 2402(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2402/a&num=0&edition=prelim) in a veterans’ cemetery owned by that State or county or on trust land owned by, or held in trust for, that tribal organization.
+
+(2) The Secretary may not deny an application for a grant under this section solely on the basis that the State, county, or tribal organization receiving such grant may use funds from such grant to expand, improve, operate, or maintain a veterans’ cemetery in which interment of persons described in paragraph (8) or (10) of [section 2402(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2402/a&num=0&edition=prelim) is allowed.
+
+(3)
+
+  (A) When requested by a State, county, or tribal organization that is the recipient of a grant made under this section, the Secretary shall—
+
+    (i) determine whether a person is eligible for burial in a national cemetery under paragraph (8) or (10) of [section 2402(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2402/a&num=0&edition=prelim); and
+
+    (ii) advise the recipient of the determination.
+
+  (B) A recipient described in subparagraph (A) may use a determination of the Secretary under such subparagraph as a determination of the eligibility of the person concerned for burial in the cemetery for which the grant was made.
+
+**(l)** For purposes of this section:
 
 (1) The term “tribal organization” has the meaning given that term in [section 3765(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3765/4&num=0&edition=prelim).
 
@@ -619,6 +637,8 @@ Subject to such restrictions as the Secretary may prescribe, the Secretary may a
 ### Statutory Notes
 
 #### Amendments
+2024—Subsecs. (k), (l). Pub. L. 118–159 added subsec. (k) and redesignated former subsec. (k) as (l).
+
 2022—Subsec. (d)(2). Pub. L. 117–103, § 102(a)(1), substituted “Except as provided in subsection (i), the Secretary may” for “The Secretary may”.
 
 Subsecs. (i) to (k). Pub. L. 117–103, § 102(a)(2), (3), added subsecs. (i) and (j) and redesignated former subsec. (i) as (k).
@@ -799,7 +819,11 @@ Pub. L. 117–103, div. CC, § 102(b), Mar. 15, 2022, 136 Stat. 1110, provided t
 1989—Subsec. (b). Pub. L. 101–237 inserted “of the Army” after “Secretary”.
 
 #### Updates and Preservation of Memorials to Chaplains at Arlington National Cemetery
-Pub. L. 117–81, div. A, title V, § 584, Dec. 27, 2021, 135 Stat. 1758, as amended by Pub. L. 117–263, div. A, title V, § 593, Dec. 23, 2022, 136 Stat. 2612, provided that: “(a) Updates and Preservation of Memorials.—“(1) Protestant chaplains memorial.—The Secretary of the Army may permit NCMAF—“(A) to modify the memorial to Protestant chaplains located on Chaplains Hill to include a granite, marble, or other stone base for the bronze plaque of the memorial; “(B) to provide an updated bronze plaque, described in subparagraph (A), including the name of each chaplain, verified as described in subsection (b), who died while serving on active duty in the Armed Forces after the date on which the original memorial was placed; and “(C) to make such other updates and corrections to the memorial that the Secretary determines necessary. “(2) Catholic and jewish chaplain memorials.—The Secretary of the Army may permit NCMAF to update and make corrections to the Catholic and Jewish chaplain memorials located on Chaplains Hill that the Secretary determines necessary. “(3) No cost to federal government.—The activities of NCMAF authorized by this subsection shall be carried out at no cost to the Federal Government. “(4) Authority of secretary of the army.—The Secretary of the Army may permit NCMAF to carry out any action authorized by this subsection without regard to the time limitation under [section 2409(b)(2)(C) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2409/b/2/C&num=0&edition=prelim), United States Code. “(b) Verification of Names.—NCMAF may not include the name of a chaplain on a memorial on Chaplains Hill under subsection (a) unless that name has been verified by the Chief of Chaplains of the Army, Navy, or Air Force or the Chaplain of the United States Marine Corps, depending on the branch of the Armed Forces in which the chaplain served. “(c) Prohibition on Expansion of Memorials.—Except as provided in subsection (a)(1)(A), this section may not be construed as authorizing the expansion of any memorial that is located on Chaplains Hill as of the date of the enactment of this Act [Dec. 27, 2021]. “(d) Definitions.—In this section:“(1) The term ‘Chaplains Hill’ means the area in Arlington National Cemetery that, as of the date of the enactment of this Act, is generally identified and recognized as Chaplains Hill. “(2) The term ‘NCMAF’ means the National Conference on Ministry to the Armed Forces or any successor organization recognized in law for purposes of the operation of this section.”
+Pub. L. 119–60, div. A, title X, § 1092, Dec. 18, 2025, 139 Stat. 1064, provided that: “(a) Updates and Preservation of Memorials.—“(1) Protestant chaplains memorial.—The Secretary of the Army shall permit NCMAF—“(A) to modify the memorial to Protestant chaplains located on Chaplains Hill to include a granite, marble, or other stone base for the bronze plaque of the memorial; “(B) to provide an updated bronze plaque that includes the name of each chaplain, verified as described in subsection (b), who died while serving on active duty in the Armed Forces after the date on which the original memorial was placed and before the date of the enactment of this Act [Dec. 18, 2025]; and “(C) to make such other updates and corrections to the memorial that the Secretary determines necessary. “(2) Catholic chaplain memorials.—The Secretary of the Army shall permit NCMAF—“(A) to update the Catholic chaplains memorial to include the name of each chaplain, verified under subsection (b), who died while serving on active duty in the Armed Forces after the date on which the original memorial was placed and before the date of the enactment of this Act; and “(B) to make such other updates and corrections to the memorial that the Secretary determines necessary. “(3) Jewish chaplain memorials.—The Secretary of the Army shall permit NCMAF to update and make corrections to the Jewish chaplain memorials located on Chaplains Hill that the Secretary determines necessary. “(4) No cost to federal government.—The activities of NCMAF authorized by this subsection shall be carried out at no cost to the Federal Government. “(b) Verification of Names.—NCMAF may not include the name of a chaplain on a memorial on Chaplains Hill under subsection (a) unless that name has been verified by the Chief of Chaplains of the Army, Navy, or Air Force, or the Chaplain of the United States Marine Corps, depending on the Armed Force in which the chaplain served. “(c) Prohibition on Expansion of Memorials.—Except as provided in subsection (a)(1)(A), this section may not be construed as authorizing the expansion of any memorial that is located on Chaplains Hill on the date of the enactment of this Act. “(d) Definitions.—In this section:“(1) The term ‘Chaplains Hill’ means the area in Arlington National Cemetery that, as of the date of the enactment of this Act, is generally identified and recognized as Chaplains Hill. “(2) The term ‘NCMAF’ means the National Conference on Ministry to the Armed Forces or any successor organization recognized in law for purposes of the operation of this section.”
+
+Similar provisions were contained in the following prior act:
+
+Pub. L. 117–81, div. A, title V, § 584, Dec. 27, 2021, 135 Stat. 1758, as amended by Pub. L. 117–263, div. A, title V, § 593, Dec. 23, 2022, 136 Stat. 2612.
 
 #### Transfer to the Secretary of the Army and Management of Parcel of Federal Land in Arlington, Virginia
 Pub. L. 116–92, div. B, title XXVIII, § 2834(a), Dec. 20, 2019, 133 Stat. 1893, provided that: “(1) Transfer.—Administrative jurisdiction over the parcel of Federal land described in paragraph (2) is transferred from the Secretary of the Interior to the Secretary of the Army. “(2) Description of land.—The parcel of Federal land referred to in paragraph (1) is the approximately 16.09-acre parcel of land in Arlington, Virginia, as depicted on the map entitled ‘Arlington National Cemetery, Memorial Ave–NPS Parcel’ and dated February 11, 2019.”

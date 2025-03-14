@@ -2,7 +2,7 @@
 title: 16
 chapter: '3'
 heading: FORESTS; FOREST SERVICE; REFORESTATION; MANAGEMENT
-section_count: 173
+section_count: 176
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -514,70 +514,131 @@ Section, act Mar. 4, 1913, ch. 145, § 1[part], 37 Stat. 843, related to leaves 
 
 
 <a id="section-558a"></a>
-## § 558a. Volunteers in the National Forests Program
+## § 558a. Purpose
 
-The Secretary of Agriculture (hereinafter referred to as the “Secretary”) is authorized to recruit, train, and accept without regard to the civil service 11 So in original. The word “and” probably should appear after “civil service”. classification laws, rules, or regulations the services of individuals without compensation as volunteers for or in aid of interpretive functions, visitor services, conservation measures and development, or other activities in and related to areas administered by the Secretary through the Forest Service. In carrying out this section, the Secretary shall consider referrals of prospective volunteers made by the Corporation for National and Community Service.
+The purpose of this Act is to leverage volunteer engagement to supplement projects that are carried out by the Secretaries to fulfill the missions of the Forest Service and the Bureau of Land Management and are accomplished with appropriated funds.
 
 ### Statutory Notes
 
-#### Amendments
-1993—Pub. L. 103–82 substituted “the Corporation for National and Community Service” for “ACTION”.
+#### References in Text
+This Act, referred to in text, is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, as amended generally by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913, known as the Volunteers in the National Forests and Public Lands Act, which enacted this section and sections 558b to 558g of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-#### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under [section 8332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8332&num=0&edition=prelim), Government Organization and Employees.
+#### Codification
+The Volunteers in the National Forests and Public Lands Act, enacting this section and sections 558b to 558g of this title, was orignally enacted as Pub. L. 92–300, May 18, 1972, 86 Stat. 147, known as the Volunteers in the National Forests Act of 1972, which enacted former sections 558a to 558d of this title. Pub. L. 92–300 was amended by Pub. L. 95–289, § 1, June 5, 1978, 92 Stat. 289; Pub. L. 101–286, title II, § 204(a), May 9, 1990, 104 Stat. 175; Pub. L. 103–82, title IV, § 405(d), Sept. 21, 1993, 107 Stat. 921; Pub. L. 114–245, § 4(d)(1), Nov. 28, 2016, 130 Stat. 992. Pub. L. 92–300 was subsequently amended generally by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913, including an amendment to provide that the Act be cited as the Volunteers in the National Forests and Public Lands Act. Pub. L. 92–300 is shown herein, however, as having been added by Pub. L. 118–234 without reference to those intervening amendments because of the extensive revision of Pub. L. 92–300 by Pub. L. 118–234.
+
+#### Prior Provisions
+A prior section 558a, Pub. L. 92–300, § 1, May 18, 1972, 86 Stat. 147; Pub. L. 103–82, title IV, § 405(d), Sept. 21, 1993, 107 Stat. 921, authorized the Secretary of Agriculture to recruit, train, and accept volunteers in the National Forests Program, prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
+
+A prior section 2 of Pub. L. 92–300, May 18, 1972, 86 Stat. 147, was classified to [section 558b of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558b), prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
 
 #### Short Title
-Pub. L. 92–300, § 5, May 18, 1972, 86 Stat. 147, provided that: “This Act [enacting this section and sections 558b to 558d of this title] may be cited as the ‘Volunteers in the National Forests Act of 1972’.”
+Pub. L. 92–300, § 1, as added by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913, provided that: “This Act [enacting this section and sections 558b to 558g of this title] may be cited as the ‘Volunteers in the National Forests and Public Lands Act’.”
+
+[For prior section 1 of Pub. L. 92–300, see Prior Provisions note above.]
+
+Pub. L. 92–300, § 5, May 18, 1972, 86 Stat. 147, provided that Pub. L. 92–300, which enacted former sections 558a to 558d of this title, could be cited as the “Volunteers in the National Forests Act of 1972”, prior to the general amendment of Pub. L. 92–300 by Pub. L. 118–234.
+
+#### Reference to Volunteers in the National Forests Act of 1972
+Pub. L. 118–234, title III, § 342, Jan. 4, 2025, 138 Stat. 2914, provided that: “Any reference to the Volunteers in the National Forests Act of 1972 in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Volunteers in the National Forests and Public Land[s] Act [see Short Title note above].”
 
 
 <a id="section-558b"></a>
-## § 558b. Incidental expenses of program volunteers
+## § 558b. Definition of Secretaries
 
-The Secretary is authorized to provide for incidental expenses, such as transportation, uniforms, lodging, and subsistence.
+In this Act, the term “Secretaries” means each of—
+
+(1) the Secretary of Agriculture, acting through the Chief of the Forest Service; and
+
+(2) the Secretary of the Interior, acting through the Director of the Bureau of Land Management.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, as amended generally by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913, known as the Volunteers in the National Forests and Public Lands Act, which enacted sections 558a to 558g of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 558a of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) and Tables.
+
+#### Prior Provisions
+A prior section 558b, Pub. L. 92–300, § 2, May 18, 1972, 86 Stat. 147, authorized the Secretary to provide for incidental expenses to program volunteers, prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
+
+A prior section 3 of Pub. L. 92–300, May 18, 1972, 86 Stat. 147, was classified to [section 558c of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558c), prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
 
 
 <a id="section-558c"></a>
-## § 558c. Employment status of volunteers
-**(a) Federal employee status** Except as otherwise provided in this section, a volunteer shall not be deemed a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits.
+## § 558c. Authorization
 
-**(b) Tort claims** For the purpose of the tort claim provisions of title 28, a volunteer under sections 558a to 558d of this title shall be considered a Federal employee.
-
-**(c) Civil employees** For the purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federal employees for work injuries, volunteers under sections 558a to 558d of this title shall be deemed civil employees of the United States within the meaning of the term “employee” as defined in [section 8101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8101&num=0&edition=prelim), and the provisions of that subchapter shall apply.
-
-**(d) Compensation for losses and damages** For the purposes of claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer service, a volunteer under sections 558a to 558d of this title shall be considered a Federal employee, and the provisions of [section 3721 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3721&num=0&edition=prelim) shall apply.
-
-**(e) Volunteers recruited and supervised by cooperators** For the purposes of subsections (b), (c), and (d), the term “volunteer” includes a person providing volunteer services to the Secretary who—
-
-(1) is recruited, trained, and supported by a cooperator under a mutual benefit agreement with the Secretary; and
-
-(2) performs such volunteer services under the supervision of the cooperator as directed by the Secretary in the mutual benefit agreement, including direction that specifies—
-
-  (A) the volunteer services to be performed by the volunteers and the supervision to be provided by the cooperator;
-
-  (B) the applicable project safety standards and protocols to be adhered to by the volunteers and enforced by the cooperator; and
-
-  (C) the on-site visits to be made by the Secretary, when feasible, to verify that volunteers are performing the volunteer services and the cooperator is providing the supervision agreed upon.
+The Secretaries are authorized to recruit, train, and accept without regard to the civil service and classification laws, rules, or regulations the services of individuals without compensation as volunteers for or in aid of recreation access, trail construction or maintenance, facility construction or maintenance, educational uses (including outdoor classroom construction or maintenance), interpretive functions, visitor services, conservation measures and development, or other activities in and related to areas administered by the Secretaries. In carrying out this section, the Secretaries shall consider referrals of prospective volunteers made by the Corporation for National and Community Service.
 
 ### Statutory Notes
 
-#### Amendments
-2016—Subsec. (e). Pub. L. 114–245 added subsec. (e).
+#### Prior Provisions
+A prior section 558c, Pub. L. 92–300, § 3, May 18, 1972, 86 Stat. 147; Pub. L. 101–286, title II, § 204(a), May 9, 1990, 104 Stat. 175; Pub. L. 114–245, § 4(d)(1), Nov. 28, 2016, 130 Stat. 992, related to employment status of volunteers, prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
 
-1990—Subsec. (d). Pub. L. 101–286 added subsec. (d).
+A prior section 4 of Pub. L. 92–300, May 18, 1972, 86 Stat. 147, was classified to [section 558d of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558d), prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
 
 
 <a id="section-558d"></a>
-## § 558d. Authorization of appropriations
+## § 558d. Incidental expenses
 
-There are authorized to be appropriated such sums as may be necessary to carry out the provisions of sections 558a to 558d of this title.
+The Secretaries are authorized to provide for incidental expenses, such as transportation, uniforms, lodging, training, equipment, and subsistence.
 
 ### Statutory Notes
 
-#### Amendments
-1978—Pub. L. 95–289 struck out limitation requiring not more than $100,000 to be appropriated in any one year.
+#### Prior Provisions
+A prior section 558d, Pub. L. 92–300, § 4, May 18, 1972, 86 Stat. 147; Pub. L. 95–289, § 1, June 5, 1978, 92 Stat. 289, authorized appropriations for former sections 558a to 558d of this title, prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
 
-#### Effective Date of 1978 Amendment
-Pub. L. 95–289, § 2, June 5, 1978, 92 Stat. 289, provided that: “The amendment made by this Act to the Volunteers in the National Forests Act of 1972 [amending this section] shall become effective October 1, 1978.”
+A prior section 5 of Pub. L. 92–300, May 18, 1972, 86 Stat. 147, was set out as a Short Title note under [section 558a of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558a), prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
+
+
+<a id="section-558e"></a>
+## § 558e. Consideration as Federal employee
+**(a)** Except as otherwise provided in this section, a volunteer shall not be deemed a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits.
+
+**(b)** For the purpose of the tort claim provisions of title 28, a volunteer under this Act shall be considered a Federal employee.
+
+**(c)** For the purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federal employees for work injuries, volunteers under this Act shall be deemed civil employees of the United States within the meaning of the term “employee” as defined in [section 8101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8101&num=0&edition=prelim), and the provisions of that subchapter shall apply.
+
+**(d)** For the purposes of claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer service, a volunteer under this Act shall be considered a Federal employee, and the provisions of [section 3721 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3721&num=0&edition=prelim) shall apply.
+
+**(e)** For the purposes of subsections (b), (c), and (d), the term “volunteer” includes a person providing volunteer services to either of the Secretaries who—
+
+(1) is recruited, trained, and supported by a cooperator under a mutual benefit agreement or cooperative agreement with either of the Secretaries; and
+
+(2) performs such volunteer services under the supervision of the cooperator as directed by either of the Secretaries in the mutual benefit agreement or cooperative agreement in the mutual benefit agreement, including direction that specifies—
+
+  (A) the volunteer services, including the geographic boundaries of the work to be performed by the volunteers, and the supervision to be provided by the cooperator;
+
+  (B) the applicable project safety standards and protocols to be adhered to by the volunteers and enforced by the cooperator;
+
+  (C) the on-site visits to be made by either of the Secretaries, if feasible and only if necessary to verify that volunteers are performing the volunteer services and the cooperator is providing the supervision agreed upon;
+
+  (D) the equipment the volunteers are authorized to use;
+
+  (E) the training the volunteers are required to complete;
+
+  (F) the actions the volunteers are authorized to take; and
+
+  (G) any other terms and conditions that are determined to be necessary by the applicable Secretary.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in subsecs. (b) to (d), is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, as amended generally by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913, known as the Volunteers in the National Forests and Public Lands Act, which enacted sections 558a to 558g of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 558a of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) and Tables.
+
+
+<a id="section-558f"></a>
+## § 558f. Promotion of volunteer opportunities
+
+The Secretaries shall promote volunteer opportunities in areas administered by the Secretaries.
+
+
+<a id="section-558g"></a>
+## § 558g. Liability insurance
+
+The Secretaries shall not require a cooperator or volunteer (as those terms are used in [section 558e of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558e)) to have liability insurance to provide the volunteer services authorized under this Act.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, as amended generally by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913, known as the Volunteers in the National Forests and Public Lands Act, which enacted this section and sections 558a to 558f of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 558a of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) and Tables.
 
 
 <a id="section-559"></a>
@@ -1668,7 +1729,7 @@ The Secretary of Agriculture, under such regulations as he may prescribe and at 
 1998—Pub. L. 105–277, which directed the substitution of “renovate, recondition, improve, and maintain” for “recondition and maintain,”, was executed by making the substitution for language which did not include a comma after “maintain” to reflect the probable intent of Congress.
 
 #### Authorization for Lease of Forest Service Sites
-Pub. L. 115–334, title VIII, § 8623, Dec. 20, 2018, 132 Stat. 4853, provided that: “(a) Definitions.—In this section:“(1) Administrative site.—“(A) In general.—The term ‘administrative site’ means—“(i) any facility or improvement, including curtilage, that was acquired or is used specifically for purposes of administration of the National Forest System; “(ii) any Federal land that— “(I) is associated with a facility or improvement described in clause (i) that was acquired or is used specifically for purposes of administration of Forest Service activities; and “(II) underlies or abuts the facility or improvement; and “(iii) for each fiscal year, not more than 10 isolated, undeveloped parcels of not more than 40 acres each. “(B) Exclusions.—The term ‘administrative site’ does not include—“(i) any land within a unit of the National Forest System that is exclusively designated for natural area or recreational purposes; “(ii) any land within— “(I) a component of the National Wilderness Preservation System; “(II) a component of the National Wild and Scenic Rivers System; or “(III) a National Monument; or “(iii) any Federal land that the Secretary [of Agriculture] determines— “(I) is needed for resource management purposes or to provide access to other land or water; or “(II) would be in the public interest not to lease. “(2) Facility or improvement.—The term ‘facility or improvement’ includes—“(A) a forest headquarters; “(B) a ranger station; “(C) a research station or laboratory; “(D) a dwelling; “(E) a warehouse; “(F) a scaling station; “(G) a fire-retardant mixing station; “(H) a fire-lookout station; “(I) a guard station; “(J) a storage facility; “(K) a telecommunication facility; and “(L) any other administrative installation for conducting Forest Service activities. “(3) Market analysis.—The term ‘market analysis’ means the identification and study of the market for a particular economic good or service. “(b) Authorization.—The Secretary may lease an administrative site that is under the jurisdiction of the Secretary in accordance with this section. “(c) Identification of Eligible Sites.—A regional forester, in consultation with forest supervisors in the region, may submit to the Secretary a recommendation for administrative sites in the region that the regional forester considers eligible for leasing under this section. “(d) Consultation With Local Government and Public Notice.—Before making an administrative site available for lease under this section, the Secretary shall—“(1) consult with government officials of the community and of the State in which the administrative site is located; and “(2) provide public notice of the proposed lease. “(e) Lease Requirements.—“(1) Size.—An administrative site or compound of administrative sites under a single lease under this section may not exceed 40 acres. “(2) Configuration of administrative sites.—“(A) In general.—To facilitate the lease of an administrative site under this section, the Secretary may configure the administrative site—“(i) to maximize the marketability of the administrative site; and “(ii) to achieve management objectives. “(B) Separate treatment of facility or improvement.—A facility or improvement on an administrative site to be leased under this section may be severed from the land and leased under a separate lease under this section. “(3) Consideration.—“(A) In general.—A person to which a lease of an administrative site is made under this section shall provide to the Secretary consideration described in subparagraph (B) in an amount that is not less than the market value of the administrative site, as determined in accordance with subparagraph (C). “(B) Form of consideration.—The consideration referred to in subparagraph (A) may be—“(i) cash; “(ii) in-kind, including— “(I) the construction of new facilities or improvements, the title to which shall be transferred by the lessee to the Secretary; “(II) the maintenance, repair, improvement, or restoration of existing facilities or improvements; and “(III) other services relating to activities that occur on the administrative site, as determined by the Secretary; or “(iii) any combination of the consideration described in clauses (i) and (ii). “(C) Determination of market value.—“(i) In general.—The Secretary shall determine the market value of an administrative site to be leased under this section— “(I) by conducting an appraisal in accordance with—“(aa) the Uniform Appraisal Standards for Federal Land Acquisitions established in accordance with the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 ([42 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4601&num=0&edition=prelim) et seq.); and “(bb) the Uniform Standards of Professional Appraisal Practice; or “(II) by competitive lease. “(ii) In-kind consideration.—The Secretary shall determine the market value of any in-kind consideration under subparagraph (B)(ii). “(4) Conditions.—The lease of an administrative site under this section shall be subject to such conditions, including bonding, as the Secretary determines to be appropriate. “(5) Right of first refusal.—Subject to terms and conditions that the Secretary determines to be necessary, the Secretary shall offer to lease an administrative site to the municipality or county in which the administrative site is located before seeking to lease the administrative site to any other person. “(f) Relation to Other Laws.—“(1) Federal property disposal.—Chapter 5 of title 40, United States Code, shall not apply to the lease of an administrative site under this section. “(2) Lead-based paint and asbestos abatement.—“(A) In general.—Notwithstanding any provision of law relating to the mitigation or abatement of lead-based paint or asbestos-containing building materials, the Secretary shall not be required to mitigate or abate lead-based paint or asbestos-containing building materials with respect to an administrative site to be leased under this section. “(B) Procedures.—With respect to an administrative site to be leased under this section that has lead-based paint or asbestos-containing building materials, the Secretary shall—“(i) provide notice to the person to which the administrative site will be leased of the presence of the lead-based paint or asbestos-containing building material; and “(ii) obtain written assurance from that person that the person will comply with applicable Federal, State, and local laws relating to the management of lead-based paint and asbestos-containing building materials. “(3) Environmental review.—The National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) shall apply to the lease of an administrative site under this section, except that, in any environmental review or analysis required under that Act for the lease of an administrative site under this section, the Secretary shall be required only—“(A) to analyze the most reasonably foreseeable use of the administrative site, as determined through a market analysis; “(B) to determine whether to include any conditions under subsection (e)(4); and “(C) to evaluate the alternative of not leasing the administrative site in accordance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.). “(4) Compliance with local laws.—A person that leases an administrative site under this section shall comply with all applicable State and local zoning laws, building codes, and permit requirements for any construction activities that occur on the administrative site. “(g) Prohibition.—No agency of the Federal Government shall make any cash payments to a leaseholder relating to the use or occupancy of any administrative site or facility that has been improved under this section. “(h) Congressional Notifications.—“(1) Anticipated use of authority.—As part of the annual budget justification documents provided to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate, the Secretary shall include—“(A) a list of the anticipated leases to be made, including the anticipated revenue that may be obtained, under this section; “(B) a description of the intended use of any revenue obtained under a lease under this section, including a list of any projects that cost more than $500,000; and “(C) a description of accomplishments during previous years using the authority of the Secretary under this section. “(2) Changes to lease list.—If the Secretary desires to lease an administrative site under this section that is not included on a list provided under paragraph (1)(A), the Secretary shall submit to the congressional committees described in paragraph (3) a notice of the proposed lease, including the anticipated revenue that may be obtained from the lease. “(3) Use of authority.—Not less frequently than once each year, the Secretary shall submit to the Committee on Agriculture, the Committee on Appropriations, and the Committee on Natural Resources of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, the Committee on Appropriations, and the Committee on Energy and Natural Resources of the Senate a report describing each lease made by the Secretary under this section during the period covered by the report. “(i) Expiration of Authority.—“(1) In general.—The authority of the Secretary to make a lease of an administrative site under this section expires on October 1, 2023. “(2) Effect on lease agreement.—Paragraph (1) shall not affect the authority of the Secretary to carry out this section in the case of any lease agreement that was entered into by the Secretary before October 1, 2023.”
+Pub. L. 115–334, title VIII, § 8623, Dec. 20, 2018, 132 Stat. 4853, as amended by Pub. L. 118–234, title I, § 151, Jan. 4, 2025, 138 Stat. 2866, provided that: “(a) Definitions.—In this section:“(1) Administrative site.—“(A) In general.—The term ‘administrative site’ means—“(i) any facility or improvement, including curtilage, that was acquired or is used specifically for purposes of administration of the National Forest System; “(ii) any Federal land that— “(I) is associated with a facility or improvement described in clause (i) that was acquired or is used specifically for purposes of administration of Forest Service activities; and “(II) underlies or abuts the facility or improvement; and “(iii) for each fiscal year, not more than 10 isolated, undeveloped parcels of not more than 40 acres each. “(B) Exclusions.—The term ‘administrative site’ does not include—“(i) any land within a unit of the National Forest System that is exclusively designated for natural area or recreational purposes; “(ii) any land within— “(I) a component of the National Wilderness Preservation System; “(II) a component of the National Wild and Scenic Rivers System; or “(III) a National Monument; or “(iii) any Federal land that the Secretary [of Agriculture] determines— “(I) is needed for resource management purposes or to provide access to other land or water; or “(II) would be in the public interest not to lease. “(2) Facility or improvement.—The term ‘facility or improvement’ includes—“(A) a forest headquarters; “(B) a ranger station; “(C) a research station or laboratory; “(D) a dwelling or multiunit dwelling; “(E) a warehouse; “(F) a scaling station; “(G) a fire-retardant mixing station; “(H) a fire-lookout station; “(I) a guard station; “(J) a storage facility; “(K) a telecommunication facility; and “(L) any other administrative installation for conducting Forest Service activities. “(3) Market analysis.—The term ‘market analysis’ means the identification and study of the market for a particular economic good or service. “(b) Authorization.—The Secretary may lease an administrative site that is under the jurisdiction of the Secretary in accordance with this section. “(c) Identification of Eligible Sites.—A regional forester, in consultation with forest supervisors in the region, may submit to the Chief of the Forest Service, or their designee a recommendation for administrative sites in the region that the regional forester considers eligible for leasing under this section. “(d) Consultation With Local Government and Public Notice.—Before making an administrative site available for lease under this section, the Secretary shall—“(1) consult with government officials of the community and of the State in which the administrative site is located; and “(2) provide public notice of the proposed lease. “(e) Lease Requirements.—“(1) Size.—An administrative site or compound of administrative sites under a single lease under this section may not exceed 40 acres. “(2) Configuration of administrative sites.—“(A) In general.—To facilitate the lease of an administrative site under this section, the Secretary may configure the administrative site—“(i) to maximize the marketability of the administrative site; and “(ii) to achieve management objectives. “(B) Separate treatment of facility or improvement.—A facility or improvement on an administrative site to be leased under this section may be severed from the land and leased under a separate lease under this section. “(3) Consideration.—“(A) In general.—A person to which a lease of an administrative site is made under this section shall provide to the Secretary consideration described in subparagraph (B) in an amount that is not less than the market value of the administrative site, as determined in accordance with subparagraph (C). “(B) Form of consideration.—The consideration referred to in subparagraph (A) may be—“(i) cash; “(ii) in-kind, including— “(I) the construction of new facilities or improvements, such as housing, the title to which shall be transferred by the lessee to the Secretary; “(II) the maintenance, repair, improvement, or restoration of existing facilities or improvements; “(III) other services relating to activities that occur on the administrative site, as determined by the Secretary; and “(IV) services occurring off the administrative site that—“(aa) occur at another administrative site in the same unit in which the administrative site is located or a different unit of the National Forest System; “(bb) benefit the National Forest System; and “(cc) support activities occurring within the unit of the National Forest System in which the administrative site is located; or “(iii) any combination of the consideration described in clauses (i) and (ii). “(C) Determination of market value.—“(i) In general.—The Secretary shall determine the market value of an administrative site to be leased under this section— “(I) by conducting an appraisal in accordance with—“(aa) the Uniform Appraisal Standards for Federal Land Acquisitions established in accordance with the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 ([42 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4601&num=0&edition=prelim) et seq.); and “(bb) the Uniform Standards of Professional Appraisal Practice; or “(II) by competitive lease. “(ii) In-kind consideration.—The Secretary shall determine the market value of any in-kind consideration under subparagraph (B)(ii). “(4) Conditions.—The lease of an administrative site under this section shall be subject to such conditions, including bonding, as the Secretary determines to be appropriate. “(5) Right of first refusal.—Subject to terms and conditions that the Secretary determines to be necessary, the Secretary shall offer to lease an administrative site to the municipality or county in which the administrative site is located before seeking to lease the administrative site to any other person. “(6) Lease term.—“(A) In general.—The term of a lease of an administrative site under this section shall be not more than 100 years. “(B) Reauthorization of use.—A lease of an administrative site under this section shall include a provision for reauthorization of the use if the—“(i) use of the administrative site, at the time of reauthorization, is still being used for the purposes authorized; “(ii) use to be authorized under the new lease is consistent with the applicable land management plan; and “(iii) lessee is in compliance with all the terms of the existing lease. “(C) Savings.—A reauthorization of use under subparagraph (B) may include new terms in the use, as determined by the Chief of the Forest Service, or their designee. “(f) Relation to Other Laws.—“(1) Federal property disposal.—Chapter 5 of title 40, United States Code, shall not apply to the lease of an administrative site under this section. “(2) Lead-based paint and asbestos abatement.—“(A) In general.—Notwithstanding any provision of law relating to the mitigation or abatement of lead-based paint or asbestos-containing building materials, the Secretary shall not be required to mitigate or abate lead-based paint or asbestos-containing building materials with respect to an administrative site to be leased under this section. “(B) Procedures.—With respect to an administrative site to be leased under this section that has lead-based paint or asbestos-containing building materials, the Secretary shall—“(i) provide notice to the person to which the administrative site will be leased of the presence of the lead-based paint or asbestos-containing building material; and “(ii) obtain written assurance from that person that the person will comply with applicable Federal, State, and local laws relating to the management of lead-based paint and asbestos-containing building materials. “(3) Environmental review.—The National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) shall apply to the lease of an administrative site under this section, except that, in any environmental review or analysis required under that Act for the lease of an administrative site under this section, the Secretary shall be required only—“(A) to analyze the most reasonably foreseeable use of the administrative site, as determined through a market analysis; “(B) to determine whether to include any conditions under subsection (e)(4); and “(C) to evaluate the alternative of not leasing the administrative site in accordance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.). “(4) Compliance with local laws.—A person that leases an administrative site under this section shall comply with all applicable State and local zoning laws, building codes, and permit requirements for any construction activities that occur on the administrative site. “(g) Prohibition.—No agency of the Federal Government shall make any cash payments relating to the use or occupancy of any administrative site or facility that has been improved or constructed under this section. “(h) Congressional Notifications.—“(1) Anticipated use of authority.—As part of the annual budget justification documents provided to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate, the Secretary shall include—“(A) a list of the anticipated leases to be made, including the anticipated revenue that may be obtained, under this section; “(B) a description of the intended use of any revenue obtained under a lease under this section, including a list of any projects that cost more than $500,000; and “(C) a description of accomplishments during previous years using the authority of the Secretary under this section. “(2) Changes to lease list.—If the Secretary desires to lease an administrative site under this section that is not included on a list provided under paragraph (1)(A), the Secretary shall submit to the congressional committees described in paragraph (3) a notice of the proposed lease, including the anticipated revenue that may be obtained from the lease. “(3) Use of authority.—Not less frequently than once each year, the Secretary shall submit to the Committee on Agriculture, the Committee on Appropriations, and the Committee on Natural Resources of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, the Committee on Appropriations, and the Committee on Energy and Natural Resources of the Senate a report describing each lease made by the Secretary under this section during the period covered by the report. “(i) Expiration of Authority.—“(1) In general.—The authority of the Secretary to make a lease of an administrative site under this section expires on October 1, 2028. “(2) Effect on lease agreement.—Paragraph (1) shall not affect the authority of the Secretary to carry out this section in the case of any lease agreement that was entered into by the Secretary before October 1, 2028.”
 
 [For definition of “National Forest System” as used in section 8623 of Pub. L. 115–334, set out above, see section 8601 of Pub. L. 115–334, set out below.]
 
@@ -2435,12 +2496,12 @@ Pub. L. 103–106, § 2, Oct. 12, 1993, 107 Stat. 1031, provided that: “It is 
 <a id="section-583j-4"></a>
 ## § 583j–4. Volunteers
 
-The Secretary may accept, without regard to the civil service classification laws, rules and regulations, any director, officer, employee or agent of the Foundation as a volunteer for purposes of the Volunteers in the National Forests Act of 1972 ([16 U.S.C. 558a](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) through 558d; 86 Stat. 147).
+The Secretary may accept, without regard to the civil service classification laws, rules and regulations, any director, officer, employee or agent of the Foundation as a volunteer for purposes of the Volunteers in the National Forests Act of 1972 ([16 U.S.C. 558a](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) through 558d; 86 Stat. 147).11 See References in Text note below.
 
 ### Statutory Notes
 
 #### References in Text
-The Volunteers in the National Forests Act of 1972, referred to in text, is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which is classified generally to section 558a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 558a of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) and Tables.
+The Volunteers in the National Forests Act of 1972, referred to in text, is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which was classified generally to former sections 558a to 558d of this title, prior to being amended generally and renamed the Volunteers in the National Forests and Public Lands Act by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913. Section 342 of Pub. L. 118–234, set out as a note under [section 558a of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558a), provides that a reference in any law to the Volunteers in National Forests Act of 1972 shall be deemed to be a reference to the Volunteers in the National Forests and Public Lands Act. For complete classification of this Act to the Code, see Short Title note set out under [section 558a of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) and Tables.
 
 
 <a id="section-583j-5"></a>
@@ -2577,12 +2638,12 @@ In this subchapter:
 
   (D) averting future deferred maintenance costs.
 
-(9) **Volunteer** — The term “volunteer” means an individual whose services are accepted by the Secretary without compensation under the Volunteers in the National Forests Act of 1972 ([16 U.S.C. 558a](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) et seq.).
+(9) **Volunteer** — The term “volunteer” means an individual whose services are accepted by the Secretary without compensation under the Volunteers in the National Forests Act of 1972 ([16 U.S.C. 558a](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) et seq.).11 See References in Text note below.
 
 ### Statutory Notes
 
 #### References in Text
-The Volunteers in the National Forests Act of 1972, referred to in par. (9), is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which is classified generally to section 558a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 558a of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) and Tables.
+The Volunteers in the National Forests Act of 1972, referred to in par. (9), is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which was classified generally to former sections 558a to 558d of this title, prior to being amended generally and renamed the Volunteers in the National Forests and Public Lands Act by Pub. L. 118–234, title III, § 341, Jan. 4, 2025, 138 Stat. 2913. Section 342 of Pub. L. 118–234, set out as a note under [section 558a of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558a), provides that a reference in any law to the Volunteers in National Forests Act of 1972 shall be deemed to be a reference to the Volunteers in the National Forests and Public Lands Act. For complete classification of this Act to the Code, see Short Title note set out under [section 558a of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) and Tables.
 
 
 <a id="section-583k-2"></a>
@@ -2636,7 +2697,7 @@ The Volunteers in the National Forests Act of 1972, referred to in par. (9), is 
 ### Statutory Notes
 
 #### Codification
-Section is comprised of section 4 of Pub. L. 114–245. Subsec. (d)(1) of section 4 of Pub. L. 114–245 amended [section 558c of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558c).
+Section is comprised of section 4 of Pub. L. 114–245. Subsec. (d)(1) of section 4 of Pub. L. 114–245 amended former [section 558c of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558c).
 
 
 <a id="section-583k-3"></a>

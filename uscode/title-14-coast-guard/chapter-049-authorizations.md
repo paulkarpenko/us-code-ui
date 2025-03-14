@@ -67,27 +67,27 @@ Pars. (1) to (6). Pub. L. 114–120, § 101(b)(3), added pars. (1) to (6) and st
 <a id="section-4902"></a>
 ## § 4902. Authorizations of appropriations
 
-Funds are authorized to be appropriated for fiscal years 2022 and 2023 for necessary expenses of the Coast Guard as follows:
+Funds are authorized to be appropriated for fiscal years 2026 and 2027 for necessary expenses of the Coast Guard as follows:
 
 (1)
 
   (A) For the operation and maintenance of the Coast Guard, not otherwise provided for—
 
-    (i) $10,000,000,000 for fiscal year 2022; and
+    (i) $11,851,875,000 for fiscal year 2026; and
 
-    (ii) $10,750,000,000 for fiscal year 2023.
+    (ii) $13,500,000,000 for fiscal year 2027.
 
-  (B) Of the amount authorized under subparagraph (A)(i), $23,456,000 shall be for environmental compliance and restoration.
+  (B) Of the amount authorized under subparagraph (A)(i), $25,570,000 shall be for environmental compliance and restoration.
 
-  (C) Of the amount authorized under subparagraph (A)(ii), $24,353,000 shall be for environmental compliance and restoration.
+  (C) Of the amount authorized under clause (ii) of subparagraph (A), $26,848,500 shall be for environmental compliance and restoration.
 
 (2)
 
   (A) For the procurement, construction, renovation, and improvement of aids to navigation, shore facilities, vessels, aircraft, and systems, including equipment related thereto, and for maintenance, rehabilitation, lease, and operation of facilities and equipment—
 
-    (i) $3,312,114,000 for fiscal year 2022; and
+    (i) $3,651,480,000 for fiscal year 2026; and
 
-    (ii) $3,477,600,000 for fiscal year 2023.
+    (ii) $3,700,000,000 for fiscal year 2027.
 
   (B) Of the amounts authorized under subparagraph (A), the following amounts shall be for the alteration of bridges:
 
@@ -97,19 +97,49 @@ Funds are authorized to be appropriated for fiscal years 2022 and 2023 for neces
 
 (3) To the Commandant for research, development, test, and evaluation of technologies, materials, and human factors directly related to improving the performance of the Coast Guard’s mission with respect to search and rescue, aids to navigation, marine safety, marine environmental protection, enforcement of laws and treaties, ice operations, oceanographic research, and defense readiness, and for maintenance, rehabilitation, lease, and operation of facilities and equipment—
 
-  (A) $7,476,000 for fiscal year 2022; and
+  (A) $67,701,000 for fiscal year 2026; and
 
-  (B) $14,681,084 for fiscal year 2023.
+  (B) $70,000,000 for fiscal year 2027.
 
-(4) For the Coast Guard’s Medicare-eligible retiree health care fund contribution to the Department of Defense—
+(4) For retired pay, including the payment of obligations otherwise chargeable to lapsed appropriations for purposes of retired pay, payments under the Retired Serviceman’s Family Protection and Survivor Benefits Plans, payment for career status bonuses, payment of continuation pay under [section 356 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section356&num=0&edition=prelim), concurrent receipts, combat-related special compensation, and payments for medical care of retired personnel and their dependents under chapter 55 of title 10—
 
-  (A) $240,577,000 for fiscal year 2022; and
+  (A) $1,057,929,000 for fiscal year 2026; and
 
-  (B) $252,887,000 for fiscal year 2023.
+  (B) $1,215,000,000 for fiscal year 2027.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Pub. L. 119–60, § 7101(1), substituted “fiscal years 2026 and 2027” for “fiscal years 2022 and 2023” in introductory provisions.
+
+Par. (1)(A)(i), (ii). Pub. L. 119–60, § 7101(2)(A), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) $10,000,000,000 for fiscal year 2022; and
+
+“(ii) $10,750,000,000 for fiscal year 2023.”
+
+Par. (1)(B). Pub. L. 119–60, § 7101(2)(B), substituted “$25,570,000” for “$23,456,000”.
+
+Par. (1)(C). Pub. L. 119–60, § 7101(2)(C), substituted “clause (ii) of subparagraph (A), $26,848,500” for “subparagraph (A)(ii), $24,353,000”.
+
+Par. (2)(A)(i), (ii). Pub. L. 119–60, § 7101(3), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) $3,312,114,000 for fiscal year 2022; and
+
+“(ii) $3,477,600,000 for fiscal year 2023.”
+
+Par. (3)(A), (B). Pub. L. 119–60, § 7101(4), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+
+“(A) $7,476,000 for fiscal year 2022; and
+
+“(B) $14,681,084 for fiscal year 2023.”
+
+Par. (4). Pub. L. 119–60, § 7101(5), added par. (4) and struck out former par. (4) which read as follows: “For the Coast Guard’s Medicare-eligible retiree health care fund contribution to the Department of Defense—
+
+“(A) $240,577,000 for fiscal year 2022; and
+
+“(B) $252,887,000 for fiscal year 2023.”
+
 2022—Pub. L. 117–263, § 11101(1), substituted “fiscal years 2022 and 2023” for “fiscal years 2020 and 2021” in introductory provisions.
 
 Par. (1)(A). Pub. L. 117–263, § 11101(2)(A), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
@@ -184,7 +214,7 @@ Par. (3)(B). Pub. L. 114–328, § 3503(d)(1)(B), substituted “$134,237,000”
 Pub. L. 115–282, title II, § 202(b), Dec. 4, 2018, 132 Stat. 4242, provided that the amendment made by section 202(b) is effective October 1, 2018.
 
 #### Effective Date of 2016 Amendment
-Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under [section 315 of this title](./chapter-003-composition-and-organization.md#section-315).
+Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under [section 2182 of this title](./chapter-021-personnel-officers.md#section-2182).
 
 
 <a id="section-4903"></a>
@@ -224,21 +254,33 @@ The words “after fiscal year 1977” are omitted as executed. The word “Amou
 
 <a id="section-4904"></a>
 ## § 4904. Authorized levels of military strength and training
-**(a) Active Duty Strength.—** The Coast Guard is authorized an end-of-year strength for active duty personnel of 44,500 for each of fiscal years 2022 and 2023.
+**(a) Active Duty Strength.—** The Coast Guard is authorized an end-of-year strength for active duty personnel of 50,000 for fiscal years 2026, and 55,000 for fiscal year 2027.
 
-**(b) Military Training Student Loads.—** The Coast Guard is authorized average military training student loads for each of fiscal years 2022 and 2023 as follows:
+**(b) Military Training Student Loads.—** The Coast Guard is authorized average military training student loads as follows:
 
-(1) For recruit and special training, 2,500 student years.
+(1) For recruit and special training, 4,000 student years for each of fiscal years 2026 and 2027.
 
-(2) For flight training, 165 student years.
+(2) For flight training, 250 student years for each of fiscal years 2026 and 2027.
 
-(3) For professional training in military and civilian institutions, 385 student years.
+(3) For professional training in military and civilian institutions, 700 student years for each of fiscal years 2026 and 2027.
 
-(4) For officer acquisition, 1,200 student years.
+(4) For officer acquisition, 1,600 student years for each of fiscal years 2026 and 2027.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 7102(a)(1), substituted “50,000 for fiscal years 2026, and 55,000 for fiscal year 2027” for “44,500 for each of fiscal years 2022 and 2023”.
+
+Subsec. (b). Pub. L. 119–60, § 7102(a)(2)(A), struck out “for each of fiscal years 2022 and 2023” after “average military training student loads” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 119–60, § 7102(a)(2)(B), substituted “4,000 student years for each of fiscal years 2026 and 2027” for “2,500 student years”.
+
+Subsec. (b)(2). Pub. L. 119–60, § 7102(a)(2)(C), substituted “250 student years for each of fiscal years 2026 and 2027” for “165 student years”.
+
+Subsec. (b)(3). Pub. L. 119–60, § 7102(a)(2)(D), substituted “700 student years for each of fiscal years 2026 and 2027” for “385 student years”.
+
+Subsec. (b)(4). Pub. L. 119–60, § 7102(a)(2)(E), substituted “1,600 student years for each of fiscal years 2026 and 2027” for “1,200 student years”.
+
 2022—Subsec. (a). Pub. L. 117–263, § 11102(1), substituted “fiscal years 2022 and 2023” for “fiscal years 2020 and 2021”.
 
 Subsec. (b). Pub. L. 117–263, § 11102(2), substituted “fiscal years 2022 and 2023” for “fiscal years 2020 and 2021”.
@@ -254,3 +296,6 @@ Subsec. (b). Pub. L. 116–283, § 8102(2), substituted “fiscal years 2020 and
 Subsec. (a). Pub. L. 115–282, § 203(1), substituted “for fiscal year 2018 and 44,500 for fiscal year 2019” for “for each of fiscal years 2016 and 2017”.
 
 Subsec. (b). Pub. L. 115–282, § 203(2), substituted “fiscal years 2018 and 2019” for “fiscal years 2016 and 2017” in introductory provisions.
+
+#### Reporting Requirement
+Pub. L. 119–60, div. G, title LXXI, § 7102(b), Dec. 18, 2025, 139 Stat. 1664, provided that: “In any fiscal year in which the submission required under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, does not include a proportional increase in the Operations and Support funding under [section 4902(1)(A) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section4902/1/A&num=0&edition=prelim), United States Code, to support the end strengths authorized under the amendments made by subsection (a) [amending this section]— “(1) the Commandant [of the Coast Guard] shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the plan of the Coast Guard to achieve growth in the Coast Guard’s military strength to 60,000, which shall include—“(A) proposed missions and purposes for the growth of the Coast Guard in military strength; “(B) for each fiscal year from 2027 through 2032—“(i) the additional estimated cost of salaries and all benefits, including housing, education, and medical benefits; “(ii) estimated recruiting and training resources and costs; and “(iii) estimated resources and costs required to achieve sufficient training capacity for growth in enlisted and officer corps; and “(C) an explanation for why the estimated cost in subparagraph (B) was not included in the submission required under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code; and “(2) the Commandant [of the Coast Guard] may not delegate the briefing required in paragraph (1).”

@@ -54,6 +54,9 @@ Another prior section 2481 was renumbered [section 2686 of this title](./chapter
 
 Subsec. (c)(3), (4). Pub. L. 114–328, § 661(a), added pars. (3) and (4).
 
+#### Defense Commissary System and Exchange System: Patronage; Privatization
+Pub. L. 119–60, div. A, title VI, § 652, Dec. 18, 2025, 139 Stat. 913, provided that: “(a) Patronage.—“(1) Interim authority.—Notwithstanding the limitations under section 2481(a) and chapter 54 of title 10, United States Code, the Secretary of Defense—“(A) may allow individuals authorized to use a commissary store or exchange store pursuant to a policy, memorandum, regulation, or pilot program of the Department of Defense in effect on October 1, 2025, to continue such use through December 31, 2026; and “(B) may not authorize such use for any additional group of individuals. “(2) Legislative proposal.—Not later than April 1, 2026, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a written legislative proposal that—“(A) specifies each category of individuals that the Secretary recommends Congress authorize to use a commissary store or exchange store; “(B) explains the recommendation of the Secretary for such authorization; and “(C) consolidates the authorities for such use into a single statute. “(b) Privatization.—The Secretary may not take any action inconsistent with the restrictions in section 2485(a) of such title regarding private operation of the overall management of a commissary system or management of a commissary store.”
+
 #### Defense Resale System Matters
 Pub. L. 116–92, div. A, title VI, § 631(a)–(c), Dec. 20, 2019, 133 Stat. 1429, as amended by Pub. L. 118–31, div. A, title IX, § 901(g), Dec. 22, 2023, 137 Stat. 355, provided that: “(a) In General.—The Under Secretary of Defense for Personnel and Readiness shall maintain oversight of business transformation efforts of the defense commissary system and the exchange stores system in order to ensure the following:“(1) Development of an intercomponent business strategy that maximizes efficiencies and results in a viable defense resale system in the future. “(2) Preservation of patron savings and satisfaction from and in the defense commissary system and exchange stores system. “(3) Sustainment of financial support of the defense commissary and exchange systems for morale, welfare, and recreation (MWR) services of the Armed Forces. “(b) Executive Resale Board Advice on Operations of Systems.—The Executive Resale Board of the Department of Defense shall advise the Under Secretary on the implementation of sustainable, complementary operations of the defense commissary system and the exchange stores system. “(c) Information Technology Modernization.—The Secretary of Defense shall, acting through the Under Secretary and with advice from the Executive Resale Board, require the Defense Commissary Agency and the Military Exchange Service to do as follows:“(1) Field new technologies and best business practices for information technology for the defense resale system. “(2) Implement cutting-edge marketing opportunities across the defense resale system.”
 
@@ -368,6 +371,12 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
   (C) Converting the defense commissary system to a nonappropriated fund entity or instrumentality under subsection (j)(1).
 
+**(l) Prohibition on Sale of Garlic From People’s Republic of China.—** The Secretary of Defense shall prohibit the sale at any commissary store of fresh or chilled garlic—
+
+(1) classified under subheading 0703.20.00 of the Harmonized Tariff Schedule of the United States; and
+
+(2) that originated from, or was processed in, the People’s Republic of China.
+
 ### Statutory Notes
 
 #### References in Text
@@ -377,6 +386,8 @@ The date of the enactment of this subsection, referred to in subsec. (j)(3)(C), 
 A prior section 2484 was renumbered [section 2483 of this title](./chapter-147-commissaries-and-exchanges-and-other-morale-welfare-and-recreation-activities.md#section-2483).
 
 #### Amendments
+2024—Subsec. (l). Pub. L. 118–159 added subsec. (l).
+
 2021—Subsec. (f). Pub. L. 116–283 substituted “section 3204(a)(5)” for “section 2304(c)(5)”.
 
 Subsec. (h)(5)(F), (G). Pub. L. 117–81, § 631(1), added subpars. (F) and (G).
@@ -466,6 +477,9 @@ Subsec. (f). Pub. L. 105–85, § 372(d), added subsec. (f).
 1987—Pub. L. 100–180, § 313(a)(2), inserted “and pricing” in section catchline.
 
 Subsec. (d). Pub. L. 100–180, § 313(a)(1), added subsec. (d).
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–159, div. A, title VI, § 641(b), Dec. 23, 2024, 138 Stat. 1938, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2026.”
 
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

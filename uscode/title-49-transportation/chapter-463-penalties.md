@@ -12,7 +12,7 @@ source: >-
 
 (1) A person is liable to the United States Government for a civil penalty of not more than $75,000 (or $1,100 if the person is an individual or small business concern) for violating—
 
-  (A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 423, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 448, chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), chapter 451, section 47107(a)(22) (including any assurance made under such section), section 47107(b) (including any assurance made under such section), or [section 47133 of this title](./chapter-471-airport-development.md#section-47133);
+  (A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 423 (except section 42306), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 448, chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), chapter 451, section 47107(a)(22) (including any assurance made under such section), section 47107(b) (including any assurance made under such section), or [section 47133 of this title](./chapter-471-airport-development.md#section-47133);
 
   (B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies;
 
@@ -197,9 +197,6 @@ source: >-
 **(i) Small Business Concern Defined.—** In this section, the term “small business concern” has the meaning given that term in section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(1)(A)
-Pub. L. 118–63, title V, § 504(b), (d), May 16, 2024, 138 Stat. 1191, provided that, effective on the date that is 1 year after May 16, 2024, subsection (a)(1)(A) of this section is amended by striking “chapter 423” and inserting “chapter 423 (except section 42306)”. See 2024 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -542,7 +539,7 @@ Pub. L. 118–63, title V, § 507(c), May 16, 2024, 138 Stat. 1193, provided tha
 Pub. L. 102–345, § 2(c), Aug. 26, 1992, 106 Stat. 925, provided that: “Notwithstanding subsections (a) and (b) of this section, sections 901(a)(3) and 905 of the Federal Aviation Act of 1958 [Pub. L. 85–726] as in effect on July 31, 1992, shall continue in effect on and after such date of enactment with respect to violations of the Federal Aviation Act of 1958 occurring before such date of enactment.”
 
 #### Laser Pointer Incidents
-Pub. L. 114–190, title II, § 2104, July 15, 2016, 130 Stat. 620, as amended by Pub. L. 118–63, title II, § 218(m), May 16, 2024, 138 Stat. 1057, provided that: “(a) In General.—Beginning 90 days after the date of enactment of this Act [July 15, 2016], the Administrator of the Federal Aviation Administration, in coordination with appropriate Federal law enforcement agencies, shall provide annually an annual briefing to the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives] regarding—“(1) the number of incidents involving the beam from a laser pointer (as defined in [section 39A of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section39A&num=0&edition=prelim), United States Code) being aimed at, or in the flight path of, an aircraft in the airspace jurisdiction of the United States; “(2) the number of civil or criminal enforcement actions taken by the Federal Aviation Administration, the Department of Transportation, or another Federal agency with regard to the incidents described in paragraph (1), including the amount of the civil or criminal penalties imposed on violators; “(3) the resolution of any incidents described in paragraph (1) that did not result in a civil or criminal enforcement action; and “(4) any actions the Department of Transportation or another Federal agency has taken on its own, or in conjunction with other Federal agencies or local law enforcement agencies, to deter the type of activity described in paragraph (1). “(b) Civil Penalties.—The Administrator shall revise the maximum civil penalty that may be imposed on an individual who aims the beam of a laser pointer at an aircraft in the airspace jurisdiction of the United States, or at the flight path of such an aircraft, to be $25,000. “(c) Report Sunset.—Subsection (a) shall cease to be effective after September 30, 2028.”
+Pub. L. 114–190, title II, § 2104, July 15, 2016, 130 Stat. 620, as amended by Pub. L. 118–63, title II, § 218(m), May 16, 2024, 138 Stat. 1057, provided that: “(a) In General.—Beginning 90 days after the date of enactment of this Act [July 15, 2016], the Administrator of the Federal Aviation Administration, in coordination with appropriate Federal law enforcement agencies, shall provide annually an annual [sic] briefing to the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives] regarding—“(1) the number of incidents involving the beam from a laser pointer (as defined in [section 39A of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section39A&num=0&edition=prelim), United States Code) being aimed at, or in the flight path of, an aircraft in the airspace jurisdiction of the United States; “(2) the number of civil or criminal enforcement actions taken by the Federal Aviation Administration, the Department of Transportation, or another Federal agency with regard to the incidents described in paragraph (1), including the amount of the civil or criminal penalties imposed on violators; “(3) the resolution of any incidents described in paragraph (1) that did not result in a civil or criminal enforcement action; and “(4) any actions the Department of Transportation or another Federal agency has taken on its own, or in conjunction with other Federal agencies or local law enforcement agencies, to deter the type of activity described in paragraph (1). “(b) Civil Penalties.—The Administrator shall revise the maximum civil penalty that may be imposed on an individual who aims the beam of a laser pointer at an aircraft in the airspace jurisdiction of the United States, or at the flight path of such an aircraft, to be $25,000. “(c) Report Sunset.—Subsection (a) shall cease to be effective after September 30, 2028.”
 
 
 <a id="section-46302"></a>
@@ -816,7 +813,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 <a id="section-46307"></a>
 ## § 46307. Violation of national defense airspace
 
-A person that knowingly or willfully violates [section 40103(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40103/b/3&num=0&edition=prelim) or a regulation prescribed or order issued under section 40103(b)(3) shall be fined under title 18, imprisoned for not more than one year, or both.
+A person that knowingly or willfully violates [section 40103(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40103/b/3&num=0&edition=prelim) or a regulation prescribed or order issued under section 40103(b)(3) shall be fined under title 18, imprisoned for not more than one year, or both. If a person is convicted of a second or subsequent offense under this section, the punishment shall be imprisonment for not more than 5 years, a fine under title 18, or both.
 
 ### Statutory Notes
 
@@ -826,6 +823,9 @@ A person that knowingly or willfully violates [section 40103(b)(3) of this title
 | 46307 | 49 App.:1523. | Aug. 23, 1958, Pub. L. 85–726, § 1203, 72 Stat. 800. |
 
 The words “In addition to the penalties otherwise provided for by this chapter” are omitted as surplus. The word “prescribed” is added for consistency in the revised title. The words “fined under title 18” are substituted for “a fine of not exceeding $10,000”, and the words “shall be deemed guilty of a misdemeanor” are omitted, for consistency with title 18. The words “and upon conviction thereof” and “such fine and imprisonment” are omitted as surplus.
+
+#### Amendments
+2025—Pub. L. 119–60 inserted at end “If a person is convicted of a second or subsequent offense under this section, the punishment shall be imprisonment for not more than 5 years, a fine under title 18, or both.”
 
 
 <a id="section-46308"></a>

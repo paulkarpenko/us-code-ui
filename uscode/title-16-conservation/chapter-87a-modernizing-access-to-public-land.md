@@ -48,9 +48,14 @@ Pub. L. 117–114, § 1, Apr. 29, 2022, 136 Stat. 1175, provided that: “This A
 
 Not later than 30 months after April 29, 2022, the Secretaries shall jointly develop and adopt interagency standards to ensure compatibility and interoperability among applicable Federal databases with respect to the collection and dissemination of data—
 
-(1) relating to public outdoor recreational use on Federal land; and
+(1) relating to recreation sites on Federal land; and
 
 (2) used to depict locations at which recreation uses are available to the public.
+
+### Statutory Notes
+
+#### Amendments
+2025—Par. (1). Pub. L. 118–234 substituted “recreation sites” for “public outdoor recreational use”.
 
 
 <a id="section-6853"></a>
@@ -88,7 +93,7 @@ Not later than 30 months after April 29, 2022, the Secretaries shall jointly dev
 
   (G) over-snow vehicles.
 
-(4) The boundaries of areas where hunting or recreational shooting (including archery, firearm discharge, and target shooting) is permanently restricted or prohibited on the Federal land.
+(4) The boundaries of areas where hunting or recreational shooting (including archery, firearm discharge, and target shooting) is regulated or closed on the Federal land.
 
 **(b) Updates**
 
@@ -98,12 +103,22 @@ Not later than 30 months after April 29, 2022, the Secretaries shall jointly dev
 
 **(c) Effect** Geographic information system data made publicly available under subsection (a) shall not disclose information regarding the nature, location, character, or ownership of historic, paleontological, or archaeological resources, consistent with applicable law.
 
+### Statutory Notes
+
+#### Amendments
+2025—Subsec. (a)(4). Pub. L. 118–234 substituted “regulated or closed” for “permanently restricted or prohibited”.
+
 
 <a id="section-6855"></a>
 ## § 6855. Cooperation and coordination
 **(a) Third-party providers** The Secretaries may enter into an agreement with a third party to carry out any provision of this chapter.
 
-**(b) US Geological Survey** The Secretaries may work with the Director of the United States Geological Survey to collect, aggregate, digitize, standardize, or publish data on behalf of the Secretary of the Interior to meet the requirements of this chapter.
+**(b) US Geological Survey** The Secretaries shall work with the Director of the United States Geological Survey to collect, aggregate, digitize, standardize, or publish data on behalf of the Secretaries to meet the requirements of this chapter.
+
+### Statutory Notes
+
+#### Amendments
+2025—Subsec. (b). Pub. L. 118–234 substituted “shall” for “may” and “the Secretaries” for “the Secretary of the Interior”.
 
 
 <a id="section-6856"></a>

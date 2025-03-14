@@ -10,7 +10,7 @@ source: >-
 ---
 <a id="section-611"></a>
 ## § 611. Convening of selection boards
-**(a)** Whenever the needs of the service require, the Secretary of the military department concerned shall convene selection boards to recommend for promotion to the next higher permanent grade, under subchapter II of this chapter, officers on the active-duty list in each permanent grade from first lieutenant through brigadier general in the Army, Air Force, or Marine Corps and from lieutenant (junior grade) through rear admiral (lower half) in the Navy. The preceding sentence does not require the convening of a selection board in the case of officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) when the Secretary concerned recommends for promotion to the next higher grade under [section 624(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section624/a/3&num=0&edition=prelim) all such officers whom the Secretary finds to be fully qualified for promotion.
+**(a)** Whenever the needs of the service require, the Secretary of the military department concerned shall convene selection boards to recommend for promotion to the next higher permanent grade, under subchapter II of this chapter, officers on the active-duty list in each permanent grade from first lieutenant through brigadier general in the Army, Air Force, Marine Corps, or Space Force and from lieutenant (junior grade) through rear admiral (lower half) in the Navy. The preceding sentence does not require the convening of a selection board in the case of officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) when the Secretary concerned recommends for promotion to the next higher grade under [section 624(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section624/a/3&num=0&edition=prelim) all such officers whom the Secretary finds to be fully qualified for promotion.
 
 **(b)** Whenever the needs of the service require, the Secretary of the military department concerned may convene selection boards to recommend officers for continuation on active duty under [section 637 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-637) or for early retirement under [section 638 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-638).
 
@@ -19,6 +19,8 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
 2001—Subsec. (a). Pub. L. 107–107, § 505(a)(3)(A), substituted “Whenever the needs of the service require, the Secretary of the military department concerned” for “Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require,” and inserted at end “The preceding sentence does not require the convening of a selection board in the case of officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) when the Secretary concerned recommends for promotion to the next higher grade under [section 624(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section624/a/3&num=0&edition=prelim) all such officers whom the Secretary finds to be fully qualified for promotion.”
 
 Subsec. (b). Pub. L. 107–107, § 505(a)(3)(B), substituted “Whenever the needs of the service require, the Secretary of the military department concerned” for “Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require,”.
@@ -76,13 +78,15 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 (3) The Secretary of Defense may waive the requirement in paragraph (1) in the case of—
 
-  (A) any selection board of the Marine Corps; or
+  (A) any selection board of the Marine Corps or the Space Force; or
 
   (B) any selection board that is considering officers in specialties identified in paragraph (2) or (3) of [section 619a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section619a/b&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (c)(3)(A). Pub. L. 118–159 inserted “or the Space Force” after “of the Marine Corps”.
+
 2021—Subsec. (a)(1). Pub. L. 116–283 inserted at end “The members of a selection board shall represent the diverse population of the armed force concerned to the extent practicable.”
 
 2011—Subsec. (c). Pub. L. 111–383 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each selection board convened under [section 611(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section611/a&num=0&edition=prelim) that will consider officers who are serving in, or have served in, joint duty assignments shall include at least one officer designated by the Chairman of the Joint Chiefs of Staff who is currently serving in a joint duty assignment. The Secretary of Defense may waive the preceding sentence in the case of any selection board of the Marine Corps.”
@@ -118,6 +122,9 @@ Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub
 
 #### Effective Date
 Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
+
+#### Authority To Waive Prohibition on Officers Serving on Successive Selection Boards for Boards To Consider Officers for Promotion to Major General or Rear Admiral
+Pub. L. 119–60, div. A, title V, § 507, Dec. 18, 2025, 139 Stat. 859, provided that: “Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may, during the three-year period following the date of the enactment of this Act [Dec. 18, 2025], waive the limitation in section 612(b)(1) [probably should be “612(b)”] of title 10, United States Code, in the case of a selection board that will consider officers for recommendation for promotion to the grade of major general or rear admiral if the Secretary of the military department determines that qualified officers on the active-duty list or Space Force officer list or otherwise authorized to serve on the board are not available in sufficient number to comprise that selection board.”
 
 
 <a id="section-613"></a>
@@ -329,6 +336,9 @@ Amendment by Pub. L. 99–433 effective with respect to selection boards convene
 #### Effective Date
 Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
+#### Pilot Program on Peer and Subordinate Assessments of Certain Officers
+Pub. L. 118–159, div. A, title V, § 509F, Dec. 23, 2024, 138 Stat. 1874, provided that: “(a) Establishment.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Secretary concerned shall implement, in a covered Armed Force, a five-year pilot program, pursuant to which—“(1) an officer described in subsection (b) shall be assessed by peers and subordinates; and “(2) the results of such assessments may be available to a command selection or command qualification board concerned; and “(3) the command selection or command qualification board may consider such results in determining whether to recommend such officer for such selection or qualification. “(b) Covered Officers.—An officer described in this subsection is a regular officer—“(1) eligible for consideration for command; “(2) in grade O-5 or O-6; and “(3) in a career field—“(A) specified in subsection (c); or “(B) determined by the Secretary concerned. “(c) Covered Career Fields.—The career fields specified in this subsection are the following:“(1) In the Navy, surface warfare, submarine warfare, special warfare, or explosive ordnance disposal. “(2) In the Marine Corps, infantry, logistics, or field artillery. “(3) In the Air Force, operations or logistics. “(4) In the Space Force, space operations. “(d) Selection of Assessors.—The Secretary concerned may select an individual to assess an officer under the pilot program if the Secretary determines such individual has worked with the officer closely enough to have an informed opinion regarding the officer’s leadership abilities. An officer may not have any input regarding the selection of an individual who shall assess such officer. “(e) Report.—Not later than three months after the termination of a pilot program, a Secretary concerned shall submit to the Committees on Armed Services of the House of Representatives and Senate a report regarding the pilot program. Elements of each such report shall include the following:“(1) The determination of the Secretary concerned whether the pilot program improved the command selection or command qualification process of the covered Armed Force. “(2) The rationale and findings of the Secretary concerned in determining whether to use such assessments in the command selection or command qualification process of such covered Armed Force. “(f) Definitions.—In this section:“(1) The term ‘covered Armed Force’ means the Army, Navy, Marine Corps, Air Force, or Space Force. “(2) The terms ‘regular’ and ‘Secretary concerned’ have the meanings given such term in [section 101 of title 10](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101), United States Code.”
+
 #### Exclusion of Official Photographs of Members From Records Furnished to Promotion Selection Boards
 Pub. L. 116–283, div. A, title V, § 524(a)–(c), Jan. 1, 2021, 134 Stat. 3599, provided that: “(a) Active Duty Officers.—The Secretary of Defense shall include in the regulations prescribed pursuant to [section 615(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section615/a&num=0&edition=prelim), United States Code, a prohibition on the inclusion of an official photograph of an officer in the information furnished to a selection board pursuant to section 615(b) of such title. “(b) Reserve Officers.—The Secretary of Defense shall include in regulations prescribed pursuant to [section 14107(a)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14107/a/1&num=0&edition=prelim), United States Code, a prohibition on the inclusion of an official photograph of an officer in the information furnished to a selection board pursuant to section 14107(a)(2) of such title. “(c) Enlisted Members.—Each Secretary of a military department shall prescribe regulations that prohibit the inclusion of an official photograph of an enlisted member in the information furnished to a board that considers enlisted members under the jurisdiction of such Secretary for promotion.”
 
@@ -347,7 +357,11 @@ Pub. L. 116–283, div. A, title V, § 524(a)–(c), Jan. 1, 2021, 134 Stat. 359
 
 (3) a majority of the members of the board, after consideration by all members of the board of any adverse information about the officer that is provided to the board under [section 615 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-615), finds that the officer is among the officers best qualified for promotion to meet the needs of the armed force concerned consistent with the requirement of exemplary conduct set forth in section 7233, 8167, or 9233 of this title, as applicable.
 
-**(d)** The number of officers recommended for promotion by a selection board convened under [section 611(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section611/a&num=0&edition=prelim) may not exceed the number equal to 95 percent of the number of officers included in the promotion zone established under [section 623 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-623) for consideration by the board, except, the Secretary concerned may authorize a greater number of officers so recommended that is less than 100 percent of the number of officers so included, for medical and dental officers recommended for promotion to major or lieutenant commander, if the Secretary concerned determines that such greater number is necessary to maintain or improve medical readiness.
+**(d)**
+
+(1) Subject to paragraph (2), the number of officers recommended for promotion by a selection board convened under [section 611(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section611/a&num=0&edition=prelim) may not exceed the number equal to 95 percent of the number of officers included in the promotion zone established under [section 623 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-623) for consideration by the board, except, the Secretary concerned may authorize a greater number of officers so recommended that is less than 100 percent of the number of officers so included, for medical and dental officers recommended for promotion to major or lieutenant commander, if the Secretary concerned determines that such greater number is necessary to maintain or improve medical readiness.
+
+(2) During the period beginning on January 1, 2025, and ending on December 31, 2030, the number of officers recommended for promotion by a selection board convened under [section 611(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section611/a&num=0&edition=prelim) may not equal or exceed 100 percent of the number of officers included in the promotion zone established under [section 623 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-623) for consideration by the board, for nurse officers recommended for promotion to major or lieutenant commander, if the Secretary concerned determines that such greater number is necessary to maintain or improve medical readiness.
 
 **(e)** Except as otherwise provided by law, an officer on the active-duty list may not be promoted to a higher grade under this chapter unless he is considered and recommended for promotion to that grade by a selection board convened under this chapter.
 
@@ -370,6 +384,8 @@ Pub. L. 116–283, div. A, title V, § 524(a)–(c), Jan. 1, 2021, 134 Stat. 359
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (d). Pub. L. 118–159 designated existing provisions as par. (1), substituted “Subject to paragraph (2), the number” for “The number”, and added par. (2).
+
 2023—Subsec. (d). Pub. L. 118–31 inserted before period at end “, except, the Secretary concerned may authorize a greater number of officers so recommended that is less than 100 percent of the number of officers so included, for medical and dental officers recommended for promotion to major or lieutenant commander, if the Secretary concerned determines that such greater number is necessary to maintain or improve medical readiness”.
 
 2021—Subsec. (h)(1). Pub. L. 116–283, § 504(a)(1), substituted “shall” for “may” and inserted “pursuant to guidelines and procedures prescribed by the Secretary,” after “officers of particular merit,”.
@@ -497,6 +513,12 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 (2) In the case of an officer recommended by a selection board for promotion to a grade below brigadier general or rear admiral (lower half), the name of the officer may also be removed from the report of the selection board by the Secretary of Defense or the Deputy Secretary of Defense.
 
+(3) The Secretary of Defense shall notify the congressional defense committees of the removal of the name of an officer from the report of a selection board by the President or the Secretary or Deputy Secretary of Defense under paragraph (1) or paragraph (2), respectively, for any reason other than misconduct—
+
+  (A) not later than 30 days after the name of an officer is removed; and
+
+  (B) prior to submission to the Senate of a promotion list with respect to such report pursuant to [section 624(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section624/c&num=0&edition=prelim).
+
 **(e)**
 
 (1) The names of the officers recommended for promotion in the report of a selection board shall be disseminated to the armed force concerned as follows:
@@ -520,6 +542,8 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (d)(3). Pub. L. 119–60 added par. (3).
+
 2011—Subsec. (b)(1). Pub. L. 111–383, § 522(c)(1), substituted “are serving on, or have served on, the Joint Staff or are joint qualified officers” for “are serving, or have served, in joint duty assignments”.
 
 Subsec. (b)(2). Pub. L. 111–383, § 522(c)(2), substituted “of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers” for “in joint duty assignments of officers who are serving, or have served, in such assignments” in subpars. (A) and (B).
@@ -611,7 +635,7 @@ Nothing in section 1 of Ex. Ord. No. 12396 deemed to delegate authority vested i
 
   (B) may, by regulation, prescribe a period of time, not to exceed one year, from the time an officer is placed on the active-duty list during which the officer shall be ineligible for consideration for promotion; and
 
-  (C) may, by regulation, preclude from consideration by a selection board by which he would otherwise be eligible to be considered, an officer who has an established separation date that is within 90 days after the date the board is convened.
+  (C) may, by regulation, preclude from consideration by a selection board by which he would otherwise be eligible to be considered, an officer who has an established separation date that is within 90 days after the date the board is convened or an approved retirement date.
 
 (3)
 
@@ -653,7 +677,7 @@ Nothing in section 1 of Ex. Ord. No. 12396 deemed to delegate authority vested i
 
 (2) The Secretary concerned may only approve a request under paragraph (1) if—
 
-  (A) the basis for the request is to allow an officer to complete a broadening assignment, advanced education, another assignment of significant value to the Department, or a career progression requirement delayed by the assignment or education;
+  (A) the basis for the request is to allow an officer to complete a broadening assignment, advanced education, another assignment of significant value to the Department, training, or a career progression requirement delayed by the assignment, education, or training;
 
   (B) the Secretary determines the exclusion from consideration is in the best interest of the military department concerned; and
 
@@ -662,6 +686,10 @@ Nothing in section 1 of Ex. Ord. No. 12396 deemed to delegate authority vested i
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (c)(2)(C). Pub. L. 118–159, § 503(b), inserted “or an approved retirement date” after “an established separation date that is within 90 days after the date the board is convened”.
+
+Subsec. (e)(2)(A). Pub. L. 118–159, § 505(a)(1), inserted “training,” after “Department,” and substituted “assignment, education, or training” for “assignment or education”.
+
 2023—Subsec. (a). Pub. L. 118–31 substituted “or Marine Corps” for “Marine Corps, or Space Force” wherever appearing.
 
 2021—Subsec. (a). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps” wherever appearing.
@@ -993,13 +1021,15 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 (5) An appointment of an officer may not be delayed under this subsection for more than six months after the date on which the officer would otherwise have been appointed unless the Secretary concerned specifies a further period of delay. An officer’s appointment may not be delayed more than 90 days after final action has been taken in any criminal case against such officer in a Federal or State court, more than 90 days after final action has been taken in any court-martial case against such officer, or more than 18 months after the date on which such officer would otherwise have been appointed, whichever is later.
 
-**(e)** Notwithstanding subsection (a)(2), in the case of an officer who is selected for promotion by a selection board convened under this chapter, and prior to the placement of the officer’s name on the applicable promotion list is approved 11 So in original. for transfer to the reserve active-status list of the same or a different armed force, the Secretary concerned may place the officer’s name on a corresponding promotion list on the reserve active-status list without regard to the officer’s competitive category. An officer’s promotion under this subsection shall be made pursuant to [section 14308 of this title](./chapter-1405-promotions.md#section-14308).
+**(e)** Notwithstanding subsection (a)(2), in the case of an officer who is selected for promotion by a selection board convened under this chapter, and prior to the placement of the officer’s name on the applicable promotion list as approved for transfer to the reserve active-status list of the same or a different armed force, the Secretary concerned may place the officer’s name on a corresponding promotion list on the reserve active-status list without regard to the officer’s competitive category. An officer’s promotion under this subsection shall be made pursuant to [section 14308 of this title](./chapter-1405-promotions.md#section-14308).
 
 **(f)** Notwithstanding subsection (a)(3), in the case of an officer who is placed on an all-fully-qualified-officers list, and is subsequently approved for transfer to the reserve active-status list, the Secretary concerned may place the officer’s name on an appropriate all-fully-qualified-officers list on the reserve active-status list. An officer’s promotion under this subsection shall be made pursuant to [section 14308 of this title](./chapter-1405-promotions.md#section-14308).
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (e). Pub. L. 118–159 substituted “as approved” for “is approved”.
+
 2023—Subsecs. (e), (f). Pub. L. 118–31 added subsecs. (e) and (f).
 
 2021—Subsec. (c). Pub. L. 116–283, § 924(b)(3)(G), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
@@ -1377,7 +1407,7 @@ Functions of President under subsec. (d)(1) to approve, modify, or disapprove re
 
 (4) The recommendation for promotion of a person may be sustained under this section only if the special selection review board determines that the person—
 
-  (A) ranks on an order of merit created by the special selection review board as better qualified for promotion than the sample officer highest on the order of merit list who was considered by and not recommended for promotion by the promotion board concerned; and
+  (A) ranks in the upper half of an order of merit created by the special selection review board or ranks on an order of merit created by the special selection review board as better qualified for promotion than the sample officer highest on the order of merit list who was considered by and not recommended for promotion by the promotion board concerned; and
 
   (B) is comparable in qualification for promotion to those sample officers who were recommended for promotion by that promotion board.
 
@@ -1389,11 +1419,11 @@ Functions of President under subsec. (d)(1) to approve, modify, or disapprove re
 
 (1) Each special selection review board convened under this section shall submit to the Secretary of the military department concerned a written report, signed by each member of the board, containing the name of each person whose recommendation for promotion it recommends for sustainment and certifying that the board has carefully considered the record and information of each person whose name was referred to it.
 
-(2) The provisions of sections 617(b) and 618 of this title apply to the report and proceedings of a special selection review board convened under this section in the same manner as they apply to the report and proceedings of a promotion board convened under [section 611(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section611/a&num=0&edition=prelim). However, in the case of an officer on the Space Force officer list, the provisions of sections 618, 20215, and 20216 of this title apply to the report and proceedings of a special selection review board convened under this section in the same manner as they apply to report 11 So in original. Probably should be preceded by “the”. and proceedings of a promotion board convened under [section 20211 of this title](./chapter-2005-officers.md#section-20211).
+(2) The provisions of sections 617(b) and 618 of this title apply to the report and proceedings of a special selection review board convened under this section in the same manner as they apply to the report and proceedings of a promotion board convened under [section 611(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section611/a&num=0&edition=prelim). However, in the case of an officer on the Space Force officer list, the provisions of sections 618, 20215, and 20216 of this title apply to the report and proceedings of a special selection review board convened under this section in the same manner as they apply to the report and proceedings of a promotion board convened under [section 20211 of this title](./chapter-2005-officers.md#section-20211).
 
 **(f) Appointment of Persons.—**
 
-(1) If the report of a special selection review board convened under this section recommends the sustainment of the recommendation for promotion to the next higher grade of a person whose name was referred to it for review under this section, and the President approves the report, the person shall, as soon as practicable, be appointed to that grade in accordance with subsections (b) and (c) of [section 624 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-624). However, if the report of a special selection review board convened under this section recommends the sustainment of the recommendation for promotion to the next higher grade of an officer on the Space Force officer list who was referred to it for review under this section, and the President approves the report, the officer shall, as soon as practicable, be appointed to the grade in accordance with subsections (b) and (c) of section 20251 22 There are two sections 20251 of this title. of this title.
+(1) If the report of a special selection review board convened under this section recommends the sustainment of the recommendation for promotion to the next higher grade of a person whose name was referred to it for review under this section, and the President approves the report, the person shall, as soon as practicable, be appointed to that grade in accordance with subsections (b) and (c) of [section 624 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-624). However, if the report of a special selection review board convened under this section recommends the sustainment of the recommendation for promotion to the next higher grade of an officer on the Space Force officer list who was referred to it for review under this section, and the President approves the report, the officer shall, as soon as practicable, be appointed to the grade in accordance with subsections (b) and (c) of [section 20252 of this title](./chapter-2005-officers.md#section-20252).
 
 (2) A person who is appointed to the next higher grade as described in paragraph (1) shall, upon that appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the active-duty list as the person would have had pursuant to the original recommendation for promotion of the promotion board concerned.
 
@@ -1408,6 +1438,12 @@ Functions of President under subsec. (d)(1) to approve, modify, or disapprove re
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (d)(4)(A). Pub. L. 118–159, § 506(a), inserted “ranks in the upper half of an order of merit created by the special selection review board or” before “ranks on an order of merit created by the special selection review board as better qualified”.
+
+Subsec. (e)(2). Pub. L. 118–159, § 1701(a)(15)(A), substituted “apply to the report and proceedings of a promotion board convened under section 20211” for “apply to report and proceedings of a promotion board convened under section 20211”.
+
+Subsec. (f). Pub. L. 118–159, § 1701(a)(15)(B), substituted “section 20252” for “section 20251”.
+
 2023—Subsec. (a)(1)(A). Pub. L. 118–31, § 1722(b)(5)(A), substituted “major general or” for “major general,” and struck out “, or an equivalent grade in the Space Force” after “in the Navy”.
 
 Subsec. (a)(2)(B). Pub. L. 118–31, § 507(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “shall not be forwarded to the Secretary of Defense, the President, or the Senate, as applicable, or included on a promotion list under [section 624(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section624/a&num=0&edition=prelim).”
@@ -1423,7 +1459,7 @@ Subsec. (a)(1)(B). Pub. L. 117–263, § 521(2), added subpar. (B).
 
 <a id="section-629"></a>
 ## § 629. Removal from a list of officers recommended for promotion
-**(a) Removal by President.—** The President may remove the name of any officer from a list of officers recommended for promotion by a selection board convened under this chapter.
+**(a) Removal by President.—** The President may remove the name of any officer from a list of officers recommended for promotion by a selection board convened under this chapter. The President shall notify the congressional defense committees not later than 30 days after removing the name of an officer from such list for any reason other than misconduct.
 
 **(b) Removal Due to Senate Not Giving Advice and Consent.—** If, after consideration of a list of officers approved for promotion by the President to a grade for which appointment is required by [section 624(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section624/c&num=0&edition=prelim) to be made by and with the advice and consent of the Senate, the Senate does not give its advice and consent to the appointment of an officer whose name is on the list, that officer’s name shall be removed from the list.
 
@@ -1448,6 +1484,8 @@ Subsec. (a)(1)(B). Pub. L. 117–263, § 521(2), added subpar. (B).
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 inserted at end “The President shall notify the congressional defense committees not later than 30 days after removing the name of an officer from such list for any reason other than misconduct.”
+
 2017—Subsec. (c)(3). Pub. L. 115–91, which directed amendment of par. (3) by substituting “the military department concerned is not able to obtain and provide to the Senate the information the Senate requires” for “the Senate is not able to obtain the information necessary”, was executed by making the substitution for “the Senate is not able to obtain information necessary”, to reflect the probable intent of Congress.
 
 2016—Subsec. (c)(3), (4). Pub. L. 114–328 added par. (3) and redesignated former par. (3) as (4).
@@ -1514,9 +1552,9 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 ## § 631. Effect of failure of selection for promotion: first lieutenants and lieutenants (junior grade)
 **(a)** Except an officer of the Navy and Marine Corps who is an officer designated for limited duty (to whom section 8146(e) or 8372 of this title applies), each officer of the Army, Air Force, Marine Corps, or Space Force on the active-duty list who holds the grade of first lieutenant and has failed of selection for promotion to the grade of captain for the second time, and each officer of the Navy on the active-duty list who holds the grade of lieutenant (junior grade) and has failed of selection for promotion to the grade of lieutenant for the second time, whose name is not on a list of officers recommended for promotion to the next higher grade shall—
 
-(1) be discharged on the date requested by him and approved by the Secretary of the military department concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the board which considered him for the second time;
+(1) be discharged on the date requested by him and approved by the Secretary of the military department concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public;
 
-(2) if he is eligible for retirement under any provision of law, be retired under that law on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the board which considered him for the second time; or
+(2) if he is eligible for retirement under any provision of law, be retired under that law on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public; or
 
 (3) if on the date on which he is to be discharged under paragraph (1) he is within two years of qualifying for retirement under section 7311, 8323, or 9311 of this title, be retained on active duty until he is qualified for retirement and then be retired under that section, unless he is sooner retired or discharged under another provision of law.
 
@@ -1529,6 +1567,8 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a)(1), (2). Pub. L. 118–159 substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “the President approves the report of the board which considered him for the second time”.
+
 2021—Subsecs. (a), (d). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps” in introductory provisions in subsec. (a) and in subsec. (d).
 
 2018—Subsec. (a). Pub. L. 115–232 substituted “section 8146(e) or 8372” for “section 5596(e) or 6383” in introductory provisions and “section 7311, 8323, or 9311” for “section 3911, 6323, or 8911” in par. (3).
@@ -1556,7 +1596,7 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 (1) except as provided in paragraph (3) and in subsection (c), be discharged on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public;
 
-(2) if he is eligible for retirement under any provision of law, be retired under that law on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the board which considered him for the second time; or
+(2) if he is eligible for retirement under any provision of law, be retired under that law on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public; or
 
 (3) if on the date on which he is to be discharged under paragraph (1) he is within two years of qualifying for retirement under section 7311, 8323, or 9311 of this title, be retained on active duty until he is qualified for retirement and then retired under that section, unless he is sooner retired or discharged under another provision of law.
 
@@ -1564,15 +1604,17 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 **(c)**
 
-(1) If a health professions officer described in paragraph (3) is subject to discharge under subsection (a)(1) and, as of the date on which the officer is to be discharged under that subsection, the officer has not completed a period of active duty service obligation that the officer incurred under section 2005, 2114, 2123, or 2603 of this title, the officer shall be retained on active duty until completion of such active duty service obligation, and then be discharged under that subsection, unless sooner retired or discharged under another provision of law.
+(1) If an officer is subject to discharge under subsection (a)(1) and, as of the date on which the officer is to be discharged under that subsection, the officer has not completed the officer’s active duty service obligation, the officer shall be retained on active duty until completion of such active duty service obligation, and then be discharged under subsection (a)(1), unless sooner retired or discharged under another provision of law.
 
 (2) The Secretary concerned may waive the applicability of paragraph (1) to any officer if the Secretary determines that completion of the active duty service obligation of that officer is not in the best interest of the service.
-
-(3) This subsection applies to a medical officer or dental officer or an officer appointed in a medical skill other than as a medical officer or dental officer (as defined in regulations prescribed by the Secretary of Defense).
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a)(2). Pub. L. 118–159, § 505(b)(2), substituted “the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “the President approves the report of the board which considered him for the second time”.
+
+Subsec. (c). Pub. L. 118–159, § 507, amended subsec. (c) generally. Prior to amendment, subsec. (c) related to retention of discharged health professions officers on active duty until completion of such active duty service obligation.
+
 2023—Pub. L. 118–31, § 508(a)(1)(A), substituted “Marine Corps, and Space Force” for “and Marine Corps” in section catchline.
 
 Subsec. (a)(1). Pub. L. 118–31, § 508(a)(1)(B), substituted “Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “President approves the report of the board which considered him for the second time”.
@@ -1973,7 +2015,7 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 (1) The Secretary of Defense may authorize the Secretary of a military department to take any of the actions set forth in subsection (b) with respect to officers of an armed force under the jurisdiction of that Secretary.
 
-(2) Any authority provided to the Secretary of a military department under paragraph (1) shall expire on the date specified by the Secretary of Defense, but such expiration date may not be later than December 31, 2025.
+(2) Any authority provided to the Secretary of a military department under paragraph (1) shall expire on the date specified by the Secretary of Defense, but such expiration date may not be later than December 31, 2030.
 
 **(b)** Actions which the Secretary of a military department may take with respect to officers of an armed force when authorized to do so under subsection (a) are the following:
 
@@ -2053,6 +2095,8 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsecs. (b)(3)(C) and (e)(1), is section 4403 of Pub. L. 102–484, which is set out as a note under [section 1293 of this title](./chapter-065-retirement-of-warrant-officers-for-length-of-service.md#section-1293).
 
 #### Amendments
+2025—Subsec. (a)(2). Pub. L. 119–60 substituted “December 31, 2030” for “December 31, 2025”.
+
 2018—Subsecs. (b)(2)(C), (e)(1). Pub. L. 115–232 substituted “section 7311, 8323, or 9311” for “section 3911, 6323, or 8911”.
 
 2017—Subsec. (c)(1). Pub. L. 115–91, § 503(1), added par. (1) and struck out former par. (1) which read as follows: “In the case of an action under subsection (b)(2), the Secretary of the military department concerned shall specify the number of officers described in that subsection which a selection board convened under [section 611(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section611/b&num=0&edition=prelim) pursuant to the authority of that subsection may recommend for early retirement. Such number may not be more than 30 percent of the number of officers considered in each grade in each competitive category.”
@@ -2334,9 +2378,9 @@ In this chapter:
 
   (A) who—
 
-    (i) in the case of officers in grades below colonel, for officers of the Army, Air Force, and Marine Corps, or captain, for officers of the Navy, have neither (I) failed of selection for promotion to the next higher grade, nor (II) been removed from a list of officers recommended for promotion to that grade (other than after having been placed on that list after a selection from below the promotion zone); or
+    (i) in the case of officers in grades below colonel, for officers of the Army, Air Force, Marine Corps, and Space Force, or captain, for officers of the Navy, have neither (I) failed of selection for promotion to the next higher grade, nor (II) been removed from a list of officers recommended for promotion to that grade (other than after having been placed on that list after a selection from below the promotion zone); or
 
-    (ii) in the case of officers in the grade of colonel or brigadier general, for officers of the Army, Air Force, and Marine Corps, or captain or rear admiral (lower half), for officers of the Navy, have neither (I) not been recommended for promotion to the next higher grade when considered in the promotion zone, nor (II) been removed from a list of officers recommended for promotion to that grade (other than after having been placed on that list after a selection from below the promotion zone); and
+    (ii) in the case of officers in the grade of colonel or brigadier general, for officers of the Army, Air Force, Marine Corps, and Space Force, or captain or rear admiral (lower half), for officers of the Navy, have neither (I) not been recommended for promotion to the next higher grade when considered in the promotion zone, nor (II) been removed from a list of officers recommended for promotion to that grade (other than after having been placed on that list after a selection from below the promotion zone); and
 
   (B) are senior to the officer designated by the Secretary of the military department concerned to be the junior officer in the promotion zone eligible for consideration for promotion to the next higher grade.
 
@@ -2359,6 +2403,8 @@ In this chapter:
 ### Statutory Notes
 
 #### Amendments
+2024—Par. (1)(A). Pub. L. 118–159 substituted “Marine Corps, and Space Force,” for “and Marine Corps,” in cls. (i) and (ii).
+
 1991—Pars. (1) to (3). Pub. L. 102–25 inserted “The term” after par. designations and lowercased initial letter of quoted phrases.
 
 1985—Par. (1)(A)(ii). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.

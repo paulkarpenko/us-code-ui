@@ -120,8 +120,6 @@ source: >-
 
 **(h) Small Shipyard Defined.—** In this section, the term “small shipyard” means a shipyard facility in one geographic location that does not have more than 1,200 employees.
 
-**(i) Authorization of Appropriations.—** There are authorized to be appropriated to the Administrator of the Maritime Administration for fiscal year 2021 to carry out this section $20,000,000.
-
 ### Statutory Notes
 
 #### References in Text
@@ -131,6 +129,8 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 A prior section 54101, added and amended Pub. L. 110–181, div. C, title XXXV, § 3523(a)(6)(B)–(D), Jan. 28, 2008, 122 Stat. 599, which related to assistance for small shipyards and maritime communities, was repealed by Pub. L. 110–417, div. C, title XXXV, § 3508(b), Oct. 14, 2008, 122 Stat. 4769, as amended by Pub. L. 111–84, div. A, title X, § 1073(c)(14), Oct. 28, 2009, 123 Stat. 2475, effective Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 #### Amendments
+2024—Subsec. (i). Pub. L. 118–159 struck out subsec. (i). Text read as follows: “There are authorized to be appropriated to the Administrator of the Maritime Administration for fiscal year 2021 to carry out this section $20,000,000.”
+
 2022—Subsec. (e)(2). Pub. L. 117–263 added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Administrator may not award more than 25 percent of the funds appropriated to carry out this section for any fiscal year to any small shipyard in one geographic location that has more than 600 employees.”
 
 2021—Subsec. (i). Pub. L. 116–283 substituted “for fiscal year 2021 to carry out this section $20,000,000” for “for each of fiscal years 2020 and 2021 to carry out this section $40,000,000”.

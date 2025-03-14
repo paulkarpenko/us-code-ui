@@ -87,7 +87,7 @@ The section is substituted for 31:547a for clarity and consistency in the revise
 #### References in Text
 Section 1105(a)(29), referred to in subsec. (a), was redesignated [section 1105(a)(28) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a/28&num=0&edition=prelim) by Pub. L. 104–287, § 4(1), Oct. 11, 1996, 110 Stat. 3388.
 
-Section 1115(f), referred to in subsec. (f), was redesignated [section 1115(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1115/g&num=0&edition=prelim) by Pub. L. 107–296, title XIII, § 1311(a)(2), Nov. 25, 2002, 116 Stat. 2290.
+Section 1115, referred to in subsec. (f), was repealed, and a new section 1115 enacted, by Pub. L. 111–352, § 3, Jan. 4, 2011, 124 Stat. 3867. As reenacted, definitions in former section 1115(f) are now contained in [section 1115(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1115/h&num=0&edition=prelim).
 
 #### Codification
 Another section 9703 was renumbered [section 9705 of this title](./chapter-097-miscellaneous.md#section-9705).
@@ -102,18 +102,19 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
 **(b)** Pilot projects in the designated agencies shall include proposed waivers in accordance with section 9703 for one or more of the major functions and operations of the agency.
 
-**(c)** The Director of the Office of Management and Budget shall include in the report to the President and to the Congress required under section 1118(c)—
-
-(1) an assessment of the benefits, costs, and usefulness of increasing managerial and organizational flexibility, discretion, and authority in exchange for improved performance through a waiver; and
-
-(2) an identification of any significant difficulties experienced by the pilot agencies in preparing proposed waivers.
-
-**(d)** For purposes of this section the definitions under section 1115(f) 11 See References in Text note below. shall apply.
+**(c)** For purposes of this section the definitions under section 1115(f) 11 See References in Text note below. shall apply.
 
 ### Statutory Notes
 
 #### References in Text
-Section 1115(f), referred to in subsec. (d), was redesignated [section 1115(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1115/g&num=0&edition=prelim) by Pub. L. 107–296, title XIII, § 1311(a)(2), Nov. 25, 2002, 116 Stat. 2290.
+Section 1115, referred to in subsec. (c), was repealed, and a new section 1115 enacted, by Pub. L. 111–352, § 3, Jan. 4, 2011, 124 Stat. 3867. As reenacted, definitions in former section 1115(f) are now contained in [section 1115(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1115/h&num=0&edition=prelim).
+
+#### Amendments
+2024—Subsecs. (c), (d). Pub. L. 118–190 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The Director of the Office of Management and Budget shall include in the report to the President and to the Congress required under section 1118(c)—
+
+“(1) an assessment of the benefits, costs, and usefulness of increasing managerial and organizational flexibility, discretion, and authority in exchange for improved performance through a waiver; and
+
+“(2) an identification of any significant difficulties experienced by the pilot agencies in preparing proposed waivers.”
 
 #### Construction
 No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under [section 1101 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1101).
@@ -121,7 +122,7 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
 <a id="section-9705"></a>
 ## § 9705. Department of the Treasury Forfeiture Fund
-**(a) In General.—** There is established in the Treasury of the United States a fund to be known as the “Department of the Treasury Forfeiture Fund” (referred to in this section as the “Fund”). The Fund shall be available to the Secretary, without fiscal year limitation, with respect to seizures and forfeitures made pursuant to any law (other than section 7301 or 7302 of the Internal Revenue Code of 1986) enforced or administered by the Department of the Treasury or the United States Coast Guard for the following law enforcement purposes:
+**(a) In General.—** There is established in the Treasury of the United States a fund to be known as the “Department of the Treasury Forfeiture Fund” (referred to in this section as the “Fund”). The Fund shall be available to the Secretary, without fiscal year limitation, with respect to seizures and forfeitures made pursuant to any law (other than section 7301 or 7302 of the Internal Revenue Code of 1986) enforced or administered by a Department of the Treasury law enforcement organization for the following law enforcement purposes:
 
 (1)
 
@@ -147,7 +148,7 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
   (F) Payment of claims of parties in interest to property disposed of under section 612(b) of the Tariff Act of 1930 ([19 U.S.C. 1612(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1612/b&num=0&edition=prelim)), in the amounts applicable to such claims at the time of seizure.
 
-  (G) Equitable sharing payments made to other Federal agencies, State and local law enforcement agencies, and foreign countries pursuant to section 616(c) of the Tariff Act of 1930 ([19 U.S.C. 1616a(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1616a/c&num=0&edition=prelim)), [section 981 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section981&num=0&edition=prelim), or subsection (h) of this section, and all costs related thereto.
+  (G) Equitable sharing payments made to other Federal agencies, State and local law enforcement agencies, and foreign countries pursuant to section 616(c) of the Tariff Act of 1930 ([19 U.S.C. 1616a(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1616a/c&num=0&edition=prelim)), [section 981 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section981&num=0&edition=prelim), or subsection (g) of this section, and all costs related thereto.
 
   (H) Payment for services of experts and consultants needed by a Department of the Treasury law enforcement organization to carry out the organization’s duties relating to seizure and forfeiture.
 
@@ -191,9 +192,11 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
       (III) any law of the United States which the United States Secret Service is authorized to enforce relating to fraud or other criminal or unlawful activity in or against any federally insured financial institution, the Resolution Trust Corporation, or the Federal Deposit Insurance Corporation;
 
-    (iv) the United States Customs Service or the Internal Revenue Service with respect to a violation of chapter 53 of this title (relating to the Bank Secrecy Act); and
+    (iv) the United States Customs Service or the Internal Revenue Service with respect to a violation of chapter 53 of this title (relating to the Bank Secrecy Act);
 
-    (v) United States Immigration and Customs Enforcement with respect to a violation of chapter 77 of title 18 (relating to human trafficking), chapter 109A of title 18 (relating to sexual abuse), chapter 110 of title 18 (relating to child sexual exploitation), or chapter 117 of title 18 (relating to transportation for illegal sexual activity and related crimes);
+    (v) United States Immigration and Customs Enforcement with respect to a violation of chapter 77 of title 18 (relating to human trafficking), chapter 109A of title 18 (relating to sexual abuse), chapter 110 of title 18 (relating to child sexual exploitation), or chapter 117 of title 18 (relating to transportation for illegal sexual activity and related crimes); and
+
+    (vi) the United States Coast Guard with respect to any law of the United States which the Coast Guard is authorized to enforce, assist in the enforcement of, or administer pursuant to section 102, 522, or 525 of title 14;
 
   (C) payment of costs for publicizing awards available under section 619 of the Tariff Act of 1930 ([19 U.S.C. 1619](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1619&num=0&edition=prelim));
 
@@ -205,7 +208,7 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
   (G) reimbursement of private persons for expenses incurred by such persons in cooperating with a Department of the Treasury law enforcement organization in investigations and undercover law enforcement operations; and
 
-  (H) payment for training foreign law enforcement personnel with respect to seizure or forfeiture activities of the Department of the Treasury.
+  (H) payment for training foreign law enforcement personnel with respect to seizure or forfeiture activities of a Department of the Treasury law enforcement organization.
 
 **(b) Limitations.—**
 
@@ -215,49 +218,35 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
 (3) The Secretary may exempt the procurement of contract services under the Fund from division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, section 6101(b) to (d) of title 41, and other provisions of law as may be necessary to maintain the security and confidentiality of related criminal investigations.
 
-(4) The Secretary shall assure that any equitable sharing payment made to a State or local law enforcement agency pursuant to subsection (a)(1)(G) and any property transferred to a State or local law enforcement agency pursuant to subsection (h)—
+(4) The Secretary shall assure that any equitable sharing payment made to a State or local law enforcement agency pursuant to subsection (a)(1)(G) and any property transferred to a State or local law enforcement agency pursuant to subsection (g)—
 
   (A) has a value that bears a reasonable relationship to the degree of participation of the State or local agency in the law enforcement effort resulting in the forfeiture, taking into account the total value of all property forfeited and the total law enforcement effort with respect to the violation of law on which the forfeiture is based; and
 
   (B) will serve to encourage further cooperation between the recipient State or local agency and Federal law enforcement agencies.
 
-(5) Amounts transferred by the Attorney General pursuant to [section 524(c)(1) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section524/c/1&num=0&edition=prelim), or by the Postmaster General pursuant to [section 2003 of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section2003&num=0&edition=prelim), and deposited into the Fund pursuant to subsection (d), shall be available for Federal law enforcement related purposes of the Department of the Treasury law enforcement organizations.
+(5) Amounts transferred by the Attorney General pursuant to [section 524(c)(1) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section524/c/1&num=0&edition=prelim), or by the Postmaster General pursuant to [section 2003 of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section2003&num=0&edition=prelim), and deposited into the Fund pursuant to subsection (c), shall be available for Federal law enforcement related purposes of the Department of the Treasury law enforcement organizations.
 
-**(c) Funds Available to United States Coast Guard.—**
-
-(1) The Secretary shall make available to the United States Coast Guard, from funds appropriated under subsection (g)(2) in excess of $10,000,000 for a fiscal year, an amount equal to the net proceeds in the Fund derived from seizures by the Coast Guard.
-
-(2) Funds made available under this subsection may be used to—
-
-  (A) pay for equipment for any vessel, vehicle, or aircraft available for official use by the United States Coast Guard to enable the vessel, vehicle, or aircraft to assist in law enforcement functions;
-
-  (B) pay for equipment for any vessel, vehicle, equipment, or aircraft available for official use by a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist in law enforcement functions if the vessel, vehicle, or aircraft will be used in joint law enforcement operations with the United States Coast Guard;
-
-  (C) pay for overtime salaries, travel, fuel, training, equipment, and other similar costs of State and local law enforcement officers that are incurred in joint law enforcement operations with the United States Coast Guard;
-
-  (D) pay for expenses incurred in bringing vessels into compliance with applicable environmental laws prior to disposal by sinking.
-
-**(d) Deposits and Credits.—**
+**(c) Deposits and Credits.—**
 
 (1) With respect to fiscal year 1993, there shall be deposited into or credited to the Fund—
 
   (A) all currency forfeited during fiscal year 1993, and all proceeds from forfeitures during fiscal year 1993, under any law enforced or administered by the United States Customs Service or the United States Coast Guard;
 
-  (B) all income from investments made under subsection (e); and
+  (B) all income from investments made under subsection (d); and
 
   (C) all amounts representing the equitable share of the United States Customs Service or the United States Coast Guard from the forfeiture of property under any Federal, State, local, or foreign law.
 
 (2) With respect to fiscal years beginning after fiscal year 1993, there shall be deposited into or credited to the Fund—
 
-  (A) all currency forfeited after fiscal year 1993, and all proceeds from forfeitures after fiscal year 1993, under any law (other than sections 7301 and 7302 of the Internal Revenue Code of 1986) enforced or administered by a Department of the Treasury law enforcement organization or the United States Coast Guard;
+  (A) all currency forfeited after fiscal year 1993, and all proceeds from forfeitures after fiscal year 1993, under any law (other than sections 7301 and 7302 of the Internal Revenue Code of 1986) enforced or administered by a Department of the Treasury law enforcement organization;
 
-  (B) all income from investments made under subsection (e); and
+  (B) all income from investments made under subsection (d); and
 
-  (C) all amounts representing the equitable share of a Department of the Treasury law enforcement organization or the United States Coast Guard from the forfeiture of property under any Federal, State, local, or foreign law.
+  (C) all amounts representing the equitable share of a Department of the Treasury law enforcement organization from the forfeiture of property under any Federal, State, local, or foreign law.
 
-**(e) Investments.—** Amounts in the Fund, and in any holding accounts associated with the Fund, which are not currently needed for the purposes of this section may be kept on deposit or invested in obligations of, or guaranteed by, the United States and all earnings on such investments shall be deposited in the Fund.
+**(d) Investments.—** Amounts in the Fund, and in any holding accounts associated with the Fund, which are not currently needed for the purposes of this section may be kept on deposit or invested in obligations of, or guaranteed by, the United States and all earnings on such investments shall be deposited in the Fund.
 
-**(f) Reports to Congress.—** The Secretary shall transmit to the Congress, not later than February 1 of each year—
+**(e) Reports to Congress.—** The Secretary shall transmit to the Congress, not later than February 1 of each year—
 
 (1) a report on—
 
@@ -265,7 +254,7 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
     (i) under any law enforced or administered by the United States Customs Service or the United States Coast Guard, in the case of fiscal year 1993; and
 
-    (ii) under any law enforced or administered by the Department of the Treasury law enforcement organizations or the United States Coast Guard, in the case of fiscal years beginning after 1993; and
+    (ii) under any law enforced or administered by the Department of the Treasury law enforcement organizations, in the case of fiscal years beginning after 1993; and
 
   (B) the estimated total value of all such property transferred to any State or local law enforcement agency; and
 
@@ -279,7 +268,7 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
   (D) any defendant’s property, not forfeited at the end of the preceding fiscal year, if the equity in such property is valued at $1,000,000 or more;
 
-  (E) the total dollar value of uncontested seizures of monetary instruments having a value of over $100,000 which, or the proceeds of which, have not been deposited into the Fund pursuant to subsection (d) within 120 days after seizure, as of the end of the preceding fiscal year;
+  (E) the total dollar value of uncontested seizures of monetary instruments having a value of over $100,000 which, or the proceeds of which, have not been deposited into the Fund pursuant to subsection (c) within 120 days after seizure, as of the end of the preceding fiscal year;
 
   (F) the balance of the Fund at the end of the preceding fiscal year;
 
@@ -294,11 +283,11 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
     (ii) by type of disposition (such as sale, remission, cancellation, placement into official use, sharing with State and local agencies, and destruction).
 The Fund shall be subject to annual financial audits as authorized in the Chief Financial Officers Act of 1990 (Public Law 101–576).
 
-**(g) Appropriations.—**
+**(f) Appropriations.—**
 
 (1) There are hereby appropriated from the Fund such sums as may be necessary to carry out the purposes described in subsection (a)(1).
 
-(2) There are authorized to be appropriated from the Fund to carry out the purposes set forth in subsections (a)(2) and (c) not to exceed—
+(2) There are authorized to be appropriated from the Fund to carry out the purposes set forth in subsections (a)(2) 11 So in original. Probably should be “subsection”. not to exceed—
 
   (A) $25,000,000 for fiscal year 1993; and
 
@@ -306,23 +295,23 @@ The Fund shall be subject to annual financial audits as authorized in the Chief 
 
 (3)
 
-  (A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.11 See References in Text note below.
+  (A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.22 See References in Text note below.
 
   (B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligated amounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
 
-  (C) The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year 22 So in original. Probably should be “years”. 1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year. At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remaining pursuant to section 4(B) of 9703(g) 33 So in original. Probably should be “paragraph (4)(B) of section 9703(g)”. shall also be carried forward.
+  (C) The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year 33 So in original. Probably should be “years”. 1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year. At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remaining pursuant to paragraph (4)(B) shall also be carried forward.
 
 (4)
 
   (A) After reserving any amount authorized by paragraph (3)(C), any unobligated balances remaining in the Fund on September 30, 1993, shall be deposited into the general fund of the Treasury of the United States.
 
-  (B) After reserving any amount authorized by paragraph (3)(C) and after transferring any amount authorized by paragraph (3)(A), any unobligated balances remaining in the Fund on September 30, 1994, and on September 30 of each fiscal year thereafter, shall be available to the Secretary, without fiscal year limitation, for transfers pursuant to subparagraph (A)(ii) 1 and for obligation or expenditure in connection with the law enforcement activities of any Federal agency or of a Department of the Treasury law enforcement organization.
+  (B) After reserving any amount authorized by paragraph (3)(C) and after transferring any amount authorized by paragraph (3)(A), any unobligated balances remaining in the Fund on September 30, 1994, and on September 30 of each fiscal year thereafter, shall be available to the Secretary, without fiscal year limitation, for obligation or expenditure in connection with the law enforcement activities of any Federal agency or of a Department of the Treasury law enforcement organization.
 
   (C) Any obligation or expenditure in excess of $500,000 with respect to an unobligated balance described in subparagraph (B) may not be made by the Secretary unless the Appropriations Committees of both Houses of Congress are notified at least 15 days in advance of such obligation or expenditure.
 
-**(h) Retention or Transfer of Property.—**
+**(g) Retention or Transfer of Property.—**
 
-(1) The Secretary may, with respect to any property forfeited under any law (other than section 7301 or 7302 of the Internal Revenue Code of 1986) enforced or administered by the Department of the Treasury—
+(1) The Secretary may, with respect to any property forfeited under any law (other than section 7301 or 7302 of the Internal Revenue Code of 1986) enforced or administered by a Department of the Treasury law enforcement organization—
 
   (A) retain any of the property for official use; or
 
@@ -332,7 +321,7 @@ The Fund shall be subject to annual financial audits as authorized in the Chief 
 
     (ii) any State or local law enforcement agency that participated directly or indirectly in the seizure or forfeiture of the property.
 
-(2) The Secretary may transfer any forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure of 44 So in original. Probably should be “or”. forfeiture of the property, if such a transfer—
+(2) The Secretary may transfer any forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure or forfeiture of the property, if such a transfer—
 
   (A) is one with which the Secretary of State has agreed;
 
@@ -342,11 +331,11 @@ The Fund shall be subject to annual financial audits as authorized in the Chief 
 
 (3) Nothing in this section shall affect the authority of the Secretary under [section 981 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section981&num=0&edition=prelim) or section 616 of the Tariff Act of 1930 ([19 U.S.C. 1616a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1616a&num=0&edition=prelim)).
 
-**(i) Regulations.—** The Secretary may prescribe such rules and regulations as may be necessary to carry out this section.
+**(h) Regulations.—** The Secretary may prescribe such rules and regulations as may be necessary to carry out this section.
 
-**(j) Customs Forfeiture Fund.—** Notwithstanding any other provision of law—
+**(i) Customs Forfeiture Fund.—** Notwithstanding any other provision of law—
 
-(1) during any period when forfeited currency and proceeds from forfeitures under any law (other than section 7301 or 7302 of the Internal Revenue Code of 1986) enforced or administered by the Department of the Treasury or the United States Coast Guard, are required to be deposited in the Fund pursuant to this section—
+(1) during any period when forfeited currency and proceeds from forfeitures under any law (other than section 7301 or 7302 of the Internal Revenue Code of 1986) enforced or administered by a Department of the Treasury law enforcement organization, are required to be deposited in the Fund pursuant to this section—
 
   (A) all moneys required to be deposited in the Customs Forfeiture Fund pursuant to section 613A of the Tariff Act of 1930 ([19 U.S.C. 1613b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1613b&num=0&edition=prelim)) shall instead be deposited in the Fund; and
 
@@ -354,11 +343,11 @@ The Fund shall be subject to annual financial audits as authorized in the Chief 
 
 (2) any funds in the Customs Forfeiture Fund and any obligations of the Customs Forfeiture Fund on the effective date of the Treasury Forfeiture Act of 1992, shall be transferred to the Fund and all administrative costs of such transfer shall be paid for out of the Fund.
 
-**(k) Limitation of Liability.—** The United States shall not be liable in any action relating to property transferred under this section or under section 616 of the Tariff Act of 1930 ([19 U.S.C. 1616a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1616a&num=0&edition=prelim)) if such action is based on an act or omission occurring after the transfer.
+**(j) Limitation of Liability.—** The United States shall not be liable in any action relating to property transferred under this section or under section 616 of the Tariff Act of 1930 ([19 U.S.C. 1616a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1616a&num=0&edition=prelim)) if such action is based on an act or omission occurring after the transfer.
 
-**(l) Authority To Warrant Title.—** Following the completion of procedures for the forfeiture of property pursuant to any law enforced or administered by the Department of the Treasury, the Secretary is authorized, at the Secretary’s discretion, to warrant clear title to any subsequent purchaser or transferee of such forfeited property.
+**(k) Authority To Warrant Title.—** Following the completion of procedures for the forfeiture of property pursuant to any law enforced or administered by a Department of the Treasury law enforcement organization, the Secretary is authorized, at the Secretary’s discretion, to warrant clear title to any subsequent purchaser or transferee of such forfeited property.
 
-**(m) Forfeited Property.—** For purposes of this section and notwithstanding section 524(c)(11) 1 of title 28 or any other law—
+**(l) Forfeited Property.—** For purposes of this section and notwithstanding [section 524(c) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section524/c&num=0&edition=prelim) or any other law—
 
 (1) during fiscal year 1993, property and currency shall be deemed to be forfeited pursuant to a law enforced or administered by the United States Customs Service if it is forfeited pursuant to—
 
@@ -372,42 +361,96 @@ The Fund shall be subject to annual financial audits as authorized in the Chief 
 
   (B) a civil administrative forfeiture proceeding conducted by a Department of the Treasury law enforcement organization.
 
-**(n) Transfers to Attorney General and Postmaster General.—**
+**(m) Transfers to Attorney General and Postmaster General.—**
 
 (1) The Secretary shall transfer from the Fund to the Attorney General for deposit in the Department of Justice Assets Forfeiture Fund amounts appropriate to reflect the degree of participation of participating Federal agencies in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by a Department of the Treasury law enforcement organization. For purposes of the preceding sentence, a “participating Federal agency” is an agency that participates in the Department of Justice Assets Forfeiture Fund.
 
 (2) The Secretary shall transfer from the Fund to the Postmaster General for deposit in the Postal Service Fund amounts appropriate to reflect the degree of participation of the United States Postal Service in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by a Department of the Treasury law enforcement organization.
 
-**(o) Definitions.—** For purposes of this section—
+**(n) Definitions.—** For purposes of this section—
 
-(1) **Department of the treasury law enforcement organization.—** — The term “Department of the Treasury law enforcement organization” means the United States Customs Service, the United States Secret Service, the Tax and Trade Bureau, the Internal Revenue Service, the Federal Law Enforcement Training Center, the Financial Crimes Enforcement Network, and any other law enforcement component of the Department of the Treasury so designated by the Secretary.
+(1) **Department of the treasury law enforcement organization.—** — The term “Department of the Treasury law enforcement organization” means the United States Coast Guard, the United States Customs Service, the United States Secret Service, the Tax and Trade Bureau, the Internal Revenue Service, the Federal Law Enforcement Training Center, the Financial Crimes Enforcement Network, and any other law enforcement component of the Department of the Treasury so designated by the Secretary.
 
 (2) **Secretary.—** — The term “Secretary” means the Secretary of the Treasury.
 
 ### Statutory Notes
 
 #### References in Text
-Sections 7301 and 7302 of the Internal Revenue Code of 1986, referred to in subsecs. (a), (d)(2)(A), (h)(1), and (j)(1), are classified to sections 7301 and 7302, respectively, of Title 26, Internal Revenue Code. Section 5872(b)(2) of the Internal Revenue Code of 1986, referred to in subsec. (o)(1), is classified to [section 5872(b)(2) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section5872/b/2&num=0&edition=prelim).
+Sections 7301 and 7302 of the Internal Revenue Code of 1986, referred to in subsecs. (a), (c)(2)(A), (g)(1), and (i)(1), are classified to sections 7301 and 7302, respectively, of Title 26, Internal Revenue Code. .
 
 The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, which is classified principally to chapter 21 (§ 1951 et seq.) of Title 12, Banks and Banking, and has also been the popular name of provisions reenacted as subchapter II of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1951 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1951&num=0&edition=prelim) and Tables.
 
 Section 630 of the Tariff Act of 1930, referred to in subsec. (a)(2)(E), is classified to [section 1630 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1630&num=0&edition=prelim), Customs Duties.
 
-The Chief Financial Officers Act of 1990, referred to in subsec. (f), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 501 of this title](./chapter-005-office-of-management-and-budget.md#section-501) and Tables.
+The Chief Financial Officers Act of 1990, referred to in subsec. (e), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 501 of this title](./chapter-005-office-of-management-and-budget.md#section-501) and Tables.
 
-Section 6073 of the Anti-Drug Abuse Act of 1988, referred to in subsec. (g)(3)(A), was classified to [section 1509 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1509&num=0&edition=prelim), Food and Drugs, prior to repeal by Pub. L. 109–469, title XI, § 1101(b), Dec. 29, 2006, 120 Stat. 3539.
+Section 6073 of the Anti-Drug Abuse Act of 1988, referred to in subsec. (f)(3)(A), was classified to [section 1509 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1509&num=0&edition=prelim), Food and Drugs, prior to repeal by Pub. L. 109–469, title XI, § 1101(b), Dec. 29, 2006, 120 Stat. 3539.
 
-The date of the enactment of this section, referred to in subsec. (g)(3)(C), is the date of the enactment of Pub. L. 102–393, which was approved Oct. 6, 1992.
+The date of the enactment of this section, referred to in subsec. (f)(3)(C), is the date of the enactment of Pub. L. 102–393, which was approved Oct. 6, 1992.
 
-Subparagraph (A)(ii), referred to in subsec. (g)(4)(B), means cl. (ii) of subsec. (g)(4)(A) which was repealed by Pub. L. 103–322, title IX, § 90205(c)(2)(B), Sept. 13, 1994, 108 Stat. 1995.
+Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (g)(2)(C), was classified to [section 2291(h) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291/h&num=0&edition=prelim), Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, § 6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to [section 2291j(a)(1) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291j/a/1&num=0&edition=prelim).
 
-Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (h)(2)(C), was classified to [section 2291(h) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291/h&num=0&edition=prelim), Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, § 6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to [section 2291j(a)(1) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291j/a/1&num=0&edition=prelim).
-
-The effective date of the Treasury Forfeiture Act of 1992, referred to in subsec. (j)(2), probably means the date of enactment of the Treasury Forfeiture Fund Act of 1992, section 638 of Pub. L. 102–393, which was approved Oct. 6, 1992.
-
-[Section 524(c)(11) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section524/c/11&num=0&edition=prelim), referred to in subsec. (m), was redesignated section 524(c)(10) by Pub. L. 104–66, title I, § 1091(h)(2), Dec. 21, 1995, 109 Stat. 722.
+The effective date of the Treasury Forfeiture Act of 1992, referred to in subsec. (i)(2), probably means the date of enactment of the Treasury Forfeiture Fund Act of 1992, section 638 of Pub. L. 102–393, which was approved Oct. 6, 1992.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 7207(a)(1), substituted “a Department of the Treasury law enforcement organization” for “the Department of the Treasury or the United States Coast Guard” in introductory provisions.
+
+Subsec. (a)(1)(G). Pub. L. 119–60, § 7207(b)(6), substituted “subsection (g)” for “subsection (h).”
+
+Subsec. (a)(2)(B)(vi). Pub. L. 119–60, § 7207(a)(2), added cl. (vi).
+
+Subsec. (a)(2)(H). Pub. L. 119–60, § 7207(a)(3), substituted “a Department of the Treasury law enforcement organization” for “the Department of the Treasury”.
+
+Subsec. (b)(4). Pub. L. 119–60, § 7207(b)(6), substituted “subsection (g)” for “subsection (h)” in introductory provisions.
+
+Subsec. (b)(5). Pub. L. 119–60, § 7207(b)(4), substituted “subsection (c)” for “subsection (d).”
+
+Subsecs. (c), (d). Pub. L. 119–60, § 7207(b)(1), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which made funds available to the United States Coast Guard.
+
+Subsec. (d)(1)(B). Pub. L. 119–60, § 7207(b)(5), substituted “subsection (d)” for “subsection (e).”
+
+Subsec. (d)(2). Pub. L. 119–60, § 7207(a)(4), struck out “or the United States Coast Guard” after “enforcement organization” in subpars. (A) and (C).
+
+Subsec. (d)(2)(B). Pub. L. 119–60, § 7207(b)(5), substituted “subsection (d)” for “subsection (e).”
+
+Subsecs. (e), (f). Pub. L. 119–60, § 7207(b)(3), redesignated subsecs. (f) and (g) as (e) and (f), respectively. Former subsec. (e) redesignated (d).
+
+Subsec. (f)(1)(A)(ii). Pub. L. 119–60, § 7207(a)(5), struck out “or the United States Coast Guard” after “enforcement organizations”.
+
+Subsec. (f)(2)(E). Pub. L. 119–60, § 7207(b)(4), substituted “subsection (c)” for “subsection (d)”
+
+Subsec. (f)(3)(C). Pub. L. 119–60, § 7207(c)(1), substituted “paragraph (4)(B)” for “section 4(B) of 9703(g)”.
+
+Subsec. (f)(4)(B). Pub. L. 119–60, § 7207(c)(2), struck out “for transfers pursuant to subparagraph (A)(ii)” after “fiscal year limitation,”.
+
+Subsec. (g). Pub. L. 119–60, § 7207(b)(3), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+
+Subsec. (g)(2). Pub. L. 119–60, § 7207(c)(3), substituted “seizure or forfeiture” for “seizure of forfeiture”.
+
+Pub. L. 119–60, § 7207(b)(2), struck out “and (c)” after “subsections (a)(2)”.
+
+Subsec. (h). Pub. L. 119–60, § 7207(b)(3), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+
+Subsec. (h)(1). Pub. L. 119–60, § 7207(a)(6), substituted “a Department of the Treasury law enforcement organization” for “Department of the Treasury” in introductory provisions.
+
+Subsecs. (i), (j). Pub. L. 119–60, § 7207(b)(3), redesignated subsecs. (j) and (k) as (i) and (j), respectively. Former subsec. (i) redesignated (h).
+
+Subsec. (j)(1). Pub. L. 119–60, § 7207(a)(7), substituted “a Department of the Treasury law enforcement organization” for “the Department of the Treasury or the United States Coast Guard” in introductory provisions.
+
+Subsec. (k). Pub. L. 119–60, § 7207(b)(3), redesignated subsec. (l) as (k). Former subsec. (k) redesignated (j).
+
+Subsec. (l). Pub. L. 119–60, § 7207(c)(4), substituted “section 524(c)” for “section 524(c)(11)” in introductory provisions.
+
+Pub. L. 119–60, § 7207(b)(3), redesignated subsec. (m) as (l). Former subsec. (l) redesignated (k).
+
+Pub. L. 119–60, § 7207(a)(8), substituted “a Department of the Treasury law enforcement organization” for “the Department of the Treasury”.
+
+Subsecs. (m), (n). Pub. L. 119–60, § 7207(b)(3), redesignated subsecs. (n) and (o) as (m) and (n), respectively. Former subsec. (m) redesignated (l).
+
+Subsec. (o). Pub. L. 119–60, § 7207(b)(3), redesignated subsec. (o) as (n).
+
+Subsec. (o)(1). Pub. L. 119–60, § 7207(a)(9), inserted “the United States Coast Guard,” before “the United States Customs Service,”.
+
 2018—Subsec. (a)(2)(B)(v). Pub. L. 115–392 inserted “, chapter 109A of title 18 (relating to sexual abuse), chapter 110 of title 18 (relating to child sexual exploitation), or chapter 117 of title 18 (relating to transportation for illegal sexual activity and related crimes)” after “(relating to human trafficking)”.
 
 2015—Pub. L. 114–22, § 105(c)(1)(A), renumbered [section 9703 of this title](./chapter-097-miscellaneous.md#section-9703), relating to Department of the Treasury Forfeiture Fund, as this section.

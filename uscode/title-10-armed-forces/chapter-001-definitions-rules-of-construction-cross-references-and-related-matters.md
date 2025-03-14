@@ -86,6 +86,8 @@ source: >-
 
 (20) The term “extreme weather” means recurrent flooding, drought, desertification, wildfires, thawing permafrost, sea level fluctuation, changes in mean high tides, or any other weather-related event, or anticipated change in environmental conditions, that present (or are projected to present) a recurring annual threat to the climate security of the United States or of allies and partners of the United States.
 
+(21) The term “major weapon system” means a weapon system acquired pursuant to a major defense acquisition program (as that term is defined in [section 4201 of this title](./chapter-321-general-matters.md#section-4201)).
+
 **(b) Personnel Generally.—** The following definitions relating to military personnel apply in this title:
 
 (1) The term “officer” means a commissioned or warrant officer.
@@ -263,7 +265,7 @@ source: >-
 
 (7) **Energy security.—** — The term “energy security” means having assured access to reliable supplies of energy and the ability to protect and deliver sufficient energy to meet mission essential requirements.
 
-(8) **Military installation resilience.—** — The term “military installation resilience” means the capability of a military installation to avoid, prepare for, minimize the effect of, adapt to, and recover from extreme weather events, or from anticipated or unanticipated changes in environmental conditions, that do, or have the potential to, adversely affect the military installation or essential transportation, logistical, or other necessary resources outside of the military installation that are necessary in order to maintain, improve, or rapidly reestablish installation mission assurance and mission-essential functions.
+(8) **Military installation resilience.—** — The term “military installation resilience” means the capability of a military installation to avoid, prepare for, minimize the effect of, adapt to, and recover from extreme weather events, anticipated or unanticipated changes in environmental conditions, energy or water disruptions, or human-induced hazards with respect to the environment, that do, or have the potential to, adversely affect the military installation or essential transportation, logistical, or other necessary resources outside of the military installation that are necessary in order to maintain, improve, or rapidly reestablish installation mission assurance and mission-essential functions.
 
 **(g) Rules of Construction.—** In this title—
 
@@ -351,6 +353,10 @@ The Atomic Energy Act of 1954, referred to in subsec. (f)(4)(C)(iii), is act Aug
 Pub. L. 107–296, § 1704(b)(1), which directed amendment of [section 101(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/9&num=0&edition=prelim) by substituting of “of Homeland Security” for “of Transportation” wherever appearing, could not be executed because there is no section 101(9).
 
 #### Amendments
+2025—Subsec. (a)(21). Pub. L. 119–60, § 811(c)(1), added par. (21).
+
+Subsec. (f)(8). Pub. L. 119–60, § 2801, struck out “or from” before “anticipated or unanticipated changes in environmental conditions” and inserted “, energy or water disruptions, or human-induced hazards with respect to the environment” before “, that do”.
+
 2023—Subsec. (b)(4). Pub. L. 118–31, § 1741(a)(3), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
 Subsec. (b)(10). Pub. L. 118–31, § 1716(b)(1), inserted before period at end “and, with respect to the appointment of a member of the armed forces in the Space Force, refers to that member’s most recent appointment in the Space Force that is neither a promotion nor a demotion”.
@@ -515,6 +521,9 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 #### Effective Date of 1958 Amendment
 Pub. L. 85–861, § 33(g), Sept. 2, 1958, 72 Stat. 1568, provided that: “This section [see Tables for classification] is effective as of August 10, 1956, for all purposes.”
 
+#### Short Title of 2025 Amendment
+Pub. L. 119–18, § 1, June 12, 2025, 139 Stat. 68, provided that: “This Act [amending provisions set out as a note under [section 2576 of this title](./chapter-153-exchange-of-material-and-disposal-of-obsolete-surplus-or-unclaimed-property.md#section-2576)] may be cited as the ‘Aerial Firefighting Enhancement Act of 2025’.”
+
 #### Short Title of 2023 Amendment
 Pub. L. 118–31, div. A, title XVII, § 1701, Dec. 22, 2023, 137 Stat. 624, provided that: “This title [see Tables for classification] may be cited as the ‘Space Force Personnel Management Act’.”
 
@@ -604,9 +613,13 @@ Authority vested by this title in “military departments”, “the Secretary c
 Pub. L. 117–263, div. A, title VII, § 740, Dec. 23, 2022, 136 Stat. 2676, provided that: “(a) Standardization of Definition.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense, in consultation with the Secretaries concerned, shall develop, for use across the Armed Forces, a standardized definition for the term ‘suicide cluster’. “(b) Notification Required.—Beginning not later than one year after the date of the enactment of this Act, whenever the Secretary determines the occurrence of a suicide cluster (as that term is defined pursuant to subsection (a)) among members of the Armed Forces, the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a notification of such determination. “(c) Briefing.—Not later than April 1, 2023, the Secretary of Defense shall provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on the following:“(1) The methodology being used in the development of the definition under subsection (a). “(2) The progress made towards the development of the process for submitting required notifications under subsection (b). “(3) An estimated timeline for the implementation of this section. “(d) Coordination Required.—In developing the definition under subsection (a) and the process for submitting required notifications under subsection (b), the Secretary of Defense shall coordinate with the Secretaries concerned. “(e) Secretary Concerned Defined.—In this section, the term ‘Secretary concerned’ has the meaning given that term in [section 101 of title 10](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101), United States Codes [sic].”
 
 #### Coordination of Certain Sections of an Act With Other Provisions of That Act
-Pub. L. 118–31, div. A, title XVIII, § 1801(b), Dec. 22, 2023, 137 Stat. 685, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.”
+Pub. L. 119–60, div. A, title XVII, § 1701(b), Dec. 18, 2025, 139 Stat. 1210, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.”
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 118–159, div. A, title XVII, § 1701(h), Dec. 23, 2024, 138 Stat. 2207.
+
+Pub. L. 118–31, div. A, title XVIII, § 1801(b), Dec. 22, 2023, 137 Stat. 685.
 
 Pub. L. 117–81, div. A, title X, § 1081(d), Dec. 27, 2021, 135 Stat. 1922.
 
@@ -656,6 +669,9 @@ Pub. L. 117–81, div. A, title VI, § 626(c), Dec. 27, 2021, 135 Stat. 1775, pr
 #### Standardization of Definitions Used by the Department of Defense for Terms Related to Suicide
 Pub. L. 117–81, div. A, title VII, § 726, Dec. 27, 2021, 135 Stat. 1795, provided that: “(a) Standardization of Definitions.—Not later than 120 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop standardized definitions for the following terms:“(1) ‘Suicide’. “(2) ‘Suicide attempt’. “(3) ‘Suicidal ideation’. “(b) Required Use of Standardized Definitions.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall issue policy guidance requiring the exclusive and uniform use across the Department of Defense and within each military department of the standardized definitions developed under subsection (a) for the terms specified in such subsection. “(c) Briefing.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing that sets forth the standardized definitions developed under subsection (a) and includes—“(1) a description of the process that was used to develop such definitions; “(2) a description of the methods by which data shall be collected on suicide, suicide attempts, and suicidal ideations (as those terms are defined pursuant to such definitions) in a standardized format across the Department and within each military department; and “(3) an implementation plan to ensure the use of such definitions as required pursuant to subsection (b).”
 
+#### References to NDAA for Fiscal Year 2025
+Pub. L. 118–159, § 1(b), Dec. 23, 2024, 138 Stat. 1773, provided that: “Any reference in this or any other Act to the ‘National Defense Authorization Act for Fiscal Year 2025’ shall be deemed to be a reference to the ‘Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025’.”
+
 #### References to NDAA for Fiscal Year 2023
 Pub. L. 117–263, § 1(b), Dec. 23, 2022, 136 Stat. 2395, provided that: “Any reference in this or any other Act to the ‘National Defense Authorization Act for Fiscal Year 2023’ shall be deemed to be a reference to the ‘James M. Inhofe National Defense Authorization Act for Fiscal Year 2023’.”
 
@@ -666,6 +682,10 @@ Pub. L. 116–283, § 1(b), as added by Pub. L. 117–81, div. A, title X, § 10
 
 #### Congressional Defense Committees Defined
 The following provisions provided that the term “congressional defense committees” for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
+
+Pub. L. 119–60, § 3(2), Dec. 18, 2025, 139 Stat. 748.
+
+Pub. L. 118–159, § 3(2), Dec. 23, 2024, 138 Stat. 1799.
 
 Pub. L. 118–31, § 3, Dec. 22, 2023, 137 Stat. 164.
 

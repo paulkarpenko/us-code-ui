@@ -62,6 +62,12 @@ Subsec. (d). Pub. L. 113–66, § 1052(b)(2), redesignated subsec. (d) as (c).
 
 Pub. L. 112–239, § 1032(b), added subsec. (d).
 
+#### Reports and Briefings on Recommendations of the Congressional Commission on the Strategic Posture of the United States
+Pub. L. 118–159, div. A, title XVI, § 1637(a), Dec. 23, 2024, 138 Stat. 2180, provided that: “(a) Statement of Policy.—It is the policy of the United States that—“(1) the deterrence of strategic attacks, and in particular nuclear attacks, against the United States and its allies is the highest defense priority of the United States; and “(2) the Secretary of Defense and the Secretary of Energy are provided with all necessary authorities and resources required to ensure the maintenance of a modern, effective strategic deterrent to meet the emerging suite of unprecedented strategic threats against the United States.”
+
+#### Statement of Policy on Use of Artificial Intelligence Efforts
+Pub. L. 118–159, div. A, title XVI, § 1638(b), Dec. 23, 2024, 138 Stat. 2181, provided that: “It is the policy of the United States that the use of artificial intelligence efforts should not compromise the integrity of nuclear safeguards, whether through the functionality of weapons systems, the validation of communications from command authorities, or the principle of requiring positive human actions in execution of decisions by the President with respect to the employment of nuclear weapons.”
+
 #### Congressional Notification of Nuclear Cooperation Between Russia and China
 Pub. L. 118–31, div. A, title XVI, § 1649, Dec. 22, 2023, 137 Stat. 601, provided that: “If the Commander of the United States Strategic Command determines, after consultation with the Director of the Defense Intelligence Agency, that militarily significant cooperation between the Russian Federation and the People’s Republic of China related to nuclear or strategic capabilities is likely to occur or has likely occurred, the Commander shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a notification of such determination that includes— “(1) a description of the military significant cooperation; and “(2) an assessment of the implication of such cooperation for the United States with respect to nuclear deterrence, extended deterrence, assurance, and defense.”
 
@@ -167,10 +173,10 @@ Pub. L. 112–81, div. A, title X, § 1041(b), Dec. 31, 2011, 125 Stat. 1574, as
 
 
 <a id="section-492a"></a>
-## § 492a. Annual report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system
+## § 492a. Biennial report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system
 **(a) Report Required.—**
 
-(1) **In general.—** — Not later than 30 days after the submission to Congress of the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, for each of fiscal years 2013 through 2029, the President, in consultation with the Secretary of Defense and the Secretary of Energy, shall transmit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a detailed report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
+(1) **In general.—** — Not later than 30 days after the submission to Congress of the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, for each of the odd-numbered fiscal years 2013 through 2029, the President, in consultation with the Secretary of Defense and the Secretary of Energy, shall transmit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a detailed report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
 
 (2) **Elements.—** — Each report required under paragraph (1) shall include the following:
 
@@ -186,7 +192,7 @@ Pub. L. 112–81, div. A, title X, § 1041(b), Dec. 31, 2011, 125 Stat. 1574, as
 
   (F) In accordance with paragraph (3), a detailed estimate of the budget requirements associated with sustaining and modernizing the nuclear deterrent of the United States and the nuclear weapons stockpile of the United States, including the costs associated with the plans outlined under subparagraphs (A) through (E), over the 10-year period following the date of the report, including the applicable and appropriate costs associated with the procurement, military construction, operation and maintenance, and research, development, test, and evaluation accounts of the Department of Defense. The Secretary may include information and data for a period beyond such 10-year period if the Secretary determines that such information and data is accurate and useful in understanding the long-term nuclear modernization plan.
 
-  (G) A detailed description of the steps taken to implement the plan submitted in the previous year, including difficulties encountered in implementing the plan in the previous year.
+  (G) A detailed description of the steps taken to implement the plan submitted in the previous report, including difficulties encountered in implementing the plan in the previous report.
 
 (3) **Budget estimate contents and methodology.—** — Each budget estimate under paragraph (2)(F) shall include a detailed description of the costs included in such estimate and the methodology used to create such estimate.
 
@@ -200,25 +206,15 @@ Pub. L. 112–81, div. A, title X, § 1041(b), Dec. 31, 2011, 125 Stat. 1574, as
 
   (B) *Limitation.—* — In no case may the President transmit a report required by paragraph (1) for a fiscal year to the committees specified in that paragraph later than 60 days after the submission to Congress of the budget of the President for that fiscal year.
 
-**(b) Estimate of Costs by Congressional Budget Office.—**
+**(b) Estimate of Costs by Congressional Budget Office.—** Not later than July 1 of each year in which the President transmits a report required under subsection (a), the Director of the Congressional Budget Office shall submit to the congressional defense committees a report that includes—
 
-(1) **Budgets for odd-numbered fiscal years.—** — Not later than July 1 of each year in which the President transmits a covered odd-numbered fiscal year report, the Director of the Congressional Budget Office shall submit to the congressional defense committees a report that includes—
+(1) an estimate of the costs during the 10-year period beginning on the date of such report associated with fielding and maintaining the current nuclear weapons and nuclear weapon delivery systems of the United States;
 
-  (A) an estimate of the costs during the 10-year period beginning on the date of such covered odd-numbered fiscal year report associated with fielding and maintaining the current nuclear weapons and nuclear weapon delivery systems of the United States;
+(2) an estimate of the costs during such period of any life extension, modernization, or replacement of any current nuclear weapons or nuclear weapon delivery systems of the United States that is anticipated as of the date of such report, including an estimate of the acquisition costs during such period for programs relating to such life extension, modernization, or replacement;
 
-  (B) an estimate of the costs during such period of any life extension, modernization, or replacement of any current nuclear weapons or nuclear weapon delivery systems of the United States that is anticipated as of the date of such covered odd-numbered fiscal year report, including an estimate of the acquisition costs during such period for programs relating to such life extension, modernization, or replacement;
+(3) an estimate of the relative percentage of total defense spending during such period represented by the costs estimated under subparagraphs (A) and (B); and
 
-  (C) an estimate of the relative percentage of total defense spending during such period represented by the costs estimated under subparagraphs (A) and (B); and
-
-  (D) an estimate of the relative percentage of total acquisition costs of the military departments and of the Department of Defense during such period represented by the acquisition costs estimated under subparagraph (B).
-
-(2) **Budgets for even-numbered fiscal years.—** — If the Director determines that a covered even-numbered fiscal year report contains a significant change that affects the estimates of the Director included in the report submitted under paragraph (1) in the year prior to the year in which such covered even-numbered fiscal year report is submitted, the Director shall submit to the congressional defense committees a letter describing such significant changes.
-
-(3) **Definitions.—** — In this subsection:
-
-  (A) The term “covered even-numbered fiscal year report” means a report required to be transmitted under subsection (a)(1) not later than 30 days after the submission to Congress of the budget of the President for an even-numbered fiscal year.
-
-  (B) The term “covered odd-numbered fiscal year report” means a report required to be transmitted under subsection (a)(1) not later than 30 days after the submission to Congress of the budget of the President for an odd-numbered fiscal year.
+(4) an estimate of the relative percentage of total acquisition costs of the military departments and of the Department of Defense during such period represented by the acquisition costs estimated under subparagraph (B).
 
 **(c) Comptroller General Review.—** The Comptroller General of the United States shall—
 
@@ -256,6 +252,14 @@ Pub. L. 112–81, div. A, title X, § 1041(b), Dec. 31, 2011, 125 Stat. 1574, as
 Section, as added and amended by Pub. L. 116–92, is based on Pub. L. 112–81, div. A, title X, § 1043, Dec. 31, 2011, 125 Stat. 1576, as amended by Pub. L. 112–239, div. A, title X, § 1041(a), Jan. 2, 2013, 126 Stat. 1931; Pub. L. 113–66, div. A, title X, § 1054, Dec. 26, 2013, 127 Stat. 861; Pub. L. 113–291, div. A, title XVI, § 1643, Dec. 19, 2014, 128 Stat. 3650; Pub. L. 115–91, div. A, title XVI, § 1665, Dec. 12, 2017, 131 Stat. 1767; Pub. L. 115–232, div. A, title XVI, § 1670, Aug. 13, 2018, 132 Stat. 2157; Pub. L. 116–92, div. A, title XVI, § 1665(a), (b), Dec. 20, 2019, 133 Stat. 1773, which was transferred to this chapter and renumbered as this section.
 
 #### Amendments
+2024—Pub. L. 118–159, § 1624(1), substituted “Biennial” for “Annual” in section catchline.
+
+Subsec. (a)(1). Pub. L. 118–159, § 1624(2)(A), inserted “the odd-numbered” after “for each of”.
+
+Subsec. (a)(2)(G). Pub. L. 118–159, § 1624(2)(B), substituted “report” for “year” in two places.
+
+Subsec. (b). Pub. L. 118–159, § 1624(3), struck out par. (1) designation and heading “Budgets for odd-numbered fiscal years” before “Not later than July 1”; redesignated subpars. (A) to (D) of former par. (1) as pars. (1) to (4), respectively; substituted “report required under subsection (a)” for “covered odd-numbered fiscal year report” in introductory provisions; struck out “covered odd-numbered fiscal year” before “report” in pars. (1) and (2); and struck out former pars. (2) and (3) which provided for budget updates in even-numbered fiscal years and defined terms for covered even-numbered and odd-numbered fiscal year reports, respectively.
+
 2023—Subsec. (d). Pub. L. 118–31 added subsec. (d).
 
 2022—Subsec. (a)(1). Pub. L. 117–263 substituted “2029” for “2024”.
@@ -277,7 +281,7 @@ Pub. L. 116–92, § 1665(c)(1)(A)–(C), transferred section 1043 of Pub. L. 11
 
 (1) The Assistant Secretary of Defense for Acquisition.
 
-(2) The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs.
+(2) The Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs.
 
 (3) The Assistant Secretary of Defense for Space Policy.
 
@@ -295,6 +299,9 @@ Pub. L. 116–92, § 1665(c)(1)(A)–(C), transferred section 1043 of Pub. L. 11
 
 #### Codification
 As enacted by Pub. L. 117–263, “SEC.” preceding section designation and catchline text were editorially conformed to the style used in this title.
+
+#### Amendments
+2024—Subsec. (b)(2). Pub. L. 118–159 substituted “Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs” for “Nuclear, Chemical, and Biological Defense Programs”.
 
 
 <a id="section-493"></a>
@@ -341,6 +348,11 @@ Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, pro
 (4) assess whether personnel with critical skills and knowledge, intellectual property on manufacturing processes, and facilities and equipment necessary to design, develop, manufacture, repair, and support a program are available and affordable within the scopes of the B–21 aircraft program and the Sentinel intercontinental ballistic missile weapon system program.
 
 **(c) Annual Report.—** At the same time as the submission of the budget of the President pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim) for a fiscal year, the Secretary shall submit to the congressional defense committees a report with respect to the status of the combined industrial base described in subsection (a).
+
+### Statutory Notes
+
+#### Conditional Requirements for Sentinel Intercontinental Ballistic Missile Program
+Pub. L. 118–159, div. A, title XVI, § 1629, Dec. 23, 2024, 138 Stat. 2176, provided that: “(a) In General.—The Under Secretary of Defense for Acquisition and Sustainment shall ensure, to the maximum extent practicable that—“(1) the contract structure for the Sentinel intercontinental ballistic missile (previously referred to as the ‘ground-based strategic weapon’) program allows for maximum Federal Government oversight of—“(A) the Aerospace Vehicle Segment program area; “(B) the Launch Control Center program area; and “(C) the Launch Control Facility program area; “(2) such Federal Government oversight includes Federal Government control of—“(A) preliminary and critical design reviews entrance criteria, exit criteria; and “(B) certification of completion at the subsystem level through total system architecture; and “(3) there are opportunities for competition throughout the lifecycle of the Sentinel intercontinental ballistic missile program, including competition across each of the program areas specified in paragraph (1). “(b) Report.—If the Under Secretary completes a revised Milestone B approval for such program, the Under Secretary shall, not later than 60 days after the date on which the Under Secretary completes such approval, submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that includes a description of how the Under Secretary intends to satisfy the requirements of subsection (a). “(c) Milestone B Approval Defined.—In this section, the term ‘Milestone B approval’ has the meaning given in [section 4172 of title 10](./chapter-307-test-and-evaluation.md#section-4172), United States Code.”
 
 
 <a id="section-494"></a>
@@ -446,7 +458,7 @@ Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, pro
 ### Statutory Notes
 
 #### References in Text
-Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (a)(1)(D), (2)(A), is section 1251 of Pub. L. 111–84, which is set out as a note under [section 2523 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2523&num=0&edition=prelim), War and National Defense.
+Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (a)(1)(D), (2)(A), is section 1251 of Pub. L. 111–84, which is set out as a note under [section 6114 of this title](./chapter-602-nuclear-weapons-stockpile-matters.md#section-6114).
 
 #### Codification
 The text of this section is based on Pub. L. 112–81, div. A, title X, § 1045, Dec. 31, 2011, 125 Stat. 1577; Pub. L. 112–239, div. A, title X, § 1076(a)(19), Jan. 2, 2013, 126 Stat. 1949. Section 1045 of Pub. L. 112–81, formerly classified to [section 2523b of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2523b&num=0&edition=prelim), War and National Defense, was transferred to this section by Pub. L. 112–239, § 1033(b)(1)(A)–(C).
@@ -485,7 +497,7 @@ Pub. L. 114–92, div. A, title XII, § 1247, Nov. 25, 2015, 129 Stat. 1066, pro
 Pub. L. 113–291, div. A, title XVI, § 1644, Dec. 19, 2014, 128 Stat. 3651, provided that: “(a) Requirement.—During the period in which the New START Treaty (as defined in [section 494(a)(2)(D) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section494/a/2/D&num=0&edition=prelim), United States Code) is in effect, the Secretary of Defense shall preserve each intercontinental ballistic missile silo that contains a deployed missile as of the date of the enactment of this Act [Dec. 19, 2014] in, at minimum, a warm status that enables such silo to—“(1) remain a fully functioning element of the interconnected and redundant command and control system of the missile field; and “(2) be made fully operational with a deployed missile. “(b) Rule of Construction.—Nothing in subsection (b) shall be construed to prohibit the Secretary of Defense from temporarily placing an intercontinental ballistic missile silo offline to perform maintenance activities.”
 
 #### Implementation of New START Treaty
-Pub. L. 113–66, div. A, title X, § 1056(a)(2), (3), (f), Dec. 26, 2013, 127 Stat. 862–864, provided that: “(a) Implementation.—“(2) Consolidated budget display.—The Secretary [of Defense] shall include with the defense budget materials for each fiscal year specified in paragraph (3) a consolidated budget justification display that individually covers each program and activity associated with the implementation of the New START Treaty for the period covered by the future-years defense program submitted under [section 221 of title 10](./chapter-009-defense-budget-matters.md#section-221), United States Code, at or about the time as such defense budget materials are submitted. “(3) Fiscal year specified.—A fiscal year specified in this paragraph is each fiscal year that occurs during the period beginning with fiscal year 2015 and ending on the date on which the New START Treaty is no longer in force. “(f) Definitions.—In this section:“(1) The term ‘defense budget materials’ has the meaning given that term in [section 231(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/f&num=0&edition=prelim), United States Code. “(2) The term ‘New START Treaty’ means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011.”
+Pub. L. 113–66, div. A, title X, § 1056(a)(2), (3), (f), Dec. 26, 2013, 127 Stat. 862–864, provided that: “(a) Implementation.—“(2) Consolidated budget display.—The Secretary [of Defense] shall include with the defense budget materials for each fiscal year specified in paragraph (3) a consolidated budget justification display that individually covers each program and activity associated with the implementation of the New START Treaty for the period covered by the future-years defense program submitted under [section 221 of title 10](./chapter-009-defense-budget-matters.md#section-221), United States Code, at or about the time as such defense budget materials are submitted. “(3) Fiscal year specified.—A fiscal year specified in this paragraph is each fiscal year that occurs during the period beginning with fiscal year 2015 and ending on the date on which the New START Treaty is no longer in force. “(f) Definitions.—In this section:“(1) The term ‘defense budget materials’ has the meaning given that term in [section 231(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/f&num=0&edition=prelim), United States Code [now [10 U.S.C. 231(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/h&num=0&edition=prelim)]. “(2) The term ‘New START Treaty’ means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011.”
 
 #### “Congressional Defense Committees” Defined
 Congressional defense committees has the meaning given that term in [section 101(a)(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/16&num=0&edition=prelim), see section 3 of Pub. L. 112–81, Dec. 31, 2011, 125 Stat. 1316. See also note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
@@ -570,11 +582,11 @@ Barack Obama.
 ### Statutory Notes
 
 #### References in Text
-Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsecs. (a) and (b)(1), is section 1251 of Pub. L. 111–84, which is set out as a note under [section 2523 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2523&num=0&edition=prelim), War and National Defense.
+Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsecs. (a) and (b)(1), is section 1251 of Pub. L. 111–84, which is set out as a note under [section 6114 of this title](./chapter-602-nuclear-weapons-stockpile-matters.md#section-6114).
 
 Section 1043 of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsec. (a)(5), is section 1043 of Pub. L. 112–81, Dec. 31, 2011, 125 Stat. 1576, which is not classified to the Code.
 
-[Section 492(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section492/a&num=0&edition=prelim), referred to in subsec. (b), relates to biennial assessments by certain military officials of delivery platforms for nuclear weapons and the nuclear command and control system. [Section 492a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section492a/a&num=0&edition=prelim) requires the President to transmit annual reports to Congress on certain nuclear matters.
+[Section 492(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section492/a&num=0&edition=prelim), referred to in subsec. (b), relates to biennial assessments by certain military officials of delivery platforms for nuclear weapons and the nuclear command and control system. [Section 492a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section492a/a&num=0&edition=prelim) requires the President to transmit biennial reports to Congress on certain nuclear matters.
 
 #### Amendments
 2023—Subsec. (b). Pub. L. 118–31, in introductory provisions, substituted “prior to the expiration of the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011 (commonly referred to as the ‘New START Treaty’),” for “before fiscal year 2020” and “492(a) of this title” for “1043 of the National Defense Authorization Act for Fiscal Year 2012”.
@@ -814,11 +826,13 @@ Pub. L. 116–283, div. A, title XVII, § 1747, Jan. 1, 2021, 134 Stat. 4140, pr
 
 (2) requirements for reporting on cost, programmatic, and technical data using procedures, standards, and formats approved by the Director of Cost Assessment and Program Evaluation and the Director for Cost Estimating and Program Evaluation.
 
-**(e) Nuclear Security Enterprise Defined.—** In this section, the term “nuclear security enterprise” has the meaning given that term in section 4002 of the Atomic Energy Defense Act ([50 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2501&num=0&edition=prelim)).
+**(e) Nuclear Security Enterprise Defined.—** In this section, the term “nuclear security enterprise” has the meaning given that term in section 6101.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (e). Pub. L. 119–60 substituted “section 6101” for “section 4002 of the Atomic Energy Defense Act ([50 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2501&num=0&edition=prelim))”.
+
 2018—Subsec. (d). Pub. L. 115–232 substituted “after December 11, 2017,” for “on or after the date of the enactment of this section” in introductory provisions.
 
 

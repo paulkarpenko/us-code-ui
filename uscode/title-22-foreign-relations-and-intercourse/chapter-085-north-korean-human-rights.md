@@ -2,7 +2,7 @@
 title: 22
 chapter: '85'
 heading: NORTH KOREAN HUMAN RIGHTS
-section_count: 20
+section_count: 21
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -330,8 +330,8 @@ Pub. L. 117–263, div. E, title LV, § 5582, Dec. 23, 2022, 136 Stat. 3372, pro
 Functions of President under section 301 of Pub. L. 114–122 (adding subsec. (d) of this section) delegated to Secretary of State by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under [section 9212 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9212).
 
 
-<a id="section-7831"></a>
-## § 7831. United Nations Commission on Human Rights
+<a id="section-7818"></a>
+## § 7818. United Nations Commission on Human Rights
 
 It is the sense of Congress that the United Nations has a significant role to play in promoting and improving human rights in North Korea, and that—
 
@@ -340,15 +340,15 @@ It is the sense of Congress that the United Nations has a significant role to pl
 (2) the severe human rights violations within North Korea warrant country-specific attention and reporting by the United Nations Working Group on Arbitrary Detention, the Working Group on Enforced and Involuntary Disappearances, the Special Rapporteur on Extrajudicial, Summary, or Arbitrary Executions, the Special Rapporteur on the Right to Food, the Special Rapporteur on the Promotion and Protection of the Right to Freedom of Opinion and Expression, the Special Rapporteur on Freedom of Religion or Belief, and the Special Rapporteur on Violence Against Women.
 
 
-<a id="section-7832"></a>
-## § 7832. Establishment of regional framework
+<a id="section-7831"></a>
+## § 7831. Establishment of regional framework
 **(a) Findings** The Congress finds that human rights initiatives can be undertaken on a multilateral basis, such as the Organization for Security and Cooperation in Europe (OSCE), which established a regional framework for discussing human rights, scientific and educational cooperation, and economic and trade issues.
 
 **(b) Sense of Congress** It is the sense of Congress that the United Sates 11 So in original. Probably should be “States”. should explore the possibility of a regional human rights dialogue with North Korea that is modeled on the Helsinki process, engaging all countries in the region in a common commitment to respect human rights and fundamental freedoms.
 
 
-<a id="section-7833"></a>
-## § 7833. Special Envoy on North Korean human rights issues
+<a id="section-7832"></a>
+## § 7832. Special Envoy on North Korean human rights issues
 **(a) Special Envoy** The President shall appoint a special envoy for North Korean human rights issues within the Department of State (hereafter in this section referred to as the “Special Envoy”), by and with the advice and consent of the Senate. The Special Envoy should be a person of recognized distinction in the field of human rights who shall have the rank of ambassador and shall hold the office at the pleasure of the President.
 
 **(b) Central objective** The central objective of the Special Envoy is to coordinate and promote efforts to improve respect for the fundamental human rights of the people of North Korea, including, in coordination with the Bureau of Population, Refugees, and Migration, the protection of those people who have fled as refugees.
@@ -387,6 +387,65 @@ Subsec. (b). Pub. L. 110–346, § 8(3), inserted “, including, in coordinatio
 Subsec. (c). Pub. L. 110–346, § 8(4), added par. (1), redesignated former pars. (1) to (6) as (2) to (7), respectively, and substituted “sections 7812 and 7814” for “section 7812” in par. (5).
 
 Subsec. (d). Pub. L. 110–346, § 8(5), substituted “thereafter through 2012” for “for the subsequent 5 year-period”.
+
+#### Consultations on Reuniting Korean Americans With Family Members in North Korea
+Pub. L. 117–263, div. E, title LV, § 5599B, Dec. 23, 2022, 136 Stat. 3400, formerly set out as a note under this section, was transferred and is set out as a note under [section 7818 of this title](./chapter-085-north-korean-human-rights.md#section-7818).
+
+
+<a id="section-7833"></a>
+## § 7833. National registry of Korean American divided families
+**(a) National registry**
+
+(1) **In general** — The Secretary of State, acting through the Special Envoy on North Korean Human Rights Issues, the Assistant Secretary of State for Consular Affairs, or such other individual as the Secretary may designate, shall—
+
+  (A) engage, to the extent practicable, Korean American families who wish to be reunited with family members residing in North Korea from which such Korean American families were divided after the signing of the Agreement Concerning a Military Armistice in Korea, signed at Panmunjom July 27, 1953 (commonly referred to as the “Korean War Armistice Agreement” ), in anticipation of future reunions for such families and family members, including in-person and video reunions; and
+
+  (B) establish a private, internal national registry of the names and other relevant information of such Korean American families—
+
+    (i) to facilitate such future reunions; and
+
+    (ii) to provide for a repository of information about such Korean American families and family members in North Korea, including information about individuals who may be deceased.
+
+(2) **Disclosure of information** — The Secretary of State may enter into agreements with Korean individuals and families, academic institutions, or other members of the public, as appropriate, to share, in whole or in part, information collected and housed in the database if—
+
+  (A) the United States person whose personally identifiable information would be disclosed as a result of an agreement has provided consent to such disclosure; and
+
+  (B) the agreement outlines reasonable steps and commitments to ensure that any information disclosed as a result of such agreement is—
+
+    (i) kept private and confidential; and
+
+    (ii) will not be disclosed improperly to other parties outside the agreement.
+
+**(b) Actions to facilitate dialogue between the United States and North Korea**
+
+(1) **In general** — The Secretary of State should take steps to ensure that any direct dialogue between the United States and North Korea includes progress towards holding future reunions for Korean American families and their family members in North Korea.
+
+(2) **Consultations** — The Secretary of State shall consult with the Government of the Republic of Korea, as appropriate, in carrying out this subsection.
+
+(3) **Reporting requirement**
+
+  (A) *In general* — The Secretary of State, acting through the Special Envoy on North Korean Human Rights Issues, shall include in each report required under [section 7817(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7817/d&num=0&edition=prelim) a description of the consultations described in paragraph (2) conducted during the year preceding the submission of the report.
+
+  (B) *Elements* — The reporting required under subparagraph (A) should include—
+
+    (i) the status of the national registry established pursuant to subsection (a)(1)(B);
+
+    (ii) the number of individuals included on the registry who—
+
+      (I) have met their family members in North Korea during previous reunions; and
+
+      (II) have yet to meet their family members in North Korea;
+
+    (iii) a summary of responses by North Korea to requests by the United States Government to hold reunions of divided families; and
+
+    (iv) a description of actions taken by North Korea that prevent the emigration of family members of Korean American families.
+
+**(c) Appropriate congressional committees defined** In this section, the term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2026, and not as part of the North Korean Human Rights Act of 2004, which comprises this chapter.
 
 #### Consultations on Reuniting Korean Americans With Family Members in North Korea
 Pub. L. 117–263, div. E, title LV, § 5599B, Dec. 23, 2022, 136 Stat. 3400, provided that: “(a) Consultations.—“(1) Consultations with south korea.—The Secretary of State, or a designee of the Secretary, should consult with officials of South Korea, as appropriate, on potential opportunities to reunite Korean American families with family members in North Korea from which such Korean American families were divided after the signing of the Korean War Armistice Agreement, including potential opportunities for video reunions for Korean Americans with such family members. “(2) Consultations with korean americans.—The Special Envoy on North Korean Human Rights Issues of the Department of State should regularly consult with representatives of Korean Americans who have family members in North Korea with respect to efforts to reunite families divided after the signing of the Korean War Armistice Agreement, including potential opportunities for video reunions for Korean Americans with such family members. “(b) Report.—Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2022], and annually thereafter for three years, the Secretary of State, acting through the Special Envoy on North Korean Human Rights Issues or other appropriate designee, shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the consultations conducted pursuant to this section during the preceding year.”

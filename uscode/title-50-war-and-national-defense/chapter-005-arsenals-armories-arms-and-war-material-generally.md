@@ -424,6 +424,9 @@ Subsec. (b). Pub. L. 100–180, § 3202(a)(2), substituted “the principles sta
 
 Subsec. (c). Pub. L. 100–180, § 3202(a)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “The quantity of any material to be stockpiled under this subchapter, as determined under subsection (a), may not be revised unless the Committees on Armed Services of the Senate and House of Representatives are notified in writing of the proposed revision and the reasons for such revision at least thirty days before the effective date of such revision.”
 
+#### Consultations With Respect to Environmental Reviews of Projects That Will Increase Availability of Strategic and Critical Materials for Acquisition for National Defense Stockpile
+Pub. L. 118–159, div. A, title XIV, § 1412, Dec. 23, 2024, 138 Stat. 2128, provided that: “(a) In General.—The Secretary of Defense shall consult with the head of any agency responsible for the development of an environmental document for a project that will result in an increase in the availability of strategic and critical materials for acquisition for the Stockpile. “(b) Definitions.—In this section:“(1) Agency.—The term ‘agency’ has the meaning given such term in [section 551 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551&num=0&edition=prelim), United States Code. “(2) Environmental document.—The term ‘environmental document’ has the meaning given that term in section 111 of the National Environmental Policy Act of 1969 ([42 U.S.C. 4336e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4336e&num=0&edition=prelim)). “(3) Stockpile.—The term ‘Stockpile’ means the National Defense Stockpile established under section 3 of the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98b](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98b)). “(4) Strategic and critical materials.—The term ‘strategic and critical materials’ means materials, including rare earth elements, that are necessary to meet national defense and national security requirements, including requirements relating to supply chain resiliency, and for the economic security of the United States.”
+
 #### Delegation of Functions
 Functions of the President under this section were delegated to the Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under [section 98 of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98).
 
@@ -490,18 +493,19 @@ Pub. L. 102–484, div. C, title XXXIII, § 3315, Oct. 23, 1992, 106 Stat. 2654,
 
 (1) Except for acquisitions made under the authority of paragraph (3) of this section 11 So in original. Probably should be “subsection”. or under the authority of paragraph (3) or (4) of [section 98e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98e/a&num=0&edition=prelim), no funds may be obligated or appropriated for acquisition of any material under this subchapter unless funds for such acquisition have been authorized by law. Funds appropriated for any acquisition of materials under this subchapter (and for transportation and other incidental expenses related to such acquisition) shall remain available until expended, unless otherwise provided in appropriation Acts.
 
-(2) If for any fiscal year the President proposes (or Congress requires) a significant change in any stockpile transactions proposed in the Annual Materials and Operations Plan for such fiscal year after the National Defense Stockpile Manager submits the report under [section 98h–2(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–2/b/2&num=0&edition=prelim) containing such plan, or a significant transaction not included in such plan, no amount may be obligated or expended for such transaction during such year until the President has submitted a full statement of the proposed transaction to the appropriate committees of Congress and a period of 45 days has passed from the date of the receipt of such statement by such committees.
+(2) If for any fiscal year the President proposes (or Congress requires) a significant change in any stockpile transactions proposed in the Annual Materials and Operations Plan for such fiscal year after the National Defense Stockpile Manager submits the report under [section 98h–2(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–2/b/2&num=0&edition=prelim) containing such plan, or a significant transaction not included in such plan, no amount may be obligated or expended for such transaction during such year until the President has submitted a full statement of the proposed transaction to the appropriate committees of Congress and a period of 30 days has passed from the date of the receipt of such statement by such committees.
 
 (3) Using funds appropriated for acquisition of materials under this subchapter, the National Defense Stockpile Manager may acquire materials determined to be strategic and critical under [section 98b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98b/a&num=0&edition=prelim) without regard to the requirement of the first sentence of paragraph (1) if the Stockpile Manager determines there is a shortfall of such materials in the stockpile.
 
-**(b) Disposal** Except for disposals made under the authority of paragraph (3), (4), or (5) 22 See References in Text note below. of [section 98e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98e/a&num=0&edition=prelim) or under [section 98f(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98f/a&num=0&edition=prelim), no disposal may be made from the stockpile unless such disposal, including the quantity of the material to be disposed of, has been specifically authorized by law.
+**(b) Disposal**
+
+(1) Except for disposals made under the authority of paragraph (3), (4), or (6) of [section 98e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98e/a&num=0&edition=prelim) or under [section 98f(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98f/a&num=0&edition=prelim), no disposal may be made from the stockpile unless such disposal, including the quantity of the material to be disposed of, was included in the most recent annual materials plan submitted to the congressional defense committees (as defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim)) under [section 98h–2(b)(1)(G) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–2/b/1/G&num=0&edition=prelim).
+
+(2) Not later than 15 days after making a disposal under paragraph (1), the National Defense Stockpile Manager shall notify the congressional defense committees (as defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim)) of the disposal.
 
 **(c) Authorization of appropriations** There is authorized to be appropriated such sums as may be necessary to provide for the transportation, processing, refining, storage, security, maintenance, rotation, and disposal of materials contained in or acquired for the stockpile. Funds appropriated for such purposes shall remain available until expended, unless otherwise provided in appropriations Acts.
 
 ### Statutory Notes
-
-#### References in Text
-Paragraph (5) of [section 98e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98e/a&num=0&edition=prelim), referred to in subsec. (b), was redesignated paragraph (6) of [section 98e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98e/a&num=0&edition=prelim) by Pub. L. 113–66, div. A, title XIV, § 1411(a), Dec. 26, 2013, 127 Stat. 934.
 
 #### Prior Provisions
 A prior section 98d, acts June 7, 1939, ch. 190, § 5, 53 Stat. 812; July 23, 1946, ch. 590, 60 Stat. 598, related to release of stock pile materials, prior to repeal by section 2(a) of Pub. L. 96–41. See [section 98f of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98f).
@@ -509,6 +513,10 @@ A prior section 98d, acts June 7, 1939, ch. 190, § 5, 53 Stat. 812; July 23, 19
 Provisions similar to those in this section were contained in former sections 98b and 98g of this title prior to repeal by Pub. L. 96–41.
 
 #### Amendments
+2025—Subsec. (a)(2). Pub. L. 119–60, § 1411(c), substituted “30 days” for “45 days”.
+
+Subsec. (b). Pub. L. 119–60, § 1411(b)(1), designated existing provisions as par. (1), substituted “or (6)” for “or (5)” and “was included in the most recent annual materials plan submitted to the congressional defense committees (as defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim)) under [section 98h–2(b)(1)(G) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–2/b/1/G&num=0&edition=prelim)” for “has been specifically authorized by law”, and added par. (2).
+
 2023—Subsec. (a)(2). Pub. L. 118–31 substituted “the National Defense Stockpile Manager” for “the Board”.
 
 2022—Subsec. (a)(1). Pub. L. 117–263, § 1412(a)(1)(A), inserted “under the authority of paragraph (3) of this section or” after “Except for acquisitions made” and substituted “appropriated for any acquisition of materials under this subchapter” for “appropriated for such acquisition”.
@@ -631,7 +639,7 @@ Ex. Ord. No. 10539, eff. June 22, 1954, 19 F.R. 3827, designated the Federal Fac
 
 <a id="section-98e"></a>
 ## § 98e. Stockpile management
-**(a) Presidential powers** The President shall—
+**(a) Presidential powers** The National Defense Stockpile Manager shall—
 
 (1) acquire the materials determined under [section 98b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98b/a&num=0&edition=prelim) to be strategic and critical materials;
 
@@ -645,7 +653,7 @@ Ex. Ord. No. 10539, eff. June 22, 1954, 19 F.R. 3827, designated the Federal Fac
 
 (6) subject to the notification required by subsection (d)(2), provide for the timely disposal of materials in the stockpile that (A) are excess to stockpile requirements, and (B) may cause a loss to the Government if allowed to deteriorate; and
 
-(7) subject to the provisions of [section 98d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98d/b&num=0&edition=prelim), dispose of materials in the stockpile the disposal of which is specifically authorized by law.
+(7) dispose of materials in the stockpile in accordance with the most recent annual materials plan submitted to the congressional defense committees (as defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim)) under [section 98h–2(b)(1)(G) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–2/b/1/G&num=0&edition=prelim) and notify the congressional defense committees of such disposals as required by [section 98d(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98d/b/2&num=0&edition=prelim).
 
 **(b) Federal procurement practices** Except as provided in subsections (c) and (d), acquisition of strategic and critical materials under this subchapter shall be made in accordance with established Federal procurement practices, and, except as provided in subsections (c) and (d) and in [section 98f(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98f/a&num=0&edition=prelim), disposal of strategic and critical materials from the stockpile shall be made in accordance with the next sentence. To the maximum extent feasible—
 
@@ -665,9 +673,9 @@ Ex. Ord. No. 10539, eff. June 22, 1954, 19 F.R. 3827, designated the Federal Fac
 
 **(d) Waiver; notification of proposed disposal of materials**
 
-(1) The President may waive the applicability of any provision of the first sentence of subsection (b) to any acquisition of material for, or disposal of material from, the stockpile. Whenever the President waives any such provision with respect to any such acquisition or disposal, or whenever the President determines that the application of paragraph (1) or (2) of such subsection to a particular acquisition or disposal is not feasible, the President shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in writing of the proposed acquisition or disposal at least 45 days before any obligation of the United States is incurred in connection with such acquisition or disposal and shall include in such notification the reasons for not complying with any provision of such subsection.
+(1) The President may waive the applicability of any provision of the first sentence of subsection (b) to any acquisition of material for, or disposal of material from, the stockpile. Whenever the President waives any such provision with respect to any such acquisition or disposal, or whenever the President determines that the application of paragraph (1) or (2) of such subsection to a particular acquisition or disposal is not feasible, the President shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in writing of the proposed acquisition or disposal at least 30 days before any obligation of the United States is incurred in connection with such acquisition or disposal and shall include in such notification the reasons for not complying with any provision of such subsection.
 
-(2) Materials in the stockpile may be disposed of under subsection (a)(6) only if such congressional committees are notified in writing of the proposed disposal at least 45 days before any obligation of the United States is incurred in connection with such disposal.
+(2) Materials in the stockpile may be disposed of under subsection (a)(6) only if such congressional committees are notified in writing of the proposed disposal at least 30 days before any obligation of the United States is incurred in connection with such disposal.
 
 **(e) Leasehold interests in property** The President may acquire leasehold interests in property, for periods not in excess of twenty years, for storage, security, and maintenance of materials in the stockpile.
 
@@ -721,6 +729,12 @@ A prior section 98e, acts June 7, 1939, ch. 190, § 6, 53 Stat. 812; May 28, 194
 Provisions similar to those in this section were contained in former [section 98b of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98b) prior to repeal by Pub. L. 96–41.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 1411(b)(2)(A), substituted “National Defense Stockpile Manager” for “President” in introductory provisions.
+
+Subsec. (a)(7). Pub. L. 119–60, § 1411(b)(2)(B), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “subject to the provisions of [section 98d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98d/b&num=0&edition=prelim), dispose of materials in the stockpile the disposal of which is specifically authorized by law.”
+
+Subsec. (d). Pub. L. 119–60, § 1411(c), substituted “30 days” for “45 days” in pars. (1) and (2).
+
 2023—Subsec. (a)(5). Pub. L. 118–31, § 1411(b)(1), substituted “from other Federal agencies, either directly as materials or embedded in excess-to-need, end-of-life items, or waste streams;” for “from excess materials made available for recovery purposes by other Federal agencies;”.
 
 Subsec. (c)(1). Pub. L. 118–31, § 1411(b)(2), substituted “subsection (a)(6) or (a)(7)” for “subsection (a)(5) or (a)(6)”.
@@ -766,6 +780,9 @@ Subsec. (d)(1). Pub. L. 101–189, § 3314(2), substituted “paragraph (1) or (
 1986—Subsec. (a)(3). Pub. L. 99–661 substituted “a form more” for “the form most”.
 
 1981—Subsec. (a)(6). Pub. L. 97–35 inserted reference to [section 98d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98d/b&num=0&edition=prelim).
+
+#### Recycling for Critical Minerals
+Pub. L. 119–60, div. A, title XIV, § 1412, Dec. 18, 2025, 139 Stat. 1135, provided that: “(a) In General.—The Under Secretary of Defense for Acquisition and Sustainment, in coordination with the Director of the Defense Logistics Agency, shall expand the recovery and reuse of strategic and critical materials under the Strategic Material Recovery and Reuse Program of the Defense Logistics Agency established pursuant to section 6(a)(5) of the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98e(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98e/a/5&num=0&edition=prelim)) (in this section referred to as the ‘Program’). “(b) Briefing on Expansion.—Not later than March 1, 2026, the Director of the Defense Logistics Agency shall provide to the Committees on Armed Services of the Senate and House of Representatives a briefing on a plan for expansion of the Program which shall include—“(1) a list of strategic and critical materials that are determined to be in shortfall in the National Defense Stockpile in the most recent report on stockpile requirements submitted to Congress under section 14(a) of the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98h–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–5/a&num=0&edition=prelim)) that will be prioritized for inclusion in the Program; “(2) a description of resources required to include the additional strategic and critical materials identified under paragraph (1) in the Program; “(3) any barriers to expansion of the Program; and “(4) best practices from the efforts of the Director under the Program with respect to optical-grade germanium that can be implemented to expand the Program. “(c) Strategic and Critical Materials Defined.—In this section, the term ‘strategic and critical materials’ means materials determined to be strategic and critical materials under section 3(a) of the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98b/a&num=0&edition=prelim)).”
 
 #### Acquisition of Depleted Uranium for National Defense Stockpile
 Pub. L. 101–511, title VIII, § 8095, Nov. 5, 1990, 104 Stat. 1896, directed President, using funds available in National Defense Stockpile Transaction Fund, to acquire over a period of ten years from current domestic sources not less than thirty-six million pounds of depleted uranium to be held in National Defense Stockpile, prior to repeal by Pub. L. 102–172, title VIII, § 8027A, Nov. 26, 1991, 105 Stat. 1177.
@@ -1281,11 +1298,17 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 (2) Each briefing required by paragraph (1) shall include—
 
-  (A) a description of each material described in that paragraph, including the objective to be achieved if funding is provided, in whole or in part, for the acquisition of the material to remedy the shortfall;
+  (A) a list of the materials described in that paragraph, and a description of each such material, including the objective to be achieved if funding is provided, in whole or in part, for the acquisition of the material to remedy the shortfall;
 
-  (B) an estimate of additional amounts required to provide such funding, if any; and
+  (B) an estimate of additional amounts required to provide such funding, if any;
 
-  (C) an assessment of the supply chain for each such material, including any assessment of any relevant risk in any such supply chain.
+  (C) an assessment of the supply chain for each such material, including any assessment of any relevant risk in any such supply chain;
+
+  (D) a list of such materials that are the highest priority to be acquired for the stockpile in the near term;
+
+  (E) verification that the National Defense Stockpile Manager manages and evaluates the stockpile using the most complete and accurate data provided by the military departments (as defined under [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim)), including a one-time description of the risks resulting from the inability of the armed services to provide the National Defense Stockpile Manager comprehensive data for all of its required strategic and critical materials; and
+
+  (F) the amounts appropriated by Congress to the stockpile for both the current fiscal year and the previous fiscal year; 11 So in original. The semicolon probably should be a period.
 
 ### Statutory Notes
 
@@ -1293,6 +1316,10 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 The congressional defense committees, referred to in subsec. (f)(1), are not defined for this subchapter. However, elsewhere in this subchapter, they are defined as the committees listed in [section 101(a) of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim), Armed Forces.
 
 #### Amendments
+2025—Subsec. (f)(2)(A). Pub. L. 119–60, § 1411(a)(1), substituted “a list of the materials” for “a description of each material” and inserted “and a description of each such material,” after “paragraph,”.
+
+Subsec. (f)(2)(D) to (F). Pub. L. 119–60, § 1411(a)(2)–(4), added subpars. (D) to (F).
+
 2022—Subsec. (f). Pub. L. 117–263 added subsec. (f).
 
 1996—Subsecs. (b) to (e). Pub. L. 104–201 added subsecs. (b) to (d), redesignated former subsec. (c) as (e), and struck out former subsec. (b) which related to national emergency planning assumptions set forth in reports required under this section.

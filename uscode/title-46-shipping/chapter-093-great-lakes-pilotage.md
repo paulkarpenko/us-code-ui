@@ -41,7 +41,7 @@ Clause (3) defines “United States registered pilot” as an individual registe
 
 (1) Except as provided in subsections (d), (e), and (f) of this section, each vessel of the United States operating on register and each foreign vessel shall engage a United States or Canadian registered pilot for the route being navigated who shall—
 
-  (A) in waters of the Great Lakes designated by the President, direct the navigation of the vessel subject to the customary authority of the master; and
+  (A) in the Straits of Mackinac and in all other waters of the Great Lakes designated by the President, direct the navigation of the vessel subject to the customary authority of the master; and
 
   (B) in waters of the Great Lakes not designated by the President, be on board and available to direct the navigation of the vessel at the discretion of and subject to the customary authority of the master.
 
@@ -60,6 +60,8 @@ Clause (3) defines “United States registered pilot” as an individual registe
 **(e)** A Canadian vessel regularly operating on the Great Lakes or between ports on the Great Lakes and the Saint Lawrence River, with only an occasional voyage to ports in the maritime provinces of Canada in the Canadian coastal trade, is exempt from subsection (a) of this section as long as Canada permits enrolled vessels of the United States to be operated on Canadian waters of the Great Lakes under the direction of individuals licensed under [section 7101 of this title](./chapter-071-licenses-and-certificates-of-registry.md#section-7101).
 
 **(f)** A documented vessel regularly operating on the Great Lakes or between ports on the Great Lakes and the St. Lawrence River is exempt from the requirements of subsection (a) of this section.
+
+**(g) Definition of the Straits of Mackinac.—** In this section, the term “Straits of Mackinac” includes all of the United States navigable waters bounded by longitudes 84 degrees 20 minutes west and 85 degrees 10 minutes west and latitudes 45 degrees 39 minutes north and 45 degrees 54 minutes north, including Gray’s Reef Passage, the South Channel, and Round Island Passage, and approaches thereto.
 
 ### Statutory Notes
 
@@ -80,6 +82,10 @@ Subsection (c) provides for reciprocity of recognizing United States and Canadia
 Subsections (d) and (e) are exceptions to subsection (a). Subsection (d) permits operation of a vessel on the Great Lakes without a registered pilot if notice is given that one is not available or if the vessel or cargo is in distress or jeopardy. Subsection (e) exempts a Canadian vessel in the coastwise or Great Lakes trade from the requirement of having a registered pilot if similar United States vessels are extended the same exemption by Canada.
 
 #### Amendments
+2025—Subsec. (a)(1)(A). Pub. L. 119–60, § 7314(a), substituted “in the Straits of Mackinac and in all other waters” for “in waters”.
+
+Subsec. (g). Pub. L. 119–60, § 7314(b), added subsec. (g).
+
 1996—Subsec. (a)(1). Pub. L. 104–324, § 1115(b)(5), substituted “subsections (d), (e), and (f)” for “subsections (d) and (e)”.
 
 Subsec. (e). Pub. L. 104–324, § 1115(b)(6), substituted “subsection (a)” for “subsections (a) and (b)”.

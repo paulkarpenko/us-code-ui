@@ -466,10 +466,12 @@ Section 3742, Pub. L. 113–291, div. A, title XIII, § 1342, Dec. 19, 2014, 128
 
   (F) any other information that the Secretary considers relevant to provide a complete description of the operation and success of activities carried out under the Program.
 
+**(d) Termination date** The requirement to submit the report under subsection (a) shall terminate on January 1, 2030.
+
 ### Statutory Notes
 
-#### Termination of Reporting Requirements
-For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim), Armed Forces.
+#### Amendments
+2024—Subsec. (d). Pub. L. 118–159 added subsec. (d).
 
 
 <a id="section-3751"></a>

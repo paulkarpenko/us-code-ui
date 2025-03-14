@@ -52,7 +52,7 @@ During a national emergency declared by the President, the regular working hours
 The words “Notwithstanding the provisions of any other law” are omitted as surplusage. The word “producing” is substituted for the words “who are engaged in the manufacture or production”. The last sentence is substituted for 5:189a (last 34 words).
 
 #### Amendments
-2018—Pub. L. 115–232 renumbered [section 9025 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9025&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–232 renumbered [section 9025 of this title](./chapter-903-department-of-the-air-force.md#section-9025) as this section.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

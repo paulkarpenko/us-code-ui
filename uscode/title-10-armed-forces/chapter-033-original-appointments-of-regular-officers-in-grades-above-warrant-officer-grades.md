@@ -12,9 +12,9 @@ source: >-
 ## § 531. Original appointments of commissioned officers
 **(a)**
 
-(1) Original appointments in the grades of second lieutenant, first lieutenant, and captain in the Regular Army, Regular Air Force, and Regular Marine Corps in the grades of ensign, lieutenant (junior grade), and lieutenant in the Regular Navy, and in the equivalent grades in the Space Force shall be made by the President alone.
+(1) Original appointments in the grades of second lieutenant, first lieutenant, and captain in the Regular Army, Regular Air Force, Regular Marine Corps, and Space Force, and in the grades of ensign, lieutenant (junior grade), and lieutenant in the Regular Navy shall be made by the President alone.
 
-(2) Original appointments in the grades of major, lieutenant colonel, and colonel in the Regular Army, Regular Air Force, and Regular Marine Corps in the grades of lieutenant commander, commander, and captain in the Regular Navy, and in the equivalent grades in the Space Force shall be made by the President, by and with the advice and consent of the Senate.
+(2) Original appointments in the grades of major, lieutenant colonel, and colonel in the Regular Army, Regular Air Force, Regular Marine Corps, and Space Force, and in the grades of lieutenant commander, commander, and captain in the Regular Navy shall be made by the President, by and with the advice and consent of the Senate.
 
 **(b)** The grade of a person receiving an appointment under this section who at the time of appointment (1) is credited with service under [section 533 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-533), and (2) is not a commissioned officer of a reserve component shall be determined under regulations prescribed by the Secretary of Defense based upon the amount of service credited. The grade of a person receiving an appointment under this section who at the time of the appointment is a commissioned officer of a reserve component is determined under [section 533(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section533/f&num=0&edition=prelim).
 
@@ -23,6 +23,10 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a)(1). Pub. L. 118–159, § 521(c)(1)(A), substituted “Regular Marine Corps, and Space Force, and in the grades of ensign, lieutenant (junior grade), and lieutenant in the Regular Navy” for “and Regular Marine Corps in the grades of ensign, lieutenant (junior grade), and lieutenant in the Regular Navy, and in the equivalent grades in the Space Force”.
+
+Subsec. (a)(2). Pub. L. 118–159, § 521(c)(1)(B), substituted “Regular Marine Corps, and Space Force, and in the grades of lieutenant commander, commander, and captain in the Regular Navy” for “and Regular Marine Corps in the grades of lieutenant commander, commander, and captain in the Regular Navy, and in the equivalent grades in the Space Force”.
+
 2023—Pub. L. 118–31 struck out “Regular” before “Space Force” wherever appearing.
 
 2021—Subsec. (a)(1). Pub. L. 116–283, § 924(b)(13)(A), substituted “in the grades of ensign, lieutenant (junior grade), and lieutenant in the Regular Navy, and in the equivalent grades in the Regular Space Force” for “and in the grades of ensign, lieutenant (junior grade), and lieutenant in the Regular Navy”.
@@ -185,7 +189,7 @@ Pub. L. 98–94, title X, § 1006, Sept. 24, 1983, 97 Stat. 661, provided that a
 
   (E) Additional credit for experience as a physician or dentist, if appointed as a medical or dental officer in the Army or Navy or, in the case of the Air Force, with a view to designation as a medical or dental officer.
 
-(2) The amount of constructive service credited an officer under this subsection may not exceed the amount required in order for the officer to be eligible for an original appointment in the grade of colonel in the Army, Air Force, or Marine Corps, captain in the Navy, or an equivalent grade in the Space Force.
+(2) The amount of constructive service credited an officer under this subsection may not exceed the amount required in order for the officer to be eligible for an original appointment in the grade of colonel in the Army, Air Force, Marine Corps, or Space Force, or captain in the Navy.
 
 (3) Constructive service credited an officer under this subsection is in addition to any service credited that officer under subsection (a) and shall be credited at the time of the original appointment of the officer.
 
@@ -214,6 +218,8 @@ Pub. L. 98–94, title X, § 1006, Sept. 24, 1983, 97 Stat. 661, provided that a
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (b)(2). Pub. L. 118–159 substituted “Marine Corps, or Space Force, or captain in the Navy” for “or Marine Corps, captain in the Navy, or an equivalent grade in the Space Force”.
+
 2023—Subsecs. (a)(1), (b)(1), (f). Pub. L. 118–31 struck out “Regular” before “Space Force”.
 
 2021—Subsec. (a)(1). Pub. L. 116–283, § 924(b)(4)(C), substituted “Regular Marine Corps, or Regular Space Force” for “or Regular Marine Corps”.

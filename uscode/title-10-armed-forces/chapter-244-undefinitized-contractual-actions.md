@@ -50,13 +50,17 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 (4) **Inapplicability with respect to purchase of initial spares.—** — This subsection does not apply to an undefinitized contractual action for the purchase of initial spares.
 
-**(b) Limitation on Unilateral Definitization by Contracting Officer.—** With respect to any undefinitized contractual action with a value greater than $50,000,000, if agreement is not reached on contractual terms, specifications, and price within the period or by the date provided in subsection (a)(1), the contracting officer may not unilaterally definitize those terms, specifications, or price over the objection of the contractor until—
+**(b) Limitation on Unilateral Definitization by Contracting Officer.—**
 
-(1) the service acquisition executive for the military department that awarded the contract, or the Under Secretary of Defense for Acquisition and Sustainment if the contract was awarded by a Defense Agency or other component of the Department of Defense, approves the definitization in writing;
+(1) **In general.—** — With respect to any undefinitized contractual action with a value greater than $50,000,000, if agreement is not reached on contractual terms, specifications, and price within the period or by the date provided in subsection (a)(1), the contracting officer may not unilaterally definitize those terms, specifications, or price over the objection of the contractor until—
 
-(2) the contracting officer provides a copy of the written approval to the contractor; and
+  (A) the service acquisition executive for the military department that awarded the contract, or the Under Secretary of Defense for Acquisition and Sustainment if the contract was awarded by a Defense Agency or other component of the Department of Defense, approves the definitization in writing;
 
-(3) a period of 30 calendar days has elapsed after the written approval is provided to the contractor.
+  (B) the contracting officer provides a copy of the written approval to the contractor; and
+
+  (C) a period of 30 calendar days has elapsed after the written approval is provided to the contractor.
+
+(2) **Treatment of unilateral definitization of a contract as a final decision.—** — A unilateral definitization by a contracting officer shall be considered a final decision under chapter 71 of title 41, and a contractor may appeal this decision to the Armed Services Board of Contract Appeals or the United States Court of Federal Claims.
 
 **(c) Foreign Military Contracts.—**
 
@@ -74,6 +78,8 @@ The text of subsec. (c) of [section 2326 of this title](./chapter-chapter-137-ch
 The text of subsec. (h) of [section 2326 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2326), which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 116–283, § 1819(c)(1), (4), was based on Pub. L. 114–328, div. A, title VIII, § 811(3), Dec. 23, 2016, 130 Stat. 2268; Pub. L. 115–91, div. A, title VIII, § 815(a)(1), Dec. 12, 2017, 131 Stat. 1462.
 
 #### Amendments
+2024—Subsec. (b). Pub. L. 118–159 designated introductory provisions as par. (1) and inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1) and realigned margins, and added par. (2).
+
 2021—Subsec. (a). Pub. L. 116–283, § 1819(c)(1), (2)(A), redesignated subsec. (b) of [section 2326 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2326) as subsec. (a) of this section and substituted “Contractual Action to Provide Time for Definitization of Contractual Terms, Specifications, and Price; Limitations on Obligation of Funds” for “Limitations on Obligation of Funds” in heading.
 
 Subsec. (a)(1). Pub. L. 116–283, § 1819(c)(2)(A), inserted heading.
@@ -100,7 +106,7 @@ Subsec. (c)(2). Pub. L. 116–283, § 1819(c)(4)(C), (D), inserted heading and s
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Existing Agreement Limits for Operation Warp Speed
-Pub. L. 117–263, div. A, title VIII, § 883, Dec. 23, 2022, 136 Stat. 2746, provided that: “The value of any modification to, or order made under, a contract or other agreement by the Department of Defense on or after March 1, 2020, to address the COVID–19 pandemic through vaccines and other therapeutic measures shall not be counted toward any limit established prior to March 1, 2020, on the total estimated amount of all projects to be issued under the contract or other agreement (except that the value of such modification or order shall count toward meeting any guaranteed minimum value under the contract or other agreement).”
+Pub. L. 117–263, div. A, title VIII, § 883, Dec. 23, 2022, 136 Stat. 2746, which provided that the value of any modification to, or order made under, a contract or other agreement by the Department of Defense on or after March 1, 2020, to address the COVID–19 pandemic through vaccines and other therapeutic measures generally would not be counted toward any limit established prior to March 1, 2020, on the total estimated amount of all projects to be issued under the contract or other agreement, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(1), Dec. 18, 2025, 139 Stat. 948.
 
 #### Relaxation of Undefinitized Contract Action Limitations and Restrictions Related to National Emergency for Coronavirus Disease 2019
 Pub. L. 116–136, div. B, title III, § 13004, Mar. 27, 2020, 134 Stat. 522, provided that: “(a) [Section 2326(b)(3) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2326/b/3&num=0&edition=prelim), United States Code [now [10 U.S.C. 3372(a)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3372/a/2/B&num=0&edition=prelim)], shall not apply to any undefinitized contract action of the Department of Defense related to the national emergency for the Coronavirus Disease 2019 (COVID–19). “(b) In this section, the term ‘undefinitized contract action’ has the meaning given that term in [section 2326(j)(6) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2326/j/6&num=0&edition=prelim), United States Code [probably means [section 2326(j)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2326/j/1&num=0&edition=prelim), now [10 U.S.C. 3377(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3377/b/1&num=0&edition=prelim), which defines “undefinitized contractual action”].”
@@ -109,38 +115,28 @@ Pub. L. 116–136, div. B, title III, § 13005, Mar. 27, 2020, 134 Stat. 522, pr
 
 
 <a id="section-3373"></a>
-## § 3373. Undefinitized contractual actions: limitation on inclusion of non-urgent requirements and on modification of scope
-**(a) Inclusion of Non-Urgent Requirements.—** Requirements for spare parts and support equipment that are not needed on an urgent basis may not be included in an undefinitized contractual action for spare parts and support equipment that are needed on an urgent basis unless the head of the agency approves such inclusion as being—
-
-(1) good business practice; and
-
-(2) in the best interests of the United States.
-
-**(b) Modification of Scope.—** The scope of an undefinitized contractual action under which performance has begun may not be modified unless the head of the agency approves such modification as being—
-
-(1) good business practice; and
-
-(2) in the best interests of the United States.
+## § 3373. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(4), Dec. 18, 2025, 139 Stat. 948]
 
 ### Statutory Notes
 
-#### Codification
-The text of subsecs. (d) and (e) of [section 2326 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2326), which were transferred to this section, redesignated as subsecs. (a) and (b), respectively, and amended by Pub. L. 116–283, § 1819(d), was based on Pub. L. 99–500, § 101(c) [title X, § 908(d)(1)(A)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–141, and Pub. L. 99–591, § 101(c) [title X, § 908(d)(1)(A)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–141; Pub. L. 99–661, div. A, title IX, formerly title IV, § 908(d)(1)(A), Nov. 14, 1986, 100 Stat. 3920, 3921, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 115–91, div. A, title VIII, § 815(a)(1), Dec. 12, 2017, 131 Stat. 1462. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical subsections.
-
-#### Amendments
-2021—Pub. L. 116–283, § 1819(d), redesignated subsecs. (d) and (e) of [section 2326 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2326) as subsecs. (a) and (b), respectively, of this section.
-
-#### Effective Date
-Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+Section, added and amended Pub. L. 116–283, div. A, title XVIII, § 1819(a), (d), Jan. 1, 2021, 134 Stat. 4189, 4190, related to limitation on inclusion of non-urgent requirements and on modification of scope in undefinitized contractual actions.
 
 
 <a id="section-3374"></a>
 ## § 3374. Undefinitized contractual actions: allowable profit
-**(a) Allowed Profit to Reflect Certain Reduced Cost Risks of Contractor.—** The head of an agency shall ensure that the profit allowed on an undefinitized contractual action for which the final price is negotiated after a substantial portion of the performance required is completed reflects—
+**(a) Allowed Profit to Reflect Cost Risks of Contractor.—** The head of an agency shall ensure that the profit allowed on an undefinitized contractual action for which the final price is negotiated after a substantial portion of the performance required is completed reflects—
 
-(1) the possible reduced cost risk of the contractor with respect to costs incurred during performance of the contract before the final price is negotiated; and
+(1) the possible reduced cost risk of the contractor with respect to costs incurred during performance of the contract before the final price is negotiated;
 
-(2) the reduced cost risk of the contractor with respect to costs incurred during performance of the remaining portion of the contract.
+(2) the reduced cost risk of the contractor with respect to costs incurred during performance of the remaining portion of the contract;
+
+(3) the increased cost risk of the contractor with respect to any costs incurred prior to the award of the undefinitized contractual action when such costs—
+
+  (A) would have been directly chargeable to the contract if incurred after the award of the contract; and
+
+  (B) were incurred to meet an anticipated contract delivery schedule or anticipated contract price targets of the Government under an acquisition strategy required under [section 4211 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4211); and
+
+(4) the increased cost risk of the contractor with respect to negotiations continuing for more than 180 days beginning on the date on which the contractor submitted the qualifying proposal to definitize such undefinitized contractual action.
 
 **(b) Date as of Which Contractor Cost Risk to Be Determined.—** If a contractor submits a qualifying proposal to definitize an undefinitized contractual action and the contracting officer for such action definitizes the contract after the end of the 180-day period beginning on the date on which the contractor submitted the qualifying proposal, the head of the agency concerned shall ensure that the profit allowed on the contract accurately reflects the cost risk of the contractor as such risk existed on the date the contractor submitted the qualifying proposal.
 
@@ -150,6 +146,10 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 The text of subsec. (f) of [section 2326 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2326), which was transferred to this section and amended by Pub. L. 116–283, § 1819(e), was based on Pub. L. 99–500, § 101(c) [title X, § 908(d)(1)(A)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–141, and Pub. L. 99–591, § 101(c) [title X, § 908(d)(1)(A)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–141; Pub. L. 99–661, div. A, title IX, formerly title IV, § 908(d)(1)(A), Nov. 14, 1986, 100 Stat. 3921, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 114–328, div. A, title VIII, § 811(1), Dec. 23, 2016, 130 Stat. 2268; Pub. L. 115–91, div. A, title VIII, § 815(a)(1), Dec. 12, 2017, 131 Stat. 1462. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical subsections.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60, § 814(a)(1), struck out “Certain Reduced” before “Cost Risks” in heading.
+
+Subsec. (a)(3), (4). Pub. L. 119–60, § 814(a)(2)–(4), added pars. (3) and (4).
+
 2021—Pub. L. 116–283, § 1819(e)(1)(A), transferred subsec. (f) of [section 2326 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2326) to this section and struck out subsec. (f) designation and heading “Allowable Profit” at beginning.
 
 Subsec. (a). Pub. L. 116–283, § 1819(e)(1)(B), (2), redesignated par. (1) of former [section 2326(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2326/f&num=0&edition=prelim) as subsec. (a) of this section, inserted heading, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
@@ -158,6 +158,9 @@ Subsec. (b). Pub. L. 116–283, § 1819(e)(1)(B), (3), redesignated par. (2) of 
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Regulations
+Pub. L. 119–60, div. A, title VIII, § 814(b), Dec. 18, 2025, 139 Stat. 953, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to carry out [section 3374(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3374/a&num=0&edition=prelim), United States Code, as amended by subsection (a).”
 
 
 <a id="section-3375"></a>

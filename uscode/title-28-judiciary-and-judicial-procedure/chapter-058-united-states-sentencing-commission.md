@@ -385,6 +385,8 @@ Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473
 For termination, effective May 15, 2000, of provisions in subsec. (w) of this section relating to requirement that the Commission submit to Congress at least annually an analysis of reports and recommendations for legislation that the Commission concludes is warranted by that analysis, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 13 of House Document No. 103–7.
 
 #### Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines
+Pub. L. 119–60, div. H, title LXXXVI, § 8605(e), Dec. 18, 2025, 139 Stat. 1944.—Increased penalties for all offenses involving the use of an unmanned aircraft.
+
 Pub. L. 117–159, div. A, title II, § 12004(a)(5), June 25, 2022, 136 Stat. 1328.—Increased penalties for an offense under section 932 or 933 of title 18 and other offenses applicable to the straw purchases and trafficking of firearms.
 
 Pub. L. 112–269, § 3, Jan. 14, 2013, 126 Stat. 2442.—Transmission or attempted transmission of stolen trade secrets outside of the United States; economic espionage.

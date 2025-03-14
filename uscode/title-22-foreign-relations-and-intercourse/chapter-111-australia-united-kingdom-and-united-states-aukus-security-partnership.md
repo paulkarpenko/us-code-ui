@@ -280,6 +280,39 @@ Congressional defense committees means the Committees on Armed Services and Appr
 
       (II) An assessment of any new lines of effort established.
 
+### Statutory Notes
+
+#### Delegation of Functions and Authorities Under Sections 1333, 1342, 1352, and 1353 of the National Defense Authorization Act for Fiscal Year 2024
+Memorandum of President of the United States, July 9, 2024, 89 F.R. 57337, provided:
+
+Memorandum for the Secretary of State[,] the Secretary of Defense[,] the Secretary of Energy[, and] the Director of the Office of Management and Budget
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code:
+
+Section 1. (a) I hereby delegate to the Secretary of Defense, in consultation with the Secretary of Energy, the functions and authorities vested in the President by section 1352(g) of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31) (the “Act”) [[22 U.S.C. 10431(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section10431/g&num=0&edition=prelim)].
+
+(b) I hereby delegate to the Secretary of Defense, in consultation with the Secretaries of State and Energy, the functions and authorities vested in the President by sections 1352(h)(4), 1352(d)(1), and 1352(e)(2)(A) of the Act.
+
+(c) I hereby delegate the functions and authorities vested in the President by the following provisions of the Act as follows:
+
+(i) to the Secretary of State, in consultation with the Secretaries of Defense and Energy, as appropriate, section 1333 of the Act [[22 U.S.C. 10413](./chapter-111-australia-united-kingdom-and-united-states-aukus-security-partnership.md#section-10413)];
+
+(ii) to the Secretary of State, in consultation with the Secretaries of Defense and Energy, section 1342 of the Act [[22 U.S.C. 10422](./chapter-111-australia-united-kingdom-and-united-states-aukus-security-partnership.md#section-10422)];
+
+(iii) to the Secretary of Defense, in consultation with the Secretary of Energy, section 1352(e)(2)(B) of the Act;
+
+(iv) to the Secretary of Defense, in consultation with the Secretary of Energy, section 1352(e)(2)(C) of the Act;
+
+(v) to the Secretary of Defense, in consultation with the Secretaries of State and Energy, section 1352(i) of the Act; and
+
+(vi) to the Secretary of Defense for funds allocated to the Department of Defense account and to the Secretary of Energy for funds allocated to the Department of Energy account, in coordination with the Director of the Office of Management and Budget, section 1353(d), (h), and (i) of the Act [[22 U.S.C. 10432(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section10432/d&num=0&edition=prelim), (h), (i)].
+
+Sec. 2. The delegation in this memorandum shall apply to any provision of any future public law that is the same or substantially the same as the provision referenced in this memorandum.
+
+Sec. 3. The Secretary of Defense is authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.
+
 
 <a id="section-10422"></a>
 ## § 10422. Priority for Australia and the United Kingdom in foreign military sales and direct commercial sales
@@ -305,6 +338,11 @@ Congressional defense committees means the Committees on Armed Services and Appr
 **(a) In general** Not later than 90 days after December 22, 2023, and on a biennial basis thereafter for 8 years, the President shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report that includes a list of advanced military platforms, technologies, and equipment that are pre-cleared and prioritized for sale and release to Australia, the United Kingdom and Canada through the Foreign Military Sales and Direct Commercial Sales programs without regard to whether a letter of request or license to purchase such platforms, technologies, or equipment has been received from any of such country.
 
 **(b) Additional items** Each list may include items that are not related to the AUKUS partnership but may not include items that are not covered by an exemption under the International Traffic in Arms Regulations except unmanned aerial or hypersonic systems.
+
+### Statutory Notes
+
+#### Delegation of Functions
+Functions and authorities vested in the President under this section delegated to Secretary of State, in consultation with Secretaries of Defense and Energy, by Memorandum of President of the United States, § 1(c)(ii), July 9, 2024, 89 F.R. 57337, set out in a note under [section 10413 of this title](./chapter-111-australia-united-kingdom-and-united-states-aukus-security-partnership.md#section-10413).
 
 
 <a id="section-10431"></a>
@@ -450,6 +488,32 @@ The Arms Export Control Act, referred to in subsec. (h)(3), is Pub. L. 90–629,
 #### Codification
 Section is comprised of section 1352 of Pub. L. 118–31. Subsec. (g) of section 1352 of Pub. L. 118–31 amended [section 8680 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8680&num=0&edition=prelim), Armed Forces.
 
+#### Delegation of Functions
+Functions and authorities vested in the President under subsecs. (e)(2)(B), (C) and (g) of this section delegated to Secretary of Defense, in consultation with Secretary of Energy, and under subsecs. (d)(1), (e)(2)(A), (h)(4), and (i) of this section to Secretary of Defense, in consultation with Secretaries of State and Energy, by Memorandum of President of the United States, § 1(a), (b), (c)(iii)–(v), July 9, 2024, 89 F.R. 57337, set out in a note under [section 10413 of this title](./chapter-111-australia-united-kingdom-and-united-states-aukus-security-partnership.md#section-10413).
+
+#### Delegation of Functions and Authorities Under Sections 1352 and 1353 of the National Defense Authorization Act for Fiscal Year 2024
+Memorandum of President of the United States, Dec. 11, 2024, 89 F.R. 101835, provided:
+
+Memorandum for the Secretary of State[,] the Secretary of Defense[,] the Secretary of Energy[, and] the Director of the Office of Management and Budget
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code:
+
+Section 1. (a) I hereby delegate to the Secretary of State, in consultation with the Secretaries of Defense and Energy, the functions and authorities vested in the President by section 1352(a) of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31) (the “Act”) [[22 U.S.C. 10431(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section10431/a&num=0&edition=prelim)].
+
+(b) I hereby delegate to the Secretary of Defense, in consultation with the Secretaries of State and Energy and the Director of the Office of Management and Budget, the functions and authorities vested in the President by section 1352(e)(1)(A) of the Act.
+
+(c) I hereby delegate to the Secretary of Energy, in consultation with the Secretary of Defense and the Director of the Office of Management and Budget, the functions and authorities vested in the President by section 1352(f)(2) of the Act.
+
+(d) I hereby delegate to the Secretary of Defense for funds transferred to Department of Defense accounts and to the Secretary of Energy for funds transferred to Department of Energy accounts, in coordination with the Director of the Office of Management and Budget, the functions and authorities vested in the President by sections 1353(c), 1353(e)(1)(D), and 1353(e)(3) of the Act [[22 U.S.C. 10432(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section10432/c&num=0&edition=prelim), (e)(1)(D), (e)(3)].
+
+(e) I hereby delegate to the Director of the Office of Management and Budget, in consultation with the Secretaries of Defense and Energy, as appropriate, the functions and authorities vested in the President by sections 1353(a), 1353(e)(1)(A), 1353(e)(2), and 1353(f)(1) of the Act.
+
+Sec. 2. The delegation in this memorandum shall apply to any provision of any future public law that is the same or substantially the same as the provision referenced in this memorandum.
+
+Sec. 3. The Secretary of Defense is authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.
+
 
 <a id="section-10433"></a>
 ## § 10433. Acceptance of contributions in support of Australia, United Kingdom, and United States submarine security activities
@@ -539,3 +603,8 @@ Section is comprised of section 1352 of Pub. L. 118–31. Subsec. (g) of section
 Section 8005 of the Department of Defense Appropriations Act, 2023, referred to in subsec. (e)(1)(B), is section 8005 of Pub. L. 117–328, div. C, title VIII, Dec. 29, 2022, 136 Stat. 4585, which is not classified to the Code.
 
 The Atomic Energy Act of 1954, referred to in subsec. (e)(2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
+
+#### Delegation of Functions
+Functions and authorities vested in the President under subsecs. (d), (h), and (i) of this section delegated to Secretary of Defense for funds allocated to the Department of Defense account and to Secretary of Energy for funds allocated to the Department of Energy account, in coordination with the Director of the Office of Management and Budget, by Memorandum of President of the United States, § 1(c)(vi), July 9, 2024, 89 F.R. 57337, set out in a note under [section 10413 of this title](./chapter-111-australia-united-kingdom-and-united-states-aukus-security-partnership.md#section-10413).
+
+Functions and authorities vested in the President under subsecs. (c) and (e)(1)(D) and (3) of this section delegated to the Secretary of Defense for funds transferred to Department of Defense accounts and to the Secretary of Energy for funds transferred to Department of Energy accounts, in coordination with the Director of the Office of Management and Budget, and under subsecs. (a), (e)(1)(A), (2), and (f)(1) of this section delegated to the Director of the Office of Management and Budget, in consultation with the Secretaries of Defense and Energy, as appropriate, by Memorandum of President of the United States, § 1(d), (e), Dec. 11, 2024, 89 F.R. 101835, set out in a note under [section 10431 of this title](./chapter-111-australia-united-kingdom-and-united-states-aukus-security-partnership.md#section-10431).

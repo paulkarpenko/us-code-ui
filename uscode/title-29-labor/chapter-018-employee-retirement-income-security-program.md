@@ -864,7 +864,7 @@ Par. (37). Pub. L. 96–364, § 302(a), substantially revised definition of term
 #### Effective Date of 2022 Amendment
 Pub. L. 117–328, div. T, title I, § 105(b), Dec. 29, 2022, 136 Stat. 5286, provided that: “The amendments made by this section [amending this section] shall apply to plan years beginning after December 31, 2022.”
 
-Amendment by section 106(d) of Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2022, see section 106(h)(1) of Pub. L. 117–328, set out as a note under [section 403 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section403&num=0&edition=prelim).
+Amendment by section 106(d) of Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2022, see section 106(h)(1) of Pub. L. 117–328, set out as a note under [section 403 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section403&num=0&edition=prelim), Internal Revenue Code.
 
 Amendment by section 127(a) of Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2023, see section 127(g) of Pub. L. 117–328, set out as a note under [section 72 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section72&num=0&edition=prelim), Internal Revenue Code.
 
@@ -2712,30 +2712,25 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
     (ii) the number of days for which there was such an absence.
 
+**(c) Special Rule for Certain Part-time Employees.—**
+
+(1) **In general.—** — A pension plan that includes either a qualified cash or deferred arrangement (as defined in [section 401(k) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/k&num=0&edition=prelim)) or a salary reduction agreement (as described in [section 403(b) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section403/b&num=0&edition=prelim)) shall not require, as a condition of participation in the arrangement or agreement, that an employee complete a period of service with the employer (or employers) maintaining the plan extending beyond the close of the earlier of—
+
+  (A) the period permitted under subsection (a)(1) (determined without regard to subparagraph (B)(i) thereof); or
+
+  (B) the first 24-month period—
+
+    (i) consisting of 2 consecutive 12-month periods during each of which the employee has at least 500 hours of service; and
+
+    (ii) by the close of which the employee has met the requirement of subsection (a)(1)(A)(i).
+
+(2) **Exception.—** — Paragraph (1)(B) shall not apply to any employee described in [section 410(b)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section410/b/3&num=0&edition=prelim).
+
+(3) **Coordination with time of participation rules.—** — In the case of employees who are eligible to participate in the arrangement or agreement solely by reason of paragraph (1)(B), or by reason of such paragraph and [section 401(k)(2)(D)(ii) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/k/2/D/ii&num=0&edition=prelim), the rules of subsection (a)(4) shall apply to such employees.
+
+(4) **12-month period.—** — For purposes of this subsection, 12-month periods shall be determined in the same manner as under the last sentence of subsection (a)(3)(A), except that 12-month periods beginning before January 1, 2023, shall not be taken into account.
+
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 117–328, div. T, title I, § 125(a)(1), (f)(1), Dec. 29, 2022, 136 Stat. 5314, 5316, provided that, applicable to plan years beginning after Dec. 31, 2024, this section is amended by adding at the end the following new subsection:
-
-“(c) Special Rule for Certain Part-time Employees.—
-
-“(1) In general.—A pension plan that includes either a qualified cash or deferred arrangement (as defined in [section 401(k) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/k&num=0&edition=prelim)) or a salary reduction agreement (as described in [section 403(b) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section403/b&num=0&edition=prelim)) shall not require, as a condition of participation in the arrangement or agreement, that an employee complete a period of service with the employer (or employers) maintaining the plan extending beyond the close of the earlier of—
-
-“(A) the period permitted under subsection (a)(1) (determined without regard to subparagraph (B)(i) thereof); or
-
-“(B) the first 24-month period—
-
-“(i) consisting of 2 consecutive 12-month periods during each of which the employee has at least 500 hours of service; and
-
-“(ii) by the close of which the employee has met the requirement of subsection (a)(1)(A)(i).
-
-“(2) Exception.—Paragraph (1)(B) shall not apply to any employee described in [section 410(b)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section410/b/3&num=0&edition=prelim).
-
-“(3) Coordination with time of participation rules.—In the case of employees who are eligible to participate in the arrangement or agreement solely by reason of paragraph (1)(B), or by reason of such paragraph and [section 401(k)(2)(D)(ii) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/k/2/D/ii&num=0&edition=prelim), the rules of subsection (a)(4) shall apply to such employees.
-
-“(4) 12-month period.—For purposes of this subsection, 12-month periods shall be determined in the same manner as under the last sentence of subsection (a)(3)(A), except that 12-month periods beginning before January 1, 2023, shall not be taken into account.”
-
-See 2022 Amendment note below.
 
 #### Amendments
 2022—Subsec. (c). Pub. L. 117–328 added subsec. (c).
@@ -2950,7 +2945,14 @@ For provisions directing that if any amendments made by Pub. L. 99–509 require
 
       (II) the number of days for which there was such an absence.
 
-(4) Cross references
+(4) **Part-time employees.—** — For purposes of determining whether an employee who became eligible to participate in a qualified cash or deferred arrangement or a salary reduction agreement under a plan solely by reason of [section 1052(c)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1052/c/1/B&num=0&edition=prelim) has a nonforfeitable right to employer contributions—
+
+  (A) except as provided in subparagraph (B), each 12-month period for which the employee has at least 500 hours of service shall be treated as a year of service; and
+
+  (B) paragraph (3) shall be applied by substituting “at least 500 hours of service” for “more than 500 hours of service” in subparagraph (A) thereof.
+  For purposes of this paragraph, 12-month periods shall be determined in the same manner as under the last sentence of [section 1052(a)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1052/a/3/A&num=0&edition=prelim), except that 12-month periods beginning before January 1, 2023, shall not be taken into account.
+
+(5) Cross references
 
   (A) For definitions of “accrued benefit” and “normal retirement age”, see sections 1002(23) and (24) of this title.
 
@@ -2996,21 +2998,6 @@ For provisions directing that if any amendments made by Pub. L. 99–509 require
   (B) *Regulations to include similar plans* — The Secretary of the Treasury shall issue regulations which include in the definition of an applicable defined benefit plan any defined benefit plan (or any portion of such a plan) which has an effect similar to an applicable defined benefit plan.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)
-Pub. L. 117–328, div. T, title I, § 125(b), (f)(1), Dec. 29, 2022, 136 Stat. 5315, 5316, provided that, applicable to plan years beginning after Dec. 31, 2024, subsection (b) of this section is amended by redesignating paragraph (4) as paragraph (5) and by inserting after paragraph (3) the following new paragraph:
-
-“(4) Part-time employees
-
-“For purposes of determining whether an employee who became eligible to participate in a qualified cash or deferred arrangement or a salary reduction agreement under a plan solely by reason of [section 1052(c)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1052/c/1/B&num=0&edition=prelim) has a nonforfeitable right to employer contributions—
-
-“(A) except as provided in subparagraph (B), each 12-month period for which the employee has at least 500 hours of service shall be treated as a year of service; and
-
-“(B) paragraph (3) shall be applied by substituting ‘at least 500 hours of service’ for ‘more than 500 hours of service’ in subparagraph (A) thereof.
-
-For purposes of this paragraph, 12-month periods shall be determined in the same manner as under the last sentence of [section 1052(a)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1052/a/3/A&num=0&edition=prelim), except that 12-month periods beginning before January 1, 2023, shall not be taken into account.”
-
-See 2022 Amendment note below.
 
 #### References in Text
 [Section 1425 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1425&num=0&edition=prelim), referred to in subsec. (a)(3)(E)(ii)(I), was repealed by Pub. L. 113–235, div. O, title I, § 108(a)(1), Dec. 16, 2014, 128 Stat. 2786.
@@ -10292,7 +10279,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 (1) Members of the Council shall each be entitled to receive the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Council.
 
-(2) While away from their homes or regular places of business in the performance of services for Council, 22 So in original. Probably should be “for the Council,”. members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under [section 5703(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703/b&num=0&edition=prelim).1
+(2) While away from their homes or regular places of business in the performance of services for Council,22 So in original. Probably should be “for the Council,”. members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under [section 5703(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703/b&num=0&edition=prelim).1
 
 **(e) Termination** [Section 1013(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/a&num=0&edition=prelim) (relating to termination) shall not apply to the Council.
 
@@ -13775,7 +13762,7 @@ The Secretary shall—
 
 (1) prescribe such regulations as may be necessary to address reporting and disclosure requirements for pension-linked emergency savings accounts; and
 
-(2) seek to prevent unnecessary reporting and disclosure for such accounts under this chapter, including for purposes of any reporting or disclosure related to pension plans required by this title or under the Internal Revenue Code of 1986.
+(2) seek to prevent unnecessary reporting and disclosure for such accounts under this chapter, including for purposes of any reporting or disclosure related to pension plans required by this subchapter or under the Internal Revenue Code of 1986.
 
 ### Statutory Notes
 
@@ -14925,7 +14912,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
     (v) in the case of a multiemployer plan, for plan years beginning after December 31, 2012, and before January 1, 2015, $12.00 for each individual who is a participant in such plan during the applicable plan year,
 
-    (vi) in the case of a multiemployer plan, for plan years beginning after December 31, 2014, and before January 1, 2031, $26 for each individual who is a participant in such plan during the applicable plan year,
+    (vi) in the case of a multiemployer plan, for plan years beginning after December 31, 2014,,1 and before January 1, 2031, $26 for each individual who is a participant in such plan during the applicable plan year,
 
     (vii) in the case of a CSEC plan (as defined in [section 1060(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1060/f/1&num=0&edition=prelim)), for plan years beginning after December 31, 2018, for each individual who is a participant in such plan during the plan year an amount equal to the sum of—
 
@@ -19877,7 +19864,7 @@ Part effective Sept. 26, 1980, except as specifically provided, see [section 146
 
 (1) **In general** — Special financial assistance under this section shall be a transfer of funds in the amount necessary as demonstrated by the plan sponsor on the application for such special financial assistance, in accordance with the requirements described in subsection (j). Special financial assistance shall be paid to such plan as soon as practicable upon approval of the application by the corporation.
 
-(2) **No cap** — Special financial assistance granted by the corporation under this section shall not be capped by the guarantee under 1322a of this title.
+(2) **No cap** — Special financial assistance granted by the corporation under this section shall not be capped by the guarantee under 1322a 11 So in original. Probably should be preceded by “section”. of this title.
 
 **(j) Determination of amount of special financial assistance**
 

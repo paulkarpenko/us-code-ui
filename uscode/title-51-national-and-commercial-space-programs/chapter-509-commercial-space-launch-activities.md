@@ -2,7 +2,7 @@
 title: 51
 chapter: '509'
 heading: COMMERCIAL SPACE LAUNCH ACTIVITIES
-section_count: 23
+section_count: 24
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51&num=0&edition=prelim
 ---
@@ -597,7 +597,7 @@ Subsec. (c). Pub. L. 105–303, § 102(a)(5)(E), substituted “Preventing Launc
 
   (C) whether the areas identified in the reports under paragraph (5) are appropriate for regulatory action, or further development of voluntary industry consensus standards, considering the progress evaluated in subparagraphs (A) and (B) of this paragraph.
 
-(9) **Learning period.—** — Beginning on January 1, 2025, the Secretary may propose regulations under this subsection without regard to subparagraphs (C) and (D) of paragraph (2). The development of any such regulations shall take into consideration the evolving standards of the commercial space flight industry as identified in the reports published under paragraphs (5), (6), and (7).
+(9) **Learning period.—** — Beginning on January 1, 2028, the Secretary may propose regulations under this subsection without regard to subparagraphs (C) and (D) of paragraph (2). The development of any such regulations shall take into consideration the evolving standards of the commercial space flight industry as identified in the reports published under paragraphs (5), (6), and (7).
 
 (10) **Rule of construction.—** — Nothing in this subsection shall be construed to limit the authority of the Secretary to issue requirements or regulations to protect the public health and safety, safety of property, national security interests, and foreign policy interests of the United States.
 
@@ -629,7 +629,9 @@ The date of enactment of the Commercial Space Launch Amendments Act of 2004, ref
 The date of enactment of the SPACE Act of 2015, referred to in subsec. (c)(6), is the date of enactment of title I of Pub. L. 114–90, which was approved Nov. 25, 2015.
 
 #### Amendments
-2024—Subsec. (c)(9). Pub. L. 118–63 substituted “January 1, 2025” for “May 11, 2024”.
+2024—Subsec. (c)(9). Pub. L. 118–159 substituted “January 1, 2028” for “January 1, 2025”.
+
+Pub. L. 118–63 substituted “January 1, 2025” for “May 11, 2024”.
 
 Pub. L. 118–41 substituted “May 11, 2024” for “March 9, 2024”.
 
@@ -1092,7 +1094,7 @@ Subsec. (d). Pub. L. 105–303, § 102(a)(11)(H), (I), substituted “or reentry
 
   (E) space flight participants.
 
-(5) Subparagraph (E) of paragraph (4) ceases to be effective September 30, 2025.
+(5) Subparagraph (E) of paragraph (4) ceases to be effective September 30, 2028.
 
 **(b) Reciprocal Waiver of Claims.—**
 
@@ -1108,7 +1110,7 @@ Subsec. (d). Pub. L. 105–303, § 102(a)(11)(H), (I), substituted “or reentry
 
     (iii) space flight participants.
 
-  (C) Clause (iii) of subparagraph (B) ceases to be effective September 30, 2025.
+  (C) Clause (iii) of subparagraph (B) ceases to be effective September 30, 2028.
 
 (2) The Secretary of Transportation shall make, for the Government, executive agencies of the Government involved in launch services or reentry services, and contractors and subcontractors involved in launch services or reentry services, a reciprocal waiver of claims with the licensee or transferee, contractors, subcontractors, crew, space flight participants, and customers of the licensee or transferee, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees or by space flight participants, resulting from an activity carried out under the applicable license. The waiver applies only to the extent that claims are more than the amount of insurance or demonstration of financial responsibility required under subsection (a)(1)(B) of this section. After consulting with the Administrator and the Secretary of the Air Force, the Secretary of Transportation may waive, for the Government and a department, agency, and instrumentality of the Government, the right to recover damages for damage or loss to Government property to the extent insurance is not available because of a policy exclusion the Secretary of Transportation decides is usual for the type of insurance involved.
 
@@ -1159,6 +1161,10 @@ In subsection (f), the words “department, agency, or instrumentality of the Go
 This amends 49:70112(a)(3)(B) to clarify a cross-reference in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1337).
 
 #### Amendments
+2024—Subsec. (a)(5). Pub. L. 118–159, § 5702(2)(A), substituted “September 30, 2028” for “September 30, 2025”.
+
+Subsec. (b)(1)(C). Pub. L. 118–159, § 5702(2)(B), substituted “September 30, 2028” for “September 30, 2025”.
+
 2015—Subsec. (a)(4)(E). Pub. L. 114–90, § 103(a)(1)(A), added subpar. (E).
 
 Subsec. (a)(5). Pub. L. 114–90, § 103(a)(1)(B), added par. (5).
@@ -1223,7 +1229,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
     (iv) a space flight participant.
 
-  (B) Clause (iv) of subparagraph (A) ceases to be effective September 30, 2025.
+  (B) Clause (iv) of subparagraph (A) ceases to be effective September 30, 2028.
 
 **(b) Notice, Participation, and Approval.—** Before a payment under subsection (a) of this section is made—
 
@@ -1295,7 +1301,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
   (D) an appeal from a decision of the chair related to the application of the rules of the Senate to the procedures related to a resolution.
 
-**(f) Application.—** This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than September 30, 2025. This section does not apply to permits.
+**(f) Application.—** This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than September 30, 2028. This section does not apply to permits.
 
 ### Statutory Notes
 
@@ -1341,6 +1347,10 @@ In subsection (f), the word “only” is omitted as surplus.
 This amends 49:70113(e)(6)(D) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1340).
 
 #### Amendments
+2024—Subsec. (a)(3)(B). Pub. L. 118–159, § 5702(3)(A) substituted “September 30, 2028” for “September 30, 2025”.
+
+Subsec. (f). Pub. L. 118–159, § 5702(3)(B), substituted “September 30, 2028” for “September 30, 2025”.
+
 2015—Subsec. (a)(1). Pub. L. 114–90, § 103(a)(2)(A), in introductory provisions, substituted “a person described in paragraph (3)(A)” for “a licensee or transferee under this chapter, a contractor, subcontractor, or customer of the licensee or transferee, or a contractor or subcontractor of a customer, but not against a space flight participant,”.
 
 Subsec. (a)(3). Pub. L. 114–90, § 103(a)(2)(B), added par. (3).
@@ -1735,3 +1745,61 @@ The Secretary of Transportation shall submit to Congress an annual report to acc
 
 #### Amendments
 2010—Pub. L. 111–314 successively renumbered [section 70121 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70121&num=0&edition=prelim) and [section 70121 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70121&num=0&edition=prelim) as this section.
+
+
+<a id="section-50924"></a>
+## § 50924. Space launch and reentry licensing and permitting user fees
+**(a) Fees.—**
+
+(1) **In general.—** — The Secretary of Transportation shall impose a fee, which shall be deposited in the account established under subsection (b), on each launch or reentry carried out under a license or permit issued under section 50904 during 2026 or a subsequent year, in an amount equal to the lesser of—
+
+  (A) the amount specified in paragraph (2) for the year involved per pound of the weight of the payload; or
+
+  (B) the amount specified in paragraph (3) for the year involved.
+
+(2) **Paragraph (2) specified amount.—** — The amount specified in this paragraph is—
+
+  (A) for 2026, $0.25;
+
+  (B) for 2027, $0.35;
+
+  (C) for 2028, $0.50;
+
+  (D) for 2029, $0.60;
+
+  (E) for 2030, $0.75;
+
+  (F) for 2031, $1;
+
+  (G) for 2032, $1.25;
+
+  (H) for 2033, $1.50; and
+
+  (I) for 2034 and each subsequent year, the amount specified in this paragraph for the previous year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) over the previous year.
+
+(3) **Paragraph (3) specified amount.—** — The amount specified in this paragraph is—
+
+  (A) for 2026, $30,000;
+
+  (B) for 2027, $40,000;
+
+  (C) for 2028, $50,000;
+
+  (D) for 2029, $75,000;
+
+  (E) for 2030, $100,000;
+
+  (F) for 2031, $125,000;
+
+  (G) for 2032, $170,000;
+
+  (H) for 2033, $200,000; and
+
+  (I) for 2034 and each subsequent year, the amount specified in this paragraph for the previous year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) over the previous year.
+
+**(b) Office of Commercial Space Transportation Launch and Reentry Licensing and Permitting Fund.—** There is established in the Treasury of the United States a separate account, which shall be known as the “Office of Commercial Space Transportation Launch and Reentry Licensing and Permitting Fund”, for the purposes of expenses of the Office of Commercial Space Transportation of the Federal Aviation Administration and to carry out section 630(b) of the FAA Reauthorization Act of 2024. 70 percent of the amounts deposited into the fund shall be available for such purposes and shall be available without further appropriation and without fiscal year limitation.
+
+### Statutory Notes
+
+#### References in Text
+Section 630(b) of the FAA Reauthorization Act of 2024, referred to in subsec. (b), is section 630(b) of Pub. L. 118–63, May 16, 2024, 138 Stat. 1245, which relates to funds for developing technology for space launch and reentry reintegration and is not classified to the Code.

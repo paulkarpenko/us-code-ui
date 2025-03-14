@@ -125,15 +125,15 @@ Pub. L. 93–64, title II, § 206, July 9, 1973, 87 Stat. 149, provided that: �
 
 **(b) Rates of Allowance Based on Food Costs.—**
 
-(1) The monthly rate of basic allowance for subsistence to be in effect for an enlisted member for a year (beginning on January 1 of that year) shall be equal to the sum of—
+(1)
 
-  (A) the monthly rate of basic allowance for subsistence that was in effect for an enlisted member for the preceding year; plus
+  (A) The monthly rate of basic allowance for subsistence to be in effect for an enlisted member for a year (beginning on January 1 of that year) shall be equal to the monthly cost of a liberal food plan for a male in the United States who is between 19 and 50 years of age, as determined by the Secretary of Agriculture on October 1 of the preceding year.
 
-  (B) the product of the monthly rate under subparagraph (A) and the percentage increase in the monthly cost of a liberal food plan for a male in the United States who is between 20 and 50 years of age over the preceding fiscal year, as determined by the Secretary of Agriculture each October 1.
+  (B) With respect to a member who is subject to monthly deduction from pay for meals under [section 1011(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section1011/b&num=0&edition=prelim), the amount payable under subparagraph (A) shall be reduced by the amount of such deduction from pay, in accordance with policies prescribed by the Secretary of Defense.
+
+  (C) The monthly rate of basic allowance for subsistence to be in effect for an enlisted member for a year under subparagraph (A) may not decrease relative to the rate in effect for the preceding year.
 
 (2) The monthly rate of basic allowance for subsistence to be in effect for an officer for a year (beginning on January 1 of that year) shall be the amount equal to the monthly rate of basic allowance for subsistence in effect for officers for the preceding year, increased by the same percentage by which the rate of basic allowance for subsistence for enlisted members for the preceding year is increased effective on such January 1.
-
-(3) For purposes of implementing paragraph (1), the monthly rate of basic allowance for subsistence that was in effect for an enlisted member for calendar year 2001 is deemed to be $233.
 
 **(c) Advance Payment.—** The allowance to an enlisted member may be paid in advance for a period of not more than three months.
 
@@ -191,6 +191,10 @@ In subsection (d), the reference in section 251(a) of existing title 37 to the a
 In subsection (e), the words “Effective April 15, 1955,” are omitted as executed. The words “United States” are substituted for the word “Government”. The words “messing facilities” are substituted for the word “messes” to conform to subsections (b) and (d).
 
 #### Amendments
+2025—Subsec. (b)(1). Pub. L. 119–60, § 621(a)(1)(A), added par. (1) and struck out former par. (1) which related to the monthly rate of basic allowance for subsistence to be in effect for an enlisted member.
+
+Subsec. (b)(3). Pub. L. 119–60, § 621(a)(1)(B), struck out par. (3) which read as follows: “For purposes of implementing paragraph (1), the monthly rate of basic allowance for subsistence that was in effect for an enlisted member for calendar year 2001 is deemed to be $233.”
+
 2008—Subsec. (h)(1). Pub. L. 110–417, § 602(1), struck out before period at end “during any month covered by paragraph (3) in which the member is entitled to a basic allowance for subsistence under this section”.
 
 Subsec. (h)(3). Pub. L. 110–417, § 602(2), struck out par. (3) which read as follows: “This subsection shall apply to months beginning during the period beginning on October 1, 2005, and ending on December 31, 2008.”
@@ -456,11 +460,7 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 604(b)], Oct. 30, 2000, 114 Stat
 
 (1) the member has completed initial entry training;
 
-(2)
-
-  (A) the gross household income of the member during the most recent calendar year did not exceed an amount equal to 150 percent of the Federal poverty guidelines of the Department of Health and Human Services for the location of the member and the number of individuals in the household of the member for such year; or
-
-  (B) if the Secretary concerned determines it appropriate (based on location, household need, or special circumstance), the gross household income of the member during the most recent calendar year did not exceed an amount equal to 200 percent of the Federal poverty guidelines of the Department of Health and Human Services for the location of the member and the number of individuals in the household of the member for such year; and
+(2) the gross household income of the member during the most recent calendar year did not exceed an amount equal to 200 percent of the Federal poverty guidelines of the Department of Health and Human Services for the location of the member and the number of individuals in the household of the member for such year; and
 
 (3) the member—
 
@@ -472,7 +472,7 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 604(b)], Oct. 30, 2000, 114 Stat
 
 (1)
 
-  (A) 150 percent (or, in the case of a member described in subsection (b)(2)(B), 200 percent) of the Federal poverty guidelines of the Department of Health and Human Services for the calendar year during which the allowance is paid based on the location of the member and the number of individuals in the household of the member during the month for which the allowance is paid; minus
+  (A) 200 percent of the Federal poverty guidelines of the Department of Health and Human Services for the calendar year during which the allowance is paid based on the location of the member and the number of individuals in the household of the member during the month for which the allowance is paid; minus
 
   (B) the gross household income of the member during the preceding calendar year; divided by
 
@@ -548,6 +548,10 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 604(b)], Oct. 30, 2000, 114 Stat
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsecs. (i) and (j)(1), is the date of enactment of Pub. L. 117–81, which was approved Dec. 27, 2021.
 
 #### Amendments
+2024—Subsec. (b)(2). Pub. L. 118–159, § 621(a), struck out subpar. (A) designation before “the gross household income”, substituted “200 percent” for “150 percent” and “; and” for “; or”, and struck out subpar. (B) which read as follows: “if the Secretary concerned determines it appropriate (based on location, household need, or special circumstance), the gross household income of the member during the most recent calendar year did not exceed an amount equal to 200 percent of the Federal poverty guidelines of the Department of Health and Human Services for the location of the member and the number of individuals in the household of the member for such year; and”.
+
+Subsec. (c)(1)(A). Pub. L. 118–159, § 621(b), substituted “200 percent” for “150 percent (or, in the case of a member described in subsection (b)(2)(B), 200 percent)”.
+
 2023—Subsec. (k)(1)(B). Pub. L. 118–31 inserted “or that otherwise has a demonstrated need” after “high cost of living”.
 
 2022—Pub. L. 117–328, § 201(a)(1), made technical amendment to directory language of Pub. L. 117–263, § 611(a). See Amendment notes below.
@@ -619,7 +623,7 @@ Pub. L. 117–263, div. A, title VI, § 611(b), Dec. 23, 2022, 136 Stat. 2622, p
 
   (D) Subject to subparagraph (E), an increase in the rates of basic allowance for housing in an area under this paragraph shall remain in effect until the effective date of the first adjustment in rates of basic allowance for housing made for the area pursuant to a redetermination of housing costs in the area under this subsection that occurs after the date of the increase under this paragraph.
 
-  (E) An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2024.
+  (E) An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2026.
 
 (8)
 
@@ -627,7 +631,7 @@ Pub. L. 117–263, div. A, title VI, § 611(b), Dec. 23, 2022, 136 Stat. 2622, p
 
   (B) Any temporary adjustment in BAH rates under this paragraph shall remain in effect only until the effective date of the first adjustment of BAH rates for the affected military housing area that occurs after the date of the adjustment under this paragraph.
 
-  (C) This paragraph shall cease to be effective on December 31, 2024.
+  (C) This paragraph shall cease to be effective on December 31, 2026.
 
 **(c) Basic Allowance for Housing Outside the United States.—**
 
@@ -691,17 +695,11 @@ Pub. L. 117–263, div. A, title VI, § 611(b), Dec. 23, 2022, 136 Stat. 2622, p
 
 (2)
 
-  (A) Except as provided in subparagraphs (B), (C), and (D), a member of a uniformed service without dependents who is in a pay grade below pay grade E–6 is not entitled to a basic allowance for housing while the member is on sea duty.
+  (A) Except as provided in subparagraphs (B) and (C), a member of a uniformed service without dependents who is in a pay grade below pay grade E–6 is not entitled to a basic allowance for housing while the member is on sea duty.
 
-  (B) Under regulations prescribed by the Secretary concerned, the Secretary may authorize the payment of a basic allowance for housing to a member of a uniformed service without dependents who is serving in pay grade E–4 or E–5 and is assigned to sea duty. In prescribing regulations under this subparagraph, the Secretary concerned shall consider the availability of quarters for members serving in pay grades E–4 and E–5.
+  (B) Under regulations prescribed by the Secretary concerned, the Secretary may authorize the payment of a basic allowance for housing to a member of a uniformed service without dependents who is serving in a pay grade below E–6 and is assigned to sea duty. In prescribing regulations under this subparagraph, the Secretary concerned shall consider the availability of quarters.
 
   (C) Notwithstanding [section 421 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-421), a member of a uniformed service in a pay grade below pay grade E–6 who is assigned to sea duty and is married to another member of a uniformed service is entitled to a basic allowance for housing subject to the limitations of subsection (e).
-
-  (D)
-
-    (i) Under regulations prescribed by the Secretary concerned, the Secretary may authorize the payment of a basic allowance for housing to a member of a uniformed service without dependents who is serving in a pay grade below E–6 and has orders to a naval vessel during a shipyard availability or maintenance period.
-
-    (ii) In prescribing regulations under clause (i), the Secretary concerned shall consider the availability of quarters for members serving in pay grades below E–6 before authorizing the payment of a basic allowance for housing for such members.
 
 (3) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, shall prescribe regulations defining the terms “field duty” and “sea duty” for purposes of this section.
 
@@ -874,6 +872,22 @@ In subsection (g), the word “including” is substituted for the words “and 
 The Servicemembers Civil Relief Act, referred to in subsec. (q), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 3901 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2025–Subsec. (b)(7)(E), (8)(C). Pub. L. 119–60 substituted “December 31, 2026” for “December 31, 2025”.
+
+2024—Subsec. (b)(7)(E). Pub. L. 118–159, § 611(e)(1), substituted “December 31, 2025” for “December 31, 2024”.
+
+Subsec. (b)(8)(C). Pub. L. 118–159, § 611(e)(2), which directed substitution of “December 31, 2025” for “September 30, 2024”, was executed by making the substitution for “December 31, 2024”, to reflect the probable intent of Congress.
+
+Subsec. (f)(2)(A). Pub. L. 118–159, § 622(1), substituted “subparagraphs (B) and (C),” for “subparagraphs (B), (C), and (D),”.
+
+Subsec. (f)(2)(B). Pub. L. 118–159, § 622(2), substituted “a pay grade below E–6” for “pay grade E–4 or E–5” and struck out “for members serving in pay grades E–4 and E–5” after “availability of quarters”.
+
+Subsec. (f)(2)(D). Pub. L. 118–159, § 622(3), struck out subpar. (D) which read as follows:
+
+“(i) Under regulations prescribed by the Secretary concerned, the Secretary may authorize the payment of a basic allowance for housing to a member of a uniformed service without dependents who is serving in a pay grade below E–6 and has orders to a naval vessel during a shipyard availability or maintenance period.
+
+“(ii) In prescribing regulations under clause (i), the Secretary concerned shall consider the availability of quarters for members serving in pay grades below E–6 before authorizing the payment of a basic allowance for housing for such members.”
+
 2023—Subsec. (b)(5). Pub. L. 118–31, § 622, substituted period at end for “and shall be based on the following:
 
 “(A) The average cost of a two-bedroom apartment in that military housing area.
@@ -902,7 +916,7 @@ Subsec. (g)(2). Pub. L. 117–263, § 626(h)(1)(B)(i), substituted “section 45
 
 Subsec. (g)(3). Pub. L. 117–263, § 626(h)(1)(B)(ii), substituted “section 453(c)” for “section 476”.
 
-Subsec. (m) to (o). Pub. L. 117–263, § 613(a), added subsec. (m) and redesignated former subsecs. (m) and (n) as (n) and (o). Former subsec. (o) redesignated (p).
+Subsecs. (m) to (o). Pub. L. 117–263, § 613(a), added subsec. (m) and redesignated former subsecs. (m) and (n) as (n) and (o). Former subsec. (o) redesignated (p).
 
 Subsec. (p). Pub. L. 117–263, §§ 613(a), 614, redesignated subsec. (o) as (p), substituted “Certain” for “Low-Cost and No-Cost” in heading, designated existing provisions as par. (1), and added par. (2). Former subsec. (p) redesignated (q).
 
@@ -1288,6 +1302,9 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Improvements to Basic Allowance for Housing
+Pub. L. 119–60, div. A, title VI, § 624, Dec. 18, 2025, 139 Stat. 909, provided that: “(a) Increasing Awareness.—The Secretary of Defense shall seek to improve transparency of the calculation of BAH by—“(1) developing a clear, accessible document that explains how rates of BAH are determined, including methodology and types of data sources used, which shall be—“(A) reviewed and updated not less frequently than annually and as rates and calculation methods change; and “(B) made available on a publicly accessible internet website and distributed across all relevant components of the Department of Defense; and “(2) providing to members of the Armed Forces when such members experience a permanent change of station, permanent change of assignment, change in dependency status, change in grade, or any other event that may impact the eligibility of such members for or rate of BAH—“(A) the information included in the document developed under paragraph (1); and “(B) an explanation of the type of rental housing the rate of BAH received by such members is intended to support in each locality. “(b) Study to Evaluate Alternative Rate Calculation.—“(1) Study.—“(A) In general.—Not later than September 30, 2026, the Secretary of Defense shall seek to enter into an agreement with a covered entity to conduct a study in which the covered entity—“(i) assesses the adequacy of the current BAH for MHAs selected under paragraph (3), including a review of the commuting times and distances of members of the Armed Forces and the overall affordability of housing in such MHAs; “(ii) reviews existing methods of calculating BAH and proposes methods of calculating BAH described in paragraph (2) for MHAs selected under paragraph (3) that are more efficient and accurate than such existing methods, as appropriate; and “(iii) evaluates the feasibility and advisability of using machine learning and artificial intelligence in the calculation of BAH and, if feasible and advisable, incorporates machine learning and artificial intelligence into the proposed methods described in clause (i). “(B) Rule of construction.—During the study conducted in accordance with subparagraph (A), the Secretary shall pay BAH in MHAs selected under paragraph (3) at rates prescribed under [section 403 of title 37](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-403), United States Code. “(2) Proposed monthly rates.—A proposed monthly rate of BAH described in this paragraph—“(A) accurately reflects housing prices in the MHA subject to such rate; and “(B) is sufficient for military families who reside in such MHA to procure adequate and affordable housing. “(3) Mhas.—The Secretary shall select not fewer than 15 MHAs for the covered entity to evaluate in the study conducted in accordance with paragraph (1). In selecting MHAs for evaluation under such study, the Secretary shall consider factors including the following:“(A) Variety of geographic location. “(B) The ranks of members who reside in an MHA. “(C) Whether members who reside in an MHA have dependents. “(D) Economic factors including inflation, cost of living, and the cost of private mortgage insurance. “(4) Completion.—An agreement entered into under paragraph (1)(A) shall require the study conducted under such agreement to be completed not later than the date that is three years after the date on which the Secretary and the covered entity enter into such agreement. “(5) Annual briefings.—Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], and on an annual basis thereafter until the completion of the study conducted in accordance with paragraph (1), the Secretary shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the status of the study under this section. “(6) Report.—Not later than 120 days after the date of the completion of the study conducted in accordance with paragraph (1), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the results of such study. Such report shall include—“(A) an evaluation by the Secretary of the proposed methods of calculating BAH by a covered entity pursuant to an agreement under paragraph (1); and “(B) any recommendations of the Secretary for legislation to improve the methods of calculating BAH based on the study. “(c) Definitions.—In this section:“(1) The term ‘BAH’ means the basic allowance for housing for members of the uniformed services under [section 403 of title 37](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-403), United States Code. “(2) The term ‘covered entity’ means an entity or combination of entities—“(A) with combined expertise in data analysis and machine learning and access to relevant data on local rental rates in real estate markets in the MHAs selected under subsection (b)(3); and “(B) that has not participated in anticompetitive price-fixing in a real estate market. “(3) The term ‘MHA’ means military housing area.”
+
 #### Special Rule
 Pub. L. 113–291, div. A, title VI, § 604(b), Dec. 19, 2014, 128 Stat. 3399, which provided that reduction in housing allowance authorized by [section 403(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403/b/3&num=0&edition=prelim), as amended by Pub. L. 113–291, was not applicable with respect to certain benefits paid by the Secretary of Veterans Affairs and such benefits would be subject to section 403(b)(3) as it read the day before Dec. 19, 2014, was repealed by Pub. L. 115–48, title V, § 501(a), Aug. 16, 2017, 131 Stat. 996.
 
@@ -1503,7 +1520,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### OCONUS Cost of Living Allowance: Adjustments; Notice to Certain Congressional Committees
-Pub. L. 117–263, div. A, title VI, § 617, Dec. 23, 2022, 136 Stat. 2624, as amended by Pub. L. 118–31, div. A, title VI, § 627, Dec. 22, 2023, 137 Stat. 294, provided that: “(a) Reductions.—The Secretary of Defense may reduce an OCONUS COLA in accordance with this subsection.“(1) Frequency.—The Secretary may not announce a reduction to an OCONUS COLA for a location outside the continental United States more than twice per calendar year. “(2) Maximum reduction.—A reduction to an OCONUS COLA may not exceed the lesser of—“(A) 10 OCONUS COLA index points; or “(B) the number of OCONUS COLA index points by which the cost of living of the permanent duty station of the covered member exceeds the average cost of living index in the continental United States. “(3) Limitations.—Paragraphs (1) and (2) shall not apply to a reduction on the basis of—“(A) a change in the rate of exchange of foreign currencies; or “(B) a permanent change of station for a covered member. “(4) Implementation.—The Secretary may phase in a reduction under this subsection. “(b) Increases.—The Secretary may increase an OCONUS COLA at any time. “(c) Reporting.—Not later than February 1 of each year, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report regarding reductions and increases to OCONUS COLAs during the previous calendar year. Such report shall include the following elements:“(1) The areas outside the continental United States subject to such a reduction or increase. “(2) The previous and new amounts of an adjusted OCONUS COLA for a member with three dependents, 10 years of service, and in grade—“(A) E-6; and “(B) O-4. “(3) The number of OCONUS COLA index points by which a new OCONUS COLA index differs from such previous index. “(4) The number of members of the uniformed services affected by each such reduction or increase. “(5) The assessment of the Secretary of the calculation of an OCONUS COLA. In making such assessment, the Secretary shall consider factors including—“(A) Costs of local transportation in the area surrounding the duty station of a member. “(B) Costs of travel from such duty station to the United States. “(C) Other costs the Secretary determines appropriate. “(d) Definitions.—In this section:“(1) The term “continental United States” has the meaning given such term in [section 101 of title 37](./chapter-001-definitions.md#section-101), United States Code. “(2) The term “covered member” means a member of the uniformed services—“(A) who is assigned to a permanent duty station located outside the continental United States; or “(B) whose dependents reside outside the continental United States but not withing the vicinity to permanent duty station of such member. “(3) The term “OCONUS COLA” means a cost-of-living allowance paid to a member of the uniformed services on the basis that such member is a covered member. “(4) The term “OCONUS COLA index” means the index computed by the Secretary of the weighted average prices of goods and services (excluding housing costs) in a location outside the continental United States, relative to the weighted average of prices of the same goods and services in the continental United States. “(5) The term “OCONUS COLA index point” means 1 percent of the OCONUS COLA index for the weighted average prices of goods and services (excluding housing costs) in a location in the continental United States.”
+Pub. L. 117–263, div. A, title VI, § 617, Dec. 23, 2022, 136 Stat. 2624, as amended by Pub. L. 118–31, div. A, title VI, § 627, Dec. 22, 2023, 137 Stat. 294, provided that: “(a) Reductions.—The Secretary of Defense may reduce an OCONUS COLA in accordance with this subsection.“(1) Frequency.—The Secretary may not announce a reduction to an OCONUS COLA for a location outside the continental United States more than twice per calendar year. “(2) Maximum reduction.—A reduction to an OCONUS COLA may not exceed the lesser of—“(A) 10 OCONUS COLA index points; or “(B) the number of OCONUS COLA index points by which the cost of living of the permanent duty station of the covered member exceeds the average cost of living index in the continental United States. “(3) Limitations.—Paragraphs (1) and (2) shall not apply to a reduction on the basis of—“(A) a change in the rate of exchange of foreign currencies; or “(B) a permanent change of station for a covered member. “(4) Implementation.—The Secretary may phase in a reduction under this subsection. “(b) Increases.—The Secretary may increase an OCONUS COLA at any time. “(c) Reporting.—Not later than February 1 of each year, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report regarding reductions and increases to OCONUS COLAs during the previous calendar year. Such report shall include the following elements:“(1) The areas outside the continental United States subject to such a reduction or increase. “(2) The previous and new amounts of an adjusted OCONUS COLA for a member with three dependents, 10 years of service, and in grade—“(A) E-6; and “(B) O-4. “(3) The number of OCONUS COLA index points by which a new OCONUS COLA index differs from such previous index. “(4) The number of members of the uniformed services affected by each such reduction or increase. “(5) The assessment of the Secretary of the calculation of an OCONUS COLA. In making such assessment, the Secretary shall consider factors including—“(A) Costs of local transportation in the area surrounding the duty station of a member. “(B) Costs of travel from such duty station to the United States. “(C) Other costs the Secretary determines appropriate. “(d) Definitions.—In this section:“(1) The term ‘continental United States’ has the meaning given such term in [section 101 of title 37](./chapter-001-definitions.md#section-101), United States Code. “(2) The term ‘covered member’ means a member of the uniformed services—“(A) who is assigned to a permanent duty station located outside the continental United States; or “(B) whose dependents reside outside the continental United States but not withing the vicinity to permanent duty station of such member. “(3) The term ‘OCONUS COLA’ means a cost-of-living allowance paid to a member of the uniformed services on the basis that such member is a covered member. “(4) The term ‘OCONUS COLA index’ means the index computed by the Secretary of the weighted average prices of goods and services (excluding housing costs) in a location outside the continental United States, relative to the weighted average of prices of the same goods and services in the continental United States. “(5) The term ‘OCONUS COLA index point’ means 1 percent of the OCONUS COLA index for the weighted average prices of goods and services (excluding housing costs) in a location in the continental United States.”
 
 #### Conditions on Provision of Allowance
 Pub. L. 103–337, div. A, title VI, § 602(b), Oct. 5, 1994, 108 Stat. 2781, provided that: “(1) A cost-of-living allowance under [section 403b of title 37](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-403b), United States Code, as added by subsection (a), may not be provided until after the end of the 90-day period beginning on the date the Secretary of Defense submits the report required under paragraph (2). “(2) Before implementing [section 403b of title 37](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-403b), United States Code, the Secretary of Defense, in consultation with the other administering Secretaries (as defined in subsection (h)(6) [probably should be (i)(5)] of such section), shall submit to Congress a report describing—“(A) the methods by which the Secretary of Defense would determine the price index to be used under such section and the types of nonhousing related costs that will be considered under such price index; “(B) the manner by which the Secretary will establish the threshold percentage for purposes of such section; “(C) the manner in which savings attributable to use of such military facilities as commissary stores, exchange stores, and military medical treatment facilities will be taken into consideration; and “(D) the methods by which the Secretary proposes to prevent uncontrolled growth in Government expenditures through the cost-of-living allowance available under such section.”
@@ -1755,7 +1772,7 @@ Pub. L. 100–180, div. A, title XIII, § 1314(e)(2), Dec. 4, 1987, 101 Stat. 11
 
 (5) $4,000 a year, in place of any other personal money allowance authorized by this section, while serving as Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Chief of Space Operations, Commandant of the Coast Guard, or Chief of the National Guard Bureau.
 
-**(b) Allowance for Senior Enlisted Members.—** In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the senior enlisted advisor of the Space Force, the Master Chief Petty Officer of the Coast Guard, the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau.
+**(b) Allowance for Senior Enlisted Members.—** In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the Chief Master Sergeant of the Space Force, the Master Chief Petty Officer of the Coast Guard, the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau.
 
 ### Statutory Notes
 
@@ -1768,6 +1785,8 @@ Pub. L. 100–180, div. A, title XIII, § 1314(e)(2), Dec. 4, 1987, 101 Stat. 11
 In subsection (b), the words “pay or” are inserted to conform to subsection (a). The word “position” is substituted for the words “capacities” and “officers”, respectively. In clause (1), the words “Superintendent of the Naval Postgraduate School” are substituted for the words “Head of the Postgraduate school at the Naval Academy” to reflect present terminology.
 
 #### Amendments
+2024—Subsec. (b). Pub. L. 118–159 substituted “the Chief Master Sergeant of the Space Force” for “the senior enlisted advisor of the Space Force”.
+
 2021—Subsec. (a)(5). Pub. L. 116–283, § 925(e)(1)(A), inserted “Chief of Space Operations,” after “Commandant of the Marine Corps,”.
 
 Subsec. (b). Pub. L. 116–283, § 925(e)(1)(B), inserted “the senior enlisted advisor of the Space Force,” after “Sergeant Major of the Marine Corps,”.
@@ -1900,7 +1919,7 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 <a id="section-416"></a>
 ## § 416. Uniform allowance: officers; additional allowances
-**(a)** In addition to the allowance provided by [section 415 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-415), a reserve officer of an armed force, an officer of the Army or the Air Force without specification of component, or a regular officer of an armed force appointed under section 2106 or 2107 of title 10 is entitled to not more than $200 as reimbursement for additional uniforms and equipment required on that duty, for each time that the officer enters on active duty for a period of more than 90 days.
+**(a)** In addition to the allowance provided by [section 415 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-415), a reserve officer of an armed force, an officer of the Army or the Air Force without specification of component, an officer of the Space Force not on sustained duty, or a regular officer of an armed force appointed under section 2106 or 2107 of title 10 is entitled to not more than $200 as reimbursement for additional uniforms and equipment required on that duty, for each time that the officer enters on active duty for a period of more than 90 days.
 
 **(b)** Subsection (a) does not apply to a tour of active duty if—
 
@@ -1920,6 +1939,8 @@ In subsection (a), the words “In addition to the initial uniform allowance aut
 In subsection (b), the introductory clause is substituted for the word “further”. The words “of an armed force” and “of the Army, or the Air Force, without specification of component” are inserted for the reasons stated in the revision note for section 415(a) of this revised title. Clauses (1) and (2) are substituted for section 255(c) (provisos) of existing title 37.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–60 inserted “an officer of the Space Force not on sustained duty,” after “of component,”.
+
 2001—Subsec. (b)(1). Pub. L. 107–107 substituted “$400” for “$200”.
 
 2000—Subsec. (a). Pub. L. 106–398 substituted “$200” for “$100”.
@@ -1946,7 +1967,7 @@ Amendment by Pub. L. 106–398 effective Oct. 1, 2000, see section 1 [[div. A], 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
 
 #### One-Time Uniform Allowance for Officers Who Transfer to the Space Force
-Pub. L. 116–283, div. A, title VI, § 606, Jan. 1, 2021, 134 Stat. 3672, as amended by Pub. L. 117–263, div. A, title VI, § 616, Dec. 23, 2022, 136 Stat. 2624; Pub. L. 118–31, div. A, title VI, § 628, Dec. 22, 2023, 137 Stat. 295, provided that: “(a) In General.—The Secretary of the Air Force may provide an officer who transfers from the Army, Navy, Air Force, or Marine Corps to the Space Force an allowance of not more than $400 as reimbursement for the purchase of required uniforms and equipment. “(b) Relationship to Other Allowances.—The allowance under this section is in addition to any allowance available under any other provision of law. “(c) Source of Funds.—Funds for allowances provided under subsection (a) in a fiscal year may be derived only from amounts authorized to be appropriated for military personnel of the Space Force for such fiscal year. “(d) Applicability.—The authority for an allowance under this section shall apply with respect to any officer described in subsection (a) who transfers to the Space Force—“(1) during the period beginning on December 20, 2019, and ending on September 30, 2025; and “(2) on or after the date the Secretary of the Air Force prescribes the official uniform for the Space Force.”
+Pub. L. 116–283, div. A, title VI, § 606, Jan. 1, 2021, 134 Stat. 3672, as amended by Pub. L. 117–263, div. A, title VI, § 616, Dec. 23, 2022, 136 Stat. 2624; Pub. L. 118–31, div. A, title VI, § 628, Dec. 22, 2023, 137 Stat. 295; Pub. L. 118–159, div. A, title VI, § 625, Dec. 23, 2024, 138 Stat. 1934, provided that: “(a) In General.—The Secretary of the Air Force may provide an officer who transfers from the Army, Navy, Air Force, or Marine Corps to the Space Force an allowance of not more than $400 as reimbursement for the purchase of required uniforms and equipment. “(b) Relationship to Other Allowances.—The allowance under this section is in addition to any allowance available under any other provision of law. “(c) Source of Funds.—Funds for allowances provided under subsection (a) in a fiscal year may be derived only from amounts authorized to be appropriated for military personnel of the Space Force for such fiscal year. “(d) Applicability.—The authority for an allowance under this section shall apply with respect to any officer described in subsection (a) who transfers to the Space Force—“(1) during the period beginning on December 20, 2019, and ending on the last day of the transition period as defined in section 1731 of the Space Force Personnel Management Act (title XVII of Public Law 118–31; [10 U.S.C. 20001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20001&num=0&edition=prelim) note); and “(2) on or after the date the Secretary of the Air Force prescribes the official uniform for the Space Force.”
 
 #### Save Pay Provision
 Pub. L. 101–189, div. A, title VI, § 663(b), Nov. 29, 1989, 103 Stat. 1465, provided that: “An officer of an armed force who, but for the amendments made by subsection (a) [amending this section], would have become entitled to a uniform reimbursement under [section 416(a) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section416/a&num=0&edition=prelim), United States Code, before the end of the one-year period beginning on the date of the enactment of this Act [Nov. 29, 1989] shall be entitled (during such one-year period) to receive such reimbursement under such section as in effect on the day before the date of the enactment of this Act.”
@@ -2288,7 +2309,7 @@ Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480, provided for payment to 
 ## § 427. Family separation allowance
 **(a) Entitlement to Allowance.—**
 
-(1) In addition to any allowance or per diem to which he otherwise may be entitled under this title a member of a uniformed service with dependents is entitled to a monthly allowance of not less than $250, and not more than $400, if—
+(1) In addition to any allowance or per diem to which he otherwise may be entitled under this title a member of a uniformed service with dependents is entitled to a monthly allowance of not less than $300, and not more than $400, if—
 
   (A) the movement of his dependents to his permanent station or a place near that station is not authorized at the expense of the United States under [section 452 of this title](./chapter-008-travel-and-transportation-allowances.md#section-452) and his dependents do not reside at or near that station;
 
@@ -2323,6 +2344,8 @@ Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480, provided for payment to 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–60 substituted “$300” for “$250” in introductory provisions.
+
 2023—Subsec. (a)(1). Pub. L. 118–31 substituted “of not less than $250, and not more than $400,” for “equal to $250” in introductory provisions.
 
 2022—Subsec. (a)(1)(A). Pub. L. 117–263, § 626(h)(4)(A), substituted “section 452” for “section 476”.

@@ -2,7 +2,7 @@
 title: 31
 chapter: '11'
 heading: 'THE BUDGET AND FISCAL, BUDGET, AND PROGRAM INFORMATION'
-section_count: 26
+section_count: 25
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31&num=0&edition=prelim
 ---
@@ -32,6 +32,11 @@ In this chapter—
 In the section, a reference to 31:71 and 471 is omitted because the definitions in the section are not used in 31:71 and 471.
 
 In clause (1), “agency” (which is defined for purposes of this title in section 101 to mean a department, agency, or instrumentality of the United States) is coextensive with and substituted for the term “department or establishment” which was defined in 31:2 as in part meaning “any executive department, independent commission, board, bureau, office, agency, or other establishment of the Government, including any independent regulatory commission or board”. This definition merely restates and continues, and does not in any way change or expand, the definition in 31:2. Under that definition, entities such as the Tennessee Valley Authority that have been interpreted to be outside the purview of the definition will continue to be outside the purview in the same manner and to the same extent that they were under 31:2. The words “includes the District of Columbia government” are used because of existing law but the inclusion of these words is not to be interpreted as construing the extent to which the District of Columbia Self-Government and Governmental Reorganizational Act (Pub. L. 93–198, 87 Stat. 774) supersedes the provisions codified in this title. The words “of the United States” are omitted as surplus. The text of 31:2(2d–4th pars.) is omitted as unnecessary because of the restatement. The text of section 2(3d par.) of the Budget and Accounting Act, 1921 (ch. 18, 42 Stat. 20), is omitted as obsolete because of section 501 of the revised title.
+
+#### Short Title of 2024 Amendment
+Pub. L. 118–190, § 1, Dec. 23, 2024, 138 Stat. 2653, provided that: “This Act [amending sections 1115, 1116, 1120 to 1122, and 9704 of this title and [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees, and repealing sections 1118 and 1119 of this title] may be cited as the ‘Federal Agency Performance Act of 2024’.”
+
+Pub. L. 118–172, § 1, Dec. 23, 2024, 138 Stat. 2593, provided that: “This Act [amending sections 1105 and 1125 of this title, enacting provisions set out as a note under [section 1125 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1125), and amending provisions set out as a note preceding [section 4101 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section4101&num=0&edition=prelim), Public Printing and Documents] may be cited as the ‘Eliminate Useless Reports Act of 2024’.”
 
 #### Short Title of 2022 Amendment
 Pub. L. 117–263, div. E, title LIII, § 5303(a), Dec. 23, 2022, 136 Stat. 3250, provided that: “This section [amending [section 1115 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1115)] may be cited as the ‘Performance Enhancement Reform Act’.”
@@ -319,8 +324,6 @@ Sec. 8. [Revoked by Ex. Ord. No. 12318, Aug. 21, 1981, 46 F.R. 42833.]
 
 (38) a separate statement for the Crow Settlement Fund established under section 411 of the Crow Tribe Water Rights Settlement Act of 2010, which shall include the estimated amount of deposits into the Fund, obligations, and outlays from the Fund.
 
-(39) the list of plans and reports, as provided for under section 1125, that agencies identified for elimination or consolidation because the plans and reports are determined outdated or duplicative of other required plans and reports.
-
 **(b)** Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 
 **(c)** The President shall recommend in the budget appropriate action to meet an estimated deficiency when the estimated receipts for the fiscal year for which the budget is submitted (under laws in effect when the budget is submitted) and the estimated amounts in the Treasury at the end of the current fiscal year available for expenditure in the fiscal year for which the budget is submitted, are less than the estimated expenditures for that year. The President shall make recommendations required by the public interest when the estimated receipts and estimated amounts in the Treasury are more than the estimated expenditures.
@@ -542,6 +545,8 @@ Section 3 of the Federal Funding Accountability and Transparency Act of 2006, re
 The date of enactment of this subsection, referred to in subsec. (i)(2)(B), is the date of enactment of Pub. L. 117–40, which was approved Sept. 24, 2021.
 
 #### Amendments
+2024—Subsec. (a)(39). Pub. L. 118–172 struck out par. (39) which read as follows: “the list of plans and reports, as provided for under section 1125, that agencies identified for elimination or consolidation because the plans and reports are determined outdated or duplicative of other required plans and reports.”
+
 2022—Subsec. (a)(25). Pub. L. 117–286 substituted “[section 401 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section401&num=0&edition=prelim).” for “section 11(2) of the Inspector General Act of 1978.”
 
 2021—Subsec. (i). Pub. L. 117–40 added subsec. (i).
@@ -1170,7 +1175,7 @@ Pub. L. 106–181, title I, § 163, Apr. 5, 2000, 114 Stat. 91, provided that: �
 
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 209(e)], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 (Public Law 104–66; [31 U.S.C. 1113](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1113) note) does not apply to any report required to be submitted under any of the following provisions of law: “(1) Section 1205 of the International Security and Development Cooperation Act of 1985 (Public Law 99–83; [22 U.S.C. 2346](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2346&num=0&edition=prelim) note) (relating to annual reports on economic conditions in Egypt, Israel, Turkey, and Portugal). “(2) Section 1307(f)(1)(A) of the International Financial Institutions Act [[22 U.S.C. 262m–7(f)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section262m–7/f/1/A&num=0&edition=prelim)] (Public Law 95–118) (relating to an assessment of the environmental impact of proposed multilateral development bank actions). “(3) Section 118(f) of the Foreign Assistance Act of 1961 (Public Law 87–195; [22 U.S.C. 2151p–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151p–1&num=0&edition=prelim) [(f)]) (relating to the protection of tropical forests). “(4) Section 586J(c)(4) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1991 (Public Law 101–513 [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note]) (relating to sanctions taken by other nations against Iraq). “(5) Section 3 of the Authorization for Use of Military Force Against Iraq Resolution (Public Law 102–1; 105 Stat. 3 [[50 U.S.C. 1541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) note]) (relating to the status of efforts to obtain Iraqi compliance with United Nations Security Council resolutions). “(6) Section 124 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (Public Law 100–204; [22 U.S.C. 2680](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2680&num=0&edition=prelim) note) (relating to expenditures for emergencies in the diplomatic and consular service). “(7) Section 620C(c) of the Foreign Assistance Act of 1961 (Public Law 87–195; [22 U.S.C. 2373(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2373/c&num=0&edition=prelim)) (relating to progress made toward the conclusion of a negotiated solution to the Cyprus problem). “(8) Section 533(b) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 19991 [1991] (Public Law 101–513 [104 Stat. 2013]) (relating to international natural resource management initiatives). “(9) Section 3602 of the Omnibus Trade and Competitiveness Act of 1988 (Public Law 100–418; [22 U.S.C. 5352](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5352&num=0&edition=prelim)) (relating to foreign treatment of United States financial institutions). “(10) Section 1702 of the International Financial Institutions Act (Public Law 95–118; [22 U.S.C. 262r](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section262r&num=0&edition=prelim)-1) (relating to operating summaries of the multilateral development banks). “(11) Section 1303(c) of the International Financial Institutions Act (Public Law 95–118; [22 U.S.C. 262m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section262m&num=0&edition=prelim)-2(c)) (relating to international environmental assistance programs). “(12) Section 1701(a) of the International Financial Institutions Act (Public Law 95–118; [22 U.S.C. 262r](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section262r&num=0&edition=prelim)) (relating to United States participation in international financial institutions). “(13) Section 163(a) of the Trade Act of 1974 (Public Law 93–618; [19 U.S.C. 2213](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2213&num=0&edition=prelim)) (relating to the trade agreements program and national trade policy agenda). “(14) Section 8 of the Export-Import Bank Act (Public Law 79–173; [12 U.S.C. 635g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635g&num=0&edition=prelim)) (relating to Export-Import Bank activities). “(15) Section 407(f) of the Food for Peace Act (Public Law 83–480; [7 U.S.C. 1736a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1736a&num=0&edition=prelim)) (relating to Public Law 480 programs and activities). “(16) Section 239(c) of the Foreign Assistance Act of 1961 (Public Law 87–195; [former] [22 U.S.C. 2199(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2199/c&num=0&edition=prelim)) (relating to OPIC audit report). “(17) Section 504(i) of the National Endowment for Democracy Act (Public Law 98–164; [22 U.S.C. 4413(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4413/i&num=0&edition=prelim)) (relating to the activities of the National Endowment for Democracy). “(18) Section 5(b) of the Japan-United States Friendship Act (Public Law 94–118; [22 U.S.C. 2904(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2904/b&num=0&edition=prelim)) (relating to Japan-United States Friendship Commission activities).”
 
-Pub. L. 106–65, div. A, title X, § 1031, Oct. 5, 1999, 113 Stat. 749, as amended by Pub. L. 115–232, div. A, title VIII, § 813(i)(2), Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–283, div. G, title LVXXXVI [LXXXVI], § 8605(b)(3), Jan. 1, 2021, 134 Stat. 4765, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 [Pub. L. 104–66] ([31 U.S.C. 1113](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1113) note) does not apply to any report required to be submitted under any of the following provisions of law: “(1) The following sections of title 10, United States Code: sections 113, 115a, 116, 139(f) [now 139(g)], 221, [former] 226, 401(d), [former] 662(b), 946, [former] 1464(c), [former] 2006(e)(3), 2010, 2011(e), 2391(c), 2431(a), 2432, 2457(d), 2461(g), 2537, 2662(b), 2706, 2859, 2861, 2902(g)(2), 4542(g)(2), 7424(b), 7425(b), 7431(c), 10541, 12302(d), and 16137. “(2) Section 1121(f) of the National Defense Authorization Act for Fiscal Year 1988 and 1989 (Public Law 100–180; [10 U.S.C. 113](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113&num=0&edition=prelim) note). “(3) Section 1405 of the Defense Dependents’ Education Act of 1978 ([20 U.S.C. 924](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section924&num=0&edition=prelim)). “(4) Section 1411(b) of the Barry Goldwater Scholarship and Excellence in Education Act ([20 U.S.C. 4710(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section4710/b&num=0&edition=prelim)). “(5) Section 1097 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 [Pub. L. 102–190] ([22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) note). “(6) Section 30A(d) of the Arms Export Control Act ([22 U.S.C. 2770a(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2770a/d&num=0&edition=prelim)). “(7) Sections 1516(f) and 1518(c) of the Armed Forces Retirement Home Act of 1991 (Public Law 101–510; [24 U.S.C. 416(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title24-section416/f&num=0&edition=prelim), 418(c)). “(8) Sections 3554(e)(2) and [former] 9503(a) of title 31, United States Code. “(9) [Section 300110(b) of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section300110/b&num=0&edition=prelim), United States Code. “(10) Sections 301a(f) and 1008 of title 37, United States Code. “(11) [Section 8111(f) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8111/f&num=0&edition=prelim), United States Code. “(12) Section 205(b) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486/b&num=0&edition=prelim)) [now [40 U.S.C. 121(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section121/b&num=0&edition=prelim)]. “(13) Section 3732 of the Revised Statutes, popularly known as the ‘Food and Forage Act’ ([former] [41 U.S.C. 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section11&num=0&edition=prelim)) [now [41 U.S.C. 6301(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6301/a&num=0&edition=prelim), (b)]. “(14) Section 101(b)(6) of the Uniformed and Overseas Citizens Absentee Voting Act ([former] [42 U.S.C. 1973ff(b)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ff/b/6&num=0&edition=prelim)) [now [52 U.S.C. 20301(b)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20301/b/6&num=0&edition=prelim)]. “(15) Section 1436(e) of the National Defense Authorization Act, Fiscal Year 1989 (Public Law 100–456; [former] [42 U.S.C. 2121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2121&num=0&edition=prelim) note). “(16) Section 165 of the Energy Policy and Conservation Act ([42 U.S.C. 6245](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6245&num=0&edition=prelim)). “(17) Section 603(e) of the National Science and Technology Policy, Organization, and Priorities Act of 1976 ([former] [42 U.S.C. 6683(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6683/e&num=0&edition=prelim)). “(18) Section 822(b) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 ([42 U.S.C. 6687(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6687/b&num=0&edition=prelim)). “(19) Section 208 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1979 ([former] [42 U.S.C. 7271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7271&num=0&edition=prelim)). “(20) Section 3134 of the National Defense Authorization Act for Fiscal Year 1991 ([42 U.S.C. 7274c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7274c&num=0&edition=prelim) [now [50 U.S.C. 2587](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2587&num=0&edition=prelim)]). “(21) Section 3135 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 ([42 U.S.C. 7274g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7274g&num=0&edition=prelim)). “(22) Section 12 of the Act of March 9, 1920 (popularly known as the ‘Suits in Admiralty Act’) (46 App. U.S.C. 752) [now [46 U.S.C. 30918](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section30918&num=0&edition=prelim)]. “(23) Sections 44106(a) [probably should be “46106(a)”] and 55305(d) of title 46, United States Code. “(24) Sections 11 and 14 of the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98h–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–2&num=0&edition=prelim), 98h–5). “(25) Section 108 of the National Security Act of 1947 ([former] [50 U.S.C. 404a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section404a&num=0&edition=prelim)) [now [50 U.S.C. 3043](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3043&num=0&edition=prelim)]. “(26) Section 4 of the Act entitled ‘An Act to authorize the making, amending, and modification of contracts to facilitate the national defense’, approved August 28, 1958 ([former] [50 U.S.C. 1434](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1434&num=0&edition=prelim)). “(27) Section 1412(g) of the Department of Defense Authorization Act, 1986 ([50 U.S.C. 1521(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1521/g&num=0&edition=prelim)). “(28) Section 3 of the Authorization for Use of Military Force Against Iraq Resolution [Pub. L. 102–1] ([50 U.S.C. 1541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) note). “(29) Sections 202(d) and 401(c) of the National Emergencies Act ([50 U.S.C. 1622(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1622/d&num=0&edition=prelim), 1641(c)). “(30) Section 10(g) of the Military Selective Service Act (50 U.S.C. App. 460(g)) [now [50 U.S.C. 3809(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3809/g&num=0&edition=prelim)]. “(31) Section 708 of the Defense Production Act of 1950 (50 U.S.C. App. 2158) [now [50 U.S.C. 4558](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4558&num=0&edition=prelim)]. “[(32) Repealed. Pub. L. 115–232, div. A, title VIII, § 813(i)(2), Aug. 13, 2018, 132 Stat. 1852.] “(33) Section 704 of the Military Construction Authorization Act, 1982 (Public Law 97–99; 95 Stat. 1377). “(34) Section 113(b) of the National Defense Authorization Act for Fiscal Year 1990 and 1991 (Public Law 101–189; 103 Stat. 1373).”
+Pub. L. 106–65, div. A, title X, § 1031, Oct. 5, 1999, 113 Stat. 749, as amended by Pub. L. 115–232, div. A, title VIII, § 813(i)(2), Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–283, div. G, title LVXXXVI [LXXXVI], § 8605(b)(3), Jan. 1, 2021, 134 Stat. 4765, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 [Pub. L. 104–66] ([31 U.S.C. 1113](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1113) note) does not apply to any report required to be submitted under any of the following provisions of law: “(1) The following sections of title 10, United States Code: sections 113, 115a, 116, 139(f) [now 139(g)], 221, [former] 226, 401(d), [former] 662(b), 946, [former] 1464(c), [former] 2006(e)(3), 2010, 2011(e), 2391(c), 2431(a), 2432, 2457(d), 2461(g), 2537, 2662(b), 2706, 2859, 2861, 2902(g)(2), 4542(g)(2), 7424(b), 7425(b), 7431(c), 10541, 12302(d), and 16137. “(2) Section 1121(f) of the National Defense Authorization Act for Fiscal Year 1988 and 1989 (Public Law 100–180; [10 U.S.C. 113](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113&num=0&edition=prelim) note). “(3) Section 1405 of the Defense Dependents’ Education Act of 1978 ([20 U.S.C. 924](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section924&num=0&edition=prelim)). “(4) Section 1411(b) of the Barry Goldwater Scholarship and Excellence in Education Act ([20 U.S.C. 4710(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section4710/b&num=0&edition=prelim)). “(5) Section 1097 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 [Pub. L. 102–190] ([22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) note). “(6) Section 30A(d) of the Arms Export Control Act ([22 U.S.C. 2770a(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2770a/d&num=0&edition=prelim)). “(7) Sections 1516(f) and 1518(c) of the Armed Forces Retirement Home Act of 1991 (Public Law 101–510; [24 U.S.C. 416(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title24-section416/f&num=0&edition=prelim), 418(c)). “(8) Sections 3554(e)(2) and [former] 9503(a) of title 31, United States Code. “(9) [Section 300110(b) of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section300110/b&num=0&edition=prelim), United States Code. “(10) Sections 301a(f) and 1008 of title 37, United States Code. “(11) [Section 8111(f) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8111/f&num=0&edition=prelim), United States Code. “(12) Section 205(b) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486/b&num=0&edition=prelim)) [now [40 U.S.C. 121(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section121/b&num=0&edition=prelim)]. “(13) Section 3732 of the Revised Statutes, popularly known as the ‘Food and Forage Act’ ([former] [41 U.S.C. 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section11&num=0&edition=prelim)) [now [41 U.S.C. 6301(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6301/a&num=0&edition=prelim), (b)]. “(14) Section 101(b)(6) of the Uniformed and Overseas Citizens Absentee Voting Act ([former] [42 U.S.C. 1973ff(b)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ff/b/6&num=0&edition=prelim)) [now [52 U.S.C. 20301(b)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20301/b/6&num=0&edition=prelim)]. “(15) Section 1436(e) of the National Defense Authorization Act, Fiscal Year 1989 (Public Law 100–456; [former] [42 U.S.C. 2121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2121&num=0&edition=prelim) note). “(16) Section 165 of the Energy Policy and Conservation Act ([42 U.S.C. 6245](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6245&num=0&edition=prelim)). “(17) Section 603(e) of the National Science and Technology Policy, Organization, and Priorities Act of 1976 ([former] [42 U.S.C. 6683(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6683/e&num=0&edition=prelim)). “(18) Section 822(b) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 ([42 U.S.C. 6687(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6687/b&num=0&edition=prelim)). “(19) Section 208 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1979 ([former] [42 U.S.C. 7271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7271&num=0&edition=prelim)). “(20) [Former] Section 3134 of the National Defense Authorization Act for Fiscal Year 1991 ([former] [42 U.S.C. 7274c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7274c&num=0&edition=prelim) [see [10 U.S.C. 6178](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6178&num=0&edition=prelim)]). “(21) Section 3135 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 ([42 U.S.C. 7274g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7274g&num=0&edition=prelim)). “(22) Section 12 of the Act of March 9, 1920 (popularly known as the ‘Suits in Admiralty Act’) (46 App. U.S.C. 752) [now [46 U.S.C. 30918](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section30918&num=0&edition=prelim)]. “(23) Sections 44106(a) [probably should be “46106(a)”] and 55305(d) of title 46, United States Code. “(24) Sections 11 and 14 of the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98h–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–2&num=0&edition=prelim), 98h–5). “(25) Section 108 of the National Security Act of 1947 ([former] [50 U.S.C. 404a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section404a&num=0&edition=prelim)) [now [50 U.S.C. 3043](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3043&num=0&edition=prelim)]. “(26) Section 4 of the Act entitled ‘An Act to authorize the making, amending, and modification of contracts to facilitate the national defense’, approved August 28, 1958 ([former] [50 U.S.C. 1434](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1434&num=0&edition=prelim)). “(27) Section 1412(g) of the Department of Defense Authorization Act, 1986 ([50 U.S.C. 1521(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1521/g&num=0&edition=prelim)). “(28) Section 3 of the Authorization for Use of Military Force Against Iraq Resolution [Pub. L. 102–1] ([50 U.S.C. 1541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) note). “(29) Sections 202(d) and 401(c) of the National Emergencies Act ([50 U.S.C. 1622(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1622/d&num=0&edition=prelim), 1641(c)). “(30) Section 10(g) of the Military Selective Service Act (50 U.S.C. App. 460(g)) [now [50 U.S.C. 3809(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3809/g&num=0&edition=prelim)]. “(31) Section 708 of the Defense Production Act of 1950 (50 U.S.C. App. 2158) [now [50 U.S.C. 4558](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4558&num=0&edition=prelim)]. “[(32) Repealed. Pub. L. 115–232, div. A, title VIII, § 813(i)(2), Aug. 13, 2018, 132 Stat. 1852.] “(33) Section 704 of the Military Construction Authorization Act, 1982 (Public Law 97–99; 95 Stat. 1377). “(34) Section 113(b) of the National Defense Authorization Act for Fiscal Year 1990 and 1991 (Public Law 101–189; 103 Stat. 1373).”
 
 Pub. L. 104–66, title III, § 3003, Dec. 21, 1995, 109 Stat. 734, as amended by Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 236], Nov. 29, 1999, 113 Stat. 1536, 1501A–302; Pub. L. 110–314, title II, § 203(b), Aug. 14, 2008, 122 Stat. 3040; Pub. L. 117–286, § 4(b)(52), Dec. 27, 2022, 136 Stat. 4349, provided that: “(a) Termination.—“(1) In general.—Subject to the provisions of paragraph (2) of this subsection and subsection (d), each provision of law requiring the submittal to Congress (or any committee of the Congress) of any annual, semiannual, or other regular periodic report specified on the list described under subsection (c) shall cease to be effective, with respect to that requirement, May 15, 2000. “(2) Exception.—The provisions of paragraph (1) shall not apply to any report required under—“(A) chapter 4 of title 5, United States Code; or “(B) the Chief Financial Officers Act of 1990 (Public Law 101–576) [see Short Title of 1990 Amendment note set out under [section 501 of this title](./chapter-005-office-of-management-and-budget.md#section-501)], including provisions enacted by the amendments made by that Act. “(b) Identification of Wasteful Reports.—The President shall include in the first annual budget submitted pursuant to [section 1105 of title 31](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1105), United States Code, after the date of enactment of this Act [Dec. 21, 1995] a list of reports that the President has determined are unnecessary or wasteful and the reasons for such determination. “(c) List of Reports.—The list referred to under subsection (a) is the list prepared by the Clerk of the House of Representatives for the first session of the One Hundred Third Congress under clause 2 of rule III [now cl. 2(b) of rule II] of the Rules of the House of Representatives (House Document No. 103–7). “(d) Specific Reports Exempted.—Subsection (a)(1) shall not apply to any report required under—“(1) section 116 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151n](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151n&num=0&edition=prelim)); “(2) section 306 of that Act ([22 U.S.C. 2226](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2226&num=0&edition=prelim)); “(3) section 489 of that Act ([22 U.S.C. 2291h](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291h&num=0&edition=prelim)); “(4) section 502B of that Act ([22 U.S.C. 2304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2304&num=0&edition=prelim)); “(5) section 634 of that Act ([22 U.S.C. 2394](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2394&num=0&edition=prelim)); “(6) section 406 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 ([22 U.S.C. 2414a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2414a&num=0&edition=prelim)); “(7) section 25 of the Arms Export Control Act ([22 U.S.C. 2765](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2765&num=0&edition=prelim)); “(8) section 28 of that Act ([22 U.S.C. 2768](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2768&num=0&edition=prelim)); “(9) section 36 of that Act ([22 U.S.C. 2776](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2776&num=0&edition=prelim)); “(10) section 6 of the Multinational Force and Observers Participation Resolution ([22 U.S.C. 3425](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3425&num=0&edition=prelim)); “(11) section 104 of the FREEDOM Support Act ([former] [22 U.S.C. 5814](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5814&num=0&edition=prelim)); “(12) section 508 of that Act ([22 U.S.C. 5858](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5858&num=0&edition=prelim)); “(13) section 4 of the War Powers Resolution ([50 U.S.C. 1543](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1543&num=0&edition=prelim)); “(14) section 204 of the International Emergency Economic Powers Act ([50 U.S.C. 1703](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1703&num=0&edition=prelim)); “(15) [former] section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413) [former [50 U.S.C. 4616](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4616&num=0&edition=prelim)]; “(16) section 207 of the International Economic Policy Act of 1972 (Public Law 92–412; 86 Stat. 648) [former [22 U.S.C. 2846](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2846&num=0&edition=prelim)]; “(17) section 4 of Public Law 93–121 (87 Stat. 448) [former [22 U.S.C. 2846](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2846&num=0&edition=prelim)]; “(18) section 108 of the National Security Act of 1947 ([former] [50 U.S.C. 404a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section404a&num=0&edition=prelim)) [now [50 U.S.C. 3043](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3043&num=0&edition=prelim)]; “(19) section 704 of the Support for East European Democracy (SEED) Act of 1989 ([22 U.S.C. 5474](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5474&num=0&edition=prelim)); “(20) section 804 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (Public Law 101–246; 104 Stat. 72); “(21) section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 ([22 U.S.C. 2656f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f&num=0&edition=prelim)); “(22) section 2 of the Act of September 21, 1950 (Chapter 976; 64 Stat. 903) [[22 U.S.C. 262a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section262a&num=0&edition=prelim)]; “(23) section 3301 of the Panama Canal Act of 1979 ([22 U.S.C. 3871](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3871&num=0&edition=prelim)); “(24) section 2202 of the Export Enhancement Act of 1988 ([former] [15 U.S.C. 4711](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4711&num=0&edition=prelim)); “(25) section 1504 of Public Law 103–160 ([10 U.S.C. 402](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section402&num=0&edition=prelim) note); “(26) section 502 of the International Security and Development Coordination Act of 1985 ([22 U.S.C. 2349aa–7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2349aa–7&num=0&edition=prelim)); “(27) section 23 of the Act of August 1, 1956 (Chapter 841 [probably should be section 515(b)(2) of Public Law 95–105]; [22 U.S.C. 2694(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2694/2&num=0&edition=prelim)); “(28) [former] section 5(c)(5) of the Export Administration Act of 1979 (50 U.S.C. App. 2404(c)(5)) [former [50 U.S.C. 4604(c)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4604/c/5&num=0&edition=prelim)]; “(29) [former] section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413) [former [50 U.S.C. 4616](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4616&num=0&edition=prelim)]; “(30) section 50 of Public Law 87–297 ([22 U.S.C. 2590](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2590&num=0&edition=prelim)); “(31) section 240A of the Foreign Assistance Act of 1961 ([former] [22 U.S.C. 2200a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2200a&num=0&edition=prelim)); “(32) section 27(k) of the Consumer Product Safety Act ([15 U.S.C. 2076(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2076/k&num=0&edition=prelim)); or “(33) section 604 of the United States Information and Educational Exchange Act of 1948 ([22 U.S.C. 1469](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1469&num=0&edition=prelim)).”
 
@@ -1197,7 +1202,11 @@ For effective date and applicability of repeal, see section 10001 of Pub. L. 103
 
 (2) identify the agencies, organizations, program activities, regulations, tax expenditures, policies, and other activities contributing to each Federal Government performance goal during the current fiscal year;
 
-(3) for each Federal Government performance goal, identify a lead Government official who shall be responsible for coordinating the efforts to achieve the goal;
+(3) for each Federal Government performance goal, identify, as appropriate, not fewer than 2 lead Government officials who shall jointly be responsible for coordinating the efforts to achieve the goal, of whom—
+
+  (A) not less than 1 shall be from the Executive Office of the President; and
+
+  (B) not less than 1 shall be from an agency identified as contributing to the Federal Government performance goal described in paragraph (2);
 
 (4) establish common Federal Government performance indicators with quarterly targets to be used in measuring or assessing—
 
@@ -1321,6 +1330,8 @@ For effective date and applicability of repeal, see section 10001 of Pub. L. 103
 A prior section 1115, added Pub. L. 103–62, § 4(b), Aug. 3, 1993, 107 Stat. 287; amended Pub. L. 107–296, title XIII, § 1311(a), Nov. 25, 2002, 116 Stat. 2289; Pub. L. 108–136, div. A, title XIV, § 1421(b), Nov. 24, 2003, 117 Stat. 1667, related to performance plans, prior to repeal by Pub. L. 111–352, § 3, Jan. 4, 2011, 124 Stat. 3867.
 
 #### Amendments
+2024—Subsec. (a)(3). Pub. L. 118–190 added par. (3) and struck out former par. (3) which read as follows: “for each Federal Government performance goal, identify a lead Government official who shall be responsible for coordinating the efforts to achieve the goal;”.
+
 2022—Subsec. (b)(5). Pub. L. 117–263, § 5303(b)(1), amended par. (5) generally. Prior to amendment, par. (5) provided standards for a description of how the performance goals were to be achieved.
 
 Subsec. (g). Pub. L. 117–263, § 5303(b)(2), amended subsec. (g) generally. Prior to amendment, subsec. (g) required the Chief Human Capital Officer to prepare the portion of the annual performance plan described under subsec. (b)(5)(A).
@@ -1485,7 +1496,7 @@ George W. Bush.
 
 **(b)**
 
-(1) Each update shall compare actual performance achieved with the performance goals established in the agency performance plan under section 1115(b) and shall occur no less than 150 days after the end of each fiscal year, with more frequent updates of actual performance on indicators that provide data of significant value to the Government, Congress, or program partners at a reasonable level of administrative burden.
+(1) Each update shall compare actual performance achieved with the performance goals established in the agency performance plan under section 1115(b) and shall occur not later than 150 days after the end of each fiscal year, with more frequent updates of actual performance on indicators that provide data of significant value to the Government, Congress, or program partners at a reasonable level of administrative burden.
 
 (2) If performance goals are specified in an alternative form under section 1115(c), the results shall be described in relation to such specifications, including whether the performance failed to meet the criteria of a minimally effective or successful program.
 
@@ -1517,48 +1528,27 @@ George W. Bush.
 
   (D) any limitations to the data at the required level of accuracy; and
 
-  (E) how the agency has compensated for such limitations if needed to reach the required level of accuracy; and
+  (E) how the agency has compensated for such limitations if needed to reach the required level of accuracy;
 
-(7) include the summary findings of those program evaluations completed during the period covered by the update.
+(7) include the summary findings of those program evaluations completed during the period covered by the update; and
+
+(8) include a summary of the findings of the review of the agency under section 1121(c).
 
 **(d)** If an agency performance update includes any program activity or information that is specifically authorized under criteria established by an Executive Order to be kept secret in the interest of national defense or foreign policy and is properly classified pursuant to such Executive Order, the head of the agency shall make such information available in the classified appendix provided under section 1115(e).
 
 **(e)** The functions and activities of this section shall be considered to be inherently governmental functions. The drafting of agency performance updates under this section shall be performed only by Federal employees.
 
-**(f)** Each fiscal year, the Office of Management and Budget shall determine whether the agency programs or activities meet performance goals and objectives outlined in the agency performance plans and submit a report on unmet goals to—
-
-(1) the head of the agency;
-
-(2) the Committee on Homeland Security and Governmental Affairs of the Senate;
-
-(3) the Committee on Oversight and Governmental Reform of the House of Representatives; and
-
-(4) the Government Accountability Office.
-
-**(g)** If an agency’s programs or activities have not met performance goals as determined by the Office of Management and Budget for 1 fiscal year, the head of the agency shall submit a performance improvement plan to the Office of Management and Budget to increase program effectiveness for each unmet goal with measurable milestones. The agency shall designate a senior official who shall oversee the performance improvement strategies for each unmet goal.
-
-**(h)**
-
-(1) If the Office of Management and Budget determines that agency programs or activities have unmet performance goals for 2 consecutive fiscal years, the head of the agency shall—
-
-  (A) submit to Congress a description of the actions the Administration will take to improve performance, including proposed statutory changes or planned executive actions; and
-
-  (B) describe any additional funding the agency will obligate to achieve the goal, if such an action is determined appropriate in consultation with the Director of the Office of Management and Budget, for an amount determined appropriate by the Director.
-
-(2) In providing additional funding described under paragraph (1)(B), the head of the agency shall use any reprogramming or transfer authority available to the agency. If after exercising such authority additional funding is necessary to achieve the level determined appropriate by the Director of the Office of Management and Budget, the head of the agency shall submit a request to Congress for additional reprogramming or transfer authority.
-
-**(i)** If an agency’s programs or activities have not met performance goals as determined by the Office of Management and Budget for 3 consecutive fiscal years, the Director of the Office of Management and Budget shall submit recommendations to Congress on actions to improve performance not later than 60 days after that determination, including—
-
-(1) reauthorization proposals for each program or activity that has not met performance goals;
-
-(2) proposed statutory changes necessary for the program activities to achieve the proposed level of performance on each performance goal; and
-
-(3) planned executive actions or identification of the program for termination or reduction in the President’s budget.
-
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 1116, added Pub. L. 103–62, § 4(b), Aug. 3, 1993, 107 Stat. 288; amended Pub. L. 106–531, § 5(a)(1), (b), Nov. 22, 2000, 114 Stat. 2539; Pub. L. 107–296, title XIII, § 1311(b), Nov. 25, 2002, 116 Stat. 2290, related to program performance reports, prior to repeal by Pub. L. 111–352, § 4, Jan. 4, 2011, 124 Stat. 3871.
+
+#### Amendments
+2024—Subsec. (b)(1). Pub. L. 118–190, § 7(b), substituted “shall occur not later than 150 days after” for “shall occur no less than 150 days after”.
+
+Subsec. (c)(8). Pub. L. 118–190, § 2(b)(1), added par. (8).
+
+Subsecs. (f) to (i). Pub. L. 118–190, § 2(b)(2), struck out subsecs. (f) to (i) which related to determination of unmet performance goals and various action plans to address unmet goals after 1, 2, and 3 consecutive fiscal years.
 
 #### Merit Systems Protection Board
 Pub. L. 112–199, title I, § 116(b), Nov. 27, 2012, 126 Stat. 1474, provided that: “(1) In general.—Each report submitted annually by the Merit Systems Protection Board under [section 1116 of title 31](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1116), United States Code, shall, with respect to the period covered by such report, include as an addendum the following:“(A) Information relating to the outcome of cases decided by the Merit Systems Protection Board during the period covered by such report in which violations of section 2302(b)(8) or (9)(A)(i), (B)(i), (C), or (D) of title 5, United States Code, were alleged. “(B) The number of such cases filed in the regional and field offices, and the number of petitions for review filed in such cases, during the period covered by such report, and the outcomes of any such cases or petitions for review (irrespective of when filed) decided during such period. “(2) First report.—The first report described under paragraph (1) submitted after the date of enactment of this Act [Nov. 27, 2012] shall include an addendum required under that paragraph that covers the period beginning on the effective date of this Act [see Effective Date of 2012 Amendment note set out under [section 1204 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1204&num=0&edition=prelim), Government Organization and Employees] and ending at the end of the fiscal year in which such effective date occurs.”
@@ -1575,56 +1565,14 @@ The Director of the Office of Management and Budget may exempt from the requirem
 No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under [section 1101 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1101).
 
 
-<a id="section-1118"></a>
-## § 1118. Pilot projects for performance goals
-**(a)** The Director of the Office of Management and Budget, after consultation with the head of each agency, shall designate not less than ten agencies as pilot projects in performance measurement for fiscal years 1994, 1995, and 1996. The selected agencies shall reflect a representative range of Government functions and capabilities in measuring and reporting program performance.
-
-**(b)** Pilot projects in the designated agencies shall undertake the preparation of performance plans under section 1115, and program performance reports under section 1116, other than section 1116(c), for one or more of the major functions and operations of the agency. A strategic plan shall be used when preparing agency performance plans during one or more years of the pilot period.
-
-**(c)** No later than May 1, 1997, the Director of the Office of Management and Budget shall submit a report to the President and to the Congress which shall—
-
-(1) assess the benefits, costs, and usefulness of the plans and reports prepared by the pilot agencies in meeting the purposes of the Government Performance and Results Act of 1993;
-
-(2) identify any significant difficulties experienced by the pilot agencies in preparing plans and reports; and
-
-(3) set forth any recommended changes in the requirements of the provisions of Government Performance and Results Act of 1993, [section 306 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), sections 1105, 1115, 1116, 1117, 1119 and 9703 of this title, and this section.
+<a id="section-1118-1119"></a>
+## § 1118, 1119. Repealed. Pub. L. 118–190, § 6(a), Dec. 23, 2024, 138 Stat. 2656]
 
 ### Statutory Notes
 
-#### References in Text
-The Government Performance and Results Act of 1993, referred to in subsec. (c)(1), (3), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted sections 1115 to 1119, 9703, and 9704 of this title, [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1105), and enacted provisions set out as notes under sections 1101 and 1115 of this title. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1101) and Tables.
+Section 1118, added Pub. L. 103–62, § 6(a), Aug. 3, 1993, 107 Stat. 290, designated agencies as pilot projects in performance measurement for fiscal years 1994, 1995, and 1996.
 
-#### Construction
-No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under [section 1101 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1101).
-
-
-<a id="section-1119"></a>
-## § 1119. Pilot projects for performance budgeting
-**(a)** The Director of the Office of Management and Budget, after consultation with the head of each agency shall designate not less than five agencies as pilot projects in performance budgeting for fiscal years 1998 and 1999. At least three of the agencies shall be selected from those designated as pilot projects under section 1118, and shall also reflect a representative range of Government functions and capabilities in measuring and reporting program performance.
-
-**(b)** Pilot projects in the designated agencies shall cover the preparation of performance budgets. Such budgets shall present, for one or more of the major functions and operations of the agency, the varying levels of performance, including outcome-related performance, that would result from different budgeted amounts.
-
-**(c)** The Director of the Office of Management and Budget shall include, as an alternative budget presentation in the budget submitted under section 1105 for fiscal year 1999, the performance budgets of the designated agencies for this fiscal year.
-
-**(d)** No later than March 31, 2001, the Director of the Office of Management and Budget shall transmit a report to the President and to the Congress on the performance budgeting pilot projects which shall—
-
-(1) assess the feasibility and advisability of including a performance budget as part of the annual budget submitted under section 1105;
-
-(2) describe any difficulties encountered by the pilot agencies in preparing a performance budget;
-
-(3) recommend whether legislation requiring performance budgets should be proposed and the general provisions of any legislation; and
-
-(4) set forth any recommended changes in the other requirements of the Government Performance and Results Act of 1993, [section 306 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), sections 1105, 1115, 1116, 1117, and 9703 of this title, and this section.
-
-**(e)** After receipt of the report required under subsection (d), the Congress may specify that a performance budget be submitted as part of the annual budget submitted under section 1105.
-
-### Statutory Notes
-
-#### References in Text
-The Government Performance and Results Act of 1993, referred to in subsec. (d)(4), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted sections 1115 to 1119, 9703, and 9704 of this title, [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1105), and enacted provisions set out as notes under sections 1101 and 1115 of this title. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1101) and Tables.
-
-#### Construction
-No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction of 1993 Amendment note under [section 1101 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1101).
+Section 1119, added Pub. L. 103–62, § 6(c), Aug. 3, 1993, 107 Stat. 291, designated agencies as pilot projects in performance budgeting for fiscal years 1998 and 1999.
 
 
 <a id="section-1120"></a>
@@ -1647,7 +1595,15 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
     (v) real property management;
 
-(2) The Federal Government priority goals shall be long-term in nature. At a minimum, the Federal Government priority goals shall be updated or revised every 4 years and made publicly available concurrently with the submission of the budget of the United States Government made in the first full fiscal year following any year in which the term of the President commences under [section 101 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section101&num=0&edition=prelim). As needed, the Director of the Office of Management and Budget may make adjustments to the Federal Government priority goals to reflect significant changes in the environment in which the Federal Government is operating, with appropriate notification of Congress.
+(2) The Federal Government priority goals shall be long-term in nature. Such goals shall—
+
+  (A) be updated and revised not less frequently than during the first year of each Presidential term;
+
+  (B) be made publicly available not less frequently than concurrently with the submission of the budget of the United States Government under section 1105(a) made during the first full fiscal year following any year during which a term of the President commences under [section 101 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section101&num=0&edition=prelim);
+
+  (C) include plans for the successful achievement of each goal within each single Presidential term; and
+
+  (D) explicitly cite to any specific contents of the budget described in subparagraph (B) that support the achievement of each goal. As needed, the Director of the Office of Management and Budget may make adjustments to the Federal Government priority goals to reflect significant changes in the environment in which the Federal Government is operating, with appropriate notification of Congress.
 
 (3) When developing or making adjustments to Federal Government priority goals, the Director of the Office of Management and Budget shall consult periodically with the Congress, including obtaining majority and minority views from—
 
@@ -1692,6 +1648,8 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a)(2). Pub. L. 118–190 substituted “Such goals shall—” and subpars. (A) to (D) for “At a minimum, the Federal Government priority goals shall be updated or revised every 4 years and made publicly available concurrently with the submission of the budget of the United States Government made in the first full fiscal year following any year in which the term of the President commences under [section 101 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section101&num=0&edition=prelim).”
+
 2021—Subsec. (a)(5). Pub. L. 116–283 substituted “a website described in” for “the website described under”.
 
 #### Change of Name
@@ -1699,7 +1657,7 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 
 <a id="section-1121"></a>
-## § 1121. Quarterly priority progress reviews and use of performance information
+## § 1121. Progress reviews and use of performance information
 **(a) Use of Performance Information To Achieve Federal Government Priority Goals.—** Not less than quarterly, the Director of the Office of Management and Budget, with the support of the Performance Improvement Council, shall—
 
 (1) for each Federal Government priority goal required by [section 1120(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1120/a&num=0&edition=prelim), review with the appropriate lead Government official the progress achieved during the most recent quarter, overall trend data, and the likelihood of meeting the planned level of performance;
@@ -1723,6 +1681,51 @@ Committee on Oversight and Government Reform of House of Representatives changed
 (4) categorize agency priority goals by risk of not achieving the planned level of performance; and
 
 (5) for agency priority goals at greatest risk of not meeting the planned level of performance, identify prospects and strategies for performance improvement, including any needed changes to agency program activities, regulations, policies, or other activities.
+
+**(c) Agency Reviews of Progress Towards Strategic Goals and Objectives.—**
+
+(1) **Covered goal defined.—** — In this subsection, the term “covered goal” means a goal or objective established in the strategic plan of the agency under [section 306(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306/a&num=0&edition=prelim).
+
+(2) **Review.—** — Not less frequently than annually and consistent with guidance issued by the Director of the Office of Management and Budget, the head and Chief Operating Officer of each agency,11 So in original. shall—
+
+  (A) for each covered goal, review with the appropriate agency official responsible for the covered goal—
+
+    (i) the progress achieved toward the covered goal—
+
+      (I) during the most recent fiscal year; or
+
+      (II) from recent sources of evidence available at the time of the review; and
+
+    (ii) the likelihood that the agency will achieve the covered goal;
+
+  (B) coordinate with relevant personnel within and outside the agency who contribute to the accomplishment of each covered goal;
+
+  (C) assess progress toward each covered goal by reviewing performance information and other types of evidence relating to each covered goal, such as program evaluations and statistical data;
+
+  (D) identify whether additional evidence is necessary to better assess progress toward each covered goal, and prioritize the development of the evidence described in subparagraph (C), such as through the plans required under [section 312 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section312&num=0&edition=prelim), if applicable;
+
+  (E) assess whether relevant organizations, program activities, regulations, policies, and other activities contribute as planned to each covered goal;
+
+  (F) as appropriate, leverage the assessment performed under subparagraph (E) as part of the portfolio reviews required under section 503(c)(1)(G);
+
+  (G) identify any risks or impediments that would reduce or otherwise decrease the likelihood that the agency will achieve the covered goal; and
+
+  (H) for each covered goal at greatest risk of not being achieved, identify prospects and strategies for performance improvement, including any necessary changes to program activities, regulations, policies, or other activities of the agency.
+
+(3) **Support.—** — In fulfilling the requirements of paragraph (2), the head and Chief Operating Officer of each agency shall be supported by—
+
+  (A) the Performance Improvement Officer of the agency;
+
+  (B) as appropriate, the Chief Data Officer, Evaluation Officer, Program Management Improvement Officer, and Statistical Official of the agency; and
+
+  (C) any other senior agency official designated by the head of the agency, the sustained involvement of whom may help the agency increase the likelihood of achieving 1 or more covered goals.
+
+### Statutory Notes
+
+#### Amendments
+2024—Pub. L. 118–190, § 2(a)(1)(A), substituted “Progress reviews and use of performance information” for “Quarterly priority progress reviews and use of performance information” in section catchline.
+
+Subsec. (c). Pub. L. 118–190, § 2(a)(1)(B), added subsec. (c).
 
 
 <a id="section-1122"></a>
@@ -1749,13 +1752,15 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
     (ii) for each program identified in the program inventory, the information required under paragraph (3);
 
-  (C) make the information in the program inventory required under subparagraph (B) available as an open Government data asset; and
+  (C) make the information required to be included on the single website under subparagraph (A) and the information in the program inventory required under subparagraph (B) available as an open Government data asset;
 
   (D) at a minimum—
 
     (i) update the information required to be included on the single website under subparagraph (A) on a quarterly basis; and
 
-    (ii) update the program inventory required under subparagraph (B) on an annual basis.
+    (ii) update the program inventory required under subparagraph (B) on an annual basis; and
+
+  (E) ensure that the website described in subparagraph (A) conforms with the requirements for websites under section 3(a) of the 21st Century Integrated Digital Experience Act ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note).
 
 (3) **Information.—** — Information for each program identified in the program inventory required under paragraph (2)(B) shall include—
 
@@ -1801,7 +1806,11 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 (4) **Archiving.—** — The Director of the Office of Management and Budget shall—
 
-  (A) archive and preserve the information included in the program inventory required under paragraph (2)(B) after the end of the period during which such information is made available under paragraph (3); and
+  (A) archive and preserve—
+
+    (i) the information included in the program inventory required under paragraph (2)(B), including the information described in paragraph (3), after the end of the period during which that information is made available; and
+
+    (ii) the information included in the single website under paragraph (2)(A) in accordance with subsections (b) and (c) after the end of the period during which such information is made available on the website; and
 
   (B) make information archived in accordance with subparagraph (A) publicly available as an open Government data asset.
 
@@ -1837,7 +1846,11 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
   (E) how the agency has compensated for such limitations if needed to reach the required level of accuracy;
 
-(6) the results achieved during the most recent quarter and overall trend data compared to the planned level of performance;
+(6) the results achieved toward the agency priority goals established under section 1120(b)—
+
+  (A) during the most recent quarter and overall trend data for each quarter compared to the planned level of performance; and
+
+  (B) at the end of the 2-year agency priority goal period compared to the overall planned level of performance;
 
 (7) an assessment of whether relevant organizations, program activities, regulations, policies, and other activities are contributing as planned;
 
@@ -1855,7 +1868,11 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 (4) an identification of the lead Government official for each Federal Government performance goal;
 
-(5) the results achieved during the most recent quarter and overall trend data compared to the planned level of performance;
+(5) the results achieved toward the priority goals developed under section 1120(a)(1)—
+
+  (A) during the most recent quarter and overall trend data for each quarter compared to the planned level of performance; and
+
+  (B) at the end of the 4-year Federal Government priority goal period compared to the overall planned level of performance;
 
 (6) an identification of the agencies, organizations, program activities, regulations, tax expenditures, policies, and other activities that contribute to each Federal Government priority goal;
 
@@ -1870,11 +1887,23 @@ Committee on Oversight and Government Reform of House of Representatives changed
 ### Statutory Notes
 
 #### References in Text
+Section 3(a) of the 21st Century Integrated Digital Experience Act, referred to in subsec. (a)(2)(E), is section 3(a) of Pub. L. 115–336, which is set out in a note under [section 3501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim), Public Printing and Documents.
+
 The Foundations for Evidence-Based Policymaking Act of 2018, referred to in subsec. (a)(3)(D)(iii), is Pub. L. 115–435, Jan. 14, 2019, 132 Stat. 5529. For complete classification of this Act to the Code, see Short Title of 2019 Amendment note set out under [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim), Government Organization and Employees, and Tables.
 
 Section 2(b) of the Federal Funding Accountability and Transparency Act of 2006, referred to in subsec. (a)(3)(D)(vii)(VI), is section 2(b) of Pub. L. 109–282, which is set out in a note under [section 6101 of this title](./chapter-061-program-information.md#section-6101).
 
 #### Amendments
+2024—Subsec. (a)(2)(C). Pub. L. 118–190, § 3(1)(A)(i)(I), inserted “required to be included on the single website under subparagraph (A) and the information” before “in the program inventory”.
+
+Subsec. (a)(2)(E). Pub. L. 118–190, § 3(1)(A)(i)(II)–(iii), added subpar. (E).
+
+Subsec. (a)(4)(A). Pub. L. 118–190, § 3(1)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “archive and preserve the information included in the program inventory required under paragraph (2)(B) after the end of the period during which such information is made available under paragraph (3); and”.
+
+Subsec. (b)(6). Pub. L. 118–190, § 3(2), added par. (6) and struck out former par. (6) which read as follows: “the results achieved during the most recent quarter and overall trend data compared to the planned level of performance;”.
+
+Subsec. (c)(5). Pub. L. 118–190, § 3(3), added par. (5) and struck out former par. (5) which read as follows: “the results achieved during the most recent quarter and overall trend data compared to the planned level of performance;”.
+
 2021—Subsec. (a)(1). Pub. L. 116–283, § 9601(a)(2), added par. (1). Former par. (1) redesignated (2).
 
 Subsec. (a)(2). Pub. L. 116–283, § 9601(a)(1), (3)(A), redesignated former par. (1) as (2) and substituted “Website and program inventory” for “In general” in heading and “The Director of the Office of Management and Budget shall” for “Not later than October 1, 2012, the Office of Management and Budget shall” in introductory provisions. Former par. (2) redesignated (3).
@@ -1981,28 +2010,92 @@ Pub. L. 116–283, div. H, title XCVI, § 9601(b), Jan. 1, 2021, 134 Stat. 4825,
 
 <a id="section-1125"></a>
 ## § 1125. Elimination of unnecessary agency reporting
-**(a) Agency Identification of Unnecessary Reports.—** Annually, based on guidance provided by the Director of the Office of Management and Budget, the Chief Operating Officer at each agency shall—
+**(a) Definitions.—** In this section:
 
-(1) compile a list that identifies all plans and reports the agency produces for Congress, in accordance with statutory requirements or as directed in congressional reports;
+(1) **Budget justification materials.—** — The term “budget justification materials” has the meaning given the term in section 3(b)(2) of the Federal Funding Accountability and Transparency Act of 2006 ([31 U.S.C. 6101](./chapter-061-program-information.md#section-6101) note; Public Law 109–282).
 
-(2) analyze the list compiled under paragraph (1), identify which plans and reports are outdated or duplicative of other required plans and reports, and refine the list to include only the plans and reports identified to be outdated or duplicative;
+(2) **Plan or report.—** — The term “plan or report” means any plan or report submitted to Congress, any committee of Congress, or subcommittee thereof, by not less than 1 agency—
 
-(3) consult with the congressional committees that receive the plans and reports identified under paragraph (2) to determine whether those plans and reports are no longer useful to the committees and could be eliminated or consolidated with other plans and reports; and
+  (A) in accordance with Federal law; or
 
-(4) provide a total count of plans and reports compiled under paragraph (1) and the list of outdated and duplicative reports identified under paragraph (2) to the Director of the Office of Management and Budget.
+  (B) at the direction or request of a congressional report.
 
-**(b) Plans and Reports.—**
+(3) **Recurring plan or report.—** — The term “recurring plan or report” means a plan or report submitted on a recurring basis.
 
-(1) **First year.—** — During the first year of implementation of this section, the list of plans and reports identified by each agency as outdated or duplicative shall be not less than 10 percent of all plans and reports identified under subsection (a)(1).
+(4) **Relevant congressional committee.—** — The term “relevant congressional committee”—
 
-(2) **Subsequent years.—** — In each year following the first year described under paragraph (1), the Director of the Office of Management and Budget shall determine the minimum percent of plans and reports to be identified as outdated or duplicative on each list of plans and reports.
+  (A) means a congressional committee to which a recurring plan or report is required to be submitted; and
 
-**(c) Request for Elimination of Unnecessary Reports.—** In addition to including the list of plans and reports determined to be outdated or duplicative by each agency in the budget of the United States Government, as provided by section 1105(a)(37),11 See References in Text note below. the Director of the Office of Management and Budget may concurrently submit to Congress legislation to eliminate or consolidate such plans and reports.
+  (B) does not include any plan or report that is required to be submitted solely to the Committee on Armed Services of the House of Representatives or the Senate.
+
+**(b) Agency Identification of Unnecessary Reports.—**
+
+(1) **In general.—** — The head of each agency shall include in the budget justification materials of the agency the following:
+
+  (A) Subject to paragraphs (2) and (3), the following:
+
+    (i) A list of each recurring plan or report submitted by the agency.
+
+    (ii) An identification of whether the recurring plan or report listed in clause (i) was included in the most recent report issued by the Clerk of the House of Representatives concerning the reports that any agency is required by law or directed or requested by a committee report to make to Congress, any committee of Congress, or subcommittee thereof.
+
+    (iii) If applicable, the unique alphanumeric identifier for the recurring plan or report as required by section 7243(b)(1)(C)(vii) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263).
+
+    (iv) The identification of any recurring plan or report the head of the agency determines to be outdated or duplicative.
+
+  (B) With respect to each recurring plan or report identified in subparagraph (A)(iv), the following:
+
+    (i) A recommendation on whether to sunset, modify, consolidate, or reduce the frequency of the submission of the recurring plan or report.
+
+    (ii) A citation to each provision of law or directive or request in a congressional report that requires or requests the submission of the recurring plan or report.
+
+    (iii) A list of the relevant congressional committees for the recurring plan or report.
+
+  (C) A justification explaining, with respect to each recommendation described in subparagraph (B)(i) relating to a recurring plan or report—
+
+    (i) why the head of the agency made the recommendation, which may include an estimate of the resources expended by the agency to prepare and submit the recurring plan or report; and
+
+    (ii) the understanding of the head of the agency of the purpose of the recurring plan or report.
+
+(2) **Agency consultation.—**
+
+  (A) *In general.—* — In preparing the list required under paragraph (1)(A), if, in submitting a recurring plan or report, an agency is required to coordinate or consult with another agency or entity, the head of the agency submitting the recurring plan or report shall consult with the head of each agency or entity with whom consultation or coordination is required.
+
+  (B) *Inclusion in list.—* — If, after a consultation under subparagraph (A), the head of each agency or entity consulted under that subparagraph agrees that a recurring plan or report is outdated or duplicative, the head of the agency required to submit the recurring plan or report shall—
+
+    (i) include the recurring plan or report in the list described in paragraph (1)(A); and
+
+    (ii) identify each agency or entity with which the head of the agency is required to coordinate or consult in submitting the recurring plan or report.
+
+  (C) *Disagreement.—* — If the head of any agency or entity consulted under subparagraph (A) does not agree that a recurring plan or report is outdated or duplicative, the head of the agency required to submit the recurring plan or report shall not include the recurring plan or report in the list described in paragraph (1)(A).
+
+(3) **Government-wide or multi-agency plan and report submissions.—** — With respect to a recurring plan or report required to be submitted by not less than 2 agencies, the Director of the Office of Management and Budget shall—
+
+  (A) determine whether the requirement to submit the recurring plan or report is outdated or duplicative; and
+
+  (B) make recommendations to Congress accordingly.
+
+(4) **Plan and report submissions conformity to the access to congressionally mandated reports act.—** — With respect to an agency recommendation, citation, or justification made under subparagraph (B) or (C) of paragraph (1) or a recommendation by the Director of the Office of Management and Budget under paragraph (3), the agency or Director, as applicable, shall also provide this information to the Director of the Government Publishing Office in conformity with the agency submission requirements under section 7244(a) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; chapter 41 of title 44 note) in conformity with guidance issued by the Director of the Office of Management and Budget under section 7244(b) of such Act.
+
+**(c) Rule of Construction on Agency Requirements.—** Nothing in this section shall be construed to exempt the head of an agency from a requirement to submit a recurring plan or report.
+
+**(d) Request for Elimination of Unnecessary Reports.—** In addition to including the list of plans and reports determined to be outdated or duplicative by each agency in the budget justification materials of each agency, the Director of the Office of Management and Budget may concurrently submit to Congress legislation to eliminate or consolidate such plans and reports.
 
 ### Statutory Notes
 
 #### References in Text
-Section 1105(a)(37), referred to in subsec. (c), probably means the section 1105(a)(37) added by section 11(a)(2) of Pub. L. 111–352, Jan. 4, 2011, 124 Stat. 3881.
+Sections 7243(b)(1)(C)(vii) and 7244(a), (b) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, referred to in subsec. (b)(1)(A)(iii), (4), are sections 7243(b)(1)(C)(vii) and 7244(a), (b) of Pub. L. 117–263, which are set out in a note preceding [section 4101 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section4101&num=0&edition=prelim), Public Printing and Documents.
+
+#### Amendments
+2024—Subsecs. (a), (b). Pub. L. 118–172, § 2(a)(2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to agency identification of unnecessary reports and plans and reports for first year of implementation and subsequent years, respectively.
+
+Subsec. (c). Pub. L. 118–172, § 2(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 118–172, § 2(a)(3), substituted “in the budget justification materials of each agency” for “in the budget of the United States Government, as provided by section 1105(a)(37)”.
+
+Pub. L. 118–172, § 2(a)(1), redesignated subsec. (c) as (d).
+
+#### Updated OMB Guidance
+Pub. L. 118–172, § 2(c)(2), Dec. 23, 2024, 138 Stat. 2596, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Director of the Office of Management and Budget shall issue updated guidance to agencies to ensure that the requirements under subsections (a) and (b) of [section 1125 of title 31](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1125), United States Code, as amended by this Act, for agency submissions of recommendations and justifications for plans and reports to sunset, modify, consolidate, or reduce the frequency of the submission of [sic] are also submitted as a separate attachment in conformity with the agency submission requirements of electronic copies of reports submitted by agencies under section 7244(a) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; chapter 41 of title 44, United States Code, note [[44 U.S.C. 4101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section4101&num=0&edition=prelim) note prec.]) for publication on the online portal established under section 7243 of such Act.”
 
 
 <a id="section-1126"></a>

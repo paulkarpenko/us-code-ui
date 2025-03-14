@@ -2,7 +2,7 @@
 title: 10
 chapter: '2005'
 heading: OFFICERS
-section_count: 31
+section_count: 32
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -88,7 +88,7 @@ Executive Order 13384, referred to in subsec. (f), is Ex. Ord. No. 13384, July 2
 ## § 20211. Convening of selection boards
 **(a) In General.—** Whenever the needs of the service require, the Secretary of the Air Force shall convene selection boards to recommend for promotion to the next higher permanent grade officers of the Space Force in each permanent grade from first lieutenant through brigadier general.
 
-**(b) Exception for Officers in Grade of First Lieutenant.—** Subsection (a) does not require the convening of a selection board in the case of Space Force officers in the permanent grade of first lieutenant when the Secretary of the Air Force recommends for promotion to the grade of captain under section 20238(a)(4)(A) 11 See References in Text note below. of this title all such officers whom the Secretary finds to be fully qualified for promotion.
+**(b) Exception for Officers in Grade of First Lieutenant.—** Subsection (a) does not require the convening of a selection board in the case of Space Force officers in the permanent grade of first lieutenant when the Secretary of the Air Force recommends for promotion to the grade of captain under [section 20239(c)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20239/c/4/A&num=0&edition=prelim) all such officers whom the Secretary finds to be fully qualified for promotion.
 
 **(c) Selection Boards for Early Retirement or Discharge.—** The Secretary of the Air Force may convene selection boards to recommend officers for early retirement under [section 20404(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20404/a&num=0&edition=prelim) or for discharge under [section 20404(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20404/b&num=0&edition=prelim).
 
@@ -96,15 +96,15 @@ Executive Order 13384, referred to in subsec. (f), is Ex. Ord. No. 13384, July 2
 
 ### Statutory Notes
 
-#### References in Text
-[Section 20238(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20238/a&num=0&edition=prelim), referred to in subsec. (b), does not contain a par. (4). However, [section 20239(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20239/c&num=0&edition=prelim) relates to promotion of first lieutenants on an all-fully-qualified officers list and does contain a par. (4) defining such a list and containing subpars. (A) and (B).
+#### Amendments
+2024—Subsec. (b). Pub. L. 118–159 substituted “20239(c)(4)(A)” for “20238(a)(4)(A)”.
 
 
 <a id="section-20212"></a>
 ## § 20212. Composition of selection boards
 **(a) Appointment and Composition of Boards.—**
 
-(1) **In general.—** — Members of a selection board shall be appointed by the Secretary of 11 So in original. The word “the” probably should appear. Air Force in accordance with this section. A selection board shall consist of five or more officers of the Space Force. Each member of a selection board must be serving in a grade higher than the grade of the officers under consideration by the board, except that no member of a board may be serving in a grade below major. The members of a selection board shall include at least one member serving on sustained duty and at least one member in a space force active status who is not serving on sustained duty. The ratio of the members of a selection board serving on sustained duty to members serving in a space force active status not on sustained duty shall, to the extent practicable, reflect the ratio of officers serving in each of those statuses who are being considered for promotion by the board. The members of a selection board shall represent the diverse population of the Space Force to the extent practicable.
+(1) **In general.—** — Members of a selection board shall be appointed by the Secretary of the Air Force in accordance with this section. A selection board shall consist of five or more officers of the Space Force. Each member of a selection board must be serving in a grade higher than the grade of the officers under consideration by the board, except that no member of a board may be serving in a grade below major. The members of a selection board shall include at least one member serving on sustained duty and at least one member in a space force active status who is not serving on sustained duty. The ratio of the members of a selection board serving on sustained duty to members serving in a space force active status not on sustained duty shall, to the extent practicable, reflect the ratio of officers serving in each of those statuses who are being considered for promotion by the board. The members of a selection board shall represent the diverse population of the Space Force to the extent practicable.
 
 (2) **Representation from competitive categories.—**
 
@@ -137,6 +137,11 @@ Executive Order 13384, referred to in subsec. (f), is Ex. Ord. No. 13384, July 2
   (B) is a joint qualified officer.
 
 (3) The Secretary of Defense may waive the requirement in paragraph (1) for any selection board of the Space Force.
+
+### Statutory Notes
+
+#### Amendments
+2024—Subsec. (a)(1). Pub. L. 118–159 substituted “Secretary of the Air Force” for “Secretary of Air Force”.
 
 
 <a id="section-20213"></a>
@@ -201,14 +206,14 @@ The provisions of [section 615 of this title](./chapter-036-promotion-separation
 
 **(b) Officers Who Should Be Required to Show Cause for Retention.—** A selection board convened under [section 20211 of this title](./chapter-2005-officers.md#section-20211) shall include in its report the name of any officer before it for consideration for promotion whose record, in the opinion of a majority of the members of the board, indicates that the officer should be required under [section 20503 of this title](./chapter-2011-separation-of-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-20503) to show cause for the officer’s retention in a space force active status.
 
-**(c) Officers Recommended to Be Placed Higher on the Promotion List.—** A selection board convened under [section 20211 of this title](./chapter-2005-officers.md#section-20211) shall, when authorized under section 20214(g) 11 See References in Text note below. of this title, include in its report the names of those officers recommended by the board to be placed higher on the promotion list and the order in which the board recommends that those officers should be placed on the list.
+**(c) Officers Recommended to Be Placed Higher on the Promotion List.—** A selection board convened under [section 20211 of this title](./chapter-2005-officers.md#section-20211) shall, when authorized under [section 20215(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20215/g&num=0&edition=prelim), include in its report the names of those officers recommended by the board to be placed higher on the promotion list and the order in which the board recommends that those officers should be placed on the list.
 
 **(d) Recommendation for Officers to Be Excluded From Future Consideration for Promotion.—** A selection board convened under [section 20211 of this title](./chapter-2005-officers.md#section-20211) may include in its report a recommendation that an officer considered by the board be excluded from future consideration for promotion under this chapter.
 
 ### Statutory Notes
 
-#### References in Text
-[Section 20214 of this title](./chapter-2005-officers.md#section-20214), referred to in subsec. (c), does not contain a subsec. (g). However, [section 20215(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20215/g&num=0&edition=prelim) relates to board recommendation for higher placement on a promotion list.
+#### Amendments
+2024—Subsec. (c). Pub. L. 118–159 substituted “20215(g)” for “20214(g)”.
 
 
 <a id="section-20217"></a>
@@ -238,9 +243,9 @@ The provisions of [section 615 of this title](./chapter-036-promotion-separation
 
 (3) An officer who has been nominated by the President for promotion to that grade under any other provision of law, if that nomination is pending before the Senate.
 
-(4) An officer in the grade of first lieutenant who is on an approved all-fully-qualified-officers list under section 20238(a)(4) 11 See References in Text note below. of this title.
+(4) An officer in the grade of first lieutenant who is on an approved all-fully-qualified-officers list under [section 20239(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20239/c/4&num=0&edition=prelim).
 
-(5) An officer excluded under 20232 22 So in original. Probably should be preceded by “section”. of this title.
+(5) An officer excluded under [section 20232 of this title](./chapter-2005-officers.md#section-20232).
 
 (6) An officer who has failed of promotion to a higher grade the maximum number of times specified for opportunities for promotion for such grade within the competitive category concerned pursuant to [section 20234 of this title](./chapter-2005-officers.md#section-20234).
 
@@ -262,7 +267,7 @@ The provisions of [section 615 of this title](./chapter-036-promotion-separation
 
   (D) A requirement that the Secretary of the Air Force shall provide general guidance to the board in accordance with standards and procedures prescribed by the Secretary of Defense in those regulations.
 
-  (E) A requirement that the preselection board may recommend that an officer be precluded from consideration by a selection board only on the basis of the general guidance provided by the Secretary 33 So in original. The words “of the” probably should appear. Air Force, information in the officer’s official military personnel records that has been described in the notice provided the officer as required pursuant to subparagraph (C), and any communication to the board received from that officer before the board convenes.
+  (E) A requirement that the preselection board may recommend that an officer be precluded from consideration by a selection board only on the basis of the general guidance provided by the Secretary of the Air Force, information in the officer’s official military personnel records that has been described in the notice provided the officer as required pursuant to subparagraph (C), and any communication to the board received from that officer before the board convenes.
 
 **(d) Brigadier Generals.—**
 
@@ -290,8 +295,12 @@ The provisions of [section 615 of this title](./chapter-036-promotion-separation
 
 ### Statutory Notes
 
-#### References in Text
-[Section 20238(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20238/a&num=0&edition=prelim), referred to in subsec. (b)(4), does not contain a par. (4). However, [section 20239(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20239/c&num=0&edition=prelim) relates to promotion of first lieutenants on an all-fully-qualified officers list and does contain a par. (4) defining such a list.
+#### Amendments
+2024—Subsec. (b)(4). Pub. L. 118–159, § 521(q)(1)(A), substituted “20239(c)(4)” for “20238(a)(4)”.
+
+Subsec. (b)(5). Pub. L. 118–159, § 521(q)(1)(B), substituted “section 20232” for “20232”.
+
+Subsec. (c)(2)(E). Pub. L. 118–159, § 521(q)(2), substituted “Secretary of the Air Force” for “Secretary Air Force”.
 
 
 <a id="section-20232"></a>
@@ -369,13 +378,18 @@ The date of the enactment of this section, referred to in subsec. (g), is the da
 ## § 20234. Opportunities for consideration for promotion
 **(a) Specification of Number of Opportunities for Consideration for Promotion.—** The Secretary of the Air Force shall specify the number of opportunities for consideration for promotion to be afforded to Space Force officers for promotion to each grade above the grade of captain.
 
-**(b) Limited Authority of Secretary of the Air Force to Modify Number of Opportunities.—** The Secretary of the Air Force may modify the number of opportunities for consideration for promotion to be afforded officers within a competitive category for promotion to a particular grade, as previously specified by the Secretary pursuant 11 So in original. Probably should be followed by “to”. subsection (a), not more frequently than once every five years.
+**(b) Limited Authority of Secretary of the Air Force to Modify Number of Opportunities.—** The Secretary of the Air Force may modify the number of opportunities for consideration for promotion to be afforded officers within a competitive category for promotion to a particular grade, as previously specified by the Secretary pursuant to subsection (a), not more frequently than once every five years.
 
 **(c) Authority of Secretary of Defense to Modify Number of Opportunities.—** The Secretary of Defense may modify the number of opportunities for consideration for promotion to be afforded officers of the Space Force within a competitive category for promotion to a particular grade, as previously specified or modified pursuant to any provision of this section, at the discretion of the Secretary.
 
 **(d) Limitation on Number of Opportunities Specified.—** The number of opportunities for consideration for promotion to be afforded officers of the Space Force within a competitive category for promotion to a particular grade, as specified or modified pursuant to any provision of this section, may not exceed five opportunities.
 
 **(e) Effect of Certain Reduction in Number of Opportunities Specified.—** If, by reason of a reduction in the number of opportunities for consideration for promotion under this section, an officer would no longer have one or more opportunities for consideration for promotion that were available to the officer before the reduction, the officer shall be afforded one additional opportunity for consideration for promotion after the reduction.
+
+### Statutory Notes
+
+#### Amendments
+2024—Subsec. (b). Pub. L. 118–159 substituted “pursuant to subsection (a)” for “pursuant subsection (a)”.
 
 
 <a id="section-20235"></a>
@@ -456,7 +470,7 @@ The date of the enactment of this section, referred to in subsec. (g), is the da
 
 (1) Except as provided in subsection (f), officers on the Space Force officer list in the grade of first lieutenant who are on an approved all-fully-qualified-officers list shall be promoted to the grade of captain in accordance with regulations prescribed by the Secretary of the Air Force.
 
-(2) An all-fully-qualified-officers list shall be considered to be approved for purposes of subparagraph (A) 11 So in original. when the list is approved by the President. When so approved, such a list shall be treated in the same manner as a promotion list under this chapter.
+(2) An all-fully-qualified-officers list shall be considered to be approved for purposes of paragraph (1) when the list is approved by the President. When so approved, such a list shall be treated in the same manner as a promotion list under this chapter.
 
 (3) The Secretary of the Air Force may make a recommendation to the President for approval of an all-fully-qualified-officers list only when the Secretary determines that all officers on the list are needed in the next higher grade to accomplish mission objectives.
 
@@ -472,7 +486,7 @@ The date of the enactment of this section, referred to in subsec. (g), is the da
 
 (1) **General rule.—** — The date of rank of an officer appointed to a higher grade under this section is determined under [section 741(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section741/d&num=0&edition=prelim).
 
-(2) **Adjustments.—** — The date of rank of an officer appointed to a higher grade under this section may be adjusted in the same manner as an adjustment may be made under [section 741(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section741/d/4&num=0&edition=prelim) in the date of rank of an officer appointed to a higher grade under [section 624(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section624/a&num=0&edition=prelim). In any use of the authority under the preceding sentence, subparagraph (C)(ii) of such section shall be applied by substituting “Space Force officer list” for “active-duty list”.
+(2) **Adjustments.—** — The date of rank of an officer appointed to a higher grade under this section may be adjusted in the same manner as an adjustment may be made under [section 741(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section741/d/4&num=0&edition=prelim) in the date of rank of an officer appointed to a higher grade under [section 624(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section624/a&num=0&edition=prelim). In any use of the authority under the preceding sentence, [section 741(d)(4)(C)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section741/d/4/C/ii&num=0&edition=prelim) shall be applied by substituting “Space Force officer list” for “active-duty list”.
 
 (3) **Additional pay and allowances precluded.—** — Except as provided in paragraph (2) or as otherwise specifically authorized by law, an officer is not entitled to additional pay or allowances if the effective date of the officer’s promotion is adjusted to reflect a date earlier than the actual date of the officer’s promotion.
 
@@ -482,8 +496,10 @@ The date of the enactment of this section, referred to in subsec. (g), is the da
 
 ### Statutory Notes
 
-#### References in Text
-Subparagraph (C)(ii) of such section, referred to in subsec. (d)(2), probably means subparagraph (C)(ii) of [section 741(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section741/d/4&num=0&edition=prelim).
+#### Amendments
+2024—Subsec. (c)(2). Pub. L. 118–159, § 521(s)(1), substituted “paragraph (1)” for “subparagraph (A)”.
+
+Subsec. (d)(2). Pub. L. 118–159, § 521(s)(2), substituted “[section 741(d)(4)(C)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section741/d/4/C/ii&num=0&edition=prelim)” for “subparagraph (C)(ii) of such section”.
 
 
 <a id="section-20240"></a>
@@ -515,12 +531,15 @@ Subparagraph (C)(ii) of such section, referred to in subsec. (d)(2), probably me
 
 (2) If such an officer who is in a grade below the grade of colonel is not recommended for promotion by the next selection board convened for the officer’s grade and competitive category, or if the officer’s name is again removed from the list of officers recommended for promotion, or if the Senate again does not give its advice and consent to his promotion, the officer shall be considered for all purposes to have failed of selection for promotion to the next higher grade.
 
-**(f) Applicability of Previous Executive Order.—** Except as otherwise provided by the President by Executive order, any Executive order issued before the date of the enactment of this section relating to functions of the President under [section 14310 of this title](./chapter-1405-promotions.md#section-14310) shall apply in the same manner to functions of the President under this section.
+**(f) Applicability of Previous Executive Order.—** Except as otherwise provided by the President by Executive order, any Executive order issued before the date of the enactment of this section relating to functions of the President under section 629 or 14310 of this title shall apply in the same manner to functions of the President under this section.
 
 ### Statutory Notes
 
 #### References in Text
 The date of the enactment of this section, referred to in subsec. (f), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
+
+#### Amendments
+2024—Subsec. (f). Pub. L. 118–159 substituted “section 629 or 14310” for “section 14310”.
 
 
 <a id="section-20242"></a>
@@ -538,20 +557,45 @@ The date of the enactment of this section, referred to in subsec. (f), is the da
 
 (2) Transfer the officer in grade to a Space Force inactive status, if the officer is qualified.
 
-(3) Discharge the officer from the officer’s appointment and, if the officer is qualified and applies therefor, appoint the officer in the grade held by the officer as a before 11 So in original. the officer’s appointment in a general officer grade.
+(3) Discharge the officer from the officer’s appointment and, if the officer is qualified and applies therefor, appoint the officer in the grade held by the officer before the officer’s appointment in a general officer grade.
 
 (4) Discharge the officer from the officer’s appointment.
 
 **(b) Credit for Service in Grade.—** An officer who is appointed under subsection (a)(3) shall be credited with an amount of service in the grade in which appointed that is equal to the amount of prior service in an active status in that grade and in any higher grade.
 
+### Statutory Notes
+
+#### Amendments
+2024—Subsec. (a)(3). Pub. L. 118–159 struck out “as a” after “held by the officer”.
+
+
+<a id="section-20244"></a>
+## § 20244. Eligibility for consideration for promotion: duty assignments
+**(a) Regulations.—** The Secretary of the Air Force shall prescribe regulations to ensure that an officer on the Space Force officer list is not considered for promotion to the grade of brigadier general unless the officer has completed—
+
+(1) a duty assignment with a command or other organization that has responsibility for acquisition matters; and
+
+(2) a duty assignment with a command or other organization that has responsibility for operations.
+
+**(b) Implementation Date.—**
+
+(1) The Secretary of the Air Force shall prescribe the regulations required under subsection (a) not later than one year after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2026; and
+
+(2) The regulations required under subsection (a) shall apply to officers considered for promotion to brigadier general on or after January 1, 2035.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2026, referred to in subsec. (b), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
+
 
 <a id="section-20251"></a>
 ## § 20251. Failure of selection for promotion
-**(a) In General.—** Except as provided in this section, sections 14501, 14503, and 14504 and section 22 So in original. Probably should be “sections”. 631 and 632 of this title shall apply to promotions of officers on the Space Force officer list. For the purpose of such applicability—
+**(a) In General.—** Except as provided in this section, sections 14501, 14503, 14504, 631, and 632 of this title shall apply to promotions of officers on the Space Force officer list. For the purpose of such applicability—
 
 (1) any reference in those sections to the reserve active-status list or the active-duty list shall apply to the Space Force officer list; and
 
-(2) any reference in those sections to a board convened under section 14201 33 See References in Text note below. or 611 of this title shall apply to a board convened under [section 20211 of this title](./chapter-2005-officers.md#section-20211).
+(2) any reference in those sections to a board convened under section 14201 11 See References in Text note below. or [section 611 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-611) shall apply to a board convened under [section 20211 of this title](./chapter-2005-officers.md#section-20211).
 
 **(b) Inapplicability of Failure of Selection for Promotion to Officers Above Promotion Zone.—** The reference in [section 14501 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14501) to an officer above the promotion zone shall not apply in the promotion of officers on the Space Force officer list.
 
@@ -559,7 +603,7 @@ The date of the enactment of this section, referred to in subsec. (f), is the da
 
 **(d) Effect of Failure of Selection.—** In the administration of this chapter pursuant to subsection (a)—
 
-(1) an officer on the Space Force officer list shall not be deemed to have failed twice of selection for promotion for purposes of section 629(e)(2) or 14502(b) 3 of this title until the officer has failed selection of promotion to the next higher grade the maximum number of times specified for opportunities for promotion to such grade within the competitive category concerned under [section 20234 of this title](./chapter-2005-officers.md#section-20234); and
+(1) an officer on the Space Force officer list shall not be deemed to have failed twice of selection for promotion for purposes of section 629(e)(2) or 14501(b) of this title until the officer has failed selection of promotion to the next higher grade the maximum number of times specified for opportunities for promotion to such grade within the competitive category concerned under [section 20234 of this title](./chapter-2005-officers.md#section-20234); and
 
 (2) any reference in section 631(a) or 632(a) of this title, or in sections 14504 through 14506 of this title, to an officer who has failed of selection for promotion to the next higher grade for the second time shall be deemed to refer instead to an officer on the Space Force officer list who has failed of selection for promotion to the next higher grade for the maximum number of times specified for opportunities for promotion to such grade within the competitive category concerned under [section 20234 of this title](./chapter-2005-officers.md#section-20234).
 
@@ -568,11 +612,21 @@ The date of the enactment of this section, referred to in subsec. (f), is the da
 #### References in Text
 [Section 14201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14201&num=0&edition=prelim), referred to in subsec. (a)(2), probably should be [section 14101 of this title](./chapter-1403-selection-boards.md#section-14101), which relates to convening of selection boards. There is no [section 14201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14201&num=0&edition=prelim).
 
-[Section 14502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14502/b&num=0&edition=prelim), referred to in subsec. (d)(1), probably should be [section 14501(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14501/b&num=0&edition=prelim), which relates to officers twice failed of selection. [Section 14502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14502/b&num=0&edition=prelim) relates to officers considered but not selected due to material error.
+#### Codification
+Another section 20251 was renumbered [section 20252 of this title](./chapter-2005-officers.md#section-20252) by section 521(v)(2) of Pub. L. 118–159. The amendments made by section 521(u) of Pub. L. 118–159 to [section 20251 of this title](./chapter-2005-officers.md#section-20251) were executed to this section to reflect the probable intent of Congress.
+
+#### Amendments
+2025—Subsec. (a). Pub. L. 119–60 struck out “and” before “14504, 631, and 632”.
+
+2024—Subsec. (a). Pub. L. 118–159, § 521(u)(1)(A), substituted “14504, 631, and 632” for “14504 and section 631 and 632” in introductory provisions. See Codification note above.
+
+Subsec. (a)(2). Pub. L. 118–159, § 521(u)(1)(B), substituted “section 14201 or section 611” for “section 14201 or 611”. See Codification note above.
+
+Subsec. (d)(1). Pub. L. 118–159, § 521(u)(2), substituted “14501(b)” for “14502(b)”. See Codification note above.
 
 
-<a id="section-20251"></a>
-## § 20251. Special selection boards; correction of errors
+<a id="section-20252"></a>
+## § 20252. Special selection boards; correction of errors
 **(a) Persons Not Considered by Promotion Board Because of Administrative Error.—**
 
 (1) **Convening of board.—** — In the case of an officer or former officer who the Secretary of the Air Force determines was not considered for selection for promotion by a selection board convened under [section 20211 of this title](./chapter-2005-officers.md#section-20211) because of administrative error, the Secretary shall convene a special selection board under this subsection to determine whether that officer or former officer should be recommended for promotion.
@@ -591,11 +645,11 @@ The date of the enactment of this section, referred to in subsec. (f), is the da
 
   (B) the board did not have before it for its consideration material information.
 
-(2) **Board composition; oath.—** — A special selection board convened under paragraph ((1) 22 So in original. The first opening parenthesis probably should not appear. shall be appointed and composed in accordance with [section 20212 of this title](./chapter-2005-officers.md#section-20212) (including the representation of competitive categories required by that section), and the members of sch 33 So in original. Probably should be “such”. a board shall take an oath in the same manner as prescribed in [section 14103 of this title](./chapter-1403-selection-boards.md#section-14103).
+(2) **Board composition; oath.—** — A special selection board convened under paragraph (1) shall be appointed and composed in accordance with [section 20212 of this title](./chapter-2005-officers.md#section-20212) (including the representation of competitive categories required by that section), and the members of such a board shall take an oath in the same manner as prescribed in [section 14103 of this title](./chapter-1403-selection-boards.md#section-14103).
 
 (3) **Record considered by board.—** — The special selection board shall consider the record of the officer or former officer as that record, if corrected, would have appeared to the board that considered the officer or former officer. That record shall be compared with the records of a sampling of those officers of the same grade and competitive category who were recommended for promotion, and those officers of the same grade and competitive category who were not recommended for promotion, by that board.
 
-(4) **Effect.—** — If a special selection board convened under paragraph (1) does not recommend for promotion a 44 So in original. Probably should be “an”. officer or former officer whose name was referred to it for consideration, the officer or former officer incurs no additional failure of selection for promotion.
+(4) **Effect.—** — If a special selection board convened under paragraph (1) does not recommend for promotion an officer or former officer whose name was referred to it for consideration, the officer or former officer incurs no additional failure of selection for promotion.
 
 **(c) Report of Board.—** Each special selection board convened under this section shall submit to the Secretary of the Air Force a written report, signed by each member of the board, containing the name of each officer or former officer it recommends for promotion and certifying that the board has carefully considered the record of each officer or former officer whose name was referred to it.
 
@@ -613,7 +667,7 @@ The date of the enactment of this section, referred to in subsec. (f), is the da
 
 (1) the circumstances under which consideration by a special selection board is contingent upon application for consideration by an officer or former officer; and
 
-(2) time limits within which of 4 officer or former officer must make such application in order to be considered by a special selection board under this section.
+(2) time limits within which an officer or former officer must make such application in order to be considered by a special selection board under this section.
 
 **(g) Convening of Boards.—** A board convened under this section—
 
@@ -640,6 +694,17 @@ The date of the enactment of this section, referred to in subsec. (f), is the da
 (2) If a court finds that the action of a special selection board which considers an officer or former officer was contrary to law or involved material error of fact or material administrative error, it shall remand the case to the Secretary, who shall provide the officer or former officer reconsideration by a new special selection board.
 
 **(j) Designation of Boards.—** The Secretary of the Air Force may designate a promotion board convened under [section 20201(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20201/a&num=0&edition=prelim) as a special selection board convened under this section.
+
+### Statutory Notes
+
+#### Amendments
+2024—Pub. L. 118–159, § 521(v)(2), renumbered the second [section 20251 of this title](./chapter-2005-officers.md#section-20251) as this section.
+
+Subsec. (b)(2). Pub. L. 118–159, § 521(v)(1)(A)(i), substituted “(1)” for “((1)” and “such” for “sch”.
+
+Subsec. (b)(4). Pub. L. 118–159, § 521(v)(1)(A)(ii), substituted “an officer” for “a officer”.
+
+Subsec. (f)(2). Pub. L. 118–159, § 521(v)(1)(B), substituted “which an officer” for “which of officer”.
 
 
 <a id="section-20252a"></a>

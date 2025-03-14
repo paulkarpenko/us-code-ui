@@ -55,11 +55,15 @@ In this chapter:
 
 (2) **Abduction** — The term “abduction” means the alleged wrongful removal of a child from the child’s country of habitual residence, or the wrongful retention of a child outside such country, in violation of a left-behind parent’s custodial rights, including the rights of a military parent.
 
-(3) **Abduction case** — The term “abduction case” means a case that—
+(3) **Abduction case** — The term abduction case 11 So in original. The defined term probably should be within quotation marks. means—
 
-  (A) has been reported to the Central Authority of the United States by a left-behind parent for the resolution of an abduction; and
+  (A) a case that—
 
-  (B) meets the criteria for an international child abduction under the Hague Abduction Convention, regardless of whether the country at issue is a Convention country.
+    (i) has been reported to the Central Authority of the United States by a left-behind parent for the resolution of an abduction;
+
+    (ii) meets the criteria for an international child abduction under the Hague Abduction Convention, regardless of whether the country at issue is a Convention country; and
+
+  (B) includes any case reported involving an application filed with the Central Authority of the United States or directly with the foreign central authority by a parent seeking rights of access or return.
 
 (4) **Access case** — The term “access case” means a case involving an application filed with the Central Authority of the United States by a parent seeking rights of access.
 
@@ -87,7 +91,7 @@ In this chapter:
 
   (C) in the case of a non-Convention country, the foreign ministry or other appropriate authority of such country.
 
-(11) **Child** — The term “child” means an individual who has not attained 16 years of age.
+(11) **Child** — The term “child” means an individual who has not attained 18 years of age.
 
 (12) **Convention country** — The term “Convention country” means a country for which the Hague Abduction Convention has entered into force with respect to the United States.
 
@@ -181,6 +185,11 @@ In this chapter:
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 113–150, Aug. 8, 2014, 126 Stat. 1807, known as the Sean and David Goldman International Child Abduction Prevention and Return Act of 2014, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### Amendments
+2024—Par. (3). Pub. L. 118–159, § 7509(a)(1), substituted “abduction case means—” for “ ‘abduction case’ means” in introductory provisions, inserted subpar. (A) designation before “a case”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+
+Par. (11). Pub. L. 118–159, § 7509(a)(2), substituted “18” for “16”.
 
 #### Short Title
 Pub. L. 113–150, § 1(a), Aug. 8, 2014, 128 Stat. 1807, provided that: “This Act [enacting this chapter and [section 241 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section241&num=0&edition=prelim), Domestic Security, repealing [section 11611 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11611&num=0&edition=prelim), The Public Health and Welfare, and enacting provisions set out as a note under this section] may be cited as the ‘Sean and David Goldman International Child Abduction Prevention and Return Act of 2014’.”
@@ -424,6 +433,13 @@ The Secretary of State shall—
 
   (C) the national security interests of the United States.
 
+**(d) Action in the case of abducted children who reach the age of 16** When an individual who is an abducted child attains 16 years of age, a consular officer from a United States diplomatic mission in the country in which such individual resides shall, until either the left-behind parent seeking assistance or the individual (after attaining 18 years of age) requests the officer to cease, annually attempt to contact such individual, through welfare and whereabout visits and by engaging other agencies and foreign counterparts as necessary, to provide information, as relevant, on rights and privileges as a United States citizen, such as passports, and any eligible benefits from left-behind parent, such as G.I. educational and health benefits and to obtain a verified location of such individual.
+
+### Statutory Notes
+
+#### Amendments
+2024—Subsec. (d). Pub. L. 118–159 added subsec. (d).
+
 
 <a id="section-9123"></a>
 ## § 9123. Actions by the Secretary of State in response to patterns of noncompliance in cases of international child abductions
@@ -523,12 +539,23 @@ The Secretary of State shall—
 
 **(g) Humanitarian exception** Any action taken pursuant to subsection (d) or (e) may not prohibit or restrict the provision of medicine, medical equipment or supplies, food, or other life-saving humanitarian assistance.
 
+**(h) Study of international parental child abduction**
+
+(1) **Study required** — Not later than 1 year after December 23, 2024, the Secretary of State, subject to the availability of funds, shall seek to enter into an agreement with an appropriate university, research institution, or nongovernmental organization to study and publish a report on the impact to abducted children and left-behind parents as a result of international parental child abduction.
+
+(2) **Consultation** — The Secretary of State shall consult with the appropriate congressional committees on the goals of the study and report required under paragraph (1).
+
+(3) **Authorization of appropriations** — There is authorized to be appropriated $1,000,000 for each of fiscal years 2025 and 2026 to carry out the study required under paragraph (1).
+
 ### Statutory Notes
 
 #### References in Text
 The Foreign Assistance Act of 1961, referred to in subsec. (d)(7), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 This chapter, referred to in subsec. (e)(1)(B), (2)(C)(ii), was in the original “this Act”, meaning Pub. L. 113–150, Aug. 8, 2014, 126 Stat. 1807, known as the Sean and David Goldman International Child Abduction Prevention and Return Act of 2014, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9101 of this title](./chapter-098-international-child-abduction-prevention-and-return.md#section-9101) and Tables.
+
+#### Amendments
+2024—Subsec. (h). Pub. L. 118–159 added subsec. (h).
 
 
 <a id="section-9124"></a>

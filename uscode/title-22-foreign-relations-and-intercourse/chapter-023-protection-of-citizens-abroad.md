@@ -2,7 +2,7 @@
 title: 22
 chapter: '23'
 heading: PROTECTION OF CITIZENS ABROAD
-section_count: 10
+section_count: 13
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -174,7 +174,7 @@ For Executive Order provisions relating to the release of the American hostages 
 
       (I) consist of not more than 2 family members or other individuals approved in accordance with subparagraph (A)(i)(II), unless the Special Presidential Envoy for Hostage Affairs determines that circumstances warrant an additional family member or other individual approved in accordance with subparagraph (A)(i)(II) and approves assistance to such third family member or other individual; and
 
-      (II) not exceed more than 2 nights lodging, which shall not exceed the applicable government rate.
+      (II) not exceed more than 2 nights lodging, unless the Special Presidential Envoy for Hostage Affairs determines that circumstances warrant an additional night, which shall not exceed the applicable government rate.
 
   (C) *Return travel* — If other United States Government assistance is unavailable, the Secretary may provide to a United States national unlawfully or wrongfully detained abroad as determined by the Secretary under subsection (a), United States assistance, as necessary, for return travel to the United States upon release of such United States national.
 
@@ -192,7 +192,7 @@ For Executive Order provisions relating to the release of the American hostages 
 
     (ii) *Exception* — The time limitation under clause (i) does not apply to any support provided during the pendency of the detention of a United States national unlawfully or wrongfully detained abroad.
 
-(4) **Notification requirement** — The Secretary shall notify the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives of any amount spent above $250,000 for any fiscal year to carry out paragraphs (2) and (3).
+(4) **Notification requirement** — The Secretary shall notify the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives not later than 14 days after such time that total expenditures to carry out paragraphs (2) and (3) in any fiscal year surpass $250,000 for any fiscal year.
 
 (5) **Funding** — Funds authorized to be appropriated for the Department of State, which may include funds made available for unforeseen emergencies arising in the diplomatic and consular service, may be used to provide the support authorized by this section.
 
@@ -208,9 +208,45 @@ For Executive Order provisions relating to the release of the American hostages 
 
 (8) **Family member defined** — In this subsection, the term “family member” means a spouse, father, mother, child, brother, sister, grandparent, grandchild, aunt, uncle, nephew, niece, cousin, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, or half sister.
 
+**(e) Timeline for unlawful or wrongful detention determinations**
+
+(1) **Credible information determinations**
+
+  (A) *In general* — Not less frequently than every 180 days, the Assistant Secretary for the Bureau of Consular Affairs and the Special Presidential Envoy for Hostage Affairs shall review the cases where there is potential credible information that any United States national is being detained wrongfully and which has been identified through official government channels to both bureaus.
+
+  (B) *Report of findings* — Not later than 30 days after each review under subparagraph (A), the Assistant Secretary of State for Consular Affairs and the Special Presidential Envoy for Hostage Affairs shall jointly submit to Congress a classified report identifying the United States nationals identified as a result of the review in subparagraph (A) detained overseas who have not, as of the date of the report, been determined by the Secretary to be unlawfully or wrongfully detained.
+
+  (C) *Notification to family members* — In the case of a United States national detained overseas identified in the report under subparagraph (B), the Assistant Secretary of State for Consular Affairs shall notify a family member (as that term is defined in subsection (d)(8)) or the legal representative of the United States national not later than 30 days after the transmittal of the report required by subparagraph (B).
+
+(2) **Status determinations**
+
+  (A) *In general* — Except as provided in subparagraph (B) and to the extent practicable, not later than 180 days after the date on which the Secretary of State receives an assessment from the Special Presidential Envoy for Hostage Affairs or the head of any other relevant bureau of the Department of State that credible information exists that a United States national is being detained unlawfully or wrongfully, the Secretary shall determine whether the United States national is in fact being unlawfully or wrongfully detained.
+
+  (B) *Waiver*
+
+    (i) *In general* — The Secretary may waive the requirement under subparagraph (A) to make an unlawful or wrongful detention determination if the Secretary—
+
+      (I) determines that making such a determination may jeopardize the safety or interests of the United States national being detained abroad or the national security interests of the United States; and
+
+      (II) submits to Congress a classified report describing the reasons for the waiver.
+
+    (ii) *Timing* — A waiver under clause (i) shall expire on the date that is 180 days after the date on which the Secretary submits the report on the waiver to Congress pursuant to clause (i)(II).
+
+    (iii) *Renewal* — The Secretary may renew a waiver granted pursuant to clause (i) in the manner provided under such clause.
+
+**(f) Declarations of invalidity** Upon the release of a United States national determined to be unlawfully or wrongfully detained abroad and the return of that national, the President shall issue to that national a letter, to be known as a “declaration of invalidity”, that officially declares the detention abroad of the national as invalid for the purpose of completing any documentation that warrants a background investigation or review of prior offenses, such as a conviction.
+
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (d)(2)(B)(ii)(II). Pub. L. 118–159, § 7701(1), inserted “unless the Special Presidential Envoy for Hostage Affairs determines that circumstances warrant an additional night,” after “lodging,”.
+
+Subsec. (d)(4). Pub. L. 118–159, § 7701(2), substituted “not later than 14 days after such time that total expenditures to carry out paragraphs (2) and (3) in any fiscal year surpass $250,000 for any fiscal year” for “of any amount spent above $250,000 for any fiscal year to carry out paragraphs (2) and (3)”.
+
+Subsec. (e). Pub. L. 118–159, § 7707, added subsec. (e).
+
+Subsec. (f). Pub. L. 118–159, § 7708, added subsec. (f).
+
 2023—Subsec. (d). Pub. L. 118–31, § 6409(1), substituted “Resources for United States nationals unlawfully or wrongfully detained abroad” for “Resource guidance” in heading.
 
 Subsec. (d)(1). Pub. L. 118–31, § 6409(2), substituted “Resource guidance” for “Establishment” in heading, and designated existing provisions as subpar. (A) and inserted heading.
@@ -228,6 +264,9 @@ Subsec. (d)(3) to (8). Pub. L. 118–31, § 6409(6), added pars. (3) to (8).
 2022—Subsec. (a). Pub. L. 117–263, § 9102(1), inserted “, as expeditiously as possible,” after “review” in introductory provisions.
 
 Subsec. (b). Pub. L. 117–263, § 9102(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “Upon a determination by the Secretary of State, based on the totality of the circumstances, that there is credible information that the detention of a United States national abroad is unlawful or wrongful, and regardless of whether the detention is by a foreign government or a nongovernmental actor, the Secretary shall transfer responsibility for such case from the Bureau of Consular Affairs of the Department of State to the Special Envoy for Hostage Affairs created pursuant to [section 1741a of this title](./chapter-023-protection-of-citizens-abroad.md#section-1741a).”
+
+#### Short Title of 2025 Amendment
+Pub. L. 119–60, div. H, title LXXXIII, § 8351, Dec. 18, 2025, 139 Stat. 1880, provided that: “This title [probably means this subtitle, enacting [section 1741d–1 of this title](./chapter-023-protection-of-citizens-abroad.md#section-1741d-1) and enacting provisions set out as a note under [section 1741d–1 of this title](./chapter-023-protection-of-citizens-abroad.md#section-1741d-1)] may be cited as the ‘Countering Wrongful Detention Act of 2025’.”
 
 #### Short Title
 Pub. L. 116–260, div. FF, title III, § 301, Dec. 27, 2020, 134 Stat. 3091, provided that: “This subtitle [subtitle A (§§ 301–308) of title III of div. FF of Pub. L. 116–260, enacting this subchapter] may be cited as the ‘Robert Levinson Hostage Recovery and Hostage-Taking Accountability Act’.”
@@ -355,6 +394,41 @@ Pub. L. 116–260, div. FF, title III, § 301, Dec. 27, 2020, 134 Stat. 3091, pr
 **(e) Reporting** The Hostage Response Group shall regularly provide recommendations on hostage recovery options and strategies to the National Security Council.
 
 
+<a id="section-1741c-1"></a>
+## § 1741c–1. Report on strategies for reducing likelihood of United States nationals being unlawfully or wrongfully detained or taken hostage
+
+Not later than 60 days after December 23, 2024, the Special Presidential Envoy for Hostage Affairs, in coordination with the Hostage Recovery Fusion Cell, the Hostage Response Group, and relevant agencies, as appropriate, shall submit to the President and Congress a classified report that identifies and recommends options and strategies to reduce the likelihood of United States nationals being unlawfully or wrongfully detained abroad or taken hostage.
+
+
+<a id="section-1741c-2"></a>
+## § 1741c–2. Coordination with transportation authorities and industry on Department of State travel advisories
+**(a) Coordination with the Department of Homeland Security**
+
+(1) **In general** — The Secretary of State shall, in coordination with the Secretary of Homeland Security and representatives of any other Federal agency determined necessary, and in consultation with the Special Presidential Envoy for Hostage Affairs and the Assistant Secretary of State for Consular Affairs, develop messaging and informational guidance to be delivered at all United States international airports and on relevant United States Government websites warning United States nationals of the risks of wrongful or unlawful detention or hostage-taking in covered countries.
+
+(2) **Messaging and guidance** — The messaging and guidance described under paragraph (1) may include—
+
+  (A) posters, brochures, and other informational materials;
+
+  (B) web banners or other warnings to be displayed on relevant United States Government websites and webpages;
+
+  (C) verbal warnings at United States international airports to United States nationals whose destinations, to the extent they are discernable, are covered countries; and
+
+  (D) other methods deemed appropriate by the Secretary, in coordination with the Secretary of Homeland Security and representatives of any other Federal agency determined necessary.
+
+**(b) Department of State coordination with United States airlines** The Secretary of State shall, in coordination with the Secretary of Homeland Security and representatives of any other Federal agency determined necessary, and in consultation with the Special Presidential Envoy for Hostage Affairs and Assistant Secretary of the Bureau of Consular Affairs, work with United States airlines to provide warnings about the risk of wrongful or unlawful detention and hostage-taking to United States nationals booking travel through their airlines to a covered country.
+
+**(c) Report** Not later than one year after December 23, 2024, the Secretary of State shall, in coordination with the Secretary of Homeland Security and representatives of any other Federal agency determined necessary, submit to Congress a report detailing—
+
+(1) the additional steps taken to warn United States nationals of the risks of wrongful or unlawful detention and hostage-taking abroad, including those described in this section;
+
+(2) efforts to improve the visibility and expand the reach of Department of State travel advisories concerning the risks to United States nationals of wrongful or unlawful detention and hostage-taking abroad; and
+
+(3) additional recommendations on steps the United States Government might take to improve the awareness of United States nationals of the risk of wrongful or unlawful detention and hostage-taking abroad.
+
+**(d) Covered country defined** In this section, the term “covered country” means a country for which a Department of State travel advisory contains either the “K—Kidnapping or Hostage Taking” or “D—Wrongful Detention” Risk Indicators.
+
+
 <a id="section-1741d"></a>
 ## § 1741d. Authorization of imposition of sanctions
 **(a) In general** The President may impose the sanctions described in subsection (b) with respect to any foreign person the President determines, based on credible evidence—
@@ -447,6 +521,129 @@ The Immigration and Nationality Act, referred to in subsec. (b)(1)(A)(iii), is a
 The International Emergency Economic Powers Act, referred to in subsec. (b)(2)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
 The National Security Act of 1947, referred to in subsec. (c)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+
+
+<a id="section-1741d-1"></a>
+## § 1741d–1. Designation of a foreign country as a State Sponsor of Unlawful or Wrongful Detention
+**(a) In general** Subject to the notice requirement of subsection (c)(1)(A), the Secretary of State, in consultation with the heads of other relevant Federal agencies, may designate a foreign country that has provided support for or directly engaged in the unlawful or wrongful detention of a United States national as a State Sponsor of Unlawful or Wrongful Detention based on any of the following criteria:
+
+(1) The unlawful or wrongful detention of a United States national occurs in the foreign country.
+
+(2) The government of the foreign country or an entity organized under the laws of a foreign country has failed to release an unlawfully or wrongfully detained United States national within 30 days of being officially notified by the Department of State of the unlawful or wrongful detention.
+
+(3) Actions taken by the government of the foreign country indicate that the government is responsible for, complicit in, or materially supports the unlawful or wrongful detention of a United States national, including by acting as described in paragraph (2) after having been notified by the Department of State.
+
+(4) The actions of a state or nonstate actor in the foreign country, including any previous action relating to unlawful or wrongful detention or hostage taking of a United States national, pose a risk to the safety and security of United States nationals abroad sufficient to warrant designation of the foreign country as a State Sponsor of Unlawful or Wrongful Detention, as determined by the Secretary.
+
+**(b) Termination of designation** The Secretary of State may terminate the designation of a foreign country under subsection (a) if the Secretary certifies to Congress that the government of the foreign country—
+
+(1) has released the United States nationals unlawfully or wrongfully detained within the territory of the foreign country;
+
+(2) has positively contributed to the release of United States nationals taken hostage within the territory of the foreign country or from the custody of a nonstate entity;
+
+(3) has demonstrated changes in leadership or policies with respect to unlawful or wrongful detention and hostage taking; or
+
+(4) has provided assurances that the government of the foreign country will not engage or be complicit in or support acts described in subsection (a).
+
+**(c) Briefing and reports to Congress; publication**
+
+(1) **Consultation and reports to Congress**
+
+  (A) *Consultation* — Prior to the designation under subsection (a), the Secretary of State shall consult the appropriate committees of Congress.
+
+  (B) *Reporting requirement* — Not later than 7 days after making a designation of a foreign country as a State Sponsor of Unlawful or Wrongful Detention under subsection (a), the Secretary of State shall submit to the appropriate committees of Congress a report notifying the committees of the designation, including a certification of which criteria in subsection (a) are the basis for the designation.
+
+  (C) *Elements* — In each report submitted under subparagraph (B) with respect to the designation of a foreign country as a State Sponsor of Unlawful or Wrongful Detention, the Secretary shall include—
+
+    (i) the justification for the designation; and
+
+    (ii) a description of any action taken by the United States Government, including the Secretary of State or the head of any other relevant Federal agency, in response to the designation to deter the unlawful or wrongful detention or hostage-taking of foreign nationals in the country.
+
+(2) **Initial briefing required** — Not later than 60 days after December 18, 2025, the Secretary shall brief Congress on the following:
+
+  (A) Whether any of the following countries should be designated as a State Sponsor of Unlawful or Wrongful Detention under subsection (a):
+
+    (i) Afghanistan.
+
+    (ii) The Islamic Republic of Iran.
+
+    (iii) The People’s Republic of China.
+
+    (iv) The Russian Federation.
+
+    (v) Venezuela under the regime of Nicolás Maduro.
+
+    (vi) The Republic of Belarus.
+
+  (B) The steps taken by the Secretary and the heads of other relevant Federal agencies to deter the unlawful and wrongful detention of United States nationals and to respond to such detentions, including—
+
+    (i) any engagement with private sector companies to optimize the distribution of travel advisories; and
+
+    (ii) any engagement with private companies responsible for promoting travel to foreign countries engaged in the unlawful or wrongful detention of United States nationals.
+
+  (C) An assessment of a possible expansion of chapter 97 of title 28, United States Code (commonly known as the “Foreign Sovereign Immunities Act of 1976”) to include an exception from asset seizure immunity for State Sponsors of Unlawful or Wrongful Detention.
+
+  (D) A detailed plan on the manner by which a geographic travel restriction should or could be instituted against State Sponsors of Unlawful or Wrongful Detention.
+
+  (E) The progress made in multilateral fora, including the United Nations and other international organizations, to address the unlawful and wrongful detention of United States nationals, in addition to nationals of partners and allies of the United States in foreign countries.
+
+(3) **Annual briefing**
+
+  (A) *In general* — Not later than one year after December 18, 2025, and annually thereafter for 5 years, the Assistant Secretary of State for Consular Affairs and the Special Presidential Envoy for Hostage Affairs shall brief the appropriate committees of Congress with respect to unlawful or wrongful detentions taking place in the countries listed under paragraph (2)(A) and actions taken by the Secretary of State and the heads of other relevant Federal agencies to deter the wrongful detention of United States nationals, including any steps taken in accordance with paragraph (2)(B).
+
+  (B) *No limitation on other briefings* — Any briefings pursuant to subparagraph (A) shall be in addition to any briefings requested by the appropriate congressional committees. Nothing in this provision shall be construed to limit the provision of any other briefings to the appropriate committees of Congress.
+
+(4) **Publication** — The Secretary shall make available on a publicly accessible website of the Department of State, and regularly update, a list of foreign countries designated as State Sponsors of Unlawful or Wrongful Detention under subsection (a).
+
+**(d) Review of available responses to State Sponsors of Unlawful or Wrongful Detention** Upon designation of a foreign country as a State Sponsor of Unlawful or Wrongful Detention under subsection (a), the Secretary of State, in consultation with the heads of other relevant Federal agencies, shall conduct a comprehensive review of the use of existing authorities to respond to and deter the unlawful or wrongful detention of United States nationals in the foreign country, including—
+
+(1) sanctions available under the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.);
+
+(2) visa restrictions available under section 7031(c) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2024 (division F of Public Law 118–47; [8 U.S.C. 1182](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&num=0&edition=prelim) note) or any other provision of Federal law;
+
+(3) sanctions available under the Immigration and Nationality Act ([8 U.S.C. 1101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) et seq.);
+
+(4) restrictions on assistance provided to the government of the country under the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.) or any other provision of Federal law;
+
+(5) restrictions on the export of certain goods to the country under the Arms Export Control Act ([22 U.S.C. 2751](./chapter-039-arms-export-control.md#section-2751) et seq.), the Export Control Reform Act of 2018 ([50 U.S.C. 4801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4801&num=0&edition=prelim) et seq.), or any other Federal law; and
+
+(6) designating the government of the country as a government that has repeatedly provided support for acts of international terrorism pursuant to—
+
+  (A) [section 4813(c)(1)(A)(i) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c/1/A/i&num=0&edition=prelim);
+
+  (B) [section 2371 of this title](./chapter-032-foreign-assistance.md#section-2371);
+
+  (C) [section 2780(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim); or
+
+  (D) any other provision of law.
+
+**(e) Defined term** In this section, the term “appropriate committees of Congress” means—
+
+(1) the Committee on Foreign Relations, the Committee on Appropriations, and the Committee on the Judiciary of the Senate; and
+
+(2) the Committee on Foreign Affairs, the Committee on Appropriations, and the Committee on the Judiciary of the House of Representatives.
+
+**(f) Rules of construction** Nothing in this section may be construed to imply that—
+
+(1) the United States Government formally recognizes any particular country or the government of such country as legitimate; or
+
+(2) every United States national detained in a country designated as a State Sponsor of Unlawful or Wrongful Detention under subsection (a) should be or is determined to be wrongfully detained under this subchapter.
+
+### Statutory Notes
+
+#### References in Text
+The International Emergency Economic Powers Act, referred to in subsec. (d)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+
+The Immigration and Nationality Act, referred to in subsec. (d)(3), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
+
+The Foreign Assistance Act of 1961, referred to in subsec. (d)(4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+
+The Arms Export Control Act, referred to in subsec. (d)(5), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
+
+The Export Control Reform Act of 2018, referred to in subsec. (d)(5), is subtitle B (§§ 1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§ 4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 4801 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4801&num=0&edition=prelim) and Tables.
+
+#### Rule of Construction
+Pub. L. 119–60, div. H, title LXXXIII, § 8354, Dec. 18, 2025, 139 Stat. 1883, provided that: “Nothing in this title [probably means this subtitle, subtitle D (§§ 8351–8354) of title LXXXII of Pub. L. 119–60, enacting this section and provisions set out as a note under [section 1741 of this title](./chapter-023-protection-of-citizens-abroad.md#section-1741)] or the amendments made by this title may be construed as preventing the freedom of travel of United States citizens.”
 
 
 <a id="section-1741e"></a>

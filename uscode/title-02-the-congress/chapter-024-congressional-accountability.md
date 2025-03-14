@@ -400,7 +400,7 @@ Pub. L. 116–92, div. F, title LXXVI, § 7605(b), Dec. 20, 2019, 133 Stat. 2308
 ## § 1313. Rights and protections under Fair Labor Standards Act of 1938
 **(a) Fair labor standards**
 
-(1) **In general** — The rights and protections established by subsections (a)(1) and (d) of section 6, section 7, and section 12(c) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206&num=0&edition=prelim) (a)(1) and (d), 207, 212(c)) shall apply to covered employees.
+(1) **In general** — The rights and protections established by subsections (a)(1) and (d) of section 6, section 7, section 12(c), and section 18D of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206&num=0&edition=prelim) (a)(1) and (d), 207, 212(c), 218d) shall apply to covered employees.
 
 (2) **Interns** — For the purposes of this section, the term “covered employee” does not include an intern as defined in regulations under subsection (c).
 
@@ -431,6 +431,8 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (c)(3), is act June
 Section is comprised of section 203 of Pub. L. 104–1. Subsec. (d) of section 203 of Pub. L. 104–1 amended [section 203 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section203&num=0&edition=prelim), Labor.
 
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–37 substituted “section 12(c), and section 18D” for “and section 12(c)” and inserted “, 218d” after “212(c)”.
+
 1996—Subsec. (a)(3). Pub. L. 104–197, § 312(a), inserted “and in subsection (c)(4) of this section” after “subsection (c)(3) of this section”.
 
 Subsec. (c)(4). Pub. L. 104–197, § 312(b), added par. (4).
@@ -951,7 +953,7 @@ Subsec. (e)(2)(G). Pub. L. 115–397 substituted “Office of Congressional Work
 Amendment by Pub. L. 115–397 effective Dec. 21, 2018, and any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date to be considered to refer and apply to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as a note under [section 1381 of this title](./chapter-024-congressional-accountability.md#section-1381).
 
 #### Senate Democratic Leadership Offices Funding and Authorities
-Reference to the Office of the Secretary of the majority or minority conference of the Senate, as applicable, that represents the Democratic party deemed to be a reference to the Office of the Assistant Leader of the applicable conference, under certain conditions during the 117th Congress, see section 104 of div. I of Pub. L. 116–260, set out as a note under [section 6154 of this title](./chapter-061-senate-leadership.md#section-6154).
+Reference to the Office of the Secretary of the majority or minority conference of the Senate, as applicable, that represents the Democratic party deemed to be a reference to the office of the designated officer of the applicable conference, under certain conditions during the 118th and any subsequent Congress, see [section 6161 of this title](./chapter-061-senate-leadership.md#section-6161).
 
 
 <a id="section-1361"></a>

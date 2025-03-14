@@ -330,7 +330,7 @@ Pub. L. 101–189, div. A, title VII, § 725(f), Nov. 29, 1989, 103 Stat. 1479, 
 
 <a id="section-2128"></a>
 ## § 2128. Accession bonus for members of the program
-**(a) Availability of Bonus.—** The Secretary of Defense may offer a person who enters into an agreement under [section 2122(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2122/a/2&num=0&edition=prelim) an accession bonus of not more than $20,000 as part of the agreement.
+**(a) Availability of Bonus.—** The Secretary of Defense may offer a person who enters into an agreement under [section 2122(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2122/a/2&num=0&edition=prelim) an accession bonus of not more than $100,000 as part of the agreement.
 
 **(b) Relation to Other Payments.—** An accession bonus paid a person under this section is in addition to any other amounts payable to the person under this subchapter.
 
@@ -342,6 +342,8 @@ Pub. L. 101–189, div. A, title VII, § 725(f), Nov. 29, 1989, 103 Stat. 1479, 
 Prior sections 2128 to 2130 were renumbered sections 16201 to 16203 of this title, respectively.
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–159 substituted “$100,000” for “$20,000”.
+
 2017—Subsec. (c). Pub. L. 115–91 inserted “or 373” before “of title 37”.
 
 #### Effective Date
@@ -352,7 +354,7 @@ Pub. L. 110–181, div. A, title VI, § 623(c), Jan. 28, 2008, 122 Stat. 152, pr
 ## § 2130a. Financial assistance: nurse officer candidates
 **(a) Bonus Authorized.—**
 
-(1) A person described in subsection (b) who, during the period beginning on November 29, 1989, and ending on December 31, 2024, executes a written agreement in accordance with subsection (c) to accept an appointment as a nurse officer may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus of not more than $40,000. The bonus shall be paid in periodic installments, as determined by the Secretary concerned at the time the agreement is accepted, except that the first installment may not exceed $20,000.
+(1) A person described in subsection (b) who, during the period beginning on November 29, 1989, and ending on December 31, 2026, executes a written agreement in accordance with subsection (c) to accept an appointment as a nurse officer may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus of not more than $40,000. The bonus shall be paid in periodic installments, as determined by the Secretary concerned at the time the agreement is accepted, except that the first installment may not exceed $20,000.
 
 (2) In addition to the accession bonus payable under paragraph (1), a person selected under such paragraph shall be entitled to a monthly stipend in an amount not to exceed the stipend rate in effect under [section 2121(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2121/d&num=0&edition=prelim) for each month the individual is enrolled as a full-time student in an accredited baccalaureate degree program in nursing at a civilian educational institution by the Secretary selecting the person. The continuation bonus may be paid for not more than 24 months.
 
@@ -385,6 +387,10 @@ Pub. L. 110–181, div. A, title VI, § 623(c), Jan. 28, 2008, 122 Stat. 152, pr
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–60 substituted “December 31, 2026” for “December 31, 2025”.
+
+2024—Subsec. (a)(1). Pub. L. 118–159 substituted “December 31, 2025” for “December 31, 2024”.
+
 2023—Subsec. (a)(1). Pub. L. 118–31, § 613(b)(1), substituted “December 31, 2024” for “December 31, 2023”.
 
 Pub. L. 118–31, § 544, substituted “$40,000” for “$20,000” and “$20,000” for “$10,000”.

@@ -1588,7 +1588,7 @@ Pub. L. 95–30, title IV, § 407, May 23, 1977, 91 Stat. 156, provided that: �
 
 **(f) Limitation on cover over of tax on distilled spirits** For purposes of this section, with respect to taxes imposed under section 5001 or this section on distilled spirits, the amount covered into the treasuries of Puerto Rico and the Virgin Islands shall not exceed the lesser of the rate of—
 
-(1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2022), or
+(1) $13.25, or
 
 (2) the tax imposed under subsection (a)(1) of section 5001, determined as if subsection (c)(1) of such section did not apply, on each proof gallon.
 
@@ -1620,6 +1620,8 @@ Section 213 of the Caribbean Basin Economic Recovery Act, referred to in subsec.
 The Harmonized Tariff Schedule of the United States ([19 U.S.C. 1202](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1202&num=0&edition=prelim)), referred to in subsec. (e)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1202&num=0&edition=prelim).
 
 #### Amendments
+2025—Subsec. (f)(1). Pub. L. 119–21 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “$10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2022), or”.
+
 2020—Subsec. (e)(5). Pub. L. 116–260, § 106(a)(2)(B), struck out par. (5). Text read as follows: “For purposes of this subsection, the amount of taxes collected under section 5001(a)(1) shall be determined without regard to section 5001(c).”
 
 Subsec. (i). Pub. L. 116–260, § 106(a)(2)(A), added subsec. (i).
@@ -1666,7 +1668,7 @@ Subsec. (h). Pub. L. 106–200, § 602(c), added subsec. (h).
 
 1986—Subsec. (g). Pub. L. 99–514 added subsec. (g).
 
-1984—Subsecs. (c)–(e). Pub. L. 98–369, § 2681(a), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+1984—Subsecs. (c) to (e). Pub. L. 98–369, § 2681(a), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
 Subsec. (f). Pub. L. 98–369, § 2682(a), added subsec. (f).
 
@@ -1693,6 +1695,9 @@ Pub. L. 94–202 substituted “calendar quarter ending September 30, 1975, and 
 1958—Subsec. (a)(1). Pub. L. 85–859, § 204(17), substituted “section 5314” for “section 5318”.
 
 Subsec. (b)(1). Pub. L. 85–859, § 204(18), substituted “section 5314” for “section 5318”.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VII, § 70427(b), July 4, 2025, 139 Stat. 238, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2025.”
 
 #### Effective Date of 2020 Amendment
 Amendment by Pub. L. 116–260 applicable to distilled spirits brought into the United States and removed after Dec. 31, 2022, see section 107(a)(3) of div. EE of Pub. L. 116–260, set out as a note under [section 5001 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5001).

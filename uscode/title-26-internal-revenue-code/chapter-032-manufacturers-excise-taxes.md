@@ -1380,7 +1380,7 @@ Section effective Jan. 1, 1994, see section 13242(e) of Pub. L. 103–66, set ou
 ## § 4101. Registration and bond
 **(a) Registration**
 
-(1) **In general** — Every person required by the Secretary to register under this section with respect to the tax imposed by section 4041(a) or 4081, every person producing or importing biodiesel (as defined in section 40A(d)(1)) or alcohol (as defined in section 6426(b)(4)(A)), every person producing or importing sustainable aviation fuel (as defined in section 40B), and every person producing second generation biofuel (as defined in section 40(b)(6)(E)) shall register with the Secretary at such time, in such form and manner, and subject to such terms and conditions, as the Secretary may by regulations prescribe. A registration under this section may be used only in accordance with regulations prescribed under this section.
+(1) **In general** — Every person required by the Secretary to register under this section with respect to the tax imposed by section 4041(a) or 4081, every person producing or importing biodiesel (as defined in section 40A(d)(1)) or alcohol (as defined in section 6426(b)(4)(A)), every person producing or importing sustainable aviation fuel (as defined in section 40B), every person producing a fuel eligible for the clean fuel production credit (pursuant to section 45Z), and every person producing second generation biofuel (as defined in section 40(b)(6)(E)) shall register with the Secretary at such time, in such form and manner, and subject to such terms and conditions, as the Secretary may by regulations prescribe. A registration under this section may be used only in accordance with regulations prescribed under this section.
 
 (2) **Registration of persons within foreign trade zones, etc.** — The Secretary shall require registration by any person which—
 
@@ -1424,14 +1424,13 @@ Any person who is required to report under this subsection and who has 25 or mor
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)(1)
-Pub. L. 117–169, title I, § 13704(b)(5), (c), Aug. 16, 2022, 136 Stat. 2003, provided that, applicable to transportation fuel produced after Dec. 31, 2024, subsection (a)(1) of this section is amended by inserting “every person producing a fuel eligible for the clean fuel production credit (pursuant to section 45Z),” after “section 6426(k)(3)),”. See 2022 Amendment note below.
-
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
-2022—Subsec. (a)(1). Pub. L. 117–169, § 13704(b)(5), which directed insertion of “every person producing a fuel eligible for the clean fuel production credit (pursuant to section 45Z),” after “section 6426(k)(3)),”, was executed by making the insertion after “section 40B),” as inserted by section 13203(d)(2)(C) of Pub. L. 117–169, to reflect the probable intent of Congress. See note below. A prior version of such amendment by section 13203(d)(2)(C) contained text that read “(as defined in section 40B or section 6426(k)(3)),”, but the reference to section 6426(k)(3) did not appear in the enacted version.
+2025—Subsec. (a)(1). Pub. L. 119–21, § 70521(i)(1), amended Pub. L. 117–169, § 13704(b)(5). See 2022 Amendment note below.
+
+2022—Subsec. (a)(1). Pub. L. 117–169, § 13704(b)(5), as amended by Pub. L. 119–21, § 70521(i)(1), inserted “every person producing a fuel eligible for the clean fuel production credit (pursuant to section 45Z),” after “section 40B),”.
 
 Pub. L. 117–169, § 13203(d)(2)(C), inserted “every person producing or importing sustainable aviation fuel (as defined in section 40B),” before “and every person producing second generation biofuel”.
 
@@ -1484,6 +1483,9 @@ Subsec. (d). Pub. L. 108–357, § 864(a), inserted concluding provisions.
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 1965—Pub. L. 89–44 struck out all references to a bond to be given and its terms and requirements.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VII, § 70521(i)(2), July 4, 2025, 139 Stat. 278, provided that: “The amendment made by this subsection [amending section 13704(b)(5) of Pub. L. 117–169, which amended this section] shall apply to transportation fuel produced after December 31, 2024.”
 
 #### Effective Date of 2022 Amendment
 Amendment by section 13203(d)(2)(C) of Pub. L. 117–169 applicable to fuel sold or used after Dec. 31, 2022, see section 13203(f) of Pub. L. 117–169, set out as an Effective Date note under [section 40B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-40b).
@@ -2221,7 +2223,7 @@ There is hereby imposed upon the sale by the manufacturer, producer, or importer
 
 <a id="section-4182"></a>
 ## § 4182. Exemptions
-**(a) Machine guns and short barrelled firearms** The tax imposed by section 4181 shall not apply to any firearm on which the tax provided by section 5811 has been paid.
+**(a) Machine guns and short barrelled firearms** The tax imposed by section 4181 shall not apply to any firearm on which the tax provided by section 5811 has been paid. For purposes of the preceding sentence, any firearm described in section 5811(a)(2) shall be deemed to be a firearm on which the tax provided by section 5811 has been paid.
 
 **(b) Sales to defense department** No firearms, pistols, revolvers, shells, and cartridges purchased with funds appropriated for the military department shall be subject to any tax imposed on the sale or transfer of such articles.
 
@@ -2236,9 +2238,14 @@ There is hereby imposed upon the sale by the manufacturer, producer, or importer
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–21 inserted at end “For purposes of the preceding sentence, any firearm described in section 5811(a)(2) shall be deemed to be a firearm on which the tax provided by section 5811 has been paid.”
+
 2005—Subsecs. (c), (d). Pub. L. 109–59 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1969—Subsec. (c). Pub. L. 91–128 added subsec. (c).
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–21, title VII, § 70436(d), July 4, 2025, 139 Stat. 248, provided that: “The amendments made by this section [amending this section and sections 5811 and 5821 of this title] shall apply to calendar quarters beginning more than 90 days after the date of the enactment of this Act [July 4, 2025].”
 
 #### Effective Date of 2005 Amendment
 Pub. L. 109–59, title XI, § 11131(b), Aug. 10, 2005, 119 Stat. 1959, provided that: “(1) In general.—The amendments made by this section [amending this section] shall apply to articles sold by the manufacturer, producer, or importer after September 30, 2005. “(2) No inference.—Nothing in the amendments made by this section shall be construed to create any inference with respect to the proper tax treatment of any sales before the effective date of such amendments.”

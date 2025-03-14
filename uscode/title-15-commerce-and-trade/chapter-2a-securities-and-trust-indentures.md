@@ -204,6 +204,9 @@ Any condition, stipulation, or provision binding any person to waive compliance 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(1)
+Pub. L. 119–27, §§ 17(c), 20, July 18, 2025, 139 Stat. 463, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, subsection (a)(1) of this section is amended by adding at the end the following: “The term ‘security’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in [section 5901 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim).” See 2025 Amendment note below.
+
 #### References in Text
 The Investment Company Act of 1940, referred to in subsec. (a)(15)(i), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
 
@@ -213,6 +216,8 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(
 Words “Philippine Islands” deleted from definition of term “Territory” under authority of Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352, which granted independence to the Philippine Islands. Proc. No. 2695 was issued pursuant to [section 1394 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1394&num=0&edition=prelim), Foreign Relations and Intercourse, and is set out as a note under that section.
 
 #### Amendments
+2025—Subsec. (a)(1). Pub. L. 119–27 inserted at end “The term ‘security’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in [section 5901 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim).”
+
 2012—Subsec. (a)(3). Pub. L. 112–106, § 105(a), inserted at end “The publication or distribution by a broker or dealer of a research report about an emerging growth company that is the subject of a proposed public offering of the common equity securities of such emerging growth company pursuant to a registration statement that the issuer proposes to file, or has filed, or that is effective shall be deemed for purposes of paragraph (10) of this subsection and [section 77e(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77e/c&num=0&edition=prelim) not to constitute an offer for sale or offer to sell a security, even if the broker or dealer is participating or will participate in the registered offering of the securities of the issuer. As used in this paragraph, the term ‘research report’ means a written, electronic, or oral communication that includes information, opinions, or recommendations with respect to securities of an issuer or an analysis of a security or an issuer, whether or not it provides information reasonably sufficient upon which to base an investment decision.”
 
 Subsec. (a)(19). Pub. L. 112–106, § 101(a), added par. (19).
@@ -250,6 +255,9 @@ Par. (6). Pub. L. 100–181, § 202, struck out reference to Canal Zone.
 1954—Act Aug. 10, 1954, in pars. (3), (8), (10), and (11), redefined term “sale” so as to distinguish between “offers” and “sales”, clarified definition of “registration statement”, and conformed definition of “prospectus” to changes made by act Aug. 10, 1954, to sections 77e and 77j of this title.
 
 1934—Act June 6, 1934, amended pars. (1), (4), and (10).
+
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as an Effective Date note under [section 5901 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim), Banks and Banking.
 
 #### Effective Date of 2012 Amendment
 Pub. L. 112–106, title I, § 101(d), Apr. 5, 2012, 126 Stat. 308, provided that: “Notwithstanding section 2(a)(19) of the Securities Act of 1933 [[15 U.S.C. 77b(a)(19)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77b/a/19&num=0&edition=prelim)] and section 3(a)(80) of the Securities Exchange Act of 1934 [[15 U.S.C. 78c(a)(80)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/80&num=0&edition=prelim)], an issuer shall not be an emerging growth company for purposes of such Acts [[15 U.S.C. 77a](./chapter-2a-securities-and-trust-indentures.md#section-77a) et seq., 78a et seq.] if the first sale of common equity securities of such issuer pursuant to an effective registration statement under the Securities Act of 1933 [[15 U.S.C. 77a](./chapter-2a-securities-and-trust-indentures.md#section-77a) et seq.] occurred on or before December 8, 2011.”

@@ -338,7 +338,7 @@ Section 3506 requires the master of a passenger vessel to keep on board a copy o
 
 **(d) Sexual Assault.—** The owner of a vessel to which this section applies shall—
 
-(1) maintain on the vessel adequate, in-date supplies of anti-retroviral medications and other medications designed to prevent sexually transmitted diseases after a sexual assault;
+(1) maintain on the vessel adequate, in-date supplies of anti-retroviral medications and other medications designed to prevent sexually transmitted diseases after a sexual assault (taking into consideration the length of the voyage and the number of passengers and crewmembers that the vessel can accommodate);
 
 (2) maintain on the vessel equipment and materials for performing a medical examination in sexual assault cases to evaluate the patient for trauma, provide medical care, and preserve relevant medical evidence;
 
@@ -378,11 +378,19 @@ Section 3506 requires the master of a passenger vessel to keep on board a copy o
 
 (1) establish and implement procedures and restrictions concerning—
 
-  (A) which crewmembers have access to passenger staterooms; and
+  (A) which crewmembers have access to passenger staterooms;
 
   (B) the periods during which they have that access; and
 
-(2) ensure that the procedures and restrictions are fully and properly implemented and periodically reviewed.
+  (C) a system that electronically records the date, time, and identity of each crew member accessing each passenger stateroom; and
+
+(2) ensure that the procedures and restrictions are—
+
+  (A) fully and properly implemented;
+
+  (B) reviewed annually; and
+
+  (C) updated as necessary.
 
 **(g) Log Book and Reporting Requirements.—**
 
@@ -487,7 +495,7 @@ Section 3506 requires the master of a passenger vessel to keep on board a copy o
 
 **(k) Application.—**
 
-(1) **In general.—** — This section and section 3508 apply to a passenger vessel (as defined in section 2101(31)) that—
+(1) **In general.—** — This section and section 3508 apply to a passenger vessel (as defined in section 2101(33)) that—
 
   (A) is authorized to carry 250 or more passengers;
 
@@ -507,6 +515,14 @@ The date of enactment of the Cruise Vessel Security and Safety Act of 2010, refe
 The date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, referred to in subsec. (b)(1)(B)(i), is the date of enactment of div. G of Pub. L. 116–283, which was approved Jan. 1, 2021.
 
 #### Amendments
+2025—Subsec. (d)(1). Pub. L. 119–60, § 7343(a), inserted “(taking into consideration the length of the voyage and the number of passengers and crewmembers that the vessel can accommodate)” after “a sexual assault”.
+
+Subsec. (f)(1)(C). Pub. L. 119–60, § 7343(b)(1), added subpar. (C).
+
+Subsec. (f)(2). Pub. L. 119–60, § 7343(b)(2), added par. (2) and struck out former par. (2) which read as follows: “ensure that the procedures and restrictions are fully and properly implemented and periodically reviewed.”
+
+Subsec. (k)(1). Pub. L. 119–60, § 7301(k)(1)(D), substituted “section 2101(33)” for “section 2101(31)” in introductory provisions.
+
 2022—Subsec. (k)(1)(A). Pub. L. 117–263, § 11802(1), substituted “250 or more” for “at least 250”.
 
 Subsec. (k)(1)(B). Pub. L. 117–263, § 11802(2), added subpar. (B) and struck out former subpar. (B). Prior to amendment, subpar. (B) read as follows: “has onboard sleeping facilities for each passenger; and”.

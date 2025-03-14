@@ -10,7 +10,9 @@ source: >-
 ## § 4401. Requirement for modular open system approach in major defense acquisition programs; definitions
 **(a) Modular Open System Approach Requirement.—** A major defense acquisition program that receives Milestone A or Milestone B approval after January 1, 2019, shall be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability. Other defense acquisition programs shall also be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability.
 
-**(b) Definitions.—** In this chapter:
+**(b) Disclosure Required.—** Not later than one year after the date of the enactment of this subsection, the Secretary of Defense shall make publicly available any standards for implementation of the modular open system approaches for contracts, unless the service acquisition executive with respect to a specific contract submits to the Secretary a request to not disclose such standards and the Secretary approves such request.
+
+**(c) Definitions.—** In this chapter:
 
 (1) The term “modular open system approach” means, with respect to a major defense acquisition program, an integrated business and technical strategy that—
 
@@ -66,14 +68,20 @@ source: >-
 
 (8) The term “major defense acquisition program” has the meaning provided in [section 4201 of this title](./chapter-321-general-matters.md#section-4201).
 
-(9) The term “major weapon system” has the meaning provided in [section 3455(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3455/f&num=0&edition=prelim).
+(9) The term “major weapon system” has the meaning provided in [section 101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### References in Text
-Section 804 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(1)(B)(ii), is section 804 of Pub. L. 116–283, which is set out as a note below.
+The date of the enactment of this subsection, referred to in subsec. (b), is the date of enactment of Pub. L. 118–159, which was approved Dec. 23, 2024.
+
+Section 804 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (c)(1)(B)(ii), is section 804 of Pub. L. 116–283, which is set out as a note below.
 
 #### Amendments
+2025—Subsec. (c)(9). Pub. L. 119–60 substituted “section 101(a)” for “section 3455(f)”.
+
+2024—Subsecs. (b), (c). Pub. L. 118–159 added subsec. (b) and redesignated former subsec. (b) as (c).
+
 2021—Pub. L. 116–283, § 1851(b)(1), renumbered [section 2446a of this title](./chapter-chapter-144b-chapter-chapter-144b.md#section-2446a) as this section.
 
 Subsec. (a). Pub. L. 116–283, § 804(b)(1)(A), inserted at end “Other defense acquisition programs shall also be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability.”
@@ -146,7 +154,7 @@ Pub. L. 116–283, div. A, title VIII, § 804, Jan. 1, 2021, 134 Stat. 3735, pro
 
   (A) the program incorporates clearly defined major system interfaces between the major system platform and major system components, between major system components, and between major system platforms;
 
-  (B) such major system interfaces are consistent with the widely supported and consensus-based standards that exist at the time of the milestone decision, unless such standards are unavailable or unsuitable for particular major system interfaces; and
+  (B) such major system interfaces are consistent with the the 11 So in original. requirements of [section 4401(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4401/a&num=0&edition=prelim); and
 
   (C) the Government has arranged to obtain appropriate and necessary intellectual property rights with respect to such major system interfaces upon completion of the development of the major system platform; or
 
@@ -157,6 +165,8 @@ Pub. L. 116–283, div. A, title VIII, § 804, Jan. 1, 2021, 134 Stat. 3735, pro
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (e)(1)(B). Pub. L. 119–60 substituted “the requirements of [section 4401(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4401/a&num=0&edition=prelim)” for “widely supported and consensus-based standards that exist at the time of the milestone decision, unless such standards are unavailable or unsuitable for particular major system interfaces”.
+
 2021—Pub. L. 116–283, § 1851(b)(1), renumbered [section 2446b of this title](./chapter-chapter-144b-chapter-chapter-144b.md#section-2446b) as this section.
 
 Subsec. (c). Pub. L. 116–283, § 1851(b)(3)(A), substituted “section 4211” for “section 2431a” in introductory provisions.
@@ -181,7 +191,7 @@ The Secretary of each military department shall—
 
 (1) coordinate with the other military departments, the defense agencies, defense and other private sector entities, national standards-setting organizations, and, when appropriate, with elements of the intelligence community with respect to the specification, identification, development, and maintenance of major system interfaces and standards for use in major system platforms, where practicable;
 
-(2) ensure that major system interfaces incorporate commercial standards and other widely supported consensus-based standards that are validated, published, and maintained by recognized standards organizations to the maximum extent practicable;
+(2) ensure major system interfaces are adequately designated and defined to achieve a modular open system approach and are delivered with supporting documentation necessary to enable the integration of components or modules provided by a third party into the modular system;
 
 (3) ensure that sufficient systems engineering and development expertise and resources are available to support the use of a modular open system approach in requirements development and acquisition program planning;
 
@@ -201,6 +211,8 @@ A prior section 4415, added Pub. L. 100–180, div. A, title III, § 319(a)(1), 
 Prior sections 4416 and 4417 were renumbered sections 7486 and 7487 of this title, respectively.
 
 #### Amendments
+2025—Par. (2). Pub. L. 119–60 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ensure that major system interfaces incorporate commercial standards and other widely supported consensus-based standards that are validated, published, and maintained by recognized standards organizations to the maximum extent practicable;”.
+
 2021—Pub. L. 116–283 renumbered [section 2446c of this title](./chapter-chapter-144b-chapter-chapter-144b.md#section-2446c) as this section.
 
 2019—Par. (6). Pub. L. 116–92 added par. (6).
@@ -277,7 +289,7 @@ Pub. L. 114–328, div. A, title VIII, § 806(a)(2), Dec. 23, 2016, 130 Stat. 22
 
 (2) To annually recommend funding levels for weapon system component or technology development and prototype projects across capability or weapon system component portfolios.
 
-(3) To annually recommend to the service acquisition executive of the military department concerned specific weapon system component or technology development and prototype projects, subject to the requirements and limitations in [section 4423 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4423).
+(3) To annually recommend to the service acquisition executive of the military department concerned specific weapon system component or technology development and prototype projects.
 
 (4) To ensure projects are managed by experts within the Department of Defense who are knowledgeable in research, development, test, and evaluation and who are aware of opportunities for incremental deployment of component capabilities and other technologies to major weapon systems or directly to support warfighting capabilities.
 
@@ -296,6 +308,8 @@ Pub. L. 114–328, div. A, title VIII, § 806(a)(2), Dec. 23, 2016, 130 Stat. 22
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (c)(3). Pub. L. 119–60 struck out “, subject to the requirements and limitations in [section 4423 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4423)” after “projects”.
+
 2021—Pub. L. 116–283, § 1851(c)(1), renumbered [section 2447b of this title](./chapter-chapter-144b-chapter-chapter-144b.md#section-2447b) as this section.
 
 Subsec. (c)(3). Pub. L. 116–283, § 1851(c)(2), substituted “section 4423” for “section 2447c”.
@@ -308,47 +322,11 @@ Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set 
 
 
 <a id="section-4423"></a>
-## § 4423. Requirements and limitations for weapon system component or technology prototype projects
-**(a) Limitation on Prototype Project Duration.—** A prototype project shall be completed within two years of its initiation.
-
-**(b) Merit-based Selection Process.—** A prototype project shall be selected by the service acquisition executive of the military department concerned through a merit-based selection process that identifies the most promising, innovative, and cost-effective prototypes that address one or more of the elements set forth in subsection (c)(1) of [section 4422 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4422) and are expected to be successfully demonstrated in a relevant environment.
-
-**(c) Type of Transaction.—** Prototype projects shall be funded through contracts, cooperative agreements, or other transactions.
-
-**(d) Funding Limit.—**
-
-(1) Each prototype project may not exceed a total amount of $10,000,000 (based on fiscal year 2017 constant dollars), unless—
-
-  (A) the Secretary of the military department, or the Secretary’s designee, approves a larger amount of funding for the project, not to exceed $50,000,000; and
-
-  (B) the Secretary, or the Secretary’s designee, submits to the congressional defense committees, within 30 days after approval of such funding for the project, a notification that includes—
-
-    (i) the project;
-
-    (ii) expected funding for the project; and
-
-    (iii) a statement of the anticipated outcome of the project.
-
-(2) The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in paragraph (1) on the basis of Department of Defense escalation rates.
-
-**(e) Related Prototype Authorities.—** Prototype projects that exceed the duration and funding limits established in this section shall be pursued under the rapid prototyping process established by section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; [10 U.S.C. 2302](./chapter-chapter-137-chapter-chapter-137.md#section-2302) note). In addition, nothing in this subchapter shall affect the authority to carry out prototype projects under section 4022 or any other section of this title related to prototyping.
+## § 4423. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(7), Dec. 18, 2025, 139 Stat. 948]
 
 ### Statutory Notes
 
-#### Amendments
-2022—Subsec. (e). Pub. L. 117–263 substituted “section 4022” for “section 4003”.
-
-2021—Pub. L. 116–283, § 1851(c)(1), renumbered [section 2447c of this title](./chapter-chapter-144b-chapter-chapter-144b.md#section-2447c) as this section.
-
-Subsec. (b). Pub. L. 116–283, § 1851(c)(3)(A), substituted “section 4422” for “section 2447b”.
-
-Subsec. (e). Pub. L. 116–283, § 1851(c)(3)(B), substituted “section 4003” for “section 2371b”.
-
-#### Effective Date of 2021 Amendment
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
-
-#### Effective Date
-Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set out as a note under [section 4421 of this title](./chapter-327-weapon-systems-development-and-related-matters.md#section-4421).
+Section, added Pub. L. 114–328, div. A, title VIII, § 806(a)(1), Dec. 23, 2016, 130 Stat. 2258, § 2447c; renumbered § 4423 and amended Pub. L. 116–283, div. A, title XVIII, § 1851(c)(1), (3), Jan. 1, 2021, 134 Stat. 4272, 4273; Pub. L. 117–263, div. A, title X, § 1081(a)(5), Dec. 23, 2022, 136 Stat. 2797; Pub. L. 118–159, div. A, title VIII, § 804(c)(4), Dec. 23, 2024, 138 Stat. 1968, related to duration, selection and funding requirements and limitations for weapon system component or technology prototype projects.
 
 
 <a id="section-4424"></a>

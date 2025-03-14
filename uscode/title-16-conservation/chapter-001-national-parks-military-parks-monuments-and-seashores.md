@@ -2,7 +2,7 @@
 title: 16
 chapter: '1'
 heading: 'NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES'
-section_count: 2319
+section_count: 2320
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -7193,6 +7193,9 @@ As originally enacted the second sentence of this section, extending the boundar
 #### Feasibility Study for Northern Access Route Into Denali National Park and Preserve
 Pub. L. 104–134, title I, § 101(c) [title I], Apr. 26, 1996, 110 Stat. 1321–156, 1321–164; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided in part that: “The National Park Service shall, within existing funds, conduct a Feasibility Study for a northern access route into Denali National Park and Preserve in Alaska, to be completed within one year of the enactment of this Act [Apr. 26, 1996] and submitted to the House and Senate Committees on Appropriations and to the Senate Committee on Energy and Natural Resources and the House Committee on Resources [now Committee on Natural Resources]. The Feasibility Study shall ensure that resource impacts from any plan to create such access route are evaluated with accurate information and according to a process that takes into consideration park values, visitor needs, a full range of alternatives, the viewpoints of all interested parties, including the tourism industry and the State of Alaska, and potential needs for compliance with the National Environmental Policy Act [of 1969] [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.]. The Study shall also address the time required for development of alternatives and identify all associated costs. “This Feasibility Study shall be conducted solely by the National Park Service planning personnel permanently assigned to National Park Service offices located in the State of Alaska in consultation with the State of Alaska Department of Transportation.”
 
+#### Change of Name
+For redesignation of Denali as Mount McKinley, except that the national park area surrounding Mount McKinley shall retain the name Denali National Park and Preserve, see section 3(b) of Ex. Ord. No. 14172, set out as a note under [section 364 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section364&num=0&edition=prelim), Public Lands.
+
 #### Admission of Alaska as State
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
 
@@ -12648,6 +12651,9 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 #### Codification
 Section is comprised of section 2851 of Pub. L. 116–92. Subsec. (c)(2)(C) of section 2851 of Pub. L. 116–92 repealed section 2854 of Pub. L. 104–201, div. B, title XXVIII, Sept. 23, 1996, 110 Stat. 2803, which is listed in a table of National Monuments Established Under Presidential Proclamation set out under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Park Service and Related Programs.
 
+#### Historical Marker Commemorating Effects of Radiation Exposure at Holloman Air Force Base and White Sands Missile Range
+Pub. L. 119–60, div. B, title XXVIII, § 2861, Dec. 18, 2025, 139 Stat. 1324, provided that: “(a) Historical Markers Required.—“(1) Holloman air force base.—The Secretary of the Air Force shall place a historical marker as described in subsection (b) in a publicly accessible location at the Holloman Air Force Base. “(2) White sands missile range.—The Secretary of the Army shall place a historical marker as described in subsection (b) in a publicly accessible location at the White Sands Missile Range. “(b) Required Information.—A historical marker described in subsection (a) shall commemorate the effects of radiation exposure on communities in New Mexico as a result of the Manhattan Project and the nuclear test conducted at the Trinity Site. Such historical marker shall include, at a minimum, the following:“(1) An unclassified description of the history of the Manhattan Project and its purpose, including a description of the nuclear test conducted at the Trinity Site and an acknowledgement that it was the location of the world’s first nuclear weapons test. “(2) A description of how the classified nature of the Manhattan Project and the nuclear test conducted at the Trinity Site led to the unknowing exposure of individuals in communities located downwind from such testing to radiological byproducts and associated consequences of such byproducts. “(3) The markers will honor the resilience of the New Mexico communities during and after World War II, recognizing the service and sacrifice of all who contributed to the war effort. “(c) Briefing Required.—Not later than 1 year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of the Air Force and Secretary of the Army shall jointly provide to the Committees on Armed Services of the House of Representatives and Senate a briefing on the implementation of the requirements of this section. “(d) Definitions.—In this section:“(1) Manhattan project.—The term ‘Manhattan Project’ means the Federal military program to develop an atomic bomb ending on December 31, 1946. “(2) Trinity site.—The term ‘Trinity Site’ means the location in the Jornada del Muerto desert near Alamogordo, New Mexico, on the former Alamorgordo Bombing and Gunnery Range, known today as Holloman Air Force Base and the White Sands Missile Range, where the world’s first nuclear weapon was exploded on July 16, 1945.”
+
 
 <a id="section-410e"></a>
 ## § 410e. Acquisition of additional lands; reservation of oil, gas, and mineral rights; reservation of royalty rights
@@ -15979,6 +15985,49 @@ This subchapter, referred to in introductory provisions, was in the original “
 Pub. L. 108–387, title I, § 101, Oct. 30, 2004, 118 Stat. 2234, provided that: “This title [enacting this subchapter and repealing sections 450mm to 450mm–3 of this title] may be cited as the ‘Lewis and Clark National Historical Park Designation Act’.”
 
 
+<a id="section-410kkkk"></a>
+## § 410kkkk. Boundary Revision of Salem Maritime National Historic Site 11 See Redesignation of Salem Maritime National Historic Site note below.
+**(a) Boundary revision** The Salem Maritime National Historic Site 1 (hereafter in this section referred to as the “national historic site”), designated on March 17, 1938, under section 2 of the Act of August 21, 1935 (49 Stat. 666), and located in Salem, Massachusetts, shall consist of lands and interests in lands as generally depicted on the map entitled “Boundary Map, Salem Maritime National Historic Site, Salem, Massachusetts”, numbered 373–80,011, and dated April 1987. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
+
+**(b) Acquisition of lands**
+
+(1) The Secretary of the Interior may acquire lands or interests therein within the boundary of the national historic site 1 by donation, purchase with donated or appropriated funds, or exchange. Any lands or interests in lands owned by the Commonwealth of Massachusetts or any political subdivision thereof may be acquired only by donation. Lands and interests therein acquired pursuant to this section shall become part of the national historic site 1 and shall be subject to all the laws and regulations applicable to the national historic site.1
+
+(2)
+
+  (A) Subject to subparagraph (B), the Secretary may acquire under this subsection property or an interest therein in the city of Salem for use as a visitor center or the national historic site.1 The Secretary shall conduct an economic analysis of the costs and benefits of acquiring such property or interest therein. Funds appropriated for the development and operation of the visitor center may be expended on property in which the Secretary has acquired less than a fee simple interest.
+
+  (B)
+
+    (i) Any acquisition under this paragraph shall provide that—
+
+      (I) under any lease, the leased period shall not be less than 25 years and shall contain an option to renew for an addtional 22 So in original. Probably should be “additional”. 25 years;
+
+      (II) the owner of the property shall maintain the property to a standard acceptable to the Secretary;
+
+      (III) under any lease, rental amounts paid by the Secretary may not exceed the fair market value of the leased premises, as determined by an independent party acceptable to both the lessor and the Secretary; and
+
+      (IV) under any lease, rental payments be reduced by the fair market value of improvements in the leased premises made by or at the expense of the Secretary.
+
+    (ii) The Secretary may not acquire an interest in more than 12,000 square feet under this paragraph.
+
+    (iii) The Secretary shall submit the economic analysis, together with any proposed acquisition, to the appropriate committees of Congress for their review at least 120 days before the effective date of such acquisition.
+
+### Statutory Notes
+
+#### References in Text
+The Act of August 21, 1935, referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites, Buildings and Antiquities Act and also as the Historic Sites Act of 1935. Section 2 of the Act was repealed and substantially restated as [section 320102 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320102&num=0&edition=prelim), National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3257, 3274. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+
+#### Amendments
+1990—Subsec. (b). Pub. L. 101–632 designated existing provisions as par. (1) and added par. (2).
+
+#### Short Title of 2025 Amendment
+Pub. L. 119–25, § 1, July 15, 2025, 139 Stat. 408, provided that: “This Act [enacting provisions set out as a note under this section] may be cited as the ‘Salem Maritime National Historical Park Redesignation and Boundary Study Act’.”
+
+#### Redesignation of Salem Maritime National Historical Site
+Pub. L. 119–25, § 2, July 15, 2025, 139 Stat. 408, provided that: “(a) Redesignation.—The Salem Maritime National Historic Site shall hereafter be known and designated as the ‘Salem Maritime National Historical Park’. “(b) References in Law.—Any reference to the Salem Maritime National Historic Site in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Salem Maritime National Historical Park.”
+
+
 <a id="section-410kkk-1"></a>
 ## § 410kkk–1. Lewis and Clark National Historical Park
 **(a) Designation** In order to preserve for the benefit of the people of the United States the historic, cultural, scenic, and natural resources associated with the arrival of the Lewis and Clark Expedition in the lower Columbia River area, and for the purpose of commemorating the culmination and the winter encampment of the Lewis and Clark Expedition in the winter of 1805–1806 following its successful crossing of the North American Continent, there is designated as a unit of the National Park System the Lewis and Clark National Historical Park.
@@ -18684,7 +18733,7 @@ This subchapter, referred to in subsec. (a), was in the original “this Act” 
 
   (B) Proposals for visitor use facilities to be developed for the park.
 
-  (C) Plans for management of the natural and cultural resources of the park, with particular emphasis on the preservation of both the cultural and natural resources and long-term scientific study of terrestrial, marine, and archeological resources, giving high priority to the enforcement of the provisions of the Archeological 22 So in original. Probably should be “Archaeological”. Resources Protection Act of 1979 ([16 U.S.C. 470aa](./chapter-1b-archaeological-resources-protection.md#section-470aa) et seq.) and the National Historic Preservation Act1 within the park. The natural and cultural resources management plans shall be prepared in consultation with the Virgin Islands Division of Archeology and Historic Preservation.
+  (C) Plans for management of the natural and cultural resources of the park, with particular emphasis on the preservation of both the cultural and natural resources and long-term scientific study of terrestrial, marine, and archeological resources, giving high priority to the enforcement of the provisions of the Archeological 22 So in original. Probably should be “Archaeological”. Resources Protection Act of 1979 ([16 U.S.C. 470aa](./chapter-1b-archaeological-resources-protection.md#section-470aa) et seq.) and the National Historic Preservation Act 1 within the park. The natural and cultural resources management plans shall be prepared in consultation with the Virgin Islands Division of Archeology and Historic Preservation.
 
   (D) Proposals for assessing the potential operation and supply of park concessions by qualified Virgin Islands-owned businesses.
 
@@ -19979,6 +20028,9 @@ As used in this subchapter—
 
 ### Statutory Notes
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–163, § 1, Dec. 23, 2024, 138 Stat. 2578, provided that: “This Act [amending [section 410y–4 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410y-4)] may be cited as the ‘Chesapeake and Ohio Canal National Historical Park Commission Extension Act’.”
+
 #### Short Title
 Pub. L. 91–664, § 1, Jan. 8, 1971, 84 Stat. 1978, provided: “That this Act [enacting this subchapter] shall be known as the ‘Chesapeake and Ohio Canal Development Act’.”
 
@@ -20392,12 +20444,14 @@ The Secretary shall take into account comprehensive local or State development, 
 
 **(f) Majority vote** The Commission shall act and advise by affirmative vote of a majority of the members thereof.
 
-**(g) Termination** The Commission shall cease to exist on December 20, 2024.
+**(g) Termination** The Commission shall cease to exist on October 1, 2031.
 
 ### Statutory Notes
 
 #### Amendments
-2024—Subsec. (g). Pub. L. 118–83 substituted “on December 20, 2024.” for “40 years from January 8, 1971.”
+2024—Subsec. (g). Pub. L. 118–163, which directed the substitution of “on October 1, 2031.” for “ ‘40’ and all that follows through the period at the end”, was executed by substituting “on October 1, 2031.” for “on December 20, 2024.” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 118–83. See below.
+
+Pub. L. 118–83 substituted “on December 20, 2024.” for “40 years from January 8, 1971.”
 
 2000—Subsec. (g). Pub. L. 106–554 substituted “40” for “thirty”.
 
@@ -23998,6 +24052,9 @@ The words of this section “on March 3, 1925” refer to the date of passage of
 “National monument and historic shrine” substituted in text for “national park, and memorial” in view of redesignation of Fort McHenry National Park as Fort McHenry National Monument and Historic Shrine by act Aug. 11, 1939, classified to [section 440a of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-440a).
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+
+#### Designation of Paul S. Sarbanes Visitor and Education Center
+Pub. L. 118–175, § 1, Dec. 23, 2024, 138 Stat. 2604, provided that: “(a) Designation.—The visitor and education center at Fort McHenry National Monument and Historic Shrine, currently located at 2400 E Fort Ave, Baltimore, MD 21230, is designated as the ‘Paul S. Sarbanes Visitor and Education Center’. “(b) References.—Any reference in a law, map, regulation, document, paper, or other document of the United States to the visitor center designated by subsection (a) shall be deemed to be a reference to the Paul S. Sarbanes Visitor and Education Center.”
 
 #### Termination of War and Emergencies
 Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of these sections, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
@@ -29887,20 +29944,23 @@ The Secretary of Agriculture is authorized to amend any lease entered into with 
 
 **(b) Fees for use of developed recreation sites and facilities**
 
-(1) **Establishment and collection** — Notwithstanding section 460l–6a(b) 11 See References in Text note below. of this title, the Secretary of the Army is authorized, subject to paragraphs (2) and (3), to establish and collect fees for the use of developed recreation sites and facilities, including campsites, swimming beaches, and boat launching ramps but excluding a site or facility which includes only a boat launch ramp and a courtesy dock.
+(1) **Establishment and collection** — Subject to paragraphs (2) and (3), the Secretary of the Army may establish and collect fees for the use of developed recreation sites and facilities, including campsites, swimming beaches, and boat launching ramps but excluding a site or facility which includes only a boat launch ramp and a courtesy dock.
 
 (2) **Exemption of certain facilities** — The Secretary shall not establish or collect fees under this subsection for the use or provision of drinking water, wayside exhibits, roads, scenic drives, overlook sites, picnic tables, toilet facilities, surface water areas, undeveloped or lightly developed shoreland, or general visitor information.
 
-(3) **Per vehicle limit** — The fee under this subsection for use of a site or facility (other than an overnight camping site or facility or any other site or facility at which a fee is charged for use of the site or facility as of August 10, 1993) for persons entering the site or facility by private, noncommercial vehicle transporting not more than 8 persons (including the driver) shall not exceed $3 per day per vehicle. Such maximum amount may be adjusted annually by the Secretary for changes in the Consumer Price Index of All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+(3) **Per vehicle limit** — The fee under this subsection for use of a site or facility (other than an overnight camping site or facility or any other site or facility at which a fee is charged for use of the site or facility as of August 10, 1993) for persons entering the site or facility by private, noncommercial vehicle transporting not more than 8 persons (including the driver) shall not exceed $3 per day per vehicle, which amount may be adjusted annually by the Secretary for changes in the Consumer Price Index of All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
 
-(4) **Deposit into Treasury account** — All fees collected under this subsection shall be deposited into the Treasury account for the Corps of Engineers established by section 460l–6a(i) 1 of this title and, subject to the availability of appropriations, shall be used for the purposes specified in section 460l–6a(i)(3) 1 of this title at the water resources development project at which the fees were collected.
+(4) **Use of funds** — The fees collected under this subsection shall be credited to the currently applicable appropriation, account, or fund of the Department of the Army as discretionary offsetting collections, and shall be available only to the extent provided in advance in appropriations Acts, for the operation and maintenance of recreation sites and facilities under the jurisdiction of the Secretary, subject to the condition that not less than 80 percent of fees collected at recreation areas of a specific water resources development project shall be used at such project.
 
 ### Statutory Notes
 
-#### References in Text
-Subsections (b) and (i) of section 460l–6a of this title, referred to in subsec. (b)(1), (4), were repealed, except for par. (1)(C) of subsec. (i), by Pub. L. 108–447, div. J, title VIII, § 813(a), Dec. 8, 2004, 118 Stat. 3390, as amended by Pub. L. 109–54, title I, § 132(a), Aug. 2, 2005, 119 Stat. 526. Subsec. (i)(1)(C) of section 460l–6a of this title was repealed and restated as [section 100904(a) of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100904/a&num=0&edition=prelim), National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272.
-
 #### Amendments
+2025—Subsec. (b)(1). Pub. L. 118–272, § 1154(1), substituted “Subject to paragraphs (2) and (3), the Secretary of the Army may establish” for “Notwithstanding section 460l–6a(b) of this title, the Secretary of the Army is authorized, subject to paragraphs (2) and (3), to establish”.
+
+Subsec. (b)(3). Pub. L. 118–272, § 1154(2), substituted “vehicle, which amount” for “vehicle. Such maximum amount”.
+
+Subsec. (b)(4). Pub. L. 118–272, § 1154(3), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “All fees collected under this subsection shall be deposited into the Treasury account for the Corps of Engineers established by section 460l–6a(i) of this title and, subject to the availability of appropriations, shall be used for the purposes specified in section 460l–6a(i)(3) of this title at the water resources development project at which the fees were collected.”
+
 1996—Subsec. (b)(4). Pub. L. 104–303 inserted before period at end “and, subject to the availability of appropriations, shall be used for the purposes specified in section 460l–6a(i)(3) of this title at the water resources development project at which the fees were collected”.
 
 1993—Pub. L. 103–66 inserted section catchline, struck out second sentence, designated remaining text as subsec. (a) and inserted heading, and added subsec. (b). Prior to amendment, second sentence read as follows: “User fees at these lakes and reservoirs shall be collected by officers and employees of the United States only from users of highly developed facilities requiring continuous presence of personnel for maintenance and supervision of the facilities, and shall not be collected for access to or use of water areas, undeveloped or lightly developed shoreland, picnic grounds, overlook sites, scenic drives, or boat launching ramps where no mechanical or hydraulic equipment is provided.”
@@ -32497,7 +32557,7 @@ Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625
 
   (A) One individual, appointed by the Secretary, to represent the National Park Service.
 
-  (B) One individual, appointed by the Commandant of the Coast Guard.. 22 So in original.
+  (B) One individual, appointed by the Commandant of the Coast Guard..22 So in original.
 
   (C) Two individuals, appointed by the Secretary, after consideration of recommendations by the Governor of Massachusetts, to represent the Department of Environmental Management and the Metropolitan District Commission.
 
@@ -34113,53 +34173,201 @@ Section was enacted as part of the Agricultural Reconciliation Act of 1993 and a
 
 
 <a id="section-460l-6d"></a>
-## § 460l–6d. Commercial filming
-**(a) Commercial filming fee**
+## § 460l–6d. Filming and still photography
+**(a) Filming and still photography**
 
-(1) **In general** — The Secretary of the Interior or the Secretary of Agriculture (hereafter individually referred to as the “Secretary” with respect to land (except land in a System unit as defined in [section 100102 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100102&num=0&edition=prelim)) under their respective jurisdictions) shall require a permit and shall establish a reasonable fee for commercial filming activities or similar projects on Federal land administered by the Secretary. The fee shall provide a fair return to the United States and shall be based on the following criteria:
+(1) **In general** — The Secretary concerned shall ensure that a filming or still photography activity or similar project at a Federal land management unit (referred to in this section as a “filming or still photography activity”) and the authorizing or permitting of a filming or still photography activity are carried out consistent with—
 
-  (A) The number of days the filming activity or similar project takes place on Federal land under the Secretary’s jurisdiction.
+  (A) the laws and policies applicable to the Secretary concerned; and
 
-  (B) The size of the film crew present on Federal land under the Secretary’s jurisdiction.
+  (B) an applicable general management plan.
 
-  (C) The amount and type of equipment present.
+(2) **No permits required** — The Secretary concerned shall not require an authorization or a permit or assess a fee, if a fee for a filming or still photography activity is not otherwise required by law, for a filming or still photography activity that—
 
-(2) **Other factors** — The Secretary may include other factors in determining an appropriate fee as the Secretary considers necessary.
+  (A)
 
-**(b) Recovery of costs** The Secretary shall collect any costs incurred as a result of filming activities or similar project, including administrative and personnel costs. All costs recovered shall be in addition to the fee assessed in subsection (a).
+    (i) involves fewer than 6 individuals; and
 
-**(c) Still photography**
+    (ii) meets each of the requirements described in paragraph (5); or
 
-(1) **In general** — Except as provided in paragraph (2), the Secretary shall not require a permit nor assess a fee for still photography on land administered by the Secretary if such photography takes place where members of the public are generally allowed. The Secretary may require a permit, fee, or both, if such photography takes place at other locations where members of the public are generally not allowed, or where additional administrative costs are likely.
+  (B) is merely incidental to, or documenting, an activity or event that is allowed or authorized at the Federal land management unit, regardless of—
 
-(2) **Exception** — The Secretary shall require and shall establish a reasonable fee for still photography that uses models or props which are not a part of the site’s natural or cultural resources or administrative facilities.
+    (i) the number of individuals participating in the allowed or authorized activity or event; or
 
-**(d) Protection of resources** The Secretary shall not permit any filming, still photography or other related activity if the Secretary determines that—
+    (ii) whether any individual receives compensation for any products of the filming or still photography activity.
 
-(1) there is a likelihood of resource damage;
+(3) **Filming and still photography authorizations for de minimis use**
 
-(2) there would be an unreasonable disruption of the public’s use and enjoyment of the site; or
+  (A) *In general* — The Secretary concerned shall establish a de minimis use authorization for certain filming or still photography activities that meets the requirements described in subparagraph (F).
 
-(3) the activity poses health or safety risks to the public.
+  (B) *Policy* — For a filming or still photography activity that meets the requirements described in subparagraph (F), the Secretary concerned—
 
-**(e) Use of proceeds**
+    (i) may require a de minimis use authorization; and
 
-(1) **Fees** — All fees collected under this section shall be available for expenditure by the Secretary, without further appropriation and shall remain available until expended.
+    (ii) shall not require a permit.
 
-(2) **Costs** — All costs recovered under this section shall be available for expenditure by the Secretary, without further appropriation, at the site where the costs are collected and shall remain available until expended.
+  (C) *No fee* — The Secretary concerned shall not charge a fee for a de minimis use authorization under this paragraph.
 
-**(f) Processing of permit applications** The Secretary shall establish a process to ensure that the Secretary responds in a timely manner to permit applicants for commercial filming, still photography, or other activity.
+  (D) *Access* — The Secretary concerned shall enable members of the public to apply for and obtain a de minimis use authorization under this paragraph—
+
+    (i) through the website of the Department of the Interior or the Forest Service, as applicable; and
+
+    (ii) in person at the field office for the Federal land management unit.
+
+  (E) *Issuances* — The Secretary concerned shall—
+
+    (i) establish a procedure—
+
+      (I) to automate the approval of an application submitted through the website of the Department of the Interior or the Forest Service, as applicable, under subparagraph (D)(i); and
+
+      (II) to issue a de minimis use authorization under this paragraph immediately on receipt of an application that is submitted in person at the field office for the Federal land management unit under subparagraph (D)(ii); and
+
+    (ii) if an application submitted under subparagraph (D) meets the requirements of this paragraph, immediately on receipt of the application issue a de minimis use authorization for the filming or still photography activity.
+
+  (F) *Terms* — The Secretary concerned shall only issue a de minimis use authorization under this paragraph if the filming or still photography activity—
+
+    (i) involves a group of not fewer than 6 individuals and not more than 8 individuals;
+
+    (ii) meets each of the requirements described in paragraph (5); and
+
+    (iii) is consistent with subsection (c).
+
+  (G) *Contents* — A de minimis use authorization issued under this paragraph shall list the requirements described in subparagraph (F).
+
+(4) **Required permits**
+
+  (A) *In general* — Except as provided in paragraph (2)(B), the Secretary concerned may require a permit application and, if a permit is issued, assess a reasonable fee, as described in subsection (b)(1), for a filming or still photography activity that—
+
+    (i) involves more than 8 individuals; or
+
+    (ii) does not meet each of the requirements described in paragraph (5).
+
+  (B) *Wilderness Act clarification* — No provision of this subsection is intended to or shall be construed to conflict with the provisions of the Wilderness Act of 1964 ([16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.).
+
+(5) **Requirements for filming or still photography activity** — The requirements referred to in paragraphs (2)(A)(ii), (3)(F)(ii), (4)(B),11 So in original. Probably should refer to par. (4)(A)(ii). and (7)(C) 22 So in original. Par. (7)(C) does not refer to the requirements in par. (5). are as follows:
+
+  (A) A person conducts the filming or still photography activity in a manner that—
+
+    (i) does not impede or intrude on the experience of other visitors to the Federal land management unit;
+
+    (ii) except as otherwise authorized, does not disturb or negatively impact—
+
+      (I) a natural or cultural resource; or
+
+      (II) an environmental or scenic value; and
+
+    (iii) allows for equitable allocation or use of facilities of the Federal land management unit.
+
+  (B) The person conducts the filming or still photography activity at a location in which the public is allowed.
+
+  (C) The person conducting the filming or still photography activity does not require the exclusive use of a site or area.
+
+  (D) The person does not conduct the filming or still photography activity in a localized area that receives a very high volume of visitation.
+
+  (E) The person conducting the filming or still photography activity does not use a set or staging equipment, subject to the limitation that handheld equipment (such as a tripod, monopod, and handheld lighting equipment) shall not be considered staging equipment for the purposes of this subparagraph.
+
+  (F) The person conducting the filming or still photography activity complies with and adheres to visitor use policies, practices, and regulations applicable to the Federal land management unit.
+
+  (G) The filming or still photography activity is not likely to result in additional administrative costs being incurred by the Secretary concerned with respect to the filming or still photography activity, as determined by the Secretary concerned.
+
+  (H) The person conducting the filming or still photography activity complies with other applicable Federal, State (as such term is defined in section 3 33 See References in Text note below. of the EXPLORE Act), and local laws (including regulations), including laws relating to the use of unmanned aerial equipment.
+
+(6) **Content creation** — Regardless of distribution platform, any video, still photograph, or audio recording for commercial or noncommercial content creation at a Federal land management unit shall be considered to be a filming or still photography activity under this subsection.
+
+(7) **Effect**
+
+  (A) *Permits requested though not required* — On the request of a person intending to carry out a filming or still photography activity, the Secretary concerned may issue a permit for the filming or still photography activity, even if a permit for the filming or still photography activity is not required under this section.
+
+  (B) *No additional permits, commercial use authorizations, or fees for filming and still photography at authorized events* — A filming or still photography activity at an activity or event that is allowed or authorized, including a wedding, engagement party, family reunion, or celebration of a graduate, shall be considered merely incidental for the purposes of paragraph (2)(B).
+
+  (C) *Monetary compensation* — The receipt of monetary compensation by the person engaged in the filming or still photography activity shall not affect the permissibility of the filming or still photography activity.
+
+**(b) Fees and recovery costs**
+
+(1) **Fees** — The reasonable fees referred to in subsection (a)(4) shall meet each of the following criteria:
+
+  (A) The reasonable fee shall provide a fair return to the United States.
+
+  (B) The reasonable fee shall be based on the following criteria:
+
+    (i) The number of days of the filming or still photography activity.
+
+    (ii) The size of the film or still photography crew present at the Federal land management unit.
+
+    (iii) The quantity and type of film or still photography equipment present at the Federal land management unit.
+
+    (iv) Any other factors that the Secretary concerned determines to be necessary.
+
+(2) **Recovery of costs**
+
+  (A) *In general* — The Secretary concerned shall collect from the applicant for the applicable permit any costs incurred by the Secretary concerned related to a filming or still photography activity subject to a permit under subsection (a)(4), including—
+
+    (i) the costs of the review or issuance of the permit; and
+
+    (ii) related administrative and personnel costs.
+
+  (B) *Effect on fees collected* — All costs recovered under subparagraph (A) shall be in addition to the fee described in paragraph (1).
+
+(3) **Use of proceeds**
+
+  (A) *Fees* — All fees collected under this section shall—
+
+    (i) be available for expenditure by the Secretary concerned, without further appropriation; and
+
+    (ii) remain available until expended.
+
+  (B) *Costs* — All costs recovered under paragraph (2)(A) shall—
+
+    (i) be available for expenditure by the Secretary concerned, without further appropriation, at the Federal land management unit at which the costs are collected; and
+
+    (ii) remain available until expended.
+
+**(c) Protection of resources** The Secretary concerned shall not allow a person to undertake a filming or still photography activity if the Secretary concerned determines that—
+
+(1) there is a likelihood that the person would cause resource damage at the Federal land management unit, except as otherwise authorized;
+
+(2) the person would create an unreasonable disruption of the use and enjoyment by the public of the Federal land management unit; or
+
+(3) the filming or still photography activity poses a health or safety risk to the public.
+
+**(d) Processing of permit applications**
+
+(1) **In general** — The Secretary concerned shall establish a process to ensure that the Secretary concerned responds in a timely manner to an application for a permit for a filming or still photography activity required under subsection (a)(4).
+
+(2) **Coordination** — If a permit is required under this section for 2 or more Federal agencies or Federal land management units, the Secretary concerned and the head of any other applicable Federal agency, as applicable, shall, to the maximum extent practicable, coordinate permit processing procedures, including through the use of identifying a lead agency or lead Federal land management unit—
+
+  (A) to review the application for the permit;
+
+  (B) to issue the permit; and
+
+  (C) to collect any required fees.
+
+**(e) Definitions** In this section:
+
+(1) **Federal land management unit** — The term “Federal land management unit” means—
+
+  (A) Federal land (other than National Park System land) under the jurisdiction of the Secretary of the Interior; and
+
+  (B) National Forest System land.
+
+(2) **Secretary concerned** — The term “Secretary concerned” means—
+
+  (A) the Secretary of the Interior, with respect to land described in paragraph (1)(A); and
+
+  (B) the Secretary of Agriculture, with respect to land described in paragraph (1)(B).
 
 ### Statutory Notes
+
+#### References in Text
+The Wilderness Act of 1964, referred to in subsec. (a)(4)(B), probably means the Wilderness Act, Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+
+Section 3 of the EXPLORE Act, referred to in subsec. (a)(5)(H), probably should be a reference to section 2 of the EXPLORE Act, Pub. L. 118–234, which is classified to [section 8401 of this title](./chapter-103-expanding-public-lands-outdoor-recreation-experiences.md#section-8401). Pub. L. 118–234 does not contain a section 3. “State” is defined in [section 8401(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8401/9&num=0&edition=prelim).
 
 #### Codification
 Section was not enacted as part of the Land and Water Conservation Fund Act of 1965.
 
-#### Amendments
-2014—Pub. L. 113–287, § 4(c), amended section generally. Prior to amendment, section related to commercial filming with respect to lands under the jurisdiction of the Secretaries of the Interior and Agriculture.
-
-#### Repeals
-Section repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272, insofar as applicable to the National Park System. See [section 100905 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100905&num=0&edition=prelim), National Park Service and Related Programs.
+#### Prior Provisions
+A prior section 460l–6d, Pub. L. 106–206, § 1, May 26, 2000, 114 Stat. 314; Pub. L. 113–287, §§ 4(c), 7, Dec. 19, 2014, 128 Stat. 3261, 3272, related to commercial filming, prior to repeal by Pub. L. 118–234, title I, § 125(b), Jan. 4, 2025, 138 Stat. 2851. Such section had been repealed by section 7 of Pub. L. 113–287, Dec. 19, 2014, 128 Stat. 3272, insofar as applicable to the National Park System. See [section 100905 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100905&num=0&edition=prelim), National Park Service and Related Programs.
 
 
 <a id="section-460l-7"></a>

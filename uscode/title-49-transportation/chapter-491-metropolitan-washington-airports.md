@@ -178,7 +178,15 @@ Pub. L. 105–154, § 2(b), Feb. 6, 1998, 112 Stat. 4, provided that: “Any ref
 
 (11) The Secretary shall include other terms applicable to the parties to the lease that are consistent with, and carry out, this chapter.
 
-**(b) Payments.—** Under the lease, the Airports Authority must pay to the general fund of the Treasury annually an amount, computed using the GNP Price Deflator, equal to $3,000,000 in 1987 dollars. The Secretary and the Airports Authority may renegotiate the level of lease payments attributable to inflation costs every 10 years.
+**(b) Payments.—**
+
+(1) **In general.—** — Subject to paragraph (2), under the lease, the Airports Authority must pay to the general fund of the Treasury annually an amount, computed using the GNP Price Deflator—
+
+  (A) during the period from 1987 to 2026, equal to $3,000,000 in 1987 dollars; and
+
+  (B) for 2027 and subsequent years, equal to $15,000,000 in 2027 dollars.
+
+(2) **Renegotiation.—** — The Secretary and the Airports Authority shall renegotiate the level of lease payments at least once every 10 years to ensure that in no year the amount specified in paragraph (1)(B) is less than $15,000,000 in 2027 dollars.
 
 **(c) Enforcement of Lease Provisions.—** The district courts of the United States have jurisdiction to compel the Airports Authority and its officers and employees to comply with the terms of the lease. The Attorney General or an aggrieved party may bring an action on behalf of the Government.
 
@@ -215,6 +223,8 @@ Part 159 of title 14 of the Code of Federal Regulations, including sections 159.
 A prior section 49104 was renumbered [section 50104 of this title](./chapter-501-buy-american-preferences.md#section-50104).
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–21 amended subsec. (b) generally. Prior to amendment, text read as follows: “Under the lease, the Airports Authority must pay to the general fund of the Treasury annually an amount, computed using the GNP Price Deflator, equal to $3,000,000 in 1987 dollars. The Secretary and the Airports Authority may renegotiate the level of lease payments attributable to inflation costs every 10 years.”
+
 2012—Subsec. (a)(2)(A)(iv). Pub. L. 112–95 added cl. (iv).
 
 2000—Subsec. (a)(5)(D). Pub. L. 106–181 added subpar. (D).
@@ -361,7 +371,7 @@ In subsection (d), the words “The Airports Authority shall be subject to a con
 In subsection (g), the words “Committee on Transportation and Infrastructure” are substituted for “Committee on Public Works and Transportation” because of the amendment of clause 1(q) of Rule X of the Rules of the House of Representatives by section 202(a) of H. Res. 6, approved January 4, 1995.
 
 #### Amendments
-2024—Subsec. (a)(1)(B). Pub. L. 118–63, § 1101(x)(1), struck out “ and [section 49108 of this title](./chapter-491-metropolitan-washington-airports.md#section-49108)” before semicolon at end.
+2024—Subsec. (a)(1)(B). Pub. L. 118–63, § 1101(x)(1), struck out “and [section 49108 of this title](./chapter-491-metropolitan-washington-airports.md#section-49108)” before semicolon at end.
 
 Subsec. (c)(6)(C). Pub. L. 118–63, § 1101(x)(2), inserted “the” before “jurisdiction”.
 

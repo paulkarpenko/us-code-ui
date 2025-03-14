@@ -360,7 +360,7 @@ Subsec. (c). Pub. L. 108–447, § 114(a)(3), struck out “, not to exceed $15,
 
   (B) the obligations or requirements of any Federal environmental law.
 
-**(e) Sunset** No new environmental bank may be created or approved pursuant to this section after the date that is 12 years after December 16, 2016.
+**(e) Sunset** No new environmental bank may be created or approved pursuant to this section after the date that is 14 years after December 16, 2016.
 
 ### Statutory Notes
 
@@ -378,4 +378,6 @@ The Oil Pollution Act of 1990, referred to in subsec. (d)(1)(C), is Pub. L. 101�
 The National Environmental Policy Act of 1969, referred to in subsec. (d)(1)(D), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2025—Subsec. (e). Pub. L. 118–272 substituted “14” for “12”.
+
 2022—Subsec. (e). Pub. L. 117–263 substituted “12” for “10”.

@@ -31,6 +31,9 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 #### Effective Date
 Pub. L. 90–321, title V, § 504(a), May 29, 1968, 82 Stat. 167, provided that: “Except as otherwise specified, the provisions of this Act [see Short Title note set out below] take effect upon enactment [May 29, 1968].”
 
+#### Short Title of 2025 Amendment
+Pub. L. 119–36, § 1, Sept. 5, 2025, 139 Stat. 493, provided that: “This Act [amending [section 1681b of this title](./chapter-041-consumer-credit-protection.md#section-1681b) and enacting provisions set out as a note under [section 1681b of this title](./chapter-041-consumer-credit-protection.md#section-1681b)] may be cited as the ‘Homebuyers Privacy Protection Act’.”
+
 #### Short Title of 2018 Amendment
 Pub. L. 115–174, § 1(a), May 24, 2018, 132 Stat. 1296, provided that: “This Act [see Tables for classification] may be cited as the ‘Economic Growth, Regulatory Relief, and Consumer Protection Act’.”
 
@@ -6178,6 +6181,51 @@ Pub. L. 104–208, div. A, title II, § 2421, Sept. 30, 1996, 110 Stat. 3009–4
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)
+Pub. L. 119–36, §§ 2(a), 3, Sept. 5, 2025, 139 Stat. 493, 494, provided that, effective on the date that is 180 days after Sept. 5, 2025, subsection (c) of this section is amended by adding at the end the following:
+
+(4) Treatment of prescreening report requests
+
+(A) Definitions
+
+In this paragraph:
+
+(i) Credit union
+
+The term “credit union” means a Federal credit union or a State credit union, as those terms are defined, respectively, in section 101 of the Federal Credit Union Act ([12 U.S.C. 1752](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1752&num=0&edition=prelim)).
+
+(ii) Insured depository institution
+
+The term “insured depository institution” has the meaning given the term in section 3 of the Federal Deposit Insurance Act ([12 U.S.C. 1813(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/c&num=0&edition=prelim)).
+
+(iii) Residential mortgage loan
+
+The term “residential mortgage loan” has the meaning given the term in [section 5102 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5102&num=0&edition=prelim).
+
+(iv) Servicer
+
+The term “servicer” has the meaning given the term in [section 2605(i) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2605/i&num=0&edition=prelim).
+
+(B) Limitation
+
+If a person requests a consumer report from a consumer reporting agency in connection with a credit transaction involving a residential mortgage loan, that agency may not, based in whole or in part on that request, furnish a consumer report to another person under this subsection unless—
+
+(i) the transaction consists of a firm offer of credit or insurance; and
+
+(ii) that other person—
+
+(I) has submitted documentation to that agency certifying that such other person has, pursuant to paragraph (1)(A), the authorization of the consumer to whom the consumer report relates; or
+
+(II)(aa) has originated a current residential mortgage loan of the consumer to whom the consumer report relates;
+
+(bb) is the servicer of a current residential mortgage loan of the consumer to whom the consumer report relates; or
+
+(cc)(AA) is an insured depository institution or credit union; and
+
+(BB) holds a current account for the consumer to whom the consumer report relates.
+
+See 2025 Amendment note below.
+
 #### References in Text
 The Federal Deposit Insurance Act, referred to in subsec. (a)(6), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim) and Tables.
 
@@ -6194,6 +6242,8 @@ The Health Insurance Portability and Accountability Act of 1996, referred to in 
 Section 1179 of such Act, referred to in subsec. (g)(3)(B), probably means section 1179 of the Social Security Act, as added by section 262(a) of Pub. L. 104–191, title II, Aug. 21, 1996, 110 Stat. 2030, which is classified to [section 1320d–8 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320d–8&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2025—Subsec. (c)(4). Pub. L. 119–36 added par. (4).
+
 2021—Subsec. (a)(1). Pub. L. 116–283 substituted “such an order, a” for “such an order, or a” and inserted “, or a subpoena issued in accordance with [section 5318 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318&num=0&edition=prelim) or [section 3486 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3486&num=0&edition=prelim)” after “grand jury”.
 
 2015—Subsec. (a)(4)(A). Pub. L. 114–94, § 80001(1), substituted “, determining the appropriate level of such payments, or enforcing a child support order, award, agreement, or judgment” for “or determining the appropriate level of such payments”.
@@ -6265,6 +6315,9 @@ Subsec. (g). Pub. L. 104–208, § 2405, added subsec. (g).
 Pars. (4), (5). Pub. L. 104–193 added pars. (4) and (5).
 
 1989—Par. (1). Pub. L. 101–73 inserted “, or a subpoena issued in connection with proceedings before a Federal grand jury” before period at end.
+
+#### Effective Date of 2025 Amendment
+Pub. L. 119–36, § 3, Sept. 5, 2025, 139 Stat. 494, provided that: “This Act [amending this section and enacting provisions set out as a note under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601)], and the amendments made by this Act, shall take effect on the date that is 180 days after the date of enactment of this Act [Sept. 5, 2025].”
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.

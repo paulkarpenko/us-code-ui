@@ -399,6 +399,8 @@ For continued service of Surgeon General of the Air Force under this section aft
 
 (2) the ability of officers of the Air Force who are designated as judge advocates who are assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
 
+**(g)** If the Judge Advocate General is removed from office before the end of the term of the Judge Advocate General as specified in subsection (a), the Secretary of Defense shall, not later than five days after the removal takes effect, submit to the Committees on Armed Services of the Senate and the House of Representatives notice that the Judge Advocate General is being removed and a statement of the reason for the removal.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -415,6 +417,8 @@ In subsection (b), the words “Hereafter” and “exclusive of the present inc
 In subsection (c), the Act of June 23, 1874, ch. 458, § 2 (words before semicolon of 1st sentence, and last sentence), 18 Stat. 244, are not contained in 10:62. They are also omitted from the revised section, since the Air Force does not have organic corps created by statute.
 
 #### Amendments
+2025—Subsec. (g). Pub. L. 119–60 added subsec. (g).
+
 2021—Subsec. (e)(2)(B). Pub. L. 116–283, § 923(b)(7)(A), inserted “or the Space Force” after “of the Air Force”.
 
 Subsec. (f)(1). Pub. L. 116–283, § 923(b)(7)(B), substituted “the Secretary of the Air Force, the Chief of Staff of the Air Force, or the Chief of Space Operations” for “the Secretary of the Air Force or the Chief of Staff of the Air Force”.
@@ -586,17 +590,27 @@ For continued service of Chief of Chaplains for the Air Force and the Space Forc
 ## § 9040. Oversight of nuclear deterrence mission
 **(a) Oversight of Nuclear Deterrence Mission.—** Subject to the authority, direction, and control of the Secretary of the Air Force, the Chief of Staff of the Air Force shall be responsible for overseeing the safety, security, reliability, effectiveness, and credibility of the nuclear deterrence mission of the Air Force.
 
-**(b) Deputy Chief of Staff.—** Not later than March 1, 2016, the Chief of Staff shall designate a Deputy Chief of Staff to carry out the following duties:
+**(b) Deputy Chief of Staff.—** Not later than March 1, 2016, the Chief of Staff shall designate a Deputy Chief of Staff to carry out the following duties in coordination with the Commander of Air Force Global Strike Command:
 
 (1) Provide direction, guidance, integration, and advocacy regarding the nuclear deterrence mission of the Air Force.
 
-(2) Conduct monitoring and oversight activities regarding the safety, security, reliability, effectiveness, and credibility of the nuclear deterrence mission of the Air Force.
+(2) Coordinate with and support the activities of Air Force Global Strike Command, the Air Force Nuclear Systems Center, and any other applicable Air Force organization in the sustainment and modernization of weapon systems associated with the nuclear deterrence mission of the Air Force.
 
-(3) Conduct periodic comprehensive assessments of all aspects of the nuclear deterrence mission of the Air Force and provide such assessments to the Secretary of the Air Force and the Chief of Staff of the Air Force.
+(3) Conduct monitoring and oversight activities regarding the safety, security, reliability, effectiveness, and credibility of the nuclear deterrence mission of the Air Force.
+
+(4) Conduct periodic comprehensive assessments of all aspects of the nuclear deterrence mission of the Air Force and provide such assessments to the Secretary of the Air Force 11 So in original. Probably should be followed by a comma. the Chief of Staff of the Air Force, and the Commander of Air Force Global Strike Command.
+
+(5) Represent Air Force nuclear deterrence mission equities on behalf of the Chief of Staff of the Air Force and the Commander of Air Force Global Strike Command within the Nuclear Weapons Council processes and other Department of Defense fora, as appropriate.
 
 ### Statutory Notes
 
 #### Amendments
+2025—Subsec. (b). Pub. L. 119–60, § 1642(b)(1), inserted “in coordination with the Commander of Air Force Global Strike Command” after “duties” in introductory provisions.
+
+Subsec. (b)(2) to (4). Pub. L. 119–60, § 1642(b)(2)–(4), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and in par. (4), substituted “the Chief of Staff of the Air Force, and the Commander of Air Force Global Strike Command” for “and the Chief of Staff of the Air Force”.
+
+Subsec. (b)(5). Pub. L. 119–60, § 1642(b)(5), added par. (5).
+
 2018—Pub. L. 115–232 renumbered [section 8040 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8040&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment

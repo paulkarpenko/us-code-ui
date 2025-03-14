@@ -2,14 +2,43 @@
 title: 14
 chapter: '3'
 heading: COMPOSITION AND ORGANIZATION
-section_count: 23
+section_count: 27
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
 <a id="section-301"></a>
 ## § 301. Grades and ratings
+**(a) In General.—** In the Coast Guard, there shall be—
 
-In the Coast Guard there shall be admirals (two); vice admirals; rear admirals; rear admirals (lower half); captains; commanders; lieutenant commanders; lieutenants; lieutenants (junior grade); ensigns; chief warrant officers; cadets; warrant officers; and enlisted members. Enlisted members shall be distributed in ratings established by the Secretary.
+(1) admirals (two);
+
+(2) vice admirals;
+
+(3) rear admirals;
+
+(4) rear admirals (lower half);
+
+(5) captains;
+
+(6) commanders;
+
+(7) lieutenant commanders;
+
+(8) lieutenants;
+
+(9) lieutenants (junior grade);
+
+(10) ensigns;
+
+(11) chief warrant officers;
+
+(12) cadets;
+
+(13) warrant officers; and
+
+(14) enlisted members.
+
+**(b) Enlisted Members.—** Enlisted members shall be distributed in ratings established by the Secretary.
 
 ### Statutory Notes
 
@@ -31,6 +60,10 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 A prior section 301, act Aug. 4, 1949, ch. 393, 63 Stat. 518, related to permanent appointment of warrant officers, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177. See section 571 et seq. of Title 10, Armed Forces.
 
 #### Amendments
+2025—Pub. L. 119–60, § 7201(e)(1), amended section generally. Prior to amendment, text read as follows: “In the Coast Guard there shall be admirals (two); vice admirals; rear admirals; rear admirals (lower half); captains; commanders; lieutenant commanders; lieutenants; lieutenants (junior grade); ensigns; chief warrant officers; cadets; warrant officers; and enlisted members. Enlisted members shall be distributed in ratings established by the Secretary.”
+
+Pub. L. 119–60, § 7201(b), renumbered [section 301 of this title](./chapter-003-composition-and-organization.md#section-301) as this section, resulting in no change.
+
 2018—Pub. L. 115–282 renumbered [section 41 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section41&num=0&edition=prelim) as this section.
 
 2016—Pub. L. 114–120 substituted “admirals (two);” for “an admiral,”.
@@ -58,8 +91,13 @@ Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation b
 
 <a id="section-302"></a>
 ## § 302. Commandant; appointment
+**(a) appointment.—** 11 So in original. Probably should be capitalized.The President may appoint, by and with the advice and consent of the Senate, one Commandant for a period of four years, who shall act as Chief of the Coast Guard.
 
-The President may appoint, by and with the advice and consent of the Senate, one Commandant for a period of four years, who may be reappointed for further periods of four years, who shall act as Chief of the Coast Guard. The term of an appointment, and any reappointment, shall begin on June 1 of the appropriate year and end on May 31 of the appropriate year, except that, in the event of death, retirement, resignation, or reassignment, or when the needs of the Service demand, the Secretary may alter the date on which a term begins or ends if the alteration does not result in the term exceeding a period of 4 years. The Commandant shall be appointed from the officers on the active duty promotion list serving above the grade of captain who have completed at least ten years of active service as a commissioned officer in the Coast Guard. The Commandant while so serving shall have the grade of admiral.
+**(b) Reappointment.—** In time of war or during a national emergency declared by Congress, the Commandant may be reappointed for a term of not more than 4 years.
+
+**(c) Term.—** The term of an appointment, and any reappointment, shall begin on June 1 of the appropriate year and end on May 31 of the appropriate year, except that, in the event of death, retirement, resignation, or reassignment, or when the needs of the Service demand, the Secretary may alter the date on which a term begins or ends if the alteration does not result in the term exceeding a period of 4 years. The Commandant shall be appointed from the officers on the active duty promotion list serving above the grade of captain who have completed at least ten years of active service as a commissioned officer in the Coast Guard.
+
+**(d) Grade.—** The Commandant while so serving shall have the grade of admiral.
 
 ### Statutory Notes
 
@@ -70,10 +108,23 @@ Said section has been divided. The provisions of the first proviso are placed in
 
 The grade of the Commandant is fixed as vice admiral rather than that prescribed for Bureau Chiefs of the Navy. The additional qualifications that an officer appointed Commandant must have at least 10 years commissioned service in the Coast Guard has been inserted. 81st Congress, House Report No. 557.
 
+#### Codification
+Pub. L. 119–60, § 7201(e)(2), which directed amendment of [section 303 of this title](./chapter-003-composition-and-organization.md#section-303), was executed to this section to reflect the probable intent of Congress. See 2025 Amendment notes below.
+
 #### Prior Provisions
 A prior section 302, act Aug. 4, 1949, ch. 393, 63 Stat. 518, related to temporary appointments of warrant officers, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 #### Amendments
+2025—Pub. L. 119–60, § 7201(b), renumbered [section 302 of this title](./chapter-003-composition-and-organization.md#section-302) as this section, resulting in no change.
+
+Subsec. (a). Pub. L. 119–60, § 7201(e)(2)(A), (B), designated first sentence of existing provisions as subsec. (a), inserted heading, and struck out “ ,who may be reappointed for further periods of four years” after “period of four years”. See Codification note above.
+
+Subsec. (b). Pub. L. 119–60, § 7201(e)(2)(C), which directed adding subsec. (b) after “Chief of the Coast Guard”, was executed by adding subsec. (b) after the period following “Chief of the Coast Guard” to reflect the probable intent of Congress. See Codification note above.
+
+Subsec. (c). Pub. L. 119–60, § 7201(e)(2)(D), inserted subsec. (c) designation and heading before “The term of an appointment”. See Codification note above.
+
+Subsec. (d). Pub. L. 119–60, § 7201(e)(2)(E), inserted subsec. (d) designation and heading before “The Commandant while”. See Codification note above.
+
 2018—Pub. L. 115–282 renumbered [section 44 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section44&num=0&edition=prelim) as this section.
 
 2014—Pub. L. 113–281 inserted after first sentence “The term of an appointment, and any reappointment, shall begin on June 1 of the appropriate year and end on May 31 of the appropriate year, except that, in the event of death, retirement, resignation, or reassignment, or when the needs of the Service demand, the Secretary may alter the date on which a term begins or ends if the alteration does not result in the term exceeding a period of 4 years.”
@@ -97,7 +148,76 @@ Pub. L. 86–474, § 3, May 14, 1960, 74 Stat. 146, provided that: “Except as 
 
 
 <a id="section-303"></a>
-## § 303. Retirement of Commandant or Vice Commandant
+## § 303. Vice Commandant; appointment
+
+The President may appoint, by and with the advice and consent of the Senate, one Vice Commandant who shall rank next after the Commandant, shall perform such duties as the Commandant may prescribe and shall act as Commandant during the absence or disability of the Commandant or in the event that there is a vacancy in the office of Commandant. The Vice Commandant shall be selected from the officers on the active duty promotion list serving above the grade of captain. The Commandant shall make recommendation for such appointment. The Vice Commandant shall, while so serving, have the grade of admiral with pay and allowances of that grade. The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in [section 306(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section306/d&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 14, U.S.C., 1946 ed., §§ 11a, 12 (Apr. 16, 1908, ch. 145, §§ 1, 2, 35 Stat. 61; Jan. 28, 1915, ch. 20, § 1, 38 Stat. 800; Jan. 12, 1923, ch. 25, § 2, 42 Stat. 1130; May 24, 1939, ch. 148, §§ 2, 3, 53 Stat. 757; June 6, 1940, ch. 257, §§ 1(b), 3, 54 Stat. 246; July 23, 1947, ch. 301, § 2, 61 Stat. 410; May 19, 1948, ch. 305, 62 Stat. 239).
+
+Said sections have been divided. The provisions of the proviso of title 14, U.S.C., 1946 ed., § 11a, and the first proviso of title 14, U.S.C., 1946 ed., § 12, are placed in [section 48 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section48&num=0&edition=prelim) and the remainder is placed in this section.
+
+The provisions regarding appointment of the Assistant Commandant and Engineer in Chief are coordinated, inasmuch as these positions are about equal in the Coast Guard organization. The qualification that the Engineer in Chief be appointed from the active list of engineering officers is changed to the active list of officers who have qualified for engineering duty, because there is no longer any provision for a corps of engineering officers. 81st Congress, House Report No. 557.
+
+#### Prior Provisions
+A prior section 303 was renumbered [section 304 of this title](./chapter-003-composition-and-organization.md#section-304).
+
+Another prior section 303, act Aug. 4, 1949, ch. 393, 63 Stat. 518, required compulsory retirement of warrant officers reaching age of sixty-two years, with retired pay of grade with which retired, prior to repeal by act May 29, 1954, ch. 249, § 20(o), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+
+#### Amendments
+2025—Pub. L. 119–60 renumbered [section 304 of this title](./chapter-003-composition-and-organization.md#section-304) as this section.
+
+2018—Pub. L. 115–282, § 123(b)(2), substituted “section 306(d)” for “section 51(d)”.
+
+Pub. L. 115–282, § 104(b), renumbered [section 47 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section47&num=0&edition=prelim) as this section.
+
+2016—Pub. L. 114–120, § 209(3), substituted “Commandant” for “commandant” in section catchline.
+
+Pub. L. 114–120, § 201(b), substituted “grade of admiral” for “grade of vice admiral”.
+
+2010—Pub. L. 111–281 substituted “Vice commandant; appointment” for “Vice Commandant; assignment” in section catchline and “section 51(d)” for “subsection 51(d)” in text.
+
+1993—Pub. L. 103–206 struck out “; retirement” after “assignment” in section catchline, struck out “(a)” before “The President may appoint”, substituted “The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in sub[section 51(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section51/d&num=0&edition=prelim).” for “The appointment of a Vice Commandant shall be effective on the date the officer assumes such duty, and shall terminate on the date he is detached from such duty.”, and struck out subsecs. (b) to (d) which read as follows:
+
+“(b) A Vice Commandant, while so serving, who is retired for physical disability shall be placed on the retired list with the grade of vice admiral.
+
+“(c) An officer who is retired while serving as Vice Commandant, or who, after serving at least two and one-half years as Vice Commandant, is retired after completion of that service while serving in a lower rank or grade, may, in the discretion of the President, be retired with the grade of vice admiral.
+
+“(d) An officer who, after serving less than two and one-half years as Vice Commandant, is retired after completion of that service while serving in a lower rank or grade, shall be retired in his permanent grade.”
+
+1986—Subsecs. (b), (c). Pub. L. 99–348, § 205(b)(2)(A), struck out “and retired pay” after “with the grade”.
+
+Subsec. (d). Pub. L. 99–348, § 205(b)(2)(B), struck out “and with the retired pay of that grade” after “permanent grade”.
+
+1982—Subsec. (a). Pub. L. 97–295 substituted “a” for “an” before “Vice Commandant”.
+
+1972—Subsec. (a). Pub. L. 92–451 substituted “Vice Commandant” for “Assistant Commandant” in four places, and “above the grade of captain” for “in the grade of captain or above” in second sentence.
+
+Subsec. (b). Pub. L. 92–451 substituted “A Vice Commandant” for “An Assistant Commandant”.
+
+Subsecs. (c), (d). Pub. L. 92–451 substituted “Vice Commandant” for “Assistant Commandant” wherever appearing.
+
+1966—Subsec. (c). Pub. L. 89–444, § 1(6), struck out requirement that Assistant Commandant serve 2½ years as Assistant Commandant before becoming eligible for retirement with the grade and pay of vice admiral.
+
+Subsec. (d). Pub. L. 89–444, § 1(7), struck out provision that [section 334 of this title](./chapter-003-composition-and-organization.md#section-334), which covers cases of retirement when a higher grade has been held, shall not apply to an officer retiring within 2½ years of the date of his original assignment as Assistant Commandant.
+
+1963—Subsec. (a). Pub. L. 88–130, § 1(5), substituted “officers on the active duty promotion list serving in the grade of captain or above” for “active list of officers who hold a permanent commission as captain or above”.
+
+Subsec. (d). Pub. L. 88–130, § 1(6), substituted “section 334” for “section 243”.
+
+1960—Pub. L. 86–474 amended section generally, and, among other changes, required Assistant Commandant to be appointed from the active list of officers who hold a permanent commission as captain or above, raised grade of Assistant Commandant from rear admiral to vice admiral, increased his pay and allowances from that of a rear admiral (upper half) to that of a vice admiral, struck out provisions which related to an Engineer in Chief, and added subsecs. (b) to (d).
+
+#### Effective Date of 1972 Amendment
+Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation boards may not be held until one year thereafter, see section 3 of Pub. L. 92–451, set out as a note under [section 2151 of this title](./chapter-021-personnel-officers.md#section-2151).
+
+#### Effective Date of Higher Grade and Increased Pay and Allowances
+The increased grade of vice admiral for the Vice Commandant, including the pay and allowances applicable to such grade, effective on the first day of the month following May 14, 1960, see section 2 of Pub. L. 86–474, set out as a note under [section 302 of this title](./chapter-003-composition-and-organization.md#section-302).
+
+
+<a id="section-304"></a>
+## § 304. Retirement of Commandant or Vice Commandant
 **(a)**
 
 (1) A Commandant who is not reappointed shall be retired with the grade of admiral at the expiration of the appointed term, except as provided in [section 306(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section306/d&num=0&edition=prelim).
@@ -118,9 +238,13 @@ Based on title 14, U.S.C., 1946 ed., § 161 (Jan. 12, 1923, ch. 25, § 2, 42 Sta
 Provision is added for retirement of the Commandant with the grade and pay of vice admiral after 3 years service, in the discretion of the President, regardless of total length of service. Provision is also added for retirement with the grade and pay of vice admiral in case of physical disability. 81st Congress, House Report No. 557.
 
 #### Prior Provisions
-A prior section 303, act Aug. 4, 1949, ch. 393, 63 Stat. 518, required compulsory retirement of warrant officers reaching age of sixty-two years, with retired pay of grade with which retired, prior to repeal by act May 29, 1954, ch. 249, § 20(o), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+A prior section 304 was renumbered [section 303 of this title](./chapter-003-composition-and-organization.md#section-303).
+
+Another prior section 304, act Aug. 4, 1949, ch. 393, 63 Stat. 518, provided for voluntary retirement of warrant officers after thirty years’ service, with retired pay of grade with which retired, prior to repeal by act May 29, 1954, ch. 249, § 20(o), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 #### Amendments
+2025—Pub. L. 119–60 renumbered [section 303 of this title](./chapter-003-composition-and-organization.md#section-303) as this section.
+
 2022—Subsec. (a)(2). Pub. L. 117–263, § 11240(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A Vice Commandant who is not reappointed or appointed Commandant shall be retired with the grade of admiral at the expiration of the appointed term, except as provided in section 306(d).”
 
 Subsec. (c). Pub. L. 117–263, § 11240(2), substituted “or as an officer serving as Vice Commandant who has served less than 2 years as Vice Commandant” for “or Vice Commandant”.
@@ -156,82 +280,17 @@ Subsec. (d). Pub. L. 89–444, § 1(5), repealed subsec. (d) which provided that
 1960—Pub. L. 86–474 authorized any Commandant who is not reappointed at the expiration of his term to be retired with the grade and retired pay of admiral, directed placement on the retired list with the grade and retired pay of admiral for a Commandant who is retired for physical disability, reduced from three to two and one-half years the period that the Commandant must serve before he may voluntarily apply retirement without regard to total length of service, and provided that any Commandant who retires within two and one-half years of the date of his original appointment as Commandant shall retire in his permanent grade and with the retired pay of that grade.
 
 
-<a id="section-304"></a>
-## § 304. Vice Commandant; appointment
-
-The President may appoint, by and with the advice and consent of the Senate, one Vice Commandant who shall rank next after the Commandant, shall perform such duties as the Commandant may prescribe and shall act as Commandant during the absence or disability of the Commandant or in the event that there is a vacancy in the office of Commandant. The Vice Commandant shall be selected from the officers on the active duty promotion list serving above the grade of captain. The Commandant shall make recommendation for such appointment. The Vice Commandant shall, while so serving, have the grade of admiral with pay and allowances of that grade. The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in [section 306(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section306/d&num=0&edition=prelim).
-
-### Statutory Notes
-
-#### Historical and Revision Notes
-Based on title 14, U.S.C., 1946 ed., §§ 11a, 12 (Apr. 16, 1908, ch. 145, §§ 1, 2, 35 Stat. 61; Jan. 28, 1915, ch. 20, § 1, 38 Stat. 800; Jan. 12, 1923, ch. 25, § 2, 42 Stat. 1130; May 24, 1939, ch. 148, §§ 2, 3, 53 Stat. 757; June 6, 1940, ch. 257, §§ 1(b), 3, 54 Stat. 246; July 23, 1947, ch. 301, § 2, 61 Stat. 410; May 19, 1948, ch. 305, 62 Stat. 239).
-
-Said sections have been divided. The provisions of the proviso of title 14, U.S.C., 1946 ed., § 11a, and the first proviso of title 14, U.S.C., 1946 ed., § 12, are placed in [section 48 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section48&num=0&edition=prelim) and the remainder is placed in this section.
-
-The provisions regarding appointment of the Assistant Commandant and Engineer in Chief are coordinated, inasmuch as these positions are about equal in the Coast Guard organization. The qualification that the Engineer in Chief be appointed from the active list of engineering officers is changed to the active list of officers who have qualified for engineering duty, because there is no longer any provision for a corps of engineering officers. 81st Congress, House Report No. 557.
-
-#### Prior Provisions
-A prior section 304, act Aug. 4, 1949, ch. 393, 63 Stat. 518, provided for voluntary retirement of warrant officers after thirty years’ service, with retired pay of grade with which retired, prior to repeal by act May 29, 1954, ch. 249, § 20(o), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
-
-#### Amendments
-2018—Pub. L. 115–282, § 123(b)(2), substituted “section 306(d)” for “section 51(d)”.
-
-Pub. L. 115–282, § 104(b), renumbered [section 47 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section47&num=0&edition=prelim) as this section.
-
-2016—Pub. L. 114–120, § 209(3), substituted “Commandant” for “commandant” in section catchline.
-
-Pub. L. 114–120, § 201(b), substituted “grade of admiral” for “grade of vice admiral”.
-
-2010—Pub. L. 111–281 substituted “Vice commandant; appointment” for “Vice Commandant; assignment” in section catchline and “section 51(d)” for “subsection 51(d)” in text.
-
-1993—Pub. L. 103–206 struck out “; retirement” after “assignment” in section catchline, struck out “(a)” before “The President may appoint”, substituted “The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in sub[section 51(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section51/d&num=0&edition=prelim).” for “The appointment of a Vice Commandant shall be effective on the date the officer assumes such duty, and shall terminate on the date he is detached from such duty.”, and struck out subsecs. (b) to (d) which read as follows:
-
-“(b) A Vice Commandant, while so serving, who is retired for physical disability shall be placed on the retired list with the grade of vice admiral.
-
-“(c) An officer who is retired while serving as Vice Commandant, or who, after serving at least two and one-half years as Vice Commandant, is retired after completion of that service while serving in a lower rank or grade, may, in the discretion of the President, be retired with the grade of vice admiral.
-
-“(d) An officer who, after serving less than two and one-half years as Vice Commandant, is retired after completion of that service while serving in a lower rank or grade, shall be retired in his permanent grade.”
-
-1986—Subsecs. (b), (c). Pub. L. 99–348, § 205(b)(2)(A), struck out “and retired pay” after “with the grade”.
-
-Subsec. (d). Pub. L. 99–348, § 205(b)(2)(B), struck out “and with the retired pay of that grade” after “permanent grade”.
-
-1982—Subsec. (a). Pub. L. 97–295 substituted “a” for “an” before “Vice Commandant”.
-
-1972—Subsec. (a). Pub. L. 92–451 substituted “Vice Commandant” for “Assistant Commandant” in four places, and “above the grade of captain” for “in the grade of captain or above” in second sentence.
-
-Subsec. (b). Pub. L. 92–451 substituted “A Vice Commandant” for “An Assistant Commandant”.
-
-Subsecs. (c), (d). Pub. L. 92–451 substituted “Vice Commandant” for “Assistant Commandant” wherever appearing.
-
-1966—Subsec. (c). Pub. L. 89–444, § 1(6), struck out requirement that Assistant Commandant serve 2½ years as Assistant Commandant before becoming eligible for retirement with the grade and pay of vice admiral.
-
-Subsec. (d). Pub. L. 89–444, § 1(7), struck out provision that [section 334 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section334&num=0&edition=prelim), which covers cases of retirement when a higher grade has been held, shall not apply to an officer retiring within 2½ years of the date of his original assignment as Assistant Commandant.
-
-1963—Subsec. (a). Pub. L. 88–130, § 1(5), substituted “officers on the active duty promotion list serving in the grade of captain or above” for “active list of officers who hold a permanent commission as captain or above”.
-
-Subsec. (d). Pub. L. 88–130, § 1(6), substituted “section 334” for “section 243”.
-
-1960—Pub. L. 86–474 amended section generally, and, among other changes, required Assistant Commandant to be appointed from the active list of officers who hold a permanent commission as captain or above, raised grade of Assistant Commandant from rear admiral to vice admiral, increased his pay and allowances from that of a rear admiral (upper half) to that of a vice admiral, struck out provisions which related to an Engineer in Chief, and added subsecs. (b) to (d).
-
-#### Effective Date of 1972 Amendment
-Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation boards may not be held until one year thereafter, see section 3 of Pub. L. 92–451, set out as a note under [section 2151 of this title](./chapter-021-personnel-officers.md#section-2151).
-
-#### Effective Date of Higher Grade and Increased Pay and Allowances
-The increased grade of vice admiral for the Vice Commandant, including the pay and allowances applicable to such grade, effective on the first day of the month following May 14, 1960, see section 2 of Pub. L. 86–474, set out as a note under [section 302 of this title](./chapter-003-composition-and-organization.md#section-302).
-
-
 <a id="section-305"></a>
 ## § 305. Vice admirals
 **(a)**
 
-(1) The President may—
+(1) The President shall—
 
   (A) designate, within the Coast Guard, no more than five positions of importance and responsibility that shall be held by officers who, while so serving—
 
     (i) shall have the grade of vice admiral, with the pay and allowances of that grade; and
 
-    (ii) shall perform such duties as the Commandant may prescribe, except that if the President designates five such positions, one position shall be the Chief of Staff of the Coast Guard; and
+    (ii) shall perform such duties as the Commandant may prescribe, except that if the President designates five such positions, one position shall oversee personnel management, workforce, and dependent support, training, and related matters; and
 
   (B) designate, within the executive branch, other than within the Coast Guard or the National Oceanic and Atmospheric Administration, positions of importance and responsibility that shall be held by officers who, while so serving, shall have the grade of vice admiral, with the pay and allowances of that grade.
 
@@ -273,6 +332,12 @@ The increased grade of vice admiral for the Vice Commandant, including the pay a
 A prior section 305, act Aug. 4, 1949, ch. 393, 63 Stat. 518, provided for voluntary retirement after twenty years’ service, with retired pay of grade with which retired, prior to repeal by act May 29, 1954, ch. 249, § 20(o), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 #### Amendments
+2025—Pub. L. 119–60, § 7201(b), renumbered [section 305 of this title](./chapter-003-composition-and-organization.md#section-305) as this section, resulting in no change.
+
+Subsec. (a)(1). Pub. L. 119–60, § 7201(e)(3)(A), substituted “shall” for “may” in introductory provisions.
+
+Subsec. (a)(1)(A)(ii). Pub. L. 119–60, § 7201(e)(3)(B), which directed substitution of “oversee personnel management, workforce, and dependent support, training, and related matters” for “be the chief of staff of the Coast Guard”, was executed by making the substitution for “be the Chief of Staff of the Coast Guard”, to reflect the probable intent of Congress.
+
 2021—Subsec. (a)(4). Pub. L. 116–283 added par. (4).
 
 2018—Pub. L. 115–282, § 104(b), renumbered [section 50 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section50&num=0&edition=prelim) as this section.
@@ -323,6 +388,8 @@ Pub. L. 111–281, title V, § 511(h)(1), Oct. 15, 2010, 124 Stat. 2953, provide
 A prior section 306, act Aug. 4, 1949, ch. 393, 63 Stat. 519, related to retirement for disabilities incident to service, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177. See sections 1204 and 1376 of Title 10, Armed Forces.
 
 #### Amendments
+2025—Pub. L. 119–60 renumbered [section 306 of this title](./chapter-003-composition-and-organization.md#section-306) as this section, resulting in no change.
+
 2021—Subsec. (a). Pub. L. 116–283, § 8201(b)(1), inserted “satisfactorily, as determined under [section 2501 of this title](./chapter-025-personnel-general-provisions.md#section-2501)” before period at end.
 
 Subsec. (b). Pub. L. 116–283, § 8201(b)(2), inserted “satisfactorily, as determined under [section 2501 of this title](./chapter-025-personnel-general-provisions.md#section-2501)” before period at end.
@@ -360,7 +427,7 @@ Section effective Oct. 2, 1972, except that continuation boards may not be held 
 
 
 <a id="section-307"></a>
-## § 307. Vice admirals and admiral, continuity of grade
+## § 307. Vice admirals and admirals, continuity of grade
 
 The continuity of an officer’s precedence on the active duty promotion list, date of rank, grade, pay, and allowances as a vice admiral or admiral shall not be interrupted by the termination of an appointment for the purpose of reappointment to another position as a vice admiral or admiral.
 
@@ -370,6 +437,10 @@ The continuity of an officer’s precedence on the active duty promotion list, d
 A prior section 307, act Aug. 4, 1949, ch. 393, 63 Stat. 519, provided for compulsory retirement of warrant officers after thirty years’ service, upon recommendation of a personnel board, prior to repeal by act May 29, 1954, ch. 249, § 20(o), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 #### Amendments
+2025—Pub. L. 119–60, § 7201(b), renumbered [section 307 of this title](./chapter-003-composition-and-organization.md#section-307) as this section, resulting in no change.
+
+Pub. L. 119–60, § 7201(e)(4), which directed substitution of “Admirals” for “Admiral” in the section catchline, was executed by substituting “admirals” for “admiral” after “and”, to reflect the probable intent of Congress.
+
 2018—Pub. L. 115–282 renumbered [section 52 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section52&num=0&edition=prelim) as this section.
 
 2010—Pub. L. 111–281 substituted “Vice admirals and admiral, continuity of grade” for “Vice admirals, continuity of grade” in section catchline and inserted “or admiral” after “allowances as a vice admiral” in text.
@@ -437,6 +508,8 @@ A prior section 307, act Aug. 4, 1949, ch. 393, 63 Stat. 519, provided for compu
 A prior section 308, act Aug. 4, 1949, ch. 393, 63 Stat. 519, provided for retired pay of warrant officers involuntarily retired under section 307, prior to repeal by act May 29, 1954, ch. 249, § 20(o), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 #### Amendments
+2025—Pub. L. 119–60 renumbered [section 308 of this title](./chapter-003-composition-and-organization.md#section-308) as this section, resulting in no change.
+
 2021—Subsec. (c)(10)(B)(ii). Pub. L. 117–81 substituted “section 3104(c)(1)” for “section 2547(c)(1)”.
 
 2018—Pub. L. 115–282, § 104(b), renumbered [section 56 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section56&num=0&edition=prelim) as this section.
@@ -485,6 +558,8 @@ Pub. L. 111–281, title IV, § 401(e), Oct. 15, 2010, 124 Stat. 2931, which dir
 A prior section 309, acts Aug. 4, 1949, ch. 393, 63 Stat. 519; Aug. 3, 1950, ch. 536, § 11, 64 Stat. 407, authorized retirement of warrant officers with grade of commissioned warrant officer in case of special commendation, prior to repeal by Pub. L. 86–155, § 10(a)(1), (b), Aug. 11, 1959, 73 Stat. 338, effective Nov. 1, 1959, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 #### Amendments
+2025—Pub. L. 119–60 renumbered [section 309 of this title](./chapter-003-composition-and-organization.md#section-309) as this section, resulting in no change.
+
 2018—Pub. L. 115–282 renumbered [section 53 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section53&num=0&edition=prelim) as this section.
 
 2002—Subsecs. (b)(3), (d), (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
@@ -494,97 +569,316 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 
 <a id="section-310"></a>
-## § 310. Chief of Staff to President: appointment
+## § 310. Director of Coast Guard Investigative Service
+**(a) In General.—** There shall be a Director of the Coast Guard Investigative Service.
+
+**(b) Chain of Command.—** The Director of the Coast Guard Investigative Service shall report directly to and be under the general supervision of the Commandant, acting through the Vice Commandant of the Coast Guard.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 310 was renumbered [section 313 of this title](./chapter-003-composition-and-organization.md#section-313).
+
+Another prior section 310, acts Aug. 4, 1949, ch. 393, 63 Stat. 519; Aug. 3, 1950, ch. 536, § 12, 64 Stat. 407, related to recall to active duty during war or national emergency of warrant officers, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+
+
+<a id="section-311"></a>
+## § 311. United States Coast Guard Band; composition; director
+**(a)** The United States Coast Guard Band shall be composed of a director and other personnel in such numbers and grades as the Secretary determines to be necessary.
+
+**(b)** The Secretary may designate as the director any individual determined by the Secretary to possess the necessary qualifications. Upon the recommendation of the Secretary, an individual so designated may be appointed by the President, by and with the advice and consent of the Senate, to a commissioned grade in the Regular Coast Guard.
+
+**(c)** The initial appointment to a commissioned grade of an individual designated as director of the Coast Guard Band shall be in the grade determined by the Secretary to be most appropriate to the qualifications and experience of the appointed individual.
+
+**(d)** An individual who is designated and commissioned under this section shall not be included on the active duty promotion list. He shall be promoted under [section 2126 of this title](./chapter-021-personnel-officers.md#section-2126). However, the grade of the director may not be higher than captain.
+
+**(e)** The Secretary may revoke any designation as director of the Coast Guard Band. When an individual’s designation is revoked, his appointment to commissioned grade under this section terminates and he is entitled, at his option—
+
+(1) to be discharged from the Coast Guard; or
+
+(2) to revert to the grade and status he held at the time of his designation as director.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 311 was renumbered [section 314 of this title](./chapter-003-composition-and-organization.md#section-314).
+
+Another prior section 311, acts Aug. 4, 1949, ch. 393, 63 Stat. 519; Aug. 3, 1950, ch. 536, § 13, 64 Stat. 407, related to recall of warrant officers to active duty with consent of the officer, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+
+#### Amendments
+2025—Pub. L. 119–60 renumbered [section 317 of this title](./chapter-003-composition-and-organization.md#section-317) as this section.
+
+2018—Pub. L. 115–282, § 104(b), renumbered [section 336 of this title](./chapter-003-composition-and-organization.md#section-336) as this section.
+
+Subsec. (d). Pub. L. 115–282, § 123(b)(2), substituted “section 2126” for “section 276”.
+
+2006—Subsec. (b). Pub. L. 109–241, § 204(a)(1), in first sentence, substituted “The Secretary may designate as the director any individual determined by the Secretary to possess the necessary qualifications.” for “The Secretary shall designate the director from among qualified members of the Coast Guard.”, and, in second sentence, substituted “an individual so designated” for “a member so designated”.
+
+Subsec. (c). Pub. L. 109–241, § 204(a)(2), substituted “of an individual” for “of a member” and “determined by the Secretary to be most appropriate to the qualifications and experience of the appointed individual” for “of lieutenant (junior grade) or lieutenant”.
+
+Subsec. (d). Pub. L. 109–241, § 204(a)(3), substituted “An individual” for “A member”.
+
+Subsec. (e). Pub. L. 109–241, § 204(a)(4), substituted “When an individual’s designation is revoked,” for “When a member’s designation is revoked,” and “option—” for “option:”.
+
+2002—Subsec. (d). Pub. L. 107–295 substituted “captain” for “commander”.
+
+1992—Subsec. (d). Pub. L. 102–587 substituted “commander” for “lieutenant commander”.
+
+#### Current Director
+Pub. L. 109–241, title II, § 204(b), July 11, 2006, 120 Stat. 520, provided that: “The individual serving as Coast Guard band director on the date of enactment of this Act [July 11, 2006] may be immediately promoted to a commissioned grade, not to exceed captain, determined by the Secretary of the department in which the Coast Guard is operating to be most appropriate to the qualifications and experience of that individual.”
+
+
+<a id="section-312"></a>
+## § 312. Western Alaska Oil Spill Planning Criteria Program
+**(a) Establishment.—** There is established within the Coast Guard a Western Alaska Oil Spill Planning Criteria Program (referred to in this section as the “Program”) to develop and administer the Western Alaska oil spill planning criteria.
+
+**(b) Program Manager.—**
+
+(1) **In general.—** — Not later than 1 year after the date of enactment of this section, the Commandant shall select a permanent civilian career employee through a competitive search process for a term of not less than 5 years to serve as the Western Alaska Oil Spill Criteria Program Manager (referred to in this section as the “Program Manager”)—
+
+  (A) the primary duty of whom shall be to administer the Program; and
+
+  (B) who shall not be subject to frequent or routine reassignment.
+
+(2) **Conflicts of interest.—** — The individual selected to serve as the Program Manager shall not have conflicts of interest relating to entities regulated by the Coast Guard.
+
+(3) **Duties.—**
+
+  (A) *Development of guidance.—* — The Program Manager shall develop guidance for—
+
+    (i) approval, drills, and testing relating to the Western Alaska oil spill planning criteria; and
+
+    (ii) gathering input concerning such planning criteria from Federal agencies, State and local governments, Tribes, and relevant industry and nongovernmental entities.
+
+  (B) *Assessments.—* — Not less frequently than once every 5 years, the Program Manager shall—
+
+    (i) assess whether such existing planning criteria adequately meet the needs of vessels operating in the geographic area; and
+
+    (ii) identify methods for advancing response capability so as to achieve, with respect to a vessel, compliance with national planning criteria.
+
+  (C) *Onsite verifications.—* — The Program Manager shall address the relatively small number and limited nature of verifications of response capabilities for vessel response plans by increasing, within the Coast Guard Arctic District, the quantity and frequency of onsite verifications of the providers identified in vessel response plans.
+
+**(c) Training.—** The Commandant shall enhance the knowledge and proficiency of Coast Guard personnel with respect to the Program by—
+
+(1) developing formalized training on the Program that, at a minimum—
+
+  (A) provides in-depth analysis of—
+
+    (i) the national planning criteria described in part 155 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this section);
+
+    (ii) alternative planning criteria;
+
+    (iii) Western Alaska oil spill planning criteria;
+
+    (iv) Captain of the Port and Federal On-Scene Coordinator authorities related to activation of a vessel response plan;
+
+    (v) the responsibilities of vessel owners and operators in preparing a vessel response plan for submission; and
+
+    (vi) responsibilities of the Area Committee, including risk analysis, response capability, and development of alternative planning criteria;
+
+  (B) explains the approval processes of vessel response plans that involve alternative planning criteria or Western Alaska oil spill planning criteria; and
+
+  (C) provides instruction on the processes involved in carrying out the actions described in paragraphs (9)(D) and (9)(F) of section 311(j) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/j&num=0&edition=prelim)), including instruction on carrying out such actions—
+
+    (i) in any geographic area in the United States; and
+
+    (ii) specifically in the Coast Guard Arctic District; and
+
+(2) providing such training to all Coast Guard personnel involved in the Program.
+
+**(d) Definitions.—** In this section:
+
+(1) **Alternative planning criteria.—** — The term “alternative planning criteria” means criteria submitted under section 155.1065 or 155.5067 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this section), for vessel response plans.
+
+(2) **Tribe.—** — The term “Tribe” has the meaning given the term “Indian Tribe” in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)).
+
+(3) **Vessel response plan.—** — The term “vessel response plan” means a plan required to be submitted by the owner or operator of a tank vessel or a nontank vessel under regulations issued by the President under section 311(j)(5) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(j)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/j/5&num=0&edition=prelim)).
+
+(4) **Western alaska oil spill planning criteria.—** — The term “Western Alaska oil spill planning criteria” means the criteria required to be established under paragraph (9) of section 311(j) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/j&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsecs. (b)(1), (c)(1)(A)(i), and (d)(1), is the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022.
+
+#### Prior Provisions
+A prior section 312 was renumbered [section 339 of this title](./chapter-003-composition-and-organization.md#section-339).
+
+Another prior section 312, acts Aug. 4, 1949, ch. 393, 63 Stat. 520; Aug. 3, 1950, ch. 536, § 14, 64 Stat. 407, related to relief of retired warrant officer promoted while on active duty, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+
+#### Amendments
+2025—Pub. L. 119–60, § 7201(b), renumbered [section 323 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section323&num=0&edition=prelim) as this section.
+
+Subsecs. (b)(3)(C), (c)(1)(C)(ii). Pub. L. 119–60, § 7701(k), which directed amendment of [section 324 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section324&num=0&edition=prelim) by substituting “Coast Guard Arctic District” for “Seventeenth Coast Guard District” wherever appearing, was executed to this section, to reflect the probable intent of Congress and the renumbering of [section 323 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section323&num=0&edition=prelim) as this section by Pub. L. 119–60, see above. There is no [section 324 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section324&num=0&edition=prelim).
+
+#### Rule of Construction
+Nothing in amendment made by Pub. L. 117–263 to be construed to satisfy any requirement for government-to-government consultation with Tribal governments or to affect or modify any treaty or other right of any Tribal government, see section 11003 of Pub. L. 117–263, set out as a note under [section 245 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section245&num=0&edition=prelim), Domestic Security.
+
+
+<a id="section-313"></a>
+## § 313. Chief of Staff to President: appointment
 
 The President, by and with the advice and consent of the Senate, may appoint a flag officer of the Coast Guard as the Chief of Staff to the President.
 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 310, acts Aug. 4, 1949, ch. 393, 63 Stat. 519; Aug. 3, 1950, ch. 536, § 12, 64 Stat. 407, related to recall to active duty during war or national emergency of warrant officers, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+A prior section 313 was renumbered [section 331 of this title](./chapter-003-composition-and-organization.md#section-331).
+
+Another prior section 313, acts Aug. 4, 1949, ch. 393, 63 Stat. 520; Aug. 3, 1950, ch. 536, § 15, 64 Stat. 407, provided that any warrant officer who was retired under sections 303 to 305 or 307 of this title should be retired from active service with the highest grade held by him in which his performance of duty was satisfactory, but not lower than his permanent grade, with retired pay of the grade with which retired, prior to repeal by act May 29, 1954, ch. 249, § 20(o), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+
+A prior section 313a, added Pub. L. 85–144, § 2(a), Aug. 14, 1957, 71 Stat. 367, related to retirement of warrant officers in cases where higher grade has been held, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 #### Amendments
-2018—Pub. L. 115–282 renumbered [section 54 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section54&num=0&edition=prelim) as this section.
+2025—Pub. L. 119–60 renumbered [section 310 of this title](./chapter-003-composition-and-organization.md#section-310) as this section.
 
 
-<a id="section-311"></a>
-## § 311. Captains of the port
+<a id="section-314"></a>
+## § 314. Captains of the port
 
 Any officer, including any petty officer, may be designated by the Commandant as captain of the port or ports or adjacent high seas or waters over which the United States has jurisdiction, as the Commandant deems necessary to facilitate execution of Coast Guard duties.
 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 311, acts Aug. 4, 1949, ch. 393, 63 Stat. 519; Aug. 3, 1950, ch. 536, § 13, 64 Stat. 407, related to recall of warrant officers to active duty with consent of the officer, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+A prior section 314 was renumbered [section 332 of this title](./chapter-003-composition-and-organization.md#section-332).
+
+Another prior section 314, act Aug. 4, 1949, ch. 393, 63 Stat. 520, related to retiring or dropping for disabilities not incident to service, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408. See [section 1207 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1207&num=0&edition=prelim), Armed Forces.
+
+#### Amendments
+2025—Pub. L. 119–60 renumbered [section 311 of this title](./chapter-003-composition-and-organization.md#section-311) as this section.
 
 
-<a id="section-312"></a>
-## § 312. Prevention and response workforces
-**(a) Career Paths.—** The Secretary, acting through the Commandant, shall ensure that appropriate career paths for civilian and military Coast Guard personnel who wish to pursue career paths in prevention or response positions are identified in terms of the education, training, experience, and assignments necessary for career progression of civilians and members of the Armed Forces to the most senior prevention or response positions, as appropriate. The Secretary shall make available published information on such career paths.
+<a id="section-315"></a>
+## § 315. Congressional affairs; Director
 
-**(b) Qualifications for Certain Assignments.—** An officer, member, or civilian employee of the Coast Guard assigned as a—
-
-(1) marine inspector shall have the training, experience, and qualifications equivalent to that required for a similar position at a classification society recognized by the Secretary under [section 3316 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3316&num=0&edition=prelim) for the type of vessel, system, or equipment that is inspected;
-
-(2) marine casualty investigator shall have the training, experience, and qualifications in investigation, marine casualty reconstruction, evidence collection and preservation, human factors, and documentation using best investigation practices by Federal and non-Federal entities;
-
-(3) marine safety engineer shall have knowledge, skill, and practical experience in—
-
-  (A) the construction and operation of commercial vessels;
-
-  (B) judging the character, strength, stability, and safety qualities of such vessels and their equipment; or
-
-  (C) the qualifications and training of vessel personnel;
-
-(4) waterways operations manager shall have knowledge, skill, and practical experience with respect to maritime transportation system management; or
-
-(5) port and facility safety and security specialist shall have knowledge, skill, and practical experience with respect to the safety, security, and environmental protection responsibilities associated with maritime ports and facilities.
-
-**(c) Apprenticeship Requirement To Qualify for Certain Careers.—** The Commandant may require an officer, member, or employee of the Coast Guard in training for a specialized prevention or response career path to serve an apprenticeship under the guidance of a qualified individual. However, an individual in training to become a marine inspector, marine casualty investigator, marine safety engineer, waterways operations manager, or port and facility safety and security specialist shall serve a minimum of one-year as an apprentice unless the Commandant authorizes a shorter period for certain qualifications.
-
-**(d) Management Information System.—** The Secretary, acting through the Commandant, shall establish a management information system for the prevention and response workforces that shall provide, at a minimum, the following standardized information on individuals serving in those workforces:
-
-(1) Qualifications, assignment history, and tenure in assignments.
-
-(2) Promotion rates for military and civilian personnel.
-
-**(e) Sector Chief of Prevention.—** There shall be in each Coast Guard sector a Chief of Prevention who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 of the General Schedule, and who shall be a—
-
-(1) marine inspector, qualified to inspect vessels, vessel systems, and equipment commonly found in the sector; and
-
-(2) qualified marine casualty investigator, marine safety engineer, waterways operations manager, or port and facility safety and security specialist.
-
-**(f) Signatories of Letter of Qualification for Certain Prevention Personnel.—** Each individual signing a letter of qualification for marine safety personnel must hold a letter of qualification for the type being certified.
-
-**(g) Sector Chief of Response.—** There shall be in each Coast Guard sector a Chief of Response who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 of the General Schedule in each Coast Guard sector.
+The Commandant shall appoint a Director of Congressional Affairs from among officers of the Coast Guard who are in a grade above captain. The Director of Congressional Affairs is separate and distinct from the Director of Governmental and Public Affairs for the Coast Guard and is the principal advisor to the Commandant on all congressional and legislative matters for the Coast Guard and may have such additional functions as the Commandant may direct.
 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 312, acts Aug. 4, 1949, ch. 393, 63 Stat. 520; Aug. 3, 1950, ch. 536, § 14, 64 Stat. 407, related to relief of retired warrant officer promoted while on active duty, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+A prior section 315 was renumbered [section 333 of this title](./chapter-003-composition-and-organization.md#section-333).
+
+Another prior section 315, act Aug. 4, 1949, ch. 393, 63 Stat. 520, related to dropping for disabilities due to vicious habits, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408. See [section 1207 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1207&num=0&edition=prelim).
 
 #### Amendments
-2021—Subsec. (b)(4). Pub. L. 116–283, § 8504(a), substituted “maritime transportation system” for “marine transportation system”.
-
-Subsec. (d). Pub. L. 116–283, § 8505(a)(1), substituted “individuals” for “persons” in introductory provisions.
-
-2018—Pub. L. 115–282 renumbered [section 57 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section57&num=0&edition=prelim) as this section.
-
-2014—Subsec. (b)(4), (5). Pub. L. 113–281, § 203(1), added pars. (4) and (5).
-
-Subsec. (c). Pub. L. 113–281, § 203(2), substituted “marine safety engineer, waterways operations manager, or port and facility safety and security specialist” for “or marine safety engineer”.
-
-Subsec. (e). Pub. L. 113–281, § 221(b)(1)(B), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to assessment of adequacy of marine safety workforce.
-
-Subsec. (f). Pub. L. 113–281, § 221(b)(1)(B)(ii), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
-
-Subsec. (f)(2). Pub. L. 113–281, § 203(3), substituted “investigator, marine safety engineer, waterways operations manager, or port and facility safety and security specialist” for “investigator or marine safety engineer”.
-
-Subsecs. (g), (h). Pub. L. 113–281, § 221(b)(1)(B)(ii), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+2025—Pub. L. 119–60 renumbered [section 321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section321&num=0&edition=prelim) as this section.
 
 
-<a id="section-313"></a>
-## § 313. Centers of expertise for Coast Guard prevention and response
+<a id="section-316"></a>
+## § 316. Commandant Advisory Judge Advocate
+
+There shall be in the Coast Guard a Commandant Advisory Judge Advocate who is a judge advocate in a grade of O-6. The Commandant Advisory Judge Advocate shall be assigned to the staff of the Commandant in the first regularly scheduled O-6 officer assignment panel to convene following the date of the enactment of the Coast Guard Authorization Act of 2025 and perform such duties relating to legal matters arising in the Coast Guard as such legal matters relate to the Commandant, as may be assigned.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the Coast Guard Authorization Act of 2025, referred to in text, is the date of enactment of div. G of Pub. L. 119–60, which was approved Dec. 18, 2025.
+
+#### Prior Provisions
+A prior section 316 was renumbered [section 334 of this title](./chapter-003-composition-and-organization.md#section-334).
+
+
+<a id="section-317"></a>
+## § 317. Special Advisor to Commandant for Tribal and Native Hawaiian Affairs
+**(a) In General.—** In accordance with Federal trust responsibilities and treaty obligations, laws, and policies relevant to Indian Tribes and in support of the principles of self-determination, self-governance, and co-management with respect to Indian Tribes, and to support engagement with Native Hawaiians, there shall be in the Coast Guard a Special Advisor to the Commandant for Tribal and Native Hawaiian Affairs (in this section referred to as the “Special Advisor”), who shall—
+
+(1) be selected by the Secretary and the Commandant through a competitive search process;
+
+(2) have expertise in Federal Indian law and policy, including government-to-government consultation;
+
+(3) to the maximum extent practicable, have expertise in legal and policy issues affecting Native Hawaiians; and
+
+(4) have an established record of distinguished service and achievement working with Indian Tribes, Tribal organizations, and Native Hawaiian organizations.
+
+**(b) Career Reserved Position.—** The position of Special Advisor shall be a career reserved position at the GS–15 level or greater.
+
+**(c) Duties.—** The Special Advisor shall—
+
+(1) ensure the Federal government upholds the Federal trust responsibility and conducts consistent, meaningful, and timely government-to-government consultation and engagement with Indian Tribes, which shall meet or exceed the standards of the Federal Government and the Coast Guard;
+
+(2) ensure meaningful and timely engagement with—
+
+  (A) Native Hawaiian organizations; and
+
+  (B) Tribal organizations;
+
+(3) advise the Commandant on all policies of the Coast Guard that have Tribal implications in accordance with applicable law and policy, including Executive Orders;
+
+(4) work to ensure that the policies of the Federal Government regarding consultation and engagement with Indian Tribes and engagement with Native Hawaiian organizations and Tribal organizations are implemented in a meaningful manner, working through Coast Guard leadership and across the Coast Guard, together with—
+
+  (A) liaisons located within Coast Guard districts;
+
+  (B) the Director of Coast Guard Governmental and Public Affairs; and
+
+  (C) other Coast Guard leadership and programs and other Federal partners; and
+
+(5) support Indian Tribes, Native Hawaiian organizations, and Tribal organizations in all matters under the jurisdiction of the Coast Guard.
+
+**(d) Direct Access to Secretary and Commandant.—** No officer or employee of the Coast Guard or the Department of Homeland Security may interfere with the ability of the Special Advisor to give direct and independent advice to the Secretary and the Commandant on matters related to this section.
+
+**(e) Definitions.—** In this section:
+
+(1) **Indian tribe.—** — The term “Indian Tribe” has the meaning given such term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)).
+
+(2) **Native hawaiian organization.—** — The term “Native Hawaiian organization” has the meaning given such term in section 6207 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7517](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim)) except the term includes the Department of Hawaiian Home Lands and the Office of Hawaiian Affairs.
+
+(3) **Tribal organization.—** — The term “Tribal organization” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 317 was renumbered [section 311 of this title](./chapter-003-composition-and-organization.md#section-311).
+
+#### Rule of Construction
+Pub. L. 119–60, div. G, title LXXII, § 7201(h)(3)(C), (D), Dec. 18, 2025, 139 Stat. 1686, provided that: “(C) Definitions.—In this subsection [enacting this note and provisions not set out in the Code]:“(i) Indian tribe.—The term ‘Indian Tribe’ has the meaning given such term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)). “(ii) Native hawaiian organization.—The term ‘Native Hawaiian organization’ has the meaning given such term in section 6207 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7517](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim)) except the term includes the Department of Hawaiian Home Lands and the Office of Hawaiian Affairs. “(iii) Tribal organization.—The term ‘Tribal organization’ has the meaning given the such [sic] in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)). “(D) Rule of construction.—Nothing in this subsection, or an amendment made by subsection (d)(6) [sic, there is no section 7201(d)(6) of Pub. L. 119–60; section 7201(e)(6) of Pub. L. 119–60 enacted sections 316, 317, and 318 of this title], shall be construed to impact—“(i) the right of any Indian Tribe; or “(ii) any government-to-government consultation.”
+
+
+<a id="section-318"></a>
+## § 318. Judge Advocate General; Deputy Judge Advocate General: appointment; duties
+**(a) In General.—** The Judge Advocate General in the Coast Guard shall be appointed by the President, by and with the advice and consent of the Senate, from officers of the Coast Guard designated as judge advocates. The term of office is not more than 4 years.
+
+**(b) Appointment.—** The Judge Advocate General of the Coast Guard shall be appointed from those officers who at the time of appointment are members of the bar of a Federal court or the highest court of a State, and who have had at least 8 years of experience in legal duties as commissioned officers.
+
+**(c) Duties.—** The Judge Advocate General, in addition to other duties prescribed by law—
+
+(1) is the legal adviser of the Commandant of the Coast Guard and of all officers and agencies of the Coast Guard;
+
+(2) shall direct the officers of the Coast Guard designated as judge advocates in the performance of their duties; and
+
+(3) shall receive, revise, and have recorded the proceedings of courts of inquiry and military commissions.
+
+**(d) Deputy Judge Advocate General.—**
+
+(1) **In general.—** — The Deputy Judge Advocate General in the Coast Guard shall be appointed by the Commandant, from civilians in the Senior Executive Service (career reserved) who meet the qualifications set forth in subsection (b). The term of office of the Deputy Judge Advocate General is not more than four years with reappointment for an additional term of 4 years.
+
+(2) **Vacancy of judge advocate general.—** — When there is a vacancy in the office of the Judge Advocate General, or during the absence or disability of the Judge Advocate General, the Deputy Judge Advocate General shall perform the duties of the Judge Advocate General until a successor is appointed or the absence or disability ceases. Should a vacancy in the Deputy Judge Advocate General position overlap with a vacancy in the office of the Judge Advocate General, the Commandant shall establish an acting Judge Advocate General from officers of the Coast Guard designated as judge advocates with the qualifications in subsection (b).
+
+(3) **Acting deputy judge advocate general.—** — When there is a vacancy of the position of Deputy Judge Advocate General, to include during the absence or disability of the Judge Advocate General, the Commandant shall establish an acting Deputy Judge Advocate from officers of the Coast Guard designated as judge advocates with the qualifications in subsection (b). Such officer shall perform the duties of the Deputy Judge Advocate General until a successor is appointed or the absence or disability ceases. Should a vacancy in the Deputy Judge Advocate General position overlap with a vacancy in the office of the Judge Advocate General, the Commandant shall establish an acting Deputy Judge Advocate from civilians in the Senior Executive Service (career reserved), or GS-15s, who meet the qualifications in subsection (b).
+
+(4) **Compliance with act.—** — The Commandant shall ensure compliance with this section not later than 30 days after enactment of this section.
+
+**(e) Limitation.—** No officer or employee of the Department of Homeland Security may interfere with—
+
+(1) the ability of the Judge Advocate General to give independent legal advice to the Commandant or Vice Commandant; or
+
+(2) the ability of judge advocates of the Coast Guard assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
+
+### Statutory Notes
+
+#### References in Text
+Enactment of this section, referred to in subsec. (d)(4), means the enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
+
+#### Prior Provisions
+A prior section 318 was renumbered [section 335 of this title](./chapter-003-composition-and-organization.md#section-335).
+
+Prior sections 319 to 323 were renumbered sections 336, 337, 315, 338, and 312 of this title, respectively.
+
+Other prior sections 321 to 327 were renumbered sections 2158 to 2164 of this title, respectively.
+
+
+<a id="section-331"></a>
+## § 331. Centers of expertise for Coast Guard prevention and response
 **(a) Establishment.—** The Commandant may establish and operate one or more centers of expertise for prevention and response missions of the Coast Guard (in this section referred to as a “center”).
 
 **(b) Missions.—** Any center established under subsection (a) shall—
@@ -622,11 +916,11 @@ Subsecs. (g), (h). Pub. L. 113–281, § 221(b)(1)(B)(ii), redesignated subsec. 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 313, acts Aug. 4, 1949, ch. 393, 63 Stat. 520; Aug. 3, 1950, ch. 536, § 15, 64 Stat. 407, provided that any warrant officer who was retired under sections 303 to 305 or 307 of this title should be retired from active service with the highest grade held by him in which his performance of duty was satisfactory, but not lower than his permanent grade, with retired pay of the grade with which retired, prior to repeal by act May 29, 1954, ch. 249, § 20(o), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
-
-A prior section 313a, added Pub. L. 85–144, § 2(a), Aug. 14, 1957, 71 Stat. 367, related to retirement of warrant officers in cases where higher grade has been held, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+A prior section 331 was renumbered [section 2127 of this title](./chapter-021-personnel-officers.md#section-2127).
 
 #### Amendments
+2025—Pub. L. 119–60 renumbered [section 313 of this title](./chapter-003-composition-and-organization.md#section-313) as this section.
+
 2021—Subsec. (d)(2)(B). Pub. L. 116–283 substituted “individual” for “person”.
 
 2018—Pub. L. 115–282, § 104(b), renumbered [section 58 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section58&num=0&edition=prelim) as this section.
@@ -644,14 +938,14 @@ Subsec. (b)(1)(C). Pub. L. 115–282, § 123(b)(2), substituted “section 504(a
 “(3) perform any other missions as the Commandant may specify.”
 
 #### Center of Expertise for Great Lakes Oil Spill Preparedness and Response
-Pub. L. 115–282, title VIII, § 807, Dec. 4, 2018, 132 Stat. 4301, as amended by Pub. L. 117–263, div. K, title CXII, § 11214, Dec. 23, 2022, 136 Stat. 4016, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Dec. 4, 2018], the Commandant of the Coast Guard shall establish a Center of Expertise for Great Lakes Oil Spill Preparedness and Response (referred to in this section as the ‘Center of Expertise’) in accordance with [section 313 of title 14](./chapter-003-composition-and-organization.md#section-313), United States Code, as amended by this Act. “(b) Location.—The Center of Expertise shall be located in close proximity to—“(1) critical crude oil transportation infrastructure on and connecting the Great Lakes, such as submerged pipelines and high-traffic navigation locks; and “(2) an institution of higher education with adequate aquatic research laboratory facilities and capabilities and expertise in Great Lakes aquatic ecology, environmental chemistry, fish and wildlife, and water resources. “(c) Functions.—The Center of Expertise shall—“(1) monitor and assess, on an ongoing basis, the current state of knowledge regarding freshwater oil spill response technologies and the behavior and effects of oil spills in the Great Lakes; “(2) identify any significant gaps in Great Lakes oil spill research, including an assessment of major scientific or technological deficiencies in responses to past spills in the Great Lakes and other freshwater bodies, and seek to fill those gaps; “(3) conduct research, development, testing, and evaluation for freshwater oil spill response equipment, technologies, and techniques to mitigate and respond to oil spills in the Great Lakes; “(4) educate and train Federal, State, and local first responders located in Coast Guard District 9 in—“(A) the incident command system structure; “(B) Great Lakes oil spill response techniques and strategies; and “(C) public affairs; and “(5) work with academic and private sector response training centers to develop and standardize maritime oil spill response training and techniques for use on the Great Lakes. “(d) Definition.—In this section, the term ‘Great Lakes’ means—“(1) Lake Ontario; “(2) Lake Erie; “(3) Lake Huron (including Lake St. Clair); “(4) Lake Michigan; “(5) Lake Superior; and “(6) the connecting channels (including the following rivers and tributaries of such rivers: Saint Mary’s River, Saint Clair River, Detroit River, Niagara River, Illinois River, Chicago River, Fox River, Grand River, St. Joseph River, St. Louis River, Menominee River, Muskegon River, Kalamazoo River, and Saint Lawrence River to the Canadian border).”
+Pub. L. 115–282, title VIII, § 807, Dec. 4, 2018, 132 Stat. 4301, as amended by Pub. L. 117–263, div. K, title CXII, § 11214, Dec. 23, 2022, 136 Stat. 4016; Pub. L. 119–60, div. G, title LXXII § 7201(i)(2), title LXXVII, § 7701(j), Dec. 18, 2025, 139 Stat. 1686, 1837, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Dec. 4, 2018], the Commandant of the Coast Guard shall establish a Center of Expertise for Great Lakes Oil Spill Preparedness and Response (referred to in this section as the ‘Center of Expertise’) in accordance with [section 331 of title 14](./chapter-003-composition-and-organization.md#section-331), United States Code, as amended by this Act. “(b) Location.—The Center of Expertise shall be located in close proximity to—“(1) critical crude oil transportation infrastructure on and connecting the Great Lakes, such as submerged pipelines and high-traffic navigation locks; and “(2) an institution of higher education with adequate aquatic research laboratory facilities and capabilities and expertise in Great Lakes aquatic ecology, environmental chemistry, fish and wildlife, and water resources. “(c) Functions.—The Center of Expertise shall—“(1) monitor and assess, on an ongoing basis, the current state of knowledge regarding freshwater oil spill response technologies and the behavior and effects of oil spills in the Great Lakes; “(2) identify any significant gaps in Great Lakes oil spill research, including an assessment of major scientific or technological deficiencies in responses to past spills in the Great Lakes and other freshwater bodies, and seek to fill those gaps; “(3) conduct research, development, testing, and evaluation for freshwater oil spill response equipment, technologies, and techniques to mitigate and respond to oil spills in the Great Lakes; “(4) educate and train Federal, State, and local first responders located in Coast Guard Great Lakes District in—“(A) the incident command system structure; “(B) Great Lakes oil spill response techniques and strategies; and “(C) public affairs; and “(5) work with academic and private sector response training centers to develop and standardize maritime oil spill response training and techniques for use on the Great Lakes. “(d) Definition.—In this section, the term ‘Great Lakes’ means—“(1) Lake Ontario; “(2) Lake Erie; “(3) Lake Huron (including Lake St. Clair); “(4) Lake Michigan; “(5) Lake Superior; and “(6) the connecting channels (including the following rivers and tributaries of such rivers: Saint Mary’s River, Saint Clair River, Detroit River, Niagara River, Illinois River, Chicago River, Fox River, Grand River, St. Joseph River, St. Louis River, Menominee River, Muskegon River, Kalamazoo River, and Saint Lawrence River to the Canadian border).”
 
 #### Coast Guard Blue Technology Center of Expertise
-Pub. L. 115–265, title III, § 302, Oct. 11, 2018, 132 Stat. 3752, provided that: “(a) Establishment.—Not later than 1 year after the date of the enactment of this Act [Oct. 11, 2018] and subject to the availability of appropriations, the Commandant may establish under section 58 [now 313] of title 14, United States Code, a Blue Technology center of expertise. “(b) Missions.—In addition to the missions listed in section 58(b) [now 313(b)] of title 14, United States Code, the Center may—“(1) promote awareness within the Coast Guard of the range and diversity of Blue Technologies and their potential to enhance Coast Guard mission readiness, operational performance, and regulation of such technologies; “(2) function as an interactive conduit to enable the sharing and dissemination of Blue Technology information between the Coast Guard and representatives from the private sector, academia, nonprofit organizations, and other Federal agencies; “(3) increase awareness among Blue Technology manufacturers, entrepreneurs, and vendors of Coast Guard acquisition policies, procedures, and business practices; “(4) provide technical support, coordination, and assistance to Coast Guard districts and the Coast Guard Research and Development Center, as appropriate; and “(5) subject to the requirements of the Coast Guard Academy, coordinate with the Academy to develop appropriate curricula regarding Blue Technology to be offered in professional courses of study to give Coast Guard cadets and officer candidates a greater background and understanding of Blue Technologies. “(c) Blue Technology Exposition; Briefing.—Not later than 6 months after the date of the enactment of this Act [Oct. 11, 2018], the Commandant shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a briefing on the costs and benefits of hosting a biennial Coast Guard Blue Technology exposition to further interactions between representatives from the private sector, academia, and nonprofit organizations, and the Coast Guard and examine emerging technologies and Coast Guard mission demands. “(d) Definitions.—In this section:“(1) Center.—The term ‘Center’ means the Blue Technology center of expertise established under this section. “(2) Commandant.—The term ‘Commandant’ means the Commandant of the Coast Guard. “(3) Blue technology.—The term ‘Blue Technology’ means any technology, system, or platform that—“(A) is designed for use or application above, on, or below the sea surface or that is otherwise applicable to Coast Guard operational needs, including such a technology, system, or platform that provides continuous or persistent coverage; and “(B) supports or facilitates—“(i) maritime domain awareness, including— “(I) surveillance and monitoring; “(II) observation, measurement, and modeling:[;] or “(III) information technology and communications; “(ii) search and rescue; “(iii) emergency response; “(iv) maritime law enforcement; “(v) marine inspections and investigations; or “(vi) protection and conservation of the marine environment.”
+Pub. L. 115–265, title III, § 302, Oct. 11, 2018, 132 Stat. 3752, provided that: “(a) Establishment.—Not later than 1 year after the date of the enactment of this Act [Oct. 11, 2018] and subject to the availability of appropriations, the Commandant may establish under [former] section 58 [now 331] of title 14, United States Code, a Blue Technology center of expertise. “(b) Missions.—In addition to the missions listed in [former] section 58(b) [now 331(b)] of title 14, United States Code, the Center may—“(1) promote awareness within the Coast Guard of the range and diversity of Blue Technologies and their potential to enhance Coast Guard mission readiness, operational performance, and regulation of such technologies; “(2) function as an interactive conduit to enable the sharing and dissemination of Blue Technology information between the Coast Guard and representatives from the private sector, academia, nonprofit organizations, and other Federal agencies; “(3) increase awareness among Blue Technology manufacturers, entrepreneurs, and vendors of Coast Guard acquisition policies, procedures, and business practices; “(4) provide technical support, coordination, and assistance to Coast Guard districts and the Coast Guard Research and Development Center, as appropriate; and “(5) subject to the requirements of the Coast Guard Academy, coordinate with the Academy to develop appropriate curricula regarding Blue Technology to be offered in professional courses of study to give Coast Guard cadets and officer candidates a greater background and understanding of Blue Technologies. “(c) Blue Technology Exposition; Briefing.—Not later than 6 months after the date of the enactment of this Act [Oct. 11, 2018], the Commandant shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a briefing on the costs and benefits of hosting a biennial Coast Guard Blue Technology exposition to further interactions between representatives from the private sector, academia, and nonprofit organizations, and the Coast Guard and examine emerging technologies and Coast Guard mission demands. “(d) Definitions.—In this section:“(1) Center.—The term ‘Center’ means the Blue Technology center of expertise established under this section. “(2) Commandant.—The term ‘Commandant’ means the Commandant of the Coast Guard. “(3) Blue technology.—The term ‘Blue Technology’ means any technology, system, or platform that—“(A) is designed for use or application above, on, or below the sea surface or that is otherwise applicable to Coast Guard operational needs, including such a technology, system, or platform that provides continuous or persistent coverage; and “(B) supports or facilitates—“(i) maritime domain awareness, including— “(I) surveillance and monitoring; “(II) observation, measurement, and modeling:[;] or “(III) information technology and communications; “(ii) search and rescue; “(iii) emergency response; “(iv) maritime law enforcement; “(v) marine inspections and investigations; or “(vi) protection and conservation of the marine environment.”
 
 
-<a id="section-314"></a>
-## § 314. Marine industry training program
+<a id="section-332"></a>
+## § 332. Marine industry training program
 
 The Commandant shall, by policy, establish a program under which an officer, member, or employee of the Coast Guard may be assigned to a private entity to further the institutional interests of the Coast Guard with regard to marine safety, including for the purpose of providing training to an officer, member, or employee. Policies to carry out the program—
 
@@ -668,9 +962,11 @@ The Commandant shall, by policy, establish a program under which an officer, mem
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 314, act Aug. 4, 1949, ch. 393, 63 Stat. 520, related to retiring or dropping for disabilities not incident to service, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408. See [section 1207 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1207&num=0&edition=prelim), Armed Forces.
+A prior section 332 was renumbered [section 2128 of this title](./chapter-021-personnel-officers.md#section-2128).
 
 #### Amendments
+2025—Pub. L. 119–60 renumbered [section 314 of this title](./chapter-003-composition-and-organization.md#section-314) as this section.
+
 2018—Pub. L. 115–282 renumbered [section 59 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section59&num=0&edition=prelim) as this section.
 
 2014—Pub. L. 113–281 struck out subsec. (a) designation and heading before “The Commandant” and struck out subsec. (b). Text of subsec. (b) read as follows: “Not later than the date of the submission each year of the President’s budget request under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that describes—
@@ -680,69 +976,160 @@ A prior section 314, act Aug. 4, 1949, ch. 393, 63 Stat. 520, related to retirin
 “(2) the specific benefit that accrues to the Coast Guard for each assignment.”
 
 
-<a id="section-315"></a>
-## § 315. Training for congressional affairs personnel
-**(a) In General.—** The Commandant shall develop a training course, which shall be administered in person, on the workings of Congress for any member of the Coast Guard selected for a position as a fellow, liaison, counsel, or administrative staff for the Coast Guard Office of Congressional and Governmental Affairs or as any Coast Guard district or area governmental affairs officer.
+<a id="section-333"></a>
+## § 333. Training courses on workings of Congress
+**(a) In General.—**
 
-**(b) Course Subject Matter.—**
+(1) **Training course.—**
 
-(1) **In general.—** — The training course required under this section shall provide an overview and introduction to Congress and the Federal legislative process, including—
+  (A) *In general.—* — The Commandant, and such other individuals and organizations as the Commandant considers appropriate, shall develop a training course on the workings of Congress.
 
-  (A) the congressional budget process;
+  (B) *Timing.—*
 
-  (B) the congressional appropriations process;
+    (i) *In general.—* — The training course developed in subparagraph (A) shall be offered at least once each year.
 
-  (C) the congressional authorization process;
+    (ii) *Additional training.—* — The training developed under subparagraph (A) may be provided more than once a year to facilitate timely receipt by covered recipients.
 
-  (D) the Senate advice and consent process for Presidential nominees;
+(2) **Annual basis.—**
 
-  (E) the Senate advice and consent process for treaty ratification;
+  (A) *In general.—* — At least once each year, any covered recipients shall receive the training developed under paragraph (1).
 
-  (F) the roles of Members of Congress and congressional staff in the legislative process;
+  (B) *Covered recipients.—* — In this paragraph, the term “covered recipients” means—
 
-  (G) the concept and underlying purposes of congressional oversight within the governance framework of separation of powers;
+    (i) flag officers serving in the Coast Guard;
 
-  (H) the roles of Coast Guard fellows, liaisons, counsels, governmental affairs officers, the Coast Guard Office of Program Review, the Coast Guard Headquarters program offices, and any other entity the Commandant considers relevant; and
+    (ii) members of the senior executive service (career reserved) serving in positions in the Coast Guard; and
 
-  (I) the roles and responsibilities of Coast Guard public affairs and external communications personnel with respect to Members of Congress and the staff of such Members necessary to enhance communication between Coast Guard units, sectors, and districts and Member offices and committees of jurisdiction so as to ensure visibility of Coast Guard activities.
+    (iii) political appointees—
 
-(2) **Detail within coast guard office of budget and programs.—**
+      (I) serving in positions in the Coast Guard; or
 
-  (A) *In general.—* — At the written request of a receiving congressional office, the training course required under this section shall include a multi-day detail within the Coast Guard Office of Budget and Programs to ensure adequate exposure to Coast Guard policy, oversight, and requests from Congress.
+      (II) at the Department of Homeland Security with Coast Guard in their portfolio, including any Senior Advisor to the Secretary for the Coast Guard.
+
+(3) **Course subject matter.—** — The training course required by this subsection shall provide an overview and introduction to Congress and the Federal legislative process, including—
+
+  (A) the history and structure of Congress and the committee systems of the House of Representatives and the Senate, including the functions and responsibilities of the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate;
+
+  (B) the documents produced by Congress, including bills, resolutions, committee reports, and conference reports, and the purposes and functions of such documents;
+
+  (C) the legislative processes and rules of the House of Representatives and the Senate, including similarities and differences between the 2 processes and 2 sets of rules, including—
+
+    (i) the congressional budget process;
+
+    (ii) the congressional authorization and appropriation processes;
+
+    (iii) the Senate advice and consent process for Presidential nominees; and
+
+    (iv) the Senate advice and consent process for treaty ratification;
+
+    (v) all relevant notification and reporting requirements in statute, policy, or any other agreement to Congress;
+
+  (D) the roles of Members of Congress and congressional staff in the legislative process; and
+
+  (E) the concept and underlying purposes of congressional oversight within the governance framework of separation of powers;
+
+  (F) the roles of independent oversight entities, including the Offices of the Inspector Generals, the Government Accountability Office, and other independent entities, with respect 11 So in original. Probably should be followed by “to”. oversight of the Coast Guard;
+
+  (G) the legal and ethical requirements of complying with oversight conducted by such independent oversight entities, including compliance with congressionally mandated oversight;
+
+  (H) an overview of [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim) (popularly known at the Privacy Act of 1974) with respect to working with Congress and independent oversight;
+
+  (I) an overview of the right of all Coast Guard members and staff to engage with Congress as a constitutionally protected right; and
+
+  (J) with respect to Coast Guard covered recipients, an overview of any law administered by the Coast Guard and any policy implemented by the Coast Guard the understanding of which is necessary to improve—
+
+    (i) compliance with such law and policy;
+
+    (ii) ethics;
+
+    (iii) professionalism; and
+
+    (iv) timeliness of response to Congressional oversight requests, including requests from independent oversight entities.
+
+**(b) Training for Congressional Affairs Personnel.—**
+
+(1) **In general.—** — The Commandant shall develop a training course on the workings of Congress, which shall be administered in person for to 22 So in original. any required participant.
+
+(2) **Required participant.—** — In this subsection, the term “required participant” means—
+
+  (A) any member of the Coast Guard Office of Congressional and Governmental Affairs selected for a position as—
+
+    (i) a fellow;
+
+    (ii) a liaison;
+
+    (iii) a counsel; or
+
+    (iv) administrative staff;
+
+  (B) a Coast Guard district or area governmental affairs officer;
+
+  (C) an individual who reviews, makes edits, or transmits formal or informal correspondence with respect to the Coast Guard to Congress, including relevant program level personnel;
+
+  (D) an individual who serves in—
+
+    (i) the Office of Coordination, Programs, and Accountability or successor office; or
+
+    (ii) the Force Design 2028 office; and
+
+    (iii) Coast Guard Office of General Law personnel, including such personnel detailed to the Coast Guard.
+
+(3) **Course subject matter.—**
+
+  (A) *In general.—* — The training course required under this subsection shall provide an overview and introduction to Congress and the Federal legislative process, including—
+
+    (i) the items described in subparagraphs (C) through (K) of subsection (a)(2); 33 So in original. Probably should be “subparagraphs (C) through (J) of subsection (a)(3);”.
+
+    (ii) the roles of Coast Guard fellows, liaisons, counsels, governmental affairs officers, the Coast Guard Office of Program Review, the Coast Guard Headquarters program offices, and any other entity the Commandant considers relevant;
+
+    (iii) the roles and responsibilities of Coast Guard public affairs and external communications personnel with respect to Members of Congress and the staff of such Members necessary to enhance communication between Coast Guard units, sectors, and districts and Member offices and committees of jurisdiction so as to ensure visibility of Coast Guard activities; and
+
+    (iv) with respect to Coast Guard required participants, an overview of any law administered by the Coast Guard and any policy implemented by the Coast Guard the understanding of which is necessary to improve—
+
+      (I) compliance with such law and policy;
+
+      (II) ethics;
+
+      (III) professionalism; and
+
+      (IV) timeliness of response to Congressional oversight requests, including requests from independent oversight entities.
+
+(4) **Detail within coast guard office of budget and programs.—**
+
+  (A) *In general.—* — At the written request of a receiving congressional office, the training course required under this section shall include a multi-day detail within the Coast Guard Office of Coordination, Programs,44 So in original. Probably should be followed by “and”. Accountability to ensure adequate exposure to Coast Guard policy, oversight, and requests from Congress.
 
   (B) *Nonconsecutive detail permitted.—* — A detail under this paragraph is not required to be consecutive with the balance of the training.
 
-**(c) Completion of Required Training.—** A member of the Coast Guard selected for a position described in subsection (a) shall complete the training required by this section before the date on which such member reports for duty for such position.
+(5) **Completion of required training.—** — A member of the Coast Guard selected for a position described in subsection (a) shall complete the training required by this section before the date on which such member reports for duty for such position.
+
+**(c) Lecturers and Panelists.—**
+
+(1) **Outside experts.—** — The Commandant shall ensure that not less than 60 percent of the lecturers, panelists, and other individuals providing education and instruction as part of the training courses required under this section are experts on Congress and the Federal legislative process who are not employed by the executive branch of the Federal Government.
+
+(2) **Authority to accept pro bono services.—** — In satisfying the requirement under paragraph (1), the Commandant shall seek, and may accept, educational and instructional services of lecturers, panelists, and other individuals and organizations provided to the Coast Guard on a pro bono basis.
 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 315, act Aug. 4, 1949, ch. 393, 63 Stat. 520, related to dropping for disabilities due to vicious habits, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408. See [section 1207 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1207&num=0&edition=prelim).
+A prior section 333, added Pub. L. 114–120, title II, § 214(b)(1), Feb. 8, 2016, 130 Stat. 43, § 60; amended Pub. L. 114–328, div. C, title XXXV, § 3503(a), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–232, div. C, title XXXV, § 3532, Aug. 13, 2018, 132 Stat. 2321; renumbered § 315, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; Pub. L. 117–263, div. K, title CXII, § 11251(a), Dec. 23, 2022, 136 Stat. 4052; renumbered § 333, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675, which related to training for congressional affairs personnel, was repealed, just after its renumbering, by Pub. L. 119–60, div. G, title LXXII, § 7201(e)(7), Dec. 18, 2025, 139 Stat. 1681.
 
-#### Amendments
-2022—Pub. L. 117–263 amended section generally. Prior to amendment, section related to training course on workings of Congress.
+Another prior section 333 was renumbered [section 2165 of this title](./chapter-021-personnel-officers.md#section-2165).
 
-2018—Pub. L. 115–282 renumbered [section 60 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section60&num=0&edition=prelim) as this section.
-
-Subsec. (d). Pub. L. 115–232 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to completion of required training for then current and newly appointed flag officers and employees.
-
-2016—Subsec. (a). Pub. L. 114–328 substituted “Coast Guard Authorization Act of 2016” for “Coast Guard Authorization Act of 2015”.
-
-#### Effective Date of 2016 Amendment
-Pub. L. 114–328, div. C, title XXXV, § 3503(e), Dec. 23, 2016, 130 Stat. 2775, provided that: “The amendments made by this section [amending this section, sections 429, 676a, and 2702 of this title, sections 3104, 4503, and 7510 of Title 46, Shipping, and provisions set out as a note under [section 1151 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1151&num=0&edition=prelim), Conservation] shall take effect as if included in the enactment of Public Law 114–120 [Feb. 8, 2016].”
+#### Effect of Law
+Pub. L. 119–60, div. G, title LXXII, § 7201(g), Dec. 18, 2025, 139 Stat. 1685, provided that: “The training required by subsection (a) of [section 333 of title 14](./chapter-003-composition-and-organization.md#section-333), United States Code (as amended by this Act), shall replace the training that was required by the Commandant [of the Coast Guard] on the day before the date of enactment of this Act [Dec. 18, 2025].”
 
 
-<a id="section-316"></a>
-## § 316. National Coast Guard Museum
+<a id="section-334"></a>
+## § 334. National Coast Guard Museum
 **(a) Establishment.—** The Commandant may establish, accept, operate, maintain and support the Museum, on lands which will be federally owned and administered by the Coast Guard, and are located in New London, Connecticut.
 
-**(b) Use of Funds.—**
+**(b) Use of Funds.—** The Secretary may expend funds appropriated to the Coast Guard on—
 
-(1) The Secretary shall not expend any funds appropriated to the Coast Guard on the construction of any museum established under this section.
+(1) the design of a Museum;
 
-(2) Subject to the availability of appropriations, the Secretary may expend funds appropriated to the Coast Guard on the engineering and design of a Museum.
+(2) engineering, construction, construction administration, and quality assurance services for a Museum, including construction, construction administration, and quality assurance services carried out by the Association; and
 
-(3) The priority for the use of funds appropriated to the Coast Guard shall be to preserve, protect, and display historic Coast Guard artifacts, including the design, fabrication, and installation of exhibits or displays in which such artifacts are included.
+(3) providing Federal financial assistance to the Association for the activities under subsection (d).
 
 **(c) Funding Plan.—** Not later than 2 years after the date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020 and at least 90 days before the date on which the Commandant accepts the Museum under subsection (f), the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a plan for constructing, operating, and maintaining such Museum, including—
 
@@ -776,7 +1163,11 @@ Pub. L. 114–328, div. C, title XXXV, § 3503(e), Dec. 23, 2016, 130 Stat. 2775
 
 (2) all financial obligations of the Association incident to the National Coast Guard Museum have been satisfied.
 
-**(g) Services.—** The Commandant may solicit from the Association and accept services from nonprofit entities, including services related to activities for construction of the Museum.
+**(g) Services.—** With respect to the services related to the activities for which the Secretary can expend funds under subsection (b), or for maintenance or operation of the Museum, the Secretary may, with respect to any entity—
+
+(1) solicit and accept such services; and
+
+(2) enter into contracts or memoranda of agreement to acquire such services.
 
 **(h) Authority.—** The Commandant may not establish a Museum except as set forth in this section.
 
@@ -791,7 +1182,22 @@ Pub. L. 114–328, div. C, title XXXV, § 3503(e), Dec. 23, 2016, 130 Stat. 2775
 #### References in Text
 The date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, referred to in subsec. (c), is the date of enactment of div. G of Pub. L. 116–283, which was approved Jan. 1, 2021.
 
+#### Prior Provisions
+A prior section 334 was renumbered [section 2501 of this title](./chapter-025-personnel-general-provisions.md#section-2501).
+
 #### Amendments
+2025—Pub. L. 119–60, § 7201(b), renumbered [section 316 of this title](./chapter-003-composition-and-organization.md#section-316) as this section.
+
+Subsec. (b). Pub. L. 119–60, § 7201(e)(8)(A), amended subsec. (b) generally. Prior to amendment, text read as follows:
+
+“(1) The Secretary shall not expend any funds appropriated to the Coast Guard on the construction of any museum established under this section.
+
+“(2) Subject to the availability of appropriations, the Secretary may expend funds appropriated to the Coast Guard on the engineering and design of a Museum.
+
+“(3) The priority for the use of funds appropriated to the Coast Guard shall be to preserve, protect, and display historic Coast Guard artifacts, including the design, fabrication, and installation of exhibits or displays in which such artifacts are included.”
+
+Subsec. (g). Pub. L. 119–60, § 7201(e)(8)(B), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Commandant may solicit from the Association and accept services from nonprofit entities, including services related to activities for construction of the Museum.”
+
 2022—Subsec. (c)(4). Pub. L. 117–263 substituted “a third party entity qualified to undertake such a certification process” for “the Inspector General of the department in which the Coast Guard is operating”.
 
 2021—Pub. L. 116–283 amended section generally. Prior to amendment, section related to National Coast Guard Museum.
@@ -804,48 +1210,12 @@ Pub. L. 115–282, § 104(b), renumbered [section 98 of this title](https://usco
 
 Subsec. (b)(2). Pub. L. 114–120, § 219(2), substituted “artifacts, including the design, fabrication, and installation of exhibits or displays in which such artifacts are included.” for “artifacts.”
 
-
-<a id="section-317"></a>
-## § 317. United States Coast Guard Band; composition; director
-**(a)** The United States Coast Guard Band shall be composed of a director and other personnel in such numbers and grades as the Secretary determines to be necessary.
-
-**(b)** The Secretary may designate as the director any individual determined by the Secretary to possess the necessary qualifications. Upon the recommendation of the Secretary, an individual so designated may be appointed by the President, by and with the advice and consent of the Senate, to a commissioned grade in the Regular Coast Guard.
-
-**(c)** The initial appointment to a commissioned grade of an individual designated as director of the Coast Guard Band shall be in the grade determined by the Secretary to be most appropriate to the qualifications and experience of the appointed individual.
-
-**(d)** An individual who is designated and commissioned under this section shall not be included on the active duty promotion list. He shall be promoted under [section 2126 of this title](./chapter-021-personnel-officers.md#section-2126). However, the grade of the director may not be higher than captain.
-
-**(e)** The Secretary may revoke any designation as director of the Coast Guard Band. When an individual’s designation is revoked, his appointment to commissioned grade under this section terminates and he is entitled, at his option—
-
-(1) to be discharged from the Coast Guard; or
-
-(2) to revert to the grade and status he held at the time of his designation as director.
-
-### Statutory Notes
-
-#### Amendments
-2018—Pub. L. 115–282, § 104(b), renumbered [section 336 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section336&num=0&edition=prelim) as this section.
-
-Subsec. (d). Pub. L. 115–282, § 123(b)(2), substituted “section 2126” for “section 276”.
-
-2006—Subsec. (b). Pub. L. 109–241, § 204(a)(1), in first sentence, substituted “The Secretary may designate as the director any individual determined by the Secretary to possess the necessary qualifications.” for “The Secretary shall designate the director from among qualified members of the Coast Guard.”, and, in second sentence, substituted “an individual so designated” for “a member so designated”.
-
-Subsec. (c). Pub. L. 109–241, § 204(a)(2), substituted “of an individual” for “of a member” and “determined by the Secretary to be most appropriate to the qualifications and experience of the appointed individual” for “of lieutenant (junior grade) or lieutenant”.
-
-Subsec. (d). Pub. L. 109–241, § 204(a)(3), substituted “An individual” for “A member”.
-
-Subsec. (e). Pub. L. 109–241, § 204(a)(4), substituted “When an individual’s designation is revoked,” for “When a member’s designation is revoked,” and “option—” for “option:”.
-
-2002—Subsec. (d). Pub. L. 107–295 substituted “captain” for “commander”.
-
-1992—Subsec. (d). Pub. L. 102–587 substituted “commander” for “lieutenant commander”.
-
-#### Current Director
-Pub. L. 109–241, title II, § 204(b), July 11, 2006, 120 Stat. 520, provided that: “The individual serving as Coast Guard band director on the date of enactment of this Act [July 11, 2006] may be immediately promoted to a commissioned grade, not to exceed captain, determined by the Secretary of the department in which the Coast Guard is operating to be most appropriate to the qualifications and experience of that individual.”
+#### Rule of Construction
+Pub. L. 119–60, div. G, title LXXII, § 7201(f), Dec. 18, 2025, 139 Stat. 1685, provided that: “(1) In general.—Nothing in chapter 3 of title 14, United States Code, or any other law, may be construed to require the Coast Guard to construct, own, or operate a Museum as a condition of providing financial support to the Association for the purposes for which assistance is authorized under such chapter. “(2) Definitions.—In paragraph (1), the terms ‘Association’ and ‘Museum’ have the meanings given such terms in chapter 3 of title 14, United States Code.”
 
 
-<a id="section-318"></a>
-## § 318. Environmental Compliance and Restoration Program
+<a id="section-335"></a>
+## § 335. Environmental Compliance and Restoration Program
 **(a) Definitions.—** For the purposes of this section—
 
 (1) “environment”, “facility”, “person”, “release”, “removal”, “remedial”, and “response” have the same meaning they have in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act ([42 U.S.C. 9601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim));
@@ -903,14 +1273,20 @@ Pub. L. 109–241, title II, § 204(b), July 11, 2006, 120 Stat. 520, provided t
 #### References in Text
 The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in text, probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
+#### Prior Provisions
+A prior section 335 was renumbered [section 2181 of this title](./chapter-021-personnel-officers.md#section-2181).
 
-<a id="section-319"></a>
-## § 319. Unmanned system program and autonomous control and computer vision technology project
+#### Amendments
+2025—Pub. L. 119–60 renumbered [section 318 of this title](./chapter-003-composition-and-organization.md#section-318) as this section.
+
+
+<a id="section-336"></a>
+## § 336. Unmanned system program and autonomous control and computer vision technology project
 **(a) Unmanned System Program.—** Not later than 2 years after the date of enactment of this section, the Secretary shall establish, under the control of the Commandant, an unmanned system program for the use by the Coast Guard of land-based, cutter-based, and aircraft-based unmanned systems for the purpose of increasing effectiveness and efficiency of mission execution.
 
 **(b) Autonomous Control and Computer Vision Technology Project.—**
 
-(1) **In general.—** — The Commandant shall conduct a project to retrofit 2 or more existing Coast Guard small boats deployed at operational units with—
+(1) **In general.—** — The Commandant shall conduct a project to retrofit up to 4 existing Coast Guard small boats deployed at operational units with—
 
   (A) commercially available autonomous control and computer vision technology; and
 
@@ -918,7 +1294,7 @@ The Comprehensive Environmental Response, Compensation, and Liability Act, refer
 
 (2) **Data collection.—** — As part of the project required under paragraph (1), the Commandant shall collect and evaluate field-collected operational data from the retrofit described in such paragraph to inform future requirements.
 
-(3) **Briefing.—** — Not later than 180 days after the date on which the project required under paragraph (1) is completed, the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing on the project that includes an evaluation of the data collected from the project.
+(3) **Briefing.—** — Not later than 180 days after the date on which the project required under paragraph (1) is completed, the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing in person or in writing on the project that includes an evaluation of the data collected from the project.
 
 **(c) Unmanned System Defined.—** In this section, the term “unmanned system” means—
 
@@ -931,21 +1307,33 @@ The Comprehensive Environmental Response, Compensation, and Liability Act, refer
 ### Statutory Notes
 
 #### References in Text
-The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022.
+The date of enactment of this section, referred to in subsec. (a), probably means the date of enactment of Pub. L. 117–263, which amended this section generally and was approved Dec. 23, 2022.
+
+#### Prior Provisions
+A prior section 336 was renumbered [section 317 of this title](./chapter-003-composition-and-organization.md#section-317) and subsequently renumbered [section 311 of this title](./chapter-003-composition-and-organization.md#section-311).
 
 #### Amendments
+2025—Pub. L. 119–60, § 7201(b), renumbered [section 319 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section319&num=0&edition=prelim) as this section.
+
+Subsec. (b)(1). Pub. L. 119–60, § 7334(1), substituted “up to 4” for “2 or more” in introductory provisions.
+
+Subsec. (b)(3). Pub. L. 119–60, § 7334(2), inserted “in person or in writing” after “a briefing”.
+
 2022—Pub. L. 117–263, § 11225(a), amended section generally. Prior to amendment, section related to land-based unmanned aircraft system program.
 
 Subsec. (b). Pub. L. 117–263, § 11803(a), which directed substitution of “[section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim)” for “section 331 of the FAA Modernization and Reform Act of 2012 ([49 U.S.C. 40101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) note)”, could not be executed because of the intervening general amendment of this section by Pub. L. 117–263, § 11225(a). See above.
 
 2021—Subsec. (c). Pub. L. 116–283 added subsec. (c).
 
+#### Coast Guard Training Course
+Pub. L. 119–60, div. G, title LXXIII, § 7332, Dec. 18, 2025, 139 Stat. 1772, provided that: “(a) In General.—For the period beginning on the date of enactment of this Act [Dec. 18, 2025] and ending on the date that is 3 years after such date of enactment, the Commandant [of the Coast Guard], or such other individual or organization as the Commandant considers appropriate, shall develop a training course on small uncrewed maritime systems and offer such training course at least once each year for Coast Guard personnel working with or regulating small uncrewed maritime systems. “(b) Course Subject Matter.—In developing the training course under subsection (a), the Commandant or other individual or organization shall—“(1) provide an overview and introduction to small uncrewed maritime systems, including examples of those used by the Federal Government, in academic settings, and in commercial sectors; “(2) address the benefits and disadvantages of use of small uncrewed maritime systems; “(3) address safe navigation of small uncrewed maritime systems, including measures to ensure collision avoidance; “(4) address the ability of small uncrewed maritime systems to communicate with and alert other vessels in the vicinity; “(5) address the ability of small uncrewed maritime systems to respond to system alarms and failures to ensure control commensurate with the risk posed by the systems; “(6) provide present and future capabilities of small uncrewed maritime systems; and “(7) provide an overview of the role of the International Maritime Organization in the governance of small uncrewed maritime systems. “(c) Definitions.—In this section:“(1) Small uncrewed maritime systems.—The term ‘small uncrewed maritime systems’ means unmanned maritime systems (as defined in section 2 of the CENOTE Act of 2018 ([33 U.S.C. 4101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section4101&num=0&edition=prelim))), that—“(A) are not greater than 35 feet overall in length; “(B) are operated remotely or autonomously; and “(C) exclusively perform oceanographic surveys or scientific research. “(2) Uncrewed system.—The term ‘uncrewed system’—“(A) means an uncrewed surface, undersea, or aircraft system and associated elements (including communication links and the components that control the uncrewed system) that are required for the operator to operate the system safely and efficiently; and “(B) includes an unmanned aircraft system (as such term is defined in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim), United States Code).”
+
 #### Unmanned Aircraft Systems Testing
 Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8412, Jan. 1, 2021, 134 Stat. 4724, provided that: “(a) Training Area.—The Commandant [of the Coast Guard] shall carry out and update, as appropriate, a program for the use of one or more training areas to facilitate the use of unmanned aircraft systems and small unmanned aircraft to support missions of the Coast Guard. “(b) Designation of Area.—“(1) In general.—Not later than 180 days after the date of enactment of this Act [Jan. 1, 2021], the Commandant shall, as part of the program under subsection (a), designate an area for the training, testing, and development of unmanned aircraft systems and small unmanned aircraft. “(2) Considerations.—In designating a training area under paragraph (1), the Commandant shall—“(A) ensure that such training area has or receives all necessary Federal Aviation Administration flight authorization; and “(B) take into consideration all of the following attributes of the training area:“(i) Direct over-water maritime access from the site. “(ii) The availability of existing Coast Guard support facilities, including pier and dock space. “(iii) Proximity to existing and available offshore Warning Area airspace for test and training. “(iv) Existing facilities and infrastructure to support unmanned aircraft system-augmented, and small unmanned aircraft-augmented, training, evaluations, and exercises. “(v) Existing facilities with a proven track record of supporting unmanned aircraft systems and small unmanned aircraft systems flight operations. “(c) Definitions.—In this section—“(1) the term ‘existing’ means as of the date of enactment of this Act; and “(2) the terms ‘small unmanned aircraft’ and ‘unmanned aircraft system’ have the meanings given those terms in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim), United States Code.”
 
 
-<a id="section-320"></a>
-## § 320. Coast Guard Junior Reserve Officers’ Training Corps
+<a id="section-337"></a>
+## § 337. Coast Guard Junior Reserve Officers’ Training Corps
 **(a) Establishment.—** The Secretary of the department in which the Coast Guard is operating may establish and maintain a Junior Reserve Officers’ Training Corps, organized into units, at public and private secondary educational institutions.
 
 **(b) Applicability.—** Except as provided in subsection (d), the provisions of chapter 102 of title 10 shall apply to a Junior Reserve Officers’ Training Corps established and maintained under this section in the same manner that such provisions apply to the Junior Reserve Officers’ Training Corps of each military department. For purposes of the application of such provisions to this section—
@@ -964,24 +1352,18 @@ Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8412, Jan. 1, 2021, 134 St
 The date of the enactment of this section, referred to in subsec. (d), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
 
 #### Amendments
+2025—Pub. L. 119–60 renumbered [section 320 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section320&num=0&edition=prelim) as this section.
+
 2022—Subsec. (b). Pub. L. 117–263, § 11247(a)(2), substituted “subsection (d)” for “subsection (c)”.
 
 Subsecs. (c), (d). Pub. L. 117–263, § 11247(a)(1), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-
-<a id="section-321"></a>
-## § 321. Congressional affairs; Director
-
-The Commandant shall appoint a Director of Congressional Affairs from among officers of the Coast Guard who are in a grade above captain. The Director of Congressional Affairs is separate and distinct from the Director of Governmental and Public Affairs for the Coast Guard and is the principal advisor to the Commandant on all congressional and legislative matters for the Coast Guard and may have such additional functions as the Commandant may direct.
-
-### Statutory Notes
-
-#### Prior Provisions
-A prior section 321 was renumbered [section 2158 of this title](./chapter-021-personnel-officers.md#section-2158).
+#### Expansion
+Pub. L. 119–60, div. G, title LXXII, § 7268(b), Dec. 18, 2025, 139 Stat. 1745, provided that: “(1) In general.—Beginning on December 31, 2026, the Secretary of the department in which the Coast Guard is operating shall maintain at all times a Junior Reserve Officers’ Training Corps Program with not fewer than 20 such programs. “(2) Cost assessment.—Not later than 1 year after the date of enactment of this Act [Dec. 18, 2025], the Secretary of the department in which the Coast Guard is operating shall provide Congress with an estimate of the costs associated with implementing this subsection.”
 
 
-<a id="section-322"></a>
-## § 322. Redistricting notification requirement
+<a id="section-338"></a>
+## § 338. Redistricting notification requirement
 
 The Commandant shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate at least 180 days before—
 
@@ -992,12 +1374,56 @@ The Commandant shall notify the Committee on Transportation and Infrastructure o
 ### Statutory Notes
 
 #### Codification
-Pub. L. 108–293, title II, § 215, Aug. 9, 2004, 118 Stat. 1038, formerly set out as a note under [section 504 of this title](./chapter-005-functions-and-powers.md#section-504), was redesignated as this section, transferred to appear after [section 321 of this title](./chapter-003-composition-and-organization.md#section-321), and amended so that the enumerator, section catchline, typeface, and typestyle conformed to those appearing in other sections of this title by Pub. L. 116–283, § 8501(a)(1).
+Pub. L. 108–293, title II, § 215, Aug. 9, 2004, 118 Stat. 1038, formerly set out as a note under [section 504 of this title](./chapter-005-functions-and-powers.md#section-504), was redesignated as [section 322 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section322&num=0&edition=prelim), transferred to appear after [section 321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section321&num=0&edition=prelim), and amended so that the enumerator, section catchline, typeface, and typestyle conformed to those appearing in other sections of this title by Pub. L. 116–283, § 8501(a)(1).
+
+#### Amendments
+2025—Pub. L. 119–60 renumbered [section 322 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section322&num=0&edition=prelim) as this section.
+
+
+<a id="section-339"></a>
+## § 339. Prevention and response workforces
+**(a) Career Paths.—** The Secretary, acting through the Commandant, shall ensure that appropriate career paths for civilian and military Coast Guard personnel who wish to pursue career paths in prevention or response positions are identified in terms of the education, training, experience, and assignments necessary for career progression of civilians and members of the Armed Forces to the most senior prevention or response positions, as appropriate. The Secretary shall make available published information on such career paths.
+
+**(b) Qualifications for Certain Assignments.—** An officer, member, or civilian employee of the Coast Guard assigned as a—
+
+(1) marine inspector shall have the training, experience, and qualifications equivalent to that required for a similar position at a classification society recognized by the Secretary under [section 3316 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3316&num=0&edition=prelim) for the type of vessel, system, or equipment that is inspected;
+
+(2) marine casualty investigator shall have the training, experience, and qualifications in investigation, marine casualty reconstruction, evidence collection and preservation, human factors, and documentation using best investigation practices by Federal and non-Federal entities;
+
+(3) marine safety engineer shall have knowledge, skill, and practical experience in—
+
+  (A) the construction and operation of commercial vessels;
+
+  (B) judging the character, strength, stability, and safety qualities of such vessels and their equipment; or
+
+  (C) the qualifications and training of vessel personnel;
+
+(4) waterways operations manager shall have knowledge, skill, and practical experience with respect to maritime transportation system management; or
+
+(5) port and facility safety and security specialist shall have knowledge, skill, and practical experience with respect to the safety, security, and environmental protection responsibilities associated with maritime ports and facilities.
+
+**(c) Apprenticeship Requirement To Qualify for Certain Careers.—** The Commandant may require an officer, member, or employee of the Coast Guard in training for a specialized prevention or response career path to serve an apprenticeship under the guidance of a qualified individual. However, an individual in training to become a marine inspector, marine casualty investigator, marine safety engineer, waterways operations manager, or port and facility safety and security specialist shall serve a minimum of one-year as an apprentice unless the Commandant authorizes a shorter period for certain qualifications.
+
+**(d) Management Information System.—** The Secretary, acting through the Commandant, shall establish a management information system for the prevention and response workforces that shall provide, at a minimum, the following standardized information on individuals serving in those workforces:
+
+(1) Qualifications, assignment history, and tenure in assignments.
+
+(2) Promotion rates for military and civilian personnel.
+
+**(e) Sector Chief of Prevention.—** There shall be in each Coast Guard sector a Chief of Prevention who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 of the General Schedule, and who shall be a—
+
+(1) marine inspector, qualified to inspect vessels, vessel systems, and equipment commonly found in the sector; and
+
+(2) qualified marine casualty investigator, marine safety engineer, waterways operations manager, or port and facility safety and security specialist.
+
+**(f) Signatories of Letter of Qualification for Certain Prevention Personnel.—** Each individual signing a letter of qualification for marine safety personnel must hold a letter of qualification for the type being certified.
+
+**(g) Sector Chief of Response.—** There shall be in each Coast Guard sector a Chief of Response who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 of the General Schedule in each Coast Guard sector.
+
+### Statutory Notes
 
 #### Prior Provisions
-A prior section 322 was renumbered [section 2159 of this title](./chapter-021-personnel-officers.md#section-2159).
-
-For redesignation of prior sections 323 to 500 not listed below as having been previously repealed or renumbered, see Table Showing Redesignations Made by Title I of Pub. L. 115–282 preceding [section 101 of this title](./chapter-001-establishment-and-duties.md#section-101).
+For redesignation of prior sections 350 to 500 not listed below as having been previously repealed or renumbered, see Table Showing Redesignations Made by Title I of Pub. L. 115–282 preceding [section 101 of this title](./chapter-001-establishment-and-duties.md#section-101).
 
 A prior section 356, act Aug. 4, 1949, ch. 393, 63 Stat. 521, related to retirement for disabilities incident to service, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408. See sections 1204 and 1376 of Title 10, Armed Forces.
 
@@ -1068,81 +1494,22 @@ A prior section 492a was renumbered [section 492b of this title](https://uscode.
 A prior section 495, act Aug. 4, 1949, ch. 393, 63 Stat. 535, related to additional pay for holders of medals, prior to repeal by Pub. L. 87–526, § 1(3), July 10, 1962, 76 Stat. 141, and by Pub. L. 87–649, §§ 14d(5), 15, Sept. 7, 1962, 76 Stat. 502, effective Nov. 1, 1962.
 
 #### Amendments
-2021—Pub. L. 116–283 redesignated section 215 of Pub. L. 108–293 as this section and made technical changes to conform this section to other sections of this title. See Codification note above.
+2025—Pub. L. 119–60 renumbered [section 312 of this title](./chapter-003-composition-and-organization.md#section-312) as this section.
 
+2021—Subsec. (b)(4). Pub. L. 116–283, § 8504(a), substituted “maritime transportation system” for “marine transportation system”.
 
-<a id="section-323"></a>
-## § 323. Western Alaska Oil Spill Planning Criteria Program
-**(a) Establishment.—** There is established within the Coast Guard a Western Alaska Oil Spill Planning Criteria Program (referred to in this section as the “Program”) to develop and administer the Western Alaska oil spill planning criteria.
+Subsec. (d). Pub. L. 116–283, § 8505(a)(1), substituted “individuals” for “persons” in introductory provisions.
 
-**(b) Program Manager.—**
+2018—Pub. L. 115–282 renumbered [section 57 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section57&num=0&edition=prelim) as this section.
 
-(1) **In general.—** — Not later than 1 year after the date of enactment of this section, the Commandant shall select a permanent civilian career employee through a competitive search process for a term of not less than 5 years to serve as the Western Alaska Oil Spill Criteria Program Manager (referred to in this section as the “Program Manager”)—
+2014—Subsec. (b)(4), (5). Pub. L. 113–281, § 203(1), added pars. (4) and (5).
 
-  (A) the primary duty of whom shall be to administer the Program; and
+Subsec. (c). Pub. L. 113–281, § 203(2), substituted “marine safety engineer, waterways operations manager, or port and facility safety and security specialist” for “or marine safety engineer”.
 
-  (B) who shall not be subject to frequent or routine reassignment.
+Subsec. (e). Pub. L. 113–281, § 221(b)(1)(B), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to assessment of adequacy of marine safety workforce.
 
-(2) **Conflicts of interest.—** — The individual selected to serve as the Program Manager shall not have conflicts of interest relating to entities regulated by the Coast Guard.
+Subsec. (f). Pub. L. 113–281, § 221(b)(1)(B)(ii), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-(3) **Duties.—**
+Subsec. (f)(2). Pub. L. 113–281, § 203(3), substituted “investigator, marine safety engineer, waterways operations manager, or port and facility safety and security specialist” for “investigator or marine safety engineer”.
 
-  (A) *Development of guidance.—* — The Program Manager shall develop guidance for—
-
-    (i) approval, drills, and testing relating to the Western Alaska oil spill planning criteria; and
-
-    (ii) gathering input concerning such planning criteria from Federal agencies, State and local governments, Tribes, and relevant industry and nongovernmental entities.
-
-  (B) *Assessments.—* — Not less frequently than once every 5 years, the Program Manager shall—
-
-    (i) assess whether such existing planning criteria adequately meet the needs of vessels operating in the geographic area; and
-
-    (ii) identify methods for advancing response capability so as to achieve, with respect to a vessel, compliance with national planning criteria.
-
-  (C) *Onsite verifications.—* — The Program Manager shall address the relatively small number and limited nature of verifications of response capabilities for vessel response plans by increasing, within the Seventeenth Coast Guard District, the quantity and frequency of onsite verifications of the providers identified in vessel response plans.
-
-**(c) Training.—** The Commandant shall enhance the knowledge and proficiency of Coast Guard personnel with respect to the Program by—
-
-(1) developing formalized training on the Program that, at a minimum—
-
-  (A) provides in-depth analysis of—
-
-    (i) the national planning criteria described in part 155 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this section);
-
-    (ii) alternative planning criteria;
-
-    (iii) Western Alaska oil spill planning criteria;
-
-    (iv) Captain of the Port and Federal On-Scene Coordinator authorities related to activation of a vessel response plan;
-
-    (v) the responsibilities of vessel owners and operators in preparing a vessel response plan for submission; and
-
-    (vi) responsibilities of the Area Committee, including risk analysis, response capability, and development of alternative planning criteria;
-
-  (B) explains the approval processes of vessel response plans that involve alternative planning criteria or Western Alaska oil spill planning criteria; and
-
-  (C) provides instruction on the processes involved in carrying out the actions described in paragraphs (9)(D) and (9)(F) of section 311(j) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/j&num=0&edition=prelim)), including instruction on carrying out such actions—
-
-    (i) in any geographic area in the United States; and
-
-    (ii) specifically in the Seventeenth Coast Guard District; and
-
-(2) providing such training to all Coast Guard personnel involved in the Program.
-
-**(d) Definitions.—** In this section:
-
-(1) **Alternative planning criteria.—** — The term “alternative planning criteria” means criteria submitted under section 155.1065 or 155.5067 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this section), for vessel response plans.
-
-(2) **Tribe.—** — The term “Tribe” has the meaning given the term “Indian Tribe” in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)).
-
-(3) **Vessel response plan.—** — The term “vessel response plan” means a plan required to be submitted by the owner or operator of a tank vessel or a nontank vessel under regulations issued by the President under section 311(j)(5) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(j)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/j/5&num=0&edition=prelim)).
-
-(4) **Western alaska oil spill planning criteria.—** — The term “Western Alaska oil spill planning criteria” means the criteria required to be established under paragraph (9) of section 311(j) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/j&num=0&edition=prelim)).
-
-### Statutory Notes
-
-#### References in Text
-The date of enactment of this section, referred to in subsecs. (b)(1), (c)(1)(A)(i), and (d)(1), is the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022.
-
-#### Rule of Construction
-Nothing in amendment made by Pub. L. 117–263 to be construed to satisfy any requirement for government-to-government consultation with Tribal governments or to affect or modify any treaty or other right of any Tribal government, see section 11003 of Pub. L. 117–263, set out as a note under [section 245 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section245&num=0&edition=prelim), Domestic Security.
+Subsecs. (g), (h). Pub. L. 113–281, § 221(b)(1)(B)(ii), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).

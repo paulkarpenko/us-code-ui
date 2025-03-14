@@ -1851,7 +1851,7 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
   (A) the processing or recycling of critical minerals in the United States; or
 
-  (B) the development of critical minerals and metals in the United States
+  (B) the development of critical minerals and metals in the United States 33 So in original. Probably should be followed by a period.
 
 (2) **Limitation on grant awards** — A grant awarded under paragraph (1) may not exceed $10,000,000.
 

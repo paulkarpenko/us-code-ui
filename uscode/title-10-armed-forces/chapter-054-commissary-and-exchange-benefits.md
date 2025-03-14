@@ -196,8 +196,12 @@ Pub. L. 115–232, div. A, title VI, § 621(b)(3), Aug. 13, 2018, 132 Stat. 1799
 
 
 <a id="section-1066"></a>
-## § 1066. Use of commissary stores and MWR facilities: protective services civilian employees
-**(a) Eligibility of Protective Services Civilian Employees.—** An individual employed as a protective services civilian employee at a military installation may be permitted to purchase food and hygiene items at a commissary store or MWR retail facility located on that military installation.
+## § 1066. Use of commissary stores and MWR facilities: certain civilian employees
+**(a) Eligibility of Certain Civilian Employees.—**
+
+(1) An individual employed as a protective services civilian employee at a military installation may be permitted to purchase food and hygiene items at a commissary store or MWR retail facility located on that military installation.
+
+(2) A civil service mariner of the Military Sealift Command may be permitted to use commissary stores and MWR retail facilities on the same basis as members of the armed forces on active duty.
 
 **(b) User Fee Authority.—**
 
@@ -224,3 +228,12 @@ Pub. L. 115–232, div. A, title VI, § 621(b)(3), Aug. 13, 2018, 132 Stat. 1799
   (D) Security Guard (GS–0085).
 
   (E) Emergency Management (GS–0089).
+
+### Statutory Notes
+
+#### Amendments
+2025—Pub. L. 119–60, § 651(b)(1), substituted “certain” for “protective services” in section catchline.
+
+Subsec. (a). Pub. L. 119–60, § 651(b)(2), substituted “Certain” for “Protective Services” in heading.
+
+Pub. L. 119–60, § 651(a), designated existing provisions as par. (1) and added par. (2).

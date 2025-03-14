@@ -812,6 +812,17 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 119–27, §§ 11(d), 20, July 18, 2025, 139 Stat. 458, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, this section is amended as follows:
+
+(1) in subsection (a), in the matter preceding paragraph (1), by striking “The following” and inserting “Subject to subsection (e), the following”; and
+
+(2) by adding at the end the following:
+
+(e) Notwithstanding subsection (a), if a payment stablecoin holder is not able to redeem all outstanding payment stablecoin claims from required payment stablecoin reserves maintained by the permitted payment stablecoin issuer, any such remaining claim arising from a person’s holding of a payment stablecoin issued by the permitted payment stablecoin issuer shall be a claim against the estate and shall have first priority over any other claim, including over any expenses and claims that have priority under that subsection, to the extent compliance with section 4 of the GENIUS Act would have required additional reserves to be maintained by the permitted payment stablecoin issuer for payment stablecoin holders.
+
+See 2025 Amendment notes below.
+
 #### legislative statements
 Section 507(a)(3) of the House amendment represents a compromise dollar amount and date for the priority between similar provisions contained in H.R. 8200 as passed by the House and the Senate amendments. A similar compromise is contained in section 507(a)(4).
 
@@ -934,6 +945,10 @@ Subsection (b) also provides that a claim arising from an erroneous refund or cr
 Section 13(3) of the Federal Reserve Act, referred to in subsec. (a)(2), is classified to [section 343(3) of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section343/3&num=0&edition=prelim), Banks and Banking.
 
 #### Amendments
+2025—Subsec. (a). Pub. L. 119–27, § 11(d)(1), substituted “Subject to subsection (e), the following” for “The following” in introductory provisions.
+
+Subsec. (e). Pub. L. 119–27, § 11(d)(2), added subsec. (e).
+
 2024—Subsec. (d). Pub. L. 118–42 inserted “excluding subparagraph (F)” after “(a)(8)”.
 
 2020—Subsec. (d). Pub. L. 116–260, § 1001(i)(2), inserted “, (a)(8)” after “(a)(7)” and struck out “or subparagraphs (A) through (E) and (G) of subsection (a)(8)” after “(a)(9)” and “or subparagraph” after “such subsection”.
@@ -1022,6 +1037,9 @@ Subsec. (a)(7). Pub. L. 98–353, §§ 350(2), 449(a)(4), redesignated former pa
 
 Subsec. (c). Pub. L. 98–353, § 449(b), substituted “has the same priority” for “shall be treated the same”.
 
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as an Effective Date note under [section 5901 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim), Banks and Banking.
+
 #### Effective Date of 2024 Amendment
 Pub. L. 118–42, div. C, title V, § 544(b), Mar. 9, 2024, 138 Stat. 178, provided that: “(1) Except as provided in paragraph (2), the amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Mar. 9, 2024]. “(2) The amendment made by subsection (a) shall not apply with respect to cases commenced under title 11 of the United States Code before the date of the enactment of this Act.”
 
@@ -1045,7 +1063,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (a)(4), dollar amount “13,650” was adjusted to “15,150”; in subsec. (a)(5)(B)(i), dollar amount “13,650” was adjusted to “15,150”; in subsec. (a)(6), dollar amount “6,725” was adjusted to “7,475”; and, in subsec. (a)(7), dollar amount “3,025” was adjusted to “3,350”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Jan. 30, 2025, 90 F.R. 8941, effective Apr. 1, 2025, in subsec. (a)(4), dollar amount “15,150” was adjusted to “17,150”; in subsec. (a)(5)(B)(i), dollar amount “15,150” was adjusted to “17,150”; in subsec. (a)(6), dollar amount “7,475” was adjusted to “8,450”; and, in subsec. (a)(7), dollar amount “3,350” was adjusted to “3,800”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (a)(4), dollar amount “13,650” was adjusted to “15,150”; in subsec. (a)(5)(B)(i), dollar amount “13,650” was adjusted to “15,150”; in subsec. (a)(6), dollar amount “6,725” was adjusted to “7,475”; and, in subsec. (a)(7), dollar amount “3,025” was adjusted to “3,350”.
 
 By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (a)(4), dollar amount “12,850” was adjusted to “13,650”; in subsec. (a)(5)(B)(i), dollar amount “12,850” was adjusted to “13,650”; in subsec. (a)(6)(B) [sic], dollar amount “6,325” was adjusted to “6,725”; and, in subsec. (a)(7), dollar amount “2,850” was adjusted to “3,025”.
 
@@ -1939,7 +1959,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (d)(1), dollar amount “25,150” was adjusted to “27,900”; in subsec. (d)(2), dollar amount “4,000” was adjusted to “4,450”; in subsec. (d)(3), dollar amounts “625” and “13,400” were adjusted to “700” and “14,875”, respectively; in subsec. (d)(4), dollar amount “1,700” was adjusted to “1,875”; in subsec. (d)(5), dollar amounts “1,325” and “12,575” were adjusted to “1,475” and “13,950”, respectively; in subsec. (d)(6), dollar amount “2,525” was adjusted to “2,800”; in subsec. (d)(8), dollar amount “13,400” was adjusted to “14,875”; in subsec. (d)(11)(D), dollar amount “25,150” was adjusted to “27,900”; in subsec. (f)(3), dollar amount “6,825” was adjusted to “7,575”; in subsec. (f)(4), dollar amount “725” was adjusted to “800” each time it appeared; in subsec. (n), dollar amount “1,362,800” was adjusted to “1,512,350”; in subsec. (p), dollar amount “170,350” was adjusted to “189,050”; and, in subsec. (q), dollar amount “170,350” was adjusted to “189,050”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Jan. 30, 2025, 90 F.R. 8941, effective Apr. 1, 2025, in subsec. (d)(1), dollar amount “27,900” was adjusted to “31,575”; in subsec. (d)(2), dollar amount “4,450” was adjusted to “5,025”; in subsec. (d)(3), dollar amounts “700” and “14,875” were adjusted to “800” and “16,850”, respectively; in subsec. (d)(4), dollar amount “1,875” was adjusted to “2,125”; in subsec. (d)(5), dollar amounts “1,475” and “13,950” were adjusted to “1,675” and “15,800”, respectively; in subsec. (d)(6), dollar amount “2,800” was adjusted to “3,175”; in subsec. (d)(8), dollar amount “14,875” was adjusted to “16,850”; in subsec. (d)(11)(D), dollar amount “27,900” was adjusted to “31,575”; in subsec. (f)(3), dollar amount “7,575” was adjusted to “8,575”; in subsec. (f)(4), dollar amount “800” was adjusted to “900” each time it appeared; in subsec. (n), dollar amount “1,512,350” was adjusted to “1,711,975”; in subsec. (p), dollar amount “189,050” was adjusted to “214,000”; and, in subsec. (q), dollar amount “189,050” was adjusted to “214,000”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (d)(1), dollar amount “25,150” was adjusted to “27,900”; in subsec. (d)(2), dollar amount “4,000” was adjusted to “4,450”; in subsec. (d)(3), dollar amounts “625” and “13,400” were adjusted to “700” and “14,875”, respectively; in subsec. (d)(4), dollar amount “1,700” was adjusted to “1,875”; in subsec. (d)(5), dollar amounts “1,325” and “12,575” were adjusted to “1,475” and “13,950”, respectively; in subsec. (d)(6), dollar amount “2,525” was adjusted to “2,800”; in subsec. (d)(8), dollar amount “13,400” was adjusted to “14,875”; in subsec. (d)(11)(D), dollar amount “25,150” was adjusted to “27,900”; in subsec. (f)(3), dollar amount “6,825” was adjusted to “7,575”; in subsec. (f)(4), dollar amount “725” was adjusted to “800” each time it appeared; in subsec. (n), dollar amount “1,362,800” was adjusted to “1,512,350”; in subsec. (p), dollar amount “170,350” was adjusted to “189,050”; and, in subsec. (q), dollar amount “170,350” was adjusted to “189,050”.
 
 By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (d)(1), dollar amount “23,675” was adjusted to “25,150”; in subsec. (d)(2), dollar amount “3,775” was adjusted to “4,000”; in subsec. (d)(3), dollar amounts “600” and “12,625” were adjusted to “625” and “13,400”, respectively; in subsec. (d)(4), dollar amount “1,600” was adjusted to “1,700”; in subsec. (d)(5), dollar amounts “1,250” and “11,850” were adjusted to “1,325” and “12,575”, respectively; in subsec. (d)(6), dollar amount “2,375” was adjusted to “2,525”; in subsec. (d)(8), dollar amount “12,625” was adjusted to “13,400”; in subsec. (d)(11)(D), dollar amount “23,675” was adjusted to “25,150”; in subsec. (f)(3), dollar amount “6,425” was adjusted to “6,825”; in subsec. (f)(4), dollar amount “675” was adjusted to “725” each time it appeared; in subsec. (n), dollar amount “1,283,025” was adjusted to “1,362,800”; in subsec. (p), dollar amount “160,375” was adjusted to “170,350”; and, in subsec. (q), dollar amount “160,375” was adjusted to “170,350”.
 
@@ -2381,7 +2403,9 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 2334(c) of Pub
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (a)(2)(C)(i)(I), dollar amount “725” was adjusted to “800” and, in subsec. (a)(2)(C)(i)(II), dollar amount “1,000” was adjusted to “1,100”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Jan. 30, 2025, 90 F.R. 8941, effective Apr. 1, 2025, in subsec. (a)(2)(C)(i)(I), dollar amount “800” was adjusted to “900” and, in subsec. (a)(2)(C)(i)(II), dollar amount “1,100” was adjusted to “1,250”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (a)(2)(C)(i)(I), dollar amount “725” was adjusted to “800” and, in subsec. (a)(2)(C)(i)(II), dollar amount “1,000” was adjusted to “1,100”.
 
 By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (a)(2)(C)(i)(I), dollar amount “675” was adjusted to “725” and, in subsec. (a)(2)(C)(i)(II), dollar amount “950” was adjusted to “1,000”.
 
@@ -3188,6 +3212,13 @@ Paragraph (4) shall not be construed to exclude from the estate any consideratio
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)
+Pub. L. 119–27, §§ 11(e), 20, July 18, 2025, 139 Stat. 458, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, subsection (b) of this section is amended in paragraph (9), in the matter following subparagraph (B), by striking “or” at the end; in paragraph (10)(C), by striking the period and inserting “; or”; and by inserting after paragraph (10) the following:
+
+(11) required payment stablecoin reserves under section 4 of the GENIUS Act, provided that notwithstanding the exclusion of such reserves from the property of the estate, [section 362 of this title](./chapter-003-case-administration.md#section-362) shall apply to such reserves.
+
+See 2025 Amendment note below.
+
 #### legislative statements
 Section 541(a)(7) is new. The provision clarifies that any interest in property that the estate acquires after the commencement of the case is property of the estate; for example, if the estate enters into a contract, after the commencement of the case, such a contract would be property of the estate. The addition of this provision by the House amendment merely clarifies that section 541(a) is an all-embracing definition which includes charges on property, such as liens held by the debtor on property of a third party, or beneficial rights and interests that the debtor may have in property of another. However, only the debtor’s interest in such property becomes property of the estate. If the debtor holds bare legal title or holds property in trust for another, only those rights which the debtor would have otherwise had emanating from such interest pass to the estate under section 541. Neither this section nor section 545 will affect various statutory provisions that give a creditor a lien that is valid both inside and outside bankruptcy against a bona fide purchaser of property from the debtor, or that creates a trust fund for the benefit of creditors meeting similar criteria. See Packers and Stockyards Act § 206, [7 U.S.C. 196](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section196&num=0&edition=prelim) (1976).
 
@@ -3238,6 +3269,8 @@ The Internal Revenue Code of 1986, referred to in subsecs. (b)(5) to (7), (10) a
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(7)(A)(i)(I), (B)(i)(I), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2025—Subsec. (b)(11). Pub. L. 119–27 added par. (11).
+
 2020—Subsec. (b)(11). Pub. L. 116–260, § 1001(a)(2), struck out par. (11) which read as follows: “recovery rebates made under section 6428 of the Internal Revenue Code of 1986.”
 
 Pub. L. 116–260, § 1001(a)(1), added par. (11).
@@ -3290,6 +3323,9 @@ Subsec. (d). Pub. L. 98–353, § 456(c), inserted “(1) or (2)” after “(a)
 
 Subsec. (e). Pub. L. 98–353, § 456(d), struck out subsec. (e) which read as follows: “The estate shall have the benefit of any defense available to the debtor as against an entity other than the estate, including statutes of limitation, statutes of frauds, usury, and other personal defenses. A waiver of any such defense by the debtor after the commencement of the case does not bind the estate.”
 
+#### Effective Date of 2025 Amendment
+Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as an Effective Date note under [section 5901 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5901&num=0&edition=prelim), Banks and Banking.
+
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. FF, title X, § 1001(a)(2), Dec. 27, 2020, 134 Stat. 3216, provided that the amendment made by section 1001(a)(2) is effective on the date that is 1 year after Dec. 27, 2020.
 
@@ -3312,6 +3348,8 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
+
+By notice dated Jan. 30, 2025, 90 F.R. 8941, effective Apr. 1, 2025, in subsec. (b), dollar amount “7,575” was adjusted to “8,575” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
 
 By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (b), dollar amount “6,825” was adjusted to “7,575” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
 
@@ -3965,7 +4003,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (c)(9), dollar amount “6,825” was adjusted to “7,575”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Jan. 30, 2025, 90 F.R. 8941, effective Apr. 1, 2025, in subsec. (c)(9), dollar amount “7,575” was adjusted to “8,575”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (c)(9), dollar amount “6,825” was adjusted to “7,575”.
 
 By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (c)(9), dollar amount “6,425” was adjusted to “6,825”.
 

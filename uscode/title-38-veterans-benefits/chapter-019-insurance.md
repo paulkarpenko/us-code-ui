@@ -2,7 +2,7 @@
 title: 38
 chapter: '19'
 heading: INSURANCE
-section_count: 80
+section_count: 81
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -3100,6 +3100,23 @@ Pub. L. 109–233, title V, § 501(b), June 15, 2006, 120 Stat. 414, as amended 
 [Pub. L. 111–275, title IV, § 408(c), Oct. 13, 2010, 124 Stat. 2881, provided that: “The amendments made by this section [amending section 501(b)(1) of Pub. L. 109–233, set out above] shall take effect on October 1, 2011.” ]
 
 Pub. L. 109–13, div. A, title I, § 1032(c), May 11, 2005, 119 Stat. 259, which provided for retroactive traumatic injury benefits, was repealed by Pub. L. 109–233, title V, § 501(c)(2), June 15, 2006, 120 Stat. 415.
+
+
+<a id="section-1980b"></a>
+## § 1980B. Periodic review of automatic maximum coverage
+**(a) In General.—** On January 1, 2026, and every five years thereafter, the Secretary shall—
+
+(1) complete a review of how the amount specified in section 1967(a)(3)(A)(i) compares to the amount described in subsection (b); and
+
+(2) submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate the results of the review, which may serve as a guide for coverage increases within the existing administrative incremental structure.
+
+**(b) Amount Described.—** The amount described in this subsection is the amount equal to—
+
+(1) $500,000; multiplied by
+
+(2) the average percentage by which the Consumer Price Index changed during the five fiscal years preceding the review under subsection (a).
+
+**(c) Consumer Price Index Defined.—** In this section, the term “Consumer Price Index” means the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
 
 
 <a id="section-1981"></a>

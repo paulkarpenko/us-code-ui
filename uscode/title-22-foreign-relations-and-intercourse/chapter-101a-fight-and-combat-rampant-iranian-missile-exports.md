@@ -69,7 +69,7 @@ It is the policy of the United States—
 
   (B) *Current visas revoked*
 
-    (i) *In general* — The visa or other entry documentation of any alien described in subsection (a) 22 So in original. Probably should be “subparagraph (A)”. is subject to revocation regardless of the issue date of the visa or other entry documentation.
+    (i) *In general* — The visa or other entry documentation of any alien described in subsection (a) is subject to revocation regardless of the issue date of the visa or other entry documentation.
 
     (ii) *Immediate effect* — A revocation under clause (i) shall, in accordance with section 221(i) of the Immigration and Nationality Act ([8 U.S.C. 1201(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1201/i&num=0&edition=prelim))—
 
@@ -77,7 +77,7 @@ It is the policy of the United States—
 
       (II) cancel any other valid visa or entry documentation that is in the possession of the alien.
 
-**(c) Penalties** Any person that violates, or attempts to violate, subsection (b) or any regulation, license, or order issued pursuant to that subsection, shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Economic 33 So in original. Probably should be preceded by “Emergency”. Powers Act ([50 U.S.C. 1705](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1705&num=0&edition=prelim)) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+**(c) Penalties** Any person that violates, or attempts to violate, subsection (b) or any regulation, license, or order issued pursuant to that subsection, shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Economic 22 So in original. Probably should be preceded by “Emergency”. Powers Act ([50 U.S.C. 1705](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1705&num=0&edition=prelim)) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
 
 **(d) Waiver** The President may waive the application of sanctions under this section with respect to a foreign person for renewable periods not to exceed 180 days only if, not later than 15 days after the date on which the waiver is to take effect, the President submits to the appropriate congressional committees a written determination and justification that the waiver is in the vital national security interests of the United States.
 
@@ -120,9 +120,22 @@ The International Emergency Economic Powers Act, referred to in subsec. (b)(1), 
 
 The Immigration and Nationality Act, referred to in subsec. (b)(2)(iii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
-This division, referred to in subsec. (f), is div. K of Pub. L. 118–50, Apr. 24, 2024, 138 Stat. 970, known as the Fight and Combat Rampant Iranian Missile Exports Act or the Fight CRIME Act, which enacted this chapter. Division K did not make any amendments.
+This division, referred to in subsec. (f), is div. K of Pub. L. 118–50, Apr. 24, 2024, 138 Stat. 970, known as the Fight and Combat Rampant Iranian Missile Exports Act and also as the Fight CRIME Act, which enacted this chapter. Division K did not make any amendments.
 
 The National Security Act of 1947, referred to in subsec. (g)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+
+#### Delegation of Functions
+Memorandum of President of the United States, § 2, Sept. 13, 2024, 89 F.R. 77757, provided:
+
+(a) I hereby delegate to the Secretary of State, in consultation with the Secretary of the Treasury, the functions and authorities vested in the President by sections 5(a)(1), 5(a)(2), 5(a)(3), and 5(a)(4) of the Fight and Combat Rampant Iranian Missile Exports Act (Division K of Public Law 118–50) (the “Fight CRIME Act”) [[22 U.S.C. 9423(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9423/a/1&num=0&edition=prelim) to (4)].
+
+(b) I hereby delegate to the Secretary of the Treasury, in consultation with the Secretary of State, the functions and authorities vested in the President by sections 5(a)(5), 5(a)(6), 5(e), and 5(f) of the Fight CRIME Act.
+
+(c) I hereby delegate to the Secretary of the Treasury the functions and authorities vested in the President by section 5(b)(1) of the Fight CRIME Act.
+
+(d) I hereby delegate to the Secretary of State the functions and authorities vested in the President by sections 5(d), 5(h), and 6(c) of the Fight CRIME Act.
+
+J.R. Biden, Jr.
 
 
 <a id="section-9424"></a>
