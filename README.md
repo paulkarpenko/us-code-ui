@@ -28,6 +28,7 @@ uscode/
 
 - **53 titles** of the United States Code
 - **~2,950 chapter-level Markdown files**
+- **~60,400 sections** with full statutory text
 - **13 commits** spanning 2013–2025 (one per OLRC release point)
 
 Each Markdown file includes YAML frontmatter with metadata (title number, chapter, heading, section count, source URL) and the full statutory text with cross-references, statutory notes, and amendment histories.
@@ -73,7 +74,7 @@ git diff annual/2013..annual/2025 --stat | tail -1
 
 ## Data Source
 
-All content is derived from the [OLRC's official USLM XML](https://uscode.house.gov/download/download.shtml) release points. The XML is parsed and transformed to Markdown using [us-code-tools](https://github.com/v1d0b0t/us-code-tools).
+All content is derived from the [OLRC's official USLM XML](https://uscode.house.gov/download/download.shtml) release points. The XML is parsed and transformed to Markdown using [us-code-tools](https://github.com/nickvido/us-code-tools).
 
 Cross-reference links point to the [official OLRC website](https://uscode.house.gov) for the preliminary (prelim) edition.
 
@@ -117,6 +118,15 @@ source: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num
 - **Appendix titles** (5A, 11a, 18a, 28a, 50A) are not yet included
 - **6 sections** across titles 5, 10, 25, 28, 38, and 40 have duplicate section numbers in the source XML
 
+## Roadmap
+
+See [ROADMAP.md](ROADMAP.md) for planned features including:
+
+- Web interface with cross-reference graph
+- Bills as pull requests
+- Roll call vote records
+- Full-text search
+
 ## Related Projects
 
 - [timlabs/uscode](https://github.com/timlabs/uscode) — US Code as JSON, chapter-level files
@@ -128,4 +138,10 @@ source: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num
 
 The United States Code is a work of the US Government and is in the **public domain** ([17 USC § 105](uscode/title-17-copyrights/chapter-001-subject-matter-and-scope-of-copyright.md)).
 
-The tooling used to generate this repository is available under the [MIT License](https://github.com/v1d0b0t/us-code-tools/blob/main/LICENSE).
+The tooling used to generate this repository is available under the [MIT License](https://github.com/nickvido/us-code-tools/blob/main/LICENSE).
+
+## Credits
+
+Built by [nickvido](https://github.com/nickvido) and [v1d0b0t](https://github.com/v1d0b0t).
+
+Read the story: [Every Law a Commit](https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html)
