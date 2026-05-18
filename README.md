@@ -1,147 +1,63 @@
-# 🇺🇸 A Web UI for the United States Code as a Git Repository
+# U.S. Code — Read & Understand
 
-The entire United States Code — every title, chapter, and section — stored as Markdown in a Git repository. Each commit represents a point-in-time snapshot of federal law, with `git diff` revealing exactly what changed between enactments.
+A web reading interface for the United States Code, built so people can actually finish reading a statute.
 
-## Why?
+Federal law is dense, recursive, and written for an audience that already knows the conventions. Reading a single section often means three browser tabs, a glossary, and more patience than most readers bring. This UI shortens that distance.
 
-Laws change. Understanding *what* changed and *when* has historically required navigating dense legal databases or reading legislative summaries written by someone else. Git solves this naturally:
+## What it does
 
-- **`git log`** — see the history of federal law from 2013 to present
-- **`git diff`** — see exactly what text changed between any two points in time
-- **`git blame`** — trace when a specific provision was added
-- **Tags** — jump to a specific Congress or year
+**Browse.** Every title and chapter in the bundled corpus is reachable from a keyboard-driven sidebar. Long chapters get a section rail so you keep your place; SHOUTED statutory headings render as readable small-caps without losing the underlying meaning.
 
-## What's Here
+**Resolve cross-references in place.** Mentions like `§ 921`, `section 921 of title 18`, or `26 U.S.C. § 5845` become hover-previewed links to the right section — no detour through search, no lost place.
+
+**Ask in plain English.** Select a phrase anywhere — a statute, a chapter title, a sidebar row, even another answer — and an "Explain" pill brings up a Feynman-style explanation from Claude, grounded in the chapter you're reading. Browser-style Back / Forward let you drill in and back out without losing your trail.
+
+**Search.** `⌘K` opens a search palette across titles and chapters. `⌘.` toggles the Explain panel.
 
 ```
-uscode/
-├── title-01-general-provisions/
-│   ├── _title.md                    # Title metadata
-│   ├── chapter-001-rules-of-construction.md
-│   ├── chapter-002-acts-and-resolutions-...md
-│   └── ...
-├── title-02-the-congress/
-├── title-03-the-president/
-├── ...
-└── title-54-national-park-service-and-related-programs/
+┌──────────┬─────────────────────────┬──────────────┐
+│ titles & │  chapter text           │  Explain     │
+│ chapters │  + cross-ref previews   │  panel       │
+│ sidebar  │  + section rail (xl+)   │  (Feynman)   │
+└──────────┴─────────────────────────┴──────────────┘
 ```
 
-- **53 titles** of the United States Code
-- **~2,950 chapter-level Markdown files**
-- **~60,400 sections** with full statutory text
-- **13 commits** spanning 2013–2025 (one per OLRC release point)
-
-Each Markdown file includes YAML frontmatter with metadata (title number, chapter, heading, section count, source URL) and the full statutory text with cross-references, statutory notes, and amendment histories.
-
-## Commits & Tags
-
-Every commit corresponds to an [Office of the Law Revision Counsel (OLRC)](https://uscode.house.gov) release point — an official snapshot of the US Code as amended through a specific Public Law.
-
-### Tags
-
-| Tag | Public Law | Year | Description |
-|-----|-----------|------|-------------|
-| `annual/2013` | 113-21 | 2013 | Earliest available OLRC snapshot |
-| `congress/113` | 113-296 | 2014 | End of 113th Congress |
-| `annual/2015` | 114-38 | 2015 | |
-| `congress/114` | 114-329 | 2017 | End of 114th Congress |
-| `annual/2017` | 115-51 | 2017 | |
-| `congress/115` | 115-442 | 2019 | End of 115th Congress |
-| `annual/2019` | 116-91 | 2019 | |
-| `congress/116` | 116-344 | 2021 | End of 116th Congress |
-| `annual/2021` | 117-81 | 2021 | |
-| `annual/2022` | 117-262 | 2022 | |
-| `congress/117` | 117-262 | 2022 | End of 117th Congress |
-| `annual/2024` | 118-158 | 2024 | |
-| `congress/118` | 118-158 | 2024 | End of 118th Congress |
-| `annual/2025` | 119-73 | 2025 | Current (latest) |
-
-### Browsing History
+## Try it
 
 ```bash
-# What changed in federal law between the 115th and 116th Congress?
-git diff congress/115..congress/116 --stat
-
-# Full text diff of Title 18 (Crimes) between 2019 and 2025
-git diff annual/2019..annual/2025 -- uscode/title-18-crimes-and-criminal-procedure/
-
-# When was a specific section last modified?
-git log --oneline -- "uscode/title-18-crimes-and-criminal-procedure/chapter-044-firearms.md"
-
-# How many files changed across the entire 12-year history?
-git diff annual/2013..annual/2025 --stat | tail -1
+cd web
+cp .env.example .env       # ANTHROPIC_API_KEY enables Explain
+pnpm install
+pnpm dev
 ```
 
-## Data Source
+Then open <http://localhost:5173>. The Explain panel needs an Anthropic API key; everything else (browsing, search, cross-reference previews) works without one.
 
-All content is derived from the [OLRC's official USLM XML](https://uscode.house.gov/download/download.shtml) release points. The XML is parsed and transformed to Markdown using [us-code-tools](https://github.com/nickvido/us-code-tools).
+Developer details — stack, scripts, the build-index pipeline, how to extend the explainer — live in [`web/README.md`](web/README.md).
 
-Cross-reference links point to the [official OLRC website](https://uscode.house.gov) for the preliminary (prelim) edition.
+## What this repo is, and isn't
 
-## Markdown Format
+**This repo is the UI.** The reading experience, the cross-reference linker, the Explain panel — that's [`web/`](web/).
 
-Each chapter file follows this structure:
+**The corpus is bundled, not authored here.** The U.S. Code text — titles, chapters, sections, statutory notes, with each OLRC release point as its own commit — lives in [`uscode/`](uscode/). For what that data project is on its own (history-as-git, tags per Congress, the XML→Markdown pipeline), see [`ROADMAP.md`](ROADMAP.md) and the upstream tooling credited below.
 
-```markdown
----
-title: 18
-chapter: '44'
-heading: FIREARMS
-section_count: 25
-source: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
----
+**It's a reader, not a legal product.** Explanations from the Explain panel are best-effort plain-English summaries from a language model. They are not legal advice and do not replace reading the section.
 
-<a id="section-921"></a>
+## Status
 
-## § 921. Definitions
+Early. Browsing, cross-reference previews, and the Explain flow work end-to-end against the latest OLRC release point. Honest gaps:
 
-**(a)** As used in this chapter—
-
-**(1)** The term "person" and the term "whoever" include any individual...
-
-### Statutory Notes
-
-#### Amendments
-...
-```
-
-- **Section headings** use `## §` with HTML anchor IDs for linking
-- **Subsections** use bold labels: `**(a)**`, `**(1)**`, `**(A)**`, `**(i)**`
-- **Cross-references** link to other sections within the repo or to uscode.house.gov
-- **Statutory notes** include amendment histories, effective dates, and related materials
-
-## Limitations
-
-- **Coverage starts in 2013** — OLRC XML release points are only available from the 113th Congress onward
-- **Codified law only** — this is the consolidated United States Code, not individual bills or public laws in directive format
-- **Not all titles are positive law** — some titles are "evidence of law" rather than the legal text itself (see [1 USC § 204](uscode/title-01-general-provisions/chapter-003-code-of-laws-of-united-states-and-supplements-code.md))
-- **Appendix titles** (5A, 11a, 18a, 28a, 50A) are not yet included
-- **6 sections** across titles 5, 10, 25, 28, 38, and 40 have duplicate section numbers in the source XML
-
-## Roadmap
-
-See [ROADMAP.md](ROADMAP.md) for planned features including:
-
-- Web interface with cross-reference graph
-- Bills as pull requests
-- Roll call vote records
-- Full-text search
-
-## Related Projects
-
-- [timlabs/uscode](https://github.com/timlabs/uscode) — US Code as JSON, chapter-level files
-- [divegeek/uscode](https://github.com/divegeek/uscode) — US Code with commit-per-title history
-- [unitedstates/uscode](https://github.com/unitedstates/uscode) — Python tools for downloading and parsing
-- [publicdocs/uscode](https://github.com/publicdocs/uscode) — Section-level markdown files
+- Search scores against title and chapter headings only, not section bodies.
+- The git history of the corpus isn't surfaced in the UI yet — no "diff between Congresses" view.
+- Appendix titles (5A, 11A, 18A, 28A, 50A) aren't indexed.
+- Explain history is in-memory only by design — refresh the page and it's gone.
 
 ## License
 
-The United States Code is a work of the US Government and is in the **public domain** ([17 USC § 105](uscode/title-17-copyrights/chapter-001-subject-matter-and-scope-of-copyright.md)).
-
-The tooling used to generate this repository is available under the [MIT License](https://github.com/nickvido/us-code-tools/blob/main/LICENSE).
+The U.S. Code is a work of the U.S. Government and is in the public domain (17 USC § 105). The UI source is MIT.
 
 ## Credits
 
 Built by [nickvido](https://github.com/nickvido) and [v1d0b0t](https://github.com/v1d0b0t).
 
-Read the story: [Every Law a Commit](https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html)
+Read the story behind the corpus: [Every Law a Commit](https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html).
