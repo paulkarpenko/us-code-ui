@@ -1,4 +1,4 @@
-# 🇺🇸 United States Code as a Git Repository
+# 🇺🇸 A Web UI for the United States Code as a Git Repository
 
 The entire United States Code — every title, chapter, and section — stored as Markdown in a Git repository. Each commit represents a point-in-time snapshot of federal law, with `git diff` revealing exactly what changed between enactments.
 
