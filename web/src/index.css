@@ -1,0 +1,236 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/*
+ * Design tokens. The palette is restrained on purpose: paper-warm in light,
+ * deep-neutral in dark, with a single accent (slate-indigo). This puts the
+ * statutory text first and avoids the rainbow effect that makes long-form
+ * reading exhausting.
+ */
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-serif: 'Source Serif 4', 'Iowan Old Style', 'Charter', Georgia, serif;
+  --font-mono: ui-monospace, 'JetBrains Mono', SFMono-Regular, Menlo, monospace;
+
+  --text-base: 0.875rem;       /* 14px reading baseline */
+  --text-base--line-height: 1.65;
+
+  /* Light */
+  --color-canvas: #fbfaf7;     /* paper */
+  --color-surface: #ffffff;
+  --color-surface-2: #f5f3ee;
+  --color-border: #e8e4dc;
+  --color-border-strong: #d4cec2;
+  --color-fg: #1c1b18;
+  --color-fg-muted: #5b5750;
+  --color-fg-subtle: #8a857c;
+  --color-accent: #3b4ba0;
+  --color-accent-fg: #ffffff;
+  --color-accent-soft: #e7eaf7;
+  --color-link: #2c3a8a;
+  --color-marker: #f0e7c4;     /* highlight */
+}
+
+@layer base {
+  .dark {
+    --color-canvas: #0f1014;
+    --color-surface: #16181d;
+    --color-surface-2: #1d2027;
+    --color-border: #262a33;
+    --color-border-strong: #353a45;
+    --color-fg: #e8e6e1;
+    --color-fg-muted: #a3a39c;
+    --color-fg-subtle: #6b6c66;
+    --color-accent: #8a9af0;
+    --color-accent-fg: #0f1014;
+    --color-accent-soft: #1f243a;
+    --color-link: #a4b1ee;
+    --color-marker: #524a23;
+  }
+
+  html, body, #root {
+    height: 100%;
+  }
+
+  html {
+    color-scheme: light;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+  .dark { color-scheme: dark; }
+
+  body {
+    font-family: var(--font-sans);
+    font-size: var(--text-base);
+    line-height: var(--text-base--line-height);
+    background: var(--color-canvas);
+    color: var(--color-fg);
+  }
+
+  ::selection {
+    background: var(--color-accent-soft);
+    color: var(--color-fg);
+  }
+
+  /* Focus rings — visible but unobtrusive */
+  :where(button, a, input, select, textarea, [tabindex]):focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  /* Native scrollbar polish */
+  *::-webkit-scrollbar { width: 10px; height: 10px; }
+  *::-webkit-scrollbar-thumb {
+    background: color-mix(in srgb, var(--color-border-strong) 60%, transparent);
+    border-radius: 6px;
+    border: 2px solid transparent;
+    background-clip: padding-box;
+  }
+  *::-webkit-scrollbar-thumb:hover {
+    background: var(--color-border-strong);
+    background-clip: padding-box;
+    border: 2px solid transparent;
+  }
+}
+
+/*
+ * Statutory prose. Tuned for long-form legal reading: measure ~70ch,
+ * serif body, generous leading, modest paragraph spacing, marked sub-levels.
+ */
+@layer components {
+  .prose-statute {
+    font-family: var(--font-serif);
+    font-size: 0.9375rem;        /* 15px — text body slightly larger than UI chrome */
+    line-height: 1.7;
+    color: var(--color-fg);
+    max-width: 72ch;
+  }
+  .prose-statute h2 {
+    font-family: var(--font-sans);
+    font-weight: 600;
+    font-size: 1.0625rem;
+    margin-top: 2.25rem;
+    margin-bottom: 0.5rem;
+    color: var(--color-fg);
+    letter-spacing: -0.005em;
+    scroll-margin-top: 5rem;
+  }
+  .prose-statute h2:first-child { margin-top: 0; }
+  .prose-statute h3 {
+    font-family: var(--font-sans);
+    font-weight: 600;
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-fg-muted);
+    margin-top: 1.75rem;
+    margin-bottom: 0.5rem;
+  }
+  .prose-statute h4 {
+    font-family: var(--font-sans);
+    font-weight: 600;
+    font-size: 0.8125rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--color-fg-subtle);
+    margin-top: 1.25rem;
+    margin-bottom: 0.4rem;
+  }
+  .prose-statute p {
+    margin: 0.5rem 0;
+  }
+  .prose-statute a {
+    color: var(--color-link);
+    text-decoration: underline;
+    text-decoration-color: color-mix(in srgb, var(--color-link) 35%, transparent);
+    text-underline-offset: 2px;
+  }
+  .prose-statute a:hover { text-decoration-color: var(--color-link); }
+  .prose-statute strong {
+    font-weight: 600;
+    color: var(--color-fg);
+  }
+  .prose-statute em { font-style: italic; }
+  .prose-statute ul, .prose-statute ol {
+    padding-left: 1.25rem;
+    margin: 0.4rem 0;
+  }
+  .prose-statute blockquote {
+    border-left: 3px solid var(--color-border-strong);
+    padding-left: 1rem;
+    color: var(--color-fg-muted);
+    margin: 0.75rem 0;
+  }
+  .prose-statute code {
+    font-family: var(--font-mono);
+    font-size: 0.85em;
+    background: var(--color-surface-2);
+    padding: 1px 4px;
+    border-radius: 3px;
+  }
+  .prose-statute hr {
+    border: none;
+    border-top: 1px solid var(--color-border);
+    margin: 2rem 0;
+  }
+  .prose-statute .section-anchor {
+    display: block;
+    height: 0;
+    scroll-margin-top: 4.5rem;
+  }
+
+  /* Word/phrase that is selectable for Feynman lookup */
+  .prose-statute mark.lookup-hit {
+    background: var(--color-marker);
+    border-radius: 2px;
+    padding: 0 2px;
+  }
+
+  /* Feynman panel chat-style markdown */
+  .prose-feynman {
+    font-family: var(--font-sans);
+    font-size: 0.8125rem;
+    line-height: 1.6;
+    color: var(--color-fg);
+  }
+  .prose-feynman p { margin: 0.5rem 0; }
+  .prose-feynman h1, .prose-feynman h2, .prose-feynman h3 {
+    font-weight: 600;
+    margin: 0.85rem 0 0.35rem;
+    font-size: 0.875rem;
+    color: var(--color-fg);
+  }
+  .prose-feynman ul, .prose-feynman ol {
+    padding-left: 1.1rem; margin: 0.35rem 0;
+  }
+  .prose-feynman li { margin: 0.2rem 0; }
+  .prose-feynman code {
+    font-family: var(--font-mono);
+    font-size: 0.78rem;
+    background: var(--color-surface-2);
+    padding: 1px 4px;
+    border-radius: 3px;
+  }
+  .prose-feynman strong { color: var(--color-fg); font-weight: 600; }
+  .prose-feynman blockquote {
+    border-left: 2px solid var(--color-accent);
+    padding-left: 0.75rem;
+    color: var(--color-fg-muted);
+    margin: 0.5rem 0;
+  }
+}
+
+/* Subtle animation for streamed text */
+@keyframes pulse-cursor {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+.streaming-cursor::after {
+  content: '▍';
+  margin-left: 2px;
+  color: var(--color-accent);
+  animation: pulse-cursor 1s infinite;
+}
