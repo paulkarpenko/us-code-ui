@@ -17,7 +17,7 @@ export function ChapterView({
   onExplain,
 }: {
   index: CodeIndex;
-  onExplain: (concept: string, excerpt?: string) => void;
+  onExplain: (concept: string, opts?: { excerpt?: string }) => void;
 }) {
   const { titleSlug, chapterSlug } = useParams();
   const [doc, setDoc] = useState<ChapterDoc | null>(null);
@@ -177,9 +177,29 @@ export function ChapterView({
               )}
               <span className="text-fg-muted">Chapter {chapter?.number}</span>
             </nav>
-            <h1 className="text-[22px] font-semibold tracking-tight text-fg">
-              {chapter ? smallCaps(chapter.heading) : '…'}
-            </h1>
+            <div
+              className="group/h1 flex items-baseline gap-2 flex-wrap"
+              data-explainable="true"
+            >
+              <h1 className="text-[22px] font-semibold tracking-tight text-fg">
+                {chapter ? smallCaps(chapter.heading) : '…'}
+              </h1>
+              {chapter && (
+                <button
+                  type="button"
+                  onClick={() => onExplain(smallCaps(chapter.heading))}
+                  aria-label="Explain this chapter"
+                  className={cn(
+                    'opacity-0 group-hover/h1:opacity-100 focus:opacity-100',
+                    'inline-flex items-center gap-1 rounded-md border border-border bg-surface-2/60',
+                    'px-1.5 py-0.5 text-[11px] text-fg-subtle',
+                    'hover:text-link hover:border-border-strong transition',
+                  )}
+                >
+                  <Wand2 size={11} strokeWidth={2} /> Explain
+                </button>
+              )}
+            </div>
             {(() => {
               const src = doc?.frontmatter.source;
               if (typeof src !== 'string') return null;
@@ -230,7 +250,7 @@ export function ChapterView({
           type="button"
           onMouseDown={(e) => {
             e.preventDefault();
-            onExplain(selection.text, selection.excerpt);
+            onExplain(selection.text, { excerpt: selection.excerpt });
             window.getSelection?.()?.removeAllRanges();
             setSelection(null);
           }}

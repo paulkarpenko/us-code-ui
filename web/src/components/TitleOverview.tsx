@@ -1,10 +1,20 @@
 import { Link, useParams } from 'react-router-dom';
-import { ChevronRight, ShieldCheck } from 'lucide-react';
+import { ChevronRight, ShieldCheck, Wand2 } from 'lucide-react';
 import { ScrollArea } from './ui/ScrollArea';
 import type { CodeIndex } from '@/lib/types';
+import type { FeynmanLocation } from './FeynmanPanel';
 import { cn } from '@/lib/cn';
 
-export function TitleOverview({ index }: { index: CodeIndex }) {
+export function TitleOverview({
+  index,
+  onExplain,
+}: {
+  index: CodeIndex;
+  onExplain: (
+    concept: string,
+    opts?: { excerpt?: string; location?: FeynmanLocation },
+  ) => void;
+}) {
   const { titleSlug } = useParams();
   const title = index.titles.find((t) => t.slug === titleSlug);
 
@@ -27,9 +37,35 @@ export function TitleOverview({ index }: { index: CodeIndex }) {
           <ChevronRight size={11} strokeWidth={2.5} />
           <span className="text-fg-muted">Title {title.number}</span>
         </nav>
-        <h1 className="text-[24px] font-semibold tracking-tight text-fg">
-          Title {title.number}. {smallCaps(title.heading)}
-        </h1>
+        <div
+          className="group/h1 flex items-baseline gap-2 flex-wrap"
+          data-explainable="true"
+        >
+          <h1 className="text-[24px] font-semibold tracking-tight text-fg">
+            Title {title.number}. {smallCaps(title.heading)}
+          </h1>
+          <button
+            type="button"
+            onClick={() =>
+              onExplain(`Title ${title.number} — ${smallCaps(title.heading)}`, {
+                location: {
+                  titleSlug: title.slug,
+                  titleNumber: title.number,
+                  titleHeading: title.heading,
+                },
+              })
+            }
+            aria-label="Explain this title"
+            className={cn(
+              'opacity-0 group-hover/h1:opacity-100 focus:opacity-100',
+              'inline-flex items-center gap-1 rounded-md border border-border bg-surface-2/60',
+              'px-1.5 py-0.5 text-[11px] text-fg-subtle',
+              'hover:text-link hover:border-border-strong transition',
+            )}
+          >
+            <Wand2 size={11} strokeWidth={2} /> Explain
+          </button>
+        </div>
         <div className="mt-2 flex items-center gap-3 text-[12.5px] text-fg-muted">
           <span>{title.chapters.length} chapters</span>
           <span className="text-fg-subtle">·</span>

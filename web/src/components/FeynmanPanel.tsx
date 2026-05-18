@@ -1,7 +1,17 @@
 import { useEffect, useRef, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { Lightbulb, Send, X, History, Sparkles, BookOpen, KeyRound } from 'lucide-react';
+import {
+  Lightbulb,
+  Send,
+  X,
+  Sparkles,
+  BookOpen,
+  KeyRound,
+  ArrowLeft,
+  ArrowRight,
+  RotateCcw,
+} from 'lucide-react';
 import { streamFeynman } from '@/lib/api';
 import { ScrollArea } from './ui/ScrollArea';
 import { ResizeHandle } from './ui/ResizeHandle';
@@ -16,13 +26,19 @@ import { cn } from '@/lib/cn';
  * user is currently reading. The four-part Feynman scaffold is enforced
  * server-side in the system prompt.
  *
- * Local history is kept in memory only (not persisted) — we want this to feel
- * like a calculator, not a chat log.
+ * History is browser-like: each Ask pushes onto a stack at cursor+1,
+ * truncating any forward entries. Back/Forward walk the cursor; Reset
+ * clears everything. Kept in memory only — feels like a calculator, not
+ * a chat log.
  */
 
 export interface FeynmanRequest {
   concept: string;
   excerpt?: string;
+  /** Override the live page location — used when the trigger isn't tied to
+   *  the article the user is reading (e.g. clicking Explain on a sidebar
+   *  row that points at a different title/chapter). */
+  location?: FeynmanLocation;
 }
 
 /*
@@ -45,8 +61,9 @@ interface HistoryEntry {
   body: string;
   error?: string;
   ts: number;
-  // Location captured when the question was asked, so re-opening from history
-  // doesn't get re-anchored to whatever the user is currently reading.
+  // Location captured when the question was asked, so navigating back
+  // through history doesn't get re-anchored to whatever the user is
+  // currently reading.
   location: FeynmanLocation | null;
 }
 
@@ -70,40 +87,62 @@ export function FeynmanPanel({ location, hasApiKey, request, requestKey, onColla
     side: 'left',
   });
   const [input, setInput] = useState('');
-  const [streaming, setStreaming] = useState(false);
-  const [current, setCurrent] = useState<HistoryEntry | null>(null);
-  const [history, setHistory] = useState<HistoryEntry[]>([]);
+  const [stack, setStack] = useState<HistoryEntry[]>([]);
+  const [cursor, setCursor] = useState<number>(-1);
+  // Index of the entry currently being streamed (or -1 when no stream is
+  // in flight). Tracked separately from cursor so the user can navigate
+  // history while a stream finishes in the background.
+  const [streamingIdx, setStreamingIdx] = useState<number>(-1);
   const abortRef = useRef<(() => void) | null>(null);
   const bodyRef = useRef<HTMLDivElement>(null);
-  // Keep the freshest location in a ref so `ask` (used by effects) always
-  // sees the *current* page even when the request comes from a stale closure.
+  // Refs let `ask` read the freshest stack/cursor synchronously (avoids
+  // racing two functional setState updates against each other).
+  const stackRef = useRef(stack);
+  const cursorRef = useRef(cursor);
   const locationRef = useRef(location);
+  useEffect(() => { stackRef.current = stack; }, [stack]);
+  useEffect(() => { cursorRef.current = cursor; }, [cursor]);
   useEffect(() => { locationRef.current = location; }, [location]);
 
-  // Auto-scroll while streaming.
+  const current = cursor >= 0 && cursor < stack.length ? stack[cursor] : null;
+  const canBack = cursor > 0;
+  const canForward = cursor < stack.length - 1;
+  const isStreaming = streamingIdx >= 0;
+  const isStreamingCurrent = isStreaming && streamingIdx === cursor;
+
+  // Auto-scroll while the displayed entry is streaming.
   useEffect(() => {
     if (!bodyRef.current) return;
+    if (!isStreamingCurrent) return;
     bodyRef.current.scrollTop = bodyRef.current.scrollHeight;
-  }, [current?.body]);
+  }, [current?.body, isStreamingCurrent]);
 
-  const ask = (concept: string, excerpt?: string) => {
+  // Snap scroll to top when the cursor moves (Back/Forward navigation).
+  useEffect(() => {
+    if (!bodyRef.current) return;
+    bodyRef.current.scrollTop = 0;
+  }, [cursor]);
+
+  const ask = (concept: string, opts?: { excerpt?: string; location?: FeynmanLocation }) => {
     const trimmed = concept.trim();
     if (!trimmed) return;
-    // Cancel any in-flight stream.
     abortRef.current?.();
-    if (current && current.body) {
-      setHistory((h) => [current, ...h].slice(0, 12));
-    }
-    const loc = locationRef.current;
+
+    const loc = opts?.location ?? locationRef.current;
     const entry: HistoryEntry = {
       concept: trimmed,
-      excerpt,
+      excerpt: opts?.excerpt,
       body: '',
       ts: Date.now(),
       location: loc,
     };
-    setCurrent(entry);
-    setStreaming(true);
+
+    const nextStack = [...stackRef.current.slice(0, cursorRef.current + 1), entry];
+    const newIdx = nextStack.length - 1;
+    setStack(nextStack);
+    setCursor(newIdx);
+    setStreamingIdx(newIdx);
+
     abortRef.current = streamFeynman({
       concept: trimmed,
       context: {
@@ -111,27 +150,52 @@ export function FeynmanPanel({ location, hasApiKey, request, requestKey, onColla
         titleHeading: loc?.titleHeading,
         chapterNumber: loc?.chapterNumber,
         chapterHeading: loc?.chapterHeading,
-        excerpt,
+        excerpt: opts?.excerpt,
       },
       onDelta: (text) => {
-        setCurrent((c) => (c ? { ...c, body: c.body + text } : c));
+        setStack((s) => {
+          if (!s[newIdx]) return s;
+          const copy = [...s];
+          copy[newIdx] = { ...copy[newIdx], body: copy[newIdx].body + text };
+          return copy;
+        });
       },
-      onDone: () => setStreaming(false),
+      onDone: () => setStreamingIdx(-1),
       onError: (err) => {
-        setCurrent((c) => (c ? { ...c, error: err } : c));
-        setStreaming(false);
+        setStack((s) => {
+          if (!s[newIdx]) return s;
+          const copy = [...s];
+          copy[newIdx] = { ...copy[newIdx], error: err };
+          return copy;
+        });
+        setStreamingIdx(-1);
       },
     });
   };
 
-  // Externally triggered requests (from text selection in the article).
+  const goBack = () => setCursor((c) => (c > 0 ? c - 1 : c));
+  const goForward = () =>
+    setCursor((c) => (c < stackRef.current.length - 1 ? c + 1 : c));
+  const resetHistory = () => {
+    abortRef.current?.();
+    abortRef.current = null;
+    setStack([]);
+    setCursor(-1);
+    setStreamingIdx(-1);
+  };
+
+  // Externally triggered requests (from text selection, h1 buttons, sidebar).
   useEffect(() => {
     if (request && request.concept) {
-      ask(request.concept, request.excerpt);
+      ask(request.concept, { excerpt: request.excerpt, location: request.location });
       setInput(request.concept);
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [requestKey]);
+
+  // Context shown in the chip: when viewing a stack entry, prefer the
+  // location captured when that entry was asked; fall back to the live page.
+  const chipLocation = current?.location ?? location;
 
   return (
     <aside
@@ -156,48 +220,64 @@ export function FeynmanPanel({ location, hasApiKey, request, requestKey, onColla
         </button>
       </header>
 
+      {stack.length > 0 && (
+        <div className="flex items-center gap-1 border-b border-border px-3 py-1.5 bg-surface-2/30">
+          <button
+            onClick={goBack}
+            disabled={!canBack}
+            aria-label="Previous explanation"
+            className={cn(
+              'inline-flex h-6 w-6 items-center justify-center rounded',
+              'text-fg-subtle hover:text-fg hover:bg-surface-2',
+              'disabled:opacity-30 disabled:hover:bg-transparent disabled:hover:text-fg-subtle',
+            )}
+          >
+            <ArrowLeft size={13} strokeWidth={2} />
+          </button>
+          <span className="text-[10.5px] text-fg-subtle tabular-nums px-1 min-w-[3.5rem] text-center">
+            {cursor + 1} <span className="text-fg-subtle/60">of</span> {stack.length}
+          </span>
+          <button
+            onClick={goForward}
+            disabled={!canForward}
+            aria-label="Next explanation"
+            className={cn(
+              'inline-flex h-6 w-6 items-center justify-center rounded',
+              'text-fg-subtle hover:text-fg hover:bg-surface-2',
+              'disabled:opacity-30 disabled:hover:bg-transparent disabled:hover:text-fg-subtle',
+            )}
+          >
+            <ArrowRight size={13} strokeWidth={2} />
+          </button>
+          <div className="flex-1" />
+          <button
+            onClick={resetHistory}
+            aria-label="Clear all explanations"
+            className="inline-flex items-center gap-1 rounded px-1.5 h-6 text-[10.5px] text-fg-subtle hover:text-fg hover:bg-surface-2"
+          >
+            <RotateCcw size={11} strokeWidth={2} /> Clear
+          </button>
+        </div>
+      )}
+
       {/*
        * Persistent "what's attached" chip — answers the user's first question
        * before they ask: yes, the panel knows what you're reading and any
-       * lookup will use it as context.
+       * lookup will use it as context. When viewing a past entry, reflects
+       * the context that entry actually used.
        */}
-      <ContextChip location={location} />
+      <ContextChip location={chipLocation} viewingEntry={!!current} />
 
       <ScrollArea className="flex-1" viewportRef={bodyRef as React.RefObject<HTMLDivElement>}>
         <div className="px-4 py-4 space-y-5">
           {!hasApiKey && <MissingKeyCard />}
-          {hasApiKey && !current && history.length === 0 && <EmptyHelper location={location} />}
+          {hasApiKey && !current && <EmptyHelper location={location} />}
 
           {hasApiKey && current && (
             <ResponseCard
               entry={current}
-              streaming={streaming}
+              streaming={isStreamingCurrent}
             />
-          )}
-
-          {history.length > 0 && (
-            <div>
-              <div className="flex items-center gap-1.5 text-[10.5px] uppercase tracking-wider text-fg-subtle mb-2">
-                <History size={11} /> Earlier in this session
-              </div>
-              <div className="space-y-3">
-                {history.map((h) => (
-                  <button
-                    key={h.ts}
-                    onClick={() => {
-                      setCurrent(h);
-                      setHistory((xs) => xs.filter((x) => x.ts !== h.ts));
-                    }}
-                    className="block w-full text-left rounded-md border border-border bg-surface-2/60 p-2.5 hover:border-border-strong"
-                  >
-                    <div className="text-[12px] text-fg-muted truncate">{h.concept}</div>
-                    <div className="text-[11px] text-fg-subtle truncate mt-0.5">
-                      {h.body.replace(/[#*>\n]/g, ' ').slice(0, 90)}…
-                    </div>
-                  </button>
-                ))}
-              </div>
-            </div>
           )}
         </div>
       </ScrollArea>
@@ -206,7 +286,7 @@ export function FeynmanPanel({ location, hasApiKey, request, requestKey, onColla
         className="border-t border-border p-3"
         onSubmit={(e) => {
           e.preventDefault();
-          if (!input.trim() || streaming) return;
+          if (!input.trim() || isStreaming) return;
           ask(input);
         }}
       >
@@ -217,7 +297,7 @@ export function FeynmanPanel({ location, hasApiKey, request, requestKey, onColla
             onKeyDown={(e) => {
               if (e.key === 'Enter' && (e.metaKey || e.ctrlKey)) {
                 e.preventDefault();
-                if (input.trim() && !streaming) ask(input);
+                if (input.trim() && !isStreaming) ask(input);
               }
             }}
             rows={2}
@@ -234,7 +314,7 @@ export function FeynmanPanel({ location, hasApiKey, request, requestKey, onColla
           />
           <button
             type="submit"
-            disabled={!input.trim() || streaming}
+            disabled={!input.trim() || isStreaming}
             className={cn(
               'inline-flex h-9 w-9 items-center justify-center rounded-md',
               'bg-accent text-accent-fg hover:brightness-110 disabled:opacity-40',
@@ -246,7 +326,7 @@ export function FeynmanPanel({ location, hasApiKey, request, requestKey, onColla
           </button>
         </div>
         <div className="mt-1.5 text-[10.5px] text-fg-subtle">
-          ⌘↵ to send · Select text in the article for instant lookup
+          ⌘↵ to send · Select text, click a title, or click a sidebar row for instant lookup
         </div>
       </form>}
     </aside>
@@ -304,7 +384,13 @@ ANTHROPIC_API_KEY=sk-ant-…</pre>
   );
 }
 
-function ContextChip({ location }: { location: FeynmanLocation | null }) {
+function ContextChip({
+  location,
+  viewingEntry,
+}: {
+  location: FeynmanLocation | null;
+  viewingEntry: boolean;
+}) {
   if (!location) {
     return (
       <div className="border-b border-border px-4 py-2 text-[11.5px] text-fg-subtle flex items-center gap-1.5">
@@ -316,7 +402,7 @@ function ContextChip({ location }: { location: FeynmanLocation | null }) {
   return (
     <div className="border-b border-border bg-surface-2/40 px-4 py-2">
       <div className="flex items-center gap-1.5 text-[10px] uppercase tracking-wider text-fg-subtle">
-        <BookOpen size={10} /> Reading
+        <BookOpen size={10} /> {viewingEntry ? 'Context' : 'Reading'}
       </div>
       <div className="mt-0.5 text-[12px] text-fg leading-snug">
         <span className="font-mono text-[10.5px] text-fg-subtle mr-1.5 tabular-nums">
@@ -326,7 +412,9 @@ function ContextChip({ location }: { location: FeynmanLocation | null }) {
         {smallCaps(location.chapterHeading ?? location.titleHeading)}
       </div>
       <div className="mt-0.5 text-[10.5px] text-fg-subtle">
-        Questions are answered using this {location.chapterNumber ? 'chapter' : 'title'} as context.
+        {viewingEntry
+          ? `Answered using this ${location.chapterNumber ? 'chapter' : 'title'} as context.`
+          : `Questions are answered using this ${location.chapterNumber ? 'chapter' : 'title'} as context.`}
       </div>
     </div>
   );
@@ -369,7 +457,14 @@ function ResponseCard({
           </div>
         )}
         {entry.body && (
-          <div className={cn('prose-feynman', streaming && 'streaming-cursor')}>
+          <div
+            className={cn('prose-feynman', streaming && 'streaming-cursor')}
+            data-explainable="true"
+            // Drilling into a concept from inside an answer keeps the answer's
+            // own context (which may differ from the live page if the entry
+            // was originated from a sidebar row).
+            data-explain-location={entry.location ? JSON.stringify(entry.location) : undefined}
+          >
             <ReactMarkdown remarkPlugins={[remarkGfm]}>{entry.body}</ReactMarkdown>
           </div>
         )}
@@ -395,6 +490,13 @@ function EmptyHelper({ location }: { location: FeynmanLocation | null }) {
           <span className="text-accent">·</span>
           <span>
             Select text in the article — a small <em>Explain</em> pill will appear.
+          </span>
+        </li>
+        <li className="flex gap-2">
+          <span className="text-accent">·</span>
+          <span>
+            Hover a chapter title or any sidebar row and click the small{' '}
+            <em>Explain</em> icon.
           </span>
         </li>
       </ul>

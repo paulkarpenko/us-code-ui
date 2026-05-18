@@ -1,13 +1,25 @@
-import { ChevronRight } from 'lucide-react';
+import { ChevronRight, Wand2 } from 'lucide-react';
 import { Link, useParams } from 'react-router-dom';
 import { useMemo, useState } from 'react';
 import { ScrollArea } from './ui/ScrollArea';
 import { ResizeHandle } from './ui/ResizeHandle';
 import { useResizable } from '@/lib/useResizable';
 import type { CodeIndex, TitleMeta } from '@/lib/types';
+import type { FeynmanLocation } from './FeynmanPanel';
 import { cn } from '@/lib/cn';
 
-export function TitleSidebar({ index }: { index: CodeIndex }) {
+type ExplainHandler = (
+  concept: string,
+  opts?: { excerpt?: string; location?: FeynmanLocation },
+) => void;
+
+export function TitleSidebar({
+  index,
+  onExplain,
+}: {
+  index: CodeIndex;
+  onExplain: ExplainHandler;
+}) {
   const { titleSlug, chapterSlug } = useParams();
   const [filter, setFilter] = useState('');
   const f = filter.trim().toLowerCase();
@@ -64,6 +76,7 @@ export function TitleSidebar({ index }: { index: CodeIndex }) {
               forceOpen={!!f}
               activeTitle={titleSlug}
               activeChapter={chapterSlug}
+              onExplain={onExplain}
             />
           ))}
         </nav>
@@ -82,11 +95,13 @@ function TitleGroup({
   forceOpen,
   activeTitle,
   activeChapter,
+  onExplain,
 }: {
   title: TitleMeta;
   forceOpen: boolean;
   activeTitle?: string;
   activeChapter?: string;
+  onExplain: ExplainHandler;
 }) {
   const isActiveTitle = activeTitle === title.slug;
   const [openState, setOpen] = useState(isActiveTitle);
@@ -94,39 +109,83 @@ function TitleGroup({
 
   return (
     <div>
-      <button
-        onClick={() => setOpen((v) => !v)}
-        className={cn(
-          'group flex w-full items-center gap-1.5 rounded-md px-2 py-1.5 text-left',
-          'hover:bg-surface-2',
-          isActiveTitle && 'bg-surface-2',
-        )}
+      <div
+        className="group/titlerow relative"
+        data-explainable="true"
+        data-explain-location={JSON.stringify({
+          titleSlug: title.slug,
+          titleNumber: title.number,
+          titleHeading: title.heading,
+        })}
       >
-        <ChevronRight
-          size={12}
-          strokeWidth={2}
+        <button
+          onClick={() => setOpen((v) => !v)}
           className={cn(
-            'text-fg-subtle transition-transform shrink-0',
-            open && 'rotate-90',
+            'group flex w-full items-center gap-1.5 rounded-md px-2 py-1.5 pr-8 text-left',
+            'hover:bg-surface-2',
+            isActiveTitle && 'bg-surface-2',
           )}
-        />
-        <span className="font-mono text-[11px] text-fg-subtle w-6 shrink-0 tabular-nums">
-          {title.number}
-        </span>
-        <span className="text-[12.5px] text-fg-muted group-hover:text-fg whitespace-nowrap pr-2">
-          {toTitleCase(title.heading)}
-        </span>
-      </button>
+        >
+          <ChevronRight
+            size={12}
+            strokeWidth={2}
+            className={cn(
+              'text-fg-subtle transition-transform shrink-0',
+              open && 'rotate-90',
+            )}
+          />
+          <span className="font-mono text-[11px] text-fg-subtle w-6 shrink-0 tabular-nums">
+            {title.number}
+          </span>
+          <span className="text-[12.5px] text-fg-muted group-hover:text-fg whitespace-nowrap pr-2">
+            {toTitleCase(title.heading)}
+          </span>
+        </button>
+        <button
+          type="button"
+          onClick={() =>
+            onExplain(`Title ${title.number} — ${toTitleCase(title.heading)}`, {
+              location: {
+                titleSlug: title.slug,
+                titleNumber: title.number,
+                titleHeading: title.heading,
+              },
+            })
+          }
+          aria-label={`Explain Title ${title.number}`}
+          title={`Explain Title ${title.number}`}
+          className={cn(
+            'absolute right-1.5 top-1/2 -translate-y-1/2',
+            'inline-flex h-5 w-5 items-center justify-center rounded',
+            'text-fg-subtle hover:text-link hover:bg-surface',
+            'opacity-0 group-hover/titlerow:opacity-100 focus:opacity-100 transition',
+          )}
+        >
+          <Wand2 size={11} strokeWidth={2} />
+        </button>
+      </div>
       {open && (
         <ul className="ml-[1.65rem] mt-0.5 mb-2 border-l border-border pl-1 space-y-px">
           {title.chapters.map((c) => {
             const active = isActiveTitle && activeChapter === c.slug;
             return (
-              <li key={c.slug}>
+              <li
+                key={c.slug}
+                className="group/chapterrow relative"
+                data-explainable="true"
+                data-explain-location={JSON.stringify({
+                  titleSlug: title.slug,
+                  titleNumber: title.number,
+                  titleHeading: title.heading,
+                  chapterSlug: c.slug,
+                  chapterNumber: c.number,
+                  chapterHeading: c.heading,
+                })}
+              >
                 <Link
                   to={`/title/${title.slug}/${c.slug}`}
                   className={cn(
-                    'flex items-baseline gap-2 rounded-md px-2 py-1 text-[12.5px]',
+                    'flex items-baseline gap-2 rounded-md px-2 py-1 pr-8 text-[12.5px]',
                     'text-fg-muted hover:text-fg hover:bg-surface-2',
                     active && 'bg-accent-soft text-fg',
                   )}
@@ -136,6 +195,34 @@ function TitleGroup({
                   </span>
                   <span className="whitespace-nowrap pr-2">{toTitleCase(c.heading)}</span>
                 </Link>
+                <button
+                  type="button"
+                  onClick={() =>
+                    onExplain(
+                      `Chapter ${c.number} — ${toTitleCase(c.heading)}`,
+                      {
+                        location: {
+                          titleSlug: title.slug,
+                          titleNumber: title.number,
+                          titleHeading: title.heading,
+                          chapterSlug: c.slug,
+                          chapterNumber: c.number,
+                          chapterHeading: c.heading,
+                        },
+                      },
+                    )
+                  }
+                  aria-label={`Explain Chapter ${c.number}`}
+                  title={`Explain Chapter ${c.number}`}
+                  className={cn(
+                    'absolute right-1.5 top-1/2 -translate-y-1/2',
+                    'inline-flex h-5 w-5 items-center justify-center rounded',
+                    'text-fg-subtle hover:text-link hover:bg-surface',
+                    'opacity-0 group-hover/chapterrow:opacity-100 focus:opacity-100 transition',
+                  )}
+                >
+                  <Wand2 size={11} strokeWidth={2} />
+                </button>
               </li>
             );
           })}

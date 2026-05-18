@@ -11,6 +11,7 @@ import {
   type FeynmanLocation,
 } from './components/FeynmanPanel';
 import { SearchPalette } from './components/SearchPalette';
+import { GlobalExplainSelection } from './components/GlobalExplainSelection';
 import { TooltipProvider } from './components/ui/Tooltip';
 import { api } from './lib/api';
 import type { CodeIndex } from './lib/types';
@@ -71,9 +72,12 @@ function Shell({ index }: { index: CodeIndex }) {
     return () => document.removeEventListener('keydown', onKey);
   }, []);
 
-  const handleExplain = (concept: string, excerpt?: string) => {
+  const handleExplain = (
+    concept: string,
+    opts?: { excerpt?: string; location?: FeynmanLocation },
+  ) => {
     setFeynmanOpen(true);
-    setRequest({ concept, excerpt });
+    setRequest({ concept, excerpt: opts?.excerpt, location: opts?.location });
     setRequestKey((k) => k + 1);
   };
 
@@ -110,7 +114,7 @@ function Shell({ index }: { index: CodeIndex }) {
           onToggleFeynman={() => setFeynmanOpen((v) => !v)}
         />
         <div className="flex flex-1 min-h-0">
-          <TitleSidebar index={index} />
+          <TitleSidebar index={index} onExplain={handleExplain} />
           <main className="flex flex-1 min-w-0">
             <Routes>
               <Route
@@ -119,7 +123,7 @@ function Shell({ index }: { index: CodeIndex }) {
               />
               <Route
                 path="/title/:titleSlug"
-                element={<TitleOverview index={index} />}
+                element={<TitleOverview index={index} onExplain={handleExplain} />}
               />
               <Route
                 path="/title/:titleSlug/:chapterSlug"
@@ -138,6 +142,7 @@ function Shell({ index }: { index: CodeIndex }) {
           )}
         </div>
         <SearchPalette open={searchOpen} onOpenChange={setSearchOpen} />
+        <GlobalExplainSelection onExplain={handleExplain} />
       </div>
     </TooltipProvider>
   );
